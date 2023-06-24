@@ -1,0 +1,7 @@
+ Traffic accidents are becoming a significant cause for unnatural deaths around the world with more than 1.25 million fatalities in road accidents each year and over 20 million people severely injured . A large portion of accidents that result in fatalities involve interaction between vehicles and pedestrians . In the literature researchers speculate on a wide range of reasons for these figures . This paper focuses on the relationship between pedestrians urgency to cross a busy road and the resulting level of risk for an accident . The probability for an accident is determined by a prediction model for a collision between drivers and pedestrians at congested conflict spots . The model is based on a motion planner called the
+
+@highlight This paper focuses on the relationship between pedestrians urgency and the resulting level of risk for an accident.
+@highlight The paper describes an unexpected and surprising behavior of pedestrian s crossings in simple scenarios.
+@highlight Analytical analysis and numerical simulations show that in some scenarios the more cautious the pedestrian is the more risk he is exposed to.
+@highlight The paper uses the PNF model for crossing pedestrians to analyze the paradoxical pedestrian s behavior.
+@highlight To examine the extent to which such a behavior takes place a set of simulated experiment was conducted.

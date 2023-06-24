@@ -1,0 +1,7 @@
+ Research on collusion in vertically differentiated markets is conducted under one or two potentially restrictive assumptions . Either there is a single industry wide cartel or costs are assumed to be independent of quality or quantity . We explore the extent to which these assumptions are indeed restrictive by relaxing both . For a wide range of coalition structures profit maximizing cartels of any size price most of their lower quality products out of the market as long as production costs do not increase too much with quality . If these costs rise sufficiently however then market share is maintained for all product variants . All cartel sizes may emerge in equilibrium when exclusively considering individual deviations but the industry wide cartel is the only one immune to deviations by coalitions of members . Overall our findings suggest that firms have a strong incentive to coordinate prices when the products involved are vertically differentiated .
+
+@highlight We analyse cartel formation in vertically differentiated markets.
+@highlight We consider all cartel sizes and assume costs to increase with quantity and quality.
+@highlight Cartels boost sales of their top quality product when costs do not rise too much with quality.
+@highlight If costs increase sufficiently with quality then all variants remain on sale under collusion.
+@highlight The industry wide cartel is the only coalition immune to deviations by subgroups of members.

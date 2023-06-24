@@ -1,0 +1,6 @@
+ MOOCs offer world widely accessible online content typically including videos readings quizzes along with social communication tools on a platform that enables participants to learn at their own pace . The number of learners who sign up and attend the courses are exponentially growing . Consequently MOOC platforms generate a large amount of data about their learners . Researchers use participants digital traces to make sense of their engagement in a course and identify their needs to predict future patterns and to make interventions based on these patterns . The research reported here was conducted to further understand learners social engagement on a MOOC platform and the impact of engagement on course completion . The patterns of learners social engagement were modelled by using learning analytics techniques . The findings of this research show that the integrated social features such as commonly known follow features and deeper peer interactions have potential value in tracking analysing and generating insightful information related to participants behaviours .
+
+@highlight Uniquely integrated
+@highlight feature is valuable to understand learners engagement.
+@highlight The patterns of learners social interactions can be modelled as behaviour chains.
+@highlight Number of learners having behaviour chains by deep peer interactions is quite low.

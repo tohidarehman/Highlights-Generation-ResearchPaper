@@ -1,0 +1,5 @@
+ Returning customer rates are a primary determinant of the success of a service thus both the motivations for and hindrances to return visits from customers are extensively investigated . Accordingly this study aims to estimate the probability of customers return visits to airline services using a machine learning approach on the received feedback comments and satisfaction ratings regarding the previous usage of the service . By considering the sentimental features in the comments with seven classifiers the results show an accuracy of 83.42 for predicting the customers return visits . Moreover a higher word count of feedback written by the customers can lead to a higher degree of prediction accuracy . Based on these results both the implications and limitations to customer preferences are presented .
+
+@highlight A machine learning approach is employed to predict customer return visits of airline services.
+@highlight More than 80 accuracy is presented with customer feedback comments.
+@highlight Sentimental features of the comments are employed in the machine learning model.

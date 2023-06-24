@@ -1,0 +1,6 @@
+ This paper investigates Julia sets for a class of complex uncertain discrete systems involving Mittag Leffler functions . Julia sets of some classical maps are generalized and the influence of parameter
+
+@highlight Fractional elements are introduced into integer order complex iteration maps.
+@highlight The influence of the parameter of the Mittag Leffler function on models Julia set and the sets fractal dimension is studied quantitatively.
+@highlight An adaptive control strategy for synchronization of Julia sets is proposed.
+@highlight The designed adaptive controller is simple and feasible.

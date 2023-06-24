@@ -1,0 +1,6 @@
+ This work aims to control foaming in a submerged membrane bioreactor by optimizing the organic loading rate and sludge retention time values to decrease the extracellular polymeric substance production used for the pharmaceutical wastewater treatment . Four lab scale SMBRs were operated for a period of more than 8 months to determine the biokinetic coefficients and optimize the SMBR systems operation under the SRT of 5 10 15 20 25 days and OLRs of 0.03 0.32 gCOD L.day . The investigation revealed that the lowest foaming quantity was at an organic loading rate of 0.32 gCOD L.day and a sludge retention time of 15 days related to few protein concentration of EPS . The results also showed that the foaming quality at the OLR of 0.03 gCOD L.day was higher compared to the greater OLRs in all SRTs . It was found that the yield the endogenous decay coefficient k
+
+@highlight Quantity and quantify of foaming were evaluated at different SRTs and OLRs.
+@highlight Protein content of EPS can lead to more foam formation than carbohydrate.
+@highlight Foaming phenomenon can be controlled by optimizing OLR values.
+@highlight More OLR is not providing higher values of maximum specific growth rate m .

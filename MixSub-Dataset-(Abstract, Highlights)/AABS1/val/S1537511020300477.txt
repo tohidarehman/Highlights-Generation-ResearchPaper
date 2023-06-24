@@ -1,0 +1,7 @@
+ A solar illumination design with fluorescent coatings to change in crop growth in vertical farms was investigated using simulations based on numerical analysis . The fluorescent reflectors were used as part of the lighting system to improve the irradiation for photosynthesis over the shelves . The reflectors were based on optical glass embedded with fluorescent pigments K
+
+@highlight Solar collector and optical fiber used for solar illumination of vertical farms.
+@highlight Spatial and spectral solar distribution is improved by using fluorescent reflectors.
+@highlight Monte Carlo method is used to solve broadband fluorescent radiative transfer.
+@highlight Optimum shelve number and corresponding production estimated at different latitudes.
+@highlight Using fluorescent reflectors increase crop growth up to 35 .

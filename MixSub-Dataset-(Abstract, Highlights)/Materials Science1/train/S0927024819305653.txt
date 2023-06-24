@@ -1,0 +1,6 @@
+ The influence of shunts on multijunction solar cells can not be directly extrapolated from their effect on single junction solar cells . We show that the rules of thumb for single junction solar cells can mislead to wrong diagnosis on multijunction solar cells when they are only partially shunted . In order to properly assess their performance three dimensional simulations have been carried out using equivalent electrical circuits . The differences between completely and partially shunted multijunction solar cells under different regimes are pointed out and the use of dark IV curves and electroluminescence as valid tools to detect the existence of shunts are evaluated . A straightforward application of this work is its use in reliability analysis allowing an undoubtedly identification of shunts at both the solar cell manufacture and on field operation .
+
+@highlight Distinction between partially and completely shunted multi junction solar cells.
+@highlight Multijunction s IV characteristics assessment mislead by single junction models.
+@highlight Shunts in the limiting current subcell can lead to a higher short circuit current.
+@highlight Maximum FF loss in a multijunction caused by a shunted subcell has been calculated.

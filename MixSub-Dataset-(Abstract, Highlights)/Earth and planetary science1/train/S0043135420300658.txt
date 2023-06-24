@@ -1,0 +1,6 @@
+ Environmental management depends on high quality monitoring and its meaningful interpretation . The combination of local weather dynamics regional anthropogenic stresses and global environmental changes make the evaluation of monitoring information in dynamic freshwater systems a challenging task . While the lake ecosystems gather many complex biogeochemical interactions they remain constrained by the same physical environment of mixing and transport . It is therefore crucial to obtain high quality physical system insight . Three dimensional hydrodynamic models are perfectly suited for providing such information . However these models are complex to implement and their use is often limited to modellers . Here we aim to provide model output via a user friendly platform to a broad audience ranging from scientists to public and governmental stakeholders .
+
+@highlight We present the online data platform Meteolakes integrating model and observations.
+@highlight Open access to real time information and 4.5 days forecasts based on data assimilation.
+@highlight Meteolakes provides information to respond to or investigate short lived processes.
+@highlight Over three years system output has been used by 250000 users.

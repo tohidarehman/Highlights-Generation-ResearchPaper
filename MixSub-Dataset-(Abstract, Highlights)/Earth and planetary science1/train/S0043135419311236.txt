@@ -1,0 +1,8 @@
+ Levels of fecal indicator bacteria provide a surrogate measure of the microbial quality of water used for a wide range of applications . Despite the common use of these measures a significant limitation is a delay in results due to the time required for cultivation and enumeration of FIB . Testing requires at least 1824h and therefore FIB can not be used to identify current or real time microbial water quality . An approach of nowcasting or empirical modelling approaches that incorporate water quality environmental and weather variables to predict FIB levels in real time has been developed with some success . However FIB levels are dependent on a complex interaction of numerous variables which can be challenging to model with ordinary linear regression or classification methods most commonly applied . In this study novel use of Bayesian Belief Networks that allow for a probabilistic representation of complex variable interactions is investigated for real time modelling of FIB levels surface waters . In particular the integration of both water quality measures and current historical weather for prediction of fecal coliforms and
+
+@highlight Bayesian belief networks BBNs were used for real time fecal indicator prediction.
+@highlight BBNs achieved 90 prediction accuracy for
+@highlight and 75 for coliform levels.
+@highlight BBNs allow for FIB predictions from incomplete weather or water quality data.
+@highlight Water quality measures such as conductivity were found to be crucial for prediction.
+@highlight BBNs show promise to assist in assessing risk of water use set treatment targets.

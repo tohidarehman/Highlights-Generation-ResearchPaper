@@ -1,0 +1,6 @@
+ Bacterial cells have a limited number of resources that can be allocated for gene expression . The intracellular competition for these resources has an impact on the cell physiology . Bacteria have evolved mechanisms to optimize resource allocation in a variety of scenarios showing a trade off between the resources used to maximise growth and the rest of cellular functions . Limitations in gene expression also play a role in generating phenotypic diversity which is advantageous in fluctuating environments at the expenses of decreasing growth rates . Our current understanding of these trade offs can be exploited for biotechnological applications benefiting from the selective manipulation of the allocation of resources .
+
+@highlight Limitations in molecular resources for gene expression influence bacterial physiology.
+@highlight Bacteria optimise trade offs between resource allocation and growth.
+@highlight Resource allocation plays a role in the emergence of phenotypic heterogeneity.
+@highlight Trade offs between bet hedging and growth can be harnessed in biotechnology.

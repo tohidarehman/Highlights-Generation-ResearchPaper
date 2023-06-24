@@ -1,0 +1,6 @@
+ Branded drug manufacturers issue copay coupons to compete with generics as their brands are coming off patent . To explore the impact of copay coupons on pricing and welfare I estimate a model of demand and supply using data on sales advertising and copayment for cholesterol lowering drugs and perform a counterfactual analysis to simulate equilibrium pricing with copay coupons used for price discrimination and moral hazard . Copay coupons issued for price discrimination make the drug with coupons affordable for more consumers and increase consumer welfare even when a small fraction of consumers receive a coupon . Coupons used for moral hazard significantly mitigate price competition and improve consumer welfare only when coupon penetration is sufficiently high .
+
+@highlight Estimates a model of demand and supply for cholesterol lowering drugs.
+@highlight Performs a counterfactual analysis to simulate pricing with copay coupons used for price discrimination and moral hazard.
+@highlight Copay coupons issued for price discrimination increase consumer welfare even when a small fraction of consumers receive a coupon.
+@highlight Copay coupons used for moral hazard significantly mitigate price competition and improve consumer welfare only when coupon penetration is sufficiently high.

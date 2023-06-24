@@ -1,0 +1,6 @@
+ Monofacial PERC and bifacial PERC solar cells have become the mainstream solar cell technology exhibiting conversion efficiencies around 22.5 in mass production . We determine a specific saturation current density
+
+@highlight Carrier recombination at Ag front contact identified as major efficiency loss in mainstream industrial PERC solar cells.
+@highlight PERC POLO with poly Si finger below Ag contact minimize contact recombination and exhibit an efficiency potential up to 24.1 in simulations.
+@highlight A very lean PERC POLO manufacturing process is proposed applying PECVD deposition of a Si fingers through a shadow mask.
+@highlight Shadow masks enable deposition of 70m narrow and 250nm high a Si fingers which are crystalized to poly Si contacts.

@@ -1,0 +1,7 @@
+ It is of great significance to develop versatile and cost effective point of care testing systems for simultaneous quantitation of multiple analytes on site . This work reports on 1 the customized electrodes which exhibit good analytical performance for simultaneous detection of Cd
+
+@highlight A quantitative POCT system is developed for simultaneous detection of multiple metal ions.
+@highlight The system consists of a hand held electrochemical analyzer a smartphone and a customized SPCE.
+@highlight The customized SPCE was prepared by successive modification of SPCE with rGO the SMOF and PEI.
+@highlight Smartphones installed with APP DHMI can realize two way communication with electrochemical analyzer.
+@highlight Quantitation results of this POCT system correlate well with ICP MS measurements.

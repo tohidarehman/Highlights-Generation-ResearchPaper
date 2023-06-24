@@ -1,0 +1,7 @@
+ Interreplicate variabilitythe spread in output values among units of the same sensor subjected to essentially the same conditioncan be a major source of uncertainty in sensor data . To investigate the interreplicate variability among eight electromagnetic soil moisture sensors through a field study eight units of TDR315 CS616 CS655 HydraProbe2 EC5 5TE and Teros12 were installed at a depth of 0.30 m within 3 m of each other whereas three units of AquaSpy Vector Probe were installed within 3 m of each other . The magnitude of interreplicate variability in volumetric water content
+
+@highlight Interreplicate standard deviation in
+@highlight was commonly around 0.02m
+@highlight Percolating water increased interreplicate variability sharply.
+@highlight Interreplicate variability was similar for
+@highlight and for cumulative change in

@@ -1,0 +1,6 @@
+ In this paper we present a deep learning approach for cross domain retrieval of 3D shape and 2D sketch image . Cross domain retrieval has received significant attention to flexibly find information across different modalities of data . Effective measuring the similarity between different modalities of data is the key of cross domain retrieval . Different modalities such as shape and sketch have imbalanced and complementary relationships which contain unequal amount of information when describing the same semantics . Existing methods based on deep learning networks mostly construct one common space for different modalities and these nets usually loss exclusive modality specific characteristics .
+
+@highlight In this paper we present a deep learning approach for cross domain retrieving 3D shape and 2D sketch image.
+@highlight We propose a new Cycle CNNs which can construct the cross domain mapping between the feature space of 2D sketches and the one of 3D shapes.
+@highlight The core of our method is that the mapping relationship can be directly generated through the proposed Cycle CNNs without explicit common feature space construction.
+@highlight Our proposed Cycle CNNs works well on both sketch based shape retrieval and shape based sketch retrieval.

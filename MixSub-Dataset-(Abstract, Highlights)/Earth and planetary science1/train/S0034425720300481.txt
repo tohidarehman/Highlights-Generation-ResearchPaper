@@ -1,0 +1,5 @@
+ In this century one of the main objectives of agriculture is sustainability addressed to achieve food security based on the improvement of use efficiency of farm resources the increasing of crop yield and quality under climate change conditions . The optimization of farm resources as well as the control of soil degradation processes can be realized through crop monitoring in the field aiming to manage the local spatial variability with a high resolution . In the case of high profitability crops as the case of vineyards for high quality wines the capability to manage and follow spatial behavior of plants during the season represents an opportunity to improve farmer incomes and preserve the environmental health . However any field monitoring represents an additional cost for the farmer which slows down the objective of a diffuse sustainable agriculture .
+
+@highlight CNN is constructed for pan sharpening of Sentinel 2A images by UAV images.
+@highlight Reconstructed data are validated on MS UAV images and in situ spectral measures.
+@highlight Reconstructed VIs from Sentinel 2A data agreed with dendroecological plant traits.

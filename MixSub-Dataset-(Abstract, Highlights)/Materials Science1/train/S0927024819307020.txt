@@ -1,0 +1,7 @@
+ Sub bandgap luminescence is characteristic of radiative transitions from defects in semiconductors . However methods to extract defect identifying parameters from this luminescence are lacking . Here we present a method to extract these parameters from temperature and intensity dependent micro photoluminescence spectra . The initial coarse analysis determines the relevant radiative recombination mechanism by fitting the integrated defect PL spectra with phenomenological models for the temperature and intensity dependence . The subsequent detailed analysis fits the integrated defect PL spectra using rigorous physical models for the defect radiative recombination and spectral line shape . Finally defect parameters are extracted including the defect energy level . As we obtain these values directly from the defect luminescence our method provides higher confidence than more traditional indirect methods such as those involving band to band PL and photoconductance . We demonstrate our method on spatially non uniform defects with radiative transitions in
+
+@highlight Some defects in silicon produce luminescence at energies below the bandgap energy.
+@highlight An analysis method has been developed to determine the energy level of defects.
+@highlight The method is based on microscopic photoluminescence spectroscopy measurements.
+@highlight The measurements are done at different temperatures and intensity.
+@highlight The usefulness of the method is demonstrated on monocrystalline silicon wafers.

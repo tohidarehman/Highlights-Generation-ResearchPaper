@@ -1,0 +1,6 @@
+ Promoter recognition is an important part of functional genomic annotation but a difficult problem . Many studies have been carried out to address this issue . However they still can not meet application needs . Most of the methods exhibit specificity and the objects analyzed are relatively simple especially for prokaryotes . Hence more research on prokaryotic promoters is lacking .
+
+@highlight Information theoretic sequence features are applied to promoter analysis.
+@highlight Information complexity and correlation analysis of sequence were used to explore the prokaryotic promoter characteristics.
+@highlight The AUC for promoter prediction yields 0.80 suggesting the features we analyzed are effective for promoter analysis.
+@highlight Species cross experiments demonstrate the model has good generalization ability.

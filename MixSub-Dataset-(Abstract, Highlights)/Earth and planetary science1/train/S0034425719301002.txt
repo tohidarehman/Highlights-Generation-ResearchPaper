@@ -1,0 +1,7 @@
+ We developed a new algorithm for COntinuous monitoring of Land Disturbance using Landsat time series . COLD can detect many kinds of land disturbance continuously as new images are collected and provide historical land disturbance maps retrospectively . To better detect land disturbance we tested different kinds of input data and explored many time series analysis techniques . We have several major observations as follows .
+
+@highlight We developed a new algorithm for continuous monitoring of land disturbance.
+@highlight All land disturbance types are detected in the disturbance map.
+@highlight Both omission and commission errors are 30 .
+@highlight No training data is needed for detecting land disturbance.
+@highlight Disturbance maps with high spatial and high temporal resolutions are derived.

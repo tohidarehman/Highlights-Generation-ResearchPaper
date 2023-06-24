@@ -1,0 +1,6 @@
+ Coupled fluid flow and geomechanical analysis of caprock integrity has gained a lot of attention among scientists and researchers investigating the long term performance of geologic carbon storage systems . Reactivation of pre existing fractures within the caprock or re opening of faults can create permeable pathways which can influence the seal integrity . Stability of the caprock during and after injection of super critical CO
+
+@highlight In our simulation high permeability 30 mD faults independent of wellbore orientation are more critical than pressure activated caprock joints as the primary leakage mechanism.
+@highlight In our simulation for low permeability faults and pressure activated caprock joints horizontal wells significantly reduce peak over pressures compared to vertical wells.
+@highlight For high permeability faults horizontal and vertical wellbore perform equally well in terms of leakage.
+@highlight Surface uplift was found to be independent of wellbore orientation.

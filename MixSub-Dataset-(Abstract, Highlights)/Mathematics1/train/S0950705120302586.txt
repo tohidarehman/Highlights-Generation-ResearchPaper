@@ -1,0 +1,6 @@
+ Image captioning i.e . generating the natural semantic descriptions of given image is an essential task for machines to understand the content of the image . Remote sensing image captioning is a part of the field . Most of the current remote sensing image captioning models suffered the overfitting problem and failed to utilize the semantic information in images . To this end we propose a
+
+@highlight Introducing VAE to regularize the shared encoder and extract image features more effectively by reconstructing input images.
+@highlight Improving the performance of image caption significantly by virtue of low level and high level image features simultaneously.
+@highlight Enhancing the final text description quality by adding self attention to spatial features.
+@highlight Our proposed model outperforms the state of the art models in the remote sensing image captioning.

@@ -1,0 +1,8 @@
+ Remote surface measurements by imaging spectrometers play an important role in planetary and Earth science . To make these measurements investigators calibrate instrument data to absolute units invert physical models to estimate atmospheric effects and then determine surface properties from the spectral reflectance . This study quantifies the uncertainty in this process . Global missions demand predictive uncertainty models that can estimate future errors for varied environments and observing conditions . Here we validate uncertainty predictions with remote surface composition retrievals and
+
+@highlight New remote imaging spectroscopy missions will measure global surface composition
+@highlight Such missions require comprehensive uncertainty models to predict inversion errors
+@highlight We track uncertainty for calibration atmospheric inversion and mineral retrieval
+@highlight We evaluate model performance in a field experiment demonstrating mineral detection
+@highlight Predicted uncertainties agree stataistically with remote 
+@highlight discrepancies

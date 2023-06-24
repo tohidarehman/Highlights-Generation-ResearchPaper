@@ -1,0 +1,5 @@
+ In this work we propose a novel ray tracing model for immersive visualization of Riemannian manifolds . To do this we introduce Riemannian ray tracing a generalization of the classic Computer Graphics concept . Specifically our model is capable of interactive real time VR visualizations of
+
+@highlight Introduction of Riemannian shading generalizing classic Computer Graphics concepts.
+@highlight Proposal of a ray tracing model for immersive visualization of Riemannian manifolds.
+@highlight Realtime VR visualization of Nil Sol and SL2 the most non trivial Thurston geometries.

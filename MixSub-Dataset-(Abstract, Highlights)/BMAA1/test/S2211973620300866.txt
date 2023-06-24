@@ -1,0 +1,7 @@
+ This study attempts to find the underlying dimensionality in online reviews of fine dining ethnic food restaurant experiences in Hong Kong . This research adopted semantic network analysis with ClausetNewmanMoore clustering . Consequently diverse and specific dimensionality was explored in this research including ambiance service food drinks desserts view location occasions reputation and price . The content of the reviews on five types of ethnic restaurants was different in some dimensions . Marketers of fine dining ethnic restaurants can select a particular focus when they promote their restaurants develop menu plan and train staff members . This study implies that the quality dimensions of traditional restaurants may not accurately represent the factual dimensions thereby resulting in implications for developing a new index of restaurant quality .
+
+@highlight This study explores the latent dimensionality in online reviews of fine dining ethnic food restaurant experiences.
+@highlight It adopts semantic network analysis with ClausetNewmanMoore clustering.
+@highlight It finds more diverse and specific dimensions beyond traditional dimensions.
+@highlight The identified dimensions include ambiance service food drinks desserts view location occasions reputation and price.
+@highlight The results imply a need of developing a new index of restaurant quality.

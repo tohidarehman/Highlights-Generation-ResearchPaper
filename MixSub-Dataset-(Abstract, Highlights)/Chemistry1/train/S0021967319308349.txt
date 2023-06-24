@@ -1,0 +1,5 @@
+ The application of supercritical fluid chromatography with mass spectrometric detection was compared towards generic reversed phase liquid chromatography and hydrophilic interaction liquid chromatography for the analysis of urine with regards of ionization performance and analyte identification . The different chromatographic conditions were characterized with a selected set of 51 metabolites from different classes reported in the Human Metabolome DataBase and previously detected in human urine and or plasma . SFC using a diol column with a gradient of carbon dioxide CO
+
+@highlight SFC shows complementarity to RPLC and HILIC for metabolomics.
+@highlight In SFCMS the ESI response of metabolites can be tuned addition of make up.
+@highlight SFCMS analysis of urine metabolites using data independent acquisition SWATH MS .

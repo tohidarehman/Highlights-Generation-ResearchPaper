@@ -1,0 +1,7 @@
+ This paper aims to investigate if Fischer Tropsch Synthesis is feasible in a bottom split reactive dividing wall column from a theoretical viewpoint . In built thermodynamic procedures of Aspen Plus along with a detail kinetic model proposed by Iglesia et al . that predicts the consumption rate of CO and production rate of methane and the Anderson Schulz Flory model that relates products distribution to chain growth probability are used in carrying out the simulations . The chain growth probability depends on partial pressures of H
+
+@highlight The First attempt to evaluate applicability of bottom split reactive dividing wall column for Fischer Tropsch synthesis.
+@highlight The dependency of chain growth probability on temperature and H
+@highlight to CO ratio of syngas is considered.
+@highlight Proposed column has higher products yield and purer products compared to conventional reactor followed by distillation.
+@highlight The performance parameters are reasonable in the studied bottom split reactive dividing wall column.

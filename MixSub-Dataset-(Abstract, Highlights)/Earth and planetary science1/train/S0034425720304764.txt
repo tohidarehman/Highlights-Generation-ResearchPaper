@@ -1,0 +1,6 @@
+ Information about forest stand species distribution is essential for biodiversity modelling forest disturbances fire hazard and drought monitoring biomass and carbon estimation detection of non native and invasive species as well as for planning forest management strategies . High temporal and spectral resolution remote sensing data from the Sentinel 2 mission enables the derivation of accurate and timely maps of tree species in forests in a cost efficient way . However there is still a lack of studies regarding forest stand species mapping for large areas like the Polish Carpathian Mountains approx . 20 000km
+
+@highlight Forest stand species mapping in a large mountainous area using Sentinel 2.
+@highlight FORCE software was used to produce seamless BAP and STM composites.
+@highlight SVM provided highest classification accuracy outperforming RF and XGB models.
+@highlight Ensemble approach provided valuable information on classification precision.

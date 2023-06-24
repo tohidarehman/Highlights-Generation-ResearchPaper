@@ -1,0 +1,5 @@
+ The CRISPR Cas9 system is an efficient genome editing system that has been successfully applied in the field of gene therapy . However clinical applications of the CRISPR Cas9 system are limited by the delivery method and safety concerns . Extracellular Vesicles can be released from almost every type of cell and they act as shuttles to convey molecules between cells . Here we used EVs derived from epithelial cells as a biosafety delivery platform for the CRISPR Cas9 system and modified the EVs with a chimeric antigen receptor to give them selective tropism to tumors . Compared to normal EVs CAR EVs accumulated in cancer tumors rapidly and released the CRISPR Cas9 system targeting the MYC oncogene efficiently both
+
+@highlight CAR enhances EVs binding affinity and enrichment in tumors.
+@highlight CRISPR Cas9 loaded CAR EVs induce mutations and toxicities in malignant B cells.
+@highlight CAR EVs can be a biosafety delivery platform for CRISPR Cas9 system in cancer treatment.

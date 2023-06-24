@@ -1,0 +1,7 @@
+ A major challenge in rangeland ecology is understanding diverse responses of diversity to grazing what factors determine these responses and what their relative importance is . Numerous site level studies have explored grazing diversity relations but meta analyses of these empirical results at a global scale are scarce . Our goals were to estimate the mean effect of grazing on plant richness and to assess the relative importance of different variables at a global scale . We conducted a global meta analysis of 259 comparisons of plant richness in grazed vs. ungrazed sites from 96 published studies . Then we performed analyses of subgroup meta regression and correlation for testing the relative roles of regional and local variables .
+
+@highlight A global meta analysis was conducted for grazing effects on richness.
+@highlight Globally grazing significantly increased plant richness compared to grazing exclusion.
+@highlight The evolutionary history of grazing explained little variation of effect sizes.
+@highlight Globally stocking rate alone cannot explain the variation of richness.
+@highlight Stocking rate and duration of no grazing interact with aridity and vegetation type.

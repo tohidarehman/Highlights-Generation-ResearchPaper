@@ -1,0 +1,7 @@
+ By combining a dual channel phase shifting interferometry system and two step filter free phase shifting phase retrieval algorithm we achieve the quantitative phase imaging of a regular droplet evaporation on the hydrophilic glass substrate with low contact moreover the relevant physical parameters including the topographic information contact radius contact angle height and volume are accurately calculated under two kinds different evaporation modes and constant contact angle . Furthermore it is found that the proposed TFPS based DCPSI method is also suitable for the quantitative phase imaging of irregular droplet evaporation . Importantly for random phase shifts and without filtering in advance this TFPS based DCPSI method reveals high accuracy in phase extraction of dynamic process and this will supply a powerful tool for the kinetic analysis during a droplet evaporation or fluid flow with micro scale variation .
+
+@highlight A two step filter free phase shifting interferometry is proposed.
+@highlight The method can achieve the high precision phase extraction without filtering.
+@highlight Three dimensional shape variation of a sessile water droplet were visualized.
+@highlight The physical parameters are calculated accurately under two evaporation modes.
+@highlight This system supply a powerful tool for the fluid flow with micro scale variation.

@@ -1,0 +1,6 @@
+ In artificial neural networks the diffusion phenomenon of electrons exists inevitably due to the electromagnetic field of neural networks is heterogeneous . In this paper we study the spatio temporal dynamical behaviors of a reaction diffusion neural network with leakage delay . By analyzing the corresponding characteristic equation the sufficient and necessary conditions of Turing instability are obtained and the existence of Turing Hopf and Turing Hopf bifurcations is also established . Furthermore the truncated normal form up to third order is derived to understand and classify the spatio temporal dynamics close to the Turing Hopf bifurcation point . By numerical simulations we find a pair of spatially inhomogeneous periodic solutions and illustrate the effects of time delays and spatial diffusion on the spatio temporal dynamics of the model .
+
+@highlight The spatio temporal dynamics of a reaction diffusion neural network with leakage delay is studied 
+@highlight The sufficient and necessary conditions of Turing instability are obtained 
+@highlight The truncated normal form is derived to understand and classify the spatio temporal dynamics close to the Turing Hopf bifurcation point 
+@highlight A pair of spatial inhomogeneous periodic solutions of the system are found.

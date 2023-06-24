@@ -1,0 +1,7 @@
+ Connected vehicles is an important intelligent transportation system to improve the traffic performance . This paper proposes two parallel computation algorithms to solve a large scale optimal control problem in the coordination of multiple connected vehicles . The coordination is formulated as a centralized optimization problem in the receding horizon fashion . A decentralized computation network is designed to facilitate the development of parallel algorithms . We use Taylor series to linearize non convex constraints and introduce a set of consensus constraints to transform the centralized problem to a standard consensus optimization problem . A synchronous parallel algorithm is firstly proposed to solve the consensus optimization problem by applying the
+
+@highlight A parallel computation algorithm for large scale optimal control of CAVs is proposed.
+@highlight The coupling constraints is decomposed with consensus optimization and ADMM.
+@highlight The algorithms time complexity is independent to vehicle numbers.
+@highlight An asynchronous version ADMM is proposed based on our parallel algorithm.
+@highlight The convergence of the asynchronous ADMM is proved in theory.

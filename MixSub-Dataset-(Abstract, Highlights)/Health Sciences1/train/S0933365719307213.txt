@@ -1,0 +1,7 @@
+ Infection of bone osteomyelitis is a serious bacterial infection in children requiring urgent antibiotic therapy . While biological specimens are often obtained and cultured to guide antibiotic selection culture results may take several days are often falsely negative and may be falsely positive because of contamination by non causative bacteria . This poses a dilemma for clinicians when choosing the most suitable antibiotic . Selecting an antibiotic which is too narrow in spectrum risks treatment failure selecting an antibiotic which is too broad risks toxicity and promotes antibiotic resistance .
+
+@highlight Establish a generalisable methodological framework to help improve our understanding of the epidemiology of bone infections in children.
+@highlight Model the relationship between unobserved infecting pathogens observed culture results and clinical and demographic variables.
+@highlight Expert knowledge plays a critical role in building the model of paediatric osteomyelitis building on what the data provides.
+@highlight Illustrate the use of utility function in translating probabilistic model outputs to implementable recommendations for antibiotic selection.
+@highlight This approach can be applied broadly to antibiotic decision making under imperfect information a critical challenge in clinical medicine.

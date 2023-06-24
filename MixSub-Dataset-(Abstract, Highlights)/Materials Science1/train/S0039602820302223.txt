@@ -1,0 +1,6 @@
+ We describe model predictions of the temperature dependence for the formation of fuzz a nanofiber like surface feature on helium plasma irradiated tungsten surfaces under conditions similar to those at the divertor of fusion reactors . Temperature influences the onset of fuzz formation through the strongly temperature dependent pressure of subsurface helium bubbles formed by plasma implantation and surface diffusivity of tungsten in addition to the thermal softening of the elastic moduli of tungsten . We explore the effects of helium concentration in the plasma implanted tungsten and helium bubble size report surface response diagrams predicted over a broad temperature range and interpret the trends exhibited in such diagrams .
+
+@highlight Fuzz formation in tungsten the material of choice for plasma facing components in tokamak fusion reactors following low energy helium plasma exposure.
+@highlight Atomistically informed mechanistic model provides first predictions of the temperature dependence for fuzz formation.
+@highlight Fuzz can grow at temperatures lower than those reported in the literature at sufficiently long plasma exposure periods.
+@highlight Exposure duration is critical as opposed to the implanted helium fluence.

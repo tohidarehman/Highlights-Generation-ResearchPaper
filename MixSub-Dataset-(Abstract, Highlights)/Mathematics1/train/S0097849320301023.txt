@@ -1,0 +1,7 @@
+ Textures improve the appearance of virtual scenes by mapping visual details on the surface of 3D objects . Various scenarios such as real time animation interactive texture modelling or offline post production require textures to be deformed in a controllable and plausible manner . We propose a novel approach to model and control texture deformations which is easy to implement in a standard graphics pipeline . The deformation is implemented at pixel resolution as a warping in the parametric domain . The warping is controlled locally and dynamically by real time integration along the streamlines of a pre computed flow field . We propose a technique to pre compute the flow field from a simple scalar map representing heterogeneous dynamic behaviors . Moreover to manage sampling issues arising in over stretched areas during deformation we provide a mechanism based on re sampling and texture synthesis . Warping may alternatively be controlled by deformation of the underlying surface environment parameters or interactive editing which demonstrates the versatility of our approach .
+
+@highlight Dynamic textures improve the appearance of 3D virtual objects across time.
+@highlight Textures are deformed in real time on GPU without heavy simulation.
+@highlight The deformation is controlled by the geometry or by external factors.
+@highlight The deformation is finely defined at texel scale.
+@highlight Complex thin structures are correctly stretched and sampled.

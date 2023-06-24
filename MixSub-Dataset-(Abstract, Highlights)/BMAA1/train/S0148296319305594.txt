@@ -1,0 +1,6 @@
+ We investigate the relationship between Enterprise Risk Management adoption and solvency for publicly listed insurers in the European Union . Our results which control for endogeneity problem show that ERM adoption insurers experience a decrease in their solvency level which may trigger their financial vulnerability in the case of unexpected shocks . Firm specific characteristics such as leverage ROA combined ratio and business type are also found to significantly increase the EU insurers solvency whereas the impact of firm size and age is insignificant . Moreover insurers that have adopted the ERM share the common characteristics of higher performance higher leverage bigger size and more diversified businesses . Finally the demand of the market is an important factor of ERM adoption and insurance solvency .
+
+@highlight We investigate the relationship between ERM adoption and solvency.
+@highlight A sample of publicly listed insurers in the European Union is considered.
+@highlight Our results show that ERM adoption is negatively related to insurance firm solvency.
+@highlight Insurance solvency is also related to firm specific factors and market demand.

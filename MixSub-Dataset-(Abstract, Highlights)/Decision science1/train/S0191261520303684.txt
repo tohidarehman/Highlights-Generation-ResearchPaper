@@ -1,0 +1,7 @@
+ A stable dynamic pricing scheme is essential to guarantee the desired performance of high occupancy toll lanes where single occupancy vehicles can pay a price to use the HOT lanes . But existing methods apply to either only one type of lane choice models with unknown parameters or different types of lane choice models but with known parameters . In this study we present a new dynamic pricing scheme that is stable and applies to different types of lane choice models with unknown parameters .
+
+@highlight Consider three lane choice models logit user equilibrium and generalized.
+@highlight Propose a dynamic pricing scheme based on two feedback integral controllers.
+@highlight The dynamic pricing scheme is independent of lane choice models.
+@highlight Estimate the parameters of a lane choice model once its type is known.
+@highlight Analytically and numerically prove the equilibrium state is optimal and stable.

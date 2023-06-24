@@ -1,0 +1,7 @@
+ Unplanned groundwater exploitation in coastal aquifers results in water decline and consequently triggers saltwater intrusion . This study formulates a novel modeling strategy based on GALDIT method using Artificial Intelligence models for mapping the vulnerability to SWI . This AI based modeling strategy is a two level learning process where vulnerability to SWI at Level 1 can be predicted by such models as Artificial Neural Network Sugeno Fuzzy Logic and Neuro Fuzzy and their outputs serve as the input to the model at Level 2 such as Support Vector Machine . This model is applied to Urmia aquifer west coast of Lake Urmia where both are currently declining . The construction of the above four models both at Levels 1 and 2 provide tools for mapping the SWI vulnerability of the study area . Model performances in the paper are studied using RMSE and
+
+@highlight GALDIT maps vulnerability to saltwater intrusion in coastal aquifers.
+@highlight The paper formulates Artificial Intelligence Multiple Model AIMM based on GALDIT.
+@highlight AIMM is a two level learning process and reduces inherent subjectivity in GALDIT.
+@highlight At Levels 1 and 2 vulnerability are mapped by ANN SFL NF and SFL respectively.
+@highlight Results gains an insight into manage hotspots in the study area with sparse data.

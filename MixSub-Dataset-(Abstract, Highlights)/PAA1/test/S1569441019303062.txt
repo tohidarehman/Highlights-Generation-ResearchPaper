@@ -1,0 +1,6 @@
+ A novel method of magnetic field assisted nondestructive optical probing of photonic lattice structures in photorefractive crystals is demonstrated experimentally . High contrast annular symmetry micrometric scale refractive lattice structures were recorded by nondiffracting Bessel beam technique with the use of 532nm 17mW power laser beam in Fe doped lithium niobate crystal . The stability of recorded lattices against erasure during readout by probe Gaussian beam at the recording wavelength has been studied . Time evolutions of the diffraction efficiency of the lattices for readout beam power of 17mW in zero magnetic field and in external magnetic field of 0.85T were measured . The measurements showed up to 3.4 times increase of erasure constant for magnetic field assisted readout of stored lattices . The physical model based on the approach of small polarons in external magnetic field to explain the experimental results is discussed .
+
+@highlight Magnetic field assisted hologram testing in LiNbO
+@highlight crystal decreases the erasure.
+@highlight The model of small polarons in magnetic field explains the erasure time increase.
+@highlight Experimental results and polaron model allowed to estimate electrons Hall mobility.

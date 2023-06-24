@@ -1,0 +1,7 @@
+ With the advent of highly selective analysis techniques and lower limits of detection requirements extraction efficiency is arguably the most important property of modern sample preparation techniques . In this study the extraction efficiency of Ice Concentration Linked with Extractive Stirrer was compared to Stir Bar Sorptive Extraction and Solid Phase Microextraction . A direct comparison of these sample preparation techniques was carried out with analysis via both Liquid Chromatography Tandem Mass Spectrometry and Thermal Desorption Gas Chromatography Mass Spectrometry . ICECLES produced 2x and 7x greater TD GCMS signals than SBSE and SPME respectively . When comparing extraction techniques for a suite of 60 pesticides in drinking water 32 25 and 13 pesticides were detected via LCMS MS at 0.1ng mL by ICECLES SBSE and SPME respectively . Overall ICECLES consistently produced better extraction efficiencies than the other extraction techniques evaluated .
+
+@highlight ICECLES was directly compared to SBSE and SPME for the analysis of atrazine via HPLCMS MS.
+@highlight ICECLES was directly compared to SBSE and SPME for the analysis of several analytes via TD GCMS.
+@highlight ICECLES allowed HPLCMS MS detection of 32 pesticides at 0.1ng mL.
+@highlight ICECLES demonstrated excellent extraction efficiencies for multiple compounds over a wide range of log Kow values from water.
+@highlight ICECLES allows for detection via TD GCMS and HPLCMS MS.

@@ -1,0 +1,7 @@
+ In this article we propose a scheme using the conformal coating of p NiOx nanoparticles on the n GaN photoanode to prevent the photoelectrodes from corrosion and thereby enhance conversion efficiency . Furthermore the various weight ratios of NiOx are explored to optimize the study . NiOx nanoparticles avoid corrosion on the n GaN surface decrease the solar water splitting reaction overpotential and enhance the photocurrent density at a working electrode applied bias of 1V in the two electrode system . Finally in the stability test the hydrogen evolution rate of NiOx is more effective than that of pristine n GaN even after 5h . These results indicate that NiOx nanoparticle decorated n GaN gains higher photostability and hydrogen production performance in PEC cells .
+
+@highlight Establishing a reliable route for the sustainable production of hydrogen fuel.
+@highlight A facile approach towards the synthesis of active NiO
+@highlight electrocatalyst.
+@highlight Evaluating the catalyst doping ratios towards improving the long term photostability of n GaN.
+@highlight Effectively suppressing the energy loss associated with fast recombination and electrode degradation.

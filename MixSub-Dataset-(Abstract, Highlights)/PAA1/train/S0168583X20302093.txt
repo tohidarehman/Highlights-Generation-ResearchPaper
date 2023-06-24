@@ -1,0 +1,7 @@
+ The formation region effects in x ray transition radiation have been experimentally investigated . The radiation was generated using 16GeV electrons impinging on two multilayer targets with considerably different periods . The absolute yield of transition radiation was measured and the wide spectral peak in the range from 10 to 30keV was observed . In the most part of the electron energy range the emission from the short period radiator was expectedly suppressed compared to the case of the long period one . But for the electron energy of 1GeV an opposite effect though rather small of the emission enhancement in the short period radiator was observed . The conditions under which this effect is much stronger are derived and its possible practical value is outlined . The theory accounting for an arbitrary transversal shape of the electron beam and the finite size of the detector is developed . This theory describes rather well the experimental results .
+
+@highlight X ray transition radiation TR from radiators of various periods is studied.
+@highlight Both TR suppression and small enhancement in the short period radiator was observed.
+@highlight Conditions under which the above TR enhancement is much larger are derived.
+@highlight Practical value of such an effect is outlined.
+@highlight Theory for an arbitrary beam shape and the detector size is developed.

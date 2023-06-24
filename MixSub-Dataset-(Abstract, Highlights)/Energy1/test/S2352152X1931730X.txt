@@ -1,0 +1,6 @@
+ The inherent intermittency of wind and solar generation presents a significant challenge as we seek to increase the penetration of renewable generation in the power grid . Increasingly energy storage is being deployed alongside renewable generation to counter this intermittency . However a formal characterization of the reliability of renewable generators bundled with storage is lacking in the literature . The present paper seeks to fill this gap . We use a Markov modulated fluid queue to model the loss of load probability
+
+@highlight This paper addresses the problem of sizing of energy storage for reliable grid integration of renewables.
+@highlight Demand and supply uncertainty are jointly modelled as functions of a background Markov process.
+@highlight Crisp sizing estimates are obtained using large deviations theory.
+@highlight We present a case study using real world wind power data to demonstrate the applicability of our results in practice.

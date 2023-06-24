@@ -1,0 +1,7 @@
+ This study examines the effect of training satisfaction and weather on the intention to revisit a sport event . It considers attribute non attendance i.e . respondents ignoring choice attributes in surveys . Online surveys were conducted at four sport events in the United States in 2017 and 2018 . Respondents answered a series of hypothetical scenarios for return visitation that randomly assigned different travel costs per mile travel distances weather forecasts and respondents training satisfaction . Logit models estimated with and without attribute non attendance reveal the extent to which respondents did not pay attention to specific trip attributes when answering the survey . These results indicate that attribute non attendance is an issue in each data set . Partial consideration of attribute non attendance yields statistically significant willingness to pay estimates for event attributes while full consideration yields larger willingness to pay estimates . This study s contribution lies in the examination of previously neglected factors and the consideration of attribute non attendance .
+
+@highlight Study examines the effect of training satisfaction and weather on revisit intention
+@highlight Monetary values of weather conditions and training satisfaction are estimated
+@highlight Survey data from participants at four sport events in the US are used
+@highlight Willingness to travel is converted into monetary values using travel costs
+@highlight Statistical analysis shows that attribute non attendance in surveys is an issue

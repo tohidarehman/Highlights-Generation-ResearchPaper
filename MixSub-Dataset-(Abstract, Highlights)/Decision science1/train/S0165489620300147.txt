@@ -1,0 +1,5 @@
+ We consider social learning where agents can only observe part of the population face many decision problems and arrival order of the agents is unknown . The central question we pose is whether there is a natural observability graph that prevents the information cascade phenomenon . We introduce the celebrities graph and prove that indeed it allows for proper information aggregation in large populations even when the order at which agents decide is random and even when different issues are decided in different orders .
+
+@highlight There exists a natural observability graph that prevents the information cascade phenomenon.
+@highlight Celebrities graph allows for proper information aggregation in large populations.
+@highlight Celebrities help society to avoid herding on the wrong opportunity.

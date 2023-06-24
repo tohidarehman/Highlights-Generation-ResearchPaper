@@ -1,0 +1,7 @@
+ This paper investigates the willingness of shippers to delegate control over the transportation mode in freight transportation using discrete choice analysis . Data originate from a large survey among global shippers . The results show that under certain conditions most shippers are willing to hand over mode selection authority to the service provider . Using latent class analysis we classify shippers into four market segments each with a different degree of willingness against different types of performance improvements . Firms can use this characterization of freight transportation demand to design service packages that will meet the demands of global supply chains .
+
+@highlight We studied ceding control of mode en route without previous consent of the shippers.
+@highlight We found that two third of shippers are willing to cede modal control to service providers.
+@highlight We found that shippers seek different performance enhancements for ceding modal control.
+@highlight Introducing new transport attributes could reveal emerging choice behaviors of shippers.
+@highlight Offering customized service packages could improve synchromodal transport demand.

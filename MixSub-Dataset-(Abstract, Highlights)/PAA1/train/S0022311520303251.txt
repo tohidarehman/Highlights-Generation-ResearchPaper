@@ -1,0 +1,5 @@
+ The Small Punch Test was developed as an alternative test to evaluate the mechanical properties of materials from a small material volume . Although the SPT is close to its standardization as a mechanical testing method there are many methodologies for the estimation of the different mechanical properties . All of them are based on the use of a correlation equation to link the SPT and the estimated mechanical property . The scattering of these correlation methods is generally great enough to make it necessary to delve deeper into the understanding of the physical behavior of the SPT .
+
+@highlight An optimized correlation method has been designed for the Small Punch Test SPT .
+@highlight Yield strength is obtained with this method reducing the experimental scattering.
+@highlight The optimized correlation method is an improvement of the t 10 offset method.

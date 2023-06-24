@@ -1,0 +1,7 @@
+ This study addresses the problem of reducing the energy consumption of the medium speed maglev system by optimizing the train speed profile . Auxiliary stopping areas the nonlinear resistance caused by the linear motor and the suspension energy consumption are considered in the formulation of the speed profile optimization problem . Next dynamic programming and mixed integer linear programming approaches that utilize these characteristics are proposed to solve the problem . The numerical results show that both approaches ensure MSM train safety and energy efficient operation . Furthermore the MILP approach could be used for emergency trajectory planning due to its shorter computational time .
+
+@highlight Train speed optimization was employed to reduce medium speed maglev energy usage.
+@highlight Dynamic programming and mixed integer linear programming methods were developed.
+@highlight Auxiliary stopping nonlinear resistance and suspension energy were considered.
+@highlight Both methods ensure medium speed maglev safety and energy efficient operation.
+@highlight Emergency trajectory planning is possible with mixed integer linear programming.

@@ -1,0 +1,7 @@
+ Self tolerance of T cells is maintained by a combination of thymic negative selection and suppression by T regulatory cells both processes are driven by recognition of self MHC ligands . Treg function ensures that most T cells remain quiescent as nave cells but enables some T cells to proliferate and differentiate into cells with a memory phenotype . In this review we discuss how Tregs shape this compartmentalization of T cells into subsets of nave and MP T cells .
+
+@highlight Thymic APC subsets display distinct roles in negative selection and Treg generation.
+@highlight Nave T cells undergo slow conversion into MP T cells in response to self Ags.
+@highlight Strong T cell proliferation following Treg depletion is mostly directed to self Ags.
+@highlight A fraction of Tregs undergoes rapid turnover.
+@highlight A diverse TCR repertoire is required for optimal Treg function.

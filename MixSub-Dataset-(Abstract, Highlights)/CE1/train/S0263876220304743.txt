@@ -1,0 +1,6 @@
+ Bio based industries aim to replace petroleum derived chemicals with commodity chemicals that are produced from renewable raw materials . Many failures are reported due to scale up issues and uncertain estimations of the capital and production cost of bio based products . Decision making strategies and risk assessment modeling are crucial to decrease risks of losing large investment projects . The objective of this work is to present a probabilistic mathematical model that was developed to quantify the financial risks of commercializing bio based technologies . Monte Carlo simulations are employed to estimate the cumulative distribution function of the net present value
+
+@highlight Financial risk assessment of bio based chemicals based on Monte Carlo simulations.
+@highlight Significant number of uncertainties are taken into consideration.
+@highlight Cumulative distribution function of the net present value of several platform chemicals.
+@highlight Comparative risk analysis across multiple bio based technology options.

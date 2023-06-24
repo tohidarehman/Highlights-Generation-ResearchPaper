@@ -1,0 +1,8 @@
+ Confirmatory factor analysis has historically been used to develop and improve reflectively measured constructs based on the domain sampling model . Compared to CFA confirmatory composite analysis is a recently proposed alternative approach applied to confirm measurement models when using partial least squares structural equation modeling . CCA is a series of steps executed with PLS SEM to confirm both reflective and formative measurement models of established measures that are being updated or adapted to a different context . CCA is also useful for developing new measures . Finally CCA offers several advantages over other approaches for confirming measurement models consisting of linear composites .
+
+@highlight Confirmatory composite analysis CCA can confirm measurement models using PLS SEM.
+@highlight CCA has benefits relative to confirmatory factor analysis CFA .
+@highlight CCA can confirm both reflective and formative measurement models.
+@highlight Guidelines for the proper application of CCA are provided.
+@highlight PLSpredict procedure for out of sample prediction with CCA is explained.
+@highlight CCA also does not require fit to confirm measurement models.

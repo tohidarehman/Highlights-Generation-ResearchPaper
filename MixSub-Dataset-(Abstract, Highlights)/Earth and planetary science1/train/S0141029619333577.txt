@@ -1,0 +1,6 @@
+ This study investigates the structural fatigue crack growth behavior of observed transverse surface cracks in rail steel and thermite weld subjected to in plane and out of plane loading . Stress Intensity Factor solutions were derived from finite element model analysis for transverse surface cracks located at five different crack initiation locations in the cross section of rail steel and thermite weld . The SIFs were presented by the conventional geometry factor
+
+@highlight Stress intensity factors were derived for transverse surface cracks in rail and welds.
+@highlight Fracture and fatigue properties of thermite weld material were determined.
+@highlight A fatigue crack growth prediction algorithm was developed.
+@highlight Out of plane bending was found to more critical than in plane bending.

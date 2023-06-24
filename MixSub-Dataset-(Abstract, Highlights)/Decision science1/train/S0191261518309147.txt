@@ -1,0 +1,5 @@
+ Track disruptions in metro systems may lead to severe train delays with many passengers stranded at platforms unable to board on overloaded trains . Dispatchers may put in place different recovery actions such as alternating train directions and allowing short turns . The objective is to alleviate the inconvenience for passengers and to regain the nominal train regularity . To characterize this process this paper develops nonlinear mixed integer programming models with two different recovery strategies to reschedule trains during the disruption . For solving models in real time the hybrid formulation which couples big
+
+@highlight Modeling and solving the decision problem with the offline selection and online implementation of the best recovery action.
+@highlight Including passenger satisfaction as a main component in the objective function and explicitly handling passenger flows with arrival rates that vary over time.
+@highlight Develop a novel formulation by combining big M and time indexed classical models.

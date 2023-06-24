@@ -1,0 +1,7 @@
+ Human Carboxylesterase 2A one of the most important serine hydrolases plays crucial roles in the hydrolysis and the metabolic activation of a wide range of esters and amides . Increasing evidence has indicated that potent inhibition on intestinal hCES2A may reduce the excessive accumulation of SN 38 in the intestinal tract and thereby alleviate the intestinal toxicity triggered by irinotecan . In this study more than sixty natural alkaloids have been collected and their inhibitory effects against hCES2A are assayed using a fluorescence based biochemical assay . Following preliminary screening seventeen alkaloids are found with strong to moderate hCES2A inhibition activity . Primary structureactivity relationships analysis of natural isoquinoline alkaloids reveal that the benzo 1 3 dioxole group and the aromatic pyridine structure are beneficial for hCES2A inhibition . Further investigations demonstrate that a steroidal alkaloid reserpine exhibits strong hCES2A inhibition activity IC
+
+@highlight Inhibitory effects of sixty six natural alkaloids against hCES2A were assayed.
+@highlight Primary structureactivity relationships SAR analysis of isoquinoline alkaloids.
+@highlight Reserpine exhibits strong hCES2A inhibition activity and selectivity over other human serine hydrolases.
+@highlight Inhibition kinetic analyses demonstrated that reserpine was a non competitive inhibitor.
+@highlight Molecular docking simulations explore the key interactions between reserpine and hCES2A.

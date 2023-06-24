@@ -1,0 +1,7 @@
+ Benchmarking crop yields against nitrogen input levels can help provide opportunities to improve N fertilizer efficiency and reduce N losses on maize in the US Corn Belt by identifying fields most likely to benefit from improved N management practices . Here we evaluated a large producer database that includes field level data on yield and applied N inputs from 9280 irrigated and rainfed fields over a 7 year period in Nebraska . A spatial framework based on technology extrapolation domains was used to cluster each field into spatial units with similar climate and soil type that represent 1.3 million ha of US farm land sown annually with maize . Three metrics were employed to evaluate agronomic and environmental performance partial factor productivity for N inputs PFP
+
+@highlight We assessed nitrogen N balance in irrigated and rainfed maize fields.
+@highlight Irrigated fields received greater N inputs and had larger N balance than rainfed fields.
+@highlight Achieving high yields with small positive N balance are not conflicting goals.
+@highlight Yield scaled N balance of irrigated fields was smaller than in rainfed fields.
+@highlight Yield scaled N balance of maize after soybean was smaller than in continuous maize.

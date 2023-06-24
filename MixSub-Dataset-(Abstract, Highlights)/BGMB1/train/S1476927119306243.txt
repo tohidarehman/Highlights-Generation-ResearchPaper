@@ -1,0 +1,6 @@
+ Family based multi locus tests integrate information from individual loci by weighted averaging of the marginal statistics and have been proven to be more efficient and robust than the single locus tests in genetic association studies . The power depends on how much information the weights can extract from data . The currently published weighted sum methods are only applicable to either common or rare variants and may suffer from substantial power loss especially for rare variants . In this paper we propose a novel data driven weight to improve the power under both common and rare variant circumstances . We use the
+
+@highlight Family based association test FBAT are robust against the population stratification.
+@highlight Multi SNP tests are more powerful than single SNP methods as taking the covariance structure into consideration.
+@highlight Rare variant analysis is crucial to finding genetic causes for some complex diseases.
+@highlight Weighted sum statisitc using LASSO regression outperforms other tests in various GWAs designs.

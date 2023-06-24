@@ -1,0 +1,5 @@
+ This paper examines some data mining techniques for lightning prediction . If we indicate by one the lightning event occurrence and by zero the non occurrence of the event then we will have a binary classification problem . In some cases the dataset of lightning event is class imbalance . Thus in the current research the method of undersampling will be employed to generate several balanced datasets . Two binary classification algorithms including neural networks and decision tree were examined for lightning prediction . Furthermore their performance was evaluated and compared . The proposed method was applied for some selected regions in Iran . Based on the evaluation results decision tree outperforms feed forward neural networks with one hidden layer for all datasets .
+
+@highlight Lightning prediction considered as a binary classification problem.
+@highlight Lightning dataset in this study is an imbalance dataset.
+@highlight Under bagging algorithm was applied for classification.

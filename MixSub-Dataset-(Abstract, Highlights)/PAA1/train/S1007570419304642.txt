@@ -1,0 +1,7 @@
+ In this paper the solutions of the coupled Ginzburg Landau equations are numerically studied with the aim to describe the dynamics of systems close to the Turing Hopf bifurcation . We found that the spatial modulations of the Turing and Hopf amplitudes increase with the domain size due to inhomogeneous perturbations . By measuring the growth of spatial Fourier modes in systems initialized with random initial conditions the effective size of the domain where the generalized Eckhaus and Benjamin Feir Newell instabilities occur was determined . Besides we have numerically corroborated that such instabilities can be quantified by recent theoretical results on secondary instabilities of the Mixed mode solution . Furthermore this study exemplifies diverse spatiotemporal patterns related to intermittency and chaos previously studied for the uncoupled complex Ginzburg Landau equation as well a new features related to the interaction of Turing and Hopf modes as the appearance of backbones patterns foliar figures and wormlike structures in the space time maps .
+
+@highlight The coupled GinzburgLandau equations are numerically solved.
+@highlight Turing Hopf bifurcation produces a variety of spatiotemporal patterns.
+@highlight The amplitude equations can predict features of the solution.
+@highlight The type of solutions depends crucially on the sizes of the domain.
+@highlight The Fourier spectra of numerical simulations corroborate the predictions.

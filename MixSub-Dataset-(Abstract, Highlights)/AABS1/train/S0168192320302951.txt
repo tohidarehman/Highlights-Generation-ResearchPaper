@@ -1,0 +1,6 @@
+ The temperature and greenness model demonstrates that the combination of enhanced vegetation index and Moderate Resolution Imaging Spectroradiometer land surface temperature is feasible in obtaining gross primary productivity at the landscape regional and global scales . However the input LST data of TG is always available at a coarse resolution averaging a relatively large portion of the topographic characteristics . Hence GPP simulated using the coarse spatial resolution LST data would suffer from unavoidable bias over mountainous areas . Considering the above limitation this work proposed a mountainous temperature and greenness model through integrating an elevation corrected factor and a radiation corrected factor with the current TG model . The proposed MTG model was validated at sixteen eddy covariance sites with apparent topography in the carbon footprint areas . Results showed that MTG simulated GPP presented a better agreement with EC GPP than TG simulated GPP characterized by an increase of 0.06 in
+
+@highlight A topographic corrected TG model MTG was proposed to improve GPP estimation.
+@highlight Improvement of MTG over TG was proved at sixteen mountainous EC sites.
+@highlight MTG GPP showed obvious responses to elevation slope and aspect variations.
+@highlight Surface topography should be considered when modeling mountainous GPP.

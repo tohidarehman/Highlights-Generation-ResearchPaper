@@ -1,0 +1,7 @@
+ Understanding the air pollution emission abatement potential and associated control cost is a prerequisite to design cost efficient control policies . In this study a linear programming algorithm model International Control Cost Estimate Tool was updated with cost data for applications of 56 types of end of pipe technologies and five types of renewable energy in 10 major sectors namely power generation industry combustion cement production iron and steel production other industry processes domestic combustion transportation solvent use livestock rearing and fertilizer use . The updated model was implemented to estimate the abatement potential and marginal cost of multiple pollutants in China . The total maximum abatement potentials of sulfur dioxide SO
+
+@highlight Over half of pollutant emissions could be reduced by end of pipe control measures.
+@highlight Application of renewable energies could further reduce the pollutants up to 7090 .
+@highlight Renewable energy can be an alternative to end of pipe measures in the future.
+@highlight Both non volatile organic compounds and ammonia have considerable abatement potential in China.
+@highlight Megacities have high unit abated costs because of the limited potential reduction.

@@ -1,0 +1,6 @@
+ The focus of the current study is the modeling of UF DF mixing equipment with a focus on mixing performance . When jet flow and stirring are combined a spatially resolved computational model can be very helpful as it makes it possible to predict the flow field and thus the mixing behavior of such tanks . In order to evaluate a particular geometry and parameter set a mixing efficiency term is introduced to allow the assessment of the mixing performance with one single parameter that can be derived from experiments and CFD simulations . This parameter is used to judge the predictability of the presented CFD approach . Small scale experiments are used to validate simulation results and good agreement is achieved . This model is then used to optimize a production scale industrial vessel . Such model approaches will help in developing processes for high titer formulations and enables the design of robust and reliable geometries .
+
+@highlight Mixing tanks can be characterized using computational fluid dynamics CFD.
+@highlight Prediction of complex behavior caused by stirring in combination with jet flows.
+@highlight Testing and optimization of different geometries and operating conditions in silico.
+@highlight Mixing efficiency as a single parameter to assess the mixing performance including jet flows.

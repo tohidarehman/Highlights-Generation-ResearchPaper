@@ -1,0 +1,6 @@
+ The effect of flow regimes on the reaction yield of a chemical reaction occurring in a T shaped micro reactor is investigated both experimentally and numerically by spanning different Reynolds and Damkhler numbers . The experimental set up is arranged in order to get in line information on both fluid dynamics and reaction progress along the mixing channel . Numerical simulations are performed using mesh adaption cycles to well resolve the mixing between reactants in this manner the agreement between experiments and numerical simulations is very satisfactory . For the considered reaction involving two reagents different from water despite flow regimes are coherent with the ones observed in case of water mixing significant differences arise because stratification occurs due to the different density of the fluid streams .
+
+@highlight Experimental and numerical investigation of a chemical reaction in a T junction.
+@highlight Quantification of reaction yield vs. Reynolds and Damkhler numbers.
+@highlight Decrease of reaction yield with Reynolds number in the segregated regime.
+@highlight Increase of reaction yield with Reynolds number in vortex and segregated regimes.

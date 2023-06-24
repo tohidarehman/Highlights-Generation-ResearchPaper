@@ -1,0 +1,5 @@
+ This conceptual paper explores the impact of blockchain technology on public sector processes through the lens of information security . It includes an overview of the evolution of e government a synopsis of existing applications of blockchain technology and innovative blockchain developments . We utilize the Confidentiality Integrity Accessibility triad to guide our discussion of the security governance and regulatory implications of this technology . Leveraging the CIA triad model we provide context for public managers who may consider blockchain technologies and we highlight certain advantages arising from the non reputability of distributed ledgers .
+
+@highlight Blockchain technology has security governance and regulatory implications for government.
+@highlight The Confidentiality Integrity Accessibility CIA provides useful insight for managers.
+@highlight A major advantage of blockchain technology is non reputability.

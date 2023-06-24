@@ -1,0 +1,7 @@
+ Remote sensing of far red sun induced chlorophyll fluorescence has emerged as an important tool for studying gross primary productivity at the global scale . However the relationship between SIF and GPP at the canopy scale lacks a clear mechanistic explanation . This is largely due to the poorly characterized role of the relative contributions from canopy structure and leaf physiology to the variability of the top of canopy observed SIF signal . In particular the effect of the canopy structure beyond light absorption is that only a fraction f
+
+@highlight A mechanistic decomposition of canopy SIF for three in situ crop datasets.
+@highlight The canopy structure and radiation factor outperforms SIF for GPP estimation.
+@highlight Canopy escape fraction of SIF correlates with photosynthetic light use efficiency.
+@highlight Correcting SIF for canopy scattering improves the correlation to APAR but not GPP.
+@highlight Estimates of physiological SIF yield show no clear seasonal patterns.

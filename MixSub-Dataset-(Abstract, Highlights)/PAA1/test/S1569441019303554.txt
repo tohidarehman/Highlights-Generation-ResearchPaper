@@ -1,0 +1,7 @@
+ Today photonic integrated circuits that work with a high modulation speed are required to use more optical power to overcome the losses . One solution is to use a high level laser with a hundred milliwatts power . However for a microchip circuit this solution can be problematic due to the nonlinear effects and high cost . Therefore to solve this issue we propose a new design of a 31 multimode interference power combiner based on a slot waveguide structure that can utilize slot waveguide technology for reducing losses . In this study the full vectorial beam propagation method was used to find the optimal geometrical parameters of the MMI coupler inputs output taper and the slot waveguide structure . Simulation results show that after light propagation of 9.82m the beam combiner efficiency can reach 97.6 working within the C band range . Also to reduce back reflection losses an angled MMI was designed using a finite difference time domain method and results show a low back reflection of 40dB . This unique design can lead to an efficient and compact combiner for multiple coherent sources that work with PIC chips .
+
+@highlight 31 multimode interference power combiner based on a slot waveguide structure.
+@highlight Three sources can be combined after a light propagation of 9.82m.
+@highlight Device has a low back reflection of 0.05 because of using waveguide tapers.
+@highlight Back reflection can be minimized more to 0.01 by using angled MMI coupler design.
+@highlight The device can be very useful to improve the performance of PIC system.

@@ -1,0 +1,6 @@
+ This study proposes a class of improved RungeKuttaChebyshev methods for the stiff systems arising from the spatial discretization of partial differential equations . We can obtain the improved first order and second order RKC methods by introducing an appropriate combination technique . The main advantage of our improved RKC methods is that the width of the stability domain along the imaginary axis is significantly increased while the length along the negative real axis has almost no reduction . This implies that our improved RKC methods can extend the application scope of the classical RKC methods . The results of five numerical examples show that our improved RKC methods can perform very well .
+
+@highlight Improved RungeKuttaChebyshev RKC methods are proposed by combination technique.
+@highlight The stability domain of the methods is enlarged significantly than classical RKC methods.
+@highlight The application scope of the methods is wider than classical RKC methods.
+@highlight Numerical results show that our improved RKC methods perform very well.

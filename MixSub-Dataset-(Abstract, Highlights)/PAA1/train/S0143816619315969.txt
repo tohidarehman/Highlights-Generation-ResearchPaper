@@ -1,0 +1,6 @@
+ A novel chaotic image encryption method combining chaotic sub block scrambling based on spiral transformation and chaotic digit selection diffusion is proposed in this article . First we present an improved pixel scanning scrambling method with chaos which causes positional changes of all pixel points in one encryption round so that the algorithm s time and space complexity are considerably reduced . Second a novel diffusion method is proposed that uses two chaotic sequences to improve the efficiency of the diffusion process . The experimental analysis illustrates that the algorithm has a better encryption effect and higher key sensitivity whether using conventional tests or the new tailoring palisade cropping attack described for the first time in this paper and can also effectively resist exhaustive statistical and differential attacks .
+
+@highlight We design a novel image cryptosystem using the proposed confusion and diffusion process.
+@highlight We propose the new confusion process as chaotic sub block scrambling based on spiral transformation.
+@highlight We reveal the new diffusion process as chaotic digits selection diffusion.
+@highlight The proposed algorithm in this paper can effectively resist common attacks.

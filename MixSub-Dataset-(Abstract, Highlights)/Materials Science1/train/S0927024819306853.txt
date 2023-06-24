@@ -1,0 +1,12 @@
+ Design and fabrication of antireflection coatings was performed to maximize the photocurrent of solar cells based on InGaP GaAs InGaAsP and InGaAs . The current limiting behavior of multi junction solar cells allowed only the specific design of ARCs to improve the total current density of multi junction solar cells which enabled thin and efficient antireflection layers to achieve their full potential . ARCs were designed for InGaP GaAs and InGaAsP InGaAs double junction solar cells and InGaP GaAs InGaAsP InGaAs quadruple junction solar cells . From the ARC design results the best solar cell reflectance at the region of interest appeared to be 1.44 for InGaP GaAs solar cells 2.17 for InGaAsP InGaAs and 0.48 for the quadruple junction solar cells . To achieve the preferred refractive index for the ARC structures nanostructures fabricated via glancing angle deposition were utilized . With ARC fabricated structures InGaP GaAs double junction solar cells yielded a power conversion efficiency of 13.3 which was 1.34 times higher than that of cells without ARC . Additionally calculation results for the various ARC designs using dual and triple material systems were provided to increase their applicability .
+
+@highlight Antireflection coatings ARC for multijunction solar cells was designed based on InGaP GaAs InGaAsP InGaAs.
+@highlight Current limiting behavior of multijunction cells and solar irradiance were considered.
+@highlight Multilayer ARC using ZnS MgF
+@highlight were fabricated by glancing angle deposition.
+@highlight Multi material ZnS MgF
+@highlight  TiO
+@highlight  Ta
+@highlight  Si
+@highlight  SiO
+@highlight  ARC were also optimized for multijunction cells.

@@ -1,0 +1,6 @@
+ The effective management of irrigation water consumption is one of the main countermeasures to combat water shortages . This paper introduced an integrated approach to determine the major factors influencing irrigation water consumption in China . It combined multiple linear regression and principal component analysis to analyze the relationship between irrigation water consumption and influencing factors and then applied analytic hierarchy process and cluster analysis to analyze the spatial variation in driving factors of irrigation water consumption . Based on statistical data from the 31 provinces of China from 2000 to 2015 the results showed that irrigation water consumption was positively affected by the planting size the ratio of surface water in water consumption the planting structure the annual ET
+
+@highlight Multiple methods were combined for driving force analysis of irrigation water consumption.
+@highlight The relationship between irrigation water consumption and the driving factors was evaluated.
+@highlight The water consumption structure irrigation technique and planting structure were major driving factors.
+@highlight The spatial variations in influencing factors of irrigation water consumption were compared.

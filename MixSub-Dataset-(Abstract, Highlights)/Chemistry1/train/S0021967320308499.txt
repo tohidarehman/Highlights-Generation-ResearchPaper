@@ -1,0 +1,6 @@
+ This study evaluates the performance of a simplified screening method for short and medium chain chlorinated paraffins based on gas chromatography electron capture negative ionization mass spectrometry analysis and chlorine content quantification . The response from different combinations of indicator congener groups present in technical mixture standards were used within calibration calculations to test the hypothesis that SCCPs and MCCPs could be quantified with acceptable accuracy using only a subset of the commonly analysed C
+
+@highlight A simplified quantification procedure is proposed for SCCPs and MCCPs by GC ECNI MS
+@highlight Cl content calibration is performed with only congener groups of 6 and 8 Chlorines
+@highlight Analytical performance was similar to methods using all 48 congener groups
+@highlight Analysis time was reduced by 3 4 and data processing by 2 3

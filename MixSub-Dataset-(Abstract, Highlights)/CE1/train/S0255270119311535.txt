@@ -1,0 +1,7 @@
+ The effect of the impeller designs and impeller clearance level on power consumption mixing time and air entrainment point in a single liquid phase under turbulent conditions Re 10
+
+@highlight Macro mixing study for different impeller design at different clearances in stirred vessel.
+@highlight Develop a new curved blade impeller design.
+@highlight Develop a correlation to estimate mixing time using nonlinear regression method.
+@highlight Develop a model to predict mixing time.by using fuzzy Cmeans ANFISFCM .
+@highlight Compare the prediction capability of the ANFISFCM and the empirical correlations.

@@ -1,0 +1,7 @@
+ Current opinion in insect navigation assumes that animals need to align with the goal direction to recognize familiar views and approach it . Yet ants sometimes drag heavy food items backwards to the nest and it is still unclear to what extent they rely on visual memories while doing so . In this study displacement experiments and alterations of the visual scenery revealed that ants indeed recognized and used the learnt visual scenery to guide their path towards the nest while walking backwards . In addition the occurrence of forward peeking behaviours revealed that backward walking ants continually estimated their directional uncertainty by integrating multiple cues such as visual familiarity the state of their path integrator and the time spent backwards . A simple mechanical model based on repulsive and attractive visual memories captured the results and explained how visual navigation can be performed backwards .
+
+@highlight Backward walking ants can steer using learnt terrestrial visual cues.
+@highlight Steering does not require forward body alignment.
+@highlight Steering may be based on the integration of attractive and repulsive views.
+@highlight Peeking behaviour is triggered in periods of low directional certainty.
+@highlight Directional certainty is built on multiple sources of current and past information.

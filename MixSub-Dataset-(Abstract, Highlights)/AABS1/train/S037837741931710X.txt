@@ -1,0 +1,6 @@
+ One of the effective factors to ensure the desirable operation of drip irrigation systems is the uniform emitter discharge which is affected by operating pressure and temperature . Accurate estimation of this parameter is crucial for optimal irrigation system management and operation . In this research the emitter outflow discharge was simulated through artificial intelligence based approaches under a wide range of temperature and operating pressures variations . The applied AI models included artificial neural networks neuro fuzzy sub clustering neuro fuzzy c Means clustering and least square support vector machine . The input parameters matrix consisted of operating pressure water temperature discharge coefficient pressure exponent and nominal discharge while the ratio of measured discharge to nominal discharge modified coefficient
+
+@highlight Discharge of drip tape emitters was modeled using artificial intelligence AI models.
+@highlight AI models were applied under simultaneous variations of temperature and pressure.
+@highlight k fold testing was adopted for assessing the models.
+@highlight All applied models showed acceptable results in modeling discharge.

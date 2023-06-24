@@ -1,0 +1,8 @@
+ We make a detailed numerical study of a three dimensional dissipative vector field derived from the normal form for a cusp Hopf bifurcation . The vector field exhibits a NeimarkSacker bifurcation giving rise to an attracting invariant torus . Our main goals are to follow the torus via parameter continuation from its appearance to its disappearance studying its dynamics between these events and to study the embeddings of the stable unstable manifolds of the hyperbolic equilibrium solutions over this parameter range focusing on their role as transport barriers and their participation in global bifurcations . Taken together the results highlight the main features of the global dynamics of the system .
+
+@highlight This work presents a detailed numerical study of the dynamics of a three dimensional dissipative vector field exhibiting a NeimarkSacker bifurcation.
+@highlight We follow the attracting invariant torus resulting from this bifurca tion until its destruction and the subsequent appearance of a chaotic attractor.
+@highlight We provide a reliable method for computation and visualization of a resonant torus especially in the regime where the torus is only a C
+@highlight invariant object.
+@highlight We study the stable unstable manifolds of the equilibrium solutions which act as separatrices transport barriers for the system.
+@highlight The numerical study results in a number of conjectures about the global dynamics of the system which we formalize in the conclusions.

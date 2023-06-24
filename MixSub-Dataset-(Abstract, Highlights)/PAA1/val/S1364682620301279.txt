@@ -1,0 +1,5 @@
+ Analytic theory developed in the companion paper in order to describe the coherence properties of the high frequency wave field propagating through the stochastic transionospheric channel with the inhomogeneous background layer and anisotropic fluctuations of the electron density is further analyzed extended and specified to obtain the numerical results which illustrate the fields coherence properties for realistic parameters of the channel and geometries of propagation .
+
+@highlight Analytic relations from the companion paper are used to study coherence properties.
+@highlight Quantitative results are presented for spaced position and frequency coherency.
+@highlight Limiting cases of pure space and pure frequency coherences are available.

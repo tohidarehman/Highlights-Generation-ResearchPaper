@@ -1,0 +1,7 @@
+ Modulation spectroscopy is a well established method for the study of optical transitions in semiconductors and has been a valuable asset for the verification of theoretical band structure calculations . The most important aspect of this method is its ability to render clear spectral features with no prior assumptions . One modulation technique is electroabsorption in which the transmittance of a sample is modulated by the application of a time varying electric field while light is incident on the sample . In this work a modified form of electroabsorption was investigated in which the electric field was applied at the interface between the sample and a transparent conducting layer . This technique was applied to investigate the optical transitions in tungsten trioxide WO
+
+@highlight A new modulation spectroscopy technique is devised.
+@highlight It is based on modulating the transmittance through a material.
+@highlight The method is applied to WO
+@highlight films deposited by RF sputtering.
+@highlight Sharp optical spectra were obtained and compared to theoretical calculations.

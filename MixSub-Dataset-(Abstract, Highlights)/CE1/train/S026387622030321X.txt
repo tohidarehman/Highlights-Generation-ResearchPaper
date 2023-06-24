@@ -1,0 +1,7 @@
+ In this study the volume of fluid multiphase model along with the adaptive mesh refinement method was used for the droplet based flow phenomenon investigation inside a microfluidic device fabricated in poly . The proposed model was qualitatively and quantitatively validated based on experimental observations . The operating conditions the fluid properties and the device geometric effects on the droplet length and generation rate were numerically accessed by multiple regression techniques . A dimensionless correlation was successfully proposed for the droplet length prediction . The numerical simulations contributed to a better understanding of the droplet based flow dynamic in a microfluidic channel .
+
+@highlight The droplet based flow inside microfluidic devices was numerically investigated.
+@highlight The Volume of Fluid Model and the Adaptive Mesh Refinement method were applied.
+@highlight The operating conditions fluid properties and device geometric factors were assessed.
+@highlight The device entrance angle did not affect the droplet length and generation rate.
+@highlight A dimensionless correlation was successfully proposed for the droplet length prediction.

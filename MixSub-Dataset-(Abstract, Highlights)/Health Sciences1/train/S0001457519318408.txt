@@ -1,0 +1,7 @@
+ The current guiding philosophies in road safety have stated aims of zero deaths and serious injuries . Speed has previously been highlighted as a key factor in the outcome of a crash but the literature to date has yet to provide a robust relationship between impact speed and the risk of serious injury for crashes other than pedestrian crashes . This study aimed to determine the relationship between impact speed and the risk of serious injury in light vehicle crashes .
+
+@highlight Impact speed taken from Event Data Recorders for high accuracy.
+@highlight Risk curves produced for risk of serious injury vs impact speed by impact type.
+@highlight Head on impacts have the lowest impact speed for a given level of risk.
+@highlight Measures to reduce impact speeds are important to reduce serious injuries.
+@highlight Head on crashes need to be prevented due to their high risk at low speeds.

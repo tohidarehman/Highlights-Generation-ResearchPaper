@@ -1,0 +1,12 @@
+ An analytical equation for calculating radial dose of heavy ions in water is introduced by Awad et al . 135142 . It is simple alternative to Monte Carlo code and is a promising equation however still needs refinement . Refinement was added through adjusting radial dose integration upper limit which gives the effective
+
+@highlight Radial dose distributions of different ions of different energies in water have been improved by applying the effective
+@highlight  ray range 
+@highlight A simple alternative to Monte Carlo simulations code for radial dose distribution is introduced.
+@highlight Predict the ions
+@highlight and compared to
+@highlight in
+@highlight and
+@highlight region in Braggs peak.
+@highlight Penumbra radii in water for the 85 ions understudy were determined.
+@highlight New formula for penumbra radius is suggested and compared to other formula and experimental data.

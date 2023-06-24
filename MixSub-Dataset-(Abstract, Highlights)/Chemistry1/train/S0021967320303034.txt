@@ -1,0 +1,6 @@
+ The non parabolicity correction of the laminar flow profiles was numerically calculated for fifty nine solvents . The exact flow profiles were simulated based on sophisticated experimental literature data of dynamic viscosity and thermal conductivity and their dependency on the temperature in between cold wall temperatures of 10C up to 120C and temperature gradients up to
+
+@highlight Non uniformity profile in thermal filed flow fractionation.
+@highlight Non parabolicity correction for 59 solvents in ThFFF.
+@highlight Non parabolicoity correction for unipolar and aprotic solvents in ThFFF.
+@highlight Non parabolicity correction with one parameter in ThFFF.

@@ -1,0 +1,6 @@
+ Five radiative transfer schemes are compared in infrared spectra using the Rapid Radiative Transfer Model for General Circulation Models Applications . By calculating the root mean squared error of net flux in various atmosphere the general accuracy of these schemes ranked from low to high are non scattering simplification the adding method of
+
+@highlight Five radiative transfer schemes are compared in infrared spectra using RRTMG.
+@highlight Two methods for handling the overlap of solar and infrared spectra are studied.
+@highlight All schemes are implemented with single column experiment and large sample test.
+@highlight A new scheme is established to solve the solar energy in longwave spectra.

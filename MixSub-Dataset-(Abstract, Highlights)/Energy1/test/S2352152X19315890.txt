@@ -1,0 +1,9 @@
+ This study proposes the modeling and the performance assessment of a grid connected Reversible Solid Oxide Cell plant that is the core system of a polygeneration flexible hub between the national electric grid and the local microgrid of an urban residential district . The system is designed to integrate a thermal storage unit based on phase change material with the rSOC stack by mzedeans of heat pipes . At times of low electricity price the plant produces hydrogen via electrolysis fed preferentially by a dedicated wind farm . Hydrogen is stored as compressed gas and used for the public transportation and electricity production during peak demand hours . The goal of the study is to investigate the performance and environmental indicators of this novel rSOC configuration and to identify which operating strategy best fits with the analyzed district application . The operating points of the overall system are mapped with a steady state model and interfaced with thermal storage and loads by a time resolved dynamic model . The feasible schedules of the system are defined considering the rSOC switching dynamics between fuel cell and electrolysis and constraints on plant self sufficiency for both heat and hydrogen vectors . Simulations at different levels of hydrogen demand for mobility were performed . Results showed an annual efficiency range of 5570 of the polygeneration plant . The environmental analysis showed that the rSOC plant emits 550 less CO
+
+@highlight An on grid rSOC plant with dedicated RES and molten salt heat storage was modeled.
+@highlight A time resolved dynamic model provides self sufficient schedules of rSOC plant.
+@highlight Daily global efficiency H
+@highlight  electricity varies with mobility demand from 51 to 25 .
+@highlight The system has an annual efficiency of 5570 including thermal energy .
+@highlight Grid connected RES fed rSOC emits 550 less CO
+@highlight than a reference energy system.

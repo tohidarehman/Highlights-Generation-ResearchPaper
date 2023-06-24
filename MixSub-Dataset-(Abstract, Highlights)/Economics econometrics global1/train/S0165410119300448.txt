@@ -1,0 +1,7 @@
+ Analysts price targets and recommendations contradict stock return anomaly variables . Using an index based on 125 anomalies we find that analysts annual stock return forecasts are 11 higher for anomaly shorts than for anomaly longs . Anomaly shorts return forecasts are excessively optimistic exceeding realized returns by 34 . Recommendations also tend to be more favorable for anomaly shorts although this result varies across anomaly types . Consistent with analysts slowly incorporating anomaly information anomalies forecast revisions in both price targets and recommendations . Our findings imply that investors who follow analysts actionable information contribute to mispricing .
+
+@highlight We investigate the extent to which analyst actionablesrecommendations and target forecast returnsreflect information that has been shown to predict cross sectional stock returns.
+@highlight Actionables contradict anomaly information.
+@highlight Recommendations and target forecast returns are higher for anomaly short than anomaly long stocks.
+@highlight Analysts actionables slowly and incompletely adjust to anomaly information.
+@highlight If investors follow analysts their price pressure will exacerbate cross sectional mispricing.

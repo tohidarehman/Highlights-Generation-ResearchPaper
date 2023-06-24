@@ -1,0 +1,6 @@
+ Automatic and reliable fault diagnosis of rotating machinery cross working conditions is of practical importance . For this purpose ensemble transfer convolutional neural networks driven by multi channel signals are proposed in this paper . Firstly a series of source CNNs modified with stochastic pooling and Leaky rectified linear unit are pre trained using multi channel signals . Secondly the learned parameter knowledge of each individual source CNN is transferred to initialize the corresponding target CNN which is then fine tuned by a few target training samples . Finally a new decision fusion strategy is designed to flexibly fuse each individual target CNN to obtain the comprehensive result . The proposed method is used to analyze multi channel signals measured from rotating machinery . The comparison result shows the superiorities of the proposed method over the existing deep transfer learning methods .
+
+@highlight CNN is modified with stochastic pooling and Leaky rectified linear unit.
+@highlight Multi channel signals are used to pre train a series of CNNs.
+@highlight Transfer CNN is constructed with parameter transfer strategy.
+@highlight A new decision fusion strategy is designed based on flexible weight assignment.

@@ -1,0 +1,7 @@
+ The optical properties of non spherical particles have been studied for decades and there are a number of solution techniques to model distinct geometries . Of these methods the Discrete Dipole Approximation is known to compute electromagnetic scattering from irregularly shaped heterogeneous particles . DDSCAT which is the numerical implementation of DDA is identified as a potential solver for electrically charged particles however there is a set of limitations and shortcomings to be addressed . The main concern is the conductivity which introduces an infinitesimally thin charged monolayer on the particle surface . The side effect of this concept is a steep increase of refractive index and impedance . The DDSCAT can have trouble converging to a solution when the thin shell at the particle surface produces large losses due to having electromagnetic properties significantly different from the media on either side of the particle interface .
+
+@highlight Optical properties of nonspherical charged particles are computed using DDA.
+@highlight The modeling is at wavelengths where charge induced resonances typically occur.
+@highlight Surface charge distribution is simulated by a multi level material distribution.
+@highlight The method is validated for a pseudosphere which allows for an analytical solution.
+@highlight The method takes advantage of the interfaces to DDSCAT.

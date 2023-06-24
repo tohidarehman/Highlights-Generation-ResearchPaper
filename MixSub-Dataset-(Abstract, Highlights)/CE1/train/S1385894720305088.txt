@@ -1,0 +1,6 @@
+ Metal nanowires boost the development of flexible transparent conductive electrodes but they are hardly applied in industrial productions due to poor reliability . Although various coating technologies have been used to resolve this issue most of them deteriorate the transmittance of TCEs due to the thick coating shell . Herein we propose a facile and highly compatible structural transformation process for fabricating core shell NW TCEs with highly improved reliability . Instead of increasing the thickness of the coating shell to guarantee sufficient coverage around NWs an instantaneous and surface heating technology of intense pulsed light is creatively applied to realize the structural transformation of scattered Ni crumbs into an ultrathin and uniform Ni coating shell . Results show that without the decline of the transmittance the reliability of structure transformed
+
+@highlight IPL enables the structural transformation from scattered Ni crumbs to a Ni shell.
+@highlight The transformation causes no damage to AgNW networks and flexible substrates.
+@highlight Without transmittance loss chemical and thermal reliability of TCEs are increased.
+@highlight Flexible transparent heaters show high heating efficiency and electrical reliability.

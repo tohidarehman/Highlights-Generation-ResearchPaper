@@ -1,0 +1,6 @@
+ The Landsat archive offers great potential for monitoring forest cover change and new approaches moving from categorical towards continuous change products emerge rapidly . Most approaches however require vast amounts of high quality reference data limiting their applicability across space and time . We here propose the use of a generalized regression based unmixing approach to overcome this limitation . The unmixing approach relies on temporally generalized machine learning regression models and support vector regression which are trained on synthetically mixed data from a multi year library of pure and hence easy to identify image spectra . We apply the model to three decades of Landsat data mapping both overall forest cover and broadleaved coniferous forest cover fractions across space and time . The resulting maps well represented the spatial temporal patterns of forest in our study region . The SVR model outperformed the RFR model yielding accuracies of
+
+@highlight A regression based unmixing model for mapping forest cover fractions is presented.
+@highlight Model used for mapping forest cover fractions across three decades of Landsat data
+@highlight Also broadleaved and coniferous forest cover fractions were mapped.
+@highlight Only pure image spectra required as reference data

@@ -1,0 +1,7 @@
+ We use Density Functional Theory and Hubbard model based DFT U calculations to determine preferential adsorption sites and energies of single isolated Au Pt and Co atoms on planar SrTiO
+
+@highlight Binding energies and diffusion barriers of Co Au Pt on SrTiO
+@highlight calculated with DFT.
+@highlight Diffusion is significantly faster on SrO terminations.
+@highlight Au is highly mobile on both surfaces.
+@highlight DFT calculations complemented by Hubbard model based DFT U.

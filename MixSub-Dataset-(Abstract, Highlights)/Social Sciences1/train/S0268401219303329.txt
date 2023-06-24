@@ -1,0 +1,7 @@
+ This paper explores the usage of Blockchain Technology for Land Records Management in India . It highlights issues such as minimal transparency accountability incoherent data sets with different Government Departments pertaining to the same piece of land and delays in the current Land Records management process and how to overcome these problems using Blockchain Technology . The paper describes the current process of land records maintenance and land registration in the country and discusses various challenges encountered during the implementation of Blockchain Technology like public key infrastructure and Internet privacy rules and security issues . Finally the paper illustrates a system design using Blockchain Technology for the implementation of Land Titling system in the country so that land titles are tamper proof and provides authentic and conclusive rights on ownership .
+
+@highlight This paper explores the usage of Blockchain technology for land records management in India.
+@highlight The paper highlights issues linked with the current land registration process.
+@highlight The paper demonstrates how these problems can be overcome using Blockchain technology.
+@highlight The paper introduces the Blockchain technology and its applications in land registration through a class diagram.
+@highlight The paper also covers the challenges like public key infrastructure security issues while implementing blockchain in developing countries.

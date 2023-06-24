@@ -1,0 +1,7 @@
+ Anthraquinones are found in a variety of consumer products such as dietary supplements traditional Chinese medicines and drugs . Along with their widespread use potential safety concerns have emerged especially liver toxicity . Therefore there is a need to conduct rapid and inexpensive safety assessment for anthraquinones due to a lack of animal and human toxicological data . Here a combined
+
+@highlight Structure activity relationships of cytotoxicity for 16 anthraquinones and derivatives were evaluated.
+@highlight cytotoxic concentration was set equal to human plasma concentration to predict toxic dose.
+@highlight and
+@highlight data were integrated into PBPK modeling to predict toxic dose.
+@highlight Predicted toxic dose was compared to literature derived human daily intake to assess liver toxicity risk.

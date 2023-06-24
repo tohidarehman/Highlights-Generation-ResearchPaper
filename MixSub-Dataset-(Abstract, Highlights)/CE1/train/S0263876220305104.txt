@@ -1,0 +1,6 @@
+ Surge protection via the installation of an anti surge control valve is indispensable in centrifugal compression systems and the designs of such valves are often specified in the early design phase of centrifugal compression systems . However additional recycle valve piping such as hot or cold gas bypass valves could be required in the case of emergency shutdowns . Furthermore design verification via dynamic simulations is crucial in the engineering workflow . Because of the unavailability of design guidelines in the early design phase only late verification is possible necessitating system redesign when dynamic simulation results evidence the need for additional protection . This study presents a compressor surge distribution map by analyzing sensitivity parameters and establishing a new dimensionless number called the surge number
+
+@highlight A novel dimensionless number is suggested to evaluate the surge phenomena in compression system.
+@highlight Sensitivity analysis of design parameters via dynamic simulation comprehends the impact on surge occurrence.
+@highlight Considering by surge number obtained from sensitivity analysis provides a numerical threshold values of surge occurrence.
+@highlight Using surge classification defined by inertia and surge numbers provides a preliminary guideline of surge protection.

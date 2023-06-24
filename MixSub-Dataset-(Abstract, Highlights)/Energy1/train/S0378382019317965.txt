@@ -1,0 +1,7 @@
+ Pd based membranes are the most studied in applications of membrane reactors in the field of high grade hydrogen production . The main issues of Pd membranes such as high cost and relatively low hydrogen permeability limit their wide development at larger scale favoring other inorganic materials such as silica to be used as membrane for hydrogen generation purification . Therefore this theoretical study aims to evaluate the performance of silica and Pd
+
+@highlight Silica membrane reactor results to be a better choice than a Pd
+@highlight Ag membrane reactor.
+@highlight Silica and Pd
+@highlight Ag membrane reactor simulations point out better performance than an equivalent traditional reactor.
+@highlight CFD method was applied to model a silica membrane reactor during methanol steam reforming reaction.

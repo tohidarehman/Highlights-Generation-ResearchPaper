@@ -1,0 +1,7 @@
+ Prestrike is a common phenomenon in Circuit Breakers when the moving contact approaching to the fixed contact during the closing operation . This paper focuses on prestrike modeling in SF
+
+@highlight A multi physics model for simulation of prestrike phenomenon in circuit breakers.
+@highlight Magnetohydrodynamics equations are coupled with electric circuit equations.
+@highlight Motion of moving parts and temperature dependency of gas properties are considered.
+@highlight Plasma arc interactions with electric circuit is numerically investigated.
+@highlight The effects of resistance and inductance of the source on the arc is studied.

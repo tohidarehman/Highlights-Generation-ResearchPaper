@@ -1,0 +1,5 @@
+ This paper addresses a static bike repositioning problem by embedding a short term demand forecasting process the Random Forest model to account for the demand dynamics in the daytime . To tackle the heterogeneous repositioning fleets a novel repositioning operation strategy constructed on the hub and spoke network framework is proposed . The repositioning optimization model is formulated using mixed integer programming . An artificial bee colony algorithm integrated with a commercial solver is applied to address computational complexity . Experimental results show that the RF can achieve a high forecasting accuracy and the proposed repositioning strategy can efficiently decrease the users dissatisfaction .
+
+@highlight Apply the Random Forest model to predict the customer demand in bike sharing system.
+@highlight Propose a hub first route second bike repositioning strategy based on the predicted demand.
+@highlight Develop a solution method incorporating the heuristic algorithm ABC and the exact method.

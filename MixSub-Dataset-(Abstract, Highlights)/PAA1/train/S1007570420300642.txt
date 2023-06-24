@@ -1,0 +1,6 @@
+ The lumped mass model is derived from a one mode Galerkin discretization with the GaussLobatto quadrature applied to the non linear swelling pressure term . Our reduced order model of the problem is then analyzed to study the essential dynamics of an elastic cantilever EulerBernoulli beam subject to the swelling pressure described by Grobs law . The solutions to the initial value problem for the resulting nonlinear ODE are proved to be always periodic . The numerical solution to the derived lumped mass model satisfactorily matches the finite difference solution of the dynamic beam problem . Including the effect of oscillations at the base of the beam we show that the model exhibits resonances that may crucially influence its dynamical behavior .
+
+@highlight Cantilever beam.
+@highlight Swelling pressure.
+@highlight Lumped mass model.
+@highlight Periodic solution and Resonances.

@@ -1,0 +1,7 @@
+ Matchett proposed an exponential stress regime in silos from principal stress cap modelling . It could result in dangerously high stresses in silos . Practical examples of the exponential stress field have been found in the published work of Ramirez et al . for wheat and maize in a steel silo 1.9 m diameter and 5 m tall . The exponential stresses were found during the early stages of the discharge cycle .
+
+@highlight A practical example of the exponential stress regime in silos has been found.
+@highlight The data have been successfully modelled by psc and modified Janssen methods.
+@highlight The exponential regime is outside of existing design codes.
+@highlight It can generate dangerously high stresses.
+@highlight Further research is required.

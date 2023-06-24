@@ -1,0 +1,7 @@
+ EulerianLagrangian numerical scheme is applied for analysing packed bed structure constructions involving non spherical solids such as metallurgical cokes and ferrous ores and the high temperature softening characteristics of such beds . 3D scanning is applied for determining the coke and ore shapes and a multi sphere discrete element method is used as the functional scheme for non spherical solid particle motion tracking . The transient deformation behaviour of the softening ore is simulated using the advanced discrete element method and the gas permeability characteristics exhibited by the ore shapes in the ironmaking process are discussed . Based on this model cases with varied softening behaviour represented by the joint spring coefficient are investigated and the effect of the ore softening behaviour on the gas permeability is evaluated . It is established that the pathway of the passing rivulet depends upon the softening ore deformation behaviour .
+
+@highlight New 3D dynamic model for a packed structure with coke and ore is proposed.
+@highlight It can predict the packed bed permeability even with softening ore.
+@highlight Gas permeability characteristics of ore layer shapes in ironmaking process discussed.
+@highlight The local pressure drop was estimated from the geometrical data of softening packed bed structure.
+@highlight The formation of ineffective voids in the gas flow path increase the local pressure drop.

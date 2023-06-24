@@ -1,0 +1,6 @@
+ The distinction between peace and conflict in contemporary international relations is no longer well defined . Leveraging modern technology hostile action below the threshold of war has become increasingly effective . The objective of such aggression is often the influence of opinions emotions and ultimately the decisions of a nation s citizenry . This work presents two new game theoretic frameworks denoted as
+
+@highlight Competitive influence of a population and the regulation of influence are modeled via a game theoretic framework.
+@highlight Model variants are developed for perfectly and boundedly rational influencing entities.
+@highlight Formulation reduction techniques and solution methods for each model variant are discussed.
+@highlight Flexibility and utility are established via a realistic example application.

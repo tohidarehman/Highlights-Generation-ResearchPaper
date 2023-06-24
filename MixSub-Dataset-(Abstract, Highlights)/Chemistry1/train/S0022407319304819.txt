@@ -1,0 +1,5 @@
+ This study develops a Weighting Featured Monochromatic Radiance method to efficiently and accurately compute the vector radiance including multiple scattering at the near infrared band . The monochromatic radiances within a spectral band that are of a high correlation are grouped to represent the average band radiance . The simulated radiance from WFMR is validated against a large variety of OCO 2 profiles . It is shown that the dominant errors introduced by the WFMR method are below 0.1 0.025 and 0.12 for O
+
+@highlight Proposed a method for efficient and accurate calculations of vector multiple scattering in near infrared band.
+@highlight Accuracy of 0.1 is achieved with computation speed improved by 12 order.
+@highlight Capture the realistic characteristics of atmospheric radiation from measurements of near infrared band.

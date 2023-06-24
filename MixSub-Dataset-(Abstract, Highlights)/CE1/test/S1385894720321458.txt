@@ -1,0 +1,8 @@
+ Emerging nano donor and nano receptor FRET pairs are more advantageous to broad biosensing applications . However those reported FRET system generally containing a single pair can not afford multiplexed analysis . Herein bi color FRET from two nano donors to a single nano acceptor has been adopted to fabricate a simple to use aptasensor for simultaneous determination of dual targets in a single run . Aflatoxin B1 and ochratoxin A were selected as the analytes because they have synergistic effect to induce enhanced toxicity . Specially carbon dots and CdZnTe quantum dots with unambiguous separation of emission peaks were used as nano donors to label the aptamers specific for AFB1 and OTA respectively . These single stranded aptamers with labels could be stably adsorbed on a single nano acceptor MoS
+
+@highlight MoS
+@highlight nanosheet was found to serve as a single acceptor paired with two nano donors.
+@highlight A simple to use aptasensor was developed based on the bi color FRET using nano pairs.
+@highlight Simultaneous determination of dual targets can be achieved in a single measurement.
+@highlight This aptasensor exhibited wide linear ranges and low LODs for AFB1 and OTA detection.
+@highlight This work offers a universal aptasensing strategy in advancing multiplexed analysis.

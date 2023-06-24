@@ -1,0 +1,5 @@
+ A large amount of data is produced every day by stakeholders of the Air Traffic Management system in particular airline operators airports and air navigation service providers . Most data is kept private for many reasons including commercial and security concerns . More than data shared information is precious as it leverages intelligent decision making support tools designed to smoothen daily operations .
+
+@highlight Detecting significant events in large volumes of trajectory data.
+@highlight Understanding sources of deviation in air traffic management.
+@highlight Dimension reduction may create clusters in the latent space.

@@ -1,0 +1,5 @@
+ Hospital readmission is one of the most important service quality measures . Recently numerous risk assessment models have been proposed to address the hospital readmission problem . However poor understanding of the class imbalance hospital readmission data still challenges the development of accurate predictive models . To overcome the issue a new risk prediction method termed joint imbalanced classification and feature selection is proposed for handling such a problem . To be specific we construct the loss function within the large margin framework in which the sample weight is involved to deal with the class imbalanced problem . Based on this we design an optimization objective function involving
+
+@highlight We propose a new method which joint imbalanced classification and feature selection for handling class imbalance problem.
+@highlight An iterative optimization scheme is designed with convexity.
+@highlight The proposed method is proved to be effective for the hospital readmission task.

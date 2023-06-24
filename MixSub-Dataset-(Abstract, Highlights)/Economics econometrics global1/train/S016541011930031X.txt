@@ -1,0 +1,8 @@
+ We connect conservative accounting to the cost of capital by developing an accounting model within an asset pricing framework . The model has three distinctive features transaction cycle conformity where the book value equals the value of cash at the beginning and the end of a cash to cash transaction cycle a revenue recognition principle where uncertainty affects the amount of revenues recognized a matching principle where expenses are matched with revenue with a conservative bias due to uncertainty . We demonstrate how the growth rate of expected earnings the accruals to cash ratio and the expected earnings yield relate to the expected stock return .
+
+@highlight The accounting model connects the revenue recognition principle and conservative accounting for investment to the expected return under asset pricing theory.
+@highlight In a single transaction cycle model we identify conditions under which
+@highlight the growth rate of expected earnings is positively related to the expected stock return 
+@highlight the accruals to cash ratio is negatively related to the expected stock return 
+@highlight the expected earnings yield i.e. forward E P ratio is negatively related to the expected stock return.
+@highlight In a multi transaction cycle setting we analyze how investment growth affects the above relations.

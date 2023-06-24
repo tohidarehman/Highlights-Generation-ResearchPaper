@@ -1,0 +1,6 @@
+ The application of price hedonic theory in the hotel pricing domain has relatively ignored the destination and country level differences . We compare hotel rents across tourist and non tourist destinations for an emerging and a developed market . Utilizing multiple regression on a combined dataset of 21 904 data points spread over 2458 unique hotels we show that the nature of destination and market moderates the association between hotel attributes and rents . Further the results show that hotels at tourist destinations enjoy a rent premium across markets . However this rent premium is positively associated with star rating only in emerging markets and is stable in developed markets . We contribute to price hedonic theory by proposing destination and market variables as moderators . Globalization and industry concentration make location decisions recurring and flexible . The study aims to help hotel managers by providing a contextual framework for making these strategic investment decisions .
+
+@highlight Market state emerging developed moderates hotel attribute rent relationships.
+@highlight The type of destination tourist non tourist moderates hotel attribute rent relationships.
+@highlight Hotels at tourist destinations command a rent premium.
+@highlight Tourist rent premium is negatively associated with hotel attributes other than star rating.

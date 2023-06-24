@@ -1,0 +1,6 @@
+ The experimental behaviour of aluminium alloy beam to columns joints connected by swage locking pins under monotonic loading is investigated in this study . Eight full scale tests were conducted . The beam to column joints included top and seat angle cleat connections and top and seat and web angle cleats connections . The configurations of the designed joints were different and no repeated tests were carried out . Prior to the joint tests material testing and tests on swage locking pins were conducted . The results clarified the effects of joint type material of angle cleats gap between column and beam number of rows of pins on column flange and backing plates on the structural responses of the joints . Following the experimental tests design approaches for aluminium alloy beam to column joints were discussed . Various methods for evaluating the initial rotational stiffness and plastic moment resistance were studied .
+
+@highlight Swage locking pins were applied in the aluminium alloy beam to column joints.
+@highlight Tests on the joints were conducted to study their structural responses.
+@highlight Test results show good load carrying capacity of the joints.
+@highlight The component method incorporated in EC3 was modified according to test results.

@@ -1,0 +1,5 @@
+ The gaseous PVTx properties of 1 1 1 3 3 pentafluoropropane 1 1 difluoroethane mixtures are measured at temperatures from 305.20K to 340.05K at 5K intervals and pressures up to 0.8MPa for mixture and the compositions of R245fa from 0.85 to 0.60 mass fraction using the Burnett isothermal expansion method . The uncertainties of experimental device is estimated to be within 10 mK for temperature 4.0kPa for pressure 0.3 for mass fraction and 0.06 for the composition factor . The experimental results are used to obtain tables of densities and compressibility factors for each mixture . And the second and third virial coefficients of gas virial EOS are fitted on the basis of experimental PVTx data . It provides a data reference for a further study of the R245fa R152a mixtures which used low temperature Organic Rankine Cycle .
+
+@highlight The mixed refrigerants R245fa R152a as a new alternative ORC refrigerant.
+@highlight experimental data of R245fa R152a mixtures at six mass fractions.
+@highlight Virial equations of state are fitted.

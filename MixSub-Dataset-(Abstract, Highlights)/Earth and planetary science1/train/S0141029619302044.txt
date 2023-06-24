@@ -1,0 +1,6 @@
+ A wind turbine structure works under the complicated environment and its operational state is complex . In this study the operational state of a 1.5MW wind turbine and the vibration response of the tower have been monitored for a long time . The vibration characteristic of the wind turbine under different operational conditions is discussed in detail and it was observed that the rated rotation speed condition has the highest vibration level . The Campbell diagrams of wind turbine both in the FA direction and SS direction are drawn based on the natural frequencies results which are identified by data driven stochastic subspace identification method . It was observed from the Campbell diagrams that when the rotation speed is close to the grid connected rotation speed the blade passing frequency 3
+
+@highlight Monitor an onshore wind turbine for a long time.
+@highlight Analyze vibration feature of wind turbine in different operational conditions.
+@highlight Observe the resonance phenomenon by drawing the Campbell diagrams.
+@highlight Discuss the relationship between modal parameters and operational conditions.

@@ -1,0 +1,6 @@
+ The invasion by Striga in most cereal crop fields in Africa has posed a significant threat to food security and has caused substantial socioeconomic losses . Hyperspectral remote sensing is an effective means to discriminate plant species providing possibilities to track such weed invasions and improve precision agriculture . However essential baseline information using remotely sensed data is missing specifically for the Striga weed in Africa . In this study we investigated the spectral uniqueness of Striga compared to other co occurring maize crops and weeds . We used the
+
+@highlight Striga spectral signal is unique from its co occurring maize and other weeds.
+@highlight hyperspectral remote sensing facilitates accurate separation of Striga from other co occurring plants.
+@highlight Guided regularized random forest is a simple yet effective variable selection and dimension reduction technique.
+@highlight Random forest outperforms other machine learning algorithms in discerning Striga.

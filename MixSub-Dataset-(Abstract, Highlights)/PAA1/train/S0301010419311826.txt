@@ -1,0 +1,8 @@
+ Current study investigates the opto electronic trends of bilayer graphene functionalized through metalloid atoms adopting first principles DFT approach . Intercalation of single double metalloid atoms in BLG having single di vacancy of C atoms was carried out and their effects on opto electronic behaviors were determined . Results indicate that metalloids incorporation in BLG causes disruption in aromatic rings of graphene thereby breaking the high symmetric K point in its electronic structure . Intercalation of metalloids in BLG also creates secondary Dirac points in its electronic structure . In addition few metalloids induce a finite band gap at the high symmetric
+
+@highlight First principles calculations are performed on metalloids intercalated BLG.
+@highlight Metalloids modify the charge distribution in interlayer space of BLG.
+@highlight Metalloids intercalation converts semimetal BLG to half metal conductor.
+@highlight Absorption coefficient of BLG is improved in low energy range.
+@highlight Static reflectivity is increased after metalloids intercalation.
+@highlight Single and dual metalloids intercalation in BLG is thermodynamically stable.

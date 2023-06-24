@@ -1,0 +1,7 @@
+ The Wayne State University experimental descriptor database is utilized to bench mark the current capability of the solvation parameter model for use as a quantitative structure retention relationship tool for estimating retention in gas and reversed phase liquid chromatography . The prediction error for the retention factors of varied compounds on six open tubular columns for gas chromatography and three packed columns for reversed phase liquid chromatography SunFire C
+
+@highlight Retention prediction error bench marked for the solvation parameter model in GC and RPLC
+@highlight Average absolute error for retention factor predictions in GC 0.1 to 0.4
+@highlight Average absolute error for retention factor predictions in RPLC 0.3 to 0.5
+@highlight Descriptor quality for WSU compound descriptor database verified
+@highlight Retention mechanism heterogeneity is the main source of prediction errors

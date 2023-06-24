@@ -1,0 +1,7 @@
+ Few fault location techniques are introduced in literature for two terminal four circuit overhead lines . This article proposes a new fault location algorithm for two terminal untransposed four circuit overhead lines employing only current data at both line terminals . The potential couplings between the twelve phases and the line untransposition are considered in derivation . The algorithm is independent of fault impedance and knowing of faulty phases is not required . Analytical equation is derived for estimating the locations of faults based on the differential components of the estimated voltages at fault point from both line ends . The two terminal overhead line is modeled by DIgSILENT Power Factory software and MATLAB is used to carry out the required calculations . The algorithm is tested for different fault locations and fault types including normal shunt and inter circuit faults . In addition the impact of measurement errors complex fault impedance as well as errors in overhead line parameters is checked . The simulation outputs confirm the high efficacy of the algorithm for all simulated fault cases .
+
+@highlight The potential couplings between 12 phases are considered.
+@highlight The line untransposition is considered.
+@highlight The proposed work is independent of fault impedance.
+@highlight Faulty phases are not required initially.
+@highlight All fault types including inter circuit faults are precisely located.

@@ -1,0 +1,7 @@
+ Flotation with microbubbles is one of the most viable methods for separating oil from water . Microbubbles are formed by the injection of a small air flow through a pressurized liquid flow . In the present study a microbubble generation and measurement unit was constructed to measure mean microbubble size through the liquid flow and airflow of the system . The liquid flow rate was measured by a Hall effect type sensor whereas it was necessary to construct a sensor for bubbles immersed in glycerin for the determination of the airflow rate . This sensor was used to determine the minimum and maximum airflow limits and the airflow measurements were compared with pressure gauge readings to establish a calibration curve . The Arduino UNO R3 board was the microcontroller of the MBGMU for the determination of the liquid flow rate . A coupled system involving a GoPro Hero 6 camera and microscope lenses was assembled to capture images of the microbubbles . The airflow rate ranged from 0.001 to 10 000
+
+@highlight Microbubble generation and measurement unit was constructed with Arduino UNO R3.
+@highlight The small air flow measurement system showed uniformity of measurement.
+@highlight A R
+@highlight of 98 for the calibration curve between airflow and pressure variation was found.
+@highlight The microbubble images were captured with quality for future measurements.

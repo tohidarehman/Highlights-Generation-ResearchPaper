@@ -1,0 +1,5 @@
+ As the number of battery energy storage systems increase along with their grid applications it has become imperative to better understand and predict battery cell degradation . Accurately forecasting their durability under different usage regimes has become a priority in determining the operational and commercial risks associated with BESS deployments . In this work electrochemical data from a laboratory experiment mimicking different grid applications for two BESS deployed on the island of O ahu and Moloka i was analyzed . The results were extremely small capacity losses after more than a year of testing but significant amounts of underlying silent degradations with incubation periods . The impact of these silent degradations was quantified and used to forecast 20 year usage . They were shown to induce in some cases an acceleration of the capacity loss after as low as 6 years of deployment .
+
+@highlight Different grid applications showed different impact on battery degradation mechanisms.
+@highlight 20 year forecast was possible from consideration of the silent degradation mechanisms.
+@highlight LTO based cells are well suited for grid storage applications.

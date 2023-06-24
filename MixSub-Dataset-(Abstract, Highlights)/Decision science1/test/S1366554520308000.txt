@@ -1,0 +1,6 @@
+ Internet shortens the distance between consumers and firms in a supply chain and facilitates firms to consider consumers behaviors when making business decisions . In this paper we study the decoy effect on firms product proposition decisions under various circumstances . The decoy effect is the phenomenon whereby consumers change their preference between two options when presented with a third option that is less desirable . We examine the product propositions in a competitive supply chain adopting decoy effect from the perspectives of a high end firm or a low end firm respectively . We also investigate impacts of consumers behavioral factors on the decoy effect such as rationality social influence and loss aversion preference . Further we test whether decoys can be as effective online as they are offline and effective in a monopolistic supply chain as well . A multi agent system is built to conduct simulations .
+
+@highlight An analytical investigation of consumers behavioral factors on the decoy effect.
+@highlight Quantifying the decoy effect on firms business decisions.
+@highlight Investigation of different firms under different supply chain environments as well as different distribution channels.
+@highlight A multi agent system to conduct simulations.

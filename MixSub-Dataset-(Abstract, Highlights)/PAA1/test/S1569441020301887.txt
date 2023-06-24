@@ -1,0 +1,7 @@
+ An ultra compact all optical half adder operating at 1550 nm on silicon on insulator is realized by a modular inverse design method which deconstruct the design of optical units with complicated functions to several devices with basic functions . The half adder is composed of five modules two beam splitters one hub one XOR gate and one AND gate all of which are designed by the same multi objective particle swarm optimized method and have the equal area of 2 m 2 m. The system is studied numerically by the Finite Difference Time Domain method . Remarkable contrast ratios of 12.0 dB and 8.45 dB are obtained for AND gate and XOR gate respectively . The whole half adder possesses an ultra small area smaller than 10 m 5 m which results in a short respond time less than 0.7 ps and high respond speed beyond 1.4 THz . The contrast ratio between two output logic states 1 and 0 is around 7 dB and 15 dB for SUM and CARRY respectively . The half adder designed by modular inverse design method possess advantages such as tiny size fast respond and high diversity which indicates that our method has great potential as a universal method for the design of complicated integrated devices .
+
+@highlight An all optical half adder smaller than 10 5 m
+@highlight is designed by a new proposed Modular inverse design method.
+@highlight Five modules with different functions are realized in a same area of 2 m 2 m.
+@highlight Remarkable contrast ratio is around 7 dB and 15 dB for SUM and CARRY.
+@highlight The half adder could reach a high respond speed beyond 1.4 THz.

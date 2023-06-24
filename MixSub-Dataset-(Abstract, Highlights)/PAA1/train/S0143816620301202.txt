@@ -1,0 +1,7 @@
+ This paper analyzes laser and etching parameters to fabricate open and continuous microchannels and stacks of such microchannels in the bulk of crystalline sapphire Al
+
+@highlight If sapphire is irradiated along the direction perpendicular to the polarization of the light the irradiated lines do not show a smooth single amorphized cross section but rather a series of vertical amorphized parallel nanolines.
+@highlight The ideal window of pulse repetition rate is between 0.100MHz and 1MHz. Below this range the structures do not show a single and constant cross section. Upon using a repetition rate higher than this range the modified lines also show irregular cross sections.
+@highlight If a pulse energy of more than 234nJ for pulse repetition rates of
+@highlight  0.001 to 1MHz is used the focus is split in multiple foci.
+@highlight The presence of cracks prevent the formation of hollow stacks of microchannels and limits its size to 64 laterally overlapping channels.

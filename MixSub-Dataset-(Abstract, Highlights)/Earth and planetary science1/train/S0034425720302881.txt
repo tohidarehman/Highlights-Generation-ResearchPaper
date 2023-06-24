@@ -1,0 +1,7 @@
+ Rivers are essential to the Earth s ecosystem but the current understanding of river width variability is limited owing to the sparse distribution of gauging stations . Remote sensing data enable the surveying and analysis of river geomorphology by providing multi temporal Earth observation data from satellites at fine spatial and temporal resolutions . We proposed an optimized RivWidth method to automatically calculate width for all channels in a water map and parallelized it to produce the Multi temporal China River Width dataset which is the first 30 m multi temporal river width dataset for China during 19902015 including estimates under both seasonal fluctuations and dynamic inundation frequencies . The MCRW dataset is made up of 1.310
+
+@highlight A Landsat based dynamic river width dataset has been generated.
+@highlight A locally adaptive search method was proposed to quantify river width variation.
+@highlight River width of major rivers in China have generally increased during 19902015.
+@highlight Optimized strategies were proposed to improve the RivWidth algorithm.
+@highlight Larger width values were observed in winter for some rivers due to the ice jams.

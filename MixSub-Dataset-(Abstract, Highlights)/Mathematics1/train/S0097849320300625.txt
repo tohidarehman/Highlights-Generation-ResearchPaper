@@ -1,0 +1,7 @@
+ Accurate lung segmentation in high resolution computed tomography is important for lung disease diagnosis . When high attenuation patterns with challenging variations in intensity or shape exist in peripheral lung the binary lung surface generated from coarse segmentation is often uneven which makes lung segmentation inaccurate . This paper presents a novel surface smoothing method for abnormal lung segmentation we employ a
+
+@highlight Binary lung surface generated from coarse segmentation appears uneven.
+@highlight Surface smoothing for accurate lung segmentation.
+@highlight Fill the holes while removing noise in surface.
+@highlight Double edge effect in Laplacian of Gaussian.
+@highlight Adaptively smooth surfaces for abnormal lungs.

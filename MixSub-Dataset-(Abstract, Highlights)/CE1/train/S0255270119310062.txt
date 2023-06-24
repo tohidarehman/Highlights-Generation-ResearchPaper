@@ -1,0 +1,9 @@
+ The aim of the study is to reveal local mass transfer conditions along a tubular membrane module integrated in conventional stirred sMBR . The vessel comprises dual radial flow impeller and bottom gas distributor . CFD methodology is employed in simulation of a model bio system explored previously . The solute concentration profiles near membrane surface are determined at impeller speed 400750rpm gas flow rate 12 vvm and power law parameters 0.02
+
+@highlight Stirred MBR with tubular membrane shows diverse retention side mass transfer property.
+@highlight Boundary layer thickness varies 80m to 600m with position relevant to impeller discharge.
+@highlight Cross membrane mass transfer coefficient
+@highlight varies between 1.10
+@highlight and 1.210
+@highlight m s.
+@highlight Science based impeller induced flow pattern is foreseen to improve membrane effectiveness.

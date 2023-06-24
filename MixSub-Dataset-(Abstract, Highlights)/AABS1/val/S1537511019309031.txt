@@ -1,0 +1,6 @@
+ The DarcyForchheimer method is used for modelling the airflow through vegetation . Seven tree and shrub species with contrasting leaf morphologies were installed in a wind tunnel to allow pressure loss measurements across the plant section . Aerodynamic parameters derived from this experiment were inserted into a COMSOL Multiphysics computational fluid dynamics model . The model was confirmed to be a good predictor for airflow through vegetation R
+
+@highlight A Darcy Forchheimer model to describe air flow through vegetation is elaborated for tree and shrub species.
+@highlight Pressure loss measurement allows for modelling vegetation as a porous medium considering all morphological features.
+@highlight Differences in permeability between species could be explained by functional leaf size and leaf dissection index
+@highlight Normalized pressure loss differs between species of which trees distinguish themselves from herbaceous species.

@@ -1,0 +1,7 @@
+ This paper is the first study to apply the multivariate factor stochastic volatility model for analyzing the correlations among six cryptocurrencies . We use MFSVM with the Bayesian estimation procedure for the period from August 8 2015 to January 1 2020 . According to the findings there is a significant positive correlation between price volatility values of Bitcoin and Litecoin . Besides the volatility values of Ethereum have a positive correlation with both Ripple and Stellar . There is also a positive correlation between the volatility values of Ripple and Dash . These findings are robust to consider different correlation networks . The evidence implies that Bitcoin is mainly related to Litecoin but Ethereum is associated with other cryptocurrencies .
+
+@highlight We examine the dynamic correlations among six cryptocurrencies.
+@highlight We utilize multivariate factor stochastic volatility model with the Bayesian estimation procedure.
+@highlight Price volatility of Bitcoin is mainly related to Litecoin.
+@highlight Ethereum is associated with Dash Ripple and Stellar.
+@highlight The results are robust to consider different correlation network.

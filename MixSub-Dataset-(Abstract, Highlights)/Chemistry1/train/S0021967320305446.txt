@@ -1,0 +1,5 @@
+ The search for biomarkers allowing the assessment of disease by early diagnosis is facilitated by liquid chromatography . However it is not clear how many components are lost due to being present in concentrations below the detection limit and or being obscured by chromatographic peak overlap .
+
+@highlight Chromatographic signal simulations investigate peaks near the limit of detection
+@highlight Low level peaks are obscured by peak overlap not the limit of detection
+@highlight Alternatives to the Enke Nagels log normal distribution of signals are investigated

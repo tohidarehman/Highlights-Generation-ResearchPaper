@@ -1,0 +1,7 @@
+ This paper aims to improve the Total Harmonic Distortion performance using a robust nonlinear controller for a Grid Side Energy Conversion System Based on LCL with damping resistance and without current sensor of the RC branch . The Sliding Mode Control increases the THD because of the chattering phenomenon . But the reduction of THD is considered as an advantage of the LCL filter . These harmonics are also decreased using the robust Fuzzy Sliding Mode Control and the elimination of RC sensor reduces the system cost . The DC bus voltage is controlled using the FSMC taking into account the power loss . The evaluation of the reliability and performance of the proposed control system is achieved through a comparative study . The simulation and experimental results are carried out to validate the effectiveness of the proposed filter and control method of the grid side converter . The proposed control system is capable of providing enhanced transient performance similar to that of the SMC and keeps the steady state harmonic spectra at the same level as those of the Vector Control .
+
+@highlight The effectiveness of the LCL filter is analyzed and compared to the RL filter.
+@highlight Proposed a new Fuzzy SMC control with minimum sensors for LCL filter control.
+@highlight The advantages of proposed Fuzzy SMC are compared to that of others controllers.
+@highlight Evaluating the proposed control in terms of robustness and chattering attenuation.
+@highlight Verification of the proposed method by demonstrative experimental assessments.

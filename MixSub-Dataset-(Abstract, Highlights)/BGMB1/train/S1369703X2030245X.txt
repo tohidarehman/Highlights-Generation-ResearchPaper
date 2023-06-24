@@ -1,0 +1,7 @@
+ In this work the rate equations of two simultaneous bisubstrate Ping Pong in series reactions have been developed for the first time . To obtain these equations the approximation to the stationary state has been applied and for the total balance of enzyme all the intermediate complexes of the two reactions which are present simultaneously in the reaction medium have been taken into account .
+
+@highlight The kinetic equations of two bisubstrate Ping Pong reactions in series was developed.
+@highlight To obtain the kinetic equations the approximation to stationary state was applied.
+@highlight The bio synthesis of bis 2 ethylhexil azelate was used to check the model.
+@highlight The reaction was carried out in a batch reactor and catalysed by Novozym 435.
+@highlight A users software was developed to fit the experimental data to the model.

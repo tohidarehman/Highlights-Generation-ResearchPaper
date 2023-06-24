@@ -1,0 +1,6 @@
+ During the dissolution of the spent nuclear fuel some radionuclides are released to the solution simultaneously from different sources in the fuel . This is of particular importance to some radionuclides that contribute to the Instant Release Fraction which govern the initial radiation dose during the dissolution of the SNF . In this work a model that is able to discriminate between the different contributions responsible for the total concentration of a radionuclide in solution was developed . The model permits to establish that uranium and radionuclides that dissolved congruently with the UO
+
+@highlight Model developed to establish the contribution of segregated phases to SF dissolution.
+@highlight Mo Tc Pu Am Ce and La dissolve congruently with the matrix.
+@highlight Ru and Rh segregated from the matrix.
+@highlight Cs Rb Sr partially segregated to grain boundaries 2.1 0.9 and 0.6 respectively .

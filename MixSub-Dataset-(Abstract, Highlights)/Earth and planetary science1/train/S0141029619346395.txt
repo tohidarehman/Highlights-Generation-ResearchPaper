@@ -1,0 +1,6 @@
+ Batten to rafter connections in light framed timber housing can be vulnerable to wind loading and failures of these connections are one of the more common failure modes seen in post windstorm damage surveys . Such failures often occur in a progressive or cascading manner resulting in the loss of a large section of the roof envelope . These progressive failures of batten to rafter connections are a complex process influenced by the pressure fluctuations on the roof surface the response of individual connections and the behaviour of the structural system as a whole . This study presents a method for examining load redistribution and progressive failure behaviour of batten to rafter connections in light framed structures . Nonlinear time history analyses were performed using a finite element model using fluctuating pressures determined from a wind tunnel study and connection properties determined from laboratory testing of connections under dynamic loads .
+
+@highlight The structural response under wind loads of a light framed structure was determined.
+@highlight The procedure involved wind tunnel tests connection tests and structural analysis.
+@highlight Time history analysis showed load redistribution and progressive failure of connections.
+@highlight Fragility functions were developed based on wind speed damage thresholds.

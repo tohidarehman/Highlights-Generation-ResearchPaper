@@ -1,0 +1,6 @@
+ This paper revisits the relationship between fiscal decentralization and economic growth by addressing the endogeneity issue stemming from reverse causality and unobserved factors that has plagued previous extensive literature on this subject . In our approach we use the Geographic Fragmentation Index and country size as instrumental variables which we argue are strong and consistent instruments for fiscal decentralization . Empirically we find that indeed both instruments are strong and valid in the first stage of estimation and that on average a 10 percent increase in subnational expenditure or revenue sharesthe conventional measures of decentralizationwill increase GDP per capita growth by approximately 0.82 and 0.57 percentage points respectively .
+
+@highlight We revisit the relationship between fiscal decentralization and economic growth by addressing the endogeneity issue.
+@highlight We use the Geographic Fragmentation Index GFI and country size as instrumental variables. Both are valid and strong.
+@highlight We find that a ten pp. increase in subnational expenditure shares will increase GDP per capita growth by 0.82pp.
+@highlight We also find that a ten pp. increase in subnational revenue shares will increase GDP per capita growth by 0.57pp.

@@ -1,0 +1,7 @@
+ Most vehicle routing approaches disregard the need to refuel fleets . However planners search for opportunities to refuel at lower prices even if counter intuitively distant fuel stations need to be visited . We propose a novel mathematical formulation and develop branch and cut and matheuristic algorithms to efficiently tackle this problem . Results indicate that to minimize costs detour distances may increase up to 6 percentage points when fuel stations with lower prices are farther away from the depot . For practice these insights imply that current policies disregarding station location and or fuel prices along with myopic planning horizons may lead to sub optimal decisions .
+
+@highlight A novel mathematical formulation considers different fuel prices in vehicle routing.
+@highlight The objective function minimizes the cost of fuel purchased at several fuel stations.
+@highlight New branch and cut and metheuristic algorithms efficiently solve the formulation.
+@highlight Instances are solved to perform a sensitivity analysis over fuel related parameters.
+@highlight Longer distances do not always mean larger fuel cost when fuel prices are considered.

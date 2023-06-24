@@ -1,0 +1,7 @@
+ A supply chain network MILP model developed by means of AIMMS software and a process plant simulation model developed by means of Aspen Plus are combined for the optimization of a biorefinery network . Optimization of the supply chain network is initially addressed using literature process and economic data . The results are used as input in the Aspen Plus
+
+@highlight A combined method for supply chain network and a process design optimization is proposed.
+@highlight Lignocellulosic biorefineries to produce ethanol ethyl levulinate and electricity are modelled.
+@highlight A wheat straw supply network is economically feasible in Germany with four biorefineries.
+@highlight The environmental margin of the wheat straw supply network is about 4 Mt of CO
+@highlight per year.

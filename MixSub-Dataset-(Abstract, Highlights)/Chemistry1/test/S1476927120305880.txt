@@ -1,0 +1,6 @@
+ Human Rho associated coiled coil forming kinase is a class of essential neurokinases that consists of two structurally conserved isoforms ROCK I and ROCK II they have been revealed to play distinct roles in the pathogenesis of Alzheimers disease and other neurological disorders . Selective targeting of the two kinase isoforms with small molecule inhibitors is a great challenge due to the surprisingly high homology in kinase domain and the full identity in kinase active site . Here we describe a computational protocol to systematically profile the selectivity of Fasudil and its 25 analogs between the two kinase isoforms . It is suggested that the substitution of Fasudils 1 4 diazepane moiety with rigid ring such as Ripasudil and Dimehtylfasudil would render the resulting inhibitors of ROCK II over ROCK I
+
+@highlight The Fasalog selectivity between ROCK I and ROCK II kinase isoforms is investigated systematically.
+@highlight The 1 4 diazepane moiety plays an important role in Fasalog selectivity.
+@highlight The region out of kinase active site can indirectly influence Fasalog selectivity through allosteric effect.
+@highlight Several isoform selective Fasalogs are identified.

@@ -1,0 +1,6 @@
+ We analyse the drivers of hedge fund performance focusing simultaneously on fund size age lockup period fund strategies business cycles and different market conditions dealing with the omitted variable bias . We use exogenous break points and a switching Markov model to endogenously determine different market conditions . We find that HFs deliver positive alpha only during good times irrespective of their fundamentals . During bad times they minimise their systematic risk . Small and young funds and those with redemption restrictions deliver higher alpha compared to their peers during good times . Finally specific strategies deliver significantly negative alpha during bad times .
+
+@highlight Hedge funds deliver alpha only in good times irrespective of their fundamentals.
+@highlight During bad times hedge funds minimise their systematic risk.
+@highlight Small young and lock up funds outperform their peers in terms of alpha.
+@highlight During bad times some hedge funds deliver even negative alpha.

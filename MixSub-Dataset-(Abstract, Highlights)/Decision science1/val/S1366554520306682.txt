@@ -1,0 +1,7 @@
+ Despite significant advances in freight transport modeling in recent years there is still lack of available tools for evaluating novel logistics solutions . We introduce the framework of SimMobility Freight which is part of SimMobility a multi scale agent based urban transportation simulation platform . SimMobility Freight is capable of simulating commodity contracts logistics and vehicle operation planning and parking decisions in a fully disaggregate manner . This allows us to evaluate alternative logistics solutions and measure their impacts . To illustrate its capability we conduct an analysis of delivery time window regulations assessing the policy impacts .
+
+@highlight An agent based freight simulator is proposed for evaluating logistics solutions.
+@highlight SimMobility Freight is integrated into an urban transportation simulation platform.
+@highlight Long term model simulates commodity contracts and goods vehicle overnight parking.
+@highlight Mid term model simulates logistics planning vehicle operations and traffic flows.
+@highlight The impacts of the regulations of delivery time windows are predicted.

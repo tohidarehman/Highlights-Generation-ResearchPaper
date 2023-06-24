@@ -1,0 +1,7 @@
+ We consider a duopolistic market in which a green firm competes with a brown rival and each firm sells two quality differentiated products . We study optimal non linear contracts offered by the two firms when consumers Are privately informed about their willingness to pay for quality and differ in their environmental consciousness . We characterize how consumers with different valuations for quality self select into firms and show that the ranking of qualities relative prices and profits all depend on the interplay between consumers valuations and firms cost heterogeneity . Interestingly when consumers valuations for quality are relatively low the brown firm does not offer a low quality variety . This contrasts with the situation of full information in which both firms commercialize a high and a low quality variety . Hence the lack of information about consumers valuations may not only favor the green firm in terms of higher prices and profits but also reduce the product range offered by the brown rival .
+
+@highlight A green and a brown firm compete to serve environmentally concerned consumers.
+@highlight Consumers are privately informed about their valuations for intrinsic quality.
+@highlight Firms offer optimal non linear contracts conditional on consumers valuations.
+@highlight When consumers valuations are low the green firm enjoys higher prices and profits.
+@highlight Under the same circumstances the brown firm abstains from offering the low quality variant.

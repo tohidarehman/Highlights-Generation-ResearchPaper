@@ -1,0 +1,7 @@
+ We use a recently developed version of the configuration method for open shells to study electronic structure of erbium and fermium atoms . We calculate excitation energies of odd states connected to the even ground state by electric dipole transitions the corresponding transition rates isotope shift hyperfine structure ionization potentials and static scalar polarizabilities . We argue that measuring isotope shift for several transitions can be used to study nuclear deformation in even even nuclei . This is important for testing nuclear theory and for searching for the hypothetical island of stability . Since erbium and fermium have similar electronic structures calculations for erbium serve as a guide to the accuracy of the calculations .
+
+@highlight Calculation of electronic structure and spectroscopic properties of erbium and fermium.
+@highlight Energy levels ionization potentials polarizabilities isotope shift hyperfine structure electric dipole transition amplitudes for Er and Fm.
+@highlight Discussion on the use of hyperfine structure measurements and calculations for the extraction of unknown nuclear moments of Fm.
+@highlight Discussion on the use of isotope shift for the extraction of nuclear parameters of Fm isotopes including nuclear RMS radius and the parameter of nuclear quadrupole deformation.
+@highlight Discussion on the use of calculated isotope shift in the search for hypothetical island of stability.

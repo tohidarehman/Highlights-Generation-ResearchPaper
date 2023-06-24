@@ -1,0 +1,5 @@
+ Using asymptotic methods we investigate a local in a steady state neighbourhood behavior of solutions in the FermiPastaUlam model . Basing on the formalism of the normalization method we got special nonlinear evolution equations . The dynamics of these equations substantially defines the behavior of solutions of original equations . We made the conclusions about the interaction of waves moving in different directions .
+
+@highlight developed the methods of local analysis of dynamics.
+@highlight studied the interaction of waves moving in different directions.
+@highlight got special evolution nonlinear equations to describe the original equation dynamics.

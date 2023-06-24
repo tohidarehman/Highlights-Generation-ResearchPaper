@@ -1,0 +1,8 @@
+ Meteorological processes such as tides influence ionospheric variability through vertical coupling . For the first time we have used data from Communication Navigation Outage and Forecasting System satellite from 20082015 to develop a Neural Network vertical
+
+@highlight A model of vertical
+@highlight drift taking into account a proxy of tides has been developed based on C NOFS satellite data.
+@highlight In most cases the developed models reproduce the diurnal patterns of vertical
+@highlight drifts including the expected pre reversal enhancement.
+@highlight Inclusion of tides proxy improves vertical
+@highlight drift modelling by 22.2 and 16.7 over the East and West African sectors respectively.

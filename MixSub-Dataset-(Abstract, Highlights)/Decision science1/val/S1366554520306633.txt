@@ -1,0 +1,6 @@
+ This study considers multiple depots heterogeneous trucks and multiple visiting in a static bike rebalancing optimization problem with malfunctioning bikes in free floating bike sharing system . An integer linear programming model is established for this problem and an effective greedy genetic heuristic is developed to solve it . Share A Bull shared bicycle system is used to test the effectiveness of the proposed algorithm . Divvy bike sharing system is utilized to test a large scale instance in real life quantify the benefits of this comprehensive repositioning strategy compared with separate repositioning strategy and analyze some special properties of this comprehensive operation .
+
+@highlight Study a bike rebalancing problem with broken bikes for free floating bike sharing.
+@highlight The model considers multiple depots heterogeneous trucks and multiple visiting.
+@highlight An effective heuristic is developed to solve it for large instances.
+@highlight Quantify the benefits of this comprehensive repositioning strategy.

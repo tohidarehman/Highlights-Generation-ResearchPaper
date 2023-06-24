@@ -1,0 +1,6 @@
+ The objective of this paper is to examine the safety climate knowledge epistemology using bibliometric and systematic literature network analysis . For this purpose bibliometric information of research article published on safety climate topic was retrieved from Scopus databases . In total 494 articles published between 1980 and 2018 were retrieved . These articles cover 1373 authors 203 journals and 2511 keywords . Information collected was analyzed employing bibliometric and network analysis approach using an open source computer program R and VOSviewer .
+
+@highlight Safety climate is the one among the highly studied construct in industrial psychology.
+@highlight Huang Y H Zohar D. are the top most productive authors in safety climate domain.
+@highlight Zohars seminal work Safety climate in industrial organizations Theoretical and applied implications is the most cited work.
+@highlight Co citation analysis of most productive authors yielded three important knowledge cluster.

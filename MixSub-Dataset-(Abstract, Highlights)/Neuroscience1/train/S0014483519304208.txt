@@ -1,0 +1,6 @@
+ Ocular rigidity is thought to play a role in the pathogenesis of glaucoma but the lack of reliable non invasive measurements has been a major technical challenge . We recently developed a clinical method using optical coherence tomography time lapse imaging and automated choroidal segmentation to measure the pulsatile choroidal volume change and calculate OR using Friedenwald s equation . Here we assess the validity and repeatability of this non invasive technique . We also propose an improved mathematical model of choroidal thickness to extrapolate V from the pulsatile submacular choroidal thickness change more accurately . The new mathematical model uses anatomical data accounting for the choroid thickness near the equator . The validity of the technique was tested by comparing OR coefficients obtained using our non invasive method OR
+
+@highlight Clinical validation of a non invasive method for measuring ocular rigidity
+@highlight Strong correlation between OR coefficients obtained non invasively and invasively.
+@highlight Integrated choroidal anatomy to improve our mathematical model and OR measurements.
+@highlight The method is reproducible and can be used to measure OR accurately.

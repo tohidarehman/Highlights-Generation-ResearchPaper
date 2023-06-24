@@ -1,0 +1,7 @@
+ Multi label learning is facing great challenges due to high dimensional feature space complex label correlations and noises in multi label data . Feature selection techniques have attracted considerable attention to address the problems . In this paper we design our method based on dual graph regularization i.e . feature graph regularization and label graph regularization . The feature graph regularization is used to preserve the geometric structure of features while label graph regularization intends to explore the correlations of labels . Furthermore the
+
+@highlight We design our method based on dual graph regularization and l2 1 norm.
+@highlight Non negative constraint with l2 1 norm ensures row sparse property.
+@highlight Developing an optimization scheme to solve the proposed method.
+@highlight The detailed proof of convergence for optimization scheme is presented.
+@highlight Verifying the effectiveness of our method in comparison to state of the art methods.

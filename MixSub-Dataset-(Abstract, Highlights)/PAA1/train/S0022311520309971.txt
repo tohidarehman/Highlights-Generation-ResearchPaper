@@ -1,0 +1,6 @@
+ The key issue in tokamak is change of physical properties of plasma facing materials such as tungsten due to extreme conditions and long pulse operation . Practically it is difficult to analyze hardness changes online through conventional methods . Hence an online monitoring technique is much desired which measures hardness changes in fusion devices . In this study laser induced breakdown spectroscopy is used as in situ monitoring tool to measure hardness of tungsten heavy alloy samples after exposure to different irradiation of plasma ranging from 0.108 to 1.00MW m
+
+@highlight Exposure of tungsten heavy alloy with PSI plasma irradiation.
+@highlight Variation in hardness crystalline and microstructural properties of WHA with PSI power density.
+@highlight In situ LIBS hardness measurement of tungsten heavy alloy WHA .
+@highlight Relationship between LIBS calibration curve ionic atomic line ratio and plasma electron temperature with harness.

@@ -1,0 +1,12 @@
+ The chemokine receptor CXCR4 has been explored as a drug target due to its involvement in pathological conditions such as HIV infection and cancer metastasis . Here we report the structureactivity relationship study of novel CXCR4 antagonists based on an aminoquinoline template . This template is devoid of the chiral center in the classical tetrahydroquinoline ring moiety and therefore can be easily synthesized . A number of potent CXCR4 antagonists were identified exemplified by compound
+
+@highlight Aminoquinoline is identified as a novel scaffold for CXCR4 antagonists.
+@highlight The synthesis is greatly simplified compares with classical tetrahydroquinoline.
+@highlight Compound
+@highlight competes with APC conjugate 12G5 for CXCR4 binding IC
+@highlight  57nM .
+@highlight Compound
+@highlight inhibits CXCL12 induced cytosolic calcium increase IC
+@highlight  0.24nM .
+@highlight Compound
+@highlight inhibits CXCR4 CXLC12 mediated chemotaxis in a transwell assay.

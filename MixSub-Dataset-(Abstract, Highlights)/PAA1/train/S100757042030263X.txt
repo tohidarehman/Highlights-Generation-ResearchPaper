@@ -1,0 +1,9 @@
+ In this paper we numerically investigate the space fractional nonlinear damped wave equation . We construct a novel high accuracy dissipation preserving finite difference scheme by using the new fourth order fractional central difference operator . Thanks to the toeplitz like differentiation matrix we further raise the computation efficiency of the proposed scheme by fast Fourier transform . Moreover we obtain the error estimate of our proposed scheme in
+
+@highlight We propose a new fourth order dissipation preserving difference scheme for space fractional nonlinear damped wave equations.
+@highlight Our proposed fourth order scheme can generate the full toeplitz matrix it is convenient for us to speed up the matrix vector multiplication by fast Fourier transform.
+@highlight We obtain the
+@highlight and
+@highlight norm estimates which are discussed for two dimensional high dimensional space fractional nonlinear damped wave equations.
+@highlight We obtain the convergence analysis of fully discrete scheme without any restriction on step size ratio.
+@highlight Our proposed scheme performs more robust than some existing schemes for conserving dissipation preserving law.

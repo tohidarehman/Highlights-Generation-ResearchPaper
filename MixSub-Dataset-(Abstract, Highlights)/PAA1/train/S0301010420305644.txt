@@ -1,0 +1,7 @@
+ Inhibition of gas hydrate is extremely important in gas hydrate recovery and oil gas transportation . Antifreeze proteins are environment friendly inhibitors and as one of the most active AFPs up to now the inhibition mechanism of RiAFP was open to questions . Using molecular dynamics simulations strong interaction between specific residues of AFPs and water molecules has been found . Residues ASP and ARG have strong ability to form hydrogen bonds with water and strong hydrogen bonding interaction with water . For residues THR SER and ALA they also have strong hydrogen bonding interaction with water and the total numbers of hydrogen bonds formed with water are rather large considering the large numbers of these residues in RiAFP . NH
+
+@highlight NH
+@highlight group in GLN methyl group in MET and ILE all show strong hydration with water.
+@highlight Interaction between methyl group of the THR residues with water is strongly weakened.
+@highlight HSD ASP and GLU have rather strong ability to form hydrogen bonds with water.
+@highlight The number and lifetime of hydrogen bonds between ASP ARG and water are quite large.

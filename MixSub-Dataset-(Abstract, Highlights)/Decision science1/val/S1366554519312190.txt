@@ -1,0 +1,5 @@
+ The paper proposes a two stage approach that combines data mining and complex network theory to optimize the locations and service areas of dry ports in a large scale inland transportation system . In the first stage candidate locations of dry ports are weighted based on their eigenvector centrality in the complex network of association rules mined from a large amount of international transaction data . In the second phrase dry port locations and their service areas are optimized using the gravity based community structure . The method is validated in a real case study which optimizes a large scale dry port network in Mainland China in the context of the Belt and Road Initiatives . As a result optimal dry port locations include key transportation hubs that closely reflect the real BRI development plan hence the proposed approach is validated .
+
+@highlight Use data mining and complex network for large scale dry port location optimization.
+@highlight Optimal locations are derived from microeconomic and macroeconomic perspectives.
+@highlight Chinese dry ports have strong community structure in the Belt and Road Initiatives.

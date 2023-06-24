@@ -1,0 +1,7 @@
+ In this study banded one gas spectral line based weighted sum of gray gases model is coupled with a 3 D radiation code based on method of lines solution of discrete ordinates method for freeboard of METU 0.3 MW
+
+@highlight Band wise selection of pathlengths for banded SLW 1 provides accurate predictions.
+@highlight Banded SLW 1 accurately predicts source terms and heat fluxes in air and oxy fired cases.
+@highlight Increasing particle load further improves the accuracy of banded SLW 1.
+@highlight Use of spectral emissivity is necessary for optically thin media bounded by hot walls.
+@highlight Accuracy of gray wall assumption depends on spectral properties of wall materials.

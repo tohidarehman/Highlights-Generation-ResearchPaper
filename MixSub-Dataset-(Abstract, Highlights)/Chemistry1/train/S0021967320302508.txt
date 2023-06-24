@@ -1,0 +1,6 @@
+ Type 1 autoimmune pancreatitis is a kind of IgG4 related disease in which higher IgG4 and total IgG levels have been found in patient serum . Due to the similar imaging features and laboratory parameters between AIP and pancreatic ductal adenocarcinoma a differential diagnosis is still challenging . Since IgG profiles can be potential bio signatures for disease we developed and validated a method which coupled on bead enzymatic protein elution process to an efficient UHPLCMS MS method to determine IgG subclass and glycosylation . A stable isotope labeled IgG was incorporated as internal standard to achieve accurate quantification . For calibration curves the correlation coefficients for total IgG and the four IgG subclasses were higher than 0.995 . Intraday
+
+@highlight Simple and finely optimized on bead enzymatic elution sample pretreatment.
+@highlight SIL IgG internal standard was incorporated for absolute quantification of endogenous IgG.
+@highlight Concentrations of IgG subclass and profiles of Fc glycan can be determined for pancreatic diseases.
+@highlight Seven IgG glycopeptides were discovered as bio signatures for differentiating AIP and PDAC.

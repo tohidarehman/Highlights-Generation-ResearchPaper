@@ -1,0 +1,7 @@
+ Running a cost effective human blood transfusion supply chain challenges decision makers in blood services world wide . In this paper we develop a Markov decision process with the objective of minimising the overall costs of internal and external collections storing producing and disposing of blood bags whilst explicitly considering the probability that a donated blog bag will perish before demanded . The model finds an optimal policy to collect additional bags based on the number of bags in stock rather than using information about the age of the oldest item . Using data from the literature we validate our model and carry out a case study based on data from a large blood supplier in South America . The study helped achieve an overall increase of 4.5 in blood donations in one year .
+
+@highlight We study and inventory management problem at blood banks.
+@highlight The inventory can be supplemented by external collection teams.
+@highlight We propose a Markov decision process to model the decisions.
+@highlight The model accounts for the perishability of blood supplies.
+@highlight The model is applied to a real case study in Rio de Janeiro Brazil.

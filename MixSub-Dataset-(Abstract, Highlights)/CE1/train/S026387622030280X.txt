@@ -1,0 +1,6 @@
+ An entrained flow gasification of Shenmu coal was modeled in this work . The conventional gasification reaction process was split into two stages pyrolysis and gasification . The model was comprised of various unit operations including preheating of feedstock mixing pyrolysis gasification heat exchanging separation and quenching which were correlated to an actual gasification process . Both direct and indirect heat exchanging among the feedstock the product the reaction system the cooling water and the quench water were taken into consideration . The investigation included the influence of water coal ratio oxygen coal ratio and temperature on the composition of the product gas the yield of the product and the quench water amount . The results showed that H
+
+@highlight Gasification of Shenmu coal was simulated using Aspen Plus.
+@highlight A novel quenching water process was designed to stabilize the cooling cycle.
+@highlight An effective calculation sequence was proposed for the cooling cycle analysis.
+@highlight The factors influencing the gasification process were systematically investigated.

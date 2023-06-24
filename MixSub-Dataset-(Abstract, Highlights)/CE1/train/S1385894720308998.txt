@@ -1,0 +1,6 @@
+ We report a simple non invasive sensor for monitoring flow rate and flow uniformity in absorbing and non absorbing segmented flows using time resolved measurements of optical transmission . The self contained sensor is simple in design inexpensive and easy to assemble comprising just two light emitting diodes two photodiodes a 3D printed housing and a low cost microcontroller development board . All calculations are carried out directly on the microcontroller using a computationally efficient algorithm based on the sliding discrete Fourier transform . The sensor is released as open hardware with design files source code and assembly instructions included in the
+
+@highlight Optical determination of flow rate and flow uniformity in multiphase flows.
+@highlight Method is applicable to both absorbing and colourless multiphase flows.
+@highlight Method is applicable to both non reactive and reactive multiphase flows.
+@highlight Data is processed on a microcontroller using the sliding discrete Fourier transform.

@@ -1,0 +1,6 @@
+ Transportation agencies are starting to leverage increasingly available GPS trajectory data to support their analyses and decision making . While this type of mobility data adds significant value to various analyses one challenge that persists is lack of information about the types of vehicles that performed the recorded trips which clearly limits the value of trajectory data in transportation system analysis . To overcome this limitation of trajectory data a deep
+
+@highlight A CNN approach for classifying vehicles based on GPS data is proposed.
+@highlight A novel representation of a GPS trajectory suitable for deep learning is proposed.
+@highlight The approach outperforms traditional machine learning methods.
+@highlight The approach increases usability of GPS trajectory data.

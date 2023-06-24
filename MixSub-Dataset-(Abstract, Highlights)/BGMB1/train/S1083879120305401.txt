@@ -1,0 +1,5 @@
+ The pulmonary function test is an important test for risk stratification before allogeneic transplantation . However it might be preferable to avoid PFT as much as possible in the recent era of coronavirus disease 2019 because PFT requires forced expirations and might produce aerosols increasing the risk of COVID 19 transmission . Therefore we tried to predict normal PFT results before allo HCT based on computed tomography findings . This study included 390 allo HCT recipients at our center for whom lung CT images and PFT results before allo HCT were available . Abnormal CT findings were less likely to be observed in the normal PFT group 47.0 versus 67.4
+
+@highlight The pulmonary function test PFT is an important test for risk stratification before allogeneic hematopoietic stem cell transplantation allo HCT although it might be preferable to avoid unnecessary PFT during the COVID 19 pandemic.
+@highlight Our computed tomography CT based model for predicting normal PFT showed relatively high specificity 80 .
+@highlight PFT might be omitted in patients with normal CT findings before allo HCT.

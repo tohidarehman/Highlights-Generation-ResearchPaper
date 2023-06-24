@@ -1,0 +1,10 @@
+ Green Roofs are a form of sustainable low impact development . They can reduce peak stormwater runoff and improve the quality of the runoff from buildings and developments . The water captured by the GRs can be used as a resource for irrigation and domestic water by installing rainwater tanks under the drainpipe of the roof . However few studies have focused on the relationship between GRs modelling and the management or design for rainwater tanks to avoid roof runoff .
+
+@highlight .In this study in order to give some useful advices to optimize the management or design of rainwater tanks the three models were tested to get the one that best reflects the truth of GRs. In this part a one reservoir conceptual interflow model CI MODEL considering the interflow of the GRs was used to predict the performance of GRs and been compared by the Storm Water Management Model SWMM and the physical process model HYDRUS 1D based on observed rainfall and runoff data.
+@highlight After the comparison from 0.4 to 2.0 mm min rainfall intensities it was concluded that the CI MODEL is a useful tool in modelling GRs. According to those conclusions of CI MODEL some advices could been given to affect the management and design of rainwater tanks to limit the waste of runoffs that can be reused.
+@highlight When it rains the runoff start time is short. So that the wisest thing is to empty rainwater tanks before it rains. If this is difficult it is acceptable to empty it within 25 minutes of the onset of rain 2 The volume of the rainwater tanks is better larger than 0.045 m
+@highlight for per unit area m
+@highlight  of GRs. Besides this value is calculated by the area and depth of the GRs in this study.
+@highlight The volume of the rainwater tanks is better larger than 0.045 m
+@highlight for per unit area m
+@highlight  of GRs. Besides this value is calculated by the area and depth of the GRs in this study.

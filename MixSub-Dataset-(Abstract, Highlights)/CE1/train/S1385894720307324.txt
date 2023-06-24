@@ -1,0 +1,7 @@
+ A new mechanism is proposed to provide a viable physical explanation for the action of microwaves in solvent extraction processes . The key innovation is Temperature Induced Diffusion a recently demonstrated phenomenon that results from selective heating using microwaves . A mechanism is presented which incorporates microwave heating cellular expansion heat transfer and mass transfer all of which affect the pressure of cell structures within biomass . The cell pressure is modelled with time across a range of physical and process variables and compared with the expected outputs from the existing steam rupture theory . It is shown that steam rupture is only possible at the extreme fringes of realistic physical parameters but Temperature Induced Diffusion is able to explain cell rupture across a broad and realistic range of physical parameters and heating conditions . Temperature Induced Diffusion is the main principle that governs microwave assisted extraction and this paves the way to being able to select processing conditions and feedstocks based solely on their physical properties .
+
+@highlight New mechanism to explain action of microwaves on biomass solvent systems.
+@highlight Model used to test steam rupturing and Temperature Induced Diffusion hypotheses.
+@highlight Steam rupturing only possible under extreme processing conditions.
+@highlight Temperature Induced Diffusion causes cell rupture with normal processing conditions.
+@highlight Will enable feedstock selection and process design for biomass valorisation.

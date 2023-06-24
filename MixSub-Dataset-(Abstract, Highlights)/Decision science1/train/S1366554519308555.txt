@@ -1,0 +1,6 @@
+ Shipping industry is the backbone of global trade . However the large quantities of greenhouse gas emissions from shipping such as carbon dioxide CO
+
+@highlight Propose a two stage model to predict and reduce fuel consumption for a dry bulk ship.
+@highlight Develop a random forest RF regressor for ship fuel consumption prediction.
+@highlight Develop a mixed integer linear programming MIP model to optimize ship sailing speed.
+@highlight 27 of fuel can be saved compared with the real situation of twelve days of continuous voyage.

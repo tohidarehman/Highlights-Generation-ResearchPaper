@@ -1,0 +1,6 @@
+ The conductive membrane can improve water flux and selectivity when it is employed as a membrane electrode . However stability of the membrane structure during electro filtration is still a challenge . In this study a conductive graphene hydrogel membrane was fabricated by compaction of a graphene hydrogel under external pressure . The pore size of GHM was stable at 100nm under anodic oxidation and cathodic reduction state which was beneficial for long term electro control of membrane fouling . When the GHM was negatively charged membrane fouling was mainly reduced by electrical repulsion and
+
+@highlight A GHM was fabricated with stable pore structure at different reduction degrees.
+@highlight Fouling was controlled by electrical repulsion and electro oxidation on GHM.
+@highlight GHM could be self cleaned by electro oxidation process as a cathode at 1 V.
+@highlight Electrical repulsion was the key factor that mitigated GHM fouling in EMR.

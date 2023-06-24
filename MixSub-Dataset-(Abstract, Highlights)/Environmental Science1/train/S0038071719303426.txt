@@ -1,0 +1,8 @@
+ Pyrogenic organic matter is produced by the incomplete combustion of organic matter and can represent a large portion of total soil organic carbon in both fire affected systems and managed systems where PyOM is added intentionally as a soil amendment . The effects of PyOM on the structure of soil microbial communities remain a topic of fundamental interest and a number of studies have begun to identify and characterize the PyOM associated microbial community . However it is unclear to what extent the effects of PyOM on soil bacteria are consistent . Our goals were to synthesize current related studies to determine if there is a detectable and consistent charosphere community that characterizes PyOM amended soils distinguish consistent responders at the phylum level to PyOM amendments and identify individual PyOM responsive taxa that increase in relative abundance consistently across different soil types . We re analyzed publicly available raw 16S Illumina sequencing data from studies that investigated the bacterial communities of PyOM amended soils . We determined that soil source is more important than PyOM for shaping the trajectory of the community composition . Although we were able to identify a few genera that respond positively and somewhat consistently to PyOM amendments including
+
+@highlight Soil source is more important than PyOM for determining community composition.
+@highlight Positively responding genera include PAH degraders and wildfire responders.
+@highlight Positive responders include
+@highlight and
+@highlight Understanding remains limited by range of soils PyOMs and experimental design.
+@highlight Researchers must resist the temptation to generalize across systems.

@@ -1,0 +1,6 @@
+ This research presents a study on the numerical simulation of the structural behavior of bolted shear connectors used as force transfer device in concrete filled composite columns . The numerical model was developed in ABAQUS software using the constitutive model named Concrete Damaged Plasticity . In the study the influence of different concrete stress strain relationships on tensile and compressive strengths was analyzed as well as the influence of the use of damage variables . Three different stress strain relationships on concrete compressive strength were tested and another three on concrete tensile strength distinguished by the crack opening displacement . The obtained results were calibrated with the experimental results of four experimental models and next the proposed calibration was compared with twelve other experimental results . Finally the proposed parameters showed to be suitable to represent the structural behavior of bolted shear connectors applied in force transfer in concrete filled composite columns .
+
+@highlight Bolted shear connectors used in concrete filled composite columns was investigated.
+@highlight A finite element model was calibrated using Concrete Damage Plasticity.
+@highlight Different concrete stress strain relationship was tested.
+@highlight The numerical model was validated with experimental results.

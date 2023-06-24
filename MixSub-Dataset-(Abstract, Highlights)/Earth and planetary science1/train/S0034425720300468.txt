@@ -1,0 +1,9 @@
+ Satellite observations for the Arctic and boreal region may contain information of vegetation soil snow snowmelt and or other surface water bodies . We investigated the impacts of vegetation soil snow and surface water on empirical vegetation snow indices on a tundra ecosystem area located around Utqiavik of Alaska with the Moderate Resolution Imaging Spectrometer images in 20012014 . Empirical vegetation indices such as normalized difference vegetation index enhanced vegetation index the index of near infrared of vegetation NIR
+
+@highlight Presence of snow nonlinearly decreases vegetation indices NDVI EVI2 and NIR
+@highlight NDVI EVI2 and NIR
+@highlight linearly increase with VGCF.
+@highlight NDSI linearly decreases with VGCF.
+@highlight NDSI non linearly increases with snow cover fraction SNOWCF .
+@highlight NDSI linearly increases with sum of SNOWCF and WaterBodyCF R
+@highlight  0.976 .

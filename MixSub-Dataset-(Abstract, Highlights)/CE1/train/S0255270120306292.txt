@@ -1,0 +1,7 @@
+ As a statistical mathematical and optimization tool Response Surface Methodology was applied for implementing a systematic route for one step controlled carbonization of Spent Bleaching Earth . The main annealing factors viz . time and temperature based on methylene blue adsorption efficiency as a response were analyzed optimized through RSM along with a Face Centered Composite Design . Regenerated samples at three levels of time and temperature were utilized in the same condition adsorption process . The maximum removal efficiency was predicted 31.07 at the estimated optimal condition which was in agreement with the experimental results achieved at the optimum condition by carbonized SBE . Characterization analyses were carried out to compare the characteristics of samples . Furthermore the diminution of MB by CSBE was studied at diverse solution pHs adsorption times adsorbent dosages initial MB concentrations and adsorption temperatures . The adsorption mechanism was best expressed by pseudo second order kinetics and Langmuir isotherm models with maximum adsorption capacity of 53.91 mg g
+
+@highlight A carbonized sorbent was prepared based on spent clay from an edible oil refinery.
+@highlight Carbonization factors were optimized via RSM considering methylene blue removal.
+@highlight Spent carbonized and virgin bleaching earths were characterized and compared.
+@highlight Impact of the adsorption condition on dye diminution was studied and optimized.
+@highlight Pseudo second order kinetic and Langmuir isotherm models best fitted the data.

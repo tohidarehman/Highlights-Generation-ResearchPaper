@@ -1,0 +1,7 @@
+ The paper proposes a control method of a single phase active power line conditioner aimed at correcting the power factor of linear and non linear loads supplied by distorted voltage utility . The method that is based on the single phase
+
+@highlight Novel proposed approach for power factor correction of single phase loads.
+@highlight Effectiveness of the compensation also when the utility voltage is distorted.
+@highlight Control algorithm based on the single phase p q theory and using TOSSI filters.
+@highlight Achievement of unity power factor rather than sinusoidal utility current.
+@highlight Effectiveness of the approach is corroborated by hardware in the loop tests.

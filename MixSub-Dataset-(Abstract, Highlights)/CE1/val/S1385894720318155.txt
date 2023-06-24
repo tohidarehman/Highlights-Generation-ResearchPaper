@@ -1,0 +1,7 @@
+ Due to higher theoretical specific capacity and lower electrochemical redox potential lithium metal is considered an ideal anode material for high specific energy batteries . However safety problems related to the uncontrolled growth of lithium dendrites and the volume expansion of lithium have hindered its commercialization . This paper reports a viscoelastic interface based on viscoelastic polymer to protect lithium metal anode . The lithiophilic interface has good chemical electrochemical and mechanical stability which makes the dendrite free and low volume expansion lithium possible . The Li Li symmetrical battery based on anode protected by viscoelastic interface show better cycle stability and longer cycle life . The morphologies after cycles show a relatively smooth and dense lithium deposition . Li LFP full battery test results show higher reversible capacity at higher C rate high capacity retention and stable coulomb efficiency at 0.2C after 200 cycles . This work provides insight into the strategy of interfacial engineering to protect lithium metal anode .
+
+@highlight A viscoelastic polymer is used to stabilize lithium metal anode.
+@highlight The abundant polar functional groups in HPMC molecules can better regulate the uniform deposition of lithium.
+@highlight The viscoelastic interface shows better mechanical strength and elasticity.
+@highlight The viscoelastic interface can adhere to the lithium metal anode surface well during cycling process.
+@highlight A smoother lithium surface after long term cycle is achieved.

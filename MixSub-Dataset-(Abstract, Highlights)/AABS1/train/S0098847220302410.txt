@@ -1,0 +1,6 @@
+ Long noncoding RNAs are a widespread RNA molecules of more than 200 bp that lack coding potential and have been proven to function in response to abiotic stresses . In this study we identified salt stress induced lncRNAs in grapevine roots and predicted their intricate regulatory roles . A total of 3952 novel lncRNAs that were distributed across all 19 grape chromosomes more than 70 of which were located in intergenic regions . Compared with mRNAs lncRNAs exhibit short ORFs a high SNP density and low expression . A total of 1661 differentially expressed lncRNAs were detected in salt treated roots in comparison to the control and the greatest number of DElncRNAs were produced in the roots at 12h after salt treatment . We predicted that 546 771 and 608 mRNAs could be directly or indirectly regulated by DElncRNAs in
+
+@highlight A total of 1661 lncRNAs responded to salt stress in grapevine roots.
+@highlight Target genes of salt induced grapevine lncRNAs were predicted.
+@highlight A total of 815 lncRNAs and 608 mRNAs were linked through 75 shared miRNAs.
+@highlight lncRNAs might regulate salt resistance through multiple pathways including ion binding.

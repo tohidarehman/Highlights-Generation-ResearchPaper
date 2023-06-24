@@ -1,0 +1,6 @@
+ Thresholds of heat stress are identified by determining the values of thermal comfort indices with significant change of animal responses . However published thresholds may lead to inaccuracy when dealing with specific climate conditions animal breeds and production factors . Thus determining dynamic thresholds might provide better assessment of heat stress with self calibration capabilities . In this study a large dataset of individual age body mass days in milk daily milk yield and milk temperature of 126 lactating Holstein cows was collected from a robotic dairy farm over five years . The ambient temperature data was collected from a local weather station and processed as daily minimum and mean temperature T
+
+@highlight Use broken line regression to assess cow s heat stress link to production factors.
+@highlight Decision tree model to choose dynamic threshold of heat stress for individual cow.
+@highlight Identify multi thresholds indicating none mild effective and critical heat stress.
+@highlight Demonstrate the importance of cooling cows during early lactation stage.

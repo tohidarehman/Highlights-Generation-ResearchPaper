@@ -1,0 +1,6 @@
+ Falling liquid films are largely employed in heat and mass transfer processes in a variety of industrial systems including absorption processes using NH
+
+@highlight A falling film absorber model described by complex and high non linear differential algebraic equations system DAE .
+@highlight A rigorous approach based on thermodynamic equilibrium which renders flexibility as it can be extended to other working fluids in a straightforward manner.
+@highlight A clear discussion and validation of the thermodynamic and transport properties used by the falling film model.
+@highlight An investigation of the mass transfer resistance and the influence of the inlet conditions on the absorption performance.

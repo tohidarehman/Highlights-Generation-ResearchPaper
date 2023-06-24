@@ -1,0 +1,6 @@
+ To understand the overall processes behind the decomposition of state of the art organic liquid electrolytes in lithium ion batteries it is necessary to investigate and quantify the permanent gases and light hydrocarbons evolving during electrolyte decomposition . In this work a convenient way of sampling gas from pouch cells without any previous preparation of the cell as well as a comprehensive gas chromatographic investigation of the gas phase is shown . A barrier discharge ionization detector was utilized for gas quantification and a multi component gas standard in combination with a gas mixing device was implemented to prepare calibration standards for validation . Therefore sensitivity linearity and reproducibility as well as the limits of detection and limits of quantification were determined .
+
+@highlight A barrier ionization discharge detector was utilized for gas quantification.
+@highlight Comparison to a thermal conductivity detector.
+@highlight The BID exceeded the TCD detector in figures of merit.
+@highlight Gas from bloated pouch cells was analysed.

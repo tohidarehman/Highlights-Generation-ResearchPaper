@@ -1,0 +1,7 @@
+ Colorectal cancer remains one of the most common gastrointestinal tumors characterized by a poor survival rate . Effects of single use of homoharringtonine approved for the treatment of acute myelocytic leukemia and chronic myeloid leukemia on CRC are unknown . According to the TCGA database EphB4 is aberrantly overexpressed in CRC patients . Therefore the purpose of this study was to investigate the inhibitory effect of HHT on CRC and its underlying mechanism . HHT significantly suppressed LoVo cell growth
+
+@highlight HHT significantly suppressed the growth of LoVo cells
+@highlight and
+@highlight HHT induced cell cycle arrest at S phase and apoptosis.
+@highlight HHT could target and suppress the expression of EphB4.
+@highlight HHT could suppress the downstream pathways of EphB4 including the PI3K AKT and MAPK EKR1 2 signaling.

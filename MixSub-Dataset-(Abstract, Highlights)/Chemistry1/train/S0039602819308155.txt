@@ -1,0 +1,6 @@
+ We have used scanning tunneling microscopy and density functional theory calculations to study molecular layers of coronene on Cu . The structure and stability of these layers is determined by the balance between coronene substrate and coronene coronene interactions . Here we characterize this balance by measuring the maximum coverage before coronene dewets the substrate to form three dimensional islands . We find that coronene molecules lie parallel to the substrate at the maximum coverage in contrast to previous observations of tilted coronene on metal surfaces . We attribute this previously reported tilt to a metastability caused by an activation barrier to nucleate three dimensional islands .
+
+@highlight Molecular layers of coronene on Cu 111 were studied via scanning tunneling microscopy.
+@highlight Density functional theory explored the dewetting process of these layers.
+@highlight Theoretical results suggested that tilted coronene is meta stable.
+@highlight We propose that coronene densification results from a nucleation barrier to dewetting.

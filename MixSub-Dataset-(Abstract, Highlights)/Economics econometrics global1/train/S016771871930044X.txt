@@ -1,0 +1,7 @@
+ To detect the presence of predatory pricing antitrust authorities and courts routinely ask whether a firm sacrifices current profit in exchange for the expectation of higher future profit following the exit of its rival . Because predatory pricing is an inherently dynamic phenomenon we show in this paper how to construct sacrifice tests for predatory pricing in a modern industry dynamics framework along the lines of Ericson and Pakes . In particular we adapt the definitions of predation due to Ordover and Willig and Cabral and Riordan to this setting and construct the corresponding sacrifice tests .
+
+@highlight Predation like behavior can arise under dynamic competition with learning by doing.
+@highlight We decompose equilibrium conditions to derive sacrifice tests for predatory pricing.
+@highlight Special cases include tests by
+@highlight and
+@highlight Conduct restrictions based on sacrifice tests may harm consumers.

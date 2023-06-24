@@ -1,0 +1,8 @@
+ Medial temporal lobe epilepsy is among the most common and most drug resistant types of epilepsies associated with remodeling of the trisynaptic circuit of the hippocampus . The cornu ammonis 3 region as the pacemaker of the circuit and CA3CA1 synapse are potential targets for suppression of MTLE . We examined optogenetic manipulation of CA3 neurons in controlling the perforant pathway kindled seizures . One week after implantation of stimulating electrodes in perforant pathway a recording electrode in CA1 and an optic fiber in CA3 rats underwent rapid kindling procedure . A lentivector with capability to move in retrograde monosynaptic direction and to insert the gene of red light sensitive opsin
+
+@highlight The light sensitive chloride pump
+@highlight was encoded in CA1 CA3 and entorhinal cortex of rats.
+@highlight Rats expressing
+@highlight became epileptic by electrical kindling of perforant pathway.
+@highlight Light Illumination to CA3 of the kindled rats expressing
+@highlight suppressed seizures.

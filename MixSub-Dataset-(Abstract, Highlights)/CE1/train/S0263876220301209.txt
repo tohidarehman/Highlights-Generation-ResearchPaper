@@ -1,0 +1,8 @@
+ The energy requirements for reverse osmosis seawater desalination continue to be a major matter of debate . Previous studies have shown the dependence of optimum RO desalination energy on the RO recovery rate . However they overlooked including the effect of Energy Recovery Device and pretreatment on the power consumption . In this work a computer model was used to analyze the energy requirements for RO desalination taking into account the effect of ERD efficiencies and pretreatment . The specific power consumption of the RO was found to increase with the increase of RO recovery rate when the ERD system was included . The optimum SPC became more dependent on the RO recovery rate when the pretreatment energy was added . The recovery for optimum desalination energy was 46 44 and 40 for the RO system coupled with an ERD of 65 80 and 95 efficiency respectively . The results showed that RO process could be operated at lower recovery rate and still meet the projected desalination capacity by increasing the feed flow rate and coupling with high efficiency ERD . A trivial decrease of the total desalination energy was achieved when the feed flow rate increased from 7
+
+@highlight Desalination power consumption of RO alone increased with increasing Re.
+@highlight Power consumption was dependent on Re when pretreatment energy is added.
+@highlight High pressure pump 
+@highlight  was responsible for 5768 of total power consumption.
+@highlight None
+@highlight was higher for RO with 95 ERD efficiency followed by 80 65 efficiency.

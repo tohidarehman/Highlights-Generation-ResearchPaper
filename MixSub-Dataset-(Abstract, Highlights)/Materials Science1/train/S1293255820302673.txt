@@ -1,0 +1,9 @@
+ A Heterojunction of Au Coronene p Si Al was fabricated by thermal evaporation technique . The features of current voltage were examined under dark condition at several temperatures in 292373K range . Extensive analysis of IV curves in forward bias demonstrated that the mechanisms of thermionic emission and space charge limited currents represent the dominant mechanisms in the low and high range of used voltages respectively . The reverse IV curves were interpreted via Poole Frenkel and Schottky effects . Some specific parameters were estimated as diode ideality factor series resistance and shunt resistance . The photovoltaic manner of Coronene p Si heterojunction was shown under illumination . The cell parameters were evaluated from the analysis open circuit voltage short circuit current and fill factor .
+
+@highlight The IV curves of Coronene p Si cell showed diode like behavior.
+@highlight The thermionic emission theory was dominant at low forward bias with of 0.26eV.
+@highlight At high forward bias a power dependence of voltage I V
+@highlight was existed.
+@highlight The reverse bias current was interpreted in terms of the two different mechanisms.
+@highlight The open circuit voltage and short circuit current found as 0.3V 1.1710
+@highlight mA.

@@ -1,0 +1,7 @@
+ We propose a consistent information flow to integrate Interval Travel Times into a city logistics vehicle routing problem with satellites . The consistent information flow encompasses the derivation of ITT the usage of ITT in robust shortest path computation and the integration of ITT into robust vehicle routing . Based on the results of the information flow robust meeting times of first tier and second tier vehicles are created . We evaluate the approach with large real world traffic data sets . We observe that the integration of ITT leads to first tier routes that are reasonably efficient and robust .
+
+@highlight Complete information flow to consider travel time uncertainty in city logistics vehicle routing.
+@highlight An innovative approach for robust routing in city logistics.
+@highlight Applicability of interval travel times in conjunction with minmax regret evaluation.
+@highlight Comprehensive case study based on real world data for a representative city logistics vehicle routing setting.
+@highlight Computational results show alternatives that are more robust but also cost efficient.

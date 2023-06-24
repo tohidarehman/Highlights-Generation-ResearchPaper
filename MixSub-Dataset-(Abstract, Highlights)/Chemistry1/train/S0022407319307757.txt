@@ -1,0 +1,5 @@
+ We have developed a model within the relativistic framework to calculate the photoionization process of highly charged ions in the presence of a strongly coupled plasma environment . The ion sphere potential including the screening on nuclear charge and the effect of confinement due to the neighbouring ions is used to incorporate the plasma effects . Energies and wave functions of the continuum states are determined by solving the modified Dirac equations . As an application we determine the bound and continuum state wave functions energy levels and transition parameters for plasma density ranges of
+
+@highlight We have developed a model to calculate the photoionization process of highly charged ions in a strongly coupled plasma.
+@highlight Comparison of our calculated data with the results of other authors when available is made.
+@highlight Some interesting behaviors of the respective properties concerning the screening strength are noted.

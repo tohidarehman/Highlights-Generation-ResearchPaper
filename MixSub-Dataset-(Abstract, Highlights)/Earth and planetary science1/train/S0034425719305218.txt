@@ -1,0 +1,12 @@
+ Since 2010 SMOS retrievals of surface soil moisture and vegetation optical depth have been produced through the inversion of the so called Tau Omega vegetation emission model . Tau Omega is a 0
+
+@highlight Comparing 0
+@highlight  Tau Omega and 1
+@highlight  order Two Stream radiative transfer modelling.
+@highlight Similar performances of Tau Omega and 2S in retrieving SM and VOD at global scale.
+@highlight Slightly improved performances of 2S in retrieving SM in terms of
+@highlight RMSD.
+@highlight Drier SM values by 0.015m
+@highlight  m
+@highlight  with 2S at global scale.
+@highlight Large Bias 0.1 between Tau Omega and 2S VOD retrievals over the tropical forests.

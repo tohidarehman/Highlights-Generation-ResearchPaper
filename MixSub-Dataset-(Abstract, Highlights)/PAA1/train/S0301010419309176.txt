@@ -1,0 +1,5 @@
+ By using the classic Lennard Jones potential as reference inverse canonical transformations allow for the accurate generation of post BornOppenheimer potentials in the ground and excited electronic states for H
+
+@highlight Canonical transformations generate accurate post BornOppenheimer potentials.
+@highlight Canonical transformations do not require the use of adjustable parameters.
+@highlight It is shown that pairwise interatomic interactions are fundamentally the same.

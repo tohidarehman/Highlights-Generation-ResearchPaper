@@ -1,0 +1,6 @@
+ The purpose of this study was to develop a computer aided detection device based on convolutional neural networks to detect cardiomegaly from plain radiographs in dogs . Right lateral chest radiographs
+
+@highlight Convolutional neural networks were developed to detect radiographic cardiomegaly.
+@highlight Diagnostic accuracy of different neural network models was calculated.
+@highlight All the included architectures had an area under the curve above 0.9.
+@highlight Computer aided detection of radiographic cardiomegaly could assist veterinarians.

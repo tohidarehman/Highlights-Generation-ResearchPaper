@@ -1,0 +1,5 @@
+ The macroscopic fundamental diagram relates vehicle accumulation and production of travel in an urban network with a well defined and reproducible curve . Thanks to this relationship the MFD offers a wide range of applications most notably for traffic control . Recently more and more empirical MFDs have been documented providing further insights and facilitating their application in real urban networks . So far however no generally accepted functional form has been identified .
+
+@highlight New functional form with a physical meaning for the MFD.
+@highlight Function allows curve fitting but can also be combined with analytical MFD approaches.
+@highlight One parameter quantifies average network flow reducing factors e.g. vehicle interactions heterogeneity etc.

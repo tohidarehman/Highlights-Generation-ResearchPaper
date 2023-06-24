@@ -1,0 +1,8 @@
+ Elevated concentrations of ammonium and methane in groundwater are often associated with microbiological chemical and sanitary problems during drinking water production and distribution . To avoid their accumulation raw water in the Netherlands and many other countries is purified by sand filtration . These drinking water filtration systems select for microbial communities that mediate the biodegradation of organic and inorganic compounds . In this study the top layers and wall biofilm of a Dutch drinking water treatment plant were sampled from the filtration units of the plant over three years . We used high throughput sequencing in combination with differential coverage and sequence composition based binning to recover 56 near complete metagenome assembled genomes with an estimated completion of 70 and with 10 redundancy . These MAGs were used to characterize the microbial communities involved in the conversion of ammonia and methane . The methanotrophic microbial communities colonizing the wall biofilm and the granular material of the primary rapid sand filter were dominated by members of the
+
+@highlight Microbial distribution was strongly influenced by sampling location within the DWTP.
+@highlight Clade A comammox
+@highlight were the dominant nitrifiers in the primary sand filter.
+@highlight Clade B was most abundant in samples from wall biofilm and the secondary filter.
+@highlight A novel
+@highlight  affiliated methanotroph dominated the primary sand filter.

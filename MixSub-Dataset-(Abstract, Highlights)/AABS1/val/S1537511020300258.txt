@@ -1,0 +1,7 @@
+ This study characterised the geometric and aerodynamic parameters of 35 insect proof screens with different weft and warp threads with porosities ranging from 0.237 to 0.556m
+
+@highlight Different models estimated aerodynamic characteristics from geometric parameters.
+@highlight Pressure drop coefficient estimated from screen porosity using Re based on thread diameter.
+@highlight Pressure drop coefficient also estimated from porosity and Re based on thread thickness.
+@highlight Permeability estimated from pore surface area or thread diameter screen porosity.
+@highlight Inertial factor estimated from screen porosity or thread diameter inner pore diameter.

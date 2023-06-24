@@ -1,0 +1,7 @@
+ Drivers cruising for scarce on street parking in city centers create negative externalities including congestion and pollution . We apply a serious game PARKGAME to understand and model drivers two intertwined instantaneous parking choices
+
+@highlight We employ a serious game to reveal parking search behavior.
+@highlight AFT and MNL regression models are applied to analyze parking choices.
+@highlight Driver behavior is suboptimal myopic and risk averse.
+@highlight Drivers search path choice complies with a biased random walk model.
+@highlight Formalized decision making rules can be used to characterize agents in a parking ABM.

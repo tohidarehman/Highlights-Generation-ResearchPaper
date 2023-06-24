@@ -1,0 +1,5 @@
+ Chromium determination in steels suffered from excitation interference in laser induced breakdown spectroscopy assisted with laser induced fluorescence . In this work excitation interference between target chromium atoms and matrix iron atoms was investigated in detail . Relative absorption strength of chromium and iron was mathematically deduced and utilized to estimate the excitation interference theoretically . Standard calibration curves of LIBS and LIBS LIF for chromium determination in low alloy steels were experimentally established . The chromium line 359.35nm with less interference in the RAS map provided better analytical performance slope of 1.9910
+
+@highlight An effective estimation method was provided for evaluating excitation interference to choose a suitable excitation line.
+@highlight Less excitation interference was proved propitious to analytical sensitivity and stability.
+@highlight Signal to content slope and LoD in LIBS LIF were respectively proved about 133 and 4.39 times better than those in LIBS.

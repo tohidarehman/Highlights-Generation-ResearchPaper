@@ -1,0 +1,6 @@
+ Although information systems success has been given much attention in IS literature failure has received lesser attention . This study empirically validates a model of digital service failure for consumers by integrating three dimensions from Tans failure model and one dimension from DeLone and Mcleans Information Success model . The factors have been mapped to Expectation Disconfirmation Theory . Experiential survey approach has been used to collect primary data from information systems users who have experienced digital service failure . Structural equation modeling has been used for model testing and validation to measure the impact of information system functional and service failure of digital service on end users . The findings suggests that information functional system and service failure has an impact on the consumers through the outcome process cost and user satisfaction of digital services .
+
+@highlight The study introduces a Digital Services Failure Model for evaluating impact of digital service failure.
+@highlight It integrates DeLone and Mcleans Information Success Model and Tans Services Failure Model.
+@highlight The proposed model is validated empirically using survey and structured equation modeling.
+@highlight Findings indicate that information functional system and service failure have high impact.

@@ -1,0 +1,6 @@
+ In this work experimental data from the novel high speed particle image velocimetry measurements and pressure fluctuations complemented by numerical predictions from TFM simulations are processed using advanced signal processing protocols to identify and characterize coherent structures in a gassolid fluidized bed with Geldart D particles . The time frequency properties of the bed dynamics were studied using the wavelet coherent analysis and the Hilbert Huang transform . The WCA of numerical pressure drop signals at different measurement positions showed the existence of spatial temporal coherent structures . At close measurement positions phase locked coherent phenomenon due to bubble generation dominate most of the frequency and time scales due the proximity to the distributor . At a wider measurement spacing the fast traveling waves are attenuated due to gas bubble void coalescence and acceleration and only pockets of highly coherent oscillations are visible mostly in the frequency range of 0.53
+
+@highlight Coherent structure identification and characterization using advanced mathematical tools.
+@highlight Spectral analysis of pressure and axial particle velocity fluctuations.
+@highlight Multiscale resolution of particle velocity fluctuations using EMD.
+@highlight Time frequency analysis using wavelet coherence analysis and Hilbert spectral analysis.

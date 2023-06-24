@@ -1,0 +1,7 @@
+ Programs and policies in education overwhelmingly focus on improving the average academic achievement for students . However educational interventions focused on literacy improvement can impact readers at different levels of the reading score distribution differently and the distributional differences may be more pronounced by sex . In this paper I explore data from a field experiment in a district in Rwanda that was intended to make classroom reading pedagogy more effective and engage students families and communities in reading activities outside of school to improve students reading outcomes .
+
+@highlight Reading interventions can impact readers along the reading score distribution differently.
+@highlight Distributional effects for the Literacy Boost program in a district in Rwanda are studied using Quantile Treatment Effects.
+@highlight Literacy Boost aimed to make classroom pedagogy and parent and community involvement in reading more effective.
+@highlight The impact of the program is concentrated among students girls at or above the 25th percentiles of higher order reading outcomes.
+@highlight Important in terms of policy to tailor programs to the needs to different types of readers.

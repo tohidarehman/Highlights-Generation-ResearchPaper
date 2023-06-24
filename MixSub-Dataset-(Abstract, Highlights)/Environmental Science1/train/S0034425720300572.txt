@@ -1,0 +1,7 @@
+ A wavelet based method for bathymetry retrieval from X band radar images is proposed . The method combines traditional Fast Fourier Transform techniques for retrieving peak frequency maps by evaluating the spectral peaks in the time domain and a localized 2D Continuous Wavelet Transform for retrieving the corresponding peak wavenumbers . The main improvements of the new method compared to conventional FFT based methods are as follows a the wavelet based approach is localized naturally fitting the inhomogeneous conditions typically found in the nearshore environment b it is continuous and uses wave phase information providing smooth bathymetry maps with good accuracy c it requires relatively small number of successive images without the limitation of requiring a uniform time step .
+
+@highlight Wavelet technique allows precise localization of the bathymetry estimation.
+@highlight Wavelet celerity estimation converges fast needing averaging over a few minutes.
+@highlight The new technique shows excellent performance in flat and mildly slopping bottoms.
+@highlight For the surf zone wave setup and storm surge need to be taken into account.
+@highlight Biases of the bathymetry estimation on sandbars need further investigation.

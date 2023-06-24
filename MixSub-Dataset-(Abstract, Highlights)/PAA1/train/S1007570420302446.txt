@@ -1,0 +1,8 @@
+ In this paper a physical interpretation of the fractional order derivatives effects in a jerk system based on Unstable Dissipative Systems and a Saturated Non Linear Function is presented . The system is electronically implemented in Multisim development platform for a 9 scrolls attractor generation . The behavior is analyzed trough the Detrended Fluctuation Analysis Probability Density Function bifurcation diagrams and the implementation of a geometrical analysis of the phase space . The changes that the system undergoes when a fractional order are analyzed . The results show that when the fractional integration orders are considered the areas of the generated attractor are modified with respect to the integer order dynamic . The long range correlations in the system are also modified because of the fractional orders . Besides a particular phenomenon in the equilibrium points preference occurs which is induced when the fractional integration order is applied in only one of the state variables .
+
+@highlight Approach to a Fractional Order Derivatives FOD physical interpretation.
+@highlight Modification in the equilibrium point preference because of the FOD.
+@highlight Calculation of the attractor area in the
+@highlight phase.
+@highlight Quantification of changes in the statistical properties of the system.
+@highlight A FOD changes the system vector field as a system control parameter 

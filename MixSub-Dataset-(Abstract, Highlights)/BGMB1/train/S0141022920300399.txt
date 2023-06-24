@@ -1,0 +1,7 @@
+ Fae1A is a modular enzyme consisting of an N terminal signal peptide family 1 carbohydrate esterase module family 6 carbohydrate binding module and dockerin module in that order . Recombinant CE1 and CBM6 polypeptides were collectively and separately produced as RjFae1A RjCE1 and RjCBM6 . RjFae1A showed higher feruloyl esterase activity than RjCE1 towards insoluble wheat arabinoxylan but the latter was more active towards small synthetic substrates than the former . This suggests that CBM6 in RjFae1A plays an important role in releasing ferulic acid from the native substrate . RjCBM6 showed a higher affinity for soluble wheat arabinoxylan than for rye arabinoxylan and beechwood xylan in native affinity polyacrylamide gel electrophoresis . Isothermal titration calorimetry analysis demonstrated that RjCBM6 recognized a xylopyranosyl residue at the nonreducing ends of xylooligosaccharides . Moreover it showed exceptional affinity for 2
+
+@highlight RjFae1A is a feruloyl esterase containing a CE1 catalytic module and a family 6 CBM.
+@highlight RjFae1A had higher activity on natural substrate than the CE1 polypeptide.
+@highlight CBM6 played an important role for release of ferulic acid from natural substrate.
+@highlight CBM6 interacted with xylose and nonreducing end xylopyranosyl residue of saccharides.
+@highlight CBM6 preferred wheat arabinoxylan to rye arabinoxylan and beechwood xylan.

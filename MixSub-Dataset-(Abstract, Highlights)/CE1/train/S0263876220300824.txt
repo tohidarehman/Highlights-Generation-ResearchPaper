@@ -1,0 +1,9 @@
+ Circulating fluidized bed riser reactors are widely used in several industrial gassolid flow systems to achieve a high reaction rate and a high heat of reaction . Thus understanding wall to bed heat transfer is essential for optimizing CFB operation and design . This study aims to analyze the wall to bed heat transfer in a CFB riser reactor . A two fluid model with the kinetic theory of granular flow was used to solve the hydrodynamics and heat transfer behavior in the bed . The wall to bed heat transfer coefficient is strongly dependent on the CFB operating conditions but correlations for the wall to bed heat transfer coefficient are often defined in terms the suspension density which is not an operating parameter . This makes the correlations difficult to use because the solid fraction in the system must be known . Thus in this study a correlation was developed that defines the heat transfer coefficient in terms of two operating parameters the solid circulation rate G
+
+@highlight Hydrodynamics and heat transfer behavior of CFB riser are presented.
+@highlight significantly influenced both the hydrodynamics and heat transfer.
+@highlight Correlation of the heat transfer coefficient based on
+@highlight was developed.
+@highlight Modified heat transfer coefficient correlation in terms of
+@highlight was proposed.
+@highlight The proposed correlation provides a good prediction and easy to use.

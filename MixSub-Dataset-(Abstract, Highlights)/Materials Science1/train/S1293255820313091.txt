@@ -1,0 +1,7 @@
+ In this research study we investigate the structural electronic and optical properties of the Cr doped rocksalt CdS using a full potential linearized augmented plane wave method within the density functional theory . The calculations are made within the GGA and GGA U approaches employed in the Wien2K code . Adding the Hubbard term gives better description of the system with strong correlation of
+
+@highlight Electronic structure optical properties of CdS Cr system have been studied using Wien2K code employing GGA GGA U.
+@highlight Lattice parameters bulk modulus minimum stable energy cohesive energies are found.
+@highlight Dominating role of Cr atoms found in tuning electronic optical properties.
+@highlight Optical spectra suggest CdS Cr may potentially be used in developing UV optoelectronic sensors devices.
+@highlight UV technology may be economically commercialized using CdS Cr.

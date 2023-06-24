@@ -1,0 +1,7 @@
+ A laboratory experiment is set up to study both surface and in depth soil moisture content . For that purpose an aquarium is filled successively with two soils a clay loam and a sand . Reflectance spectra are acquired in the solar domain on the soil surface using an ASD FieldSpec 3 HR spectroradiometer and in depth through the aquarium glass wall using two hyperspectral cameras . Successive amounts of water ranging from low to heavy rainfall in a temperate region are uniformly poured into the aquarium . The MARMITforSMC method based on the MARMIT
+
+@highlight A lab experiment is designed to measure surface and in depth soil reflectance.
+@highlight The MARMIT model is used to associate surface moisture content to reflectance.
+@highlight Vertical maps of soil moisture content are generated on clay loam and sandy soils.
+@highlight The corresponding profiles are calculated for both soils.
+@highlight Their evolution over time is analyzed.

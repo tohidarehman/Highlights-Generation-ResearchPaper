@@ -1,0 +1,6 @@
+ To overcome the imaging speed and resolution of traditional imaging lidar we propose a spatial and temporal multiplexing array imaging lidar technique . Based on optical orthogonal code division multiple access square laser beam with 2
+
+@highlight Spatial and temporal multiplexing array imaging lidar technique based on OCDMA is proposed.
+@highlight The OCDMA imaging lidar uses only M detectors array to achieve M2
+@highlight pixels.
+@highlight The imaging speed and resolution could be improved ideally with a small scale detectors array.

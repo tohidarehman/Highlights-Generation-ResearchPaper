@@ -1,0 +1,7 @@
+ In this paper steady state luminescence spectroscopy is used for the analysis of curing of epoxy resin . The advantage of this method is its rapidity simplicity and sensitivity . Moreover this method is contactless and thus non invasive . The aim is to analyze epoxy resin mathematically describe its curing kinetics and determine its storage temperature . Using the photoluminescence method a rapid procedure for obtaining the necessary technological data is achieved . This method is suitable for continuous measurement in production because there is no contact with the material and the measurement itself can be performed very quickly . The elaborated mathematical model can serve as a basis for creating algorithms for automated data processing in case of fully robotic workplaces .
+
+@highlight Luminescence spectroscopy is a contactless method for analysis of the curing process.
+@highlight Obtained data make it possible to determine the upper limit of the storage temperature.
+@highlight Curing time can be estimated at the beginning of the curing process.
+@highlight It is possible to determine the potential barrier of a chemical reaction.
+@highlight The technology can be useful for the production of epoxy based composite materials and their input testing in industry 4.0.

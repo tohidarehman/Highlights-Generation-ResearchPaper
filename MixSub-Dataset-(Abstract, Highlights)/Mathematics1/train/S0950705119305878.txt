@@ -1,0 +1,7 @@
+ Consider two point sets in the plane a set of points of interest and a set of query points that is used to establish distance restrictions with respect to the set of points of interest . A nearest farthest spatial skyline query retrieves the subset of desirable or relevant points of interest called skyline points such that no other point of interest is simultaneously closer to farther from all the query points . The nearest farthest top
+
+@highlight Suggest a new measure to determine the spatial skyline points considering distance and importance.
+@highlight Develop a mathematical study of the geometric properties of the weighted spatial skyline points.
+@highlight Propose a sequential and a parallel algorithm to obtain all or the top k spatial skyline points.
+@highlight Algorithms are theoretically and experimentally analyzed and compared.
+@highlight The experimental results prove that the parallel algorithm is robust efficient and faster than the sequential algorithm.

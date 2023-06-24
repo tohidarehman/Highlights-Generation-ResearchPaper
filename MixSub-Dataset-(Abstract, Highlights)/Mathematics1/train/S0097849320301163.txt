@@ -1,0 +1,6 @@
+ In recent years gesture recognition has become an increasingly interesting topic for both research and industry . While interaction with a device through a gestural interface is a promising idea in several applications especially in the industrial field some of the issues related to the task are still considered a challenge . In the scientific literature a relevant amount of work has been recently presented on the problem of detecting and classifying gestures from 3D hands joints trajectories that can be captured by cheap devices installed on head mounted displays and desktop computers . The methods proposed so far can achieve very good results on benchmarks requiring the offline supervised classification of segmented gestures of a particular kind but are not usually tested on the more realistic task of finding gestures execution within a continuous hand tracking session .
+
+@highlight SFINGE 3D novel benchmark for evaluating online gesture detection and recognition.
+@highlight 13 gestures dictionary recognition task for detection and recognition with 72 gesture sequences.
+@highlight Different approaches to test the benchmark visual rendering and convolutional nerual networks.
+@highlight Different approaches to test the benchmark geometry based and dissimilarity based classifiers.

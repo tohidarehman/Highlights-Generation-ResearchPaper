@@ -1,0 +1,6 @@
+ A laboratory study on rare earth element bearing mine tailings collected from Bangka Island Indonesia reported a new spectral absorption feature at 674nm associated with Erbium . The present study aims to evaluate the capability of the European Space Agencys Sentinel 2 MSI sensors to detect this absorption feature from space . An arithmetic band operation is performed on selected visible and near infrared spectral bands of a Sentinel 2 image . The results show that Sentinel 2 MSI is capable of detecting the 674nm Erbium related absorption feature within the particular environmental setting of the study area .
+
+@highlight Geochemistry shows high Erbium contents in tin mine tailings of Bangka Island Indonesia.
+@highlight Reflectance spectra show a 674nm absorption feature related to this Erbium.
+@highlight Band math shows that Sentinel 2 MSI satellite imagery contains this feature at band 4.
+@highlight We can map Erbium absorption feature with a correlation of 0.8 to the field data.

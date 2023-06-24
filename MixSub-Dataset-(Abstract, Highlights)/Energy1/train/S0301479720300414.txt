@@ -1,0 +1,7 @@
+ The nitrogen removal in the aerobic granular sludge sequential batch reactor can be achieved by the simultaneous nitrification and denitrification mode or by the separated nitrification and denitrification stages . The SND offers a simpler operation structure than the separated nitrification and denitrification . Based on the mathematical simulation a novel control strategy was put forward to adjust the DO concentration to achieve the SND under dynamic fluctuated influent conditions in AGS SBR . The control strategy aimed to achieve a small accumulation of NH
+
+@highlight Simultaneous nitrification denitrification in aerobic granular sludge was promoted.
+@highlight A novel feedforward control strategy was put forward.
+@highlight A small accumulation of NH
+@highlight is vital for nitrogen removal.
+@highlight Satisfactory nitrogen removal was achieved.

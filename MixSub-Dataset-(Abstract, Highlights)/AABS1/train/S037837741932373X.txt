@@ -1,0 +1,7 @@
+ The current study aims at reviewing and providing advances on methods for estimating and applying crop coefficients from observations of ground cover and vegetation height . The review first focuses on the relationships between single K
+
+@highlight The A P approach to derive crop coefficients from the fraction of ground cover and height is reviewed.
+@highlight The approach is well used for both annual and perennial woody crops.
+@highlight The validation of the approach is presented using field data relative to vegetable field and fruit crops.
+@highlight The approach is also positively tested for various annuals and perennials using data derived remote sensed NDVI.
+@highlight It could be concluded that deriving Kc from the fraction of ground cover and height is appropriate for irrigation management.

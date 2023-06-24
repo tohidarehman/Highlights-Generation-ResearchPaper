@@ -1,0 +1,6 @@
+ Uncertainty quantification is an inseparable part of risk assessment in dam engineering . Many probabilistic methods have been developed to deal with random nature of the input parameters or the system itself . In this paper the polynomial chaos expansion is adopted as an effective technique for uncertainty quantification of variety of dam engineering problems . Four different case studies are investigated with increasing complexities in which the static and dynamic responses are sought to predict . The limit state functions in the form of implicit and explicit are studied . Uncertainties are propagated in material properties and modeling . Depending on the problem at hand a validation set from several thousands to couple of hundreds are used . Overall it is found that the PCE is an effective technique to deal with uncertainty quantification in concrete dams .
+
+@highlight Proposing application of polynomial chaos expansion in dam engineering.
+@highlight Uncertainty quantification of four different case studies with various complexities.
+@highlight Performing Monte Carlo simulation based seismic analyses.
+@highlight Application on gravity and arch dams with dam foundation reservoir interaction.

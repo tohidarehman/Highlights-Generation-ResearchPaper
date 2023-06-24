@@ -1,0 +1,6 @@
+ In this paper we theoretically demonstrate a nanophotonic optical asymmetric transmission device for arbitrary linear polarization which is composed of two two dimensional square lattice photonic crystals with different effective refractive indices . In this way the NOATD achieves asymmetric transmission based on the generalized total reflection principle which is able to realize a high forward transmittance and contrast ratio for arbitrary linearly polarized light in a broad wavelength range .
+
+@highlight A nanophotonic optical asymmetric transmission device NOATD for the arbitrary linear polarization is proposed.
+@highlight Highly efficient asymmetric transmission for both TM and TE polarizations as well as the linear polarization along the 45 as an example are demonstrated to show the unique capability of our device.
+@highlight The NOATD can work for arbitrarily linearly polarized light which is linear combinations of TM and TE polarization states.
+@highlight The design principle can deepen the understanding of nanophotonic asymmetric transmission devices and can be further applied to design different types of photonic devices.

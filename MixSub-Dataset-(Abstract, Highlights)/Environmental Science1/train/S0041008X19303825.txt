@@ -1,0 +1,8 @@
+ Chemical risk assessment relies on toxicity tests that require significant numbers of animals time and costs . For the 30 000 chemicals in commerce the current scale of animal testing is insufficient to address chemical safety concerns as regulatory and product stewardship considerations evolve to require more comprehensive understanding of potential biological effects conditions of use and associated exposures . We demonstrate the use of a multi level new approach methodology strategy for hazard and risk based prioritization to reduce animal testing . A Level 1 2 chemical prioritization based on estrogen receptor activity and metabolic activation using ToxCast data was used to select 112 chemicals for testing in a Level 3 human uterine cell estrogen response assay . The Level 3 data were coupled with quantitative in vitro to in vivo extrapolation to support bioactivity determination in a tissue specific context . Assay AC
+
+@highlight A case study using multi level new approach methodologies for risk prioritization.
+@highlight Level 1 2 prioritized estrogenic compounds tested in Level 3 uterine assay IKA .
+@highlight Level 3 in vitro AC
+@highlight s and Q IVIVE used to estimate human equivalent doses HEDs .
+@highlight Assay HEDs were compared to rodent uterotrophic in vivo derived points of departure.
+@highlight IKA assay derived activity exposure relationships were protective of human health.

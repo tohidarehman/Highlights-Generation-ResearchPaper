@@ -1,0 +1,6 @@
+ Waste X ray radiographic films contain an appreciable amount of silver that can be recovered and reprocessed . Most of the existing methods of Ag recovery from waste radiographic films are expensive and harmful to the environment . In this study the extraction of Ag from waste radiographic films was done using oxalic acid solution heated at 90100C . XRD and SEM results reveal that the recovered residue contains pure metallic Ag spherical microparticles . According to the response surface methodology based on three level three factorial Box Behnken design the optimized stripping conditions are oxalic acid concentration of 9.97 w v extraction temperature of 99.51C and extraction time of 16.62min . The predicted and actual Ag recovery are of 94.94 and 90.07 respectively . Reusability study confirms that the oxalic acid solution can be reused for several runs of Ag extraction . Initial Ag recovery of 68.9 decreased to 28.2 after 4 cycles of reusing the extraction solution .
+
+@highlight Ag recovery from waste radiographic film using oxalic acid is greater than 90 .
+@highlight Ag can be recovered as pure metal.
+@highlight Stripping solution can be reused several times.
+@highlight Stripping action is enhanced at higher oxalic acid concentration and stripping temperature.

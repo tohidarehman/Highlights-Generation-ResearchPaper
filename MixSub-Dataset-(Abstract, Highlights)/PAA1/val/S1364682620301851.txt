@@ -1,0 +1,6 @@
+ This study aims to assess Urban Heat Island as Surface Urban Heat Island of Karachi which ensures the existence of UHI effect on sustainability based on the analysis of rapid urbanization and Land Use Land Cover changes on the average temperature warming in Karachi . Satellite images are employed to extract statistics regarding land use in Karachi city and to obtain land surface temperature maps for the year 2009 and 2017 . LULC map is obtained by applying a supervised classification technique to detect the changes in impervious areas . Maps of daytime surface temperature are retrieved from the thermal band of Landsat images and nighttime LST is extracted from the MODIS . The Urban Heat Island Intensity is analyzed to indicate persistent zones . It is found that built up areas are increased by 40 and the vacant areas are decreased at a huge rate within study period of 8 years whereas the intensity of UHI is increased by 0.04
+
+@highlight The percentage of built up areas grew from 25.70 to 36.14 over the study period of 8 years.
+@highlight LULC change is the prevailing factor in LST variation which is closely associated with the materials used in construction.
+@highlight The intensity of UHI has increased by 0.04C and the heat island area has also been increased by 1.73
+@highlight in 8 years.

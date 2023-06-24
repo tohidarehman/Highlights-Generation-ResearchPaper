@@ -1,0 +1,6 @@
+ We consider a Tullock rent seeking contest with two firms and two investors . Each investor owns a majority share in one firm and a silent minority cross shareholding in the other firm . We measure competition by either firms aggregate efforts or rent dissipation . We show that aggregate efforts are smaller in our contest than in the benchmark case without cross shareholdings . Next we provide the necessary and sufficient conditions such that equilibrium rent dissipation in our contest is larger than in the benchmark case . Rent dissipation is larger under cross shareholdings if and only if one firm is much more efficient than the other firm and the cross shareholding in the more efficient firm is sufficiently smaller than the cross shareholding in the less efficient firm .
+
+@highlight We study a Tullock contest with two investors two firms and cross shareholdings.
+@highlight We examine the impact of cross shareholdings on efforts and rent dissipation.
+@highlight We show that aggregate efforts are smaller with cross shareholdings.
+@highlight We show that rent dissipation can be smaller or larger with cross shareholdings.

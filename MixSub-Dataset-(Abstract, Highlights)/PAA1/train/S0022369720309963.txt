@@ -1,0 +1,7 @@
+ We investigated the heat capacity and thermal conductivity of UN using first principles methods . The generalized gradient approximation of the Perdew Burke and Ernzerhof functional developed for solids as implemented in Quantum ESPRESSO and associated codes was used . We evaluated the energy of the UN to be lower for ferromagnetic ordering than non magnetic . We found using QE code that the lattice constant calculated using PBEsol functional and norm conserving pseudopotentials is slightly larger for ferromagnetic UN than non magnetic UN and they agree with experiment . We noted a significant contribution from the optical phonons to the lattice thermal conductivity which was previously observed experimentally for urania . The phonons calculated contribution to the thermal conductivity which decreases with temperature is smaller at room temperature 7.20 Wm
+
+@highlight We demonstrated that first principles calculations predict heat capacity and thermal conductivity in UN qualitatively.
+@highlight The new GGA PBEsol functional predicted structural properties of UN in a good agreement with experiment.
+@highlight We foundthat only the frequencies of optical phonons are affected by the presence of magnetic moment on uranium atoms.
+@highlight The calculated electrical resistivity of nonmagnetic UN at low temperature is lower than measured and is resembling ThN.
+@highlight Predicted electronic thermal conductivity remained significant at higher temperatures as required for a safer nuclear fuel.

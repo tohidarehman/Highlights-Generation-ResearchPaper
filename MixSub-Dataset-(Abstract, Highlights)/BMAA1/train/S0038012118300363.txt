@@ -1,0 +1,8 @@
+ The human development index has been a well known yardstick of the United Nations Development Programme to measure human development from a multi dimensional perspective since its introduction in the first Human Development Report in 1990 . Although there have been several modifications in the computation of this index we suggest a new perspective in a multi criteria decision making framework in this paper . The new methodology addresses some of the limitations of the existing approach without violating the guidelines of the UNDP . As a first step we revisit the concept of the HDI and then integrate the average shortfall factor with the HDI for the construction of GHDI a generalized model of the HDI . Then we propose GHDI
+
+@highlight The paper designs two generalized models of the human development index HDI .
+@highlight The GHDI model considers both attainment and deprivation perspectives of human development HD .
+@highlight The GHDI
+@highlight model is a relative measure of the GHDI and uses a new common weight DEA MCDM approach.
+@highlight We apply these models to countries listed in the HDR 2014 to have new rankings.
+@highlight We also classify countries in three new HD levels based on the principle of non dominance

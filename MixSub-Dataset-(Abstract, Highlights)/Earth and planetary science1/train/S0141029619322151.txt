@@ -1,0 +1,7 @@
+ Steel encased concrete piles are frequently used in development of earthquake resistant pile systems in Japan where SC section is used near pile head to increase moment and shear capacities . Focus of this research is on the experimental investigation of flexural performance of hollow spun SC piles made of high strength concrete . Total of seven prefabricated SC pile specimens were tested as cantilevered columns under constant compressive axial and quasi static reverse lateral loading . Tests were conducted on sections of diameter 400mm and height 1.2m with test variables as axial load ratio steel casing thickness concrete layer thickness and filling material . Theoretical behavior was assessed by sectional analysis of simple fiber model in OpenSees . The study discusses the failure modes and influence of concrete crushing and local buckling of steel casing on moment carrying capacity of test piles while paying attention to the ultimate behavior maximum moment capacity and ultimate curvature .
+
+@highlight Large scale test on steel encased concrete piles with 105MPa high strength concrete.
+@highlight Attention to post peak behavior of SC piles for axial load ratio 00.35.
+@highlight Comparison with theoretical sectional analysis using OpenSees.
+@highlight Moment capacity and ductility improved with a low cost filling material.
+@highlight Change in failure mode observed with an increase in the applied axial load.

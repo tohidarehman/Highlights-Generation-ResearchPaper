@@ -1,0 +1,6 @@
+ This work explores the validity of a nodal price based on the marginal cost of injected real power variability named the
+
+@highlight A locational price for variable power injections on the transmission system is introduced.
+@highlight This price is based in marginal pricing theory and follows similar intuition as wholesale locational marginal prices.
+@highlight Fluctuations in power generation and load are included in co optimized energy and frequency regulation markets using chance constraints.
+@highlight A regulation market settlement policy which uses the introduced price as the market clearing price is proposed.

@@ -1,0 +1,7 @@
+ AlInN alloys offer great potential for photovoltaics thanks to their wide direct bandgap covering the solar spectrum from the infrared to the ultraviolet and their superior resistance to high temperatures and high energy particles . We report the design of AlInN on silicon heterojunctions grown by radio frequency sputtering to explore their potential for low cost devices . Particularly we study the influence of AlInN bandgap energy thickness and carrier concentration silicon surface recombination interface defect density and wafer quality on the photovoltaic properties of the junction . The effect of introducing an anti reflective coating is also assessed . Optimized AlInN on Si structures show a conversion efficiency of 23.6 under 1 sun AM1.5G illumination . In comparison with silicon homojunctions they own an improved responsivity at wavelengths below 500nm . These results make AlInN on Si heterojunctions a promising technology for solar devices with impact in space applications . Experimental results on novel AlInN on Si solar cells are also presented .
+
+@highlight AlInN on Si junctions grown by sputtering are promising for low cost solar devices.
+@highlight Strong dependence of the AlInN bandgap energy on the device conversion efficiency.
+@highlight The interface defect density highly affects the device conversion efficiency.
+@highlight Optimized AlInN on Si junctions throw a theoretical maximum efficiency of 23.6 .
+@highlight The external quantum efficiency is enhanced for wavelengths below 500nm.

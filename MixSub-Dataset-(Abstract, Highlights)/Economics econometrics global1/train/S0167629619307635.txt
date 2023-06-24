@@ -1,0 +1,6 @@
+ Encouraging and helping elderly to postpone a nursing home admission appears to be a win win that keeps long term care spending in check and is in line with the target populations preferences but there is little evidence about its effects . We study the causal impact of nursing home admission eligibility using Dutch administrative data and exploiting variation between randomly assigned assessors in their tendency to grant eligibility for a nursing home admission . We find a drop in medical care use when eligibility is granted especially in hospital admissions while total healthcare spending is unaffected . This suggests that postponing an admission may not always be a win win after all .
+
+@highlight Substitution of nursing home care by home care might not save costs after all.
+@highlight Access to nursing home care lowers use of hospital care and home care.
+@highlight Access to nursing home care has no impact on total healthcare spending.
+@highlight We do not find a significant effect on mortality on average.

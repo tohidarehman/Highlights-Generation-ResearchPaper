@@ -1,0 +1,7 @@
+ This study was devoted to introducing a new method for a priori prediction of aspiration pressure buildup in closed coupled atomization nozzles . There have been considerable controversies about increasing or decreasing the aspiration pressure for a reliable operation of CCA nozzles mainly because of the complex nature of CCA process . Here for the first time we applied an artificial neural network based machine learning algorithm for the prediction of aspiration pressure in close coupled HPGA nozzles . An analytical model equation was obtained based on the largest experimental dataset from the literature and proved to be useful for prediction of non dimensionalized aspiration pressure with R
+
+@highlight High pressure gas atomization is powerful for production of metallic powders.
+@highlight There is a critical concern associated with a sudden rise of pressure at the nozzle tip.
+@highlight Artificial neural network was applied for a priori prediction of aspiration pressure.
+@highlight The ANN produced model equation could reasonably predict the pressure.
+@highlight A graphical guideline for stable operation of the nozzle was provided.

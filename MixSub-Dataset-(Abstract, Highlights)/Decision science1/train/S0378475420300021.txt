@@ -1,0 +1,5 @@
+ A new global sensitivity analysis has been conducted of fuel type dependent input variables of the simplified physical fire spread model to understand how the use of spatial averages that is fuel models influences the results of PhyFire with a view to enhancing its understanding and improving its design . The models simplicity the numerical techniques used and a recent code optimisation allow undertaking the analysis with very competitive computational times . The fuel data used correspond to grasslands shrublands and forest in the Spanish region of Galicia . The analysis results validate the flame length sub model proposed in the paper which significantly improves the models efficiency .
+
+@highlight Global sensitivity analysis of fuel type dependent input variables of a simplified physical fire spread model.
+@highlight Length flame submodel for a simplified physical fire spread model.
+@highlight Simulation of a real wildfire.

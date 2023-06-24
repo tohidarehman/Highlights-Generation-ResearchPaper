@@ -1,0 +1,5 @@
+ The main focus of the present research was the on line coupling of two separation techniques namely liquid chromatography and gas chromatography . For such an analytical combination a dedicated interface is required to remove solvent from the sample leaving the latter in a sharp band at the head of the GC column . Considering such an objective a lab developed LC GC interface is herein presented based on the use of a six port two position valve and a programmed temperature vaporizing injector . The PTV injector was derived from a commercial split splitless injector body heated using a resistance heating wire and enabled a satisfactory recovery of low boiling compounds C
+
+@highlight An improved lab developed interface for LC GC coupling was developed.
+@highlight The modified PTV injector allows a better recovery of low boiling compounds.
+@highlight The method was characterized by satisfactory figures of merit for MOSH.

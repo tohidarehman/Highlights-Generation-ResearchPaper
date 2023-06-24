@@ -1,0 +1,7 @@
+ This paper empirically investigates the effect of carbon emissions on sovereign risk To answer this question we use fixed effects model by using annual data from G7 advanced economies which includes Canada France Germany Italy Japan UK and USA for the period from 1996 to 2014 . We employ a novel extreme value theory to measure sovereign risk . The results indicate that climate change are likely to increase sovereign risk significantly . We also expand our analysis to some specific sectors as some of the sectors emit more carbon than others . Specifically we take top three polluting sectors namely transportation electricity and industry and show that they are more likely to increase the sovereign risk . Our results are robust to change in risk measures estimation in differences and dynamic version of econometric models . Therefore we have robust consideration that the carbon emissions significantly explain the sovereign risk .
+
+@highlight We analyse the effect of carbon emissions on sovereign risk.
+@highlight We use fixed effects model by using annual data from G7 advanced economies.
+@highlight We employ novel extreme value theory to measure sovereign risk.
+@highlight Results indicate that carbon emissions are likely to increase sovereign risk.
+@highlight Top three polluting sectors are also likely to increase the sovereign risk.

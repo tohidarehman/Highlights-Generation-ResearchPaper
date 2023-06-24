@@ -1,0 +1,9 @@
+ Leaf chlorophyll is central to the exchange of carbon water and energy between the biosphere and the atmosphere and to the functioning of terrestrial ecosystems . This paper presents the first spatially continuous view of terrestrial leaf chlorophyll content Chl
+
+@highlight Global terrestrial leaf chlorophyll content maps are produced from satellite data.
+@highlight A two stage radiative transfer model inversion method is used.
+@highlight The algorithm was extensively validated with 248 measurements covering six biomes.
+@highlight Validation results are strong R
+@highlight  0.47 RMSE 10.79gcm
+@highlight 000.1 .
+@highlight Seasonal chlorophyll phenologies are visible from weekly data.

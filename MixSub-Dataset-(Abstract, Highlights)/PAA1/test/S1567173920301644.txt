@@ -1,0 +1,7 @@
+ This report discusses the effect of speckle size on the quality of holographic images based on a liquid crystal on silicon spatial light modulator . Further it proposes methods of quantifying the average speckle size and holographic image resolution . These methods enable both characteristics to be compared using the same unit providing an intuitive and effective comparative analysis method . In particular by varying the LCoS resolution ratio the change in the resolvable minimum pixels of the holographic image is interpreted in conjunction with the average speckle size moreover an analysis of the correlation between the latter two is presented . This approach based on LCoS resolution division could provide useful insights into single SLM based full color holographic displays using space division . Furthermore it could be extended to other components including more advanced LCoS SLMs and used to identify the relative effects on image quality with speckles .
+
+@highlight A method for quantifying speckle size and its effect on image quality is proposed.
+@highlight Speckle size and resolution of images are tracked by LCoS resolution ratios.
+@highlight LCoS resolution ratio of a single SLM based holographic display was studied.
+@highlight Image resolution is interpreted by speckle size and their correlation is analyzed.
+@highlight Method can be extended to study the relative effects of variables on images.

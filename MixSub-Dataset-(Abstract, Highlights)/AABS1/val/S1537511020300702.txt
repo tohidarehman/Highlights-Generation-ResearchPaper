@@ -1,0 +1,7 @@
+ The effects of compaction pressures at 50 130 and 210kPa on airflow resistance on different classes of paddy rice were evaluated . The pressure drop was analysed by fitting the Shedd Ergun and Hukill Ives models to the experimental data . The results indicated that differences in the mass compaction percentages were due to the compaction pressure rather than the distinct characteristics of the different rice classes and compaction increased predominantly when higher pressure was applied . The applied compaction pressures produced mass compaction percentages of the paddy rice ranging from 2 to 3 for 50kPa 7 to 8 for 130kPa and 10 to 12 for 210kPa . The three models applied to analyse the compacted grain mass showed good fit to the experimental data with high coefficients of determination
+
+@highlight Higher pressure drop occurs in short long and long thin rice grains respectively.
+@highlight Pressure drop increases with higher compaction percentual.
+@highlight Projection accuracy of predictive models suffers interference during compaction.
+@highlight Ergun s is the best model for estimating rice pressure drop in compaction.
+@highlight Ergun s model shows pressure drop equal to or greater than experimental points.

@@ -1,0 +1,6 @@
+ While it is clear that artificial agents that are able to express emotions increase trust in HumanMachine Interaction most studies looking at this effect concentrated on the expression of emotions through the visual channel e.g . facial expressions . However emotions can be expressed in the vocal channel too yet the relationship between trust and vocally expressive agents has not yet been investigated . We use a game theory paradigm to examine the influence of smiling in the voice on trusting behavior towards a virtual agent who responds either trustworthily or untrustworthily in an investment game . We found that a smiling voice increases trust and that this effect persists over time despite the accumulation of clear evidence regarding the agents level of trustworthiness in a negotiated interaction . Smiling voices maintain this benefit even in the face of behavioral evidence of untrustworthiness .
+
+@highlight Smiling can be heard in the voice without any visual cue.
+@highlight This smiling voice elicits higher trusting behaviors than a neutral one.
+@highlight The higher trust persists even when the speaker is untrustworthy.
+@highlight This has implications for the design of voice based artificial agents.

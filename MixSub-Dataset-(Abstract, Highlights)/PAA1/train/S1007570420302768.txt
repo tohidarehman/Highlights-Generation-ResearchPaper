@@ -1,0 +1,6 @@
+ In this paper we use a phenomenological field theory model to study the first order phase transition from the lamellar phase to the inverse hexagonal phase in specific lipid bilayers . The model is described by a real scalar field with potential that supports both symmetric and asymmetric phase conformations . We adapt the coordinate and parameters of the model to describe the phase transition and we show that the model is capable of correctly inferring the fraction of the inverse hexagonal phase in the phase transition suggesting an alternative way to be couple to experimental techniques generally required for H
+
+@highlight We consider the lamellar to the inverse hexagonal phase transition.
+@highlight A field theory model is used to study first order phase transition in lipid bilayers.
+@highlight The proposed model correctly predicts the fraction of the inverse hexagonal phase.
+@highlight A new scalar field model supporting asymmetric kinklike configurations is obtained.

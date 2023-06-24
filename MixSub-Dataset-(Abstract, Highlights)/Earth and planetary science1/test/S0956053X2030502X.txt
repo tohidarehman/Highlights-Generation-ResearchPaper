@@ -1,0 +1,7 @@
+ The current worldwide expansion of waste PCB deposits represents both a pressing environmental issue and an economic opportunity fostering the development of numerous recycling processes across the world . An important input for designing such processes is the metallic content of WPCBs which is assayed by grinding and leaching samples taken from the stack of WPCBs to be recycled . The content values come with substantial uncertainties arising mainly from the uneven distribution of the metals within the structure of WPCBs .
+
+@highlight Ni Co Fe Cu Pb and Zn content and of associated RSD in waste PCBs were determined.
+@highlight Effects of sample mass grain size and number of replicates were evaluated.
+@highlight Nugget effect was identified in Ni and Co distributions.
+@highlight Margins of error in metal content were determined by statistical bootstrap tool.
+@highlight This study provides a decision making tool to find the best WPCB preparation method.

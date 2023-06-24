@@ -1,0 +1,7 @@
+ Biochemical traits in forest vegetation are key indicators of leaf physiological processes specifically photosynthetic and other photochemical light pathways and are critical to the quantification of the terrestrial carbon cycle . Advances in remote sensing sensors and platforms are allowing multi dimensional and continuous spatial information to be acquired in a fast and non destructive way to quantify forest biochemical traits at multiple spatial scales . Here we demonstrate the use of high spectral resolution hyperspectral data combined with high density three dimensional information from Light Detection and Ranging both acquired from an unmanned aerial system platform to quantify and assess the three dimensional distribution of biochemical pigments on individual tree canopy surfaces . To do so a DSM based fusion method was developed to integrate the 3D LiDAR point cloud with hyperspectral reflectance data . Regression based models were then developed to predict a number of biochemical traits
+
+@highlight Quantifying 3D distribution of biochemical traits using UAS LiDAR and HS data.
+@highlight A DSM based fusion approach was developed to link structure and spectrum.
+@highlight Vegetation indices are strongly correlated with a number of biochemical traits.
+@highlight Biochemical pigments distribution has significant vertical effects.
+@highlight Vertical profiles of biochemical traits change by tree species and age.

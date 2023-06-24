@@ -1,0 +1,6 @@
+ In this paper we propose and demonstrate a new 3D imaging technique which can simultaneously provide surface shape color and polarization information of an object . The system employs a custom color full Stokes polarization camera and a digital color fringe projector . The color and polarization data provide additional surface details not possible using conventional fringe projection 3D imaging techniques but important for target identification . We demonstrate that for an object with weak spectral dependent polarization properties it is possible to obtain surface shape intensity and polarization information in a snapshot dramatically improving the imaging speed .
+
+@highlight Using the custom color full polarization camera and a digital color projector 
+@highlight 3D images with polarized information shows much more unique properties of the object than 3D intensity image only for object identification and visual observation. Furthermore 
+@highlight  dramatically improving the imaging speed.
+@highlight This is the first time to realize 3D imaging with intensity and full polarization information in a snapshot. We believe that the aspect of this manuscript will make it interesting to general readers of Optics and Lasers in Engineering.

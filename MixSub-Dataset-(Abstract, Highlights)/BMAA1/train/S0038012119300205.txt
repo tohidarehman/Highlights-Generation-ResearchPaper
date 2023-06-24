@@ -1,0 +1,6 @@
+ Governmental policies such as educational ones require money from taxes to implement them . Therefore a government must spend its resources in such a way to maximise the benefits . However to evaluate the Public Higher Education Institutions is a very complex task since many factors that can be assessed are involved . In this study we focus on the performance of PHEI in three activities teaching research and knowledge dissemination . To accomplish this end we develop a Data Envelopment Analysis Model to evaluate the efficiency of each activity separately . Using an official database called ExECUM we compute the efficiency of 40 Mexican PHEI from year 20082016 . The funds allocated for the government are an input in our study .
+
+@highlight Public HEIs are evaluated using Data Envelopment Analysis on teaching research and knowledge dissemination simultaneously.
+@highlight Public HEIs can be classified based on the relatively efficiency in each model.
+@highlight This analysis provides the set of P HEI that are benchmark to each one.
+@highlight The decision maker could use these results to evaluate a P HEI as an evaluation scheme based on quantitative criterion.

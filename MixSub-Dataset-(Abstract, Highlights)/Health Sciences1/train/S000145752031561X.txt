@@ -1,0 +1,7 @@
+ The proliferation of Advanced Vehicle Technologies has generated both excitement and concern among researchers policymakers and the general public . An increasing number of driver assistance systems are already available in todays automobiles many of which are expected to become standard . Therefore synthesizing the available evidence specific to the safety of AVTs is critical . The goal of this scoping review was to summarize this evidence with a focus on AVTs that require some driver oversight levels of automation taxonomy .
+
+@highlight A scoping review of evidence from 324 studies of AVTs from 25 countries was conducted.
+@highlight Most studies involved mixed age groups 51 and occurred in driving simulators 70 .
+@highlight Longitudinal control 50 and driver reaction time 40 were the most common objective measures.
+@highlight Trust 27 and driver workload 20 were the most common subjective measures.
+@highlight Experimental testing of AVTs should detail driver demographics and corresponding effect on safety.

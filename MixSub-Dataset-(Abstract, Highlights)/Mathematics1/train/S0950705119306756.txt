@@ -1,0 +1,6 @@
+ An information system is an important form of knowledge representation and attribute reduction plays an important role in machine learning data mining and intelligent systems . Several techniques are available to solve problems of attribute reduction but a common characterization for them is needed . This paper proposes the concepts of exact reductions and their reduction invariant matrices . We obtain a unified mathematical model of attribute reduction by exactness for information systems and show that frequently used methods of attribute reduction for information systems are exact . Specifically we show that the positive region reduction for a decision table is exact . Our model theoretically unifies frequently used approaches to reduction . We also used a case study using the UCI dataset to verify the effectiveness of our proposed model .
+
+@highlight Propose the concept of the exact reduction and its invariant matrix.
+@highlight Study the common form of attribute reduction based on discernibility matrices.
+@highlight Show that the frequently used reductions are exact.
+@highlight Obtain the invariant matrices of frequently used reductions.

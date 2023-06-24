@@ -1,0 +1,5 @@
+ This paper analyses some operators recently proposed either as alternatives or as generalizations of classical fractional derivatives . The performance assessment both under the point of view of system theory and signal processing demonstrates that two approaches do not follow some systematic criteria . Therefore this paper contributes towards a systematic and careful study of the new proposals in the scope of the fast evolving area of Fractional Calculus .
+
+@highlight Definition of suitable criterion for fractional derivatives.
+@highlight Analysis of some operators under the light of fractional calculus.
+@highlight Relevance of the index law.

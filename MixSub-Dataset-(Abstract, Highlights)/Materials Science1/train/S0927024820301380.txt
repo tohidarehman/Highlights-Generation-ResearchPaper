@@ -1,0 +1,6 @@
+ At present solar energy is widely used as a kind of clean energy . The main solar radiation range under AM 1.5 is about 300 3000nm . In this paper we designed an efficient ultra broadband perfect solar absorber to have as long absorption bands in this range as possible to help alleviate the energy problem . The simulation calculations and experiments of the solar absorber show that the absorption bandwidth with absorption greater than 90 is greater than 2100nm . It is worth noting that the perfect absorption bandwidth with absorption greater than 99 has more than 1600nm . The absorption rate over the whole wavelength range is more than 90 . We can effectively control the absorption spectrum by adjusting the structural parameters . In addition the proposed solar absorber is polarization independent both the transverse electrical
+
+@highlight The solar energy absorber has a perfect broadband absorption in the visible to near infrared band.
+@highlight The absorption properties can be changed by the geometric parameters.
+@highlight The absorber is insensitive to incident angles regardless of TM or TE polarization.
+@highlight The absorber has good thermal stability by Ti film and TiN nanodisk.

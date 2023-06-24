@@ -1,0 +1,7 @@
+ Dynamic pressure gradient modulation is investigated for comprehensive two dimensional gas chromatography with time of flight mass spectrometry detection . With DPGM a commercial pneumatic pulse valve is opened to introduce a suitably high auxiliary gas pressure at a T junction connecting the first dimension
+
+@highlight Low flow conditions are employed with flow modulation.
+@highlight Dynamic pressure gradient modulation in full modulation mode is utilized.
+@highlight Fully modulated peaks provide enhanced signal and low limit of detection.
+@highlight The evaluation of the quality of the data using chemometric tools is provided.
+@highlight Decomposition of poorly resolved analytes at low concentration was successful.

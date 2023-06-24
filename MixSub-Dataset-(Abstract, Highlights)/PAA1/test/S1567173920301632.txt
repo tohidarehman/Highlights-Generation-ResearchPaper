@@ -1,0 +1,8 @@
+ Organic inorganic halide perovskite materials have been demonstrated with wide applications in optoelectronics and ionization radiation detection . For bulk as grown crystals the existence of surface cracks and defects can significantly increase charges recombination and reduce the performance of the device . Herein we polished the crystal surfaces with both mechanical and chemical mechanical methods at room temperature . After been chemical mechanical polished the crystal surface with root mean square roughness about 0.5nm was obtained . Optical transmission and photoluminescence spectra indicate that chemical mechanical polishing technology can effectively reduce the density of crystal surface defects . The achieved low leakage current density on the surface and bulk crystal is 0.05nAmm
+
+@highlight A surface roughness of 0.5nm for CH
+@highlight NH
+@highlight PbBr
+@highlight crystals have been achieved by chemical mechanical polishing CMP process.
+@highlight CMP surface treatment can reduce the surface defect to suppress the leakage current.
+@highlight CMP surface treatment can reducethe surface trap and improve charges collection efficiency.

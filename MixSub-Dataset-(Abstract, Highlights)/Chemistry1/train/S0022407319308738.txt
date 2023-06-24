@@ -1,0 +1,7 @@
+ An optical model has been developed for analyzing the coherent transmittance of a polymer dispersed liquid crystal films doped with carbon nanotubes at uniform normal droplet polymer interface anchoring . It is based on the FoldyTwersky and anomalous diffraction approximations Maxwell Garnett equations and the order parameters concept . The model allows one to analyze the electro optical response of films depending on their thickness the refractive indices of the liquid crystal and polymer matrix size and concentration of the LC droplets concentration of nanotubes conductivities of the LC and the polymer . Experimental verification of the model is performed .
+
+@highlight A model to describe the electro optical response of PDLC
+@highlight CNT films is developed.
+@highlight Experimental verification of the model is performed.
+@highlight The model is applied for the films with uniform normal interface anchoring.
+@highlight A technique connecting the mass and volume filling factors of the films is created.

@@ -1,0 +1,6 @@
+ We provide conditions to guarantee the occurrence of Shilnikov bifurcations in analytic unfoldings of some Hopf Zero singularities through a beyond all order phenomenon the exponentially small breakdown of invariant manifolds which coincide at any order of the normal form procedure . The conditions are computable and satisfied by generic singularities and generic unfoldings .
+
+@highlight This is one of the few works rigorously proving the existence of chaotic phenomena for three dimensional vector fields.
+@highlight We prove that chaotic motions actually take place by means of proving the existence of homoclinic orbits of Shilnikov type. Such orbits arise from a beyond all orders phenomena the exponentially small breakdown of certain heteroclinic invariant manifolds.
+@highlight It is a well known result that a system possessing a Shilnikov orbit has associated infinitely many Smales horseshoes and therefore a hyperbolic invariant set over which the restricted dynamics is conjugated with the infinitely many symbols shift.
+@highlight The vector fields under consideration are generic analytic unfoldings of a class of Hopf Zero singularities. We provide computable conditions which ensure the existence of Shilnikov homoclinic orbits and therefore the existence of chaotic dynamics.

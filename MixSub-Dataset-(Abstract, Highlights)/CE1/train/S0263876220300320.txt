@@ -1,0 +1,6 @@
+ The aim in this work is to develop an optimization framework to address cycling of baseload energy systems due to the penetration of renewables into the grid . The developed strategy corresponds to a multi objective and dynamic real time optimization framework applied to a postcombustion MEA based CO
+
+@highlight MOO DRTO strategy is proposed for baseload energy systems under cycling conditions.
+@highlight Novel PSO and SQP approach is implemented in process systems engineering.
+@highlight Tchebycheff based MOO component guarantees Pareto front optimal compromise.
+@highlight Framework is applied to carbon capture under cycling for different landscapes.

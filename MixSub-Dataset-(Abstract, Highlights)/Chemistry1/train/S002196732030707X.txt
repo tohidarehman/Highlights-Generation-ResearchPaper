@@ -1,0 +1,7 @@
+ The separation of the proteins Bovine Serum Albumin and Myoglobin was achieved by Size Exclusion Simulated Moving Bed and performed experimentally in the FlexSMB unit an SMB unit designed and built in the Laboratory of Separation and Reaction Engineering . Before accomplishing the separation experiments in the mentioned unit separation regions were computed by simulation based on a phenomenological mathematical model to determine appropriate operating conditions . The developed model was validated in advance against fixed bed dynamic adsorption experimental results for pure component and binary mixtures . Then the SMB experiments were carried out and purities of the Mb on the extract and BSA on the raffinate streams were 98 and 96 respectively . The achieved recoveries were 80 of Mb on the extract and 94 of BSA on the raffinate . Lastly productivities of 6.4 g
+
+@highlight Bovine serum albumin and myoglobin are separated by size exclusion chromatography.
+@highlight A mathematical model was developed and validated against fixed bed experiments.
+@highlight Simulated moving bed unit performance was predicted by the developed model.
+@highlight Separation regions were computed to determine the operating point.
+@highlight Simulated moving bed experiments were carried out in the FlexSMB unit.

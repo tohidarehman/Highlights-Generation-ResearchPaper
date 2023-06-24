@@ -1,0 +1,10 @@
+ Tile based Fisher ratio analysis has recently been developed and validated for discovery based studies of highly complex data collected using comprehensive two dimensional gas chromatography coupled with time of flight mass spectrometry . In previous studies interpretation and utilization of F ratio hit lists has relied upon manual decomposition and quantification performed by chemometric methods such as parallel factor analysis or via manual translation of the F ratio hit list information to peak table quantitative information provided by the instrument software . Both of these quantification approaches are bottlenecks in the overall workflow . In order to address this issue a more automatable approach to provide accurate relative quantification for F ratio analyses was investigated based upon the mass spectral selectivity provided via the F ratio spectral output . Diesel fuel spiked with 15 analytes at four concentration levels produced three sets of two class comparisons that were submitted to tile based F ratio analysis to obtain three hit lists with an F ratio spectrum for each hit . A novel algorithm which calculates the signal ratio between two classes was applied to all mass channels
+
+@highlight Information in Fisher ratio hit lists is used to estimate analyte concentration ratio.
+@highlight An automatable approach for relative quantification is investigated and validated.
+@highlight Lack of fit combined with p value thresholds indicate mass channel 
+@highlight  selectivity.
+@highlight Isolation of pure
+@highlight is achieved without higher level signal decomposition algorithms.
+@highlight The
+@highlight that produced the highest Fisher ratio was generally the purest

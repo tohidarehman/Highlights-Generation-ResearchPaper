@@ -1,0 +1,6 @@
+ This paper proposes and demonstrates the use of inverse methods to estimate grain properties during deep bed drying . An inverse analysis was performed to estimate the bulk density specific heat and initial moisture content of cereal grains using only grain temperature measurements as inputs . Grain temperature data obtained from numerically solving the direct problem were used to generate the temperature measurements . An iterative procedure based on minimizing a sum of squares function with the conjugate gradient method and the discrepancy principle was used to solve the inverse problem . A statistical analysis was performed to evaluate the accuracy of the estimated results . The effects of measurement errors and the sensor location on the inverse solution were also investigated . The close agreement between the exact and the estimated results shows the capability of the proposed method in estimating unknown parameters .
+
+@highlight An inverse method for estimating the grain properties is developed.
+@highlight The proposed method provides accurate estimates for the unknown parameters.
+@highlight The effects of measurement errors and sensor location on the solution are discussed.
+@highlight The method works better when the sensor is located nearer to the bottom of the bed.

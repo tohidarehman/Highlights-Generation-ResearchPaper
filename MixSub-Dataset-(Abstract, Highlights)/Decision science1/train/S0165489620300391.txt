@@ -1,0 +1,5 @@
+ The Shapley value has been axiomatically characterized from different points of view . van den Brink proposes a characterization by means of efficiency fairness and the null player property . In this paper we characterize the family of single valued solutions obtained by relaxing fairness into weak fairness . To point out the Shapley value we impose the additional axiom of weak self consistency and strengthen the null player property into the dummy player property . Remarkably impossibility results emerge when replacing self consistency by a large set of consistency properties .
+
+@highlight Solutions that satisfy efficiency dummy player and weak fairness are characterized.
+@highlight Imposing additionally weak self consistency we characterize the Shapley value.
+@highlight Impossibilities emerge when instead we use a large set of consistency properties.

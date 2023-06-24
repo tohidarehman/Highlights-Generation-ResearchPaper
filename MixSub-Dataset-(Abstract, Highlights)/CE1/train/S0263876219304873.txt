@@ -1,0 +1,11 @@
+ This study designed a cabinet dryer assembled to an air compressor to utilize a free of charge waste heat for drying . Spent coffee ground a residue from coffee brewing was the tested material . Applying computational fluid dynamics an appropriate cabinet dryer configuration could be achieved . As varying the hot air inlet outlet position the best drying characteristics providing uniform air flow occurred when hot air entered the chamber at the top and left the chamber at the bottom opposite side to the inlet . A model dryer was then developed and used to validate the CFD prediction of dryer capacity which was dependent on the maximum numbers of mounted trays and the thickness of SCG layer . The computational prediction agreed well with the experimental results showing that the dryer loading SCG at 3
+
+@highlight A free of charge waste heat from an air compressor at a coffee shop was used for spent coffee ground drying.
+@highlight CFD was used to design an appropriate configuration of a cabinet dryer assembled to an air compressor.
+@highlight The dryer with top left inlet and bottom right outlet provided the most uniform air flow.
+@highlight Experimental results fitted well with the simulation results at 97.2 accuracy.
+@highlight Based on regular operation hours of a coffee shop 12
+@highlight None
+@highlight h the daily capacity of a dryer was 5400
+@highlight None
+@highlight g of spent coffee ground.

@@ -1,0 +1,8 @@
+ 5 Methylpyrazine 2 carboxylic acid is an important pharmaceutical intermediate and is used in the production of hypoglycemic agents and lipid lowering drugs . This work aimed to develop a whole cell biocatalytic process for the efficient synthesis of MPCA from 2 5 dimethylpyrazine . Firstly a whole cell biocatalyst
+
+@highlight The first report about the production of MPCA from DMP in engineered
+@highlight BL21 DE3 without using poisonous xylene.
+@highlight The key enzyme xylene monooxygenase XMO was identified as a limiting factor for MPCA production.
+@highlight Genome engineering of
+@highlight BL21 DE3 by the CRISPR Cas9 system significantly improved the MPCA titer.
+@highlight The MPCA titer and the yield of MPCA on DMP reached 15.6g L and 1.0mol mol respectively.

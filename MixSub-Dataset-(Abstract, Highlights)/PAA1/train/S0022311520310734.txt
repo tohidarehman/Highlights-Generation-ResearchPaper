@@ -1,0 +1,7 @@
+ Gaseous nitrogen is planned to be used as a seeding species to control the power flux in future fusion reactors with ITER like divertors . Nitrogen interacts with the first wall materials particularly with tungsten leading to sputtering and changes of chemical composition of the material . We use the molecular dynamics methods with a recently developed WN potential to analyze the mechanisms leading to these modifications . We performed the simulations of cumulative nitrogen irradiation runs of tungsten surface . The sputtering yields obtained in our cumulative runs are in good agreement with experimental data . We observe the decrease of the tungsten sputtering yield with nitrogen accumulation and determine the reasons for the observed trend . The cluster analysis reveals the composition of the sputtered particles suggesting the swift chemical sputtering process that occurs under the prolonged nitrogen irradiation of tungsten . We also observe and analyze the nitrogen saturation in the temperature range below the thermal stability limit .
+
+@highlight A newly developed W N potential based on Tersoff Brenner formalism was used.
+@highlight N accumulation reduces W sputtering yield by almost an order of magnitude.
+@highlight Approximately half of sputtered W atoms leave the surface as a WN molecule.
+@highlight Nitrogen saturation occurs by the growth of the N sputtering yield with the fluence.
+@highlight Nitrogen reflection coefficient remains constant during the accumulation.

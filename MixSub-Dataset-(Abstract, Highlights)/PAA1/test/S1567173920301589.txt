@@ -1,0 +1,6 @@
+ We demonstrate a highly efficient broadband fiber optic intermodal converter . The technique relies on a long period grating mechanically induced in a two mode fiber . A compact portable apparatus was designed and fabricated where period variable metallic corrugation is implemented to form periodic micro bends along the fiber . The coupling strength between the interacting fiber modes and the grating period can be tuned continuously and individually using two control knobs in the apparatus . Experimental results show that the complete coupling between the LP
+
+@highlight Compact and portable apparatus for the fabrication of mechanical long period fiber gratings.
+@highlight Elastically tunable grating period from 300 to 1000m.
+@highlight Broadband operation in the telecom C band.
+@highlight Highly applicable to optical fiber based OAM mode generators MDM components and broadband interferometric devices.

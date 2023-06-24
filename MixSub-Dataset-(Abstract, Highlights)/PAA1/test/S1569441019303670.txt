@@ -1,0 +1,6 @@
+ In this contribution we present numerical and experimental results of a parametric quantitative study of radiative dipole antennas in a phased array configuration for efficient body magnetic resonance imaging at 7T via parallel transmission . For magnetic resonance imaging at ultrahigh fields dipole antennas are commonly used in phased arrays particularly for body imaging targets . This study reveals the effects of dipole positioning in the array on their mutual coupling
+
+@highlight A parametric quantitative study of dipole 7Tesla array coil was performed.
+@highlight The transmit SAR efficiency and mutual coupling due to coil structure were studied.
+@highlight The study was performed on a homogeneous phantom as well as on a human body model.
+@highlight SAR efficiency depends on whether the study being done on a phantom or a human model.

@@ -1,0 +1,7 @@
+ Targeted therapy is a new strategy for cancer treatment that targets chemical entities specific to cancer cells than normal ones . One of the features associated with malignancy is the elevated copper which plays an integral role in angiogenesis . Work is in progress in our lab to identify new copper chelators to target elevated copper under targeted therapy for the killing of cancer cells . Recently a coumarin based copper chelator diamine 3coumarin hybrid molecule has been synthesized by us and also studied its copper dependent macromolecular damage response in copper overloaded lymphocytes . The present study investigates the anticancer activity of ligand L and its mode of action in rat model of diethylnitrosamine induced hepatocellular carcinoma . It has been found that liver tissue has a marked increase in copper levels in DEN induced hepatocellular carcinoma .
+
+@highlight Coumarin based copper chelator ligand L targets copper in cancer cells.
+@highlight Ligand L Cu II interaction induces ROS generation in hepatocellular carcinoma cells.
+@highlight ROS generation via ligand L treatment causes DNA damage and apoptosis in cancer cells.
+@highlight DNA damage and apoptosis were inhibited by neocuproine and ROS scavenger.
+@highlight Ligand L treatment reduces hepatocellular carcinoma in wistar rats.

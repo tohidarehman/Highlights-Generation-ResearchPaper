@@ -1,0 +1,7 @@
+ We present a novel topology driven method for enhancing the navigation behavior of agents in virtual environments and crowds . In agent based crowd simulations each agent combines multiple navigation algorithms for path planning collision avoidance and more . This may lead to undesired motion whenever the algorithms disagree on how an agent should pass an obstacle or another agent .
+
+@highlight An agent in a crowd simulation typically uses multiple navigation algorithms.
+@highlight We convert the output of each navigation algorithm to a topological strategy.
+@highlight We let an agent systematically detect and resolve conflicts between its strategies.
+@highlight Thus we synchronize an agents algorithms and bridge conceptual gaps between them.
+@highlight Conflict resolution helps improve the behavior of agents and of the overall crowd.

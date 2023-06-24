@@ -1,0 +1,6 @@
+ The objectives of the present work were to assess by spectral domain optical coherence tomography the changes in thickness of the outer nuclear layer the ONL photoreceptor inner segment and the retinal thickness as a function of age in the normal canine retina . OCT retinal scans extending from the edge of the optic nerve head along the superior and inferior meridians were captured in both eyes of 17 normal dogs at age ranging from 4 to 119 weeks . The different parameters along the superior and the inferior regions were determined following manual segmentation using the Heidelberg Eye Explorer software . Changes in thickness with age were modeled using one phase exponential decay models .
+
+@highlight Changes by OCT of the ONL ONL IS and retinal thickness of the canine retina.
+@highlight Thinning of retinal thickness occurs early in life.
+@highlight The superior retina is thicker than the inferior.
+@highlight The decline was modeled fitting a one phase decay model.

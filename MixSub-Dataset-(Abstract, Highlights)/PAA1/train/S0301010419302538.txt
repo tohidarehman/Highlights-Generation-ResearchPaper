@@ -1,0 +1,6 @@
+ Initially the geometric and electronic features of red phosphorene nanosheet are examined using the SIESTA package . The energy gap density of states spectrum and electron density are estimated for the isolated red P NS and toxic cigarette vapors acrolein acrylamide and nicotine adsorbed red P NS . In addition the surface assimilating attributes like Bader charge transfer energy gap variation and adsorption energy is computed for the toxic cigarette vapors adsorbed red P NS . The modification of these significant parameters upon the surface assimilation of the toxic cigarette vapors on red P NS is clearly scrutinized in atomic levels in order to enunciate the chemo sensing behavior of red P NS towards the toxic cigarette vapors like acrolein acrylamide and nicotine .
+
+@highlight The interaction of toxicants such as acrolein acrylamide and nicotine molecules on red phosphorene are studied.
+@highlight The surface assimilating attributes like Bader charge transfer energy gap variation and adsorption energy are explored.
+@highlight The electron density shows the variation in the electron density of red phosphorene upon adsorption of molecules.
+@highlight The charge transfer takes place from the target molecules towards red phosphorene upon adsorption.

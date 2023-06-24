@@ -1,0 +1,6 @@
+ Plasma enhanced atomic layer deposition is one of the most widely adopted deposition methods used in the semiconductor industry . It is chosen largely due to its superior ability to produce ultra thin high k dielectric films which are needed for the further miniaturization of microelectronic devices with the pace of Moore s Law . In contrast to the traditional thermal atomic layer deposition method PEALD allows for high deposition growth per cycle under low operating temperature with the help of high energy plasma species . Despite the experimental effort in finding new precursors and plasmas the detailed surface structures and reaction mechanisms in various PEALD processes remain hard to understand because of the limitation of current in situ monitoring techniques and the deficiency of the first principles based analysis . Therefore in this work an accurate yet efficient kinetic Monte Carlo model and an associated machine learning analysis are proposed to capture the surface deposition mechanism and to propose optimal operating conditions of the HfO
+
+@highlight Kinetic Monte Carlo modeling of PEALD.
+@highlight Calculation of kMC model parameters via DFT.
+@highlight Comparison with experimental data.
+@highlight Neural network modeling for determining optimal operating conditions.

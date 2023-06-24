@@ -1,0 +1,7 @@
+ Tie rods of the bucket wheel and counterweight booms are vital parts of the bucket wheel excavator slewing superstructure . This paper is dedicated to the problem of identifying the stress state of the critical cross section of the eye plates on these tie rods . It presents the results of the experimental and numerical investigations carried out on the eyebar model . The results show the appearance of a plastic deformation in the zone near the contour of the hole even when the eye is subjected to the loads within the range of the permissible loads prescribed by the standard DIN 22261 2 . Plastification in the eye net section occurs across the full thickness of the plate but it does not jeopardize the integrity of the structure . The stress value in the eye net section calculated in accordance with the standard DIN 22261 2 is significantly lower than the actual stress values around the hole and serves only as a comparative value for the static strength proof for the eye .
+
+@highlight Tie rods are vital parts of the bucket wheel excavator slewing superstructure.
+@highlight Experimental and numerical investigations are carried out on the eyebar model.
+@highlight Plastification occurs across the full width of the cross section near the hole.
+@highlight DIN yields the results much lower than the actual stress values around the opening.
+@highlight Nevertheless DIN criterion is sufficient for the preservation of the eye integrity.

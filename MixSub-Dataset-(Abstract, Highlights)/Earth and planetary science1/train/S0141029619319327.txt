@@ -1,0 +1,7 @@
+ The unknown a priori position of bond related joints in the strut and tie systems used in reinforced concrete modelling is determined in this paper by developing a simple model concerning a single stiff and strong deformed bar that is embedded in a reinforced concrete member . The model takes into account the bonded length the bond stress profile and the nature of the bond along the tie basically by
+
+@highlight Roles of microcracked and solid concrete in the bonding of long anchored bars and ties.
+@highlight Clear subdivision between stress transfer by interlock and by adhesion in bonded ties.
+@highlight Direct introduction of bond in strut and tie systems.
+@highlight Rational identification of the position of bond related joints in strut and tie systems to improve safety checks.
+@highlight Simple model to investigate the roles of stirrups and rebars in anchored ties in RC.

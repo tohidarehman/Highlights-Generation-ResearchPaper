@@ -1,0 +1,7 @@
+ Geometrical description of the egg shape is of a great importance in a variety of studies and can be instrumental in predicting quality traits of table and hatching poultry eggs . Importantly developments of non destructive oomorphological models can drive novel insights in engineering and physical science and lead to new egg related technologies and egg sorting systems for poultry industry . We attempted to test the Hgelschffer s egg model according to which an egg profile curve can be transformed from an ellipse using a specific parameter
+
+@highlight Egg volume and surface area are valuable predictors of egg quality traits.
+@highlight Hgelschffer s egg model was examined to describe contours of hen s eggs.
+@highlight The formulae for recalculation of the egg volume and surface area were deduced.
+@highlight 2D digital imaging and image processing were applied to describe the egg geometry.
+@highlight Amended Hgelschffer s method is excellent for calculating volume R 0.962 SE 1 .

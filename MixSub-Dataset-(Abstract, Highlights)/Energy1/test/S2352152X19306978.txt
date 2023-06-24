@@ -1,0 +1,7 @@
+ The present work present numerical and experimental investigations to study the performance of a small scale parabolic trough solar concentrator integrated with thermal energy storage system . A new design of receiver which uses the phase change material to store the thermal energy is built . A parabolic trough solar concentrator was proposed and constructed using a concentric absorber tube with phase change material . The absorber is considered as a temporary thermal heat storage component . The heat storage recovery mechanism will act as a thermal compensator that allows the parabolic trough solar concentrator to stabilizing energy output during the absence of intense radiation or for short time cloudy conditions . The PCM used a binary salt composed of a mixture of 60 NaNO
+
+@highlight The PCM has a great influence on the production of hot water.
+@highlight The heat storage recovery mechanism acts as a thermal compensator.
+@highlight The PCM allows the PTC to stabilizing energy output during the short time cloudy conditions.
+@highlight The outlet water temperature using PCM in the concentric tube was highest.
+@highlight The outlet water temperature using phase change material is about 15 higher than the simple tube.

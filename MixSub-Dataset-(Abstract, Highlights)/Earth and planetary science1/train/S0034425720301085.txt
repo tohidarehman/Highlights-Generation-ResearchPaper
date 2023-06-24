@@ -1,0 +1,6 @@
+ A new method combining empirical modeling with time series Interferometric Synthetic Aperture Radar data is proposed to provide an assessment of potential landslide volume and area . The method was developed to evaluate potential landslides in the Heitai river terrace of the Yellow River in central Gansu Province China . The elevated terrace has a substantial loess cover and along the terrace edges many landslides have been triggered by gradually rising groundwater levels following continuous irrigation since 1968 . These landslides can have significant impact on communities affecting lives and livelihoods . Developing effective landslide risk management requires better understanding of potential landslide magnitude . Fifty mapped landslides were used to construct an empirical power law relationship linking landslide area A
+
+@highlight A new approach combining time series InSAR with empirical model is proposed.
+@highlight The volume and area of potential landslides are forecasted.
+@highlight The approach is validated for recent landslides.
+@highlight The approach contributes essential information to landslide risk assessment.

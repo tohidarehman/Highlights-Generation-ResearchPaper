@@ -1,0 +1,10 @@
+ In the present study we performed density functional theory calculations in order to study the structure and stability of small Ni clusters embedded in graphene multivacancy systems . The Bader charges band structure total density of states partial density of states and spin density magnetization were obtained to understand the effects of the cluster size on the electronic and magnetic properties and thus to determine their potential applications in spintronic devices . Ni cluster adsorption modified graphene multivacancy substrate behavior and conversion from a conductor to a semiconductor could be achieved when the cluster size was changed . A linear dispersion relationship around the reciprocal point K was conserved for most of the systems with the inclusion of a band gap between the Dirac cones which is important for obtaining semiconductors with massless fermions . Comparisons with Ni clusters adsorbed in pristine graphene showed that combining vacancy defects with Ni allows higher band gaps to be obtained . We also analyzed the interactions between Ni clusters and vacancy defects based on the PDOS results . Ni clusters with different sizes could generate ferromagnetic and ferrimagnetic couplings with graphene that exhibited three four and six D
+
+@highlight Ni
+@highlight structures embedded in multivacancy graphene studied using DFT.
+@highlight Conductor to semiconductor conversion observed as Ni cluster size varied.
+@highlight Multivacancy defects increased charge transfer from Ni clusters to graphene.
+@highlight Ferromagnetic ferrimagnetic and nonmagnetic behavior observed.
+@highlight Absorbed Ni
+@highlight and Ni
+@highlight clusters could be applied as dilute magnetic semiconductors.

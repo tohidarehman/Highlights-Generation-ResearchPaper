@@ -1,0 +1,7 @@
+ Traffic congestion is forecast for neighborhoods within a region using a deep learning model . The model is based on Long Short Term Memory neural network architecture . It forecasts a congestion score defined as the ratio of the vehicle accumulation inside a neighborhood to its trip completion rate . Inputs include congestion scores measured at earlier times in neighborhoods within a region and three other real time measures of regional traffic .
+
+@highlight We define a neighborhood wide congestion score for congestion management and four input signals necessary for predicting the congestion score.
+@highlight We define a deep learning model based on LSTM architecture for predicting the congestion score.
+@highlight We demonstrate how the model can be made robust even to adverse settings.
+@highlight We further improve the model by representing the inputs through weighted undirected graphs that incorporate the route choice of individuals and learning features through graph convolutions.
+@highlight We demonstrate of the models usefulness in designing traffic control schemes.

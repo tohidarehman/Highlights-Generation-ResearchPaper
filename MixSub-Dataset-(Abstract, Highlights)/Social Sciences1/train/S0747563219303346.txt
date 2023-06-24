@@ -1,0 +1,7 @@
+ Research examining the information diffusion on social media focused on the size of diffusion but has largely missed the speed by which information spreads over time . To fill this void this study explores what intrinsic message characteristics drive information not only to reach many people but also to spread fast across social networks . Using a computational social science approach this study collected all the original tweets from the official Twitter account of the Centers for Disease Control and Prevention for 12 months
+
+@highlight The study explored what messages are shared widely and fast on social media.
+@highlight The data included a year long corpus of all the original tweets from the CDC and the diffusion of each tweet for six days.
+@highlight The findings revealed distinct effects of intrinsic message characteristics on the size and speed of diffusion.
+@highlight Negative emotions drove the information to spread fast while positive emotions slowed down the diffusion.
+@highlight The study provides new insights into the temporal dynamics of information diffusion on social media.

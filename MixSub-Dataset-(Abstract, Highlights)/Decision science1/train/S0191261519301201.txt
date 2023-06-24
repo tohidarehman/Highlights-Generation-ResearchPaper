@@ -1,0 +1,7 @@
+ This paper aims to synchronize timetables in a transit network so as to minimize the total passenger transfer waiting time . Assuming a fixed headway for each line we first formulate the problem as an optimization problem with congruence constraints . We show that the problem is NP hard and investigate several special cases of the problem that are solvable in polynomial time . Furthermore we show that the local search for the general problem is equivalent to the well studied maximum directed cut problem . As such we use an approximation algorithm for the maximum directed cut problem to solve the timetable synchronization problem . We assess the quality of the algorithm on a real world case study and show that our algorithm significantly outperforms the state of the art in the literature . Lastly we relax the fixed headway assumption and propose an efficient recursive quasi linear time algorithm to minimize the total transfer waiting time in this general setting .
+
+@highlight Models the scheduling problem as an optimization problem with congruence constraints.
+@highlight Proposes a new graph representation of the problem.
+@highlight Provides optimal inapproximability results for the optimization problem.
+@highlight Exposes the close bounds that relate this problem with the MAX DICUT problem.
+@highlight Customizes and applies approximation algorithms for MAX DICUT in real case studies.

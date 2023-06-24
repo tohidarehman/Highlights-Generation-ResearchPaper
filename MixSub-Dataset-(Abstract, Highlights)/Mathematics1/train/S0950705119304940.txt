@@ -1,0 +1,4 @@
+ This paper examines the marginal contribution representation of fuzzy measures used to construct fuzzy measure from empirical data through an optimization process . We show that the number of variables can be drastically reduced and the constraints simplified by using an alternative representation . This technique makes optimizing fitting criteria more efficient numerically and allows one to tackle learning problems with higher number of correlated decision criteria .
+
+@highlight A new representation of fuzzy measures.
+@highlight Improvements to efficiency of learning fuzzy measures.

@@ -1,0 +1,6 @@
+ We introduce an integrated chip approach for a postcolumn segmentation of normal phase liquid chromatography . This is achieved by the seamless integration of a chiral NP chip HPLC column a flow focusing droplet generator and a segmented flow channel in a single microfluidic glass chip . This allows a continuous segmentation of the eluent into droplets which are picked up and transported via an immiscible continuous phase . The combination of NP chip HPLC and droplet microfluidics enables to fractionate and conserve chromatographic runs for further downstream processes at picoliter scale . An essential aspect is the proper choice of the continuous phase concerning polarity wetting properties and viscosity . For this purpose ethylene glycol is introduced which facilitates this first combination of normal phase chromatography and droplet microfluidics . By adjusting the flow rates and varying the generator geometry the size and frequency of the droplets could be precisely controlled .
+
+@highlight Pioneering work joining normal phase chip HPLC and droplet microfluidics.
+@highlight Integration of a packed NP HPLC column and a droplet generator in glass chips.
+@highlight Ethylene glycol works as polar continuous phase.
+@highlight  heptane eluent compartmentalized with moderate droplet frequencies.

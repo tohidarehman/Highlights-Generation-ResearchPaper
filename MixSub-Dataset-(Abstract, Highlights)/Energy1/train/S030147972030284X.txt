@@ -1,0 +1,9 @@
+ Biological invasions are one of the major threats to biodiversity at the global scale causing numerous environmental impacts and having high direct and indirect costs associated with their management control and eradication . In this work we present a system dynamic modelling approach for the biocontrol of the invasive plant species
+
+@highlight We develop a modelling approach for control of the invader
+@highlight in Spain.
+@highlight The beetle
+@highlight was modelled as biocontrol agent.
+@highlight Temperature and date of release of the biocontrol agent affects its effectiveness.
+@highlight Periodic introductions of the biocontrol agent can eradicate
+@highlight Biocontrol is feasible for some of the tested scenarios.

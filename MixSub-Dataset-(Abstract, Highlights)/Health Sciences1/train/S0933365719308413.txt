@@ -1,0 +1,7 @@
+ Optical coherence tomography is a rapidly developing non invasive three dimensional imaging approach and it has been widely used in examination and diagnosis of eye diseases . However speckle noise are often inherited from image acquisition process and may obscure the anatomical structure such as the retinal layers . In this paper we propose a novel method to reduce the speckle noise in 3D OCT scans by introducing a new super resolution approach . It uses a multi frame fusion mechanism that merges multiple scans for the same scene and utilizes the movements of sub pixels to recover missing signals in one pixel which significantly improves the image quality . To evaluate the effectiveness of the proposed speckle noise reduction method we have applied it for the application of retinal layer segmentation . Results show that the proposed method has produced promising enhancement performance and enable deep learning based methods to obtain more accurate retinal layer segmentation results .
+
+@highlight A new super resolution based method is proposed to despeckle OCT scans.
+@highlight Our method uses a multi frame fusion strategy that merges scans of the same scene.
+@highlight Our method utilizes the movements of sub pixels to recover missing signals.
+@highlight The results show the superiority of our method in terms of MSE PSNR and MSSIM.
+@highlight Our method enables retinal layer segmentation methods to get more accurate results.

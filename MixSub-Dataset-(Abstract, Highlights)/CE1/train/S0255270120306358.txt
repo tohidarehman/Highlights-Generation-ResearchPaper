@@ -1,0 +1,7 @@
+ We present a study for predicting 15 molecular properties through the combination of a quantum mechanical database taken from the quantum chemistry QM9 database and feed forward deep neural networks approaches . The aim of the work is to show that the combination of a priori computed ab initio information and machine learning can support experimental work to speed up the discovery and formulation of novel compounds . The importance of this work also relies on the fact that through this computer aided molecular design approach no approximate or heuristic contribution methods are needed for physical and thermodynamic properties information . We show that using proper hyper parameters tuning of deep neural networks is possible even with modest computational resources to design the chemical structure of compounds matching target molecular properties making them feasible for practical industrial applications in diverse areas such as energy water food health and transport economical sectors .
+
+@highlight An improvement in the prediction of molecular properties was achieved.
+@highlight No need for group contribution methods for physical properties estimation.
+@highlight Quantum chemistry databases allowed us to design novel compounds.
+@highlight A full and systematic hyper parameters tuning procedure was implemented.
+@highlight Computational demands turned out to be modest.

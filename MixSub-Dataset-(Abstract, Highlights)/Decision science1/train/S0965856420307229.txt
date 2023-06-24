@@ -1,0 +1,7 @@
+ A claimed benefit of real time information apps in public transit systems is the reduction of waiting time by allowing passengers to appropriately time their arrivals at transit stops . Although previous research investigated the overall impact of RTI on waiting time few studies examine the mechanisms underlying these claims and variations in its effectiveness over time and space . In this paper we theorize and validate the sources of RTI based users waiting time penalties
+
+@highlight Public transit agencies publish real time information for use in mobile apps.
+@highlight We benchmark several strategies using empirical transit system performance data 
+@highlight Overall real time information does not outperform simply following schedule.
+@highlight Real time information can reduce waiting time for some users based on location.
+@highlight Including a time buffer improves the greedy approach used by popular apps.

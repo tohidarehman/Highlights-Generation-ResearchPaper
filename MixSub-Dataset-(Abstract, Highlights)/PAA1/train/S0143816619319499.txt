@@ -1,0 +1,7 @@
+ A new strain sensor is proposed which can measure both through thickness and in plane strains within a laminated fibre reinforced composite material . The planar sensor uses novel embedded planar optic sensors and is demonstrated on a carbon fibre composite test coupon . The planar optical sensor was fabricated via flame hydrolysis deposition and was physically machined to reduce the substrate thickness to 50m . Strain components are decoupled through monitoring the transverse electric and transverse magnetic effective refractive indices of two orthogonal planar waveguides . The work investigates if the embedded planar sensors have any mechanical knockdown effects on the composite structure and demonstrates their effectiveness at decoupling three orthogonal strain components .
+
+@highlight Through thickness out of plane strain monitoring in advanced composite.
+@highlight Monitoring achieved by embedding integrated optics within composite material.
+@highlight Physically machined flame hydrolysis deposition planar integrated optics.
+@highlight Flexible planar photonics negligible influence on structural integrity.
+@highlight Multi axis linear strain monitoring using birefringence and Bragg grating sensors.

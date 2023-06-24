@@ -1,0 +1,5 @@
+ In this study a nickel oxide nanocrystal based flexible resistive memory device is demonstrated at temperature as low as 180C by ligand exchange process . The fabricated device for flexible application with structure Ni NiO Ni on PI substrate exhibits excellent switching characteristics with low set reset voltages and stable resistance values in both ON and OFF states for over 100 switching cycles of memory operation . Also this flexible memory device shows stable resistive switching properties under compressive stress with bending radius to 10mm and consecutive bending cycles . The ReRAM fabricated by a low temperature solution process shows potential for next generation flexible electronics .
+
+@highlight NiO Nanocrystal based flexible resistive memory device has been fabricated.
+@highlight By introducing a ligand exchange method the process temperature was lowered.
+@highlight The flexible memory shows reliable resistive switching properties under compressive stress and consecutive bending cycles.

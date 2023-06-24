@@ -1,0 +1,7 @@
+ An increasing amount of research is dedicated to the consideration of tour formation in freight transportation demand models . While empirical tour formation models so far have been starting from limiting assumptions about the resulting trips we develop a generalized shipment based model . We formulate a random utility model embedded in an iterative algorithm to construct tours through the incremental allocation of shipments . It considers different objectives and constraints and acknowledges the difference between commodity vehicle and location types . Parameters are estimated on a large and comprehensive shipment database . The model reproduces observed tour statistics well for the given set of shipments .
+
+@highlight We develop a descriptive shipment based algorithm for tour formation.
+@highlight The algorithm iteratively allocates shipments to tours using random utility models.
+@highlight A large Dutch shipment database is used to estimate explanatory variables.
+@highlight Commodity location vehicle attributes and logistical costs influence tour choices.
+@highlight Out of sample validation shows a close reproduction of observed tour statistics.

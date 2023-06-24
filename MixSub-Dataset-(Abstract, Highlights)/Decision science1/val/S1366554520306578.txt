@@ -1,0 +1,6 @@
+ We investigate a hazmat routing scheduling problem . To minimize the overall expected risk various vehicles may take different routes schedules to avoid multiple accidents on the same link . Therefore the company envisages two issues
+
+@highlight A hazmat routing scheduling problem is formulated as a bi objective game.
+@highlight A FIFO discipline is applied to waiting places to keep fairness among dispatchers.
+@highlight Risk and travel time objectives are included to embed the planners risk attitude.
+@highlight By solving the problem with a modified ALNS on a real case insights are presented.

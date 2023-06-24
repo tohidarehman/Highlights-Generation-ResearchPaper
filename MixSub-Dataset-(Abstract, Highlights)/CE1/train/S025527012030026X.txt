@@ -1,0 +1,8 @@
+ In this research novel magnetic mixed matrix membranes are developed using polysulfone containing of carbonyl iron powders for oxygen nitrogen separation . In order to create preferential permeation pathways for oxygen across the MMMs the membrane formation is accomplished with the aid of an external magnetic field . The required magnetic force to control particle dispersion within the membrane is simulated using ANSYS Maxwell software . Scanning electron microscopy images reveal that CIPs are aligned in the membrane matrix according to the direction of applied magnetic field while successful synthesis of magnetic membranes is confirmed by vibrating sample magnetometer . In addition a novel gas permeation unit is constructed to investigate the effect of CIP loading on the gas separation performance of MMMs in the presence of various magnetic fields . The magnetic field aligned CIP PSf membranes present higher permeability and lower selectivity than both un aligned CIP PSf and neat PSf membranes . In addition O
+
+@highlight Magnetic mixed matrix membranes PSf CIP were prepared based on PSf.
+@highlight Influence of magnetic field on the arrangement of magnetic particles in polymer matrix was investigated.
+@highlight The novel magnetic gas separation module was designed and constructed.
+@highlight The effect of arrangement of magnetic particles on the O
+@highlight and N
+@highlight permeation was studied in the presence of magnetic fields.

@@ -1,0 +1,7 @@
+ Recent investigations have highlighted the need for improved provisions for determining the resistance of stainless steel I sections under concentrated transverse loading . Such provisions which reflect the particular characteristics of the material have been developed and are described herein . A review of the existing European design formulae for members under concentrated transverse loading is firstly presented . Then a series of parametric studies based on validated finite element models are described covering I sections with a range of web slenderness values and different stainless steel grades . On the basis of the numerical results together with existing experimental data revised design equations are presented and assessed through reliability analysis performed in accordance with Annex D of EN 1990 . The new provisions yield enhanced ultimate load predictions and are expected to be included in the next revision of EN 1993 1 4 .
+
+@highlight Review of existing design provisions for resistance to concentrated loading.
+@highlight Available test data on stainless steel I sections under concentrated loading compiled.
+@highlight Numerical parametric study performed for different stainless steel grades.
+@highlight Design rules proposed for stainless steel members under concentrated loading.
+@highlight Reliability analysis carried out to confirm safety of proposed design rules.

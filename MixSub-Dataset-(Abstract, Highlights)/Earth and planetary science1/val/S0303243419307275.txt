@@ -1,0 +1,7 @@
+ Land cover changes associated with urbanisation modify microclimate leading to urban heat islands whereby cities are warmer than the surrounding countryside . Understanding the factors causing this phenomenon could help urban areas adapt to climate change and improve living conditions of inhabitants . In this study land surface temperatures of Aarhus a city in the high latitudes are estimated from the reflectance of a thermal band of Landsat 8 on five dates in the summer months . Spectral indices modelled on the normalised difference vegetation index using all combinations of the first seven bands of Landsat 8 are calculated and their relationships with LST analysed . Land cover characteristics in terms of the percentages of tree cover building cover and overall vegetation cover are estimated from airborne LiDAR data building footprints and 4 band aerial imagery respectively . The correlations between LST the spectral indices and land cover are estimated .
+
+@highlight Difference in LST between warm and cold zones in a high latitude city up to 13.26C.
+@highlight Spectral index Landsat 8 using NIR and SWIR2 strongly correlated with LST.
+@highlight All indices using infrared bands have stronger correlations than NDVI with LST.
+@highlight Tree cover has stronger correlations with temperature than overall vegetation cover.
+@highlight Coverage of trees and buildings account for up to 68 surface temperature variation.

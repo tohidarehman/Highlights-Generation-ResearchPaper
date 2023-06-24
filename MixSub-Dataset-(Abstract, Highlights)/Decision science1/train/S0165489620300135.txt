@@ -1,0 +1,7 @@
+ A situation in which a finite set of agents can obtain certain payoffs by cooperation can be described by a cooperative game with transferable utility or simply a TU game . In the literature various models of games with restricted cooperation can be found in which only certain subsets of the agent set are allowed to form . In this article we consider such sets of feasible coalitions that are closed under intersection i.e . for any two feasible coalitions their intersection is also feasible . Such set systems called intersection closed systems are a generalization of the convex geometries . We use the concept of closure operator for intersection closed systems and we define the restricted TU game taking into account the limited possibilities of cooperation determined by the intersection closed system . Next we study the properties of this restricted TU game . Finally we introduce and axiomatically characterize a family of allocation rules for TU games on intersection closed systems which contains a natural extension of the Shapley value .
+
+@highlight Cooperation is restricted by an intersection closed system.
+@highlight For any two feasible coalitions their intersection is also feasible.
+@highlight A restricted TU game is constructed and studied.
+@highlight We extend the Shapley value for games on intersection closed system.
+@highlight This rule called the Intersection rule is axiomatically characterized.

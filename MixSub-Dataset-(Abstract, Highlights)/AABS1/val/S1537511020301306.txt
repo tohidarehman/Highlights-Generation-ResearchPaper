@@ -1,0 +1,7 @@
+ One of the options for increasing the versatility of tractors is to use them as a part of a modular traction device . The model MTD 100 consists of a power generator module and a technical module . The power generator module is a tractor with a nominal traction force of 1416kN . The technical module is an additional axle with wheels driven by the power generator module ground speed power take off . For agricultural implements whose traction resistance does not exceed 16kN only the tractor is used . When the technical module is attached to it the traction force of the entire MTD 100 increases . The MTD 100 makes it possible to tow implements with a traction resistance of up to 30kN . Since the rear wheels of the power generator module are connected by a locked drive to the wheels of the technical module there is a kinematic discrepancy
+
+@highlight Kinematic discrepancy among the MTD 100 traction modular device driving wheels.
+@highlight Tyres inflation pressure influences the lead among traction device drive wheels.
+@highlight Tyres inflation pressure increase produces a lowering lead among the driving wheels.
+@highlight Ballast requires tyres inflation pressure increase to keep the same lead coefficient.
+@highlight Kinematic mismatch coefficient is less affected by the tyres width.

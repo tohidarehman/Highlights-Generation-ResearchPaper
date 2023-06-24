@@ -1,0 +1,7 @@
+ The aim of this study was to develop a statistical model based on a set of intuitive topological descriptors that will help to determine the influence of the polychlorinated biphenyls structural features on the chromatographic behavior of these analytes in a variety of gas chromatographic stationary phases including the highly polar ionic liquid based SLB IL76 and SLB IL60 columns . The model was developed using the stepwise multiple linear regression method and constructed through several levels of increasing complexity to make evident the relative influence of the selected descriptors .
+
+@highlight A simple statistical model based on topological descriptors has been developed.
+@highlight The feasibility of the model was evaluated on six GC stationary phases.
+@highlight Evaluated phases covered a wide range of chemical structures and polarities.
+@highlight Appropriate prediction of the chromatographic behavior of PCBs was possible.
+@highlight Prediction of PCB behavior in IL based phases was reported for the first time.

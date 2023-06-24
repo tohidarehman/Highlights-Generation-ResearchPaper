@@ -1,0 +1,6 @@
+ To combat the critical stresses of rising urbanization the government acquires land from private owners using the power of eminent domain . This land assembly causes negative externalities such as increasing social tension and injustice that may impose a long term threat to stability and sustainable development . Therefore there is a need to make the land acquisition process more transparent and just . Considering the unique Indian context where informality has a strong presence we propose an approach based on game theory that models the bargain through a three stage Nash equilibrium game . Four agents
+
+@highlight We propose a game theoretic framework to model multi agent decision making.
+@highlight Informal actors in the land acquisition process are considered.
+@highlight Linear utility form shows that informal agents capture half of the project revenue.
+@highlight Our model can be extended to other informal land markets in the Global South.

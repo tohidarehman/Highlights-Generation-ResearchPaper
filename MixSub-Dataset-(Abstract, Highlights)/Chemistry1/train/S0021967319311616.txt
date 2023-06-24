@@ -1,0 +1,8 @@
+ Most HPLC enantiomer separations are performed with columns packed with a chiral stationary phase operated with an achiral mobile phase . The intrinsically limited chemical selectivity of most CSPs to the simultaneous resolution of several pairs of enantiomers means that complex mixtures of diverse pairs of enantiomers can not be resolved in a single run due to peak overlapping . Moreover some drawbacks remain when the analyte is present in very complex samples containing other achiral compounds which can co elute with the enantiomer peaks . Multidimensional chromatography becomes an option to increase peak capacity and resolve these samples .
+
+@highlight Novel LCxLC configuration for enantioresolution of amino acids.
+@highlight Chiral x achiral 2DLC is implemented to determine amino acids profiles.
+@highlight Chiral Quinine phase and C18 are combined to increase separation space.
+@highlight Splitting the
+@highlight D eluent by an active splitter pump improves the separation quality.
+@highlight Amino acids from honey samples from different origins were determined.

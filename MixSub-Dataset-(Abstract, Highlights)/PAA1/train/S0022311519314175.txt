@@ -1,0 +1,5 @@
+ The stress corrosion cracking behavior of 316L stainless steel forged to 0 12.6 21.4 and 39.8 reduction in thickness was investigated at constant K in light water reactor environments . The yield strength specimen orientation and water chemistry were correlated with crack growth rate and their dependencies are discussed . The crack growth rate of 316L SS increased monotonously with yield strength irrespective of the specimen orientation or water chemistry . Higher CGRs were observed when cracks propagate along the plane parallel to forging plane than normal to forging plane . The effect of local deformation on the anisotropic cracking behavior for different orientations crack paths and CGRs are also discussed .
+
+@highlight Yield strength is a strongly indicator to the SCC susceptibility of deformed 316L stainless steel.
+@highlight The anisotropic cracking behavior of tested samples arise from the different distribution of local deformation.
+@highlight The increased deformation in grain interior causes the change of cracking morphology.

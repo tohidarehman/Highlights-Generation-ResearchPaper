@@ -1,0 +1,6 @@
+ In this paper a Surrogate Assisted Grey Wolf Optimization algorithm for high dimensional and computationally expensive problems is presented where Radial Basis Function is employed as the surrogate model . SAGWO conducts the search in three phases
+
+@highlight SAGWO forms a novel platform for solving high dimensional expensive black box global optimization problems.
+@highlight SAGWO brings a new strategy to fuse local exploitation of surrogates and meta heuristic global exploration.
+@highlight SAGWO introduces a knowledge mining process to sufficiently exploit the RBF surrogate model.
+@highlight SAGWO shows superior computation efficiency and robustness on 21 representative high dimensional benchmark cases.

@@ -1,0 +1,7 @@
+ Biomass burning emissions are a significant source of particles to the atmosphere especially in the Southern Hemisphere where the occurrence of anthropogenic and natural wild fires is common . These emissions can threaten human health through increased exposure whilst simultaneously representing a significant source of trace metals and nutrients to the ocean . One well known method to track BB emissions is through monitoring the atmospheric concentration of specific monosaccharide anhydrides specifically levoglucosan and its isomers mannosan and galactosan . Herein a new method for the determination of levoglucosan and its isomers in marine and terrestrial aerosol samples is presented which delivers both high selectivity and sensitivity through the coupling of ion chromatography and triple quadrupole tandem mass spectrometry . Optimal chromatographic conditions providing baseline separation for target anhydrosugars in under 8min were obtained using a Dionex CarboPac
+
+@highlight An IC TSQ MS method was developed for the analysis of biomass burning BB markers.
+@highlight BB markers LODs are the lowest reported up to date for an IC MS method.
+@highlight First use of lithium cationisation for BB markers analysis in aerosol samples.
+@highlight Method applicability demonstrated analysing 40 atmospheric samples.
+@highlight Acid washed W41 cellulose filters shown as suitable for BB markers sampling.

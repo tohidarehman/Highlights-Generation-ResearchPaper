@@ -1,0 +1,8 @@
+ The ability to accurately detect and quantify the presence of invasive plants is integral in their management treatment and removal . Remotely piloted aircraft systems are becoming an important remote sensing tool for mapping invasive plants . Spotted knapweed
+
+@highlight Metapixel based method identified
+@highlight in multispectral imagery.
+@highlight Suitable for relative abundance estimates in a diverse grassland ecosystem.
+@highlight GLCM based metrics improved overall performance.
+@highlight Feature optimization of critical importance when training a classifier.
+@highlight Rotation and grey tone transform invariant GLCM based metrics recommended.

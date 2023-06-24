@@ -1,0 +1,7 @@
+ Information on Earth s land surface and change over time has never been easier to obtain but making informed decisions to manage land well necessitates that this information is accurate and precise . In recent years due largely to the inevitability of classification errors in remote sensing based maps and the marked effects of these errors on subsequent area estimates sample based area estimates of land cover and land change have increased in importance and use . Area estimation of land cover and change by sampling is often made more efficient by
+
+@highlight Literature recommendations related to sampling based estimation are augmented.
+@highlight Omissions of land change in maps can introduce large uncertainty in area estimates.
+@highlight If stratifying by map class omissions of change tend to carry large area weight.
+@highlight Substrata in forest strata unlikely to contain error mitigate effects of omissions.
+@highlight Constructing efficient stratifications mitigate effects of omissions.

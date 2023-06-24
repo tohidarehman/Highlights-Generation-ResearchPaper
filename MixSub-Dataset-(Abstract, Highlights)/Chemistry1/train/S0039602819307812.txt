@@ -1,0 +1,5 @@
+ It is found that the magnetoresistance of the Mo plate non monotonically depends on hydrogen coverage and degree of the ordering of adsorbed hydrogen layers . In particular there is a pronounced minimum on the dependence corresponding to formation of well ordered 2H structure . The magnetoresistance measured for the H structure is noticeably less than that for a clean Mo surface . On the ground of DFT calculations of the electronic structures and Fermi surfaces for a clean Mo surface and the surface with adsorbed 2H and H hydrogen layers we attribute this effect in line with the diffraction theory of scattering of conduction electrons
+
+@highlight Magnetoresistance MR of the Mo 110 film depends on the ordering of adsorbed H.
+@highlight DFT calculations of Fermi surfaces for 22 2H and 11 H on Mo 110 are performed.
+@highlight Observed peculiarities in MR are attributed to increase of the specularity of surface scattering for ordered structures.

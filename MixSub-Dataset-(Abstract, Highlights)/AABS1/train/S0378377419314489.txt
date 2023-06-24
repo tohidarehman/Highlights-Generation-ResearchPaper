@@ -1,0 +1,6 @@
+ The Brazilian savanna locally known as Cerrado native vegetation has been replaced by an agro pastoral land cover over the last few decades which has affected its hydrological cycle and the availability of its water resources . Reference evapotranspiration ET
+
+@highlight 25 different ET
+@highlight methods were evaluated for the Cerrado condition.
+@highlight Radiation based methods are applicable in the Cerrado region when Penman Monteith model inputs are not available.
+@highlight Our GA generated equation using solar radiation and temperature as inputs showed good overall results.

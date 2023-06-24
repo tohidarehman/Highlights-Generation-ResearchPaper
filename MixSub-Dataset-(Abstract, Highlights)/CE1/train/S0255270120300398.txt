@@ -1,0 +1,7 @@
+ Methylene blue removal by means of a filter press electrochemical flowcell operating in recycle mode equipped with graphite electrodes was surveyed . Hydrodynamics and mass transport inside flowcell were evaluated by Computational Fluid Dynamics simulations and validated by experimental Residence Time Distribution technique . Good agreement was observed between experimental data and simulated MB decay . Increasing flowrate from 0.31 to 0.51L min
+
+@highlight Pre pilot electrochemical flowcell for treatment of Methylene Blue MB wastewater.
+@highlight CFD simulation of MB electrooxidation reaction inside flowcell.
+@highlight Assumption of mass transport controlled reaction in CFD simulations for simplicity.
+@highlight Validation of CFD simulations with RTD and experimental MB electrooxidation.
+@highlight Determinant complex degradation mechanism during anodic electrooxidation of MB.

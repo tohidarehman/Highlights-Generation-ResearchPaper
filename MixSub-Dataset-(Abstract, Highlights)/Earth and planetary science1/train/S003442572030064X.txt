@@ -1,0 +1,7 @@
+ Landslides and resultant barrier lakes are significant threats to human lives and infrastructures . Three dimensional surface displacements can give vital clues to the exploration of internal structure of landslides but they are difficult to be retrieved from spaceborne Synthetic Aperture Radar observations due to the intrinsic limitation of SAR imaging geometry . Meanwhile studies on predicting slope failure based on SAR measured displacements are rarely seen . Here we used SAR pixel offset tracking to investigate the Baige landslide before the collapse on 10 October 2018 . 3D surface displacements retrieved by combining satellite SAR and optical observations revealed heterogeneous spatial patterns within the landslide complex . We observed linear secondary creep and accelerating tertiary creep prior to the failure from multi sensor SAR data . The possibility of forecasting the failure was demonstrated by applying an inverse velocity method to the time series displacements measured by Sentinel 1 during the tertiary creep which is valuable for risk evaluation and disaster early warning .
+
+@highlight We retrieved 3D displacement field by combining SAR and optical observations.
+@highlight The 3D displacement field revealed the spatial complexity of the Baige landslide.
+@highlight We derived historic displacements of the Baige landslide from three SAR data stacks.
+@highlight Creep evolution from linear to accelerating was shown by time series displacements.
+@highlight We demonstrated the possibility of landslide early warning with SAR measurements.

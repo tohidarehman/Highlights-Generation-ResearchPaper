@@ -1,0 +1,6 @@
+ Guardrails were designed to deter vehicle access to off road areas and consequently prevent hitting rigid fixed objects alongside the road . However guardrails cause 10 of deaths in vehicle to fixed object crashes which recently attracted attention in the highway safety community on the vehicle based injury criteria used in regulations . The objectives of this study were to investigate both full body and body region driver injury probabilities using finite element simulations to quantify the influence of pre impact conditions on injury probabilities and to analyze the relationship between the vehicle based crash severity metrics currently used in regulations and the injury probabilities assessed using dummy based injury criteria .
+
+@highlight The car to end terminal crash finite element FE simulations involving a dummy model were performed for the first time in this study.
+@highlight Injuries assessed by vehicle based crash severity metrics showed to be more conservative than the ones determined by dummy based injury criteria.
+@highlight The current vehicle based injury prediction methods which are accepted by U.S and European standards cannot be used to predict head neck and thigh injuries.
+@highlight The results showed that the end terminal accepted under NCHRP guidelines should be re evaluated under new MASH guidelines.

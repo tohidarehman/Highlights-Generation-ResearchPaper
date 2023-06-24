@@ -1,0 +1,6 @@
+ Liner carriers must regularly adjust their shipping networks to respond to competitors and changing seasonal customer demands . They do this by selecting and moving ships between routes . State of the art approaches decompose this into two separate problems . We propose an integrated mathematical model and matheuristic for the liner shipping fleet deployment and repositioning problem that jointly optimizes the choice of vessels for routes and the cost of moving vessels to their assignments . We use real world data to show that simultaneously optimizing deployment and repositioning can result in significant cost reduction over solving the problems independently .
+
+@highlight A math model and matheuristic to integrate vessel deployment and repositioning.
+@highlight Combines fleet deployment and fleet repositioning to improve liner networks.
+@highlight Outperforms state of the art methods on real world sized instances.
+@highlight Provides managerial insights found due to the integrated model.

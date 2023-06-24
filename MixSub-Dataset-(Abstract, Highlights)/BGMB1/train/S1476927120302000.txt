@@ -1,0 +1,6 @@
+ We report ligand field molecular mechanics density functional theory and semi empirical studies on the binding of Cu to GlyHisLys peptide . Following exhaustive conformational searching using molecular mechanics we show that relative energy and geometry of conformations are in good agreement between GFN
+
+@highlight Conformational searching of Cu complex with GHK reveal limited flexibility.
+@highlight DFT single point and optimisation data re order conformational ensemble.
+@highlight GFN2 XTB method reproduces DFT energy and geometry.
+@highlight Speed of GFN2 XTB allows molecular dynamics and metal binding site search.

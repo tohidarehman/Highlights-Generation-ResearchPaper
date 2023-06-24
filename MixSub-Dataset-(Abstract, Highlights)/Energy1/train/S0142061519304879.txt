@@ -1,0 +1,6 @@
+ This paper presents four different optimal power flow formulations designed to find the maximum number of plug in electric vehicles that can be simultaneously charging for a given power system operating condition . The modeling approach to represent the coincident charge of PEVs is based on the modeling philosophy of homotopy methods . The quantitative and qualitative characteristics of the solutions that each model attains are analyzed and compared . For that the developed models are simulated in the IEEE RTS 96 benchmark system . These analyses provide insights into the limitations and strengths of each model . The paper concludes with suggestions on the practical application of the models in tasks related to both planning and operation of power systems .
+
+@highlight Four OPF formulations to find the maximum number of on charge PEVs are analyzed.
+@highlight PEVs charge models are based on the modeling philosophy of homotopy methods.
+@highlight Quantitative and qualitative analyses of the attained solutions are provided.
+@highlight Applications of the models in tasks related to planning and operation are suggested.

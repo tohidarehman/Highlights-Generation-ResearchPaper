@@ -1,0 +1,7 @@
+ The complex and dense irrigation and drainage networks and diverse irrigation scheduling result in uncertainties and complexities in the simulation of drainage water and salinity at different regional scales . We propose a semi distributed model to simulate monthly drainage water and salinity considering both the surface return flow and groundwater drainage to drainage ditches . The model uses sub drainage command areas controlled by main irrigation canals and drainage ditches as simulation units and uses a conceptual model to estimate monthly drainage water and salinity from each SDCA . The proposed model is applied in the Hetao Irrigation District in North China with 19 SDCAs and calibrated and validated using monitoring data during 20082010 and 20122013 respectively . The results reveal better model performance in estimating the drainage water and salinity at SDCA sub irrigation district and irrigation district scales . The average annual drainage is 47 021 10
+
+@highlight We propose a semi distributed model to simulate monthly drainage water and salinity.
+@highlight The model is calibrated and verified by drainage data in Hetao irrigation district.
+@highlight Model is applicable for drainage and salinity simulation at different spatial scales.
+@highlight Groundwater drainage capability is poor the east and south of the study area.
+@highlight Attention should be paid to salt accumulation problem in the west and middle part.

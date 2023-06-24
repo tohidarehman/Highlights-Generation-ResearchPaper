@@ -1,0 +1,7 @@
+ Temperature monitoring of reactor experiments is an important quality requirement . High purity silicon carbide can be used to provide such data through post irradiation material analysis . This method stems from radiation defect concentrations dependence on irradiation temperature . Irradiation temperature can be determined by measuring irradiation induced property changes for example lattice spacing distribution dimensions electrical resistivity etc.after isochronal annealing . Such methods are time consuming since multiple steps must be performed in a serial manner . We investigated the possibility of using an alternative method that does not require multiple heat treatments . Instead peak irradiation temperature is determined by a calibration curve comparing pre and post irradiation sample dimensions . The experimental results demonstrate the feasibility of this approach in the irradiation conditions described below . This approach can also be used to measuring changes in other properties mentioned above .
+
+@highlight Irradiation capsules were designed and fabricated for simultaneous irradiation of SiC samples at 255 310 and 410C 528 583 and 683K .
+@highlight Irradiation was performed in a driver fuel element of the BR2 reactor in Mol.
+@highlight Radiation induced dilatation of SiC samples was measured after irradiation.
+@highlight A demarcation energy approach was used to interpret the results.
+@highlight It is proposed that peak irradiation temperature be determined by a calibration curve comparing pre and post irradiation sample dimensions.

@@ -1,0 +1,7 @@
+ The acoustic emission method was used to monitor the tensile damage in a 3D braiding composite shaft . The 3D braiding composite shaft was manufactured via Vacuum Assisted Resin Transfer Moulding and the tensile experiment was conducted accompanied by AE monitoring . The AE signals were analyzed using the wavelet transformation for time frequency analysis . The characteristic values of the AE signals were decomposed by the principal component analysis . The damage mode of the 3D braiding composite shaft under tension was identified and classified by the fuzzy clustering method . The results showed that the AE method could monitor the damage evolution process of the 3D braiding composite shaft under tension and the FCM combined with the PCA effectively divided the damage mode of the 3D braiding composite shaft . The results will provide an effective method for health monitoring of the 3D braiding composite shaft within engineering .
+
+@highlight The AE signals of 3D 4 directional braided composite shafts were obtained by tensile experiment.
+@highlight The energy distribution of the signal was transferred to high frequencies during the failure process.
+@highlight PCA and FCM were used to analyze the AE signals.
+@highlight Three classes of damage mode were obtained.
+@highlight The relationship between the signal and the damage mode was presented.

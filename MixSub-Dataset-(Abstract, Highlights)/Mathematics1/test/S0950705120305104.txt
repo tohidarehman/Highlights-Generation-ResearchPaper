@@ -1,0 +1,6 @@
+ Community is an important property of networks . Recently label propagation based community detection algorithms develop rapidly since they can discover communities with high efficiency . However the results of most of them are inaccurate and unstable because the node order of label updating and the mechanism of label propagation are random . In this paper a new label propagation algorithm Graph Layout based Label Propagation Algorithm is proposed to reveal communities in networks which aims at detecting accurate communities and improving stability by exploiting multiple graph layout information . Firstly GLLPA draws networks to compact layout based on the force directed methods with
+
+@highlight Graph layout based label propagation algorithm is proposed to detect communities.
+@highlight Based on compact layout a new label initialization strategy is proposed.
+@highlight Based on attractive force in uniform layout node and label influence are designed.
+@highlight We evaluate the effectiveness of GLLPA on 16 synthetic and 15 real world networks.

@@ -1,0 +1,7 @@
+ Online measurements of off gas streams are often crucial for studying bioconversion processes . However for anaerobic processes options for online off gas analysis are typically restricted to lab scale bioreactors or larger systems while gas measurements at smaller scales typically do not discriminate between different gases . In this work a method for online measurement of CO
+
+@highlight System developed to analyze headspace gasses in anaerobic shake flask fermentations.
+@highlight Fermentations in system mirrored those previously reported in stirred tank reactors.
+@highlight Analyses of gaseous and soluble products allowed carbon balances to be performed.
+@highlight Gas transfer rates reflected phenomena such as inhibition and substrate depletion.
+@highlight System allowed using small volumes with multiple conditions analyzed in parallel.

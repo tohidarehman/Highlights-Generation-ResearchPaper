@@ -1,0 +1,7 @@
+ A research investigation of the overall mass transfer coefficients holdup and mean drops of dispersed phase as well as slip and characteristic velocities were carried out in the pulsed scale up column with disc and doughnut structure for extraction of tellurium and selenium from a hydrochloric acid medium with TBP extractant . The impact of operating conditions containing the pulse intensity inlet aqueous and solvent phase velocities have been studied on the mass transfer rates and the special column characteristic . By considering the reactive extraction situations modified models were derived for predicting of holdup d
+
+@highlight Extraction of tellurium ions was performed in the pulsed disc and doughnut column.
+@highlight The axial diffusion model was used for extracting the selenium and tellurium ions.
+@highlight Available correlations failed to correctly estimate the mass transfer data.
+@highlight Modified models were derived for prediction of the hydrodynamic parameters.
+@highlight A new model was proposed for predicting the enhancement factor.

@@ -1,0 +1,7 @@
+ The design of photobioreactors to treat municipal wastewater is in the early stages of development . Kinetics of activated sludge can not be used for PBRs because biomass differs in composition growth and decay rates . In this paper respirometry was extended to a microalgal bacterial consortium in a long term PBR treating municipal wastewater . Kinetic and stoichiometric parameters were estimated for endogenous respiration biodegradable COD oxidation and nitrification . The comprehensive respirometric approach was based on the Oxygen Production Rate of photosynthetic microorganisms and the Oxygen Uptake Rate of the overall biomass including data processing and corrections . The gross OPR was 9.80.2mg O
+
+@highlight Respirometry was used to characterize a microalgal bacterial consortium in a PBR.
+@highlight Kinetic and stoichiometric parameters were estimated in the light and dark at 20C.
+@highlight Respirometry in the light quantified the net oxygen production rate of microalgae.
+@highlight The biodegradable COD oxidation rate and the endogenous respiration was calculated.
+@highlight The specific nitrification rate was calculated in the dark phase.

@@ -1,0 +1,5 @@
+ Surface snowmelt affects the energy balance through melt albedo feedback and may endanger the ice shelves in the Antarctic Peninsula through hydrofracture . Here we introduce an automatic snowmelt identification algorithm based on Quick Scatterometer and Advanced Scatterometer . The proposed method can provide self adaptive thresholds for snowmelt detection based on Rosin thresholding and is able to detect weak melt signals with a wavelet denoising procedure . Results suggest the AP surface snowmelt has slightly declined during 19992018 in the context of recent cooling . However winter melt index has significantly increased with a rate of 83 decade
+
+@highlight An automatic snowmelt detection algorithm is proposed to detect snowmelt.
+@highlight Antarctic Peninsula winter snowmelt has significantly increased over 19992018.
+@highlight Intense winter snowmelt in 2016 was driven by a deepening of Amundsen Sea Low.

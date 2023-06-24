@@ -1,0 +1,8 @@
+ Soil Moisture is a direct indicator of dryness of the land surface and the amount of precipitation vegetation status and Land Surface Temperature are directly related to SM thus these factors indirectly characterize the dryness of the land surface . However there are limitations and shortcomings of using a single factor to assess dryness because of the interactions among factors . A method that can combine the advantages of the three factors is needed to better monitor dryness . In this study a new Remote Sensing dryness index called the Temperature Vegetation Precipitation Dryness Index was defined and developed using the Euclidean distance method and three dimensional P Normalized Difference Vegetation Index LST.The reasonableness of this index was tested and verified using SM data three variables other recognized dryness indices crop yield per unit area and Net Primary Productivity . In addition the reliability of the TVPDI results was analyzed at different spatial scales and using different data sources . The results demonstrated that the TVPDI was highly correlated with SM
+
+@highlight Proposed a dryness index TVPDI according to 3D space and Euclidean Distance method.
+@highlight TVPDI is compared with four kinds of dryness index to test the applicability.
+@highlight TVPDI
+@highlight is compared with TVPDI
+@highlight in sample regions to test the stability.
+@highlight TVPDI is applied to analyze the spatial temporal pattern of dryness wetness status.

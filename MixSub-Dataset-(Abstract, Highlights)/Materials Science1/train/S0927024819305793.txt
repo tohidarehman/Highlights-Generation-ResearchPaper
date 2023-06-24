@@ -1,0 +1,7 @@
+ We compare the performances of single cells parallel and series homo tandem solar cells by focusing on the effect of a central ultra thin metal film acting as an interconnecting layer in the series case or as an electrode in the parallel case . Cells with this metal film are found to outperform classic solar cells thanks to better interference management . Moreover we find that photonic optimization from an absorption point of view can be accompanied by a reduction of the total amount of active material . We show that the best types of cell strongly depends on the maximum allowed active material thickness to ensure good carrier collection . We also compare ITO and a recently devised ITO free alternative the Two Resonance Tapping Cavity as transparent electrode and we show how this choice influences photonic optimization . We perform our analysis under the assumption of AM1.5 spectral illumination for a wide choice of realistic materials PTB7 th PC
+
+@highlight Parallel and series thin film homo tandem solar cells are optically optimized.
+@highlight The effect of a central metal film between the 2 subcells is emphasized.
+@highlight Both ITO and ITO free transparent electrodes are considered.
+@highlight Best cells type strongly depend on the maximum allowed active material thickness to ensure good IQE.
+@highlight Homo tandems may save active material while achieving better performance than single cell.

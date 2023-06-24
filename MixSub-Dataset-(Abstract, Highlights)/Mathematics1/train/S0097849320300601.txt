@@ -1,0 +1,7 @@
+ I patches represent a family of implicit multi sided surfaces . Similarly to functional splines each boundary curve of the patch is defined as the intersection of a primary and a bounding surface both given in implicit form and the patch can connect to the primaries with arbitrary geometric continuity . Following the publication ofVrady etal . this paper elaborates the basic formulation in more detail and introduces several interesting features including a distance based surface interpretation consistent orientation of the primaries setting shape parameters and handling various special cases . Implicit multi sided patches are primarily used for connecting simple implicit surfaces such as planes cylinders spheres etc . however I patches are also capable of modeling complex free form shapes . We show constructions for producing setback vertex blends with conic boundaries and patchworks defined by control polyhedra . We discuss the benefits and limitations of the representation through several examples .
+
+@highlight Multi sided implicit patches that represent free form shapes and connect to simple implicit surfaces.
+@highlight The basic formulation of I patches defined by primary and bounding surfaces revisited.
+@highlight New features distance based interpretation orienting primaries shape parameters handling special cases.
+@highlight Two special constructions setback vertex blending and patchworks defined by control polyhedra.
+@highlight Benefits limitations and comparisons with other schemes discussed through several examples.

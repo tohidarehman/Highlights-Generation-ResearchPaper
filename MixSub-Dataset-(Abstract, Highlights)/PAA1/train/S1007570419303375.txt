@@ -1,0 +1,5 @@
+ In this paper we study strongly RuelleTakens chaos strongly AuslanderYorke chaos and Poincar chaos on the product of semiflows . It is proved that if the finite product or the countably infinite product of semiflows is chaotic then at least one of the factors is chaotic . We also provide necessary examples counterexamples wherever possible related to our results .
+
+@highlight Strongly RuelleTakens chaos strongly AuslanderYorke chaos and Poincare chaos are studied on the product of semiflows.
+@highlight It is proved that if the finite or the countably infinite product of semiflows is strongly RuelleTakens chaotic resp. strongly AuslanderYorke chaotic and Poincare chaotic then at least one of the factors is so.
+@highlight Examples counterexamples are also provided related to our results.

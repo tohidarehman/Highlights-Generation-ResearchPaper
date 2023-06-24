@@ -1,0 +1,7 @@
+ In hot climates greenhouse cooling is essential to provide crops with suitable growth conditions . The combination of natural ventilation strategy such as windcatchers and evaporative cooling has the capability to decrease the energy requirement of greenhouses and provide improved conditions for the cultivation of crops . Although the windcatcher is a traditional architectural feature which originated in the Middle East it has recently gained more attention and is increasingly being employed in buildings as a wind driven cooling technique . This study aims to investigate the potential of a passive windcatcher and evaporative cooling system integrated into a greenhouse using computational fluid dynamics validated with experimental data . Different wind speeds 1.96 3.03 4.87 and 6.07ms
+
+@highlight Evaluation of the integration of windcatcher and evaporative cooling with greenhouse.
+@highlight Comparison between cross flow and windcatcher ventilation for greenhouse conducted.
+@highlight Influence of neighbouring structure and greenhouses on ventilation performance evaluated.
+@highlight Influence of different windcatcher height and fins on airflow distribution assessed.
+@highlight The proposed cooling technique reduced air temperature between 10.54 and 16.57C.

@@ -1,0 +1,7 @@
+ This paper proposes a two dimensional car following model to tackle traffic flow problems where considering continuum lateral distances enables a simpler or more natural mathematical formulation compared to traditional car following models . These problems include the effects of lateral friction often observed in HOV lanes and diverge bottlenecks the relaxation phenomenon at merge bottlenecks the occurrence of accidents due to lane changing and traffic models for autonomous vehicles . We conjecture that traditional car following models where the lateral dimension is discretized into lanes struggle with these problems and one has to resort to ad hoc rules conceived to directly achieve the desired effect and that are difficult to validate .
+
+@highlight A microscopic traffic flow model incorporating the lateral dimension is formulated.
+@highlight The model includes non instant lane changes and a multi directional repulsive force.
+@highlight The model reproduces lateral friction and the relaxation phenomenon at on ramp merges.
+@highlight The model handles collision avoidance during distracted aggressive lane changing.
+@highlight Autonomous vehicles should consider the lateral dimension and be modeled in 2D.

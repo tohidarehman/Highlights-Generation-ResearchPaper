@@ -1,0 +1,6 @@
+ This work models the behavior of a liquid particle suspension on the surface of a tablet during the pharmaceutical film coating process . The model uses the mixture modeling approach and the lubrication approximation method to simulate how the suspension moves and dries on the surface of a tablet considering how important physical properties of the suspension such as the density and viscosity change when the carrier fluid evaporates . The model also accounts for the absorption of the coating suspension inside the core of the porous tablet yielding the tablet water content a key quantity characterizing the coating process . The numerical results obtained with the gPROMS Modelbuilder platform agree with experimental data taken from the literature and Volume Of Fluid CFD simulations .
+
+@highlight Simulation of the drying of a coating suspension on a tablet.
+@highlight Simulation of the absorption of the coating inside the porous tablet.
+@highlight Investigation of the influence of process parameters on the suspension flow.
+@highlight Model validation with experimental and numerical data from the literature.

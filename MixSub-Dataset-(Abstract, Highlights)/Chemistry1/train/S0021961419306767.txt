@@ -1,0 +1,8 @@
+ The isothermal solubility of methane in methanol was measured at temperatures from 213.15K to 273.15K and pressures from 1.0580MPa to 6.9947MPa . The static analytical method was used in the experiment which was carried out by sampling from an equilibrium cell using a heated sample cylinder connected to a gas chromatograph and loading the sample into the chromatograph . The SoaveRedlichKwong equation of state with the van der Waals one fluid mixing rule applying the Wilson activity coefficient model with Henrys constant was used to describe the equilibrium behaviour of vapour and liquid phase in the system for binary mixture . The measurements were correlated with the SRK vdW Wilson Henry model . The calculated results indicate that the model not only matches well with the measurements but also predicts optimally VLE data of the system from 213.15K to 273.15K below 7.0000MPa .
+
+@highlight Solubility of methane in methanol was measured from 213.15K to 273.15K.
+@highlight SRK vdW Wilson Henry model provides satisfactory correlation with measurements.
+@highlight Model parameters 
+@highlight and
+@highlight  at five temperatures were obtained.
+@highlight Predicted results of model are optimal from 213.15K to 273.15K below 7.0MPa.

@@ -1,0 +1,8 @@
+ We isolate and analyze financial cycles for ten selected economies based on quarterly time series data from 1970 to 2018 . Our study shows that a global financial cycle lasts nine years on average with long memory properties . Most countries exhibit the same duration for specific financial cycles but some countries register longer cycles . Previous financial cycle studies employed a composite index based on an average mediumterm cycle vector autoregression turning points and standard frequency based filters but could not incorporate all information derived from the data generation process . We obtain more robust and conclusive results by using multi channel singular spectrum analysis with the available variables to extract a financial cycle . Policymakers and finance practitioners should recognize the reality of global financial cycles .
+
+@highlight Global financial cycle on the average lasts 9 11 years with long memory properties.
+@highlight Financial markets not returning to equilibrium show strong Minsky momentum.
+@highlight Financial cycles are country specific duration synchronization and volatility.
+@highlight Multi channel singular spectrum MSSA is more robust for cycle identification.
+@highlight Financial cycles last longer than the business cycles.
+@highlight Financial cycles synchronization differs across the world.

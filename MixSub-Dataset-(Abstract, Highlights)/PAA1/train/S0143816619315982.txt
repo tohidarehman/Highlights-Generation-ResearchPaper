@@ -1,0 +1,6 @@
+ Over the past years we have been developing new algorithms and approaches for robust efficient and accurate internal displacement and strain field measurements using digital volume correlation . This paper will summarize our recent work on the following four major aspects advanced three dimensional inverse compositional Gauss Newton algorithm for subvoxel registration with enhanced accuracy and efficiency self adaptive DVC algorithm with optimal calculation parameters practical and effective strategies for DVC analyses of high resolution volumetric images and deformed volumetric images encoded with large deformation quantitative analysis and correction of thermal errors in DVC measurements due to self heating effect of X ray CT scanners . We hope that this paper can guide the readers to know the state of art DVC method .
+
+@highlight This paper summarizes our recent advances made on DVC.
+@highlight Accuracy and efficiency enhanced subvoxel registration algorithm and self adaptive selection DVC algorithm are described.
+@highlight Simple and effective strategies for DVC analyses of high resolution large deformed volumetric images are reported.
+@highlight Analysis and correction of thermal errors in DVC measurements are discussed.

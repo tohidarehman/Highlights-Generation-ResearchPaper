@@ -1,0 +1,16 @@
+ High pressure ion chromatography was coupled with sector field inductively coupled plasma mass spectrometry to separate plutonium uranium neodymium and gadolinium nuclides from isobaric nuclides and to quantify them with high sensitivity . In this study mixed bed ion exchange columns CG5A and CS5A were used from which Pu and U were eluted first using 1M nitric acid . The lanthanides were then separated using a gradient of 0.10.15M oxalic acid with the pH adjusted to 4.5 . The HPIC SF ICP MS method was validated using different sample matrices i.e . spent nuclear fuel and soil . The method was found to be repeatable and gave rise to transient signals suitable for quantification of nuclide specific concentrations using external calibration . In terms of accuracy the HPIC SF ICP MS measurement results were in good agreement with those obtained using thermal ionization mass spectrometry . Finally the method provides an improvement in sample throughput and reduces exposure of the operator to radiation compared to off line gravitational chromatography followed by TIMS .
+
+@highlight Plutonium uranium and the lanthanides are separated in a single run using 1M nitric acid followed by a gradient of oxalic acid concentrations 0.10.15M at pH 4.5 on CG5A and CS5A mixed bed ion exchange columns in less than 60min.
+@highlight The HPIC SF ICP MS method offers time savings and reduces the radiation dose to the analyst compared to gravitational ion exchange chromatography requires weeks followed by TIMS for the analysis of spent nuclear fuel.
+@highlight The HPIC SF ICP MS method was found to result in linearly increasing pulse count signals over the range 110g.L
+@highlight for Nd 10100g.L
+@highlight for Gd 110g.L
+@highlight for Pu and 0.524g.L
+@highlight for U isotopes.
+@highlight Nuclide specific mass fractions derived from nuclide specific concentration measurements external calibration for Nd e.g.
+@highlight Nd 
+@highlight  Nd and Gd isotopes e.g.
+@highlight Gd 
+@highlight  Gd in a Gd spent nuclear fuel were 97103 and 90110 respectively of those obtained using TIMS
+@highlight Concentrations of Pu and U determined using HPIC SF ICP MS were 105 and 97 respectively compared to their theoretical concentration in a
+@highlight Pu spiked soil sample.

@@ -1,0 +1,7 @@
+ Dry reforming of methane is a potentially useful reaction but has some drawbacks catalyst deactivation by coke and yield limited by thermodynamic equilibrium . New improved fluidized bed reactors may compensate these disadvantages . Mathematical models for the dry reforming of methane in three types of fluidized bed reactors have been developed . These reactors include a conventional fluidized bed reactor b two zone fluidized bed reactor which provides simultaneous reaction and catalyst regeneration in a single fluidized bed and c two zone fluidized bed reactor with hydrogen selective membranes which in addition to the previous one provides increased yield to hydrogen because the selective removal of hydrogen through the membrane . The situations where these reactors counteract the two main drawbacks of dry reforming of methane are shown . Comparison with previous experimental results shows that the models predict well the effect of operating conditions .
+
+@highlight Mathematical models for DRM in three types of fluidized bed reactors.
+@highlight Model includes two zone fluidized bed reactor with and without membranes.
+@highlight Model agrees with experimental results in the three types of reactor.
+@highlight Model predicts improved stability in two zone fluidized bed reactor.
+@highlight Model predicts increased yield when membranes are added.

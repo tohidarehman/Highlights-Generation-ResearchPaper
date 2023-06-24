@@ -1,0 +1,5 @@
+ Terpineol is a widely used chemical compound with applications on diverse fields however scarce advances on their industrial method of synthesis have been made on recent years . This work presents a novel greener approach to transform pinene to terpineol by the use of a low cost ionic liquid that acts as solvent maintaining the water and acid catalyst that pinene hydration reaction requires in the same inorganic phase once reaction has finished and product is separated by simple decantation . By this method of terpineol synthesis from pinene the neutralization of product is avoided and also the necessity to use new catalyst each reaction batch or the recovery of a solvent by distillation .
+
+@highlight The ionic liquid as solvent for pinene hydrolysis to produce terpineol.
+@highlight The IL is easily separated from organic phase preserving catalyst and water in one phase.
+@highlight Using this IL only consumed water must be replaced for its reuse in a new reaction batch.

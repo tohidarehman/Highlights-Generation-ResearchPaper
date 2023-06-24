@@ -1,0 +1,7 @@
+ We examine the spillover dynamics between the U.S. and BRICS stock markets using the multivariate DECO GJR GARCH model and spillover index method . We identify time variations in volatility equicorrelation and significant dynamic spillovers between these stock markets as well as an increased impact of uncertainty on spillovers . Spillovers between markets intensify after the inception of the global financial crisis and subsequent European sovereign debt crisis . We also find following the commencement of the crisis periods that the U.S. Brazilian and Chinese markets are net volatility transmitters whereas the Russian Indian and South African markets are net recipients . These results shed new light on the information transmission channels between the U.S. and BRICS stock markets .
+
+@highlight The dynamics of spillovers between the BRICS and US stock markets are examined.
+@highlight Analysis uses the DECO model and forecast error variance decomposition frameworks.
+@highlight Pure recipients and transmitters of spillovers are identified.
+@highlight The impact of uncertainty on spillovers has increased following recent crises.
+@highlight Brazil and China have become net transmitters in the post crisis period.

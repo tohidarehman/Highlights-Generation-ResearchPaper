@@ -1,0 +1,6 @@
+ This study examines the stability and potential bifurcations of a stratified shear flow governed by the non rotating incompressible Boussinesq equation at a low Pclet number . For the ratio of the vertical scale to the horizontal scale of a stratified flow
+
+@highlight It proves that a stratified shear flow governed by the non rotating incompressible Boussinesq equation at a low Pclet number becomes unstable as the Reynold number Re is above a threshold.
+@highlight There exists a supercritical Hopf bifurcation in the non rotating incompressible Boussinesq equation at the threshold.
+@highlight An upper boundedness of the threshold is derived.
+@highlight A stable periodic solution emerges in the non rotating incompressible Boussinesq equation at the threshold which describes an oscillating thermal convection in a highly stratified shear flow arising in the atmosphere or interior of many stellar systems.

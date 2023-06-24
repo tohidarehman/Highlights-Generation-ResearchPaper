@@ -1,0 +1,7 @@
+ Recent advances in genomics have uncovered the tremendous diversity and richness of microbial ecosystems . New functional genomics methods are now needed to probe gene function in high throughput and provide mechanistic insights . Here we review how the CRISPR toolbox can be used to inactivate repress or overexpress genes in a sequence specific manner and how this offers diverse attractive solutions to identify gene function in high throughput . Developed both in eukaryotes and prokaryotes CRISPR screening technologies have already provided meaningful insights in microbiology and host pathogen interactions . In the era of microbiomes the versatility and the functional diversity of CRISPR derived tools has the potential to significantly improve our understanding of microbial communities and their interaction with the host .
+
+@highlight CRISPR screens enable the investigation of gene function in high throughput.
+@highlight CRISPR screens can be performed on bacteria or host cells.
+@highlight Cas9 and dCas9 are used to mutate genes or inhibit their expression respectively.
+@highlight Pooled and arrayed screens can access different phenotypes.
+@highlight New CRISPR technologies such as base editing have a great potential for screening.

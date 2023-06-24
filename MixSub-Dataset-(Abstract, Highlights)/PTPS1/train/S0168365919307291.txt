@@ -1,0 +1,6 @@
+ Mitochondria play a fundamental role in plenty of cellular metabolic processes and mitochondria homing drug delivery is a promising and effective strategy for cancer treatment . Paclitaxel is a broad spectrum anticancer drug but its therapeutic effect is highly limited due to the development of multidrug resistance . Berberine can selectively accumulate in tumor cell mitochondria and inhibit the growth of cancer cells with different biological action mechanism from PTX . Here these two old drug molecules BBR and PTX were linked together by a disulfide bond rope to construct GSH responsible drug drug conjugate . Molecular dynamics simulation results revealed that PTX ss BBR conjugate could be self assembled in water to form nanoparticles forced by stacking and hydrophobic interactions and the average size of NPs was around 165nm measured by DLS . The better
+
+@highlight New mitochondria targeting and GSH sensitive PTX ss BBR NPs was developed.
+@highlight Computer simulation studies rationalized the self assembly process of PTX ss BBR.
+@highlight PTX ss BBR NPs exhibited better activity against A549 cells and
+@highlight Cancer cell apoptosis can be induced by PTX ss BBR NPs acting on mitochondria.

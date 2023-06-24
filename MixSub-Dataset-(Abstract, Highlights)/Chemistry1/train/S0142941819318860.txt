@@ -1,0 +1,7 @@
+ This work provides a direct comparison of several experimental approaches used in the literature to measure fracture toughness of rubber of rubber using single edge notched in tension specimens with the final aim to provide guidelines for an optimal testing procedure . Digital image correlation measurements were used to get new insights into the fracture process . SENT is experimentally advantageous because of the simple preparation from laboratory plates and the small amount of material required . The most common experimental approaches to measure fracture toughness of rubber rely on the energy release rate measured by the tearing energy or the J integral parameters . This work points out the importance of experimental conditions and test procedures long specimens and short notches are preferred identification of fracture initiation from the front view is necessary strain energy density should not be evaluated from un notched specimens at the critical stretch level rather alternative strategies are shown in this work .
+
+@highlight A standard procedure for fracture toughness testing of rubber still does not exist.
+@highlight A comparison among different experimental approaches is shown here.
+@highlight A simple specimen geometry single edge notched in tension SENT is tested.
+@highlight Digital image correlation measurements were used to get reference values.
+@highlight From this work optimal testing conditions are identified.

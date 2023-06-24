@@ -1,0 +1,7 @@
+ There is growing interest in the use of canopy temperature to evaluate the water status of crops for irrigation water management . One of the main indicators currently used is the Crop Water Stress Index . In this index the canopy temperature is normalized by the environmental conditions to account for the evaporative demand of the atmosphere . The theoretical framework based on the Penman Monteith equation defined the CWSI as one minus the ratio between actual and potential water use . For the first time in tree crops we have related the actual transpiration of almond trees measured with heat pulse sap flow probes with the CWSI calculated using an empirical Non Water Stress Baseline . The relationship obtained between the CWSI and the relative transpiration fitted the theoretical relationship although it showed a large scatter R
+
+@highlight The relative transpiration of almond trees was related to CWSI.
+@highlight It fitted the theory developed by
+@highlight  but showed a large scatter.
+@highlight The work discusses the probable causes of the scatter.
+@highlight It evaluates the use of transpiration derived from CWSI for the irrigation management.

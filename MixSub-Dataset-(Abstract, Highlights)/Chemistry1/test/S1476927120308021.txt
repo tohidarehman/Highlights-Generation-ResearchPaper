@@ -1,0 +1,5 @@
+ The interactions between miRNAs and long non coding RNAs are subject to intensive recent studies due to its critical role in gene regulations . Computational prediction of lncRNA miRNA interactions has become a popular alternative strategy to the experimental methods for identification of underlying interactions . It is desirable to develop the machine learning based models for prediction of lncRNA miRNA based on the experimentally validated interactions between lncRNAs and miRNAs . The accuracy and robustness of existing models based on machine learning techniques are subject to further improvement .
+
+@highlight Based on DeepForest LMI DForest is proposed here by combining the deep forest and autoencoder strategies.
+@highlight The proposed LMI DForest is applied to the classification of constructed dataset of lncRNA miRNA interactions.
+@highlight LMI DForest shows superior performance over the other machine learning models in the prediction of lncRNA miRNA interactions.

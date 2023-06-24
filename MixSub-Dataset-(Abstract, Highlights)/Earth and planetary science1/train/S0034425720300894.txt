@@ -1,0 +1,7 @@
+ This work presents a new methodology to simultaneously account for both the mean and variance of 17years of Carbon Monoxide measurements from the MOPITT satellite over Southeast and East Asia . We demonstrate that the new technique is stable and produces a set of results which are both consistent with the understood geographical and temporal distribution of CO sources as well as those of some other co emitted species . These regions were chosen because they have high levels of CO loadings and complex factors driving their underlying emissions profiles . We first successfully categorize the region based on the total CO column measurements into those locations impacted by intense urbanization large scale biomass burning those regions undergoing a significant change from one type to another and those regions which are clean . We further reproduce the temporal and spatial distributions of other co emitted species measured by other measurement platforms including aerosols and gasses NO
+
+@highlight MOPITT column CO is used to categorize urban biomass burning and mixed regions.
+@highlight Our Spatial Temporal characterization of CO matches well with FINN and EOF PCA.
+@highlight Significantly more biomass burning emissions of CO is found in Southeast Asia.
+@highlight Eastern China and Southeast Asia are increasing sources of urban CO emissions.
+@highlight Southern China is impacted by biomass burning CO emitted from Southeast Asia.

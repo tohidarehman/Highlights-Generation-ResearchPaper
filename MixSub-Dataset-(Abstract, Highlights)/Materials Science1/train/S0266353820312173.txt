@@ -1,0 +1,8 @@
+ The sensing performance of nanocomposite piezoresistive sensors in acquiring broadband acousto ultrasonic wave signals is scrutinized in an extensive regime of temperature variation from 60 to 150C which spans the thermal extremes undergone by most aircraft and spacecraft . Ultralight and flexible the sensors are all inkjet printed using a drop on demand additive manufacturing approach and then optimized sensitive to the ultraweak disturbance induced by acousto ultrasonic waves in virtue of quantum tunneling effect . Under high intensity thermal cycles from 60 to 150C the sensors have proven stability and accuracy in responding to signals in a broad band from static to half a megahertz . Compared with conventional broadband sensors such as piezoelectric wafers this genre of inkjet printed nanocomposite sensors avoids the influence of increased dielectric permittivity during the measurement of high frequency signals at elevated temperatures . Use of the sensors for characterizing undersized cracks in a typical aerospace structural component under acute temperature variation has spotlighted the alluring application potentials of the all inkjet printed nanocomposite sensors in implementing
+
+@highlight Investigation of temperature effect in an extensive range on nanocomposite piezoresistive sensor.
+@highlight Fabrication of ultralight and flexible all inkjet printed nanocomposite piezoresistive sensor.
+@highlight Demonstrated capability in responding to broadband acousto ultrasonic waves.
+@highlight Proven stability and accuracy in acquiring signals at thermal extremes.
+@highlight Application of
+@highlight structural health monitoring at varying temperatures.

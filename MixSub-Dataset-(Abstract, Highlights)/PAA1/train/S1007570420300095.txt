@@ -1,0 +1,7 @@
+ In the presented paper we extend the results obtained earlier for unstretched string to the case of discrete square membrane . The asymptotic equations of motion are derived and their connection with the sonic vacuum problem is shown . The basic stationary solutions of asymptotic equations which are nonlinear normal modes are found analytically and the obtained results are confirmed by numerical integration of initial equations of motion . Within the framework of the four particle model the non stationary dynamics of the membrane is studied in terms of limiting phase trajectories and coherence domains . The analytical results are confirmed numerically by the integration of both asymptotic and initial equations of motion.The considered structure is supposed to be used as energy sink such possibility is demonstrated by numerical simulation .
+
+@highlight A square discrete membrane low amplitude dynamics may be described by acoustic vacuum equation without linear terms.
+@highlight There are four nonlinear normal modes three of which are unstable and may exchange energy with other ones.
+@highlight There exists a regular regime of energy exchange between different domains of the membrane clusters .
+@highlight Analytical results are confirmed by numerical simulation data.
+@highlight The possibility of usin the considered system as an effective nonlinear energy sink is supported by numerical simulations.

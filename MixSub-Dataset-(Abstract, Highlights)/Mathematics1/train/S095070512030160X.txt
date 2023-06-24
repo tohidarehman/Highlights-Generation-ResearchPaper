@@ -1,0 +1,9 @@
+ Grey Wolf Optimizer is a new swarm intelligence algorithm mimicking the behaviours of grey wolves . Its abilities include fast convergence simplicity and easy realization . It has been proved its superior performance and widely used to optimize the continuous applications such as cluster analysis engineering problem training neural network and etc . However there are still some binary problems to optimize in the real world . Since binary can only be taken from values of 0 or 1 the standard GWO is not suitable for the problems of discretization . Binary Grey Wolf Optimizer extends the application of the GWO algorithm and is applied to binary optimization issues . In the position updating equations of BGWO the
+
+@highlight In the binary Grey Wolf Optimizer the value of
+@highlight belongs to 4 4 .
+@highlight Transfer function plays an important role in the binary Grey Wolf Optimizer.
+@highlight Original updating equation for
+@highlight cannot balance exploration and exploitation.
+@highlight New updating equation for
+@highlight is proposed to improve the solution quality.

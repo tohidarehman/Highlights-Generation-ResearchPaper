@@ -1,0 +1,6 @@
+ Division of focal plane modulation is a powerful technique for real time polarization imaging . This technique however suffers from the non uniformity of the performance of linear polarization filters and photodetectors . We study the Stokes parameters reconstruction from the division of focal plane modulation in the presence of the non uniformity . Two reconstruction methods named as ordinary least squares and smoothing regularization methods are proposed . The performance of the proposed methods are evaluated through Fourier analysis numerical simulations and experiments . The results indicate that the proposed methods can effectively mitigate the reconstruction errors and artifacts caused by the non uniformity and therefore may further facilitate the practical application of the division of focal plane technique .
+
+@highlight Non uniformity in DoFP modulation causes undesired errors and artifacts.
+@highlight Two methods with the ability for tackling the non uniformity are proposed.
+@highlight Our methods are assessed through Fourier analysis simulations and experiments.
+@highlight The non uniformity errors and artifacts are effectively mitigated by our methods.

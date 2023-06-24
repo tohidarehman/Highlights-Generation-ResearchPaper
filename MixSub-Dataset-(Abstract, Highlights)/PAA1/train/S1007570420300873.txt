@@ -1,0 +1,6 @@
+ In this paper modified Zakharov Kuznetsov equation is taken into consideration . Diverse variety of solitonic structures are computed by using extended algebraic method . Sufficient conditions for the existence of the computed solutions are presented . Then Galilean transformation is utilized to transform the considered model in the planer dynamical system . All possible forms of phase portraits with respect to the parameters are plotted . Moreover we utilized the numerical techniques to find out the nonlinear periodic structures of the discussed model and results are shown graphically . Moreover after deploying an extrinsic periodic force the effect of frequency is observed then sensitive analysis is applied for different initial value problems to analyze the quasiperiodic and chaotic behaviour . In addition to this Lie point symmetries and their corresponding conservation laws are reported at the end .
+
+@highlight Solitonic structures of Zakharov Kuznetsov mZK equation.
+@highlight Transformation of the considered model in the planer dynamical system.
+@highlight Quasiperiodic and chaotic behavior of the mZk equation.
+@highlight Conservation laws of mZK equation via Lie symmetry.

@@ -1,0 +1,7 @@
+ DNA or mRNA vaccines have potential advantages over conventional vaccines since they are easier to manufacture and have higher safety profiles . In particular self amplifying RNA derived from alphavirus expression vectors has shown to be very efficient to induce humoral and cellular responses against many antigens in preclinical models being superior to non replicating mRNA and DNA . This is mainly due to the fact that saRNA can provide very high expression levels and simultaneously induces strong innate responses potentiating immunity . saRNA can be administered as viral particles or DNA but direct delivery as RNA represents a safer and more simple approach . Although saRNA can be delivered as naked RNA
+
+@highlight Alphavirus self amplifiying RNA saRNA induces more potent immune responses than conventional mRNA.
+@highlight saRNA delivery can be enhanced by electroporation or conjugation with cationic lipid or polymers.
+@highlight saRNA vaccines induce protective responses against human pathogens in preclinical models.
+@highlight saRNA replication mediates innate immune signals that contribute to the strength of immune responses.
+@highlight saRNA vaccines could be generated in a quick way to face emergent pathogens like SARS CoV 2.

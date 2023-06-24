@@ -1,0 +1,7 @@
+ A plethora of research has been done in the past focusing on predicting students performance in order to support their development . Many institutions are focused on improving the performance and the education quality and this can be achieved by utilizing data mining techniques to analyze and predict students performance and to determine possible factors that may affect their final marks . To address this issue this work starts by thoroughly exploring and analyzing two different datasets at two separate stages of course delivery using multiple graphical statistical and quantitative techniques . The feature analysis provides insights into the nature of the different features considered and helps in the choice of the machine learning algorithms and their parameters . Furthermore this work proposes a systematic approach based on Gini index and
+
+@highlight Implement EDM techniques to identify at risk students during course delivery.
+@highlight Analyze two educational datasets at two course delivery stages using various methods.
+@highlight Propose a systematic approach based on Gini index and
+@highlight  value for ensemble selection.
+@highlight Results show that the ensemble models achieve high accuracy and high specificity.

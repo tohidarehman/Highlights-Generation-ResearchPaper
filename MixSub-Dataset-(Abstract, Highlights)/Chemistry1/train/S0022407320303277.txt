@@ -1,0 +1,6 @@
+ We present high accuracy measurements of the spectroscopic parameters of eight nitrous oxide transitions mainly belonging to the P branch of the
+
+@highlight We present an optical feedback laser absorption spectrometer OF LAS operating at 2 m wavelength and assisted by an optical frequency comb.
+@highlight We used a multispectrum fitting approach involving the uncorrelated and symmetric version of the Hartmann Tran profile. Evidence for multiple non Voigt mechanisms affecting the experimental spectra was found.
+@highlight We retrieved line intensity factors with an overall uncertainty within 0.38 . We also determined self broadening coefficients speed dependence components of the collisional line broadening and Dicke narrowing parameters.
+@highlight We compared the measured line intensities with those from HITRAN and NOSD 1000 databases. The agreement is more satisfactory for the NOSD 1000 rather than HITRAN.

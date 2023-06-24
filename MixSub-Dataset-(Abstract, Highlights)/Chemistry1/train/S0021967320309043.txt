@@ -1,0 +1,7 @@
+ Industrial separation technologies can be improved and greatly simplified by using the methods of counter current chromatography . We have previously proposed the use of currently available solvent extraction equipment as large scale CCC devices . For industrial separations the application of closed loop recycling counter current chromatography methods seems to be the most promising . To improve the performance of the CLR CCC separations semi continuous three stage processes can be used . The purpose of this study is to present a simple and easy to use mathematical model allowing the simulation and design of various options for implementing such separation processes and analyze the influence of its main parameters on separation efficiency .
+
+@highlight High performance CLR CCC methods for industrial separations considered.
+@highlight A simple and easy to use mathematical model to simulate CLR CCC methods.
+@highlight Analysis of the influence of model parameters on CLR CCC separations.
+@highlight Two counteracting mechanisms of CLR CCC separations.
+@highlight An increase in stationary phase retention can reduce the efficiency of CLR CCC plants.

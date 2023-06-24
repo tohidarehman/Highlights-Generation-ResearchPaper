@@ -1,0 +1,6 @@
+ Antibiotics profoundly reduced worldwide mortality . However the emergence of resistance to the growth inhibiting effects of these drugs occurred . New approaches to treat infectious disease that reduce the likelihood for resistance are needed . In bacterial pathogens complex signaling networks regulate virulence . Anti virulence therapies aim to disrupt these networks to attenuate virulence without affecting growth . Quorum sensing a cell to cell communication system represents an attractive anti virulence target because it often activates virulence . The challenge is to identify druggable targets that inhibit virulence while also minimizing the likelihood of mutations promoting resistance . Moreover given the ubiquity of quorum sensing systems in commensals any potential effects of anti virulence therapies on microbiome function should also be considered . Here we highlight the efficacy and drawbacks of anti virulence approaches .
+
+@highlight Anti virulence therapies target intercellular signaling networks essential for acute infection.
+@highlight Quorum sensing QS mediates the transition from human commensal to opportunistic pathogen.
+@highlight Microbiota interference of pathogen signaling can be exploited to inhibit virulence.
+@highlight In chronic disease host selective pressures may modulate QS systems through genetic mutations.

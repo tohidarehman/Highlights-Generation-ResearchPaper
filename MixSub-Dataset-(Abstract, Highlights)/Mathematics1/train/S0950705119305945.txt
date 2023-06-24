@@ -1,0 +1,6 @@
+ Lack of typical fault samples remains a huge challenge for intelligent fault diagnosis of gearbox . In this paper a novel approach named deep transfer multi wavelet auto encoder is presented for gearbox intelligent fault diagnosis with few training samples . Firstly new type deep multi wavelet auto encoder is designed for learning important features of the collected vibration signals of gearbox . Secondly high quality auxiliary samples are selected based on similarity measure to well pre train a source model sharing similar characteristics with the target domain . Thirdly parameter knowledge acquired from the source model is transferred to target model using very few target training samples . Transfer diagnosis cases for different fault severities and compound faults of gearbox confirm the feasibility of the proposed approach even if the working conditions have significant changes .
+
+@highlight Multi wavelet is used to design new type deep auto encoder.
+@highlight Similarity measure is used to select high quality auxiliary samples from source domain.
+@highlight Parameter knowledge is transferred using very few target training samples.
+@highlight Transfer diagnosis cases of fault severities and compound faults are used for verification.

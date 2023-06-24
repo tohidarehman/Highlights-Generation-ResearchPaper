@@ -1,0 +1,6 @@
+ The impacts of climate change such as extreme heat waves are exacerbated in cities where most of the world s population live . Quantifying urbanization impacts on ambient air temperatures has relevance for human health risk building energy use efficiency vector borne disease control and urban biodiversity . Remote sensing of urban climate has been focused on land surface temperature due to a scarcity of data on Tair which is usually interpolated at 1km resolution . We assessed the efficacy of mapping hyperlocal Tair over Oslo Norway by integrating Sentinel Landsat and LiDAR data with crowd sourced Tair measurements from 1310 private weather stations during 2018 . Using Random Forest regression modelling we found that annual mean daily maximum and minimum Tair can be mapped with an average
+
+@highlight Hyperlocal air temperatures mapped at 10 30m resolution with RMSE of 0.52C
+@highlight Little difference between maps with open vs closed source data inputs
+@highlight Mapping accuracy decreases with 1 station km
+@highlight Accuracies are highest when taking a 100 500m neighbourhood into account

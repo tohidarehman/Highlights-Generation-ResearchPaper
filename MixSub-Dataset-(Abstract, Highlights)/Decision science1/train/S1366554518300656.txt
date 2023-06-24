@@ -1,0 +1,6 @@
+ Emergency supply of blood in disasters is a crucial task for humanitarian aid . In this paper we present a bi objective robust optimization model for the design of blood supply chains that are resilient to disaster scenarios . The proposed two stage stochastic optimization model aims at minimizing the time and cost of delivering blood to hospitals after the occurrence of a disaster while considering possible disruptions in blood facilities and transportation routes . A Lagrangian relaxation based algorithm is developed that is capable of solving large scale instances of the model . We apply this framework to a real case study of blood banks in Jordan .
+
+@highlight A bi objective two stage robust optimization model is proposed for the design of resilient blood supply chains.
+@highlight It aims at minimizing the time and cost of delivering blood to hospitals after a disaster.
+@highlight It considers stochastic disruptions in collection centers blood banks and transportation routes.
+@highlight A Lagrangian relaxation based algorithm is developed that is capable of solving large scale instances of the model.

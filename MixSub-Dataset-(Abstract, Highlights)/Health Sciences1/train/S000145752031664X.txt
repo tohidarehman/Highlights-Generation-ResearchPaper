@@ -1,0 +1,6 @@
+ Pedestrian safety plays an important role in the transportation system . Intersections are dangerous locations for pedestrians with mixed traffic . This paper aims to predict the near accident events between pedestrians and vehicles at signalized intersections using PET and TTC . With automated computer vision techniques mobility features of pedestrians and vehicles are generated . Extreme Value Theory is used to model PET and minimum TTC values to select the most appropriate threshold values to label pedestrians near accident events . A Gated Recurrent Unit neural network is further used to predict these events . The established model reaches an AUC value of 0.865 on the test data set . Moreover the proposed model can also be applied to develop collision warning systems under the Connected Vehicle environment .
+
+@highlight Automated computer vision techniques are used to generate trajectories of pedestrians and vehicles from video data.
+@highlight Two Surrogate Safety Measures SSMs indicators are used to label the pedestrians near accident events.
+@highlight Extreme Value Theory EVT is used to select the most appropriate threshold values for SSMs indicators.
+@highlight A Gated Recurrent Unit GRU is used to predict the pedestrians near accident events.

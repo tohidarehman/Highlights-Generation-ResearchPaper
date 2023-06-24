@@ -1,0 +1,8 @@
+ The interferometric synthetic aperture radar small baseline subset technique can be applied to land with varying deformation magnitudes ranging from mm yr to tens of cm yr. SBAS defines a network of interferograms that is limited by temporal and spatial baseline thresholds that are often applied arbitrarily or in apparently subjective ways in the literature . We use simulated SAR data to assess the influence of residual noise and SBAS network configuration on InSAR derived deformation rates and how the number of interferograms and data gaps in the time series may further impact the estimated rates . This leads us to an approach for defining a SBAS network based on geodetic reliability theory represented by the redundancy number
+
+@highlight Small magnitude deformation with high noise can lead to contradictory SBAS trends.
+@highlight A Mean linear fit rate can be biased in the presence of annual periodic signals.
+@highlight Extended data gaps cause larger rate errors and time series RMSs than random gaps.
+@highlight  number between 0.8 and 0.9 appears most suitable for SBAS network design.
+@highlight High
+@highlight  numbers are needed to resolve small magnitude trends in noisy SAR data.

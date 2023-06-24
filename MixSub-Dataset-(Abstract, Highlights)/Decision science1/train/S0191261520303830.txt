@@ -1,0 +1,8 @@
+ In discrete choice modeling model misspecifications may lead to limited predictability and biased parameter estimates . In this paper we propose a new approach for estimating choice models in which we divide the systematic part of the utility specification into a knowledge driven part and a data driven one which learns a new representation from available explanatory variables . Our formulation increases the predictive power of standard DCM without sacrificing their interpretability . We show the effectiveness of our formulation by augmenting the utility specification of the Multinomial Logit and the Nested Logit models with a new non linear representation arising from a Neural Network leading to new choice models referred to as the
+
+@highlight New data driven framework for enhancing choice models.
+@highlight Conservation of standard DCM interpretability while increasing predictive power.
+@highlight Systematic utility divided into a knowledge driven and a data driven part.
+@highlight Demonstration of frameworks effectiveness on the MNL and NL models.
+@highlight New choice models referred to as the Learning Multinomial Logit L MNL and Learning Nested Logit L NL models.
+@highlight Experiments on publicly available datasets based on revealed or stated preferences.

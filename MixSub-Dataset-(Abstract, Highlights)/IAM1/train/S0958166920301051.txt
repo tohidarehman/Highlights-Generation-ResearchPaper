@@ -1,0 +1,7 @@
+ The recent developments of high throughput bulk and single cell sequencing technologies accelerated the understanding of the complexity of immune repertoire dynamics combined to transcriptomics . Also profiling of cellular repertoires in health or disease requires statistical metrics to capture clonal diversity characterized by clones frequency repertoire richness and convergence . Here we present the common technologies of bulk and single cell sequencing of T cell receptors discuss current knowledge regarding computational tools clustering and predicting specificity of TCR repertoires based on shared structural motifs and review main indices for repertoire diversity and convergence analyses . These tools represent potential biomarkers to decipher the fitness of immune repertoires in diseased or treated patients but also the presages and promises of computational approaches to revolutionize personalized immunotherapy .
+
+@highlight Immune fitness in health and disease depends notably on the diversity of cellular repertoires.
+@highlight Single cell sequencing is fostering the understanding of clonal diversity of T cell repertoires combined to transcriptomic profiling.
+@highlight Structural TCR clustering is a promising tool for epitome mapping of immune repertoires.
+@highlight Plethora of diversity metrics are used as markers of TCR repertoire fitness yet with no consensus regarding their relevance and overlap.
+@highlight Undersampling is a caveat in the attempt to capture TCR repertoires diversity with sensitivity.

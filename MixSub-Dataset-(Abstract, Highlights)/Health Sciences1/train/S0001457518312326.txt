@@ -1,0 +1,7 @@
+ The current study introduces the flexible approach of mixture components to model the spatiotemporal interaction for ranking of hazardous sites and compares the model performance with the conventional methods . In case of predictive accuracy based on in sample errors the Mixture 5 demonstrated superior performance in majority of the cases indicating the advantage of mixture approach to accurately predict crash counts . LPML was also calculated as a cross validation measure based on out of sample errors and this criterion also established the dominance of Mixture 5 further reinforcing the superiority of the mixture approach from different perspectives .
+
+@highlight A comprehensive evaluation was conducted for 9 spatiotemporal crash frequency models.
+@highlight The model performance was evaluated based on both in sample and out of sample errors.
+@highlight The site ranking performance of the proposed models was assessed using three criteria.
+@highlight A flexible approach was proposed which accommodates the variations of time trend across space.
+@highlight The research findings indicated the advantage of the proposed mixture approach to accurately predict crash counts.

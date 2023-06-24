@@ -1,0 +1,6 @@
+ High performance solution processable host materials for thermally activated delayed fluorescence emitters are of great significance to the development of organic light emitting diodes . In this study three solution processable hosts namely mCP Ph mCP Py and mCP BmPy featuring a basic structure paradigm of donor acceptor are reported for green TADF OLEDs . Attributing to the well designed structure the three host materials exhibited high triplet energy levels and excellent solution processability . It was found that the host materials had a significant impact on the excited state characteristics of the TADF emitter and the mCP Ph host with the lowest dipole moment showed the highest intersystem crossing rate constants
+
+@highlight Molecular engineering by bond spacer is adopted for designing new host materials for the TADF emitter.
+@highlight The newly developed host materials exhibit excellent solution processability and high triplet energy levels over 2.8eV.
+@highlight Host material with the lowest polarity achieves the highest reverse intersystem crossing rate.
+@highlight Solution processed TADF devices with a maximum external quantum efficiency up to 21.6 are demonstrated.

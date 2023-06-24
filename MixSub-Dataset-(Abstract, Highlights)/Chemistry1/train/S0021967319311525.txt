@@ -1,0 +1,7 @@
+ The interest for a better understanding of ion exchange mechanisms at the atomic level has strongly increased over the past decades . Indeed molecular level information about physico chemical mechanisms could help optimizing chromatographic processes for protein purification which are sub optimized due to the lack of predictive models . A promising approach is based on the use of Molecular Dynamics simulations to study local phenomena inside adsorbents which can then be challenged against experimental results . In this work macroscopic experimental data consisting in the ion exchange uptake of
+
+@highlight The Steric Mass Action SMA model is used to describe single adsorption isotherms.
+@highlight All atom Molecular Dynamics MD simulations are performed.
+@highlight The chromatographic surface is modeled with a counter ion layer.
+@highlight Four binding patches are identified to be the predominant form of adsorption.
+@highlight SMA parameters from MD are in good agreement with macroscopic experiments.

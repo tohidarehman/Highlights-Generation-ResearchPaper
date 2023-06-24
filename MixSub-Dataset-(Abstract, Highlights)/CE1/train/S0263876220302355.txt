@@ -1,0 +1,8 @@
+ Hydrogen permeation through nickel dense membrane applied to Sodium cooled Fast Reactors has been studied theoretically and experimentally . In order to investigate the coupling of nickel membrane with external gas and sodium flows an analytical model based on mass transfer resistances is developed . A sensitivity analysis showed that for enough thick membranes and high sodium velocities the nickel resistance has the most important effect . A permeator prototype constituted of four Ni201 tubular membranes has been designed experimental tests at pilot scale are carried out at different temperatures gas pressures and flowrates both in gas vacuum and gas sodium configuration . Results for permeation against vacuum demonstrate that hydrogen diffusion within the membrane is the limiting step in accordance with previous literature results obtained for pure nickel permeation experiments .
+
+@highlight Hydrogen introduction by permeation in Sodium Fast Reactors.
+@highlight Modelling the mass transfer resistance of gas and sodium phase on hydrogen permeation.
+@highlight Experimental set up of a nickel membranes prototype.
+@highlight Results of permeation against vacuum at temperature of 566707
+@highlight None
+@highlight K.

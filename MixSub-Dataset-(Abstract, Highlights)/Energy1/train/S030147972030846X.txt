@@ -1,0 +1,7 @@
+ There is a significant challenge in resource management the perceived trade off between economic growth and ecosystem conservation . In this study we integrate a variety of quantitative research methods and models such as the ecosystem service value interval parameter planning Dyna CLUE and Monte Carlo methods in an attempt to balance the ESV and economic benefits . The highest system benefits can be obtained and uncertainty in the ecosystem assessment is considered . Taking the Pearl River Delta as the study area the results show that when the GDP growth rate is less than 6 the ESV in 2025 will be higher than the ESV in 2017 . An interval approach is used . For a scenario with a 5 GDP growth rate the ESV is RMB 10
+
+@highlight A model was built to balance ecosystem services ES and economic benefits.
+@highlight An evaluation system was built to assess the ESV in the lower and upper bounds.
+@highlight Spatial differences in both ESV and land use efficiency are considered.
+@highlight An interval parameter planning IPP method and Dyna CLUE model are integrated.
+@highlight Decision makers are supported to balance system benefits and ecological risks.

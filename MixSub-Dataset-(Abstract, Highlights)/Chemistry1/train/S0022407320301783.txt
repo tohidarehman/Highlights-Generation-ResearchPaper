@@ -1,0 +1,6 @@
+ Absorption extinction and scattering cross section spectra of optically uniaxial materials are commonly described by the weighted sum approximation also known as
+
+@highlight The effects of material anisotropy on cross section spectra of astronomically relevant materials are investigated.
+@highlight FDTD spectra are compared to spectra of commonly used 1 3 2 3 approximation.
+@highlight Effects of anisotropy lead to shifted bands and or extra bands.
+@highlight Effects of anisotropy remain also in orientation averaged spectra.

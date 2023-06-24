@@ -1,0 +1,7 @@
+ This study identifies optimal transmission mechanisms for a streaming video service in a peer to peer network structure as a function of the number of active peers a common service value a common discount factor and costs accumulated by the server and peers under two different peer participation settings no peer churn and with peer churn . We calculate a uniform service price for every possible peer to peer distribution tree and identify the optimal transmission mechanism under different cost structures .
+
+@highlight All identical peers seed the content to the same number of peers.
+@highlight The optimal transmission mechanism is either CS or an s staged P2P.
+@highlight When peers have no capacity constraint the server outsources the entire service.
+@highlight CS is supported for low values of the discount factor.
+@highlight P2P fails if the marginal cost of the server is lower than that of a peer.

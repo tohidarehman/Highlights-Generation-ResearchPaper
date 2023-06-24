@@ -1,0 +1,11 @@
+ In this paper we consider a mean reverting stochastic volatility equation with regime switching and present some sufficient conditions for the existence of global positive solution asymptotic boundedness in
+
+@highlight We show the existence of global positive solution to
+@highlight for any initial value which extends the corresponding result in Mao etal.
+@highlight We gives the
+@highlight th moment estimation asymptotically bounded in
+@highlight th moment and the Lyapunov exponent of the solution
+@highlight to
+@highlight We present some sufficient conditions for that the process 
+@highlight  determined by
+@highlight is positive recurrent and admits a unique ergodic asymptotically invariant distribution.

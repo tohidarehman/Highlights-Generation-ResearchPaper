@@ -1,0 +1,7 @@
+ To mitigate the greenhouse gas effect accurate and precise landfill gas prediction models are required for more precise prediction of the amount and recovery time of methane gas from landfills . When the study associates to greenhouse gas emissions problems time series prediction models are of considerable interests in which significant past records of gas data are required . This study is the first to specially impute the missing methane CH
+
+@highlight Effects of pre processing on model performance was examined.
+@highlight Removing collinearity and filtering outliers increase the model performance.
+@highlight The benefits of missing data estimation were assessed using MLP neural network.
+@highlight Missing data imputation coupling with NARX model reduces the MSE by 84 .
+@highlight The method can be used as a LFG modeling tool in landfills with incomplete dataset.

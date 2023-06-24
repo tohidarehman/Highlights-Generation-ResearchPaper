@@ -1,0 +1,11 @@
+ Topological insulator semiconductors hold unique electronic transport characteristics that allow them behave like graphene at the surface of the nanoscale thin film . Photonic multilayers consisting of alternating layers of topological insulator and layers of its dielectric spacer can be engineered to demonstrate optical and thermal radiative dispersion attributed to electromagnetic metamaterials . This paper presents case studies explain the relationships between material compositions geometrical factors spectral functions and electronic transport mechanisms to the overall visible to far infrared radiative properties . It shows how topological insulator multilayers could be useful in thermal photovoltaic components optoelectronic devices and radiative coatings . Two multilayer cases are investigated Bi
+
+@highlight Multiple methods consistently predict optical properties of topological multilayers.
+@highlight Thickness tuned topological multilayers can be designed as photonic metamaterials.
+@highlight Bi
+@highlight Se
+@highlight  ZnSe demonstrates hyperbolic negative refractive index in the infrared.
+@highlight Bi
+@highlight Te
+@highlight  ZnTe is an effective optical absorber in the visible wavelengths.
+@highlight Radiative properties are not affected by Fermi energy in topological quintuple layers.

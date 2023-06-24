@@ -1,0 +1,7 @@
+ The FluidBed model in Aspen Plus v10 is applied to simulate Calcium looping for production of hydrogen rich product gas from a bubbling fluidized bed carbonator of a dual fluidized bed reactor . The predictions are compared with experimental results from a steady state 20 kW
+
+@highlight Enhancement of tar free biomass syngas was studied in a calcium looping operation.
+@highlight Aspen plus built in fluidized bed Fluidbed kinetic model was used.
+@highlight Ca looping enhanced syngas H2 composition from 51.4 to 80vol dry.
+@highlight The effects of carbonator temperature space time and Ca looping ratio were studied.
+@highlight Simulations compare well with experimental data from a 20 kWth pilot plant.

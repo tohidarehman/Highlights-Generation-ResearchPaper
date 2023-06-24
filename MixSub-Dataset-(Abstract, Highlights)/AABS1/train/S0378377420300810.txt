@@ -1,0 +1,7 @@
+ Evapotranspiration plays an important role in efficient irrigation and water resources management . ET can be accurately estimated via the FAOPenmanMonteith method ET
+
+@highlight The simplicity and predictability of ET models are important in practical application.
+@highlight The temperature based ET methods showed better performance than the radiation based ET methods.
+@highlight The best method for estimating ET differed among growing seasons in 54 of areas.
+@highlight The best estimates were obtained using the radiation based methods for warm growing season.
+@highlight The temperature based method was the best for estimating ET during cool growing seasons.

@@ -1,0 +1,7 @@
+ In this study we numerically determined the intra band transition lifetime of carriers as well as the linear nonlinear and total absorption coefficients fro lens shaped core shell quantum dot structures . Our computations considered the combined effects of the wetting layer pressure applied transverse electric field temperature and core shell sizes . By using suitable choices for these parameters we found that a red or blue shift in the energy of the absorption spectrum could be achieved . In addition the largest absorption coefficient was obtained when an intense transverse electric field was applied along the diagonal of the cross section of the structure considered . Hence the magnitude of the absorption coefficient increased by 50 . Moreover our results showed that the transition lifetime of the carriers decreased as the temperature increased whereas it increased as the pressure increased . Comparative analysis of a semi spherical core shell quantum dot system showed that the transition lifetime was shorter than that of the lens shaped core shell quantum dot structure which was 255ns .
+
+@highlight Optimization of lens shaped InAs GaAs core shell quantum dot structure.
+@highlight Investigation of linear nonlinear and total absorption coefficients.
+@highlight Exploration of the transition lifetime.
+@highlight Effects of wetting layer pressure temperature and transverse electric field.
+@highlight Comprehensive study conducted within framework of finite difference method.

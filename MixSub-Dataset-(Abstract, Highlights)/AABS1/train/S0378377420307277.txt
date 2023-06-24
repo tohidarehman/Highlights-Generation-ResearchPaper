@@ -1,0 +1,7 @@
+ Moisture and nitrogen deficiency are major determinant factors for cereal production in arid and semi arid environments . The ability to detect stress in crops at an early stage is crucially important if significant reductions in yield are to be averted . In this context remotely sensed data has the possibility of providing a rapid and accurate tool for site specific management in cereal crop production . This research examined the potential of hyperspectral and broad band remote sensing for predicting maize properties under nitrogen and moisture induced stress . Spectra were collected from drip irrigated maize subjected to various rates of irrigation regimes and nitrogen fertilization . 60 spectral vegetation indices were derived and examined to predict maize yield and other properties . Highly significant correlations between maize crop properties and various vegetation indices were noticed . RVI and NDVI were found to be sensitive to maize grain yield in both tested seasons . C
+
+@highlight Accurate estimations of maize yield and properties via remotely sensed data.
+@highlight Spectral distinguishing between moisture and nitrogen induced stress.
+@highlight Models of PLDA and PCA for distinguishing sources of stress.
+@highlight Further research is required to apply this technique on other crops and environments.
+@highlight Statistical approaches such as PLSR models may enhance predictions of crop traits.

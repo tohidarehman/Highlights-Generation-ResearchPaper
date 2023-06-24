@@ -1,0 +1,6 @@
+ Motivated by the mechanism of inhibitory synapses a new kind of spiking neural P system rules called inhibitory rules is introduced in this paper . Based on this a new variant of SNP systems is proposed called spiking neural P systems with inhibitory rules . Different from the usual firing rules in SNP systems the firing condition of an inhibitory rule not only depends on the state of the neuron associated with the rule but also is related to the states of other neurons . Moreover from the perspective of topological structure the new variant is shown as a directed graph with inhibitory arcs and therefore seems to have more powerful control . The computational completeness of SNP IR systems is discussed . In particular it is proved that SNP IR systems are Turing universal number accepting generating devices . Moreover we obtain a small universal function computing device for SNP IR systems consisting of 100 neurons .
+
+@highlight We propose a new kind rule inhibitory rules inspired from mechanism of inhibitory synapse.
+@highlight We propose a new variant spiking neural P systems with inhibitory rules SNP IR systems in short .
+@highlight We prove that SNP IR systems as both number generating and number accepting devices are Turing universal.
+@highlight We construct a small universal function computing device consisting of 100 neurons for SNP IR systems.

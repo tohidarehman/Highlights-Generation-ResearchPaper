@@ -1,0 +1,6 @@
+ Saponins constitute an important class of secondary metabolites of the plant kingdom . Here we present a mass spectrometry based database for rapid and easy identification of saponins henceforth referred to as saponin mass spectrometry database . With a total of 4196 saponins 214 of which were obtained from commercial sources . Through liquid chromatography tandem high resolution mass spectrometry analysis under negative ion mode the fragmentation behavior for all parent fragment ions almost conformed to successive losses of sugar moieties dissociation and McLafferty rearrangement of aglycones in high energy collision induced dissociation . The saccharide moieties produced sugar fragment ions from
+
+@highlight We established a mass spectrometry database SMSD with 4196 saponins data.
+@highlight SMSD is freely accessible at http 47.92.73.208 8082 or http cpu smsd.com.
+@highlight SMSD provides CLASSIFY SEARCH and METABOLITE functions.
+@highlight Mass defect and logistic regression model are applied for CLASSIFY and SEARCH.

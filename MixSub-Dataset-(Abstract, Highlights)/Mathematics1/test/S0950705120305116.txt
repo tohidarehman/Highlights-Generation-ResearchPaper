@@ -1,0 +1,7 @@
+ In this paper for the first time a feature selection procedure is modeled as a multi criteria decision making process . This method is applied to a multi label data and we have used the TOPSIS method as a famous MCDM algorithm to evaluate the features based on their relationship with multiple labels as different criteria . Our proposed method
+
+@highlight We have designed a method for feature selection on the multi label data.
+@highlight We model the feature selection process to a multi criteria decision making.
+@highlight The TOPSIS method is used to rank the features.
+@highlight A subspace learning using Ridge Regression is used to capture the correlation.
+@highlight The proposed TOPSIS based multi label method outperforms competitive methods.

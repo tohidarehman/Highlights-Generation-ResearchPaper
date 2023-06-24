@@ -1,0 +1,8 @@
+ Agricultural and electric productions are the main water consumers . They are intricately interlinked and complicated . An uncertain water food energy nexus model could well reflect the complex relationships among water agriculture and electricity . Chance constrained fuzzy fractional programming method is proposed to reflect the uncertainties in WFE nexus system . It can handle multi objectives expressed as output input ratio problems in a fuzzy and random environment . Then the CFFP based WFE model is applied to Kaikong watershed . Water resources utilization agricultural land allocation and electricity generation are incorporated into the nexus framework for pursuing the maximum water use efficiency . Uncertainties in water availability water demand and pollutant CO
+
+@highlight An uncertain water food energy WFE nexus model is developed for Kaikong watershed.
+@highlight Random water availability fuzzy water demand and pollutant CO
+@highlight emissions are tackled.
+@highlight Area of irrigated agriculture is suggested to control below 203.4 10
+@highlight ha in period 3.
+@highlight Proportion of fossil energy power should be limited between 53.1 and 60.4 .

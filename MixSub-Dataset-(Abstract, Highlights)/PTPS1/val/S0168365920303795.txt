@@ -1,0 +1,6 @@
+ The major unmet need and crucial challenge hampering the exciting potential of RNAi therapeutics in ophthalmology is to find an effective safe and non invasive means of delivering siRNA to the cornea . Although all tissues of the eye are accessible by injection topical application is preferable for the frequent treatment regimen that would be necessary for siRNA induced gene silencing . However the ocular surface is one of the more complex biological barriers for drug delivery due to the combined effect of short contact time tear dilution and poor corneal cell penetration . Using nanotechnology to overcome the challenges we developed a unique silicon based delivery platform for ocular delivery of siRNA . This biocompatible hybrid of porous silicon nanoparticles and lipids has demonstrated an ability to bind nucleic acid and deliver functional siRNA to corneal cells both
+
+@highlight Biodegradable silicon lipid hybrid enables efficient encapsulation of siRNA.
+@highlight ProSilic nanoparticles can facilitate intracellular delivery of oligonucleotides.
+@highlight Topically administered siRNA loaded nanoparticles penetrate across all cornea layers.
+@highlight Non invasive ocular siRNA delivery induces effective gene silencing in corneal epithelium.

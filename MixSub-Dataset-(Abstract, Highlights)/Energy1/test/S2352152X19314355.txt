@@ -1,0 +1,7 @@
+ Melting characteristics of lauric acid in a horizontal shell and finned tube type storage unit has been studied numerically and experimentally . The low thermal conductive nature of phase change materials have pre eminently constricted the advantage of such storage systems for various applications hence an attempt has been made to provide the finned tube in the storage container to enhance the heat transfer rate between the heat transfer fluid and PCM for three different eccentric position
+
+@highlight Enhancing the melting performance of a PCM in a LHTES system through the enrichment of natural convection mode of heat transfer.
+@highlight Different configurations of triple fin arrangement are simulated and compared for different angles between fins in bottom annulus.
+@highlight Stephan number and different eccentric arrangement of a longitudinally finned HTF tube are studied for a concentric double pipe heat exchanger.
+@highlight Temperature variation melt fraction distribution and heat storage potentiality in PCM are studied for determining the effective heat exchanger having fastest melting rate.
+@highlight Results indicate that the smaller angle between bottom fins with maximum eccentric distance of HTF tube shows the best melting performance.

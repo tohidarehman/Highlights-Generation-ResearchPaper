@@ -1,0 +1,6 @@
+ Tempeh a traditional Indonesian soybean product produced by fermentation is especially popular because of its umami taste . In this study a novel umami peptide GENEEEDSGAIVTVK was identified in the small peptide fraction of the water extract of tempeh using LC MS MS analysis and database assisted identification . The umami taste of GK 15 was further validated using sensory evaluation which suggested that GK 15 may be one of the key components contributing to the umami taste in tempeh . To rationalize the biological effect of GK 15 molecular docking of GK 15 into the
+
+@highlight Tempeh is a popular Indonesian fermented soybean with umami taste.
+@highlight GK 15 a 3kDa peptide was found to be a source of umami taste in tempeh.
+@highlight ESI LC MS MS was a fast method for novel peptide identification.
+@highlight ZDOCK was a robust method to analyze the binding mechanism of GK 15 into T1R3.

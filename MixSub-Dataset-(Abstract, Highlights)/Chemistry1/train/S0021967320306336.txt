@@ -1,0 +1,7 @@
+ Quantification of the gas streams from chemical systems such as catalytic reactors are routinely performed by on line gas chromatography . Gas chromatographs used for this purpose are typically provided with a combination of thermal conductivity and flame ionization detectors to be able to detect and quantify both permanent gases CO
+
+@highlight A method for characterizing gas streams with on line gas chromatography was designed.
+@highlight The on line GC was provided with a TCD methanizer FID system of detection.
+@highlight Quantification methods were developed considering mass balances in the system.
+@highlight The internal and external standard methods for quantification were compared.
+@highlight The internal standard method produced highly accurate mass balances.

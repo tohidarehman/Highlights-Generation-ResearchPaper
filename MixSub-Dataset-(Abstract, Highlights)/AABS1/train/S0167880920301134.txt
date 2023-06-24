@@ -1,0 +1,9 @@
+ The trees in agroforestry plots create spatial heterogeneity of high interest for adaptation mitigation and the provision of ecosystem services . But to what distance exactly from the tree We tested a novel approach based upon geostatistics and Unmanned Aerial Vehicle sensing to infer the distance at which a single agroforestry tree affects the surrounding under crop to map yield litter and compute crop partial Land Equivalent Ratio LER
+
+@highlight A novel method to assess the distance of influence of agroforestry trees on crops.
+@highlight Combining maps of spectral indices Unmanned Aerial Vehicle and geostatistics.
+@highlight Geostatistical distance of influence of
+@highlight on millet was 17m.
+@highlight Crop partial Land Equivalent Ratio computed 1.16 without need of true sole crops.
+@highlight Yield 0.73t ha
+@highlight  upscaled from sample plots to whole plot error 20 .

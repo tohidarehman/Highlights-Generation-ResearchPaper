@@ -1,0 +1,6 @@
+ Far to mid infrared spectral radiances measured either from high altitude platforms or from ground can be processed to retrieve atmospheric vertical profiles and cloud parameters variables particularly relevant in climate change studies . The retrieval requires a forward model with the capability of simulating the multiple scattering from cloud particles . The Discrete Ordinate Radiative Transfer offers this possibility however accurate simulations can be obtained only with a huge computational load . We developed a forward retrieval model based on the two streams
+
+@highlight Introduction of a two stream
+@highlight  Eddington approximation algorithm to simulate the Far InfraRed Earth spectrum.
+@highlight Study of SACR accuracy by means of the comparison with LBLDIS LBLRTM DISORT code.
+@highlight Performance of the simultaneous retrieval of atmospheric and cloud parameters by using SACR algorithm.

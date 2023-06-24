@@ -1,0 +1,6 @@
+ Mass spectral data from multiple samples are suitable for a hypothesis free development of clinically useful multivariate tests using modern machine learning techniques . However the transition from discovery to adoption of proteomic tests has proved challenging . Slow adoption of these tests in clinical practice is in part related to insufficient understanding of the biological mechanisms underlying multivariate tests developed based on correlative studies . While identification of individual proteins may provide important insights elucidation of concerted relationships of sets of proteins with biological pathways can better reflect complex phenomena such as cancerogenesis and response to treatment . Protein set enrichment analysis allows identification of associations of mass spectral features or test classifications with biological function by looking for consistent correlations across a group of proteins .
+
+@highlight PSEA used to explore correlations of mass spectral data and biological functions.
+@highlight The method does not require identification of proteins in mass spectral features.
+@highlight PSEA showed acceptable reproducibility when applied to mass spectra.
+@highlight Important biological functions found associated with proteomic mass spectral tests.

@@ -1,0 +1,6 @@
+ I study the problem of allocating objects among agents without using money . Agents can receive several objects and have dichotomous preferences meaning that they either consider objects to be acceptable or not . In this set up the egalitarian solution is more appealing than the competitive equilibrium with equal incomes because it is Lorenz dominant unique in utilities and group strategy proof . Both solutions are disjoint .
+
+@highlight I study an assignment problem in which agents consider objects to be acceptable or not.
+@highlight The egalitarian solution is Lorenz dominant unique in utilities and group strategy proof.
+@highlight The competitive equilibrium with equal incomes fails these three properties.
+@highlight Both solutions are disjoint.

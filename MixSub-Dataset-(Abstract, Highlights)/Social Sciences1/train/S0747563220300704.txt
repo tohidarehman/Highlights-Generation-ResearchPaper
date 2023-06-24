@@ -1,0 +1,7 @@
+ Recent studies emphasize a positive impact of learning with augmented reality systems in various instructional scenarios . Especially combining real and virtual learning components according to spatial and temporal contiguity principles is claimed to foster learning and to reduce extraneous cognitive processing . We applied these principles to a physics laboratory experiment examining heat conduction where students measure the temperature along heated metal rods via a thermal imaging camera . However the traditional setup leads to a time delay between measuring and receiving data and spatially separates relevant visualizations causing resource consuming search processes . Using see through smartglasses traditional displays were transformed into virtual representations which were anchored to corresponding objects of the experimental setup resulting in an integrated AR view of real time data . Both traditional and AR assisted workflows of data collection were investigated in a field study with undergraduate students
+
+@highlight Development and investigation of AR based physics laboratory scenario.
+@highlight Application of spatial and temporal contiguity to avoid split attention.
+@highlight Adaptation of self reported cognitive load scale for laboratory course instructions.
+@highlight Significant reduction of extraneous load for AR based workflow.
+@highlight No significant group dependent learning gains for conceptual knowledge.

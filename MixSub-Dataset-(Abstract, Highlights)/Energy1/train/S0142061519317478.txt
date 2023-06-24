@@ -1,0 +1,7 @@
+ This paper presents an electromechanical transient modeling and simulation method for large power system with inclusion of bipolar multi terminal direct current grid . First the dynamic model of a modular multilevel converter is presented . The dynamic model of the bipolar DC grid is then established by using the companion circuit method . In particular the inductances of DC lines are carefully modeled to ensure the simulation accuracy when a DC fault occurs . Second the electromechanical transient simulation procedure for a power system with inclusion of an MTDC grid is presented . The AC and DC grids are solved alternately . Due to the difference between time constants of AC and DC grids the multi rate scheme is used to ensure the simulation efficiency . Third the proposed method is employed to simulate a real life large power system with inclusion of a bipolar MTDC grid . The simulation results validate the correctness and the effectiveness of the proposed method . Unique interaction characteristics between AC and DC grids are also revealed by the results .
+
+@highlight Dynamic model of a bipolar MMC MTDC grid is established by companion circuit method.
+@highlight Simulation accuracy of DC faults is improved by considering inductances of DC lines.
+@highlight Asymmetrical operation of a bipolar MTDC grid can be simulated by the proposed model.
+@highlight Island operation reduces the impacts of sending end faults on receiving end AC grid.
+@highlight Power shift in a bipolar MTDC grid alleviates power congestion when DC faults occur.

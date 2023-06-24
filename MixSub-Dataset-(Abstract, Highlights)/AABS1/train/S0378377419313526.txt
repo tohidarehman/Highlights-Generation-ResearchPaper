@@ -1,0 +1,6 @@
+ Long term evaluation of soil chemical changes in the soil is required to optimize irrigation of protected crops and to control associated environmental issues . In this study the multi component solute transport module UNSATCHEM of HYDRUS 1D was used to assess the effects of long term irrigation on salt build up in the soil under unheated greenhouse conditions . Blended water was used to irrigate tomato cucumber capsicum and eggplant . Irrigation management included four leaching fractions i.e . accounting for 0 15 20 and 30 of applied excess water . The effects of four amounts of annual gypsum application i.e . 0 1.7 2.6 and 3.4t ha were also simulated .
+
+@highlight Model predicts high salt and ESP build up in the soil for soil grown greenhouse crops.
+@highlight Annual gypsum 1.7t ha and a leaching fraction 1520 ameliorated salinity hazards.
+@highlight There is need to revise the existing irrigation schedule for protected crops.
+@highlight The new gypsum module implemented in the UNSATCHEM was found useful.

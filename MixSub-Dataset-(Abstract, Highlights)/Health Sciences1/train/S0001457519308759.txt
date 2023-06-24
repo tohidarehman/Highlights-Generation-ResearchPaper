@@ -1,0 +1,7 @@
+ Semi controlled crosswalks are unsignalized but clearly marked with yield to pedestrian within crosswalk signs . Ideally pedestrians can cross the street immediately after they arrive at the curb . However real world observations show that pedestrians and vehicles are often involved in non verbal negotiations to decide who should proceed first . This kind of negotiation often causes delays for both parties and may lead to unsafe situations . The study in this paper was based on video recordings of the waiting behaviors of 2059 pedestrians interacting with 1003 motorists at selected semi controlled crosswalks . One such location experienced a conversion from one way operation to two way operation which provided a rare opportunity for a before and after study at that location . Multi state Markov models were introduced as a novel approach to correlate the dynamic process between recurrent events . Time varying covariates related to pedestrian characteristics traffic condition and vehicle dynamics turned out to be significant .
+
+@highlight Semi controlled crosswalks are unsignalized but marked with yield to pedestrian signs.
+@highlight Pedestrians and motorists engage in non verbal negotiation to decide priority.
+@highlight Video recordings were made of 2059 pedestrians interacting with 1003 motorists.
+@highlight A conversion from 1 way to 2 way operation allowed a before and after study at the same location.
+@highlight The probabilities of pedestrian wait time are quantified under alternative scenarios.

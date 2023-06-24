@@ -1,0 +1,7 @@
+ Acrylonitrile Butadiene Styrene is an important terpolymer that find applications in numerous engineering fields due to its high impact resistance . Thereby the experimental characterzation and numerical validation of its impact behavior is the main focus of this investigation . Impact tests were carried out using hemi spherical impactor at three velocities of 4.43m s 5.775m s and 6.264m s respectively . The localized material change caused by microvoids was noticed near the impact zone on non impacted surfaces for all impact velocities . The damage morphologies on the non impacted surface for 4.43m s includes plastic deformation and crazes without any microvoids whereas a combination of crazes and microvoids were discovered for other two velocities . Tensile tests at various strain rates compression and shear tests were performed on ABS material at quasi static conditions to utilize as an input to the SAMP 1 material model in impact simulations . The predicted impact histories and damage morphologies were compared with the experimental results .
+
+@highlight No catastrophic failure in ABS was not observed under any induced velocities.
+@highlight Light white color indication of crazes on impacted and non impacted surfaces.
+@highlight Color change is more distinguishable on the non impacted side than the impacted side.
+@highlight Reliable predictions compared to experimental measurements with SAMP 1.
+@highlight SAMP 1 requires biaxial tension data to take the craze formation into account.

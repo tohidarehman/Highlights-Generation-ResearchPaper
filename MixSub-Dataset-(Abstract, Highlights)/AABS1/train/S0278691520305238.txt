@@ -1,0 +1,7 @@
+ The surface enhanced activities of size and shape controlled gold nanoparticles with superior chemical stability were investigated to explore a possible development of a simple and non destructive spectroscopic method to help the regulatory agency s analytical services for rapid detection and characterization of selected antimicrobials in animal feeds . Feed samples spiked at different concentration ranges of antimicrobials were evaluated using AuNPs as a surface enhanced Raman spectroscopy agent . The collected SERS spectra were mathematically preprocessed for further analysis . The classification models obtained 100 predictive accuracy with zero or little misclassification . The first two canonical variables could explain 95 of the variability in preprocessed spectral data . Most chemometric models for predicting MON DEC and LAS concentrations showed a high predictive accuracy
+
+@highlight SERS technique was investigated for rapid detection of antimicrobials in feed.
+@highlight SERS spectral difference was correlated with a level of antimicrobials in samples.
+@highlight Chemometric models showed an excellent classification accuracy and low error rate.
+@highlight Quantification models for antimicrobials revealed a high predictability and accuracy.
+@highlight SERS has a great potential to serve as an efficient screening tool for antimicrobials.

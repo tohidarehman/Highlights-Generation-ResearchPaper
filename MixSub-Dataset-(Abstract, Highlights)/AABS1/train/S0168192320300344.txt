@@ -1,0 +1,6 @@
+ Climate exerts a major influence on crop development and yield . Despite extensive modelling efforts there is still considerable uncertainty about the consequences of a changing climate for the yields of major crops . Existing crop models are complex and rely on many assumptions and parameters motivating a quest for more parsimonious models with stronger theoretical and empirical foundations . This paper presents a prototype of such a model for wheat informed by measurements of gross primary production biomass and yield at research sites across the wheat growing regions of China . First GPP was predicted using a recently developed first principles model driven only by climate carbon dioxide CO
+
+@highlight A novel simply formulated crop model successfully predicts wheat yields in China.
+@highlight The model captures the temporal and spatial variations in GPP biomass and yield.
+@highlight A predicted positive response of yield to CO
+@highlight counteracts negative thermal response.

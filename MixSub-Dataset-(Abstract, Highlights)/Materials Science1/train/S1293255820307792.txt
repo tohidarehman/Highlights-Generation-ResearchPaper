@@ -1,0 +1,7 @@
+ The semi organic non linear optical crystals of bis thiourea cadmium iodide were grown from slow evaporation of their aqueous solutions . The grown crystals were confirmed with XRD FTIR and DSC analysis . The as grown crystal faces reveal growth striations . The structural perfection was assessed by the wet chemical etching method acetic acid and formic acid are the best etchants to reveal dislocations . The strength and deformation characteristics of the crystals were assessed through laser damage tolerance Vickers and Knoop hardness measurements . The change in hardness is approximately 26 for every 4045 shift in the orientation of the crystal indicating anisotropy in hardness . The work hardening index calculated from Meyer s plot helps in distinguishing the indentation size effect . The yield strength and Young s modulus calculated using the standard relations indicate that the crystal is suitable for desired applications .
+
+@highlight Two prospective etchants to reveal dislocations were proposed.
+@highlight Laser induced damage is of thermal origin with a threshold value of 0.249Gw cm
+@highlight The reverse ISE is explained based on the generation and movement of dislocations.
+@highlight The two segment Meyer s plot can distinguish normal reverse and load independent regions.
+@highlight Knoop hardness changes approximately by 26 for every 4045 shift.

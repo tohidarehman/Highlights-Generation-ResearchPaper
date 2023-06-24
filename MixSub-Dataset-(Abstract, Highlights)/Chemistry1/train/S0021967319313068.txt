@@ -1,0 +1,5 @@
+ Although micellar electrokinetic chromatography mass spectrometry using bare silica capillary filled with molecular micelles is an advantageous hyphenated technique for chiral analysis it is still in the developmental stage . This is mainly because of the lower repeatability of retention time and peak area associated with the difficulty in controlling electroosmotic flow on bare silica capillaries . Besides the lower robustness and electrospray erosion of the fused silica capillary tip the lifetime is limited for 1015 runs per capillary column . We have tested a new MEKC MS method to eradicate this problem using a covalently bonded 2 acrylamido 2 methyl 1 propane sulfonic acid column filled with free floating molecular micelles polysodium
+
+@highlight A combination of covalently bonded AMPS capillary column and molecular micelles.
+@highlight Optimize simultaneous chiral separations of three blockers.
+@highlight A simple precise and accurate MEKC MS MS for the quantitation of blockers in commercial tablets.

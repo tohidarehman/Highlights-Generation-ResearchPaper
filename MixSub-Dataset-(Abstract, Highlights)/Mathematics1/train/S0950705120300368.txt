@@ -1,0 +1,7 @@
+ Artificial intelligence is being deployed in missions that are increasingly critical for human life . To build trust in AI and avoid an algorithm based authoritarian society automated decisions should be explainable . This is not only a right of citizens enshrined for example in the European General Data Protection Regulation but a desirable goal for engineers who want to know whether the decision algorithms are capturing the relevant features . For explainability to be scalable it should be possible to derive explanations in a systematic way . A common approach is to use simpler more intuitive decision algorithms to build a surrogate model of the black box model used to make a decision . Yet there is a risk that the surrogate model is too large for it to be really comprehensible to humans . We focus on explaining black box models by using decision trees of
+
+@highlight We give explanations of deep learning decisions using shallow decision trees.
+@highlight Decision trees are computed on clusters obtained via microaggregation.
+@highlight The cluster size trades off comprehensibility representativeness and privacy.
+@highlight We present experiments on large numerical and categorical data sets.
+@highlight For categorical data sets we use ontologies for semantic consistency.

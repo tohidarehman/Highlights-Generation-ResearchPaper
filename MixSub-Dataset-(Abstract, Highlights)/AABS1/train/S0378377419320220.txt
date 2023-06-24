@@ -1,0 +1,6 @@
+ The crop water stress index is usually used to normalize crop temperature for efficient irrigation management . For CWSI computation the temperature of a non transpiring crop T
+
+@highlight New artificial reference surfaces for CWSI computation have been developed.
+@highlight The new surfaces are made of cellulose paper and have hemispherical geometry.
+@highlight The dry and wet reference surfaces matched well the temperature of wilted and well watered maize canopies.
+@highlight Solar radiation is needed to derive the temperature of a well watered maize canopy.

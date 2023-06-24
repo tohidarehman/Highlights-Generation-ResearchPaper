@@ -1,0 +1,6 @@
+ Standard Monte Carlo simulation was used in the Grand Canonical Ensemble to study the electrosorption of a repulsive binary mixture on a modified electrode surface to identify and analyze the individual contribution of each species to the total current signal . The electrode is modified with the deposition of impurities whose function is to block a percentage of the adsorption sites . In this electrode two electroactive species can be deposited and transfer charge in the same working potential window . Thermodynamics and voltammetry are analyzed in different energy scenarios . Adsorption isotherms partial and total currents were calculated and was analyzed and discussed in terms of surface fluctuations and low temperature phases formed in the system
+
+@highlight The main feature of the model is to describe the contribution to the total current of each species separately.
+@highlight The impurities affect the coordination of the particles and introduce disorder that modifies the current signal.
+@highlight Different energy settings are considered.
+@highlight This is useful for electrochemical studies with species mixtures.

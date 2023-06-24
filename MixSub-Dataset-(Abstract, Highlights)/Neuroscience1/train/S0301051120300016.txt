@@ -1,0 +1,6 @@
+ Both the Reward Positivity and the novelty N2 component appear within the same spatio temporal window . This signal overlap impedes the assessment of the RewP evoked by complex novel rewards like affective or motivational imagery . Here we conducted a series of experiments which successfully isolated signals of reward and novelty through spectral decomposition as well as with experimental manipulations that systematically removed the influence of novelty on the reward evoking image . Together these findings help explain the nature of this component overlap and provide methodological and analytic techniques for isolating reward and novelty specific computations to complex stimuli .
+
+@highlight The reward positivity and novelty N2 appear within the same spatio temporal window.
+@highlight Using spectral decomposition reward signals were separated from novelty signals.
+@highlight Experimental manipulations also systematically removed influences of novelty.
+@highlight Findings provide techniques for isolating reward and novelty specific computations.

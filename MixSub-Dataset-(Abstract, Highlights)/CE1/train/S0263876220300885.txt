@@ -1,0 +1,7 @@
+ For improving the biodiesel yield from a transesterification reaction an experimental validation of the optimal control is essential . An experimental setup involving the control of biodiesel production process is developed . The activation energies involved in the kinetic model are estimated from the obtained experimental data . The hot water flow rate through the reactor coil is optimized by solving a dynamic optimization problem with estimated Ea values for maximization of the biodiesel concentration at the final time . The DOP produces marginal improvement in the endpoint biodiesel concentration by 2.88 and reduces the reactor energy cost by 3.58 compared to the use of the published Ea values and the base case respectively . Using the estimated Ea values the batch time decreases by 44.44 compared to the literature study for achieving the optimal biodiesel concentration . Therefore the optimal control established through our experimental work improves the biodiesel yield while satisfying energy efficiency .
+
+@highlight Parameter estimation and optimal control of batch transesterification reaction.
+@highlight Activation energies for transesterification reaction are estimated.
+@highlight Dynamic optimization reduces reactor energy cost by 3.58 compared to the base case.
+@highlight Estimation of activation energy increases biodiesel concentration by 2.88 .
+@highlight Estimation of activation energy decreases batch time by 44.4 using optimal control.

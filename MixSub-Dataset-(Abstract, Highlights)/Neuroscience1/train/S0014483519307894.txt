@@ -1,0 +1,7 @@
+ Cytologic features such as the shape and size of tumor cells can predict metastatic death in uveal melanoma and other cancers but suffer from poor reproducibility . In this study we investigate the interobserver concordance of digital morphometry and correlate the results with BRCA associated protein 1 expression and
+
+@highlight Twelve cell size and shape features were analyzed digitally in uveal melanoma.
+@highlight The average number of cells analyzed in each of 27 tumors was 1957 SD 349 .
+@highlight Interobserver concordance was 85 for all morphometric variables 0.700.93 .
+@highlight Tumor nuclei size correlated to BAP 1 protein expression BAP 1 mutation status monosomy 3 and gene expression class.
+@highlight Patients had significantly shorter survival if their tumor cells had large nuclei.

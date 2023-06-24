@@ -1,0 +1,7 @@
+ This work presents the possibility of using the extremely popular compact digital cameras of smartphones or action cameras to perform sky photometry . The newest generation of these devices allows to save raw images . They are not as good as digital single lens reflex camera in particular in terms of sensitivity noise and pixel depth but they have the advantage of being extremely widespread on the population and relatively cheap . These economical digital compact cameras work with an electronic shutter it overcomes the consumption of mechanics and allows to gather images for long time . The work uses a simple calibration method to transfer raw data from the proprietary RGB color space to the standard CIE 1931 color space . It allows the measurement of sky luminance in cdm
+
+@highlight Use of smartphone cameras to perform sky photometry.
+@highlight A calibration allows to transfer data from the proprietary RGB color space to a standard color space.
+@highlight Measurement of sky luminance according SI has an uncertainty of about 20 .
+@highlight The colorimetric calibration allows to measure the correlated color temperature of the sky.
+@highlight Calibrated smartphone cameras can be a worldwide distributed tool for sky quality measurements and citizen science activities.

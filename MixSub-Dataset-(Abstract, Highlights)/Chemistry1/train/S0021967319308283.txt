@@ -1,0 +1,6 @@
+ In the present study during removal of minor impurities by twin column recycling chromatography with a solvent gradient a compressing band effect was generated to offset band spreading and retain the principal component band within one column . For real time monitoring a detector was mounted on line after the upstream column to monitor when the tail of the principal component was eluted from this column . When the conditions fluctuated the column were switched to ensure successful separation without the need to determine the adsorption equilibrium in advance . Optimization of the operating conditions revealed that increasing the solvent gradient improved pre impurity separation but impeded post impurity removal . Changing the feed volume within a certain range hardly affected separation of the impurities and increasing the number of cycles enhanced separation of the impurities .
+
+@highlight Twin column recycling chromatography with solvent gradient removed minor impurities efficiently.
+@highlight The detector behind the upstream column could determine the columns switching.
+@highlight The band spreading was counterbalanced by the band compression.
+@highlight The displacement was strengthened to remove the minor pre impurities.

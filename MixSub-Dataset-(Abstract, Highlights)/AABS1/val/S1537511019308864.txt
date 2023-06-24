@@ -1,0 +1,5 @@
+ Machine learning methods have become useful tools that in conjunction with sensing devices for quality evaluation allow for quick and effective evaluation of the quality of food commodities based on empirical data . This review presents the recent advances in machine learning methods and their use with various sensing devices to detect defects in horticultural products . There are technical hurdles in tackling major issues around defect detection in fruit and vegetables as well as various other food items such as achieving fast early and quantitative assessments . The role that ML methods have played towards addressing such issues are reviewed the present limitations highlighted and future prospects identified .
+
+@highlight Defects affecting horticultural products and detection challenges are summarised.
+@highlight Machine learning s role in addressing issues of fruit defect detection is surveyed.
+@highlight Machine learning as an enabler of effective defect detection is put in perspective.

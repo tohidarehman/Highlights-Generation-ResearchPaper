@@ -1,0 +1,7 @@
+ We study a combined influence of the Allee effect delay and stochasticity on the base of the phenomenological Hassell mathematical model of population dynamics . This bistable dynamical model possesses a wide variety of regimes both regular and chaotic . In the persistence zone these regimes coexist with the trivial equilibrium that corresponds to the extinction of the population . It is shown that borders of the persistence zone are defined by the crisis and saddle node bifurcation points . Noise induced transitions from the persistence to the extinction are studied both numerically and analytically . Using numerical modeling we have found that the persistence zone can decrease and even disappear under the influence of random noise . For the theoretical study of this phenomenon we apply the stochastic sensitivity analysis and Mahalanobis metrics .
+
+@highlight Noise induced extinction in the Hassell type population dynamical model with Allee effect delay and random forcing is analyzed.
+@highlight This bistable dynamical model exhibits a wide variety of regimes both regular and chaotic.
+@highlight The persistence zone is contracted under increasing noise noise induced transitions are investigated analytically.
+@highlight Theoretical analysis has been performed by the stochastic sensitivity function technique and confidence domain method.
+@highlight Weuse Mahalanobis metrics for estimation of the parametric zone where the population is more resistant to random disturbances.

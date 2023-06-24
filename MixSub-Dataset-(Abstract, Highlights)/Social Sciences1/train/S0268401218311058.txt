@@ -1,0 +1,5 @@
+ This paper investigates the role of gold as a safe haven for stock markets and the US dollar by examining the extreme risk spillovers . The extreme risk is measured by Value at Risk which is estimated by GJR GARCH model based on skewed t distribution . Two test statistics of one way and two way Granger causality in risk are used to detect extreme risk spillovers . In general the empirical results show that there are negative extreme risk spillovers between gold and stock markets and between gold and foreign exchange markets of US dollar which indicate that gold can act as an effective safe haven against extreme stock and US dollar exchange rate movements . In addition the global financial crisis can affect the safe haven role of gold .
+
+@highlight The role of gold as a hedge or a safe haven has been examined by the extreme risk spillover effects.
+@highlight Gold can act as an effective safe haven against extreme stock and US dollar exchange rate movements.
+@highlight The global financial crisis can affect the safe haven role of gold.

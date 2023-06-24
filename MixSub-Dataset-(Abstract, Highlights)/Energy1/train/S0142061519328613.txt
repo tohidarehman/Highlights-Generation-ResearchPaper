@@ -1,0 +1,5 @@
+ This paper develops an expansion co planning model for integrated power and gas systems where uncertainties in both systems are considered . The power to gas technology is modeled and considered as a potential solution for some worldwide societal goals such as decarbonized economy and 100 renewable penetration . Compared with expansion planning models for power systems the complexity of expansion co planning models is severely exacerbated by random variables in gas systems . A scenario based decomposition scheme called branch and price is presented . The numerical results demonstrate the effectiveness of the proposed method and show the economic value of power to gas technology .
+
+@highlight A novel expansion co planning model for integrated energy systems is presented.
+@highlight A decomposition scheme is developed for strategic planning under uncertainty.
+@highlight The role of power to gas technology in decarbonized economy is investigated.

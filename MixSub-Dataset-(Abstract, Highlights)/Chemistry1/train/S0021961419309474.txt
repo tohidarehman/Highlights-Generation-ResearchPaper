@@ -1,0 +1,6 @@
+ New regulations have been approved that some refrigerants including R134a blends will be phased out . As mixed refrigerants especially positive azeotropic blends R1243zf R290 mixture could be a corresponding substitute for R134a blends with similar thermodynamic properties and low GWP . In this study the VLE data for the binary system of R1243zf R290 were measured with a recirculation method at six temperatures K. The measurement uncertainties of the temperatures pressures and compositions are estimated to be less than 5mK 800Pa 0.005 respectively . All the experimental data were correlated by PR vdW and PR HV NRTL models . The maximum average absolute relative deviation of pressure AARD
+
+@highlight The VLE data for R1243zf R290 binary system were measured.
+@highlight Measurements were carried out based on the recirculation method.
+@highlight Experimental data were correlated with the PR vdW model and PR HV NRTL model.
+@highlight Azeotropic behaviors was found.

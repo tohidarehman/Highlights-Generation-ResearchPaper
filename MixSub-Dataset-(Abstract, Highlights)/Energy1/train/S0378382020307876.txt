@@ -1,0 +1,11 @@
+ Catalytic hydrotreating is a process used to remove impurities from refinery streams reacting a given feed with hydrogen at high temperature and pressure in a trickle bed reactor . In order to optimize the operation of such reactors one needs information about the detailed performance of the reactor . However mathematical models of such reactors have not received due attention in last decades . Therefore this work aimed at revisiting a plug flow HDT model to predict the performance of industrial diesel hydrotreating reactor which considers most of the HDT reactions gas liquid and liquid solid mass transfer as well as the influence of catalyst deactivation and quenches injection on model predictions . A fourteen pseudo component reactional network was proposed and successfully used . Computational fluid dynamics predictions verified the plug flow behavior of the industrial HDT reactor . Both the CFD and plug flow models were verified using real process plant data inspecting residual sulfur content and temperature profiles with maximum relative error of 14 . Pressure and species concentration profiles as well as the effect of inlet pressure and temperature on final sulfur content were predicted and discussed . Catalyst deactivation is an important factor for accurate prediction of industrial HDT over time of campaign .
+
+@highlight A trickle bed model for prediction of industrial
+@highlight reactor performance is described.
+@highlight The whole kinetics of industrial
+@highlight reactor is included in a
+@highlight model.
+@highlight Catalyst deactivation on industrial
+@highlight reactor performance is demonstrated.
+@highlight The
+@highlight reactor model is verified whith CFD and industrial data.

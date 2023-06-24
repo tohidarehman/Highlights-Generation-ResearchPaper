@@ -1,0 +1,6 @@
+ In this paper an optimization based speed control method is proposed to alleviate the adverse effects of bus bunching . This method specifically focuses on one way line transit corridors with curbside stops and high frequency buses . In such public transit corridors holding buses at stops may not be suitable for implementation . Instead of holding we choose to control bus cruising speeds between stops . The relationship between holding and speed control is discussed . A conventional holding model
+
+@highlight A bus cruising speed control method is designed for high frequency buses.
+@highlight We compare our proposed method with the conventional holding method via simulation.
+@highlight The proposed method can reduce both passenger as well as bus waiting delays effectively.
+@highlight Four driver friendly implementation strategies are further proposed discussed and evaluated.

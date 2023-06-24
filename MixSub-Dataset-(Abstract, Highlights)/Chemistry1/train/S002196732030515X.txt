@@ -1,0 +1,7 @@
+ The quest for ligands alternative to Protein A for the purification of monoclonal antibodies has been pursued for almost three decades . Yet the IgG binding peptides known to date still fall short of the host cell protein logarithmic removal value set by Protein A media . In this study we present an integrated computational experimental approach leading to the discovery of peptide ligands that provide HCP LRVs on par with Protein A . First the screening of 60 000 peptide variants was performed using a high throughput search algorithm to identify sequences that ensure IgG affinity binding . Select sequences WQRHGI MWRGWQ RHLGWF and GWLHQR were then negatively screened
+
+@highlight positive and negative selection of IgG binding peptides.
+@highlight Static binding capacity 50 mg IgG per mL of resin.
+@highlight Dynamic binding capacity of up to 36 mg mL under fast flow.
+@highlight Peptide WQRHGI provides a HCP LRV 2.7.
+@highlight High stability of the peptide ligands over 100 cycles of reuse.

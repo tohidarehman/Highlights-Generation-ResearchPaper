@@ -1,0 +1,8 @@
+ Simulated moving bed reactor increases conversion of a reversible chemical reaction by introducing continuous counter current in situ adsorptive separation of reactants and or products . Effects of temperature variance among different operating zones on the performance of a 4 column SMBR for reaction in the form of
+
+@highlight Optimization for SMBR was done to assess effect of non isothermal operation.
+@highlight Optimization problems with different temperature distributions were explored.
+@highlight First time triple objective optimization was performed for SMBR processes.
+@highlight Pareto optimal solutions were explained by trends of flowrate ratios 
+@highlight  values .
+@highlight Non isothermal operation may be used to reduce the solvent consumption.

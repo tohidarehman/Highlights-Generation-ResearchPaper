@@ -1,0 +1,7 @@
+ Recent free floating platforms offer service to consumers via a sharing model that can substantially increases the services circulation and utilization . This paper examines the optimal investment strategy in product quality input quantity and dynamic advertising for a free floating sharing platform that owns a durable product and leases it to consumers . We model the problem as an optimal control problem and solve it via the maximum principle and an algorithm . We discuss four investment strategies one single stage strategy and three two stage strategies . Our findings provide new insights and implications into the sharing platforms investment strategy .
+
+@highlight A free floating sharing platforms investment strategy is examined.
+@highlight Optimal control models are developed and solved.
+@highlight Four strategies are discussed and the optimal investment strategy is identified.
+@highlight Generally sharing platform is more profitable with two stage investment strategies.
+@highlight It is optimal to invest more in the early stage to consolidate the market position.

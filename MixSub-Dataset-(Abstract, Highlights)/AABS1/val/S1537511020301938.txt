@@ -1,0 +1,7 @@
+ Nozzle functionality was systematically analysed by acoustic monitoring in view of practical applications . Sensor technology its measurement principle and installation location were investigated regarding its suitability as a monitoring system . The study demonstrates that acoustic monitoring of nozzles can provide accurate detection of operational defects such as changes in air supply damage and filter clogging . Applying this approach can not only detect changes in the system pressure but also measure its value . Acoustic properties are significantly influenced by engineering tolerances and nozzle defects and could be accurately classified by methods such as cluster analysis .
+
+@highlight Spray nozzle functionality was systematically analysed by acoustic monitoring.
+@highlight Acoustic properties are significantly influenced by spray nozzle defects.
+@highlight Changes in system pressure and pressure values can be acoustically detected.
+@highlight Accurate classification of nozzle defects by methods like acoustical cluster analysis.
+@highlight Acoustic monitoring of spray nozzles has the potential to detect operational defects.

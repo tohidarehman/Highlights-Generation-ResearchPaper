@@ -1,0 +1,6 @@
+ A mechanistic model is developed for the force depth relationship of ion irradiated materials which is conducted by spherical nano indentation . With irradiation effect the pop in phenomenon almost disappears that is ascribed to the irradiation induced defects serving as dislocation nucleation sites that facilitate the generation of new dislocations . After materials yielding the evolution of statistically stored dislocations geometrically necessary dislocations and irradiation induced defects mutually contributes to the force depth relationships with irradiation effect . Thereinto the increase of loading force originates from the impediment of slipping dislocations by irradiation induced defects . By comparing with the experimental data of Fe12Cr alloy a reasonable agreement is achieved .
+
+@highlight A model is proposed for the force depth relationship of ion irradiated materials.
+@highlight Three distinguishing deformation stages for the force depth curve are characterized.
+@highlight Weakened pop in events and irradiation hardening are addressed.
+@highlight Theoretical results can match well with corresponding experimental data.

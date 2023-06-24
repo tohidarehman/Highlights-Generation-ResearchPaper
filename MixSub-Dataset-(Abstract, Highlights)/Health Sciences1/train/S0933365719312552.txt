@@ -1,0 +1,7 @@
+ Accurate diagnoses of specific diseases require in general the review of the whole medical history of a patient . Currently even though many advances have been made for disease monitoring domain experts are still requested to perform direct analyses in order to get a precise classification thus implying significant efforts and costs .
+
+@highlight Complex data reduction.
+@highlight Complex data visualization.
+@highlight Gene expression and clinical data correlation with medical disease.
+@highlight Convolutional neural network to perform medical diagnosis.
+@highlight Accurate medical diagnosis for personalized medicine.

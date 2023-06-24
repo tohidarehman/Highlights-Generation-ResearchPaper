@@ -1,0 +1,8 @@
+ We propose and analyze a virus to cell and cell to cell infections HIV model that includes intracellular time delay and infection age structure where infection age specific conversion function is considered as the piecewise function related to infection period between initial infection and the formation of productively infected cells . Applying the theory of integrated semigroup and the Hopf bifurcation theory for semilinear equations with non dense domain we concern the Hopf bifurcation of the model . A non trivial periodic solution bifurcates from the positive equilibrium when bifurcation parameter passes through some critical values . The numerical results verify our theoretical conclusion and further demonstrate that intracellular time delay has a greater impact on the model but the impact of infection period on the model is hardly obvious . Additionally the sensitivity of the threshold parameter is also carried out by employing the Latin hyper cube sampling method and partial rank correlation coefficient techniques .
+
+@highlight An HIV model that includes intracellular time delay and infection age structure is proposedand analyzed.
+@highlight We employ the integrated semigroup theory and Hopf bifurcation theory for semilinear e quations with non dense domain.
+@highlight A non trivial periodic solution bifurcates from the positive equilibrium.
+@highlight The numerical results verify our theoretical conclusion.
+@highlight The sensitivity of
+@highlight is carried out by using the Latin hypercube sampling and partial rank correlation coefficient.

@@ -1,0 +1,6 @@
+ Waddingtons epigenetic landscape is a classic metaphor for describing the cellular dynamics during the development modulated by gene regulation . Quantifying Waddingtons epigenetic landscape by mathematical modeling would be useful for understanding the mechanisms of cell fate determination . A few computational methods have been proposed for quantitative modeling of landscape however to model and visualize the landscape of a high dimensional gene regulatory system with realistic details is still challenging . Here we propose a Monte Carlo method for modeling the Waddingtons epigenetic landscape of a gene regulatory network . The method estimates the probability distribution of cellular states by collecting a large number of time course simulations with random initial conditions . By projecting all the trajectories into a 2 dimensional plane of dimensions
+
+@highlight A Monte Carlo method for quantifying Waddingtons epigenetic landscape is proposed.
+@highlight A state with local maximal probability corresponds to a local minimal potential or attractor.
+@highlight It displays attractors and intermediate details emerging spontaneously from dynamic simulations.
+@highlight The novelty and reliability of this method are demonstrated with three real gene regulatory networks.

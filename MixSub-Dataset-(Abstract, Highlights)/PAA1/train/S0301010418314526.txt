@@ -1,0 +1,6 @@
+ Stabilized Silver nanoparticles are synthesized and incorporated in an organosiloxane matrix and are investigated for optical nonlinearity at 527nm using nanosecond pulses and Z scan technique . AgNPs were synthesized through a chemical reduction of silver nitrate which is functionalized with triethoxysilane and incorporated into an organosiloxane matrix . The reactive thiol groups of MPTMS bind to AgNPs through ligand mediated binding which serve as a capping agent . The Z scan results showed the drastic increase in nonlinear optical response of AgNP sol for increasing input energies . The strong nonlinearity is attributed mainly to the nonlinear scattering from silver nanoparticles as scattering centers and metallic plasmon enhanced nonlinear absorption .
+
+@highlight Silver nanoparticles AgNPs are synthesized via a chemical reduction of silver nitrate.
+@highlight AgNPs are stabilized and embedded in an organosiloxane matrix via a sol gel process AgNP sol .
+@highlight The Z scan study reveals the presence of strong optical nonlinearity in AgNP sol.
+@highlight Strong nonlinear scattering and reverse saturable absorption are the primary mechanisms responsible for optical limiting.

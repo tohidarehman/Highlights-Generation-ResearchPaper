@@ -1,0 +1,7 @@
+ Trinidad and Tobago one of the largest exporters of ammonia globally has seen recent declines in natural gas availability making cutbacks in productivity necessary . This paper investigates for the first time effects of natural gas availability on environmental burden and operational profit across the ammonia process . Utilizing Aspen Plus a model ammonia plant was designed and validated against current plant operations . The results indicated that as gas charge decreases the specific energy demand increases due to increased steam demand for CO
+
+@highlight Ammonia synthesis process modelled and assessed using Aspen Plus.
+@highlight Insights into specific energy consumption as a function of depleting natural gas charge presented.
+@highlight Sustainability assessed across economic and environmental domains.
+@highlight Economic profitability and environmental benefits decrease with natural gas availability.
+@highlight Energy consumption accounted for largest environmental burdens due to high energy demand.

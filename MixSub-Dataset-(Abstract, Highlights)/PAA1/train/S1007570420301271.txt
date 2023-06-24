@@ -1,0 +1,5 @@
+ A chemostat is a widely used laboratory and industrial scale equipment for continuous culture of microalgae and other microorganisms under controlled conditions . Being a photosynthetic organism light and other nutrients are growth limiting for all microalgal species and thus optimization of external conditions is necessary to maximize algae harvest at a commercial scale . In this study we mechanistically formulate a cell quota based light dependent model of algae growth in a chemostat and study various mathematical properties of the model in addition to exploration of the parameter space for obtaining guidelines on biomass growth optimization .
+
+@highlight Light dependent single nutrient limited cell quota based mechanistic model of algae growth in a chemostat is developed
+@highlight Model solutions are positive and bounded
+@highlight Sensitivity analysis reveals critical information on the impact of parameters and initial conditions on algae biomass productivity

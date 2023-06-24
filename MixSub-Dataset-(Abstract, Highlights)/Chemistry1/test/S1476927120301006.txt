@@ -1,0 +1,6 @@
+ The human cardiac troponin has been implicated in diverse cardiovascular diseases . The protein function is regulated by the inter subunit interaction between the N terminal domain of hcTnC and the C terminal switch peptide of hcTnI disruption of the interaction has been recognized as a potential therapeutic strategy for CDs . Here we report use of biogenic medicines as small molecule competitors to directly disrupt the proteinprotein interaction by competitively targeting the core binding site of hcTnC NTD domain . A multistep virtual screening protocol is performed against a biogenic compound library to identify competitor candidates and competition assay is employed to verify the screening results . Consequently two compounds Collismycin and Compound e are identified as strong competitors CC
+
+@highlight Biogenic competitors are used to competitively disrupt human cardiac hcTnChcTnI interaction.
+@highlight A multistep screening protocol is performed against a biogenic compound library to identify competitors.
+@highlight Small molecule collismycin and compound e are identified as potent competitors.
+@highlight Both competitors and hcTnI switch peptide share a common binding site of hcTnC.

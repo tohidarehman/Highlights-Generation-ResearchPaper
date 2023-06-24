@@ -1,0 +1,6 @@
+ This paper reports the development of a stationary phase thickness gradient gas chromatography column that enables analyte peak focusing and improves separation resolution . Theoretical analysis and simulation demonstrate focusing via a positive thickness gradient
+
+@highlight Film thickness gradient along a column to achieve peak focusing.
+@highlight Theoretical model and simulation to understand the underlying mechanism.
+@highlight Experiments conducted with circular and rectangular columns under various conditions.
+@highlight The technique is broadly applicable to various stationary phases and column types.

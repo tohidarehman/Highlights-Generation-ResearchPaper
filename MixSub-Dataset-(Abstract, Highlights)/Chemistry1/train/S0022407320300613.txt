@@ -1,0 +1,8 @@
+ Sensors based on absorption spectroscopy rely on accurate simulations to obtain quantitative data . The simulations in turn depend on accurate line lists . To test the quality of the ExoMol line list a comparison of a simulation based on the line list to a measured H
+
+@highlight Accuracy of ExoMol H2O absorption simulation comparison with measurement at 1723 K.
+@highlight Over 675 absorption features compared across the 7300 7600 cm
+@highlight range.
+@highlight ExoMol simulation showed measurable improvement over BT2 in range studied.
+@highlight ExoMol promising for broad band high temp H
+@highlight O absorption spectroscopy applications.

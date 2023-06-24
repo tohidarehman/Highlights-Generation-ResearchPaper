@@ -1,0 +1,5 @@
+ Optical analog to digital conversion is very important for implementing all optical data processing systems . In this study we designed an all optical analog to digital converter using photonic crystal nonlinear ring resonators . The main goal of this study was to design an optical analog to digital converter with no upper limit for the input optical intensity when generating 11 codes at the output ports . Simulation results showed that the maximum rise time for the proposed structure is about 1.5 ps
+
+@highlight All optical analog to digital converter designed.
+@highlight Proposed structure can generate 2 bit binary codes.
+@highlight Sampling rate of the proposed structure is about 250 GS s.

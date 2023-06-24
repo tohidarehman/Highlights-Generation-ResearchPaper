@@ -1,0 +1,7 @@
+ We investigate the impact of financial crises on the syndicated loan spreads applied to public and private firms . We found evidence of a greater increase in loan spreads for European public firms than for private ones during the global financial crisis and the euro area sovereign debt crisis . This result is consistent with our hypothesis that public firms borrowing costs are more sensitive to financial market swings than those of private companies . Our results hold when we control for relationship banking effects a different sample composition between crisis and non crisis periods estimating a propensity score matching and adopting a sample of syndicated loans to US public firms .
+
+@highlight We study the impact of crises on loan spreads for public and private firms.
+@highlight Crisis periods lead to a greater increase in loan spreads for public firms.
+@highlight The benefits of being public significantly decline when financial instability rises.
+@highlight Loan spreads for public borrowers are more affected by financial market swings.
+@highlight Banks raise loan spreads relatively more to rated and larger borrowers.

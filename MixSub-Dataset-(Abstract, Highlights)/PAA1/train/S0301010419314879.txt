@@ -1,0 +1,8 @@
+ The effect of temperature on the mean kinetic energy of Oxygen Ke in silica hydrogel was computed between 5 and 325K . The results are higher by up to 40 than those deduced from a recent deep inelastic neutron scattering measurement . Note that when the mean kinetic energy of Hydrogen Ke was computed using the same method a good agreement was obtained with the DINS measurement . This seems to indicate that the measured Ke values are strongly underestimated due to the DINS method of analysis of the n scattering intensities as discussed in the text .
+
+@highlight The T effect of the Oxygen kinetic energy Ke O in silica hydrogel was DFT computed up to 325 K.
+@highlight The results are higher by up to 40 than those measured by deep inelastic neutron scattering DINS .
+@highlight Subtraction of the SiO
+@highlight contribution to the DINS values results in negative Ke O of H
+@highlight O.
+@highlight This result is challenging as there is a need for more experiments to understand the huge deviation.

@@ -1,0 +1,7 @@
+ Although the existence of a five metal phase as nanoparticles observed in irradiated nuclear fuel has been known for more than half a century the chemical and physical mechanisms controlling the formation and behavior of such particles remain stubbornly elusive . We present in this work new evidence for the presence of a separate nonmetallic phase associated with the metallic particles and containing a significant fraction of Te in addition to Pd . While this new phase potentially complicates the thermodynamic picture of a mixed alloy in equilibrium with the surrounding fuel environment it also provides new clues in the search for a chemical mechanism for Pd migration through the uranium dioxide matrix and the nucleation behavior of the particles . Fractionation between phases may subsequently affect the mechanical performance of fuels during irradiation and their interactions with the surrounding environment during long term waste storage .
+
+@highlight Nanoscale chemical segregation of Pd from the other noble metal phase NMP elements in UO
+@highlight fuels has been observed.
+@highlight Detailed elemental analysis reveals the presence of a Te rich secondary phase within NMP particles.
+@highlight Ab initio chemical computations support the conclusion that the telluride phase drives fractionation of Pd and Ru.
+@highlight Results have implications for both the formation mechanism of NMP particles and their behavior in waste repositories.

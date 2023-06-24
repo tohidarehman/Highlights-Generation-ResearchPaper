@@ -1,0 +1,6 @@
+ The analysis of the effectiveness factor in catalytic particles with non uniform size was performed . The procedure proposed by Weisz and Prater to determine the intrinsic kinetic constants from experimental results was extended to cases where the catalyst particle size distribution is considered . The approach was applied to the study of reactions with power law and Langmuir Hinshelwood Hougen Watson type kinetics the catalyst particles being spheres with volume log normal size distribution . If the catalytic effectiveness factor is calculated assuming uniform particle size
+
+@highlight Catalytic beds with non uniform particle size are common in many processes.
+@highlight The size distribution of catalyst particles affects the effectiveness factor.
+@highlight Assessing the intrinsic kinetic constants must consider particle size distributions.
+@highlight The wider the dispersion in sizes the higher the error in assuming uniformity.

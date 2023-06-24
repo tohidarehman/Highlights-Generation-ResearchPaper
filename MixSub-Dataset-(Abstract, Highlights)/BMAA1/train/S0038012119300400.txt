@@ -1,0 +1,7 @@
+ This paper investigates the effectiveness of formalized collaboration strategies through which patients can be transferred and resources including staff equipment and supplies can be shared across hospitals in response to a disaster incident involving mass casualties and area wide damage . Inflicted damage can affect hospital infrastructure and its supporting lifelines thus impacting capacity and capability or ultimately services that are provided . Using a discrete event simulation framework and underlying open queuing network conceptualization involving patient flows through 9 critical units of each hospital impacts on critical resources physical spaces and demand are modeled and the hospital system s resilience to these hazard events is evaluated . Findings from numerical experiments on a case study involving multiple hospitals spaced over a large metropolitan region replicating a system similar to the Johns Hopkins Hospital System show the potential of strategies involving not only transfers and resource sharing but also joint capacity enhancement alternatives to improve post disaster emergency health care service delivery through joint action .
+
+@highlight Investigates potential benefits of hospital coalitions in disaster.
+@highlight Assess potential value of patient transfers and resource sharing.
+@highlight Considers joint capacity enhancement alternatives.
+@highlight Discrete event simulation conceptualization of hospital system.
+@highlight Quantifies hospital system resilience to pandemic MCI and disaster events with damage.

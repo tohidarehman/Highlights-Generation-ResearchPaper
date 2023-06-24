@@ -1,0 +1,7 @@
+ The theoretical analysis of traffic flow with empirical vehicle trajectory data contained within this study allows for the explanation reconstruction and prediction of spatiotemporal transition characteristics of traffic conditions . Using an unmanned aerial vehicle during a morning rush hour on a working day observations of congestion evolution near an on ramp bottleneck of an expressway was captured . The empirical high fidelity trajectory data of 621 vehicles were extracted . The major findings include
+
+@highlight The macroscopic and microscopic characteristics of traffic flow in congestion evolution near expressway bottleneck were captured.
+@highlight The impact of lane changing behavior on the formation and propagation of oscillation was quantified.
+@highlight Inducement for triggering traffic phase transition was investigated.
+@highlight Investigation on the critical headway of engendering perturbation.
+@highlight Fluctuation magnitude of speed and the theoretical lag distance.

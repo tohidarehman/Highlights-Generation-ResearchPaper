@@ -1,0 +1,5 @@
+ We present a critical view of the analysis of experimental one dimensional island size distribution as a function of time . We study the processes of island growth using large scale kinetic Monte Carlo simulations with diffusion barriers calculated within the framework of the density functional theory . We have shown that one dimensional island size distribution depends significantly on the time of the experiment . Our model predicts that during annealing or cooling the transition from one state of thermodynamical equilibrium to another occurs through a non equilibrium state . This transition consists of Ostwald ripening and decay of one dimensional islands . The results of our work demonstrate that considering experimental one dimensional island size distribution as an equilibrium is a big misconception .
+
+@highlight A critical view of the analysis of experimental one dimensional island size distribution.
+@highlight Time dependent evolution of one dimensional island size distribution.
+@highlight The change in one dimensional island size distribution during cooling or annealing.

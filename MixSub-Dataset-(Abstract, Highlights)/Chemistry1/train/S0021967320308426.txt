@@ -1,0 +1,5 @@
+ The separation of heterogeneous protein mixtures has always been characterized by a trade off between purity and yield . One way this issue has been addressed in the past is by recombinantly modifying protein to improve separations . Such modifications are mostly employed in the form of tags used specifically for affinity chromatography though it is also possible to make changes to a protein that will have a sizeable impact on its hydrophobicity and charge charge distribution . As such it should also be possible to use protein tags to modulate phase separations and protein resin binding kinetics when performing ion exchange chromatography . Here we employed a three step purification scheme on
+
+@highlight Tag modulates liquid solid phase separation and AEX chromatography of rHPV 16 L1 vaccine.
+@highlight Tag improves overall yield and does not abrogate VLP formation under optimized conditions.
+@highlight Three step purification process for WT and tagged protein results in 98 purity.

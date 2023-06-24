@@ -1,0 +1,6 @@
+ This paper investigates a Buy Online and Deliver from Store strategy where a manufacturer sells products through both online and offline channels and employs the offline retailer to deliver online orders from the retailers warehouse . By comparing Strategy BODS with a benchmark scenario where the manufacturer runs the online channel and the retailer manages the offline channel respectively and independently we generally find that if the competition between two channels is stronger the dual channel supply chain is more likely to implement Strategy BODS and vice versa . More importantly we pinpoint that a centralized supply chain has less motivation to implement Strategy BODS than a decentralized one .
+
+@highlight Investigate optimal omni channel retailing strategy in a dual channel supply chain.
+@highlight Analyze impacts of Strategy BODS on supply chain members operations performance.
+@highlight Discuss how retailers location advantage affects channel strategy choice.
+@highlight Give suggestions on how to achieve an online order sharing cooperation.

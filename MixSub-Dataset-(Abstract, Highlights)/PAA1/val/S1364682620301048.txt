@@ -1,0 +1,7 @@
+ The I3RC Community Monte Carlo model of three dimensional radiative transfer was improved by allowing the specification of surfaces with variable albedo . A series of simulations were performed using the improved I3RC CM in order to investigate the role of surface albedo heterogeneity in shortwave radiation transfer under 3D clouds . For the same regionally averaged surface albedo of 0.25 the top of atmosphere reflectivity was found to vary by approximately 10
+
+@highlight The original I3RC CM was improved by adding artificially specified surfaces with variable albedos.
+@highlight The different surface albedo patterns for the same regional average of 0.25 can lead to a deviation with a 10
+@highlight order of magnitude in TOA reflectivity.
+@highlight The inhomogeneous surface albedo was discovered to have a greater impact on TOA reflectivity at the non absorbing wavelengths.
+@highlight Surface albedo heterogeneity s influence on cloud absorptance was revealed to be stronger at a wavelength of 1.64m than at 2.13m.

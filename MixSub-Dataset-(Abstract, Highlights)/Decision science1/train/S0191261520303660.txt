@@ -1,0 +1,6 @@
+ This paper explores whether upper bound guarantees to detour distances can be introduced in ride sharing services . By ride sharing we mean taxi ride aggregation services such as
+
+@highlight Analysis of the impacts of detour and waiting bounds on ridesharing services.
+@highlight Systematic quantification of several performance metrics in closed form formulas.
+@highlight Insights that could be used to explore business and regulatory strategies.
+@highlight Analytical results are corroborated by agent based simulations.

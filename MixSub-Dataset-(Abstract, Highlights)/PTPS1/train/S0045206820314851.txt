@@ -1,0 +1,8 @@
+ The lysophospholipase D autotaxin generates lysophosphatidic acid that activates six cognate G protein coupled receptors in cancerous cells promoting their motility and invasion . Four novel compounds were generated aided by molecular docking guided design and synthesis techniques to obtain new dual inhibitors of ATX and the lysophosphatidic acid receptor subtype 1 . Biological evaluation of these compounds revealed two compounds
+
+@highlight Four different potential autotaxin ATX inhibitors were synthesized.
+@highlight These ATX inhibitors are non lipid small molecules.
+@highlight These ATX Inhibitors have no carboxylic acid or its bioisosteric moieties.
+@highlight Tetrahydropyran based compounds showed promising activity against ATX.
+@highlight Molecular docking predicted potential binding in the hydrophobic pocket of the ATX.
+@highlight QSAR modeling showed a good correlation with the experimental findings.

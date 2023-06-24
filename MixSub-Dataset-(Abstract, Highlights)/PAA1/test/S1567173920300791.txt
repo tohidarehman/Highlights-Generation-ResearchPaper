@@ -1,0 +1,7 @@
+ Ge Sb Te pseudo binary compounds are known to be phase change materials . Most of these chalcogenide compounds are candidate for future phase change random access memory applications since they show abrupt change on crystalline amorphous phase change process . For the use in next generation applications increase of retention properties and decrease of power needed for phase change process are required . These phase change properties depend on various material characteristics and thermal conductivity is one of them . In this study to introduce an easier method for evaluating the local structural anharmonicity of phase change materials optical pump terahertz probe experiments were performed . By investigating the phonon behaviours in PCM by this method and comparing them with local structural information extracted from extended X ray absorption fine structure on Ge
+
+@highlight Enhancement of resonant bond in GST124 compared to GST225 was observed around Ge atoms.
+@highlight Resonant bond and anharmonicity of local structure were verified with calculations.
+@highlight Electrical properties measured from PCRAM unit cell were explained with local structure.
+@highlight Using optical pump THz probe measurements the anharmonicity of PCMs were compared with decay time.
+@highlight The trend of phase change properties could be derived to a significant degree.

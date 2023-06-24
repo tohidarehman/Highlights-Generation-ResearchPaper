@@ -1,0 +1,7 @@
+ Microchannels structured with hybrid rectangular surface roughness is numerically analyzed for thermal hydraulic performances of laminar flow . The performances are compared between working fluids of air and water and under different heating walls and roughness configuration conditions at constricted Reynolds number
+
+@highlight Lower aspect ratio microchannels analyzed with structured rectangular roughness.
+@highlight Thermal hydraulic performance of air flow improves with increasing Reynolds number.
+@highlight Average performance index of air rough channel is 11 higher than that of water.
+@highlight Heating walls have little effect on friction factor but improve heat transfer.
+@highlight Roughness rectangular with constant height is slightly better than hybrid height.

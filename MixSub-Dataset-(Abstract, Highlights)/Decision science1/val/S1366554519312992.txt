@@ -1,0 +1,7 @@
+ This study investigates a platforms preferences between agency selling and reselling considering the impact of data driven marketing . Four models are built No DDM agency selling No DDM reselling DDM agency selling DDM reselling . Sales volumes profits and profit growth rates in different sales modes are compared . Results show that with an increase in DDM efficiency the platform is more willing to adopt the reselling mode . In addition without DDM the sales mode with higher sales volume is not more profitable within a certain market size . DDM can help avoid this phenomenon to a certain extent .
+
+@highlight Agency selling mode and reselling mode of the platform are investigated.
+@highlight The impacts of data driven marketing DDM on the sales mode selection are studied.
+@highlight The platform prefers agency selling mode only when the market size is moderate.
+@highlight With an increase in DDM efficiency the platform more prefers the reselling mode.
+@highlight The sales mode with higher sales volume is not more profitable in some conditions.

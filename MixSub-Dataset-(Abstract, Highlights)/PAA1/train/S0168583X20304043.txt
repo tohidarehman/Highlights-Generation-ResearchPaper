@@ -1,0 +1,7 @@
+ In this paper we investigate the dosimetric effects target inhomogeneities on VHEE beam dose profiles . Dose profile sensitivity to high and low density
+
+@highlight First experimental demonstration of the relative insensitivity of VHEE beams to inhomogeneities.
+@highlight Topas GEANT4 simulations on experiments conducted at CERNs CLEAR facility are in good agreement.
+@highlight Simulations of proton beams and demonstrate their relative sensitivity to inhomogeneities.
+@highlight Relative dose insensitivity of several tissue like equivalents have been explored.
+@highlight Dose penetration for Very High Electron VHEE beams explored.

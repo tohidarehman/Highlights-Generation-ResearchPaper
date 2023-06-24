@@ -1,0 +1,6 @@
+ Sketchy design models are used to examine the fundamental tradeoff in transit systems and to guide high level decisions . Traditionally passengers route choice is greatly simplified in such models . This study aims to understand whether this simplification would compromise
+
+@highlight The impact of route choice modeling on transit system performances is examined.
+@highlight Optimal user costs are affected by route choice modeling but agency costs are not.
+@highlight The system design is often insensitive to route choice modeling.
+@highlight Details of route choice are generally negligible yet notable exceptions exist.

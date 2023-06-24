@@ -1,0 +1,12 @@
+ Light and elevated temperature induced degradation can have a severe impact on the carrier lifetime of silicon substrates used in solar cell production and thus remains a crucial challenge for manufacturers . In this work we introduce a two step annealing process to mitigate LeTID in multi crystalline silicon passivated emitter and rear cell solar cells . We demonstrate that the first annealing step with a slow belt speed plays a primary role in mitigating LeTID in the cells but also results in an increase in contact resistance . The application of a second annealing step at a similar temperature with a faster belt speed recovers the contact resistance whilst maintaining the stability of the cell . Applying this approach to the
+
+@highlight  step annealing can mitigate LeTID in p type mc Si PERC solar cell.
+@highlight However 1
+@highlight  step annealing causes R
+@highlight to degrade resulting in a significant loss in
+@highlight and FF.
+@highlight  step annealing at low temperature recovers the degradation of R
+@highlight and maintain the stability of the cells.
+@highlight  step annealing at high temperature also recovers the degradation R
+@highlight However 2
+@highlight  step annealing at high temperature may re activate LeTID mainly on the dislocation cluster sites.

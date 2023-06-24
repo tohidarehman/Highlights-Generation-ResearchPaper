@@ -1,0 +1,5 @@
+ Alkaptonuria is an ultra rare disease caused by mutations in homogentisate 1 2 dioxygenase enzyme characterized by the loss of enzymatic activity and the accumulation of its substrate homogentisic acid in different tissues leading to ochronosis and organ degeneration . Although the pathological effects of HGD mutations are largely studied less is known about the structure of the enzyme in particular the pathways for dioxygen diffusion to the active site required for the enzymatic reaction are still uninvestigated . In the present project the combination of two
+
+@highlight By use of Implicit Ligand Sampling approach routes for dioxygen to the active site of homogentisate 1 2 dioxygenase were delineated.
+@highlight Along the dioxygen route the E401Q variant responsible for the rare disease Alkaptonuria disrupts the gas diffusion path.
+@highlight The diffusion of dioxygen is mediated by a transient pocket suggesting transient geometry has to be taken into account for small molecules diffusion trough protein moiety.

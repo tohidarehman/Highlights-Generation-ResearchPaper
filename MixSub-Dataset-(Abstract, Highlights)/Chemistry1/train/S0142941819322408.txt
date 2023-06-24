@@ -1,0 +1,7 @@
+ The hyperelastic Yeoh model has been generalized to account for creep plasticity and viscoelasticity of polymers . The general tensorial model developed is applied to several rheometric situations the tensile test used to measure the stress strain curve in tension as well as the creep and recovery tests . The resulting equations are compared to the experimental results acquired in the present work for several monolithic synthetic fibers used as specimens . The comparison revealed that the proposed phenomenological rheological constitutive equation is capable of reproducing the experimental data with a uniformly valid set of physical parameters . Moreover it was possible to accurately predict the residual plastic deformation of the fibers .
+
+@highlight Non linear hyperelastic Yeoh model is generalized.
+@highlight Comprehensive viscoelastic plastic rheological constitutive equation.
+@highlight Creep is accounted for.
+@highlight Experimental results are obtained for tensile creep and recovery conditions.
+@highlight The model results are favorably compared with experimental data.

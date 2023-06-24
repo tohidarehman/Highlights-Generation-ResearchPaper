@@ -1,0 +1,6 @@
+ Understanding rhizospheric processes is limited by the need for imaging complex molecular transformations at relevant spatial scales within the root soil continuum . Here we demonstrate a method to enable this analysis by first extracting organic compounds from the rhizosphere onto a PVDF membrane while maintaining their 2D distribution and then imaging the distribution of chemical compounds using matrix assisted laser desorption ionization mass spectrometry . This approach permitted us to visualize and identify compounds on the root surface and presumed root exudates in the rhizosphere . Within a 1.8cm0.6cm sampling area of a switchgrass rhizosphere we could observe at least four chemically distinct zones . Using high performance Fourier transform ion cyclotron resonance MS we were able to accurately annotate numerous molecules co localized to each of these zones .
+
+@highlight Spatially resolving organics in the rhizosphere using mass spectrometry imaging.
+@highlight Four distinct chemical zones were detected in the example rhizosphere imprint.
+@highlight Identified molecules spatially co localized in root rhizosphere and soil zones.
+@highlight Method allows spatiotemporal molecular mapping of living roots and rhizosphere.

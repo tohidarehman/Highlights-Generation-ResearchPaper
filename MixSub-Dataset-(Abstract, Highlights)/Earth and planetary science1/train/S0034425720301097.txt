@@ -1,0 +1,7 @@
+ Historically change detection reviews have examined and categorized algorithms based on their techniques for the remote sensing community . Here we synthesize urban land change algorithms by the types of information they provide to a diverse and growing set of user communities . Two goals of the paper are first to synthesize past and current change detection studies to examine urban land change to help users of remote sensing algorithms understand and navigate the vast variety of available methods and second to identify gaps in knowledge for the urban remote sensing community . We analyzed 644 peer reviewed research papers published in English language journals and conducted a systematic review of
+
+@highlight We conduct a systematic review of the urban land change algorithm literature.
+@highlight Most studies monitor urban change at low temporal frequencies.
+@highlight The majority of urban land change is characterized using only one urban class.
+@highlight Over 75 of studies focus on high or upper middle level income countries.
+@highlight Key knowledge gaps include in geographic coverage city size and land transitions.

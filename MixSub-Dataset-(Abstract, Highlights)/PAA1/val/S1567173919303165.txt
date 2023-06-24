@@ -1,0 +1,6 @@
+ We numerically and experimentally investigate single band and dual band isotropic metamaterial absorbers based on metallic disks . By optimizing the diameter of the metallic disks and the thickness of the dielectric substrate the single band IMA is observed at 16.2GHz with absorptivity of 97 . When adding one disk pair to the structure the dual band IMA is obtained at 12.8 and 15.5GHz due to the symmetry breaking . The physical mechanics is explained by near field coupling effect and equivalent LC circuit model . The measurement results performed in the range 1218GHz show a good agreement with simulation and theoretical analysis . Our findings demonstrate a new approach to achieve dual band and multi band IMAs .
+
+@highlight Single band and dual band isotropic metamaterial absorbers IMAs based on disk resonators.
+@highlight Single band and dual band IMAs are obtained by asymmetric structure and near field coupling effect.
+@highlight Dual band and multi band can be adjusted by the thickness of dielectric layer and the diameter of metallic disks.
+@highlight A new simple and effective approach to achieve dual band and multi band IMAs.

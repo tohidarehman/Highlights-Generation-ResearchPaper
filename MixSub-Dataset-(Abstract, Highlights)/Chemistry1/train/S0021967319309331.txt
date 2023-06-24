@@ -1,0 +1,6 @@
+ Over the past decade significant progress has been found in the upstream production processes shifting the main bottlenecks in current manufacturing platforms for biopharmaceuticals towards the downstream processing . Challenges in the purification process include reducing the production costs developing robust and efficient purification processes as well as integrating both upstream and downstream processes . Microfluidic technologies have recently emerged as effective tools for expediting bioprocess design in a cost effective manner since a large number of variables can be evaluated in a small time frame using reduced volumes and manpower . Their modularity also allows to integrate different unit operations into a single chip and consequently to evaluate the effect of each stage on the overall process efficiency .
+
+@highlight Rapid and low cost method to evaluate lysis efficiency of different solutions.
+@highlight Simple microscale optimization of a continuous and modular downstream process.
+@highlight Higher than 90 lysis efficiencies obtained for different solutions and conditions.
+@highlight Integrable with other microfluidic modules mimicking different unitary operations.

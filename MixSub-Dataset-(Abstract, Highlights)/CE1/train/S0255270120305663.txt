@@ -1,0 +1,8 @@
+ A new layered fan blade suspension carrier was prepared by 3D printing technology . Based on the multiphase flow coupled dynamic mesh model the motion of the suspension carrier in the moving bed reactor was simulated by computational fluid dynamics software . Impact of the spatial structure of the suspended carrier on the detail flow field was analyzed . The results show that the layered fan blade carrier can play a good role in gas distribution and at the same time a large number of vortices of different sizes are generated in the reactor which enhances the mass transfer and diffusion in the reactor . The reactor has good oxygenation effect and the average gas holdup could reach 0.20126 after stabilization . The shape of the fan blade also enables the carrier to rotate under the action of mixed flow and keep the flushing and pushing with the flow all the times thus ensuring the activity of the biofilm so the sewage treatment effect was enhanced under the same aeration rate . The average removal rate of COD in the carrier reactor was up to 87.75 and the maximum removal rate of NH
+
+@highlight A new suspension carrier with high mass transfer was developed by 3D printing.
+@highlight The motion of the suspension carrier in MBBR was simulated by CFD.
+@highlight The suspension carrier can increase the proportion of micro vortices.
+@highlight The carrier can rotate by itself while rising in the reactor.
+@highlight The average removal rate of COD was 87.75 and NH
+@highlight  N reached 94.77 in MBBR.

@@ -1,0 +1,5 @@
+ In this research a robust optimization approach is proposed to the problem of designing emergency response networks for marine oil spills given uncertainty in the location size and type of the spill . In this regard we formulate two robust models to optimize the allocation of response equipment while considering the underlying uncertainty in each oil spill scenario . An efficient Branch and Cut algorithm is then designed to improve the computational performance . The benefits of applying the robust formulations are illustrated and compared to the non robust model using a realistic case study from Newfoundland .
+
+@highlight Suggesting two robust formulations for the oil spill response planning problem.
+@highlight Devising an efficient Branch and Cut algorithm to improve the computational performance.
+@highlight Demonstrating the value of robust solutions compared to the non robust solutions.

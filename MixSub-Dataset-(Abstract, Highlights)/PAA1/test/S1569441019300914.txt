@@ -1,0 +1,5 @@
+ We report the optical properties of a laser driven two dimensional quantum dot with a hydrogenic impurity exposed to a magnetic field . The effective mass approximation is used to bring out the effect of an intense laser field resulting in dressed Coulomb and confinement potentials on the one electron energy levels and wave functions . The results obtained suggest that the action of the laser field leads to crucial changes in the energy spectra of the system and the impurity binding energy . Furthermore the position and the height of the resonant peaks of the absorption coefficients and refractive index changes depend strongly not only on the geometrical confinement strength but also on the magnetic field and laser radiation through the laser dressed potential .
+
+@highlight The impurity related optical response of a disc shaped quantum dot is investigated.
+@highlight The impurity binding energy can be controlled by adjusting the intense laser field.
+@highlight The peak position and magnitude of the optical parameters crucially depend on external fields.

@@ -1,0 +1,7 @@
+ The study of an airfoil at low Reynolds number regime was found to be a typical problem where the inception of bifurcations leads the flow evolution from a stationary or periodic behaviour to a purely chaotic one . The present work extends the present literature where numerical investigations of the flow field past two dimensional symmetric airfoils were performed by fixing the incidence and changing the Reynolds number . Conversely here the Reynolds number was fixed at
+
+@highlight Numerical study of a stalled symmetric airfoil at low Reynolds number.
+@highlight Discussion of bifurcation and non linear phenomena.
+@highlight Accurate numerical simulations performed with a Vortex Particle Method.
+@highlight Discussion of the time evolution of the forces with links to the wakes topology.
+@highlight Phase portrait diagrams are evaluated for the detection of limit cycles.

@@ -1,0 +1,7 @@
+ Aiming at the rational design and controllable preparation of highly selective fluid catalytic cracking naphtha hydrodesulfurization catalyst a two dimensional lattice Boltzmann method with multi relaxation time collision operator was developed to simulate the intraparticle diffusivities in alumina supports . The simulation results showed that in a series of virtual alumina supports with the identical mesoporous structure but different macroporous structures which were constructed via the random generation of macro mesopores the intraparticle diffusivity increases sharply with the increasing macropore volume and diameter with the one having macropore volume 0.55cm
+
+@highlight Intraparticle diffusivity simulation was used to design the pore structure of HDS catalysts.
+@highlight Sodium polyacrylate together with water was used to tailor the macroporous structure of Al
+@highlight supports.
+@highlight HDS catalysts prepared from Al
+@highlight with tailored macroporous structure showed high HDS selectivity.

@@ -1,0 +1,6 @@
+ Liquid liquid equilibrium data for n heptane p xylene furfural dimethyl sulfoxide ternary systems were measured at 303.15K and 323.15K and atmospheric pressure . Extraction performance of furfural and DMSO were evaluated using distribution coefficient and selectivity according to the measured tie line data . And the results showed that DMSO had better extraction performance than furfural for separation of n heptane and PX . Both UNIQUAC and NRTL models were used to correlate the experimental LLE data and relevant interaction parameters were obtained . Consistency between the measured LLE data and the calculated by these two models was well evaluated by RMSD and maximum absolute deviation . Moreover reliability of binary interaction parameters was confirmed by topological analysis related to the Gibbs tangent plane test .
+
+@highlight LLE for n heptane p xylene furfural or DMSO systems were investigated.
+@highlight DMSO is a suitable extractant for extraction separation of n heptane and p xylene.
+@highlight The UNIQUAC and NRTL models were adopted to correlate the experimental LLE data.
+@highlight The binary interaction parameter values were obtained from the data correlation.

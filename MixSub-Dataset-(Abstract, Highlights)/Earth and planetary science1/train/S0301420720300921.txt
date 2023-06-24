@@ -1,0 +1,7 @@
+ The efficient and sustainable use of resources has gained great importance in combating environmental threats and in keeping humanity out of resource scarcity . An effective way of monitoring and analyzing the state of ecological assets for sustainable resource policy is to understand the triggers of material consumption . To this end this study follows a STIRPAT approach to reveal how domestic material consumption reacts to economic growth income level total factor productivity human capital population and globalization . Considering the transition effects of globalization the study performs panel smooth transition regression on yearly data covering the 20002017 period for the 28 EU countries . Empirical results indicate that economic growth total factor productivity and population increase material consumption when globalization level is below the threshold level . However human capital decreases material usage . On the other hand higher levels of globalization help to decrease material consumption and thus contribute to sustainable resource management .
+
+@highlight Investigates the non linear effects of globalization on material consumption.
+@highlight Follows the STIRPAT model augmented with control variables.
+@highlight Conducts the panel smooth transition regression PSTR .
+@highlight Determines threshold values of globalization in terms of material usage.
+@highlight Reveals that higher levels of globalization help to decrease material consumption.

@@ -1,0 +1,6 @@
+ An in situ FT IR based quantitative analysis model has been designed to track the internal state of solvent mixtures in a CO
+
+@highlight In situ FT IR quantitative analysis for amine based solvent mixtures is implemented.
+@highlight The neural network is used for the regression to reflect the nonlinearity of data.
+@highlight PCA and POD are applied to reduce the redundancy and dimension of raw data.
+@highlight Model performance is checked by leave one out cross validation and in situ test set.

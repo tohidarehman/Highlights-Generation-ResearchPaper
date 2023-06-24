@@ -1,0 +1,5 @@
+ In this paper we first propose a general strategy to implement the Perfectly Matched Layer approach in the most standard numerical schemes used for simulating the dynamics of nonlinear Schrdinger equations . The methods are based on the time splitting Bao etal . or relaxation Besse schemes in time and FFT based pseudospectral discretization method in space . A thorough numerical study is developed for linear and nonlinear problems to understand how the PML approach behaves for a given scheme . The extension to the rotating Gross Pitaevskii equation is then proposed by using the rotating Lagrangian coordinates transformation method Antonelli etal . Bao etal . Garca Ripoll etal . some numerical simulations illustrating the strength of the proposed approach .
+
+@highlight Implementation of PMLs in the framework of standard numerical methods to simulate nonlinear Schrdinger and Gross Pitaevskii equations.
+@highlight Analysis of the accuracy of the various methods.
+@highlight Extension to fast rotating GPE with high nonlinearity.

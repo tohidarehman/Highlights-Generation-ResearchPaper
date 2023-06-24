@@ -1,0 +1,5 @@
+ The gut microbiota and its influence on host metabolism are considered to be an environmental factor that contributes to the progression of many immune and neurodegenerative diseases . However the features of the GM and serum metabolites in Primary open angle glaucoma patients have not been clearly elucidated . The purpose of this research is to explore the gut microbial composition and serum metabolic phenotype in POAG patients . 16S rRNA V4 genes of bacteria from the fecal samples of 30 POAG patients and 30 healthy subjects were sequenced by the Illumina MiSeq platform and then analyzed by QIIME . Their serum samples were analyzed by gas chromatography mass spectrometry based metabolomics . The association between gut microbial species and host circulating metabolites and clinical phenotypes was also analyzed . Compared with controls
+
+@highlight POAG patients have different gut microbiota and serum metabolites with healthy subjects.
+@highlight Gut microbiota and host metabolism might be linked with glaucoma.
+@highlight Gut microbiota and metabolites targeted interventions of glaucoma should be considered in future.

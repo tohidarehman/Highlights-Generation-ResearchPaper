@@ -1,0 +1,8 @@
+ The adsorption of interacting binary mixtures on triangular lattices is studied by combining theory and Monte Carlo simulations . Two theoretical approximations are used in the present work the cluster approximation based on exact counting of adsorption states on small lattices and an extension of the standard quasi chemical approximation that includes two adsorbed species
+
+@highlight Interacting binary mixtures adsorbed on triangular lattices were studied.
+@highlight A lattice gas model was developed.
+@highlight The calculations were performed by Monte Carlo MC quasi chemical QCA and cluster exact approximation CA .
+@highlight The presence of ordered structures in the adsorbed layer was observed.
+@highlight An excellent agreement was found between MC and CA.
+@highlight QCA fails to reproduce the low temperature ordered structures.

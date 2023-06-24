@@ -1,0 +1,7 @@
+ This paper presents a new ceiling mounted workshop Measurement Positioning System compensating for many deficiencies shown by conventional metrology systems especially on the possibility of task oriented designing for coverage ability measurement accuracy and efficiency . A hybrid calibration system consisting of a high precision coordinate control field and standard lengths is developed and implemented for the C wMPS which can be designed concretely to provide both traceability and the ability of local accuracy enhancement . Layout optimization using a genetic algorithm based on grids is applied to design an appropriate layout of the system therefore promotes the system s performance and reduce cost . An experiment carried out at the Guidance Navigation and Control laboratory validates the prominent characteristic of C wMPS and the fitness of the new calibration system and layout optimization method .
+
+@highlight Ceiling mounted transmitter is designed to improve task oriented designing.
+@highlight Constructing an integral measurement field with a unified coordinate reference.
+@highlight Bringing in virtual standard lengths in calibration system as a local accuracy enhancement method.
+@highlight Layout optimization is proposed to improve the performance of the system.
+@highlight Advantages of the proposed methods are verified by experiments in GNC Lab.

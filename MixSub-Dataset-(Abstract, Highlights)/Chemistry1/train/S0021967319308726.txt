@@ -1,0 +1,6 @@
+ Most adsorbent materials used for preconcentrating and thermally desorbing volatile and semi volatile organic compounds in portable or micro gas chromatographic instruments preferentially capture non polar or moderately polar compounds relative to more polar compounds . Here we explore the use of a known trigonaltripyramidal room temperature ionic liquid as a surface modifier for the graphitized carbons Carbopack B and Carbopack X with the goal of enhancing their capacity and selectivity for polar S VOCs . Breakthrough tests were performed by challenging tubes packed with 2.5mg of C B or RTIL coated C B with 13 individual S VOCs including several organophosphorus compounds and reference alkyl and aromatic hydrocarbons of comparable vapor pressures at concentrations ranging from 14 to 130mg m
+
+@highlight With the RTIL capacities for polar e.g. organophosphorus vapors increased 2.5 .
+@highlight With the RTIL capacities for non polar vapors decreased 1126.
+@highlight Trends in capacity were strongly correlated with analyte vapor pressure.
+@highlight Trends in capacity were not well described by LSER models.

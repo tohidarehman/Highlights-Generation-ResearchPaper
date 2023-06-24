@@ -1,0 +1,8 @@
+ Carbohydrate rich waste streams can be used for bioproduction of medium chain carboxylic acids such as caproic acid . The carbohydrates in these streams can be converted to lactic acid as the initial fermentation product which can then be fermented to MCCA by chain elongation . In this process chain elongators compete for lactic acid with other bacterial groups that for instance ferment lactic acid to propionic and acetic acid . Understanding the drivers that control the competition between these two pathways is essential to maximizing MCCA production . This study aimed to investigate the competition between chain elongating and propionic acid producing organisms as a function of operational pH . Operation of long term lactic acid fermenting reactors with varying pH values showed that pH values above 6 resulted in a propionic acid producing community dominated by
+
+@highlight Lactic acid fed microbial communities were exposed to varying pH.
+@highlight pH below 6 resulted in caproic acid production by
+@highlight pH above 6 led to production of propionic acid by
+@highlight and
+@highlight Kinetic effects make chain elongation less favorable at neutral pH.
+@highlight Lactic acid driven chain elongation becomes more exergonic with decreasing pH.

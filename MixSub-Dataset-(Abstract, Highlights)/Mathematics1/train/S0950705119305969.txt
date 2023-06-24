@@ -1,0 +1,7 @@
+ Consistency and consensus play different but essential roles when solving group decision making problems using the analytical hierarchy process in which multiplicative preference relations are used to represent individual pairwise comparison preferences . The existing AHP frameworks developed to manage individual consistency and group consensus have been widely investigated . However in these frameworks the consistency is often destroyed in the consensus reaching process which means that the revised decision makers judgments have little relationship to Saatys original 1 9 9 evaluation scale . This paper outlines a new approach to aid the consensus decision making process for which two heuristic algorithms are developed . The first algorithm is designed to assist the decision maker in achieving a predefined consistency level and the second is designed to achieve consensus while controlling the individual consistency level . Several classical numerical examples are compared to validate the effectiveness of the proposed approach . Finally some simulations are conducted to further demonstrate the feasibility of the proposed approach for general cases .
+
+@highlight A heuristic approach for consistency improvement is proposed.
+@highlight A heuristic approach for consensus building is proposed.
+@highlight The revised preferences belong to the original Saatys 1 9 9 scale.
+@highlight Individual consistency levels are maintained when the consensus goal is achieved.
+@highlight A global strategy for changing preferences is not necessary.

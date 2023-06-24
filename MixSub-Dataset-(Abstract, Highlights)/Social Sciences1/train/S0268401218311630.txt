@@ -1,0 +1,8 @@
+ The competitive advantage offered by flexibility has drawn considerable attention from the academic and practitioner community . The existing literature primarily focuses on means to achieve flexibility through information system exploitation . There is a noticeable absence of a comprehensive flexibility evaluation and implementation framework for organizations engaged in the delivery of software products and services . This paper proposes twenty three practices graded in six maturity levels to fill this gap . These practices will improve the understanding evaluation and implementation of flexibility in the organizational setting .
+
+@highlight There is a noticeable absence of a comprehensive flexibility evaluation and implementation framework for information technology IT organizations engaged in the development of IS and software products.
+@highlight This paper proposes twenty two flexibility practices graded in six maturity levels.
+@highlight The practices reported in this paper will improve the understanding evaluation and implementation of flexibility in an organizational setting.
+@highlight This paper categorizes organizational flexibility using flexibility maturity model provides guidelines for the assessment of flexibility maturity and finally devises ways of tracking its progression from lower to higher levels.
+@highlight The responses from practitioners are factor analyzed to identify practices corresponding to flexibility maturity levels followed by interviews of senior practitioners in the IT organizations.
+@highlight This research provides a fresh perspective of flexibility to both the practitioners and scholars working in IS development.

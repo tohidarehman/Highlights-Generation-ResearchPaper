@@ -1,0 +1,7 @@
+ The glutathione trapping assay is commonly utilized for the screening and characterization of reactive metabolites produced by drug metabolism . This study describes a fluorous derivatization method for a more sensitive and selective analysis of reactive metabolites trapped by GSH using liquid chromatography tandem mass spectrometry . In this study the GSH trapped reactive metabolites which were obtained after incubation of the test compounds with human liver microsome in the presence of GSH and NADPH were derivatized using the perfluoroalkylamine reagent through oxazolone chemistry . Since this reaction enabled the selective modification of the
+
+@highlight A fluorous derivatization method was developed for GSH trapped metabolite analysis.
+@highlight The GSH
+@highlight  carboxyl group was selectively perfluoroalkylated by oxazolone chemistry.
+@highlight The fluorous derivatives could be adequately retained on the fluorous LC column.
+@highlight Desirable ESI properties allowed sensitive detection in MS MS scanning mode.

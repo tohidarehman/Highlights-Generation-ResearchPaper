@@ -1,0 +1,8 @@
+ Here we describe the development and testing of a hybrid system that combines microbial electrolysis and reverse electrodialysis to benefit energy production from seawater . A tubular continuous flow microbial electrolysis cell was used prior to RED to remove multivalent ions Ca
+
+@highlight An MEC was integrated into RED for energy producing seawater pretreatment.
+@highlight A hybrid MEC RED process harvested energy in the forms of hydrogen and electricity.
+@highlight A tubular continuous MEC removed Ca
+@highlight and Mg
+@highlight with efficiencies of 84 and 99 .
+@highlight 26 more power was produced with pretreated seawater compared to untreated seawater.

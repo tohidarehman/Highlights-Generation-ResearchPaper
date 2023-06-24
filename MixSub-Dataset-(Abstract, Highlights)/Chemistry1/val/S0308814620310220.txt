@@ -1,0 +1,6 @@
+ In this study we developed an indirect competitive plasmonic immunoassay using glucose oxidase induced redox reaction to etch Au nanorods for qualitative and quantitative detection of aflatoxin M1 in milk . In this system streptavidin was selected as a linker between biotinylated anti AFM1 monoantibody and biotinylated GOx to form the immunocomplexes bio mAb SA bio GOx . After the oxidation of the glucose and I
+
+@highlight Color change and LSPR peak shift of etched AuNRs is used to sensitively detect AFM1.
+@highlight The cut off value 0.5ng mL for qualitative detection of AFM1 meets FDAs limit.
+@highlight The LOD of the method for detection of AFM1 is 4.1 fold lower than that of ELISA.
+@highlight The method has no cross reaction with 6 toxins and high recovery 85.08 108.23 .

@@ -1,0 +1,9 @@
+ Electron transport layer of perovskite solar cells plays an important role on transferring electrons from perovskite layer to transparent conductive oxide layer strongly affecting PSC performance . In the present study effects of adding graphene quantum dots as a dopant to the mesoscopic TiO
+
+@highlight GQDs were utilized as dopants to improve the performance of TiO
+@highlight ETL based PSCs.
+@highlight GQDs facilitated the charge transfer and suppressed the recombination processes.
+@highlight In the presence of GQDs the PCE and stability of PSCs were dramatically improved.
+@highlight Compared to un doped PSC the PCE of GQDs doped PSC increased from 9.55 to 14.36
+@highlight 2.5vol GQDs TiO
+@highlight ETL based PSC maintained 88 of its initial PCE after 500h.

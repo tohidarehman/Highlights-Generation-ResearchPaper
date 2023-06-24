@@ -1,0 +1,6 @@
+ The large scale outbreak of Zika virus in 20152016 attracted global attention . As of January 2018 137 515 cases of Zika virus were confirmed in the United States and Brazil and 223 477 cases were confirmed in the world by PAHO and WHO . This paper utilizes an existed mathematics model in the Zika virus then analyzes the stability and bifurcation by changing the closed population system to an open system . Moreover this paper establishes an optimal control problem associated with the open population system based on several popular disease intervention strategies frequently used by public health agencies to mitigate the Zika epidemics . Comparisons of traditional Pontryagin s maximum principle and a new memetic algorithm are conducted for different intervention strategies . Also our computational results suggest that continuous optimal control strategies may not be practical in real world applications . Instead the memetic algorithm based discrete is relatively easy to be implemented .
+
+@highlight A new memetic algorithm based optimal control for Zika virus is introduced.
+@highlight Both continuous and discrete optimal solutions are studied for Zika.
+@highlight Stability and bifurcation analysis are discussed for Zika epidemic model.
+@highlight Suggestions on Zika prevention are provided.

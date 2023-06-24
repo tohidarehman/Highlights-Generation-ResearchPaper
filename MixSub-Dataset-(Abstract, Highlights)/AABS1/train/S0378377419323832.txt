@@ -1,0 +1,6 @@
+ Pre planting soil moisture plays an important role in regulating plant emergence rate and yield yet there is a paucity of studies on the response of cotton growth and yield to pre planting soil moisture in arid regions . In this study the CROPGRO Cotton model was used to simulate cotton growth and yield in a mulched drip irrigation system with the interaction of different pre planting soil water contents and irrigation levels during the cotton growing season . This was undertaken to determine the optimal pre planting soil water contents and irrigation levels that would produce the highest cotton yield and biomass values in the model simulations . Experimental data of cotton phenology and the biomass and yield at the maturing stage in 2017 and 2018 was used to calibrate and verify the DSSAT CROPGRO Cotton model outputs . Based on the calibrated CROPGRO Cotton model scenario simulation was performed using three irrigation levels and eight pre planting soil water contents 1.2
+
+@highlight CROPGRO Cotton model satisfactorily simulated seed cotton yield and phenology.
+@highlight Large deviations were observed between simulated and observed biomass values.
+@highlight Optimal pre planting soil water content and irrigation levels were determined.
+@highlight This model can guide cotton production and irrigation management in Tarim Basin.

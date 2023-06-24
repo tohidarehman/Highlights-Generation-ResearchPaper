@@ -1,0 +1,7 @@
+ The scattering of a non paraxial Bessel light sheet by a sphere of arbitrary size is studied in framework of generalized Lorenz Mie theory . The electrical fields of the Bessel light sheet are expanded using the vector angular spectrum decomposition method and the beam shape coefficients of the Bessel light sheet are derived using the method of multipole expansion and vector spherical wave functions . The internal and near surface fields and absorption and extinction efficiency factors are numerically calculated when a Bessel light sheet is incident and the effects of beams order and half cone angle are mainly discussed . Numerical results show that there is strong point convergence in the forward scattering region under the incident of a Bessel light sheet and the internal and near surface fields of Bessel light sheet are very sensitive to the beams order half cone angle etc . Such results have potential applications in the super resolution imaging using a light sheet microscopy .
+
+@highlight The scattering of a non paraxial Bessel light sheet by a sphere of arbitrary size is investigated using GLMT.
+@highlight The BSCs of the Bessel light sheet are calculated using ASDM and VSWFs.
+@highlight The incident internal and near surface fields are numerically calculated.
+@highlight The absorption and extinction efficiencies are analyzed.
+@highlight The influences of the order and half cone angle of the Bessel light sheet are discussed.

@@ -1,0 +1,6 @@
+ Knowledge of the absolute effects of schooling provides a useful reference for the interpretation of the effectiveness of educational interventions . We use discontinuities in test scores between the oldest pupils in one birth cohort and the youngest in the next to assess the absolute effects of schooling . Our study includes 90 of all pupils in year groups 46 of primary education in Northern Ireland . Assignment to year groups is strictly determined by date of birth in Northern Ireland . This creates a situation which parallels randomized controlled experimentation . The findings support the view that the guidelines suggested by Cohen may be overly ambitious when evaluating the effectiveness of educational interventions .
+
+@highlight Regression discontinuity was used to assessed effects of one year schooling.
+@highlight Conventional guidelines for evaluating educational interventions are overly ambitious.
+@highlight Schooling accounts for less than half the growth in reading and math at age 710.
+@highlight Effect sizes for the effect of schooling over one year in primary education from .13 to .42.

@@ -1,0 +1,6 @@
+ Since the financial crisis risk management has been of growing interest to investors and the approach of Value at Risk has gained wide acceptance . Investing in Cryptocurrencies brings not only huge rewards but also huge risks . For this purpose this paper investigates whether Cryptocurrencies investors decisions can rely on the pragmatic and parsimonious approaches for Value at Risk forecasting . Specifically we suggest a parsimonious reflected gamma specification under the GAS framework consider other GAS special cases and the Exponential Weights driven nonparametric methods which fall into the same modelling category as the well known and widely recognised original RiskMetrics
+
+@highlight This paper investigates Cryptocurrencies investors decisions for Value at Risk forecasting.
+@highlight We tested VaR of Cryptocurrencies with EWMA models similar to the RM approach of
+@highlight We found that Laplace GAS specification performs the best at the most of the levels.
+@highlight Data driven nonparametric methods struggle the most in approximating downside tail risks.

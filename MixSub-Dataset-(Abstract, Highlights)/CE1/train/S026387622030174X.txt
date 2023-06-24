@@ -1,0 +1,6 @@
+ The marine access refineries which supply nearly 15 of the global energy requirement constantly encounter uncertainty such as unit unavailability . This uncertainty often arises due to various factors such as pump failure or leakage in tanks . Crude oil scheduling under such uncertain conditions not only compromises the profitability but also compromises the operability of the plant . The study comprehensively analyses the advantages and disadvantages of using preventive and reactive scheduling approaches to handle a commonly encountered tank unavailability uncertainty . Based on these a new hybrid approach which combines both the features from the preventive and reactive approach is developed . This study is important for solving scheduling optimization problem when uncertainty non linearity and multiple objectives are involved . For this purpose three large scale marine access refinery scheduling problems having a time horizon of 7 7 and 14 days were studied .
+
+@highlight Dynamic hybrid crude oil scheduling is solved for unit unavailability uncertainty.
+@highlight Preventive reactive and hybrid approaches are compared.
+@highlight Single and multi objective optimization are studied for crude oil scheduling.
+@highlight Feasibility study of different approaches are studied for tank unavailability.

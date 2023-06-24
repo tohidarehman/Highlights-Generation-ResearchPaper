@@ -1,0 +1,5 @@
+ An analytical method of analyzing the electromagnetic scattering of a Gaussian beam by an infinitely long circular cylinder with a spherical inclusion is presented . The fields within different regions are expanded in terms of appropriate cylindrical or spherical vector wave functions . By applying the integral representation of spherical vector wave functions over cylindrical ones boundary conditions and projection procedure the unknown expansion coefficients are determined . For a localized beam model numerical results of the total scattered field and normalized field intensity distribution are shown and the scattering properties are discussed briefly .
+
+@highlight Gaussian beam scattering by a sphere embedded in an infinitely long circular cylinder is presented.
+@highlight The projection method is applied to the scattering problem.
+@highlight Total scattered field and normalized field intensity distribution are calculated.

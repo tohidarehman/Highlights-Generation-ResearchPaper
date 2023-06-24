@@ -1,0 +1,7 @@
+ Transaminase serves as an attractive biocatalyst for the asymmetric synthesis of chiral amines from prochiral ketones . However the TA reactions suffer from exceedingly unfavorable equilibrium and severe product inhibitions . Most reaction engineering strategies to overcome such limitations have focused on coproduct removal which fails to mitigate enzyme inhibition by the desired amine product . Herein we demonstrated in situ removal of both inhibitory products using ion exchange resin .
+
+@highlight Ion exchange resins afforded virtually inhibition free transaminase reactions.
+@highlight physical removal of both products was established for the first time.
+@highlight Model predictions based on Langmuir analysis enabled process optimization.
+@highlight A batch recirculation reactor was constructed for a preparative scale reaction.
+@highlight Consecutive ion exchange resin columns enabled facile recovery of both products.

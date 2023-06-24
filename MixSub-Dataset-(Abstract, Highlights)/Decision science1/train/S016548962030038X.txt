@@ -1,0 +1,9 @@
+ We define and examine the concept of social acceptability of committees in multi winner elections context . We say that a committee is socially acceptable if each member in this committee is socially acceptable i.e . the number of voters who rank her in their top half of the candidates is at least as large as the number of voters who rank her in the least preferred half otherwise she is unacceptable . We focus on the social acceptability of
+
+@highlight We examine the social acceptability of 
+@highlight  Condorcet committees.
+@highlight We consider the general case and some restricted preference domains.
+@highlight The 
+@highlight  Condorcet committee and social acceptability are difficult to reconcile.
+@highlight A probabilistic analysis is conducted under IAC.
+@highlight Condorcet committees are exposed to social unacceptability to a significant extent.

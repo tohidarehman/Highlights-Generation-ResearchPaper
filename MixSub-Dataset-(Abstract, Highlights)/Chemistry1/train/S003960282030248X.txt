@@ -1,0 +1,11 @@
+ Magnesium dichloride and titanium tetrachloride are key components of ZieglerNatta polymerization catalysts . We report a systematic computational study at M06 2X def TZVP level thus accounting for dispersion on saturation of magnesium dichloride crystallites by titanium tetrachloride . The crystallites are represented by MgCl
+
+@highlight Saturation of MgCl
+@highlight crystallites by TiCl
+@highlight has been studied by DFT
+@highlight  MgCl
+@highlight crystallites favor shapes dominant in 104 surfaces
+@highlight Adsorption of TiCl
+@highlight reverses the stability order in favor of 110 surfaces
+@highlight Immediate surroundings have a marked influence on the adsorption mode
+@highlight Octahedral 6 coordination is achievable at all sites including corners defects

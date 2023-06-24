@@ -1,0 +1,7 @@
+ We examine how passengers react to carriers various overbooking strategies by exploiting the fact that in 2011 Delta launched a bidding system that encourages passengers on an overbooked flight to give up their reserved seats voluntarily . To examine whether Deltas bidding system is effective in increasing the number of passengers being voluntarily bumped we estimate the changes in the number of denied boardings for Delta and other carriers before and after Delta started its bidding system . To address endogeneity and minimize omitted variable bias we employ two step fixed effects Poisson regression models for estimation . The estimation results suggest that Deltas bidding system seems to work as an effective seat inventory management technique that provides an incentive for potential holdouts to give up their reserved seats voluntarily . As a result the bidding system is supposed to keep the number of voluntarily bumped passengers from decreasing . Deltas bidding system seems to effectively keep the number of volunteers relatively constant and more important reduce the number of involuntarily bumped passengers .
+
+@highlight We examine how passengers react to carriers various overbooking strategies.
+@highlight We exploit the fact that in 2011 Delta launched a bidding system.
+@highlight We employ two step fixed effects Poisson regression models for estimation.
+@highlight Deltas bidding system keeps the number of volunteers relatively constant.
+@highlight More important the system reduces the number of involuntarily bumped passengers.

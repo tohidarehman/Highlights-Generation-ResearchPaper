@@ -1,0 +1,5 @@
+ Compressed sensing can recover a signal from a small number of observed transforms of that signal . It mainly consists of two complimentary elements including compressed sampling and computational image reconstruction . In this work we have developed a ghost imaging system and proposed a primal dual interior point compressed sensing algorithm . We also demonstrated the performance of our imaging system and CS algorithm with simulations and experiment compared to conventional approaches . The discrete samples signal can be reconstructed by our CS algorithm . Experimental results show that the proposed compressed imaging method outperforms the conventional CS approaches in both computational time and reconstruction accuracy .
+
+@highlight Developed a ghost imaging system and proposed a primal dual interior point compressed sensing algorithm.
+@highlight The sparsity is not need in advance and the image can be reconstructed with high accuracy.
+@highlight The CS reconstruction framework developed by us has the advantages of fast convergence speed and high image reconstruction accuracy.

@@ -1,0 +1,7 @@
+ A model simulating an autonomous battery electric vehicle system for agricultural field use was created assuming a 200 ha conventional cereal farm in Swedish conditions . The different subsystems were verified against sources in the literature field experiments and general common practice . The model was used to compare two different charging systems for battery electric tractors to each other . A comparative simulation was made with conventional diesel systems fully autonomous or manned for 10hd
+
+@highlight A dynamic discrete event model of a 200 ha Swedish grain farm was constructed.
+@highlight Autonomous electric tractors and diesel counterparts were simulated and compared.
+@highlight Weather and charging queues had high impacts on time requirements.
+@highlight Electric tractors compared well with manned diesel systems in spring operations.
+@highlight Battery exchange systems outperformed conductive charging in most cases studied.

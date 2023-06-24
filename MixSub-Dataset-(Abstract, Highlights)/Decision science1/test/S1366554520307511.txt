@@ -1,0 +1,7 @@
+ The expectation of the largest gap between two consecutive picks in an aisle is a basic building block in modelling the pick travel distance for the largest gap routing policy in a warehouse . Researchers have predominantly used either simulation or recursive algorithms for its estimation . This paper develops analytical expressions for this statistic in both continuous and discrete aisles using the statistical theory of ordered uniform spacings . We further demonstrate how these results can apply to the entire multi aisle warehouse . Our results show that these expressions are accurate and extremely fast to evaluate as compared to the existing approaches .
+
+@highlight The first closed form expression derived for the expectation of the largest gap between consecutive picks in an aisle.
+@highlight The derivation uses the mathematical theory of ordered uniform spacings.
+@highlight Both continuous and discrete aisle assumptions used.
+@highlight The results are used to derive the average pick distance of the largest gap routing in a multi aisle warehouse.
+@highlight A comparison with previous approaches shows that the method is extremely fast and accurate.

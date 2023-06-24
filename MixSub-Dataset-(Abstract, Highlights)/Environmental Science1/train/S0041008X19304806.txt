@@ -1,0 +1,6 @@
+ Acetamide is detected in common foods . Chronic rodent bioassays led to its classification as a group 2B possible human carcinogen due to the induction of liver tumors in rats . We used a toxicogenomics approach in Wistar rats gavaged daily for 7 or 28days at doses of 300 to 1500mg kg day to determine a point of departure and investigate its mode of action . Ki67 labeling was increased at doses 750mkd up to 3.3 fold representing the most sensitive apical endpoint . Differential gene expression analysis by RNA Seq identified 1110 and 1814 differentially expressed genes in male and female rats respectively following 28days of treatment . Down regulated genes were associated with lipid metabolism while up regulated genes included cell signaling immune response and cell cycle functions . Benchmark dose modeling of the Ki67 labeling index determined the BMD
+
+@highlight Toxicogenomics can be used as weight of evidence to derive PODs for risk assessment.
+@highlight Acetamide s POD for cell proliferation was 190mg kg day.
+@highlight Acetamide s rodent cancer induction is not consistent with other rodent carcinogens.
+@highlight There is strong concordance between transcriptional and apical PODs.

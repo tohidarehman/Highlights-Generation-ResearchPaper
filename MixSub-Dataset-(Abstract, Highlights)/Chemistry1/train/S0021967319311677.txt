@@ -1,0 +1,7 @@
+ Two high throughput steady state methods of counter current chromatography separations conventional and closed loop recycling are proposed evaluated and compared . The methods are based on the application of semi continuous sample loading technique the CCC setup includes two mobile phase tanks one with the pure mobile phase and the second with the sample solution in the mobile phase . The mobile phase pump is periodically switching from one tank to another . The sample solution is continuously loaded into the CCC column over a constant time with the constant volumetric rate equal to the flow rate of the pure mobile phase .
+
+@highlight High performance modes of counter current chromatography CCC .
+@highlight Analytical expressions allowing the design and simulation.
+@highlight Examples of simulation presented in Mathcad program.
+@highlight Multiple increase in the performance and effectiveness of CCC.
+@highlight Acceptable agreement between theory and experiment.

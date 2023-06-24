@@ -1,0 +1,7 @@
+ Boltzmann plot of laser produced plasma spectral emission of two Ag I spectral lines at 827.35 and 768.77nm was carried out . Surprisingly two order of magnitude lower inherent transition probabilities of the two Ag I spectral lines could be monitored using optical emission spectroscopy OES technique . Nd YAG laser at 532nm and incident intensities varying from 1.76 to 3.14 GW cm
+
+@highlight The values of the inherent transition probabilities of the Ag I spectral lines at 827.35 and 768.77nm are found two orders of magnitude lower than values calculated by Kurucz et al.
+@highlight The measurements were carried using OES technique to plasma created by laser in laser induced breakdown spectroscopy experiment.
+@highlight Boltzmann plot method was employed utilizing four Ag I lines at 546.54 520.9 328 and 338nm after corrections to spectral lines against effect of self absorption and absolute spectral sensitivity optical setup.
+@highlight The Boltzmann plot was used as calibration line to estimate the amount of deviation of transition probabilities of lines at 827.35 and 768.77nm from the tabulated values.
+@highlight These constant deviations were examined after repeating the experiment at different laser irradiance levels and at different delay times.

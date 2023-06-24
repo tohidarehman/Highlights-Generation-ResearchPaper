@@ -1,0 +1,6 @@
+ Significant increase of plasmonic surface enhancement has been observed in gold coated micron sized inverse pyramids entrapping a gold nanoparticle . The amplification of both surface enhanced Raman and fluorescence signals was found and it was dependent on the size of the trapped gold nanoparticle . The enhancement was found to be 50 times higher for the 250nm diameter nanosphere compared to the 50nm one . Finite differential time domain simulations were performed to determine the near field distribution in the structure and showed that when the nanoparticle protrudes into the hotspot zone of the void coupling of the electromagnetic field occurs and the plasmon related near field enhancement is concentrated into the close vicinity of the nanoparticle mainly into the gaps around the contact points of the curved sphere and the flat pyramid surfaces .
+
+@highlight Giant plasmonic surface enhancement has been observed in gold coated micron sized inverse pyramids entrapping a gold nanoparticle
+@highlight The amplification of both surface enhanced Raman and photoluminescence signals was found
+@highlight Near field enhancement hotspots of the structure were determined using FDTD simulations
+@highlight The plasmon related near field enhancement is concentrated into the close gaps around the tangential points of the curved sphere and the flat pyramid surface

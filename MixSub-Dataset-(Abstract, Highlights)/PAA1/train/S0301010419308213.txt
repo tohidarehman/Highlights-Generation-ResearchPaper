@@ -1,0 +1,6 @@
+ Broadband photosensing properties has been demonstrated using p type CuO nanorods conducting polymer poly polystyrene sulfonate Schottky junction . CuO nanorods have been grown on FTO coated glass substrate by low cost hydrothermal technique . Schottky junction device was fabricated by spin coating the polymer layer on top of the nanorods . The rectifying property and diode parameters of the device have been investigated using current voltage measurements . The build in potential at the nanorods polymer junction was studied using Kelvin Probe Force Microscopy . The photodetector parameters such as transient decay time rise and fall time external quantum efficiency responsivity and detectivity have been studied in details . Such metal oxide semiconductor polymer heterojunction device demonstrated broadband photoresponse with highest EQE 67.5 and responsivity 0.3A W at 560nm under 0.5V reverse bias .
+
+@highlight Photosensing properties of CuO nanorods polymer junction was investigated.
+@highlight Schottky diode parameters of junction were calculated from current voltage study.
+@highlight Built in potential at the junction was determined by Kelvin probe force microscopy.
+@highlight Broadband photosensing behavior was demonstrated from wavelength 300700nm.

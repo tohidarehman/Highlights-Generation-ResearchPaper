@@ -1,0 +1,6 @@
+ Monitoring pests and diseases is an extremely important activity for increasing productivity in agriculture . In this scenario remote sensing coupled with techniques of machine learning offer new prospects for monitoring and identifying characteristic specific patterns such as manifestations of diseases pests and water and nutritional stress . The aim was to use high spatial resolution aerial images to monitor the extent of an attack of yellow sigatoka in a banana crop following the basic assumptions of identification classification quantification and prediction of phenotypic factors . Monthly flights were carried out on a commercial banana plantation using an unmanned aerial vehicle equipped with a 16 megapixel RGB camera GSD of 0.016781m pixel
+
+@highlight High spatial resolution RGB images were obtained using a UAV.
+@highlight Yellow sigatoka was identified in banana leaves using UAV RGB images.
+@highlight Machine learning algorithms were successfully applied to foliar disease assessment.
+@highlight The degree of severity of yellow sigatoka was assessed using images from a UAV.

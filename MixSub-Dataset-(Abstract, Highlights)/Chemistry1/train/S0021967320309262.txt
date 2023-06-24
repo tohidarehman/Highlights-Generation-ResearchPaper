@@ -1,0 +1,7 @@
+ For the faster evaluation of selectivity in reversed phase liquid chromatography of siloxane bonded silica columns using the solvation parameter model a minimal set of calibration compounds is described suitable for mobile phase composition from 20 70 methanol acetonitrile or tetrahydrofuran water . The Kennard Stone uniform mapping algorithm is used to select the calibration compounds from a larger database of compounds with known retention properties used earlier for column selectivity evaluation . Thirty five compounds are shown to be necessary to minimize the standard deviation of the system constants and to minimize the difference between the system constants determined by conventional calibration and the values obtained for the reduced calibration compounds . The models for SunFire C
+
+@highlight Calibration compounds defined for column selectivity evaluation in RPLC.
+@highlight Selectivity evaluated over mobile phase composition range 20 70 v v organic solvent.
+@highlight Facile construction of system maps and correlation diagrams.
+@highlight Reduced calibration models as accurate as traditional models average SE 0.025 .
+@highlight Calibration models had good predictive capability average RMSEP 0.032 .

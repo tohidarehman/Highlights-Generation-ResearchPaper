@@ -1,0 +1,6 @@
+ In the search for a hybrid III V Si photovoltaic technology a tandem GaAsP SiGe solar cell grown on silicon substrate have been developed using SiGe Ge reverse graded buffers . Reverse buffer layers can be made thinner than conventional designs favour the reduction of the threading dislocation density and allow the growth of thicker active layers in the same growth time but also facilitate the appearance of cracks . In this work experimental results of functional tandem solar cell devices manufactured with this approach and strategies for their optimization are presented .
+
+@highlight Reverse graded buffers have been used to implement tandem III V SiGe solar cells grown on silicon substrates.
+@highlight A combined epitaxial process using CVD for the group IV and MBE for the III Vs has been used.
+@highlight A working dual junction solar cell has been demonstrated as a proof of concept.
+@highlight The solar cell performance is limited by a high density of cracks.

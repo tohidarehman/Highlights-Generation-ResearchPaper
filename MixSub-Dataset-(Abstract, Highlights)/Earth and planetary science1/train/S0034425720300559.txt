@@ -1,0 +1,8 @@
+ Satellite remotely sensed fraction of photosynthetically active radiation products are widely used in land surface monitoring and modeling especially for estimating global terrestrial photosynthetic activity through light use efficiency models . PAR absorbed by active chlorophyll APAR
+
+@highlight We intercompared six currently available satellite FPAR products.
+@highlight Their potential relationships with FPAR
+@highlight were evaluated with SIF data.
+@highlight OLCI FPAR showed the best relationships with satellite and airborne nSIF.
+@highlight APAR derived from OLCI FPAR exhibited the best relationship with
+@highlight GPP.

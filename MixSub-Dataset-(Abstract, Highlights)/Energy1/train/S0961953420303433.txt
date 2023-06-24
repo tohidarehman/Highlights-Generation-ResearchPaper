@@ -1,0 +1,8 @@
+ Torrefaction models to predict solid yield enhancement factor and higher heating value of blends of coal and biomass and waste are limited in the literature . In this study Artificial Neural Network and Response Surface Methodology were used to determine the optimum torrefaction process conditions and optimum fuel blend based on the torrefaction variables . Pine sawdust sugarcane bagasse and corn cob were the biomass materials used . Three torrefaction temperatures 200 250 300
+
+@highlight ANN and RSM were used to optimize process variables for torrefaction of waste blends coal PSD WT .
+@highlight Optimum process conditions for the torrefaction were 50 50 300
+@highlight C and 45min for all the blends.
+@highlight Combination of Coal PSD yielded the highest HHV and EF after torrefaction.
+@highlight Torrefaction is not recommended for improving the fuel quality of waste tyre.
+@highlight The ANN model was more reliable than the RSM as a predictive technique for HHV and EF of the blends.

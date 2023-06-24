@@ -1,0 +1,7 @@
+ The identification of the best electrification strategy is a fundamental step to increase energy access in rural areas of developing countries . The objective of the present work is to propose a new geospatial based procedure for rural electrification planning able to select and design an effective energy system for a defined geographical region . The least cost solution among stand alone mini grids and connection to the existing national grid of non electrified communities is identified . Spatial information is exploited to compute renewable resources potential to identify populated areas subdivide them into clusters and to design the electrical network connecting the clusters consumers pursuing the minimization of costs . To this end an iterative minimum path algorithm has been developed by the authors . It is able to approximate the
+
+@highlight A new comprehensive approach for rural electrification planning in developing countries is proposed.
+@highlight The approach allows selecting and designing the most effective electrification solution among grid tie and off grid systems.
+@highlight Geographical Information System data are used as the principal framework of the procedure.
+@highlight Innovative approach for grid topology optimization based on Steiner tree and Dijsktra algorithms
+@highlight The procedure is validated with a real case study in Mozambique.

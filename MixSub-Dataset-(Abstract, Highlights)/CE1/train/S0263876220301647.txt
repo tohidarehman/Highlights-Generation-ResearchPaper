@@ -1,0 +1,6 @@
+ Dynamic simulation of ultrafiltration process is applied to the treatment of chemical mechanical polishing wastewater from microelectronic industry . The ultrafiltration of nanoparticles contained in chemical mechanical polishing wastewater is modelled by using different mathematical equations which are derived from the literature and optimized to the effluent and filtration modes . A series of ultrafiltration experiments at laboratory scale are carried out by using chemical mechanical polishing wastewater to optimize and validate the models . Complete dead end and crossflow ultrafiltration models are developed to simulate the treatment performances of chemical mechanical polishing wastewater under dynamic full scale and different operating conditions thus including filtration and washing steps . Simulations show that the dead end mode is not suitable for chemical mechanical polishing wastewater concentration higher than 100
+
+@highlight Filtration flux model on dead end and crossflow ultrafiltration for CMP wastewaters was proposed.
+@highlight The filtration models were validated by experimental data.
+@highlight Complete robust dynamic dead end and crossflow ultrafiltration process modelling was proposed including filtrations and washes steps.
+@highlight The complete ultrafiltration model allows to design the process.

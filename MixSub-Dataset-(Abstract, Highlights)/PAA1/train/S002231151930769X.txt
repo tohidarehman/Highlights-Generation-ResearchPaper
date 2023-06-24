@@ -1,0 +1,7 @@
+ The effects of temperature and pH on the electrochemical properties of Alloy 600 were studied in oxygenated borate buffer solutions by the measurements of open circuit potential anodic potentiostatic polarization Mott Schottky analysis and electrochemical impedance spectroscopy . At each temperature and pH the stabilized anodic passive current density was independent of the formation potential and the slope of the MS plot for the passive film formed at 0.3 V
+
+@highlight Passive films formed on Alloy 600 up to 300 C in oxygenated borate buffer solution show n type semiconductor character.
+@highlight With increasing temperature passive current density and defect density increased impedance modulus decreased obviously.
+@highlight With increasing pH passive current density decreased and the absolute value of impedance increased slightly.
+@highlight Concentration of cation interstitials is much higher than that of anion vacancies.
+@highlight Deteriorative effect of elevated temperature on alloy corrosion resistance is more significant than the effect of pH.

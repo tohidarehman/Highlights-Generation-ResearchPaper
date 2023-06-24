@@ -1,0 +1,7 @@
+ The development of polymer inorganic composite membrane hybrid electrolytes for use in lithium ion batteries has significantly advanced the innovation of energy storage devices . These membranes consist of monolayered Li ion conducting particles that are firmly embedded in an insulating polymer matrix and can improve conductivity and mechanical characteristics . However the scalability of producing one particle thick membranes remains a challenge . Here we evaluate three different simple processes that may be used to produce composite membranes by examining scanning electron microscope images and measuring conductivity . The conductivity of the membrane produced by the optimal method was 0.49mS cm at 20C which is approximately 5.5 times higher than that of a commercially produced LATP sintered disk . The optimal process described here could be used in industrial applications of both all solid batteries in electric vehicles and flexible all solid state batteries in wearable devices .
+
+@highlight Polymer inorganic hybrid electrolytes can be used in Li batteries of electric cars.
+@highlight A monolayer of Li ion conducting particles was embedded in an insulating polymer.
+@highlight Three scalable methods to produce polymer inorganic hybridized membranes evaluated.
+@highlight Analysis of SEM images and ion conductivity indicates the optimum scalable method.
+@highlight The optimal method produced a membrane with a conductivity of 0.49mS cmat 20C.

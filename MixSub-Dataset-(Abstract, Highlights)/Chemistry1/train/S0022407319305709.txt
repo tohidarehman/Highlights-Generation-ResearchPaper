@@ -1,0 +1,7 @@
+ An automated Aerosol Raman Spectrometer was used to measure approximately 100 000 Raman spectra during a 24 hour sampling period . The approximately 9000 RS that exceeded thresholds for Raman or fluorescence intensity were studied . Unstructured cluster analysis of the initial RS and the RS remaining after approximated fluorescence was removed resulted in clusters which had Raman peaks consistent with quartz calcite dolomite gypsum anhydrite iron oxides biological materials and calcium oxalates and materials that exhibit D and G bands . A set of RS which are dominated by a broad fluorescence and include only not detectable or very small Raman peaks were assigned to a fluorescent materials category with approximately 900 spectra . The temporal changes in the numbers of RS consistent with different materials are illustrated . The highest numbers of RS consistent with oxalates appear during the nighttime . The numbers of RS consistent with some type of soot increased during the day . This increase occurred after PM
+
+@highlight Over 9000 Raman spectra RS of atmospheric aerosol 22.5hrs data were clustered.
+@highlight RS were consistent with black carbon biological particles oxalates and minerals.
+@highlight RS were consistent with quartz orthoclase iron oxides calcite dolomite gypsum.
+@highlight Time series plots show RS consistent with oxalates occurred mostly before 2 PM.
+@highlight Fluorescence spectra in RS were approximated removed from the RS and clustered.

@@ -1,0 +1,7 @@
+ In this article the viscously damped instability arising in the shear jet of west boundary layer governed by the two layer quasi geostrophic equation with a layered topography is analyzed . First the nonlinear stability and the exponential stability of the shear jet is studied . More precisely we derive an upper bound on the Reynolds number
+
+@highlight We derive an upper bound on the Reynolds number below which the shear jet is globally exponentially stable.
+@highlight It is shown that under some boundedness condition on the steepness of the bottom topography and provided that the speed of the steady flow is sufficiently large and the viscosity is less than a threshold the shear jet will lose its stability.
+@highlight After the shear jet loses its stability then there exists a continuous transition in the west boundary layer and a stable periodic solution bifurcating from the shear jet.
+@highlight The stable periodic solution describes the observed circulation in ocean.
+@highlight It shows that the slope of the bottom has effect on the stability of the shear jet while it does not affect the transition type.

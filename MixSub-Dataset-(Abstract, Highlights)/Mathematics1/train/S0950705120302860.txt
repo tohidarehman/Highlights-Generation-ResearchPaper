@@ -1,0 +1,7 @@
+ Entity Linking consists of determinating the entities that best represent the mentions in a document . Mentions can be very ambiguous and can refer to different entities in different contexts . In this paper we present ABACO a semantic annotation system for Entity Linking which addresses name ambiguity assuming that the entity that annotates a mention should be coherent with the main topics of the document . ABACO extracts a sub graph from a knowledge base which interconnects all the candidate entities to annotate each mention in the document . Candidate entities are scored according to their degree of centrality in the knowledge graph and their textual similarity with the topics of the document and worst candidates are pruned from the sub graph . The approach has been validated with 13 datasets and compared with other 11 annotation systems using the GERBIL platform . Results show that ABACO outperforms the other systems for medium large documents .
+
+@highlight Collective disambiguation based on semantic graphs from DBpedia.
+@highlight An efficient knowledge base exploration algorithm based on bidirectional search.
+@highlight Relevance model based on the degree of centrality and semantic similarity.
+@highlight A candidate generation algorithm that builds coherence on candidate entities.
+@highlight ABACO outperforms other annotators for medium large documents.

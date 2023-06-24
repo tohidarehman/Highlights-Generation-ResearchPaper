@@ -1,0 +1,7 @@
+ For pedestrians the risk of dying in a traffic accident is highest on rural roads which are often characterized by a lack of sidewalks and high traffic speed . In fact hitting the pedestrian during an overtaking attempt is a common crash scenario . To develop active safety systems that avoid such crashes it is necessary to understand and model driver behavior during the overtaking maneuvers so that system interventions are acceptable because they happen outside drivers comfort zone . Previous modeling of driver behavior in interactions with pedestrians primarily focused on road crossing scenarios . The aim of this study was instead to address pedestrian overtaking maneuvers on rural roads . We focused our analysis on how drivers adjust their behavior with respect to three safety metrics 1 minimum lateral clearance when passing the pedestrian 2 overtaking speed at that moment and 3 the time to collision at the moment of steering away to start the overtaking maneuver .
+
+@highlight Drivers comfort zone was estimated from naturalistic driving and field test data.
+@highlight Drivers gave less space to pedestrians who were walking against the traffic.
+@highlight Drivers gave less space to pedestrians when an oncoming vehicle was present.
+@highlight Drivers gave less space to pedestrians who walked closer to the lane edge.
+@highlight Results were similar for both naturalistic driving and field test data.

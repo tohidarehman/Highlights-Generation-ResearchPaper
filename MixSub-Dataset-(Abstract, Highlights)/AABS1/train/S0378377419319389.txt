@@ -1,0 +1,14 @@
+ A tomato field experiment under deficit irrigation treatments was established to assess the feasibility of nonlinear mixed models to predict the change in the canopy Normalized Difference Vegetation Index
+
+@highlight Tomato canopy
+@highlight was calculated for each plant using oversegmented multispectral UAV imagery.
+@highlight Irrigation doses 50 70 and 85 ET
+@highlight  induced lower LAI EWT
+@highlight and
+@highlight than control 100 ET
+@highlight  .
+@highlight Volumetric soil moisture resulted in a decreased trend with decreasing water application along the growing season.
+@highlight A three parameter logistic mixed model captured the irrigation treatments effect on
+@highlight growth curves.
+@highlight Goodness of fit for observed and predicted
+@highlight indicated the suitability of the three parameter logistic mixed model.

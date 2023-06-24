@@ -1,0 +1,8 @@
+ The Sustainable Development Goal 6.3.2 of the United Nations focuses on ambient water quality while water clarity simplistically and visually reflect water quality and can potentially support SDG 6.3.2 reporting . In this study based on extensive field data and Sentinel 3 Ocean and Land Color Instrument imagery a random forest regression Secchi depth
+
+@highlight A random forest regression water clarity algorithm was developed for turbid lakes.
+@highlight Performances of six atmospheric correction processors were examined on OLCI data.
+@highlight OLCI showed most lakes were turbid with low
+@highlight in Eastern China.
+@highlight A novel
+@highlight  based scheme was developed for evaluating SDG 6.3.2.

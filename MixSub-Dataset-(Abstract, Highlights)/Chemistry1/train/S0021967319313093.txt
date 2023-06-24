@@ -1,0 +1,6 @@
+ The present paper builds upon previous work on mAb domain contributions to multimodal chromatography by examining how pH can impact mAb surface properties and retention in these systems . Linear salt gradient experiments were carried out between pH 57 for several mAbs with different pI and surface hydrophobicities in four different MM CEX resins at two ligand densities . mAb retention showed an inverse non linear correlation with pH . Changing pH affected the elution order creating unique windows of selectivity in each of the MM CEX resins . One mAb showed a pH dependent spectrum of domain contributions demonstrating that pH can be used to tune the relative importance of the
+
+@highlight Evaluated mAb retention domain contributions and surface properties from pH 57.
+@highlight One mAb showed a pH dependent spectrum of domain contributions.
+@highlight pH can tune the relative importance of Fab vs. Fc binding sites for some mAbs.
+@highlight The titration of Histidine residues plays an important role in this pH range.

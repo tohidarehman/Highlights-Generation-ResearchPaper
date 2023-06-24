@@ -1,0 +1,7 @@
+ Considering the strong non linear properties of rolling element bearings a new model for the dynamic analysis of rotor bearing system especially for the heavy load and high speed condition is proposed in this work . Two types of bearing stiffness are classified and analyzed with physical meanings based on the load deflection curves which can full preserve the geometric and kinematic nature of REBs for the vibration model . The improved numerical integration process based on 4th order Runge Kutta method is described in details . One type of cylindrical bearing with internal clearance is brought in for case study . Complicated non linear vibration behaviors caused by REBs instinct properties are observed . The effects from speed fluctuation unbalance forces external loads on the vibration responses of the system are investigated . This work may provide some references for the structure design vibration prognosis and other engineering applications of the rotor bearing system .
+
+@highlight A dynamic model for rotor bearing system with strong nonlinearity is proposed.
+@highlight Two kinds of bearing stiffness are classified based on their different physical meanings.
+@highlight The numerical computation process based on improved Runge Kutta method is described in details.
+@highlight One type of cylindrical roller bearing is introduced for case study.
+@highlight Strong nonlinear phenomenon and behaviors are observed and discussed.

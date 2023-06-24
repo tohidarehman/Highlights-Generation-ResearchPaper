@@ -1,0 +1,6 @@
+ Many derived Earth Observation products share surface reflectance as a common step in their processing chains . This makes the maintenance and improvement of surface reflectance product quality of fundamental importance to ensure information derived from these downstream products can be trusted . Despite this the literature is relatively light on the implementation of validation methodologies designed for surface reflectance . In response to the need to improve general EO validation methodologies the concept of fiducial reference measurements was created that would produce validation data that is fully characterised and independent with associated uncertainties and traceable to SI .
+
+@highlight Full diffuser angular and spectral characterisation and traceable calibration
+@highlight Development of simplified atmospheric correction uncertainty using Monte Carlo
+@highlight In situ uncertainty based on instrument sampling and procedural contributions
+@highlight Consideration of satellite and in situ measurement quantity condition differences

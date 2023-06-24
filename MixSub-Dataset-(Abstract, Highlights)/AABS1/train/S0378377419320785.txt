@@ -1,0 +1,8 @@
+ The Simple Algorithm for Evapotranspiration Retrieving can be used to estimate surface evapotranspiration . In the process of SAFER parameterization the reference evapotranspiration calculated by the Penman Monteith method was included . However methodologies for estimating ETo that use fewer meteorological variables should be sought mainly to increase the applicability of the method in regions where there are no complete weather stations . Thus the objective of this study was to evaluate the impact of the ETo calculated with estimated data on the calculation of surface evapotranspiration using SAFER ET
+
+@highlight Methodologies of ETo estimation with missing data can be used for the calculation of SAFER evapotranspiration.
+@highlight Solar radiation was the parameter that most affected ETo and consequently ET
+@highlight We recommend using PM with missing U
+@highlight and RH data to estimate ETo as an input to the SAFER algorithm.
+@highlight It is not recommended to use the ETo estimated by Hargreaves Samani for calculating ET
+@highlight in semiarid regions.

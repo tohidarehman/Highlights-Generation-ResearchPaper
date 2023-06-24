@@ -1,0 +1,7 @@
+ We propose a deep learning denoising computational ghost imaging method to obtain a clear object image with a sub Nyquist sampling ratio . We develop an end to end deep neural network for CGI image reconstruction . DDANet uses a one dimensional bucket signals and multiple tunable noise level maps as input and outputs a clear image . We train DDANet with simulated BSs and ground truth pairs and then retrieve the object image directly from an experimental obtained 1 D BSs . The effectiveness of the proposed method is experimentally investigated . The proposed method has practical applications in image denoising and enhancement of the CGI and single pixel computational imaging .
+
+@highlight A deep learning denoising computational ghost imaging method is proposed.
+@highlight A deep neural network is developed for ghost imaging image reconstruction.
+@highlight The object image is restored directly from the one dimensional bucket signals.
+@highlight The proposed scheme have wide potential applications.
+@highlight The proposed scheme can obtain clear images with sub Nyquist sampling ratios.

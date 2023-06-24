@@ -1,0 +1,6 @@
+ An ultrasensitive microchip electrophoresis chemiluminescence assay platform based on separation assisted cascade signal amplification was developed for detection of trace biomolecules . In this work the aptamer was used as a target probe to bindtargetmolecule and triggering cascade signal amplification reaction . The horseradish peroxide labeled DNA was used as signal probe utilizing nucleic acid hybridization and exonuclease cutting technology realized ultrasensitive detection of biomolecules on the MCE CL assay platform . Taking gamma interferon as a model analyte the linear range for IFN detection is 8.010
+
+@highlight An ultrasensitive microchip electrophoresis chemiluminescence assay platform was developed.
+@highlight The assay was based on separation assisted cascade signal amplification to enhance sensitivity.
+@highlight This protocol provides a new platform for the detection of trace biomolecules.
+@highlight The method showed very high sensitivity the detection limit is 1.6 fM and good selectivity.

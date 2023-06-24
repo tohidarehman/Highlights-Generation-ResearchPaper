@@ -1,0 +1,7 @@
+ Redox metabolism plays an essential role in the central metabolic network of all living cells connecting but at the same time separating catabolic and anabolic pathways . Redox metabolism is inherently linked to the excretion of overflow metabolites . Overflow metabolism allows for higher substrate uptake rates potentially outcompeting other microorganisms for the same substrate . Within dynamically changing environments overflow metabolism can act as storage mechanism as is shown in many recently described processes . However for complete understanding of these mechanisms the intracellular state of the metabolism must be elucidated . In recent years progress has been made in the field of metabolomics to improve the accuracy and precision of measurements of intracellular and intercompartmental metabolites . This article highlights several of these recent advances with focus on redox cofactor measurements both fluorescence and mass spectrometry based .
+
+@highlight Storage turnover accumulation and or consumption expand the metabolic flexibility.
+@highlight Intracellular and or extracellular storage can buffer between phases.
+@highlight Conceptually storage and overflow metabolites can have similar effect on dynamic flexibility.
+@highlight Accurately monitoring dynamic changes is essential for understanding metabolism and adaptability.
+@highlight The current techniques are unable to measure the full scope of the temporal and spatial metabolism.

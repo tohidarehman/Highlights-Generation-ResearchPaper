@@ -1,0 +1,7 @@
+ Temperature response thermal decomposition and gas generation are important metrics for evaluating thermal runaway hazards of lithium ion batteries . In this paper the hazards associated with thermally abused LiNi
+
+@highlight Three hazard metrics for thermally abused lithium ion batteries are assessed.
+@highlight Temperature response profiles of lithium ion batteries at four different SOCs are obtained.
+@highlight Thermal decompositions of 90 SOC and 100 SOC lithium ion batteries are analyzed.
+@highlight Gas analysis for thermally abused batteries at different SOCs are performed.
+@highlight 26 gases were detected in the gas products of the 100 SOC battery.

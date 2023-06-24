@@ -1,0 +1,6 @@
+ Recurrence plot is a visual tool to study complex time series . Its construction involves the threshold selection . Recurrence quantification analysis aims at describing the complexity and structural characteristics of RP . Different thresholds produce different quantitative analysis results . In this paper an adaptive threshold selection technique based on cumulative histogram method is proposed . In order to overcome the large computational complexity of CHM we introduce a symbolic representation of time series symbolic aggregate approximation . Through experiments on simulated data and comparing the results of the original threshold selection our modified method shows a certain application prospect . Some interesting results are found when we apply it to the financial stock markets .
+
+@highlight An adaptive method for threshold of recurrence quantification analysis is proposed.
+@highlight Symbolic Aggregate approximation can reduce the computational complexity of the method.
+@highlight Our method is robust to sequence length noise and sampling frequency.
+@highlight Some interesting results are obtained when applied to financial time series.

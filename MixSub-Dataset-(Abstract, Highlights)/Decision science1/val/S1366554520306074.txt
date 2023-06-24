@@ -1,0 +1,6 @@
+ Cooperative package collection is challenging given the lack of contract design to guarantee that the shared last mile logistics provider divides the workload among all partners in a fair way as it may influence the customers carrier choice when sending a package . However the agencys fairness may be influenced by principals individual incentives . To solve this issue we establish a theoretical model with multiple principals and a common agency . We find that the optimal ex ante contract among collusive principals is a profit sharing contract which ensures that the principals have no motivation to take hidden actions to influence the agencys workload division . We also provide the optimal incentive contract between the coalition and the agency .
+
+@highlight Fairness concern from express companies in last mile logistics is eliminated.
+@highlight The optimal ex ante contract among collusive companies is a profit sharing contract.
+@highlight Express companies provide equivalent incentive rates to the shared agency.
+@highlight Heterogeneous express companies can be effectively coordinated.

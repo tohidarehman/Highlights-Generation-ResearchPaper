@@ -1,0 +1,7 @@
+ The rate of coalescence in an electrocoalescer which governs the residence time sensitively depends upon the electrostatic conditions as well as the electrodes arrangement . An experimental study of a cylindrical electrocoalescer vessel for two different modes of operation is reported in this work . The design of the coalescer is optimized for the residence time and water separation . To justify the experimental findings and to unravel more physical insights the single phase electrostatics is simulated using COMSOL Multiphysics software . The volume of the emulsion under the influence of 0.31.0
+
+@highlight Electrocoalescence process is optimized with respect to electrode configuration.
+@highlight Electrocoalescence process is optimized for insulated and grounded mode.
+@highlight Intensity of electric field below which coalescence is poor is determined.
+@highlight COMSOL simulations can be used as a designing tool for an electrocoalescer.
+@highlight Electric current is used as a diagnostic tool to quantify progress of coalescence.

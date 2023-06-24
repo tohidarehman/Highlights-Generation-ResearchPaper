@@ -1,0 +1,7 @@
+ Fracture behavior of elastomer materials is investigated based upon single specimen and multiple specimen test methods using the practically recommended double edge notched tension specimen . Combining analytical experimental and numerical analysis the critical J integral is determined based upon
+
+@highlight Both and factors are generally material dependent for DENT specimen in contrast to the previous reports.
+@highlight Claiming constant for DENT specimen is not correct in general.
+@highlight Using the LEFM based formula 
+@highlight  in place of for DENT specimen is not correct.
+@highlight Numerical estimations of variable factor by using the appropriate constitutive parameters could still be provided.

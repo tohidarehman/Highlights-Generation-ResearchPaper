@@ -1,0 +1,6 @@
+ Photochemical transformations have witnessed a remarkable growth of attention in the past decade due to the popularity of photoredox catalysis and the technological progress in energy efficient light sources . However the scaling of these photon induced processes remains a daunting challenge for chemists and engineers in the industry often discouraging their implementation in the production of fine chemicals and pharmaceuticals . To address this key issue we report herein the development of a conceptually new photochemical reactor called photo Rotor Stator Spinning Disk Reactor . The photocatalyzed gasliquid oxidation of terpinene to the drug ascaridole with Rose Bengal as photocatalyst was achieved with throughputs of over 1kgday
+
+@highlight The RS SDR allows to scale gasliquid photochemical oxidations.
+@highlight An increase in mass transfer improves the selectivity of gasliquid photochemistry.
+@highlight Reduced reaction times are seen due to homogeneous irradiation and intensified mass transport.
+@highlight The RS SDR displays a low pressure drop even at high flow rates.

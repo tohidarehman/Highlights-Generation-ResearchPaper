@@ -1,0 +1,7 @@
+ Matrix Factorization is one of the most popular techniques used in Collaborative Filtering based Recommender System . Most of the MF methods tend to remove sparsity or predict missing ratings . However the prime objective of any RS is to generate recommendation of items where items having higher preferences should be placed at higher positions in the recommendation list . Further the integration of user and item features i.e .
+
+@highlight A novel preference relation based collaborative filtering model is proposed.
+@highlight The proposed model can capture both second and higher order user item interactions.
+@highlight Side information is integrated using matrix co factorization framework.
+@highlight The proposed model is evaluated using standard ranking measures like NDCG and MAP.
+@highlight The proposed model is compared with the current state of the art related methods.

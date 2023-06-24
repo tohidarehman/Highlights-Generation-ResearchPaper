@@ -1,0 +1,7 @@
+ protein refolding is a major rate limiting step in the large scale production of antibody fragments expressed using a microbial source like
+
+@highlight Fab refolding follows a three state folding mechanism.
+@highlight No significant variation in free energy change for Fab unfolding at 15 30 C.
+@highlight The intermediate formation is an overall rate limiting step in Fab refolding.
+@highlight Inter domain disulfide bond formation critically depends upon temperature.
+@highlight Designed a kinetic reaction model for scalable Fab refolding.

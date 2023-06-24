@@ -1,0 +1,6 @@
+ In the subway system passenger crowding in peak hours is likely to cause train delays that easily propagate to following trains resulting in a lower efficiency of the system . Consequently this paper focuses on determining a robust timetable for the trains on the one hand i.e . finding a better timetable to avoid delay propagation as much as possible in case of a crowded subway system . On the other hand this paper considers the energy efficiency i.e . reducing the total energy consumption during operations by selecting appropriate speed profiles and maximizing the utilization of regenerative braking energy . A related mathematical optimization model is formulated with the objective of maximizing the robustness and minimizing the total energy consumption . In order to solve this model an efficient algorithm i.e . simulation based variable neighborhood search algorithm is presented to obtain a good timetable in reasonable amount of time . Finally experiments are implemented to show the performance of the proposed algorithm .
+
+@highlight Propose the adjustment strategies in case of train delays.
+@highlight Propose a method of evaluating the robustness of the train timetable.
+@highlight Provide a method of formulating a robust and energy efficient train timetable.
+@highlight Design a simulation based variable neighborhood search algorithm.

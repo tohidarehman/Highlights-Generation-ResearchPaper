@@ -1,0 +1,7 @@
+ Random parameters model has been demonstrated to be an effective method to account for unobserved heterogeneity that commonly exists in highway crash data . However the predefined single distribution for each random parameter may limit how the unobserved heterogeneity is captured . A more flexible approach is to develop a random parameters model with heterogeneity in means and variances by allowing the mean and variance of potential each random parameter to be an estimable function of explanatory variables . This burgeoning technique for modelling unobserved heterogeneity has been increasingly applied to various safety evaluation scenarios recently . However the predictive performance of this emerging method which determines the practicability of the model for a specific circumstance has never been investigated as far as our knowledge . In addition the explanatory power by including heterogeneous means and variances of random parameters need to be further investigated to confirm the potential merits of this method in crash data analysis .
+
+@highlight A random parameters model with heterogeneity in means variances was estimated.
+@highlight The negative binomial model was more reliable in general for safety analysis.
+@highlight Allowing heterogeneous means variances of random parameters offered more insights.
+@highlight Interactive effects of safety factors on crash frequency were concluded.
+@highlight  fold cross validation method was used to assess the predictability.

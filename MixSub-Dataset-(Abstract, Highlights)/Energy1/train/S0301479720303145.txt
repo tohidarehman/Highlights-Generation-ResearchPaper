@@ -1,0 +1,7 @@
+ Leachate generation from open stockpiles of recycled woodchip materials is potentially harmful to aquatic ecosystems . There is growing interest in using numerical models to simulate leachate generation from outdoor piles but this requires information about the hydraulic properties of the materials . The objectives of this study were to simulate leachate from woodchip piles with the numerical model HYDRUS 3D and to optimize subsets of parameters for single and dual pore flow models with the Bayesian Markov Chain Monte Carlo algorithm DREAM
+
+@highlight Leachate measured over 6 months from field piles of once and twice ground woodchips.
+@highlight Pile responses to natural rain were simulated with a 3 D model to predict leachate.
+@highlight Parameters of single dual pore functions of woodchips were optimized in the 3 D model.
+@highlight The single pore flow model predicted leachate reasonably well for all field piles.
+@highlight Optimized models could best predict leachate from storms under 1cm of rain.

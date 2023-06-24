@@ -1,0 +1,7 @@
+ Path Size Logit route choice models attempt to capture the correlation between routes by including correction terms within the route utility functions . This provides a convenient closed form solution for implementation in traffic network models . The path size terms measure distinctiveness of routes a route is penalised based on the number of other routes sharing its links and the costs of those shared links . Typically real road networks have many very long routes that should be considered unrealistic . Such unrealistic routes are problematic for the Path Size Logit model because they negatively impact the choice probabilities of realistic routes when links are shared . The Generalised Path Size Logit model attempts to address this problem by weighting the contributions of routes to path size terms according to the ratio of route travel costs . However the GPSL model is not internally consistent in how it defines routes as being unrealistic the path size terms consider only travel cost whereas the route choice probability relation considers disutility including the correction term .
+
+@highlight Demonstrate issues with existing Path Size Logit PSL models.
+@highlight Propose a new internally consistent Adaptive PSL that addresses these issues.
+@highlight Proof of existence and uniqueness conditions for Adaptive PSL solutions.
+@highlight Adaptive PSL likelihood formulation and tracked route data MLE procedure.
+@highlight Estimation of PSL models on a large scale network using real GPS data.

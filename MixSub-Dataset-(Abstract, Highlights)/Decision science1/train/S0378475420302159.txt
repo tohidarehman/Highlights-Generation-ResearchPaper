@@ -1,0 +1,6 @@
+ The spread of ideas in online social networks is a crucial phenomenon to understand nowadays the proliferation of fake news and their impact in democracies . This makes necessary to use models that mimic the circulation of rumors . The law of large numbers as well as the probability distribution of contact groups allow us to construct a model with a minimum number of hypotheses . Moreover we can analyze with this model the presence of very polarized groups of individuals who spread a rumor as soon as they know about it . Given only the initial number of individuals who know any news in a population connected by an instant messaging application we first deduce from our model a simple function of time to study the rumor propagation . We then prove that the polarized groups can be detected and quantified from empirical data . Finally we also predict the time required by any rumor to reach a fixed percentage of the population .
+
+@highlight Rumor spreading in social networks is simulated using a probabilistic approach
+@highlight Polarized groups of uncritical senders mindlessly sending rumors are considered
+@highlight An analytical model is fitted that is also used to assess network structure from data
+@highlight Both polarized groups and groups seeding fake news can detected from observations

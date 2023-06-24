@@ -1,0 +1,7 @@
+ Soaking and drying of rice kernels are two very important processes in parboiling . Since diffusion of water through the rice kernels plays a crucial role in the design and operation of parboiling plants it becomes essential to develop models to predict accurately the process of water uptake or removal under various operating conditions . In this study moisture absorption by white rice
+
+@highlight Non linear Fickian diffusion with variable diffusivity and expansion with hydration.
+@highlight First boundary condition immediate surface saturation .
+@highlight Alternative boundary condition two layers with different diffusion properties .
+@highlight Results are validated using previously published data on white rice .
+@highlight Hydration results for chickpea used to test the robustness of the model.

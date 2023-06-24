@@ -1,0 +1,6 @@
+ The accumulation of heat stable salts in the gas sweetening amine units causes several problems including foaming corrosion and fouling . Herein a simple and efficient electromagnetic salt removal process was proposed for the separation of HSS from industrial lean amine solution . In this process HSS were separated through an electro polarization mechanism instead of electrosorption . For this purpose a lab scale concentric flow setup was fabricated using aluminum conduit and rod as an anode and cathode respectively . The effects of the process operational parameters including flow rate applied voltage residence time and pH were investigated . At the best operating conditions a maximum of 15 HSS removal percentage was achieved in one pass having the power consumption of 0.003 Wh L. This study demonstrated the potential usage of EMSR for industrial applications .
+
+@highlight A unique electromagnetic process was designed and tested for the removal of HSS from industrial lean amine.
+@highlight HSS removal depends on the applied voltage feed flowrate and electromagnetic forces.
+@highlight Electromagnetic salt removal EMSR process exhibited higher separation efficiency.
+@highlight EMSR is a cost effective and energy efficient compared to electrodialysis.

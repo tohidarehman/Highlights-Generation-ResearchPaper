@@ -1,0 +1,8 @@
+ Because of the existence of the soluble lithium polysulfides the requirement for an ideal separator for lithium sulfur batteries is higher than that in LIBs . Herein we report a double layered MOF PAN rGO PAN nanofiber membrane as an alternative to commercial polyolefin separators for Li S battery . This PAN based membrane possesses the intrinsic advantages of good mechanical property thermal stability and high electrolyte uptake showing a high lithium ion transference number of 0.81 . The
+
+@highlight The PAN membrane was
+@highlight modified with MOF by LPCVD as the separator.
+@highlight This separator can effectively trap polysulfides and protect the lithium anode.
+@highlight The Li S battery delivered a long lifespan of 600 cycles at 5C.
+@highlight A high capacity of 7.8mAhcm
+@highlight was obtained with sulfur loading of 7.7mgcm

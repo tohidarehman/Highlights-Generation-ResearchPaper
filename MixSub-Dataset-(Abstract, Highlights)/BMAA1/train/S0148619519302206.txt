@@ -1,0 +1,7 @@
+ This study examines the link between returns and volatility of Bitcoin at both contemporaneous and intertemporal levels employing high frequency data . The intraday price variability is proxied by four different measures namely realized variance jump variation downside realized semivariance and negative signed jump variation . The empirical analysis suggests that all realized volatility proxies have a significant and negative contemporaneous relation with Bitcoin returns . On the other hand there is weak evidence of a negative intertemporal relation between returns and realized variance jump variation and downside realized semivariance . Accordingly the existence of a positive risk return trade off in Bitcoin markets seems to be unsubstantiated . The findings are robust even after controlling for a number of relevant determinants of the price formation process of Bitcoin .
+
+@highlight The return volatility relations in Bitcoin markets are examined.
+@highlight Volatility proxies are realized variance downside realized semivariance and negative signed jump variation.
+@highlight The contemporaneous return volatility relation is significantly negative.
+@highlight The intertemporal return volatility relation is negative but weak.
+@highlight Evidence lends no support to the risk return trade off hypothesis in Bitcoin markets.

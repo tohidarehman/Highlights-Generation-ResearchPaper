@@ -1,0 +1,7 @@
+ This paper analyzes the effects of financial globalization on growth in developing countries focusing on its interaction with exchange rate volatility . Based on dynamic panel data models and the two step system generalized method of moments estimator it replicates the method of Gaies et al . and extends it by exploring a new spillover effect of financial globalization in terms of exchange rate volatility measured by six different indicators . The findings show the positive influence of investmentglobalization on growth through the traditional channel of capital accumulation and by reducing the negative impact of exchange rate volatility . These impacts are not insured by indebtednessglobalization thereby shedding light on the governments decision in developing countries on foreign capital control policy . These results are robust to changes in the estimator and variables used .
+
+@highlight Analysis of the effects of financial globalization on economic growth in emerging and developing countries.
+@highlight Exchange rate volatility has a negative impact on long term growth.
+@highlight Use of a two step GMM system method on dynamic panel data with interaction effects.
+@highlight Financial globalization namely investment globalization promotes growth not only directly.
+@highlight Financial globalization promotes growth indirectly by lowering the negative impact of exchange rate volatility.

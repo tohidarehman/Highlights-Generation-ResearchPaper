@@ -1,0 +1,7 @@
+ Ab initio computational methods based on density functional theory to study the structural electronic elastic and phonon properties of Cadmium Telluride were applied . SIESTA method was used for calculations with the generalized gradient approximation for the exchange correlation functional and norm conserving Troullier Martins pseudopotentials . Our calculations are carried out to investigate the high pressure behavior of the hexagonal wurtzite structured CdTe corresponding to the space group of P6
+
+@highlight Structural phase transitions under high pressure are obtained as
+@highlight Seven intermediate states for
+@highlight phase and three intermediate states for
+@highlight phase are predicted.
+@highlight The electronic elastic and vibrational properties of CdTe are also calculated.

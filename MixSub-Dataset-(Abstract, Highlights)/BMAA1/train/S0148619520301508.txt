@@ -1,0 +1,5 @@
+ Using payment diary data Shy shows that the way Americans pay is affected by the denominations of the US dollar and in particular by the availability in ATMs of the 20 note . Shy also proposes a model to provide intuition for this finding . Unfortunately this model lacks generality .
+
+@highlight Shy 2020 shows that Americans payment behavior is affected by the denominations of the US dollar
+@highlight I show that Shys model lacks generality
+@highlight I propose a model that can accommodate multiple denominations

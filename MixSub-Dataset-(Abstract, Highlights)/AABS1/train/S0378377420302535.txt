@@ -1,0 +1,6 @@
+ The Central Valley of California relies on irrigation for crop production but water resources particularly groundwater have reached a critical state due to extended drought periods and overuse by irrigated agriculture . The purpose of the Grape Remote sensing Atmospheric Profile and Evapotranspiration eXperiment project is to improve efficiency in vineyard irrigation through field measurements and modeling efforts using remote sensing . In this study we analyze multi year timeseries of ground based soil moisture and evapotranspiration
+
+@highlight Vines can access water deeper than typical 1meter soil moisture measurement depths.
+@highlight Available water for vines depends on both root zone depth and timing of precipitation.
+@highlight Accurate vineyard water status requires soil moisture and evapotranspiration data.
+@highlight Timing of irrigation requires both soil moisture and evapotranspiration information.

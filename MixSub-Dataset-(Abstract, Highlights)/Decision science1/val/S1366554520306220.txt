@@ -1,0 +1,7 @@
+ A real world truck loading problem is considered for the major non alcoholic beverage bottler in Argentina . The previous manual procedure to define the truck loading plan is improved by automatizing the process through a set of optimization models applying Generalized Disjunctive Programming . Most of the operational practices and restrictions are taken into account . Given that there is flexibility to load products in the trucks a better use of their capacities is obtained and the balance of forces addressed avoids expensive penalties fees . By a set of examples different metrics are tested and good quality results are obtained for an every day practice .
+
+@highlight The truck loading problem for the main soft drink bottler in Argentina is studied.
+@highlight Generalized linear disjunctive programming models are developed.
+@highlight The distribution of loads across the length of the trucks is addressed.
+@highlight Novel equations are included avoiding the hyperstatic characteristic of the system.
+@highlight Different objective functions are assessed to aid managerial decisions.

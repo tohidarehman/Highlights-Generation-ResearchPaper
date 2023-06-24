@@ -1,0 +1,8 @@
+ The extensive use of location based social networks allows for the collection of huge amount of geo tagged data about people activities and costumes within urban context including human mobility regularities . In this context predicting the future position of a mobile object is the key for the implementations of several applications aiming at improving mobility within urban areas . The paper proposes
+
+@highlight The next location prediction problem is formally defined in LBSNs.
+@highlight New method combining sequential patterns and feature based supervised classifier.
+@highlight Spatio temporal features to catch mobility patterns and characteristics of locations.
+@highlight New model for sequential mobility based on sequential movements and user preference.
+@highlight Spatio temporal analysis in three large scale real world social media datasets.
+@highlight Experiments show the approach is effective and outperforms state of the art works.

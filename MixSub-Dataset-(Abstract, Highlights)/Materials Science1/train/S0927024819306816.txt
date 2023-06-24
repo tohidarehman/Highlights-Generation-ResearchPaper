@@ -1,0 +1,11 @@
+ This paper addresses the influence of III V nucleation routines on Ge substrates for the growth of high efficiency multijunction solar cells . Three exemplary nucleation routines with differences in thickness and temperature were evaluated . The resulting open circuit voltage of triple junction solar cells with these designs is significantly affected whereas minimal differences in short circuit current are observed . Electroluminescence measurements show that both the Ge bottom cell and the GaAs middle cell present a V
+
+@highlight III V Ge nucleation routines play an important role when growing high efficiency multijunction solar cells by MOVPE.
+@highlight The Ge bottom cell depends on both the nucleation routine and the thermal load associated to the growth of upper subcells.
+@highlight Nucleation routines affect not only to the Ge cell performance but also to upper layers such as the Ga In As middle cell.
+@highlight Nucleation routines with smaller thermal loads produce notably higher J
+@highlight and V
+@highlight  in single junction Ge solar cells.
+@highlight Once integrated in 3JSCs differences in J
+@highlight evens out while relative distance in V
+@highlight remains the same.

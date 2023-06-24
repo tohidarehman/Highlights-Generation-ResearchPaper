@@ -1,0 +1,6 @@
+ Shaken microwell plates are widely used for early bioprocess development as they allow a large number of experiments to be performed in parallel by using small amount of materials . Despite their widespread use microwell plates have not been characterised from an engineering viewpoint . In this study mixing time measurements were carried out in two wells of square and cylindrical cross sections for small orbital diameter shaker
+
+@highlight Reduced free surface oscillation leads to reduced mixing time in square microwell geometry.
+@highlight Surface tension plays a critical role in the mixing process in square microwell plates.
+@highlight Mixing times are longer in cylinder wells at low shaken speeds when compared to square microwells.
+@highlight Natural frequency is a promising scaling parameter for microwells and larger reactors.

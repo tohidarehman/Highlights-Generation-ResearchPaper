@@ -1,0 +1,7 @@
+ Fast gas chromatography that leverages the high chromatographic efficiency of narrow bore capillary column technology and temperature programming was successfully integrated with a third generation low void volume 3D printed two stage microreactor . Effective management of extra column effect and the capability to perform post column backflushing were achieved with the incorporation of a recently commercialized electronically controlled pneumatic switching device and a deactivated metal three way microdevice .
+
+@highlight Post column reaction with flame ionization detection for one dimensional high speed gas chromatography.
+@highlight Elimination of multi component and multi level calibrations with carbon compound indendepent response.
+@highlight Compatibility with high resolution gas chromatographic columns having internal diameters as narrow as 100m.
+@highlight A three way microdevice interface for effective reduction of extra column effects.
+@highlight Advanced microfluidic pneumatic switching device for accurate low flow control.

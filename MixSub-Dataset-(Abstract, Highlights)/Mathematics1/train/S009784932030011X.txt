@@ -1,0 +1,5 @@
+ RGB D camera based scanning has increased in popularity however raw scanned three dimensional models contain several issues such as fused arms and legs that hinder animation . Here we describe a semiautomatic method that allows generation of a rigged 3D mesh from a raw scanned 3D volume with simple annotations . The method allows a user to annotate a skeleton structure on registered photographs captured in the scanning step followed by automatic cutting of fused body parts using the skeleton information to beautify the cut surface by applying mesh smoothing . The system then generates a skinned 3D mesh based on the user specified 3D skeleton . We tested our method using several raw scanned 3D plush toy models and successfully generated plausible animations .
+
+@highlight A system that allows a user to generate a rigged 3D mesh from the raw scanned 3D volume with simple annotations.
+@highlight An algorithm to cut fused body parts using the skeleton information.
+@highlight An algorithm to beautify the cut surface by mesh smoothing.

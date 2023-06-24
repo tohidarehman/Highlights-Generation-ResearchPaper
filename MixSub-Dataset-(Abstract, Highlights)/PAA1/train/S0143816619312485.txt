@@ -1,0 +1,5 @@
+ A compact and wireless multifunctional human machine interface based on fiber Bragg grating technology is presented . The interface is embedded into a glove and enables the motion capture of a human hand with finger tracking and hand wrist rotation monitoring as well as temperature and contact force detection . For the realization of a complex hand tracking a novel fiber optical rotation sensor based on three dimensional shape sensing with Edge FBG is presented . The data are evaluated within a micro interrogator and wireless transferred to a smart glass in real time . The HMI addressed different applications in motion capture for virtual reality or augmented reality .
+
+@highlight A compact and wireless human machine interface for motion capture gesture recognition and medical therapy based on fiber optical sensor technology.
+@highlight Multifunctional fiber optical sensor platform based on fiber Bragg grating sensors for bending contact force torsion and temperature sensing within a standard telecommunication glass fiber.
+@highlight A novel fiber optical rotation sensor based on so called Edge FBG processed with femtosecond laser point by point writing.

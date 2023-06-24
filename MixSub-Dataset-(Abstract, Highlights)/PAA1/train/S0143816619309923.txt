@@ -1,0 +1,6 @@
+ The paper introduces a method for studying flow dynamics using diffractive optical element based background oriented schlieren . Our method relies on fringe demodulation using root multiple signal classification technique which provides high robustness against noise . Further a graphics processing unit based implementation is proposed which offers significant improvement in computational efficiency and thus enables high speed analysis of flows . The performance of the method is demonstrated via numerical simulations and the practical applicability is also shown by analyzing a diffusion phenomenon in liquids by BOS .
+
+@highlight Fast method for flow analysis using diffractive optical element based BOS technique.
+@highlight Efficient computational methodology based on graphics processing unit assisted implementation.
+@highlight Good tolerance against severe noise.
+@highlight Practical utility demonstrated via simulation and experimental results.

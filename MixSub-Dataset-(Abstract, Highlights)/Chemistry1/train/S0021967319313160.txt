@@ -1,0 +1,7 @@
+ Posaconazole represents a triazole antifungal agent which is used to treat various fungal infections . It contains four chiral centers leading to 16 stereoisomers . With the convergent synthesis route only 11 related stereoisomeric impurities may potentially exist in the active pharmaceutical ingredient . It is a challenge to separate all the stereoisomers in one run . To address this problem a multiple heart cutting chiralchiral two dimensional liquid chromatography method was developed . The multiple heart cutting 2D LC separation was implemented on 2D LC system with three chiral columns with immobilized polysaccharide chiral stationary phases namely Chiralpak IB IC and IF3 . In the system the column Chiralpak IB was used as the
+
+@highlight 2D LC method was developed for separating posaconazole related stereoisomers.
+@highlight Chiralchiral column configuration is necessary for the stereoisomer separation.
+@highlight The 1D effluent has no influence on the performance of 2D separation.
+@highlight 12 posaconazole related stereoisomers can be baseline separated in one run.
+@highlight The method can be used for separation of other chiral drug stereoisomers.

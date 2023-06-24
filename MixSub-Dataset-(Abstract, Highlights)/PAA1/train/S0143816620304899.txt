@@ -1,0 +1,5 @@
+ Based on the extended Huygens Fresnel principle the analytical expressions of the spectrum for Gaussian Schell model vortex beam propagating in biological tissues have been derived . The effects of the field point position the species of the biological tissues spatial correlation of beams on the relative spectral shift of GSMVB passing biological tissues have been investigated using the contour plots . It is shown that the spectral change is somewhat slow on the area near the
+
+@highlight investigate the spectral shift and spectral jump of vortex beam using contour plots.
+@highlight discuss the effect of biological tissue on spectral changes of vortex beam.
+@highlight analyze the influence of spatial correlation on spectral changes of vortex beam.

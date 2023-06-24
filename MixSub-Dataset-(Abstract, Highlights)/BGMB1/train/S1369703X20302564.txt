@@ -1,0 +1,7 @@
+ The microbial production of polyhydroxyalkanoates has attracted huge scientific and industrial interest . However prerequisite to the economically feasible transition from the research scale towards industrial and highly competitive processes is the optimal production of PHAs in a consistent and systematic manner . The use of rigorous experimentally verified mathematical models enabling the optimal dynamic operation of the fermentative production of PHAs is a promising alternative route against any low yield empirical handling implemented so far . The present study investigates the model based dynamic optimization of poly 3 hydroxybutyrate production in
+
+@highlight Model based dynamic optimization of poly 3 hydroxybutyrate production.
+@highlight Use of rigorous and validated macroscopic kinetic and oxygen mass transfer model.
+@highlight Optimal production of PHAs in a consistent and systematic manner.
+@highlight Dynamic optimization scenarios for fed batch and continuous bioreactors.
+@highlight A comparison study of optimal fed batch and continuous PHB production campaign.

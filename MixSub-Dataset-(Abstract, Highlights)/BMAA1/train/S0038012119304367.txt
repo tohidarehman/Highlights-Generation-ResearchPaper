@@ -1,0 +1,5 @@
+ This paper models a resource allocation problem in the political context . Voters and political candidates of two parties are positioned in each of
+
+@highlight We propose a model for resource allocation in a political context to maximize vote or district capture.
+@highlight Candidates of two parties are positioned in an issue space in several districts.
+@highlight Attraction of voters to candidates is modified by optimal fund allocation from a limited global budget by each party.

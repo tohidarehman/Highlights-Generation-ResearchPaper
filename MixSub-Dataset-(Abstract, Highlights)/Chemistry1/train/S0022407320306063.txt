@@ -1,0 +1,6 @@
+ In this paper we present the vector radiative transfer theory for a discrete random medium illuminated by a Gaussian beam . The analysis is based on a plane wave spectrum representation for a Gaussian beam and uses an approach developed previously for a discrete random medium illuminated by a plane electromagnetic wave . Specifically we establish an integral representation for the coherent field define an approximate coherent field that satisfies the differential equation fulfilled by the coherent field corresponding to a plane electromagnetic wave and matches the Gaussian beam at the interface of the particulate medium and finally derive the vector radiative transfer equation . For weakly focused Gaussian beams the resulting equation is the traditional radiative transfer equation .
+
+@highlight Radiative transfer in discrete random media illuminated by a Gaussian beam.
+@highlight Coherent field.
+@highlight Vector radiative transfer equation.
+@highlight Numerical solution of the radiative transfer equation.

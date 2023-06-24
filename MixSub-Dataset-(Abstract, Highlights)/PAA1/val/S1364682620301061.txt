@@ -1,0 +1,6 @@
+ Early detection of disturbances in the atmospheric column its spatio temporal behavior and evolution prior to tropical cyclogenesis over warm ocean surface is a challenging problem . High resolution atmospheric models help to better understand the atmospheric dynamical conditions and instability mechanism triggered by intense air sea interaction leading to the formation of tropical cyclogenesis . Present study performed a series of model based sensitivity experiments to evaluate tropical cyclogenesis lead detection time for five cyclone cases with varying grid resolutions ranging between 27km and 12km in the north Indian Ocean . High resolution Weather Research and Forecast model examined the evolution of pre cyclonic eddy vortices in the vertical atmospheric column associated with
+
+@highlight Early detection of pre cyclonic vortices in the atmospheric column using OW technique.
+@highlight Sensitivity experiments with five severe cyclones during pre and post monsoon seasons.
+@highlight Characteristic differences in eddy lead detection time for pre and post monsoon cyclones.
+@highlight Sensitivity of WRF model grid resolution to lead detection time of pre cyclogenesis.

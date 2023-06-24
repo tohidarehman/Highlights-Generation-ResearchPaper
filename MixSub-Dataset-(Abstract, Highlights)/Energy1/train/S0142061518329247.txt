@@ -1,0 +1,5 @@
+ In this paper we propose a consensus approach to solve the economic dispatch problem with the effect of random delay . The algorithm is distributed and the supply demand balance is always satisfied . The impact of random time delay on the stability of the algorithm is investigated . Furthermore one allowable delay bound is calculated based on the Lyapunov stability condition . Some cases are presented to verify the effectiveness of the proposed scheme .
+
+@highlight Random delays are considered which is more practical.
+@highlight The delay bounds are calcullated.
+@highlight The algorithm is distributed.

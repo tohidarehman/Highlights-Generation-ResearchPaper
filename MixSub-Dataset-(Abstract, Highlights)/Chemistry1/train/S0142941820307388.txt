@@ -1,0 +1,7 @@
+ Transparent optically anisotropic substrates are a crucial component in flexible electronics . Moreover knowing the deflection radii of TOASs is essential to estimate the residual stresses of the thin films deposited on them . This paper proposes a novel measurement method to measure the deflection radii of polyimide substrates . Red green and blue filters and a circularly polarized system were used in the proposed method to investigate the influence of measurement precision on the wavelength of light adopted . Moreover the image averaging technique was adopted to significantly reduce the noise in the fringe . Thus the proposed method could be performed using only one set of image information and the measurement resolution could be improved to the sub grayscale order . The experimental results reveal that red light can be adopted to precisely measure the deflection radii of PI substrates However large errors are caused when green light is used . The experimental results reveal that blue light can not be used to obtain any interferometric fringe patterns to calculate the deflection radius .
+
+@highlight This paper investigated the influence of wavelength of light on the measurement precision.
+@highlight This paper used a circularly polarized system to measure.
+@highlight The image averaging technique was adopted to significantly reduce the noise.
+@highlight The phase was reconstructed from one set of image information.
+@highlight The measurement resolution could be improved to the sub grayscale order.

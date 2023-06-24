@@ -1,0 +1,6 @@
+ This paper introduces a novel approach for synchronised demand capacity balancing within a proposed Collaborative Air Traffic Flow Management framework . The approach is aimed to realise optimising traffic flow and scheduling airspace configuration in a more harmonised manner . Options such as delay assignment and alternative trajectories are intended for regulating the traffic flow . Airspace reconfiguration involves on the other side adjusting the opening schemes of predefined configurations or creating new ones through dynamic sectorisation . Results suggest that using the proposed approach the required system delay can be reduced remarkably whereas the number of opened sectors and the total capacity provision decrease at the same time due to the increased capacity utilisation per operating sector .
+
+@highlight An approach for synchronised DCB is introduced within a collaborative ATFM framework.
+@highlight An interactive trajectory design and airspace configuration process is proposed.
+@highlight An integrated model is presented with all options from the interactive process.
+@highlight Real world data are collected and used to provide an assessment of the approach.

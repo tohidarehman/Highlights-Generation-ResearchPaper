@@ -1,0 +1,7 @@
+ Accurate representations of canopy cover are essential for directing natural resource management efforts targeted at issues such as carbon storage habitat modeling fire spread water resources and ecosystem services . A two phase classification approach utilizing an iterative classification of high resolution aerial imagery to develop training data for a regional scale classification of percentage woody canopy cover using Sentinel 2 imagery is presented in this study and is tested for a large portion of South Texas . The modeled PWCC for the study area belonged to the respective classes as follows PWCC
+
+@highlight Automated tool used to sample high resolution aerial imagery to create training data.
+@highlight Iterative classification of high resolution aerial image tiles across study area.
+@highlight Results from previous step used to train Sentinel 2 classification for entire area.
+@highlight Realistic estimates based on LiDAR reference data comparisons.
+@highlight Sentinel 2 classification produced high quality canopy cover estimates.

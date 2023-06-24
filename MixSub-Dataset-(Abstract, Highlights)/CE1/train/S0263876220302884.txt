@@ -1,0 +1,6 @@
+ This work deals with the kinetic modeling of the synthesis of isobutyl acetate by liquid phase esterification of isobutanol with acetic acid in presence of the heterogeneous catalyst Amberlyst 15 . Based upon a statistical experimental design isothermal batch experiments were performed in the temperature range of 343.15373.15 K at three different catalyst loadings and at different acid to alcohol mole ratios . Preliminary experiments were run to assess the effects of internal and external mass transfer phenomena and they were ruled out based upon the WeiszPrater criterion . Thus further experiments were run at stirring rates of 800 RPM and catalyst particle diameters under 300 m to ensure a kinetic regime . Independent experiments were run to obtain the chemical equilibrium constant at different temperatures and by mean of a vant Hoff equation a H
+
+@highlight Study of esterification of acetic acid and isobutanol under heterogeneous catalysis.
+@highlight Temperature dependence of chemical equilibrium was experimentally evaluated.
+@highlight Amberlyst 15 was used as catalyst under kinetic regime.
+@highlight Reaction kinetics was modeled using a pseudo homogeneous approach.

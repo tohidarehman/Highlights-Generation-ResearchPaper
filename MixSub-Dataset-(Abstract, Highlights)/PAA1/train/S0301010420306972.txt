@@ -1,0 +1,5 @@
+ Spin transport in a methylated DNA molecule sandwiched between ferromagnetic electrodes was examined based on the Landauer formula with the first principles approximation . Although methylation increased the conductance of the DNA molecule the raised width was very small to be discriminated using an analytical method . Contrastingly cytosine methylation affected spin polarization resulting in more than 10 change in the ratio of magnetoresistance . The change in magnetoresistance was enhanced with a certain degree of cytosine methylation whereas segregated cytosine methylation was unable to induce a detectable change in the magnetoresistance . These results suggest the possibility of elucidating the relationship between cytosine methylation and epigenetics by assessing magnetoresistance in a DNA molecule in the future .
+
+@highlight Spin transport in a methylated DNA molecule.
+@highlight A change in the magnetoresistance by methylation of cytosine.
+@highlight Landauer formula with the first principles approximation.

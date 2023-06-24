@@ -1,0 +1,7 @@
+ The innate immune system is the first line of defense against infections with pathogens . It provides direct antiviral mechanisms to suppress the viral life cycle at multiple steps . Innate immune cells are specialized to recognize pathogen infections and activate and modulate adaptive immune responses through antigen presentation co stimulation and release of cytokines and chemokines . Measles virus which causes long lasting immunosuppression and immune amnesia primarily infects and replicates in innate and adaptive immune cells such as dendritic cells macrophages T cells and B cells . To achieve efficient replication measles virus has evolved multiple mechanisms to manipulate innate immune responses by both stimulation and blocking of specific signals necessary for antiviral immunity . This review will highlight our current knowledge in this and address open questions .
+
+@highlight Measles virus modulates innate immune responses through multiple mechanisms.
+@highlight Skewing with DC functions may be central for immunosuppression and immune amnesia.
+@highlight Viral double stranded RNA activates interferon and stress responses.
+@highlight The viral C protein is a polymerase co factor reducing double stranded RNA.
+@highlight The cellular ADAR1 is proviral by editing immunostimulatory double stranded RNA.

@@ -1,0 +1,7 @@
+ In this paper we derive the value of a signal obtained by a traveller prior to the choice of departure time . The signal does not have to be a perfect prediction of the travel time . It is sufficient that it carries information about the travel time . The traveller may then consider the distribution of travel time conditional on the signal to increase her expected utility by making a better informed choice of departure time .
+
+@highlight We derive the value of travel time information in very general setting.
+@highlight Value increases with information quality.
+@highlight Predictable travel time variability may be costly.
+@highlight Examples show analytic calculation of value of travel time information.
+@highlight Results facilitate design and analysis of information policies.

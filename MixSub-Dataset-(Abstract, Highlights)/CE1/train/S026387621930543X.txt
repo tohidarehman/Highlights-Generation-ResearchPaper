@@ -1,0 +1,10 @@
+ Membrane contactor is a technology that intensifies conventional absorption column . However liquid to gas ratios of membrane contactor in existing reports are much higher compared to CO
+
+@highlight Deep CO
+@highlight removal using high pressure membrane contactor was proven able to reduce CO
+@highlight content to 0.005 mol level meeting requirement for atural Gas process.
+@highlight Liquid phase mass transfer resistance was the highest compared to membrane phase and gas phase showing that liquid was the bottleneck for mass transfer.
+@highlight High liquid velocity was favored for better liquid phase mass transfer resulted in high L G ratio in deep CO
+@highlight removal using membrane contactor.
+@highlight Liquid flow rate reduction could not reduce L G effectively as this led to more reduction in CO flux than L G.
+@highlight Membrane module length increase was able to achieve 70 reduction in L G with only 16 reduction in flux offering lower energy consumption compared to conventional packed column in LNG process.

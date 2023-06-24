@@ -1,0 +1,5 @@
+ Utilizing a 4 year longitudinal dataset of 212 public secondary schools from two districts in Nepal I conduct panel regression analyses to determine the association between public school high stakes examination outcomes and measures of private sector competition . I find that there does not seem to be a significant positive or negative association between public school outcomes and the extent of private competition in recent years . However there is evidence to suggest that the gap between public and private school outcomes is higher in localities with higher private sector growth providing suggestive evidence of stratification .
+
+@highlight Public school outcomes are not better when there is greater proximity to more private schools or higher private market share in enrolment.
+@highlight The gap between public and private school outcomes is greater in localities with higher private market share.
+@highlight When only some schools and parents can select and choose it may increase stratification when private market share rises..

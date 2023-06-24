@@ -1,0 +1,5 @@
+ Experimental studies have suggested a role for sex hormones in the etiology of colorectal cancer but epidemiological data are inconclusive . We examined the associations of testosterone estradiol and sex hormone binding globulin with risk of CRC in 206 508 men and 219 106 women enrolled in the UK Biobank . Participants were followed for a median of 7.1 years . Cox proportional hazards models were used to estimate hazard ratios and 95 confidence intervals for CRC risk . In men in multivariable adjusted models testosterone and SHBG were not associated with CRC . Among men in the highest tertile of physical activity SHBG was inversely associated with risk HR The results of this study did not provide support for associations of sex hormones and SHBG with CRC risk .
+
+@highlight Sex hormone binding globulin had an inverse association with colorectal cancer risk in men with high physical activity.
+@highlight Sex hormone binding globulin was not associated with colorectal cancer risk in women.
+@highlight Postmenopausal women with low testosterone had an increased risk of colon cancer.

@@ -1,0 +1,6 @@
+ Previous real time crash prediction models have scarcely used data disaggregated by vehicle type such as light heavy and motorcycles . Thus little effort has been made to quantify the impact of flow composition variables as crash precursors . We analyze the advantages of having access to this data by analyzing two scenarios namely with aggregated and disaggregated data . For each case we build Logistics Regressions and Support Vector Machines models to predict accidents in a major urban expressway in Santiago Chile . Our results show that having access to disaggregated data by vehicle type increases the prediction power up to 30 providing at the same time much better intuition about the actual traffic conditions that may lead to accidents . These results may be useful when evaluating technology investments and developments in urban freeways .
+
+@highlight We analyze the impact of having access to flow composition data for crash prediction.
+@highlight We built SVM and logistic regression models using aggregated and disaggregated data by vehicle type.
+@highlight The results show that the use of disaggregated data could improve the prediction power up to 30 .
+@highlight These results may be useful to evaluate technology investments in expressways.

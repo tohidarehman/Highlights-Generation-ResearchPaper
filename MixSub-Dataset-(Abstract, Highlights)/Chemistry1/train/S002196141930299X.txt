@@ -1,0 +1,7 @@
+ Standard molar enthalpy of vapourisation of 2 hydroxyacetophenone and standard molar enthalpies of sublimation of 3 hydroxyacetophenone and 4 hydroxyacetophenone were obtained from the temperature dependence of vapour pressure measured by the transpiration method . Enthalpy of fusion of 3 hydroxyacetophenone was measured by using DSC . Available from literature primary experimental results on temperature dependences of vapour pressures have been collected and they have been treated uniformly in order to derive vapourisation sublimation enthalpies at the reference temperature 298.15K . The available data were successfully checked for internal correlation . Gas phase molar enthalpies of formation of hydroxyacetophenones calculated by the high level quantum chemical methods G3MP2 and G4 were in good agreement with the experimental results . A set of thermodynamic properties of hydroxyacetophenones was recommended as reliable reference properties for thermochemical calculations . Simple group additivity procedures were developed for estimation of vaporisation enthalpies gas phase and liquid phase enthalpies of formation of substituted benzenes .
+
+@highlight Vapour pressures of hydroxyacetophenones measured by transpiration.
+@highlight Phase transition enthalpies were derived and evaluated.
+@highlight G3MP2 and G4 gaseous enthalpies of formation in agreement with experiment.
+@highlight A set of reliable thermodynamic properties was recommended.
+@highlight Group additivity was developed for prediction of thermodynamic properties.

@@ -1,0 +1,8 @@
+ This paper introduces a Nonlinear Auto Regressive eXogenous Artificial Neural Network model for prediction of spreading dynamics . 1220 experimental data of spreading dynamics of different droplets on various substrates have been collected from literature for model development . The model input parameters are Weber number Ohnesorge number and the tangent of equilibrium contact angle . An auxiliary input has been also added to take into account the irregular time sampling . D optimal design of experiments has been utilized to determine the best parameters for the NARX model . It was found that the prediction capability of NARX model was better in comparison with KC and AGM models . The statistical parameters of the best developed NARX model including mean square error
+
+@highlight NARX ANN model for prediction of droplet spreading dynamic was proposed.
+@highlight The model inputs were three dimensionless numbers
+@highlight  and
+@highlight as well as
+@highlight D optimal design of experiment was utilized to determine the network parameters.
+@highlight Results were compared with not only experimental data but also KC and AGM model.

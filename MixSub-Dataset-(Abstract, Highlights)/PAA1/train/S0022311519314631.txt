@@ -1,0 +1,5 @@
+ The release of fission product and salt compounds from a molten salt reactor fuel under accident conditions was investigated with coupled computer simulations . The thermodynamic modeling of the salt and fission product mixture was performed in The Gibbs Energy Minimization Software GEMS and the obtained compound vapor pressures were exchanged with the severe accident code MELCOR where the evaporation from a salt surface located at the bottom of a confinement building was simulated . The fuel salt considered in the simulations was LiF ThF
+
+@highlight Novel simulation of Cs and I release from the MSR fuel in accident conditions.
+@highlight Mixing effects in the salt reduce fission product release.
+@highlight Mixing affects the speciation of evaporated fission products.

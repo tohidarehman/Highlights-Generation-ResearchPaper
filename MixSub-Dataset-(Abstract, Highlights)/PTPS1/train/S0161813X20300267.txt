@@ -1,0 +1,9 @@
+ Long noncoding RNAs have been defined as critical regulators of various human diseases . However the functions of lncRNAs in Parkinson s disease have not yet been elucidated . In this study we investigated the role of lncRNA AL049437 in PD and its underlying mechanism . An The expression of AL049437 was upregulated while that of miR 205 5p was downregulated in MPTP induced PD mouse model and MPP treated SH SY5Y cells . Silencing of AL049437 mitigated MPP induced neurotoxicity in SH SY5Y cells as demonstrated by increased cell viability and reduced cell apoptosis . Furthermore silencing of AL049437 alleviated MPP induced neuroinflammation and oxidative stress as indicated by the reduction in tumor necrosis factor and interleukin 6 levels and reactive oxygen species production . In addition AL049437 was predominantly localized in the cytoplasm of SH SY5Y cells and functioned as an miR 205 5p sponge . Moreover MAPK1 was identified as a downstream target of miR 205 5p . Remarkably the impact of AL049437 silencing on MPP induced neuronal damage could be blocked by miR 205 5p inhibition or MAPK1 overexpression . Knockdown of lncRNA AL049437 mitigates MPP induced neuronal injury in SH SY5Y cells by regulating the miR 205 5p MAPK1 axis . Our research reveals a novel regulatory mechanism of AL049437 in PD progression .
+
+@highlight Expression levels of AL049437 and miR 205 5p in
+@highlight and
+@highlight PD models.
+@highlight Silencing of AL049437 mitigates MPP induced neurotoxicity in SH SY5Y cells.
+@highlight AL049437 directly interacts with miR 205 5p.
+@highlight MAPK1 is a target gene of miR 205 5p.
+@highlight AL049437 attenuates MPP induced neurotoxicity via the miR 205 5p MAPK1 axis.

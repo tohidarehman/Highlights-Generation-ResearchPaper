@@ -1,0 +1,7 @@
+ The constitutive behavior of polyurea after prolonged exposure to aggressive marine environments including saline water UV radiation and combinations of both was investigated in this study . A diffusion study was performed at several temperatures to determine the effect of temperature on saline water ingression into the polyurea using Crank s method . This diffusion data coupled with Arrhenius methodology allowed for the calculation of an acceleration factor relating laboratory exposure time at elevated temperature to real life service time . Cast cylindrical specimens were exposed to UV radiation saline water and various combinations of UV radiation and saline water . These combinations were a exposure to saline water followed by UV radiation b UV radiation followed by saline water and c saline water and then UV radiation followed by saline water . Uniaxial compressive experiments were conducted on both the virgin and exposed specimens at strain rates of
+
+@highlight Material degradation in saline water is mainly governed by water uptake.
+@highlight UV radiation absorption is highly dependent on surface to volume ratio of specimen.
+@highlight Decrease in the stiffness of polyurea after long term exposure to saline water.
+@highlight Increase in the stiffness of polyurea after long term exposure to UV radiation.
+@highlight Exposure of polyurea to UV radiation prior to seawater increases saturation time.

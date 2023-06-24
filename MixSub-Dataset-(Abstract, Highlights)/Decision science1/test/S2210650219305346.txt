@@ -1,0 +1,7 @@
+ This work presents a novel parallel branch and bound algorithm to efficiently solve to optimality a set of instances of the multi objective flexible job shop scheduling problem for the first time to the very best of our knowledge . It makes use of the well known NSGA II algorithm to initialize its upper bound . The algorithm is implemented for shared memory architectures and among its main features it incorporates a grid representation of the solution space and a concurrent priority queue to store and dispatch the pending sub problems to be solved . We report the optimal Pareto front of thirteen well known instances from the literature which were unknown before . They will be very useful for the scientific community to provide more accuracy in the performance measurement of their algorithms . Indeed we carefully analyze the performance of NSGA II on these instances comparing the results against the optimal ones computed in this work . Extensive computational experiments show that the proposed algorithm using 24 cores achieves a speedup of 15.64x with an efficiency of 65.20 .
+
+@highlight Parallel Branch and Bound for Multi objective Flexible Job Shop Scheduling Problem.
+@highlight A new permutation based representation for FJSSP for reduced search complexity.
+@highlight Novel upper bound based on a grid representation of the Pareto frontier.
+@highlight Integration of a priority queue to first explore the most promising sub problems.
+@highlight Generalized Integer Vector Matrix for integer representations.

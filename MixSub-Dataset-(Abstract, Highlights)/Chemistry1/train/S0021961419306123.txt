@@ -1,0 +1,7 @@
+ The preferential solvation parameters for the self association and the mutual association of each of N N dimethylformamide and propylene carbonate with a co solvent in their binary mixtures as well as the self association of each of these components at infinite dilution in the other component as solvent have been calculated from previously reported experimental data using the inverse Kirkwood Buff integrals approach .
+
+@highlight Self association of N N dimethylformamide mixed with organic solvents.
+@highlight Self association of propylene carbonate mixed with organic solvents.
+@highlight Mutual association of N N dimethylformamide with organic solvents.
+@highlight Mutual association of propylene carbonate with organic solvents.
+@highlight Inverse Kirkwood buff integrals for obtaining the preferential solvation parameters.

@@ -1,0 +1,7 @@
+ Two models for millimeter wave absorption by molecular oxygen in the air are updated . To derive the updated parameter set earlier resonator spectrometer data are refined and recent data on the collisional parameters temperature behavior are taken into account . The updated models provide significantly better agreement between laboratory measurements and calculated absorption band profiles than their earlier versions . The predictive ability of the models is confirmed by new experimental data . The covariance matrix of empirical parameter uncertainties together with absorption calculation uncertainty are evaluated for both updated models . Contributions of the various sources to the total calculation uncertainty are discussed .
+
+@highlight Resonator spectrometer data are re treated with respect to minor systematic errors.
+@highlight Models using two different approaches are revised.
+@highlight Improvement of 60 GHz molecular oxygen band profile modeling is demonstrated.
+@highlight Model parameters set is provided for practical use.
+@highlight Uncertainty and its sources are analyzed.

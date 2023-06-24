@@ -1,0 +1,6 @@
+ This paper presents a novel path tracer algorithm for immersive visualization of Riemannian manifolds . To do this we introduce Riemannian illumination a generalization of classical Computer Graphics illumination models . In this context global light transport is expressed by extending the rendering equation to Riemannian manifolds . Using Monte Carlo integration to solve this equation results in the novel path tracer for Non Euclidean spaces . We discuss its basic principles as well as the general CPU algorithm . Additionally we discuss in detail how to implement a GPU version using the RTX pipeline . Finally we apply the algorithm to render photorealistic inside viewsof the flat torus Poincar sphere and the hyperbolic mirrored dodecahedron . These areexamples of Euclidean spherical and hyperbolic spaces the Thurston classical geometries .
+
+@highlight Introduction of Riemannian global illumination.
+@highlight A path tracer algorithm to approximate the solution of the Riemannian global illumination.
+@highlight A map of the algorithm to the GPU using the RTX platform.
+@highlight We apply the Non Euclidean path tracer to render Photorealistic inside views of the 3D flat torus Poincar sphere and the hyperbolic mirrored dodecahedron. These are examples of the Euclidean spherical and hyperbolic spaces the Thurston classical geometries.

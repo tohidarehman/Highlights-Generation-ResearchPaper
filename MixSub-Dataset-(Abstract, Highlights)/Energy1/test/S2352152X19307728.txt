@@ -1,0 +1,5 @@
+ Preheating batteries in electric vehicles under cold weather conditions is one of the key measures to improve the performance and lifetime of lithium ion batteries . In general preheating can be divided into external heating and internal heating depending on the location of the heat source . External heating methods are usually characterized by low system complexity long heating time and high energy loss while internal heating methods can achieve a shorter heating time a higher heating efficiency and lower impacts on thermal induced aging but at a higher risk in safety . Through reviewing recent progress in the development of preheating methods for lithium ion batteries this paper provides insights on developing new preheating techniques and guidance on the selection of preheating methods .
+
+@highlight Preheating can be divided into external heating and internal heating.
+@highlight The features and the performance of each preheating method are reviewed.
+@highlight The imposing challenges and gaps between research and application are identified.

@@ -1,0 +1,9 @@
+ The optical resonance scattering of a dielectric sphere of arbitrary size illuminated by a polarized Airy beam is studied using the generalized LorenzMie theory . The electric field is derived using the vector angular spectrum decomposition method . The beam shape coefficients are obtained using the multipole expansion method involving vector spherical wave functions . The resonance scattering characteristics are calculated using the GLMT by subtracting a non resonant background of a perfectly conducting impenetrable sphere . The effects of beam polarization the attenuation parameter
+
+@highlight The optical resonance scattering of a dielectric lossless sphere of arbitrary size illuminated by a polarized Airy beam is studied using the GLMT.
+@highlight The BSCs of the polarized Airy beams are calculated using VASDM and VSWFs.
+@highlight The influences of beam polarization attenuation parameter
+@highlight and transverse scale
+@highlight of the incident Airy beam are discussed.
+@highlight The scattering and extinction resonance and interference efficiencies are examined under different parameters.
+@highlight The scattering efficiency for a perfectly conducting sphere the normalized far field scattering intensity and its resonance counterpart are calculated and plotted.

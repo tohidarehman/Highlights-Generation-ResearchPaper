@@ -1,0 +1,7 @@
+ We propose a new method to correct distortions in equirectangular images i.e . images that use the longitude latitude representation to describe the full spherical field of view around a given viewpoint . We show that Mbius transformations are the correct mathematical tool to deal with the conflicting distortions in this setting they are conformal are able to rectify lines perform rotations translations and scales on the sphere and are bijective .
+
+@highlight Spherical imaging benefits from linear blend skinning with Mbius transformations.
+@highlight Our method corrects conflicting distortions in 360 degree images.
+@highlight All user specified lines in the scene appear straight in the result.
+@highlight Objects appear with low conformal distortion in the final image.
+@highlight The user can edit the result through different effects in an intuitive interface.

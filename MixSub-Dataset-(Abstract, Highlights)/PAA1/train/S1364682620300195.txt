@@ -1,0 +1,5 @@
+ In this study we use the level 2 Aeronet inversion products of 19 stations of North Africa the Middle East or downwind of them . The objective is to characterize the degree of anthropization of the corresponding sub regions . For this we define a new dust index I
+
+@highlight A new anthropization index based on Aeronet data is defined.
+@highlight The AERONET inversions do not show any spatial variability of the Saharan dust aerosol.
+@highlight The spatial variability of the dust forcing efficiencies at TOA and BOA reflects that of the surface albedo.

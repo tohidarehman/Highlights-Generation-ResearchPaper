@@ -1,0 +1,13 @@
+ In this work the effects of co solvent and pressure on Michaelis constants at ambient temperature were analyzed for the enzymatic peptide hydrolyses of
+
+@highlight Solubility of
+@highlight  phenylalanine 
+@highlight  nitroanilide was measured in different solvents.
+@highlight Pressure decreases Michaelis constant K
+@highlight for hydrolyses of HPNA and SPNA.
+@highlight TMAO and DMSO decrease K
+@highlight of HPNA while they increase K
+@highlight of SPNA.
+@highlight Co solvent and pressure effects on K
+@highlight were predicted correctly with PC SAFT.
+@highlight Substrate co solvent molecular interactions activity coefficient determine K

@@ -1,0 +1,5 @@
+ Enrichment ratio was treated as a constant in interface segregation kinetic equation while it was confirmed to be a variable experimentally and theoretically . This leads to a large deviation of the calculated concentration from the measured one . In this study a kinetic model revealing the intrinsic variation of enrichment ratio is examined by the experimental results of grain boundary segregation of P in Cr Mo steel and Fe P B alloy . The results are compared to the concentrations calculated by the beginning and equilibrium enrichment ratios respectively . Excellent agreements between the experimental and the calculated curves confirm the quantified variation range of enrichment ratio to be reliable and rational .
+
+@highlight Quantified variation range of enrichment ratio is verified.
+@highlight Experimental results are analyzed based on the proposed kinetic model.
+@highlight Excellent agreement between model and experiments confirms the model to be reliable.

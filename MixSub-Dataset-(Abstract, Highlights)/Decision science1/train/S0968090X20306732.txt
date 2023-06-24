@@ -1,0 +1,6 @@
+ The bus bridging service has always faced problems in severe emergencies or catastrophes that require the large scale evacuation of passengers . This paper provides an alternative evacuation scheme which uses the urban bus network in the case of common metro service disruptions this is modeled by minimizing the total cost of the affected metro passengers through jointly selecting the bus lines and frequencies . The uncertain recovery time of the service disruption and the heterogeneous risk taking behavior of the affected metro passengers are incorporated in the scheme . Therefore we build a linkage between the evacuation service design and the risk taking behavior of passengers . A heuristic algorithm is proposed to calculate the optimal evacuation scheme . A numerical experiment using a real world network is conducted to illustrate the validity of the model and algorithm .
+
+@highlight A coordination evacuation scheme under common metro disruption was proposed.
+@highlight Behavior of the metro passengers under uncertain recovery time was considered.
+@highlight Bus evacuation network and bus frequencies were jointly optimized.
+@highlight A heuristic algorithm for a general metro and urban bus network was designed.

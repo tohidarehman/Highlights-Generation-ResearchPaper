@@ -1,0 +1,9 @@
+ Modulation instability rogue waves and spectral analysis are investigated for the nonlinear Schrdinger equation with the higher order terms . The modulation instability distribution characteristics from the sixth order to eighth order nonlinear Schrdinger equations are studied . Higher order dispersion terms are closely related to the distribution of modulation stability regime and
+
+@highlight High order dispersion terms affect the distribution of the MS regime n order dispersion term corresponds to n 2 modulation stability curves.
+@highlight Parameter a determines the deflection direction deflection angle and width of rogue wave solution while
+@highlight 6 determines the width and amplitude.
+@highlight Based on the spectral analysis rogue waves can be reduced to W shaped soliton so N order rogue waves corresponds to N order W shaped solitons.
+@highlight Arbitrary parameters a and
+@highlight 6 affect the spectrum of first order solution for the sixth order nonlinear Schrdinger equation.
+@highlight Whether spectral analysis method or MI method their transition condition from rogue wave to W shaped soliton is consistent.

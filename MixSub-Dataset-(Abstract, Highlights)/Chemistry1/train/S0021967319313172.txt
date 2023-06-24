@@ -1,0 +1,6 @@
+ Protein purification processes in basic research using KTA liquid chromatography systems are often limited to single sample injections and simple one column purifications . Because many target proteins in structural biology require complex purification protocols the work easily becomes laborious . To streamline and accelerate downstream protein production an ALIAS
+
+@highlight The most frequently used protein purification methods were automated on KTA system.
+@highlight ALIAS autosampler was implemented in purification workflow to increase throughput.
+@highlight Developed multi column schemes reduced human labor and performed precisely in repetitive experiments.
+@highlight Novel system configuration allows the indefinite cycling of column steps.

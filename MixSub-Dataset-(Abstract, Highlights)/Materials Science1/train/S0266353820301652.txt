@@ -1,0 +1,7 @@
+ The behavior of damaged laminates under cyclic load is crucial to the damage tolerance of composite structures . In this experimental study we investigate impact damaged laminates under tensionfatigue loading . For that purpose a tension after impact specimen is designed which exhibits a similar impact behavior like a specimen of the established compression after impact standard . A set of quasi static TAI tests is conducted as a reference for the investigation under cyclic load . A
+
+@highlight A tension after impact TAI test method is established
+@highlight The TAI impact exhibits a similar response like a compression after impact specimen.
+@highlight A slow and stable damage growth was observed under cyclic TAI.
+@highlight The impact damage grows in the load direction.
+@highlight The damage morphology is a deciding characteristic to the damage growth behavior.

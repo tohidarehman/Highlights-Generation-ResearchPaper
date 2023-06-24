@@ -1,0 +1,6 @@
+ A new category of the split step Euler Maruyama types schemes are constructed to study the stochastic differential systems . Under given conditions we analyze the mean square convergence in the strong sense . Also for two class of It test systems we investigate the asymptotic mean square stability . Finally several linear and nonlinear applied test problems are considered to confirm the theoretical results .
+
+@highlight We provided a new category of the split step Euler Maruyama types methods obtained adding the Jacobian matrix of drift function term in the implicit sense to study the stiff stochastic differential systems.
+@highlight Convergence behaviour of the proposed schemes are investigated in the mean square and strong sense.
+@highlight We analyzed the asymptotically mean square stability regions of the one and two dimensional Ito stochastic differential systems with m dimensional multiplicative noise.
+@highlight The results of numerical implementation are reported to confirm the convergence and stability properties.

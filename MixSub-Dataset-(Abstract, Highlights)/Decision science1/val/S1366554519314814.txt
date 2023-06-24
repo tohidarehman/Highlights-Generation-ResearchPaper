@@ -1,0 +1,6 @@
+ This paper studies the vehicle routing problem with mixed backhauls and time windows for city logistics . A time discretized multi commodity network flow optimization model is proposed in an extended state space time network representation where the time dependent pickups and deliveries can be depicted by extending the state dimensions . By implementing an augmented Lagrangian relaxation technique the VRPMBTW is reformulated as a quadratic 01 programming model which is further decomposed into the standard least cost path sub problems and iteratively solved by dynamic programming in a block nonlinear Gauss Seidel framework . The proposed approach is tested on the simple 9 node network and the real world Chicago sketch network .
+
+@highlight Study the vehicle routing problem with mixed backhauls and time windows for the city logistics.
+@highlight Formulate a network flow optimization model in an extended state space time network.
+@highlight Implement an augmented Lagrangian relaxation technique to construct the quadratic 01 programming model.
+@highlight Decompose the model into a series of sub problems solved in a block GaussSeidel framework.

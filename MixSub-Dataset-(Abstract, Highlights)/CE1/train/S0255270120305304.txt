@@ -1,0 +1,6 @@
+ Spray scattering tower with ammonia desulfurization has been drew a widespread attention for its low energy consumption and high desulfurization efficiency . In this work we presented the results of numerical simulations on ammonia desulfurization characteristics in the spray scattering tower . Firstly according to the structure and the flow characteristic of spray scattering tower the flow heat transfer and mass transfer model was established for the spray and bubble zone respectively . Compared with the traditional model the model is consider the flow characterize of bubbles and liquid including bubbles size distribution the dynamic change of bubble size and turbulent kinetic exchange between bubbles and liquid due to flow characterize significantly affect the SO
+
+@highlight Desulfurizing mechanism of spray scattering tower is revealed by simulation.
+@highlight Desulfurizing with ammonia model of spray and bubble zone in the tower was built.
+@highlight Desulfurizing efficiency is mainly affected by liquid gas ratio and immersion depth.
+@highlight The optimized structure of the tower was proposed in this paper.

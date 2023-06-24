@@ -1,0 +1,5 @@
+ Mangrove ecosystems are targeted for many conservation and rehabilitation efforts due to their ability to store large amounts of carbon in their living biomass and soil . Traditional methods to monitor above ground biomass rely on on ground measurements which are expensive labour intensive and cover small spatial scales . Structure from Motion and Multi View Stereo reconstructions from Unmanned Aerial Vehicles imagery have the potential to increase fieldwork efficiency by providing a greater amount of spatial information in less time . However there is still a need to assess the ability of UAV SfM to retrieve structural information of mangrove forests which could pose challenges in areas of high forest complexity and density .
+
+@highlight UAV imagery can be used to assess AGB of natural and rehabilitated mangrove forests.
+@highlight Mangrove tree height and canopy diameter accurately estimated
+@highlight UAVs are more cost effective than on ground surveys AU 50 000 savings per ha .

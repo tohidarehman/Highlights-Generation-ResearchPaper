@@ -1,0 +1,5 @@
+ The application of D D neutron tube is increasingly widespread . The replacement of the original pure titanium target with an alloy target can effectively improve the defects such as embrittled and not flexible of titanium after hydrogen absorption . In this paper a titanium film was prepared by magnetron sputtering and characterized by scanning electron microscope . The prepared titanium target was used to assemble D D neutron tube . The actual operation of the neutron tube was carried out and the neutron yield was measured with the
+
+@highlight The effects of three titanium alloy targets on the neutron output and sputtering resistance of D D neutron tube were studied.
+@highlight A good target film for D D neutron tube is provided.
+@highlight The experimental results verify the reliability of the simulation using SRIM.

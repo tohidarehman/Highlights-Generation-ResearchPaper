@@ -1,0 +1,6 @@
+ The planning of hospital beds is among the most debated problems in healthcare . Despite being an important issue many initiatives have failed to sustain services improvements resulting in high costs and also high refusal rates . The stochastic problem involves conflicting criteria therefore we propose a Simulation Optimisation approach to solve it . The Evolutionary Algorithm NSGA II drives the process and the solutions are validated and evaluated via Discrete Event Simulation . An application is performed in one of the health regions of the state of Minas Gerais Brazil where the public health system assists nearly 80 of the patients . The results pointed out that the proposed approach could find efficient and feasible solutions for the problem . Therefore it is a good alternative to empirical methods currently used in Brazil to set hospital beds allocation .
+
+@highlight A Simulation Optimisation technique is used to allocate hospital beds.
+@highlight Evolutionary Algorithms and Discrete Event Simulation are combined to solve a problem of hospital bed capacity.
+@highlight Use of Parallel Simulation to improve the performance of a Simulation Optimisation model applied in healthcare.
+@highlight An application of Simulation Optimisation is carried out in Brazil for hospital beds allocation.

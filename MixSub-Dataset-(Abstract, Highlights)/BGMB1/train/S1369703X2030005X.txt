@@ -1,0 +1,5 @@
+ The differentiation of human induced pluripotent stem cells into functional hepatocytes has the potential to solve the shortage of human primary liver cells and would be of use in drug screening . In this frame we developed a hiPSCs maturation strategy in microfluidic biochips using a liver on chip approach a promising technology mimicking
+
+@highlight Maturation of hiPSCs derived HLCs is improved by culture in a microfluidic biochip.
+@highlight The tissue formed presents liver specific markers such as Albumin CYP3A4 or the production of urea and cholesterol.
+@highlight Longer maturation might improve the functionality.

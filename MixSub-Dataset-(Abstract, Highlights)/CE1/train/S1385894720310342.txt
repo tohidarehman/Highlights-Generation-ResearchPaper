@@ -1,0 +1,7 @@
+ Microbial fuel cell based biosensors are promising alternative biochemical oxygen demand detection method . However the presence of alternative electron acceptor such as nitrate will interfere BOD detection because of the heterotrophic denitrification . So it is essentially important to investigate how nitrate influences BOD detection and to make correction . In this work standard BOD solution containing 20500mg L BOD was used to evaluate performance of MFC biosensors impacted with 050mg L NO
+
+@highlight The presence of nitrate caused underestimated BOD detection using MFC biosensors.
+@highlight Underestimated BOD detection can be corrected by graphical and mathematical method.
+@highlight Heterotrophic anodic denitrification was priority process over current production.
+@highlight Heterotrophic and autotrophic denitrification jointly removed nitrate in whole MFC.
+@highlight The nitrate in standard solution changed microbial communities of anodic biofilms.

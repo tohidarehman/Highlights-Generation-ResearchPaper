@@ -1,0 +1,7 @@
+ In the present work a 3D numerical study has been performed to investigate the core annular flow of waxy crude oil water in inclined pipes with a gradual expansion . Waxy crudes are highly viscous crude oils that exhibit non Newtonian flow behavior and their efficient transportation is still a technical challenge . In the current work the use of the core annular method for the transportation of waxy crudes which are modeled as viscoplastic fluids is examined comprehensively where the core oil flows in the laminar flow regime and the water flow field is turbulent . The volume of fluid multiphase flow model is used to capture the oil water interface and the SST k
+
+@highlight The waxy crude oil water core annular flows were simulated across inclined pipes with a gradual expansion.
+@highlight A special viscoplastic model was used to model the non Newtonian rheological behavior of waxy crudes.
+@highlight Volume of fluid model was utilized for the capture of the oil water interface.
+@highlight Up to 80 reduction in overall pressure drop was reported as a result of core annular flow formation inside horizontal pipes.
+@highlight The effect of the inclination angle and the expansion angle was comprehensively investigated.

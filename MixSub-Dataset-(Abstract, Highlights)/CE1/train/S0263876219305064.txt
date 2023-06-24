@@ -1,0 +1,6 @@
+ A linear analytical solution to the principal stress cap force balance equations for asymmetrical stress in a circular silo has been derived . Principal stress relationships are linearly through gradients J
+
+@highlight A simple analytical solution for ecc stresses in silos has been obtained.
+@highlight The model compares well with physical data.
+@highlight A dangerous exponential stress regime has been theoretically identified.
+@highlight The model is quick and may be a base case for mode detailed studies.

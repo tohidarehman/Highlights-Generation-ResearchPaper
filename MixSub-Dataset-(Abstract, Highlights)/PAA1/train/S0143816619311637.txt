@@ -1,0 +1,6 @@
+ In this paper we propose Fourier Volumetric Computational Reconstruction which is a new computational integral imaging reconstruction algorithm . It handles physical pixel overlapping by refocusing in the Fourier domain . Thus the longitudinal resolution of the reconstructed 3D image is the same as optical reconstruction . It also considers the lateral resolution limit of integral imaging and minimizes the computational load in CIIR . To verify the improvements in both lateral and longitudinal resolution of the reconstructed 3D image in this paper we implemented optical experiments . To the best of our knowledge this is the first report of the efficient CIIR algorithm that considers the longitudinal and lateral resolution limits of integral imaging .
+
+@highlight Integral imaging II provides full color and full parallax three dimensional images.
+@highlight Computational integral imaging reconstruction CIIR is an essential study to improve various II applications.
+@highlight Most CIIR methods cannot consider the lateral and longitudinal resolution limits simultaneously.
+@highlight Our proposed method achieves optically correct reconstruction by considering both of the limits and the Fourier focusing.

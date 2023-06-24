@@ -1,0 +1,10 @@
+ Photocatalytic reactor design for environmental applications is a major challenging task in heterogeneous photocatalysis because all the three components involved in the process are in different phases pollutant fluid catalyst solid and light photons massless particles . Heterogeneity of photocatalysis makes the reactor design highly inter disciplinary involving the knowledge of chemical mechanical and environmental engineering concepts . So far literatures have focused on optimizing process parameters for specific pollutants but the holistic approach in designing a photocatalytic reactor has been unclear . This article reviews about all types of photocatalytic reactors and compares them with calculated five benchmarks Apparent reaction rate constant Space time yield Photocatalytic space time yield Specific removal rate Electrical energy consumption . It is interpreted that in designing a photocatalytic reactor four important aspects are to be considered
+
+@highlight Five benchmark values are calculated for 24 reactors Apparent reaction rate constant k Space time yield STP Photocatalytic space time yield PSTY Specific removal rate SRR and Electrical energy consumption EEC 
+@highlight Although micro reactors seems to have highest efficiency. But when throughput is considered the better performance is observed for LED based packed bed reactor due to numerous interconnected micro channel pockets.
+@highlight For an ideal photocatalytic reactor design two important parameters are to be balanced 
+@highlight and
+@highlight . Technical viability includes high Throughput and Performance mass transfer whereas Economic viability includes Energy efficiency photon transfer and Cost.
+@highlight Apart from optimizing the process parameters UV light intensity Dissolved oxygen flow rate type of pollutant pollutant concentration catalyst load irradiation time ozonation hydrogen peroxide air flow rate temperature pH the
+@highlight and
+@highlight should be correlated and carefully chosen for an effective photocatalytic process.

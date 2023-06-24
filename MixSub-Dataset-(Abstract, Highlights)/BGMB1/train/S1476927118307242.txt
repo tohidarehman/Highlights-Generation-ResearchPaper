@@ -1,0 +1,6 @@
+ This paper proposed an improved simulated annealing algorithm for protein structure optimization based on a three dimensional AB off lattice model . In the algorithm we provided a general formula used for producing initial solution and designed a multivariable disturbance term relating to the parameters of simulated annealing and a tuned constant to generate neighborhood solution . To avoid missing optimal solution storage operation was performed in searching process . We applied the algorithm to test artificial protein sequences from literature and constructed a benchmark dataset consisting of 10 real protein sequences from the Protein Data Bank . Otherwise we generated C
+
+@highlight The improved algorithm outperforms those reported algorithms on the testing of artificial protein sequences.
+@highlight The improved algorithm can obtain folding conformations with C
+@highlight  RMSD less than 3.0 from PDB structures for real proteins.
+@highlight space filling model can provide dynamic change of protein folding conformation at atomic level.

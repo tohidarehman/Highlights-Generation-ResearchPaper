@@ -1,0 +1,7 @@
+ Coal beneficiation technology using gas solid fluidized bed is a hot topic in recent decade however its proper design and scale up remain a great challenge due to the very complex gas solid flow involved . To this end an Eulerian Lagrangian Lagrangian model was used to intensify the coal beneficiation process by systematically studying the effects of particle property operating gas velocity initial bed height design of gas distributor and the size of fluidized bed . It was found that coal beneficiation process can be improved significantly by using coarser beneficiated coal particles adopting smaller initial bed height and or operating at a properly selected gas velocity all findings indicate that the process intensification can be realized via proper selection of operating conditions the design of gas distributor was critical for process intensification and it should be designed properly to make the gas flow as uniform as possible and there will be no scale up effect if ideally uniform gas flow at the inlet can be achieved . Present study demonstrates that computational fluid dynamics is a cost effective tool for process intensification of gas solid fluidized beds .
+
+@highlight EMMS DPM DEM method was used to simulate gas solid flow containing particles of significantly different sizes.
+@highlight Process intensification was achieved via CFD simulations.
+@highlight The effect of operating conditions was optimized.
+@highlight The effect of the design of gas distributor was studied.
+@highlight The scale up effect was studied.

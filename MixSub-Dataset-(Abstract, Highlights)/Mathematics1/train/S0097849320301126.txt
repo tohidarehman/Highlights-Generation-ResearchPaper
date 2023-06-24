@@ -1,0 +1,5 @@
+ Cryo electron tomography is an imaging technique that allows us to three dimensionally visualize both the structural details of macro molecular assemblies under near native conditions and its cellular context . Electrons strongly interact with biological samples limiting electron dose . The latter limits the signal to noise ratio and hence resolution of an individual tomogram to about 50 . Biological molecules can be obtained by averaging volumes each depicting copies of the molecule allowing for resolutions beyond 4 . To this end the ability to localize and classify components is crucial but challenging due to the low signal to noise ratio . Computational innovation is key to mine biological information from cryo electron tomography .
+
+@highlight Publicly available fully annotated simulated cryo electron tomogram dataset.
+@highlight Benchmark of six learning based methods against template matching baseline.
+@highlight Strong correlation between localization classification performance and molecular weight.

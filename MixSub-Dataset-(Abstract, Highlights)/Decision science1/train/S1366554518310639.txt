@@ -1,0 +1,6 @@
+ This study investigates a problem regarding simultaneous allocations of berths quay cranes and yards in transshipment hubs . Transshipment and import export activities general quay crane assignment decisions and productivity losses incurred by quay crane interference are considered . A mixed integer programming model is proposed to minimize the total cost including speed up cost delay cost penalty cost of vessels and operational cost on container loading and unloading . An iterative heuristic is developed to solve the proposed model . Extensive numerical experiments are conducted to validate the effectiveness of the proposed model and the efficiency of the algorithm .
+
+@highlight Study integrated model for discrete berth allocation quay crane assignment and yard assignment problem.
+@highlight Consider both transshipment activities and import export activities.
+@highlight An iterative heuristic is developed to solve the model on large scale instances.
+@highlight Computational experiments are conducted to verify the effectiveness of the algorithm and model.

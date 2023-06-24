@@ -1,0 +1,6 @@
+ This paper provides sufficient conditions for input to state stability of two interconnected nonlinear impulsive systems whose jump instants are not necessarily identical . Unlike prior results each subsystem is allowed to possess stabilizing or destabilizing flows . In this regard a candidate exponential input to state stable Lyapunov function is constructed for the overall system . Then by bounding the trajectory for each possible combination of impulsive subsystems sufficient conditions are presented which ensure input to state stability of the interconnected system . Furthermore to render the newly derived conditions less conservative the coefficients of the candidate exponential ISS Lyapunov function of each subsystem are considered to be time varying . The applicability of the theoretical outcomes is verified through some numerical examples .
+
+@highlight Input to state stability of two interconnected impulsive systems with a class of non coincident impulse sequences is studied.
+@highlight The coefficients of the candidate exponential ISS Lyapunov function of each subsystem are considered to be time varying.
+@highlight The newly derived conditions demand DT RDT constraints on impulse sequences to ensure input to state stability.
+@highlight Unlike prior results each subsystem is allowed to possess stabilizing or destabilizing flows.

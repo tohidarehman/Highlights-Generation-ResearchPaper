@@ -1,0 +1,7 @@
+ An optimal foraging strategy often requires identifying and choosing the larger amount of food in the presence of multiple options in order to maximize food intake . Food quantity estimation frequently depends on the perceptual ability to segregate food from the surrounding background . In human and nonhuman animals it has recently been shown that the perception of food size is affected by the size of the background on which food is presented with a tendency to overestimate food items encircled by a small background . This perceptual bias resembles an illusory effect known as the Delboeuf illusion . We investigated whether this bias occurs in five fish species zebrafish
+
+@highlight Food size perception could be affected by the context in a suboptimal way.
+@highlight The Delboeuf illusion leads humans to overestimate food size in a small context.
+@highlight We investigated whether this bias occurs in five teleost fish species.
+@highlight The five species had similar performances when presented with illusory trials.
+@highlight Their perceptual bias operated in the opposite direction to that of humans.

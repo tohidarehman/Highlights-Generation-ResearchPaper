@@ -1,0 +1,6 @@
+ The prediction of grasslands plant diversity using satellite image time series is considered in this article . Fifteen months of freely available Sentinel optical and radar data were used to predict taxonomic and functional diversity at the pixel scale over a large geographical extent 40 000km
+
+@highlight Plant diversity of grasslands is estimated using Sentinel 2 time series.
+@highlight Large intra parcel variability in terms of plant diversity index is observed.
+@highlight Large scale prediction is done using random forest regression.
+@highlight Sentinel 1 time series could complement Sentinel 2 time series.

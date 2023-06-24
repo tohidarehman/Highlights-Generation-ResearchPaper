@@ -1,0 +1,6 @@
+ In recent years there has been growing interest in nonlinear inverse problems of spectral analysis for integro differential operators . However in spite of permanently increasing number of works there are still no numerical results in this direction . The first aim of this paper is to fill this gap by developing an effective numerical approach to this class of inverse problems . The second aim is to prove the stability theorem which theoretically justifies our numerical method . As a model situation we consider one important and illustrative class of integro differential operators while the presented method can be extended to more complicated inverse problems . Our approach is based on reducing an inverse problem to some nonlinear integral equation and involves approximation of its solution by entire functions of exponential type . Concrete results of the numerical simulation are provided and discussed .
+
+@highlight Global solution to a nonlinear inverse problem for integro differential operators is given.
+@highlight Stability of the inverse problem in appropriate metrics is established.
+@highlight An effective numerical algorithm is proposed for solving the inverse problem.
+@highlight Results of the numerical simulation are provided and discussed.

@@ -1,0 +1,6 @@
+ In order to design a viable nanoplasmonic device it is essential to be able to control the excitation of plasmon polaritons using an external voltage bias . To achieve this we can employ the phenomenon of electron inelastic tunneling followed by photon excitation and a subsequent launch of the plasmon polariton . Unfortunately this process suffers from low efficiency . In this paper we propose the use of spherical Si and Au nanoantennas to increase the energy conversion from photon to plasmon . We show that size governed Mie resonances of nanoantenna determine the spectral position of peak efficiency . The size of the nanoantenna also determines the efficiency value which can reach up to 25 . This is an order of magnitude higher compared to the case without nanoantenna . An analysis of thermal stability proves that both types of nanoantennas can operate under high current rates at room temperature .
+
+@highlight SPP launch is enhanced by a spherical metal au or all dielectric Si nanoantenna.
+@highlight Spectral position of peak efficiency is related to Mie resonances of nanoantennas.
+@highlight The enhancement originates from electric dipole and electric quadrupole modes.
+@highlight The peak value of the energy conversion efficiency reaches up to 25 .

@@ -1,0 +1,6 @@
+ Independent necessary and sufficient conditions are derived for a social choice correspondence to be the one that selects exactly the Pareto optimal alternatives .
+
+@highlight We characterize the Pareto social choice correspondence 
+@highlight For two alternatives by the Pareto condition and tops in.
+@highlight For three alternatives by those two conditions plus balancedness.
+@highlight For four or more alternatives by those three conditions plus stability.

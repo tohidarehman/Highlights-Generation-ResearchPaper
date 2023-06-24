@@ -1,0 +1,6 @@
+ In this paper we present the investigation of the diffusion mediated processes in a Pt Cu surface alloy . We use the interatomic semiempirical TB SMA interatomic potentials and the self learning kinetic Monte Carlo method to investigate the following processes order disorder phase transition in the Pt Cu surface alloy dissolution of small Pt clusters and electromigration of small vacancy clusters in the topmost layer of the Pt Cu surface alloy . We have fitted the universal parameters of the interatomic TB SMA potentials for the PtCu system . The potentials reproduce bulk properties of copper and platinum as well as properties of the Pt Cu and Pt Cu surface alloys .
+
+@highlight Order disorder phase transition in Pt Cu 001 surface alloy is observed at 350400K.
+@highlight Dissolution of small Pt clusters in the topmost layer of Cu 001 is investigared.
+@highlight Suppression of vacancy clusters electromigration in Pt Cu 001 alloy is predicted.
+@highlight Universal TB SMA potential parameters for Pt Cu 001 and Pt Cu 111 are fitted.

@@ -1,0 +1,5 @@
+ Considering a class of quasiperiodically forced piecewise smooth systems we uncover a dynamic phenomenon in which strange nonchaotic attractors and quasiperiodic attractors coexist in nonsmooth dynamical system obtaining the domains of attraction of these coexisting attractors in parameter space in order to analyze the global dynamics . The global dynamics analysis demonstrates that SNAs are the transition from quasiperiodic attractors to chaotic attractors . The routes to SNAs including torus doubling route torus fractalization route or simply fractal route and intermittency route are also investigated . The characteristics of SNAs are described by dynamical invariants such as the Lyapunov exponent power spectrum phase sensitivity and rational approximations .
+
+@highlight We study the SNAs in a quasiperiodically forced piecewise smooth dynamical system.
+@highlight We uncover a dynamic phenomenon in which quasiperiodic attractors and SNAs coexist in certain parameter intervals.
+@highlight There are three routes to SNAs in this system.

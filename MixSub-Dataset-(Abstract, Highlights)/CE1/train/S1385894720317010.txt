@@ -1,0 +1,6 @@
+ A microfluidic colorimetric system comprising of a colorimetric paper chip device and a microanalysis cassette is presented for detecting the nitrite concentration in foods . In the proposed system 1l of nitrite sample is dropped into the reaction region of the colorimetric paper chip device where its reacts with embedded Griess reagent to produce a pink complex . A color image of the reaction complex is caught using an embedded camera and transmitted to a cell phone within the microanalysis cassette via a WiFi connection . Finally the images were analyzed by self written RGB software to evaluate the nitrite concentration . The results acquired for 11 known nitrite solutions ranging from 1 to 100ppm show that the measured R G B intensity is related to the nitrite concentration and the determination coefficient R
+
+@highlight A microfluidic colorimetric system is presented for detection of nitrite concentration in foods.
+@highlight The system comprises a colorimetric paper chip device and a microanalysis cassette.
+@highlight Nitrite concentrations of 24 commercial food samples are measured.
+@highlight The measurement results deviate by no more than 7.3 versus official method.

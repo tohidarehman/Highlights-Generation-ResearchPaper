@@ -1,0 +1,7 @@
+ Drying of wet wastes from tomato processing industry was investigated as a critical step prior to their valorization to energy and or to value added chemicals . Microwave drying was considered because of its advantages over conventional drying . A lab scale MW oven equipped with automatic temperature control allowed operating at constant temperature rather than at constant magnetron power as occurred in past research . MWD tests were performed in batch mode at three temperatures and the results were compared with those from hot air drying experiments . Based on experimental data an empirical kinetic equation was developed for the microwave drying of tomato wastes as a function of moisture content and temperature . The rate equation was incorporated into a lumped parameter mathematical model for a steady state MWD process which in turn was embedded in an Aspen Plus
+
+@highlight The isothermal microwave drying of tomato processing residues is successfully proven
+@highlight A magnetron on off controller and IR thermography ensure isothermal MW drying
+@highlight Microwave operation reduces the treatment time compared to hot air drying
+@highlight An empirical rate equation is obtained for tomato residues drying under MW heating
+@highlight Gross sizing of a MW drier is done by coding a mathematical model in ASPENPLUS

@@ -1,0 +1,7 @@
+ Pedotransfer functions were often applied to predict the soil water contents at field capacity and permanent wilting point which are the key parameters used in the soil nitrogen biogeochemical models for simulating the nitrate
+
+@highlight Both the PTF prediction and model structural uncertainty were equally important in soil N modelling.
+@highlight The ensemble method produced a very large bias in the prediction of the leachate NO
+@highlight  N concentrations.
+@highlight The ensemble bias correction method can improve the prediction of NO
+@highlight  N leaching in soil.

@@ -1,0 +1,6 @@
+ The specific and sensitive detection of multiple pathogens is critical for the prevention and identification of health and safety related problems . A microchip electrophoresis LED induced fluorescence method combining an aptamer based probe and a novel universal primer duplex polymerase chain reaction process was designed to simultaneously detect two kinds of bacteria . The probe consists of a recognition unit for specifically capturing bacterial cells and eventually releasing complementary DNAs . The two released DNA strands can be simultaneously amplified by a pair of universal primers because of the identical sequences designed at both ends of the two DNA strands . The UP DPCR products of C1 and C2 can be separated and detected by MCE LIF and the heights of the two peaks are correlated with the concentrations of the corresponding bacteria . Here
+
+@highlight MCE based aptasensor for simultaneous detection of two kinds of pathogenic bacteria.
+@highlight A novel universal primer was used in duplex PCR for nucleic acid amplification.
+@highlight This method avoids the lysing of bacterial cells and simplifies duplex PCR process.
+@highlight This method shows low LOD and was used in bacteria detection in defatted milk.

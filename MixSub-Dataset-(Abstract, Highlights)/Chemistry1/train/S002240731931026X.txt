@@ -1,0 +1,5 @@
+ The rovibrational levels for truly bound states were calculated for a weakly interacting dimer comprising an atom and a diatomic molecule . The off diagonal Coriolis corrections were evaluated with perturbation theory . For the Ar HCl dimer as a concrete example the obtained results are compared with those from computer code BOUND J.M . Hutson and C. R. Le Sueur . Comput . Phys . Commun .
+
+@highlight A perturbational treatment of Coriolis interaction in the atom diatom dimer is performed taking the Ar HCl complex as an example.
+@highlight The study of rovibrational level structure is performed using coupled channel formulation.
+@highlight The properties of a perturbation series are discussed the results of perturbation analysis are compared with those from close coupling calculations.

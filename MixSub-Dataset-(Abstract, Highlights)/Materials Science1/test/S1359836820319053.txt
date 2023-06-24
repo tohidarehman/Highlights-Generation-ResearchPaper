@@ -1,0 +1,6 @@
+ Electromagnetic interference shielding composites with high efficiency low conductive fillers and easy available have been attracted the wide attention . Herein the multi walled carbon nanotubes were confined distribution in the surface area of poly to achieve the sandwiched composites by a two step melt compression . First thin PCL MWCNT conductive layers and pure PCL layers with different thickness were melt compressed respectively . Second two PCLNT layers at two sides and one PCL layer in the middle were melt compressed again to form the composites with MWCNTs distribution in the surface area . The sandwiched composites exhibited higher EMI shielding effectiveness than the conventional PCLNT composites with random distribution of MWCNTs . For example the EMI
+
+@highlight Sandwiched composites have higher EMI SE than conventional composites.
+@highlight Thicker surface layers with the same MWCNT loadings have higher EMI SE.
+@highlight Denser MWCNTs in surface layers resulted in higher EMI SE.
+@highlight Microwaves firstly entering high conductive layer leaded to higher EMI SE.

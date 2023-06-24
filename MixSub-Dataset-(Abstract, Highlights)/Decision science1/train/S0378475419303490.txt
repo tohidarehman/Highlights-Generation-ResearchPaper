@@ -1,0 +1,7 @@
+ This work presents a direct way to obtain operational matrices for all complete polynomial basis considering limited intervals by using similarity relations . The algebraic procedure can be applied to any linear operator particularly to the integration and derivative operations . Direct and spectral representations of functions are shown to be equivalent by using the compactness of Dirac notation permitting the simultaneous use of the numerical solution techniques developed for both cases . The similarity methodology is computer oriented emphasizing aspects concerning matrices operations compacting the notation and lowering the computational costs and code elaboration times . To illustrate the operational aspects some integral and differential equations are solved including non orthogonal basis examples showing the generality of the method and the compatibility of the results with those obtained by other recent research works . As the Dirac notation is used the projector operator allows to calculate the precision of the obtained solutions and the error superior limit even if the exact solution is not available .
+
+@highlight A method to obtain operational matrices is developed using similarity properties.
+@highlight The method is based on bracket formalism from Quantum Mechanics.
+@highlight Projection operation is presented as an alternative to obtain operational matrices.
+@highlight The polynomial basis to express the solutions can be orthogonal or not.
+@highlight Reverse verification is used to evaluate the numerical error upper bounds.

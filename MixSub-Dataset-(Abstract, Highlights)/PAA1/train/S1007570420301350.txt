@@ -1,0 +1,8 @@
+ In this paper we develop a mathematical model for the spread of the coronavirus disease 2019 . It is a new
+
+@highlight Mathematical model for coronavirus disease that fits well the spread in China.
+@highlight New
+@highlight  SEIHRD model taking into account undetected infections.
+@highlight Validation of the model with the reported data on China.
+@highlight Estimation of errors when identifying parameters at early stages of the pandemic.
+@highlight Different scenarios to show the impact of undetected cases on the pandemic.

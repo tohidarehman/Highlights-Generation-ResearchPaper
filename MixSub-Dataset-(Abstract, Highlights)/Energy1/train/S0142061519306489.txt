@@ -1,0 +1,5 @@
+ This paper presents a novel algorithm for online identification of the Thvenin equivalent parameters in ac threephase power grids of inductive nature . One unique property of the algorithm is to ensure convergence of the estimated parameters within finite time provided that a weak excitation conditionnecessary for identifying offline parametersis verified . After a finite time the algorithm reduces to a standard recursive leastsquares algorithm to track possible changes in the parameters . Moreover the algorithm requires neither circuit excitation nor active manipulation of the circuit . The proposed algorithm is evaluated via computer simulation and experimental prototyping for a case study consisting of a threephase inverter connected to a mains power source via an inductive circuit . Results show that the proposed method is able to successfully identify the Thvenin equivalent parameters .
+
+@highlight Noninvasive online identification of Thvenin equivalent parameters in ac power grids.
+@highlight Ensured convergence of estimated parameters within finite time.
+@highlight Validation via simulations and experiments in a grid connected inverter system.

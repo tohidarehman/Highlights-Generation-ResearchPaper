@@ -1,0 +1,5 @@
+ This paper reported a dynamic model of bubble expansion for predicting the geometry of the entrapped bubble by considering the elasto vicsco plastic rheology properties of the yield stress fluid and the resistance caused by the ambient yielded region . The yielded region caused by the bubble expansion or collapse is obtained by the Von Mises criterion and the yielded region caused by the buoyancy is obtained by the experiment data . The model can predict the volume and the geometry of the entrapped bubbles in various fluid rheology properties and surface tension . By comparing the bubble geometries obtained from the model and the experiment the results show that the equivalent bubble radius error is less than 0.89 the discrepancies of the maximum width and length for the bubble are less than 4.86 and 3.50 .
+
+@highlight A simplified model for predicting bubble shape in yield stress fluid is established.
+@highlight An experiment to observe shape and entrapment condition of bubbles in Yield stress fluid by reducing vessel pressure is carried out.
+@highlight The yielded region caused by buoyancy depends on liquid yield stress elasticity and bubble volume.

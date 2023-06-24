@@ -1,0 +1,6 @@
+ In this paper we present a method for recognising and inserting space curves on 3D shapes . These curves are identified by a set of vertices and approximated with known curves like helices which characterise particular curves in the digital models of 3D objects . As the curve recognition method we adopt a generalisation of the Hough Transform adapting it to space curves . Through the HT we are able to represent generic classes of space curves not necessarily polynomial like splines and Bzier curves and we obtain a parametric representation of the curves that allows us to select the points and the curvilinear segments to be inserted directly as constraints in the 3D mesh thus creating a new
+
+@highlight Hough transform based recognition of feature curves on 3D models.
+@highlight Extraction of parametric space curves on surfaces.
+@highlight Curve constraint insertion in triangle meshes.
+@highlight Triangle meshes with hybrid linear and curvilinear elements.

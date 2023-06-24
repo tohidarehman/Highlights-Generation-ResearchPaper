@@ -1,0 +1,5 @@
+ In generalized LorenzMie theory applied to structured beams the evaluation of beam shape coefficients constitutes a challenge . In this paper we propose to calculate BSCs of fundamental nondiffracting beams cosine beams Bessel beams Mathieu beams and parabolic beams . The aim of our method is the use of the Whittaker integral related to a scalar nondiffracting beam and well known angular spectrum decomposition . Also we exploit the relationship between solutions of scalar Helmholtz equation to expand the BSCs of nondiffracting beams in terms of higher order Bessel Beams BSCs . Some numerical simulations and discussions are given to validate our results .
+
+@highlight A new method of evaluating the beam shape coefficients BSCs in generalized LorenzMie theory for fundamental nondiffracting beams cosine beams Bessel beams Mathieu beams and parabolic beams is investigated.
+@highlight The relationship between solutions of scalar Helmholtz equation to expand the BSCs of nondiffracting beams in terms of higher order Bessel beams BSCs is exploited.
+@highlight For validation of the results numerical simulations and discussions are given.

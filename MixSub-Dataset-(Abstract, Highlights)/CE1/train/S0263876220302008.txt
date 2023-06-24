@@ -1,0 +1,7 @@
+ In order to minimize operation transient times a new distributed control strategy was performed in a distillation unit . Acting simultaneously by heating in tray 11 and cooling in tray 3 of a distillation column the control strategy was implemented using Aspen Hysys with experimental validation . The new distributed control strategy showed a reduction of 0.32
+
+@highlight A new distributed control strategy was performed for a distillation process unit.
+@highlight Simultaneous heating stripping and cooling rectifying in trays were applied.
+@highlight Transient times had a reduction over 70 against feed temperature disturbances.
+@highlight The amount of out of specification product and overshoot were considerably reduced.
+@highlight The strategy provides a soft distribution of control action increasing productivity.

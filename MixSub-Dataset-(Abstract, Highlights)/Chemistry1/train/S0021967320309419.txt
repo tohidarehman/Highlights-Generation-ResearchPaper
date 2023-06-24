@@ -1,0 +1,8 @@
+ ASTM standard specification D7566 covers the manufacture of synthetic aviation turbine fuel components and their blends with conventional Jet fuel . One of the components is renewable jet fuel which is synthetic paraffinic kerosene made from hydroprocessed esters and fatty acids . The specification D7566 dictates property requirements for the SPK HEFA including concentration limits for selected hydrocarbon types which are analyzed by using the mass spectrometry based standard method D2425 . The most recent update for D2425 released in 2019 includes the synthetic hydrocarbon sample type and defines various analytical procedures for the analysis . Notably the procedures differ considerably from each other and the experimental conditions are not defined in details . This leads to laboratories setting up analytical schemes for D2425 that are likely to differ from each other which may result in variation in the quality of the results obtained in different laboratories .
+
+@highlight The Protocols 1 2 and 3 were in compliance with the requirements of the D2425.
+@highlight The precisions of the different protocols were of the same magnitude.
+@highlight Significant bias was found for the results of cycloparaffins and aromatics.
+@highlight Considerable differences were found in the bias values between the laboratories.
+@highlight The accuracy of ASTM
+@highlight may not be suitable for RJF certification.

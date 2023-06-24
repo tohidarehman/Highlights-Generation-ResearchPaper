@@ -1,0 +1,5 @@
+ We present a throughout multivariate technique in order to predict the formability of perovskites and inverse perovskites compounds on the basis of the unified atomic ionic radii of the different species . In this study we demonstrate the utility of the principal component analysis and the partial least square methods to examine the statistical impact of the perovskites and inverse perovskites intrinsic characteristics on their stability .
+
+@highlight We have introduced the principal component analysis to study the formability of perovskites and inverse perovskite.
+@highlight We have developed a predictive model for the lattice constant of perovskite .
+@highlight We have included in this method new parameters in order to design new cubic perovskites.

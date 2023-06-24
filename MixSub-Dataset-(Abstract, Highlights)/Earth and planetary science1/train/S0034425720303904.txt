@@ -1,0 +1,6 @@
+ Accurate habitat mapping methods are urgently required for the monitoring conservation and management of blue carbon ecosystems and their associated services . This study focuses on exposed intertidal seagrass meadows which play a major role in the functioning of nearshore ecosystems . Using Sentinel 2 data we demonstrate that satellite remote sensing can be used to map seagrass percent cover and leaf biomass and to characterize its seasonal dynamics .
+
+@highlight A method is proposed to map seagrass cover in exposed intertidal meadows.
+@highlight The method can be applied to seagrass meadows along the northwest Atlantic coast.
+@highlight Sentinel 2 derived seagrass percent cover was mapped with an uncertainty of 14 .
+@highlight Due to Sentinel 2 revisit time it was possible to describe the seasonal cycle.

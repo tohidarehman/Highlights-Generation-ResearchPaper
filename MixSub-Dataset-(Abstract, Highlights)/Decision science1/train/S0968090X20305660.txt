@@ -1,0 +1,6 @@
+ This study develops a new map matching algorithm targeting off line applications . The algorithm takes a holistic view of the entire GPS trajectory and finds its match by first dividing it into several segments . This segmentation is made possible through creating a multi layer road index system for the original road network . For each segment a global map matching strategy is employed to identify the best match . The algorithm is compared against three state of the art map matching algorithms from the literature . To get ground truth data we design and perform numerous test drives with predefined paths that have a total length of 234km . GPS trajectories recorded during the test drives are used to evaluate the algorithms . Our numerical experiments show the proposed algorithm improves match efficiency by up to two order of magnitude compared to the benchmark algorithms . Importantly it achieves this remarkable speedup with negligible losses in matching accuracy .
+
+@highlight A method EICN is designed to build a semantic multi layer road index MRI system.
+@highlight A map matching algorithm SMRI is proposed based on a well established MRI system.
+@highlight TA real world experiment shows the reliability of EICN and the efficiency of SMRI.
+@highlight The MRI system can support urban analysis at directional road segment DRS level.

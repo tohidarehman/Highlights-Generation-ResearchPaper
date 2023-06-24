@@ -1,0 +1,7 @@
+ Evapotranspiration plays an important role in water and energy balance at the surface atmosphere interface . It is widely reported that near surface soil water content or soil water potential significantly affects ET and this parameter has been incorporated into the FAO Penman Monteith model for prediction of ET during crop growth seasons . However there is little information on the effect of SWC or SWP on prediction of ET during soil freeze thaw cycles in winter . We present an experiment conducted at a demonstration farm with a crop of winter wheat over two winters near Beijing China . A lysimeter system equipped with a weather station was used to measure the ET flux and meteorological data . Unfrozen soil water content and soil temperature
+
+@highlight An index is proposed to improve performance of Penman Monteith PM model in winter.
+@highlight Improved PM model is combined with a coupled heat water transfer model in frozen soil.
+@highlight The parameters in the combined model are optimized with field measurements in year 1.
+@highlight The combined model is validated with independent field measurements in year 2.
+@highlight The combined model markedly improves prediction of evapotranspiration in frozen soil.

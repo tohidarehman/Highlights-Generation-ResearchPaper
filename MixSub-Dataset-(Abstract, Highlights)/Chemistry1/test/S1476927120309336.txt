@@ -1,0 +1,5 @@
+ MicroRNA plays an important role in life processes . In recent years predicting the association between miRNAs and diseases has become a research hotspot . However biological experiments take a lot of time and cost to identify pathogenic miRNAs . Computational biology based methods can effectively improve accuracy of recognition . In our study miRNAs disease associations are predicted by a hypergraph regularized bipartite local model which is based on hypergraph embedded Laplacian support vector machine . On benchmark dataset the results of our method are comparable and even better than existing models .
+
+@highlight HGBLM approach builds more complex relationships between samples by hypergraph.
+@highlight Heterogeneous information similarity matrices is integrated via CKA MKL.
+@highlight HGBLM is built via hypergraph embedded LapSVM to further improve the performance of prediction.

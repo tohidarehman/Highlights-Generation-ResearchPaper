@@ -1,0 +1,6 @@
+ Cross lingual semantic textual similarity systems estimate the degree of the meaning similarity between two sentences each in a different language . State of the art algorithms usually employ machine translation and combine vast amount of features making the approach strongly supervised resource rich and difficult to use for poorly resourced languages .
+
+@highlight Linear transformations project monolingual semantic spaces into a shared space.
+@highlight We propose a new transformation outperforming others in the cross lingual STS task.
+@highlight We extend unsupervised STS methods by the word weighting.
+@highlight Our approach achieves promising results on several datasets in different languages.

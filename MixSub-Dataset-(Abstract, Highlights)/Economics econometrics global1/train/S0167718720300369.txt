@@ -1,0 +1,7 @@
+ Competing intermediaries search on behalf of consumers among a large number of horizontally differentiated sellers . Consumers either pick the best deal offered by an intermediary or compare the intermediaries . A higher number of intermediaries has the direct effect of decreasing their search effort . Hence if an exogenous share of consumers do not compare more competition hurts them . More competition however also increases the incentives for consumers to compare . A higher share of informed consumers in turn increases the search effort of intermediaries . If consumers are ex ante identical and rationally choose whether to become informed the total effect of a higher number of intermediaries is to make each of them choosier . Moreover it always decreases the price offered by sellers . Allowing intermediaries to bias their advice by making sponsored links prominent has a similar effect of making all consumers better off in expectation .
+
+@highlight Competing intermediaries search on behalf of consumers.
+@highlight The direct effect of more intermediaries is a lower quality of advice.
+@highlight The indirect effect is to increase the incentives for consumers to compare.
+@highlight If consumers are ex ante identical more intermediaries always benefit buyers.
+@highlight This is not true if consumer information is not a choice variable.

@@ -1,0 +1,6 @@
+ We propose a novel method for spectroscopic optical coherence tomography . This method uses the dependence of the Doppler frequency spectrum on the wavenumber . Controlled modulation of the light in the spectral OCT interferometer allows for an instantaneous depth resolved reconstruction of the backscattered light spectrum from all depths . The feasibility of the spectroscopic analysis using the proposed scheme was confirmed experimentally .
+
+@highlight Optical coherence tomography OCT allows for 3D imaging of living tissue.
+@highlight OCT can be modified to provide spectroscopic information sOCT spectroscopic OCT .
+@highlight Spectral and time domain optical coherence spectroscopy is a new sOCT technique.
+@highlight STdOCS can be regarded as a bridge between OCT and Fourier transform spectroscopy.

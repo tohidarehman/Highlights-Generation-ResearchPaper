@@ -1,0 +1,6 @@
+ This article focuses on the impact of the primary frequency control that can be provided by Battery Energy Storage Systems on the transient response of electric grids . A procedure based on the Fourier transform is used for synthesizing a realistic frequency signal based on the variations of load consumption and generation . The impact of BESSs is evaluated with respect to the storage capacity installed and the regulation strategy adopted and then compared with the regulation provided by conventional sources . The impact of a variable droop strategy on the dynamic response of the grid and the BESSs State of Charges is also evaluated . A novel index to quantify the performance of the BESSs is proposed and discussed . The case study is based on a detailed dynamic model of the all island Irish transmission system .
+
+@highlight To simulate a realistic frequency signal the use of Fourier Transform is essential.
+@highlight Batteries help improve effectively the electric grid frequency signal.
+@highlight Their efficacy will depend on the velocity of the frequency signal itself and the velocity of intervention.
+@highlight A variable Droop strategy can maintain the battery State of Charge without destabilizing the grid frequency equilibrium.

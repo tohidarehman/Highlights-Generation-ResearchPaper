@@ -1,0 +1,8 @@
+ Equitable energy supply planning is nearly impossible in regions with limited data availability . Lack of representation among marginalised populations can perpetuate existing structural and socio cultural inequities despite aggregate improvements to energy supply . In Nepal this represents an acute challenge for the 460 rural municipalities recently tasked with improving supply provision for their constituents . Since the last census in 2011 the country has undergone significant political changes as well as suffering several natural catastrophes . In this context data collection and analysis methods are needed to support local decision makers in developing equitable energy supply improvement plans . This work highlights the role of disaggregated household energy supply measurement to capture contextual inequities that are typically lost in national or state level aggregates . Methods for efficiently collecting and analysing spatially representative household energy access survey data are described . Application and analysis of household surveys
+
+@highlight Methods for disaggregated household energy supply measurement are described.
+@highlight These are applied on primary household survey data in western Nepal 
+@highlight  2357 .
+@highlight Supply inequities are more prominent for electricity than cooking which is poor overall.
+@highlight Spatial disaggregation indicates not only for whom but also where inequities exist.
+@highlight Equitable energy supply planning requires disaggregated energy supply measurement.

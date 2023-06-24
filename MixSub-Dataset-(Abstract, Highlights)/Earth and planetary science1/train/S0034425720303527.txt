@@ -1,0 +1,5 @@
+ Sentinel 1 is a synthetic aperture radar platform with an operational mode called extra wide that offers large regions of ocean areas to be observed . A major issue with EW images is that the cross polarized HV and VH channels have prominent additive noise patterns relative to low backscatter intensity which disrupts tasks that require manual or automated interpretation . The European Space Agency provides a method for removing the additive noise pattern by means of lookup tables but applying them directly produces unsatisfactory results because characteristics of the noise still remain . Furthermore evidence suggests that the magnitude of the additive noise dynamically depends on factors that are not considered by the ESA estimated noise field .
+
+@highlight New objective function measures level of additive noise in Sentinel 1 image
+@highlight Model implemented linearly rescales estimated noise in subswaths
+@highlight Evaluation on five oceans shows significant denoising ability

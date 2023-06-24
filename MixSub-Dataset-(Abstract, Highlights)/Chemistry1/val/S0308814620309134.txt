@@ -1,0 +1,6 @@
+ A simple fast and efficient spark discharge laser induced breakdown spectroscopy method was developed for determining rice botanic origin using predictive modeling based on support vector machine . Seventy two samples from four rice varieties were analyzed by SD LIBS . Spectral lines of C Ca Fe Mg N and Na were selected as input variables for prediction model fitting . The SVM algorithm parameters were optimized using a central composite design to find the better classification performance . The optimum model for discriminating rice samples according to their botanical variety was obtained using
+
+@highlight Botanical origin of rice predicted by SD LIBS and machine learning.
+@highlight First time CCD was used to fit SVM classifier from rice LIBS profiling.
+@highlight C Ca Fe Mg N and Na contributed for sample classification.
+@highlight The best SVM model showed 96.4 of correct predictions in test set.

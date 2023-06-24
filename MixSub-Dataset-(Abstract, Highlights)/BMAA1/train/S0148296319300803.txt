@@ -1,0 +1,7 @@
+ Traditionally choice based conjoint analysis relies on the assumption of rational decision makers that use all available information . However several studies suggest that people ignore some information when making choices . In this paper we build upon recent developments in the choice literature and employ a latent class model that simultaneously allows for attribute non attendance and preference heterogeneity . In addition we relate visual attention derived from eye tracking to the probability of ANA to test understand and validate ANA in a marketing context . In two empirical applications we find that a our proposed model fits the data best b the majority of respondents indeed ignore some attributes which has implications for willingness to pay estimates segmentation and targeting and c even though the latent class model identifies ANA well without eye tracking information our model with visual attention helps to better understand ANA and individual level behavior .
+
+@highlight Consumers tend to ignore attributes when making durable product choices.
+@highlight Most consumers use 34 of 6 attributes only few use no attributes or one attribute.
+@highlight Modeling attribute non attendance improves segmentation targeting and pricing.
+@highlight Models augmented with eye tracking data help understand individual level behavior.
+@highlight Visual attention increases attribute attendance but does not guarantee it.

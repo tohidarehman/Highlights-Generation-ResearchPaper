@@ -1,0 +1,10 @@
+ Ambient pressure X ray photoelectron spectroscopy has evolved into an effective tool to analyze the chemical states of interfaces relevant to realistic environments and operating conditions . Herein we employ a graphene capped microvolume arrays sample platform for scanning photoelectron spectro microscopy of electrified liquid solid electrochemical interfaces . By using highly electron and X ray transparent graphene membrane as a working electrode we probed the electronic structure of a model electrochemical system under
+
+@highlight We report effects of focused X rays upon a liquid solid interface from solvent radiolysis by photo and secondary electrons.
+@highlight We recorded radiolytic products by XPS and characterized their impact on chemical speciation at the electrified interface.
+@highlight Three exposure regimes ranging from 0.3ph s
+@highlight nm
+@highlight to 105ph s
+@highlight nm
+@highlight were tested to elucidate the dependence on dose rate.
+@highlight Results highlight the need for careful consideration of radiolytic processes for artifact free XPS and data interpretation.

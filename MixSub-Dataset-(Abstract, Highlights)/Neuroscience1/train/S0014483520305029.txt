@@ -1,0 +1,5 @@
+ High intraocular pressure is the most common risk factor associated with glaucoma in humans . While lowering IOP is effective at reducing the rate of retinal ganglion cell loss to date no treatment exists to directly preserve these cells affected by damage to the optic nerve . Recently histone deacetylase 3 has become a potential therapeutic target because it plays an important role in the early nuclear atrophic events that precede RGC death . Conditional knockout or inhibition of HDAC3 prevents histone deacetylation heterochromatin formation apoptosis and eventual RGC loss following acute optic nerve injury . Using these approaches to repress HDAC3 activity we tested whether targeting HDAC3 protects RGCs from ganglion cell specific BRN3A expression loss total somatic cell loss and optic nerve degeneration in the DBA 2J mouse model of spontaneous glaucoma . Targeted ablation of
+
+@highlight Conditional knockout of
+@highlight does not protect against RGC death or axon degeneration in the DBA 2J mouse glaucoma model.
+@highlight Selective inhibition of HDAC3 activity confers mild protection against RGC loss in the DBA 2J mouse model of glaucoma.

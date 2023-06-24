@@ -1,0 +1,6 @@
+ The reported efficacy of biofeedback is not consistent across studies . One issue that has not been addressed in previous studies is the effect of the reference signal in a biofeedback system .
+
+@highlight We have used the concept of time delayed feedback control to introduce a new reference signal in biofeedback systems.
+@highlight A computational black box model was developed to show the nonlinear behavior of human response time.
+@highlight The effect of two different reference signals using a computational model and human experiments were investigated.
+@highlight It seems that the reference signal in biofeedback systems should be modified based on the characteristics of individuals.

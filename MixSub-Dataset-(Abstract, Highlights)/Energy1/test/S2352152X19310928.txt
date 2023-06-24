@@ -1,0 +1,11 @@
+ In order to understand and improve the performance of Metal Hydride materials for Ni MH battery s applications Electrochemical Impedance Spectroscopy is used to provide interfacial information . However it still offers significant challenges regarding methodology practices and results interpretation due to the multiple interpretations arising from equivalent circuit fittings . The use of physicochemical models expresses in a better way the functionalities of charge discharge mechanisms in MH . Moreover for the impedance ofMH porous electrodes there is little information from previous models so the physical meaning of parametric figures and time constants is here emphasized . A complete fitting methodology is detailed and implemented
+
+@highlight A fitting methodology was designed to ease the process and to avoid arbitrariness.
+@highlight Time constants
+@highlight and
+@highlight were found useful to interpret results.
+@highlight Frequency range where porous effects are relevant was identified.
+@highlight Ohmic resistance and double layer related parameters did not show dependence on SOC.
+@highlight decreases as SOC increases.
+@highlight diminishes and
+@highlight increases towards SOC 100 .

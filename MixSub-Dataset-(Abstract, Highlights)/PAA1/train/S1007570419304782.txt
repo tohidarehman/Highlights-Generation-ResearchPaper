@@ -1,0 +1,5 @@
+ The general form of existing multivariate are based on stochastic volatility and jump diffusion models . These models typically lead to the need of solving systems of stiff Riccati differential equations . In this paper we propose a time spectral domain decomposition method for solving systems of stiff Riccati differential equations . The technique is applied to solving stiff diffusion model problems found in oil pricing interest rate and electricity models . Numerical methods show that the present approach is efficient highly accurate and a good alternative to the existing numerical methods .
+
+@highlight A time spectral domain decomposition method is proposed for valuing affine stochastic volatility and jump diffusion models.
+@highlight The proposed method is elegant and accurate.
+@highlight The method is robust as it handles time domain decomposition plus exponential convergence is offered.

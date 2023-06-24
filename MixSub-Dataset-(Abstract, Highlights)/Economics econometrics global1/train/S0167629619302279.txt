@@ -1,0 +1,5 @@
+ Earlier work suggested that subjective life expectancy functions as reference point in time trade off but has not tested or modelled this explicitly . In this paper we construct a model based on prospect theory to investigate these predictions more thoroughly . We report the first experimental test of reference dependence with respect to SLE for TTO and extend this approach to standard gamble . In two experiments subjects SLEs were used to construct different versions of 10 year TTO and SG tasks with the gauge duration either described as occurring above or below life expectation . Our analyses suggest that both TTO and SG weights were affected by SLE as predicted by prospect theory with SLE as reference point . Subjects gave up fewer years in TTO and were less risk tolerant in SG below SLE implying that weights derived from these health state valuation methods for durations below SLE will be biased upwards .
+
+@highlight Subjective life expectancy SLE is a reference point in health state valuation.
+@highlight As predicted time trade off for years below SLE is biased upwards.
+@highlight Standard gamble is similarly biased for a young but not an older sample.

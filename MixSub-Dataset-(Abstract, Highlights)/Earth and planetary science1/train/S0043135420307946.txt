@@ -1,0 +1,7 @@
+ This study identifies causes of rising arsenic concentrations over 17 years in an inter montane aquifer system located just north of the Trans Mexican Volcanic Belt in the Mesa central physiographic region that is extensively developed by long screened production wells . Arsenic concentrations increased by more than 10g L in 14 of re sampled wells . Similarly in a larger scale analysis wherein As concentrations measured in 137 wells in 2016 were compared to interpolated baseline concentrations from 246 wells in 1999 As concentrations rose more than 10g L in 30 of wells . Between 1999 and 2016 the percentage of all wells sampled in each basin wide sampling campaign exceeding the World Health Organization s 10g L drinking water limit increased from 38 to 64 . Principal Components Analysis step wise multiple regression and Random Forest modeling revealed that high As concentrations are closely associated with high pH and temperature and high concentrations of fluoride molybdenum lithium sodium and silica but low calcium and nitrate NO
+
+@highlight As concentrations compared across inter montane aquifer system over 17 years.
+@highlight 30 of 137 wells exceeded baseline neighborhood concentrations by 10g L.
+@highlight In 3 22 re sampled wells concentrations increased by 10g L over 17 years.
+@highlight Percentage of wells exceeding the WHO guideline increased from 38 to 64 .
+@highlight Arsenic concentrations driven by rising pH from accelerated albite hydrolysis.

@@ -1,0 +1,6 @@
+ Targeting the Trp Kyn pathway is an attractive approach for cancer immunotherapy . Thioredoxin reductase enzymes are reactive oxygen species modulators that are involved in the tumor cell growth and survival processes . The 4 phenylimidazole scaffold is well established as useful for indoleamine 2 3 dioxygenase 1 inhibition while piperlongumine and its derivatives have been reported to be inhibitors of TrxR . To take advantage of both immunotherapy and TrxR inhibition we designed a first generation dual IDO1 and TrxR inhibitor
+
+@highlight Designed a first generation dual IDO1 and TrxR inhibitor ZC0101.
+@highlight ZC0101 effectively reduced IDO1 and TrxR enzyme activity.
+@highlight ZC0101 demonstrated good anti tumor activity and suppressed kynurenine levels.
+@highlight ZC0101 induced ROS accumulation through its interaction with both TrxR and IDO1.

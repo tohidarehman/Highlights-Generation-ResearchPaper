@@ -1,0 +1,5 @@
+ This paper presents the temporal evolution of Global Navigation Satellite System Reflectometry ocean wind speed retrieval performance during three years of the UK TechDemoSat 1 mission . TDS 1 was launched in July 2014 and provides globally distributed spaceborne GNSS R data over a lifespan of over three years including several months of 24 7 operations . TDS 1 wind speeds are computed using the NOC Calibrated Bistatic Radar Equation algorithm version 0.5 and are evaluated against ERA5 high resolution re analysis data over the period 20152018 . Analyses reveal significant temporal variability in TDS 1 monthly wind speed retrieval performance over the three years with the best performance 2ms
+
+@highlight TDS 1 GNSS R wind retrieval performance has large variability over 3years lifetime.
+@highlight Retrieval performance reflects attitude uncertainty and GPS transmit power changes.
+@highlight Spatial and temporal changes in GPS transmit power can bias winds by 3ms

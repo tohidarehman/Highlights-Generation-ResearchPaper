@@ -1,0 +1,6 @@
+ In this paper the dynamic properties of a stochastic model are studied through the stability of ergodic invariant measures on invariant sets . The threshold analysis of strong stochastic persistence and extinction is given . Moreover the necessary and sufficient condition for persistence and extinction in the sense of time average is give for a special critical state . The stochastic bifurcation phenomenon of the model is studied from the viewpoint of dynamic bifurcation . The main conclusions are verified by examples and numerical simulations . In addition the intra specific competition of two species are considered in this paper the importance of intra specific competition is also illustrated by theoretical results . The results can also provide a theoretical basis for the modeling of stochastic population models .
+
+@highlight The stability of ergodic invariant measures on invariant sets are used to study dynamic properties.
+@highlight The threshold of strong stochastic persistence and extinction is obtained.
+@highlight Stochastic bifurcation phenomenon is studied from the viewpoint of dynamic bifurcation.
+@highlight Numerical simulations are given to explain main results.

@@ -1,0 +1,7 @@
+ Delay Sobolev equations are a class of important models in fluid mechanics thermodynamics and the other related fields . For solving this class of equations in this paper linearized compact difference methods for one and two dimensional problems of DSEs are suggested . The solvability and convergence of the methods are analyzed and it is proved under some appropriate conditions that the methods are convergent of order two in time and order four in space . In order to improve the computational accuracy of LCDMs in time we introduce the Richardson extrapolation technique which leads to the improved LCDMs can reach the fourth order accuracy in both time and space . Finally with several numerical experiments the theoretical accuracy and computational effectiveness of the proposed methods are further testified .
+
+@highlight This paper deals with the numerical computation and analysis for nonlinear delay Sobolev equations.
+@highlight Linearized compact difference methods LCDMs are proposed for solving 1D and 2D nonlinear delay Sobolev equations respectively.
+@highlight The proposed methods are proved to be unique solvable and have secondorder accuracy in time and fourth order accuracy in space.
+@highlight An extrapolation technique is combined with LCDMs which improves the accuracy in time and fourth order accuracy in time can be achieved.
+@highlight Several numerical examples testify the theoretical results and the computational effectiveness of the proposed methods.

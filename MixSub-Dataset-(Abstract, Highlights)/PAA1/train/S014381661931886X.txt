@@ -1,0 +1,5 @@
+ The security of medical image data for transmission and storage is a critical issue . Texture information of medical images is important for diagnosis . Since Shearlets is particularly effective in characterizing texture information in this paper we propose a generalized optical encryption framework based on Shearlets and double random phase encoding especially for medical images . In the proposed encryption framework the secret medical image is first decomposed into
+
+@highlight The security level of our encryption framework can be significantly improved by increasing the number of Shearlet coefficient sub images.
+@highlight The proposed encryption framework can flexibly select scrambling algorithm to permutation and diffusion the pixels in sub images.
+@highlight The proposed encryption framework can flexibly select reversible synthesize methods to combined the scrambled sub images into one.

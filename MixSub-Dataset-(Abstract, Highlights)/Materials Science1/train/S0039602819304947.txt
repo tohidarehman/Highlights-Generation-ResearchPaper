@@ -1,0 +1,5 @@
+ The apparent splitting of surface bands of Cu Ag and Au films obtained in calculations without account for spin orbit coupling is usually explained as a result of interaction of surface states located at opposite surfaces of the slabs . However such twinning of the surface states is absent for other surfaces of noble metals despite the anticipated similar interaction . Here we suggest an alternative explanation and attribute the twinning of the bands to the quantum confinement effect .
+
+@highlight The splitting of surface states of 111 thin films of noble metals is discussed.
+@highlight An alternative explanation of splitting of the Shockley bands is suggested.
+@highlight The twinning of calculated states results from the quantum confinement effect.

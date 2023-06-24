@@ -1,0 +1,7 @@
+ Future competitiveness in the automotive sector involves designing sustainability strategies to ensure compliance with government policies on environmental issues . This requires technological optimization to minimize vehicles energy consumption and reduce greenhouse gas emissions . This paper presents an algorithm to increase the energy efficiency of vehicles with internal combustion engines . On the one hand the use of this algorithm optimizes the time spent traveling and on the other it reduces the energy consumed and the emission of polluting gases in line with the European Union guidelines in terms of reduction of greenhouse gas emissions renewable energy share and improvements in energy efficiency . Based on the difference in energy consumption between optimized and unoptimized vehicles the economic benefit is quantified in terms of GHG emission quotas volume of fuel consumed and the indirect benefits with respect to improving corporate brand image . The methodology has been applied to real examples .
+
+@highlight Reduction of greenhouse gas emissions in the automotive sector is promoted by EU.
+@highlight An algorithm to increase the energy efficiency of combustion vehicles is presented.
+@highlight Economic benefit will be quantified in terms of emission quotas and fuel consumed.
+@highlight Conclusions about times distances travelled and energy consumed are reached.
+@highlight The methodology has been successfully applied and results are discussed.

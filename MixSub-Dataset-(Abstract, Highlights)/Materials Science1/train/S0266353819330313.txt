@@ -1,0 +1,6 @@
+ Carbon fiber reinforced polymer composites with remarkable mechanical properties are widely used in aerospace crafts as load bearing components . However harsh environmental conditions challenge the security design of lightweight composite structures . In this work the effects of cryogenic temperature from 77K to 298K and cryogenic stability after 50 100 and 150 cycles on the mechanical properties and failure modes of CFRP laminates with various stacking sequences were experimentally investigated .
+
+@highlight tensile and bending tests are conducted under cryogenic temperatures.
+@highlight A progressive damage model is developed by taking into account temperature effect.
+@highlight Internal microdefect evolution after cryogenic cycling is captured using CT.
+@highlight Failure modes of CFRP laminates with various stacking sequences are discussed.

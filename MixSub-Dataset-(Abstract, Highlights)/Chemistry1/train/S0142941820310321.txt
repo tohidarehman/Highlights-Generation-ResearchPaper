@@ -1,0 +1,7 @@
+ Self healing polymers based on the novel damage management concept were introduced several years ago . Since then different concepts have been successfully developed . However the analysis and characterization of the self healing process represents still a significant challenge in particular for the quantification of scratch healing . Consequently the comparability of the reported healing efficiencies of different polymers is often not provided . Within the variety of different characterization methods different parameters like defect area length and width are utilized for the determination of the healing efficiency however the precise quantification is still problematic . For this reason the present study focuses on two different methods the mechanical analysis with the scratch tester MST
+
+@highlight Quantification of the scratch healing of self healing metallopolymers by two methods.
+@highlight Generation of uniform and reproducible defect structures.
+@highlight Detailed 3D images of the scratches.
+@highlight MATLAB program to evaluate the scratches and the healing processes.
+@highlight Automatic user independent method to determine the healing efficiency.

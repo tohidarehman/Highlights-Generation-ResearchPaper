@@ -1,0 +1,7 @@
+ In order to improve the performance of proton exchange membrane fuel cell the optimization of electrostatic spraying of membrane electrode was conducted . The influence of the spraying voltage on morphology elemental composition of catalyst layer and performance of the PEMFC were investigated . The results show that increasing spraying voltage could reduce agglomeration of the carbon supported platinum particles leading to more uniform pore distribution . High voltage did not accelerate oxidation of platinum catalyst . A high electrochemical active surface area of 26.18m
+
+@highlight Onset voltages of cone jet mode with different working distances are determined.
+@highlight Oxidation of Platinum catalyst is not affected with high spraying voltage.
+@highlight Uniform pore distribution is obtained with increasing spraying voltage.
+@highlight Charge transfer resistance is increased by increasing spraying voltage.
+@highlight MEA prepared under 8.5kV exhibits a peak power density of 1.408Wcm

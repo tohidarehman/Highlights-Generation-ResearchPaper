@@ -1,0 +1,7 @@
+ This work is a further development of our method published in 2018 for computer analysis of micrographs taken from a plastic detector CR 39 etched after irradiation with a beam of
+
+@highlight The simultaneous automatic analysis of all micrographs of etched plates in batch mode.
+@highlight New parameters the reduced radius and depth of etched pits of the etched pits of plastic detector.
+@highlight Frequency distributions of etched pit parameters over water chamber depth.
+@highlight The evolution of the averaged profiles of etched pits over water chamber depth.
+@highlight Computer densitometry of micrographs in nanometer micrometer and macrometer scales.

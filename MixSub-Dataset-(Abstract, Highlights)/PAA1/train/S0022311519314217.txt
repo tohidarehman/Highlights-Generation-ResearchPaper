@@ -1,0 +1,6 @@
+ The influence of implantation induced point defects on SiC oxidation is investigated via molecular dynamics simulations . PDs generally increase the oxidation rate of crystalline grains . Particularly accelerations caused by Si antisites and vacancies are comparable and followed by Si interstitials which are higher than those by C antisites and C interstitials . However in the grain boundary region defect contribution to oxidation is more complex with C antisites decelerating oxidation . The underlying reason is the formation of a C rich region along the oxygen diffusion pathway that blocks the access of O to Si and thus reduces the oxidation rate as compared to the oxidation along a GB without defects .
+
+@highlight All types of point defects accelerate oxidation of single crystal SiC.
+@highlight Defects can either accelerate or suppress the intergranular oxidation in SiC.
+@highlight C depletion at grain boundaries accelerates oxidation.
+@highlight C enrichment at grain boundaries suppresses oxidation.

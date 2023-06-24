@@ -1,0 +1,6 @@
+ The build orientation of parts which are produced by Additive Manufacturing processes has a considerable effect on material and energy consumptions . The choice of a specific build orientation from the range available is crucial because it has a direct impact on the economic and environmental aspects of part production .
+
+@highlight A new method to orient parts in additive manufacturing is presented.
+@highlight The method is applied to different combinations of technologies and products.
+@highlight A reduction of environmental impact indicators is achieved.
+@highlight Solutions proposed by the method reduce the cost of the production.

@@ -1,0 +1,7 @@
+ Inverted perovskite solar cells have been fascinated due to rapid progress of performance in recent years . PEDOT PSS is commonly used hole transport material in p i n PSCs having hygroscopic and acidic nature that leads towards poor performance of device . Therefore it is necessary to replace PEDOT PSS with stable HTM . In this paper theoretical study is carried out to investigate physical parameters that can affect the performance of p i n PSCs with copper iodide as HTM . These parameters include the effect of doping density of electron transport material absorber and HTM as well as defect density and thickness of absorber on the performance of p i n PSCs . Hole mobility and thickness of HTM are also investigated . It is found that performance of p i n PSCs is strongly dependent on defect density and thickness of absorber . Upon final optimization device attains PCE of more than 21 which is encouraging .
+
+@highlight Theoretical study of inverted p i n architecture perovskite solar cell with CuI as HTM is performed.
+@highlight The optimized device exhibits the power conversion efficiency of 21.06 .
+@highlight This study shows useful inorganic HTM alternate to traditional organic HTM.
+@highlight These analyses are useful for further improvement in device performance.
+@highlight Performance of the PSC strongly depends on the defect density and thickness of absorber.

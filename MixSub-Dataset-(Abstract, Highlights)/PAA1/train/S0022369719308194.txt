@@ -1,0 +1,7 @@
+ Nanoporous gold structure gains several unique physical and chemical properties from its nanoscale foam structure composed of ligaments and connected pores . The high specific surface area and interconnected pores make its structure ideal for gas catalysis . Catalytic activity arises in part from the high number density of surface steps and kinks at points of high curvature in the nanoporous structure . However the structure also makes the material macroscopically brittle and unreliable for many applications due to poor mechanical stability . The ligament diameter which regulates both desirable chemical properties and mechanical instability can be tuned to over three orders of magnitude but few morphology features can be adjusted independently of this . Here we fabricate nanoporous gold with an average ligament diameter of around 10nm while varying synthesis parameters and quantify the resulting morphology in order to evaluate the effect of processing on the resulting nanoscale foam structure .
+
+@highlight The ligament diameter distribution width can be tailored by controlling the coarsening rate.
+@highlight The ligament curvature can be tailored through mechanical agitation during dealloying.
+@highlight Grain boundaries interacted strongly with crack propagation during
+@highlight tensile straining.
+@highlight Ligaments up to 200nm from the crack tip experienced small plastic and elastic deformation.

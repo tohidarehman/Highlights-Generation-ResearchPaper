@@ -1,0 +1,7 @@
+ Ostwald ripening is a main phenomenon responsible for growth of particles manufactured using colloidal methods . This paper considers mathematical description of the process using population balance approach solved by method of moments . However in the case of particles dissolution which is a part of the process a closure problem is generated . A novel closure method for the moment transformed population balance equations based on Gram Charlier expansions is introduced . Due to its simplicity it allows to reconstruct the full particle size distribution in a stepwise manner giving an access to the pointwise values of the density function required to close the model . The introduced numerical scheme is further used to simulate several carefully chosen test cases including dissolution of solid particles and ageing of particles population . The mathematical model presented in the paper is then applied to interpret experimental results for batch precipitation of silica .
+
+@highlight Novel closure schemes for moment transformed population balance are introduced.
+@highlight The full distribution can be reconstructed in a stepwise manner.
+@highlight The introduced method provides an easy access to pointwise values of PDF.
+@highlight The method enables modelling of dissolution and Ostwald ripening using MOM.
+@highlight First stages of batch silica precipitation are simulated.

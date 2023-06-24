@@ -1,0 +1,8 @@
+ We report here on the generation of simulated defects on sintered uranium dioxide fuel pellets by taking advantage of the underwater laser ablation procedure and their subsequent characterization . This work we believe can play a role towards the validation of the performance of fuel pellet inspection machines . A repetitive fiber laser capable of delivering pulses of nanosecond duration in conjunction with a galvo scanner served as the machining tool in the experiment . The study of the dependence of mass ablation rate on laser fluence water column height repetition rate and beam scanning speed formed the bulk of this work . A water column of height 3mm above the pellet surface in combination with a laser fluence of lying within 67J cm
+
+@highlight Simulated defects were generated on sintered UO
+@highlight pellets using a pulsed fiber laser.
+@highlight The defects e.g. pits cracks missing surface area were formed by laser ablation.
+@highlight The dimension of the fabricated defects can be controlled.
+@highlight Underwater ablation resulted in cleaner defects without any bulging near the edge.
+@highlight Defective pellets can be utilized for authentication of pellet inspection machines.

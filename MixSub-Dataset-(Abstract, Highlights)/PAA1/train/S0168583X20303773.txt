@@ -1,0 +1,6 @@
+ An autotuning procedure for driving energy modulation in Mssbauer spectroscopy is described in details . This procedure is applicable for those velocity modulation units which provide a signal proportional to the velocity e.g . double speaker linear motors . It eliminates manual tuning of PID parameters and moreover allows to operate the velocity modulation unit on any frequency i.e . above below or in a resonance . The proper performance of the procedure is demonstrated by the measurement of 12
+
+@highlight Precise control of the gamma photon energy modulation.
+@highlight Easy implementation to number of different instrumentation platforms.
+@highlight Possibility to eliminate occasional huge vibrations.
+@highlight Filtration of velocity signal by deconvolution to Fourier series.

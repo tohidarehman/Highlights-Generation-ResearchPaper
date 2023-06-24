@@ -1,0 +1,6 @@
+ Passengers can buy souvenirs or rent a car at the airport or in the city center . This paper develops a basic model with unit demands for airport ancillary and city center demands to derive equilibrium pricing strategies of profit maximizing airports and city center companies and evaluates them from the social viewpoint . Passengers are myopic in the sense that only ticket prices matter for flight decisions or foresighted in the sense that non aeronautical airport and city center supplies matter for flight decisions too . We find that the welfare evaluation of equilibrium airport pricing behavior can be independent of whether passengers are myopic or foresighted .
+
+@highlight Rivalry between airport ancillary and city center supplies is considered.
+@highlight Myopic and foresighted passengers are analyzed to derive an independence result.
+@highlight The independence result relates to the welfare evaluation of profit maximizing prices.
+@highlight Model extensions are used to check the robustness of the independence result.

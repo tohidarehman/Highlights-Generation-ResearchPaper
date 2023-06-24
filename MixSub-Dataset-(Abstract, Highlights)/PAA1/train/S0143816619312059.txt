@@ -1,0 +1,6 @@
+ We report on a novel layout providing variable zoom in digital in line holographic microscopy . The implementation is in virtue of an electrically tunable lens which enables to slightly shift the illumination source axial position without mechanical movement of any system component . Magnifications ranging from 15X to 35X are easily achievable using the same layout and resulting in a substantial variation of the total field of view . The performance of the proposed setup is first validated using a resolution test target where the main parameters are analyzed and second corroborated analyzing biological sample showing its application to biomedical imaging .
+
+@highlight ETL is incorporated to a DIHM layout for the first time to the best of our knowledge.
+@highlight Continuous variation of magnification from 15X to 35X and field of view factor of 5 is achieved by optical means that is without neither replacement nor mechanical movement of any component in the optical layout and resolution becomes no penalized.
+@highlight The optical zoom function is experimentally validated using a resolution test target calibration and prostate cancer cells biosample capability .
+@highlight The proposed method is useful for visualize a large FOV and then zoom in to see in detail a specific area of the inspected sample.

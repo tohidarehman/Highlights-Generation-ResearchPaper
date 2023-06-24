@@ -1,0 +1,6 @@
+ There are various types of hepatic steatosis of which non alcoholic fatty liver disease which may be caused by exposure to chemicals and environmental pollutants is the most prevalent representing a potential major health risk . QSAR modelling has the potential to provide a rapid and cost effective method to identify compounds which may trigger steatosis . Although models exist to predict key molecular initiating events of steatosis such as nuclear receptor binding we are aware of no models to predict the apical effect steatosis . In this study we describe the development of a QSAR model to predict steatosis using freely available machine learning tools . It was built using a dataset of 207 pharmaceuticals and pesticides which were identified as steatotic or non steatotic from existing data from
+
+@highlight QSAR model to predict steatosis developed using
+@highlight data.
+@highlight Complements models for specific Nuclear Receptors associated with steatosis.
+@highlight Model developed using freely available learning tools.

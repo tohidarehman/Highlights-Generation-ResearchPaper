@@ -1,0 +1,7 @@
+ L. has showed considerable content in phenolic compounds especially flavan 3 ols . The interest of flavan 3 ols has increased due their bioactive actions namely antioxidant and antimicrobial activities and by association of their consumption to diverse health benefits including the prevention of obesity cardiovascular diseases or cancer . These compounds mainly catechin have been showed potential for use as natural preservative in foodstuffs however their degradation is increased by pH and temperature of processing and storage which can limit their use by food industry . To model the degradation kinetics of these compounds under different conditions of storage three kinds of machine learning models were developed i random forest ii support vector machine and iii artificial neural network . The selected models can be used to track the kinetics of the different compounds and properties under study without the prior knowledge requirement of the reaction system .
+
+@highlight L. shows considerable content in phenolic compounds.
+@highlight These compounds have potential use as natural preservative in foodstuffs.
+@highlight pH temperature of processing and storage cause their degradation.
+@highlight Machine learning methodologies were used to model the degradation process.
+@highlight All selected models can predict with R2 upper than 0.90.

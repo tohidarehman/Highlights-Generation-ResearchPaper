@@ -1,0 +1,6 @@
+ The ionospheric weather V index maps are generated from GIM TEC produced at the Jet Propulsion Laboratory with the denser grids of 11 in latitude and longitude respectively . Using sliding window statistical analysis moving TEC median for 15 preceding days with estimated variance bounds is obtained for each grid pixel of GIM TEC . The ionosphere variability index V is TEC deviation from the median normalized by the standard deviation . V index segmentation is introduced specifying TEC storm if an instant TEC is outside the bound of 2 . Comparisons of V variability of 11 GIM TEC maps with normal GIM TECs of 2.55 in latitude and longitude demonstrates the greater TEC storm activity with denser grids maps . The superposed epoch analysis is performed for 77 intense storms and 246 moderate storms during 20002017 with zero time t
+
+@highlight Superiority of denser global TEC maps 11 deg grids over standard IONEX GIM TECs is demonstrated.
+@highlight Hourly seasonal hierarchy is established with the positive TEC storms preceeding Dst storm echoed by the negative TEC storm.
+@highlight Storm Enhanced Density is dominant at Equatorial zone over North and South high latitude zones.
+@highlight Intensity of ionosphere storms is dropped by 35 times from intense to moderate Dst storms.

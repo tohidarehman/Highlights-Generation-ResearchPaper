@@ -1,0 +1,6 @@
+ In this study fly ash polyurea composites of various fly ash volume fractions were fabricated . The time domain stress relaxation behaviors of pure polyurea and the FA PU composites were measured by dynamic mechanical analysis in tension mode at various temperatures . Both temperature and volume fraction of fly ash can affect the segmental motion of polyurea as well as the interaction between fly ash hollow spheres and polyurea matrix which constitutes the intrinsic mechanism of stress relaxation . Master curves of relaxation modulus were constructed and compared for PU and FA PU composites . A model was proposed to relate the relaxation modulus and volume fraction of fillers based on three parameter fractional derivative model and Mori Tanaka model . The numerical predictions obtained from the model are found to be in good agreement with the experimental results .
+
+@highlight Time domain stress relaxation behavior of FA PU composites was quantified by DMA in tension mode at various temperatures.
+@highlight Temperature and filler content strongly affects the stress relaxation of the FA PU composites.
+@highlight Interfacial debonding and relative motion between contacting fillers lead to more significant stress relaxation.
+@highlight A viscoelastic model combining fractional derivative method and Mori Tanaka method was proposed.

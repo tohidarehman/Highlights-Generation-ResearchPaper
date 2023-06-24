@@ -1,0 +1,7 @@
+ The combined steepest decent and artificial annealing optimization method for optimal planning of radial distribution networks is upgraded to take into account the uncertainty of inputs and various methods of determining the load curtailment costs . The optimization method considers the uncertainties of predicted power consumption of line failure rates and of the power supplied by distributed generators . The search for the optimal network configuration is conducted with various cost models for the curtailed loads for comparison . The calculations performed have shown that the reliability cost models considerably affect the optimal network configurations and associated total annual costs . Also it is indicated that the distributed generators should be modeled in the planning of networks as they favorably affect the total costs by decreasing energy losses and by helping in maintaining network operation within the allowed current and voltage limits .
+
+@highlight A method for distribution system planning under uncertainty is presented.
+@highlight An alternative approach for assessing the reliability costs is proposed.
+@highlight Effects of the uncertainty on the optimal solutions are investigated.
+@highlight The impacts of the wind generators are analyzed.
+@highlight The costs for increased reliability of supply are determined.

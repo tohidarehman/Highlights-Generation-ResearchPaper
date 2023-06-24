@@ -1,0 +1,7 @@
+ Estimation of injection volume during a preparative chiral separation can be challenging . Commonly one attempts to maximize the injection volume to reduce total separation time . The factors that limit increasing injection volume are purity constraint and criterion of product recovery . Standard industrial practice is to successively inject increasing volume of sample mixture until two adjoining peaks touch respective baselines . Separation scientists may spend considerable time and material to detect this injection volume before starting the stack injection run . This increased method development time increases time spent on the instrument resulting in decreased efficiency .
+
+@highlight For maximizing throughput it is important to optimize preparative injection volume.
+@highlight In industry optimum volume is detected iteratively through multiple experiments.
+@highlight This report provides a formula to estimate optimum injection volume.
+@highlight Formula applicable to both HPLC and SFC peak following Langmuir isotherm.
+@highlight Example provided with this report is of a preparative SFC separation.

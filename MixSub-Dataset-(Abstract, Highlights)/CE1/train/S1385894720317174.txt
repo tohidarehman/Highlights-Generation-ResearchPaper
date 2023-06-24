@@ -1,0 +1,7 @@
+ The effect of pulsating flow on the rate of mass transfer in a parallel plate reactor was studied by the electrochemical technique . For batch reactor pulsating flow increased the rate of mass transfer compared to natural convection by a factor ranging from 1.05 to 2.43 . A mathematical model was developed to prove that surface renewal plays a major role in enhancing the rate of mass transfer at high pulsation velocities . The combination of steady flow and pulsating flow increased the rate of mass transfer by a factor ranging from 9 to 17 under steady laminar flow and from 3 to 4 in case of turbulent steady flow . Mass transfer data were correlated for batch and continuous reactors by dimensionless correlations . Applications of the present correlations in the design and operation of parallel plate contactors such as electrochemical reactors heat exchangers catalytic reactors and membrane equipment were discussed .
+
+@highlight The effect of pulsating flow on the rate of mass transfer in a parallel plate reactor was studied.
+@highlight The effect of hydrodynamic conditions and physical properties of the liquid was investigated.
+@highlight Mass transfer enhancement due to pulsating flow was quantified under various flow conditions.
+@highlight Mass transfer data were correlated by dimensionless correlations.
+@highlight The correlations are helpful for the design and operation of parallel plate contactors.

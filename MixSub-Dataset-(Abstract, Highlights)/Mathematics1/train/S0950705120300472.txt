@@ -1,0 +1,6 @@
+ Convolutional Neural Networks have been demonstrated to achieve state of the art performance in visual object tracking task . However existing CNN based trackers usually use holistic target samples to train their networks . Once the target undergoes complicated situations
+
+@highlight Propose an adaptive structural convolutional filter network for visual tracking.
+@highlight The structural filter layer can capture the targets structural patterns.
+@highlight Develop an adaptive weighting strategy to improve the trackers stability.
+@highlight Experimental results demonstrate the efficiency of the proposed tracker.

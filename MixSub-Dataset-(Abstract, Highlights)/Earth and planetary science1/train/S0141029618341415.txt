@@ -1,0 +1,9 @@
+ A parametric study was carried out to investigate the torsional response of structures isolated with the Triple Friction Pendulum system with building properties such as uncoupled torsional to lateral frequency ratio
+
+@highlight A parametric study was carried out to investigate the torsional control of structures with the TFPS.
+@highlight The parameters considered are lateral frequency ratio building slenderness and mass and stiffness eccentricities.
+@highlight Response history results showed that uplift in the devices occurs in structures with large mass eccentricity.
+@highlight The values of normal forces in the TFPs may be as large as 6 times the nominal average gravitational load on each isolator.
+@highlight Spectral results show that mass eccentric systems undergo larger amplification factors relative to stiffness eccentric systems with displacement amplification values 2.5 and 1.8 respectively.
+@highlight The TFP is unable to naturally balance designs in its weak form i.e. to evenly distribute displacements among resisting planes at equal distance from the geometric center.
+@highlight The uncoupled lateral to torsional frequency ratio strongly influences most of the torsional amplification metrics used.

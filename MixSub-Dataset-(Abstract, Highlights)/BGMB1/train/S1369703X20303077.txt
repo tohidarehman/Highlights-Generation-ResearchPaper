@@ -1,0 +1,6 @@
+ In the bioprocess modeling field a descriptive methodology that explicity considers the interactions between the environment and cells is lacking . This relationship directly affects all kinetics which have so far been formulated through empirical relationship . In this research additional steps were added to a known bioprocess modeling methodology to relate environment and cells to each other . The quantitative validation of the proposed phenomenological based semi physical model was developed for a glucose culture bioprocess carried out by the bacterium
+
+@highlight New mathematical model for a culture bioprocess carried out with
+@highlight Concentration equations between the culture media and cytoplasm of
+@highlight Equilibrium distribution curve of acetate in cytoplasm and culture media.
+@highlight Methodology to obtain phenomenological based semi physical models in bioprocesses.

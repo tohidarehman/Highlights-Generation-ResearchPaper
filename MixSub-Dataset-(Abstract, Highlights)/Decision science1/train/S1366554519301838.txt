@@ -1,0 +1,6 @@
+ This paper envisions a mixed network with autonomous vehicle expressways and non autonomous local streets in the future where a trip may consist of both the AV self driving part and the manual driving part . A linear traffic corridor approach is adopted where AV expressways and non autonomous streets are in parallel and are connected through the entrance exit . This mimics the intermediate future where AV expressways may be initially deployed along major corridors . We model and analyze road users route choice in such a mixed network . We also examine how AV expressways are integrated with the local streets can affect system performance .
+
+@highlight This paper envisions a mixed network with AV lanes and non autonomous local streets.
+@highlight This paper models AV route choices under both User Equilibrium and System Optimum.
+@highlight This paper derives cordon based tolling schemes to achieve System Optimum.
+@highlight This paper explores how AV expressways should be integrated with local streets.

@@ -1,0 +1,5 @@
+ In order to avoid the fatigue failure of high strength bolt under cyclic transverse loading fine particle peening treatment was conducted to the bolt using steel beads . The surface roughness residual stress and surface hardness of the treated bolts were examined . Fatigue tests were performed for bolts with or without FPP treatment under transverse loading . The test results show that FPP treatment effectively improves the fatigue resistance of high strength bolt through reducing the surface roughness increasing the surface hardness and introducing high compressive residual stress in the surface layer . For the FPP treated bolts failure location changes from the bolt head fillet to thread root as loading displacement decreases to 0.3mm . A finite element analysis was performed to analyze the failure behavior before and after FPP treatment .
+
+@highlight Fine particle peening was used to improve fatigue properties of high strength bolts under transverse loading.
+@highlight Surface roughness compressive residual stress and micro hardness was measured.
+@highlight A finite element analysis combined with equivalent stress method was performed.

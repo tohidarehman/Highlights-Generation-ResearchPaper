@@ -1,0 +1,6 @@
+ Over the last twenty years access to higher education has grown extraordinarily in Latin America . Higher education systems have been challenged to improve their efficiency while strengthening quality assurance processes . In Colombia the government and the researchers developed models to assess the performance of Higher Education Institutions . Nevertheless the current scholarship does not have a model that allows the system to measure multiple efficiencies in a diverse environment . In this study we address the challenge of evaluating the efficiency of HEIs taking into account different goals of the Colombian education system . To this aim we extend a cross efficiency data envelopment analysis approach to evaluate the efficiency of Colombian HEIs in the presence of flexible measures . While some HEIs are efficient in terms of teaching or employment others are efficient in terms of research . Therefore the model suggests broader policies to achieve the efficiency of the institutions under multiple goals .
+
+@highlight The Colombian higher education system is efficient in teaching and employment terms.
+@highlight The Colombian HEIs remain inefficient in the research domain.
+@highlight It is desirable to maintain a mixed system with only some research oriented HEIs.
+@highlight On teaching students quality has a higher impact than professors academic level.

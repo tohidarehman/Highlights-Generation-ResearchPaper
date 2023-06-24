@@ -1,0 +1,6 @@
+ We present a procedure for generating the parameters of the Hartmann Tran profile from purely first principles calculations . Starting from an absorber perturber interaction potential we calculate
+
+@highlight Fully ab initio calculation of Hartman Tran profile line shape parameters.
+@highlight Direct calculation of the Dicke parameter for atmospherically relevant species.
+@highlight Validation of velocity changing collisions model of the Hartmann Tran Profile.
+@highlight Validation of the temperature dependence model adopted in HITRAN2016.

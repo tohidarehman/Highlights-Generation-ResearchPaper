@@ -1,0 +1,7 @@
+ Platelet derived growth factor is associated with clinical proliferative vitreoretinopathy which is characterized by formation of sub or epi retinal membranes that consist of cells including retinal pigment epithelial RPE cells and extracellular matrix . RPE cells play an important role in PVR pathogenesis . Previous findings indicated that PDGF receptor was essential in experimental PVR induced by fibroblasts . In RPE cells derived from epiretinal membranes from patients with PVR Akt was activated by PDGF B but not PDGF A which suggested that PDGFR was the predominant PDGFR isoform expressed in RPEMs . Indeed CRISPR Cas9 mediated depletion of PDGFR in RPEMs attenuated patient vitreous induced Akt activation and cellular responses intrinsic to PVR including cell proliferation migration and contraction . We conclude that PDGFR appears to be the PVR relevant PDGFR isoform in RPEMs .
+
+@highlight The predominant PDGFR isoform in RPE cells isolated from PVR membranes is PDGFR
+@highlight Depletion of PDGFR
+@highlight in RPEMs suppresses vitreous stimulated Akt activation and cell contraction.
+@highlight PDGFR
+@highlight is a potential target for PVR therapy.

@@ -1,0 +1,7 @@
+ The accurate and timely estimation of temporal and spatial changes in crop growth and yield before harvesting is essential for ensuring global food security . The integration of remote sensing data and crop models is a potential approach for the estimation of key crop growth parameters and crop yields . Therefore the aim of this study was to assimilate biomass and canopy cover derived from vegetation indices into the AquaCrop model using the particle swarm optimization algorithm in order to obtain a more accurate estimation of CC biomass and yield for maize . The results show that compared to other vegetation indices the enhanced vegetation index and the three band water index can be used to obtain a better estimation of CC R
+
+@highlight Enhanced vegetation index was the best vegetation index VI for estimating canopy cover CC .
+@highlight Three bands water index was the best vegetation index for estimating biomass.
+@highlight Assimilating CC and biomass derived from VIs into AquaCrop model using PSO algorithm.
+@highlight Single variable data assimilation method can be used to get more accurate results for CC or biomass.
+@highlight Result of estimated yield by double variables data assimilation method was better than based on single variable.

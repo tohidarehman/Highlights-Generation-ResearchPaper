@@ -1,0 +1,7 @@
+ As availability of skilled harvest labour is in decline the sustainability of fresh market apple production in the USA is threatened . A mass mechanical harvesting of apples offers an alternative and promising solution . In addition to harvester design elements it is important to understand the key canopy parameters of apple trees as they are closely integrated and interact with each other during the harvest process . In this study the impact of eleven canopy parameters on mechanical harvesting were investigated for vertically trained Scifresh and V trellis grown Envy trees during harvesting trials . A supervised machine learning algorithm with weighted
+
+@highlight Relevancy of eleven canopy parameters on mechanical harvesting investigated.
+@highlight A supervised machine learning algorithm was adopted to analyse the datasets.
+@highlight 2678 apples were classified into binary classes of fruit removal status.
+@highlight Principal components analysis PCA was adopted to analyse the datasets.
+@highlight Fruit load per branch and branch basal diameter the most relevant parameters.

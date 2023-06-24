@@ -1,0 +1,7 @@
+ Virtual reality videos are an important element in the range of immersive contents as they open new perspectives for story telling journalism or education . Accessing these immersive contents through Internet streaming is however much more difficult owing to the required data rates much higher than for regular videos . While current streaming strategies rely on video compression in this paper we investigate a radically new stance we posit that degrading the visual quality is not the only choice to reduce the required data rate and not necessarily the best . Instead we propose two new impairments Virtual Walls and Slow Downs that change the way the user can interact with the 360
+
+@highlight The multimedia community has been active in finding ways to stream immersive video content under limited bandwidth.
+@highlight Degrading the quality is not the only choice to lower the data rate and not necessarily the best for the users.
+@highlight Two new types of impairments Virtual Walls and Slow Downs exploit the human attentional process to this aim.
+@highlight Experiments confirm the potential of these alternative impairments and indicate in which situation should they be employed.
+@highlight Network simulations with viewport based adaptations confirm their potential to improve various streaming performance metrics.

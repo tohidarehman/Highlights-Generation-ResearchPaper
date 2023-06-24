@@ -1,0 +1,10 @@
+ Simulations of two phase flow in a pipe are among the widely discussed topics however with the increased understanding of multiphase flow in pipes the application of computational fluid dynamics in other complex flow geometries involved in oilfield operations is becoming more common . This study is aimed to investigate and better understand two phase flow characteristics in the annulus using computational fluid dynamics and experimental approaches . The experimental study included two sets of five tests with increasing superficial gas velocity 9.247.2
+
+@highlight Extensive description of experimentalstudy for high superficial gas velocity 9.247.2
+@highlight None
+@highlight m s .
+@highlight Pressure gradient liquid holdup and flow regime data for experimental work.
+@highlight Detailed explanation of CFD modeling for the annulus geometry using ANSYS Fluent.
+@highlight Mesh sensitivity pressure gradient and void fraction characterization using CFD modeling.
+@highlight Computational approach using probability density function to mimic the void fraction and flow regime in the annulus.
+@highlight Comparison of experimental and numerical results for pressure gradient.

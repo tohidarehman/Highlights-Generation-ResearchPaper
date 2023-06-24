@@ -1,0 +1,7 @@
+ This study examines how paid search advertising affects conversion probability and selling duration on e marketplace platforms as well as how these effects are moderated by two advertiser characteristics transaction experience and organizational type . We develop a model that includes both conversion incidence and selling duration thus accounting for the correlation between the variables . The proposed model is calibrated using data on one million randomly selected used cars traded in an online marketplace . The results reveal that search ads increase conversion probability significantly by a remarkable 65.26 and shorten selling duration by 3.51days on average . The effect on conversion probability is greater for new advertisers than it is for their regular counterparts . By contrast the shortened selling duration is more pronounced for regular advertisers than it is for new advertisers . Finally we discuss the implications of these findings for marketplace sellers and platform companies .
+
+@highlight Investigates the effect of search ads on conversion probability and selling duration.
+@highlight Examines the moderating role of transaction experience and organizational type.
+@highlight Search ads increase conversion probability and shorten selling duration.
+@highlight The effect on conversion probability is higher for new individual advertisers than for regular business advertisers.
+@highlight The effect on selling duration is higher for regular individual advertisers than for new business advertisers.

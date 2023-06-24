@@ -1,0 +1,8 @@
+ Here we present a novel G4 binding family of compounds based on a central core of phenyl ditriazole modified with carbohydrates and phenyl pyrrolidinyl side chains . Their synthesis was achieved using controlled click chemistry conditions to obtain both symmetric and dissymmetric carb PDTZ derivatives without any intermediate protecting steps through an optimized methodology . Binding of the new carb PDTZ to a variety of G quadruplex motifs was examined using different biophysical techniques . The symmetric carb PDTZ derivatives were not able to stabilize G4 but the dissymmetric ones did . Interestingly the dissymmetric carb PDTZ derivatives showed much higher G4 vs duplex DNA selectivity than the control compound PDTZ
+
+@highlight Synthesis of carbohydrate phenyl ditriazole derivatives as DNA G quadruplex ligands.
+@highlight Binding studies to G quadruplexes using FRET CD MS and NMR spectroscopy.
+@highlight Different binding modes to the HIV321 g quadruplex sequence were observed for
+@highlight and
+@highlight phenyl ditriazole ligands.
+@highlight Antiproliferative activity was measured for the new G quadruplex ligands.

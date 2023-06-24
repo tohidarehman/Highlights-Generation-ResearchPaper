@@ -1,0 +1,7 @@
+ Discrete choice studies are increasingly used in urban planning to understand preferences and to make informed decisions based on its outcomes . Traditional discrete choice modelling approaches have evolved in a setting in which some very specific behavioural assumptions are made in specifying decision making . These assumptions have given rise to the study of alternative process strategies in decision making such as majority of confirming dimensions attribute non attendance or value learning . In this paper a stated choice experiment was designed to understand business location decisions where a location specialist had to compare their current location with two alternative locations . After each choice task respondents were asked whether they used ANA in processing the choice tasks and at the end of the experiment a number of questions were asked to identify whether specific process heuristics were used such as MCD and VL . Choice models were estimated to compare the influence of including different
+
+@highlight Business location decision choice experiment with stated process strategies questions.
+@highlight Model formulation proposal including multiple stated process strategies.
+@highlight Attribute non attendance value learning and majority of confirming dimensions.
+@highlight Willingness to pay outcomes comparison across models.
+@highlight Median WTP estimates are influenced by heterogeneity in process rules in choice making.

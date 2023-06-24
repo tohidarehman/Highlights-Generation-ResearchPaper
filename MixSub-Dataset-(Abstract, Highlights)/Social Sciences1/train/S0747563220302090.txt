@@ -1,0 +1,7 @@
+ This article analyzes the concept of validity to set out key factors bearing on claims about validity in general and particularly regarding learning analytics . Because uses of trace data in learning analytics are increasing rapidly specific consideration is given to reliability of trace data and their role in claiming validity for interpretations grounded on trace data . This analysis reveals the essential and inescapable role of theory in deciding what trace data should be gathered and how trace data can contribute to recommendations for improving learning one main goal for generating and using learning analytics .
+
+@highlight Trace data are increasingly useful in developing learning analytics.
+@highlight Raw data are biased by the theory that recommends observing those data.
+@highlight Self regulating learners acting as agents complicate reliability of trace data.
+@highlight Reliability of trace data concerns dynamic events not static aspects of a measure.
+@highlight Generalizability over facets of data sets limits on reliability and validity.

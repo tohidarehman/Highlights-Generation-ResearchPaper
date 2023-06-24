@@ -1,0 +1,5 @@
+ Direct numerical simulation on the turbulent flow between two parallel walls under constant heat flux reveals that adding neutrally buoyant finite size particles at volume fractions of 0.1 and 0.3 and bulk Reynolds numbers of 3800 and 5600 in general reduces the Nusselt number on average but enhances it near the walls . The enhancement is contributed by the near wall streamwise vortex intensification which is more significant for spheres than for prolates and oblates . These findings are helpful to intensify the wall to liquid heat transfer in particle laden turbulent flow .
+
+@highlight Interface resolved direction numerical simulation on the heat transfer in turbulent particle laden channel flow.
+@highlight Heat transfer modification by particles is demonstrated under various conditions.
+@highlight Particle induced enhancement of near wall heat transfer is interpreted physically.

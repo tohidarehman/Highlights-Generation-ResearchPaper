@@ -1,0 +1,6 @@
+ A two dimensional system composed of supercritical fluid chromatography and reverse phase liquid chromatography coupled a tandem mass spectrometry was developed for the quantitative analysis of vitamin D in daily oily supplements . Two six port switching valves are configured allowing four different valve positions . When the valve positions were fixed at Position A this system worked at SFC MS mode . When the valve positions switched between Position B and C this system worked at a SFC LC MS switching mode . Vitamin D3 in two kinds of oily drops Baby Ddrops and Vitamin AD drops was determined at both SFC MS and SFC LC MS switching modes by using the same system . The linearity repeatability and recovery were investigated using the internal and external standard methods for the two modes . The results obtained from the internal standard method are better than those of the external standard method at either mode . The coefficient of determination r
+
+@highlight A two dimensional column switching system involving SFC and RPLC MS is developed.
+@highlight The system works at SFC MS or SFC LC MS mode through switching two six port valves.
+@highlight Vitamin D in oily supplements can be determined simply and fast using this system.
+@highlight SFC LC MS can get more accurate result with better precision even if using ES method.

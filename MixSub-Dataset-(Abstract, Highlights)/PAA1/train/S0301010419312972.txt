@@ -1,0 +1,6 @@
+ We introduce a database of 14 accurate bond dissociation energies of noble gas compounds . Reference CCSD CBS BDEs are obtained by means of W1 theory . We evaluate the performance of contemporary density functional theory double hybrid DFT and composite ab initio procedures . A general improvement in performance is observed along the rungs of Jacobs Ladder however only a handful of functionals give good performance for predicting the bond dissociation energies in the NGC14 database . Thus this database represents a challenging test for DFT methods . Most of the conventional DFT functionals result in root mean square deviations between 10.0 and 82.1kJmol
+
+@highlight Determines CCSD T CBS benchmark bond dissociation energies for argon compounds.
+@highlight Evaluates the performance of DFT and ab initio methods for ArC and ArH bonds.
+@highlight Many DFT methods have difficulty describing these bond dissociation energies.
+@highlight Composite ab initio methods also have difficulty in describing these BDEs.

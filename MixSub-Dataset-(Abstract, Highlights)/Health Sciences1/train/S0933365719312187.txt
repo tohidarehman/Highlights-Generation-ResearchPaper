@@ -1,0 +1,7 @@
+ Deregulated splicing machinery components have shown to be associated with the development of several types of cancer and therefore the determination of such alterations can help the development of tumor specific molecular targets for early prognosis and therapy . Determining such splicing components however is not a straightforward task mainly due to the heterogeneity of tumors the variability across samples and the
+
+@highlight A novel supervised methodology for analyzing dysregulation in splicing machinery.
+@highlight Allows the determination of rankings of splicing components.
+@highlight Explains individual predictions and global behaviors of induced classifiers.
+@highlight A heuristic search finds accurate classification models and small subsets of relevant splicing components.
+@highlight Better exploitation and acceptance of black box classifiers in alternative splicing studies.

@@ -1,0 +1,10 @@
+ Platelet derived growth factor is a family of growth factors with mitogenic and chemotactic activity . However uncontrolled and overactivated PDGF signaling has been implicated in a variety of diseases such as cancers and atherosclerosis . In this context inhibition of PDGF PDGFR signaling is of paramount importance in progression of such diseases . The purpose of the current study was to identify novel PDGF B inhibitors using virtual screening methods . To this end a combination of molecular modeling techniques such as molecular docking and dynamics simulation as well as drug likeness filtering criteria was applied to select anti PDGF peptidomimetic candidates based on crystallography solved structure of an anti PDGF B monoclonal antibody named MOR8457 .
+
+@highlight Virtual screening was used for identifying two novel ligands antagonizing PDGF B.
+@highlight Inhibitory activity of the ligands was evaluated using
+@highlight bioassay.
+@highlight Binding free energies were calculated for the ligand protein complexes.
+@highlight The results of
+@highlight calculations were in agreement with
+@highlight bioassay.
+@highlight The results can be used for design of novel anti PDGF B drugs.

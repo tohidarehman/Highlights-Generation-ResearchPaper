@@ -1,0 +1,6 @@
+ With the development of wireless charging technology charging while driving now becomes possible . In this paper we propose a model to optimize the location of the wireless charging lanes by taking into account their effects on road capacity and travelers route choice . The model is formulated as a nonlinear programming problem and solved by a linearization method . A new method is developed to reduce the maximum error in the linearization process . The model and solution method are tested on Nguyen Dupuis and Sioux Falls networks . The numerical results show that relatively high charging power and reasonable budget are necessary to recover the investment when charging lanes are deployed on road network . It is also demonstrated that the impacts of WCL on road capacity drop and travelers route choice are not negligible and should be considered in the determination of WCL location .
+
+@highlight Propose a wireless charging lane WCL location model considering the WCL adverse effect.
+@highlight Linearize the model with minimum error.
+@highlight Test the model and solution method on two networks.
+@highlight Validate the necessity of considering the adverse effect of WCL.

@@ -1,0 +1,5 @@
+ Research that incorporates information from satellites into conventional biophysical models has great importance and interest . Comprehensive crop water algorithms can help track crop stress schedule irrigation and acquire water right information for effective water management and increased productivity in semi arid and arid environments . Overall objective was to utilize the automated biophysical surface energy balance model BAITSSS to understand critical agricultural water management issues . BAITSSS served as an advanced digital landscape crop water tracker and irrigation scheduler to simulate hourly landscape evapotranspiration
+
+@highlight BAITSSS served as landscape digital crop water tracker and irrigation scheduler.
+@highlight Compared recorded irrigation to simulated irrigation as well as in season water supply to simulated evapotranspiration.
+@highlight Results indicated important economic and policy implications of BAITSSS results.

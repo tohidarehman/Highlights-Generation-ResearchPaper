@@ -1,0 +1,7 @@
+ Reducing information asymmetry between investors and a firm can have an impact on the cost of equity especially in an environment or times of uncertainty . New technologies can potentially help disseminate corporate financial information reducing such asymmetries . In this paper we analyse firms dissemination decisions using Twitter developing a comprehensive measure of the amount of financial information that a company makes available to investors
+
+@highlight The study constructs a measure of firms dissemination of financial information by analyzing big data of firms tweets.
+@highlight Firms that disseminate financial information reduce the cost of equity.
+@highlight Financial information dissemination is stronger for less visible to investors firms.
+@highlight News magnitude and content have not changed the findings.
+@highlight The results are robust to alternative measures and to more control variables.

@@ -1,0 +1,7 @@
+ We document that acquirer firms with insider CFOs achieve superior industry adjusted operating performance in the post acquisition period relative to firms with outsider CFOs utilizing a sample from 1994 to 2014 . Unlike insider CEOs we find that insider CFOs do not differ from outsider CFOs in the acquisition deal types they undertake . However they achieve significantly higher factor productivity gains after the acquisition . Our analysis suggests that the ability to identify targets that can yield higher synergy gains and the ability to integrate the target within the firm are behind the superior post acquisition returns of insider CFOs . Our results are robust to various time windows and a range of robustness tests regarding model specificationsuch as including additional firm level controls alternative performance measures and controls for firm overconfidence and CFO education overconfidence and pay .
+
+@highlight Insider CFOs achieve superior post acquisition operating performance than outsiders.
+@highlight This acquisition success stems primarily from deal execution not deal type.
+@highlight Insiders undertake similar acquisition deal types as outsiders.
+@highlight However insiders achieve superior target integration reflected in factor productivity.
+@highlight Greater firm specific knowledge yields an advantage to insider CFOs.

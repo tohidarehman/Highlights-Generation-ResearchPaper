@@ -1,0 +1,6 @@
+ In this paper several efficient energy dissipative linear difference schemes are presented and analyzed for solving the coupled nonlinear damped fractional wave equations . First the weighted shifted Grnwald difference formula is used to approach the considered fractional system in space direction . Then we apply second order centered difference scheme and invariant energy quadratization Crank Nicolson scheme to discrete the resulting system in time direction respectively . Subsequently the convergence and stability of the proposed schemes are discussed . By using the discrete energy method and a cut off function technique it is proven that the suggested schemes attain the convergence orders of
+
+@highlight It is significant to develop energy dissipative conservative numerical methods for simulating propagation of the coupled nonlinear damped space fractional wave equations in long time duration.
+@highlight We develop and analyze efficient linear energy dissipative difference schemes for the coupled nonlinear damped space fractional wave equations.
+@highlight The proposed finite difference methods are proved to be unconditionally convergent and stable.
+@highlight Some numerical results are exhibited to illustrate the physical effects of the damping terms and unconditional energy stability of the suggested schemes.

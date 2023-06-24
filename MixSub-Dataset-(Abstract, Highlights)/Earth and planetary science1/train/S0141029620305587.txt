@@ -1,0 +1,7 @@
+ Recent research works have shown the feasibility of using iron based shape memory alloys in structural rehabilitation projects especially for flexural strengthening . As for the shear strengthening of reinforced concrete beams with SMAs most previous works have used small scale members . This paper presents an experimental campaign involving eight tests run with real scale RC beams . The total length of the beams was 5800mm and their T shape cross section was 550mm deep . External strengthening was done using Fe SMA strips with a U configuration . Strips were characterized before being used for the strengthening application . The key results are herein presented . All the beams failed in shear . Tests showed an increase of around 30 in the shear strength of the retrofitted beams
+
+@highlight 8 tests carried out on real scale concrete beams with T shape cross section.
+@highlight External shear strengthening was implemented by Fe SMA strips with U configuration.
+@highlight Appearance of shear cracks was delayed for the retrofitted beams with activated strips.
+@highlight The shear strength of the retrofitted beams increased 30 vs. the reference beams.
+@highlight Anchorage problems were detected in the web reducing the expected ductility.

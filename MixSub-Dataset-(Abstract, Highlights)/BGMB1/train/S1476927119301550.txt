@@ -1,0 +1,8 @@
+ Elementary flux mode analysis is a well studied method in constraint based modeling of metabolic networks . In EFM analysis a network is decomposed into minimal functional pathways based on the assumption of balanced metabolic fluxes . In this paper a system architecture is proposed that approximately models the functionality of metabolic networks . The AND OR graph model is used to represent the metabolic network and each processing element in the system emulates the functionality of a metabolite . The system is implemented on a graphics processing unit as the hardware platform using CUDA environment . The proposed architecture takes advantage of the inherent parallelism in the network structure in terms of both pathway and metabolite traversal . The function of each element is defined such that it can find flux balanced pathways . Pathways in both small and large metabolic networks are applied to the proposed architecture and the results are discussed .
+
+@highlight Proposing a modular system architecture to calculate minimal flux balanced metabolic pathways.
+@highlight The architecture is based on the AND OR graph model.
+@highlight The proposed architecture was implemented on a GPU platform to take advantage of the parallel architecture provided in the GPU based on multiple cores and hierarchical memory.
+@highlight The topology based parallelism obtained by the system was the main achievement of the model.
+@highlight The simplified metabolic network of the CHO cell was studied to prove the concept of the design on metabolic networks to find EFMs. Besides the potential of the model was studied on shortest pathways of the
+@highlight model.

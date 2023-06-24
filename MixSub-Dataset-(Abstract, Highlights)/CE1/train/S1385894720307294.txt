@@ -1,0 +1,9 @@
+ Solid particle distribution determines the reactor internal phases placement and the contact mode between catalyst particles and the liquid phase thus plays a key role in dictating the overall performance of slurry Taylor flow based microreactors . This study numerically investigates the distribution characteristics of particles within liquid slugs in a vertical capillary tube with the aim to describe the corresponding underlying mechanisms .
+
+@highlight VOF DEM is developed for simulating the slurry Taylor flow STF .
+@highlight Numerical problem is solved for applying refined mesh for CFD DEM simulations.
+@highlight Body fixed frames of reference are introduced to aid the analysis of STF.
+@highlight Three distinctly different solid distribution patterns are observed.
+@highlight Relatively uniform solid distribution is achievable for
+@highlight  550 and
+@highlight  0.1.

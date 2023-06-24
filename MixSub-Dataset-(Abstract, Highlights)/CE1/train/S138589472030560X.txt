@@ -1,0 +1,8 @@
+ Polypyrrole based fiber shaped supercapacitor is attracting increasing attention as energy storage devices of flexible and wearable electronic products in recent years . However its application is limited by the low specific capacitance and poor rate capability mainly suffering from inferior conductivity and inhibited ions channels of fiber electrode . Here a high performance flexible FSSC is constructed based on hierarchically interconnected porous poly poly PPy composite fiber prepared by in situ chemical polymerization of pyrrole on a novel highly conductive PEDOT PSS hydrogel support . The good electronic and ionic conductor properties hierarchically porous structure and interaction of conducting polymer hybrid fiber ensure fast electrons transfer ions diffusion and the efficient utilization of whole electrode . Benefiting from the well designed hybrid architecture and synergistic effect the PEDOT PSS PPy hybrid fiber in FSSC exhibits superb volumetric areal length specific capacitance 393.8Fcm
+
+@highlight Hybrid fiber was prepared with PPy attached on the conductive porous PEDOT support.
+@highlight PEDOT support facilitates electrons ions transport to effectively utilize PPy.
+@highlight PEDOT PPy electrode in FSSC displays high specific capacitance 393.8Fcm
+@highlight  .
+@highlight The flexible FFSC shows the high energy density of 8.3mWhcm
+@highlight at 389.1mWcm

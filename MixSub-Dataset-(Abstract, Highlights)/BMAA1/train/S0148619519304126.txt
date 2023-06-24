@@ -1,0 +1,7 @@
+ Financial analysts evaluate a firms performance and provide earnings forecasts for future periods . Analysts have limited access to firm financial information particularly following the enactment of Regulation Fair Disclosure on October 23 2000 which may result in information asymmetry between analysts and firm insiders . However banks are exempt from the Reg FD and they can still access private information to qualify borrowing firms for better terms on loans . Analysts may accordingly use loan contracts as a source of information to reduce information asymmetry and improve their earnings forecasts . We find that during the quarters wherein companies sign loan contracts analysts provide more accurate earnings forecasts with lower forecast errors . More importantly we find that analysts revise their earnings forecasts upward following the issuance of loans with low interest rates while they revise them downward following the issuance of loans with high interest rates . Overall these results are consistent with financial analysts using the information provided in debt contracts to better evaluate a firms performance and provide more precise earnings forecasts .
+
+@highlight Analysts use information from debt contracts.
+@highlight They revise their earnings forecasts depending on the interest rate of loans.
+@highlight Forecast errors decreases following the issuance of loans.
+@highlight Results are stronger for investment loans and loans to financially distressed firms.
+@highlight Results highlight the impact of Reg FD.

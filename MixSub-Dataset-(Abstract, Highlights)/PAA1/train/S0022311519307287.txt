@@ -1,0 +1,7 @@
+ The effective diffusion theory which is generally used in the modelling of base irradiation of nuclear fuel can not predict the intra granular fission gas release during post irradiation annealing tests . From this discrepancy between experiments and usual theory several alternative scenarios emerged . The purpose of this work is to model these scenarios as mechanistically as possible and to distinguish those that could really explain the observations . The difficulty is that the fission gas bubbles in irradiated UO
+
+@highlight Fission gas release during post irradiation annealing of UO
+@highlight is analyzed.
+@highlight Directed movement of pressurized intra granular gas bubbles in a vacancy concentration gradient is modelled.
+@highlight Random movement of these intra granular bubbles via surface diffusion is also incorporated.
+@highlight The FGR solely due to intra granular bubble migration due to these mechanisms is quite insignificant compared to the experimental value.

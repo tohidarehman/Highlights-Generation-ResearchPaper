@@ -1,0 +1,7 @@
+ Photophoresis in the slip flow and free molecular regimes under plane wave illumination is investigated in terms of the asymmetry factor for non volatile homogeneous low loss spherical particles with an arbitrary index of refraction . An analytic and closed form expression for this important factor is derived which can be used to predict photophoretic forces exerted on microparticles of arbitrary size parameters therefore in any optical regime . Examples are given in terms of the behavior of both the asymmetry factor and the internal field distribution showing differences between photophoresis of dielectric negative index and magnetodielectric particles .
+
+@highlight Photophoresis for both slip flow and free molecular regimes is presented for arbitrary index microspheres
+@highlight It uses the Mie theory for lossy and homogeneous spheres and extends previous analysis for dielectric scatterers
+@highlight An analytic and closed form expression is derived for the asymmetry factor which can be used to predict photophoretic forces exerted on microparticles of arbitrary size parameters
+@highlight Examples are given in terms of the behavior of both the asymmetry factor and the internal field distribution
+@highlight Examples include dielectric negative index and magnetodielectric particles.

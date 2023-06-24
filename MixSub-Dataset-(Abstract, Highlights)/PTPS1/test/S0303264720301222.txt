@@ -1,0 +1,5 @@
+ Intercellular calcium signaling allows cells to communicate with each other and to interact with adjacent cells . Gap junction is the most common and important way for cellular communication . Recently mathematical models have been widely used to gain a precise and quantitative understanding of the dynamics of intracellular calcium ions Ca
+
+@highlight A mathematic model is built considering the gap junctions and calcium channels.
+@highlight SOCC and ROCC affect the frequency and amplitude of oscillations for coupled system.
+@highlight Synchronization boundaries for different conditions are gained in parameters space.

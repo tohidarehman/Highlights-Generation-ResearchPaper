@@ -1,0 +1,7 @@
+ A comprehensive approach to model the brittle failure of arbitrary wooden structures is presented . The Extended Finite Element Method is utilised to depict discontinuities in the displacement field i.e . cracks and to model material interfaces in the strain field . Location and direction of crack nucleation and crack growth are identified by a stress based failure criterion utilising a multi surface formulation . An anisotropic cohesive formulation is used to depict the fracture process zone . A new approach for the simulation of wooden boards with inhomogeneities is presented which models the ingrown knots with a coupled weak and strong interface . A completely automatic simulation of crack growth on a regular mesh modelling the material and cohesive interface between knot and surrounding material at the same time is feasible . The proposed methods are validated by comparison to experiments .
+
+@highlight Adaptive cohesive crack growth model for wood using XFEM and a multisurfacefailure criterion based on stress field.
+@highlight Coupling of cracks material interfaces and crack branches in a regular mesh using XFEM.
+@highlight Presentation of a crack growth strategy for inhomogeneous wooden boards with ingrown knots.
+@highlight Validation of the method with experiments of common wooden structures and boards with knots.
+@highlight Application to strength grading of wooden boards.

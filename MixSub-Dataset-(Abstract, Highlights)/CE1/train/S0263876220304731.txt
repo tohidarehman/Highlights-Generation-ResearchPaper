@@ -1,0 +1,10 @@
+ Diffusive Lagrangian Mixing Simulation is an adaptation of the Lagrangian Mixing Simulation algorithm taking in account the diffusive scales . LMS is a Lagrangian method that positions particles over a Eulerian velocity field to track the flow front between two fluids in a mixer . A mixing interface is formed where quantities such as interfacial area and segregation scales can be measured . In DLMS the interface is only generated if the local segregation scale is above a threshold value below which the contacting front between fluids is ruptured . The elimination of particles in diffusion dominated regions makes DLMS more realistic and in addition the computation is faster than in LMS . To develop and illustrate the application of DLMS 2D CFD simulations of the flow in Confined Impinging Jets reactors are used . The comparison between DLMS and LMS results is done for a particular case Re
+
+@highlight Diffusive Lagrangian Mixing Simulation is a Lagrangian Mixing Simulation adaptation
+@highlight DLMS tracks the flow front between two fluids using particles
+@highlight Particles are deleted if the segregation scale is below a threshold value
+@highlight DLMS is applied over a 2D CIJ reactor CFD simulation and compared with LMS for Re
+@highlight None
+@highlight None
+@highlight 600
+@highlight DLMS enables to benchmark active mixing cases. CPU time of DLMS is smaller than LMS

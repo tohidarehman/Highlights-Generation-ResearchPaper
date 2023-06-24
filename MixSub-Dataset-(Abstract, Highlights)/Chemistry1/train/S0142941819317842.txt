@@ -1,0 +1,7 @@
+ Resins as matrix materials for structural composites show nonlinear rate dependent mechanical behaviors . In the present work a new viscoplastic constitutive equation based on a potential function is proposed to predict the mechanical response of an epoxy matrix to any three dimensional loading condition . The proposed potential function is a combination of the second and third invariants of the deviatoric stress tensor as well as the first invariant of the stress tensor i.e . the hydrostatic stress . Series of tensile and shear constant rate straining tests were performed on epoxy resin specimens up to the fracture . Under shear loading the nonlinearity of the stress strain curve and the rate dependency of the initial modulus and strength are more significant than that under tensile loading . The viscoplastic model parameters are derived from the experimental data and the fracture patterns of the specimens under tensile and shear loadings are studied . Further the model predictions are compared with a known rate dependent model to show the accuracy of the presented model .
+
+@highlight A new viscoplastic model was developed to predict rate dependent behavior of resins.
+@highlight A set of tensile and shear tests at various constant strain rates were performed.
+@highlight Viscoplastic model parameters were successfully extracted from experimental results.
+@highlight Under shear loading the rate dependency of stiffness and strength are more significant.
+@highlight Fracture patterns of tensile and shear specimens indicate brittleness of resin behavior.

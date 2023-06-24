@@ -1,0 +1,7 @@
+ The kinetics of adsorption for Langmuir and Freundlich isotherms has been explored theoretically on the basis of Statistical Rate Theory . The Modified Pseudo First Order and Pseudo First Order models were derived from Freundlich isotherm on the basis of Statistical Rate Theory at
+
+@highlight Kinetics study of Langmuir and Freundlich isotherms by Statistical Rate Theory.
+@highlight Derivation of Pseudo First Order and Pseudo Second Order models.
+@highlight Derivation of Modified Pseudo First Order model.
+@highlight Derivation of a new kinetics model for adsorption.
+@highlight Simulation of Humic Acid adsorption on Hematite and Kaolinite adsorbents.

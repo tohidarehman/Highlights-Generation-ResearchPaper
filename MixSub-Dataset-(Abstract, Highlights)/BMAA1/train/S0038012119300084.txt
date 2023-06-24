@@ -1,0 +1,6 @@
+ In recent years healthcare systems have been forced to better organize their services in the final attempt to maximize both care effectiveness and efficiency . In particular emergent trends are prompting hospitals to pay more attention to the effective and efficient planning of resources and to the creation of patient centred services in which current activities and resources are reorganized around patients .
+
+@highlight A systematic methodology to support the resource planning of healthcare services is developed.
+@highlight A combined approach based on Time Driven Activity Based Costing and Process Mining is exploited.
+@highlight The method automatically identifies the patient flow and evaluates the activities and resource consumptions.
+@highlight A case study of lung cancer patients in an Italian hospital is reported.

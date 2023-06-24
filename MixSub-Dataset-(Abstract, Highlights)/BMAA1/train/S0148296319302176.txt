@@ -1,0 +1,5 @@
+ The purpose of the present study is to build and test a simulation model for the prediction of gaze hits in the context of dynamic marketing stimuli . Forecasting the attentional effect of dynamic stimuli is of particular interest when it comes to indirect forms of marketing communication such as sponsorship product placement or in game advertising . Based on large scale eye tracking data an artificial neural network was trained providing high predictive accuracy . The model s business applicability is demonstrated with the case of a soccer sponsorship using media data and color features as model input . The study highlights the value of eye tracking data for the ex ante valuation of visual communication stimuli which benefits marketing management at the initiation implementation and evaluation stages .
+
+@highlight Neural network based on eye tracking makes accurate predictions of gaze behavior.
+@highlight Visual attention depends on low level visual features of dynamic brand stimuli.
+@highlight Simulation model generates insights into attention capturing tactics.

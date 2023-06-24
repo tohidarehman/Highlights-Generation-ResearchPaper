@@ -1,0 +1,7 @@
+ The current study focuses on the bearing failure process of NCF composites and associated damage mechanisms . A set of experiments on bolted joints between NCF composite and steel plates have been performed . The bearing damage onset and failure progression in the composite was monitored at different load levels by microscopic image analysis . Fibre kinking in 0 layers was found as the key damage mechanism that initiates and drive the bearing failure . Matrix cracking and delaminations were found as well . A cost effective FE model that predicts bolt bearing failure of NCF composites was proposed . The model utilises state of the art failure criteria and predicts both intra and inter laminar progressive damage . A good correlation between the predicted damage development process and experiments was observed both in terms of failure modes and load levels .
+
+@highlight The bearing failure process was characterised in details.
+@highlight Fibre kinking in 0 layers was found as the key damage mechanism.
+@highlight Matrix cracking and delaminations were found as well.
+@highlight The FE model includes fibre bundle s in and out of plane waviness.
+@highlight The FE model accurately predicts predicts both intra and inter laminar progressive damage.

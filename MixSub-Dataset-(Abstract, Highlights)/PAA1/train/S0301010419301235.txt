@@ -1,0 +1,5 @@
+ Graphene and graphene based materials are valuable to be used as hydrogen storage because of chemical inertness and high strength . Therefore a thorough study of hydrogen adsorption on graphene is of great interest . Although such studies have already been made for flat structures rippled graphene was not properly addressed . In the present work first principles calculations of absorption of hydrogen atom on graphene with small amplitude zig zag ripples were conducted . It was found that varying the ripple amplitude the binding energy for hydrogen atom attached inside the ripple can be lowered by about 25 while for the hydrogen atom attached from outside the ripple the binding energy can be increased by 80 compare to the adsorption on flat graphene .
+
+@highlight Chemisorption properties of graphene with small amplitude ripples are discussed.
+@highlight Small amplitude ripple affects properties of graphene by changing C hybridization.
+@highlight Two types of ripples demonstrate qualitatively similar properties.

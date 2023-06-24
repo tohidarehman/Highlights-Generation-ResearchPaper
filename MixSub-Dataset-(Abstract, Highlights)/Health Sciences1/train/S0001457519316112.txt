@@ -1,0 +1,7 @@
+ This study estimates how many additional cyclist accidents injuries or fatalities are avoided or mitigated by adding a system which increases braking levels the Torricelli Vacuum Emergency Brake to a state of the art Automated Emergency Braking system . To obtain a realistic state of the art AEB system the AEB parameter settings were defined to fulfil but not exceed the performance necessary to achieve a full score in the European New Car Assessment Program . The systems are simulated in a simple but realistic simulation model in MATLAB with varying brake deceleration and sensor field of view .
+
+@highlight Injury risk curves were created from 2662 passenger car to cyclist accidents.
+@highlight Safety benefits were estimated from 1340simulated car to cyclist accidents.
+@highlight Vacuum Emergency Braking VEB prevents 59 of cyclist accidents.
+@highlight VEB also prevents 67 of severe injuries and 86 of the fatalities.
+@highlight VEB is substantially more effective than standard Automated Emergency Braking.

@@ -1,0 +1,6 @@
+ This article aims to determine the most relevant engineering global method for gas radiative property modeling to be applied in the simulations of combustion problems . Two versions of the full spectrum correlated k model the Rank Correlated full spectrum
+
+@highlight Engineering global methods for gas radiation are considered.
+@highlight Comparisons are performed in several axisymmetric jet diffusion flames at high pressure.
+@highlight WSGG model is found to provide acceptable accuracy for engineering predictions.
+@highlight FSCK II and RC SLW are found to be the most mature gas radiative property models to be implemented in CFD codes.

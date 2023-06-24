@@ -1,0 +1,9 @@
+ This research developed a new methodology using a gas chromatograph a pulsed discharge helium ionization detector and two mass spectrometric detectors . The detectors worked simultaneously using 8 columns and 7 valves . This new proposal for simultaneous analysis with a single injection and analysis time of 36 min allowed the quantification of 10 oxygenated compounds 3 permanent gases 3 sulphides and 4 thiols which are aggressive inhibitors of the Ziegler Natta catalytic systems . The RSD for repeatability of the peak area of the 20 compounds analyzed and the retention time were less than 0.59 and 0.23 respectively . The RSD for intermediate precision for the peak area was less than 0.85 and for the retention time less than 0.35 . 95 of the inhibitors analyzed showed relative errors inter and intra day less than 3 . The inhibitors detected and quantified were formic acid acetic acid acetone methanol isopropyl alcohol ethanol 1 propanol 1 butanol 2 butanol tert butanol CO
+
+@highlight 7 alcohols 2 acids CO CO
+@highlight  O
+@highlight  1 ketone 3 sulfurs 4 thiols were identified and quantified.
+@highlight The 20 inhibitors decreased PP productivity between 5 and 20 .
+@highlight An MLR model with r
+@highlight 0.9092 predicts the effect of 20 inhibitors on the ZN catalyst.
+@highlight MLR complies with residuals auto correlation multi co linearity and normality.

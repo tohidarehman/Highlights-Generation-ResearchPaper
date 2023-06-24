@@ -1,0 +1,6 @@
+ Accurate crop yield estimation is important for agronomic and economic decision making . This study evaluated the performance of imagery data acquired using a unmanned aerial vehicle based imaging system for estimating yield of maize
+
+@highlight A low cost UAV based visual band imaging system was used in monitoring maize growth.
+@highlight Corn yield was estimated using visual band image features with an error of 615 .
+@highlight The spatial resolution and imaging time influenced the accuracy of yield estimation.
+@highlight The effect of variable rate N application on crops might be evaluated by images.

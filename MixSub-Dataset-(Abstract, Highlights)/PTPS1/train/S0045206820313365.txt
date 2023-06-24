@@ -1,0 +1,7 @@
+ Cysteine proteases are involved in a myriad of actions that include not only protein degradation but also play an essential biological role in infectious and systemic diseases such as cancer . CPs also act as biomarkers and can be reached by active based probes for diagnostic and mechanistic purposes that are critical in health and disease . In this paper we present the modulation of a CP panel of parasites and mammals
+
+@highlight Inhibition of a panel of cysteine proteases.
+@highlight Identification of activity cliffs.
+@highlight ITC used to drive the optimization process for covalent reversible inhibitors.
+@highlight Molecular dynamics simulation reveals a new mode of binding.
+@highlight Optimization strategy of single digit nanomolar cross class inhibitors of mammalian and protozoa cysteine proteases.

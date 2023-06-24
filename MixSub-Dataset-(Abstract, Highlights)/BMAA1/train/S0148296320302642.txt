@@ -1,0 +1,7 @@
+ Previous economics literature has explored the role of visual attention on choice in isolation without accounting for other influences such as habits and goals or learning effects nor their interrelationship . In this paper we develop a novel joint framework to explore the relationship between visual attention observed heterogeneity from stated habits and goals and choice outcomes while accounting for shorter and longer term learning effects and investigate whether accounting for these relationships improves model predictive power and behavioral insights . The empirical analysis used an eye tracked discrete choice experiment on sugar sweetened beverage purchasing . Results suggest that habits goals and shorter term learning are key drivers of information acquisition whereas cumulative choices affect subsequent choice outcome . Importantly ignoring the joint relationship between habits visual attention and choice may exaggerate the role of visual attention leading to incorrect behavioral insights and reduced prediction accuracy .
+
+@highlight Prior literature has explored the isolated influence of visual attention on choice.
+@highlight We develop a joint framework of visual attention observed heterogeneity and choice.
+@highlight An eye tracked discrete choice experiment explored sugary drink purchasing n 152 .
+@highlight Habit goals short term learning drove attention long term learning drove choice.
+@highlight Joint modelling may improve behavioral insights in health and business interventions.

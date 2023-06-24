@@ -1,0 +1,6 @@
+ Soil and water salinity and associated problems are a major challenge for global food production . Strategies to cope with salinity include a better understanding of the impacts of temporal and spatial dynamics of salinity on soil water balances vis vis evapotranspiration and devising optimal irrigation schedules and efficient methods . Both steady state and transient models are now available for predicting salinity effects on reduction of crop growth and means for its optimization . This paper presents a brief review on the different approaches available focusing on the FAO56 framework for coping with the effects of soil salinity on crop ET and yields . The FAO56 approach applied widely in soil water balance models is commonly used to compute water requirements including leaching needs . It adopts a daily stress coefficient K
+
+@highlight Salinity impacts on soils crops and the environment.
+@highlight Modelling salinity and leaching requirements.
+@highlight The FAO56 approach to assess crop ET and its partition when affected by salinity.
+@highlight Appropriate water and irrigation management issues to cope with salinity in agriculture.

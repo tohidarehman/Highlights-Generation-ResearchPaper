@@ -1,0 +1,7 @@
+ The Atacama Desert is considered as one of the driest places on Earth . At the coastline however small scale fog oases harbor a specialized vegetation and fauna living from moisture by fog which is used by humans to feed water demands of industrial projects . To date knowledge about fog and low stratus clouds as well as their physical properties is limited in that only local observations or spatial products from satellites with coarse resolutions are available generally failing to capture local patterns resulting from the complex topography . Consequently we provide the first climatology of FLS with 30m spatial resolution based on over 400 Landsat scenes acquired since 1986 . The new product provides valuable estimates of FLS optical and micro physical properties . FLS over the Pacific Ocean featured cloud optical depth values around 13.5 declining over land to 4.2 . Effective radii were around 5.3m . Liquid water path was between 71.0
+
+@highlight New 30m spatial resolution product for fog low stratus optics and micro physics.
+@highlight Excellent agreement to low resolution existing products over homogeneous surfaces.
+@highlight Terrain affects clouds causing differences between new and existing products.
+@highlight According to local measurements the new product outperforms existing ones.
+@highlight Clouds over rugged terrain are underestimated by MODIS products.

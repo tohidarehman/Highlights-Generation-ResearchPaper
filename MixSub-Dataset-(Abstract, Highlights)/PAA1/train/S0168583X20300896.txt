@@ -1,0 +1,5 @@
+ A 10MeV cyclotron named SKKUCY 10 was designed for production of radiopharmaceutical tracer in PET . The cyclotron consists of a sector focused magnet half wavelength RF cavity and PIG ion source and the 35 dee angle was selected to increase the energy gain compared with SKKUCY 9 . In beam dynamics the fluctuations of frequency ratio and phase shift were almost constant up to 10MeV and 2.5mm turn separation distance was achieved with 153keV energy gain based on the magnetic and electric fields . A spot size 2.44.9mm
+
+@highlight Design of 10MeV isochronous cyclotron for PET.
+@highlight Design and fabrication of sector focused magnet half wavelength RF cavity.
+@highlight Analysis of beam dynamics for central region main acceleration and extraction.

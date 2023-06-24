@@ -1,0 +1,10 @@
+ An ultrabroadband and compact square lattice photonic crystal fiber polarization filter based on surface plasmon resonance is proposed . Four large air holes are introduced near the core to destroy the symmetry of the original fiber structure so that the resonance wavelengths of
+
+@highlight A compact ultrabroadband and single mode single polarization photonic crystal fiber PCF filter based on surface plasmon resonance SPR is proposed.
+@highlight Compared with some reported SPR based PCF polarization filters this filter can operate in the 1.31 and 1.55m communication windows and achieve a wider bandwidth over a shorter fiber transmission distance.
+@highlight When the fiber length is only 700m the bandwidth can reach 730 nm from 0.97 to 1.70m covering all communication bands from 0 to U.
+@highlight With the increase of wavelength the birefringence of the PCF filter and the confinement loss difference of
+@highlight  polarized and
+@highlight  polarized core modes increase which is of great importance for the study of a broadband and single mode single polarization PCF filter.
+@highlight The designed PCF is deformed from a square lattice which is easy to stack and fabricate.
+@highlight The fiber exhibits excellent tolerance to the changes of structural parameters and thickness of the gold film which further reduces the difficulty of fabrication and also facilitates its application in experiments and practice.

@@ -1,0 +1,7 @@
+ This study evaluated the performance of deep learning artificial neural network and k nearest neighbour models to estimate field capacity and permanent wilting point using four combinations of soil data . The DL ANN and kNN models are compared with the previous published pedotransfer functions . The data consist of 256 calcareous soil samples collected from Konya umra plain Turkey . The results demonstrated that the DL a with inputs of soil texture components bulk density organic matter and lime contents particle density and aggregate stability showed the best performances with coefficient of determination R
+
+@highlight Machine learning models were tested for FC and PWP estimates under four combinations of soil input data.
+@highlight DL was applied for the first time to estimate FC and PWP in calcareous soils.
+@highlight The DL model gave better than other models with the full soil input data for the FC estimate.
+@highlight The kNN model gave the best performance with limited soil input data for the FC estimate.
+@highlight The kNN model gave the best performance with full and limited soil input data for PWP estimate.

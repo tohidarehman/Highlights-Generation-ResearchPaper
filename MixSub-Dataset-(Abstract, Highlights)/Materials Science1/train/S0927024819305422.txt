@@ -1,0 +1,7 @@
+ Halved and shingled solar cells are a powerful technology to reduce cell to module losses and ultimately increase the output power of a photovoltaic module . The combination of this approach with high efficiency silicon solar cells architectures like heterojunction or passivated contacts solar cells is a promising option but comes also with new challenges . In particular the low level of carrier recombination in these cells makes them highly sensitive to any additional defects as it is the case for the unpassivated edge created when splitting in half a solar cell . In order to optimize the cutting processes an accurate method to characterize edge losses adapted to high efficiency solar cells is required . In this work two approaches are proposed and compared . In the first one edge losses are modelled with a parallel diode and the associated recombination current J
+
+@highlight Cutting a solar cell generates edge defects and efficiency losses in good devices.
+@highlight Standard cutting loss characterization method is inadequate to heterojunction cells.
+@highlight Conditions of application of this method are discussed for high efficiency cells.
+@highlight A novel characterization method based on current voltage losses is proposed.
+@highlight This new technique is more accurate and faster than the classical approach.

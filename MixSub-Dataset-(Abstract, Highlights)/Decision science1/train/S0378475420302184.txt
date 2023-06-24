@@ -1,0 +1,6 @@
+ This study is devoted to consider the dynamic properties of a LotkaVolterra competition model with two discrete delays . First it reviews stability conditions of the no delay model as a benchmark . Second it examines the delay model and analytically establishes the stability switching curve on which stability is switched to instability and
+
+@highlight The roles of maturation and hunting delays are simultaneously considered.
+@highlight The stability switching curves are mathematically rigorously constructed.
+@highlight The two delays can be a source of a wide variety of dynamics involving chaotic behavior.
+@highlight The existence of multistability is numerically demonstrated.

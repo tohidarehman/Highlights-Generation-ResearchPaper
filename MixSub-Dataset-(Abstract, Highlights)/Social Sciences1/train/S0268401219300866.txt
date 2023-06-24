@@ -1,0 +1,6 @@
+ This paper proposes collaborative filtering as a means to predict semantic preferences by combining information on social ties with information on links between actors and semantics . First the authors present an overview of the most relevant collaborative filtering approaches showing how they work and how they differ . They then compare three different collaborative filtering algorithms using articles published by
+
+@highlight Addressing links prediction challenge in Socio Semantic System.
+@highlight Collaborative filtering algorithms constitute relevant models to predict semantic preferences.
+@highlight Similarity model predicts semantic links preferences.
+@highlight Small increase of accuracy with social network signals.

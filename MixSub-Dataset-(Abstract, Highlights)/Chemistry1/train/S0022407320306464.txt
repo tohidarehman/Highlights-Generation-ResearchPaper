@@ -1,0 +1,7 @@
+ The discrete transfer method is adopted to solve the transient radiative transfer with collimated or diffuse irradiation in variable index media with arbitrary distribution of refractive index . The advantage of this approach is its ability to simulate the transient radiation in semi transparent media with non continuous refractive index distributions . The solution method is verified by comparison the results with those reported in literature for one two and three dimensional cases . The reflectance and transmittance for some locations over the boundaries are obtained and the effects of optical thickness scattering albedo and scattering phase function are examined .
+
+@highlight The transient radiative transfer in variable index media is solved by the discrete transfer method.
+@highlight The solution method is applicable for continuous or non continuous refractive index distributions.
+@highlight The method is adopted for one and multi dimensional media.
+@highlight The boundaries may be exposed to collimated irradiation.
+@highlight The reflectance and transmittance are reported for one and two dimensional media.

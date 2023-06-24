@@ -1,0 +1,7 @@
+ Understanding what makes a review helpful is important for consumers and online review management . Previous studies have explored the effects of review attributes with the underlying assumption being that consumers assess each review independently of prior reviews of the product . Drawing on configuration theory and the literature on prior knowledge influencing consumer information search behavior we propose that there should be a fit between prior reviews and focal review attributes in determining perceived review helpfulness . Using data from Amazon we empirically demonstrate their complex interdependency through fuzzy set qualitative comparative analysis . The results show that descriptive reviews with more words and moderate ratings are perceived as more helpful when all prior reviews have been posted recently while evaluative reviews with extreme ratings are more helpful when prior reviews exhibit greater disagreement . Our findings help reconcile some conflicting results in the previous literature and provide guidance on review management .
+
+@highlight The effects of review attributes on review helpfulness rely on prior reviews.
+@highlight A fit should be achieved to gain more helpful votes.
+@highlight Descriptive reviews are more helpful when prior reviews have been posted recently.
+@highlight Evaluative reviews are more helpful when rating variance of prior reviews is high.
+@highlight The effects of review source and writing style vary under specific circumstances.

@@ -1,0 +1,11 @@
+ Digital holographic microscopy is a nondestructive quantitative method for studying micron sized samples with a special application in medicine biology and materials science . Off axis geometry of this method generates high quality quantitative phase images employing beam splitters mirrors condensers and magnifying lenses which greatly increase the cost size and sensitivity of the system against mechanical noise effects . The essential aim of recently proposed common path configurations is to make viable approaches which minimize the mechanical and optical noises . Here we present a lensless DH microscopy system based on a common path geometry using a Fresnel biprism for formation of off axis geometry . The system comprises a lens for producing two spherical waves and by carefully choosing its parameters we can construct a 3D imaging microscope with desired fringe spacing and overlapping region which is employed for studying many samples with different sizes shapes and confluences . The system is compact light weight and robust versus mechanical vibrations . The ability to image amplitude and phase samples has been tested using standard test samples living cells and water droplets .
+
+@highlight Common path lensless digital holographic DH method by Fresnel biprism.
+@highlight An interference based 3D visualization method with adjustable fringe spacing and overlapping region.
+@highlight Geometrically desired magnification without requiring a magnifying lens.
+@highlight Highly stable and cost effective DH microscopy system with an adjustable compromise between field of view and resolution.
+@highlight The capability of studying a wide range of samples in different sizes shapes and confluences.
+@highlight Simple and compact configuration makes it possible for remote areas and point of care applications.
+@highlight The technique eliminates the disturbing effect of quadratic phase factor in the reconstructed maps.
+@highlight A powerful tool for studying many dynamical systems due to low loss of flux and sub nanometer temporal stability.
+@highlight The experimental results prove the reliability and effectiveness of the proposed method.

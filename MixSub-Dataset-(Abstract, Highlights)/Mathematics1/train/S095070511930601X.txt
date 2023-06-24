@@ -1,0 +1,7 @@
+ In typical field scale steam assisted gravity drainage projects shale barriers would often act as flow barriers that may adversely impact the ensuing steam chamber development . Efficient inference and proper representation of such heterogeneities from production data remain challenging . A novel hybrid knowledge based workflow for 3D SAGD heterogeneity inference is presented . A convolutional neural network proxy model is integrated with the genetic algorithm to infer shale parameters .
+
+@highlight A hybrid deep learning based workflow is developed to infer 3D shale heterogeneities.
+@highlight Novel inputs and outputs parameterization schemes are explored via wavelet transform.
+@highlight Deep learning is applied as a proxy of flow simulation to evaluate objective functions.
+@highlight Fast and satisfactory heterogeneities characterization in 3D reservoirs are obtained.
+@highlight Multiple characterized models exhibit similar shale distribution as the true model.

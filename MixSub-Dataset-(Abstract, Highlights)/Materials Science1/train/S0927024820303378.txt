@@ -1,0 +1,7 @@
+ A rewritable electrochromic device was developed to achieve handwriting function . The device was composed of four main components a flexible conductive substrate ruthenium based metallo supramolecular polymer as an electrochromic layer electrolyte film and a stainless steel stylus for writing . To avoid color diffusion between electrochromic pixels a device structure with separate electrolyte pixels was designed . Next to achieve handwriting feature without damaging the device poly was mixed with nanocellulose crystals to provide an anti scratch electrolyte layer . The assembled device was switched between red and transparent states by applying an electrical potential of 0.7V and 1.0V respectively . The rECD exhibited a high coloration efficiency of 332cm
+
+@highlight A rewritable electrochromic device rECD with a handwriting feature is proposed.
+@highlight PVDF CNC electrolyte with 2H hardness was prepared to prevent writing damages.
+@highlight The rECD achieves rapid response times 1s under low driving potentials 1V .
+@highlight The rECD can be switched for more than 1000 cycles without significant color loss.
+@highlight The flexible rECD can be operated under bending conditions with some optical decay.

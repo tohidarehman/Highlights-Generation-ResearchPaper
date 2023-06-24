@@ -1,0 +1,6 @@
+ Untargeted steroid identification represents a great analytical challenge even when using sophisticated technology such as two dimensional gas chromatography coupled to high resolution mass spectrometry GCGC
+
+@highlight Data driven approaches for GCxGC retention time predictions.
+@highlight 3D electrostatic potential and CNN were utilized to develop 3D QSRR models.
+@highlight CNN are able to learn geometric information which improves model prediction.
+@highlight Retention time prediction and HRMS information enable untargeted steroid annotation.

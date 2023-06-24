@@ -1,0 +1,6 @@
+ We present two novel techniques in single pixel imaging the first one is Hadamard Bayer SPI in which the Hadamard Bayer illumination patterns are employed for fast full color SPI with a sampling rate and computational complexity that are one third of the full sampling condition the second one encodes spatial information of an image into time varying factors in SPI and loads them into the illumination patterns enabling high quality single pixel image fusion . Furthermore we fuse these two techniques to achieve full color visible watermarking while imaging . Theory simulations and experiments confirm the feasibility of the schemes . These techniques have high scalability and wide application prospects and possess the potential to be applied in LED structured illumination systems single pixel multi spectral imaging systems and single pixel broadcast systems .
+
+@highlight Bayer array multiplexes the spectral information into the spatial information of Hadamard illumination mode.
+@highlight High quality chromatic single pixel imaging is achieved at the sub Nyquist sampling rate.
+@highlight Visible watermarking and image fusion scheme are proposed in Hadamard single pixel imaging with time varying factor.
+@highlight Simultaneous full color watermarking and imaging in Hadamard Bayer single pixel imaging.

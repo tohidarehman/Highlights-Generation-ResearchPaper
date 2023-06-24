@@ -1,0 +1,7 @@
+ A circular economy is an industrial system that is restorative or regenerative by intention or design . During the last decade the circular economy became an attractive paradigm to increase global welfare while minimizing the environmental impacts of economic activities . Although several studies concerning the potential benefits and drawbacks of policies that implement the new paradigm have been performed there is currently no standardized theoretical model or software to execute such assessment . In order to fill this gap in the present paper we show how to perform these analyses using Environmentally Extended Input Output Analysis . We also describe a python package for modeling Circular Economy scenarios in the context of the Environmentally Extended Multi Regional Input Output database EXIOBASE V3.3 for the year 2011 . We exemplify the methods and software through a what if zero cost case study on two circular economy strategies four environmental pressures and two socio economic factors .
+
+@highlight  a python package to create complex scenarios using the mrEEIOA database EXIOBASE 
+@highlight  .
+@highlight Methods and blueprints to increase transparency of modeling assumptions for the Circular Economy.
+@highlight A case study on two circular economy strategies 
+@highlight and

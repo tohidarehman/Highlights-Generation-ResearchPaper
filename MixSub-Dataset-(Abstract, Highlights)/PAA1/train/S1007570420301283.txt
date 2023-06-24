@@ -1,0 +1,5 @@
+ The stability of a dynamical system against strong or weak perturbations is an important problem of nonlinear science especially when considering interconnected systems . In this work we use a concept known in the literature as
+
+@highlight Stability of a power grid depends on the power distribution and the tripping time.
+@highlight Basin stability does not increase monotonically for shorter tripping time.
+@highlight It is best to not isolate the perturbed generator in heterogeneous power grids.

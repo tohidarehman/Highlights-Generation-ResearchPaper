@@ -1,0 +1,6 @@
+ The load deformation response of Fiber Reinforced Concrete elements subjected to pure shear is still matter of strong debate within the scientific community . In this paper the tests on six fiber reinforced concrete panels under pure shear are presented and discussed . The tests were conducted under displacement control and a peculiar loading frame was designed to ensure that a pure shear state of stress was established . Steel fibers were added in relatively low amounts 20 and 50kg m
+
+@highlight Tests on six FRC panels subjected to in plane pure shear monotonic stress conditions.
+@highlight Evaluation of influence of fibers in lightly reinforced panels.
+@highlight Design of a test rig specifically developed to perform pure shear tests under displacement control.
+@highlight Proposal of a new analytical formulation for the prediction of crack spacing in FRC panels under pure shear.

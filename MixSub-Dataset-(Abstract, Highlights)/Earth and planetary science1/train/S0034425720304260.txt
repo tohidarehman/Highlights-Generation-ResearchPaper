@@ -1,0 +1,7 @@
+ Tropical forests are characterized by large carbon stocks and high biodiversity but they are increasingly threatened by human activities . Since structure strongly influences the functioning and resilience of forest communities and ecosystems it is important to quantify it at fine spatial scales .
+
+@highlight Tree by tree reconstructions of tropical forests in 3D.
+@highlight Inference of allometric equations from field plots and airborne lidar scanning.
+@highlight Virtual inventories across thousands of hectares of forest area.
+@highlight Fine scale mapping of aboveground biomass 1ha and 0.25ha scale .
+@highlight Error propagation through Approximate Bayesian Computation.

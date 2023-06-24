@@ -1,0 +1,7 @@
+ Thermally coupled distillation columns have proven to be a superior and feasible alternative compared to conventional distillation . However their inherent system complexity presents optimization and operational challenges . In this work we analyzed these problems from a different perspective understanding the steady state behavior by the means of a steady state and bifurcation analysis . This approach used a dynamic model programmed in Matlab 2019b and validated with Aspen Plus v8.8 . The analysis demonstrated that the steady state multiplicity is triggered by the magnitude of the internal flows and that the interlinking trays may develop isolated bifurcation branches . Moreover it is shown that the operational holes or intermittent discontinuities in the TCDC steady states are formed by saddle node bifurcations . This suggests that a non smooth optimization algorithm is more suitable for TCDC design .
+
+@highlight A dynamic model for Petlyuk distillation column is presented and validated.
+@highlight Multiplicity of steady states is dependent on the internal flows magnitudes.
+@highlight The hysteresis behavior is not necessarily a function of the thermodynamic model.
+@highlight The interlinking flows may trigger isolated bifurcation branches.
+@highlight Aspen Plus RadFrac model also presents bifurcation behavior.

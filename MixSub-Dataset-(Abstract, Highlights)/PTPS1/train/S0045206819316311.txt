@@ -1,0 +1,8 @@
+ Diabetic complications follow multiple pathophysiological pathways and one of the key pathways is the polyol pathway which involves the metabolism of glucose via aldose reductase and sorbitol dehydrogenase . ALR2 inhibitors such as epalrestat has already been established as promising candidates for the management of DC . On the basis of pathophysiological understanding of polyol pathway simultaneous inhibition of ALR2 and SDH may be expected to provide synergistic outcomes in the treatment strategies for DC . Thus in this study dual inhibitors of ALR2 and SDH were identified using pharmacophore based virtual screening . For this purpose the pharmacophore model for SDH was generated and validated . For screening against ALR2 the pharmacophore model which was previously reported by our group was applied . Initially flavones reported by our research group were screened by those two pharmacophore models to obtain hits with an optimum affinity for the catalytic domain of both ALR2 and SDH . Inhibitory potential of identified hits for ALR2 and SDH were then experimentally determined using enzymatic assays reported in the literature . Additional focus was laid on the selectivity of the designed molecules towards ALR2 over ALR1 thus evaluation against ALR1 was also performed . Overall four molecules
+
+@highlight Pharmacophore based virtual screening of previously reported flavones.
+@highlight Best 15 flavones were identified using
+@highlight methods.
+@highlight Evaluated
+@highlight against ALR1 ALR2 and SDH enzymes.
+@highlight Four molecules were found significant dual inhibitors with selectivity over ALR1.

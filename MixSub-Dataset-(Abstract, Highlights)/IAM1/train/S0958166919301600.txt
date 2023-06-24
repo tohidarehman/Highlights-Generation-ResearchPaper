@@ -1,0 +1,5 @@
+ Oleaginous yeasts natively produce surplus triacylglycerol lipid and can be engineered for higher yield and productivity . Most enzymatic steps of triacylglycerol production are characterized but key parts of the pathway remain unknown . This introduces uncertainty to metabolic engineering strategy and the upper limit of achievable lipid yield . Here we present our current understanding of the oleaginous yeast triacylglycerol biosynthesis pathway review metabolic engineering strategies and discuss bioprocess constraints on lipid production . We also present a simplified substrate allocation model capturing the interaction of percent lipid content on overall triacylglycerol yield productivity and fermentation cost which should help frame achievable bioprocess metrics .
+
+@highlight Recent metabolic engineering studies have improved triacylglycerol lipid production in oleaginous yeasts.
+@highlight Modeling suggests a relatively broad economic optimum is present between 6080 w w lipid content.
+@highlight Engineering improved stoichiometric efficiency of the triacylglycerol pathway is key for both yield and productivity.

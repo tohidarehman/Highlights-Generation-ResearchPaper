@@ -1,0 +1,7 @@
+ In this paper we theoretically investigate the spectroscopic properties of a simple hybrid metasurface consisting in a periodic array of a Si Au pattern in the mid infrared spectral region . Our simulations show that our hybrid metasurface exhibits a strong spectral absorption band in the
+
+@highlight Design and spectral investigations on a hybrid metasurface based on a Si Au and a rod ring architecture.
+@highlight Absorption peak observed in the mid infrared region for the hybrid shows a completely different behavior than that of the Au Au counterpart.
+@highlight Resonance is obtained for a wavelength to cell dimension ratio of 1.5 lower than the typical threshold.
+@highlight Resonance frequency of the surface can be tuned as a function of rod dimensions.
+@highlight Thermal deposition in the structure reveals superior qualities for the hybrid cell by comparison to the full metallic counterpart.

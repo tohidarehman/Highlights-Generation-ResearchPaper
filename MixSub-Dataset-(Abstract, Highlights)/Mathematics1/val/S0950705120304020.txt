@@ -1,0 +1,7 @@
+ Granule description is an important problem in knowledge granularity and representation . In the theoretical study of granule description two basic sub problems need to be solved check whether a target granule is definable and try to offer an exact description for the target granule if definable an appropriate approximate description should also be provided to the target granule if indefinable . Up to now there have been some preliminary studies on these two sub problems . However the existing findings are not enough or incomplete since sufficient and necessary conditions of definable granules have not been explored and there have not been effective ways to find better approximate descriptions of indefinable granules . Motivated by these discussions this paper puts forward granule description methods for definable and indefinable granules . First of all we propose the notions of covering elements and inserting elements of a target granule by which sufficient and necessary conditions of
+
+@highlight Sufficient and necessary condition of
+@highlight  definable granules is obtained.
+@highlight Sufficient and necessary condition of 
+@highlight  definable granules is obtained.
+@highlight Approximate descriptions of indefinable granules are discussed.

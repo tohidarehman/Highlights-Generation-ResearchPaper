@@ -1,0 +1,6 @@
+ Starting from the 1990s recurrence analysis is more and more widely used in the study of dynamic systems . Although this method provides a great deal of information its results clearly depend on key parameters which significantly limits and hinders its application . In this work we examine this problem by analyzing the Duffing system in which the volatility of dynamics is caused by a linear change in the damping factor value . The study shows how the classical recurrence measures depend on key parameters such as the density of vector time series and the threshold parameter . Comparing the recurrence analysis results with bifurcation diagrams and Lyapunov exponents we are looking for a threshold parameter value for which the recurrence variables best reflect changes in the Duffing system dynamics .
+
+@highlight The Duffing system is investigated by recurrence plot based numerical methods.
+@highlight RQA measures are calculated for different values of the method parameters.
+@highlight The threshold parameter is tuned by comparing RQA variables with Lyapunov exponents.
+@highlight Appropriate selection of parameters gives invariant RQA results.

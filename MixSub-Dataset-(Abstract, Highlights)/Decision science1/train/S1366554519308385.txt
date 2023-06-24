@@ -1,0 +1,6 @@
+ This paper comprehensively analyzes ships response strategy to emission control areas . By establishing mixed integer nonlinear programming models we obtain the optimal sailing pattern and evasion strategy selection . Furthermore the impacts of different factors on response strategy are discussed which deepens our understanding of the dynamic adjustment of decisions . The results show that for a total of 420 routes within the North American ECA ships will adopt evasion strategy on 39.05 routes and this ratio will decline slightly to 29.05 after 2020 . In addition evasion strategy will increase ships total pollution emissions resulting in less emission reduction .
+
+@highlight Establish optimization models to obtain the optimal sailing pattern and evasion strategy.
+@highlight Quantitatively analyze the impacts of related factors on ships response strategy.
+@highlight Discuss the changes on ships evasion strategy selection before and after 2020.
+@highlight Analyze the impact of evasion strategy on ships pollution emissions.

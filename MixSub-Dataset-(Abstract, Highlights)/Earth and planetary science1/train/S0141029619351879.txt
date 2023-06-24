@@ -1,0 +1,7 @@
+ The structural response of Double Glazing Units composed by two glass panes held together by structural edge seals entrapping a gas for thermal and acoustic insulation is governed by the
+
+@highlight The structural response of DGUs is governed by the load sharing between glass panes.
+@highlight The BAM allows to evaluate the load sharing under the most various loading conditions.
+@highlight Compact formulas and tables are provided to design DGUs of any size and shape.
+@highlight The BAM approach is validated by means of comparison with numerical results.
+@highlight A practical method for the design of DGUs made of laminated glass is proposed.

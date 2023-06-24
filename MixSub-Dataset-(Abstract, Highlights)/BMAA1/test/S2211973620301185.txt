@@ -1,0 +1,7 @@
+ The growing implementation of robotics in hospitality and tourism requires broader research into customers experience with service robots . This study explores human robot interaction in the context of tourists interacting with hotel service robots . The data 7994 online TripAdvisor reviews of 74 hotels were subjected to a content analysis based on the Service Robot Acceptance Model and its dimensions . A sentiment analysis was also carried out . The results identify the principal dimensions and variables involved in HRI and the feelings robots inspire in different types of travellers . Guests most often comment on the functional dimension . Robots functions determine this experience and influence the interaction between robots and hotel guests .
+
+@highlight Proposal for a hotel specific service robot acceptance model.
+@highlight Main interactions with robots customer reception baggage and room service.
+@highlight Relevance of the social emotional dimension in hotels the wow effect.
+@highlight Technical development is needed to improve robots relational capabilities.
+@highlight Errors in any dimension generate insecurity frustration and anger in customers.

@@ -1,0 +1,7 @@
+ While deep neural networks have been increasingly applied to choice analysis showing high predictive power it is unclear to what extent researchers can interpret economic information from DNNs . This paper demonstrates that DNNs can provide economic information as
+
+@highlight Extract economic information from DNN for choice analysis.
+@highlight Introduce both function based and gradient based interpretations.
+@highlight Highlight three challenges associated with the automatic learning capacity of DNN.
+@highlight Compare economic information from DNN with those from discrete choice models.
+@highlight Economic information aggregated either over trainings or population is more reliable.

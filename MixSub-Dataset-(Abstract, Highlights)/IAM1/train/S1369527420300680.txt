@@ -1,0 +1,6 @@
+ Bacterial pathogens need to sense and respond to their environments during infection to align cell metabolism and virulence factor production to survive and battle host defenses . Complex regulatory networks including ligand binding transcription factors two component systems RNA binding proteins and small non coding regulatory RNAs adjust gene expression programs in response to changes in metabolic fluxes environmental cues and nutrient availability . Recent studies underlined that these different layers of regulation occur along varying spatial and temporal scales leading to changes in cell behavior and heterogeneity among the bacterial community . This brief review will highlight current research emphasizing that cell metabolism and pathogenesis are inextricably intertwined in both Gram positive and Gram negative bacteria .
+
+@highlight Regulators act as genetic time circuits to adjust metabolism and virulence.
+@highlight Altered metabolic flux has profound effects on survival and pathogenic potential.
+@highlight Host signals or nutrients can affect gene expression on various spatial scales.
+@highlight Spatial and temporal cues result in metabolic and phenotypic heterogeneity.

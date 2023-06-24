@@ -1,0 +1,9 @@
+ We report on a systematic and comprehensive experimental study of the effect of the zone retention factor k on eddy dispersion h
+
+@highlight Extensive measurement set reveals a systematic k dependency of eddy dispersion.
+@highlight Eddy dispersion was determined using novel CFD validated Sherwood expression.
+@highlight Eddy dispersion data h
+@highlight  fit well with knox s empirical eddy dispersion model.
+@highlight The k dependency of the exponent and pre factor of knox s model is mapped.
+@highlight A simple mathematical expression to predict h
+@highlight for different k is established.

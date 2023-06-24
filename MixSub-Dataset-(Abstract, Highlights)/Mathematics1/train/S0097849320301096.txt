@@ -1,0 +1,7 @@
+ A novel shape descriptor for cluttered scenes is presented the Radial Intersection Count Image and is shown to significantly outperform the classic Spin Image and 3D Shape Context in both uncluttered and more significantly cluttered scenes . It is also faster to compute and compare . The clutter resistance of the RICI is mainly due to the design of a novel distance function capable of disregarding clutter to a great extent . As opposed to the SI and 3DSC which both count point samples the RICI uses intersection counts with the mesh surface and is therefore noise free . For efficient RICI construction novel algorithms of general interest were developed . These include an efficient circle triangle intersection algorithm and an algorithm for projecting a point into SI like
+
+@highlight Proposed the novel Radial Intersection Count Image descriptor.
+@highlight Proposed a distance function capable of largely ignoring clutter.
+@highlight Proposed the clutterbox experiment aimed at quantifying clutter.
+@highlight Described efficient algorithms for generating and comparing RICI descriptors.
+@highlight Showed that the Spin Image support radius may not improve performance.

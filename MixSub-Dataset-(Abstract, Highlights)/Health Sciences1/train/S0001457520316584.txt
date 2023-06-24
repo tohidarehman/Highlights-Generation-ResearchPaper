@@ -1,0 +1,6 @@
+ Selecting an appropriate exposure measure and functional form for Safety Performance Functions is critical in precisely predicting crash counts by different crash types for intersections . This study proposes a new approach namely Generalized Negative Binomial P model to model the complex relationship between crashes and different exposure measures by crash type for intersections which helps not only identify the most reliable exposure measure for intersection SPFs but also explore the most appropriate functional form of the NB models . To this end three types of SPF functional forms namely Power function Hoerl function 1 and Hoerl function 2 with different exposure measures including major road AADT minor road AADT and total AADT were estimated by crash type for stop controlled and two types of signalized intersections . The over dispersion of the SPF models was estimated using the exposure measures to account for crash data variation across different intersections .
+
+@highlight Exposure measures and functional forms are investigated in intersections SPFs.
+@highlight Generalized Negative Binomial P models are estimated for intersection crash prediction.
+@highlight Overdispersion is parameterized to account for data heterogeneity.
+@highlight Exposure measures and functional forms vary across intersection types and crash types.

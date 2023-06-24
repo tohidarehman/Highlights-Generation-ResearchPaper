@@ -1,0 +1,5 @@
+ In addition to X rays extreme ultraviolet rays radiated from solar flares can cause serious problems such as communication failures and satellite drag . Therefore methods for forecasting EUV dynamic spectra during flares are urgently required . Recently however owing to the lack of instruments EUV dynamic spectra have rarely been observed . Hence we develop a new method that converts the soft X ray light curve observed during large flare events into an EUV dynamic spectrum by using the
+
+@highlight A new method to convert a soft X ray light curve into an EUV dynamic spectrum during flares is presented.
+@highlight The conversion can be calculated via a numerical simulation and an atomic database.
+@highlight It succeeds in reconstructing some EUV peaks in the observed dynamic spectrum.

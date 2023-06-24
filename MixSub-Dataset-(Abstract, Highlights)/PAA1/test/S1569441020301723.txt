@@ -1,0 +1,6 @@
+ Nonlinear metasurfaces that dynamically manipulate the phase of a passing light beam are of interest for a wide range of applications . The controlled operation of such devices requires accurate measurements of the optical transmission phase in both the linear and nonlinear regime an experimentally challenging task . In this paper we show that this phase information can be extracted directly from simple transmission measurements using a Hilbert transform approach removing the need for complicated interferometric experimental set ups and enabling direct measurements of the phase in conditions not suitable for other traditional approaches such as Z scan measurements .
+
+@highlight The Hilbert method is a simple means of measuring the thermo optic phase response of metasurfaces on epsilon near zero materials.
+@highlight We confirm this approach both experimentally and numerically.
+@highlight Both simulation time and experimental complexity is reduced compared to alternative approaches.
+@highlight We demonstrate a 30 nonlinear phase shift for sub mW incident optical pump power.

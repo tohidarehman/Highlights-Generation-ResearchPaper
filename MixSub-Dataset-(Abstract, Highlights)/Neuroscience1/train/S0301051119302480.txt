@@ -1,0 +1,7 @@
+ Impairments in social functioning are characteristic of autism spectrum disorder . Differences in functional networks during face processing in ASD compared to controls have been reported however the spatial temporal dynamics of networks underlying affective processing are still not well understood . The current magnetoencephalography study examined whole brain functional connectivity to implicit happy and angry faces in 104 adults with and without ASD . A network of reduced gamma band phase synchrony occurring 80308ms following angry face presentation was found in adults with ASD compared to controls . The network involved widespread connections primarily anchored in frontal regions including bilateral orbitofrontal areas bilateral inferior frontal gyri and left middle frontal gyrus extending to occipital temporal parietal and subcortical regions . This finding suggests disrupted long range neuronal communication to angry faces . Additionally reduced gamma band specific connectivity may reflect altered E I balance in brain regions critical for emotional face processing in ASD .
+
+@highlight MEG used to examine functional connectivity to emotional faces in ASD and controls.
+@highlight Reduced gamma phase synchrony during angry perception was found in adults with ASD.
+@highlight This network involved widespread connections anchored in frontal regions.
+@highlight Gamma band specific disrupted neural circuitry may reflect altered E I balance in ASD.
+@highlight This disrupted network may underlie abnormal processing of angry faces in ASD.

@@ -1,0 +1,7 @@
+ The ability of high resolution synthetic aperture radar to detect marine atmospheric boundary layer roll induced roughness modulation of the sea surface wave field is well known . This study presents SAR measurements of MABL rolls using global coverage data collected by the European Space Agency s C band Sentinel 1A satellite in 20162017 . An automated classifier is used to identify likely roll events from more than 1.3 million images that were acquired at two incidence angles of 23 and 36.5 in either VV or HH polarization . Characteristics of the detected rolls are examined for different wind speeds polarizations incidence and relative azimuth angles . Roll detection counts are much higher at the higher incidence angle and nearly equivalent for VV and HH polarizations . Detection depends strongly on the relative azimuth with roll detection rates at crosswind being 310 times lower than for up or downwind . All data show a low wind speed threshold near 2ms
+
+@highlight First global statistics of SAR response to MABL rolls using new S 1 WV data.
+@highlight Data show 50 greater sensitivity to rolls for 36 vs. 23 SAR incidence angle.
+@highlight Crosswind relative to SAR look direction shows weakest sensitivity to roll imprints.
+@highlight Rolls observed at 23 and crosswind are more stationary in more unstable conditions.
+@highlight SAR estimated surface wind perturbations due to roll impacts are 83.5 .

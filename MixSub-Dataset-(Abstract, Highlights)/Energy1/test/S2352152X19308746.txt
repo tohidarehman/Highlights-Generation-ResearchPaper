@@ -1,0 +1,6 @@
+ Experimental investigation and multiobjective optimization are used to find optimum combinations of pressure drop and heat transfer coefficient during R 404A evaporation inside corrugated tubes . The mass velocity of refrigerant was between 280.5 and 561kgm
+
+@highlight The evaporation of R 404A inside corrugated tubes were experimentally investigated.
+@highlight Evolutionary algorithm was used for optimization of artificial neural networks.
+@highlight ANNs were used for prediction of heat transfer coefficient and pressure drop.
+@highlight Pareto based optimization of R 404A evaporation was performed.

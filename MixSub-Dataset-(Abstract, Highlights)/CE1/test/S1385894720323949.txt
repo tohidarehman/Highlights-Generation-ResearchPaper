@@ -1,0 +1,7 @@
+ Detoxification of hexavalent chromium in the environment and development of corresponding new materials and detoxification protocols have actively been studied and applied . Herein 2 2 6 2 terpyridine 4 thiol was functionalized on Au nanoparticle loaded carbon paper and indium tin oxide electrodes and the photoelectrochemical and photocatalytic detoxification of Cr using the resulting electrodes was investigated by cyclic voltammetry . Density functional theory at the B3LYP 6 31G level was used for geometry optimization and the electronic energy state calculation was conducted at the TD SCF DFT B3LYP level . For bare CP ITO and STpy modified AuNP electrodes the reduction potentials of Cr were around 0.3 0.2V and 0.5V respectively . The PEC and photocatalytic Cr reduction performance of CP AuNP was significantly improved upon STpy functionalization . Thus these newly developed functionalized systems can provide very useful information for further improving the detoxification performances for various hazardous metals .
+
+@highlight 2 2 6 2 terpyridine 4 thiol STpy functionalization on Au NP carbon paper and ITO.
+@highlight DFT for geometry optimization and the electronic energy state calculation.
+@highlight PEC and photocatalytic detoxification of Cr VI by cyclic voltammetry.
+@highlight Cr VI reduction significantly enhanced upon STpy functionalization.
+@highlight XPS confirmed Cr VI reduction on the surface of CP AuNP STpy.

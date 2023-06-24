@@ -1,0 +1,7 @@
+ Accurate knowledge of root zone soil moisture is of vital significance to many applications in agriculture such as crop yield estimation precision irrigation salinity and groundwater management . Remote sensing methods based on optical and thermal satellite imagery have been proposed to estimate fine resolution maps of root zone soil moisture
+
+@highlight Region specific relationships are proposed to estimate root zone soil moisture from optical and thermal satellite imagery.
+@highlight The relationships can accept regional soil vegetation and climatic properties.
+@highlight The relationships are stronger for semiarid and sub humid regions than for arid and humid regions.
+@highlight Root zone soil moisture exhibits a stronger relationship with Evaporative Index than Evaporative Fraction.
+@highlight Root zone soil moisture estimation can improve when local soil vegetation and annual precipitation data are included.

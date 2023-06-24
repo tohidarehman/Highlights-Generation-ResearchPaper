@@ -1,0 +1,5 @@
+ This study aimed to find a parameter that can accurately characterise the thermal damage of skin tissues during laser welding . Combining this parameter with an experiment we proposed a method to quantify this parameter . A model between laser processing parameters and thermal damage accumulation parameter of skin tissue in vitro was established based on full factor experiments . The statistical analysis software Minitab was used to design the full factor experiment . The laser power spot moving speed and pulse frequency were taken as independent variables and the thermal damage parameter of the skin tissue in vitro were taken as dependent variables . A direct correlation model between the thermal damage parameter and the three influencing factors was established and the laser processing parameters were optimised and verified by experiments . For a laser power of 2.5W a spot moving speed of 150mms
+
+@highlight Characterisation of thermal damage of skin tissues during laser welding.
+@highlight Optimisation of laser processing parameters.
+@highlight Significant effect of laser power and pulse frequency on thermal damage.

@@ -1,0 +1,7 @@
+ Apple trees tend to bear an excess of young fruits . Chemical thinning with an application of bioregulators early in the season is currently the most common solution to adjust fruit load . However the results of this approach are highly inconsistent between seasons . In the present study we identified the most informative bands in the visible near infrared range for forecasting fruitlet destiny in response to the thinner application which could be used to support grower decisions .
+
+@highlight Spectral wavebands were investigated to forecast apple fruitlet drop.
+@highlight Optimal bands were identified with receiver operating characteristic curve.
+@highlight Two to four optimal bands led to 6695 accuracy depending on monitoring dates.
+@highlight Later monitoring dates resulted in higher forecast accuracies.
+@highlight Trichome density changes strongly affected apple fruitlet reflectance.

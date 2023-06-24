@@ -1,0 +1,9 @@
+ In recent times there has been increase in climate change protest across the globe . However whether decrease in emissions is connected with climate change protest or not is yet to be documented in the literature . Consequently the aim of this study is to fill this gap by examining ex post detection of how climate change protests and its interconnectedness with CO2 emissions . Using the Bai and Perron structural break test we estimate the number of breaks as well as the date of such structural breaks in CO2 emissions series for 41 countries . Our aim is to match the date of the climate change protests to those of the structural breaks . We observe that climate change protests are fairly consistent with the dates of breaks in Europe and Asia but not in BRICS economies or US Canada and other countries . Therefore this method allows us to solve a gap in the energy industry related to the modelling and correct allocation of positive shocks in CO2 emissions to climate change protests .
+
+@highlight The number and the date of structural breaks in global CO
+@highlight emissions are presented.
+@highlight Bai and Perron 1998 structural break test for 41 countries is used alongside the Lee Strazicich Unit Root Tests for robustness checks.
+@highlight We contribute to knowledge as regards ex post detection of the role of climate change protests in global CO
+@highlight emissions.
+@highlight Date of climate change protests is compared to those of these structural breaks.
+@highlight Climate change protests are fairly in agreement with break dates and differ across regions.

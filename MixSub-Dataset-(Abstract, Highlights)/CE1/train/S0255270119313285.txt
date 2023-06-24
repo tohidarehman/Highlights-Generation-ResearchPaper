@@ -1,0 +1,7 @@
+ Millistructured plate reactors are compact robust and flexible devices that combine high heat transfer rates with considerable flow rates . They are thus an ideal tool for process intensification in the chemical industry . In the present work an innovative mathematical model for the ART plate reactor PR37 of the Ehrfeld Mikrotechnik GmbH is developed which covers the three dimensional heat transfer between process and utility channel with low computational effort . Nusselt correlations have been established for the process and utility channel by fitting the model to a large number of experiments . Significant intensification of the heat transfer is reached due to formation of secondary flows in the meandering periodically diverging converging process channels for Reynolds numbers larger than 11 . The heat transfer coefficients in the process channels exceed values of 5kW m
+
+@highlight A model for the plate reactor PR37 from Ehrfeld Mikrotechnik was developed.
+@highlight It allows an efficient but accurate calculation of the spatial heat transfer.
+@highlight A Nusselt correlation is given for the meandering process channel.
+@highlight This correlation is valid for a wide range of Reynolds and Prandtl numbers.
+@highlight The PR37 reactor is compared with other millireactors in terms of heat transfer.

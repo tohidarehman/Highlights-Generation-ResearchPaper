@@ -1,0 +1,7 @@
+ In this study we investigated some physical properties of AB compounds in different structural phases based on density functional theory . The effects of different hydrostatic pressures and biaxial strains on the band orders of AB compounds were investigated . The calculations were conducted with the Wien2k package in the presence of spin orbit coupling . The results showed that the topological
+
+@highlight Topological phases of AB A Sc Y and B Sb Bi compounds are studied.
+@highlight Optical properties of AB compounds are investigated.
+@highlight High pressures lead to topological phase transitions and band inversions.
+@highlight Pressure increases crystal field and bandwidth of valence and conduction bands.
+@highlight High pressures have unusual effects on topological phases of ScSb and YSb.

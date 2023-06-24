@@ -1,0 +1,6 @@
+ In this article we develop a theoretical model investigating how to optimize capitalization and deposit insurance strategies in a cyclically economic environment and by considering the moral hazard inherent in bank deposit insurance . The objective of banks is assumed to minimize the sum of capital cost expected loss of banks bankruptcy and the opportunity loss of partial deposit insurance . We also assume that insured banks can purchase partial deposit insurance . Our numerical analysis results using the historical data of four major banks in the U. S. indicate that deposit insurance and capitalization can be mutually complementary to each other under certain conditions .
+
+@highlight We discuss the optimization of capitalization and deposit insurance strategies.
+@highlight The objective of banks is to minimize the total social loss.
+@highlight Insured banks is assumed to purchase partial deposit insurance and moral hazard always exists.
+@highlight The application is illustrated with historical data from four U.S. banks.

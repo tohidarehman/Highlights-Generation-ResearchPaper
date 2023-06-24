@@ -1,0 +1,7 @@
+ This study evaluated the effect of applying a Ti SiC Metal Matrix Nanocomposite coating to a Ti6Al4V substrate on enhancing the hypervelocity impact resistance . This coating was deposited using the Selective Laser Melting technique . Hypervelocity impact experiments were performed using a two stage light gas gun with projectile velocities ranging from 3.7 to 5.4km s. Uncoated Ti6Al4V samples were also tested for comparison . The results showed that the Ti SiC MMNC coating enhanced the hypervelocity impact resistance of the titanium substrate by reducing both impact crater depth and diameter . Additionally this research presented an approach for modeling the experiments using Smoothed Particle Hydrodynamics . Damage parameters obtained from the simulations were in a great agreement with experimental results . This SPH model can be used to reduce the need for extensive experimentation .
+
+@highlight Ti SiC Metal Matrix Nanocomposite MMNC coating was applied on a Ti 6Al 4V substrate using Selective Laser Melting method.
+@highlight Hypervelocity impact experiments were performed ranging from 3.7 to 5.4 km s using a two stage light gas gun.
+@highlight The MMNC coating reduced the hypervelocity damage in Ti 6Al 4V substrate by reducing the impact crater depth and diameter.
+@highlight A computational Smoothed Particle Hydrodynamics model was developed to simulate the experiments.
+@highlight Damage parameters obtained from the simulations were in great agreement with experimental results.

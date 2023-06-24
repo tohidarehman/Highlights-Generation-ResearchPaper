@@ -1,0 +1,12 @@
+ Quantifying global photosynthesis remains a challenge due to a lack of accurate remote sensing proxies . Solar induced chlorophyll fluorescence has been shown to be a good indicator of photosynthetic activity across various spatial scales . However a global and spatially challenging estimate of terrestrial gross primary production based on satellite SIF remains unresolved due to the confounding effects of species specific physical and physiological traits and external factors such as canopy structure or photosynthetic pathway C
+
+@highlight An ensemble of far red SIF from ground and OCO 2 was compared with in situ GPP.
+@highlight BRF data can be used to reduce the effects of canopy structure on SIF.
+@highlight BRF data is used to derive total canopy SIF emission SIF
+@highlight  for OCO 2.
+@highlight SIF
+@highlight and GPP relationships converge two unique models for C
+@highlight and C
+@highlight plants.
+@highlight SIF
+@highlight  based model yields an estimate of GPP of 129.56PgC year for 20152017.

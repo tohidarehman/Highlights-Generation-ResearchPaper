@@ -1,0 +1,7 @@
+ The crack growth rates of un irradiated and un hydrided Zr 2.5Nb pressure tube material has been investigated in both air and in vacuum . Pre cracked CCT samples made from pressure tube were tested in air atmosphere at 300C and 350C at different stress intensity factors . It was observed that till a particular stress intensity factor there is no crack growth and after which the crack growth rate increases with increase in stress intensity factor . For the test carried out in vacuum it was observed that the crack growth rates for air is an order of magnitude higher than that of the crack growth obtained in the vacuum ambience .
+
+@highlight Stress assisted oxide cracking has been demonstrated for unhydrided unirradiated Zr 2.5Nb pressure tube material under static loading.
+@highlight The velocity of crack growth at 350C was determined as a function of stress intensity factor.
+@highlight SAOC was found to be associated with threshold stress intensity factor of 22MPam
+@highlight The velocity of crack growth increased with increase in applied stress intensity factor.
+@highlight The SAOC is less likely event for propagation of initial flaws in PTs under operating condition of the PHWRs.

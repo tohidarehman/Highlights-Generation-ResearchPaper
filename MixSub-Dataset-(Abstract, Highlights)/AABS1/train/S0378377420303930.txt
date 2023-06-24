@@ -1,0 +1,7 @@
+ This study reviews soil water balance model approaches to determine crop irrigation requirements and scheduling irrigation adopting the FAO56 method . The K
+
+@highlight The base concepts of soil water balance SWB models using the dual Kc approach are discussed.
+@highlight The use of SWB transient state and crop growth and yield models is discussed.
+@highlight The SIMDualKc model is taken as example and various extensions of the dual Kc are presented.
+@highlight Trends for real time irrigation are discussed including remote and proximal sensing data assimilation.
+@highlight Future trends are analysed from the perspective of using remote sensing and cloud data.

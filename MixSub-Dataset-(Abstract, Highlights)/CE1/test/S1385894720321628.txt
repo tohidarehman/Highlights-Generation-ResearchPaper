@@ -1,0 +1,7 @@
+ Flexible wire shaped energy storage devices grab tremendous attention due to the emergence of wearable and portable electronics markets . Herein the design principles and device performance of the lithium ion capacitor in core shell wire topology are described . The wire shaped lithium ion capacitor assembly consists of multi walled carbon nanotubes coated carbon fibers core electrode polymer electrolytes lithium titanium oxide composite outer electrode helically wrapped current collectors and protective outer covering . This 2.7V device exhibits a maximum energy density of 1.85 mWh cm
+
+@highlight Concentric core shell design for wire shaped lithium ion capacitor WSLIC 
+@highlight All solid state WSLIC using a solid polymer electrolyte.
+@highlight Helically wrapped current collectors provide structural support like spring.
+@highlight Comparable volumetric energy density with other wire shaped lithium ion battery.
+@highlight Highly bendable WSLIC without degradation in electrochemical performances.

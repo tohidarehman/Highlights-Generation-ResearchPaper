@@ -1,0 +1,8 @@
+ There are a lot of geometrical and morphological changes that happen in the human eye with age . Primary open angle glaucoma which is caused by the increase in intraocular pressure inside the anterior chamber of the eye is also associated with the physiological aging of the eye . Therefore it is crucial to understand the effects of aging on drug delivery in the human eye when applied topically . Consequently a numerical model of topical drug delivery for an aging human eye has been developed using commercial software COMSOL Multiphysics in the current study . Three different age groups have been considered and the changes in geometrical and tissue properties of different domains of the eye with age have been included in the numerical model . The effect of aging on heat transfer aqueous humor flow intraocular pressure and drug concentration in different domains and orientations of the eye have been investigated . Additionally an attempt has been made to predict the best class of anti glaucomatic treatment
+
+@highlight Effect of aging on biological processes happening in human eye has been studied.
+@highlight Three different age groups have been considered namely young middle and old.
+@highlight Geometrical changes in eye related to aging are included in the numerical model.
+@highlight Temperature fluid flow and drug transport are significantly affected by aging.
+@highlight An
+@highlight attempt has been made to predict optimum anti glaucomatic treatment.

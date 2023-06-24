@@ -1,0 +1,6 @@
+ Forward Freight Agreement is used by shipping market players for hedging . We evaluate the hedging performance of the FFAs by comparing the conventional approach of minimum variance with the quantile regression . The quantile hedge ratios tend to be different from the conventional one indicating the possibility of over or under hedge . Including the error correction term reduces the discrepancy between the quantile hedge ratios and the conventional one . The FFA of one month horizon is more informative to the physical market than other FFAs of longer horizons . Overall the Panamax sector has a better hedging performance than the Capesize one and the quantile hedge should be preferred for the Capesize sector .
+
+@highlight Forward Freight Agreement FFA has been used for risk hedging.
+@highlight We use quantile regression to evaluate the hedging performance of FFAs.
+@highlight The conventional approach could render over or under hedge.
+@highlight The FFA of one month horizon is more informative to the physical market.

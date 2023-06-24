@@ -1,0 +1,6 @@
+ We study coupled Gauss maps in one dimension and observe a transition to band periodic state with 2 bands . This is a periodic state with period 2 in a coarse grained sense . This state does not show any long range order in space . We compute two different order parameters to quantify the transition a Flipping rate
+
+@highlight We observe directed percolation DP transition to the absorbing state in a coupled Gaussian maps.
+@highlight It reaches a coarse grained period 2 state in time. It has no long range spatial order even in a coarse grained sense.
+@highlight We propose flip rate F t fraction of sites which don t return to the same band after two time steps as an order parameter.
+@highlight Estimates of decay exponent of F t persistence exponent as well as of z and v put the transition firmly in DP class.

@@ -1,0 +1,6 @@
+ A 2D chiral cellular structure the unit cell of which is composed of four V shaped wings is studied through the energy based method . The closed form solutions of the in plane elastic constants are obtained as functions of geometric parameters and verified through finite element analysis . Furthermore the influences of geometric parameters on the elastic constants are discussed . Results show that the equivalent moduli of the structure can be several orders of magnitude lower than those of the base material and the maximum global strains can be dozens of times those of the base material . Besides the structure shows significant in plane elastic coupling effects the maximum ratio of the shear to elastic strain beyond 17.2 and the maximum ratio of the elastic to shear strain exceeding 1.52
+
+@highlight A distinctive 2D chiral cellular structure is studied through energy based method.
+@highlight The in plane elastic constants and coupling effects are comprehensively investigated.
+@highlight The effects of the parameters on the in plane elasticity are concretely discussed.
+@highlight The structure shows great potential for a wide range of engineering applications.

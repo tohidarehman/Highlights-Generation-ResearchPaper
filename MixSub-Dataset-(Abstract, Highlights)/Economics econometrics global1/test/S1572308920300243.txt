@@ -1,0 +1,7 @@
+ We consider predicting systemic financial crises one to five years ahead using recurrent neural networks . We evaluate the prediction performance with the Jrda Schularick Taylor dataset which includes the crisis dates and annual macroeconomic series of 17 countries over the period 18702016 . Previous literature has found that simple neural net architectures are useful and outperform the traditional logistic regression model in predicting systemic financial crises . We show that such predictions can be significantly improved by making use of the Long Short Term Memory and the Gated Recurrent Unit neural nets . Behind the success is the recurrent networks ability to make more robust predictions from the time series data . The results remain robust after extensive sensitivity analysis .
+
+@highlight We consider LSTM and GRU neural nets that take advantage of the recent advantages in deep learning.
+@highlight The gated recurrent neural net models consistently outperform more basic neural nets and the benchmark logistic model.
+@highlight The LSTM neural net produces less than half the amounts of false alarms in comparison to the logit model.
+@highlight The success of the new models is based on their ability to handle time series data.
+@highlight We characterize the drivers of the neural net predictions using a Shapley value decomposition.

@@ -1,0 +1,5 @@
+ The present work numerically demonstrates a simple but effective method of controlling the droplet motion direction by utilizing the wettability properties of the substrate and a stripe on the substrate . Three motion manners i.e . glide only glide cross and cross only motions are identified and analyzed . The simulation results show that droplets with different sizes prefer different motion manners and the stripe width can influence the motion manner further . This study could provide a new idea for the design of relevant applications such as anti icing treatment of road and building surfaces by employing the wettability property of the surfaces .
+
+@highlight Wettability of substrate and stripes is employed to control the droplet motion direction.
+@highlight The droplet size and stripe width have significant influence on the droplet motion.
+@highlight Three droplet motion manners are identified and analysed.

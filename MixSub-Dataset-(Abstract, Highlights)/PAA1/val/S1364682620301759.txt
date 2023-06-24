@@ -1,0 +1,5 @@
+ The design and laboratory demonstration of a prototype sensor for measuring thermospheric red line winds from a 6U CubeSat is described . The sensor uses the flight spare interferometer developed for the MIGHTI instrument on NASA s ICON satellite with a more limited scientific scope to enable it to fit within the limited volume of a 6U CubeSat . A performance model coupled with laboratory phase shift measurements demonstrate the capability of the sensor for thermospheric atomic oxygen red line wind measurements .
+
+@highlight Thermospheric wind measurements from a CubeSat.
+@highlight Remote sensing of neutral oxygen 630nm thermospheric winds.
+@highlight Doppler measurements of dayside and nightside thermospheric winds.

@@ -1,0 +1,7 @@
+ This paper is concerned with the experimental testing and the constitutive modelling of a thermoplastic microcellular polyethylene terephthalate foam on the temperature range of 21210 C in order to investigate the temperature dependent performance of the applied parallel viscoelastic viscoplastic material model . By means of carefully designed uniaxial mechanical tests in temperature chamber the viscous elastic and yielding behaviours of the investigated material are identified which are then applied for selecting suitable viscoelastic viscoplastic constitutive models . The material characterization process is conducted using finite element based fitting method including also the analysis of the applied numerical optimization algorithm . The fitting results are used to analyse the parameter sensitivity and to propose closed form analytical relations for the temperature dependency of the material parameters . Finally the utilisation of the analytical temperature functions for speeding up the parameter fitting process is also demonstrated .
+
+@highlight Detailed experimental investigation of microcellular polyethylene terephthalate is presented on wide temperature domain.
+@highlight A simple parallel viscoelastic viscoplastic constitutive model is proposed to characterize such behaviour.
+@highlight A FE based parameter fitting approach is proposed.
+@highlight Temperature dependent sensitivity analysis of material parameters is discussed.
+@highlight Analytical temperature dependent parameter functions are introduced.

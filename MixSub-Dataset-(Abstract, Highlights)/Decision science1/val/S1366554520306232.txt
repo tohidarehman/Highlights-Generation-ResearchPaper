@@ -1,0 +1,7 @@
+ We develop a flexible framework for the estimation of the fuel consumption speed curve for ships which allows for speed dependent elasticity with endogenous thresholds . Using a large dataset of noon reports for 16 crude oil tankers we estimate the corresponding elasticities net of weather effects . Our empirical findings confirm that the classical cubic law for fuel consumption is valid only near the design speed but also that the sensitivity with regards to sailing speed can be substantially lower at the sailing speeds actually observed . Our results can be used to question the economic and environmental benefits of slow steaming and fuel levies .
+
+@highlight We develop an econometric framework for data driven estimation of fuel consumption.
+@highlight Our empirical model accounts for speed dependent consumption to speed elasticity.
+@highlight We estimate the model based on a data sample of noon reports for 16 tanker vessels.
+@highlight Our results suggest that the cubic law only holds near the vessel design speed.
+@highlight Estimated elasticity is substantially lower at the true sailing speeds of the fleet.

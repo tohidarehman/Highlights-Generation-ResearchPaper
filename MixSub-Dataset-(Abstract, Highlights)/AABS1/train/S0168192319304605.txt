@@ -1,0 +1,6 @@
+ Accurate evapotranspiration estimation is important for understanding hydrological cycle and water resources management in the cropland . Based on eight flux sites within the North China Plain and the surrounding area which were integrated together for the first time we applied support vector regression method to develop ET dataset for the cropland in NCP from 1982 to 2015 with 1 12 spatial resolution and eight day temporal interval . The mean annual ET over cropland within NCP was 575mmyr
+
+@highlight Wheat ET increased significantly and maize ET decreased significantly.
+@highlight The high mean annual ET occurred in the well irrigated area and humid region.
+@highlight Human activities controlled ET trend in wheat season.
+@highlight Climate change dominated ET trend in maize season.

@@ -1,0 +1,5 @@
+ Solar induced chlorophyll fluorescence has shown to be a good proxy of gross primary production across multiple spatial and temporal scales . The dependence of top of canopy measurements of SIF on the illumination and observation directions has been recognized as an important factor in the relationship between SIF and GPP across multiple spatiotemporal scales . In this study we investigated angular effects in diurnal observed SIF SIF
+
+@highlight Directional effects in red and far red SIF are measured with a multi angular SIF system.
+@highlight Red SIF exhibits stronger directional effects than far red SIF.
+@highlight Canopy reflectance data are used to correct the directional effect in SIF.

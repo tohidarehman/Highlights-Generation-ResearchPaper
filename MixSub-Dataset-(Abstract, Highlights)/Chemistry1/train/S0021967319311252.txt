@@ -1,0 +1,6 @@
+ Thermodynamic modeling of GCGC separations provides a tool for rapid method evaluation and optimization . Separations of 95 hydrocarbons on two cryogenically modulated GCGC systems are modeled displaying average second dimension retention time modeling absolute errors of 0.17s and 0.12s respectively and generating modeled chromatograms which sufficiently represent experimental data . A web based GCGC modeling routine is presented which allows users to model separations currently focused on hydrocarbons with full control over all system parameters . The method translation capabilities of the application are further demonstrated by replicating Piotrowski etal.s GCGC HRT temporal distribution plots of hydraulic fracturing flowback fluid hydrocarbons .
+
+@highlight A web based GCGC modeling application is presented.
+@highlight Hydrocarbon separations can be modeled with full control of system parameters.
+@highlight Modeling accuracy is shown across two GCGC systems.
+@highlight GCGC HRT hydrocarbon temporal distribution plots are replicated.

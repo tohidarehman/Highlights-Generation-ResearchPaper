@@ -1,0 +1,5 @@
+ Stearyl coenzyme A desaturase enzyme 1 is a key enzyme that catalyzes the conversion of saturated fatty acids into monounsaturated fatty acids and plays a vital role in lipid metabolism of tumor cells . SCD1 is overexpressed in a variety of malignant tumors and its related inhibitors showed significant anti tumor activity
+
+@highlight Crucial protein ligand interactions of SCD1 receptor antagonists were elucidated.
+@highlight TCMNP ACDNP and IBSNP databases were screened for SCD1 receptor antagonists.
+@highlight MD simulation binding free energy calculation and ADMET prediction were applied to evaluate the virtual screening hits.

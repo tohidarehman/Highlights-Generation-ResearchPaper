@@ -1,0 +1,6 @@
+ Development of composite material parts requires significant research and development effort . The fiber size volume fraction and direction are important in determining the properties of the part . Additive manufacturing methods are increasingly used for printing composite materials . Advancements in 3D scanning and imaging technology have raised a significant concern in reverse engineering of parts made by AM which may result in counterfeiting and unauthorized production of high quality parts . This work is focused on using imaging methods and machine learning to reverse engineer a composite material part where not only the geometry is captured but also the tool path of 3D printing is reconstructed using machine learning of microstructure . A dimensional accuracy with only 0.33 difference is achieved for the reverse engineered model .
+
+@highlight The microstructures of 3D printed fiber reinforced composites is reverse engineered.
+@highlight A refined Recurrent Neural Network is used to predict fiber orientation in layers.
+@highlight The composite sample was reverse engineered with an error of 0.33 in dimensions.
+@highlight Machine learning methods can be powerful tools for reverse engineering composites.

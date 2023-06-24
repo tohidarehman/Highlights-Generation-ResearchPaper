@@ -1,0 +1,9 @@
+ An untargeted and pseudotargeted metabolomic combination approach was developed to identify reliable and stable differential markers which can distinguish between pork meat from live pigs conventionally butchered and pork meat from dead pigs butchered immediately after death from diseases or other abnormalities . In this study 24 differential metabolites of interest were screened by the UHPLCTripleTOFMS based untargeted metabolomic method and 14 differential markers were detected by the UHPLCQTRAPMS based pseudotargeted metabolomic method after performing statistical analysis to remove false positive differential metabolites . Among the possible differential markers identified using the Metlin database and references were carnosine
+
+@highlight Metabolomics for distinguishing live from dead pork meat was firstly developed.
+@highlight Untargeted and pseudotargeted metabolomics determined 14 differential markers.
+@highlight Some differential markers were identified as carnosine 
+@highlight  carnitine 
+@highlight  histidine.
+@highlight Approach was accurate in quantification to exclude the false positive metabolites.
+@highlight Developed approach would be applied to evaluate the quality and safety of foods.

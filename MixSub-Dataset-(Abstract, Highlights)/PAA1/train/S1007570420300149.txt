@@ -1,0 +1,5 @@
+ Extended dynamic mode decomposition provides a class of algorithms to identify patterns and effective degrees of freedom in complex dynamical systems . We show that the modes identified by EDMD correspond to those of compact PerronFrobenius and Koopman operators defined on suitable Hardy Hilbert spaces when the method is applied to classes of analytic maps . Our findings elucidate the interpretation of the spectra obtained by EDMD for complex dynamical systems . We illustrate our results by numerical simulations for analytic maps .
+
+@highlight Strong spectral convergence results for Extended Dynamic Mode Decomposition.
+@highlight Effective numerical approximations of PerronFrobenius and Koopman operators.
+@highlight Exactly solvable chaotic models as testbed for convergence of various data driven algorithms.

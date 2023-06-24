@@ -1,0 +1,5 @@
+ The well known nonlinear model for describing the solid tumour growth is under study using an approach based on Lie symmetries . It is shown that the model in the two dimensional approximation forms a dimensional boundary value problem which admits a highly nontrivial Lie symmetry . The special case involving the power law nonlinearities is examined in details . The symmetries derived are applied for the reduction of the nonlinear boundary value problem in question to problems of lower dimensionality . Finally the reduced problems with correctly specified coefficients were exactly solved and the exact solutions derived were analysed in particular some plots were build in order to understand the time space behaviour of these solutions and to discuss their biological interpretation .
+
+@highlight It is proved that the tumour growth problem in question admits infinite dimensional Lie algebra.
+@highlight Highly nontrivial reductions of the given multidimensional problem to those for ODEs are found.
+@highlight New exact solutions are constructed and their properties are established.

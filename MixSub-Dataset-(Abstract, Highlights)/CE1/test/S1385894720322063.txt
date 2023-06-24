@@ -1,0 +1,6 @@
+ Nowadays new technologies are being developed to substitute conventional energy resources . Biogas has emerged to avoid the intensification of global warming and promote waste valorization . However undesirable chemicals must be removed prior to its utilization . Siloxanes stand out as biogas contaminants since they can damage process equipments . Therefore in this work COSMO based Aspen Plus computational methodology was applied to evaluate as first time ionic liquids as siloxanes absorbents on biogas upgrading context . Thus molecular simulation using COSMO RS method was used to analyze the interactions between siloxanes ILs based on excess properties . Moreover it was used to select the most promising ILs among a wide sample 9
+
+@highlight Ionic liquids are proposed as siloxanes absorbents for biogas upgrading.
+@highlight The most promising ILs are selected based on molecular simulation.
+@highlight ILs satisfy silicon outlet legislation on packed absorption columns.
+@highlight Solvent regeneration is possible using air stripping column in mild conditions of temperature and pressure.

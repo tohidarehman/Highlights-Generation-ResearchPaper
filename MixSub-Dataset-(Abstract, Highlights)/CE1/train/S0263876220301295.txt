@@ -1,0 +1,6 @@
+ The present study analyses the thermowell system for monitoring temperatures in a fixed bed catalytic reactor for the highly exothermic partial oxidation of o xylene to phthalic anhydride . Particle resolved computational fluid dynamics simulations are presented for the cases of randomly packed spheres inside cylindrical tubes with tube to particle diameter ratios
+
+@highlight Axial thermowells change the void fraction and cause flow by passing in fixed beds.
+@highlight For phthalic anhydride synthesis thermowells displace hot spots downstream.
+@highlight Axial thermowell measurements can underestimate hot spot temperatures.
+@highlight Temperature errors do not always decrease with thermowell size due to local effects.

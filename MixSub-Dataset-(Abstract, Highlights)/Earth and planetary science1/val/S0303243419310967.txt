@@ -1,0 +1,6 @@
+ The Sentinel 2 Multi Spectral Imager has three spectral bands centered at 705 740 and 783nm wavelengths that exploit the red edge information useful for quantifying plant biochemical traits . This sensor configuration is expected to improve the prediction accuracy of vegetation chlorophyll content . In this work we assessed the performance of several statistical and physical based methods in retrieving canopy chlorophyll content from Sentinel 2 in a heterogeneous mixed mountain forest . Amongst the algorithms presented in the literature 13 different vegetation indices a non parametric statistical approach and two radiative transfer models were used to assess the CCC prediction accuracy . A eld campaign was conducted in July 2017 to collect
+
+@highlight The study provides a comprehensive comparison of methods for CCC retrieval from Sentinel 2 imagery.
+@highlight The results of the study demonstrate that both the physical based and statistical approaches results are comparable.
+@highlight INFORM inversion using LUT is the unbiased predictor of CCC from remote sensing data.
+@highlight The hybrid approach yielded accuracies similar to the LUT inversion and may be the preferred method for large scale mapping.

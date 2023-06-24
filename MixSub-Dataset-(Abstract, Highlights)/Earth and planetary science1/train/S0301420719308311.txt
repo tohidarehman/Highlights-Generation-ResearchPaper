@@ -1,0 +1,7 @@
+ We study price transmission between rare earth stocks and the base metals gold clean energy oil and global MSCI stock markets . Using a Markov switching vector autoregressive model that accounts for different volatility regimes our empirical findings reveal that price connectedness between rare earth and other stock markets differs across volatility regimes . Specifically in a low volatility regime RE stocks are linked to the base metals market receiving and transmitting sizeable price spillovers and RE stocks are weakly connected with clean energy gold oil and general stock markets . In contrast in a high volatility regime there is increased RE price co movement with price oscillations in the clean energy oil and general stock markets . These findings have implications for hedging risk associated with positions in RE companies using other financial assets .
+
+@highlight We study price transmission between rare earth stocks and financial markets using a MS VAR model.
+@highlight Price connectedness between rare earth and other stock markets differs across volatility regimes.
+@highlight Rare earth stocks are linked to the base metals market in a low volatility regime.
+@highlight Rare earth stocks are weakly connected with clean energy gold oil and general stock markets.
+@highlight In high volatility regime rare earth stock price co movement with other assets increases.

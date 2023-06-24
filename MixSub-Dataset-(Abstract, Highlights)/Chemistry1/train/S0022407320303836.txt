@@ -1,0 +1,9 @@
+ Considerable work has gone into identifying and delineating the effects of quantum monodromy on molecules . Recently this included consideration of transition intensities of the NCNCS molecule using
+
+@highlight HOCl absolute transition intensities calculated with GSRB agree with HITRAN database.
+@highlight GSRB spectra obtained using
+@highlight dipole moment function in corrected program.
+@highlight With one exception the calculated spectra of NCNCS now agree with experiment.
+@highlight The calculated and observed
+@highlight  type rovibrational transitions of NCNCS do not agree.
+@highlight Possible explanations of this disagreement are considered.

@@ -1,0 +1,5 @@
+ We propose and validate a new measure of earnings quality based on a hidden Markov model . This measure termed earnings fidelity captures how faithful earnings signals are in revealing the true economic state of the firm . We estimate the measure using a Markov chain Monte Carlo procedure in a Bayesian hierarchical framework that accommodates cross sectional heterogeneity . Earnings fidelity is positively associated with the forward earnings response coefficient . It significantly outperforms existing measures of quality in predicting two external indicators of low quality accounting restatements and Securities and Exchange Commission comment letters .
+
+@highlight We model the true economic states of firms as unobservable changing over time and imperfectly revealed by earnings signals.
+@highlight Applying this model to archival data we estimate the fidelity of the signals as a separate construct from the persistence of the states.
+@highlight Empirically high fidelity firms have higher forward earnings response coefficients and are less likely to issue restatements or receive Securities and Exchange Commission comment letters.

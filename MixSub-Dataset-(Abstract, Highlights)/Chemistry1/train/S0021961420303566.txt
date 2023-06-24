@@ -1,0 +1,6 @@
+ The liquid liquid equilibria data for the system were measured at 303.2K and 323.2K under 101.3kPa . The tie line data for both systems are displayed in the phase diagram with typical type I behaviour . The distribution coefficient and separation factor were calculated according to the measured tie line data . The calculated results suggest that both the two solvents can separate the diisopropyl ether and isopropyl alcohol mixture . Ethylene glycol possesses much better separation efficiency for low concentration extraction . The non random two liquids and universal quasi chemical models were applied to obtain the binary interaction parameters of pure components with all the root mean square deviation values less than 1.0 indicating the deviation of regression process can be acceptable . Based on Gibbs stability criteria the topological analysis with a graphical user interface confirmed the binary interaction parameters from data regression were well consistent with the experimental tie line data .
+
+@highlight The LLE data for DIPE IPA PDO or EG were obtained at 303.2 K and 323.2K.
+@highlight PDO or EG as a solvent can efficiently separate IPA from DIPE mixture.
+@highlight NRTL and UNIQUAC models were used to correlate to the LLE data.
+@highlight The consistency of data regression were checked by the GUI MATLAB method.

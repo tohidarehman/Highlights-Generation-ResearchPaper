@@ -1,0 +1,7 @@
+ We report an optical biosensor using imine 5 amino 2 3dihydrophthalazine 14 dione for direct detection of ascorbic acid via FRET quenched . The ADD was successfully prepared by using simple ultra sonication method which was characterized by various spectroscopic techniques . The fluorescence intensity of ADD probe was drastically quenched in presence of AA and shown excellent selectivity towards the detection of AA in presence of possible biological active interferences . A wide linear range from 0.25 to 190M was achieved towards the detection of AA with a LOD of 10nM . The occurrence of FRET mechanism is due to intermolecular hydrogen bonding between ADD and AA which was confirmed by Density Functional Theory calculations . Moreover the biosensor was successfully applied for the detection of AA in real samples such as fruits and vegetables to demonstrate the practicability . In addition the developed biosensor could be a simple and economically cheap platform for the detection of AA in food samples .
+
+@highlight Greener ultra sonication methodology was used for synthesis of imine based fluorescent probe ADD.
+@highlight The ADD probe shows high selectivity and sensitivity towards ascorbic acid.
+@highlight Stern Volmer quenching constant quenching efficiency and stoichiometry was calculated to support the existence FRET mechanism.
+@highlight DFT studies have been used to confirm the binding sites of AA with ADD.
+@highlight Further it was applied for real samples analysis.

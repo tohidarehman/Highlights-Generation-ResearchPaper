@@ -1,0 +1,7 @@
+ The fundamental relationships are derived for the retention peak width and peak capacity of non retained polymers eluting from multiple standard size exclusion chromatography columns connected in series . The standard SEC columns may have different dimensions and are packed with particles having distinct average particle diameters and average mesopore sizes . The performances of three standard SEC columns connected in series packed with bridged ethylene hybrid fully porous particles having three different APDs 1.7 2.5 and 3.5
+
+@highlight Performance of several standard SEC columns connected in series is investigated
+@highlight Standard SEC columns are packed with particles having different pore sizes
+@highlight Calculations assume isomorphological particles regarding internal pore structure
+@highlight Multiple SEC columns enable the analyst to easily design restricted access media
+@highlight Application is shown for the separation of widely different sized analytes by SEC

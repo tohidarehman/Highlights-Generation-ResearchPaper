@@ -1,0 +1,7 @@
+ The frequency behaviour of a grounding grid can not be neglected in insulation coordination studies . This paper proposes a new approach which consists of calculating the frequency behaviour of a grounding grid by means of a software which implements the electromagnetic theory building a two port component whose internal admittances are defined as rational functions in the Laplace domain and finally using this two port component for time domain fast transient simulations .
+
+@highlight Modelling of the frequency behaviour of a grounding grid in insulation coordination studies.
+@highlight Proposal of a new approach for calculating the frequency behaviour of grounding grids.
+@highlight The frequency response of a grounding grid is converted in a two port component.
+@highlight The internal admittances of this two port component are defined as rational functions in the Laplace domain.
+@highlight This two port component can be used in time domain fast transient simulations.

@@ -1,0 +1,6 @@
+ Debonding problems along the propellant liner insulation interface are a critical point to the integrity and one of the major causes of structural failures of solid rocket motors . Current solutions are typically restricted to methods for assessing the integrity of the rocket motors structure and visually inspecting their components . In this context this paper presents an improved algorithm to detect liner surface defects that may compromise the bonding between the solid propellant and the insulation . The use of Local Binary Patterns provides a structural and statistical approach to texture analysis of liner sample images . Along with color information extraction these two methods allow the representation of image pixels by feature vectors that are further processed by a Multilayer Perceptron neural network classifier . The MLP neural network analyzes liner sample images and classifies each pixel into one of three classes
+
+@highlight An algorithm to detect defective areas on the liner surface of solid rocket motors is proposed.
+@highlight A neural network model classifies image pixels based on color and texture features.
+@highlight The algorithm can detect defects on the liner surface with a precision comparable to human inspectors.
+@highlight The algorithm can prevent the late characterization of bonding defects.

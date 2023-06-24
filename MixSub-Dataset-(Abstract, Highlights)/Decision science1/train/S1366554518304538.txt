@@ -1,0 +1,5 @@
+ To derive conditions for manufacturer and retailer to implement trade in policies voluntarily and identify the optimal channel format for trade in we construct traditional retail channel model and dual channel model under two scenarios without trade in and with trade in . We find that the retailer would implement trade in policy voluntarily in traditional retail channel only if old customers market share exceeds a certain threshold . Interestingly the result is opposite in dual channel case . The traditional retail channel and the dual channel could be the optimal choice for implementing trade in respectively depending on different value ranges of customers acceptance of direct online channel .
+
+@highlight The traditional retail models and the dual channel models with without trade in are constructed.
+@highlight We examine the conditions for manufacturer and retailer to implement trade in policies voluntarily.
+@highlight We identify the optimal channel choice for implementing trade in policies.

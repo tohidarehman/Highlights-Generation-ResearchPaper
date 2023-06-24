@@ -1,0 +1,5 @@
+ A discrete element model of citrus fruit stalk with a diameter of 3mm was established using the discrete element method . The intrinsic parameters and contact parameters of citrus fruit stalk were obtained through measurement . The bonding parameters of the discrete element model of citrus fruit stalk were calibrated through a three point bending test and shear tests . Based on these parameters the optimal bonding parameter combination was determined . This included normal stiffness per unit area
+
+@highlight A citrus fruit stalk model with a diameter of 3mm established by DEM.
+@highlight Parameters of the simulation model obtained by tests and parameter calibration.
+@highlight Rationality of the parameters verified by simulation and measurement.

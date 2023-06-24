@@ -1,0 +1,6 @@
+ Aggregated traffic flow models based on the Macroscopic Fundamental Diagram also known as multi reservoir or multi region MFD models have been developed for more than a decade for various applications . While being very appealing for simulating traffic dynamics at a city level the outputs of these models were rarely confronted with real data measurements . Thus this paper focuses on calibration and validation of an MFD simulation for a city partitioned into multiple reservoirs . The traffic predictions from the MFD simulation are compared with real data from loop and probe sensors . The questions addressed in this study include the influence of the city partitioning the MFD and average trip length estimation and the path flow distribution among reservoirs . This study is carried on the network of Lyon France composed by around 27 000 links that extend over an urban area of 80km
+
+@highlight Validating a multi reservoir MFD model compared to real data.
+@highlight Calibrating crucial input of the MFD model with real data.
+@highlight Highlighting the role of the total active network length to scale up observations from loop sensors.
+@highlight Designing flow optimization methods to estimate a reliable path flow. distribution possibly far from Wardrops principle.

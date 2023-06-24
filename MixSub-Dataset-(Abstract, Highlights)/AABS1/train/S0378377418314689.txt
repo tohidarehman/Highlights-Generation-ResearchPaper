@@ -1,0 +1,6 @@
+ In this study the effectiveness of a bivariate analysis of agricultural drought characteristics for irrigation planning was evaluated . The case study was conducted in locations in central Italy and was based on olive crops which are widely grown in that area under rainfed or deficit irrigation regimes . For each locality the available time series of daily precipitation and maximum and minimum temperatures were used to simulate the daily soil water dynamics
+
+@highlight Copula based drought models are used to compare irrigation strategies of olive crops.
+@highlight Drought conditions are evaluated on the basis of the soil water availability
+@highlight Irrigation strategies leading to the lowest drought duration and severity are found.
+@highlight Transition probabilities of consecutive severe drought events are analysed.

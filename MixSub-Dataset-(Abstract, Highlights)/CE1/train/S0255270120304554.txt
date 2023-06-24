@@ -1,0 +1,9 @@
+ This paper illustrates the optimization of a flat plate photocatalytic reactor through a computational framework coupling CFD taking into account the radiation field modeling and design of experiments . The CFD based DoE approach was used to analyze the influence of the reactors height
+
+@highlight Development of a validated CFD model for a flat plate photocatalytic reactor.
+@highlight A radiation field model was coupled to the reaction kinetics and the laminar flow.
+@highlight The CFD and DoE techniques were combined to perform a reactor optimization study.
+@highlight The effect of
+@highlight and
+@highlight was evaluated by the central composite rotatable design.
+@highlight A good agreement was found between the results obtained by DoE and CFD approach.

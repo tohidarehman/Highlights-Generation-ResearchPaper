@@ -1,0 +1,8 @@
+ This paper proposes a new chaotic image encryption which is based on the coupled map lattices and DNA diffusion sequences and it s also a new one time pad scheme . The initial values and control parameters of the CML system and logistics map are served as keys for one time pad and calculated by utilizing the SHA 256 hash algorithm and the plaintext . In the pixel level we utilize the CML system and sort function to encrypt according to the way from diffusion to scrambling each pixel is encrypted by randomly DNA encoding it means that a pixel consists of 4 bases in the DNA level the Hamming distance and cyclic shift function are utilized to scramble and the DNA encoding rules the DNA complementary rules the DNA operation rules and other operations are combined with the chaotic map for the diffusion process . Security analysis shows that the new algorithm has good security and can resist common attacks .
+
+@highlight A new method to calculate the initial conditions and control parameters of chaotic systems. We utilize hash algorithm and plaintext information to calculate them.
+@highlight The proposed scheme combined with the chaotic selection method of the DNA encoding rules cyclic shift Hamming distance DNA addition DNA subtraction DNA XOR operation and other operations.
+@highlight In the DNA level we proposed a new method to operate bases within each DNA sequence and adjacent DNA sequences when we utilize DNA XOR operation.
+@highlight The Hamming distance and cyclic shift function are combined to diffused the plain images in the DNA level.
+@highlight This paper includes comparative evaluation. They are Ref
+@highlight in our manuscript. Experimental results and security analysis show that the proposed scheme has better security.

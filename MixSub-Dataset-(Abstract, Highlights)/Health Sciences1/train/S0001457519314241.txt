@@ -1,0 +1,7 @@
+ Bicycle wrong way riding is a dangerous and often neglected behavior that engenders threats to traffic safety . Owing to the lack of exposure data the detection of WWR and its relationship with the built environment factors remain unclear . Accordingly this study fills the research gaps by proposing a WWR detection framework based on bike sharing trajectories collected from Chengdu China . Moreover this study adopts Negative Binomial based Additive Decision Tree to investigate the impacts of built environment on WWR frequencies . Results reveal that WWR distribution is unaffected by different periods in a day road length is more influential than road level and road direction in WWR occurrence company bus stop subway station residence and catering facility are primary contributors affecting WWR behavior during peak hours whereas education becomes an emerging influential variable during nonpeak hours and most importantly these variables clearly present non linear effects on the WWR frequencies . Therefore geographically differentiated policies should be adopted for bicycle safety improvement .
+
+@highlight We detect bicycle wrong way riding WWR behavior using bike sharing data.
+@highlight Negative Binomial based Additive Decision Trees are developed.
+@highlight The non linear effects of built environment on WWR frequency are captured.
+@highlight WWR is unaffected by different times of day.
+@highlight Residence company and transit facility are the most influential factors.

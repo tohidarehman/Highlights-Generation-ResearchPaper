@@ -1,0 +1,6 @@
+ Divided aperture microscopy is an imaging method that in addition improves the anti scattering capability . The present state of the art imaging methods have the drawbacks of requirement of scanning or low spatial resolution . In this paper we propose a DA digital holographic microscopy to enable single shot quantitative phase imaging which to our knowledge is the first of its kind . The proposed system is built using a Linnik type interferometric module associated with the DA technique . In this method interestingly an element tilt is not required to produce an off axis angle between the sample and reference beams because of the employment of DA . Some analyses and experiments were conducted to validate the efficiency of the proposed method and the results indicate that a high anti scattering capability with a mean error of 2.42nm were achieved by the proposed method .
+
+@highlight We reported an off axis digital holographic microscopy with divided aperture.
+@highlight No element tilt is needed to produce the off axis angle.
+@highlight A complete analysis was done for the microscopic imaging system.
+@highlight Experimental results show the validity of the proposed method.

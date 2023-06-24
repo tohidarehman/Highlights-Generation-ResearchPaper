@@ -1,0 +1,6 @@
+ The Daisyworld model was originally introduced by Watson and Lovelock in 1983 in order to describe the mechanism of climate homeostasis . Their model which is of zero dimensional one was then extended to a one dimensional model by Adams Carr Lenton and White . They showed that the interactions between white and black daisies and climate give rise to segregation patterns of daisies and suggested existence of some potential link between the homeostatic feedback mechanism and the characters of spatial patterns . In this paper we want to investigate further how such interactions create these segregation patterns and what kinds of patterns are formed by using a two dimensional model . Our results seem to back up Adams Carr Lenton and Whites insight significantly .
+
+@highlight Spot island and labyrinth pattern are observed in 2 dimensional Daisyworld model.
+@highlight Characters of patterns are closely related with dimension of the attractor.
+@highlight Turing like mechanisms are on the pattern formation.
+@highlight Some potential link between the homeostatic feedback and spatial patterns exist.

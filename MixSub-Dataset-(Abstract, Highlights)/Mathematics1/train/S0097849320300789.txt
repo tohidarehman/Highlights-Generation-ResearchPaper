@@ -1,0 +1,7 @@
+ We present a novel virtual reality based framework for the exploratory analysis of nanoscale 3D reconstructions of cellular structures acquired from rodent brain samples through serial electron microscopy . The system is specifically targeted on medial axis representations of branched and tubular structures of cellular shapes and it is designed for providing to domain scientists i effective and fast semi automatic interfaces for
+
+@highlight We introduce a novel immersive framework for analyzing nanoscale brain cell reconstructions.
+@highlight The framework is based on medial axis representations of branched cells like neurons or glia.
+@highlight The system features semiautomatic external and internal interfaces for creating and editing skeletons.
+@highlight The framework is designed to be used on stereoscopic HMD based setups and large scale monoscopic displays.
+@highlight We tested and evaluated the system on cells extracted from the somatosensory cortex of a juvenile rat.

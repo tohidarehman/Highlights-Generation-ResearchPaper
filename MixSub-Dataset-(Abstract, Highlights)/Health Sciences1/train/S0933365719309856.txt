@@ -1,0 +1,7 @@
+ Brain MR images are composed of three main regions such as gray matter white matter and cerebrospinal fluid . Radiologists and medical practitioners make decisions through evaluating the developments in these regions . Study of these MR images suffers from two major issues such as the boundaries of their gray matter and white matter regions are ambiguous and unclear in nature and their regions are formed with unclear inhomogeneous gray structures . These two issues make the diagnosis of critical diseases very complex . To solve these issues this study presented a method of image segmentation based on the neutrosophic set theory and neutrosophic entropy information . By nature the proposed method is adaptive to select the threshold value and is entitled as
+
+@highlight This article presents neutrosophic set theory based segmentation method.
+@highlight The method is adaptive by nature.
+@highlight The method can segment regions of MR images successfully.
+@highlight Application is shown in MR images of Parkinson s disease.
+@highlight The method exhibits high accuracy rate.

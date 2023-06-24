@@ -1,0 +1,6 @@
+ Transcriptional control is an important way of regulating of gene expression and it is often interpreted in terms of protein levels . Taking account of the ubiquity of noises during gene regulation we construct an one dimensional two parameter bistable stochastic dynamical model with both Brownian motion and tempered stable Lvy motion to describe the regulatory mechanism of gene
+
+@highlight Tempered Lvy motion is proposed for a gene regulatory system.
+@highlight Transition in a gene regulatory system is characterized by three effective dynamical characterizations.
+@highlight The effects of Brownian motion and Lvy motion are compared.
+@highlight The different results of well known Lvy motion and tempered Lvy motion are exhibited.

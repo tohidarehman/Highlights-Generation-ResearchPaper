@@ -1,0 +1,7 @@
+ Rapid developments in communication and information technologies in the world force local administrators to be more effective . For a local administrator to be elected again satisfaction of citizens with the duties that need to be performed and the services provided is significant . In this study citizen satisfaction with municipality services was measured using a questionnaire on a household level . It was aimed to develop a new approach in evaluation of municipal service quality .
+
+@highlight It was aimed a fuzzy approach in evaluation of municipal service quality.
+@highlight The data that were obtained were analyzed with fuzzy multi criteria decision making techniques.
+@highlight A raster map was created in the ArcGIS geostatistics module.
+@highlight The map revealed the satisfaction of citizens regarding the quality of municipality services.
+@highlight The spatial representations of the findings are revealed by formation of municipality services citizen satisfaction maps.

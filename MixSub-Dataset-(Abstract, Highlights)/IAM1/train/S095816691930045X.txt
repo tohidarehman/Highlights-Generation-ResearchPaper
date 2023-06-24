@@ -1,0 +1,7 @@
+ High throughput screening is a critical part of any industrial strain engineering effort helping ensure the lowest cost product is produced in the shortest amount of time . Small scale testing that correlates to manufacturing scale allows rapid strain development with confidence that engineering changes are relevant at scale . In this review the current state of high throughput screening the technological advances for the next generation strain screening pipeline and options for implementation are reviewed . New technologies in cell culture and measurement are highlighted and special considerations are discussed .
+
+@highlight High throughput screening to effectively sample and utilize biological diversity is critical to strain improvement efforts.
+@highlight Correlation between small scale testing and manufacturing scale ensures only relevant improvements are further tested.
+@highlight Small scale culture tools and rapid molecule agnostic detection technologies allow larger libraries to be screened.
+@highlight High quality data and cutting edge data analysis pipelines are necessary to ensure relevant improvements are identified.
+@highlight These technological advances match throughput of diversity generation with that of strain testing.

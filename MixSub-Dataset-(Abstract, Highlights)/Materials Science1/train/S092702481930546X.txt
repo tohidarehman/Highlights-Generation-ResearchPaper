@@ -1,0 +1,6 @@
+ We report Si InP core shell nanowire radial heterojunction array based solar cell . Silicon nanowire arrays were fabricated by room temperature metal assisted chemical etching method on a p type Si wafer using silver nanoparticles whereas n InP layer as a shell was deposited onto the SiNW arrays by atmospheric pressure metal organic chemical vapor deposition to obtain core shell radial heterojunctions . A 100nm transparent conductive oxide layer was deposited onto top of n InP layer by sputtering . Transmission electron microscope images confirm the formation of Si InP core shell radial nanowire heterostructure . From the studies of reflectance spectroscopy higher absorption of visible photons has been found . Current voltage measurements on the radial core shell nanowire heterojunction based solar cell have been taken under dark and an AM 1.5 solar radiation at room temperature . The device is found to provide a conversion efficiency of 4.39 with an open circuit voltage of 0.56V and a short circuit current density 14.26mA cm
+
+@highlight Core shell nanowire radial heterojunction array based solar cell is studied.
+@highlight n InP shell on p Si nanowires are grown by MOCVD.
+@highlight Conversion efficiency of core shell device is higher than that from NW device.
+@highlight Higher quantum efficiency of the core shell device in near infrared region.

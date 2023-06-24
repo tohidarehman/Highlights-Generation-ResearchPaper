@@ -1,0 +1,5 @@
+ In this paper a new image encryption algorithm was proposed based on the Chua s multi scroll chaotic circuit system . In comparison with other classical discrete systems the new multi scroll system has higher complexity thus it was more suitable for the design of the image encryption algorithm . The correlation of the adjacent pixels was greatly eliminated by using the Arnold cat transformation . According to the scroll number of the multi scroll chaotic system on
+
+@highlight Chua s multi scroll chaotic circuit model was shown and its mathematical equation was established. The chaos secret key was set based on the system parameters of Chua s multi scroll chaotic system. A new encryption algorithm was designed by combining multi scroll chaotic system and Arnold cat transformation. The pixels were scrambled by using zigzag confusion and the new diffusion algorithm was designed based on the random diffusion method of the adjacent pixel point.
+@highlight The safety performance was compared with other literature.
+@highlight We summarize the results and indicate future directions.

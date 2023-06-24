@@ -1,0 +1,6 @@
+ In order to get recognized by CD8 T cells most cells present peptides from endogenously expressed self or foreign proteins on MHC class I molecules . However specialized antigen presenting cells such as DCs and macrophages can present exogenous antigen on MHC I in a process called cross presentation . This pathway plays key roles in antimicrobial and antitumor immunity and also immune tolerance . Recent advances have broadened our understanding of the underlying mechanisms of cross presentation . Here we review some of these recent advances including the distinct pathways that result in the cross priming of CD8 T cells and the source of the class I molecules presenting exogenous peptides .
+
+@highlight Dendritic cells internalize exogenous antigens for cross presentation on MHC I.
+@highlight MHC I cross presentation allows immune surveillance of viral infection and cancers.
+@highlight Dendritic cells utilize distinct and overlapping pathways for cross presentation.
+@highlight Phagosomes acquire cytosolic and ER derived proteins for MHC I loading of peptides.

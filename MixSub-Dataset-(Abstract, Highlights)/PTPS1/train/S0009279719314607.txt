@@ -1,0 +1,6 @@
+ Tripartite motif protein family is a group of proteins which belongs to RING family of ubiquitin E3 ligases . TRIM proteins are involved in oncogenesis while the roles in different cancers are controversial . However the expression pattern and biological functions of TRIM47 in breast cancer remain unclear . In the present study we aimed to investigate the function of TRIM47 in the progression and metastasis of breast cancer . TRIM47 was found to be significantly up regulated in breast cancer tissues and cell lines . TRIM47 knockdown in breast cancer cell lines significantly inhibited cell proliferation migration and invasion . Besides TRIM47 knockdown regulated the expressions of the epithelial mesenchymal transition related markers including increase in E cadherin and decrease in N cadherin vimentin and Snail . Xenograft tumor assay proved that TRIM47 knockdown also suppressed tumor growth
+
+@highlight TRIM47 was significantly up regulated in breast cancer tissues and cell lines.
+@highlight TRIM47 knockdown inhibited the proliferation and invasion of breast cancer cells.
+@highlight TRIM47 knockdown suppressed tumor growth
+@highlight TRIM47 knockdown inhibited the activation of PI3K Akt pathway in breast cancer cells.

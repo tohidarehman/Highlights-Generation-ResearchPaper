@@ -1,0 +1,5 @@
+ One of the main steps in designing preparative chromatographic separation units is the selection of a well performing adsorbent . This is often based on expert knowledge or based on case studies of preselected adsorbents . Therefore the selection is usually limited in terms of an optimised choice . In this contribution a model based optimisation of the selection of an adsorbent on the basis of correlations between structural adsorbent properties with model parameters of a transport dispersive model is proposed . Model parameters of glucose and xylose for five cation exchanger resins with varying degree of cross linking are experimentally determined in a sequential approach . Void fractions and particle porosities were determined by pulse experiments with different tracers . Single component isotherms were determined threefold via breakthrough curves with concentrations of up to 250gl
+
+@highlight Mathematical correlations between structural resin property and model parameters.
+@highlight Model based prediction of an optimal degree of cross linking.
+@highlight Novel method to include the chromatographic system in optimisation algorithms.

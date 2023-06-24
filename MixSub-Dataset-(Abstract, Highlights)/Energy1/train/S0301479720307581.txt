@@ -1,0 +1,7 @@
+ This study investigates the effect of foreign direct investment and education on environmental quality for Asian countries by controlling income energy consumption and urbanization for the period of 19902018 . We have applied panel cointegration techniques to probe for long run associations among the variables . The empirical results indicate the existence of cointegration between the variables . Dynamic ordinary least square and fully modified least square methods are applied to estimate long run elasticities . The empirical results confirm that environmental quality is sensitive to foreign direct investment education and urbanization . Income and energy consumption deteriorate environmental quality by increasing CO
+
+@highlight This paper investigates the linear and nonlinear impact of FDI and education on carbon emissions.
+@highlight FMOLS and VECM are employed in Asian countries.
+@highlight FDI and education increase carbon emissions in Asian countries.
+@highlight Energy consumption and economic growth stimulate the level of carbon emissions.
+@highlight Results indicate the existence of EKC for FDI education and income.

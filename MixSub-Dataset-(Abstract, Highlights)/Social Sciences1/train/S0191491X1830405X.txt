@@ -1,0 +1,7 @@
+ This study presents a quantitative approach based on Differential Item Functioning analysis within the Item Response Theory framework to quantify gender differences in tackling specific mathematical items . We use this approach to explore two crucial topics in mathematics education by analysing answers given by Italian students to specific mathematical items taken from a sample of 1400 items administered in INVALSI tests since 2008 . For each item we have a sample of 30 000 students per year statistically representative of the entire Italian student population . The results section presents a didactic interpretation of the statistical evidence and shows how interdisciplinarity between statistics and mathematics education with a mixed method approach represents a good approach to exploring the gender gap in relation to specific constructs of math education . This approach common in many disciplines can also make an interesting contribution to mathematics education research .
+
+@highlight Integration of DIF analysis and didactical interpretation to study gender gap in math.
+@highlight Analysis of gender differences in specific items as function of the students ability.
+@highlight Misconceptions in comparing decimal numbers have a stronger influence on girls.
+@highlight Measure estimate is a critical issue for students of all ability levels.
+@highlight Females underperform males in estimating measures of real objects.

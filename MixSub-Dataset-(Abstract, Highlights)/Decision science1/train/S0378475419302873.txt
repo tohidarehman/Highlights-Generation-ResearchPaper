@@ -1,0 +1,6 @@
+ Phagocytosis refers to a process in which one cell type fully encloses and consumes unwanted cells debris or particulate matter . It has an important role in immune systems through the destruction of pathogens and the inhibiting of cancerous cells . In this paper we combine cellcell adhesion and predatorprey modelling to generate a new model for phagocytosis that can relate the interaction between cells in both space and time . Stability analysis for both homogeneous and non homogeneous steady states is provided for one dimensional model indicating the range of parameters that leads to phagocytosis . Finally the paper presents numerical results for both one and two dimensional models which show excellent agreement with a real phenomenon of bacteria phagocytized by neutrophil cell .
+
+@highlight The paper combines cellcell adhesion and predatorprey modelling to generate a new model for phagocytosis that can relate the interaction between cells in both space and time.
+@highlight New model for phagocytosis is generated from cell adhesion and predatorprey models.
+@highlight Stability analysis for 1D steady states yields parameter values causing phagocytosis.
+@highlight Simulation results agree with real phagocytosis process of bacteria and neutrophil.

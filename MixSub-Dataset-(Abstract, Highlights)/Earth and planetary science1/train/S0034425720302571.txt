@@ -1,0 +1,6 @@
+ Ground based evaporative fraction observations have been used widely for validation purposes in previous remote sensing based EF models . Few studies have investigated whether such measurements can be utilized for calibration use . In this paper an observation driven optimization method is proposed to quantify EF over a large heterogeneous area within the surface temperature vegetation index framework . It is designed at both daily scale and seasonal scale with MODIS products and
+
+@highlight An optimization method is proposed to calibrate RS based EF models.
+@highlight Accuracy produced using one site for calibration has reached an acceptable level.
+@highlight The method has the capacity to provide a quick and continuous monitoring of EF.
+@highlight The method is also characterized by its simplicity stability and extensibility.

@@ -1,0 +1,11 @@
+ Mathematical models are tools that allow the prediction and control of the anaerobic digestion process ensuring process stability and maximizing methane production . In this study the AD of food waste was evaluated in single stage and two stage semicontinuous configurations with the following organic loading rates OLR kgVSm
+
+@highlight Modified ADM1 accurately simulates the behavior of pH methane and lactic acid.
+@highlight The two stage achieved the best Re 1.53 
+@highlight  4.26kJg fed VS
+@highlight  and a 47 emission reduction in CO
+@highlight The hydrolysis rate was 50 higher in the two stage than in the single stage.
+@highlight High sensitivity was observed for kmac in low ranges for both configurations.
+@highlight The parameters k
+@highlight and k
+@highlight showed moderate sensitivity.

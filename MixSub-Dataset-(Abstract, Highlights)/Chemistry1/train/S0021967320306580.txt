@@ -1,0 +1,7 @@
+ A reliable and sensitive analytical approach has been optimized for the extraction of seven polychlorinated biphenyls from human breast milk . Hollow fiber liquid phase microextraction was applied for the first time for the extraction and pre concentration of the analytes . Analytes were separated by gas chromatography with electron capture detector for the sensitive detection and mass spectrometry for the unequivocal identification . A rotable central composite design was performed for the multivariate optimization of the method . The best results were obtained at 40C during 30min and 600rpm of stirring speed using a hollow fiber length of 5cm and toluene as an extractant phase and salt addition was not required . The detection limits were in the range 714ng
+
+@highlight A HF LPME method was developed for the determination of PCBs in human breast milk.
+@highlight The HF LPME method is very simple since a sample preparation step is not required.
+@highlight A multivariate design RCCD was applied to optimize the extraction conditions.
+@highlight Extraction time temperature and length of the fiber were main experimental factors.
+@highlight The proposed approach provides limits of detection in the range of 714 ngL

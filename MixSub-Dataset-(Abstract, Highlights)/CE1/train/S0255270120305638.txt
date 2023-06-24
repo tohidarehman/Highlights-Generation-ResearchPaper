@@ -1,0 +1,6 @@
+ A computational fluid dynamics study is conducted to find a suitable two equation turbulence model for accurate prediction of hydrodynamics of an inhouse turbulence contact absorber at high gas and liquid velocities . Based on the multi fluid Eulerian approach hydrodynamics of TCA is simulated by incorporating three turbulence models i.e . standard
+
+@highlight Turbulence modeling is essential for CFD modeling of TCA at higher operating velocities.
+@highlight RNG k per phase is recommended for accurate prediction of TCA hydrodynamics.
+@highlight SST k w predicts reversed radial velocity profiles for all three phases in TCA.
+@highlight Expanded bed height and bed pressure drop can be used as parameters to compare CFD and experimental results.

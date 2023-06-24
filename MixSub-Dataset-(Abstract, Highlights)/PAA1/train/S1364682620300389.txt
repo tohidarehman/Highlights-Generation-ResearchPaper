@@ -1,0 +1,9 @@
+ We analyze fluctuations of the magnetic field in the solar wind registered by the ACE satellite in the L1 Lagrangian point and the ULF waves observed with ground magnetometers at high middle and low latitudes during 84 intense substorm events . Our goal is to establish possible connections between ULF oscillations observed simultaneously in the different parts of the solar windmagnetosphereionosphere system during substorms . Our analysis reveals that there is a good correlation between oscillations with frequencies less than 1 mHz observed in the solar wind and in three different latitudes during strong substorms . In particular we show that the dominant frequencies of the waves observed on the ground at high middle and low latitudes are approximately the same the waves with frequencies of 0.450.55mHz and 0.750.80mHz are the most often seen in high middle and low latitudes and in the solar wind . Therefore we conclude that there is a strong coupling between the Earths magnetosphereionosphere system and the solar wind in the frequency range below 1mHz mediated by the disturbances in the magnetic field .
+
+@highlight We perform statistical analysis of the ULF waves detected during substorms in the solar wind and on the ground at high mid and low latitudes.
+@highlight We found that in 28 out of 84 considered substorm events the waves with almost the same frequency
+@highlight mHz were detected in all locations.
+@highlight ULF waves with frequencies 0.450.55mHz and 0.750.80mHz are common during substorms and during their respective preceding quiet times.
+@highlight The magnitudes of ULF waves at low latitudes are larger than the magnitudes of ULF waves at mid latitudes.
+@highlight The occurrence of ULF waves at middle and low latitudes correlate in time with variations in the
+@highlight index.

@@ -1,0 +1,5 @@
+ Accurate estimation of evapotranspiration is essential to calculate the wetland water balance . However wetlands are often composed of patches of different species of vegetation raising the question whether different species will have different ET rates . Standard field based meteorological methods to estimate ET e.g . Priestley Taylor are sensitive to changes in climate drivers of ET but not to spatial variations in vegetation . To investigate whether ET is sensitive to vegetation type we used thermal infrared temperature based surface energy balance and Bowen ratio ET estimation methods in four wetlands in northern New York State . The four wetlands had different plant communities including hardstem bulrush reed canary grass cattail and meadow willow . Across all four sites the TIR based methods generally had similar results as P T methods with mean absolute difference of 17.153.0Wm
+
+@highlight Two ground based thermal infrared ET methods are applied over wetland plants.
+@highlight Proposed methods can determine patch scale ET with comparable results.
+@highlight A compound regression approach is used for crop coefficients over wetland species.

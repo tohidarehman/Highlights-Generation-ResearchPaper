@@ -1,0 +1,7 @@
+ We consider an e commerce retailer who must ship orders from a warehouse to a set of customers with delivery deadlines . As is often the case the retailer uses a third party service provider to ensure its distribution . The retailer can enter the supply chain of the service provider at various levels . Entering it at a higher level entails lower sorting costs for the retailer but higher delivery costs and longer delivery times . The customer orders arrive at various moments over a rolling planning horizon . This means that the retailer must also make consolidation decisions . We model and solve the static and dynamic cases of this problem . The static case is modeled as an integer linear program and solved by CPLEX . We develop and compare four shipping policies for the dynamic case . Extensive computational results based on real location data from California and Texas are reported .
+
+@highlight We study the E commerce Shipping Problem where orders with deadlines must be shipped.
+@highlight The retailer can enter the supply chain of a service provider at various levels.
+@highlight The retailer must make consolidation decisions at each period to ship orders.
+@highlight We model and solve the static and dynamic cases of this problem.
+@highlight We develop and compare four shipping policies for the dynamic case.

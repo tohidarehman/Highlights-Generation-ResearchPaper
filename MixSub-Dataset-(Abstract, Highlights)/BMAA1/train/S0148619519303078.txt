@@ -1,0 +1,7 @@
+ Often accused of granting questionable patents examiners might lack proper incentives to carefully scrutinize patent applications . We analyze their examination and granting behavior in the presence of different incentive schemes that reward examiners based on rejected and or accepted patents . Our findings suggest that for a given probability of random audit by the PTO a dual regime does not provide more incentive than a salary based on rejected patents . An optimal probability of random audit chosen by the PTO is often too high compared to the first best while the examiner chooses a suboptimal examination effort s level . Lastly we study the effect of career concerns on the granting behavior of examiners . We find that monetary and implicit incentives induce patent examiners to intensify their search effort . Furthermore a marginal increase of the random audit might reduce examiners effort in the presence of career concerns .
+
+@highlight We analyze patent examiners behavior in the presence of different incentive schemes.
+@highlight They can be rewarded based on rejected and or accepted patents.
+@highlight A dual regime does not provide more incentive than a regime based on rejected patents.
+@highlight We study the effect of career concerns on the granting behavior of examiners.
+@highlight Monetary and implicit incentives induce examiners to intensify their search effort.

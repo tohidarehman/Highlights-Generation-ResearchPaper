@@ -1,0 +1,7 @@
+ The evolution of architectural distortion of woven composites can significantly influence the deformation behaviour but is challenging to measure experimentally . In this paper two techniques are proposed to examine the out of plane topography of composites under deformation measured using stereo Digital Image Correlation . The primary method relies on fitting a surface to the data to compensate for global sample distortion and reveal local topography while the supplementary method uses local curvatures calculated for each data point on the surface . These methods have been applied to thermoplastic composites with different weave architectures matrix and fibre materials . Topography results show good agreement in magnitude and form with mesoscale Finite Element Analysis . The methods improve existing experimental techniques to examine local effects with multiple applications regarding deformation defect detection and failure analysis of composites .
+
+@highlight New technique for measuring topographic change from deformation of woven composites.
+@highlight Composites examined include matrices PEEK PEI PP and fibres carbon aramid glass.
+@highlight Insight into strain concentrations unbalanced architectures and defect detection.
+@highlight Experimental topography is a tool to validate quality of FEA mesoscale models.
+@highlight Potential application to a wide range of mechanical testing procedures using DIC.

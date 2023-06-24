@@ -1,0 +1,5 @@
+ Optical properties of clouds and heavy aerosol retrieved from satellite measurements are the most important elements for calculating surface solar radiation . The Himawari 8 Advanced Himawari Imager satellite measurements receive high spatial temporal and spectral signals which provides an opportunity to estimate cloud aerosol and SSR accurately .
+
+@highlight The AHI official cloud algorithm version 1.0 is developed for the JAXA P Tree system.
+@highlight The Voronoi ice crystal scattering model is used to develop the ice cloud product.
+@highlight High accuracy SSR is estimated using the AHI cloud parameters.

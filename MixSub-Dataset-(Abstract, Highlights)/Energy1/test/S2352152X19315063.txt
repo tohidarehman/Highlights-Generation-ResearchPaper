@@ -1,0 +1,7 @@
+ It has previously been proven that fins can significantly enhance the thermal performance of latent heat thermal energy storage units . Nevertheless the magnitude of improvement especially in a horizontal LHTS is still less than that required to address some of the existing challenges in solar energy applications . The tendency of the phase change material at the bottom of the horizontal storage to remain solid because of the absence of convection currents to promote heat transfer must be tackled practically for this technology to be viable in different thermal applications . Thus the fin configuration around the circumference of the horizontal storage must be optimised to enhance the melting rate and therefore improving efficiency .
+
+@highlight Thermal performance of 5 fin height and 4 angles of LHTS is tested.
+@highlight Melting time decreases with increasing fin height.
+@highlight Melting time decreases with decreasing angle amongst fin.
+@highlight Melting time improved by 50 when the fin height varied from 0 to 0.8 of
+@highlight Melting time improved by 40 when fin angle varied from 72 to 15.

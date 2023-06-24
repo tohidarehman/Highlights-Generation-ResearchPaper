@@ -1,0 +1,7 @@
+ In this research a methodology for the analysis of accessibility conditions for people with physical disabilities was developed . The analysis is based on an assessment of the sidewalk network in two tourist areas located in Maspalomas Costa Canaria . ArcMap s Network Analyst was used and Spanish regulations on accessibility in urbanized public spaces as well as the points of origin and destination for typical users were considered . After application of the methodology a set of potential routes were obtained . The results reveal deficient walkability with breaks in the accessibility chain in both study areas . It is concluded that new measures to improve accessibility are required which can be used as a basis for the development of new tourist products to reinforce the competitiveness of the tourist destination .
+
+@highlight This research analyses the accessibility conditions in urban coastal destinations.
+@highlight The research is applicable in urban environment.
+@highlight The criteria on accessibility were applied in Network Analyst of ArcMap 10.5.1.
+@highlight The accessibility chain is broken in the two study areas.
+@highlight The procedure has applicability in environmental and urban planning.

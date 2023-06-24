@@ -1,0 +1,10 @@
+ The effects of cutting parameters on the peak force and success rate of cutting citrus fruit stems are investigated . Experiments were carried out in a system composed of electric horizontal cutting force test platform and a digital pushpull force meter . The cutting parameters included the diameters and moisture content of fruit stems the weight of citrus fruit the cutting speed and the gap between the two blades deflection and inclination angles of citrus fruit stems . Regression analyses show that the peak force increases with the increase of diameters of fruit stems and the weight of fruits . Meanwhile the peak force decreases when the moisture content of fruit stems and the cutting speeds increase . The regression results also show complex relationship of peak force with the gap between the two blades the deflection angles of stems and the inclination angles of stems . The effects of the gap between the two blades the deflection angles of stems and the inclination angles of stems on the success rate reveal that a high cutting success rate occurred when the gap between blades was smaller than the diameter of stem or the deflection angle was smaller than 70 and the inclination angle was larger than 20 . Based on our results the end effector of harvesting citrus fruit can be designed using the structural parameters including a 110
+
+@highlight Effects of several key parameters on citrus stem cutting were investigated.
+@highlight Peak force increased when fruit weight stem diameter or
+@highlight increased.
+@highlight Peak force decreased when cutting speed MC of fruit stems increased.
+@highlight 1mm blade gap ensure the success rate of cutting at appropriate peak force.
+@highlight Larger
+@highlight and smaller
+@highlight can cause failure of cutting.

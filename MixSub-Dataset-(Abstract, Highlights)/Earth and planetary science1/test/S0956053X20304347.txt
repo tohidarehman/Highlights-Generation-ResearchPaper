@@ -1,0 +1,8 @@
+ Chinas automobile industry is developing rapidly but the recycling rate of end of life vehicles has been low . In 2018 the recovery rate of end of life passenger vehicles was less than 18 of the scrapped amount . Dynamic material flow analysis can predict the amount of end of life passenger cars in China in the future and analyze the flow of materials in recycling system . Life cycle assessment can be used to quantify greenhouse gas emissions . Therefore this paper integrates these two methods into the model construction of recycling decision system . Meanwhile sensitivity analysis of the important factors affecting the efficiency of the recovery system is carried out . Finally the main recovery indexes of the system are predicted under three scenarios low speed medium speed and high speed development which are set based on scrap volume standard recovery rate proportion of assembly into remanufacturing and carbon tax price . The research results show that in 2018 656.9kg vehicle of iron 150.2kg vehicle of aluminum and 7.9kg vehicle of copper are recovered from end of life passenger car in China and the carbon emission during the recovery process is 651.1kg of CO
+
+@highlight Dynamic material flow and life cycle assessment for recovery system is constructed.
+@highlight Economic benefit and CO
+@highlight emission of recovery system are analyzed quantitatively.
+@highlight The sensitivity analysis of three main factors affecting the system is carried out.
+@highlight The peak volume will reach to 16 million by using dynamic material flow analysis.
+@highlight The recovery benefits are predicted under scenarios of low mid and high speed.

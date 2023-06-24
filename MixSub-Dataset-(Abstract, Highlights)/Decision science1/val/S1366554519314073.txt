@@ -1,0 +1,6 @@
+ Consider a supply chain with a supplier selling to downstream competing manufacturers who purchase demand information from a third party information provider . We show that the equilibrium number of manufacturers who purchase the information service depends only on the downstream competition intensity . We further investigate two contract schemes wholesale price and index based price . We find that the latter benefits the supplier but causes the information accuracy and service price to depreciate thereby reducing the information providers profit . Finally we provide guidance to the supplier on when it should rely on a third party information provider instead of offering information service in house .
+
+@highlight We study the effect of third party information in a two echelon supply chain with downstream competition.
+@highlight The equilibrium number of informed manufacturers depends only on competition intensity.
+@highlight Index based contract benefits the supplier but depreciates information accuracy and price.
+@highlight We identify conditions when the supplier should rely on third party information.

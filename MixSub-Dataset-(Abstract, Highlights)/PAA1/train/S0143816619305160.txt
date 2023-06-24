@@ -1,0 +1,7 @@
+ To deal with vibration disturbance in interferometric measurement of surface topography we present a simultaneous dual wavelength phase shifting interferometry . SDWPSI collects phase shifting interferograms of two wavelengths simultaneously with two cameras to accelerate data collection . The optical phases are retrieved from dual wavelength interferograms with an iterative algorithm that is tolerant of phase shifting error caused by vibration . And then the measured surface topography is reconstructed by fusing the phases of two wavelengths . Simulations and experiments verify that SDWPSI has a lower measurement noise than single wavelength interferometry and extends the discontinuity limit to several micrometres . SDWPSI has advantages of high speed vibration resistance and low cost and could be applied to in workshop and on machine measurement .
+
+@highlight A vibration resistant method SDWPSI is proposed to measure surface topography.
+@highlight SDWPSI collects interferograms of two wavelengths simultaneously to enhance speed.
+@highlight An algorithm is proposed to retrieve phases from vibration disturbed interferograms.
+@highlight Surface is reconstructed by fusing two phases to achieve lower measurement noise.
+@highlight SDWPSI achieves better vertical sensitivity than single wavelength PSI.

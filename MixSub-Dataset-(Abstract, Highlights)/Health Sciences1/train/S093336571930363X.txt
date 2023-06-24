@@ -1,0 +1,6 @@
+ In this paper the urinary bladder cancer diagnostic method which is based on Multi Layer Perceptron and Laplacian edge detector is presented . The aim of this paper is to investigate the implementation possibility of a simpler method alongside commonly used methods such as Deep Learning Convolutional Neural Networks for the urinary bladder cancer detection . The dataset used for this research consisted of 1997 images of bladder cancer and 986 images of non cancer tissue . The results of the conducted research showed that using Multi Layer Perceptron trained and tested with images pre processed with Laplacian edge detector are achieving
+
+@highlight Multilayer perceptron with Laplacian can be used for bladder cancer diagnosis.
+@highlight With larger input image decrease of AUC value can be noticed.
+@highlight Maximal AUC value is achieved if MLP with intermediate complexity is utilized.
+@highlight An expert system composed of several multilayer perceptrons can be utilized.

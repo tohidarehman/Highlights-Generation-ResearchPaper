@@ -1,0 +1,6 @@
+ If hydrokinetic turbines are to make a significant contribution to small scale off grid power supply they will need to be affordable reliable and easily deployed at many sites not just a few with exceptional combinations of depth and high flow velocity . Few if any products currently on the market meet these criteria . This paper addresses the challenge of providing small scale electrical power and pumping from rivers in particular for villages in high rainfall tropical areas where there is no mains power not much wind or sunny weather in the wet season and not enough elevation for conventional micro hydro . Hydrokinetic power is proposed and candidate turbines are evaluated including multiple small axial flow turbines various forms of horizontal axis Darrieus turbines water wheels and belt turbines . The importance of channel blockage in enhancing turbine power output is discussed .
+
+@highlight No hydrokinetic turbines currently available for rivers 1m deep
+@highlight Most manufacturers assume 3m s flow for rated power. Almost never occurs.
+@highlight Long horizontal axis modified Darrieus turbine proposed
+@highlight Simple passive variable pitch greatly improves starting torque

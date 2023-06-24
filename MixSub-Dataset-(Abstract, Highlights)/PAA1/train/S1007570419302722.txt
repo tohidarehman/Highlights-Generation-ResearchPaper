@@ -1,0 +1,6 @@
+ In this paper we derive and analyze a reaction diffusion cholera model in bounded spatial domain with zero flux boundary condition and general nonlinear incidence functions . The parameters in the model are space dependent due to the spatial heterogeneity . By applying the theory of monotone dynamical systems and uniform persistence we prove that the model admits the global threshold dynamics in terms of the basic reproduction number
+
+@highlight A diffusive cholera model with general incidence functions is studied.
+@highlight The threshold property of the basic reproduction number R0 is established.
+@highlight Cholera cannot be controlled only by limiting the movement of host individuals.
+@highlight The spatial heterogeneity does not always enhance the disease spread.

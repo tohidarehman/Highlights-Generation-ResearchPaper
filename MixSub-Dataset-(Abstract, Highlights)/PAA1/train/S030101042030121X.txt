@@ -1,0 +1,6 @@
+ Excess adsorption is usually used to measure the adsorption capacity of porous materials . Negative excess adsorption which is unphysical and deviates from experiments is noted in the usual computational model for methane adsorption in moist silica with nano sized pores . Water occupied volume which is usually neglected in macro porous models is responsible for such deviations . A modified model for computing excess adsorption of methane in moist and nano porous is proposed by taking into account the effect of water occupied volume which becomes significant in a small pore with a high water content . The modified model produces positive excess adsorption that matches better with available experiments . The proposed modification would be helpful for the prediction of methane reserves and productions .
+
+@highlight GCMC and MD simulations are performed to study the excess adsorption of methane in dry and moist silica.
+@highlight Unphysical negative excess adsorption is noted in silica with small sized pores and high water content.
+@highlight Water occupied volume is responsible for the negative excess adsorption.
+@highlight A modified model is proposed to improve the predictions for excess adsorption in moist and nano porous silica.

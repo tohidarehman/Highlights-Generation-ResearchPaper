@@ -1,0 +1,7 @@
+ During wetting drying cycles divergence is often found between the immediately improved soil water conditions after re watering and the recovery of plant water status from stress which ensues only gradually . Such an apparent hysteresis effect of water stress is usually neglected in simulating root water uptake by empirical models . To consider HEWS in the empirical macroscopic RWU model of Feddes a water stress recovery coefficient
+
+@highlight Root water uptake is impacted by the hysteresis effect of water stress HEWS .
+@highlight HEWS is dominated by the extent of water stress on the day before evaluation.
+@highlight A water stress recovery coefficient 
+@highlight  is developed to quantify HEWS.
+@highlight An empirical macroscopic root water uptake model is improved by incorporating

@@ -1,0 +1,7 @@
+ Though perovskite solar cells have reached high efficiency comparable to its counterparts it is still striving towards finding a strong hold in terms of long term stability . Several approaches have been made to prevent the degradation of PSC . Here we present low temperature ALD deposited Al
+
+@highlight ALD Al
+@highlight encapsulated PSC retained 84 of initial efficiency by the end of 300 days of intermittent measurement in ambient.
+@highlight QCM showed non linearity in mass change until a complete surface coverage after which it reaches the linear growth regime.
+@highlight FTIR revealed continuous addition of AlCH
+@highlight on the bulk of spiro OMeTAD upon TMA exposure during the nucleation regime.

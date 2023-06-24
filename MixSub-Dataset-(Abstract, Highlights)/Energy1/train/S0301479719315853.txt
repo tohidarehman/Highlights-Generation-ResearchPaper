@@ -1,0 +1,5 @@
+ Forests are important dynamic systems which are widely affected by fire worldwide . Due to the complexity and non linearity of the forest fire problem employing hybrid evolutionary algorithms is a logical task to achieve a reliable approximation of this environmental threat . Three fuzzy metaheuristic ensembles based on adaptive neuro fuzzy inference systems incorporated with genetic algorithm particle swarm optimization and differential evolution evolutionary algorithms are used to produce the forest fire susceptibility map of a fire prone region in Iran . A sensitivity analysis is also executed to evaluate the effectiveness of the proposed ensembles in terms of time and complexity . The results revealed that all models produce FFSMs with acceptable accuracy . However the superiority of the GA ANFIS was shown in both recognizing the pattern AUROC
+
+@highlight Three Fuzzy Metaheuristic Ensembles proposed for Spatial Forest Fire Susceptibility Assessment.
+@highlight The superiority of the GA ANFIS was proved.
+@highlight Pattern recognition as well as unseen fire event predictions are assessed.

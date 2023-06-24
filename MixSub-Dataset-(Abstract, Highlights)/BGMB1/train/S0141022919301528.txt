@@ -1,0 +1,7 @@
+ glucosidase plays a key role in determining the efficiency of the enzymatic complex cellulase for the degradation of cellulose into sugars . It hydrolyses the cellobiose an inhibitor of the enzymatic complex . Therefore the immobilization of BG is a great challenge for the industrial application of cellulases . Cellulases usually contains a BG amount insufficient to avoid inhibition by cellobiose . Here the BG was immobilized by matrix assisted pulsed laser evaporation technique . The frozen matrix was composed of water water m DOPA and water m DOPA quinone . The effect of the excipients on the final conformation of the enzyme after the MAPLE processing was determined . The enzyme secondary structure was studied by FTIR analysis . The catalytic performances of the deposited films were tested in the cellobiose hydrolysis reaction . The results demonstrate that the presence of the oxidized form of m DOPA the O quinone form can protect the protein native structure with the laser inducing little or no damage . In fact only the samples deposited from this target preserved the secondary structure of the polypeptide chain and allowed a complete hydrolysis of cellobiose for four consecutive runs showing a high operational stability of the biocatalyst .
+
+@highlight MAPLE deposition of glucosidase BG .
+@highlight MAPLE target composed of BG m DOPA Quinone ice matrix.
+@highlight Quinone efficiently absorbs laser radiation.
+@highlight BG undergoes little or no damage.
+@highlight Deposited BG shows catalytic activity and operational stability.

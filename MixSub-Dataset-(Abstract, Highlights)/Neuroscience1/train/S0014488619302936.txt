@@ -1,0 +1,5 @@
+ IL 17 producing CD4 T cells cells increase significantly with disease severity in myasthenia gravis patients . To suppress the generation of Th17 cells we examined the effect of inhibiting retinoic acid receptor related orphan receptor C a Th17 specific transcription factor critical for differentiation . ROR inhibition profoundly reduced Th17 cell frequencies including IFN and IL 17 co producing pathogenic Th17 cells . Other T helper subsets were not affected . In parallel CD8 T cell subsets producing IL 17 and IL 17 IFN were increased in MG patients and inhibited by the ROR inhibitor . These findings provide rationale for exploration of targeted Th17 therapies including ROR inhibitors to treat MG patients .
+
+@highlight Th17 cell frequencies are associated with disease severity in MG.
+@highlight ROR inhibitor suppresses the generation of IFN and IL 17 co producing CD4 T cells.
+@highlight IL 17 producing CD8 T cells are enhanced in MG and inhibited by ROR inhibitor.

@@ -1,0 +1,6 @@
+ In the present paper one proposes an equation of state allowing to reasonably describe the behavior of the xenon krypton mixtures in any proportion confined in the form of nanoscale bubbles in the UO
+
+@highlight An equation of state is proposed for confined Xe Kr mixtures in the UO
+@highlight and MOX nuclear fuels.
+@highlight The parameters of the equation of state were determined using accurate molecular dynamics simulations results.
+@highlight The equation of state proposed here could be easily implemented in the nuclear fuel performance codes.

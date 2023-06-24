@@ -1,0 +1,6 @@
+ The characteristics and electromechanical properties of conductive polymers together to their biocompatibility have boosted their application as a suitable tool in regenerative medicine and tissue engineering . However conducting polymers as drug release materials are far from being ideal . A possibility to overcome this drawback is to combine conducting polymers with on command delivery particles with inherent high loading capacity . In this scenario we report here the preparation of conduction polymers containing gated mesoporous silica nanoparticles loaded with a cargo that is delivered on command by electro chemical stimuli increasing the potential use of conducting polymers as controlled delivery systems . MSNs are loaded with Rhodamine B anchored to the conductive polymer poly doped with poly
+
+@highlight Electro responsive PEDOT PSS 
+@highlight  MA copolymers functionalized with gated mesoporous silica nanoparticles.
+@highlight Application of a voltage 640mV vs. SCE induced cargo release.
+@highlight The hybrid nanocomposite is biocompatible and cargo release was achieved in HeLa cells.

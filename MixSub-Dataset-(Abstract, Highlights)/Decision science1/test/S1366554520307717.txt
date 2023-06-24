@@ -1,0 +1,7 @@
+ This paper studies the cross dock truck scheduling problem which considers the uncertainty of trucks arrival and operational times . We introduce a concept named conflict and present a two stage optimization model aiming at minimizing the total cost and number of conflicts . Furthermore an extended model by introducing K means clustering is presented for which the performance guarantees are provided to validate its efficiency . A column and constraint generation algorithm which is proved to converge in a finite number of iterations is designed to solve the developed models . Extensive numerical experiments are conducted to validate the performance of the developed models and algorithm .
+
+@highlight Study the cross dock truck scheduling problem with uncertain truck arrival and operation times.
+@highlight The concept of conflict is introduced to characterize the robustness of schedule.
+@highlight Two robust optimization models are formulated without depending on probabilistic information.
+@highlight An exact solution approach i.e. column and constraint generation algorithm is proposed.
+@highlight Computational experiments are conducted to verify the effectiveness of the algorithm and models.

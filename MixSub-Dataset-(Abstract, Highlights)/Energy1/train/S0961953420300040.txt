@@ -1,0 +1,7 @@
+ Lignocellulosic bioenergy crops are a potential option for climate mitigation and for meeting the targets of the Paris Agreement in Europe . The PopFor process based model has been developed based on the earlier MiscanFor model and parameterised for poplar using data from a literature review in combination with experimental data on high performing clones Max 1 3 4 for extensively and intensively managed sites in Germany . PopFor needs comparatively few input data to provide accurate estimates of biomass yield . The parameters found allowed a good match to measured values . The best fit for bud emergence is 81 days with leaf emergence at 463 days and the temperature at which photosynthesis slows is 28C . Maximum radiation use efficiency was set to 2.9 gMJ
+
+@highlight New poplar model for predicting yield estimates on a local or larger scale.
+@highlight PopFor needs only soil and weather data no diameter or stem measurements.
+@highlight PopFor accurately modelled yield for 2nd rotation and intensively managed 1st rotation poplar coppice.
+@highlight PopFor parameters are widely applicable.
+@highlight PopFor is a suitable tool for defining the most suitable areas for poplar bioenergy.

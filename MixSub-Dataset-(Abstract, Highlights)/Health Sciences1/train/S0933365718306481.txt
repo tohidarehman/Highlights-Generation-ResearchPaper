@@ -1,0 +1,5 @@
+ Our aim is to develop a machine learning model that can predict dementia in a general patient population from multiple health care institutions one year and three years prior to the onset of the disease without any additional monitoring or screening . The purpose of the model is to automate the cost effective non invasive digital pre screening of patients at risk for dementia .
+
+@highlight Dementia can be predicted from EMR routine care data with a level of accuracy suitable for automated pre screening.
+@highlight Unstructured medical notes improve the accuracy of machine learning models for dementia prediction.
+@highlight Patients health institution affiliations need to be considered in a multi institution model for dementia.

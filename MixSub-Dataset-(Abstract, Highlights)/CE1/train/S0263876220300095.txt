@@ -1,0 +1,6 @@
+ This work proposes a real time model predictive control system using control Lyapunovbarrier functions and recurrent neural network models to ensure simultaneous closed loop stability and operational safety for a general class of nonlinear systems subject to time varying disturbances . An RNN model is first developed for the nominal system and incorporated in the designs of CLBF based MPC and of CLBF based economic MPC to provide state predictions for the optimization problems of MPCs . Subsequently to improve the closed loop performance in terms of operational safety and stability in the presence of disturbances online learning of RNN models is incorporated within the real time implementation of CLBF MPC and of CLBF EMPC to update the RNN models using the most recent process measurement data . The proposed adaptive machine learning based CLBF MPC and CLBF EMPC schemes are evaluated using a nonlinear chemical process example .
+
+@highlight Operational safety of nonlinear processes via barrier function based model predictive control.
+@highlight Data based recurrent neural network modeling for model predictive control.
+@highlight Real time update of the recurrent neural network model using process measurements.
+@highlight Evaluation of approach using a chemical reactor example.

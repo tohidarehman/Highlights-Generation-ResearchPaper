@@ -1,0 +1,6 @@
+ In this work the analysis of the mass transfer phenomena in catalytic open cell foams is carried out through the combination of computational fluid dynamics simulations and experiments using the CO oxidation on Pt Al
+
+@highlight Systematic analysis of the mass transfer limitation in wash coated open cell foams.
+@highlight CFD simulations on Kelvins cell by DNS.
+@highlight Mass transfer correlation for low Reynolds number.
+@highlight Practical criteria in terms of dimensionless numbers for rate limiting regimes.

@@ -1,0 +1,5 @@
+ Freestanding graphene on a trench has been fabricated extensively using a transfer process of chemical vapor deposition grown graphene . Here we demonstrate that freestanding graphene can be grown directly on a trench without a transfer process . A shallow trench was made on a 6HSiC wafer using a focused ion beam lithography . The shallow trench was heated to a high temperature under Ar atmosphere . The heat treatment made the shallow trench become deeper and wider . Subsequently epitaxial graphene was floating on the trench resulting in freestanding graphene where underlying bulk SiC was self etched after the growth of epitaxial graphene . The freestanding graphene on a trench was characterized using Raman spectroscopy and atomic force microscopy . Such freestanding graphene writing can be applied to semiconductor fabrication process of freestanding graphene devices without a transfer process .
+
+@highlight Two dimensional freestanding graphene with an arbitrary shape is fabricated.
+@highlight A silicon carbide concave structure can be used to fabricate freestanding graphene.
+@highlight Silicon carbide covered by graphene is self etched at a high temperature.

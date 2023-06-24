@@ -1,0 +1,7 @@
+ We introduce a new family of cooperative games for which there is coincidence between the nucleolus and the Shapley value . These so called clique games are such that agents are divided into cliques with the value created by a coalition linearly increasing with the number of agents belonging to the same clique . Agents can belong to multiple cliques but for a pair of cliques at most a single agent belongs to their intersection . Finally if two agents do not belong to the same clique there is at most one way to link the two agents through a chain of agents with any two non adjacent agents in the chain belonging to disjoint sets of cliques . We examine multiple games defined on graphs that provide a fertile ground for applications of our results .
+
+@highlight We describe a class of games on which the nucleolus and the Shapley value coincide.
+@highlight Agents are divided into cliques which covers the set of agents.
+@highlight For any pair of agents there is at most one path through cliques connecting them.
+@highlight The value created increases linearly with the number of agents from the same clique.
+@highlight We illustrate the result by applying it to various graph induced games.

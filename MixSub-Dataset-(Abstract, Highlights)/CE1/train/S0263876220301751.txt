@@ -1,0 +1,6 @@
+ This work proposes state reconstruction strategies to effectively regain and or maintain controllability of the system following the detection of cyber attacks on sensor measurements . Working with a general class of nonlinear systems of which the sensor measurements may be subject to cyber attacks robust control frameworks have been previously proposed to maintain the stability of the process in the presence of cyber attacks . Moreover machine learning based detection mechanisms could be employed to effectively detect the presence of and distinguish the particular types of cyber attacks . This work further explores recuperation measures to be taken after the detection of cyber attacks to mitigate their impact and proposes a machine learning based state reconstruction approach to provide estimated state measurements based on the falsified state measurements . This approach ensures stable operation of the process before reliable sensor measurements are installed back online .
+
+@highlight Cyber security of nonlinear processes via detection state reconstruction and control.
+@highlight Cyber attack detection and state reconstruction using machine learning.
+@highlight Process operation via model predictive control using reconstructed states.
+@highlight Evaluation of the approach using a chemical reactor example.

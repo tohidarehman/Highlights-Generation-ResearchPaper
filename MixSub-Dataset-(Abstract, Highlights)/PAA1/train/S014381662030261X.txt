@@ -1,0 +1,5 @@
+ Spectral interference and self absorption seriously affect the accuracy of quantitative analysis in laser induced breakdown spectroscopy . In this work we used LIBS assisted with laser stimulated absorption to solve these problems . Taking nickel in the alloy structural steel as an example the results show that the spectral interference of Ni lines was eliminated the self absorption factor of the Ni I 341.47 nm line was reduced by 85 and the average relative error for determination of Ni element was reduced by 83 using LSA LIBS . The results indicate that spectral interference and self absorption can be reduced simultaneously in LSA LIBS .
+
+@highlight LIBS assisted with laser stimulated absorption LSA LIBS was proposed to reduce self absorption in the presence of spectral interference.
+@highlight Rational selection of the excitation line was proved to be an important factor for self absorption reduction.
+@highlight The self absorption factor of the Ni I 341.47 nm line was reduced by 85 using LSA LIBS.

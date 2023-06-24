@@ -1,0 +1,8 @@
+ We present an experimental study dealing with the transfer of the enzyme synthesis of cephalexin from a batch arrangement to a continuous flow microfluidic system with integrated reaction product separation and enzyme recovery . Cephalexin is synthesized by penicillin acylase in a kinetic regime that is characterized by the appearance of a concentration maximum during the enzyme reaction . We determine proper reaction conditions providing a high cephalexin yield and relatively short reaction time by performing a set of batch experiments . Once the residence reaction time was found the reaction process is transferred into a continuous mode . We employ an aqueous two phase system forming two phase slug flow in a microfluidic capillary as the reaction separation environment . Such a flow arrangement guarantees a uniform residence time of the reaction mixture in the reaction microcapillary and it provides
+
+@highlight Cephalexin is enzymatically synthetized in a continuous flow microreactor.
+@highlight An aqueous two phase system is used for
+@highlight extraction of cephalexin.
+@highlight Free penicillin acylase is recycled and highly utilized.
+@highlight Microdialysis is used to remove a side product phenylglycine.
+@highlight System operates continuously at least for 5h.

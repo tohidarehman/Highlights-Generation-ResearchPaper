@@ -1,0 +1,8 @@
+ The utility of the Adverse Outcome Pathway concept has been largely recognized by scientists however the AOP generation is still mainly done manually by screening through evidence and extracting probable associations . To accelerate this process and increase the reliability we have developed an semi automated workflow for AOP hypothesis generation .
+
+@highlight To support Adverse Outcome Pathway development we have created a semi automated workflow for AOP hypothesis generation.
+@highlight The tool is using high throughput screening gene expression histopathology biochemical 
+@highlight and disease data.
+@highlight The implementation of the workflow is demonstrated via a use case for non genotoxic induced hepatocellular carcinoma.
+@highlight Cell proliferation endoplasmic reticulum stress and apoptosis are identified as major players in the disease development.
+@highlight This work illustrates the utility of computationally predicted constructs in supporting AOP development.

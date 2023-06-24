@@ -1,0 +1,7 @@
+ The understanding of charging behavior has been recognized as a crucial element in optimizing roll out of charging infrastructure . While current literature provides charging choices and categorizations of charging behavior these seem oversimplified and limitedly based on charging data .
+
+@highlight We provide an unsupervised method to derive rules for behavior based on data.
+@highlight We develop a typology of charging behavior in terms of session types and user types.
+@highlight Our typology can be used to improve realistic charging behavior in simulation models.
+@highlight We found both typical residential and commuting as well as non typical user types.
+@highlight We see a change in EV user population composition over time due large Battery Electric Vehicle uptake and Charging point scarcity.

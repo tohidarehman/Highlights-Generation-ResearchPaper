@@ -1,0 +1,5 @@
+ We establish a Quantitative Structure Property Relationships study on the Henrys law constant of 530 heterogeneous compounds including pesticides solvents aromatic hydrocarbons and persistent pollutants . The multivariable linear regression models are established with the Replacement Method technique by searching the best 18 molecular descriptors on 26 795 available non conformational structural variables . These descriptors are derived from different freely available softwares such as PaDEL Mold
+
+@highlight A QSPR model for Henrys law constant of 530 heterogeneous compounds is established.
+@highlight Only non conformational molecular descriptors are used to develop the QSPR model.
+@highlight The results are comparable with those obtained through the HENRYWIN program.

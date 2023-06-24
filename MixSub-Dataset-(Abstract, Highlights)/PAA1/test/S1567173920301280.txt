@@ -1,0 +1,6 @@
+ We investigate the crossed Andreev reflection through a quantum dot coupled to topological superconducting single stranded DNA . It is found that the topological nontrivial states appear in the QD due to leakage of the Majorana zero mode . Majorana zero mode can be identified by measuring the CAR . This device can be used as a Majorana zero mode detector that relies on the system parameters such as the spin orbit coupling the twist angle molecular length . A high efficiency Cooper pair splitter can be realized by regulating the magnitude and direction of the gate voltage . In additions the signature of CAR is robust against the Coulomb blockade and the disorder induced by distinct amino acids . This work provides an alternative method for detection of Majorana zero mode in ssDNA .
+
+@highlight We study transport properties through quantum dot coupled to topological ssDNA.
+@highlight Crossed Andreev reflection exhibits a clear cut trivial nontrivial phase transition.
+@highlight The phase transition provide a signature of Majorana zero mode in organic molecule.
+@highlight Our device can serve as a high efficiency Cooper pair splitter in organic molecule.

@@ -1,0 +1,6 @@
+ In this research we have investigated growth path relative stability surface energy sphericity and structural analysis of Au Pt Au Rh Au Cu and Au Pd nanoalloys created during gas condensation methodology via molecular dynamics MD simulation . The Au Pt was more stable and the Au Pd was less stable than other nanoalloys . In well agreement with the experiment the gold atoms rest at the clusters surface whereas the other atoms position at the cores of the nanoclusters . It is also shown that this arrangement exists for surface energy at all simulation times E
+
+@highlight Formation of some Au based nanoclusters was studied in gas phase condensation.
+@highlight Trend of relative stability and surface energy of clusters was also investigated.
+@highlight The formed Au Rh and Au Pt clusters had negative values of the surface energy.
+@highlight Some ordered structures fcc like or hcp like atoms were found in the nanoclusters.

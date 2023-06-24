@@ -1,0 +1,6 @@
+ This paper sets up a rational inattention model for the route choice problem in a stochastic network where travelers face random travel time . Previous research has assumed that travelers incorporate all provided information without effort . This study assumes that information is costly and that travelers rationally choose how much information to acquire prior to choosing route . We begin with a single traveler and then extend the model to heterogeneous travelers where rationally inattentive user equilibrium is achieved . From the perspective of a single traveler more information always reduces the impact of travel time variability and increases the probability of choosing a less costly route . However in RIUE more information may reduce the social welfare in some scenarios .
+
+@highlight Introduced the rational inattention model to the route choice problem.
+@highlight Developed a generalized model for studying network equilibrium with imperfect information.
+@highlight The information has large impact on travel behavior.
+@highlight Compared the rationally inattentive user equilibrium RIUE model with the classical stochastic user equilibrium SUE model.

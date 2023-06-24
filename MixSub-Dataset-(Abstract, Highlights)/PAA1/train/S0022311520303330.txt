@@ -1,0 +1,6 @@
+ Environmentally assisted fatigue tests in borated and lithiated high temperature water were conducted to investigate the effect of dissolved oxygen strain rate and strain amplitude on fatigue life of 308L weld metal . It was found that fatigue lives were comparable in 0.005ppm DO and 0.1ppm DO water and decreased slightly with decreasing the strain rate from 0.04 s to 0.004 s. The EAF effects were more pronounced at low strain amplitudes . The EAF cracking mechanisms involved with dendrite boundary orientation relative to cyclic stress axis and ferrite in 308L weld metal are discussed .
+
+@highlight Low cycle fatigue life of 308L weld metal decreases in high temperature water.
+@highlight Dendrite boundary DB orientation to loading axis affects EAF cracking process.
+@highlight  ferrites in 308L weld metal mainly inhibit crack growth in EAF cracking process.
+@highlight The EAF mechanisms involved with DB orientation and ferrite are proposed.

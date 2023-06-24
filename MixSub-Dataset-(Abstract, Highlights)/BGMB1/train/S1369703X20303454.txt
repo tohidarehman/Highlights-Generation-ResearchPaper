@@ -1,0 +1,7 @@
+ In the biopharmaceutical industry the selection of high quality cell lines characterized by high productivity and stability over time plays a critical role for the development of processes meeting the desired quality and manufacturability criteria . Cell line selection involves their testing through subsequent stages at different process scales to progressively recreate the conditions of an industrial scale bioreactor from static micro well plates to shake flasks to reactors of increasing volumes and complexity . In this context both scale up and scale down are challenging due to the variety and quantity of data to mine and the scarcity of first principles understanding on cells culture dynamics .
+
+@highlight General framework to accelerate the development cycle of biopharmaceuticals.
+@highlight Pattern recognition and machine learning to aid process scale up.
+@highlight Multiway principal components analysis to identify the most productive and stable cell lines.
+@highlight Procrustes analysis to assess similarity across scales.
+@highlight Joint Y projection to latent structures to predict cell lines performance across scales.

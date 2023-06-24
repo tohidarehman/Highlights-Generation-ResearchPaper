@@ -1,0 +1,5 @@
+ The use of orifices in measuring and regulating the discharge of Newtonian liquids from tanks has been studied extensively . For non Newtonian liquids this is not the case mainly due to the complex rheological properties of such liquids . To date only circular orifices have been used to measure the flow of Power Law liquids from a tank . In this work a range of non Newtonian liquids flowing from a tank through different sizes of sharp crested circular square and triangular orifices have been tested . A rectangular tank suspended from a weighbridge with a load cell was used and the orifices were fitted at the bottom of the tank for the discharge measurement . The rheological parameters of the test liquids were obtained using a concentric cylinder viscometer . The liquids tested included Newtonian Power law Bingham and HerschelBulkley model liquids . The height time data was transformed into discharge coefficient C
+
+@highlight Effect of rheology is unified by new shear rate defined by V d.
+@highlight Derived Cd values and discharge equations account for all liquids.
+@highlight New equations consolidate results for circular square and triangular orifices.

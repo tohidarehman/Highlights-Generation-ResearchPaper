@@ -1,0 +1,6 @@
+ Multi column periodic counter current chromatography has been developed for continuous antibody capture but the complexity of continuous processes makes experimental optimization time consuming and costly . In this work with twin column continuous system as a typical case mathematical models were established and used to evaluate the impacts of operating parameters for process development . The model fitted well with the experimental breakthrough curves and process performance under varying protein concentrations and residence times . Three important operating parameters residence time for interconnected feeding
+
+@highlight A mechanistic model was developed to predict breakthrough curves and continuous process performance.
+@highlight Effects of key operating parameters on continuous capture were evaluated systematically.
+@highlight Three phase process performance was found for twin column continuous capture.
+@highlight Model based design approach was proposed for continuous capture process development.

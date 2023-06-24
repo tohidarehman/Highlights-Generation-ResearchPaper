@@ -1,0 +1,6 @@
+ An automated spectral fitting algorithm designed for the extraction of temperature information from experimental NO LIF spectra is presented and analysed . With the aid of the Thermo NO LIF the high accuracy of multi line NO LIF thermometry are demonstrated in the burnt gases region of a near adiabatic Bunsen type premixed flame . The results are compared with the temperature measured using N
+
+@highlight A novel program designed to determine the temperature from excitation spectra of NO LIF is publicly available.
+@highlight The multi line NO LIF thermometry can achieve an accuracy of 0.5 .
+@highlight Uncertainty can arise from using a narrowband laser under low pressures where the spectral linewidth is too narrow.
+@highlight Thermo NO LIF is available at http pc2a.univ lille.fr fr thermo no lif.

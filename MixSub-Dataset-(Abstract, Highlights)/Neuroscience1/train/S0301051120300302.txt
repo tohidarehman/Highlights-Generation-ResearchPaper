@@ -1,0 +1,7 @@
+ A recent paper by Zamariola and colleagues is widely cited as an authority on the invalidity of the Heartbeat Counting Task as a measure of interoceptive accuracy . Given the widespread interest in this field it is essential that papers about methods are conceptually sound . However only one of the authors four criticisms appears substantiated that people count too few heartbeats . Their arguments about
+
+@highlight We comment on Zamariola et al.s 2018 4 criticisms of the heartbeat counting task.
+@highlight Interoceptive accuracy IAcc is essentially a ratio of reported recorded heartbeats.
+@highlight Spurious simple bivariate correlations by IAcc quintile rely on circular reasoning.
+@highlight Heart rate correlates with IAcc because recorded heartbeats depend on heart rate.
+@highlight Differences of IAcc between trials are confounded by recorded heart rate. We present data to refute this.

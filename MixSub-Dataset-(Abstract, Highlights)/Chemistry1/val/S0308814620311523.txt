@@ -1,0 +1,7 @@
+ This paper proposes a sorghum adulteration detection model using hyperspectral imaging technology image processing technology and multivariate analysis technology . The model used a watershed algorithm to extract hyperspectral data from sorghum grains . Principal component analysis and clustering analysis were used to remove abnormal samples of sorghum . Partial least squares discriminant analysis was used to identify the variety of sample and a sorghum distribution map and adulteration ratios were obtained by marking varieties with different colors . This paper presents for the first time HSI use for identification of adulteration in sorghum using PCA and CA . Accuracy of the model identification for the validation set reached 96 and for the adulterated samples reached 91 and comprehensive accuracy of the model could reach more than 90 . These results show that the model can rapidly and nondestructively detect sorghum adulteration .
+
+@highlight First time HSI was used to detect adulterated sorghum.
+@highlight Watershed algorithm could effectively segment sorghum grains.
+@highlight PCA and CA could effectively find abnormal samples in a single sorghum variety.
+@highlight PLS DA model could rapidly and nondestructively detect sorghum adulteration.
+@highlight The distribution map of the sorghum was obtained through visualization.

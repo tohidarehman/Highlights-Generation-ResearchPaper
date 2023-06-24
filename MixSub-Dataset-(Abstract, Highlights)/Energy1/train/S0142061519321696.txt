@@ -1,0 +1,7 @@
+ In this paper a fault tolerant model predictive control scheme is proposed for wind turbines in the partial load region to meet the control objectives in the presence of disturbances uncertainties sensor and actuator faults . The aim of wind turbine control systems in the partial load region is to capture maximum power by tracking the optimal generator speed . But any fault in the sensors and actuators can take away the closed loop system from the main objectives and maybe make the system unstable in some cases . At first an online model predictive controller is designed as a nominal controller to track the maximum power and guarantee all constraints satisfaction without considering any fault . In the next step an adaptive sliding mode observer is designed to estimate the actual states and sensor faults simultaneously . Finally an additive control law is represented and shown that it is able to tolerate the actuator faults effectively . Using extensive simulation results it is shown that the proposed strategy is able to handle the uncertainties sensor and actuator faults in the control system simultaneously .
+
+@highlight A reliable controller is designed for wind turbines to capture maximum power.
+@highlight Uncertainties constraints and sensor actuator faults are effectively handled.
+@highlight An MPC is designed to satisfy all constraints and nominal performance goals.
+@highlight A robust LMI based adaptive method is proposed to estimate sensor faults.
+@highlight A robust passive fault tolerant control is proposed to reconstruct actuator faults.

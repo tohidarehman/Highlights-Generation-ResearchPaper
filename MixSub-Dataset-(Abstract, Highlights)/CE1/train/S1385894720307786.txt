@@ -1,0 +1,6 @@
+ The mixed 2D 3D perovskite has been proved to be a promising candidate to increase the exciton binding energy in perovskite light emitting diodes . However the complex phase distribution and impurity limit the stability of the corresponding PeLEDs . Here a novel molecule cyclopentanamine hydrobromide is adopted to construct a mixed 2D 3D perovskite by partial substitution of FA with CyPA realizing fine phase control for improved device stability . The adoption of CyPAHBr helps to tune perovskite grain growth and passivate the defect resulting in high coverage and smooth thin film with improved photoluminescence property . The PeLEDs with an optimized CyPAHBr concentration of a molar ratio of 40 exhibit a pure green emission with a full width at half maximum of 22nm an external quantum efficiency of 6.55 and a maximum brightness of 9408cdm
+
+@highlight A novel molecule CyPAHBr is synthesized and adopted to construct a mixed 2D 3D perovskite.
+@highlight The CyPAHBr can help to tune the perovskite growth and passivate of the defect along with fine phase control.
+@highlight The optimized PeLEDs exhibit a pure green emission with FWHM of 22nm EQE of 6.55 and a maximum brightness of 9408cdm
+@highlight The CyPAHBr based device shows a half lifetime two times longer than the one based on a traditional ligand PEAHBr.

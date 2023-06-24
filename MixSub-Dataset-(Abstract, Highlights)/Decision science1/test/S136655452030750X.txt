@@ -1,0 +1,6 @@
+ The transit equilibrium assignment problem aims to predict the distributions of passenger flows on lines or line segments in a transit network . Compared to the traffic assignment problem for highway networks the TEAP is much less studied especially in terms of solution algorithms . This paper proposes two Newton type hyperpath based algorithms for a frequency based TEAP formulation that considers both the congestion effect related to crowding and the queuing effect related to boarding . These newly developed algorithms as well as two benchmark algorithms from the literature are tested and compared on a number of transit networks including two constructed using real world data . The results show the proposed hyperpath based algorithms significantly outperform the benchmark algorithms in large networks .
+
+@highlight TEAP is much less studied compared to TAP especially in terms of solution algorithms.
+@highlight This paper proposes two Newton type hyperpath based algorithms for a frequency based TEAP formulation.
+@highlight The newly developed algorithms are tested on two real world transit networks.
+@highlight Hyperpath based algorithms significantly outperform the benchmark algorithms in large networks.

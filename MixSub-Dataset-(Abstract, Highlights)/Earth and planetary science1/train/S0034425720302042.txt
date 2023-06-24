@@ -1,0 +1,10 @@
+ We studied the influence of changing carotenoid pigments on the sensitivity of the photochemical reflectance index to photosynthesis dynamics . The goal of the measurements was to examine how the introduction of PRI into the working dataset can improve the estimation of photosynthesis . Spectral and photosynthetic characteristics of European beech and Norway spruce saplings were periodically measured in growth chambers with an adjustable irradiance and temperature . Patterns of environmental changes inside the growth chambers were created by periodic changes in irradiance and temperature . Four general irradiance periods lasting 1012days each were established . Introduced irradiance regimes varied in the sum of daily irradiance and amplitude of irradiance changes . Temperature was changed with more complex patterns to induce changes in xanthophyll cycle pigments at various time scales within these regimes . Our measurements confirmed the PRI linkage to photosynthetic light use efficiency . However the strength of this connection was found to be dependent on changing pigment concentrations specifically on the change in the ratio of chlorophylls to carotenoids . Furthermore a negative interference in photosynthesis estimation from PRI was recorded if the temperature was lowered overnight to 12C . The differential PRI calculated as the simple difference between the PRI value measured during the daytime period and in early morning PRI
+
+@highlight We studied PRI dynamics in changing irradiance and temperature setup.
+@highlight Sensitivity of PRI to LUE was dependent on the changing ratio of Chl
+@highlight  Car
+@highlight Interference from Chl
+@highlight  Car
+@highlight in LUE estimation was lowered when using PRI.
+@highlight Effect of low temperature on LUE estimation from PRI was reduced with PRI.
+@highlight Leaf area index of trees appeared to be an important driver in observed relationships.

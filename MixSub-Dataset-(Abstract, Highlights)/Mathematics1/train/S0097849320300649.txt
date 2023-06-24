@@ -1,0 +1,5 @@
+ This paper presents a flexible free form deformation method that overcomes two limitations of many FFD methods the cumbersome interface and the fixed topology of the control lattice . The novelty of the method mainly lies in two aspects a specifically tailored T spline volume with its local refinement is introduced to define the deformation space and construct the deformation tool and a proxy represented as a three dimensional mesh close to the object to be deformed is constructed from the control lattice of the T spline volume and is used to manipulate and drive the deformation . While the method inherits all the virtues of FFD such as
+
+@highlight We present a proxy driven free form deformation method by topology adjustable control lattice.
+@highlight The method provides a cage like interface for the user to perform free form deformation.
+@highlight The method allows topology change of the control lattice without the need of reparameterization.

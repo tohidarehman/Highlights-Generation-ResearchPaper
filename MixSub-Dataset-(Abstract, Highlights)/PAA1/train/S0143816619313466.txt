@@ -1,0 +1,5 @@
+ In this paper we present the realization of three dimensional integral imaging with circular non uniform distribution . Due to circular non uniform distributed cameras for the pickup configuration more light information from a 3D scene can be collected . To achieve a flexible integral imaging system a camera is moved along a circular track with random central angles to capture a set of elemental images . We develop a mathematical framework for error estimation of the camera positions . The experimental results are carried out to verify the proposed system . We also analyze voxel resolution for the performance evaluation of the proposed system based on two point sources resolution criteria .
+
+@highlight The proposed method provides the flexibility and practicability necessary for integral imaging systems.
+@highlight We develop a mathematical framework for error estimation of the elemental images.
+@highlight Optimal range of reconstruction distances and voxel resolution are analyzed for the performance evaluation.

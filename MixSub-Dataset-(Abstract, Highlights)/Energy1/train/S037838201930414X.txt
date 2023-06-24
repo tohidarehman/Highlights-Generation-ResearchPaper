@@ -1,0 +1,6 @@
+ Moving grate boilers are widely used in the combustion of solid biomass at industrial scale for heat and power production . This type of systems allows to use wide range of fuels including those with a high moisture and ash content . However biomass boilers present several associated problems such as e pollutant missions or ageing phenomena that can reduce the efficiency of the boilers or damage them such as fouling slagging or corrosion . CFD tools can be used to study biomass combustion systems providing information useful to optimize the operation and design of the boilers . In this work an Eulerian fixed bed biomass combustion model coupled with the CFD commercial code ANSYS Fluent will be used to carry out the simulation of a large scale moving grate biomass furnace . New procedures have to be developed to adapt the model operation to the characteristics of this case . The numerical results are compared with experimental data from literature . The new procedures provide a solution of the bed morphology which is validated against the experimental data .
+
+@highlight Three dimensional transient simulation of a 4MW biomass grate fired furnace
+@highlight Development of a new Eulerian feeding model
+@highlight Validation of the simulation against experimental results from literature
+@highlight Bed combustion pattern in accordance with literature data

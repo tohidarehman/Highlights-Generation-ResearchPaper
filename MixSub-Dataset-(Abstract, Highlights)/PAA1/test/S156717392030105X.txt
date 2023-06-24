@@ -1,0 +1,7 @@
+ This paper presents an improvement of the acoustoelectric effect by sensitivity and response of ultraviolet sensors by changing the argon oxygen ratio . The acoustoelectric sensor is a delay line type with a center frequency of 240.2625MHz and fabricated on a piezoelectric substrate . Aluminum thin films were deposited as interdigitated transducers and patterned and the ZnO thin film was deposited as a UV sensing layer by controlling the ratio of argon and oxygen with an RF magnetron sputtering . By increasing the oxygen partial pressure during ZnO deposition the photoconductivity increased by 6.5 times thereby increasing the frequency change related to the sensitivity of the sensor . The sensitivity to UV light was 110.4Hzcm
+
+@highlight An improvement of the sensitivity and response of the acoustoelectric UV sensor by changing the argonoxygen ratio was demonstrated.
+@highlight The ZnO thin film was deposited as a UV sensing layer by controlling the ratio of argon and oxygen.
+@highlight By increasing the oxygen partial pressure during ZnO deposition the photoconductivity increased.
+@highlight The sensitivity to UV light was 110.4 Hzcm
+@highlight  W under an argonoxygen ratio of 6 4.

@@ -1,0 +1,6 @@
+ One of the most substantial and crucial parameters for irrigation in agriculture is water infiltration into the soil . Given the variability of soil properties the infiltration characteristics also vary . The present study aims to model soil water infiltration using scaling . In the present research a new approach for scaling the infiltration equation was developed and evaluated for 22 infiltration tests . In the new method the scaling factor
+
+@highlight Cumulative infiltration curve obtained using minimum infiltration time data.
+@highlight Unlike previously with infiltration equation reference curve is optional in proposed method.
+@highlight Accuracy of proposed method and infiltration scaling optimisation method were similar.
+@highlight Proposed scaling is also applicable to empirical equations e.g. KostiakovLewis .

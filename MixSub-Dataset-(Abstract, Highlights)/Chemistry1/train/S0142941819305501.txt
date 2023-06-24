@@ -1,0 +1,7 @@
+ The different compressive and tensile moduli of fibre reinforced composites have been considered in the analysis of the flexural and shear moduli of I beams . Firstly the neutral axis has been determined analytically and then assuming that location of the neutral axis the analytical flexural modulus of I beams has also been obtained . In order to assess the proposed procedure virtual pure bending and three point bending tests at different spans have been carried out using the finite element method . The compressive and tensile moduli have been taken into account by defining two parts in the numerical models . The numerical flexural and shear moduli have been determined by reducing the data obtained in the virtual tests . Analytical and numerical results are in good agreement . Therefore the flexural modulus determined by the proposed analytical approach can be introduced as a material property in the finite element method .
+
+@highlight Consideration of the different tensile and compressive moduli in I beams.
+@highlight Numerical assessment of flexural tests.
+@highlight Local effects taken into account in the finite element method.
+@highlight Assessment of the shear factor obtained analytically.
+@highlight Good agreement between analytical and numerical results.

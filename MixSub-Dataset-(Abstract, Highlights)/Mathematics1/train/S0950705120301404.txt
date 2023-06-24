@@ -1,0 +1,5 @@
+ Continuous distance measure is an effective tool to describe the relation of alternatives in group decision making under uncertain environments . Firstly a novel aggregation operator i.e . continuous optimal ordered weighted quasi averaging operator is proposed . Some special cases and desirable properties of the COOWQA operator are analyzed . Then the COOWQD measure is developed based on the COOWQA operator . To consider the interaction between decision makers the nucleolus weight is presented to integrate the positive and negative ideal COOWQD measure .
+
+@highlight The nucleolus weight provides a valid way to integrate distance measures.
+@highlight The COOWQA operator guarantees minimization of the deviation.
+@highlight  fuzzy measure is adopted to generate the measure values on decision maker sets.

@@ -1,0 +1,5 @@
+ The spherical wavelet based on the lifting scheme is introduced for adaptive discrete ordinate sampling of the radiation fields particularly in the radiative transfer computation using iterative schemes . The lifting scheme for wavelet transform is described from an implementation point of view including the construction of hierarchical geodesic grids on the sphere and wavelet constructions . In addition we compare the method with the conventional spherical harmonics numerically investigating the transformation error and efficiency . The transformation matrices are built in the least squares sense . The results demonstrate the feasibility of using spherical wavelets as an adaptive discrete ordinate sampling method at the cost of
+
+@highlight The spherical wavelets is introduced for adaptive discrete ordinate sampling in radiation fields representation.
+@highlight The transformation between spherical harmonics representation and spherical wavelets representation of the radiation fields is investigated.
+@highlight The number of adaptive discrete ordinates is approximately equal to the number of spherical harmonics coefficients.

@@ -1,0 +1,7 @@
+ Next to furan other alkylfurans such as 2 and 3 methylfuran 2 ethylfuran 2 5 dimethylfuran and 2 pentylfuran have been found concurrently in thermal processed food and fruit juices . To ensure an accurate quantification of these compounds a method based on isotope dilution using all six respective internal standards and gas chromatography coupled to mass spectrometry was developed . Two injection techniques static head space and solid phase micro extraction were tested and compared for their performance . Validation was based on a single laboratory validation under repeatability condition . Good data for both techniques in baby food and cereals were obtained . Furthermore validation was conducted successfully on fruit juices and infant formula using SPME injection and on coffee using HS injection . LOQ for all matrices was established at 5 g kg and 200 g kg in coffee samples which corresponds to the lowest fortification level . Recovery was between 80 and 110 and repeatability obtained below 16 at 50 g kg except few slight outliers .
+
+@highlight Quantitative detection of Furan and 5 alkylfurans using GC MS
+@highlight Use of respective internal standards for each compound obligatory
+@highlight HS and SPME injection systems give comparable results
+@highlight Successful validation of baby food and cereals using both techniques
+@highlight Successful validation of coffee using HS fruit juice and infant formula using SPME

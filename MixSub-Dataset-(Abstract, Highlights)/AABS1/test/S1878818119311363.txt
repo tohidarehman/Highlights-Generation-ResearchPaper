@@ -1,0 +1,5 @@
+ An engineered fructofuranosidase GAPfopA V1 was compared to the native enzyme GAPfopA to produce short chain fructooligosaccharides from white and brown sugar and refinery and A molasses . The minimum reaction temperature and enzyme dosage required to produce scFOS with a composition similar to that of a commercial prebiotic product consisting of oligomers with 24 fructose moieties were determined using response surface methodology . At 62C and 10 U g sucrose the GAPfopA V1 resulted in a 28 and 25 decrease in reaction time required to reach the target scFOS composition in comparison to the native enzyme using white and brown sugar as substrate respectively . Whereas the target scFOS composition could not be reached using refinery molasses this composition was reached with A molasses using both enzymes where GAPfopA had a 6 shorter reaction time than GAPfopA V1 .
+
+@highlight Targeted FOS profile achieved with reduced production time with engineered enzyme.
+@highlight Impurities in industrial sugars affect production of targeted FOS profile by enzymes.
+@highlight Industrial sugars still feasible for fructooligosaccharide production.

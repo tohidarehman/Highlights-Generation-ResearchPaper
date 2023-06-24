@@ -1,0 +1,15 @@
+ Fiber reinforced cementitious matrix is emerging as a viable retrofit and confinement technique in lieu of fiber reinforced polymer system which suffers from a number of issues related to the use of synthetic binders . While many studies have been conducted on the use of FRCM in shear and flexural applications few were dedicated to confinement of slender columns particularly those related to finite element analysis . In this study a nonlinear three dimensional FE model has been developed to study the behavior of reinforced concrete columns confined by jackets and loaded concentrically and eccentrically . Drucker Prager concrete model which has several improvements over traditional DP models was used to model the concrete core . Composite failure in the fibers comprising FRCM system and column buckling were also considered in the developed FE model . The model was validated by comparing its predictions with those of three control and 8 FRCM confined RC columns from literature . Consequently a parametric study utilizing 96 additional models was performed on five parameters namely cross sectional shape and for rectangular columns aspect
+
+@highlight A detailed 3D FE model for slender FRCM confined RC columns.
+@highlight Studying cross section shape circle square hexagon and octagon .
+@highlight Studying aspect ratio 
+@highlight  and slenderness ratio 
+@highlight  for rectangular columns varying 
+@highlight  from 0.5 to 2.5 and 
+@highlight  from 10 to 75.
+@highlight Studying eccentricity 
+@highlight  as ratio of the side 
+@highlight  varying 
+@highlight  from 0 to 2.5.
+@highlight A noticeable change of behavior at
+@highlight  0.5 possibly due to shift from axial to bending.

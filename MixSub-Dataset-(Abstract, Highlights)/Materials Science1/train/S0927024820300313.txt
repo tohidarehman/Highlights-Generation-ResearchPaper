@@ -1,0 +1,6 @@
+ The gallium gradient of the CIGS film plays a key role for device performance of solar cells . However a three stage co evaporation deposition process at low substrate temperature often produces a pronounced steeper gallium gradient which is detrimental to the transport of carriers and leads to lower conversion efficiency . In this work we propose a modified low temperature deposition process by introducing an overlapping process between the 1
+
+@highlight A constant low temperature process is employed to deposit high quality CIGS film.
+@highlight Overlapping process between the 1st and 2nd stage is used to optimize back gradient.
+@highlight New reaction models have been built to demonstrate the phase transition process.
+@highlight Efficiency is boosted by the optimization of the gallium gradient.

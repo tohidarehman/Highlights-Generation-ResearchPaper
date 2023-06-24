@@ -1,0 +1,6 @@
+ Journalists emergency responders and the general public use Twitter during disasters as an effective means to disseminate emergency information . However there is a growing concern about the credibility of disaster tweets . This concern negatively influences Twitter users decisions about whether to retweet information which can delay the dissemination of accurateand sometimes essentialcommunications during a crisis . Although verifying information credibility is often a time consuming task requiring considerable cognitive effort researchers have yet to explore how people manage this task while using Twitter during disaster situations .
+
+@highlight The profile information of Twitter users can be used as informational cues that reflect tweets source credibility.
+@highlight The number of followers as a reputation credibility cue increases the probability of quick retweeting.
+@highlight The affiliation length of a Twitter account as a cue for social presence increases the probability of quick retweeting.
+@highlight The number of recent tweets as a recency credibility cue increases the probability of quick retweeting.

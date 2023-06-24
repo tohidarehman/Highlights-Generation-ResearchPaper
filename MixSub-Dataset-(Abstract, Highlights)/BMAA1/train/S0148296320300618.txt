@@ -1,0 +1,6 @@
+ We investigate the impact of customer concentration on stock price crash risk . Customer concentration may represent a source of significant cash flow and business risk for supplier firms or benefit supplier firms in terms of efficient product inventory and supply chain management . Using a large sample of firms for the period 19772016 we find that corporate customer concentration is positively associated with stock price crash risk . We find however that government customer concentration is negatively associated with stock price crash risk . Further analyses demonstrate that our results are robust to potential endogeneity and reverse causality concerns . In the cross sectional analyses we find that the likelihood that a supplier firm with a concentrated customer base experiences higher crash risk is attenuated by lower switching cost and is accentuated when the degree of information asymmetry is high .
+
+@highlight Customer concentration is an important determinant of stock crash risk of supplier firms.
+@highlight Corporate customer concentration is positively associated with stock crash risk.
+@highlight Government customer concentration is negatively associated with stock crash risk.
+@highlight Switching cost and information asymmetry acts as moderators.

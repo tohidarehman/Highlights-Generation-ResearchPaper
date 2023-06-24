@@ -1,0 +1,7 @@
+ We consider a model with two patentees of perfect substitute innovations that enable the manufacture of a new product and a competitive pool of potential licensees . Timing of licensing is endogenous . We show that under certain conditions the equilibrium probability that patentees delay licensing in each period is positive and increasing in the common discount factor adopted by innovators and firms . Consequently more competition in the market for the innovation may induce lower innovation diffusion and lower welfare in the downstream market . We also show that this conclusion does not hold if at least one patentee is an incumbent .
+
+@highlight We model the strategic interaction involving two competing patentees of perfect substitute technologies the model features endogenous timing of licensing.
+@highlight If patentees are outsiders then the equilibrium probability that they delay licensing in each period is positive.
+@highlight That probability is moreover increasing in the common discount factor.
+@highlight Social welfare may decrease as a consequence of upstream competition.
+@highlight If either patentee is an insider the above conclusions do not hold.

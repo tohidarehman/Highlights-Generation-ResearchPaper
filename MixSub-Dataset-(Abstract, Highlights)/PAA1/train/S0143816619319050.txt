@@ -1,0 +1,6 @@
+ The fractional order chaotic systems have characteristics of the all chaotic systems however the improper fractional order chaotic systems have more complexity random sequences which more suitable for chaotic cryptosystems . To investigate the application of improper fraction order chaotic system in chaotic cryptography in this paper an improper fractional order laser chaotic system is constructed and applied in image encryption algorithm . The dynamic performances of the system are studied through phase diagrams Lyapunov exponents spectrum bifurcation diagrams and
+
+@highlight An improper fractional order laser chaotic system is constructed.
+@highlight The improper fractional order laser chaotic system is digital circuit implemented by DSP platform.
+@highlight An image encryption algorithm based on improper fractional order laser chaotic system is proposed.
+@highlight Simulation results and performance analysis demonstrate the security and robustness of the proposed algorithm.

@@ -1,0 +1,6 @@
+ Combined effects of pH and thermal treatments on black kidney bean lectin were investigated by response surface methodology . Low pH incubation decreased hemagglutination activity and IgE binding capacity but the activities would be restored when the lectin was treated by pH shifting to 7.2 . Conformational structure analyses indicated that low pH induced protein unfolding and pH shifting treatment resulted in a limited structural rearrangement . Mild heating such as 60C for 3min slightly increased the HA and IgE binding activities of pH shifted BKBL but no obvious effects in the pH 1.0 incubated BKBL . High temperature and long time treatment might induce the protein aggregation further decreased HA and IgE binding capacities . RSM results showed both IgE binding capacity and HA were the lowest under the combination of pH 1.0 incubation with 80C heating for 15min or pH shifting from 1.0 to 7.2 with 100C heating for 10min .
+
+@highlight Effects of pH and heating on BKBL IgE binding capacity were characterized by RSM.
+@highlight IgE binding capacity reduction was related with the structural change of BKBL.
+@highlight Low pH incubated BKBL was a bit resistant to structural alterations during heating.
+@highlight Combination of pH and heating was effective to reduce IgE binding capacity of BKBL.

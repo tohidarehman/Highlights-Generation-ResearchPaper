@@ -1,0 +1,9 @@
+ Oxide Dispersion Strengthened steels are considered as promising materials for structural components of advanced fusion and fission reactors . Its performance is largely determined by particle size and stability of the dispersed oxide nano particles which forms during high temperature extrusion after dissolution of yttria in Fe during mechanical alloying . As the reactor structural materials are exposed to high neutron flux study of irradiation stability of these particles is very important . In order to study irradiation stability of oxide particles in ODS alloy two different ODS alloys of composition Fe 0.2Ti 0.3Y
+
+@highlight 5MeV Ni
+@highlight ion beam irradiated ODS alloys of composition Fe 0.2Ti 0.3Y
+@highlight and Fe14Cr 0.2Ti 0.3Y
+@highlight were studied at 600 and 700C.
+@highlight At a dose of 40 dpa at sample surface refinement of particle size takes place at 700C in both the alloys.
+@highlight Cr plays a significant role in further tailoring the particle size to a very narrow zone of finer size upon irradiation.
+@highlight Strong effect of Cr in particle dissolution could be because of the initial finer sized particles present in the Cr added alloy or the less displacement energy of the Cr rich shell around the particles providing a driving force for particle mass loss.

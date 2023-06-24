@@ -1,0 +1,6 @@
+ The isobaric vapourliquid equilibrium data for the binary system of cyclohexanol cyclohexylbenzene were determined at kPa with a dynamic recirculating apparatus and the temperature ranged from 358.10K to 456.43K and the thermodynamic consistency of the experimental data was checked by the Herington area method and Van Ness method . Afterwards the experimental data was correlated with NRTL Wilson and UNIQUAC model and the corresponding interaction of thermodynamic models of the binary system parameters were obtained through the Aspen software . The results indicated that all three models represent the experimental values quite well while the NRTL model provided a slightly better result than Wilson model and UNIQUAC model . The maximum root mean square deviation of the temperature and vapour phase mole fraction for the NRTL model was less than 0.4K and 0.004 respectively .
+
+@highlight Measured the isobaric VLE data of cyclohexanol and cyclohexylbenzene at 5 10 15 20 and 25kPa.
+@highlight Thermodynamic consistency of the VLE data was checked with the Herington test and Van Ness test.
+@highlight VLE data were correlated by NRTL UNIQUAC and Wilson model.
+@highlight Binary interaction parameters between cyclohexanol and cyclohexylbenzene were obtained.

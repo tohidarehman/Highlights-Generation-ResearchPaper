@@ -1,0 +1,5 @@
+ Calculations based on the density functional theory have been used to investigate the reactivity of boron nitride nanocones to toluene gas . The adsorption energy for the toluene gas was calculated about 19.67kcal mol and based on this parameter BNNCs are promising compounds for the detection of toluene gas . Furthermore after adsorption of toluene gas the HOMO LUMO gap of BNNCs was decrease significantly as a results the electrical conductivity has also increased and it indicates that the BNNCs could be an appropriate electrical sensor for toluene gas . In addition the work function of BNNCs is influenced by the toluene gas adsorption which substantially alters the field emission electron current from its surface and reveals that it could also be a work function based sensor for the detection of toluene . The BNNCs have also the advantage of short recovery time about 3.10ms for desorption of toluene gas .
+
+@highlight Pristine BNNCs tendency toward toluene molecules is noticeably high.
+@highlight Toluene absorption enhances the conductivity of the BNNCs.
+@highlight BNNCs sheet benefits from a short recovery time of 3.10ms for toluene desorption.

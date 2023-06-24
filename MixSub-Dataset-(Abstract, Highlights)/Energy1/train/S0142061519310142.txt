@@ -1,0 +1,7 @@
+ We propose a two attribute procedure for selecting the most cost effective transmission expansion alternative under risk . The procedure randomly generates sets of realization of random parameters of the problem and for each set an optimization model that considers potential expansion options is solved . The mean and variance of the objective function associated with each optimal solution are the selection attributes . The optimal solution that has the smallest mean and variance is deemed the best expansion alternative . The procedure guarantees the selected best alternative is indeed the best by a probability that satisfies or exceeds a users specified probability of correct selection . For numerical examples of this paper the levels of load and generation and availability of generators and lines are considered random variables . Numerical examples are used to demonstrate the advantages of the proposed selection criterion over using the traditional expected value selection criterion .
+
+@highlight The least cost alternative from transmission enhancement options is selected.
+@highlight A statistically valid two attribute procedure is proposed for this purpose.
+@highlight The mean and variance values of a cost objective function are the attributes.
+@highlight Variance is used as a surrogate for risk.
+@highlight Line replacements and line additions are considered enhancement options.

@@ -1,0 +1,8 @@
+ This study proposes a data driven approach to understand traveling backward behavior while making a route choice in congested metros . First TB behavior during route choice in overcrowded metros is defined and analyzed . Second a hybrid model comprising three hierarchical Bayesian models is developed to describe the TB behavior . Third a novel sampling method based on Hamiltonian dynamics is introduced to estimate the model parameters . Finally a case study of Beijing metro is discussed to illustrate the effectiveness and robustness of the proposed model . The contributions of application of the proposed model to accurate demand assignment and passenger flow control for metro managers are demonstrated .
+
+@highlight Route choice of travelling backward is modelled using a data driven model.
+@highlight The model comprises three GMM based hierarchical Bayesian models.
+@highlight No U turn sampler NUTS is introduced to estimate the model parameters.
+@highlight A case study of Beijing metro network is discussed.
+@highlight The proposed framework can help develop an accurate passenger flow assignment model.
+@highlight The framework has been successfully applied to demand assignment and passenger flow control.

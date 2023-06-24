@@ -1,0 +1,13 @@
+ In this work we performed spin orbit coupling included MRCI Q calculation on electronic states of SbBr . The SOC effect is treated by using the state interaction method in combination with the Breit Pauli operator . Molecular orbitals are constructed with all electron aug cc pwCVQZ DK basis sets . Without SOC total 34 S states of SbBr are obtained . It is found that the lowest three S states X
+
+@highlight Total 34 S states of SbBr are accurately characterized at the MRCI Q level.
+@highlight The SOC effect makes 34 S states split into 74 states.
+@highlight Transition mechanisms of a
+@highlight  X
+@highlight None
+@highlight and b
+@highlight None
+@highlight  X
+@highlight None
+@highlight are illustrated.
+@highlight The SOC effect is indispensible for accurate spectroscopic determinations of SbBr.

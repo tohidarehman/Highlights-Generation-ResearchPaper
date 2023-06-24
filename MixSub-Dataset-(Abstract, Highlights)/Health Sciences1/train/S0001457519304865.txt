@@ -1,0 +1,7 @@
+ The motorcyclist is exposed to the risk of falling and impacting ground head first at a wide range of travelling speeds from a speed limit of less than 50km h on the urban road to the race circuit where speed can reach well above 200km h. However motorcycle helmets today are tested at a single and much lower impact speed i.e . 30km h. There is a knowledge gap in understanding the dynamics and head impact responses at high travelling speeds due to the limitation of existing laboratory rigs .
+
+@highlight The underlying dynamics of rolling and sliding phenomena of helmets in high speed oblique impacts were investigated.
+@highlight Head impact biomechanics are largely affected by rolling and sliding phenomena and are therefore classified into two regimes.
+@highlight A transition between the rolling and sliding regime is identified using a linear with upper plateau LUP model.
+@highlight The peak brain strain increases linearly with the tangential velocity when helmets roll but plateaus when helmets slide.
+@highlight Future helmet standards should consider testing helmets at speeds covering both the rolling and sliding regime.

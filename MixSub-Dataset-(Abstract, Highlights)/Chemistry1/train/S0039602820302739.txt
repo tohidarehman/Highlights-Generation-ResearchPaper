@@ -1,0 +1,5 @@
+ In present work the Density Functional Theory computations were applied for the platinum nickel and palladium doped single walled carbon nanotubes to investigate the utility for NO gas sensing at the temperature of 25C . The method of WB97XD was used with the basis sets of 631G and LanL2DZ . The geometrical properties and electronic parameters were found for all structures . The charge distributions mentioned that the charge transfer has been occurred from the Ni Pd and Pt doped SWCNTs as an electron donor to the adsorbed NO molecule . The HOMO LUMO energy gap which provides important knowledge about chemical stability only decreased after the adsorption of NO molecule on the Pt SWCNT cluster . Consequently consistent with these results Pt doped SWCNT could provide useful benefits for the design and manufacture of NO sensor at room temperature .
+
+@highlight The charge transfer was occurred to the adsorbed NO molecule.
+@highlight The electrical conductivity of Pt SWCNT increased after a NO molecule adsorption.
+@highlight Pt SWCNT 6 0 has potential for NO sensing at room temperature.

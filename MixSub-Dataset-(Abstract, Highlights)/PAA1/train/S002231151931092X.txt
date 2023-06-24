@@ -1,0 +1,6 @@
+ An accelerated Monte Carlo method for the calculation of the sink strengths of absorbing surfaces for particles in crystals of the cubic system has been suggested . On its basis several algorithms have been developed which allow one to calculate the sink strengths either without any systematic inaccuracy or with its low and controlled magnitude . These algorithms have been tested by calculating the sink strengths of absorbing surfaces of different geometry for particles in a crystal with BCC lattice . The use of the developed algorithms accelerates the calculations for low volume fractions of absorbers by orders of magnitude .
+
+@highlight A new method allows accelerating sink strengths calculations by orders of magnitude.
+@highlight This method takes full account of the discreteness of the crystal lattice.
+@highlight Systematic inaccuracy is absent or has low and controlled magnitude.
+@highlight Sink strengths are calculated for absorbers of various geometry in a bcc crystal.

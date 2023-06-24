@@ -1,0 +1,8 @@
+ Ethyl levulinate is an important biodiesel blending ingredient . Reactive distillation and distillation are energy intensive operations in the EL process studied in this work . Therefore the intensification approach for energy reduction in these operations is important . In this study we investigated the implementation of vapor recompression multistage vapor recompression and bottom flash techniques in the EL production process having one reactive distillation and two normal distillations for the first time . New intensified cases are VR in RD BF in RD MVR in C1 column BF in C2 column and hybrid RD BF C2 BF . Performance of these intensified cases is investigated and compared against the base case in terms of energy savings total annual cost carbon emission energy consumed per ton of EL and cost of processing per kg of EL . It is found that the RD BF C2 BF scheme yields 61 reduction in overall heating duty 35.5 reduction in TAC and 58.76 reduction in carbon emission with respect to the base case . Cost of EL production is found to be 6.6 per kg . This study is important as it focuses on economic as well as environmental aspects .
+
+@highlight VR MVR BF techniques in the ethyl levulinate production process having a RD.
+@highlight BF in RD as well as in C2 resulted as the best configurations.
+@highlight Best scheme yields a significant reduction of 61.21 and 40.93 in overall Q
+@highlight  Q
+@highlight 35.5 and 58.76 reduction in TAC and carbon emissions are obtained.
+@highlight These savings depict the economic environmental merits of this intensification.

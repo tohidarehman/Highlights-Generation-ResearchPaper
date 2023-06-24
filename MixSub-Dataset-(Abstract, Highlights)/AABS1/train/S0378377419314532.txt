@@ -1,0 +1,8 @@
+ In this paper a first evidence is provided that the targeted control of adaptive plant behavior for irrigation purposes is possible . The objective is aligning plant growth to water availability and utilizing training mechanisms to affect the relation between water use and plant growth . The approach is based on the experimental specification of two water deficit related behavioral patterns memory of stress and point of no return . Mild stress duration has to be shorter than 2.7 days to avoid irreversible growth rate reduction . Water stress information is stored by the plant for three days at most . Therefore adequate stress stimuli have to be repeated within this period to maintain training effect . Exceeding maximum memory time without stimulus results in a drop of water based growth performance
+
+@highlight Plant growth can be controlled by an intended water stress training.
+@highlight Water stress stimuli are memorized by plants for 3 days at most.
+@highlight Memory initiates a usage bound growth performance
+@highlight by 47 increased .
+@highlight Memory is initiated at substrate water content lower than 70 .
+@highlight Point of no return for growth recovery is at 40 substrate water content.

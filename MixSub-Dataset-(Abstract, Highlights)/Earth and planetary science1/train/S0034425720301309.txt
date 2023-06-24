@@ -1,0 +1,7 @@
+ The angle dependent scattering effect of aerosols in the atmosphere not only influences climate through radiative forcing effects but also impacts trace gas remote sensing by modifying the path of radiation through the atmosphere . The aerosol phase function which characterizes the angular signature of scattering has been continuously monitored from ground based and space borne observations . However the range of scattering angles these instruments can sample is very limited . Here we report multi year measurements from a mountain top remote sensing instrument the California Laboratory for Atmospheric Remote Sensing Fourier Transform Spectrometer which overlooks the Los Angeles megacity . The observational geometries of CLARS FTS provide a wide range of scattering angles from about 20 to about 140 which is larger than the range provided by any existing aerosol remote sensing instrument . We then quantify the aerosol angular scattering effect using the O
+
+@highlight A mountain top observatory for monitoring aerosols in megacities is introduced.
+@highlight The observatory makes measurements at a wide range of scattering angles.
+@highlight Aerosol scattering is quantified based on retrieved oxygen slant column.
+@highlight The aerosol scattering pattern can be explained by variations in scattering angle.
+@highlight No significant change in aerosol phase function in LA from 2011 to 2018.

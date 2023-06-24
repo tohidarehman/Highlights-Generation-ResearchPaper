@@ -1,0 +1,6 @@
+ This paper elucidates the impacts of vehicle heterogeneity on traffic dynamics and throughput of mixed traffic consisting of connected automated vehicles and regular vehicles . The main premise is that the heterogeneity in preferred acceleration rate desired speed and car following behavior will change traffic properties in ways that can undermine traffic flow throughput . This paper first decomposes the mechanism into two elements one driven by acceleration and one by time varying CF response to disturbances and then investigates their compounded effect . This paper also provides unifying frameworks to analyze the behavior of RVs and CAVs to facilitate analytical investigations . The results reveal how heterogeneous acceleration and CF behavior may create persistent voids and diminish traffic throughput . Integrating all the elements throughput reduction is quantified via numerical simulations .
+
+@highlight Investigate impacts of heterogeneity in driving behavior on traffic dynamics.
+@highlight Unifying framework to analyze RV and CAV behavior in mixed traffic.
+@highlight Mechanism for heterogenous acceleration and CF leading to void creation.
+@highlight Simulation for compounded effects of heterogeneity in mixed traffic platoons.

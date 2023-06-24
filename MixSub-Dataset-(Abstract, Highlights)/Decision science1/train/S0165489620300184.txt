@@ -1,0 +1,7 @@
+ In this paper I propose a model that can support Varians equilibrium search behavior with an arbitrarily large number of sellers even when the first price observation is costly for the consumers with positive search costs and the search is endogenous . In my model the consumers with zero search costs have the same low valuation for all sellers products whereas the consumers with positive search costs learn the price and their valuation for the product of each seller after engaging in costly search for the corresponding seller and in the pre search phase anticipate that the valuation for the product of each seller is high with strictly positive and lower than unity exogenous probability and low with the remaining probability . Conditional on that some reasonable restrictions on the parameters are satisfied although the number of sellers may grow arbitrarily large the expected price is bounded above by the low valuation and the consumers with positive search costs find it most profitable to search once .
+
+@highlight Varian 1980 assumes that the consumers with positive search costs search one seller.
+@highlight In my model these consumers are uncertain about the product valuation prior to search.
+@highlight The valuation is high with some probability and low with the remaining probability.
+@highlight The expected price may be bounded above by the low valuation.
+@highlight Varians search behavior is supported when the number of sellers grows arbitrarily large.

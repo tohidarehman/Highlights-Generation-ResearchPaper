@@ -1,0 +1,6 @@
+ Traumatic spinal cord injury elicits a cascade of secondary injury mechanisms that induce profound changes in glia and neurons resulting in their activation injury or cell death . The resultant imbalanced microenvironment of acute SCI also negatively impacts regenerative processes in the injured spinal cord . Thus it is imperative to uncover endogenous mechanisms that drive these acute injury events . Here we demonstrate that the active form of bone morphogenetic protein 4 is robustly and transiently upregulated in acute SCI in rats . BMP4 is a key morphogen in neurodevelopment however its role in SCI is not fully defined . Thus we elucidated the ramification of BMP4 upregulation in a preclinical model of compressive contusive SCI in the rat by employing noggin an endogenous antagonist of BMP ligands and LDN193189 an intracellular inhibitor of BMP signaling . In parallel we studied cell specific effects of BMP4 on neural precursor cells oligodendrocyte precursor cells neurons and astrocytes
+
+@highlight Active BMP4 is transiently upregulated in acute spinal cord injury in rats.
+@highlight BMP4 contributes to inhibitory microenvironment by promoting CSPG expression.
+@highlight BMP4 promotes cell death and lipid peroxidation.
+@highlight Blockade of BMP4 enhances oligodendrogenesis and remyelination following SCI.

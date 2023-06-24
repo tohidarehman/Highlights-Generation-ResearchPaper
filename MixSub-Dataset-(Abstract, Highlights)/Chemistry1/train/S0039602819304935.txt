@@ -1,0 +1,6 @@
+ Using molecular dynamics simulation the dynamic response of a nanogear drive system with intersecting axes was investigated . The nanogear drive system made from carbon nanotubes contains two parts i.e . a motor and a nanobearing . Their tube axes have an intersecting angle of
+
+@highlight We proposed a model for nanogear drive system with intersecting axes between motor and rotor for rotation transmission.
+@highlight Between 40K and 100K the rotor has stable asynchronous rotation with 60 of intersecting angle.
+@highlight When the input rotational frequency is very high the rotation transmission ratio is independent on temperature 100K.
+@highlight Results guide the potential application of the present nanodevice in a nanomachine.

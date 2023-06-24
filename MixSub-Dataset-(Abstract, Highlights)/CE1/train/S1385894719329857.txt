@@ -1,0 +1,7 @@
+ The identification of the best possible helical pipe geometry for optimal mixing is challenging since the two central objectives can not be reached simultaneously they lead to concurrent target functions . The present study identifies optimal configurations using multi objective optimization for the flow of two miscible liquids in helical pipes . A flow optimization library was used to automatically control the numerical simulations . The objective is to optimize the helical pipe dimensions maximizing mixing efficiency
+
+@highlight Optimization was done to maximize mixing and minimize pressure drop in helical pipes.
+@highlight Using a fully automatized optimization code coupled with CFD simulations.
+@highlight All geometrical parameters of helical pipes were widely varied.
+@highlight The optimal range of Reynolds number between 20 and 60 was considered.
+@highlight Optimal configurations were obtained and a single global optimum was suggested.

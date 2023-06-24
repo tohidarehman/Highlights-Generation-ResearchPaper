@@ -1,0 +1,7 @@
+ Domestic garbage classification is required in many cities however optimal transportation of classified garbage has not been widely studied . Here the optimal transportation of the classified domestic garbage from the waste transfer center to the garbage disposal station is considered . The locations of waste transfer centers map distances between these waste transfer centers different types of garbage disposal stations and the quantity of waste in different areas are used as key factors for constructing a weighted graph model . This study considers Nanshan District in Shenzhen China as a case study . Solutions were obtained by applying the proposed model to the area using data from 2011 . To achieve the decision goal of identifying feasible traveling distance and time for each trash truck the number of routes considered for recyclable waste transportation was no less than 5 for non recyclable waste transportation was no less than 2 and for harmful waste transportation was 4 . The study provides an auxiliary management tool for optimal municipal solid waste disposal that improves the sustainability of the system .
+
+@highlight An optimal transportation model for the classified domestic garbage is established.
+@highlight The transportation problem is converted to a modified TSP with flexible visits.
+@highlight A weighted graphical model with map distance is constructed.
+@highlight The workload of each route has been evaluated.
+@highlight A method of clustering waste transfer centers is adopted.

@@ -1,0 +1,7 @@
+ High capacity silicon anode materials have attracted significant attention for application in lithium ion batteries even though the drastic volumetric changes of the silicon materials result in rapid capacity degradation . Here an Si embedded silicon oxycarbide was synthesized using a selective assembly based method . We utilized cetrimonium bromide a cationic surfactant to facilitate interfacial interactions between Si nanoparticles and silicone oil using the hydrophobic property of the CTAB tail groups . The synthesis method includes a simple pyrolysis process at 900C followed by the surface modification of Si nanoparticles with the CTAB surfactant to obtain a SiOC matrix with homogeneously embedded Si particles . The final composite exhibits improved electrochemical properties as a LIB anode material and displays a stable cycle life 1312 mAhg
+
+@highlight The CTAB Si SiOC composite is achieved by simple heat treatment and a surface modification with surfactant.
+@highlight The well dispersed Si nanoparticles in SiOC matrix was obtained.
+@highlight The SiOC matrix suppresses volume change of Si nanoparticles during cycling.
+@highlight The free carbon in the SiOC materials provides enhanced electrical conductivity.
+@highlight The CTAB Si SiOC composite exhibits excellent cycling stability and rate capability.

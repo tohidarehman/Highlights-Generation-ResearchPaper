@@ -1,0 +1,5 @@
+ Scattering of a corrugated plane wave by a sphere is formulated by a pair of waves approach whereby the incident wavefront is considered as a continuum of sinusoidal wavefronts and any such constituent is considered as a pair of equal amplitude plane electromagnetic waves which may be in or out of phase and may assume either of two orthogonal polarisations . All sinusoidal constituents are propagated in the direction of the normal to the incident wavefront . We determine the constituent spectra of a cpw by use of the Fourier transform and ultimately the Lorenz Mie coefficients that apply to cpw scattering by a sphere . We apply our approach to pow scattering by a sphere and Gaussian beam scattering by an off axis sphere . We present numerical results for a
+
+@highlight A pair of waves pow approach to scattering of a corrugated plane wave cpw by a sphere is formulated.
+@highlight The pow theory and code are applied to a sinusoidal wave front incident on a sphere and to Gaussian beam scattering by an off axis sphere.
+@highlight A numerical example demonstrates that particle sizing is possible by adapting a sinusoidal wave front to the scattering sphere.

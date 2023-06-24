@@ -1,0 +1,7 @@
+ This article develops a deep reinforcement learning framework for dynamic pricing on managed lanes with multiple access locations and heterogeneity in travelers value of time origin and destination . This framework relaxes assumptions in the literature by considering multiple origins and destinations multiple access locations to the managed lane
+
+@highlight Dynamic pricing formulated as a partially observable Markov decision process.
+@highlight Deep reinforcement learning Deep RL algorithms used as solution methods.
+@highlight Deep RL algorithms outperform feedback control heuristic on different objectives.
+@highlight Policies trained using Deep RL algorithms transfer well to new input distributions.
+@highlight Deep RL algorithms suitable for multi objective optimization using reward shaping.

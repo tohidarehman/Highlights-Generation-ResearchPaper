@@ -1,0 +1,7 @@
+ It is not feasible to use the Geiger mode avalanche photodiode detection model to guide detection quantitatively during daytime because of the incompletely built echo intensity model . In this study because the background noise and the signal light are both modulated by the target s optical scattering characteristics a hybrid light scattering model model is substituted in the laser detection and ranging ranging equation . In such a BRDF model the Li Liang BRDF model is taken as the kernel and the background noise equivalent intensity coefficient is employed to link the background noise part to the laser echo part . According to the results of a Gm APD outdoor experiment the proposed LADAR ranging equation is applicable to detection during daytime and the noise scaling factor
+
+@highlight A modified kernel based BRDF model is introduced in the LADAR ranging equation.
+@highlight The proposed LADAR ranging equation is completely suitable for the daytime detection.
+@highlight The signal intensity between the theory and the experiment is only a difference of 5 .
+@highlight The echo SNR and triggering probability are firstly analyzed based on the LADAR ranging equation.
+@highlight A theoretical method is proposed to calculate maximum detection range in the daytime.

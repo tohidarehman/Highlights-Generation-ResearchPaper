@@ -1,0 +1,11 @@
+ Despite the existence of significant knowedge on complex mechanisms of THM formation a simple kinetic model to predict THM species concentration is not available hindering application of knowlwdge for regulatory monitoring and operational control . The parallel second order reaction model containing fast and slow reactants has been well established to describe the chlorine decay kinetics under distribution conditions . The proposed THM species model expands the 2R model by systematically incorporating the initial unproductive chlorine consumption and assuming each THM species is formed at a fixed yield . The model concept is tested on 15 water samples that contain a wide range of dissolved organic carbon specific UV absorbence and bromide concentrations collected from Australia and US . In all samples the model describes the THM species concentrations well as long as the chlorine profile is described accurately R
+
+@highlight Model describes the kinetics of chlorine Cl
+@highlight  and trihalomethane THM species.
+@highlight Unproductive without producing THM Cl
+@highlight consumption occurs within 0.5h.
+@highlight THM species are formed at a fixed stoichiometry to productive consumed Cl
+@highlight Model can be formulated with three data points of Cl
+@highlight and THM species.
+@highlight Once formulated only Cl
+@highlight measurement is needed to predict four THM species.

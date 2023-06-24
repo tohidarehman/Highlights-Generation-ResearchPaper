@@ -1,0 +1,7 @@
+ A simple interaction by exchange with the mean mixing model is implemented to describe the glucose concentration segregations in industrial and laboratory scale bioreactors . This approach is coupled with a population balance model for the growth rate adaptation and a metabolic model dependent on the individuals state both from the literature
+
+@highlight An IEM mixing model is used to model segregation in heterogeneous bioreactors.
+@highlight The model allows to replicate numerical and experimental data from the literature.
+@highlight Maintenance rate changes due to substrate fluctuations were characterized.
+@highlight A model is formulated to relate the maintenance rate changes to glucose segregation.
+@highlight The experimentally observed loss in biomass productivity is explained by the model.

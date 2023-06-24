@@ -1,0 +1,6 @@
+ Available energy and available capacity are key factors for dimensioning batteries . Discharge duration of a battery and its dependency on discharge current amplitude are well described by Peukerts law from low to medium current ranges . Other equations describe this dependency up to very high current rates including the currents occurring during a short circuit . It is not current and capacity but energy and power which are the key parameters for dimensioning battery systems . Thus the available power of battery cells vs. the discharge duration was investigated from low to high constant power discharge loads . Based on the results of these experiments a correlation of the maximum discharge duration for low to medium discharge power pulses similar to the Peukerts equation was found . Additionally a new equation is proposed describing the power range from low to very high discharge power rates .
+
+@highlight Low constant discharge powers behave like an energy power Peukert s law.
+@highlight This observed regularity is no longer valid for high constant power discharges.
+@highlight Less discharge time is available as predicted with the linear part of the equation.
+@highlight Describing the result by adding intermediate voltage into the Peukert bend equation.

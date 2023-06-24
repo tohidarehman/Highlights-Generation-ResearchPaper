@@ -1,0 +1,7 @@
+ Li metal has been regarded as the most promising anode material for next generation high energy density batteries . However the growth of lithium dendrites caused by non uniform deposition brings many obstacles to the commercialization process of metallic Li anodes . An effectively designed 3D current collector can significantly suppress the lithium dendrites growth and related issues . Herein we develop a 3D conductive skeleton that hierarchical copper fibers grown vertically on the copper foam skeleton by a rational strategy . The Cu fiber with numerous protuberances secondary structure can provide the electrochemical active sites which sever as charge centers to induce Li uniform nucleation and deposition on HCF CF skeleton . Furthermore the abundant porous structure of HCF CF current collector can alleviate the volume change during repeated Li plating striping . Comparison with Cu foam the HCF CF skeleton reveals an observably improved Li plating striping behavior and a high Coulombic efficiency . The Li anode based on HCF CF current collector can run for 820 h at a current density of 1mAcm
+
+@highlight Numerous protuberances act as charge centers to induce Li uniform deposition.
+@highlight Increased specific surface area and porosity decrease the real current density.
+@highlight The HCF CF skeleton reveals a high Coulombic efficiency.
+@highlight Li Li symmetrical batteries show a long lifespan.
+@highlight The preparation strategy of HCF CF skeleton is feasible and facile.

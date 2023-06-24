@@ -1,0 +1,7 @@
+ CFD modelling and simulation is an effective means of optimizing the design and operation of moving grate waste incinerators . Conventional approach models the grate combustion and the furnace combustion separately by using an in bed over bed coupling procedure . In this paper a comprehensive two fluid reacting model that integrates the gas solid grate incineration and the gas turbulent combustion in one scheme is developed for industrial incinerators . Realistic grate geometry and direct simultaneous coupling of the fuel bed and the freeboard gas phase are realized . According to different treatments of the solid phase the whole incinerator is divided into three regions namely the packed bed region the fall region and the furnace region . The kinetic theory of granular flow is introduced to describe the rheological properties of waste particles and the Ergun model is used for the gas solid drag . Thermal conversion of wastes is characterized by the heterogeneous reactions of moisture evaporation devolatilization char O
+
+@highlight An integrated in bed and over bed model for the moving grate incinerator.
+@highlight Realistic grate geometry is reflected in the modelling.
+@highlight Internal coupling of the fuel bed and the freeboard gas phase is realized.
+@highlight Thermal conversion of MSW is characterized.
+@highlight Effects of waste throughput are investigated.

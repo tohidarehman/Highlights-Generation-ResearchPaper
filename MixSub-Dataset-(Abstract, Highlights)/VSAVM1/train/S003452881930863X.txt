@@ -1,0 +1,7 @@
+ Stimulation with polyclonal activators is a tool to increase antibody secretion in B cells . The aim of the present study was to select the most effective common commercially available polyclonal activators of rabbit B cells . Specifically type B oligodeoxynucleotides with unmethylated deoxycytidyl deoxyguanosine dinucleotides recombinant rabbit interleukin 2 lipopolysaccharide pokeweed mitogen and Resiquimod were tested on B cells isolated from blood and spleen by fluorescence activated cell sorting . Based on the obtained data stimulation with CpG ODN induced the highest antigen specific antibody levels detected by ELISA in supernatants when a single activator was used . In contrast LPS PWM and R848 showed a weak or no stimulatory effect . Stimulation with a mix of activators was more effective than CpG ODN alone which indicates a synergistic effect in the stimulation of antibody production .
+
+@highlight Stimulation with polyclonal activators was tested on rabbit B cells.
+@highlight Stimulation with CpG ODN induced the highest antibody level.
+@highlight Stimulation with LPS PWM and R848 showed a weak or no stimulatory effect.
+@highlight Response was detected with ELISA.
+@highlight Stimulatory effect was proved even in format of 384 well plate.

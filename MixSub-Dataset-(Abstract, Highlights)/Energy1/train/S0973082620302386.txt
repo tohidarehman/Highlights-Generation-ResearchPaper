@@ -1,0 +1,6 @@
+ Ghana is one of the few countries within the sub Saharan region which has been successful in reducing energy poverty . However ensuring energy security affordability and environmental sustainability remains a significant challenge for the future development of the sub region . Here we examine how the electricity supply can evolve into the future to meet potential emission obligations for the period of 20202040 . A generation expansion planning model which is able to incorporate the reality of fuel shortages and fuel switching typical of a developing country s power system is used . In doing so we generate a range of emission reduction costs that provide important benchmarks for the relatively under studied sub Saharan region and identify drivers of these costs specific to developing countries . Results indicate that the total discounted cost in expanding generation to meet the demand for all scenarios range from 1317 billion US while the expected emission ranges from 99189 mtCO
+
+@highlight A long term MILP generation expansion planning model was developed.
+@highlight The model handles unpredictability of energy policy using several scenarios.
+@highlight Total discounted cost in meeting demand by 2040 ranged 1317 billion US .
+@highlight The cost of meeting different emission targets is estimated and ranged 1139 US tonne.

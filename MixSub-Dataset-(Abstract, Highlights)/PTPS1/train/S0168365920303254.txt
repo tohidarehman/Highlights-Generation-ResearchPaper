@@ -1,0 +1,7 @@
+ The field of brain drug delivery faces many challenges that hinder development and testing of novel therapies for clinically important central nervous system disorders . Chief among them is how to deliver large biologics across the highly restrictive blood brain barrier . Non ionic surfactant vesicles have long been used as a drug delivery platform for cutaneous applications and have benefits over comparable liposomes in terms of greater stability lower cost and suitability for large scale production . Here we describe a glucosamine coated NISV for blood brain barrier GLUT1 targeting capable of traversing the barrier and delivering active antibody to cells within the brain .
+
+@highlight We developed a platform technology which allows us to deliver therapeutic cargo across the blood brain barrier BBB 
+@highlight Non ionic surfactant vesicles coated with glucosamine target GLUT1 on brain endothelia to facilitate passage across the BBB
+@highlight We determined the vesicle platform traverses the BBB using a clathrin independent dynamin dependent endocytic pathway
+@highlight The platform delivered Hu1A3B 7 antibody to treat VEEV encephalitis with improved surivival and reduced brain viral load
+@highlight Our platform has wider potential application for delivering new therapeutic cargos

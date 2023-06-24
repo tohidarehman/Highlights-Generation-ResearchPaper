@@ -1,0 +1,6 @@
+ Landsat imagery is an unparalleled freely available data source that allows reconstructing land cover and land use change including urban form . This paper addresses the challenge of using Landsat data particularly its 30m spatial resolution for monitoring three dimensional urban densification . Unlike conventional convolutional neural networks for scene recognition resulting in resolution loss the proposed semantic segmentation framework provides a pixel wise classification and improves the accuracy of urban form mapping . We compare temporal and spatial transferability of an adapted DeepLab model with a simple fully convolutional network and a texture based random forest model to map urban density in the two morphological dimensions horizontal
+
+@highlight A workflow capturing 30m urban dynamics based on Landsat imagery and deep learning
+@highlight CNN based semantic segmentation models outperform random forest approaches.
+@highlight Spatial and temporal transferability of 3D urban form mapping is feasible.
+@highlight Urban density growth in Denmark varies between cities and through time 19852018.

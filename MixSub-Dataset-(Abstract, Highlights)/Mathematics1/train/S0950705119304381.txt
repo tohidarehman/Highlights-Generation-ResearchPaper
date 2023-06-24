@@ -1,0 +1,7 @@
+ In recent decades various machine learning methods have been proposed to address classification problems . However most of them do not support incremental learning and therefore are neither scalable nor robust to dynamic problems that change over time . In this study a classification method was introduced based on the minimum description length principle which offered a very good trade off between model complexity and predictive power . The proposed method is lightweight multiclass and online . Moreover despite its probabilistic nature it can handle continuous features . Experiments conducted on real world datasets with different characteristics demonstrated that the proposed method outperforms established online classification methods and is robust to overfitting which is a desired characteristic for large dynamic and real world classification problems .
+
+@highlight A classification method based on minimum description length principle is proposed.
+@highlight The proposed method offered a good trade off between complexity and predictive power.
+@highlight The proposed method is lightweight multiclass and offers incremental learning.
+@highlight Experiments were performed using sixteen datasets on two online learning scenarios.
+@highlight The proposed method outperformed most of the compared online learning methods.

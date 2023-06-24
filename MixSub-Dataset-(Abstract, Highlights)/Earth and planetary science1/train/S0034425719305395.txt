@@ -1,0 +1,5 @@
+ Tree canopy density metrics derived from airborne lidar data are used in a range of crucial environmental monitoring forestry and natural resource management applications . The derivation of spatially and temporally consistent TCDM however typically requires field calibration to account for differences in instrument survey parameters . Lidar surveys with no coincident field measurements consequently will have an unknown error associated with TCDM limiting their application . In this study we analysed an extensive set of lidar captures with coincident field data to determine the lidar TCDM that best match the canopy gap probability
+
+@highlight An extensive dataset of field plots and airborne lidar data was collated.
+@highlight The effect of lidar parameters on canopy density metrics could not be modelled.
+@highlight Standard canopy density metrics matched field measurements with low RMSE 7 .

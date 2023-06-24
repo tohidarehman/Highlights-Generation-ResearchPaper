@@ -1,0 +1,6 @@
+ Digital holographic microscopy is actively investigated in the field of bio imaging as a technique for quantitative phase microscopy . During recent years the digital holographic technique for enhancing the spatial resolution using speckle patterns has been reported by several research groups . In this study we have enhanced the spatial resolution and extended the measurement range of the shape measurement by applying a two wavelength method to DHM using speckle illuminations .
+
+@highlight Two wavelength DHM using speckle patterns is proposed and demonstrated.
+@highlight The DHM realizes spatial resolution enhancement and measurement range extension.
+@highlight The effect of the averaging process in the DHM on phase unwrapping is evaluated.
+@highlight 2 D SNR map against multiple holograms and spatial frequencies is presented.

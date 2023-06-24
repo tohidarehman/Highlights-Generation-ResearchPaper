@@ -1,0 +1,6 @@
+ Rural electrification has advanced rapidly in many developing countries . Under conditions of poverty and weak infrastructure however households face a risk of backsliding . We use two rounds from the ACCESS survey of rural households in six northern Indian states to explore factors that drive losses in household electricity access . About 7 of households with electricity in 2015 lost it by 2018 . We identify household wealth and off grid access as major drivers of lost energy access . A standard deviation s increase in a household s wealth index reduces the likelihood of disconnection by 1.5 percentage points . Off grid households are 8 percentage points more likely to lose access than grid connected households . These findings underscore the importance of defending realized gains in countries where household electrification is driven by policy while rural poverty remains prevalent .
+
+@highlight This study analyzes the predictors of loss of access to electricity.
+@highlight We rely on a representative survey panel data of more than 8000 households in India.
+@highlight We find that households with lower income and formal education levels are more likely to lose access to electricity.
+@highlight Infrastructure and geographic factors do not predict loss of access.

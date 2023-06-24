@@ -1,0 +1,6 @@
+ Rail transit delays are generally discussed in terms of on time performance or problems at individual stops . Such stop scale approaches ignore the fact that delays are also caused and perpetuated by network wide factors . The objective of this paper is to develop a network model and metrics that can quantify the delay dependencies between transit network stops and identify local sources of network wide issues . For this purpose Bayesian network learning was utilized . Based on the calculated Bayesian networks network metrics
+
+@highlight Bayesian network was used to identify delay interactions of stops of complex transit system.
+@highlight Metrics proposed to provide a tangible index for quantifying the transit stops.
+@highlight Crowdsourced data gathered from a real time transit information app onTime.
+@highlight Study showed capability of proposed approaches in identifying network wide problems of transit systems.

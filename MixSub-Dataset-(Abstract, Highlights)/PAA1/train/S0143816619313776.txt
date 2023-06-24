@@ -1,0 +1,6 @@
+ A robust technique for vibration sensing using Optical Coherence Tomography is introduced which can yield nanometer and sub nanometer scale vibration measurements for multiple inner layers simultaneously even with low signal to noise ratio signals from low cost devices . Constructing a camera based parallel spectral domain optical coherence tomography device with just 40dB SNR we demonstrate as proof of principle how our technique can work with vibration amplitudes over three orders of magnitude from hundreds of picometers to hundreds of nanometers . Our technique is unrestricted by the Nyquist sampling limit . This makes it suitable for measuring amplitudes of even MHz frequency vibrations which are challenging to measure with conventional phase sensitive methods . We believe our technique will find vital applications for in vivo medical diagnostics especially of the middle ear .
+
+@highlight A new technique for OCT vibrometry is proposed based on time averaged sampling in the spectral domain.
+@highlight Can use low cost cameras for sensing few picometer inner layer vibration amplitudes unrestricted by Nyquist limit.
+@highlight Proof of principle demo with a low cost low SNR spectral domain OCT instrument built using off the shelf components.
+@highlight Inner layer vibration amplitude sensing of 270pm to 160nm over 1kHz to 20kHz is demonstrated.

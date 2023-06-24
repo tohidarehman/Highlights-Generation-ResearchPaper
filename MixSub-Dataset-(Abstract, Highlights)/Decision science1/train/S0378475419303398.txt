@@ -1,0 +1,6 @@
+ In this paper an evolution law for the modulus of the Short Time Fourier Transform referred as spectrogram of a frequency modulated multicomponent signal is proposed . Based on this result an iterative reallocating method for the enhancement of spectrogram resolution is proposed . Compared to the standard reassignment method the presented procedure allows us to obtain a timefrequency representation which better localizes the individual modes of a multicomponent signal even in the non separable case . The proposed method is computationally advantageous and robust to modes interference then it could be employed for accurate instantaneous frequency estimation which is a fundamental goal in applications dealing with non stationary signals such as radar surveillance and audio signals .
+
+@highlight A timefrequency evolution law for the spectrogram is proposed.
+@highlight An iterative spectrogram reassignment suitable for non separable modes is introduced.
+@highlight The proposed method is computationally advantageous compared to standard reassignment.
+@highlight Experimental results are provided to demonstrate the effectiveness of the method.

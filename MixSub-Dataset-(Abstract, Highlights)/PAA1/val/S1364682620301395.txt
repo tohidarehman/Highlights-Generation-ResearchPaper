@@ -1,0 +1,7 @@
+ We report on a statistical study of prominence eruptions using a catalog of these events routinely imaged by the Atmospheric Imaging Assembly on board the Solar Dynamics Observatory in the 304 pass band . Using an algorithm developed as part of an LWS project we have detected PEs in 304 synoptic images with 2 min cadence since May 2010 . A catalog of these PEs is made available online
+
+@highlight An algorithm to detect prominence eruptions PEs automatically has been developed.
+@highlight A catalog of the detected PEs is available online.
+@highlight While prominences are found in all latitudes the surges generally occur only in the active region belt.
+@highlight Shortly before the time of the polarity reversal the speed of the prominences becomes very small.
+@highlight High latitude PE speed decreased with the decreasing of the average polar magnetic field strength of the previous cycle.

@@ -1,0 +1,9 @@
+ Monte Carlo ray tracing methods are important for solving the radiative transfer equation . However the particular ray tracing procedure used has a significant impact on the calculational performance . In this paper we analyze and compare the performances of MCRT pathlength and collision based methods for different surface and medium parameters and different degrees of uniformity . The results show that in a gray medium and with a radiation heat balance system the PL method is superior when the surface emissivity is less than 0.15 for surface elements and when the mean optical thickness per element is small and the emissivity is large for space elements otherwise the CB method is superior . Also the overall performance of the PL method is better than that of the CB method . However PL method is more sensitive to non uniformity of medium parameters than the CB method and that the PL method is more sensitive to uniformity of the scattering coefficient than to the absorption coefficient . In addition for a gray body and uniform optical parameters reducing the number of grids improves the performance of the MCRT . And the performance index of the PL method is the best when the cutoff level of energy beam tracking is 10
+
+@highlight Advantage ranges of the surface and space parameters for pathlength and collision based methods are obtained respectively.
+@highlight The pathlength method is more sensitive to non uniformity of medium parameters than the collision based method.
+@highlight The pathlength method is more sensitive to uniformity of the scattering coefficient than to the absorption coefficient.
+@highlight The performance index of the pathlength method is the best when the cutoff level of energy beam tracking is 10
+@highlight and 10
+@highlight for surface and space elements respectively.
+@highlight The overall advantage of path length method is greater than that of collision method.

@@ -1,0 +1,7 @@
+ Cardiovascular diseases is the leading cause of human mortality and morbidity around the world in which myocardial infarction is a silent condition that irreversibly damages the heart muscles . Currently electrocardiogram is widely used by the clinicians to diagnose MI patients due to its inexpensiveness and non invasive nature . Pathological alterations provoked by MI cause slow conduction by increasing axial resistance on coupling between cells . This issue may cause abnormal patterns in the dynamics of the tip of the cardiac vector in the ECG signals . However manual interpretation of the pathological alternations induced by MI is a time consuming tedious and subjective task . To overcome such disadvantages computer aided diagnosis techniques including signal processing and artificial intelligence tools have been developed . In this study we propose a novel technique for automatic detection of MI based on hybrid feature extraction and artificial intelligence tools . Tunable quality factor
+
+@highlight We present a new pattern recognition based method for detection of myocardial infarction.
+@highlight Myocardial infarction can be classified based on disparity of cardiac system dynamics and neural networks.
+@highlight Discriminative features can be extracted through novel feature extraction methods based on TQWT VMD and PSR.
+@highlight Cardiac system dynamics can be modelled and identified by neural networks.
+@highlight We show good classification performance on the well known and publicly available PTB database.

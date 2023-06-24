@@ -1,0 +1,8 @@
+ We study the origin of TB epidemic and complex distributions of various populations of TB infection within the stochastic framework . The stochastic nature of this disease infection could be linked to the stochastic behaviour at genome level which is exhibited in SNP distributions of experimentally identified hotspot driver genes . Our results show the emergence of random clusters and well defined discrete domains of the respective species populations in the model driven by demographic stochasticity and intrinsic complex species interaction . The multifractal analysis of the time series of the species populations indicate that TB epidemic could be mainly caused by contact communication and is directional . We propose that any TB epidemic may have high chance of approximately periodic recurrence and can be controlled by optimizing some of the parameters involved in the system modelling .
+
+@highlight We propose that any TB epidemic may have high chance of periodic recurrence and can be controlled by optimizing parameters.
+@highlight We studied SNP distributions of experimentally identified drug resistance genes.
+@highlight We try to study sequence evolution of these genes.
+@highlight We found emergence of random clusters driven by demographic stochasticity.
+@highlight We observe development of time reversal oscillation after threshold value of stress signal.
+@highlight Multifractal analysis indicate that TB epidemic is caused by contact communication.

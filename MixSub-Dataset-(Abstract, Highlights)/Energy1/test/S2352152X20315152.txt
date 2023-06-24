@@ -1,0 +1,5 @@
+ The accuracy of the state of charge estimation is of great importance to the operational safety of a battery pack especially for secondary applications with retired batteries . Here a novel approach combining Sigma point Kalman filter and machine learning technique based on an equivalent circuit model is proposed to improve the state of charge estimation accuracy of a reused battery pack LiFePO
+
+@highlight Equivalent circuit model for describing the dynamic battery behavior.
+@highlight Machine learning technique is used to abate hysteresis effect of battery.
+@highlight Combined Sigma point Kalman filter and machine learning for SoC estimation.

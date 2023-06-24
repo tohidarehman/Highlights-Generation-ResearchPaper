@@ -1,0 +1,6 @@
+ Urban trees provide natural shade and moderate human exposure to solar ultraviolet radiation . To date most studies quantifying UV attenuation by urban tree canopies have taken place in Australia with no studies in North America . Few studies have utilized sensors sensitive to UV B radiation although the shorter wavelengths are more important in determining erythemal UV . We collected solar UV radiation exposure data beneath 64 individuals of 16 tree species commonly planted in the City of Toronto s schoolyards and public parks using UV electronic logging dosimeters that have a spectral response closely matching the erythemal action spectrum . Additional data were collected on canopy structure . UV protection factor varied 2.6 fold among species ranging from 1.33.4 . Statistical models for variation among trees indicated that crown transparency the ratio of crown breadth to height to live crown and species shade tolerance were important predictors of PF .
+
+@highlight Logging dosimeters were used to measure UV protection factor PF .
+@highlight PF varies 2.6 fold among sampled tree species.
+@highlight Crown transparency and the ratio of crown radius height to live crown predict PF.
+@highlight Shade tolerant tree species have higher PF values than shade intolerant species.

@@ -1,0 +1,8 @@
+ Osteoarthritis is one of the most common degenerative joint diseases in aging people . The activation of chondrocytes and their dysregulation are closely related to the pathogenesis of OA . GPR55 is an unique orphan G receptor which binds to cannabinoids . In this study we explored the role of GPR55 in advanced glycation end productions induced chondrocytes activation in cultured cells . We showed that AGEs dose dependently induced GPR55 expression in ATDC5 chondrocytes . The blockage of GPR55 by its newly discovered antagonist CID16020046 mitigated AGEs induced increase in cellular ROS and decrease in antioxidant NRF2 . Moreover CID16020046 showed a dose response suppressive effect on AGEs induced expression of the major inflammatory mediators including COX 2 and iNOS and the production of NO and PGE
+
+@highlight AGEs increased the expression of GPR55 in human ATDC5 chondrocytes.
+@highlight CID16020046 ameliorated AGEs induced ROS production and Nrf2 reduction.
+@highlight CID16020046 reduced AGEs induced COX 2 iNOS expression and PGE
+@highlight  and NO production.
+@highlight CID16020046 inhibited AGEs induced MMP 3 MMP 13 and degradation of type collagen.
+@highlight CID16020046 suppressed AGEs induced activation of IB NF B.

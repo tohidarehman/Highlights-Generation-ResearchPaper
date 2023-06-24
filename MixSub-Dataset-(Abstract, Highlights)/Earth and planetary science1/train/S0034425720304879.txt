@@ -1,0 +1,6 @@
+ Characterizing pre and post fire fuels remains a key challenge for estimating biomass consumption and carbon emissions from wildfires . Airborne laser scanning data have demonstrated effectiveness for estimating canopy and to a lesser degree surface fuel components at fine scale across landscapes . Using pre and post fire ALS data and corresponding field data this study estimated consumption of canopy fuel understory fuel total fuel and canopy bulk density for the 2012 Pole Creek fire in Oregon USA and portions of the 2011 Las Conchas fire in New Mexico USA . Additionally the feasibility of predicting fuel consumption was tested using separate pre and post fire models models combining all pre and post fire data and models using all data from both fires . Estimates of TF were then compared to fire radiative energy derived from Fire Radiative Power observations from the Moderate Resolution Imaging Spectroradiometer sensor onboard NASA Terra and Aqua satellites to mechanistically derive a biomass combustion coefficient BCC units kg MJ
+
+@highlight Multitemporal ALS quantifies consumption of canopy and understory fuel.
+@highlight Capturing full range of forest fuels is important for accurate modelling.
+@highlight ALS fuel models exhibit temporal and spatial transferability.
+@highlight Link between biomass consumption and FRE is consistent with prior studies.

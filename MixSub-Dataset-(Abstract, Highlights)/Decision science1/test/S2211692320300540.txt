@@ -1,0 +1,7 @@
+ This paper presents the development of the first Management Flight Simulator of an Intensive Care Unit . It allows analyzing the physician decision making related to the admission and discharge of patients and it can be used as a learningtraining tool . The discrete event simulation model developed mimics real admission and discharge processes in ICUs and it recreates the health status of the patients by using real clinical data . This flexible tool which allows recreating ICUs with different characteristics has been used and validated by ICU physicians and nurses of four hospitals . We show through preliminary results the variability among physicians in the decision making concerning the dilemma of the last bed which is dealt in a broad sense it is not only about how the last available ICU bed is assigned but also about how the physician makes decisions about the admission and discharge of patients as the ICU is getting full . The simulator is freely available on the internet to be used by any interested user
+
+@highlight The first Management Flight Simulator MFS of an ICU is presented.
+@highlight The patients health status is described by using 275 clinical variables.
+@highlight The MFS mimics the real admission and discharge processes.
+@highlight The MFS is flexible enough to recreate different ICUs size the mix of patients .
+@highlight Preliminary results show differences among the physicians decision making.

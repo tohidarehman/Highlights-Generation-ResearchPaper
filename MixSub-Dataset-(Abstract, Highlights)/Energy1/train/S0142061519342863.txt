@@ -1,0 +1,7 @@
+ This paper deals with the problem of sensorless output feedback control for wind energy conversion systems . The considered system consists of a synchronous aero generator connected to the grid through an AC DC AC converter . Maximum wind energy extraction is achieved by running the wind turbine generator in a variable speed mode without using a wind velocity sensor . This work establishes a different approach to estimate the rotor position speed and turbine torque . Furthermore the proposed technique aims to provide an on line estimation of the grid voltage and pulsation considered generally as accessible . To overcome these issues a high gain observer is designed . It provides estimates of all state variables only from the current and voltage measurements . An integral sliding mode controller is then synthesized based on the estimation provided by the observer with the view of ensuring the MPPT objective . Several simulations show that all control objectives are achieved and the output feedback performances enjoy robustness properties .
+
+@highlight The paper presents an output feedback control for variable speed WECS based PMSG.
+@highlight The MPPT is achieved although mechanical and wind speed sensors are avoided.
+@highlight A high gain observer is employed to estimate the mechanical and electrical states.
+@highlight Integral sliding mode controller is designed based on the states estimations.
+@highlight The robustness of the output feedback controller is validated by simulation.

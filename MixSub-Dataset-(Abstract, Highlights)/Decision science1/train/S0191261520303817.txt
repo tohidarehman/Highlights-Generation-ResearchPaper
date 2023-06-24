@@ -1,0 +1,7 @@
+ The paper investigates under what conditions it is optimal to exclude some motorists searching for parking from occupying a vacant parking bay . Privileged parking is found to be optimal if motorists are heterogenous and can steer their search towards or away from such parking . The socially optimal allocation of privileges and search strategies are characterized . The second best pricing policies in the presence of cruising for parking externality are described short term parkers should always be allowed to take the first vacant bay they find . A model extension studies technologically modified special needs parking . Unlike existing policies that make such parking exclusive for special needs motorists the optimal policy makes it available for an extra fee to anyone while increasing the number of special needs bays so that even the initial users are better off .
+
+@highlight I study whether it makes sense to policy discriminate otherwise homogenous parking.
+@highlight Answer is positive if motorists are heterogenous can steer search towards best option.
+@highlight Short term parkers should never be excluded from any vacant parking.
+@highlight Model extension studies optimal regulation for special needs parking.
+@highlight Best policy increases supply of such parking allows regular users to take it at extra cost.

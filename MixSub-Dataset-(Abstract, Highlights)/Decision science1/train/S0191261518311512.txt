@@ -1,0 +1,5 @@
+ Stability of equilibria in transport systems has been discussed for decades . Even in deterministic cases where stochasticity is ignored stability is not a general property a counterexample has been found in dynamic traffic assignment problems . Instability can be a source of uncertainty of travel time and although pricing may stabilise an unstable transport system pricing is not always acceptable to the public . This study aims to develop a pricing strategy that stabilises a transport system
+
+@highlight A toll scheme stabilising an unstable equilibrium solution is proposed.
+@highlight The amount of the toll is upper bounded and very small if the equilibrium solution without toll is precisely known.
+@highlight A heuristic process for finding the equilibrium solution without toll is also proposed.

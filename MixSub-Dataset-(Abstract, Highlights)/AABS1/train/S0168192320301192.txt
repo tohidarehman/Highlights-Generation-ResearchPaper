@@ -1,0 +1,8 @@
+ One of the major uncertainties in estimating global Net Primary Productivity and Gross Primary Productivity is the ability of carbon monitoring sites to represent the climate and canopy density of global vegetation . These sites are used for empirical upscaling and calibration of global land surface models . The current study determines the representativeness of two important carbon monitoring networks FLUXNET2015 and the Ecosystem Model Data Intercomparison by calculating the euclidian distance in climate canopy space between each global 0.5
+
+@highlight Global productivity dominated by tropical needleleaf forest C3 grass crops.
+@highlight Well sampled PFTs e.g.needleleaf forest sampled at wrong latitude climate
+@highlight  semi arid MAP 400mm yr
+@highlight  sparse LAI2m
+@highlight  vegetation undersampled.
+@highlight Each PFT requires 50 climate representative sites to determine its productivity.

@@ -1,0 +1,5 @@
+ Fluidized bed is an important unit operation used in many industries for different applications including drying coating and granulation . When hot inlet air is used the particles and the fluidized bed wall are heated in the same time . In order to understand the heating process of the particles it is necessary to online monitor the particle temperature .
+
+@highlight Particle size shape and temperature in thermal images were calibrated.
+@highlight Blurred particles in thermal images were filtered based on their size and shape.
+@highlight Inlet air velocity inlet temperature and loaded particle mass were studied.

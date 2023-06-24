@@ -1,0 +1,5 @@
+ The information in spectroscopic databases is routinely updated therefore it is necessary to evaluate on a regular basis how efficient the improvements in spectroscopic data are with respect to the atmospheric remote sensing problems . One of such problems is the methane total column retrieval from the ground based FTIR measurements of the direct solar radiation . The CH
+
+@highlight The estimation of impact of the differences in CH
+@highlight absorption line parameters in spectroscopic databases on accuracy of the methane atmospheric total column retrievals is made. The results of atmospheric methane total column retrievals from the solar absorption spectra measured by Fourier transform spectrometers at the Saint Petersburg and Kourovka stations in the mid and near infrared regions are presented. The variability of the methane total column values retrieved using CH
+@highlight absorption line parameters from different spectroscopic databases reaches 1.7 .

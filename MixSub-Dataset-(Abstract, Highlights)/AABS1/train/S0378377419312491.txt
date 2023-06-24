@@ -1,0 +1,8 @@
+ In the last years several satellite based models using measured or forecast meteorological data have been developed for determining spatially distributed crop evapotranspiration ET
+
+@highlight ArcDualK
+@highlight model was used for deriving spatially distributed crop evapotranspiration.
+@highlight Comparison of ArcDualK
+@highlight performance using measured and forecast weather data.
+@highlight Slight evapotranspiration overestimates due to weather forecasts inaccuracies.
+@highlight Resulting crop coefficients values reflect the irrigation strategies in the field.

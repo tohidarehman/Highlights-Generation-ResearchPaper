@@ -1,0 +1,6 @@
+ To facilitate more efficient and environmentally friendly order picking operations this study explores the optimal storage assignment policy in the Kiva mobile fulfilment system . First temporal association analysis and a clustering approach are employed to identify highly correlated items to be stored in the same rack . Next in order to avoid AGV blocking a new turnover rate based decentralized storage policy is proposed . Subsequently an order picking performance evaluation method is presented . Finally simulation studies are performed to ascertain the effectiveness of TRBDSP . The results show that the new approach can significantly improve order picking efficiency and reduce AGV energy consumption .
+
+@highlight A new turnover rate based decentralized storage policy of AGV.
+@highlight A joint position assignment policy of the racks and the items inside.
+@highlight An energy consumption aware evaluation method for the storage assignment policy.
+@highlight Significant improvements of order picking and energy usage efficiency.

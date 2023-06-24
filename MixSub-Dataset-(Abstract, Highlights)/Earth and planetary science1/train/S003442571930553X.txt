@@ -1,0 +1,7 @@
+ Retrogressive thaw slumps are among the most dynamic landforms in permafrost areas and their formation can be attributed to the thawing of ice rich permafrost . The spatial distribution and impacts of RTSs on the Tibetan Plateau are poorly understood due to their remote location and the technical challenges of automatic mapping . In this study we innovatively applied DeepLabv3 a cutting edge deep learning algorithm for semantic segmentation to Planet CubeSat images which are satellite images with high spatial and temporal resolution . Our method allows us to automatically delineate 220 RTSs within an area of 5200km
+
+@highlight The first automated mapping of retrogressive thaw slumps RTS on Tibetan Plateau.
+@highlight The method successfully delineates small and obscure RTSs from CubeSat Images.
+@highlight Robustness of the method is proved by approximately 100 independent experiments.
+@highlight Data augmentation improves delineation accuracies but introduces false positives.
+@highlight Analysis reveals that RTSs tend to initiate at locations lower than the surroundings.

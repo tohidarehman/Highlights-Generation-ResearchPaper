@@ -1,0 +1,6 @@
+ New clustering algorithms are expected to manage complex data meaning various shapes and densities while being user friendly . This work addresses this challenge . A new clustering algorithm
+
+@highlight This paper proposes a novel clustering algorithm based on mutual neighbor.
+@highlight It includes several mechanisms to address cluster cores rather than frontiers.
+@highlight It can address complex shapes while being resistant to noise and partial overlapping.
+@highlight Performance is assessed using data with known ground truth.

@@ -1,0 +1,7 @@
+ A 3D computational fluid dynamic modeling of atomization and fluidization of urea was simulated in an external mixing bottom spray fluidized bed granulator . The EulerianLagrangian approach was used to predict the mean diameter of melt urea droplets similar to the droplets produced by an industrial scale two fluid nozzle under hot atomized air . Temperature changes and evaporation of water content from droplets were determined during simulations . Furthermore three phase fluidization was simulated in the Eulerian approach whereby the bed expansion of the granulator was predicted . The mean diameter of droplets and bed height were found in good agreement with the empirical correlation and the real bed height as characterized by a level transmitter instrument in the industrial granulator respectively . The important features of this study included solving mass heat and hydraulic equations simultaneously as well as simulating a real urea fluidized bed granulation unit .
+
+@highlight Modeling of three phase dense bottom spray fluidized bed granulation of urea.
+@highlight Solving heat and mass equations in a simulated industrial scale granulator.
+@highlight Droplets diameter determination in atomization process.
+@highlight Comparing simulated bed height with measured industrial data.
+@highlight Determination of temperature changes and water content evaporation in system.

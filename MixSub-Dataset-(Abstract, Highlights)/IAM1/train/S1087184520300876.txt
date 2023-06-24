@@ -1,0 +1,9 @@
+ The ubiquitin proteasome system is critical for the regulation of protein turnover which is implicated in the modulation of a wide array of biological processes in eukaryotes ranging from cell senescence to virulence in plant and human hosts . Proteins to be marked for ubiquitination and subsequent degradation are bound by F box proteins which are interchangeable substrate recognising receptors . These F box proteins bind a wide range of substrates and associate with the adaptor protein Skp1 and the scaffold Cul1 to form Skp1 Cul1 F box complexes . SCF complex components are highly conserved in eukaryotes ranging from yeast to humans . However information regarding the composition of these complexes and the biological roles of F box proteins is limited specifically in filamentous fungal species like the genus
+
+@highlight Skp1 Cul1 F box SCF complexes regulate protein degradation in eukaryotes.
+@highlight encoding genes have been identified in
+@highlight and
+@highlight SkpA interacts with F box proteins to form SCF complexes in
+@highlight species.
+@highlight SCF complex conformations vary in response to different exogenous stresses.
+@highlight In both species Fbx45 interacts with SkpA in the presence of Amphotericin B.

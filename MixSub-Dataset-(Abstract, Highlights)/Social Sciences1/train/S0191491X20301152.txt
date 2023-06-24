@@ -1,0 +1,7 @@
+ We analyse the effect of violent crime on students results in Costa Rica . The combination of PISA data and highly disaggregated information on crime at the district level is a main contribution of this article . Our methodological approach provides also some novelties in the field the most important being the use of a simultaneous equations model solved with instrumental variables . This allows us to obtain unbiased and efficient estimators in the presence of simultaneity between education and crime . We conclude that exposure to crime measured by the homicide rate has a negative and significant impact on academic achievement . This effect is particularly important in the case of students attending schools situated in districts with a lower social development .
+
+@highlight We study the effect of crime particularly homicide on students results in Costa Rica.
+@highlight Exposure to crime has a negative and significant impact in academic achievement.
+@highlight These results are obtained when we use IV estimation that let us deal with the simultaneity between the two variables.
+@highlight This effect is particularly important for students in districts with low levels of social development.
+@highlight Our findings highlight the importance of crime prevention policies as part of a broad education policy.

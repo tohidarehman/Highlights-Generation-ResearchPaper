@@ -1,0 +1,5 @@
+ A voltage gated potassium channel encoded by the human ether go go related gene regulates cardiac action potential and it is involved in cardiotoxicity with compounds that inhibit its activity . Therefore the screening of hERG channel blockers is a mandatory step in the drug discovery process . The screening of hERG blockers by using conventional methods is inefficient in terms of cost and efforts . This has led to the development of many
+
+@highlight The first self attention based interpretable deep neural network model for predicting hERG blockers is proposed.
+@highlight The various datasets ranging from public databases to publicly available private datasets are collected to train and test the model.
+@highlight The proposed model not only shows better performance compared to other related studies but also provides potential hERG related substructures.

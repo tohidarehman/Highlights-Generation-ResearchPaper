@@ -1,0 +1,7 @@
+ In a highly irradiated reactor pressure vessel solute Mn Ni and Si atoms gather to form nanometer sized microstructures generally called MNS clusters . MNS often gather with Cu rich precipitates which can form in RPVs following lower dose irradiation . In this study surveillance specimens provided from four nuclear power plants in Japan were analyzed using three dimensional atom probe tomography and the nature of the solute enrichment was carefully compared . When analyzing the chemical composition of each cluster a clear negative correlation was found between Si and Cu in all materials but conversely Mn was likely present in clusters with a high Cu concentration . Moreover in a boiling water reactor material with high Cu the ratio of MNS was shown to be similar to that of the
+
+@highlight Chemical compositions of solute atom clusters in surveillance materials from four nuclear power plants were compared.
+@highlight The balance of Mn Ni Si in solute clusters in a BWR material is similar to that of the
+@highlight phase.
+@highlight Relative Si concentrations in solute clusters in PWR materials are higher than the Si concentration in the G phase. This suggests the contribution of radiation induced segregation of Si.
+@highlight The catalyst effect of Cu precipitates on the gathering of Mn and Ni may assist in Mn Ni Si cluster formation.

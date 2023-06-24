@@ -1,0 +1,5 @@
+ This paper proposed an IoT based intelligent logistics dispatching system which enables dynamic coordination between customers order picking robots and cloud technology . This system includes three layouts the framework structure of intelligent dispatching platform based on an IoT environment the multi objective optimization model to achieve the efficient dynamic coordination between customers order picking robots and the cloud technology the core two level algorithm which comprises of Dijkstras algorithm and ant colony algorithm that supports the intelligent dispatching operations . This research shows its ability to efficiently coordinate the dispatching operations through IoT technology to enhance customer satisfaction and outperforms the traditional dispatching methodologies .
+
+@highlight An IoT based intelligent dispatching to eliminate customers package pick up time.
+@highlight A multi objective model using MAKLINK theory Dijkstras algorithm and ant colony.
+@highlight IoT infrastructure and methodology to make enterprises logistics more intelligent.

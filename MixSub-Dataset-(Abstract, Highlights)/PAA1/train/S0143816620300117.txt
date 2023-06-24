@@ -1,0 +1,5 @@
+ For subset based digital image correlation the random error of second order shape function roughly doubles that of first order shape function termed doubled random error phenomenon . In this work we suggest that the fundamental cause of this phenomenon is the uniformity and isotropy of speckle pattern . Specially we prove that the ratio of random error of second order shape function to that of first order shape function from a view of statistic is expected to be
+
+@highlight Uniformity and isotropy of speckle pattern cause the doubled random error phenomenon in digital image correlation.
+@highlight The ratio of random error of second order shape function to that of first order shape function from a view of statistic is expected to be
+@highlight Statistical models are build for random errors of first and second order shape functions.

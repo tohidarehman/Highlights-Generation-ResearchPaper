@@ -1,0 +1,8 @@
+ Large scale energy storage systems such as underground pumped storage hydropower plants are required in the current energy transition to variable renewable energies to balance supply and demand of electricity . In this paper a novel method to determinate the round trip energy efficiency in pumped storage hydropower plants with underground lower reservoir is presented . Two Francis pump turbines with a power output of 124.9 and 214.7 MW and a power input of 114.8 and 199.7MW respectively have been selected to investigate the overall operation of UPSH plants . Analytical models and two phase 3D CFD numerical simulations have been carried out to evaluate the energy generated and consumed considering a typical water mass of 450 000 t and a maximum gross pressure of 4.41MPa . The results obtained in both analytical and numerical models show that unlike conventional pumped storage hydropower plants the round trip energy efficiency depends on the pressure inside the underground reservoir . The round trip energy efficiency could be reduced from 77.3 to 73.8 when the reservoir pressure reaches 100kPa . In terms of energy balance the energy generation decreases down to 3 639MWh
+
+@highlight The round trip efficiency is analyzed in underground pumped storage hydropower plants.
+@highlight The energy efficiency depends on the operation pressure in the underground reservoir.
+@highlight Analytical and numerical models have been developed to study the operation pressure.
+@highlight The efficiency decreases from 77.3 to 73.8 when the pressure reaches 100kPa.
+@highlight An impact on the energy balance of 8.25GWh year
+@highlight could be produced at 100kPa.

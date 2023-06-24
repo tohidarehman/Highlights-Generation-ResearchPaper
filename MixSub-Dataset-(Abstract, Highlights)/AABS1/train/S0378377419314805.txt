@@ -1,0 +1,7 @@
+ In this paper a new methodology is developed for the allocation of groundwater to agricultural lands considering the cultivated area of different crops selling price and net benefit of products and crops water requirements . The methodology includes an integrated model with daily time steps for simulating soil water balance cultivar growth and groundwater level fluctuations . The developed simulation model is linked with a particle swarm optimization model to find the optimal net benefit of beneficiaries . The non dominated sorting genetic algorithm is also implemented to evaluate the fuzzy responses of the model against the existing uncertainty in the water supply . To evaluate the applicability and efficiency of the proposed methodology it is applied to a real world common pool groundwater allocation for agricultural uses in Iran . The results show that a centralized water allocation strategy can increase water productivity under water stress conditions by more than 0.2kg m
+
+@highlight A new methodology is developed for groundwater allocation to agricultural lands.
+@highlight Daily variations of soil water cultivar growth and groundwater is simulated.
+@highlight Irrigation planning is done considering groundwater as a common pool resource.
+@highlight The methodology is applied to a real word water allocation problem in Iran.
+@highlight The results show that the proposed strategy can increase the water productivity.

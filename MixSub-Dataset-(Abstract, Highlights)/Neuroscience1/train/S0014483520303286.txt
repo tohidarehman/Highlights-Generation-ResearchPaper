@@ -1,0 +1,7 @@
+ Uveal melanoma is the most common primary intraocular malignancy in adults and has a high mortality rate . Tumor microenvironment is crucial in controlling and influencing the behavior of malignant tumors . Thus illustrating the prognostic values of adaptive immune resistance signatures and infiltrating immune cells in the TME of UM may provide scientific rationales for immunotherapy . In this study the gene expression data of 80 primary UM and 103 primary skin cutaneous melanoma samples with relevant clinical information were obtained from The Cancer Genome Atlas database . The TME was analyzed by the xCell EPIC ESTIMATE and TIMER algorithms . The relationships and prognostic values of immune infiltrates and mutated genes were further investigated . We found that primary UM and primary SKCM exhibited distinct TMEs . Higher levels of infiltrating stromal and immune cells in UM were related to more aggressive biology and poor prognosis . Increased CD8
+
+@highlight Primary UM and primary SKCM exhibit distinct TMEs.
+@highlight Higher levels of infiltrating stromal and immune cells in UM are related to more aggressive biology and poor prognosis.
+@highlight Increased levels of CD8
+@highlight T cells and adaptive immune resistance markers are predictive factors for poor prognosis in UM.
+@highlight Some common mutations in UM are associated with its TME.

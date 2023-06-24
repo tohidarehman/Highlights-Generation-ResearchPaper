@@ -1,0 +1,7 @@
+ This paper considers a last mile delivery system in which a delivery truck operates in coordination with a fleet of unmanned aerial vehicles . Deploying UAVs from the truck enables customers located further from the depot to receive drone based deliveries . The problem is first formulated as a mixed integer linear program . However owing to the computational complexity of this problem only trivially sized problems may be solved directly via the MILP . Thus a heuristic solution approach that consists of solving a sequence of three subproblems is proposed . Extensive numerical testing demonstrates that this approach effectively solves problems of practical size within reasonable runtimes . Additional analysis quantifies the potential time savings associated with employing multiple UAVs . The analysis also reveals that additional UAVs may have diminishing marginal returns . An analysis of five different endurance models demonstrates the effects of these models on UAV assignments . The model and heuristic also support anticipated future systems that feature automation for UAV launch and retrieval .
+
+@highlight A new extension to the ying sidekick TSP is presented.
+@highlight This problem assigns one truck and multiple heterogeneous drones to deliver parcels.
+@highlight Queueing of drone launch and retrieval activities is included in the formulation.
+@highlight A three phase heuristic solves problems with 100 customers and 4 drones.
+@highlight Numerical analysis provides insights into system behaviors and heuristic performance.

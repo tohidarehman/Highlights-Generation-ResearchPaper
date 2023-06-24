@@ -1,0 +1,7 @@
+ This project explored the reliability and utility of transcription in coding qualitative data across two studies in a program evaluation context . The first study tested the method of direct audio coding or coding audio files without transcripts using qualitative data software . The presence and frequency of codes applied in direct audio coding and traditional transcription coding were compared and the two methods produced similar results . Direct audio coding was then employed in an evaluation study to monitor implementation and the method was found to be reliable . Implications are discussed with considerations for both researchers and practitioners .
+
+@highlight The direct audio coding DAC method was compared to transcription coding.
+@highlight The two methods identified the presence of codes at similar rates.
+@highlight Cross method inter rater reliability measured greater than 90 agreement for codes.
+@highlight Cross method Kappa coefficients measured substantial to almost perfect agreement.
+@highlight Data assistants demonstrated reliability using DAC in a larger evaluation study.

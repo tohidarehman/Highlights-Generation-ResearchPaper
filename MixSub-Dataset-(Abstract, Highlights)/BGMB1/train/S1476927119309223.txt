@@ -1,0 +1,7 @@
+ Obstructive sleep apnoea is a prevalent form of sleep disordered breathing which results in sleep fragmentation and deprivation . Obesity and cardiovascular disorders are the major risk factors associated with OSA . Molecular analysis of the factors associated with OSA could demarcate the clinical analysis pattern in a population . This study pertains to miRDB TargetScan and miRanda databases were used to identify targets of miR 27 and let 7 that have documented role in OSA and co related obesity and cardiovascular disorders . Quantitative PCR was used to analyze expression pattern of miR 27 and let 7 in obese and non obese OSA patient cohorts with respective controls . Downregulation of miR 27 and let 7 in OSA compared to controls was observed . Our study gives insights to the expression profiling of miR 27 and let 7 and explore a set of potential target genes of these two miRNAs for a promising clinical relevance in OSA .
+
+@highlight Downregulation of miR 27 and let 7 in OSA.
+@highlight Prediction of miRNA secondary structures.
+@highlight Molecular docking of miRNA and their target genes.
+@highlight CNR1 and CRY2 are better targets for miR 27 and let 7 respectively.
+@highlight Differential expression of miRNA target genes in OSA compared to healthy.

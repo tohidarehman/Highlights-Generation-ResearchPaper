@@ -1,0 +1,6 @@
+ In this study we investigated a compact refractive index sensor containing two concentric double square resonators with plasmonic metal insulator metal structures to facilitate the sensing of human blood groups . The sensing surveys were conducted using the finite difference time domain method . Intensive coupling occurred due to momentum matching between the equivalent modes of the square resonators . The results demonstrated that the modes of resonance had high contraction ratios in this device and increasing the material RI in the resonators led to remarkable red shifts of the dip wavelengths . The sensing performance was enhanced by using two multiple concentric resonators to effectively increase the strength of the lightanalyte interaction which is useful for sensing applications . Our proposed nano sensor obtained sensitivity sensing resolution and figure of merit values of 1380 nm RIU 7.24 10
+
+@highlight Plasmonic refractive index sensor based on two double square resonators.
+@highlight Capable of simultaneously detecting two different blood groups.
+@highlight Strong coupling between modes of resonators due to angular momentum matching.
+@highlight Proposed nanosensor has high sensitivity sensing resolution and figure of merit.

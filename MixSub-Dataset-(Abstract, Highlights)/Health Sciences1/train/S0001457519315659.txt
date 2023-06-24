@@ -1,0 +1,7 @@
+ A passing maneuver allows drivers to maintain their desired speed on two lane highways . However it entails a high risk of collision with vehicles travelling in the opposite direction . Investigating drivers behavior while performing passing maneuvers could provide helpful information on the factors that influence this process . Driving simulators have become important tools for driving behavior research studies as they are safe facilitate the controlled use of experimental variables and generate detailed output data . It remains to be seen whether simulator results can be considered representative of real life driving conditions . With respect to passing maneuvers no study has made a comprehensive and direct comparison between drivers passing behavior in the field and driver behavior observed in a simulated environment .
+
+@highlight The validity of the driving simulator for studies of passing behavior was investigated.
+@highlight Significant similarities in gap acceptance and perception reaction time behavior in the simulator and in the field were found.
+@highlight Level of risk taking by drivers using he driving simulator was similar to that in the field.
+@highlight Although drivers passed at slower speeds in the simulator than in the field the distribution shapes were similar.
+@highlight Iranian and Italian drivers showed similar passing behaviors.

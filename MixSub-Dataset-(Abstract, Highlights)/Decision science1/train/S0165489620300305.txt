@@ -1,0 +1,7 @@
+ The paper contribution is twofold . It introduces heterogeneous information in a strategic delegation game of a differentiated oligopoly with price competition and it thus provides a micro founded illustration of a beauty contest in which the relative weight put on the competition motive of the payoffs is not exogenous but may be manipulated by the players . The conflict between the competition and the fundamental motives already present in an oligopolistic setting under perfect information is exacerbated when information is dispersed . A conflict arises also in this case between the competition and the coordination motives ending up in the undervalueing of public information . We show how firm owners ease these conflicts by opting for some cooperation thus moderating the competitive toughness displayed by their managers . By doing so they also enhance the managers concern for coordination and consequently heighten the weight put on public relative to private information .
+
+@highlight We use a strategic delegation game of a duopoly with heterogeneous information.
+@highlight We endogenize in a microfounded beauty contest the weight on the competition motive.
+@highlight We show how cooperation taming competition enhances the concern for coordination.
+@highlight The equilibrium degree of cooperation raises with private information precision.
+@highlight The equilibrium degree of cooperation raises with structural competitive intensity.

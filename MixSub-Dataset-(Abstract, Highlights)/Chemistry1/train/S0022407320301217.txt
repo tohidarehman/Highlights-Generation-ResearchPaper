@@ -1,0 +1,14 @@
+ Using recently developed version of the configuration interaction method for atoms with open shells we calculate the spectroscopic properties of the mendelevium atom Md
+
+@highlight Using recently developed version of the configuration interaction method for atoms with open shells we calculate electron structure and spectroscopic properties of the mendelevium atom Md 
+@highlight  .
+@highlight These include energy levels first and second ionisation potentials electron affinities hyperfine structure and electric dipole transition amplitudes between ground and low lying states of opposite parity.
+@highlight The accuracy of the calculations is controlled by performing similar calculations for lighter homolog of mendelevium the thulium atom and comparing the results with experiments and other calculations.
+@highlight The calculations for Md are to address the lack of experimental data and help in planing and interpreting the measurements.
+@highlight It is the first time to report two possible energy levels bound states 5f
+@highlight 7s
+@highlight 7p
+@highlight and 5f
+@highlight 7s
+@highlight 7p
+@highlight for the negative ion of Md and the electron affinity was predicted to be 0.169 eV.

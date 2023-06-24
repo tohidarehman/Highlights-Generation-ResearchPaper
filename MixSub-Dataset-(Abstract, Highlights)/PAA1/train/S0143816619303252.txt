@@ -1,0 +1,5 @@
+ Colour adaptation techniques are useful in extending the method of Twelve fringe photoelasticity to solve problems in industries as one can minimise the generation of specific calibration tables for each experiment . Image artefacts affect the functioning of existing colour adaptation techniques affecting the fringe order demodulation . Colour transfer is a popular technique in the field of image processing to tackle colour mismatch between images . In this paper the applicability of two colour transfer strategies in the context of TFP is explored of which one is selected for implementation . A comparative study on the performance of the novel colour transfer method with the existing colour adaptation techniques is carried out .
+
+@highlight The applicability of colour transfer techniques in white light photoelasticity is explored.
+@highlight A novel colour transfer method for Twelve fringe photoelasticity TFP is proposed.
+@highlight A comparative performance evaluation of the proposed method with the existing colour adaptation schemes is carried out.

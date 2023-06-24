@@ -1,0 +1,10 @@
+ In this paper a novel design of truncated cone nanowires solar cell with air gap is studied and analyzed . The optical and electrical characterizations are obtained using Lumerical finite difference time domain and Lumerical Device software packages . The modified truncated cone NWs have an upper air hole gap to increase the light confinement through the suggested design . In this study ultimate efficiency short circuit current density J
+
+@highlight A novel design of truncated cone nanowires NWs solar cell with air gap is studied and analyzed.
+@highlight The optical and electrical characterizations are obtained using Lumerical software packages.
+@highlight The geometrical parameters of the studied design are adjusted to maximize the absorption through the modified structure.
+@highlight The investigated NWs have an ultimate efficiency of 42.74 with an enhancement of 18.15 over conventional conical NWs.
+@highlight The radial doping of shows J
+@highlight of 32.16mA cm
+@highlight  V
+@highlight of 0.66V and PCE of 15.36 .

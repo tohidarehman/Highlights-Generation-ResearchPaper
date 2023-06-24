@@ -1,0 +1,8 @@
+ We aimed to study the effect of vanadium exposure on cell viability nuclear DNA and mitochondrial DNA and to elucidate if these effects can be reverted by co exposure to V and manganese . HepG2 cells were incubated with various concentrations of bisoxovanadium or MnCl2 for 32h for viability study . The higher concentrations were used to study DNA damage and uptake of V and Mn . Comet assay was used for the study of nDNA damage mtDNA damage was studied by determining deletions and number of copies of the ND1 ND4 mtDNA region . Cellular content of V and Mn was determined using ICPMS . Cellular exposure to 59MV decreased viability and damaged nDNA and mtDNA . This effect was partially prevented by the co exposure to V Mn . Exposure to V increased the cellular content of V and Mn . Exposure to Mn decreased the content of V and Mn . Exposure to V Mn increased V and decreased Mn content . The positive effects on cell viability and DNA damage when incubated with V Mn could be due to the Mn mediated inhibition of V uptake .
+
+@highlight Exposure to vanadium as BMOV of HepG2 cells increases the cellular content of V and Mn.
+@highlight Exposure to vanadium as BMOV of HepG2 cells damages nuclear and mitochondrial DNA and decreases cell viability.
+@highlight Exposure to manganese as MnCl
+@highlight  of HepG2 cells decreases the cellular content of V and Mn.
+@highlight Exposure to a combination of V and Mn of cells minimizes the deleterious action of V on DNA restoring cell viability.
+@highlight V and Mn combined therapy reduces vanadium toxicity possibly due to the inhibition of V cellular content caused by Mn.

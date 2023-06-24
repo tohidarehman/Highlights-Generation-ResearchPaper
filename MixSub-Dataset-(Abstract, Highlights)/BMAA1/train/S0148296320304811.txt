@@ -1,0 +1,7 @@
+ The Media Rating Council recommends weighting advertising exposure by viewing time . Prior research shows viewing time has diminishing returns implying that effectiveness equivalent to a 100 complete exposure could be achieved by a lower threshold . Results from four laboratory experiments extending prior banner ad research to dynamic video ads suggest 75 viewed is a potential threshold . A second contribution identifies different viewing time distributions for television and online video due to differences in ad avoidance . More television ads have viewing times exceeding the 75 threshold and so are more effective than the typical online video ad . Online networks could charge fees equivalent to television ads for video ads that exceed the 75 threshold . A third contribution is the use of interval outcome estimation which revealed asymmetric effects of viewing time and that brand familiarity rather than viewing time is the only necessary explanation of ad effectiveness measured by recall .
+
+@highlight View duration has a nonlinear effect on video advertising effectiveness.
+@highlight View duration across long and short ads can be compared using percentage viewed.
+@highlight Video ads seen for 75 of their duration are as effective as 100 complete views.
+@highlight Using a 75 threshold rather than 100 increases an ads effective reach.
+@highlight A 75 threshold equates the effectiveness and cost of video and television ad views.

@@ -1,0 +1,7 @@
+ Plant height is an important trait that influences the yield and sustainability of wheat productions . It is also an important objective for agronomic breeding and a critical indicator to represent the status of crop growth and nitrogen absorption in the vegetative stage . Wheat is the main crop in arid regions . However there is insufficient understanding of wheat plant height response to soil water stress . In this study we tried to explore a new algorithm for simulating dynamics of winter wheat height under different scenarios of soil water stress based on soil column and field experiments conducted under rainout shelters between 2012 and 2016 at Yangling Shaanxi province China . First we established a temperature response function of wheat plant height based on four cardinal temperatures . And we also constructed a water stress response function of wheat plant height using relative soil water availability
+
+@highlight Elongation rate of wheat height was quantified by the first order derivatives of six growth functions.
+@highlight Elongation rate of wheat height was modified by a piecewise response function of soil water stress.
+@highlight The elongation rate of wheat height responded linearly or non linearly to soil water stress.
+@highlight Models with flexible inflection points and symmetrical curves can better simulated wheat height.
+@highlight The modified Logistic model obtained the highest simulation accuracy.

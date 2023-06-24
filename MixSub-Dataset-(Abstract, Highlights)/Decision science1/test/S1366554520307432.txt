@@ -1,0 +1,7 @@
+ Quantity discounts are a common pricing mechanism to stimulate large orders . We explore their impact on the dynamic behaviour of production and distribution systems by studying key operational and economic metrics . In a three echelon supply chain we observe that the discount generally increases the Bullwhip Effect which especially harms the manufacturer . The discount also reduces the retailers purchase costs but increases its inventory and capacity related costs . A key trade off thus emerges which manifests itself through a U shaped relationship between the total cost and the discount acceptance parameter . In the light of this trade off we discuss how key factors should affect the retailers willingness to pursue the discount . We observe that managers that need to deal with tougher environmental conditions such as high demand uncertainty and long lead times should be less reluctant to increase orders up to the discount quantity . We also discuss in detail other valuable insights for professionals both from the perspective of sellers and buyers .
+
+@highlight We investigate the dynamics induced by quantity discounts in supply chains.
+@highlight We explore key operational and performance metrics via analytical and numerical methods.
+@highlight The discount tends to exacerbate the Bullwhip Effect and reduce inventory performance.
+@highlight Offerors of discounts need to explore the non immediate consequences of pricing decisions.
+@highlight We study how several parameters should affect the buyers willingness to pursue the discount.

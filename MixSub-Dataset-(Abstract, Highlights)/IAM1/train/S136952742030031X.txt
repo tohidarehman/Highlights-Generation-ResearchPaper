@@ -1,0 +1,5 @@
+ A primary goal of synthetic biology is to develop gene circuits that perform their intended functions despite variations in the growth conditions . However this has turned out to be more complicated than it originally seemed because there is a complex interplay between the operation of synthetic gene circuits and the global physiology of host cells . Mathematical models provide an avenue to disentangle the intricacies of this phenomenon and guide the design of synthetic circuits that robustly perform in a variety of conditions . In this work we review quantitative modeling approaches that have been used to rationalize and predict experimental observations resulting from circuit to circuit and circuithost interactions in bacteria .
+
+@highlight The lack of predictive understanding of circuit behavior limits synthetic biology.
+@highlight A major reason for this is the complex interplay between circuit and host state.
+@highlight Quantitative models promise to unravel this phenomenon and overcome this limitation.

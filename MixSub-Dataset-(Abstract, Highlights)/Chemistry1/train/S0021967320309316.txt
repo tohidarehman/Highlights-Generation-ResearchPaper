@@ -1,0 +1,7 @@
+ The 25R NBOH family is a group of thermally labile compounds that are relevant for forensic sciences and traditionally analyzed by GC MS after derivatization a step that is time consuming in a routine work . In this paper the use of short analytical columns showed to decrease compound degradation in the GC oven during chromatographic separation and to allow the analysis of non derivatized 25R NBOH compounds by GC MS. A shorter column demanded a higher gas flow rate and both factors decreased residence time of the analytes in the column and their degradation . The inlet temperature did not impact the response of 25R NBOH . A 25R NBOH fragmentation pathway by electron ionization was also presented for the first time . The GC MS method with a 4 m column was successfully applied to other compounds of forensic interest and it can be tested in the analysis of biological samples in toxicological investigations .
+
+@highlight First report of a GC MS method for non derivatized 25R NBOH in seized material.
+@highlight Short columns 4 and 10 m decreased compound degradation in the GC.
+@highlight 4 m column yield the best chromatographic performance.
+@highlight A fragmentation pathway by electron ionization was presented.
+@highlight The method can be applied to other thermally labile compounds and matrices.

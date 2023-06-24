@@ -1,0 +1,7 @@
+ Visualization has evolved into a mature scientific field and it has also become widely accepted as a standard approach in diverse fields including physics life sciences and business intelligence . However despite its successful development there are still many open research questions that require customized implementations in order to explore and establish concepts and to perform experiments and take measurements . Many methods and tools have been developed and published but most are stand alone prototypes and have not reached a mature state that can be used in a reliable manner by collaborating domain scientists or a wider audience . In this study we discuss the challenges solutions and open research questions that affect the development of sophisticated relevant and novel scientific visualization solutions with minimum overheads . We summarize and discuss the results of a recent National Institute of Informatics Shonan seminar on these topics .
+
+@highlight Visualization research relies on software development
+@highlight Reward discrepancy exists between novel research and necessary software development
+@highlight Visualization software is hard to design assess compare use and maintain
+@highlight Considerations on prototypes and extension development of frameworks
+@highlight We give advice about identify provisions for and discuss software in our community.

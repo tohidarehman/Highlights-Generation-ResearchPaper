@@ -1,0 +1,6 @@
+ The modeling of radiative properties of soot particles can be addressed by a number of methods . Among them the canonical Rayleigh Debye Gans theory and the Superposition T Matrix Method are particularly well adapted to the task . Here both RDG and STMM are used to model the radiative properties of two types of fractal aggregates indicative of soot relevant to lidar sensing . One type a canonical aggregate with a chain like morphology corresponds to low sooting flames and is well characterized by a single fractal dimension . The other type a superaggregate exhibits multiple fractal dimensions and is seen in heavily sooting flames . Radiative properties such as the differential scattering cross section total scattering cross sections backscattering cross sections and linear depolarization ratio are calculated for a range of wavelengths from
+
+@highlight The superposition T matrix method STMM is used to simulate light scattering from soot.
+@highlight The simulations cover a wide range of wavelength and several scattering observables.
+@highlight Comparisons between the STMM and Rayleigh Debye Gans approximation are made.
+@highlight The linear depolarization ratio is roughly 10 times larger for superaggregates than chain like.

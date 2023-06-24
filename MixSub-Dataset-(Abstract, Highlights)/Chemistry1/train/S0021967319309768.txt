@@ -1,0 +1,5 @@
+ Retention rules are well known in liquid chromatography . For the mobile phase composition retention decreases when adding organic solvent to water for reversed phase or increasing water proportion for hydrophilic interaction liquid chromatography and a decrease in temperature usually increases retention . For supercritical fluids the fluid density which is related to temperature and column back pressure is significant for neat CO
+
+@highlight Effects of backpressure and temperature changes in SFC with varied modifier percentages.
+@highlight Expected and surprising retention behaviors on polar nonpolar and aromatic phases in SFC.
+@highlight Subtle effects of particle modifications or isopropanol used on retention behaviors.

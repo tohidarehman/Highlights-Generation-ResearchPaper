@@ -1,0 +1,6 @@
+ Laser multi focus separation technology is an effective way to cut thick transparent and hard materials . In this paper factors affecting the quality of multi focus cutting sapphire were investigated . Optical simulations analysis was performed based on experimental results to analyze multi focal laser beam propagation from air into sapphire . The results show that the focus interval is linearly dependent on refractive index . Spherical aberration due to refractive index mismatch disperses the laser foci leading to a reduction in laser power density which has a significant influence on the cutting quality . The aberration is strongly dependent on the refractivity of the material and the effective numerical aperture . By redesigning the distribution of multiple foci to correct spherical aberration sapphire with a thickness of 2mm was cut successfully at a scanning speed of 4mm s. The roughness of the cutting section was 2.5
+
+@highlight Processing defects of multi focus cutting of transparent materials is disclosed.
+@highlight Spherical aberration is concluded the main factor limiting the cutting thickness.
+@highlight The aberration is dependent on the refractivity and the effective numerical aperture.
+@highlight The aberration is compensated by redistributing multiple foci to cut 2 mm sapphire.

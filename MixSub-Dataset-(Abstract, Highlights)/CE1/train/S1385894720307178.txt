@@ -1,0 +1,7 @@
+ Electrochemical hydrogen evolution reaction is of great importance for high efficiency low cost production of hydrogen . As the HER activity of catalysts has been significantly improved in recent years the routings from catalysts to electrodes represent a key step for practical HER applications . In an HER electrode hydrogen reduction is accomplished by electron transfer proton diffusion and bubble release . These processes should be taken into account in the design engineering and fabrication of the electrode . In this review we begin with a discussion of the correlation between these important issues and the overall electrochemical HER performance and then summarize recent progress in the design and fabrication of HER electrodes with a focus on the effects of electrode structure electrolyte penetration ion diffusion and bubble adhesion release on the HER performance . We conclude with a perspective of strategies for further enhancement and the critical challenges for HER electrode fabrication .
+
+@highlight HER performance depends on electron transfer proton diffusion and bubble release.
+@highlight A wide range of support materials.
+@highlight Critical substrate parameters include porosity electrical conductivity and chemical stability.
+@highlight Electrode fabrication by 3D printing.
+@highlight Superaerophobic surface.

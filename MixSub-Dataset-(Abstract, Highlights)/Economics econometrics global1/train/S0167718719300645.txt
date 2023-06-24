@@ -1,0 +1,5 @@
+ Horizontal shifts in bid curves observed in wholesale electricity markets are consistent with Cournot competition . Quantity competition reduces the informational requirements associated with evaluating market performance because the price cost margins of all producers then depend on the same inverse residual demand curve instead of one for each firm . We apply the model to the day ahead market of the Nordic power exchange Nord Pool for the years 2011 13 . We reject the null hypothesis of perfect competition in all specifications . Results suggest that the average price cost margin across the sample period was around four percent .
+
+@highlight Bidding in Nordic electricity day ahead market consistent with Cournot competition.
+@highlight Such quantity competition reduces problem of evaluating market performance.
+@highlight Empirical analysis suggests mark ups were 4 percent during sample period.

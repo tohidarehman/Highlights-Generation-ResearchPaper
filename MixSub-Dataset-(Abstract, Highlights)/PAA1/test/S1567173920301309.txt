@@ -1,0 +1,6 @@
+ The performance of ultra thin AuAgAu tri layer film deposited thermally over a flexible substrate is investigated using structural optical mechanical and electrical transport measurements . The optimum total thickness of the tri layer for high transparency and conductivity is determined to be around 8nm using a theoretical model . The AuAgAu tri layer shows maximum transmittance at wavelength 500nm . XRD pattern shows peak corresponding to plane of Au and or Ag . Sheet resistance measured at 300K using four probe technique is stable up to 150C . Hall effect measurements show high conductivity 1.3410
+
+@highlight Ultra thin AuAgAu tri layer of 8nm is thermally deposited on flexible substrate.
+@highlight Transmittance for the tri layer film is reasonably better compared to flexible ITO.
+@highlight Hall effect measurements show high conductivity and carrier concentration.
+@highlight Bending twisting tests indicate high stability of the film against applied stress.

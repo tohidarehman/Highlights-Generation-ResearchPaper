@@ -1,0 +1,7 @@
+ The accurate representation of spatio temporal patterns of precipitation is an essential input for numerous environmental applications . However the estimation of precipitation patterns derived solely from rain gauges is subject to large uncertainties . We present the Random Forest based MErging Procedure which combines information from ground based measurements state of the art precipitation products and topography related features to improve the representation of the spatio temporal distribution of precipitation especially in data scarce regions . RF MEP is applied over Chile for 20002016 using daily measurements from 258 rain gauges for model training and 111 stations for validation . Two merged datasets were computed RF MEP
+
+@highlight RF MEP improved P characteristics in a region with diverse topography and climate.
+@highlight RF MEP can be applied at different temporal scales.
+@highlight RF MEP works well even when few rain gauges are available for training.
+@highlight The difference in reporting times between products and stations must be considered.
+@highlight RF MEP performed better than other merging approaches.

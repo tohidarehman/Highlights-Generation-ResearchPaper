@@ -1,0 +1,5 @@
+ Low cycle fatigue behavior of 316LN stainless steel 304 SS and 308L weld metal was investigated in air and high temperature pressurized water environment . The effects of mechanical factors and environmental factors on fatigue lives were considered . The fatigue mean curve and design curve for nuclear grade austenitic SSs in air are obtained by fitting fatigue data . The corrosion fatigue model for nuclear grade austenitic SSs in high temperature pressurized water environment is proposed based on environmental fatigue correction factor method which mainly considers the effects of strain rate temperature and dissolved oxygen concentration .
+
+@highlight Fatigue mean and design curves for austenitic stainless steels in air are built.
+@highlight High temperature water decreases fatigue life of austenitic stainless steels.
+@highlight Corrosion fatigue model for austenitic stainless steels is proposed.

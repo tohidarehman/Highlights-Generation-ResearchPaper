@@ -1,0 +1,7 @@
+ During highly automated driving drivers no longer physically control the vehicle but they might need to monitor the driving scene . This is true for SAE level 2 where monitoring the external environment is required it is also true for level 3 where drivers must react quickly and safely to a take over request . Without such monitoring even if only partial drivers are considered out of the loop and safety may be compromised . The OOTL phenomenon may be particularly important for long automated driving periods during which mind wandering can occur . This study scrutinized drivers visual behaviour for 18 min of highly automated driving . Intersections between gaze and 13 areas of interest were analysed considering both static and dynamic indicators . An estimation of self reported mind wandering based on gaze behaviour was performed using partial least squares regression models . The outputs of the PLS regressions allowed defining visual strategies associated with good monitoring of the driving scene . This information may enable online estimation of the OOTL phenomenon based on a drivers spontaneous visual behaviour .
+
+@highlight In self driving cars mindwandering can make the driver out of the loop.
+@highlight The level of mindwandering was estimated by analysing gaze behavior.
+@highlight Partial least squares regression models were used to identify visual strategies.
+@highlight The best model used both static and dynamic visual indicators.
+@highlight The study may contribute to the design of driver monitoring systems.

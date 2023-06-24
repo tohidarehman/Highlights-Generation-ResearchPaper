@@ -1,0 +1,6 @@
+ Sand media filters are a key component of micro irrigation systems since they help preventing emitter clogging which greatly affects the system performance . Dissolved oxygen is an irrigation water quality parameter related to organic matter loading . Low values of dissolved oxygen can cause crop root hypoxia and therefore agronomic problems . Thus an accurate prediction of dissolved oxygen values could be of great interest especially if effluents are used in micro irrigation systems . The aim of this study was to obtain a predictive model able to forecast the dissolved oxygen values at the outlets of sand media filters . In this study a Gaussian process regression model was used for predicting the output dissolved oxygen
+
+@highlight Dissolved oxygen in sand filter outlets indicates organic matter load in irrigation.
+@highlight Predictive model using Gaussian process regression and differential evolution.
+@highlight Model predicted satisfactorily the sand filter outlet dissolved oxygen.
+@highlight Correlation coefficient from this hybrid GPRbased model was 0.95.

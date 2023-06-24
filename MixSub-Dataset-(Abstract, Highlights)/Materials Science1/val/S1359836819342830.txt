@@ -1,0 +1,6 @@
+ In this paper electro mechanical properties of particle reinforced polymer composites have been investigated based on a microstructure inspired chain model . First the chain model composed of chain assisted chain and particle has been proposed to redefine the mechanical and electrical properties of polymers . A parameter evaluating the interphase influence has been introduced to reconstruct the structures within the model . Then the electric response of the composites can be obtained by calculating the minimum distance along the direction of electrical path . Furthermore the optimized responses of polymer composites have been investigated by considering several factors interphase properties strain and particle size . From the simulation results it can be concluded that the model has advantage to capture the electro mechanical behavior of composites with complex structures .
+
+@highlight A particle chain model is developed to solve the electro mechanical coupling problem.
+@highlight Parameter evaluating the interphase influence on the chain structures is introduced.
+@highlight Electric properties is related to the minimum distance along electric path.
+@highlight Interphase properties strain and particle have effect on electro mechanical properties.

@@ -1,0 +1,6 @@
+ Janus spheres are objects of growing interest in different fields of technology . For example they can be applied in medicine for a precise drug positioning . They have moreover an enormous potential for the development of new and active materials . Some Janus spheres are already manufactured industrially . Nevertheless there is a lack of knowledge about the scattering behavior of such objects although it is important not only for diagnostic purposes but also for discovering new applications . In this paper we present the application of the well known T matrix method to solve the scattering problem of a plane electromagnetic wave on a dielectric sphere whose surface is partially covered with a perfect metal . The application of this approach to a specially oriented Janus sphere reveals an interesting effect for size parameters less than 6 .
+
+@highlight Electromagnetic scattering on Janus spheres is described.
+@highlight The corresponding T matrix is derived by using a least square scheme.
+@highlight The numerical effort to generate accurate results is much higher as for dielectric spheres.
+@highlight A halo effect leads to a sideward shift of the maximum scattered intensity from the forward direction in special orientations at size parameters less than 6.

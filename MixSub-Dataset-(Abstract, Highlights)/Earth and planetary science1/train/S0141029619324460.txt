@@ -1,0 +1,7 @@
+ Recent earthquakes exposed the poor performance of precast RC structures imposing damage on both structural and non structural elements . The concentration of damage at the beam to column connections highlights the vulnerability of these systems and the need to understand and improve its seismic performance . The numerical simulation of connection systems in efficient software packages has been addressed in the past by several authors . However these models fail in describing the different mechanisms independently and therefore are difficult to apply to generic connection solutions . Once identified the main lateral load resisting mechanisms involved a new numerical model is proposed accounting for friction dowel behaviour and the contribution of the neoprene components . The proposed model was validated against different experimental tests and a parametric study was performed to understand the contribution of the different components especially in what concerns to the maximum horizontal strength and hysteretic energy dissipation .
+
+@highlight Recent earthquakes exposed the poor performance of precast buildings.
+@highlight Beam to column connections are critical elements in precast RC structures.
+@highlight The proposed model account for the dowel friction and neoprene components.
+@highlight The accuracy of the model was validated by experimental tests.
+@highlight The model is efficient for practical and seismic risk applications.

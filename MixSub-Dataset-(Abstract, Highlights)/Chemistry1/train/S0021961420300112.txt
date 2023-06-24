@@ -1,0 +1,6 @@
+ The accuracy of experimental data on enthalpies of formation and vaporization of cyclic aliphatic amines was assessed by theoretical calculations . The gas phase enthalpies of formation were calculated using the Gaussian 4 method combined with isodesmic reactions . The enthalpies of vaporization were estimated by group additivity and molecular electrostatic potential models and then were used to calculate the enthalpies of formation in the liquid state whenever experimental results were unavailable or unreliable . Evidence of experimental errors was derived taking into account the discrepancies between calculated and experimental enthalpies of formation which were significantly larger than expected from the computational method . Special attention was made to the possible inaccuracy in the experimental data for piperazine which is the key compound in the thermochemistry of nitrogen heterocycles .
+
+@highlight Experimental data for 16 cyclic amines are recommended as a set of reliable benchmarks.
+@highlight Errors are suggested for 6 species including key compounds piperazine 
+@highlight  trimethyltriazine .
+@highlight Enthalpies of formation and vaporization are firstly estimated for 18 cyclic amines.

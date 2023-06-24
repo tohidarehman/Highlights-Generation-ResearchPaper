@@ -1,0 +1,7 @@
+ Oleanolic acid is a triterpenoid widely found in plants and possesses antitumor activity in many cancer lines . However cancer cells develop multidrug resistance hindering the effect of anticancer drugs . P glycoprotein is a major cause of mdr . Therefore the cytotoxic effect of OA was evaluated on human breast cancer MDA MB 231 and human liver cancer HepG2 with absence and presence of P gp respectively . OA reduced MDA MB 231 viability in a dose dependent manner whereas no remarkable effect was observed on HepG2 in the same range of concentrations . Moreover cytotoxicity studies were conducted in the presence of verapamil a P gp inhibitor . OA exhibited the same effect on MDA MB 231 in the absence and presence of verapamil . However the cytotoxicity was greatly enhanced for HepG2 cells in the presence of verapamil . The results were then confirmed
+
+@highlight Oleanolic acid is found in plants and has antitumor activity in many cancer lines.
+@highlight The cytotoxic effect of oleanolic acid was evaluated on MDA MB 231 and HepG2 cells.
+@highlight Inhibiting P gp by verapamil enhanced the cytotoxic effect of oleanolic acid.
+@highlight In zebrafish embryos oleanolic acid was more toxic in the presence of verapamil.
+@highlight Oleanolic acid could be eliminated from cells by the P gp.

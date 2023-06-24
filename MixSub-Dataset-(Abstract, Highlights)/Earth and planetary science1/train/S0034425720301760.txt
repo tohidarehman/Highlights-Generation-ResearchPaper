@@ -1,0 +1,5 @@
+ This paper presents a community effort to develop good practice guidelines for the validation of global coarse scale satellite soil moisture products . We provide theoretical background a review of state of the art methodologies for estimating errors in soil moisture data sets practical recommendations on data pre processing and presentation of statistical results and a recommended validation protocol that is supplemented with an example validation exercise focused on microwave based surface soil moisture products . We conclude by identifying research gaps that should be addressed in the near future .
+
+@highlight Satellite soil moisture validation methods are reviewed
+@highlight Community agreed validation good practice guidelines are presented
+@highlight A standardized satellite soil moisture validation protocol is provided

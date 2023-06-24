@@ -1,0 +1,7 @@
+ The main challenge for partial nitrification is to reach stable nitrite accumulation which strongly depends on the nitrite oxidizing bacteria growth in the reactor . The on line estimation of active biomass may enhance the decision making process to maintain a high nitrite accumulation in the reactor . In this work we propose an active biomass estimator based on ASM1 and on line oxygen uptake rate measurements in a sequencing batch reactor . In order to validate the OUR E two operating scenarios were applied during 200 days of operation unfavorable 40 d pH 7.6 dissolved oxygen 2 mg L and favorable for partial nitrification . Furthermore a second estimation method based on off line measurements of N species concentrations was implemented to evaluate the performance of the OUR E. The OUR E was able to predict a reduction in the NOB active fraction from 10.3 to 1.6 with nitrite accumulation over 80 when we shifted the operating scenario . Although both estimators predicted similar results the OUR E showed a better prediction quality than the Nsp E according to Theils coefficient of inequality .
+
+@highlight This work develops two methods for on line estimation of active bacteria.
+@highlight The methods use on line OUR and off line Nitrogen species measurements as inputs.
+@highlight The biomass estimation was validated in a SBR for long term operation.
+@highlight Different SRT and pH values were applied to enhance partial nitrification.
+@highlight Both methods estimate an important reduction in NOB biomass at a favorable scenario.

@@ -1,0 +1,6 @@
+ The mechanism of irradiation creep and its effect on the internal stresses of reactor core graphite components are not well understood . Historical studies on Materials Test Reactor creep specimens have shown that thermal annealing can lead to recovery of creep strain . By selecting appropriate sets of trepanned graphite specimens for the AGR cores the thermal annealing programme in this work uses the findings of these historical studies in order to investigate irradiation creep and importantly the stress state of AGR core bricks . Changes in dimensions Coefficient of Thermal Expansion and Youngs modulus after each annealing step are reported . Laser Raman spectroscopy is used to investigate the effect of thermal annealing on irradiated graphite . The results are combined with core inspection data and demonstrate the complexity of estimating irradiation creep in different parts of reactor graphite components .
+
+@highlight Innovative approach to assess the stress state of graphite core components.
+@highlight Comparison with core inspection data.
+@highlight Unlike Materials Test Reactor specimens reactor specimens experience a multiaxial stress state.
+@highlight First Laser Raman study into the effects of thermal annealing on irradiated graphite.

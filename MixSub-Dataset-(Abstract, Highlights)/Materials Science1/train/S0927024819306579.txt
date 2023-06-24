@@ -1,0 +1,7 @@
+ In this paper silicon rich polycrystalline silicon carbide thin films were prepared for passivating contact of silicon solar cells . The effect of different carbon doping ratios R silane flow and the annealing temperatures on the passivation quality was investigated . The lifetime test showed that given a lower annealing temperature the passivation quality of poly SiCx thin films was very poor at R over 0.2 and it can be improved by elevating the annealing temperature . The effective lifetime of over 1.8ms can be obtained with implied open circuit voltages of 715mV and saturated dark current J
+
+@highlight Poly SiCx thin films were developed as passivating contacts for silicon solar cells.
+@highlight High passivation quality of poly SiCx can be achieved with iVoc of 715mV and Joe of 18 mA cm2.
+@highlight The incorporation of carbon led to a compact structure of poly SiCx thin films.
+@highlight Spectra response at short wavelength range was improved the application of poly SiCx films.
+@highlight An efficiency of 20.17 was achieved for top rear TOPCon solar cells with poly SiCx films.

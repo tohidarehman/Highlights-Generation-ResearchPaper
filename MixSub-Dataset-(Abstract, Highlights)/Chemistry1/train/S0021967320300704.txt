@@ -1,0 +1,7 @@
+ Seven retention models have been selected to describe a dual retention behavior of ten dopamine related compounds on polymer based monolithic stationary phase with zwitterion sulfobetaine functionality . Regression quality as well as a statistical significance of individual regression parameters have been evaluated . Better regression performance showed two four parameter models when compared to three parameter models . On the other hand limited number of experimental points disqualified statistical robustness of four parameter models . Among three parameter models retention description introduced by Horvth and Liang provided comparable quality of regression at significantly improved robustness .
+
+@highlight Dual retention behavior of dopamine related compounds has been studied.
+@highlight Seven retention models were utilized to characterize retention.
+@highlight The model introduced by Horvth provided the most information.
+@highlight The polarity of the compounds has been predicted by using regression parameters.
+@highlight Regression parameters were used to characterize functional groups of tested compounds.

@@ -1,0 +1,8 @@
+ Urban land use is often characterized based on the presence of built up land while the land use intensity of different locations is ignored . This narrow focus is at least partially due to a lack of data on the vertical dimension of urban land . The potential of Earth observation data to fill this gap has already been shown but this has not yet been applied at large spatial scales . This study aims to map urban 3D building structure i.e . building footprint height and volume for Europe the US and China using random forest models . Our models perform well as indicated by R
+
+@highlight We present the first 3D building structure for Europe the US and China.
+@highlight Building footprint height and volume are mapped at a 1km
+@highlight resolution.
+@highlight Our random forest models are very robust with R
+@highlight values higher than 0.81.
+@highlight The spatial pattern of 3D building structure differs across case study regions.

@@ -1,0 +1,6 @@
+ This paper provides a thorough review of the liquidity measures that are used in the empirical literature to measure liquidity . A wide range of papers have emphasized its role and the need to manage and understand this topic which had hitherto not been deeply explored . Literature on liquidity proposes a wide set of liquidity measures and proxies intended to measure the different characteristics and dimensions that liquidity presents . Early papers analyzing the liquidity issue were based on quotation data or on end of month prices given that databases with widely complete transaction information were not available . The recent availability of high frequency databases has allowed researchers not only to develop new measures but also to adapt to other markets a comprehensive set of existing measures . In this paper we classify and describe the variety of the existing liquidity measures and proxies depending on the aspect of liquidity that one wants to address .
+
+@highlight The literature review provides an overview on the multi faceted role of liquidity.
+@highlight There are several measures and proxies that measure the liquidity dimensions.
+@highlight There is no consensus in the literature about the suitability of each measure to capture each facet.
+@highlight All facets need to be considered simultaneously to have a global view of liquidity.

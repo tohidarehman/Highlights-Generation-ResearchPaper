@@ -1,0 +1,7 @@
+ We derive a model of band broadening in multiple open tubular columns enabling transverse diffusion . In MOTTD columns the flow channels are straight parallel cylindrical tubes arranged in a hexagonal compact array . A mesoporous material or stationary phase silica support is filling the volume between the flow channels . The model is based on Giddings random walk theory of non equilibrium chromatography . It is calibrated for the unknown configuration factor
+
+@highlight Multiple open tubular columns enabling transverse diffusion MOTTD are studied.
+@highlight Model of band broadening in MOTTD is derived from a random walk approach.
+@highlight Model is calibrated and validated from random walk particle tracking simulations.
+@highlight Difference between modeled and simulated plate heights always smaller than 10 .
+@highlight MOTTD columns are intrinsically superior to current packed and monolithic columns.

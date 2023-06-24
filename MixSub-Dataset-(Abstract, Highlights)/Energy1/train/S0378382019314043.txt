@@ -1,0 +1,6 @@
+ A reliable and reproducible procedure for the determination of the heat release rate profile and for the enthalpy change of the hydrothermal carbonization process is applied using High Pressure Differential Scanning Calorimetry . Cellulose wood and digestate are used as feedstocks . The temperature program is run once to let the process complete in the first run whereas in the second the thermal effect of products is assessed . A provisional heat release profile is obtained subtracting the two curves with a very high reproducibility . To consider the heat capacity difference between reactants and products a baseline is computed and subtracted from the heat release profile . The integral of this curve gives the enthalpy change associated to HTC which was 0.88 0.64 and 0.25MJ kg for cellulose wood and digestate respectively . This methodology can be adopted for the development of accurate thermal based HTC kinetics .
+
+@highlight High pressure DSC used to assess heat release rate and enthalpy change of the HTC.
+@highlight High reproducibility is obtained standard deviation between 1.8 and 8.0 .
+@highlight Results consider the heat capacity difference of reactants and products.
+@highlight Enthalpy change of 0.88 0.64 and 0.25MJ kg for cellulose wood digestate.

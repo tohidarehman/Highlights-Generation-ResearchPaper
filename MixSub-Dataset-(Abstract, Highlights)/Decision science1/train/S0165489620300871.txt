@@ -1,0 +1,5 @@
+ Artemov Kunimoto and Serrano study a mechanism design problem where arbitrary restrictions are placed on the set of first order beliefs of agents . Calling these restrictions
+
+@highlight I re establish the result of Abreu and Matsushima 1992 .
+@highlight The result obtained previously is made robust to incomplete information.
+@highlight The topology used by Oury and Tercieux 2012 characterizes that used by this paper.

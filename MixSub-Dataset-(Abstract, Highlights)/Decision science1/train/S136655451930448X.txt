@@ -1,0 +1,7 @@
+ In this paper we consider supply chain coordination with a revenue sharing contract and a linear quantity discount contract in a fashion supply chain with demand disruptions . The situation without demand disruptions is considered as the benchmark . In the benchmark we find that the RSC fails to coordinate the supply chain while the LQDC does . We also find that demand disruptions can promote supply chain coordination . We then find that in some cases the RSC fails to coordinate the supply chain whereas the LQDC can do so .
+
+@highlight The RSC fails to coordinate the supply chain while the LQDC does under benchmark.
+@highlight The two contracts cannot fully coordinate the supply chain with demand disruptions.
+@highlight The LQDC coordinates the supply chain when demand increases or decreases greatly.
+@highlight The RSC can coordinate the supply chain when the demand increases slightly.
+@highlight The demand disruptions can promote the supply chain coordination.

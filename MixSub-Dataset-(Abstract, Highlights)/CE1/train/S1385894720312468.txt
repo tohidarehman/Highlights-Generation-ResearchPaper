@@ -1,0 +1,7 @@
+ Lithium metal anode is strongly considered as the Holy Grail anode for the next generation energy storage system . However the major obstacle towards lithium metal batteries is the unstable solid electrolyte interface because of its high reactivity which can result in dendrite growth dead lithium accumulation and even short circuit . Herein the highly ion conductive stretchable and stable artificial SEI layer derived from Polymethyl methacrylate Poly hybrid polymer is fabricated through an in situ reaction during the preparation and electrochemical process . In this way LiF and Li O bond would be generated in the interface of the PMMA PVDF layer and lithium metal which can provide fast ion transport channels during lithium stripping and plating process . Furthermore the robust and flexible polymer coating can simultaneously adapt the volume change and suppress dendrite growth . Therefore based on the synergistic effect between PMMA and PVDF the PMMA PVDF Li delivers ultrahigh cycling stability at 2mAcm
+
+@highlight The gradually generated Li
+@highlight O and Li
+@highlight F bonds greatly increase the ion conductivity.
+@highlight The robust and flexible SEI film can suppress the dendrite growth and buffer the volume change.
+@highlight The PMMA PVDF Li can achieve high stability for 2200h at a current density of 2mAcm

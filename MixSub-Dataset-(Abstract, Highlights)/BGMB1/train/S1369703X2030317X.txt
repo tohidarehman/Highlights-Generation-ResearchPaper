@@ -1,0 +1,6 @@
+ The wide application of immunochromatographic assays in modern diagnostic practice makes their theoretical description relevant which makes it possible to predict the influence of various factors on assay characteristics . We propose a new analytical model of the immunochromatographic assay in a competitive format for non equilibrium conditions a distinctive feature of which is the approximation of an irreversible reaction that allows us to obtain a symbolic solution of differential equations describing the system . We show that due to the rapid nature of the immunochromatographic assay this approximation is satisfied with a high accuracy within the actual range of kinetic dissociation constants characteristic of immune interactions . The criterion for the applicability of such a model is that the kinetic dissociation constant of the immune complex is less than 10
+
+@highlight A new analytical model of the competitive immunochromatography has been proposed.
+@highlight The model allows estimating the influence of the initial conditions on the signal.
+@highlight The requirements for immunoreagents limiting factors of the assay were established.
+@highlight Numerical simulation confirms the results of the proposed analytical model.

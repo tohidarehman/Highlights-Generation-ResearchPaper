@@ -1,0 +1,8 @@
+ Several decade long satellite retrievals of solar induced chlorophyll fluorescence have become available during the past few years but understanding the long term dynamics of SIF and elucidating its co variation with historical gross primary production remains a challenge . Part of the challenge is due to the lack of direct comparability among these SIF products as they are derived from various satellite platforms with different retrieval methods instruments characteristics overpass time and viewing illumination geometries . This study presents a framework that circumvents these discrepancies and allows the harmonization of SIF products from multiple instruments to achieve long term coverage . We demonstrate this framework by fusing SIF retrievals from SCanning Imaging Absorption spectroMeter for Atmospheric CHartographY and Global Ozone Monitoring Experiment 2 onboard MetOp A developed at German Research Center for Geosciences . We first downscale both original SIF datasets from their native resolutions to 0.05
+
+@highlight A framework for harmonizing SIF from multiple instruments was developed.
+@highlight A long record of SIF from 2002 to present at 0.05 
+@highlight  was generated.
+@highlight agrees well with original retrievals and independent airborne ground SIF.
+@highlight is proved to contain both structural and physiological variations.
+@highlight is capable of detecting large scale plant stress at fine spatial resolution.

@@ -1,0 +1,7 @@
+ This paper investigates the impact of generator dispatch and locational aspects related to renewable generation connection and consequent disconnection of synchronous generation on transient stability . As conventional synchronous generation is displaced by power electronic converter interfaced generation the transient behaviour of the power system may change significantly due both to the changed power flows resulting from the different locations of renewables compared with thermal plant and the different dynamic characteristics of PEC . This paper uses an AC Optimal Power Flow to determine credible minimum cost dispatches of generation in a test network with increasing penetration of PEC in different locations . It is found that the critical locations of the system can vary significantly with respect to economic dispatch location of disconnection of SG and location of PEC highlighting the increasing temporal and spatial change in system dynamic behavior .
+
+@highlight Renewables will have an increasing share of total generation in the future.
+@highlight Angular stability is significantly impacted by increased penetration of renewables.
+@highlight Locational aspects relating to renewables found to significantly impact stability.
+@highlight Synchronous generator cost is also found to impact angular stability boundary.
+@highlight System operators must consider operational and planning decisions carefully.

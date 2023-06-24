@@ -1,0 +1,5 @@
+ Co infections by multiple pathogens have important implications in many aspects of health epidemiology and evolution . However how to disentangle the non linear dynamics of the immune response when two infections take place at the same time is largely unexplored . Using data sets of the immune response during influenza pneumococcal co infection in mice we employ here topological data analysis to simplify and visualise high dimensional data sets .
+
+@highlight The mapper algorithm is a topological data analysis technique used for the qualitative analysis of biological data.
+@highlight Simplification and visualisation of high dimensional data sets and nonlinearities.
+@highlight We find persistent shapes of the data in the three infection scenarios.

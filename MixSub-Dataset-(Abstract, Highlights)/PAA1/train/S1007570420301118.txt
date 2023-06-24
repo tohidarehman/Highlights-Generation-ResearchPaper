@@ -1,0 +1,7 @@
+ Hysteresis is a special type of behavior found in many areas including magnetism mechanics biology economics etc . One of the characteristics of hysteresis systems is that they are approximately rate independent for slow inputs . It is possible to express this characteristic in mathematical language by decomposing hysteresis operators as the sum of a rate independent component and a nonhysteretic component which vanishes in steady state for slow inputs . This decomposition called
+
+@highlight Hysteresis systems are approximately rate independent for slow inputs.
+@highlight Hysteresis systems are causal.
+@highlight This paper presents a new decomposition of hysteresis operators into a
+@highlight rate independent component and a
+@highlight nonhysteretic component that vanishes for slow inputs.

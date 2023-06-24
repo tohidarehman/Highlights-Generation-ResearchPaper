@@ -1,0 +1,8 @@
+ Earth remote sensing using reflected GNSS signals is currently an emerging trend especially in ocean surface wind measurements . Unlike the existing scatterometer missions GNSS R uses L Band navigation signals that can penetrate through clouds and rain . Rain may have a negligible impact on the transmitted signal in terms of path attenuation at this wavelength . However there are other effects due to rain such as changes in surface roughness and rain induced local winds which can significantly alter the measurements . Currently there is no observation based characterization of all possible impacts of rain on radar forward scatter which is the nature of operation of GNSS R missions . In this study we propose a 3 fold rain model which accounts for attenuation surface effects of rain and rain induced local winds . We utilize the large dataset of measurements made by the CYGNSS mission to separate these different effects of rain . The attenuation model suggests that a total of at least 96
+
+@highlight 3 fold rain model for attenuation surface effects and downdraft winds due to rain.
+@highlight Statistical analysis of GNSS R measurements under rain using CYGNSS data.
+@highlight Rain reduces
+@highlight and impact of rain is visible in measurements only up to 15m s.
+@highlight Geometric optics limit of low pass wavenumber is invalid at very low wind speeds.
+@highlight Model suggests a maximum downdraft wind of up to 8m s for very high rain rates.

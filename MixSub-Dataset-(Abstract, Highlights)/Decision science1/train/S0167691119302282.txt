@@ -1,0 +1,6 @@
+ The aim of this work is to design an explicit finite dimensional boundary feedback controller of sampled data form for locally exponentially stabilizing the equilibrium solutions to semilinear parabolic equations . The feedback controller is expressed in terms of the eigenfunctions corresponding to unstable eigenvalues of the linearized equation . This stabilizing procedure is applicable for any sampling rate and when the sampling period tends to zero the feedback converges to certain feedback designed for stabilizing the parabolic equations with continuous time boundary feedback control .
+
+@highlight The sampled data control is explicit and finite dimensional.
+@highlight The equation is of multi dimension and with polynomial like nonlinearity.
+@highlight The feedback works for arbitrarily given sampling period.
+@highlight The behavior of the feedback when sampling period varies is analyzed.

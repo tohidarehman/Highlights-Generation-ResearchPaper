@@ -1,0 +1,8 @@
+ A 3D convection diffusion reaction model was developed to describe CO oxidation in a continuous flow catalytic reactor containing a Pd single crystal surface . The model was studied with the help of the pseudo arclength continuation algorithm which is based on a matrix free NewtonKrylov method and enables a one parameter continuation of stationary solutions of large systems . The model was used to simulate the 3D spatial distributions of CO and CO
+
+@highlight CO oxidation on Pd 100 in the mass transfer limited regime was modeled.
+@highlight PLIF experimental data were simulated with realistic values of kinetic parameters.
+@highlight Inhomogeneous spatial distributions of CO and CO
+@highlight during oscillations were calculated.
+@highlight The formation of a boundary layer near the catalyst surface was shown.
+@highlight Metallic catalytic sites represent the most active phase on a partially oxidized catalyst.

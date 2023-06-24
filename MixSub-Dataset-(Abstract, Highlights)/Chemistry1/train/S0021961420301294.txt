@@ -1,0 +1,9 @@
+ Liquid liquid equilibrium data for water furfuryl alcohol solvent ternary systems were determined at
+
+@highlight The LLE data for water TFP DIPE MTBE CH
+@highlight Cl
+@highlight  MIBC were measured.
+@highlight The distribution coefficient and selectivity were calculated.
+@highlight The reliability of LLE data were verified by the Othmer Tobias Bachman and Hand equations.
+@highlight The NRTL and UNIQUAC models were applied to correlate the experimental LLE data.
+@highlight The binary interaction parameter values were obtained from the data correlation.

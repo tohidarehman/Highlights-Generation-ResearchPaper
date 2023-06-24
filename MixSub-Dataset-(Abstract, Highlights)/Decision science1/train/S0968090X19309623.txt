@@ -1,0 +1,5 @@
+ With the development of vehicle to infrastructure and vehicle to vehicle technologies vehicles will be able to communicate with the controller at the intersection . Autonomous driving technology enables vehicles to follow the instructions sent from the controller precisely . Autonomous intersection management considers each vehicle as an agent and coordinates vehicle trajectories to resolve vehicle conflicts inside an intersection . This study proposes an autonomous intersection management algorithm called AIM
+
+@highlight Propose an autonomous intersection management algorithm with the max pressure control considering pedestrians.
+@highlight Prove the proposed algorithm can achieve the optimal throughput for the combined vehicle pedestrian flow.
+@highlight Show the efficiency of pedestrians and vehicles are negatively correlated at the intersection in simulations.

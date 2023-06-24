@@ -1,0 +1,7 @@
+ Computing the attracting cycles via iterations near bifurcation parameters for the logistic map could be misleading for the beginner . The matter is the recognition of numerical convergence when it is not ultimately monotone thereby the true length of the limiting cycle as opposed to the impression of a double length . Among the tools used are Grbner basis Mathematica calculations and symbolic dynamics . We compute all the 209 superstable points of period length 11 . We also obtain the degree of these algebraic integers . Such computer assisted proofs are of philosophical interest too . The realization of a 5 periodicity as covered in this paper may resemble the discovery of quasicrystals a topic we briefly mention . Both share the symbolic dynamics aspect of self similarity . Finally for the antisymmetric cubic map we calculate some singly and some doubly superstable parameters .
+
+@highlight Computing attracting cycles near bifurcation parameters for logistic and cubic maps.
+@highlight Realizing convergence to one limit point as opposed to numerical convergence to two.
+@highlight Computing all the 209 superstable points of period length up to 11 and their degrees.
+@highlight Calculating some singly or doubly superstable parameters for antisymmetric cubic map.
+@highlight Relations to philosophy of computer assisted mathematics and quasicrystals discovery.

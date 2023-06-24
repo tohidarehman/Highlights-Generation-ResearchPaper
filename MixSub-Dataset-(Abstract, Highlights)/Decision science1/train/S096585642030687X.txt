@@ -1,0 +1,6 @@
+ Dockless shared bicycles have become a popular mode of transportation for city dwellers in China . Despite its convenience the dockless feature also creates new challenges as users often park shared bicycles in a disorderly fashion which places a burden on both city management and business operations . In a randomized field experiment subjects receive general information via one of three interventions to improve orderly parking being informed about the social norm receiving a warning message or being offered a monetary incentive . The results suggest that the warning message and monetary incentive shift users behavior compared with the social norm intervention . Users who received warning messages were 18.0 more likely to park in an orderly fashion and users who received a monetary incentive were 25.2 more likely . This study demonstrates that behavioral incentives may be an effective tool to address a common issue with this form of transportation .
+
+@highlight Test the effectiveness of three nudges on promoting orderly parking in a field experiment.
+@highlight Disguise the experiment as a game to conceal the experimental purpose.
+@highlight Warnings and monetary incentive are both effective in the experiment.
+@highlight Results yield novel implications on how to deal with disorderly parking.

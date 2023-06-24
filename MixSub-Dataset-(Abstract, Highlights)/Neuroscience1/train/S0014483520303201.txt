@@ -1,0 +1,11 @@
+ The objective of this study is to characterize the retinal degeneration phenotype of CXCR5 NRF2 double knockout mice at the early adult age . CXCR5 KO mice and NRF2 KO mice were bred to create CXCR5 NRF2 DKO mice . The assessment of RD features included fundus and optical coherence tomography imaging periodic acid Schiff and immunofluorescence staining of retinal pigment epithelium choroid flatmounts . Stained samples were imaged with fluorescent microscopy and Western blots were used to monitor protein expression changes . The staining of cleaved caspase 3 and PNA lectin was performed to assess the presence of photoreceptor cell apoptosis . Quantification and statistical analyses were performed with Image J and Graphpad software . The young adult DKO mice exhibited increased hypopigmented spots on fundus and sub RPE abnormalities on OCT as compared to the CXCR5 KO mice and C57BL6 WT controls . PAS stained sections demonstrated aberrant RPE sub RPE depositions . The DKO mice had increased sub RPE depositions of IgG and AMD associated proteins . The protein expression of AMD associated proteins and microglia marker were upregulated at the RPE BM choroid complex of DKO mice . The adult DKO mice underwent photoreceptor cell apoptosis compared to the single CXCR5 and NRF2 KO and the WT mice at an early adult age . Mechanistically increased expression of CXCL13 and N cadherin was observed as a sign of epithelial mesenchymal transition . The data suggest that the CXCR5 NRF2 DKO mice develop RD characteristics at an early age and may serve as a valuable animal model of RD .
+
+@highlight CXCR5
+@highlight and NRF2
+@highlight mice are known to develop retinal degeneration with age.
+@highlight Both strains were cross bred to create CXCR5
+@highlight .NRF2
+@highlight double knockout DKO mice.
+@highlight DKO mice develop retinal degeneration at early adult age 46 months .
+@highlight DKO mice have increased microglia marker TMEM119 and accumulation of IgG in RPE and retina.
+@highlight DKO mice demonstrate the accumulation of AMD associated proteins amyloid Apolipoprotein E B crystallin in sub RPE.

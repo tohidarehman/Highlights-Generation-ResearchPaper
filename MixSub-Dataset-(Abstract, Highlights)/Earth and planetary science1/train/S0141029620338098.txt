@@ -1,0 +1,7 @@
+ During the last decade many vibration based structural health monitoring systems have been successfully implemented in different structures such as bridges towers stadia and wind turbines with the aim of studying the structure dynamics and its evolution over time eventually detecting the occurrence of novel structural behaviour that may indicate the presence of damage .
+
+@highlight Modal identification of a concrete arch dam with uncertainty quantification.
+@highlight Continuous dynamic monitoring of a concrete arch dam.
+@highlight Consideration of modal parameters estimates uncertainties within modal tracking processing.
+@highlight Elimination of outliers and parasite frequencies.
+@highlight Comparison between regular and weighted regression models in the minimization of external effects on modal properties.

@@ -1,0 +1,7 @@
+ We investigate the empirical relationship between liquidity costs and Post Earnings Announcement Drift using a sample of 93 zero leverage firms listed on the FTSE 350 index over the time period 20002015 . We discover that illiquidity levels are significantly enhanced around both the earnings and post announcement period in both the short and long run . Once we decompose the bid ask spread components during the earnings announcements we observe that the adverse selection costs are significantly increased whereas the inventory holding and order processing costs remain unchanged . We conclude that Post Earnings Announcement Drift is related with information asymmetry for zero leverage firms .
+
+@highlight We examine the relationship between liquidity and Post Earnings Announcement Drift.
+@highlight Using a sample of 93 zero leverage firms listed on the FTSE 350 between 2000 and 2015.
+@highlight Illiquidity levels are significantly enhanced around the post announcement period.
+@highlight Adverse selection costs are significantly increased around earnings announcements.
+@highlight Post Earnings Announcement Drift is related with information asymmetry.

@@ -1,0 +1,6 @@
+ The pre marshalling problem has been extensively studied in recent years with the aim of minimizing the number of movements needed to rearrange a bay of containers . Time is a more realistic objective for measuring process efficiency and we show that it does not correlate with the number of movements . As a result we study the problem of minimizing crane times and develop two exact approaches to solve it an integer linear model and a branch and bound algorithm with new upper and lower bounds dominance criteria and a heuristic procedure to provide optimal solutions for problems of practical size .
+
+@highlight A crane time minimization objective to solve the pre marshalling problem is proposed.
+@highlight We present novel upper and lower bounds and dominance criteria to solve the problem.
+@highlight Two exact approaches are proposed an IP model and a branch and bound algorithm.
+@highlight We conduct an extensive computational study to show the performance of our proposals.

@@ -1,0 +1,7 @@
+ This study analysed NCEP NCAR reanalysis datasets of wind speed components at multiple pressure levels from 1956 to 2015 with a view to examining seasonal variations in wind shears in relation to convective precipitation over West Africa . It also estimated the West African Monsoon wind shear index and related it to the WAM dynamics during different seasons . The computed wind shear indices were compared with those derived from higher resolution datasets of ERA5 . Results revealed very similar spatial and seasonal distributions of wind patterns and significant positive correlations 0.75 r0.99
+
+@highlight Both positive and negative insignificant annual trends in wind shears and precipitations were obtained over the study period and region.
+@highlight The West Africa Monsoon Index WAMI effectively captured the northward migration of the monsoon system over West Africa.
+@highlight We found significant and strong associations between precipitation and wind shear indices at 95 significant level.
+@highlight Fluctuation in precipitation was explained by 5075 variations in WAMI and Deep layer shear in the monsoon region of West Africa.
+@highlight Annual trends and intensity of convective precipitation are significantly influenced by variations in wind shears and WAMI over West Africa.

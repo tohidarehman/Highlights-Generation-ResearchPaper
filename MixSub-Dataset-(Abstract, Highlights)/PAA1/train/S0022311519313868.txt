@@ -1,0 +1,7 @@
+ Bridging lower length scale calculations with the engineering scale simulations of fuel performance codes requires the development of dedicated intermediate scale codes . In this work we present SCIANTIX an open source 0D stand alone computer code designed to be included coupled as a module in existing fuel performance codes . The models currently available in SCIANTIX cover intra and inter granular inert gas behaviour in UO
+
+@highlight The characteristics of the SCIANTIX computer code are described.
+@highlight The models currently available in SCIANTIX are detailed with all the parameters .
+@highlight The verification of the numerical solvers is presented.
+@highlight Showcases of validation in both constant and transient conditions are presented.
+@highlight Future short and long term development plans are outlined.

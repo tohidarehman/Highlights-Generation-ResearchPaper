@@ -1,0 +1,6 @@
+ In a recent paper devoted to the study of longitudinal optical forces exerted by off axis Bessel beams in the Rayleigh regime in generalized Lorenz Mie theory new kind of optical forces are discovered . They are different than the well established scattering and gradient forces and called axicon forces . In the present paper within the same framework we demonstrate the existence of a new kind of axicon terms associated with gradient forces which are zero both when the axicon angle is zero and when an on axis configuration is considered .
+
+@highlight Longitudinal gradient optical forces of off axis Bessel beams are investigated.
+@highlight Axicon terms associated with these forces are uncovered.
+@highlight These terms are zero when the axicon angle is zero.
+@highlight They are zero as well for on axis configurations.

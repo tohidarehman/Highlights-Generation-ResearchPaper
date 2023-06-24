@@ -1,0 +1,7 @@
+ Usually health risk related to food contaminants is assessed based on consumption data collected on a few days . Consequently this approach considers neither the evolution of exposures over time nor the potential accumulation of the substance .
+
+@highlight Three methods are proposed to assess lifetime health risk from individual behaviours.
+@highlight Simulations take into account age dietary pattern and sociodemographic parameters.
+@highlight Developed methods distinguished at risk subpopulations.
+@highlight Food contaminant kinetics must be considered in lifetime risk assessment.
+@highlight Dietary exposure to cadmium of some simulated individuals led to renal injuries.

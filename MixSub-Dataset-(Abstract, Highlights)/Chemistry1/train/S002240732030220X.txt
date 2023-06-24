@@ -1,0 +1,6 @@
+ The natural light scattering ice contains usually numerous small gas bubbles . The absorption of solar light in ice sheets is studied on the basis of the complete problem solution including modeling the optical properties of ice the spectral radiative transfer and the combined radiative conductive heat transfer in the ice sheet . The obtained analytical solutions make possible a detailed computational study of the problem . The calculated surface and volumetric absorption of solar radiation are used in numerical analysis of solar heating of ice sheets at various sizes and volume fractions of gas bubbles . The effect of the introduced scattering parameter on radiative transfer and solar heating of ice sheets is analyzed .
+
+@highlight The spectral optical properties of ice containing gas bubbles are analyzed.
+@highlight The model for radiative transfer is a scattering ice sheet is developed.
+@highlight The normal hemispherical reflectance of ice sheet with bubbles is obtained.
+@highlight The solar heating of ice sheet containing gas bubbles is calculated.

@@ -1,0 +1,5 @@
+ When a network is reconstructed from data two types of errors can occur false positive and false negative errors about the presence or absence of links . In this paper the vertex degree distribution of the true underlying network is analytically reconstructed using an iterative procedure . Such procedure is based on the inferred network and estimates for the probabilities
+
+@highlight When a network is reconstructed false positive and false negative errors can occur.
+@highlight The vertex degree distribution of the underlying network is analytically reconstructed.
+@highlight An iteration procedure converges to the correct reconstruction.

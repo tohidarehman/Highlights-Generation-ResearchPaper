@@ -1,0 +1,6 @@
+ In this paper a semi analytical investigation was performed to study the effect of the geometrical parameters of insulator based dielectrophoresis systems for cell free DNA trapping . For this purpose first electrical potential and fluid flow fields were calculated by solving the governing equations including Poisson and Navier stokes equations with appropriate boundary conditions and then a Lagrangian approach was utilized to analyze the motion of cfDNA under the most important forces affected on it including Brownian Drag electrophoresis and dielectrophoresis forces . The effect of the different parameters such as the electrical conductivity of the medium shape and geometrical parameters of the insulators on the dielectrophoretic behavior of cfDNA was studied and the optimal value of these parameters was presented . Finally in order to predict the minimum voltage required for cfDNA trapping artificial neural network was utilized and a relation between input and output parameters was introduced .
+
+@highlight DEP can be used to rapidly detect and separate cfDNA.
+@highlight Effect of the geometrical parameters of the insulators on cfDNA trapping is studied.
+@highlight High solution conductivity increases the applied voltage for cfDNA trapping.
+@highlight ANN is used for the prediction of the minimum voltage required for cfDNA trapping.

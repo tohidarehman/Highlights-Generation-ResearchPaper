@@ -1,0 +1,6 @@
+ The behavior of a novel type of SFC injector the feed injector was investigated . In SFC the sample compounds are usually diluted in a solvent which has a higher elution strength than the mobile phase which leads to solvent mismatch upon injection and evidently band broadening . The feed injector differs from standard injectors as the sample contained in the sample needle or loop is not switched in line with the mobile phase flow but directly injected added to the mobile phase flow
+
+@highlight The novel SFC feed injector that adds the sample to the mobile phase stream was investigated.
+@highlight Optimal feed speed is a trade off between injection solvent mismatch and sample dilution.
+@highlight The overfeed volumes increases band broadening and is best replaced by an apolar solvent.
+@highlight Partial sample injection can further decrease injection band broadening.

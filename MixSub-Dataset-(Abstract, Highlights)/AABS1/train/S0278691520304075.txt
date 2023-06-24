@@ -1,0 +1,8 @@
+ Prostate cancer depends on androgen receptor signaling to regulate cell metabolism including glycolysis and thereby promotes tumor growth . Glycolysis is overactive in PCa and associated with poor prognosis but the therapeutic efficacy of glycolysis inhibitors has thus far been limited by their inability to induce cell death . FV 429 a flavonoid derivative of Wogonin is a glycolysis inhibitor that has shown anti cancer promise . In this study we used FV 429 as an anti PCa agent and investigated its mechanisms of action .
+
+@highlight FV 429 inhibited glycolysis and viability and induced apoptosis in prostate cancer PCa cells.
+@highlight FV 429 induced ROS elicited the release of cytochrome
+@highlight and apoptosis inducing factor AIF from mitochondria.
+@highlight FV 429 mediated disassociation of HK2 from mitochondria accounted for glycolysis inhibition and apoptosis in LNCaP cells.
+@highlight FV 429 induced glycolysis inhibition and apoptotic effect in human prostate cancer cells by downregulation of AR AKT HK2 signaling network.
+@highlight In the PCa xenograft model FV 429 effectively inhibited tumor growth and had lower toxicity.

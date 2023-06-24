@@ -1,0 +1,5 @@
+ Municipal solid waste generation is becoming a prominent issue in the environmental arena . The aim of this paper is to investigate the relationship among municipal waste generation greenhouse gas emissions and GDP in Switzerland over the period 19902017 . We apply both time series procedures and a Machine Learning approach . Empirical findings underline a bidirectional causal relationship between municipal solid waste generation and GDP indicating that the Environmental Kuznets Curve hypothesis holds for Switzerland . Moreover we found that waste recovery is a key driver in mitigating greenhouse gas emissions . In fact in the Tree Model the probability that a change in the waste recovery variable could lead to a reduction in the greenhouse gas emissions registered a value of 87 .
+
+@highlight A bidirectional causal relationship between municipal solid waste generation and GDP emerges.
+@highlight Waste recovery recycling and composting is a key driver in mitigating greenhouse gas emissions.
+@highlight The D2C algorithm shows that more waste coincides with higher consumption and more significant economic growth.

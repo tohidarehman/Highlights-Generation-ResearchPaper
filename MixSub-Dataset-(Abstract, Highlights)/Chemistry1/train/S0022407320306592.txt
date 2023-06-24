@@ -1,0 +1,6 @@
+ We present results of measurements of the oscillator strength of intercombination lines of He like Vanadium ions in high energy density laser produced plasmas and compare them with the simulations from commonly used codes and data from the NIST database . Whilst not yet sufficiently accurate to constrain different trusted atomic physics models for the particular system studied our results are in agreement with the available data within experimental error bars yet differ from cruder approximations of the oscillator strength used in certain atomic kinetics packages suggesting that this general method could be further extended to be used as a measurement of the oscillator strength of additional atomic transitions under the extreme conditions that are achieved in HED experiments .
+
+@highlight The ratio of an optically thick to an optically thin line can be used to measure the oscillator strength of the optically thin transition in cylindrical plasmas.
+@highlight We have obtained the first experimental results of this method for the intercombination line of the He
+@highlight complex at the OMEGA 60 laser.
+@highlight The results agree with those from the NIST database showing the potential of this method to measure transition strengths.

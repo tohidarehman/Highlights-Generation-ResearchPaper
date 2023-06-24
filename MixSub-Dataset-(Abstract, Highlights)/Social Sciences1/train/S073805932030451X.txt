@@ -1,0 +1,7 @@
+ This study examines the impact of the caste class association on enrolment in elementary education in Uttar Pradesh the largest state of India . Using data from the 71st round of NSSO with the help of a probit model it is found that class has a stronger impact on the enrolment ratio than caste in UP . There is a strong and direct association between caste and class at the extremes of the caste system . The association between upper caste and upper class significantly augments the enrolment ratio while the association between lower caste and lower class adversely affects it . However the cross associations at the higher side of class i.e . lower caste with the upper class significantly augments enrolment but the association between lower class with upper caste is found to be adversely affecting the enrolment though some of the interaction terms are insignificant statistically . This also ensures the dominance of class effect . This pattern is observed in the case of both rural and urban UP across genders .
+
+@highlight The study finds class effect dominates caste effect in influencing elementary school participation.
+@highlight The caste class association is very strong at extremes of caste system.
+@highlight The direct association at the higher side augments enrolment but the same at lower side hinders enrolment.
+@highlight The cross associations have shown mixed results.
+@highlight There is a heavy gender bias against girls irrespective of the class and caste they belong to.

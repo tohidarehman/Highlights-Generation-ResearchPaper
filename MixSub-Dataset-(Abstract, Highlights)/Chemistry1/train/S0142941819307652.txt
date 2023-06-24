@@ -1,0 +1,8 @@
+ Instrumented Indentation Testing is applied on a fluoroelastomer so as to get information about the local mechanical response of such a rubbery material . Due to their viscoelasticity elastomers exhibit a time dependence responsible for a variation in their behavior as a function of the stress or strain rate . A few studies highlight modifications of the indentation hardness
+
+@highlight Instrumented indentation protocole is developed for FKM elastomers considering the time dependence also shown through tensile tests.
+@highlight Surface roughness of mold surface impede measurements a cutting procedure is developed.
+@highlight A representative volume of about 7000m
+@highlight is proposed to average the heterogeneities of the filled elastomer.
+@highlight Complex gradient is observed due to curing gradient in the core and specificity of the extreme skin.
+@highlight The developed approach opens opportunities to characterize complex elastomer based composites.

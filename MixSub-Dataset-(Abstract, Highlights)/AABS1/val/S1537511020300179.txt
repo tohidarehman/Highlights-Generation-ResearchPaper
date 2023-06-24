@@ -1,0 +1,7 @@
+ Controlling the greenhouse environment usually involves bounds on the indoor conditions . In model based control these bounds are meant to keep the plant environment away from high risk zones the effects of which are not sufficiently well described by the model . The objective is to estimate the
+
+@highlight Bounds relevant under Dutch conditions minimum temperature and maximum humidity.
+@highlight Relaxing the bounds saves energy and increases yield.
+@highlight Heat storage does not save energy but improves environmental conditions and growth.
+@highlight The gain from reducing the minimum temperature is mostly in winter.
+@highlight The gain from increasing the humidity is throughout the year.

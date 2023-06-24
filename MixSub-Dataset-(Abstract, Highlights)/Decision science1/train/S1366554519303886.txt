@@ -1,0 +1,7 @@
+ We study blood supply network optimization considering disasters where only a small number of historical observations exist . A two stage distributionally robust optimization model is proposed in which uncertain distributions of blood demand are described by a moment based ambiguous set to optimize blood inventory prepositioning and relief activities together . To solve this intractable DRO with integer recourse an approximate way is developed to transform it into a semidefinite program . A case study based on the Longmenshan Fault in China validates that our approach outperforms typical benchmarks including deterministic stochastic and robust programming . Sensitivity analysis provides helpful managerial insights .
+
+@highlight A stochastic blood supply network optimization considering disasters is studied.
+@highlight A novel distributionally robust model with integer recourse is formulated.
+@highlight A tractable approximate reformulation of min max min problems is proposed.
+@highlight A case study for the Longmenshan Fault in China is performed.
+@highlight Findings and managerial implications related to this problem are provided.

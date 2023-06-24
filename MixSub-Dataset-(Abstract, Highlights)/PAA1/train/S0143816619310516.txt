@@ -1,0 +1,5 @@
+ The concept of threshold cryptosystem is fresh and rare in the field of optical information security . Based on a phase retrieval algorithm we propose a novel threshold scheme with optical realization . In this method a secret image is encoded into three phase only masks of which any two could recover the secret image but any single one could not . Besides every POM is designed to be uniquely correlated with a pre determined authentication image which could be more easily authenticated than the POM . Numerical simulations and optical experimental results are provided to demonstrate the feasibility of the proposed method .
+
+@highlight Have presented a novel efficient optical secret sharing scheme which is free from any complicate mathematical operations. The secret can be a binary image or a grayscale one.
+@highlight Have proposed a practicable approach for shadows validation which can further improve the security level and prevent from any illegal shadows. The parameter of this approach is objectively chosen by numerical simulation.
+@highlight Optical experimental results are provided to demonstrate the feasibility and easy realization of the proposed method.

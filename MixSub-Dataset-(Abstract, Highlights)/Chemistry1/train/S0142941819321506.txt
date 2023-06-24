@@ -1,0 +1,5 @@
+ In this research the experimental tests of quasi static three point bending and three point bending fatigue were carried out for a 25 biaxial braided carbon fibre reinforced polymer manufactured using vacuum assisted resin transfer moulding . A finite element model was also set up for quasi static testing and the prediction results revealed that local fibre volume fraction is a primary source affecting the mechanical properties of braided CFRP . The fatigue of the braided CFRP was defined as three different stages according to the flexural modulus results . The damage modes of the test specimens were observed via
+
+@highlight Local fibre volume fractions and braid angles seriously affect the flexural properties of this braided CFRP.
+@highlight The major damage mode for fatigue is debonding of matrix and fibres at yarn edges in both tension and compression sides.
+@highlight The FE method combined with Tsai Wu failure criterion produces very close failure prediction at the component level.

@@ -1,0 +1,10 @@
+ A rapid thermal anneal is used to crystallize the plasma enhanced chemical vapor deposition deposited hydrogenated amorphous silicon thin film to form the phosphorus doped polysilicon passivated contact in tunnel oxide passivated contact solar cells . The effects of annealing temperature annealing time cooling time and the polysilicon thickness on the surface passivation are investigated . The primary advantage of the RTA is reducing the whole crystallization period to 15min shorter than the conventional tube furnace annealing period of 60min . We find that the RTA is a robust method to prepare high quality polysilicon passivated contact without introducing blistering when the thickness of the a Si H is less than 40nm . The optimized RTA process leads to an implied open circuit voltage i
+
+@highlight N type polysilicon passivated contact structure annealed by Rapid Thermal Anneal RTA is studied.
+@highlight The effects of the annealing temperature annealing time cooling time polysilicon thickness on surface passivation are investigated.
+@highlight The whole crystallization period of RTA is reduced to 15min with the best i
+@highlight of 727mV and
+@highlight of 4.7fA cm
+@highlight after hydrogenation.
+@highlight Limiting polysilicon thickness to less than 40nm helps to avoid blistering.
+@highlight The polysilicon passivated contact solar cell prepared using RTA shows a champion conversion efficiency of 23.04 .

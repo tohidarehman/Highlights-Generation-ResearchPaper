@@ -1,0 +1,6 @@
+ In this paper the generalized trigonometric functions are modified for solving of the ordinary differential equation describing the motion of the strong nonlinear oscillator . The generalized trigonometric functions related to the p Laplacian which is the nonlinear differential operator are modified for solving equations with nonlinearity of any rational order . Based on the modified generalized trigonometric function and the known Krilov Bogoliubov method the new so called MGTF KBM method is developed . The method is applied for solving perturbed second order equations of oscillatory motion . As an example the oscillatory tooth motion excited with initial impulse force is considered . The tooth support system is modeled as a strong nonlinear oscillator . The analytically obtained vibration properties of the tooth are compared with experimentally obtained one and show a good agreement .
+
+@highlight Modified generalized trigonometric function is solutions of nonlinear oscillators.
+@highlight New Modified Krylov Bogolubov method is developed.
+@highlight The tooth support motion is modelled as a strong nonlinear oscillator.
+@highlight Analytical and experimental results for tooth motion are in good agreement.

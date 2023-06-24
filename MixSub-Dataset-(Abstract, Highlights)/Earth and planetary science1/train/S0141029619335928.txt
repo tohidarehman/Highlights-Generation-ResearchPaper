@@ -1,0 +1,7 @@
+ Membrane structures are widely used because of their lightweight properties and expressive architectural shapes . However there does not yet exist a unified design approach for membrane structures as is available for conventional buildings . Because of their flexibility membrane structures exhibit a different structural behaviour than conventional buildings . Membrane structures are doubly curved prestressed and the prestress contributes to the stiffness . The structural response of these structures is non linear and the hanging and arching directions interact .
+
+@highlight Obtained partial factor combinations are high compared with the EC.
+@highlight Hanging direction under snow is decisive for the calibration of partial factors.
+@highlight Interaction of hanging and arching direction influences calibration of partial factors.
+@highlight More cases should be investigated to obtain more general applicable partial factors.
+@highlight The proposed method is applicable for other membrane structures.

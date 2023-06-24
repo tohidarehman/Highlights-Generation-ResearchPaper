@@ -1,0 +1,6 @@
+ ITO Au ITO multilayer thin films were deposited onto polycarbonate substrate via magnetron sputtering technique without intentional heating . The deposition times of both ITO and Au layers were studied to optimize the overall transparency and conductivity . As prepared thin films were characterized using X ray diffraction analysis secondary ion mass spectroscopy scanning and transmission electron microscopy atomic force microscopy and physical property measurement system . The optical measurement results revealed that the transmittance of the films were enhanced by increasing the gold deposition time up to 15s . Beyond this point further increasing the duration caused a decrease in optical transmittance . Upon optimization of the Au deposition time the deposition duration of ITO layers was also studied to increase electromagnetic interference shielding effectiveness . Maximum EMI SE in this work was measured as 26.8dB yielding 99.8 power attenuation which was verified by simulation results .
+
+@highlight ITO Au ITO thin films were deposited without substrate heating by magnetron sputtering.
+@highlight Transparent polycarbonate was used as substrate to converge aerospace applications.
+@highlight EMI SE of 27dB was achieved without sacrificing much of the transparency.
+@highlight Experimental results were confirmed by a simulation study.

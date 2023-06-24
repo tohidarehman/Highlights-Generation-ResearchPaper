@@ -1,0 +1,6 @@
+ The Worldwide Governance Indicators are well known proxies for institutions and are widely used in many studies across different disciplines . Each of the six WGI is constructed by aggregating several baseline indicators that reflect information about a single latent variable . The method used however assumes that the errors associated with the baseline indicators are independent . Here we extend this method by allowing cluster dependence among those errors . The differences between the original and new estimates of the WGI are statistically significant . We compare the results of two highly cited papers with the ones obtained from our method to illustrate that the new indices can alter their conclusions .
+
+@highlight We extend the Worldwide Governance Indicators WGI method by incorporating unobservable cluster effects.
+@highlight These effects are statistically significant for the six governance aspects measured by the WGI.
+@highlight We use the extended method to produce a single governance index.
+@highlight The results of two highly cited papers change when our estimates are used in place of the original WGI.

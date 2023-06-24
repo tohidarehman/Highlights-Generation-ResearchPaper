@@ -1,0 +1,7 @@
+ Brazilian livestock with a herd of more than 215 million animals is distributed over a vast area of 160 million hectares leading the country to the first position in the world beef exports and second in beef production and consumption . Animals risen in the biomes Amaznia Caatinga Cerrado Pampa and Pantanal were selected for this study . Beef samples were analyzed for their elemental content by neutron activation analysis and classified according to their origin by three machine learning algorithms . Significant differences were observed between the beef elemental content from the different biomes for all multivariate contrasts using NPMANOVA . The highest classification performance was obtained for the biomes Amaznia and Caatinga using Multilayer Perceptron . Results showed the feasibility of combining trace element content and machine learning approaches for the Brazilian beef traceability .
+
+@highlight Multi elemental composition of beef evaluated by neutron activation analysis.
+@highlight Three machine learning algorithms implemented to classify beef by biome.
+@highlight Machine learning discriminated origin of beef from Brazilian biomes.
+@highlight Highest classification performance achieved applying multilayer perceptron.
+@highlight Highest discrimination of beef from Amazon and Caatinga biomes.

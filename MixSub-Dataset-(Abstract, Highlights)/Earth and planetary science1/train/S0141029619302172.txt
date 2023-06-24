@@ -1,0 +1,5 @@
+ The results of two unique experimental campaigns carried out on composite box girder sections subjected to moment shear interaction and moment shear torsion interaction are presented . They involve the behaviour of the box sections both in positive and negative bending . The effect of the flexibility of the connection is measured and accounted for . A finite element model is implemented to account for this effect resulting in an improvement in the accuracy of the stiffness of the sectional behaviour . One of the main results is a significant over resistance in relation to the shear capacity of the sections which is very clear in the tests involving bending shear and torsion . This effect is attributed to the contribution to the shear capacity of the concrete slab .
+
+@highlight Experimental research of steel concrete composite box girders.
+@highlight Influence of the stiffness of the connectors.
+@highlight Contribution to shear resistance of the composite flange.

@@ -1,0 +1,6 @@
+ We report on a series of high accuracy computational fluid dynamics band broadening simulations in three different 2 D flow systems a 2 D pillar array and 2 D lumped packed bed geometries with different checkerboard velocity bias patterns . These media display a local maximum in the relationship between the eddy dispersion plate height and the mobile phase velocity . The occurrence of such a dispersion maximum has not been reported before but appears to be a characteristic of regular chromatographic media with alternating velocity bias at least in 2 D geometries . This newly observed behavior can be fully understood and modelled using the checkerboard model established in part I of the present study .
+
+@highlight Ordered 2 D chromatographic media also display some degree of eddy dispersion.
+@highlight This eddy dispersion runs through a maximum at an intermediate velocity.
+@highlight The occurrence of this maximum can be modeled with the checkerboard dispersion model.
+@highlight This model can represent the eddy dispersion in both ordered and disordered media.

@@ -1,0 +1,7 @@
+ Prediction of vegetation transpiration is of increasing importance in water resources management and agricultural practices in particular to facilitate precision irrigation . Traditional evapotranspiration partitioning dual source modeling requires an extensive array of ground level parameters and needs model correction and calibration to attain model certainty . In response a quick and low cost method is described to predict T using artificial intelligence modeling based on meteorological factors status of crop growth factors and soil parameters . This study compares Random Forest and Support Vector Regression in building AI models using three years of continuous high resolution monitoring data in a cabbage farmland . Input data included air temperature T
+
+@highlight A modified Shuttleworth Wallace model considering carbon dioxide concentrations and emissions is proposed.
+@highlight AMonte Carlo Iterative Method is used to Optimize Soil Surface Resistance and Reduce Model Uncertainty.
+@highlight Verification of the performance of the modified S W model in a cabbage farmland in six planting seasons is provided.
+@highlight It is the first research attempt to predict vegetation transpiration using AI models.
+@highlight The average T ET was 0.78 in six cropping seasons

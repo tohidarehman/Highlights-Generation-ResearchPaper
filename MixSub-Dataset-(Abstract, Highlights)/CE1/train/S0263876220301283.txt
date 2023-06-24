@@ -1,0 +1,18 @@
+ Liquid viscosity plays a major role in determining the mass transfer efficiency in distillation through its contribution to the liquid phase mass transfer coefficient interfacial area of mass transfer and vapor and liquid phase residence times . Most of the distillation efficiency correlations in the literature were developed or validated based on efficiency data at liquid viscosities less than 1.5
+
+@highlight New point efficiency data for four different test systems from 0.2 to 4.2
+@highlight None
+@highlight mPa
+@highlight None
+@highlight s.
+@highlight Viscosity effect on point efficiency decreases as viscosity is increased.
+@highlight Upper limit of tray efficiency database extended from 1.5
+@highlight None
+@highlight mPa
+@highlight None
+@highlight s to 4.2
+@highlight None
+@highlight mPa
+@highlight None
+@highlight s.
+@highlight New efficiency data at high liquid viscosities make correlation evaluation viable.

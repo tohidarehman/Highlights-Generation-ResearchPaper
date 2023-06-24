@@ -1,0 +1,9 @@
+ Based on the generalized LorenzMie theory and the angular spectrum decomposition method we calculate the optical radiation force exerted on a lossless dielectric sphere of arbitrary size illuminated by an Airy light sheet . The beam shape coefficients of the Airy light sheet are calculated using the vector angular spectrum decomposition and vector spherical wave functions methods . The optical radiation force acting on the spherical particle is obtained by the integral of Maxwells stress tensor . The transverse
+
+@highlight Optical force on a sphere of arbitrary size illuminated by an Airy lightsheet is investigated using GLMT.
+@highlight The BSCs of the Airy light sheet are calculated using ASDM and VSWFs.
+@highlight The negative longitudinal optical force is particularly emphasized.
+@highlight The two kinds of polarizations TE and TM of Airy light sheet are discussed.
+@highlight The influences of the transverse scale parameter
+@highlight and attenuation parameter
+@highlight of the Airy light sheet are discussed.

@@ -1,0 +1,5 @@
+ Conductive metallic Periodic Open Cellular Structures are considered a promising solution for the intensification of heat transfer limited catalytic processes thanks to their enhanced thermal conductivity . Herein the heat conduction in the solid matrix has been investigated through 3D numerical simulations . The porosity together with the intrinsic conductivity of the material have a major effect on the effective thermal conductivity while a negligible influence of the cell shape and size is found . A correlation previously derived for the description of open cell foams shows an excellent agreement with the results of POCS structures .
+
+@highlight 3D simulations enable the analysis of the effective thermal conductivity of POCS.
+@highlight Thermal properties of isotropic cells are a function of the sole void fraction.
+@highlight New anisotropic cells can intensify heat transfer in radial or in axial direction.

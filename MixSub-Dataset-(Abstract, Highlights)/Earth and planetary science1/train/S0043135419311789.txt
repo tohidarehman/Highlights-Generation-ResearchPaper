@@ -1,0 +1,7 @@
+ Electrocoagulation is a burgeoning technology now being considered for niche water treatment applications . Although much research has been conducted to determine the efficacy of electrocoagulation to remove various contaminants the more fundamental electrochemical aspects of the technology are often overlooked . This research provides insight into the fundamental relationship of water flow electrochemical metal dissolution and current density distribution through computational fluid dynamic models mathematical models and
+
+@highlight Parametric analysis of an electrocoagulation reactor for water treatment.
+@highlight technique for determining current density distribution is demonstrated.
+@highlight CFD and theoretical models support experimental water flow and current distributions.
+@highlight Localized water flow and electrode gap strongly effect metal dissolution uniformity.
+@highlight Electrocoagulation reactor design considerations discussed for contaminant removal.

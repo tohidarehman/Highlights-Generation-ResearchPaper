@@ -1,0 +1,6 @@
+ Using laccase as a case study an alternative methodology for discrimination of bisubstrate mechanism types useful for Bi Bi reactions when water is one of the products is presented . A purified enzyme from fungal cultures of
+
+@highlight AICc and Akaike weights were useful to discriminate bisubstrate models of laccase reactions.
+@highlight The more likely bisubstrate model for ABTS oxidation was ping pong.
+@highlight The more likely bisubstrate model for DMP oxidation was Theorell Chance.
+@highlight Michaelis Menten constants towards dioxygen mean that laccase is not oxygen saturated.

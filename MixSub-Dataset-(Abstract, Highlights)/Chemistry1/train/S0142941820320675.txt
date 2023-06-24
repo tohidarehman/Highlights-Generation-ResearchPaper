@@ -1,0 +1,7 @@
+ The thermomechanical coupling of Mullins damage in filled EPDM has been investigated by analysing the self heating via Infrared thermography and the voiding fraction by Digital Image Correlation . The volumetric strain measured during the rubber deformation is found to be predominantly associated with damage while thermal dilatation caused by self heating has a negligible contribution . On this basis the thermomechanical coupling of Mullins phenomena has been identified by evaluating the strain and time dependence of the following criteria the tangent modulus the voiding rate and the heat sources . The tangent modulus that reaches a maximum at the strain transition from a series of cycle to another is found to be an appropriate mechanical signature of Mullin softening . At the same strain transition both voiding rate upturn and heat source upturn are observed . These signatures suggest the Mullins damage to be mainly associated at high strain rate with the activation of dissipative cavitation mechanisms by nucleation of new cavities and or acceleration of cavities growth .
+
+@highlight Combined measures of self heating IR and voiding fraction DIC on filled EPDM.
+@highlight Mullins effect is studied by applying incremental strain cycles.
+@highlight By increasing the strain concomitant voiding rate and heat source upturns are observed.
+@highlight Mullins effect is accompanied by the activation of dissipative cavitation mechanism.
+@highlight This is due to nucleation of new cavities and or acceleration of cavities growth.

@@ -1,0 +1,8 @@
+ The state of charge monitoring method of the vanadium redox flow battery is presented by UVVis spectroscopy of the charging discharging of positive V and negative V electrolytes in operando mode . While a low concentration of the vanadium ion is required for measuring the UVVis spectroscopy the practical VRFB system has a high concentration of vanadium ions in both positive and negative electrolytes . Furthermore a reference blank solution for the UVVis spectrum can complicate the UVVis equipment connected with the VRFB system . To address this complication quartz cuvette windows with notably thin path lengths below 0.1mm and a concept of difference absorbance A
+
+@highlight The SOC monitoring method of the VRFB is presented by UVVis spectroscopy in operando mode.
+@highlight A concept of difference absorbance A
+@highlight  are introduced for the SOC monitoring system to be simplified.
+@highlight The SOC monitoring based on A
+@highlight can be easily achieved in the anolyte rather than the catholyte.
+@highlight The UVVis in operando mode has the potential ability to monitor the real time SOC in VRFB.

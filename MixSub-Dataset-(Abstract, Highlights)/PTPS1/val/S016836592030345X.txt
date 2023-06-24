@@ -1,0 +1,7 @@
+ Drug penetration into solid tumours remains a major challenge in the effective treatment of cancer . Microbubble mediated sonoporation offers a potential solution to this by enhancing the uptake of drugs into cells . Additionally in using an ultrasound trigger drug delivery can be localised to the tumour thus reducing the off site toxicity associated with systemic delivery . The majority of
+
+@highlight Microfluidic trap array designed to trap multiple tumour spheroids allowing for therapeutic exposures under physiological rates of flow.
+@highlight Reservoir integration allowed for simultaneous high throughput testing across multiple chips.
+@highlight Ultrasound successfully coupled through PDMS to allow for bursting of microbubbles on chip under flow.
+@highlight Microbubble mediated sonoporation observed to increase drug efficacy in both free and liposomal formulations.
+@highlight Delayed release mechanism of doxorubicin from liposomes delivered to spheroids observed.

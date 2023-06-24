@@ -1,0 +1,7 @@
+ The paper aims at the application of a modified version of the Adomian Decomposition Method to nonlinear bending of laminated thick plates . The Mindlin plate theory along with the equivalent single layer concept is used in this study . The nonlinearity is taken into account through the von Krmn equations . The governing equations of the problem are decomposed into linear and nonlinear terms while the solution is expanded in series as a requirement for constructing the ADM recursive system . The first approximation corresponds to the linear response of the problem . The subsequent ones are incorporations of the problems nonlinearity obtained with the aid of the Adomians polynomials generalised Taylor series around the linear solution particularly tailored for the specific nonlinearity .
+
+@highlight A new approach to solve nonlinear bending in laminate thick plates.
+@highlight Incremental approach on the Adomian decomposition method for multivariable problem.
+@highlight Linear solution enhancement to obtain nonlinear solutions.
+@highlight Nonlinear system of equations solved without perturbations or linearisation.
+@highlight Linear term updating to achieve global convergence.

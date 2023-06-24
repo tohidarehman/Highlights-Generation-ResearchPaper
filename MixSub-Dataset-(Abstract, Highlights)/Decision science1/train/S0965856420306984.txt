@@ -1,0 +1,7 @@
+ While the importance of social influence on transport related choices is commonly acknowledged within the transport and travel behaviour research community there remain several challenges in modelling influence in practice . This paper proposes a new analytical approach to measure the effects of attitudes of peers on the decision making process of the individual . Indeed while most of the previous literature focused its attention on capturing conformity to a certain real or hypothetical choice we investigate the subtle effect of attitudes that underlies this choice . Specifically the suggested measure enables us to model the correlated effect that might indirectly affect the individuals choice within a social group . It combines detailed information on the attitudes in the individuals social network and the social proximity of the individuals in the social network . To understand its behavioural implications on the individuals choice the
+
+@highlight We propose an analytical framework to account for correlated effects within a social network.
+@highlight We quantify the correlated effects by combining individuals peer attitudes and social proximity.
+@highlight The social influence variable has been systematically tested in different hybrid choice model specifications in the context of EV purchase preferences.
+@highlight An open to innovation person is likely to be part of a social network in which peers are also open to innovation.
+@highlight Social proximity and a larger number of open to innovation peers can positively affect the preference for EVs.

@@ -1,0 +1,7 @@
+ The assessment of the impact of climate change on Mediterranean crop systems is affected by a large number of uncertainties . To overcome this issue in an impact and adaptation assessment for tree crops an experimental dataset containing 556 phenological observations was used to calibrate and validate a modelling framework based on the Dynamic Model and ASYMCUR approach for assessing the flowering date of common Mediterranean almond cultivars . Data were collected over 12 years for 15 almond cultivars in 5 locations in Andalusia covering a wide range of weather conditions . The model performance was good for late flowering cultivars Root Mean Square Error was 3.6 days and Nash Sutcliffe model efficiency was 0.89 while for early flowering cultivars RMSE was 3.4 days and NSE was 0.83 .
+
+@highlight The assessment of climate change impact on almond revealed major uncertainties
+@highlight Dynamic Model ASYMCUR approach used to estimate bloom dates of 15 almond cultivars
+@highlight High spatial and temporal variability in bloom is expected in Iberian Peninsula IP 
+@highlight Chill accumulation and frost damage are expected to decrease in the future in IP
+@highlight Spatial analysis of hazards can inform cultivar selection for effective adaptation

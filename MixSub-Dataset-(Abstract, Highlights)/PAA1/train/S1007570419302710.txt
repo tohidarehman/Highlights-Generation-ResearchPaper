@@ -1,0 +1,7 @@
+ In this paper we consider the problem of existence of almost periodic solutions of impulsive CohenGrossberg neural networks with time varying delays . The impulses are not at fixed moments but are realized when the integral curves of solutions meet given hypersurfaces i.e . the investigated model is with variable impulsive perturbations . Sufficient conditions for perfect stability of almost periodic solutions are derived . The main results are obtained by employing the LyapunovRazumikhin method and a comparison principle . In addition the obtained results are extended to the uncertain case and robust stability of almost periodic solutions is also investigated . An example is considered to demonstrate the effectiveness of our results .
+
+@highlight A class of Cohen Grossberg neural networks is investigated.
+@highlight We establish criteria for existing of almost periodic solutions.
+@highlight Variable impulsive perturbations and time varying delays are considered.
+@highlight The Lyapunov function method and Razumikhin principle are applied.
+@highlight Global perfect stability behavior of the solutions is discussed.

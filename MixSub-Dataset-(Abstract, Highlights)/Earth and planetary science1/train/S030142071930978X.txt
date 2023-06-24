@@ -1,0 +1,7 @@
+ In the research we examined the influence of a few geostatistical models on the resource base and economic efficiency measures on the example of coking coal deposits . The research was carried out in scenario based mode with 4 alternative analytic models prepared .
+
+@highlight The impact of selected geostatistical models was examined on an example of the coking coal deposit in Poland.
+@highlight Analyses were elaborated considering the data from the geological 3D model.
+@highlight We examined the interdependences between 14 coal quality parameters and structural parameters of the testing seam.
+@highlight Monte Carlo simulation based on bootstrap technique with use of empirical copulas was performed.
+@highlight Economic assessment was based on income approach with regards to FCFF cash flow analysis and discounting process.

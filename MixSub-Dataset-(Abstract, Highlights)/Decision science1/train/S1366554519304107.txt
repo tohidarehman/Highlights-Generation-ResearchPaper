@@ -1,0 +1,7 @@
+ We consider duopoly competition among transportation firms operating on a multi segment route and analyze the welfare consequences of different market structures in serial and parallel transport network structures . Travellers are concerned with both price and latency and may opt to avoid travel in the system altogether if conditions are insufficiently attractive . Firms simultaneously set prices to maximize their own profits . We derive the traffic flow consequences of duopoly monopoly price free and socially optimal scenarios for both the serial and parallel structures drawing comparisons regarding traffic flows prices and welfare . In extensions of the model we consider firms operating costs more than two firms and hybrid market structures . The results point to a higher overall social welfare desirability of parallel competition along multi segment transportation routes . Our study delivers important policy implications regarding the optimal route structure design .
+
+@highlight We analyze the welfare consequences of serial and parallel transport network structures.
+@highlight We derive equilibrium for duopoly monopoly price free and social optimum scenarios.
+@highlight As extensions we consider operating costs more than two firms and hybrid structures.
+@highlight Compared to serial structure parallel structure leads to a higher overall social welfare.
+@highlight Our study delivers policy implications regarding the optimal route structure design.

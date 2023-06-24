@@ -1,0 +1,6 @@
+ Phase contrast microscopy enables the label free visualization of phase only objects such as unstained biological cells . This approach produces a contrast in image intensity that relates qualitatively to the phase delay introduced by the specimen . Quantitative phase imaging refers to an emerging set of methods that naturally extend phase contrast microscopy . These methods enable the quantitative measurement of the phase delay introduced by the specimen which facilitates real time measurement of cellular morphology with nanometric resolution in the axial direction . In this paper we describe a simple efficient algorithm that produces a color image from the quantitative phase image which clearly highlights subcellular features . The approach is interpreted in terms of local spatial frequency with the aid of microlens array and results are presented for a range of diatom cells .
+
+@highlight Digital optical staining subcellular features in color by a simple algorithm that acts on the phase image.
+@highlight Provides for a significant enhancement of the visualization of the phase images by adding color to subcellular features.
+@highlight Directly relating the color to the angle of rays that are refracted by the sample using the concept of local spatial frequency.
+@highlight The potential for the rapid development of new filter designs is outlined.

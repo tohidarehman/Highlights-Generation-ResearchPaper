@@ -1,0 +1,6 @@
+ Realization of binding reagents that can perform high fidelity sequential recognition and detection of amino acids is important for the success of many proposed approaches for single molecule protein sequencing . Towards this purpose a variant of the
+
+@highlight Engineering thermostable into ClpS protein variants for biotechnology applications.
+@highlight Thermostable ClpS variants retain original N terminal amino acid specificity.
+@highlight Thermostable ClpS variants retain original N terminal amino acid affinity.
+@highlight ClpS affinity and selectivity depend on the second amino acid in the target peptide.

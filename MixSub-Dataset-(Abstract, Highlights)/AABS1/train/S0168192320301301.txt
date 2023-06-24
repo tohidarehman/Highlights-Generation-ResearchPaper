@@ -1,0 +1,7 @@
+ A simple formula is proposed to calculate the air temperature from the temperatures of multiple spheres of different size and thus eliminate the effects of radiation on the measurement of air temperature . The formula is derived from energy balance and heat transfer theory for a spherical surface in external flow . Using this formula we developed an instrument with which to obtain the air temperature from multiple thermocouples with spherical tips without the need for a radiation shield and ventilation . Field experiments were conducted during summer and winter . Five globes having different diameters
+
+@highlight A novel thermometer having multiple spherical thermocouples is developed.
+@highlight The design adopts energy balance and heat transfer theory for a spherical surface.
+@highlight Radiation effects are eliminated without using an aspirated radiation shield.
+@highlight Optimum combination of sphere diameters with highest accuracy was 0.25 1 and 4mm.
+@highlight The root mean square error of the measured air temperature is 0.13C.

@@ -1,0 +1,7 @@
+ Automated weed management tools in vegetable crops are needed to reduce or eliminate hand weeding because of labour shortages and cost . Distinguishing crop plants from weeds in complex natural scenes of crop weed mixtures remains a challenge for weed management automation . This paper presents a novel solution to the weed control problem by employing crop signalling technology a novel systems approach that creates a machine readable crop plant . A robot vision based weed knife control system with a novel three dimensional geometric detection algorithm was developed to automate weed control for tomato and lettuce crops . The system successfully detected the crop signal from occluded crop plants while traveling at speeds up to of 3.2kmh
+
+@highlight A novel solution to the automatic weed control problem was presented.
+@highlight A vision based robotic weed knife control system was developed for weed control.
+@highlight The system can detect and differentiate crop plants from weeds in real time.
+@highlight Crop detection accuracy was measured at 97.8 with a detection time of 30ms f 1.
+@highlight Robotic weed control performed well in field experiments with lettuce and tomato.

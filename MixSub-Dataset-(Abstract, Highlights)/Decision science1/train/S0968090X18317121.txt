@@ -1,0 +1,7 @@
+ This paper proposes a methodology to estimate the passenger macroscopic fundamental diagram for bi modal urban corridors while accounting for the stochastic nature of bus operations . The proposed framework extends the existing variational theory approaches by introducing a probabilistic VT graph where the costs are computed using an efficient stochastic shortest path algorithm capturing the effects of stochastic moving bus bottlenecks and the correlation of bus arrival times incorporating a macroscopic passenger model that reflects the passenger dynamics for the different modes and accounting for the effects that the traffic conditions might have on bus operations .
+
+@highlight Introducing a probabilistic VT graph where the costs are computed using an efficient stochastic shortest path algorithm.
+@highlight Capturing the effects of stochastic moving bus bottlenecks and the correlation of bus arrival times.
+@highlight Incorporating a macroscopic passenger model that reflects the passenger dynamics for the different modes.
+@highlight Accounting for the effects that the traffic conditions might have on bus operations.
+@highlight Introducing an innovative application example for the evaluation of different bus lane layouts.

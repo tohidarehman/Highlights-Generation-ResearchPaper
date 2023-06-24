@@ -1,0 +1,7 @@
+ This study investigates the impact of individual risk aversion on replenishment decisions in a multi echelon supply chain and explores whether this impact is affected by experiential learning . The methodology applied is that of observational studies while the multi echelon supply chain is modeled through the classical Beer Game . Participants in the study are purchasing and supply chain professionals . Results suggest that risk aversion leads to higher orders Risk aversion persists even after experience of the game has been gained .
+
+@highlight This study investigates whether individual risk aversion determines a deviation from optimal performance in the management of supply and inventory.
+@highlight It also analyses the impact of experiential learning on this sub optimality and if it tends to vanish or is rather exacerbated when buyers or material planners gain job experience.
+@highlight The supply chain is modeled through the classical Beer Game and participants in the study are purchasing and supply chain professionals.
+@highlight Results provide empirical evidence that individual aversion to risk makes people prudent in their management of inventories in the sense that they will try to avoid running out of stock by holding on average more inventories. This prudent behaviour is enhanced by experience of the decision task.
+@highlight A novel result is also the finding that risk aversion interacts with the current inventory position in affecting replenishment decisions.

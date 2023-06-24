@@ -1,0 +1,6 @@
+ Two sets of polystyrene nanoparticles with comparable core sizes but different carboxyl group densities were made and separated using asymmetric flow field flow fractionation capillary electrophoresis and the off line hyphenation of both methods . Our results revealed the significant potential of two dimensional off line AF4 CE hyphenation to improve the separation and demonstrated for the first time the applicability of CE to determine the functional group density of nanoparticles . Compared to the result acquired with conductometric titration the result obtained with synthesized 100nm sized PSNPs revealed only a slight deviation of 1.7 . Commercial 100nm sized PSNPs yielded a deviation of 4.6 . For 60nm sized PSNPs a larger deviation of 10.6 between both methods was observed which is attributed to the lower separation resolution .
+
+@highlight PS NPs with tuned COOH group densities were separated by CE and CE AF4 hyphenation.
+@highlight AF4 CE hyphenation led to a significant improvement in the separation resolution.
+@highlight CE calibration was performed using custom made COOH functionalized PS NPs.
+@highlight This enabled quantification of the functional group density of commercial NP.

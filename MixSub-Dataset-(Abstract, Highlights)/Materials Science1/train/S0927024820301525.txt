@@ -1,0 +1,7 @@
+ In the field of imaging it is required to control the dynamic range by darkening of the overexposed parts of a scene . Up to now conventional one dimensional graduated filters with a fixed transmission profile are used . Making use of electrochromic materials we present a tunable electrochromic graduated filter device with two dimensional control . It combines multiple conventional filters in one device as its continuous transmission profile can be individually translated rotated stretched and adapted in absorption by means of a multiple electrode configuration . To calculate the spatial transmission and the required potential combination for the control electrodes we establish a Finite Element Method based simulation model considering the non linear transmission potential response of our complementary electrochromic materials . We simulate several electrode configurations and optimize them for the highest correlation of specified and simulated transmission . Finally we build the device using microsystem technology and demonstrate the successful operation with desired functionalities .
+
+@highlight Electrochromic graduated filters allow spatially tunable transmission up to OD1.
+@highlight A potential drop along the working electrode produces the transmission distribution.
+@highlight Eight contact pads are addressed with potentials in the range of 0.5V to 1.6V.
+@highlight Prior to manufacturing various contact pad configurations are simulated with FEM.
+@highlight Graduated transmission profiles can be translated stretched darkened and rotated.

@@ -1,0 +1,8 @@
+ The fluidization process within gassolid fluidized bed reactor can be intensified by adding liquid as it can enhance mass and heat transfer between gas phase and solid phase . With the help of computational fluid dynamics and discrete element methods fluidization characteristics are investigated at different liquid contents
+
+@highlight Fluidization characteristics of LC GSFBR have been studied by CFDDEM.
+@highlight Compared with V Bo
+@highlight increase is more likely to enhance agglomerate formation.
+@highlight Stagnation zone is reflected from particle velocity increase in annulus region.
+@highlight The variation of region distribution due to Bo
+@highlight increase is complicated.

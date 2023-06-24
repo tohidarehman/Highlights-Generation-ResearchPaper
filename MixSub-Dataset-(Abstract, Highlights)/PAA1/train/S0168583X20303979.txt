@@ -1,0 +1,5 @@
+ Photonuclear reactions cross sections using TALYS 1.95 code in the GDR region were studied to test the reliability of various models of gamma ray strength functions . Six different gamma ray strength function models have been applied . The photo neutron reactions for the isotopes
+
+@highlight Talys 1.95 code application on photo neutron cross section estimation of Ni Cu and Zn isotopes.
+@highlight Gamma ray strength function.
+@highlight Comparison with EXFOR library experimental values.

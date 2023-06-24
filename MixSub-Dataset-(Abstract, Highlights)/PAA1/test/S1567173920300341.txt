@@ -1,0 +1,8 @@
+ Carbon based Perovskite Solar cells have emerged as the most promising candidates for commercialisation in the field of perovskite photovoltaics as they are highly stable low cost and make use of easily scaled manufacturing techniques . However the limited conductivity of the carbon electrode inhibits performance and represents a significant barrier to commercial application . his work presents a scalable method for enhancing the carbon electrode conductivity through the integration of aluminium and copper grids into prefabricated CPSCs . Adhered to the cells using an additional low temperature carbon ink the metallic grids were found to dramatically reduce top electrode series resistance leading to a large improvement in fill factor and efficiency . After grid integration the 1cm
+
+@highlight A simple and scalable method for improving the carbon electrode conductivity of C PSCs by the integration of metallic grids.
+@highlight A low temperature carbon ink was developed to act as conducting glue for grid placement.
+@highlight The champion PCE of 1cm
+@highlight CPSCs is boosted from 11.3 to 13.4 by copper grid integration.
+@highlight When grids applied to 11.7cm
+@highlight modules PCEs improved from 7.7 to 10 and 11 for aluminium and copper grids respectively.

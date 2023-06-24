@@ -1,0 +1,6 @@
+ This paper explores the prime numbers in the perspective of complex systems using computational and information visualization resources . The PN are interpreted as features that characterize the outputs of a CS . Four distinct metrics are adopted to assess the differences between such objects namely the Canberra Euclidean Jaccard and Lorentzian distances and the information is treated with a multidimensional scaling algorithm . The MDS produces loci organized according with the objects features that are analyzed under the light of the emerging patterns . Additionally these patterns are explored in the Fourier domain under the point of view of fractional calculus . The representations constitute a new philosophy for tackling the challenging topic of PN using advanced scientific visualization .
+
+@highlight We explore prime numbers as objects in a complex systems.
+@highlight The dissimilarity information between objects is measured by different metrics.
+@highlight The data are processed by multidimensional scaling algorithms.
+@highlight The multidimensional scaling loci are explored using the tools of fractional calculus.

@@ -1,0 +1,6 @@
+ Scattering by aerosols and gases cause a certain fraction of artificial light emitted upwards is redirected to the ground . Of all atmospheric constituents just the aerosols are most important modulators of night sky brightness under cloudless conditions . Unlike most of the previous we highlight a crucial role of solar radiometry for determining the atmospheric optical depth before night time observation is to be made . Aerosol optical depth at visible wavelengths extracted from the data measured provides then the information on size distribution or mean refractive index of aerosol particles that in turn are both necessary to make night sky brightness prediction more accurate . Therefore combining daytime and night time radiometry we can achieve accuracy much higher than ever before . This is due to significantly reduced uncertainty in aerosol properties .
+
+@highlight More accurate night sky brightness predictions requires information on aerosols.
+@highlight A portable turbidity analyzer is developed for in situ aerosol characterization.
+@highlight Multi wavelength radiometry provides information on AOD and size distribution.
+@highlight An experiment was performed to test the system and the method under limit conditions.

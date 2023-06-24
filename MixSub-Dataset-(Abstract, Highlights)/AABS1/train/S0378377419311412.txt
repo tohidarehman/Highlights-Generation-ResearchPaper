@@ -1,0 +1,6 @@
+ Catchment water quality models are essential for fresh water management however their value is dependent on their performance and level of uncertainty and for this information to be communicated in a transparent and understandable way to key stakeholders .
+
+@highlight CLUES predicts mean annual loads of TN TP and E. coli across New Zealand.
+@highlight CLUES has been calibrated against loads estimated from water quality and flow data.
+@highlight There are compensating errors between source yields and attenuation parameters.
+@highlight Water quality sampling in lower order streams is needed for estimation of attenuation.

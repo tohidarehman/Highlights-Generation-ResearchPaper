@@ -1,0 +1,5 @@
+ The Vehicle Routing Problem with Selective Backhauls aims to minimize the total routing costs minus the total revenue collected at backhaul customers . We explore a VRPSB under uncertain revenues . A deterministic VRPSB is formulated as a mixed integer programming problem and two robust counterparts are derived . A novel method to estimate the probabilistic bounds of constraint violation is designed . A robust metaheuristic is developed requiring little time to obtain feasible solutions with average gap of 1.40 . The robust approach studied demonstrates high potential to tackle the problem requiring similar computing effort and maintaining the same tractability as the deterministic modeling .
+
+@highlight A VRPB under uncertainty is analyzed for first time.
+@highlight Four different methods are compared to estimate probability of constraint violation.
+@highlight An efficient metaheuristic provides high quality solutions for large instances.

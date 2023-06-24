@@ -1,0 +1,5 @@
+ This paper presents a data driven machine learning framework for predicting failure mode and shear capacity of Ultra High Performance Concrete beams . To this end a comprehensive database on 360 reported tests on UHPC beams with different geometric fiber properties loading and material characteristics was collected . This database was then analyzed utilizing different ML algorithms including support vector machine artificial neural networks
+
+@highlight A machine learning framework is developed to predict failure mode of UHPC beams.
+@highlight Genetic programing algorithms is applied for predicting shear capacity of UHPC beams.
+@highlight The proposed expressions can be utilized in practice for design of UHPC beams.

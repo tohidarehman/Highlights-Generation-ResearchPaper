@@ -1,0 +1,7 @@
+ The simulation of dynamic reverse flow operation with reactor side feeding for selectivity issue during exothermic reaction while incorporating mass and energy balances both solid phase and gas phase is presented in this paper with particular aim to investigate the product distribution . The reactor model consisted of mass balances on the level of elementary steps which led to detailed dynamic influence of flow reversal effect on kinetics . The results showed the production rate of the desired product can be kept at high level which may exceed the level of regular RFO and even of steady state operation . Even for the quasi steady state regime the reverse flow reactor with side feeding shows a different product distribution in comparison to SSO . The influence of shifting the feed positions to the reactor center is most pronounced . The reverse flow operation with reactor side feeding is a prime key for improved conversion and manipulation of product distribution .
+
+@highlight This paper deals with the reverse flow operation with reactor side feeding.
+@highlight Focus was on improvement of ammonia conversion and product selectivity.
+@highlight The models involved the mass and energy balances with full elementary steps.
+@highlight The influence of feed position on reactor performance was investigated.
+@highlight The RFR with side feeding shows better ammonia conversion and selectivity to NO.

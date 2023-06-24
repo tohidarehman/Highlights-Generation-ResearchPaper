@@ -1,0 +1,5 @@
+ In bone marrow VDJ recombination continuously generates original repertoires of immature B cells expressing IgM B cell receptor in which each cell recognizes the wide variety of self and non self antigens with an individually different spectrum of avidities . High avidity self reactive B cells try to edit their BcRs by secondary or multiple V
+
+@highlight BcRs bind self or non self antigens with spectra of high to low to no avidities.
+@highlight A BcR antigen IgM FcR rheostat sets PI3K PTEN balanced B cell signaling.
+@highlight Hypermutated IgG autoantibodies derive from self non self cross reactive BcR.

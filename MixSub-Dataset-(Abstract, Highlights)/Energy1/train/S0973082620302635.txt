@@ -1,0 +1,7 @@
+ Hybrid microgrids represent a cost effective and viable option to ensure access to energy in rural areas located far from the main grid . Nonetheless the sizing of rural microgrids is complicated by the lack of models capable of accounting for the evolution of the energy demand over time which is likely to occur in such contexts as a result of the modification of users lifestyles . To tackle this issue the present study aims at developing a novel long term optimisation model formulation capable of accounting for load evolution and performing suitable investment decisions for capacity expansion along the time horizon . Multiple scenarios of load evolution are considered to evaluate the beneficial effects of this novel approach through the coupling of the model with a tool for stochastic load profiles generation . The results show how this implementation brings lower Net Present Cost to the project and improved correspondence between actual electricity demand and microgrid sizing . Finally a sensitivity analysis evaluates the robustness of the approach with respect to input data variability and the Loss of Load parameter .
+
+@highlight Evolution of the load is a key factor in microgrid sizing usually neglected.
+@highlight A microgrid sizing tool is adapted to be able to consider time evolving loads.
+@highlight Trough stochastic programming the new feature is implemented in the source code.
+@highlight The novel method allows consistently decreasing system costs.
+@highlight First tool of its category to endogenously tackle the problem of load evolution

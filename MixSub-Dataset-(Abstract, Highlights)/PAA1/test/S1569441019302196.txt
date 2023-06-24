@@ -1,0 +1,6 @@
+ A novel composite structured all fiber sensor was designed and experimentally demonstrated for simultaneous measurement of displacement and temperature . The sensor consists of a knotted shape core cladding optical fiber . The interferometer notch of a knotted shape fiber was found to be highly sensitive to the micro displacement as well as environmental temperature while the core offset fiber was sensitive to temperature only . Thus the different features of these interferometer notchs of two parts can be used to measure the displacement and temperature . The experimental results showed that the sensor exhibited a high displacement sensitivity of 528.57pm m ranges from 0mm to 0.012mm . And the temperature sensitivities of the knotted shape core cladding optical fiber were 114.86pm and 31.66pm ranges from 35 to 60 respectively . Due to the compact size and dual parameters measurability the sensor had a great potential in diverse sensing application .
+
+@highlight A novel hybrid all fiber sensor was designed based on a knotted shape core cladding optical fiber.
+@highlight The displacement and temperature were measured synchronously.
+@highlight A high displacement sensitivity of 528.57pm m ranges from 0mm to 0.012mm was achieved.
+@highlight The simultaneous temperature sensitivity was 31.66pm .

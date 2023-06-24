@@ -1,0 +1,7 @@
+ Immobilized metal affinity chromatography is a technique primarily used in research and development laboratories to purify proteins containing engineered histidine tags . Although this type of chromatography is commonly used it can be problematic as differing combinations of resins and metal chelators can result in highly variable chromatographic performance and product quality results . To generate a robust IMAC purification process the binding differences of resin and metal chelator combinations were studied by generating breakthrough curves with a poly histidine tagged bispecific protein . The optimal binding combination was statistically analyzed to determine the impact of chromatographic parameters on the operation . Additionally equilibrium uptake isotherms were created to further elucidate the impact of chromatographic parameters on the binding of protein . It was found that for protein expressed in CHO cells Millipore Sigma s Fractogel EMD Chelate charged with Zn
+
+@highlight IMAC resin and chelator combinations screened for a histidine tagged novel molecule.
+@highlight Fractogel EMD Chelate M charged with zinc identified as highest binder in screen.
+@highlight Statistical study identified key factors resin lot capacity and histidine tag length.
+@highlight Equilibrium isotherms outlined the binding of poly histidine tagged proteins.
+@highlight Robust IMAC operation successfully scaled up.

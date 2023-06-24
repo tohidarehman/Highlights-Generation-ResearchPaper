@@ -1,0 +1,6 @@
+ We examine the role of target firms governance characteristics in determining their survival status and acquirer type . We find that conditional on being a takeover target firms with a powerful board those that are insider dominated and immune from shareholder oversight are more likely to undergo a private equity backed buyout compared to acquisition by public firms or a non private equity backed buyout . We document a positive relationship between anti takeover provisions and the likelihood of being acquired by a public company . Firms do not seem to change their governance characteristics in anticipation of being taken over . Overall our results from multinomial regressions provide robust support for the notion that likelihood of being a target and undergoing a specific type of transaction is a matching process in which both the target and the acquirer try to maximize their own welfare .
+
+@highlight Ex ante governance characteristics matter to firms survival acquisition type.
+@highlight When boards are immune from shareholder oversight they prefer PE backed buyout.
+@highlight Public acquirers less likely to target firms with more anti takeover provisions.
+@highlight Ex ante governance characteristics have no direct impact on target share value.

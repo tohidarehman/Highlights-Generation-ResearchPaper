@@ -1,0 +1,8 @@
+ In recent years the increasingly serious and clear effects of climate change have increased interest in renewable fuels and platform chemicals . Microbial platforms that can produce these compounds in an economically efficient way have emerged as an attractive alternative to the traditional production approaches . Here we engineered the industrially relevant yeast
+
+@highlight Engineer
+@highlight to produce the platform chemical and potential biofuel isopentanol.
+@highlight Overexpress the endogenous valine and leucine biosynthetic pathways to increase the production of 2 ketoisocaproate 2 KIC .
+@highlight Heterologously express the keto acid degradation pathway to convert 2 KIC to isopentanol.
+@highlight Minimize the production of the side product ethanol by using the CRISPR Cas9 system to delete
+@highlight The best strain produces 191mg L of isopentanol the highest titer in a non conventional yeast.

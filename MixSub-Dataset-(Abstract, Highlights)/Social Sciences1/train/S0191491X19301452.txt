@@ -1,0 +1,7 @@
+ The computerization of reading assessments has presented a set of new challenges to test designers . From the vantage point of measurement invariance test designers must investigate whether the traditionally recognized causes for violating invariance are still a concern in computer mediated assessments . In addition it is necessary to understand the technology related causes of measurement invariance among test taking populations . In this study we used the available data
+
+@highlight Measurement invariance was investigated in the PTE Academic reading.
+@highlight The ICT Development index and gender were used as covariates.
+@highlight A multigroup confirmatory factor analysis was adopted.
+@highlight Structural invariance for the PTE Academic reading was confirmed.
+@highlight This lends support to the fairness of the test.

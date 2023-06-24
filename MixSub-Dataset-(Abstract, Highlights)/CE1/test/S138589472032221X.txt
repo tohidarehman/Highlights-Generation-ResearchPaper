@@ -1,0 +1,6 @@
+ Over the past decades energy densities have always been considered as the key factors for realizing compact and highly efficient dielectric polymer capacitors . However high energy density polymer dielectrics are limited by insurmountable drawbacks of high energy loss and low charge discharge efficiency which are far behind the industrial requirement for application under high temperature voltage working conditions . Herein a versatile method to suppress the energy loss of polymer dielectrics is presented whereby two dimensional montmorillonite nanosheets are interposed at the interfaces of a sandwich structured barium titanate polyamideimide film . The anisotropic electrical conductivity of the nanosheets provides paths to relationally regulate the charges transport along the in plane direction while suppressing the through plane conduction . As a result nearly 50 of the energy loss can be eliminated with an applied electric field of 400MVm
+
+@highlight A sandwiched BT PAI nanocomposite reinforced by 2D MMT interfaces is proposed.
+@highlight A high energy density of 3.6Jcm
+@highlight with an efficiency of 70 is achieved at 150C.
+@highlight The anisotropic conductivity of MMT regulates the charges transport along in plane.

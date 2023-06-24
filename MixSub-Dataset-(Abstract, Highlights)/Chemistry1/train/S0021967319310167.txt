@@ -1,0 +1,7 @@
+ Mechanistic modeling of protein adsorption has gained increasing importance in the development of ion exchange chromatography processes . The most common adsorption models use a stoichiometric representation of the adsorption process based on the law of mass action . Despite the importance of these models in model based development the stoichiometric representation of the adsorption process is not accurate for the description of long range electrostatic interactions in IEX chromatography limiting the application and mechanistic extension of these models .
+
+@highlight A non stoichiometric adsorption model for IEC chromatography is derived.
+@highlight Adsorption is governed by electrostatic interactions inside an interaction force boundary layer.
+@highlight The model accounts explicitly for ionic strength and pH based on the protein primary structure.
+@highlight Model parameters are theoretically valid on different stationary phases.
+@highlight Effect of post translational modifications on protein adsorption can be simulated.

@@ -1,0 +1,6 @@
+ In this study to investigate the mass transport characteristics in a structured porous medium with porous particles under an interfacial concentration discontinuity a macroscopic solute transport equation is proposed based on the volume averaging theory . A typical three dimensional geometry was chosen as the representative elementary volume . The corresponding closure problem was solved to obtain the longitudinal mass dispersion . Based on the numerical results a new correlation of the longitudinal mass dispersion for a structured porous medium with porous particles is presented . Through a comparison with the correlation of the longitudinal mass dispersion for a random porous medium it can be determined that for a mechanical dispersion the dependence of a random porous medium and that of a structured porous medium on the Pclet number
+
+@highlight Mass transfer in structured porous media with porous particles was upscaled.
+@highlight A macroscopic solute transport equation was proposed by using VAT.
+@highlight A new correlation of longitudinal mass dispersion was presented.
+@highlight A comparison between random and structured porous media correlations was given.

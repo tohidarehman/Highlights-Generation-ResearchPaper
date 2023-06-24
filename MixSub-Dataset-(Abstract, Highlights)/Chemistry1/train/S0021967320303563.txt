@@ -1,0 +1,8 @@
+ Gas chromatographic columns based on ionic liquids are very promising since the selectivity of these columns can be tuned by both the cation and the anion chemical nature . In this paper efficiencies of capillary columns based on four phosphonium ionic liquids were studied . The performance of seven columns containing the cation trihexylphosphonium and the anions bromide chloride and bisimide was evaluated by measuring the solute band broadening as a function of gas velocities at three temperatures . Hence classical height equivalent to a theoretical plate against gas velocity plots corresponding to those columns were generated and the data were fitted to the Golay Guiochon equation with the aim of seeking the optimum conditions to be operated each of them . Band broadening at practical gas velocities is mainly due to poor mass transfer properties of solutes in the liquid phases which limits the achieved efficiencies . These H u plots proved to be necessary to characterize the column quality at a given temperature to interpret the band broadening phenomena and thus to establish the lower temperature limits and the expected plate counts at that temperature .
+
+@highlight Solute band broadening in phosphonium based ionic liquid GC columns were measured
+@highlight Resistance to mass transfer into the viscous liquid film is the main contribution
+@highlight Column efficiency at high velocities are almost independent of the used carrier gas
+@highlight The column radius has minor importance for improving efficiency at optimum velocity
+@highlight The lower temperature limits for using these columns should be redefined
+@highlight Silica pretreatment by burning Carbowax 20M is preferred over precipitation of salt

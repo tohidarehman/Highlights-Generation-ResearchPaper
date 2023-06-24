@@ -1,0 +1,8 @@
+ The energy minimization multi scale model has succeeded in describing the mesoscale structures in gassolid fluidization by introducing a stability condition to complete the model viz . the mass specific energy consumption for suspending and transporting the solids
+
+@highlight Explore fluidization by using particle resolved direct numerical simulation PR DNS .
+@highlight Propose a feasible way to correlate
+@highlight to the local voidage and acceleration.
+@highlight Eliminate the impact of initial distribution upon the stability condition by introducing acceleration.
+@highlight Verify the stability condition of the EMMS model based on PR DNS.
+@highlight Pave a way between EMMS and PR DNS for further study of fluidization.

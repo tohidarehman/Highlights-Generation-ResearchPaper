@@ -1,0 +1,6 @@
+ The thermodynamic behavior of octreotide a cyclic octapeptide with important pharmaceutical functions has been simulated under reversed phase gradient elution conditions . To this end adsorption behavior was firstly investigated in isocratic conditions under a variety of water acetonitrile 0.02 trifluoroacetic acid mixtures as mobile phase by using a Langmuir isotherm . Organic modifier was varied in the range between 23 and 28 . Adsorption isotherms were determined by means of the so called Inverse Method with a minimum amount of peptide . The linear solvent strength model was used to find the correlation between isotherm parameters and mobile phase composition . This study contributes to enlarge our knowledge on the chromatographic behavior under nonlinear gradient conditions of peptides . In particular it focuses on a cyclic octapeptide .
+
+@highlight Adsorption behavior of octreotide has been modeled in gradient elution RP LC.
+@highlight Inverse Method allows to get fundamental information by using only a few milligrams.
+@highlight Study of thermodynamics is necessary for the optimization of continuous separations.
+@highlight This approach can be adopted when a reduced amount of peptide is available.

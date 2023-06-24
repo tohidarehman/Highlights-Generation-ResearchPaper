@@ -1,0 +1,6 @@
+ Modern manufacturing organizations have started giving paramount importance to sustainable aspects of the manufacturing processes realizingnot only that the natural resources are dwindling rapidly but also that they bear significant responsibility to the society and surroundings for the overall future development . Catastrophic failures and the maintenance of complex equipment can generate a large amount of hazardous waste within the organization that can affect the overall production level environment along with impacting the health of workers in the long run . Failure mode and effect analysis is an efficient risk analysis tool for processes products designs or services and has been adopted by different types of organizations . In this paper for the first time in the literature the consequences of failure modes of industrial equipment are considered from the sustainable point of view which is believed to be a requirement for the establishment of a successful sustainable manufacturing strategy .
+
+@highlight A novel idea of FMEA is proposed to aid the practise of sustainable manufacturing.
+@highlight Severities are decoupled from the economical societal and ecological aspects.
+@highlight Integrating Interval Type 2 Fuzzy DEMATEL and Modified Fuzzy MAIRCA methods.
+@highlight Validation is carried out by using a novel case study of process plant gearbox.

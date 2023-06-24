@@ -1,0 +1,6 @@
+ The internet data center power system provides power guarantee for cloud computing and other information services so its importance is self evident . However the occurrence time of malignant destructive events such as lightning strikes errors in operation and cyber attacks is unpredictable . But the loss can be minimized by formulating coping strategies in advance . So identifying the vulnerable spots of the IDC power system come to be the key to guarantee the normal operation of information systems . Generally the IDC power network can be modelled as a graph
+
+@highlight Electrical devices whose failure may cause the blackouts of the internet data center power system should be given attention.
+@highlight A parallel electrical fault evolution model for the internet data center power system PFEM is designed.
+@highlight To address the issue we carefully design an intelligent algorithm AIVDCN based on reinforcement learning.
+@highlight Results on a real data center power system prove the effectiveness of our proposed AIVDCN algorithm.

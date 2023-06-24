@@ -1,0 +1,7 @@
+ Arising from a practical problem in European rail freight transport we present a heuristic solution approach that is based on a new generalized mixed integer problem formulation for the Locomotive Assignment Problem . A main focus is on the one hand on the connecting processes between cars and locomotives and on the other hand on combining two or more locomotives i.e . the process of building and busting consists . Furthermore regional limitations for running certain types of locomotives and technical conditions for combining locomotives are taken into account . A generalized solution framework is developed that allows a gradual restricting of the solution space and enables an analysis and comparison of different solution procedures . Testing these for a real world network as well as several newly generated instances shows that the framework outperforms previous approaches in the literature . Thus a suitable solution method for an application in practice is presented .
+
+@highlight A generalized mixed integer program for the locomotive assignment problem.
+@highlight Integration of several new real world requirements.
+@highlight A model based heuristic solution framework.
+@highlight Computational analysis for different framework settings.
+@highlight Solving a real life Instance for the first time.

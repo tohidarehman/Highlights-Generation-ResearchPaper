@@ -1,0 +1,7 @@
+ Identifying the regional characteristics of nitrate leaching from croplands is of great importance when attempting to assess the groundwater contamination risk due to nitrate leaching from croplands . The regional scale model in the Nitrogen Loss and Environmental Assessment Package with GIS Capabilities which takes spatial variations in soil profile properties meteorological data and farm practices into account was adopted in this study to simulate the occurrence dynamics and spatial pattern of nitrate leaching downwards through the crop root zone in winter wheat
+
+@highlight Regional simulation of nitrate leaching from NCP croplands was done using NLEAP GIS.
+@highlight Spatial temporal variation of nitrate leaching in North China Plain was quantified.
+@highlight Water input fertilizer and soil jointly affect N leaching spatial temporal pattern.
+@highlight Optimal fertilizer N rates were recommended for winter wheat summer maize rotation.
+@highlight Spatial distribution of potential groundwater nitrate pollution risk was implied.

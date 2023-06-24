@@ -1,0 +1,7 @@
+ FennaMatthewsOlson light harvesting protein that connects the outer antenna system with the reaction center in green sulfur bacteria provides a paradigmatic model system in terms of the observed quantum coherence possibly associated with highly efficient excitation energy transfer in the photosynthetic system . There have been many computational studies on the EET dynamics of FMO complex in which two sets of model parameters site energies and excitonic coupling energies for eight bacteriochlorophyll
+
+@highlight Excitation energy transfer among BChls in the FMO complex is theoretically studied.
+@highlight Optimality of site and excitonic coupling energies of BChls is examined.
+@highlight Generalized quantum master equations with varying energy parameters are employed.
+@highlight Calculated energy values by some research groups are used as the reference values.
+@highlight Most reference parameters are nearly optimal for efficient energy transfer.

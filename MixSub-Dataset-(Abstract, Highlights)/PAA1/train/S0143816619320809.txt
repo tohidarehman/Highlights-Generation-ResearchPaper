@@ -1,0 +1,6 @@
+ The objective of this paper is to fabricate a flexible mid infrared light delivery system with bioprobesince remarkable biological effect of mid IR light and lack of corresponding technical devices . Hollow optical fiber with sealing window of different materials and shapes was fabricated and packaged within a metal tube for delivering mid IR light and electrical signal . The thickness of the sealing window was optimized consideringmechanical strength loss and power density threshold . A bioprobe with a SMA connector was manufactured . A patch cord loaded with low loss mid IR hollow optical fiber was prepared and can be connected to the bioprobeby a standard SMA jointer . The loss of the bioprobe was 1.38dB and 1.07dB at the wavelength of 5.1m and 10.6m respectively . The output beam of the bioprobe can be controlled by sealing windows of different shapes which had a far field half divergence angle of 0.030.44rad . The system had a power density threshold of 382mW mm
+
+@highlight Characterization of a flexible system for photoelectrical stimulation.
+@highlight Bioprobe consist of mid infrared waveguide with distal end sealing.
+@highlight Fabrication process of end sealing for laser beam control.
+@highlight System with high optical power threshold and transmission efficiency.

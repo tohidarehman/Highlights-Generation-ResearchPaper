@@ -1,0 +1,6 @@
+ Bikeshare systems are rapidly becoming more prevalent in metro and micropolitan areas around the world . However low income populations people of color and transit dependent households are not highly representative of the bikeshare users profile . Some bikeshare programs in the United States such as
+
+@highlight Analyzing the utilization of bikeshare systems among disadvantaged populations.
+@highlight Develop a Negative Binomial regression model to estimate bikeshare ridership.
+@highlight The employment rate plays an important role in increasing bikeshare ridership.
+@highlight Disadvantaged populations tend to spend more once they are annual members.

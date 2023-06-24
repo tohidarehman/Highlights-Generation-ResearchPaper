@@ -1,0 +1,7 @@
+ CREB binding protein is a large multi domain protein containing a HAT domain catalyzing transacetylation and a bromodomain responsible for acetylated lysine recognition . CBPs could act as transcription co activators to regulate gene expression and have been shown to play a significant role in the development and progression of many cancers . Herein through
+
+@highlight Two hit compounds of CBP bromodomain were discovered through virtual screening.
+@highlight A co crystal of DC CPin7 with CBP bromodomain was obtained.
+@highlight Crystal based chemical optimization were applied to improve potency.
+@highlight DC CPin711 improved 40 fold potency by chemical optimization.
+@highlight DC CPin711 showed decent anti leukemia effects.

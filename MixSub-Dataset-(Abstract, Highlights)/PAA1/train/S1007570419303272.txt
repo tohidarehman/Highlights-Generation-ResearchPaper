@@ -1,0 +1,7 @@
+ Phase response curves have been extensively used to control the phase of oscillators under perturbations . Their main advantage is the reduction of the whole model dynamics to a single variable dynamics . However in some adverse situations the phase reduction does not provide enough information and therefore PRC lose predictive power . To overcome this shortcoming in the last decade new contributions have appeared that allow to reduce the system dynamics to the phase plus some transversal variable that controls the deviations from the asymptotic behaviour . We call this setting
+
+@highlight We construct a 2D entrainment map based on phase amplitude response functions and study the effect of pulsed periodic inputs.
+@highlight We describe the dynamics on the invariant curves of the 2D map detecting both their breakdown and inner bifurcation cascades.
+@highlight We show that the 2D entrainment map tracks the phase locking dynamics much better than the 1D map standard phase reduction .
+@highlight We show differences in the boundaries of the Arnold tongues between the 2D entrainment map and the 1D map.
+@highlight Our 2D framework can be adapted to many neuronal models and provide realistic paradigms where the 1D phase reduction fails.

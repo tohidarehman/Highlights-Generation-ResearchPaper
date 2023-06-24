@@ -1,0 +1,6 @@
+ Activation of Notch signaling is associated with tumor aggressiveness poor clinical outcome and drug resistance in breast cancer patients . Targeting Notch signaling with small molecule inhibitors may be a better strategy for anticancer drug development . We identified 3 O p Coumaroylbetulinic acid as a lead compound and potent inhibitor of Notch signaling pathway . Treatment of human breast cancer MBA MD 231 and T47D cells with CB resulted in a dose and time dependent inhibition of cell viability and G0 G1 phase cell cycle arrest . This effect was associated with a marked decrease in the expression of cyclin D1 and its activating partner cyclin dependent kinase 2 with concomitant increase in cyclin kinase inhibitor p21 operative in G1 phase of the cell cycle . CB treatment induced early apoptosis in breast cancer cells as evident by increase in cleaved caspase 3 decrease in Bcl2 and survivin surge in reactive oxygen species and disruption of mitochondrial membrane potential . CB treatment altered Notch target genes
+
+@highlight 3 O E p Coumaroyl betulinic acid induces apoptosis in breast cancer cells.
+@highlight 3 O E p Coumaroyl betulinic acid arrest cell cycle in breast cancer cells.
+@highlight 3 O E p Coumaroyl betulinic acid down regulate Notch signaling pathway.
+@highlight 3 O E p Coumaroyl betulinic acid suppress stemness markers in mammosphere.

@@ -1,0 +1,7 @@
+ Non targeted NMR based approach has received great attention as a rapid method for food product authenticity assessment . The availability of a database containing many comparable NMR spectra produced by different spectrometers is crucial to develop functional classifiers able to discriminate rapidly the commodity class of a given food product . Nevertheless variability in spectrometer features may hamper the production of comparable spectra due to inherent variations in signal resolution . In this paper we report on the development of a class discrimination model for grape juice authentication by application of non targeted NMR spectroscopy . Different approaches for the pre treatment of data will be described along with details about the model validation . The developed model performed excellently even when it was tested against 650 spectra produced by 65 spectrometers with different configurations . This study may boost the use of non targeted NMR methods for food control .
+
+@highlight Class discrimination of grape juices by non targeted NMR spectroscopy.
+@highlight Development of class discrimination systems to rapidly assess food authenticity.
+@highlight Database of NMR spectra by 65 spectrometers to query a food classifier.
+@highlight Effect of magnetic field strength on the comparability of NMR food data.
+@highlight Harmonization of operative procedures for NMR data treatment.

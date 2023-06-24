@@ -1,0 +1,7 @@
+ Sulfur nanoparticles have been frequently used for sterilization due to their high biocompatibility and environmental friendliness . Compared with traditional sublimed sulfur SNPs have some superior properties such as the smaller particle size better dispersibility in water and even higher antibacterial performance . Therefore the objective of this study is to prepare SNPs with a controllable particle size and uniform morphology using a microfluidic anti solvent precipitation method whose process is continuous and ideal for large scale production . The SNPs with a range of 1550nm can be prepared in both a Y type microchannel and T type microchannel . Interestingly for the SNP preparation process the YMC shows a better mixing effect than TMC which has been verified by the CFD simulation . Compared with a traditional batch stirred tank these two microchannels can not only guarantee a relatively small and uniform particle size but also reduce the solvent consumption by at least 50 . More importantly the SNPs show a better continuous bactericidal ability for
+
+@highlight Highly stable monodispersed sulfur nanoparticles with a size of 1550nm.
+@highlight Controllable preparation using a microfluidic anti solvent precipitation method.
+@highlight Efficient and continuous synthesis in both Y type and T type microchannels.
+@highlight CFD simulation to verify the mixing process.
+@highlight Modified sulfur nanoparticles with good antibacterial properties.

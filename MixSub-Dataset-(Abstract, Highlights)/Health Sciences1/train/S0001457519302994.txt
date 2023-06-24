@@ -1,0 +1,6 @@
+ Many cyclist fatalities occur on roads when crossing a vehicle path . Active safety systems address these interactions . However the driver behaviour models that these systems use may not be optimal in terms of driver acceptance . Incorporating explicit estimates of driver discomfort might improve acceptance . This study quantified the degree of discomfort experienced by drivers when cyclists crossed their travel path . Participants were instructed to drive through an intersection in a fixed base simulator or on a test track following the same experimental protocol . During the experiments three variables were controlled 1 the car speed 2 the bicycle speed and 3 the bicycle car encroachment sequence . For each trial a covariate the cars time to arrival at the intersection when the bicycle appears TTA
+
+@highlight Driver discomfort on a test track and in a driving simulator was compared.
+@highlight Driver discomfort was influenced by the moment when the cyclist appeared.
+@highlight A new model predicting driver discomfort is proposed.
+@highlight This model can improve driver acceptance of active safety systems.

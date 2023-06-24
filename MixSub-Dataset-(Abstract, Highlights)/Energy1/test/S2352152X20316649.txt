@@ -1,0 +1,6 @@
+ Compressed air energy storage may be an important asset for large scale implementation of renewable energies . The REMORA technology combines quasi isothermal compression with maritime construction efforts . Convective heat transfer in liquid piston compressors have not been thoroughly studied so far but its understanding is deeply important to characterize the system s behavior . An experimental analysis of air compression using liquid piston is proposed for chambers with big dimensions which leads to the development of several correlations . From these assessments it is possible to describe the presence of two different convective heat exchange patterns as well as the liquid piston position in the transition between them . A numerical model is developed by employing these correlations . The comparison between numerical and experimental results enables the validation of such correlations for a specific set of parameters .
+
+@highlight Industrial scale experimental study on temperature variation during liquid piston compression process.
+@highlight First time distinction of two convective heat exchange patterns existing during compression.
+@highlight Set of new correlations for determining the Nusselt number.
+@highlight Validation of proposed correlations by comparison between simulation results and experimental data.

@@ -1,0 +1,7 @@
+ Human Development Index is a useful tool for policy makers to understand the degree of development in their societies and set new policies to improve it . Traditionally the United Nations Development Program releases HDI scores of countries based on the three key dimensions of healthy life population education and standards of living annually . However HDI scores have some deficiencies such as methodology indexes selection and measures time lag . In this paper a new approach is proposed to calculate semi HDI scores . First in each dimension of health education and standard of living new and extra criteria are selected . Then policy makers preferences are considered to assign the weights of criteria in each dimension using best worst method . Then MULTIMOORA method is applied to rank provinces of Iran in each dimension . Finally the semi HDI scores of provinces are calculated based on geometric mean of healthy life population education and living standards . According to the semi HDI scores Kohgiluyeh Boyer Ahmad and Sistan Baluchestan provinces are the most and the least developed provinces of Iran respectively .
+
+@highlight We propose a new approach for calculating the HDI scores.
+@highlight The new approach is based on BWM and MULTIMOORA methods.
+@highlight We consider new criteria in healthy life and population education of HDI.
+@highlight We incorporate the preferences of policy makers in evaluations.
+@highlight We apply the proposed approach for evaluating the provinces of Iran.

@@ -1,0 +1,9 @@
+ Sparse random projection is a popular tool for dimensionality reduction that shows promising performance with low computational complexity . However in the existing sparse RP matrices the positions of non zero entries are usually randomly selected . Although they adopt uniform sampling with replacement due to large sampling variance the number of non zeros is uneven among rows of the projection matrix which is generated in one trial and more data information may be lost after dimension reduction . To break this bottleneck based on random sampling without replacement in statistics this paper builds a stable sparse subspace embedded matrix in which non zeros are uniformly distributed . It is proved that the S SSE is stabler than the existing matrix and it can maintain Euclidean distance between points well after dimension reduction . Our empirical studies corroborate our theoretical findings and demonstrate that our approach can indeed achieve satisfactory performance .
+
+@highlight The stable sparse subspace embedded matrix is constructed for dimension reduction. In this construction the idea of uniform sampling without replacement is adopted to obtain the position of nonzero entries in the matrix. In the constructed matrix each row contains
+@highlight or
+@highlight nonzero entries and each column contains only one nonzero.
+@highlight We prove that our matrix is stabler than SE matrix Dasgupta 1999 .
+@highlight It is proved that embedding the original data into dimension
+@highlight is sufficient to preserve all the pairwise Euclidean distances up to
+@highlight Experimental results verify our theoretical analysis and illustrate that our algorithm outperforms other compared dimension reduction methods.

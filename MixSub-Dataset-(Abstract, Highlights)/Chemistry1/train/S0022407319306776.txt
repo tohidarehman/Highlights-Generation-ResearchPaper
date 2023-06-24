@@ -1,0 +1,6 @@
+ Knowing the optical properties of a sample is important in many scientific fields such as space science climate studies and medicine . In many of these applications the samples are fragile unique or available in limited quantities and have to be subsequently studied by additional techniques implying that sample preservation is important . Established light scattering single particle measurements involve attaching the sample to a holder or measuring a laminar flow of particles neither of which allows a controlled unperturbed non destructive measurement .
+
+@highlight We present the first non destructive 4 particle scatterometer of its kind.
+@highlight Controlled acoustic levitation allows measuring the sample from any angle.
+@highlight Polarimetric angular maps of light scattering from a mm sized sample are demonstrated.
+@highlight The non contact sample manipulation allows handling high value fragile samples.

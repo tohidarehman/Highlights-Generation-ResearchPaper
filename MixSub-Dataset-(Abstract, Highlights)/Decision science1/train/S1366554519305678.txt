@@ -1,0 +1,6 @@
+ This study proposes an efficient deviation path algorithm for finding exactly k shortest simple paths without loops in road networks . The algorithm formulates the deviation path calculation process as repeated one to one searches for the shortest path in a dynamic network where only a node and a link are restored at each search . Using this formulation the proposed algorithm maintains and updates a single shortest path tree rooted at the destination . A re optimization technique lifelong planning A is incorporated into the algorithm to efficiently calculate each deviation path by reusing the shortest path tree generated at the previous search . To verify the efficiency of the proposed algorithm computational experiments were conducted using several real road networks and the results showed that the proposed algorithm performed significantly better than state of the art algorithms .
+
+@highlight Efficient algorithm is proposed to find k shortest simple paths in road networks.
+@highlight A reoptimization technique lifelong planning A is incorporated to speed up the deviation path calculation process.
+@highlight The deviation path can be efficiently calculated by reusing the shortest path tree generated at the previous search.
+@highlight The proposed algorithm runs significantly better than four state of the art algorithms.

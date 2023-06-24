@@ -1,0 +1,7 @@
+ Adhesive bonded joints in carbon fibre reinforced polymer laminates are cost effective but their fatigue cracking potential currently limits aerospace certification . We investigated the concurrent use of Z pins for crack arrest and structural health monitoring in adhesive bonded composite lap joints . The use of Z pins resulted in a crack arrest capacity 33 higher than the joint s static limit load and produced a residual strength that far exceeded current ultimate loads . The electrical resistance in the Z pins was consistent with observed trends in crack growth suggesting its viability for SHM .
+
+@highlight We studied use of Z pins for crack arrest in adhesive bonded composite lap joints.
+@highlight We proposed structural health monitoring based on Z pin electrical resistance.
+@highlight With Z pins crack arrest capacity was 33 higher than a joint s static limit load.
+@highlight With Z pins residual strength far exceeded current ultimate loads.
+@highlight Structural health monitoring using Z pin electrical resistance was proven viable.

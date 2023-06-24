@@ -1,0 +1,5 @@
+ Arrays of oscillators driven out of equilibrium can support the coexistence between coherent and incoherent domains that have become known as chimera states . Recently we have reported such an intriguing self organization phenomenon in a chain of locally coupled Duffing oscillators . Based on this prototype model we reveal a generalization of chimera states corresponding to the coexistence of incoherent domains . These freak states emerge through a bifurcation in which the coherent domain of an existing chimera state experiences an instability giving rise to another incoherent state . Using Lyapunov exponents and Fourier analysis allows us to characterize the dynamical nature of these extended solutions . Taking the Kuramoto order parameter we were able to compute the bifurcation diagram of freak chimera states .
+
+@highlight Coexistence between complex spatiotemporal domains is numerically observed in locally coupled Duffing oscillator chain.
+@highlight A supercritical transition between localized complex spatiotemporal states.
+@highlight Characterization of the complexity of localized states as the energy injection increase.

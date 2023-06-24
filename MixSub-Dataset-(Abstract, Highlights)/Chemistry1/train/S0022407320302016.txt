@@ -1,0 +1,5 @@
+ The accuracy of atmospheric trace gas retrievals depends directly on the accuracy of the molecular absorption model used within the retrieval algorithm . For remote sensing of well mixed gases such as carbon dioxide CO
+
+@highlight Absorption coefficients for the Orbiting Carbon Observatory missions updated to v5.1 for the B10 Level 2 algorithm.
+@highlight Improved spectroscopy for Oxygen A band results in reduced spatial variability in surface pressure retrieval bias.
+@highlight Orbiting Carbon Observatory retrievals are sensitive to changes to the water vapor continuum model.

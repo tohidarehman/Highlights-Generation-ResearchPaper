@@ -1,0 +1,5 @@
+ Selecting appropriate locations for municipal solid waste management facilities such as transfer stations is an important issue in rapidly developing regions . Multiple alternatives and evaluation attributes need to be analyzed for finalizing the locations of these facilities . Multi attribute decision making approaches are found to be very effective for ranking several potential locations and hence selecting the best among them based on the identified attributes . However conventional MADM approaches fail to find the rankings of alternatives derived from all possible combinations of these potential locations . Therefore this study presents a two stage MADM model that also accounts for all possible combinations of locations . This study evaluates economical environmental social and technical attributes based on realistic conditions of the study area
+
+@highlight Logical framework for developing efficient MSW management system.
+@highlight Multi attribute model for finding suitable locations of MSW facilities.
+@highlight Inclusion of all relevant environmental social economical and technical criteria.

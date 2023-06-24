@@ -1,0 +1,7 @@
+ We investigated the thermal and optical characteristics of AgCu alloy disc arrays to produce an optical filter with low near infrared transmittance and compared their properties with those of Ag disc array . Unlike the Ag discs the AgCu discs remained relatively stable with hillocks after annealing at 500C . The Ag and AgCu disc samples had similar transmittance characteristics showing a global minimum at 767nm and at 1081nm . Based on finite difference time domain simulations the global minimum was related to localised surface plasmon resonance . The Maxwell Garnett model was employed to interpret the red shift of the transmittance minima . The calculations showed that a mixture of agglomerated and stable Ag discs resulting in different
+
+@highlight AgCu disc array first adopted to realise thermally stable NIR optical filters.
+@highlight AgCu disc array shows sinusoidal transmittance characteristics with global minimum.
+@highlight FDTD simulations attribute the global minimum of transmittance to LSPR effect.
+@highlight Maxwell Garnet model used to describe the red shift of transmittance minima.
+@highlight AgCu discs could be used as a potentially important optical filters for NIR devices.

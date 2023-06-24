@@ -1,0 +1,6 @@
+ The monitoring of lymphatic drainage is of great importance particularly in the context of the early detection and diagnosis of several diseases . Existing methods of imaging and monitoring lymphatic drainage can be costly and require trained personnel posing problems for at home or point of care monitoring . Recently an alternative approach has been proposed consisting of using microneedles to deliver a near infrared fluorescent tattoo to the skin which can be monitored with traditional laboratory based fluorescence detectors . In this work we present further development of this approach using a specifically designed NIR fluorescent probe and rational optimization of microneedle properties and the spatial location of the NIR dye within the microneedles . Moreover we demonstrate that this method is compatible with a custom made portable fluorescence measurement device and able to discriminate between drainage and lack of drainage in vivo in rats .
+
+@highlight Minimally invasive diagnostic approach.
+@highlight Impaired lymphatic drainage is involved in diseases.
+@highlight A near infrared microneedle tattoo can be used for monitoring lymphatic drainage.
+@highlight The microneedles design is optimized for more sensitive lymphatic monitoring.

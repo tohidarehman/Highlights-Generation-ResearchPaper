@@ -1,0 +1,5 @@
+ Visual field defect is a type of ophthalmic disease that causes the loss of part of the patients field of view . In this paper we propose a method to enlarge the restricted FoV with an optical see through head mounted display equipped with a camera that captures an overview and overlays it on the persisting FoV . Because the overview window occludes the real background scene it is important to create a balance between the augmented contextual information and the unscreened local information . We recruited twelve participants and conducted an experiment to seek the best size position and opacity for the overview window through a Whac A Mole task . We found that the performance was better when the overview window was of medium size FoV of 9.148
+
+@highlight Proposal of a computational glasses for visual field defect.
+@highlight Design of a whac a mole task for empirical performance evaluation.
+@highlight Optimal combinations of size position and opacity for overlaid window.

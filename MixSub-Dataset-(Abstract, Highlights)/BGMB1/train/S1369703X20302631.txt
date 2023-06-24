@@ -1,0 +1,7 @@
+ A coupled residence time distribution and mixed order model was developed to simulate the performance of a pilot high rate algal pond for wastewater treatment under different operational conditions requiring simple influent and effluent wastewater characteristics as input data . The model showed potential in general assessment of the HRAP system performance successfully capturing the magnitude as well as general trend of COD TKN TN and TP concentrations with acceptable accuracy value up to 0.99 . However due to the common limitation of black box model type the detailed agreement between model and experimental data was highly varied sometime unsatisfactory performance was obtained especially for highly complex processes like TKN or TN removal . Besides general information on the dynamics of algal bacterial processes under different operational conditions could be revealed by analyzing calibrated reaction order n and reaction rate constant k
+
+@highlight A coupled residence time distribution and mixed order kinetic model was developed.
+@highlight Only influent and effluent wastewater characteristics were required as input data.
+@highlight Adequate accuracy was obtained in general assessment of the HRAP system performance.
+@highlight Calibrated reaction order and reaction rate constant agreed with system dynamic.
+@highlight The model showed potential of a convenient support for HRAP design and construction.

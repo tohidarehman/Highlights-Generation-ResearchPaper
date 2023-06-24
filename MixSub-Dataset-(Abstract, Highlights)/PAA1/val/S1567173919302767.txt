@@ -1,0 +1,7 @@
+ In this research a simple and an innovative design of triboelectric nanogenerator is reported that converts impact response in electrical signal . The two contacts of vertical separation mode TENG consist of Al and nanostructured PDMS with integral spacer of 1.5mm . The feature size of 80nm PDMS domes was achieved by replicating nanostructured aluminum . The performance of the device was measured by applying the mechanical pulses of 4kgf at frequency of 3Hz . The fabricated TENG demonstrated 0.73mW output power at load resistance of
+
+@highlight Synthesis of PDMS NDs from aluminum replica.
+@highlight Formation of TENG using PDMS NDs as an active layer.
+@highlight An integrated spacer is fabricated for TENG.
+@highlight TENG was successfully demonstrated as self powered impact sensor.
+@highlight The impact force obtained from TENG showed an outstanding correlation with impact force calculated by work energy theorem.

@@ -1,0 +1,6 @@
+ Plasmonic chemical and biological sensors have many advantages such as compact sizes and extremely high sensitivity . Biosensors based on plasmonic waveguides and resonators are one of the most attractive candidates for mobile and portable devices . In this work we proposed a metal insulator metal waveguide semi ring resonator loaded with nanodots periodically decorated in the cavity . The spectral characteristics of the sensor designs are studied via the finite element method . For comparison purpose a standard semi ring resonator of equivalent geometric parameters is also studied . It has been shown that the sensitivity of the proposed sensor design can be significantly increased by decorating nanodots in the cavity which allows the sensitivity to reach a value of 1084.21nm RIU . With these excellent properties this chip scale MIM design is believed to be able to find potential applications in integrated photonic systems such as optical sensing and optical networking fields .
+
+@highlight The proposed sensor design has a miniaturized footprint.
+@highlight High sensitivity of 1084.21 nm RIU by incorporating nanodots in the sensor design cavity.
+@highlight Easy and simple manufacturing of the proposed sensor design.
+@highlight Sensitivity of the proposed design is higher than most of the previously reported designs.

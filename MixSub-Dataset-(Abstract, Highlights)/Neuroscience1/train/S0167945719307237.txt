@@ -1,0 +1,6 @@
+ The aim of this study was to clarify the strategy used by basketball players during free throw shooting to improve performance in the presence of motor noise . Two possible hypotheses were examined the players minimize the release speed to decrease signal dependent noise or the players maximize the shot success probability by accounting for their variability . Eight collegiate players and one professional player participated in this study by attempting shots from the free throw line using a motion capture system . The solution manifold consisting of ball parameters at release was calculated and the optimal strategy was simulated by considering ball parameter variability this result was compared with the actual data . Our results showed that participants selected the solution of near minimum release speed . The deviation of the measured release angle from the minimum speed angle was close to zero 2.83.1
+
+@highlight Basketball players use the near minimum release speed strategy in shooting.
+@highlight The near minimum speed strategy is the solution that is tolerant to release error.
+@highlight Minimizing signal dependent noise does not contribute to performance improvement.
+@highlight Decreasing motor noise and increasing noise tolerance are mutually related.

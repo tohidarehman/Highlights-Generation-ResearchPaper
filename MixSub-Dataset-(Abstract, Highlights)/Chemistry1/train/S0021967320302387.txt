@@ -1,0 +1,7 @@
+ We report on a numerical study of the thermal conductivity and temperature distribution in analytical packed bed and monolithic HPLC columns to assess the feasibility of a number of potential solutions to the viscous heating problem that would normally impede high efficiency separations when moving to extreme operating pressures . Computational fluid dynamic simulations were employed to study heat transfer on three hierarchical levels of the column mesopore level through pore level and column level . At the first level realistic values were determined for the conductivity of the porous zone
+
+@highlight Multilevel simulation study of viscous heating effects at pressures up to 2500bar.
+@highlight Effective conductivity values calculated for the materials most commonly used in LC.
+@highlight Halving radial temperature difference requires doubling the bed conductivity.
+@highlight Only structures with connected enhanced conductivity cores can achieve this.
+@highlight Ultra low conductivity column walls can alleviate viscous heating effects as well.

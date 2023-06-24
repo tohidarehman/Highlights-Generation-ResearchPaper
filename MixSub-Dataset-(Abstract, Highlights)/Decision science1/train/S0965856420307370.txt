@@ -1,0 +1,7 @@
+ Understanding how traffic flows respond to fuel price changes is useful for traffic management . This study uses a dataset of 11.9 million hourly observations from 118 traffic count stations over 20102017 to investigate the relationship between gasoline prices and traffic flows in the state of New South Wales Australia . The findings suggest that higher gasoline prices reduce traffic flows with an average effect size of 0.04 in the hourly estimates . The elasticity is particularly pronounced during off peak periods both on weekdays and weekends . In contrast a positive effect of gasoline prices on traffic flows is observed for peak periods on weekdays . Evidence is also obtained that afternoon peak hour speeds are faster when gasoline prices are higher consistent with a lowering of traffic density . The research also finds a negative price elasticity of gasoline demand and that people are more likely to use public transport when gasoline prices are higher . The findings suggest that fuel excise plays a role in both reducing overall road dependence and alleviating the severity of some peak hour traffic jams .
+
+@highlight The effect of fuel prices on traffic flows in New South Wales is studied.
+@highlight The dataset consists of 11.9 million observations.
+@highlight The average gasoline price elasticity of hourly traffic flows is 0.04.
+@highlight The gasoline price elasticity of weekday peak period traffic flows is positive.
+@highlight Higher fuel prices lead to faster travel speeds in peak afternoon periods.

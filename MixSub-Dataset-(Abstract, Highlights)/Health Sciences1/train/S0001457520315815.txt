@@ -1,0 +1,6 @@
+ The goal of the current study was to develop a method to estimate whole body injury metrics which measure the overall impact of injuries using stochastic injury prediction results from a computational human surrogate . First hospitalized pedestrian data was queried to identify injuries sustained by pedestrians and their frequencies . Second with consideration for an understanding of injury mechanisms and the capability of the computational human surrogate the whole body was divided into 17 body regions . Then an injury pattern database was constructed for each body region for various maximum abbreviated injury scale levels . Third a two step Monte Carlo sampling process was employed to generate
+
+@highlight A method was developed to estimate whole body injury metrics from injury risk.
+@highlight The estimated values were close to those from inpatient pedestrian data.
+@highlight The proposed method can simplify a vehicle design optimization process.
+@highlight The proposed method can be applied to various human surrogates.

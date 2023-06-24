@@ -1,0 +1,6 @@
+ This work presents a particular application corresponding to waveguides manufactured by the femtosecond laser micro machining technique . More specifically we have conducted the study design simulation and implementation of an integrated optical circuit device . Here a set of integrated 12 evanescent wave couplers were constructed and tested . These devices have unique constructive features because they take femtosecond laser writing advantages . Additionally the proposed device is a key element to be implemented in many systems with a high impact among other technological areas such as optical communication sensing and control .
+
+@highlight Design and implementation of integrated photonics device in particular a 12 splitter made by fs laser writing in Lithium Niobate crystals.
+@highlight The designed device is based on evanescent coupling of light from one to other close waveguide.
+@highlight Control of the intensity for each output by adjusting the gap between waveguides.
+@highlight The final design includes bend waveguides at the end in order to join the outputs with naked single optical fibres.

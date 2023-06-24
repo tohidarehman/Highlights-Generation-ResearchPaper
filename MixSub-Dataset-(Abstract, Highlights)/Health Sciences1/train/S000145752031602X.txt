@@ -1,0 +1,7 @@
+ This paper investigates factors associated with the severity of pedestrian outcomes from motor vehicle crashes by analyzing a database of all 13 856 reported pedestrian crashes in Colorado over an 11 year period from 2006 to 2016 . A total of 14 391 pedestrians were involved in these crashes resulting in 612 pedestrian fatalities 11 576 pedestrian injuries and 2203 property damage only outcomes . The objective is to analyze crash records as similarly compiled by other states to show how lives potentially saved by improved factor levels can be estimated as needed for benefit cost comparisons of alternative countermeasures .
+
+@highlight 13 856 reported pedestrian vehicle crashes in Colorado from 2006 to 2016 were analyzed.
+@highlight 14 391 pedestrians were involved in these crashes causing 612 pedestrian fatalities and 11 576 pedestrian injuries.
+@highlight Significant factors were intersection proximity lighting vehicle type and speed ped age and impairment and driver impairment.
+@highlight Lives potentially saved by having better factor levels present are estimated using risk ratios from logistic regression.
+@highlight Lives saved estimates reflect relative magnitudes of benefits that might be achieved by potential countermeasures.

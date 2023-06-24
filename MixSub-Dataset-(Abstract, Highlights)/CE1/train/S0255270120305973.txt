@@ -1,0 +1,8 @@
+ Trickle bed reactors are widely used in petroleum industries which are subjected to stringent environmental laws . Hydrodenitrogenation a crucial process for nitrogen removal employed in crude oil processing is typically carried out in steady state TBRs . Acquainted with this operation researchers are focused on exploring the efficacy of flow modulation in TBRs for improved reaction conversion . A CFD model of a hydrotreating reactor is used in this work to examine potential benefits of periodic operation for a HDN reaction . Results of continuous flow were compared with time averaged conversions for slow and fast modes of
+
+@highlight Computationally analyzed hydrodenitrogenation in a periodic trickle bed reactor.
+@highlight Assessed reactor performance in terms of nitrogen conversion and overall pressure drop.
+@highlight Elaborated potential benefits of fast and slow modes of
+@highlight and
+@highlight flows.
+@highlight Identified desirable modulation scheme based on reaction conversion and pressure drop.

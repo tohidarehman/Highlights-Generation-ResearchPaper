@@ -1,0 +1,6 @@
+ In this paper we investigate the effect of thermal annealing on nonradiative recombination parameters of GaAsPN materials used for intermediate band solar cells . This study is performed thanks to photothermal deflection technique PTD . Indeed nonradiative lifetime electronics diffusivity surface and interface recombination are extracted through a good fit between theoretical and experimental amplitude and phase of PTD signal . Then the effects of annealing temperature on charge transport were analyzed and discussed . As an important result for solar cells improvement we have found that hole diffusion length and mobility increases respectively from 13.8 to 19 m and from 112 to 153 cm
+
+@highlight The electronic parameters of GaAsPN absorbers are measured in respect of various growth and annealing conditions.
+@highlight GaAsPN absorbers present a high minority carrier diffusion length and mobility.
+@highlight Surface recombination velocity is increased during annealing process.
+@highlight Interface recombination velocity is decreased during annealing process.

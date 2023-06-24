@@ -1,0 +1,10 @@
+ Data portability rules are generally thought to encourage consumers to switch between different service providers and facilitate entry of new firms . Some of these rules however only apply to data provided by the consumer e.g . purchasing patterns . Data derived by a firm with the help of data analytics e.g . recommendations derived from purchasing patterns does not fall under data portability rules . We show that under the current legislation along with extensive use of data analytics data portability may hinder switching and entry due to the
+
+@highlight Data portability alleviates the ex post lock in effect and can facilitate entry called a
+@highlight effect .
+@highlight Due to the prospect of easier switching consumers
+@highlight incentive to provide data to the incumbent becomes higher making entry more difficult called a
+@highlight effect .
+@highlight We show that when big data service is valuable enough the
+@highlight effect dominates and data portability can raise entry barrier.
+@highlight This entry deterrence effect is more likely to occur when there is network effect and when the entrant is more innovative.

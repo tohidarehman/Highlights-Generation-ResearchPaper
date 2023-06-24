@@ -1,0 +1,7 @@
+ The value of time is a central parameter in freight transportation . However both its trend and influencing factors remain poorly understood . To reduce potentially diverging influences of different theories and methods used to calculate VOTs in freight transportation only VOTs obtained from discrete choice models with disaggregated data were studied . Based on statistical analysis and regression analysis this study explores the factors that affect VOTs at the macro micro level and provide several suggestions to decrease errors in VOTs caused by inappropriate data collection and model construction . With regard to influencing factors the volume of transported goods per capita was found to be a more appropriate variable than GDP per capita to explain the variation in VOT . With regard to data collection and model construction ignoring reliability will risk overestimating VOT and the model estimated by using stated preference data tends to yield lower VOTs than that using revealed preference data .
+
+@highlight VOTs are both influenced by macro factors and micro factors.
+@highlight Freight volume of air has a stronger interpretation of VOTs than GDP.
+@highlight VOTs during 20012015 are on average higher than those during 19902000.
+@highlight Ignoring reliability in the discrete choice model may overestimate VOT.
+@highlight Stated preference data tends to output a lower VOT than revealed preference data.

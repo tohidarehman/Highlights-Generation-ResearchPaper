@@ -1,0 +1,8 @@
+ Deriving inherent optical properties from multispectral imagery of shallow water environments using physics based inversion models require prior knowledge of the spectral reflectance of the bottom substrate . The use of an incorrect bottom reflectance adversely affects the IOPs and in part the depth derived from inversion models . To date an operational approach that determines the bottom reflectance from multispectral imagery is lacking development in this area is especially paramount for locations that exhibit temporal variability in the spatial distributions of submerged aquatic vegetation and benthic microalgae . In this work we develop a multispectral implementation of the HOPE LUT algorithm and apply the approach to MERIS imagery of the Great Bahama Bank . Overall benthic classification accuracy of this approach was 80.0 revealing the areal coverage of benthic flora can range from 1052.3km
+
+@highlight Deriving shallow water IOPs using MERIS over a temporally variable bottom substrate.
+@highlight MERIS derived benthic habitat maps highlight temporal variability in benthic flora.
+@highlight Benthic flora was shown to range from 1052.3 to 6169.3 km
+@highlight in the Exumas. GBB.
+@highlight Development of a portable and automated benthic classification approach for MERIS.
+@highlight Performance of common atmospheric corrections on depth and benthic classification.

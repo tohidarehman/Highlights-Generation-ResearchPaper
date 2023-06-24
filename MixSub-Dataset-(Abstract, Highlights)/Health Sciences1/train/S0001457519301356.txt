@@ -1,0 +1,5 @@
+ Motorcycle to vehicle collision is one of the most common accidents in the world and usually leads to serious or fatal head injuries to motorcyclists . This study aims to investigate the influences of impact scenarios and vehicle front end design parameters on head injury risk of the motorcyclist . Five general vehicle types and different impact scenarios were selected for a parametric analysis . Impact scenarios were set according to
+
+@highlight Head injury risk of motorcylists based on head linear acceleration and angular accerlertion was investigated by considering typical impact scenarios and vehicle front end design.
+@highlight Critical relative impact speeds of 1015m s were noted as approximate threshold values which can be a reference for testing speed of safety regulation.
+@highlight Bonnet leading edge height and its combined with other front end design parameters show significantly larger influences compared with other design parameters.

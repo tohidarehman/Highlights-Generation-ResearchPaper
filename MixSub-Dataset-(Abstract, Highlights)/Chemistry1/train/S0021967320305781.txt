@@ -1,0 +1,7 @@
+ Multi column continuous chromatography has advantages of high resin capacity utilization and productivity low buffer consumption and small footprint . Experimental optimization is often time consuming and inefficient due to the complexity of continuous processes . In this study a model based approach was investigated to improve process development of twin column continuous capture with Protein A affinity resin MabSelect PrismA . Breakthrough curves under various conditions productivity and capacity utilization
+
+@highlight A model based approach was used for continuous capture process development.
+@highlight Twin column continuous capture with MabSelect PrismA affinity resin was focused.
+@highlight Interactive effects of parameters were studied with process performance profiles.
+@highlight Contour maps were used to optimize the working window for continuous capture.
+@highlight Model based predictive operating conditions were verified by experiments.

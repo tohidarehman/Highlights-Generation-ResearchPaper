@@ -1,0 +1,7 @@
+ The fundamental challenge of the origin destination matrix estimation problem is that it is severely under determined . In this paper we propose a new data driven OD estimation method for cases where a supply pattern in the form of speeds and flows is available . We show that with these input data we do not require an iterative dynamic network loading procedure that results in an equilibrium assignment nor do we need an assumption on the kind of equilibrium that emerges from this process . The minimal number of ingredients which
+
+@highlight New data driven framework for OD matrix estimation.
+@highlight No equilibrium assignment nor network loading model needed.
+@highlight Scalable for large networks using dimensionality reduction techniques.
+@highlight Supervised learning to estimate production and attraction from 3D supply patterns.
+@highlight Results on small and large network promising.

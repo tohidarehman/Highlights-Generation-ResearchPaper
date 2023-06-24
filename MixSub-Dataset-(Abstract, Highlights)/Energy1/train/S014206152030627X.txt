@@ -1,0 +1,7 @@
+ This paper proposes a probabilistic extension to flexible hybrid state estimation for cyber physical systems . The main goal of the algorithm is improvement of the system state tracking when realistic communications are taken into account by optimizing information and communication technology usage . These advancements result in 1 coping with ICT outages and inevitable irregularities 2 determining the optimized state estimation execution frequencies based on expected measurement refresh times . Additionally information about CPSs is gathered from both the phasor measurement units and SCADA based measurements . This measurement transfer introduces two network observability types which split the system into observable and unobservable areas based on 1 deployed measuring instruments and 2 received measurements . A two step bad data detection method is introduced for ICT irregularities and outages . The proposed algorithm benefits are shown on two IEEE test cases with time varying load generation 14 bus and 300 bus .
+
+@highlight Measurement instrument deployment and actual received information distinguished.
+@highlight Realistic information transfer times can improve perception of network observability.
+@highlight Tackled communication irregularities and measurement instrument outages.
+@highlight Optimized state estimation execution frequencies determined.
+@highlight Better system state tracking achieved.

@@ -1,0 +1,8 @@
+ We provide physical insights into the performance of ferromagnetic proximity effects in both electronic and thermodynamic features and the Pauli spin paramagnetic susceptibility of topological crystalline insulator SnTe and related thin films . We implement the low energy Hamiltonian the Greens function method and the Boltzmann approach . First we find a gapless phase for SnTe and a gapped one for SnTe thin film . Second we observe that EHC of gapless SnTe is smaller than the gapped SnTe thin film . Third our results show that an exchange field dependent gap opens in gapless SnTe leading to the increase of EHC . Fourth we explain that for exchange fields smaller greater than the hybridization potential the inherent gap decreases in SnTe thin film while it closes if the exchange field becomes equal to the hybridization potential resulting in the increase of EHC .
+
+@highlight The thermodynamic properties in the topological crystalline insulator TCI SnTe 001 and its thin film TCITF is investigated.
+@highlight TCI TCITF possesses a gapless gapped phase.
+@highlight The electronic heat capacity EHC in TCI is larger than that of TCITF.
+@highlight The Pauli spin paramagnetic susceptibility in TCI is smaller than that of TCITF due to the inherent hybridization potential in TCITF.
+@highlight The band gap in TCI opens with exchange field while it decreases and closes in TCITF.
+@highlight EHC PSPS increases decreases with the exchange field in both TCI and TCITF.

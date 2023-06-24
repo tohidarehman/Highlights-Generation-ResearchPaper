@@ -1,0 +1,7 @@
+ Germinal centers are well known for their important role in shaping the secondary B cell repertoire to generate antibodies capable of binding with high affinity and specificity to foreign antigens . Somatic hypermutation of the Ig variable region genes in GC B cells represents a highly efficient mechanism for generating new antibody variants with increased antigen affinity . To be effective however this process needs to be intimately linked with equally efficient processes that positively select high affinity clones for perpetuation in the GC and ultimately for differentiation into plasma cell and memory B cell effector populations . Just as important is the need for mechanisms of negative selection that remove GC B cell clones with unwanted specificities particularly those that have gained reactivity with self components . Here we discuss recent advances in our understanding of the various selective processes that occur within the GC and identify the major questions in this field that remain to be answered .
+
+@highlight High affinity GC B cells are positively selected or differentiate into plasma cells.
+@highlight Strength of stimulus in the light zone determines this decision.
+@highlight Multiple fates can befall GC B cells after somatic hypermutation in the dark zone.
+@highlight Loss of BCR results in dark zone retention and apoptosis.
+@highlight The fate of self reactive GC B cells remains to be clarified.

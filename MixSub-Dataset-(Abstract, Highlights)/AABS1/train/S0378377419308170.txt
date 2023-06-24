@@ -1,0 +1,7 @@
+ Dynamic irrigation scheduling for Variable rate irrigation systems is essential to accurately estimate the spatiotemporal pattern of irrigation water requirement . Real time sensor based and soil water balance scheduling methods were compared on a trial under a Variable rate center pivot irrigation system . The soil water balance scheduling used the FAO56 ET model to calculate daily soil water deficits and to determine crop water requirements using climate data from a local climate station . The sensor based scheduling system used a wireless soil moisture sensing network to trigger irrigation when soil water deficit reached a critical value in a web based user interface . The scheduling was conducted on pea and French bean crop trials under one center pivot with two delineated irrigation management zones at Massey Universitys No.1 Farm Palmerston North New Zealand .
+
+@highlight Model and measurement scheduling methods were compared for Variable rate irrigation
+@highlight Timing and irrigation amount varied under the two methods
+@highlight Irrigation water use efficiency was greater under the measurement based method
+@highlight No significant crop growth and yield differences were found between the two methods
+@highlight The soil water balance model assumed that the soil is well drained

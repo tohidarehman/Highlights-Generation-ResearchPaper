@@ -1,0 +1,6 @@
+ Privacy is a timely topic that is increasingly scrutinized in the public eye . In spite of privacy and security breaches people still frequently compromise their privacy in exchange for certain benefits of a technology or a service . This study builds on both technology acceptance and User Experience research in order to explore and build hypotheses regarding additional dimensions that might play a role in the acceptability of privacy tradeoffs that are not currently accounted for in TA models . Using four scenarios describing situations with potential privacy trade offs we conducted a focus group study with 8 groups of participants . Our results suggest that factors influencing privacy trade offs go beyond existing TA factors alone . A technology s perceived usefulness plays an important role as well as dimensions related to context previous experiences perceived autonomy and the feeling of control over the data being shared .
+
+@highlight Applicability of technology acceptance models to privacy and security contexts.
+@highlight Hedonic factors should be included in acceptance models to assess privacy trade offs.
+@highlight Perceived usefulness previous experiences autonomy and feeling of control over data.
+@highlight Implications for the design of privacy relevant systems.

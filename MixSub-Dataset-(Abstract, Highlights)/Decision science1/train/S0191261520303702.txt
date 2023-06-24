@@ -1,0 +1,7 @@
+ Hypercongestionthe phenomenon that higher traffic densities can reduce throughputis well understood at the link level but has also been observed in a macroscopic form at the level of traffic networks for instance in morning rush hour traffic into a downtown core . In this paper we show that macroscopic hypercongestion can occur as a purely emergent effect of dynamic equilibrium behavior on a network even if the underlying link dynamics do not exhibit hypercongestion .
+
+@highlight Hypercongestion
+@highlight Vickrey bottlenecks with spaceless vertical queues
+@highlight Arbitrary networks
+@highlight Homogeneous users
+@highlight Optimal first best pricing

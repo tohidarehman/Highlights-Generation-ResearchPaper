@@ -1,0 +1,8 @@
+ In this work the removal of chromium from aqueous waste solution by solvent extraction with 2 ethylhexyl phosphonic acid mono 2 ethylhexyl as extractant is investigated in a novel rotor stator spinning disc reactor . The effect of rotational speed volumetric flow rate and rotor stator distance on extraction efficiency and volumetric mass transfer coefficient are studied . Experimental results indicates that the maximum values of extraction efficiency and volumetric mass transfer coefficient are 97.2 and 0.40 1 s respectively . The mass transfer performance inside the rotor stator spinning disc reactor exceeds that of conventional reactors . Moreover it is found that the extraction efficiency increases with the increase of rotational speed but with the decrease of volumetric flow rate and rotor stator distance . The Volumetric mass transfer coefficient increases as both the rotational speed and volumetric flow rate increase but decreases with the increase of rotor stator distance . Furthermore an analysis on the relationships between volumetric mass transfer coefficient and various parameters is launched by the grey correlation method . The calculation result shows good coincidence with the experimental data .
+
+@highlight Solvent extraction in a novel RSSDR for removal of chromium III .
+@highlight Maximum value of extraction efficiency is up to 97.2 .
+@highlight Maximum value of volumetric mass transfer coefficient is up to 0.40 1 s.
+@highlight Volumetric mass transfer coefficient in RSSDR is much higher than traditional ones.
+@highlight Correlations between K
+@highlight a and parameters are analyzed by grey correlation method.

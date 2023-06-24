@@ -1,0 +1,3 @@
+ Plant tissues are often heterogeneous . To accurately investigate these tissues methods to spatially map these tissue stiffness values onto finite element models are required . The aim was to study the feasibility of using specimen specific computed tomography data to inform the spatial mapping of Young s modulus values on finite element models .
+
+@highlight CT scans can be used to map material properties onto maize finite element models.

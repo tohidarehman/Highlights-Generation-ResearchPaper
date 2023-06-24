@@ -1,0 +1,6 @@
+ The finite excess of the non limiting enzymes in a coupled enzyme assay causes an initial delay that can lead to inaccuracies in the kinetic read out of substrate assays . We derive a new correction term to the well known analytical Lambert W based expression of the progress curve . The key parameter in comparing the activities of the various enzymes in the chain is their pseudo first order rate constant
+
+@highlight An analytical expression for the lag phase in coupled enzyme reactions is derived.
+@highlight Position of the limiting enzyme has negligible impact on the final progress curve.
+@highlight Peak velocity from model robust against noise even when underlying parameters vary.
+@highlight No systematic errors in peak velocity by model fit unlike traditional smoothing.

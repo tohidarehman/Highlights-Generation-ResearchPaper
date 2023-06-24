@@ -1,0 +1,7 @@
+ This study provides a state of the art review of the advantages and disadvantages of Sweeping Gas Membrane Distillation particularly in the separation and purification processes . The origin of SGMD and comparison of SGMD to other membrane distillation methods are provided . Results from experimental and modeling studies of SGMD from 2000 to 2020 are tabulated and discussed . The mechanisms of heat and mass transport as well as the modeling and simulation studies are systematically reviewed . The impact of major operating parameters and implemented membranes on SGMD performance are discussed and highlighted . Potential applications and areas where SGMD could excel are pointed out . Finally future research opportunities in the SGMD are identified .
+
+@highlight A literature review is provided on Sweeping Gas Membrane Distillation SGMD .
+@highlight A critical overview is given on mechanisms of heat and mass transport in SGMD.
+@highlight Operating factors affecting SGMD performance are reviewed.
+@highlight 6.4 of the MD papers published up to January 2020 in refereed journals dealt with the SGMD process.
+@highlight Potential research areas that need further exploration in SGMD are addressed.

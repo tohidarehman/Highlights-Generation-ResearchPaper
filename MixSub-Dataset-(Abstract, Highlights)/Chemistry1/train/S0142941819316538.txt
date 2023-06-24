@@ -1,0 +1,7 @@
+ Mechanical performance of SFRP depends on various factors among which the fiber orientation is difficult to predetermine yet it needs to be considered during product design and manufacturing . This is important for parts with complex geometry and varying wall thicknesses since variations in fiber orientation within the part if not properly analyzed may lead to unexpected or premature part failure . In our research we investigate the effect of fiber orientation on the long term time dependent behavior in shear for polyphenylene sulfide with 40wt glass fiber reinforcement . Our results show that fiber orientation influences the magnitude of creep compliance however the time dependency and time temperature relationship remains the same regardless of the fiber orientation suggesting that the composite time dependency and thermal properties is solely governed by the matrix material .
+
+@highlight The effects of fiber orientation on long term time dependent behavior are studied.
+@highlight Temperature conditioning for minimization of physical ageing effects is presented.
+@highlight Fiber orientation influences the magnitude of creep compliance.
+@highlight Time dependency and time temperature relations are independent of fiber orientation.
+@highlight Composite time dependency and thermal properties are governed by matrix material.

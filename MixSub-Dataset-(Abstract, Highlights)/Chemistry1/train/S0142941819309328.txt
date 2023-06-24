@@ -1,0 +1,7 @@
+ The airship structures made of multi layer composite fabrics or membranes can offer the platform for earth observations wireless communications and space research due to light weight and good mechanical performance . The structural safety and serviceability strongly depend on material properties and working conditions . Available studies are limited within service stress limits or are lack of suitable biaxial tensile constitutive models for understanding structural behavior . This paper thus focuses on a refined numerical model for determining inflation burst behavior of composite airship structures considering new biaxial constitutive equations novel failure criteria and manufacture factors .
+
+@highlight The inflation burst behavior of composite airship structures is assessed.
+@highlight A refined numerical model is established and solved with new programs.
+@highlight Biaxial constitutive failure criteria and real form are considered in new programs.
+@highlight Stress characteristics on ideal and real forms are quantified and compared.
+@highlight Structural breaking for ideal forms propagates much faster than real forms.

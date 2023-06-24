@@ -1,0 +1,8 @@
+ Alkylation of isobutane and butenes in ionic liquids is an important industrially applied and environmentally friendly process for the production of high quality gasoline . In a scale up reactor we found that the ILs with a small amount of aromatics would exhibit excellent performances for the alkylation reaction . The behaviors of aromatics on the liquid liquid interface and the alkylation performance of IL benzene have been investigated by molecular dynamics simulations and experimental studies . Based on density profile segment orientation and self diffusion coefficient the main reason that benzene affects the IL alkylation performance was discussed . Although the amount of benzene was small benzene would accumulate in the acid hydrocarbon interfacial layer during the alkylation process . A little benzene was enough to buffer the strong acidity of chloroaluminate anions at the interface . The presence of benzene also provided a transport channel for reactants increasing the concentration of isobutane at the interface . At the interface the proper acidity and higher isobutane to olefin ratio significantly improved the IL alkylation performance . Effects of other aromatics on the C
+
+@highlight The IL aromatics shows excellent catalytic performance for the C
+@highlight alkylation in a scale up reactor.
+@highlight Enrichment of benzene at IL hydrocarbon interface can be observed by MD simulations.
+@highlight A little benzene was enough to buffer the strong acidity of AlCl
+@highlight at the interface.
+@highlight The introduction of aromatics is conducive to larger interface width and better dispersion of isobutane at interface.

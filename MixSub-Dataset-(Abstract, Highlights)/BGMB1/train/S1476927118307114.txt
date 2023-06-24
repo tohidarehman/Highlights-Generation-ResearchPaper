@@ -1,0 +1,10 @@
+ ATP dependent ParE enzyme is as an attractive target for the development of antibacterial agents . Atom based 3D QSAR model AADHR.187 was developed based on the thirty eight
+
+@highlight A highly predictive five point 3D QSAR model AADHR.187 was developed.
+@highlight Model was validated by the external data set and enrichment study.
+@highlight We identified five potential hits against
+@highlight ParE by
+@highlight pharmacophore based HTVS.
+@highlight 30 ns MD simulation was performed to validate the docking pose.
+@highlight Three new molecules have been proposed having high binding affinity for
+@highlight ParE enzyme.

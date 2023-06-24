@@ -1,0 +1,5 @@
+ High throughput density functional theory calculations have been typically performed with reduced accuracy and notable error in the band gap . Here we suggest several approaches to calculate the optoelectronic properties by using coarser
+
+@highlight Methods to reduce the cost of hybrid DFT not losing the accuracy significantly.
+@highlight Cost effective calculation of the density of states and dielectric functions.
+@highlight Suggested methods to perform high throughput hybrid DFT calculations.

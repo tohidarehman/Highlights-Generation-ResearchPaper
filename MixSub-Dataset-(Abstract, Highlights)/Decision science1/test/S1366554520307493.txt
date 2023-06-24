@@ -1,0 +1,6 @@
+ This paper proposes an adding runs strategy to alleviate in vehicle crowding for peak hour bus services . Passengers departure time choices under user equilibrium and system optimum conditions are investigated with and without adding runs strategy . A bi level programming model is developed to determine the optimal adding runs strategy . An artificial bee colony algorithm is adopted to solve the proposed bi level problem . Numerical examples show that the adding runs strategy is effective in alleviating crowding effects and reducing schedule delay in peak hour bus services . The total system cost can be reduced by more than 8 with the optimal adding runs strategy .
+
+@highlight Proposing a new adding runs strategy for peak hour bus services to alleviate crowding effects.
+@highlight Developing a bi level programming model for the optimal adding runs strategy.
+@highlight User heterogeneity is considered in model formulation.
+@highlight Examining the effectiveness of the proposed adding runs strategy numerically.

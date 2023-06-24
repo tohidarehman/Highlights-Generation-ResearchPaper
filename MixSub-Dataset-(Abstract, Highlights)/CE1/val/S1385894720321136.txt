@@ -1,0 +1,7 @@
+ Detailed kinetic data is an essential component of process and catalyst development . Transient experiments can provide abundant kinetic information describing the evolution of the reaction rate with respect to the gas concentration but require more complex analysis than steady state experiments as they must contend with the separation of transport and kinetic information as a function of time . With the Temporal Analysis of Products reactor and Fourier domain based transformations via the Y Procedure kinetic information may be separated from transport without any mechanistic assumptions but there is a strong influence of experimental noise Yablonsky et al .
+
+@highlight A new inverse diffusion method for calculating time dependent rate and concentration.
+@highlight Transient rate concentration are reconstructed from reactor exit flux to active zone.
+@highlight Use of the gamma distribution is connected to the MaxwellBoltzmann distribution.
+@highlight Methods are noise invariant and suitable for low reaction rates.
+@highlight Fidelity in rate constant estimation is maintained across a wide range of conversion.

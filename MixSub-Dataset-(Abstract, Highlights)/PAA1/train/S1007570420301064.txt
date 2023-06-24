@@ -1,0 +1,7 @@
+ This paper is devoted to elucidating a sufficient condition under which Mackey Glass type discrete hematopoiesis models have at least two positive periodic solutions . This model has periodic coefficients and time delays and includes several production function terms that act as feedback . Our result is obtained by applying the Krasnoselskii fixed point theorem and is represented by a relationship between period coefficients and the production function . Example and its simulations are attached to show how to apply our result . In this example there are exactly two positive 3 periodic solutions in the hematopoiesis model . Simulation shows that one periodic solution is stable and the other is unstable . It also shows that our result can be improved by weakening assumptions about the production function .
+
+@highlight To elucidate the dynamics of blood cells hematopoiesis models having a unimodal production function that acts as feedback are considered.
+@highlight Our model is described by a first order nonlinear difference equation with periodic coefficients and time delays.
+@highlight Periodic behavior of the density of mature blood cells is investigated.
+@highlight The result obtained is described by an easily identifiable relational expression relating to periodic coefficients and the production function.
+@highlight Using Krasnoselskii fixed point theorem the existence of multiple positive periodic solutions is revealed.

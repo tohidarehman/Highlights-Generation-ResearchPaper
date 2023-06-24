@@ -1,0 +1,6 @@
+ We analyse a model of Hes1 gene transcription and protein synthesis with a negative feedback loop . The effect of multiple binding sites in the Hes1 promoter as well as the dimer formation process are taken into account . We consider three possibly different time scales connected with the process of binding to dissolving from a binding site formation and dissociation of dimers production and degradation of Hes1 protein and its mRNA . Assuming that the first two processes are much faster than the third one using the Tikhonov theorem we reduce in two steps the full model to the classical Hes1 model . In the intermediate step two different models are derived depending on the relation between the time scales of processes and . The asymptotic behaviour of the solutions of systems are studied . We investigate the stability of the positive steady state and perform some numerical experiments showing differences in dynamics of the considered models .
+
+@highlight Generalization of the Hes1 gene expression model is presented.
+@highlight The effect of multiple binding sites in the Hes1 promoter and the dimer formation process is discussed.
+@highlight The asymptotic behaviour of the solutions of the Hes1 system is studied.
+@highlight Some numerical experiments showing differences in dynamics of the considered models are performed.

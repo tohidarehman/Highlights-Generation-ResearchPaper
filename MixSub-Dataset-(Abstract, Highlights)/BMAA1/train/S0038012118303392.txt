@@ -1,0 +1,8 @@
+ Subsidy programs are sponsored by government and international agencies to improve affordability and accessibility of food and health products for socially deprived community . Although the donors in such programs allocate substantial resources to fund subsidies a lot of it is wasted due to the inefficiency in the system arising out of product shrinkage and misplacement . This study analyzes the impact of private participation and advanced technology like RFID adoption on the donor subsidy under target consumption level . We formulate the problem as a donor funding the subsidy program through for profit not for profit newsvendor and compare
+
+@highlight Model sales subsidy in a donor funded supply chain scenario.
+@highlight Compare
+@highlight with without RFID and through for profit not for profit firms.
+@highlight Derive closed form solution of the critical tag cost from the donor s perspective.
+@highlight State conditions for RFID tag cost sharing between donor and the implementing firm.
+@highlight Validate model using real data and propose RFID adoption through not for profit firm.

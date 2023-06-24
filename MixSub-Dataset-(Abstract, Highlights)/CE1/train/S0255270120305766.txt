@@ -1,0 +1,7 @@
+ Ocean thermal energy conversion systems represent an attractive economic alternative in communities allocated in coastal areas for producing electric utilities reducing fossil fuel consumption and emissions . This power generation technology uses the temperature difference between the deep cold water and warm surface water of the ocean to produce electricity using the principles of the Rankine cycle . This paper presents a Non Linear Programming multi period and multi objective model for the analysis of OTEC systems . The multi objective approach consists in to maximize the exergy efficiency of the cycle while the total annual cost of the system is minimized . Variations on solar resources availability energy demands and ambient conditions are addressed considering hourly and seasonal profiles from a given housing complex allocated on the Pacific Coast from Mexico .
+
+@highlight Optimal design of oceanic thermal energy conversion systems is addressed.
+@highlight The model considers variations in energy demand and ambient conditions.
+@highlight The proposed model presents a Multi period and multi scenario approach.
+@highlight Multi objective NLP model considers total annual cost and exergy performance.
+@highlight Utopia tracking approach is used for reaching a trade off solution.

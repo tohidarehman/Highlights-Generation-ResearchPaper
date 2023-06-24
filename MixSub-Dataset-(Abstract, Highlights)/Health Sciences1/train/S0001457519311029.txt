@@ -1,0 +1,7 @@
+ Methods based on crash data analysis are effective in identifying intersections with a potential for safety improvement . However it is well recognized that crash data suffer from several shortcomings and that there are clues to safety other than crash occurrence . The systemic approach is an alternative method to address safety issues . In this approach a transportation agency is able to identify priority locations based on the presence of risk factors rather than actual crashes . To promote wider use of the systemic safety approach this paper aims at developing and validating a procedure to rank unsignalised urban intersections for safety improvement based on the evaluation of risk factors by road safety inspections .
+
+@highlight This study developed a procedure to rank unsignalised urban intersections for safety improvement.
+@highlight The procedure identifies and ranks risk factors by safety inspections.
+@highlight The procedure assesses a Safety Index SI for vehicles and pedestrians.
+@highlight The procedure was validated in a sample of eighty nine urban intersections in Florida.
+@highlight The correlation between the SI scores and the Empirical Bayes estimates was significant.

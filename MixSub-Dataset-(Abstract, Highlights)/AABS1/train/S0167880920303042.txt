@@ -1,0 +1,7 @@
+ Agroforestry is a form of productive land management that combines trees or bushes with annual crops or pasture and it can bring benefits in terms of food security and increased carbon sequestration compared with conventional agriculture . But agroforestry as a structured form of agronomic management is relatively new compared with well established and widespread agronomic systems . Consequently there is a lack of data and few models of soil organic carbon have been developed specifically for agroforestry systems . Also agroforestry SOC sequestration data measured in field experiments are often reported only as average linear sequestration rates over the study period . This approach equivalent to zero order kinetics makes it difficult to compare results since in reality SOC sequestration rates are variable over time and change depending on the duration of measurements . Sequestration rates are also strongly dependent on former C stocks in the soil further hampering comparisons between agroforestry systems established on different former land uses .
+
+@highlight SOC sequestration potential in agroforestry is often reported as average rates.
+@highlight Average rates are a zero order approach that produces artifacts on long time scales.
+@highlight We calibrated a first order method to model SOC sequestration in agroforestry.
+@highlight The variability existing in these systems is dealt with Bayesian methods.
+@highlight The model can be a speditive assessment of agroforestry SOC sequestration potential.

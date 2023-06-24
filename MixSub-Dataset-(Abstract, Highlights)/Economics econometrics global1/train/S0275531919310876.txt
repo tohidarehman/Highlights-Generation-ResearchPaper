@@ -1,0 +1,6 @@
+ How do uncertainty and risk aversion affect the behavior of investment style factors We argue that a significant channel through which both uncertainty and risk aversion impact aggregate risk factors is the exposure of factor returns to real activity . We analyze this issue using mixed data sampling decomposition of the sensitivity of factor returns to real activity into high and low frequency components . We find a positive and significant relation between uncertainty and risk aversion for the low frequency component of the sensitivity of factor returns to economic activity . More importantly risk aversion significantly amplifies the effects of uncertainty on real activity exposure . The quality based factor is an important exception to these findings .
+
+@highlight This paper investigates how uncertainty and risk aversion affect the behavior of investment style factors.
+@highlight Uncertainty and risk aversion impact aggregate risk factors through the exposure of factor returns to real activity.
+@highlight Risk aversion significantly amplifies the effects of uncertainty on the exposure of factor returns to real activity.
+@highlight The quality based factor is an important exception to these findings.

@@ -1,0 +1,5 @@
+ It is shown how classes of modulated coupled systems of sine Gordon Demoulin and Manakov type may be reduced to their unmodulated counterparts via the application of a novel reciprocal transformation . Modulations governed by recently introduced integrable Ermakov Painlev II Ermakov Painlev III and Ermakov Painlev IV equations as well as the classical Ermakov equation are considered . In the latter case the procedure is illustrated by the generation of a class of exact solutions to a heterogeneous Manakov system with periodic modulation .
+
+@highlight Privileged integrable systems admit reciprocally related modulated counterparts.
+@highlight Modulation may be driven by Painlev and Ermakov equations.
+@highlight Periodically modulated Manakov solitons may be obtained.

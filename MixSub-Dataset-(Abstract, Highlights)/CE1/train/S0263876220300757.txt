@@ -1,0 +1,7 @@
+ The objective of this paper is to present a new process synthesis tool to systematically synthesize design and evaluate plant layouts for early stage design retrofit of wastewater treatment plants . The tool relies upon an integrated methodology with the following key features first principles mechanistic models used to simulate existing and emerging technologies . This key innovation ensures predictive capability Monte Carlo technique and simulation based optimization techniques for handling the resulting computational complexity effectively a systematic initialization algorithm developed for plant wide simulation optimizing design parameters operational conditions and plant layout simultaneously . Moreover stochastic analysis is performed to verify the robustness of plant configuration and design proposed by the tool . Finally using the tool three real case studies are analyzed to demonstrate the design retrofit of WWTP to the energy recovery plant .
+
+@highlight A novel tool to synthesize design and optimize wastewater treatment plant layouts.
+@highlight Handle multi scale and multi type process models.
+@highlight A systematic initialization algorithm for dealing with plant wide model simulations.
+@highlight A holistic evaluation approach consisting of energy recovery economic and sustainability.
+@highlight The tool successfully applied to a retrofitting study of 3 full scale plants.

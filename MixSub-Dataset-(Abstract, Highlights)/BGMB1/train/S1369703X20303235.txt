@@ -1,0 +1,5 @@
+ In the commented paper Vahidi et al . developed a mathematical model of blood glucose dynamics in type II diabetes mellitus by using a compartmental physiological model proposed for a healthy human body . Although we recognize their manuscript as an outstanding contribution in this comment we discuss some points of the article whose variations concerning the original model are not justified by the authors . Finally for the sake of promoting the practical use of the mathematical model provided by the authors we carefully enclosed a list of mismatches that must be consider for a proper model simulation .
+
+@highlight Comments on the mathematical model of Vahidi et al. 2011 are presented.
+@highlight A list of points that must be consider for proper model simulation are presented.
+@highlight Non justified variations of the Sorensen model equations are discussed.

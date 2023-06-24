@@ -1,0 +1,5 @@
+ Intracellular pH is a critical parameter involved in cell machinery and its dysregulation can either cause or signal pathologic states . Currently described fluorescent pH probes are based on single acid base equilibria and for this reason are intrinsically unable to capture the wide range of cell pH usually spanning over more than four units . Here we describe a fluorescent pH biosensor based on a conjugated coumarin triazine scaffold that is excitable in the visible range shows pseudo linear ratiometric response over more than 6 pH units with a single fluorogenic unit and allows imaging of the whole
+
+@highlight Triazine substituted coumarins are fluorescent pH sensors with extreme linear range.
+@highlight pH sensitive dyes provide ratiometric measurement of whole intracellular pH.
+@highlight The sensor discriminates between intracellular pH of physiologic and tumor cells.

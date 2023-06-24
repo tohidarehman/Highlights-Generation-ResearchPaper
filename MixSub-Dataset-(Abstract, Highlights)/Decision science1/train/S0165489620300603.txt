@@ -1,0 +1,6 @@
+ In weighted games each voter has a weight assigned and yes voters win if the sum of each weight is greater than or equal to the quota . In weighted multi tier games we have several weighted games over the same set of voters . In this article algorithms for calculating Banzhaf and ShapleyShubik indices for three different type of games are proposed weighted AND games weighted OR games and games where the tiers have conjunctive normal form . The presented algorithms are generalizations of known computational methods using dynamic programming technique . Finally some applications and experiments are carried out and these algorithms are compared to a fairly new method based on binary decision diagrams .
+
+@highlight Computation of Banzhaf index and ShapelyShubik index in weighted multi tier games.
+@highlight Extension of known dynamic programming algorithms.
+@highlight Comparison to a fairly new method using binary decision diagrams.
+@highlight Applications involving the impact of Brexit on the Council of the European Union and the United States Congress.

@@ -1,0 +1,7 @@
+ Daytime radiative cooling under sunlight can be achieved by embedding micro sized objects into a binder . In the present article by carrying out a numerical study of daytime radiative cooling material design using statistical Monte Carlo method we demonstrate that a silica SiO
+
+@highlight Scattering by fibers are implemented into a Monte Carlo model to solve radiative heat transfer equation.
+@highlight Radiative cooling of a silica fiber network and silica spheres are compared to emphasize the effects of morphology.
+@highlight Radiative cooling of silica in air and in binder are studied to observe the effect of binder presence.
+@highlight Parametric study on radius of fibers fiber orientation and thickness of coatings is performed.
+@highlight Absence of a binder improves emission and reflection properties and leads to near ideal radiative cooling properties.

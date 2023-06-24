@@ -1,0 +1,5 @@
+ In this study we examined the influence of using hetero gate dielectrics on the short channel effects in scaled tunnel field effect transistors . For bulk TFETs the short channel performance is not influenced by the HGD engineering because the SCEs are caused by the tunneling at the region with negligible gate control . However the use of the HGD increases the SCEs in double gate TFETs because the HGD reduces the gate control on the channel . When the HGD optimized in term of on current is used the channel of HGD TFETs is about 10 nm longer than that of uniform gate dielectric TFETs to obtain similar SCEs . The SCEs in HGD TFETs can be improved by locating the drain side heterojunction toward the drain and or increasing the ratio of low and high
+
+@highlight The use of hetero gate dielectrics HGDs significantly degrades the short channel effects SCEs in double gate TFETs.
+@highlight The minimum scaled length of HGD TFETs is approximately 10 nm longer than that of the non HGD counterparts.
+@highlight The SCEs in HGD TFETs are improved by locating the drain side heterojunction toward the drain or increasing the EOT ratio.

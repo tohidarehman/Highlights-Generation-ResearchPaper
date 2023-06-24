@@ -1,0 +1,6 @@
+ In our previous publications we have presented revised and extended versions of Hottels total emissivity charts for water vapor carbon dioxide carbon monoxide and their mixtures . In applications not only emissivity but also absorptivity is required . In 1935 Hottel and Mangelsdorf produced formulae for calculating total absorptivity using total emissivity for carbon dioxide and water vapor . In 1959 Penner proposed another formula . In this paper we determine accuracy of these approximate formulae using the most advanced line by line model based on HITEMP 2010 . The accuracy has been determined over 4003000K range for both absorbing gas temperatures and source temperatures for total pressure range from 0.5bar to 80bar and mole fractions from 0.1 to 1.0 for carbon dioxide water vapor and carbon monoxide . The path length range examined is from 0.01 to 3000barcm . Furthermore new formulae have been derived and they provide more accurate predictions .
+
+@highlight Procedure for calculating gray gas absorptivities from gas emissivities.
+@highlight Error assessment for Hottels and Penners scaling rules.
+@highlight New more accurate correlations.
+@highlight The new formulae lead to absorptivities within 5 margin on average.

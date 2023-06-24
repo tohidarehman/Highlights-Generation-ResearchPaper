@@ -1,0 +1,7 @@
+ This paper proposes an approach to rationally set automated vehicles car following behavior that explicitly balances between the competing considerations of safety and efficiency . The specification of safety and efficiency are both based on empirically supported concepts and data . In numerical analyses with empirical vehicle trajectories at two sites we demonstrate intuitive response to systematic variation in numerical values selected as inputs as well as whether the scope of the efficiency consideration is selfish or systemwide . The proposed balancing is aligned with the standard Hand Rule criterion to demonstrate that a duty of care has been met in which a burden must be borne if it is less than the product of the probability of loss to a third party and the magnitude of loss . Thus the proposed approach is intended to be useful for designers of control algorithms for AVs to establish that they have met their duty of care taking both safety and efficiency into account .
+
+@highlight Explicit balancing of safety and efficiency to specify the car following behavior of AVs.
+@highlight Safety specified via crash risk severity of crash and monetary cost of crashes.
+@highlight Efficiency specified via Value of Time considering impacts on arrival time.
+@highlight Numerical case study demonstrates tractability intuitive sensitivity to stimulus.
+@highlight Explicit balancing supports demonstrating that a duty of care has been met.

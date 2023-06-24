@@ -1,0 +1,7 @@
+ A terrestrial laser scanning instrument can scan trees to get three dimensional point clouds with detailed tree structures . However some factors such as surrounding environment tree structure the characteristics and scanning parameters of TLS instrument can affect the scanning result . Simulation of tree point cloud is an efficient way to avoid and analyse the influence of the above factors . A simulation method was proposed to simulate tree point clouds by using the ray tracing algorithm and 3D tree models . Thirteen tree models were tested with the proposed simulation method . Ten tree models are from the virtual model library and other three tree models are constructed from real point cloud data . The accuracy of the simulated results was evaluated by using the absolute value of Hausdorff distances . Although the results showed that leaves and more branches will decrease simulation accuracy the proposed method is effective and accurate on tree point cloud simulation .
+
+@highlight A tree point cloud simulation method is proposed.
+@highlight The goal is to reduce the uncertainty and cost of field scan.
+@highlight The simulation is based on the ray tracing method and tree models.
+@highlight The simulation method is verified by using six tree models coming from two sources.
+@highlight The accuracy is analyzed by using the abstract Hausdorff distance.

@@ -1,0 +1,7 @@
+ We propose an online adaptive computational ghost imaging scheme that offers high quality imaging with few measurement numbers . Different from the conventional second order correlation CGI the proposed scheme utilizes an online imaging method for image reconstruction where the object image is recovered immediately after the light intensity is acquired . An adaptive measurement termination method is proposed to terminate the online imaging when the quality of the recovered image is satisfied . The effectiveness of the proposed scheme is verified by numerical simulations and experiments and its imaging performance is assessed by comparing the results with state of the art FWHTGI and RDCGI . The results demonstrate that the proposed scheme can achieve high quality imaging with few measurements and imaging quality is better than that with FWHTGI and RDCGI under low measurement number conditions . The proposed scheme may be helpful for high resolution and real time CGI .
+
+@highlight An online computational ghost imaging scheme is proposed.
+@highlight An adaptive measurement termination method is proposed.
+@highlight The object image is recovered immediately after the light intensity is acquired.
+@highlight The proposed scheme have wide potential applications.
+@highlight The proposed scheme can achieve image reconstructions with few measurement numbers.

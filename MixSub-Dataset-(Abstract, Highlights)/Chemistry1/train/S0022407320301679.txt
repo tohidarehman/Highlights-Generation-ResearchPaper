@@ -1,0 +1,10 @@
+ In a recent work Vispoel etal . optimized the intermolecular potential used in the Modified Complex Robert Bonamy formalism for the H
+
+@highlight Half width and line shifts for 94 536 H
+@highlight O transitions broadened by N
+@highlight Temperature dependence of and by the Gamache Vispoel DPL model.
+@highlight Prediction routine for and and their temperature dependence.
+@highlight Nitrogen broadened line list for H
+@highlight O H
+@highlight O and H
+@highlight O based on HITRAN2020.

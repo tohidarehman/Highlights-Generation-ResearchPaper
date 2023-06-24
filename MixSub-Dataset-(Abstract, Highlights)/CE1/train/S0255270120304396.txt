@@ -1,0 +1,7 @@
+ In many applications convective heat transfer enhancement is readily achieved by generating streamwise vortices and coherent flow structures using Vortex Generators such as in multifunctional heat exchangers reactors . Shape optimization of the VG s have been carried out over the last decades to find enhanced designs . Meanwhile the design variables were limited to two or three such as angle of attack roll angle and shape factor . In the present study optimization using a large space exploration design via multiobjective function are conducted to find optimal VG designs . Simulations are performed over the VG shape in a rectangular parallel plate channels under forced convection laminar flow regime . Firstly the numerical results are validated versus experimental and numerical data from the open literature . Then seven design parameters are considered with different incremental values which are Attack Angle
+
+@highlight Heat transfer enhancement in heat exchangers using vortex generators.
+@highlight Vortex generators shape optimization via multi objective large space exploration design.
+@highlight Simulations performed under forced convection laminar flow regimes.
+@highlight Optimization parameters attack angle roll angle base angles length height and shape length.
+@highlight Heat transfer enhancement relative to empty channel by 35 .

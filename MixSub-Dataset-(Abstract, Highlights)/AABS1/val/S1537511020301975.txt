@@ -1,0 +1,7 @@
+ For grape bunches a loose architecture is one of the most important physical barriers to avoid fungal infections making the phenotyping of grape bunches i.e . the derivation of the morphological attributes a major goal for breeders . The stem skeleton plays an important role in determining the architecture but is for grape bunches with berries ready for harvest usually completely occluded by the berries making it invisible in the data . We introduce geometrical and topological constraints to encode knowledge about geometry and topology of the plant organs to foster efficient sampling of infinitely large hypotheses spaces for target objects with a high amount of self occlusion and high within class scatter . To further support the reconstruction process we introduce a new variant of the Reversible Jump Markov Chain Monte Carlo algorithm with locally optimised jumps meaning that after using a jump to select a model a parameter optimisation is performed on the changed parts .
+
+@highlight 3D reconstruction of grape bunches including the stem skeleton.
+@highlight Constraint based optimization to deal with high within class scatter.
+@highlight Two phased approach for model selection with local optimisation.
+@highlight Robust results on 52 grape bunches spread over 4 cultivars.
+@highlight Promising first results for field scans on 23 grape bunches spread over 3 cultivars.

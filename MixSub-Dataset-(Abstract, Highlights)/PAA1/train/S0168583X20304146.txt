@@ -1,0 +1,5 @@
+ Radiation defect kinetics modeling is used to describe ion tracks in lithium fluoride crystals . According to the track geometry suggested model takes into account diffusion currents of point defects and their drift in the temperature and elastic fields caused by thermal spike . Due to the different dilatation signs of vacancies and interstitials the induced stress field produces the opposite forces squeezing out the interstitials whereas the vacancies are rather confined .
+
+@highlight Kinetics of color centers being created by swift ions in lithium fluoride crystals is considered.
+@highlight Ion track morphology is analyzed taking into account diffusion and drift of point defects.
+@highlight Possible mechanism of the track core formation by swift heavy ions is suggested.

@@ -1,0 +1,7 @@
+ Being able to pick out particular sounds such as speech against a background of other sounds represents one of the key tasks performed by the auditory system . Understanding how this happens is important because speech recognition in noise is particularly challenging for older listeners and for people with hearing impairments . Central to this ability is the capacity of neurons to adapt to the statistics of sounds reaching the ears which helps to generate noise tolerant representations of sounds in the brain . In more complex auditory scenes such as a cocktail party where the background noise comprises other voices sound features associated with each source have to be grouped together and segregated from those belonging to other sources . This depends on precise temporal coding and modulation of cortical response properties when attending to a particular speaker in a multi talker environment . Furthermore the neural processing underlying auditory scene analysis is shaped by experience over multiple timescales .
+
+@highlight Sound perception in noisy environments is a major challenge for the auditory system.
+@highlight Adaptation to sound statistics helps to form noise tolerant neural representations.
+@highlight Sound segmentation requires precise temporal coding in the auditory system.
+@highlight Perceptual features for segmentation undergo statistical and long term learning.
+@highlight Attended objects have enhanced spectrotemporal representations in auditory cortex.

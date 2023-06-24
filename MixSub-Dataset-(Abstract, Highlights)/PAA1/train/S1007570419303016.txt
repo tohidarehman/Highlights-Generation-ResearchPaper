@@ -1,0 +1,6 @@
+ This paper establishes conditions for the asymptotic stability of timefractional reactiondiffusion systems . The stability of linear systems is investigated by means of the eigenfunction expansion of the Laplacian operator . Theoretical bounds are placed on the arguments of the infinity of eigenvalues belonging to the instant Jacobian matrix . Nonlinear systems are linearized by means of their Taylor series expansion . Numerical solutions of two realistic examples are presented to illustrate the theoretical findings .
+
+@highlight This paper considers the local asymptotic stability of time fractional reaction diffusion systems which have been shown to provide accurate models of a variety of natural phenomena.
+@highlight Conditions for the stability of commensurate linear systems are derived by means of the eigenfunction expansion of the Laplacian operator.
+@highlight We show how incommensurate systems can be transformed into commensurate ones.
+@highlight We show how nonlinear systems can be linearized by means of their first order Taylor series approximation.

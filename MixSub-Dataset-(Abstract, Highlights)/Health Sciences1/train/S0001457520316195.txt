@@ -1,0 +1,6 @@
+ Pedestrian protection is an important component of road safety . Intersections are dangerous locations for pedestrians with mixed traffic . This paper aims to predict potential traffic conflicts between pedestrians and vehicles at signalized intersections . Using detection and tracking techniques in computer vision pedestrians and vehicles features are extracted from video data . An LSTM neural network is proposed to predict the pedestrian vehicle conflicts 2 s ahead . The established model reaches an accuracy of 88.5 at one signalized intersection . It is further tested at a new intersection reaching the accuracy of 84.9 while the new data merely takes up 30 of the training data set . This indicates that the proposed model is promising to be implemented at different locations . Moreover the proposed model can also be applied to develop collision warning systems under the Connected Vehicles environment .
+
+@highlight Trajectories of pedestrians and vehicles are generated using automated video techniques.
+@highlight The LSTM model is established to predict potential pedestrian vehicle conflicts at the signalized intersections.
+@highlight The external testing results show the model generalizes well at different locations.
+@highlight The proposed model can be applied in collision warning systems under the Connected Vehicles environment.

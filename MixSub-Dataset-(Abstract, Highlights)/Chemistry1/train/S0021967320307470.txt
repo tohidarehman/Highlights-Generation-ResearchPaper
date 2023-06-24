@@ -1,0 +1,7 @@
+ An automated inline sample preparation method has been developed for pesticide residue analysis in spinach by LC MS MS. Chlorophyll pigments and other matrix constituents were removed from the sample extract using a UHPLC system equipped with an auxiliary pump 6 port high pressure switching valve and dual directional ILSP cartridge containing bonded silica . The new procedure was evaluated as an entirely separate workflow using a simple solid liquid extraction and as part of a cleanup strategy in conjunction with QuEChERS . Accuracy and precision experiments were conducted in spinach at two concentration levels
+
+@highlight An automated inline sample preparation LC MS MS workflow for pesticide residue analysis.
+@highlight Analysis of 63 pesticides from spinach.
+@highlight Comparison to QuEChERS approach shows more pigment removal with less pesticide loss.
+@highlight Simpler faster and more amenable to automation than QuEChERS.
+@highlight Validation experiments show good method linearity and recovery.

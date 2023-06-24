@@ -1,0 +1,6 @@
+ In this study we investigated the human red blood cell dynamics by means of biospeckle laser analysis . Blood samples from healthy donors were introduced in a 0.8mm internal diameter capillary tube and illuminated with a He Ne laser in order to obtain the biospeckle pattern from both side and forward scattered light . Experiments were carried out for different concentrations of red blood cells in plasma from 25 to 50 . Biospeckle parameters such as Correlation Coefficient and Inertia Moment were calculated for different frequency bandwidths in order to assess their sensitivity and versatility . A filter based on the Discrete Wavelet Transform was used to decompose the registered sample activity . A relation between Inertia Moment and the RBCs to plasma volume ratio was observed . The Correlation Index that measures the level of correlation of biospeckle images was defined and analyzed . This work inquires in a technique that is suitable for the development of novel non invasive optical tools for clinical diagnosis in vascular pathologies .
+
+@highlight Biospeckle laser analysis as a tool for studying erythrocyte dynamics.
+@highlight Wavelet filtering enhances the biospeckle signal.
+@highlight Forward and side scattering biospeckle show different applications.
+@highlight Inertia Moment parameter as hematocrit identifier and Correlation Index definition.

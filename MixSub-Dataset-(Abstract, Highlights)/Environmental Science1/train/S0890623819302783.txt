@@ -1,0 +1,7 @@
+ Endoderm gives rise to the gut tube in the early embryo . We differentiated human induced pluripotent stem cells to embryonic endoderm to identify a tipping point at which the developing system did not recover from perturbations caused by exposure to all trans retinoic acid . Differentiating hiPSC derived endoderm exposed to five concentrations of ATRA between 0.001 and 10M at 6h 96h or 192h was assessed for forkhead box A2 protein expression and global gene transcript expression . A tipping point of 1711nM was identified where patterns of differentially expressed genes supported a developmental trajectory shift indicating a potential teratogenic outcome . This concentration is between womens endogenous ATRA blood plasma levels and teratogenic levels of circulating isotretinoin an ATRA isomer used to treat acne . Taken together these data suggest that this approach is a sensitive method to identify a point of departure for chemicals that impact early embryonic development .
+
+@highlight All trans retinoic acid ATRA 17nM tipping point shifted the differentiation trajectory of human induced pluripotent stem cells hiPSCs .
+@highlight ATRA concentrations above 10nM significantly reduced FOXA2 protein expression.
+@highlight ATRA above the tipping point impacted expression of genes that mark the primitive streak stage of embryonic development.
+@highlight Pathway analysis suggests that eomesodermin 
+@highlight  mediates the cellular phenotype trajectory shift above the tipping point.

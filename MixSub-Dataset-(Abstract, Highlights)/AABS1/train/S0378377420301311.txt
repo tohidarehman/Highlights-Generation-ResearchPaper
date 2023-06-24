@@ -1,0 +1,7 @@
+ Distributed crop models were considered a useful tool for allocating rational water resources . However how to upscale the crop model into the regional scale is a key issue because the associated crop parameters tend to have spatial heterogeneity according to their feedback to the environment . The remote sensing may provide a possible method for generating the spatial distribution of crop parameters thereby improving the upscaling approach . On this basis this study aims to achieve the spatial distribution of crop parameters and establish the distributed AquaCrop RS model by means of remote sensing . The results showed that the distribution of two crop parameters namely the maximum canopy coverage
+
+@highlight A new distributed crop model AquaCrop RS model was developed.
+@highlight The precision of the AquaCrop RS model has improved.
+@highlight Sensitivity analysis have been conducted for the crop parameters of
+@highlight  and
+@highlight  .

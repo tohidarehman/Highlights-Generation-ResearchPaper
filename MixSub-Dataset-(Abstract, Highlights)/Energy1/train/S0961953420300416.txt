@@ -1,0 +1,6 @@
+ Cookstove researchers are paying more attention to the improvement in the combustion performance of a biomass cookstove which requires an understanding of the effects of different parameters on pollutant emissions . Five such important parameters were identified namely Inlet area ratio Primary air ratio Pot gap Fuel surface to volume ratio and Pot diameter . The work presented here comprises estimating the effects of these five parameters on the energy and emissions performance of natural draft biomass cookstove . A prototype stove was tested to quantify the effects of these parameters on chosen performance parameters like overall efficiency CO and PM
+
+@highlight A novel application of RSM with CCD to a natural draft biomass cookstove prototype.
+@highlight Experimental estimation of the effects of 5 factors on the efficiency and CO and PM emissions.
+@highlight Application of Desirability Function and Genetic Algorithm for multi response optimization.
+@highlight Robust parameter design of stove to maximize efficiency and minimize emissions.

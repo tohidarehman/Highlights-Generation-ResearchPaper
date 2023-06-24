@@ -1,0 +1,6 @@
+ Major histocompatibility complex encoded class I molecules bind a broad spectrum of peptides generated in the cytoplasm and encountered during protein folding and maturation in the endoplasmic reticulum . For cell surface expression and recognition by T cell receptors and natural killer receptors MHC I require loading with high affinity peptides . Peptide optimization is catalyzed by either of two pathways . The first is via the peptide loading complex which consists of the transporter associated with antigen processing 1 TAP2 heterodimer tapasin ERp57 and calreticulin
+
+@highlight Peptide MHC complexes serve for recognition by T and NK cells.
+@highlight Loading of peptide on MHC I depends on either the tapasin containing PLC or on TAPBPR.
+@highlight Structural studies of tapasin and TAPBPR lead to understanding of mechanism of peptide loading.
+@highlight Crucial parts of the TAPBPR molecule reveal dynamic motion as observed in X ray NMR and molecular dynamics studies.

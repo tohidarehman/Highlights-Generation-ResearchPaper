@@ -1,0 +1,6 @@
+ In this work a novel fixed bed reactor configuration is proposed and tested for the steam reforming of methane the proposed solution consists of filling the voids of highly conductive metallic open cell foams with small catalytic pellets . This reactor layout aims at enhancing the radial heat transfer of the tubular reactor by exploiting the thermal conductivity of the solid interconnected matrix while keeping a target catalyst inventory and avoiding issues related to washcoating of metallic structures .
+
+@highlight Packed foams successfully applied to SMR process.
+@highlight Systematic increase of productivity noted at fixed oven temperature.
+@highlight Foam conductivity enhances heat transfer properties.
+@highlight Development of a heat transfer model for packed foams.

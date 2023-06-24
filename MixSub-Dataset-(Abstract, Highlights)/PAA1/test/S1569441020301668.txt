@@ -1,0 +1,6 @@
+ In this paper a novel multifunctional four layer SPR structure is proposed which can not only measure the RI of external layer but can also realize accurate measurement of the applied electric fields by fixing the external layer . When the structure is used for measuring the RI of external analytes the metal and electro optic crystal layers were optimized by FDTD solutions software . The thickness of Ag layer is 50 nm and the optimum electro optic crystal is BaTiO
+
+@highlight The measurement layer is placed inside the structure to form a new four layer SPR structure of prism metal measurement dielectric layer.
+@highlight The sensor has the advantage of high measurement accuracy and wide measurement range.
+@highlight The sensing characteristics of multilayer structures are analyzed theoretically.
+@highlight The idea is expected to be applied to other types of SPR sensors to achieve higher measurement accuracy and wide measurement range.

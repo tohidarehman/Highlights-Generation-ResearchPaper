@@ -1,0 +1,7 @@
+ The automatic detection of postures and posture changes in sows using a computer vision system has substantial potential for learning their maternal abilities enhancing their welfare and productivity and reducing the crushing risk to piglets . The objectives of this study are to detect frame level sow postures temporally localise posture change actions and generate spatio temporally action tubes parsed from a long time untrimmed segment of depth video . Depth videos were recorded for five batches of lactating sows using a Kinect from a top view in a commercial farm . Three batches were used for training and validation and the other two for testing . Four postures were automatically detected with a mean average precision
+
+@highlight Depth videos were used to detect posture change actions for sows in lactation.
+@highlight Posture change actions were localised temporally from an untrimmed video.
+@highlight A tube optimisation algorithm smoothed the action tubes spatio temporally.
+@highlight This method offered promising accuracy in detecting sow posture change actions.
+@highlight Maternal behavioural abilities of two sows could be distinguished by this method.

@@ -1,0 +1,5 @@
+ A method for implementing Active Microwave Thermography for use in determining molecular dipole moments is reported . Specifically the experimental setup along with a mathematical model for determining the dipole moment for deionized water is reported herein . The thermal and spatial resolution of the camera is shown to be of utmost importance in providing statistical and regional relevance respectfully of the properties of the material being studied . Deionized water in particular was studied in order to provide foundational knowledge for the veracity of using AMT in determining dipole moment values and representative values are reported herein . In order to extend the technique to more localized regions and composite systems a more complex model and upgraded hardware are required .
+
+@highlight First ever use of Active Microwave Thermography AMT to measure the Molecular Dipole Moment.
+@highlight Creation of a model to image the dipole moment shows adequate temperature resolution is required.
+@highlight Measurements made on deionized water.

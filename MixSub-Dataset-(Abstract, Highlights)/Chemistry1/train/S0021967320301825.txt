@@ -1,0 +1,5 @@
+ This work described the development of a novel method for simultaneous extraction of eight active compounds from Yaobitong capsule by accelerated solvent extraction . Response surface methodology with desirability functions was employed to optimize the extraction conditions yielding the optimal conditions of ASE . A high performance liquid chromatography coupled with a diode array detector method was developed and validated for simultaneous quantification of the eight compounds in Yaobitong capsule . The values of correlation coefficient were satisfactory between 0.9992 and 0.9999 over the linear concentration range of 0.51000g mL
+
+@highlight An ASE method for extraction active ingredients in Yaobitong capsule was developed.
+@highlight Box Behnken design was used to optimize the extraction conditions.
+@highlight A HPLC DAD method to quantify eight compounds from Yaobitong capsule was proposed.

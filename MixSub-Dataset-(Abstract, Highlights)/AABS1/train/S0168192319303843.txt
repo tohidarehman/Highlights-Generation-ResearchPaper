@@ -1,0 +1,7 @@
+ Climate Services provide support to decision makers across socio economic sectors . In the agricultural sector one of the most important CS applications is to provide timely and accurate yield forecasts based on climate prediction .
+
+@highlight Grassland model PaSim used to simulate a mown grassland system in central France.
+@highlight Climate dependent timeseries of optimal forage yield generated.
+@highlight Remarkable increase in simulated forage yield 29 observed in the long term.
+@highlight Annual forage yield values robustly correlated with teleconnection patterns.
+@highlight Skillful seasonal forecasts of forage yield attained from climatic predictors.

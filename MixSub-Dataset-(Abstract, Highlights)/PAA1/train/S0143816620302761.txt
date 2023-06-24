@@ -1,0 +1,6 @@
+ In order to achieve the high accuracy and high speed in phase shifting interferometry a phase extraction approach by combining advanced principal component analysis and Lissajous ellipse fitting is proposed . It can obtain accurate phase distribution with only two no pre filtering phase shifted interferograms and it costs less time simultaneously . It removes the restriction that PCA needs more than three interferograms with well distributed phase shifts to subtract relatively accurate mean . Moreover adjacent pixels taken part in the APCA process increases the accuracy by suppressing the effect of noise also it is suitable for different levels of noises . Last but not least if the high accuracy is required the phase shift would be best to far away from 0 rad and rad . The simulations and experiments verify the correctness and feasibility of APCA LEF .
+
+@highlight A phase extraction by combining advanced principal component analysis and Lissajous ellipse fitting is presented.
+@highlight New algorithm only needs two phase shifted interferograms.
+@highlight New algorithm does not need pre filtering.
+@highlight New algorithm can obtain the high accuracy and cost less computational time.

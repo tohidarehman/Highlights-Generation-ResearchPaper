@@ -1,0 +1,7 @@
+ Space allocation problem in container terminals is one of the yard management challenges in short term planning however the impact of container reshuffling to the SAP is neglected in much of the literature as well as in real terminal planning . This study focuses on the SAP that accounts for container reshuffling where the macro level impact of reshuffling is derived from discrete event simulation and integrated into mix integer programming model . Empirical approaches are developed to achieve a trade off between fast computation and good solutions . The result shows that ignoring reshuffling activities during planning will lead to overestimation on yard capacity .
+
+@highlight The impact of container reshuffling is integrated with space allocation problem.
+@highlight A simulation model is developed to capture the relations between the reshuffling factors.
+@highlight The impact of reshuffling is approximated by a high dimensional interpolation method.
+@highlight Empirical approaches are explored to solve the problem.
+@highlight Experiment results show that the potential losses from ignoring reshuffling activities can be significant.

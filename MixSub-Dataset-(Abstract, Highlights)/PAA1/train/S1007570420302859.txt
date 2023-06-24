@@ -1,0 +1,5 @@
+ The main goal of this paper is to understand the formation of hexagonal patterns from the dynamical transition theory point of view . We consider the transitions from a steady state of an abstract nonlinear dissipative system . To shed light on the formation of mixed mode patterns such as the hexagonal pattern we consider the case where the linearized operator of the system has two critical real eigenvalues at a critical value
+
+@highlight Generic transitions resulting in the formation of hexagonal patterns is analyzed.
+@highlight All possible transition scenarios are classified using dynamic tansition theory.
+@highlight Applications of results to nonlinear dissipative systems is discussed.

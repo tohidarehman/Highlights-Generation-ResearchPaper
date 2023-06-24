@@ -1,0 +1,7 @@
+ In this work we adapt the rolling horizon approach of Eberlein et al . for adjusting the dispatching times of buses at each rolling horizon . The industry practice is to adjust the dispatching time of a bus once it departs from the first stop while considering that future trips will operate as planned . In contrast a rolling horizon approach adjusts simultaneously the dispatching times of all trips that operate during a pre determined time interval resulting in a coordinated effort to maintain the target headways . Due to the increased number of dispatching time decisions this coordinated effort increases the computational burden . To reduce the computational cost we introduce a nonlinear program and we propose a novel reformulation that limits the recursive relations of the optimization problem . Our program is proved to be convex and can be solved to global optimality under a limited computational cost . In addition it outperforms myopic methods that adjust the dispatching time of each bus trip in isolation . The sensitivity of our method to travel time and passenger demand fluctuations is investigated on a simulation scenario of bus line 15L in Denver .
+
+@highlight Exact model for the bus dispatching in rolling horizons.
+@highlight Proof of convexity and global optimality.
+@highlight Reproducible numerical experiments.
+@highlight Identify dispatching times that can adjust to operational variations.
+@highlight Significant improvements for control horizons with 412 trips.

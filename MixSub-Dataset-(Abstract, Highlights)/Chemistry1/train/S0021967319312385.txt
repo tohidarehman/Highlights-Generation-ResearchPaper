@@ -1,0 +1,7 @@
+ Biological samples are usually complex matrices due to the presence of proteins salts and a variety of organic compounds with chemical properties similar to those of the target analytes . Therefore sample preparation is often mandatory in order to isolate the analytes from troublesome matrices before instrumental analysis . Because the number of samples in drug development doping analysis forensic science toxicological analysis and preclinical and clinical assays is steadily increasing novel high throughput sample preparation approaches are calling for . The key factors in this development are the miniaturization and the automation of the sample preparation approaches so as to cope with most of the twelve principles of green chemistry . In this review recent trends in sample preparation and novel strategies will be discussed in detail with particular focus on sorptive and liquid phase microextraction in bioanalysis . The actual applicability of selective sorbents is also considered . Additionally the role of 3D printing in microextraction for bioanalytical methods will be pinpointed .
+
+@highlight MIPs and graphene tablets for drug extraction from biological fluids.
+@highlight Microextraction by packed sorbent for bioanalytical applications.
+@highlight Liquid phase microextraction based on supported liquid membranes compatible with biological fluids.
+@highlight High performance materials as extractant phases.
+@highlight 3D printing in microextraction for bioanalytical applications.

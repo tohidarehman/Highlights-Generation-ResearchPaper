@@ -1,0 +1,7 @@
+ This study experimentally examines potential non professional investors understanding of a random sample of SOX 404 reports containing both IT weaknesses and non IT weaknesses as reflected in their internal control weakness severity ratings and their accuracy in identifying the reported ICWs . We find that the number of perceived non ITWs and report length are positively associated with potential investors ICW severity ratings and that failing to perceive non ITWs reduces potential investors ratings of weakness severity . However the number of perceived ITWs is not associated with potential non professional investors ratings of the overall severity of ICWs . Potential investors errors in identifying both non ITWs and ITWs are associated with the number of non ITWs and ITWs reported . Also errors are positively associated with lower readability of SOX 404 reports . We identify specific types of ITWs and non ITWs that contribute the most to the total number of errors made by non professional investors in perceiving ICWs .
+
+@highlight Potential investors do not fully understand SOX 404 reports.
+@highlight Perceived rather than reported ICWs are associated with ICW severity assessment.
+@highlight Failing to perceive non ITWs but not ITWs reduces ICW severity assessment.
+@highlight Perception errors are associated with lower readability of SOX 404 reports.
+@highlight Specific non ITWs and ITWs that contribute most to perception errors are identified.

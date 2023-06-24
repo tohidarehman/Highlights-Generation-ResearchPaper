@@ -1,0 +1,8 @@
+ Tritium as the fuel of fusion reactor must be stored in a metal hydride tank at a desired absorbing rate . This requirement must be fulfilled by proper design of the MH tank which can be assisted by numerical simulation . In this work a numerical model is proposed to couple hydrogen absorption kinetics and the heat and mass transfer of the MH tank . A novel kinetic model at constant flows for the gas solid reaction is developed to analyze the complex hydrogen absorption kinetics of a MH at different pressures which is the core of the numerical model . Kinetic analysis is performed to obtain the hydrogen absorption rate equation of LaNi
+
+@highlight A numerical model for the hydriding process of metal hydrides is developed.
+@highlight A kinetic model at constant flows is deduced and coupled in the numerical model.
+@highlight The Numerical model is used to predict the hydriding process of LaNi
+@highlight Al
+@highlight tank.
+@highlight Thinner layer and higher fluid velocity can both enhance heat transfer in the tank.

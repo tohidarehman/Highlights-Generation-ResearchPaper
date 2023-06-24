@@ -1,0 +1,7 @@
+ Volatile fatty acids the intermediate of the anaerobic process are considered to be the critical high sensitive and reliable indicators of the process stability . Close monitoring and control of VFAs are paramount for the efficient operation of the anaerobic reactors . In this study a buffer intensity based mathematical model was developed and the least square method was integrated into the model to solve the issue of non linear fitting of the titration curve . An automatic analyzer embedded with the developed model was designed and implemented for measuring VFAs and alkalinity . Through model optimization the pH range of 3.55.6 was found to be suitable for VFAs analysis . The developed approach was validated by different VFAs and carbonate alkalinity concentrations up to 1500mg L as CaCO
+
+@highlight A novel approach for real time VFAs and alkalinity measurements was developed.
+@highlight A mathematical model was derived based on buffer intensity for titration curve fitting.
+@highlight Model optimization suggests pH between 3.5 and 5.6 is eligible for VFAs measurement.
+@highlight Impact of other weak acid subsystems is insignificant on the developed approach.
+@highlight An automatic analyzer was designed and tested with good accuracy and reliability.

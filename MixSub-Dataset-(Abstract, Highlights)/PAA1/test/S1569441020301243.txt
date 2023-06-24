@@ -1,0 +1,10 @@
+ In this study we conducted finite difference time domain simulation investigations of the transient responses of silicon on insulator waveguide based vertical photodetectors using the phase change material Ge
+
+@highlight Amorphous Ge
+@highlight Sb
+@highlight Te
+@highlight  aGST and crystalline GST cGST as vertical photodetectors.
+@highlight Individual carrier behavior analyzed with various thicknesses and other parameters.
+@highlight GST performed better at a lower wavelength of 1150 nm.
+@highlight GST performed better at a higher wavelength of 1850 nm.
+@highlight Device can be tuned for different wavelengths with adequate dynamic performance.

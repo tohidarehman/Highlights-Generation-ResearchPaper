@@ -1,0 +1,7 @@
+ Polyamide 11 is an attractive material for additive manufacturing however in the selective laser sintering process it is subject to significant thermally induced stress . Suitable analytical methods are necessary to indicate any changes in the material properties . In this work thermally stressed powder samples and printed tensile bars were analyzed by size exclusion chromatography multi angle laser light scattering and differential scanning calorimetry . Based on the molecular weight distribution crystallization and melting temperatures ageing states of the investigated powders can be defined and transferred to the particles of the printed components . As a result thermal stress led to an increase in molar mass and polydispersity . Moreover calorimetric measurements indicated a delayed nucleation process as well as a decrease in polymorphism . Additionally polymeric material with lower polydispersity values across the tensile bars could lead to decreasing elongation at break
+
+@highlight Thermal ageing of polyamide 11 powders used for selective laser sintering.
+@highlight Average molecular weight greatly increases at high temperature storing.
+@highlight Influence of molecular weight on the elongation at break.
+@highlight Defining ageing states for powder particles of sintered parts.
+@highlight Mechanical behavior correlates with polydispersity and crystallization temperature.

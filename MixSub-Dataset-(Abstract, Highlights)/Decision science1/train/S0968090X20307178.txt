@@ -1,0 +1,6 @@
+ In this paper we proposed a new method to extract travel patterns for transit riders from different public transportation systems based on temporal motif which is an emerging notion in network science literature . We then developed a scalable algorithm to recognize temporal motifs from daily trip sub sequences extracted from two smart card datasets . Our method shows its benefits in uncovering the potential correlation between varying topologies of trip combinations and specific activity chains . Commuting different types of transfer and other travel behaviors have been identified . Besides varying travel activity chains like Home
+
+@highlight Developing a method based on Temporal Motif to identify individual travel patterns.
+@highlight Inferring the correlation between travel activity chains and different travel motifs.
+@highlight Extracted individual travel motifs provide extra information for trip prediction.
+@highlight Bridging the concepts of travel regularity and temporal network complexity.

@@ -1,0 +1,8 @@
+ Biogenic amines are the important markers for food spoilage thus an on package sensor for biogenic amine detection is crucial for food quality control . A dual detection platform including colorimetry and LDI MS was developed for screening and quantitative determining of biogenic amines . Porous PLA film was fabricated using calcium carbonate nanoparticles to enhance film porosity leading to increased surface area of colorimetric sensor . The color intensity significantly increases depending upon the enhanced analyte concentration with a linear range of 2.010.0mg mL for putrescine and 0.16.0mg mL for cadaverine . On another layer graphene oxide paper was applied as an LDI MS substrate for sensitive quantification of biogenic amines . LOD values measured on graphene oxide coated side by LDI MS were found to be 0.07pM and 0.02pM for putrescine and cadaverine respectively . This platform was successfully applied for the detection of biogenic amines in pork samples with satisfactory results .
+
+@highlight Porous PLA film with CaCO
+@highlight nanoparticles was prepared for colorimetric sensor.
+@highlight Graphene oxide paper for LDI MS can detect biogenic amines in sub picomolar level.
+@highlight The developed sensor is cheap disposable and effectively monitor food quality.
+@highlight This platform provides qualitative and quantitative information of food sample.
+@highlight This platform acts as an accurate expiration date which control food quality.

@@ -1,0 +1,6 @@
+ This paper pursues an accurate reliable dense partial shape correspondence between non rigid shapes . The method presented here is based on the recently proposed partial functional maps framework . The key novelty of our approach comes from its capability to integrate the eigenvalue equivalence of the Hamiltonian operator with the optimization formula of functional maps . We also use the map refinement approach based upon the new iterative upsampling method called ZoomOut in conjunction with several search algorithms . The technique we proposed allows us to obtain a high quality partial correspondence that promotes the smoothness and the semantic accuracy of the maps even in such cases of non rigid transformations that are robust to large deformations and topological noise . Extensive experiments on standard non rigid correspondence benchmarks show that our method achieves state of the art results both qualitatively and quantitatively
+
+@highlight An improved fully spectral method for partial matching is proposed.
+@highlight The method relies on eigenvalue alignment to handle partial shape localization.
+@highlight Map refinement in the method carries out by the iterative upsampling technique.
+@highlight Large scale partiality and topological noise can be tackled by the method.

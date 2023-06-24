@@ -1,0 +1,6 @@
+ Mapping heathland habitats is generally challenging due to fine scale habitats as well as spectral ambiguities between different classes . A multi seasonal time series of multispectral RapidEye data from several phenological stages was analysed towards the classification of different vegetation communities .
+
+@highlight We propose a multi level hierarchical classification approach.
+@highlight The approach is tested by mapping a heathland area.
+@highlight We compare two aggregation methods for the multi level maps.
+@highlight We discuss trade offs between the level classes and the classification accuracy.

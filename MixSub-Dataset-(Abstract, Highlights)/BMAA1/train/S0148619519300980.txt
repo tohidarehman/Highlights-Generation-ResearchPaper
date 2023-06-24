@@ -1,0 +1,7 @@
+ In the aftermath of the global financial crisis many analysts have pointed towards the Gramm Leach Bliley Act and the associated regulatory changes in the banking industry as one of the key reasons for the financial meltdown in the US . Using an extensive dataset of all 5491 US commercial banks that were operational from June 2001 to March 2016 we examine the impact of aggregate non interest income and its eleven disaggregated categories on bank specific risks and profits . We find unequivocal evidence that both aggregate non interest income and its different constituent categories increase bank risks which is more pronounced in the post crisis period . The results for bank profits are more mixed . The results call for a need to improve regulation and supervision of various disaggregated non interest income activities such that the costs of engaging in these activities do not exceed their benefits for banks .
+
+@highlight Uses data on 5491 commercial banks in the US for 2001q2 2016q1.
+@highlight Examines the impact of disaggregated non interest income categories on bank risks and profits.
+@highlight Both aggregate non interest income and its constituent categories increase bank risk.
+@highlight The impact of different non interest income activities on profits is mixed.
+@highlight Findings call for a need to improve regulation and supervision of non interest income activities.

@@ -1,0 +1,7 @@
+ Alzheimers disease is a worldwide disease of dementia and is characterized by beta amyloid plaques . Increasing evidences show that there is a positive feedback loop between the level of beta amyloid and the level of calcium . In this paper stochastic noises are incorporated into a minimal model of Alzheimers disease which focuses upon the evolution of beta amyloid and calcium . Mathematical analysis indicates that solutions of the model without stochastic noises converge either to a unique equilibrium or to bistable equilibria . Analytical conditions for the stochastic P bifurcation are derived by means of technique of slow fast dynamical systems . A formula is presented to approximate the mean switching time from a normal state to a pathological state . A disease index is also proposed to predict the risk to transit from a normal state to a disease state . Further numerical simulations reveal how the parameters influence the evolutionary outcomes of beta amyloid and calcium . These results give new insights on the strategies to slow the development of Alzheimers disease .
+
+@highlight Stochastic noises are introduced into the model of Alzheimers disease.
+@highlight Analytic conditions for stochastic P bifurcation are obtained.
+@highlight A formula is presented for the mean switching time from a mild impairment state to a pathological state.
+@highlight A disease index is proposed for the early warning of disease.
+@highlight The results provide insightful suggestions to design he strategies to slow the progression of disease.

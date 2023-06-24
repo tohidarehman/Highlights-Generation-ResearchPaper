@@ -1,0 +1,5 @@
+ Working with collaborative robots can be a potential source of stress for their operators . However research on specific factors that affect users stress levels when working with a cobot is still scarce . This study is the first to investigate the levels of psychological and physiological stress in human operators working in two different cobot modes . We applied an experimental within subject repeated measures design to 45 healthy adults . The results show that the levels of secondary stress appraisal were lower and the heart rate levels were higher in the autonomous cobot mode . The results suggest that when working with a cobot control plays a key role in the emotional cognitive and physiological reactions during the human robot collaboration . Implications for organizational practice are discussed .
+
+@highlight Secondary stress appraisal is higher in the manual cobot mode than in the autonomous mode.
+@highlight Heart rate is higher in the autonomous cobot mode than in the manual mode.
+@highlight Control when working with the cobot improves the outcomes of the human cobot collaboration.

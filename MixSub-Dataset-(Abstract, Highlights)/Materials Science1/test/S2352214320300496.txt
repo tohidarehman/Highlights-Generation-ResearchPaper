@@ -1,0 +1,6 @@
+ Using our recently developed theoretical inverse design method a new series of branched oligothiophene molecules for photovoltaic donors are designed . PooMa uses a genetic algorithm to screen a huge pool of compounds combined with a fast electronic structure method with reasonable accuracy . Here we apply this inverse design method to identify a set of 20 branched oligothiophene systems with promisingly high efficiencies by using a Quantitative Structure Property Relation model based on five electronic descriptors that describe the performance of organic solar cells . We consider a pool of oligomers that are modified by attaching to each of 7 different sites one out of 22 functional groups i.e . a pool of 22
+
+@highlight Inverse design method based on a genetic algorithm combined with DFTB method.
+@highlight Designing tetrathiophene molecules for solar cells.
+@highlight DFT and TD DFT methods provide further information on the proposed molecules.
+@highlight Conversion efficiencies are calculated using the Scharber diagram model.

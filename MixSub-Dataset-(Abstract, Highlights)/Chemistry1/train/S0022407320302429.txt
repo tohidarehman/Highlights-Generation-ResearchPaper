@@ -1,0 +1,6 @@
+ Determination of overlap function is a key step in the calibration of a high spectral resolution lidar . In this work an iterative based general determination method for overlap function in HSRL is proposed . Error analysis with Monte Carlo simulation is performed and illustrates the algorithm shows high accuracy and has high stability with an accurate lidar ratio assumption . A comparison experiment shows the overlap function from the proposed algorithm agrees well with that from a dual field of view HSRL system . Since no modified optical system in HSRL is needed this method shows great potential in real time recording of overlap function in the HSRL system .
+
+@highlight In this work we presented an iterative based general determination method for retrieving the overlap function in HSRL.
+@highlight No crucial requirement of atmospheric condition nor modified optical system in HSRL is needed in this method.
+@highlight Validation experiment is performed with the HSRL system at zhejiang University. The obtained overlap function meets well with that from the dual FOV method.
+@highlight The IGD method can be used for recording the HSRL overlap function with real time lidar signals because the running time is short enough to be neglected comparing to the acquisition time.

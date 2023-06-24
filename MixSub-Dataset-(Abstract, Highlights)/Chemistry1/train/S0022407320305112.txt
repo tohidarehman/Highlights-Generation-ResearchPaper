@@ -1,0 +1,5 @@
+ Fast accurate and stable computation of the Clebsch Gordan coefficients is always desirable for example in light scattering simulations the translation of the multipole fields quantum physics and chemistry . Current recursive methods for computing the C G coefficients are often unstable for large quantum numbers due to numerical overflow or underflow . In this paper we present an improved method called the sign exponent recurrence for the recursive computation of C G coefficients . The result shows that the proposed method can significantly improve the stability of the computation without losing its efficiency producing accurate values for the C G coefficients even with very large quantum numbers .
+
+@highlight The sign exponent recurrence method is presented as an improved recursion method for computing Clebsch Gordan Coefficients.
+@highlight The sign exponent recurrence method is more stable than the widely applied three term linear recurrence method while having the same level of accuracy and efficiency.
+@highlight The accuracy and efficiency are demonstrated by comparing with Python library SymPy.

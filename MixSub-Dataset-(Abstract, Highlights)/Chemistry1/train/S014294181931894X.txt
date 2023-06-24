@@ -1,0 +1,7 @@
+ Torsion testing machines are widely used either to measure the strength stiffness and stress strain properties of materials or to replicate real life service conditions . In this paper a novel experimental method is presented based on the development of a dedicated steel structure to be used in conjunction with a universal testing machine . This equipment allows applying cyclic in plane torsion loads on disk shaped components . The proposed approach aims to enable the assessment of stiffness and damping properties on specimens enabling the application of higher loads in comparison with the traditional machines .
+
+@highlight A novel approach was proposed to exert cyclic in plane torsion loads on composites.
+@highlight The loads were provided by combining a testing machine and a dedicated structure.
+@highlight The approach enables the assessment of material stiffness and damping properties.
+@highlight Sine signals were used to assess high frequency and amplitude dependencies.
+@highlight The approach was tested quantifying the dynamic behaviour of different laminate layups.

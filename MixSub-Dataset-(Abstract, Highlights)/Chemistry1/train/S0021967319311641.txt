@@ -1,0 +1,7 @@
+ Differences in the characteristics of seventeen commercial C 30 liquid chromatographic columns were studied for the separation of carotenoid isomers . A mixture consisting of nine xanthophyll and hydrocarbon carotenoids were separated under conditions carefully chosen to reveal changes in selectivity . The influence of the mobile phase composition column temperature and mobile phase flow rate were evaluated . Shape selectivity was characterized with Standard Reference Material 869b Column Selectivity Test Mixture for correlation with carotenoid retention behavior . Regular changes were observed across a broad spectrum of shape selectivity characteristics as indicated by SRM 869b . Better separations of carotenoid isomers were achieved with C 30 columns than were possible with C 18 columns even after optimization of separation conditions .
+
+@highlight C 30 LC columns exhibit unique functional properties not achieved with C 18 columns.
+@highlight Broad selectivity differences occur among commercial C 30 columns.
+@highlight Selectivity trends toward carotenoid isomers follow predictable pathways.
+@highlight Shape recognition varies as a function of column temperature.
+@highlight Van Deemter analysis affords quantitative measures of C 30 mass transfer performance.

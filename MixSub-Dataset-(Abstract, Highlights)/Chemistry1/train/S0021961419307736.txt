@@ -1,0 +1,8 @@
+ Standard molar enthalpies of vaporization sublimation of nitro and amino substituted benzaldehydes were obtained from the temperature dependence of vapour pressure measured by the transpiration method . Enthalpies of fusion of these compounds were measured by using DSC . Solution enthalpies of nitro and amino substituted benzaldehydes were measured by using a solution calorimeter . Available from literature primary experimental results on temperature dependences of vapour pressures have been collected and they have been treated uniformly in order to derive vaporization sublimation enthalpies at the reference temperature 298.15K . Standard molar enthalpies of formation of crystalline isomers of nitro benzaldehydes were measured by using combustion calorimetry . Gas phase molar enthalpies of formation of substituted benzaldehydes were calculated by the high level quantum chemical G4 method and they were used for evaluation of available experimental results . A set of thermodynamic properties of substituted benzaldehydes was recommended as reliable reference properties for thermochemical calculations . Simple group additivity procedures were developed for estimation of vaporization enthalpies gas phase and liquid phase enthalpies of formation of substituted benzenes .
+
+@highlight Vapour pressures of substituted benzaldehydes measured by transpiration.
+@highlight Enthalpies of formation were measured by combustion calorimetry.
+@highlight Phase transition enthalpies derived were derived and evaluated.
+@highlight G4 gaseous enthalpies of formation in agreement with experiment.
+@highlight A set of reliable thermodynamic properties was recommended.
+@highlight Group additivity was developed for prediction of thermodynamic properties.

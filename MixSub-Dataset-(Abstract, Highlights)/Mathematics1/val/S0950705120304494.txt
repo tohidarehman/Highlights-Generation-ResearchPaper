@@ -1,0 +1,5 @@
+ Detection of DrugTarget Interactions is the time consuming and laborious experiment via biochemical approaches . Machine learning based methods have been widely used to mine meaningful information of drug research . In this study we establish a novel computational method to predict DTIs via Dual Laplacian Regularized Least Squares model with HilbertSchmidt Independence Criterion based Multiple Kernel Learning . Multiple kernels are built from different information sources . Then above corresponding kernels are integrated by HSIC MKL . At last DLapRLS model is trained by Alternating Least Squares Algorithm and employed to predict new DTIs . On four benchmark datasets the results of our method are comparable and even better than existing models .
+
+@highlight DLapRLS employs alternating least squares algorithm to solve the final model.
+@highlight Heterogeneous information kernels is integrated via multiple kernel learning.
+@highlight For HSIC MKL we employ the Laplacian regular term to smooth the weights.

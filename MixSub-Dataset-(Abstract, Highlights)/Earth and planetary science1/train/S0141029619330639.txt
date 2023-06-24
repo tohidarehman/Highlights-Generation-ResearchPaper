@@ -1,0 +1,8 @@
+ In the present work the power model adopted to predict compressive strength of masonry as a function of brick and mortar strengths was studied by means of Dimensional Analysis identifying the main dimensionless groups ruling the problem . The approach was applied on a dataset of solid clay brick masonry tests collected from the literature . Data were represented in a novel way that permitted to display the importance of the main dimensionless parameters . The dataset was filtered distinguishing these parameters and used to propose a new calibration of the power model considering mortar type and geometry of the specimens . Results show an interesting improvement in terms of indicators of regression quality with respect to the power models proposed in the literature . Both Dimensional Analysis and regressions confirm that the power models are specific for the type of specimens i.e . dimensionless parameters used for their calibration and direct comparisons among them should be done with great caution .
+
+@highlight Equation for masonry compressive strength is discussed using Dimensional Analysis.
+@highlight Power equations neglects many dimensionless parameters.
+@highlight Parameters of the power equation depend on the data used for their regression.
+@highlight Comparing power equations obtained with different data should be done with caution.
+@highlight A regression procedure considering important dimensionless parameters is proposed.
+@highlight Estimators to check regression quality are proposed for the problem.

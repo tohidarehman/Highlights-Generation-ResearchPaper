@@ -1,0 +1,9 @@
+ The NLRP3 inflammasome is an innate immune platform that senses various pathogens and sterile insults . NLRP3 stimulation leads to activation of caspase 1 the secretion of pro inflammatory cytokines and an inflammatory cell death called pyroptosis . Effectors of the NLRP3 inflammasome efficiently drive an immune response not only providing protection in physiological settings but also promoting pathology when over activated . Generation of reactive oxygen species and intracellular calcium mobilization can activate the NLRP3 inflammasome . Recent studies suggest that TRPM2 is a calcium permeable cation channel mediating ROS dependent NLRP3 activation . Here we review the role of TRPM2 in NLRP3 inflammasome activation and provide an update on new functional and structural discoveries . Understanding the molecular mechanism of TRPM2 dependent NLRP3 inflammasome activation will shed lights on this complex pathway and help the developing of therapeutic strategies .
+
+@highlight ROS is both a trigger and an effector of NLRP3 inflammasome activation.
+@highlight Ca
+@highlight influx is upstream of NLRP3 inflammasome activation.
+@highlight ADP ribose ADPR activates TRPM2 under ROS in the NLRP3 pathway.
+@highlight ADPR and Ca
+@highlight co activate TRPM2.
+@highlight There exist drastic differences in TRPM2s structure and function during evolution.

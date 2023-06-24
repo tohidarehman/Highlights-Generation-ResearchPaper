@@ -1,0 +1,7 @@
+ By training and equipping human resources from other public service sectors than emergency response to act as first responders it is possible to reduce the first response times at a low cost . Before launching such an initiative it is however important to evaluate the potential benefits . In this work a method for doing this kind of evaluation is developed and applied to a potential initiative utilizing fire service day personnel as new first responders . By developing a smartphone application and performing an experiment sending alerts to potential first responders and combining this with expert reviews of the possible value of their contribution it is possible to estimate the response time reductions as well as the monetary benefits of the initiative . The results show that there is a monetary benefit even with a low number of new first responders but that it is highly dependent on how quickly they can start travelling towards the emergency site .
+
+@highlight Cross sector collaboration in emergency response can help reduce response times.
+@highlight It is important but difficult to evaluate a new collaboration before launch.
+@highlight A novel method for quantitative evaluation is developed and applied.
+@highlight Fire service day personnel are well suited for performing first response.
+@highlight Even a low number of new first responders give monetary benefits.

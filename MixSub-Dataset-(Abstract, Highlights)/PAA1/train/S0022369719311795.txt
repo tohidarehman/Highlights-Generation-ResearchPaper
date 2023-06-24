@@ -1,0 +1,6 @@
+ In this work we consider an open single level molecular junction with electrons coupled to a single frequency phonon mode in which the phonons are also coupled to another heat bath . By applying a temperature gradient between the electrical leads and investigating thermocurrent in non linear regime it is shown that the environment can excite phonons which may result in either suppression or very significant enhancement of thermocurrent depending on the onsite energy . Similarly in the linear regime the effects of environment are seen in the Seebeck coefficient .
+
+@highlight Thermo current and thermo power are calculated for molecular junctions.
+@highlight Environment can change thermo electric properties by exciting phonons.
+@highlight Thermo current is enhanced noticeably by environment at some regimes.
+@highlight The Seebeck coefficient approaches a zigzag behavior by increasing the temperature of environment.

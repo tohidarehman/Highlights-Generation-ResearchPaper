@@ -1,0 +1,7 @@
+ This paper relates with the assignment of trucks to time slots in container terminals equipped with Truck Appointment Systems . A two phase approach is provided first export and import containers are matched in tuples with a clustering analysis to reduce the number of empty trips and then tuples are assigned to time slots to minimize trucks deviation from their preferred time slots and truck turnaround times . Real case instances related to Mexican and Italian container terminals are tested . Results show that our approach reduces empty truck trips up to 33.79 and that it can be successfully applied to any container terminal .
+
+@highlight A comprehensive framework is proposed to manage trucks operations within a TAS.
+@highlight A clustering approach groups export and import container to reduce empty truck trips.
+@highlight An optimization model is proposed to improve truck service levels.
+@highlight An extensive Design of Experiments analysis is performed to validate the approach.
+@highlight Real case studies related to terminals in Mexico and Italy are tested and analyzed.

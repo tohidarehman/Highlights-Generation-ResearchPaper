@@ -1,0 +1,5 @@
+ We use Density Functional Theory within the Generalized Gradient Approximation and Perdew Burke Ernzerhof exchangecorrelation GGA PBE functional to predict the structure magnetic electronic mechanical and thermodynamic properties of
+
+@highlight We predicted the Heusler compounds CoMnSb and FeMnSb to be ferromagnetic half metallic alloys while the Heusler like OsMnSb is found to be metallic.
+@highlight The present calculations show FeMnSb and OsMnSb are anisotropic while CoMnSb is isotropic in nature.
+@highlight The melting temperature of the compounds are predicted in the present calculations.

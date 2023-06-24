@@ -1,0 +1,6 @@
+ We present exact solutions to the Lippmann Schwinger equation for the scattering of a plane wave by an oblate spheroidal barrier modeled as a boundary wall with coupling strength
+
+@highlight We analytically solve the Lippmann Schwinger equation for an spheroidal barrier 
+@highlight We find solutions for different potentials strengths.
+@highlight The resonance condition is related to the zeros of a radial spheroidal function.
+@highlight We generalize our result for the scattering by N spheroidal barriers.

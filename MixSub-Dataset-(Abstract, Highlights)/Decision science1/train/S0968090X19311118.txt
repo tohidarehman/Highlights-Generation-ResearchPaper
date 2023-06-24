@@ -1,0 +1,6 @@
+ Based on the Bayesian network paradigm we propose a hybrid model to predict the three main consequences of disruptions and disturbances during train operations namely the primary delay
+
+@highlight Three factors are ascertained to measure the effects of disruptions.
+@highlight Real time prediction requirements are particularly considered in the model.
+@highlight The model shows high accuracy in predicting the effects of disruptions.
+@highlight The model shows strong generalizability on two different high speed railway lines.

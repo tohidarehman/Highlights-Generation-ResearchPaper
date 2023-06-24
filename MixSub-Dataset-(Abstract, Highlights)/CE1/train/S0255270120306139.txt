@@ -1,0 +1,7 @@
+ Tubular photobioreactors guarantee high microalgal productivities but suffer from oxygen accumulation . It is known that the tube length must be limited to prevent build up of high oxygen levels but the combined effect of other variables was not fully addressed . In this work a mathematical model is developed to understand the influence of oxygen on biomass productivity in a continuous tubular PBR . Material balances are applied to investigate the behavior of a single tube reactor and of a complete process flowsheet of a commercial plant . Biomass concentration at the inlet resulted the key variable to minimize oxygen inhibition confirming the solid retention time as the main operating variable . However an optimized length of the tube can minimize the effect of biomass concentration . Finally it was observed that measuring the O
+
+@highlight A novel kinetic model for oxygen inhibition was implemented to simulate tubular PBRs.
+@highlight The biomass concentration at the inlet is the key variable to minimize oxygen inhibition.
+@highlight An optimum tube length was found minimizing the effect of biomass concentration.
+@highlight The measurement of O
+@highlight concentration alone is not a reliable index of the overall productivity.

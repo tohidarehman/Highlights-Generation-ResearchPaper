@@ -1,0 +1,5 @@
+ Sadeghi et al . considered a bottleneck system with periodic arrival rate and proved that a constant rate arrival maximizes the time averaged output rate among all periodic arrival rates . Here we provide a short and elementary proof of this result without use of optimal control theory . The new approach developed here allows us to prove an extension of the result to the case of a general non periodic arrival rate .
+
+@highlight A bottleneck system with periodic arrival rate is studied.
+@highlight A simple and elementary proof is given that a constant arrival rate maximizes output.
+@highlight The method presented allows extension of the result to non periodic arrival rates.

@@ -1,0 +1,7 @@
+ Bulk etch rate of PADC CR 39 detector in a mixture of NaOH and ethanol alcohol aqueous solution of at 70C was determined using fission track diameter method . Wide range of NaOH concentration never covered before from 2 to 30N was studied . Higher NaOH concentrations and ethanol increase the detector etching rate dramatically leading to a reaction rate far from equilibrium . Arrhenius and multi hit equations are no longer hold and therefore a need for new equations is arise . Viscosity of in such wide concentration range was also studied at different temperatures to explain the reaction rate . Many efforts and different fitting equations were used to manipulate the data . Some of these equations are statistically as well as chemically rejected and finally three equations seem to read the data quit well are suggested .
+
+@highlight PADC CR 39 bulk etch rate investigated using NaOH mixed with ethanol.
+@highlight Etchant concentration ranged from 2 to 30 N NaOH with different ethanol volumes.
+@highlight Strong etching fierce the detector bulk etch rate.
+@highlight Viscosity of NaOH mixed with ethanol studied at different temperatures.
+@highlight Three empirical equations were suggested for Vb in such wide concentration range.

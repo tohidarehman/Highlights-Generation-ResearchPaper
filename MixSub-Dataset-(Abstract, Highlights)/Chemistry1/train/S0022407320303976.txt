@@ -1,0 +1,7 @@
+ While most of traditional Earth atmosphere satellite remote sensing relies on radiative transfer in the plane parallel geometry effects of sphericity are important at high sun and view zenith angles . Broad understanding of these effects is limited and contrary to the plane parallel case finding accurate numerical results to test spherical RT codes is not easy . This paper aims to partially fill in this gap . Using the full spherical RT code MYSTIC and the plane parallel RT code VLIDORT corrected for atmospheric sphericity in the single and multiple scattering we reproduced with better accuracy and extended the benchmark results by
+
+@highlight Accurate numerical results to test spherical RT codes are hard to find in literature.
+@highlight We reproduced with better accuracy the results by Adams and Kattawar
+@highlight We used RT codes MYSTIC Monte Carlo true spherical atmosphere and VLIDORT discrete ordinates corrected for the effect of spherical atmosphere .
+@highlight We extended the results by A K for relative azimuth other than 0180 principal plane .
+@highlight Results of our simulation are reported in numerical format.

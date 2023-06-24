@@ -1,0 +1,7 @@
+ We introduce a class of numerical schemes for optimal stochastic control problems based on a novel Markov chain approximation which uses in turn a piecewise constant policy approximation EulerMaruyama time stepping and a Gau Hermite approximation of the Gauian increments . We provide lower error bounds of order arbitrarily close to 1 2 in time and 1 3 in space for Lipschitz viscosity solutions coupling probabilistic arguments with regularization techniques as introduced by Krylov . The corresponding order of the upper bounds is 1 4 in time and 1 5 in space . For sufficiently regular solutions the order is 1 in both time and space for both bounds . Finally we propose techniques for further improving the accuracy of the individual components of the approximation .
+
+@highlight New flexible Markov chain approximations of controlled diffusion processes.
+@highlight Explicit construction using piecewise constant controls and Gau Hermite points.
+@highlight Novel analysis technique based on probabilistic arguments and dynamic programming.
+@highlight Resulting lower estimates of order close to 1 2 the best available in the literature.
+@highlight Suggests accuracy improvements under higher regularity assumptions.

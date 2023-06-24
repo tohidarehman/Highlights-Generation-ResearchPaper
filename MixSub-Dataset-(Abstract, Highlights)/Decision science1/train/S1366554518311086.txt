@@ -1,0 +1,6 @@
+ In this study we propose a new schedule based itinerary choice model the mixed itinerary size weibit model to address the independently and identically distributed assumptions that are typically used in random utility models and heterogeneity of passengers perceptions . Specifically the Weibull distributed random error term resolves the perception variance with respect to various itinerary lengths an itinerary size factor term is suggested to solve the itinerary overlapping problem and random coefficients are used to model heterogeneity of passengers . We also apply the mixed itinerary size weibit model to a train scheduling model to generate a passenger oriented schedule plan . We test the efficiency and applicability of the train scheduling model in the south China high speed railway network and we find that it works well and can be applied to large real world problems .
+
+@highlight A model is developed for both stochastic passenger assignment and train scheduling.
+@highlight The mixed itinerary size weibit model is applied to the passenger assignment module.
+@highlight An iterative method is introduced to efficiently solve the resultant model.
+@highlight The model is tested on a real world high speed railway network in Southern China.

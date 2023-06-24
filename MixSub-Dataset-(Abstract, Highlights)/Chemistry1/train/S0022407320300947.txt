@@ -1,0 +1,10 @@
+ It is difficult to independently obtain aerosol optical parameters at the near infrared wavelength using lidar . A new high spectral resolution technology is proposed to obtain the aerosol extinction coefficient profile at 1064nm . The high spectral resolution detection method by extracting Mie scattering and suppressing CabannesBrillouin scattering is applied in the lidar at 1064nm to improve the detection signal to noise ratio . The system parameters of near infrared high spectral resolution LiDAR N
+
+@highlight Calculating and analysing the different biases of
+@highlight for delicately correcting extinction coefficient.
+@highlight Using threshold correction method to correct the error caused by the derivation of
+@highlight  and the remaining extinction coefficient is interpolated after threshold correction.
+@highlight A dual channel FPE is designed and used to extract aerosol Mie scattering signal and suppress CabannesBrillouin scattering in N
+@highlight HSRL.
+@highlight The extinction coefficient profiles of three cases of severe haze day moderate haze day and mild haze day were detected and retrieved by the N
+@highlight HSRL.

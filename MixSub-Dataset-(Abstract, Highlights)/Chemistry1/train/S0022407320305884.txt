@@ -1,0 +1,5 @@
+ The helium singlet 1s4d 1s2p line has been measured in a corona discharge done in liquid helium at 4.2K . A significant shift towards the blue direction is visible on the spectrum . Using an empirical model for the He He potential energy difference we have performed a fitting of the line shape . The best fit result is in good agreement with the experimental spectrum . It is shown that the blue shift is determined by the maximum of the potential energy difference function . Based on the fitting results we give an estimate of this quantity .
+
+@highlight Corona discharges in liquid helium have indicated the presence of strong blue shift on the 492.2nm atomic line.
+@highlight Using an empirical model for the He He potential energy difference we have performed a fitting of the line shape.
+@highlight Qualitative and quantitative properties of the energy difference are inferred based on the best fit result.

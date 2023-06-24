@@ -1,0 +1,7 @@
+ Online elemental analysis of irradiated tissues is an important challenge in proton therapy for estimating the depth of the Bragg peak and monitoring the healing process . In the present study the prompt gamma spectra of the most abundant elements of human tissues were obtained for two different incident protons of 30MeV and 120MeV using the Geant4 toolkit . Train phantoms were defined to study the elemental analysis of the tissue from PG spectra . It was found that the intensities of 7.12 and 3.91MeV PG depend on the mass of
+
+@highlight Geant4 simulation of proton induced prompt gamma spectra of most abundance elements of human tissues.
+@highlight Single peak analysis is applied on prompt gamma spectra for determining mass of elements in irradiated phantoms.
+@highlight A new approach is proposed to deal with similarly found gamma ray peaks related to multi elements.
+@highlight The estimated mass of elements are in good agreement with predefined values.
+@highlight The effect of estimated mass errors on calculated proton range is small.

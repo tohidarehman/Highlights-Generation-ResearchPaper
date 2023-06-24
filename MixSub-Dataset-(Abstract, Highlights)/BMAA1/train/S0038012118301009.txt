@@ -1,0 +1,7 @@
+ Data envelopment analysis has recently become relatively popular with road safety experts . Therefore various decision making units such as EU countries have been assessed in terms of road safety performance . However the DEA has been criticized because it evaluates DMUs based only on the concept of self assessment and therefore does not provide a unique ranking for DMUs . Therefore cross efficiency method was developed to overcome this shortcoming . Peer evaluations in addition to self evaluation have made the CEM to be recognized as an effective method for ranking DMUs . The traditional CEM is based only on the standard CCR
+
+@highlight The optimistic cross efficiency method CEM is applied for road safety assessment.
+@highlight The pessimistic CEM is presented for road safety assessment.
+@highlight A double frontier CEM is proposed based on the best and worst practice frontiers.
+@highlight To reflect the DM s preference structure the evidential reasoning approach is applied for evidence aggregation.
+@highlight To reflect the DM s subjective judgments the ordered weighted average OWA operator weights are applied for evidence aggregation.

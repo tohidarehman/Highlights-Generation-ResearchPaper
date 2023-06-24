@@ -1,0 +1,7 @@
+ In the present study a comparative analysis of the flow patterns and pressure drop in a serpentine miniature geometry of inner diameter 2mm and a serpentine annulus miniature geometry with an effective inner diameter 1.73mm are carried out . Three pairs of liquids have been considered for this purpose . Four different flow patterns have been observed in serpentine geometry while only two flow patterns are observed in serpentine annulus geometry . The range of occurrence of flow patterns depends on if the low or high viscous medium liquid surrounds the dispersed phase . The effect of phase properties found to be diminished if a hydrophilic wire is placed inside the serpentine geometry . It enhances slug coalescence and subsequent break up and leads to the formation of slug droplet and dispersed droplet flow patterns across all the liquid pairs . Further a unified approach is proposed to estimate the drop in pressure which shows an acceptable agreement with the experimental results .
+
+@highlight Different liquid pairs tested for flow behavior in serpentine geometry.
+@highlight Appearance and existence of flow patterns depend on viscosity of continuous phase.
+@highlight Placing a hydrophilic wire leads to uniform flow patterns nullifying the effect of viscosity.
+@highlight Flow patterns characterized by Probability Density Functions of pressure signals.
+@highlight Unified model proposed with modified friction factor for pressure drop prediction.

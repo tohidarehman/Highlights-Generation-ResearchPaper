@@ -1,0 +1,8 @@
+ This work aims to unveil the optimal annealing conditions and surface treatments of CZGeSe absorbers synthesized using vacuum based deposition technique with an eye to optimizing the main parameters allowing better control of secondary phases formation and improving crystalline quality of this absorber . Firstly a comparative study is given of one and two step annealing profiles where for each thermal treatment the optimal temperature is probed . The second section of this study underlines the evaluation of the surface treatment effect on the as annealed absorber using different etching agents . Finally the effect of different post annealing treatment temperatures on the overall performance of the fabricated devices is evaluated . For the studied optimizations a deep understanding of the cell behavior is provided through structural morphological and electrical characterizations . Preliminary results have given an efficiency up to 5.6 with higher V
+
+@highlight Synthesis of Cu
+@highlight ZnGeSe
+@highlight by two step process using magnetron sputtering then annealing under selenization atmosphere.
+@highlight Comprehensive study of the main parameters monitoring the overall device performance of CZGeSe based solar cells.
+@highlight FF 65 and V
+@highlight  572 mV found in this work exceed the reported ones in the record solar cell using similar absorber material.

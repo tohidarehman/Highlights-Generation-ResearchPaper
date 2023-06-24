@@ -1,0 +1,5 @@
+ Partner and localizer of BRCA2 is regarded as a colorectal cancer risk gene but the prognostic implication of PALB2 in CRC remains unclear . In this study we evaluate the prognostic value of the gene copy number alteration and mRNA expression of PALB2 in The Cancer Genome Atlas database and then validated with our database . We downloaded the copy number and mRNA data of PALB2 from TCGA database and examined the relationship among the genetic alterations expression levels and survival outcomes . Gene ontology analysis was performed to study the function of PALB2 . cBioPortal database was used to explore the potential co expression genes of PALB2 . There were 6.3 CRC patients diagnosed as PALB2 gene deletion . The PALB2 deletion group expressed significantly lower of PALB2 mRNA than the non deletion group
+
+@highlight We evaluated the prognostic value of PALB2 gene in colorectal cancer.
+@highlight PALB2 gene could be novel prognostic biomarkers for colorectal cancer.
+@highlight Function analyses showed that PALB2 is primarily involved in the DNA repair process.

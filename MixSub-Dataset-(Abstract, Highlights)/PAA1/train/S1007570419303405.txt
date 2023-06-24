@@ -1,0 +1,7 @@
+ This paper studies a class of quasi linear impulsive systems of functional differential equations with infinite time delay . By employing the contraction principle several criteria on uniform stability and asymptotic stability are established . The proposed approach utilizes the idea of averaging instead of the point wise estimate in the Lyapunov method . Our results show that the Banach contraction principle can be used as a possible alternative to Lyapunov methods for stability analysis when the conditions of Lyapunov method fails to hold . Several examples are discussed to illustrate the ideas of our results .
+
+@highlight This paper studies a class of quasi linear impulsive systems of functional differential equations with infinite time delay.
+@highlight It uses the Banach contraction principle.
+@highlight It has established criteria on uniform stability and asymptotic stability.
+@highlight The proposed approach utilizes the idea of averaging instead of the point wise estimate in the Lyapunov method.
+@highlight It shows that the Banach contraction principle can be used as a possible alternative to Lyapunov methods for stability analysis when the conditions of Lyapunov method fails to hold.

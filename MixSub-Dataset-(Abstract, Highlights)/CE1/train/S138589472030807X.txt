@@ -1,0 +1,7 @@
+ This work reports the experimental conversion of oleic acid into methyl oleate via UiO 66 MOF catalyst . Strong focus is on the kinetic modeling 67 models based on elementary reaction steps for Eley Rideal Langmuir Hinshelwood and Hattori kinetic mechanisms are proposed . Via the application of initial reaction rate theory and nonisothermal kinetic modeling one model adequately describes the experimental data . It is a variant on the Eley Rideal type of model such that the surface reaction includes the oleic acid adsorbate methanol reacts from the liquid phase and one additional active site is considered to make the ester and water as surface reaction products so that overall two active sites are used in the surface reaction . An activation energy of 54.91.8kJmol
+
+@highlight Kinetic modelling for methyl oleate synthesis via UiO 66 MOF 
+@highlight Activity coefficients are included in kinetic analysis 
+@highlight Initial reaction rate data analysis is very powerful for model discrimination 
+@highlight New type of kinetic model based on Eley Rideal steps fits the data adequately and.
+@highlight Turnover rates are in the range of 2.540.33 to 8.820.87 mmolOA mol

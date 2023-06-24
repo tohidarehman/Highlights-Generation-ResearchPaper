@@ -1,0 +1,7 @@
+ In the theory of wave propagation in near Earth space there is a long standing but still unsolved problem this is the problem of whistler exit to the ground after passing through the magnetospheric trajectory . Snells law forbids exit of a wave to the ground if the angle between the wave normal and the vertical is outside the penetration cone which is almost always true at least for middle and low latitudes . However whistlers are often recorded at ground stations where they were first discovered . Most of the previous theoretical works considered the exit of whistlers to the ground as a stationary problem taking the wave field in the form
+
+@highlight Whistler reflection from the ionosphere and exit to the ground has been studied.
+@highlight The features of the process are revealed in the frame of a non stationary 2D problem.
+@highlight Equation for the EM field vector potential valid in plasma and in vacuum is derived
+@highlight Its numerical solution with initial conditions as a localized wave packet is found.
+@highlight An incident whistler wave packet feeds the Earth ionosphere waveguide by EM emission.

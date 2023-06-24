@@ -1,0 +1,6 @@
+ Whereas deep neural network is increasingly applied to choice analysis it is challenging to reconcile domain specific behavioral knowledge with generic purpose DNN to improve DNNs interpretability and predictive power and to identify effective regularization methods for specific tasks . To address these challenges this study demonstrates the use of behavioral knowledge for designing a particular DNN architecture with alternative specific utility functions and thereby improving both the predictive power and interpretability . Unlike a fully connected DNN which computes the utility value of an alternative
+
+@highlight Use behavioral knowledge to design a new DNN architecture with alternative specific utility ASU DNN .
+@highlight ASU DNN provides a more regular substitution pattern of travel mode choices.
+@highlight ASU DNN improves both the predictive power and interpretability.
+@highlight Behavioral knowledge can function as an effective domain knowledge based regularization.

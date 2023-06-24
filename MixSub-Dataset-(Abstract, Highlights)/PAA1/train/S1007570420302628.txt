@@ -1,0 +1,5 @@
+ The fractional Klein Kramers equation describes the process of subdiffusion in the presence of an external force field in phase space and incorporates a fractional operator in time of order
+
+@highlight The numerical methods are positivity preserving being in agreement with the physical properties of the problem.
+@highlight Physical boundary conditions are taken into account and its implementation is done in order to preserve the positivity.
+@highlight The accuracy lost due to the presence of boundaries is recovered using nonuniform meshes.

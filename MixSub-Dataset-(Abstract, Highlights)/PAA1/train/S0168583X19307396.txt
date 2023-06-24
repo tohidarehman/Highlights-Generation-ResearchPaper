@@ -1,0 +1,6 @@
+ Data on the radiobiological effects of thermal neutrons are usually obtained from irradiations in a mixed field of neutrons of different energies and gamma rays or from conversion of proton data with similar energies to those created in the neutron capture on nitrogen . Experimental data from irradiations in a pure thermal or cold neutron beam can help to find new values for neutron relative biological effectiveness factors which are useful for BNCT and radiation protection applications . We present a new experimental setup for radiobiological studies at a cold neutron beam at Institut Laue Langevin a beam without fast neutron component and almost no gamma ray contribution . After the irradiation survival assays are performed to obtain the survival curves . Finally comparing with a reference photon irradiation the thermal neutron RBE factors can be calculated . The methodology is outlined at the example of A375 melanoma cells for which new radiobiological data were obtained .
+
+@highlight A clean cold neutron beam used for the first time for studying the biological effect.
+@highlight A setup for minimizing other dose components than the pure neutron one is described.
+@highlight Relative biological effectiveness of neutrons for melanoma cells are presented.
+@highlight Higher effect of low energy neutrons compared to photons for these radio resistant cells.

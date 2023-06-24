@@ -1,0 +1,7 @@
+ Improving forest wind risk models relies on a better understanding of the tree response to damaging gusts . However our empirical knowledge of the tree dynamic response to wind is limited by the feasibility of field experiments at recording the dynamics of both the tree aerial structure and the tree root system under windstorm conditions . Here we present the first complete root to foliage tree dynamic model simulating the tree aerial structure and root soil system responses to turbulent winds including the possibility of tree breakage and tree uprooting . This model allowed us to investigate the impact of both various anchorage conditions related to the soil humidity or root rigidity and the history of gusts experienced by the tree on the dynamics and windthrow vulnerability of a
+
+@highlight A full root to foliage tree dynamic model under turbulent wind is presented.
+@highlight The model simulates tree motion including branch stem ruptures and tree uprooting.
+@highlight The model allows to understand tree dynamics for various soil anchorage conditions.
+@highlight The upper tree dynamics appears weakly sensitive to the anchorage condition.
+@highlight Simulations show the importance of gustiness history in weakening tree stability.

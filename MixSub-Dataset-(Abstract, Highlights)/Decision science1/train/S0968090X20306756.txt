@@ -1,0 +1,7 @@
+ Obtaining accurate information about future traffic flows of all links in a traffic network is of great importance for traffic management and control applications . This research studies two particular problems in traffic forecasting capture the dynamic and non local spatial correlation between traffic links and model the dynamics of temporal dependency for accurate multiple steps ahead predictions . To address these issues we propose a deep learning framework named
+
+@highlight A spatiotemporal deep learning model for multi step ahead traffic forecasting.
+@highlight Pattern aware adjacency matrix defined for dynamic non local spatial correlation capture.
+@highlight CNN RNN coupled seq2seq architecture with attention for temporal dependency modeling.
+@highlight Extensive evaluation on two large scale publicly available datasets.
+@highlight Quantitative and qualitative analysis for validation and interpretation of the model.

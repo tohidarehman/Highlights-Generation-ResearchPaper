@@ -1,0 +1,7 @@
+ The purpose of this paper is to examine a special kind of game option whose main feature is the presence of an early exercise right for the seller as well as for the buyer . The seller has to pay some amount above the usual option payment for this right . Usually this penalty payment is presented by a constant amount during the option life . Alternatively in this paper we present the cancellation payment as the usual option payment multiplied by a constant . We introduce also a discount factor which gives a benefit for early exercising . It is closely related to the existence of a continuous dividend payment . In that way we can describe a dividend model in our framework .
+
+@highlight We examine put and call perpetual game options.
+@highlight The sellers penalty is proportional to the usual option payment.
+@highlight We determine the optimal exercise regions for both participants.
+@highlight We derive the equations for the exercise boundaries.
+@highlight We obtain the fair option prices and give some numerical examples.

@@ -1,0 +1,5 @@
+ A centralized controller for a DC linked hybrid microgrid requires costly communication infrastructure . To minimize the costs in this paper a sparse distributed controller is formulized by introducing an
+
+@highlight Control of DC linked hybrid microgrids is a complex and costly problem.
+@highlight Sparse distributed design reduces the required communication links and cost.
+@highlight The proposed fast distributed controller design yields a near optimal solution.

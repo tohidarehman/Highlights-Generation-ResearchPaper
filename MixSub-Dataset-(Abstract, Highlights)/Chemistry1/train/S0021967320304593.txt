@@ -1,0 +1,7 @@
+ The additivity assumption underlying Giddings coupling model for the eddy dispersion in laminar flows through heterogeneous media is critically analyzed and a potential solution for its non additivity in the high velocity limit is presented . Whereas the unit cell in Giddings model only consists of a single velocity bias step the unit dispersion cell of the newly proposed model comprises two consecutive velocity bias steps . Consequently the unit cell of this new model allows to account for the occurrence of an internal velocity bias rectification at high reduced velocities and is therefore additive in both the low and high velocity limit .
+
+@highlight The additivity assumption made in current eddy dispersion models fails at high Pe.
+@highlight A checkerboard model is proposed to repair this failure.
+@highlight This model uses a double velocity bias step as its unit dispersion cell.
+@highlight In ordered systems the new model predicts a local dispersion maximum.
+@highlight The model predicts a lower large velocity asymptote than Giddings model.

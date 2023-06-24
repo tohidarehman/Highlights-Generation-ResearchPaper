@@ -1,0 +1,6 @@
+ Heat stress of broilers in commercial broiler houses decreases their productivity and thus farm profitability . Climate control systems use sensors measuring the temperature around the broilers which can be different from the actual body temperature of the broilers . In this research a method estimating the body temperature of an individual broiler was designed and validated for commercial broiler houses . The method is based on a low cost IR camera calibrated in real time . The algorithm for the IR image processing uses lasso regression prediction model . A prototype using this method was built and tested in a research broiler house over 21 days for 15 broilers . The predicted body temperature was compared with the actual body temperature measured by temperature loggers implanted in the abdominal cavity . The accuracy was 0.27C measuring one broiler every 16min on average . In an experiment in a commercial broiler house a discrepancy between the climate control activation and broiler estimated body temperature was shown .
+
+@highlight A fully automatic system for broiler body temperature measuring was developed.
+@highlight The body temperature is estimated with accuracy 0.27C.
+@highlight The low cost thermal camera based system has commercial potential.
+@highlight Broiler house climate control should be based on temperature of broilers.

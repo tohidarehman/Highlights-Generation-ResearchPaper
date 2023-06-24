@@ -1,0 +1,7 @@
+ This study finds evidence that a rise in economic policy uncertainty leads to a decline in stock returns in Chinese market however a positive coefficient was observed in the lagged EPU as stock prices rebound . This phenomenon also holds true for a rise in uncertainty innovations in fiscal policy monetary policy trade policy and global policy . The evidence leads to conclude that policy uncertainty premiums should be priced into Chinas stock prices . An escalation of U.S. policy uncertainty has a significantly harmful effect on Chinese stocks regardless of whether firms are stated own or listed on U.S. market .
+
+@highlight This paper examines the impact of policy uncertainties on Chinese stock returns using monthly observations.
+@highlight The stock return is negatively correlated with changes in volatility and downside risk.
+@highlight The stock returns in China are negatively correlated with innovations in economic policy uncertainty and categorical policy uncertainties.
+@highlight U.S. and other foreign economic policy uncertainties are also significant in explaining Chinese stock returns.
+@highlight An escalation of U.S. policy uncertainty has a harmful effect on Chinese stocks whether firms are stated owned or listed in U.S.

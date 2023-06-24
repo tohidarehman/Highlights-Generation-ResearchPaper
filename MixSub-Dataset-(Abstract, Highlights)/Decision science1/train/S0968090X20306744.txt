@@ -1,0 +1,7 @@
+ The interest in using drones in various applications has grown significantly in recent years . The reasons are related to the continuous advances in technology especially the advent of fast microprocessors which support intelligent autonomous control of several systems . Photography construction and monitoring and surveillance are only some of the areas in which the use of drones is becoming common . Among these last mile delivery is one of the most promising areas . In this work we focus on routing problems with drones mostly in the context of parcel delivery . We survey and classify the existing works and we provide perspectives for future research .
+
+@highlight We present a review of the recent contributions on drone aided routing problems.
+@highlight We provide a description of the technological background.
+@highlight We focus on problems arising in parcel delivery and provide a new classification.
+@highlight We give some insights into current research trends.
+@highlight We outline possible future research directions.

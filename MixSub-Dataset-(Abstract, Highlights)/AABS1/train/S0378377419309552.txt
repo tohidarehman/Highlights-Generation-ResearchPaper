@@ -1,0 +1,7 @@
+ Variable Rate Irrigation considers spatial variability in soil and plant characteristics to optimize irrigation management in agricultural fields . The advent of unmanned aircraft systems creates an opportunity to utilize high resolution imagery into irrigation management due to decreasing costs ease of operation and reduction of regulatory constraints . This research aimed to evaluate the use of UAS data for VRI and to quantify the potential of VRI in terms of relative crop and water response . Irrigation treatments were VRI using Landsat imagery VRI using UAS imagery uniform and rainfed . An updated remote sensing based evapotranspiration and water balance model incorporating soil water measurements was used to make prescriptions for the VRI treatments at a field site in eastern Nebraska . In 2017 the mean prescribed seasonal irrigation depth
+
+@highlight Irrigation was managed using unmanned aircraft system UAS imagery.
+@highlight Variable rate irrigation VRI was compared to uniform irrigation and rainfed.
+@highlight UAS captured small scale crop patterns better than Landsat.
+@highlight Comparable results were found for both VRI and uniform treatments.
+@highlight VRI using Landsat resulted in reduction of water withdrawals in 2018.

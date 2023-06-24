@@ -1,0 +1,6 @@
+ Numerous structurally different amides and imides including succinimide derivatives exhibit diverse bioactive potential . The development of new compounds requires rationalization in the design in order to provide structural changes that guarantee favorable physico chemical properties pharmacological activity and safety . In the present research a comprehensive study with comparison of the chromatographic lipophilicity and other physico chemical properties of five groups of 1 arylsuccinimide derivatives was conducted . The chemometric analysis of their physico chemical properties was carried out by using unsupervised and supervised pattern recognition methods while the correlations between the
+
+@highlight QSRR analysis of retention behavior of five series of 1 arylsuccinimide derivatives was done.
+@highlight Comparative chemometric analysis of their chromatographic lipophilicity was carried out.
+@highlight Discriminant analysis of the compounds based on chromatographic lipophilicity was performed.
+@highlight High quality linear and non linear QSRR models were established.

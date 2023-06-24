@@ -1,0 +1,7 @@
+ A novel approach was developed for producing biodiesel by acid ionic liquid catalyzed esterification of oleic acid and methanol under ultrasonic microwave combined intensification . Four kinds of acid ionic liquids were synthesized as suitable catalysts . Some key parameters affecting oleic acid conversion were investigated using single factor experiments . Moreover the production process was optimized via response surface methodology . The results indicated that the ionic liquid 1 3 methylmidazolium hydrosulfate exhibits good catalytic performance because of its double acid sites . The ultrasonic microwave combined assistance can intensify the process to significantly shorten the reaction time from about 180 min to 15 min thereby affording good industrial application potential . The specified regression model is accurate reliable and adequate for simulating actual production the oleic acid conversion was 97.85 which is close to that achieved with conventional methods .
+
+@highlight Biodiesel was produced by esterification of oleic acid with methanol.
+@highlight Ultrasonic microwave assistance was first applied to biodiesel production.
+@highlight The reaction time is dramatically reduced.
+@highlight The production was optimized by BoxBehnken response surface methodology.
+@highlight The conversion of oleic acid was 97.85 close to conventional methods.

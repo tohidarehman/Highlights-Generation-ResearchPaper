@@ -1,0 +1,6 @@
+ A common characteristic of virus capsids is icosahedral symmetry yet these highly symmetric structures can display asymmetric features within their virions and undergo asymmetric dynamics . The fields of structural and computational biology have entered a new realm in the investigation of virus infection mechanisms with the ability to observe symmetry breaking features . This review will cover important studies on icosahedral virus structure and dynamics covering both symmetric and asymmetric conformational changes . However the main emphasis of the review will be towards recent studies employing cryo electron microscopy or molecular dynamics simulations which can uncover asymmetric aspects of these systems relevant to understanding viral physical chemical properties and their biological impact .
+
+@highlight Symmetry breaking events in icosahedral viruses are important for infection.
+@highlight Advances in cryo EM technology has enabled asymmetric virus structure determination.
+@highlight Current MD simulations can compute full capsid dynamics on nss timescales.
+@highlight Further integration of modeling and experimental data will advance drug discovery.

@@ -1,0 +1,6 @@
+ In this paper a comprehensive method is proposed to synergistically optimize the configuration and operation strategy of combined cooling heating and power systems considering configuration and strategy interact with each other . The mathematical model is established based on the energy flow and the energy balance relationship of CCHP system and traditional separate system with multi objective evaluation criterion . The optimization based on an industrial park in Shanxi is carried out to find the optimal configuration and corresponding strategy . The results show that the optimized CCHP system outperforms the SP system in cost saving energy consumption saving and CO
+
+@highlight An integrated optimization of configuration and operation strategy is established.
+@highlight Applying genetic algorithm to find the optimal output of each facility.
+@highlight The reasons for the parameters affecting system performance are analyzed.
+@highlight The performance of CCHP system is optimal when production matches demand.

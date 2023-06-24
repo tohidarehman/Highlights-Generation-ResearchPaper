@@ -1,0 +1,6 @@
+ In this paper we proposed a linearized second order numerical technique for non linear fourth order distributed fractional sub diffusion equation with time delay . Time fractional derivative is represented using Caputo derivative and further approximated using
+
+@highlight For increasing order of convergence in time we opted for anL2 1
+@highlight formula.
+@highlight For increasing order of convergence in space linear operator is implemented.
+@highlight For increasing order of convergence in the fractional order dimension Simpsons 1 3rd rule is implemented.

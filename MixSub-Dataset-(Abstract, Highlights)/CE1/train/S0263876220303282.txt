@@ -1,0 +1,6 @@
+ Many chemical processes require complex piping configurations to achieve a variety of objectives such as splitting a stream into multiple parallel streams blending several streams bypassing units and interconnecting process units . The plumbing required for effective fluid mechanics performance and the control structure required for effective dynamic control differ from case to case . Liquid streams need to be handled in a different manner than vapor streams because their incompressibility prohibits having two control valves in series . This paper presents several important examples of process piping configurations and practical control structures for achieving good performance .
+
+@highlight Several common industrially important piping systems are discussed such as stream splitting blending and equipment bypassing.
+@highlight Liquid and gas flows require different piping designs and different control structures.
+@highlight Stream splitting is used when feeding separate downstream units or when feeding parallel vessels in the same unit.
+@highlight When split ranged valves are used to bypass heat exchangers valves should be installed in both the bypass line and the heat exchanger line to achieve the required rangeability.

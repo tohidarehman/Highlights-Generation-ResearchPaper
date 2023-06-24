@@ -1,0 +1,7 @@
+ We propose a novel method for finding the most innovative people in an organization using email to analyze structure and dynamics of the organizations online communication . To illustrate our approach we analyzed the email archive of 2000 members of the R D department of a US multinational company . We use metrics of social network analysis extended with meta data of interaction dynamics to calculate features for individual employees their network positions messages sent and received pings to others and response times . We find a distinction between innovation group leaders and subject matter experts focused on publishing papers and patents . Innovation administrators have a higher number of direct contacts are more committed in conversations and receive more messages than they send . We also found significant differences between innovators oriented towards internal awards and innovators more concerned with external recognition of their work .
+
+@highlight We analyze the email communication of 2000 employees working in a R D department.
+@highlight Using social network analysis we identify the communication patterns of innovators.
+@highlight Innovation leaders are more committed in conversations and receive more messages.
+@highlight Innovation leaders have a higher number of direct contacts degree centrality .
+@highlight We also find significant differences between product and award oriented innovators.

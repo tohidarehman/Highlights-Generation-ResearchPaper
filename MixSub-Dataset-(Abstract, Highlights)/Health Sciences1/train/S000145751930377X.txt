@@ -1,0 +1,6 @@
+ To prioritize how the development of mathematical human body models for injury prediction in crash safety analysis should be made the most frequent injuries in the NASS CDS data from 2000 to 2015 were analyzed . The crashes were divided into seven types from front to side . Non minor injuries were analyzed in two steps . In the first step a grouping was made according to the AIS definition of body regions head face neck thorax abdomen and pelvic contents spine upper extremities and lower extremities . In a second step the body regions were divided in organs parts of the spine and parts of the extremities . The three most often injured anatomical structures of each body region were estimated for drivers and front seat passengers in each type of crash .
+
+@highlight Prediction of injury pattern distribution for future AD vehicles.
+@highlight Foundation for prioritize future human body model developments.
+@highlight Expected injured body parts are head thorax and lower extremity in side impacts.
+@highlight Expected specific injuries are concussion rib and pelvis fractures.

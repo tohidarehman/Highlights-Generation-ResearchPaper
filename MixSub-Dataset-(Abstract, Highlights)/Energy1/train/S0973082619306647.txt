@@ -1,0 +1,7 @@
+ Mini grids have been widely developed for rural electrification purposes in Kenya predominantly as systems combining photovoltaic modules a diesel generator and battery capacity . wind turbines have been largely neglected in such setups and are basically non existent in Kenyan mini grids despite potential complementarity with PV due to different temporal production profiles of PV and wind power .
+
+@highlight The complementarity of solar and wind resources is explored in a mini grid setting.
+@highlight Energy system analysis backtesting the feasibility of hybrid PV wind solutions for a Kenyan case.
+@highlight Assessment of barriers to the diffusion of hybrid PV wind mini grids in Kenya.
+@highlight Hybrid PV wind solutions show techno economic potential to reduce LCOE.
+@highlight Substantial systemic technical and economic barriers hinder diffusion.

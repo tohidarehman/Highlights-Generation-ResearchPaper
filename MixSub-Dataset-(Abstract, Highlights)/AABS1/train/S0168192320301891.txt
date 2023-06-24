@@ -1,0 +1,6 @@
+ Characterization of LWD is essential when simulating the spread of phytopathogenic fungi . No standard for leaf wetness measurement exists and a wide range of sensors and models are currently available for estimating LWD . While the vast majority of models use hourly climate data this time step is not widely available in historical records . It is also seldom available in spatially disaggregated projected climatic data . Our study aims to develop a new method for using temperature and humidity on a daily time step to simulate leaf wetness duration . The principle behind our model consists in reconstructing hourly temperature and relative humidity based on optimized equations with the bootstrap statistical method for the studied area . Then hourly simulated data are used to estimate the daily duration of leaf wetness . The sensitivity of this process to daily and hourly temperature and relative humidity is assessed . The impact of this model on simulations of potential infections of grapevine
+
+@highlight Optimized modelling chain to simulate LWD from daily data at a regional scale.
+@highlight A bootstrap empirical method based on measurement data.
+@highlight Error propagation of the LWD modelisation in an infection rate fungi model.
+@highlight An empirical model more suitable for large area and long period simulation.

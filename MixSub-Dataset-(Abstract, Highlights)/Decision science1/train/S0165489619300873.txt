@@ -1,0 +1,6 @@
+ We investigate an interaction between mathematical logic and economics by exploring a mathematical model of economic reasoning . To this purpose we focus on economic reasoning with linear demand and supply graphs . Linear graphs have the following advantages Linear graphs are easily constructed and reasoning using such graphs can be effectively managed linear graphs are qualitatively determinate with respect to our problems . We investigate the types of problems regarding general demand and supply functions that can be reduced to linear graphs and discuss abductive reasoning with demand and supply graphs . Then we propose a model of economic reasoning by formalizing reasoning with linear graphs in the framework of natural deduction developed through proof theory of mathematical logic .
+
+@highlight Investigation of an interaction between economics and mathematical logic.
+@highlight Investigation of actual economic reasoning or problem solving.
+@highlight Reduction of certain problems regarding general demand and supply functions to those regarding linear graphs.
+@highlight Formalization of economic reasoning with linear graphs.

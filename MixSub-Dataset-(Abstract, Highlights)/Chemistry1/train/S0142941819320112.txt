@@ -1,0 +1,7 @@
+ Collagen and chitosan are widely employed as biomaterials including for 3D bioprinting . However the use of collagen and chitosan blends as bioinks is still scarce . In this work the rheology of different hydrogel precursors was analyzed through frequency and strain sweeps as well as at different shear rates . Col chi blends showed a shear thinning behavior with viscosity values at low shear rates between 0.35 and 2.80Pas . Considering the strain rate determined by the applied flow in a 3D bioprinter precursor viscosities during the extrusion were in the interval 0.50.8Pas . Printability was measured comparing images of the printed meshes and the corresponding CAD grid design using photograph analysis . Col chi 0.36 1.00 was chosen to print mono layered scaffolds for tissue engineering because of its suitable viscosity printability and polymer ratio content . Hydrogels were obtained through NaHCO
+
+@highlight 3D bioprinting is a powerful emerging field in which ink composition is a critical issue.
+@highlight Collagen and chitosan are very well known biopolymers.
+@highlight Blends of collagen and chitosan composing a bioink are poorly explored.
+@highlight Collagen and chitosan blends behavior through a 3D bioprinter were assessed in this work.
+@highlight Printed and crosslinked scaffolds for tissue engineering were obtained from col chi 0.36 1.00 both w v.

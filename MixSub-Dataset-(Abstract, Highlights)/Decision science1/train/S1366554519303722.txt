@@ -1,0 +1,7 @@
+ We extend the Traveling Repairman Problem by assuming a single truck which can stop at customer locations and launch drones multiple times from each stop location to serve customers . The problem is mathematically modeled several bound analyses are conducted to determine the maximum possible improvements in customer waiting times and an efficient hybrid Tabu Search Simulated Annealing algorithm is developed to solve the problem . The results of evaluations on several problem instances suggest that the system can yield considerable reductions in customer waiting time for a wide range of model parameters compared to the conventional delivery models .
+
+@highlight We model a joint routing problem of a truck with one or multiple drones.
+@highlight We conduct several theoretical bound analyses on maximum possible savings.
+@highlight We develop a hybrid metaheuristic approach based on Simulated Annealing and Tabu Search to solve the problem.
+@highlight We assess the performance sensitivity of this system to a number of key parameters.
+@highlight We demonstrate the real world impact of our model by a case study in Massachusetts USA.

@@ -1,0 +1,7 @@
+ We investigate the use of a second order cone programming framework for computing complex 3D steel assemblies in the context of elastoplasticity and limit analysis . Displacement and stress based variational formulations are considered and appropriate finite element discretization strategies are chosen yielding respectively an upper and lower bound estimate of the exact solution . An efficient interior point algorithm is used to solve the associated optimization problems . The discrete solution convergence is estimated by comparing both static and kinematic solutions offering a way to perform local mesh adaptation . The proposed framework is illustrated on the design of a moment transmitting assembly its performance is assessed by comparison with classical elastoplastic computations using Abaqus and finally T stub resistance and failure mechanisms when assessing the strength of a column base plate are compared with the Eurocodes design rules .
+
+@highlight Variational conic programming formulations are considered for elastoplastic 3D structures.
+@highlight Limit analysis formulations are also available in a similar fashion.
+@highlight A primal dual interior point solver is developed for solving the corresponding problems.
+@highlight Dual displacement and equilibrium based finite elements provide a bracketing of the exact solution.
+@highlight Numerical results show efficiency and robustness on complex 3D steel assemblies and validation against Eurocode formulas.

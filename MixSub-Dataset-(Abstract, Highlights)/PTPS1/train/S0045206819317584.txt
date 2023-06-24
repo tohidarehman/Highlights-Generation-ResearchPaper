@@ -1,0 +1,7 @@
+ Protein tyrosine phosphatase 1B is emerging as a promising yet challenging target for drug discovery . To identify natural products as new prototypes for PTP1B inhibitors we employed a hierarchical protocol combining ligand based and structure based approaches for virtual screening against natural product libraries . Twenty six compounds were prioritized for enzymatic evaluation against PTP1B and ten of them were recognized as potent PTP1B inhibitors with IC
+
+@highlight Natural hits were identified as PTP1B inhibitors by virtual screening.
+@highlight Ten hits demonstrated excellent potency with IC
+@highlight at micromolar level against PTP1B.
+@highlight Several hits showed evident selectivity to PTP1B over four other PTPs including TCPTP.
+@highlight A linear furancoumarin skeleton was recognized as a new prototype for PTP1B inhibitors.

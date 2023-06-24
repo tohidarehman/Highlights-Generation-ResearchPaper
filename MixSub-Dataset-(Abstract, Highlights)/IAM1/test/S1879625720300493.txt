@@ -1,0 +1,6 @@
+ Flaviviruses are emerging arthropod borne RNA viruses causing a broad spectrum of life threatening disease symptoms such as encephalitis and hemorrhagic fever . Successful vaccines exist against yellow fever virus Japanese encephalitis virus and tick borne encephalitis virus . However vaccine development against other flaviviruses like dengue virus is not straightforward . This is partly because of the high sequence conservation and immunological cross reactivity among flavivirus envelope glycoproteins leading to antibody mediated enhancement of disease . A comprehensive analyses of the structural landscape of humoral immune response against flaviviruses is crucial for antigen design . Here we compare the available structural data of several flavivirus antibody complexes with a major focus on Zika virus and dengue virus and discuss the mapped epitopes the stoichiometry of antibody binding and mechanisms of neutralization .
+
+@highlight Flavivirus structures in complex with neutralizing antibodies are analyzed.
+@highlight Envelope E protein epitopes are mapped and classified based on structural studies.
+@highlight Antibody binding stoichiometry and neutralization mechanisms are reviewed.
+@highlight Flavivirus therapeutic antibody development and antigen design are discussed.

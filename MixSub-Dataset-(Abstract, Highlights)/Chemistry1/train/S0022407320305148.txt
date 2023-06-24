@@ -1,0 +1,6 @@
+ We numerically simulate multiple light scattering in discrete disordered media represented by large clusters of irregular non absorbing particles . The packing density of clusters is 0.5 . With such conditions diffuse scattering is significantly reduced and light transport follows propagation channels that are determined by the particle size and topology of the medium . This kind of localization produces coherent backscattering intensity surge and enhanced negative polarization branch if compared to lower density samples .
+
+@highlight Light transport in dense clusters of particles is highly localized in the propagation channels determined by the particle size and topology of the medium.
+@highlight Light localization produces an intensity surge and enhanced negative polarization branch at backscattering if compared to low density samples.
+@highlight The negative polarization near backscattering apparently originates from single scattering by particles in the surface layer.
+@highlight Clusters of particles with the same packing density but topologically distinct may have different backscattering properties.

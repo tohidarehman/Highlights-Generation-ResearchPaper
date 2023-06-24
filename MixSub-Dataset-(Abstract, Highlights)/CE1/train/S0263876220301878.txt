@@ -1,0 +1,6 @@
+ We investigate the three dimensional time dependent behaviour of coherent flow structures inside two cyclone separator geometries a Stairmand cyclone and a swirl tube operating in the turbulent regime . For this large eddy simulations with a standard Smagorinsky subgrid scale model are carried out on the single phase flow employing a non orthogonal curvilinear hexahedral mesh . Reynolds numbers
+
+@highlight Coherent flow structures inside cyclone separators were investigated numerically.
+@highlight Simulated fluctuation frequencies closely match experimental data.
+@highlight Non dimensional frequencies Strouhal numbers weakly depend on the Reynolds number.
+@highlight Complex vortex core motion was interpreted in terms of velocity fluctuation spectra.

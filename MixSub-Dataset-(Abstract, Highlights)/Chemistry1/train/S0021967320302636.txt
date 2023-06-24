@@ -1,0 +1,9 @@
+ The strength of the biotin avidin interaction makes it an ideal tool for the purification of biotin labeled proteins via avidin coupled resin with high specificity and selectivity . Nevertheless this tight binding comes at an extra cost of performing the elution step under denaturing conditions . Weakening the biotin avidin interaction improves the elution conditions but only to mild or harsh denaturing buffers with the drawback of reducing the specificity and selectivity of this interaction . Here we present two chromatographic protein purification schemes that are well suited for application under native conditions thus preserving the strength of the biotin avidin interaction . In the first scheme we introduce a biotin labeled SUMO tag to each of human flap endonuclease 1 and
+
+@highlight Protein purification under native conditions employing the biotin avidin interaction.
+@highlight Single expression vector for BirA and AviTag tagged proteins.
+@highlight Efficient
+@highlight biotinylation using BirA enzyme.
+@highlight An optimized release system from the biotin avidin interaction.
+@highlight Efficient coupling of a biotin tagged bait protein to avidin resin.
+@highlight Usage of bait protein coupled Agarose for affinity chromatography.

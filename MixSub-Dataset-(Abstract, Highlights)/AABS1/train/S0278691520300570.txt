@@ -1,0 +1,5 @@
+ In food and toxicology science a huge amount of research and other data has been collected . To enable its full utilization advanced statistical and computer methods are required . All data is related to food items but additionally include different kinds of information . Nowadays the consumption of avocado has increased . To understand the full impact of this increased consumption on public health and the environment different data related to avocado need to be considered .
+
+@highlight Poincar embeddings of the FoodEx2 hierarchy to learn vector representation of food concepts.
+@highlight The novel representation outperforms traditional representations for several food data analysis tasks.
+@highlight The pre trained embeddings are available as an open source resource for future applications.
