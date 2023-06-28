@@ -10,6 +10,7 @@ We propose a technique to combine a SciBERT  pre-trained layer of word embedding
 
 
 If you find our dataset / method useful, please cite our paper:
+
 @article{rehman2023generation,
   title={Generation of Highlights from Research Papers Using Pointer-Generator Networks and SciBERT Embeddings},
   author={Rehman, Tohida and Sanyal, Debarshi Kumar and Chattopadhyay, Samiran and Bhowmick, Plaban Kumar and Das, Partha Pratim},
