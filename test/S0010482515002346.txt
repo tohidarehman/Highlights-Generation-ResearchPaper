@@ -1,0 +1,6 @@
+ This review paper focuses on the neonatal brain segmentation algorithms in the literature. It provides an overview of clinical magnetic resonance imaging (MRI) of the newborn brain and the challenges in automated tissue classification of neonatal brain MRI. It presents a complete survey of the existing segmentation methods and their salient features. The different approaches are categorized into intracranial and brain tissue segmentation algorithms based on their level of tissue classification. Further, the brain tissue segmentation techniques are grouped based on their atlas usage into atlas-based, augmented atlas-based and atlas-free methods. In addition, the research gaps and lacunae in literature are also identified.
+
+@highlight We present a review of state-of-the-art techniques in neonatal brain MRI segmentation.
+@highlight Both intracranial and brain tissue segmentation algorithms are included.
+@highlight Brain tissue segmentation methods are classified based on their level of atlas use.
+@highlight Research gaps in the existing literature are highlighted.

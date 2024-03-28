@@ -1,0 +1,5 @@
+ A new information hiding scheme for color images based on the concept of visual cryptography and the Boolean exclusive-or (XOR) operation is proposed. Three different schemes with noise-like, meaningful and binary shares are presented. Meaningful shares may reduce suspicion that something is concealed there. Binary shares can achieve both the benefits of smaller share size and good visual quality. Our model can be easily extended from 256 colors to 65,536 or true color images simply by expanding the block size from 3×3 to 4×4 or 5×5, respectively.
+
+@highlight A true color secret image can be concealed into two meaningful cover images.
+@highlight 5 algorithms are proposed to share a secret color image.
+@highlight Our schemes can achieve both the benefits of smaller share size and good visual quality.

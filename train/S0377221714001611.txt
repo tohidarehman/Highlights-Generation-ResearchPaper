@@ -1,0 +1,6 @@
+ In this article, we derive a solution for a linear stochastic model on a complex time domain. In this type of models, the time domain can be any collection of points along the real number line, so these models are suitable for problems where events do not occur at evenly-spaced time intervals. We present examples based on well-known results from economics and finance to illustrate how our model generalizes and extends conventional dynamic models.
+
+@highlight Introducing the Cagan type rational expectations model on complex discrete time domains.
+@highlight Obtaining the general solution of CTRE model using the martingale approach.
+@highlight Unification and generalization of the existing Cagan type rational expectations models in discrete time.
+@highlight Developing a solution method which works for any given parameters “a” in the model.

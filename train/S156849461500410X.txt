@@ -1,0 +1,5 @@
+ In this paper a new approach called evolving principal component clustering is applied to a data stream. Regions of the data described by linear models are identified. The method recursively estimates the data variance and the linear model parameters for each cluster of data. It enables good performance, robust operation, low computational complexity and simple implementation on embedded computers. The proposed approach is demonstrated on real and simulated examples from laser-range-finder data measurements. The performance, complexity and robustness are validated through a comparison with the popular split-and-merge algorithm.
+
+@highlight A novel approach for data stream clustering to linear model prototypes.
+@highlight Good performance, robust operation, low computational complexity and simple implementation.
+@highlight Validation of results by comparison to well-known algorithms.

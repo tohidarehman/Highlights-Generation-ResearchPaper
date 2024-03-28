@@ -1,0 +1,6 @@
+ The nesting problem is commonly encountered in sheet metal, clothing and shoe-making industries. The nesting problem is a combinatorial optimization problem in which a given set of irregular polygons is required to be placed on a rectangular sheet. The objective is to minimize the length of the sheet while having all polygons inside the sheet without overlap. In this study, a methodology that hybridizes cuckoo search and guided local search optimization techniques is proposed. To reduce the complexity of the nesting problem, pairwise clustering is introduced to group congruent polygons together in pairs. Pairwise clustering is done automatically to discover matched features among multiple present polygons. Computational experiments show that the implementation is robust and also reasonably fast. The proposed approach provides significantly better results than the previous state of the art on a wide range of benchmark data instances.
+
+@highlight A new approach for solving sheet nesting problem is introduced.
+@highlight Cuckoo search combined with guided local search are used in this approach.
+@highlight Pairwise clustering is proposed to reduce the complexity of the nesting problem.
+@highlight The proposed approach provides significantly better results than the previous state of the art.

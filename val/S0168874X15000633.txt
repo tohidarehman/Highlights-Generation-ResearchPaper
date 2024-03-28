@@ -1,0 +1,7 @@
+ This paper proposes two algorithms for better controlling the size of time increment in case of return-mapping integration scheme for elasto-viscoplastic constitutive models. Computation errors in terms of local stress–strain loops in Finite Element Analyses could indeed have a very strong impact on fatigue lifetime estimation protocol if time increment size are freely chosen by the FE solver. Proposed algorithm enables both to precisely describe the transition between elasticity and viscoplasticity and to avoid too important increase of time step during large viscoplasticity evolutions. The precision of the computed mechanical answer has been successfully tested for different kinds of multi-axial and anisothermal loading conditions on simple finite element and more complex meshed structures. Fatigue lifetime estimation errors have also been investigated for stabilized stress–strain cycle and common criteria and the proposed algorithm show very precise results with a limited computation time increase and without drastic limitation of the time increment size.
+
+@highlight Algorithms are proposed to control the time increment in viscoplastic FE analyses.
+@highlight Algorithms avoid important increase of time step during large viscoplastic evolutions.
+@highlight Control protocol enables an efficient computation of fatigue stress–strain loop.
+@highlight Control methods are positively tested for multi-axial and athermal loading conditions.
+@highlight Control algorithms are successfully tested for volume elements and structures.

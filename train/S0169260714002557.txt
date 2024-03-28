@@ -1,0 +1,7 @@
+ The domain of cancer treatment is a promising field for the implementation and evaluation of a protocol-based clinical decision support system, because of the algorithmic nature of treatment recommendations. However, many factors can limit such systems’ potential to support the decision of clinicians: technical challenges related to the interoperability with existing electronic patient records and clinical challenges related to the inherent complexity of the decisions, often collectively taken by panels of different specialists. In this paper, we evaluate the performances of an Asbru-based decision support system implementing treatment protocols for breast cancer, which accesses data from an oncological electronic patient record. Focusing on the decision on the adjuvant pharmaceutical treatment for patients affected by early invasive breast cancer, we evaluate the matching of the system's recommendations with those issued by the multidisciplinary panel held weekly in a hospital.
+
+@highlight We design and built a decision support system for the treatment of breast cancer based on Asbru.
+@highlight The DSS is integrated with the electronic patient record in use in a Medical Oncology Unit.
+@highlight We evaluated the DSS in the multidisciplinary meeting for the decision of the adjuvant treatment.
+@highlight The results show an agreement of nearly 90% between the meeting decisions and the DSS recommendations.
+@highlight We discuss the reasons for non-agreement and additional insights into the design of effective DSS.

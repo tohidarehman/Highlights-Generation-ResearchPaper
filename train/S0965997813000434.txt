@@ -1,0 +1,7 @@
+ This paper presents a density control based adaptive hexahedral mesh generation algorithm for three dimensional models. To improve the mesh quality of hexahedral elements, a set of improved 27-refinement templates is proposed and the refinement modes of these templates are given. A set of effective refinement templates for 8-refinement based mesh generation algorithm is employed. The corresponding date structure and the procedures for realization of the algorithm are also presented. A buffer layer is inserted on the concave domains to resolve the propagation problems. Finally, the effectiveness and robustness of the algorithm are demonstrated by using several examples.
+
+@highlight A set of improved 27-refinement templates is proposed to improve the mesh quality.
+@highlight 8-Refinement based mesh generation algorithm is put forward.
+@highlight The date structure and procedures for realization of the algorithm are presented.
+@highlight A buffer layer is inserted on the concave domains to resolve propagation problems.
+@highlight Several examples demonstrate the effectiveness and robustness of the algorithm.

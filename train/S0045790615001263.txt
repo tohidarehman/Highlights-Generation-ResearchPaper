@@ -1,0 +1,7 @@
+ Multiple-Input Multiple-Output system plays a major role in the fourth generation wireless systems to provide high data rates. In this paper, a blind channel estimation approach has been proposed for finding the channel length based on the signals received from the MIMO (Multiple-Input Multiple-Output) transceiver. The resultant MIMO channel length information is utilized for estimation of the channel impulse response of the system. The estimation is used for adaptation of the equalizer weights, based on the proposed Constant Modulus Algorithm which has reduced the fading and multipath propagation resulting from Inter Symbol Interference. The performance of the proposed system has been analyzed in terms of Mean Square Error and Symbol Error Rate for various Signal to Noise Ratio.
+
+@highlight The channel length is blindly estimated and the channel impulse response is determined.
+@highlight The cost function specifies the signal noise level.
+@highlight Equalizer updates its tap weights based on the cost function of the proposed CMA.
+@highlight With 4 taps, the proposed CMA achieves a faster convergence rate.
+@highlight The proposed CMA exhibit better MSE and reduced error rate than other CMA techniques.

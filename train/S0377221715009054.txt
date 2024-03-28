@@ -1,0 +1,6 @@
+ In traditional analytic hierarch process (AHP), decision makers (DMs) are required to provide crisp judgments over paired comparisons of objectives to construct comparison matrices. To enhance the modeling ability of traditional AHP, we propose hesitant AHP (H-AHP) that can consider the hesitancy experienced by the DMs in decision. H-AHP is characterized by hesitant judgments, where each hesitant judgment can be represented by several possible values. Different probability distributions can be used to further describe hesitant judgments according to the DMs’ preferences. Based on a hesitant comparison matrix (HCM) that consists of hesitant judgments, we define two indices to measure the consistency degree and the consensus degree of the HCM respectively. From a stochastic point of view, a new prioritization method is developed to derive priorities from HCMs, where the results are with probability interpretations. We provide a step by step procedure for H-AHP, and demonstrate this new method with a real-life decision making problem.
+
+@highlight We develop a new analytic hierarchy process method.
+@highlight Hesitant information is allowed in this method.
+@highlight We use stochastic method to handle hesitant information.
+@highlight This method is illustrated by a real-life example.

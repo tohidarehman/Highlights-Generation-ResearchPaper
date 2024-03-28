@@ -1,0 +1,7 @@
+ Researchers have found that price dispersion and market inefficiency exists in electronic marketplaces. Little attention has been bestowed to explore difference in market efficiency between traditional and electronic marketplaces. This study integrates both product and channel preference factors to analyze differences in market efficiency between electronic and traditional shopping environments. Data Envelopment Analysis (DEA) is applied to calculate market efficiency for single-channel and multi-channel shoppers. Results show that market efficiencies vary across consumer segments and products. In summary, this paper enhances understanding of market efficiency by incorporating behavioral segment and product characteristics into the explanatory framework.
+
+@highlight Integrating product and channel preference factors to analyze differences of efficiency in electronic and traditional markets.
+@highlight Applying Data Envelopment Analysis (DEA) to calculate market efficiency for single-channel and multi-channel shoppers.
+@highlight Price dispersion and market inefficiency exist in electronic marketplaces.
+@highlight Market efficiencies vary across consumer segments and products.
+@highlight Incorporation of behavioral segmentation and product characteristics enhances the understanding of market efficiency.

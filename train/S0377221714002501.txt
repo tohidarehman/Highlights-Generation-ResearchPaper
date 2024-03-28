@@ -1,0 +1,6 @@
+ Deriving accurate interval weights from interval fuzzy preference relations is key to successfully solving decision making problems. proposed a number of linear programming models to derive interval weights, but the definitions for the additive consistent interval fuzzy preference relation and the linear programming model still need to be improved. In this paper, a numerical example is given to show how these definitions and models can be improved to increase accuracy. A new additive consistency definition for interval fuzzy preference relations is proposed and novel linear programming models are established to demonstrate the generation of interval weights from an interval fuzzy preference relation.
+
+@highlight The definitions and models in Xu and Chen (2008) may take a consistent IFPR as an inconsistent.
+@highlight An improved additive consistent definition with parameter c is proposed.
+@highlight The improved definition is simplified to a definition without parameter.
+@highlight Two linear programming models are established to derive the bound of weights.

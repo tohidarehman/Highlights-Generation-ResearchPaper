@@ -1,0 +1,7 @@
+ This paper proposes a new probabilistic graphical model which contains an unobservable latent variable that affects all other observable variables, and the proposed model is applied to ranking evaluation of institutions using a set of performance indicators. Linear Gaussian models are used to express the causal relationship among variables. The proposed iterative method uses a combined causal discovery algorithm of score-based and constraint-based methods to find the network structure, while Gibbs sampling and regression analysis are conducted to estimate the parameters. The latent variable representing ranking scores of institutions is estimated, and the rankings are determined by comparing the estimated scores. The interval estimate of the ranking of an institution is finally obtained from a repetitive procedure. The proposed procedure was applied to a real data set as well as artificial data sets.
+
+@highlight Institutions will be ranked based on a set of performance indicators.
+@highlight A Bayesian network is constructed having a latent variable.
+@highlight Linear Gaussian models are used to express the causal relation among variables.
+@highlight An interval estimate of the ranking of an institution is obtained.
+@highlight A real case and a simulation study are considered.

@@ -1,0 +1,10 @@
+ In this paper, we address the problem of covering a given set of points on the plane with minimum and/or maximum area orthogonally convex polygons. It is known that the number of possible orthogonally convex polygon covers can be exponential in the number of input points. We propose, for the first time, an algorithm to construct either the maximum or the minimum area orthogonally convex polygon if it exists, else report the non-existence in log
+
+@highlight We examine maximum area coverings of point sets using orthogonally convex polygons.
+@highlight If no such covering exists, we report in
+@highlight log
+@highlight time.
+@highlight If covering exists, we build it in
+@highlight time.
+@highlight Minimum area coverings can be constructed with very minor modifications
+@highlight Our approach uses dynamic programming with memoization.

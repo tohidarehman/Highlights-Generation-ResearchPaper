@@ -1,0 +1,5 @@
+ Thin amorphous silicon (a-Si) films were crystallized into polycrystalline silicon (poly-Si) by combining solid phase crystallization (SPC) and subsequent excimer laser annealing (ELA). Then thin film transistors (TFTs) were fabricated by using the poly-Si formed in the single and double excimer laser scanned area. The device performance of the TFTs fabricated with the excimer laser energy density of 230mJ/cm2 is almost equal for the single and double scanned area. This observation indicates that the overlapping laser irradiation with the laser energy density below 230mJ/cm2 does not change the characteristics of TFTs. Based on this result, we discuss the correlation between performance of active matrix organic light emitting display (AMOLED) panels and excimer laser energy density during ELA for SPC treated and non-treated poly-Si films.
+
+@highlight Poly-Si TFTs were fabricated by SPC+ELA process.
+@highlight Correlation between the performance of AMOLED and ELA condition was studied.
+@highlight We found the optimized ELA condition for SPC treated a-Si for AMOLED.

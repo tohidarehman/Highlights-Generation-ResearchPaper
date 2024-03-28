@@ -1,0 +1,6 @@
+ The prevalence of intermediaries (middlemen) in supply chains is often seen as a dying remnant of less efficient times. Despite predictions that supply chains will rapidly “cut out the middleman” as technological advances have eased logistics, middlemen have continued to thrive. In this paper, we demonstrate a transaction role of middlemen that may help clarify their staying power. In a model with self-interested decision-making by both a manufacturer and a retailer, wherein incentive misalignment creates investment and production inefficiencies, we show that the integrated (first-best) outcome can be achieved with simple cost-based contracts if and only if a middleman is present. We further show that the approach of utilizing a middleman to fully coordinate the supply chain is robust in that it can be applied to a variety of circumstances discussed in the literature, including multilateral investment/effort choices, multiple product providers, and logistical investments made by the middleman.
+
+@highlight Middlemen are often viewed as adding a layer of bureaucracy.
+@highlight A supply chain is concerned with both efficient investment and production decisions.
+@highlight A simple cost-based contract can improve supply chain coordination if and only if a middleman is employed.
+@highlight The middleman arrangement is effective in a variety of circumstances.

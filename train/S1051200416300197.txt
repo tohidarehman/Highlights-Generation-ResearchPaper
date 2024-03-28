@@ -1,0 +1,10 @@
+ ï»¿Two dimensional (2D) integer transforms are used in all the profiles of H.264/MPEG-4 Advanced Video Coding (AVC) standard. This paper presents a resource shared architecture of 2D and integer transforms in H.264/MPEG-4 AVC coders. Existing architectures use separate designs to compute 2D and forward/inverse integer transform. Shared resource architectures for and transforms can be used to reduce the implementation area without sacrificing high throughput. Matrix decomposition is used to show that the 2D forward/inverse integer transform of two independent data blocks can be obtained from one 2D forward/inverse integer transform circuit. A high throughput architecture is used as the base design for the implementation of 2D forward/inverse transform. Data rearrangement stages are added to the base design to compute the 2D forward/inverse transform. The proposed dual-clock pipelined architecture does not require any transpose memory. As compared to existing designs, the proposed design operates on two independent sub-blocks. Hence, the overall throughput of the 2D forward/inverse transform computation increases by approximately 200% with less than a 5% increase in the gate count. The proposed design operates at a clock frequency of approximately 1.25 GHz and achieves a throughput of 7 G and 18.7 G pixels/sec for each block of and forward integer transforms, respectively. Due to resource shared implementation and high throughput, the proposed design can be used for real-time H.264/MPEG-4 AVC processing.
+
+@highlight Parallel processing of two independent blocks of
+@highlight data.
+@highlight High circuit utilization ratio during 2D
+@highlight and
+@highlight integer transform computation.
+@highlight Data stream processing capability.
+@highlight High throughput.
+@highlight Small gate count.

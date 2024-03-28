@@ -1,0 +1,7 @@
+ We propose a frequency domain generalized likelihood ratio test for testing nonstationarity in time series. The test is constructed in the frequency domain by comparing the goodness of fit in the log-periodogram regression under the varying coefficient fractionally exponential models. Under such a locally stationary specification, the proposed test is capable of detecting dynamic changes of short-range and long-range dependences in a regression framework. The asymptotic distribution of the proposed test statistic is known under the null stationarity hypothesis, and its finite sample distribution can be approximated by bootstrap. Numerical results show that the proposed test has good power against a wide range of locally stationary alternatives.
+
+@highlight We propose a frequency domain test against nonstationarity in time series.
+@highlight The test is based on comparing the goodness of fit in log-periodogram regression.
+@highlight The regression model is the varying coefficient fractionally exponential model.
+@highlight The test is applicable for dynamic changes of both short and long range dependences.
+@highlight The finite sample test distribution is approximated by bootstrap.

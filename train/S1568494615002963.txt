@@ -1,0 +1,8 @@
+ In this study, the combination of artificial neural network (ANN) and ant colony optimization (ACO) algorithm has been utilized for modeling and reducing NO and soot emissions from a direct injection diesel engine. A feed-forward multi-layer perceptron (MLP) network is used to represent the relationship between the input parameters (i.e., engine speed, intake air temperature, rate of fuel mass injected, and power) on the one hand and the output parameters (i.e., NO and soot emissions) on the other hand. The ACO algorithm is employed to find the optimum air intake temperatures and the rates of fuel mass injected for different engine speeds and powers with the purpose of simultaneous reduction of NO and soot. The obtained results reveal that the ANN can appropriately model the exhaust NO and soot emissions with the correlation factors of 0.98, 0.96, respectively. Further, the employed ACO algorithm gives rise to 32% and 7% reduction in the NO and soot, respectively. The response time of the optimization process was obtained to be less than 4min for the particular PC system used in the present work. The high accuracy and speed of the model show its potential for application in intelligent controlling systems of the diesel engines.
+
+@highlight NO
+@highlight and soot emissions from a diesel engine are modeled using artificial neural network model.
+@highlight The data used for training and testing the ANN model are obtained through testing a diesel engine.
+@highlight The mass fuel rate, intake air temperature, etc. are optimized using ant colony optimization algorithm.
+@highlight The ACO algorithm gives rise to 32% and 7% reduction in the NO
+@highlight and soot emissions, respectively.

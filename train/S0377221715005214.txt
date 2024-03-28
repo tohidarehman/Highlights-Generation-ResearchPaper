@@ -1,0 +1,7 @@
+ Coordinating supply chains is an important goal for contract designers because it enables the channel members to increase their profits. Recently, many experimental studies have shown that behavioral aspects have to be taken into account when choosing the type of contract and specifying the contract parameters. In this paper, we analyze behavioral aspects of revenue-sharing contracts. We extend the classical normative decision model by incorporating reference-dependent valuation into the decision model and show how this affects inventory decisions. We conduct different lab experiments to test our model. As a result, human inventory decisions deviate from classical normative predictions, and we find evidence for reference-dependent valuation of human decision makers. We also show how contract designers can use the insights we gained to design better contracts.
+
+@highlight We develop a behavioral decision model for revenue sharing contracts incorporating reference points.
+@highlight We conduct three laboratory experiments to test our behavioral model.
+@highlight We find significant deviations from profit-maximizing predictions.
+@highlight Reference prices can explain the observed decision biases.
+@highlight We discuss the consequences of reference points on supply contract design.

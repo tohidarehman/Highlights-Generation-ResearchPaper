@@ -1,0 +1,7 @@
+ This paper presents a stochastic analysis of the transform-domain least-mean-square (TDLMS) algorithm operating in a nonstationary environment (time-varying plant) with real-valued correlated Gaussian input data, from which the analysis for the stationary environment follows as a special case. In this analysis, accurate model expressions are derived describing the transformed mean weight-error behavior, learning curve, transformed weight-error covariance matrix, steady-state excess mean-square error (EMSE), misadjustment, step size for minimum EMSE, degree of nonstationarity, as well as a relationship between misadjustment and degree of nonstationarity. Based on these model expressions, the impact of the algorithm parameters on its performance is discussed, clarifying the behavior of the algorithm vis-à-vis the nonstationary environment considered. Simulation results for the TDLMS algorithm are shown by using the discrete cosine transform, which confirm the accuracy of the proposed model for both transient and steady-state phases.
+
+@highlight An accurate stochastic analysis of the algorithm is presented;
+@highlight The model considers a nonstationary environment, i.e., a time-varying plant;
+@highlight Model expressions describing the algorithm behavior in steady state are obtained;
+@highlight The impact of the algorithm parameters on its behavior is discussed;
+@highlight Simulation results for different scenarios confirm the accuracy of the model.

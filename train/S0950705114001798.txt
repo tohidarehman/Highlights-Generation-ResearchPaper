@@ -1,0 +1,7 @@
+ One of the most fundamental research questions in the field of human–machine interaction is how to enable dialogue systems to capture the meaning of spontaneously produced linguistic inputs without explicit syntactic expectations. This paper introduces a cognitively-inspired representational model intended to address this research question. To the extent that this model is cognitively-inspired, it integrates insights from behavioral and neuroimaging studies on working memory operations and language-impaired patients (i.e., Broca’s aphasics). The level of detail contained in the specification of the model is sufficient for a computational implementation, while the level of abstraction is sufficient to enable generalization of the model over different interaction domains. Finally, the paper reports on a domain-independent framework for end-user programming of adaptive dialogue management modules.
+
+@highlight We propose a computational model for meaning representation in machine dialogue.
+@highlight It is aimed at robust processing of the user’s utterances without a preset grammar.
+@highlight It is inspired by neuroimaging studies on working memory and Broca’s aphasia.
+@highlight We show that it can be generalized over different interaction domains.
+@highlight We report on a framework for end-user programming of adaptive dialogue systems.

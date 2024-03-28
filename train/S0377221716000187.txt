@@ -1,0 +1,6 @@
+ We propose an axiomatic definition of a dispersion measure that could be applied for any finite sample of k-dimensional real observations. Next we introduce a taxonomy of the dispersion measures based on the possible behavior of these measures with respect to new upcoming observations. This way we get two classes of unstable and absorptive dispersion measures. We examine their properties and illustrate them by examples. We also consider a relationship between multidimensional dispersion measures and multidistances. Moreover, we examine new interesting properties of some well-known dispersion measures for one-dimensional data like the interquartile range and a sample variance.
+
+@highlight We propose an axiomatic definition of a dispersion measure for k-dimensional data.
+@highlight We introduce a new taxonomy of the dispersion measures.
+@highlight We consider a relationship between dispersion measures and multidistances.
+@highlight We examine new properties of the interquartile range and sample variance.

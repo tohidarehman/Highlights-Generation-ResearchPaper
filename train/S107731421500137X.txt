@@ -1,0 +1,6 @@
+ Would it be possible to automatically associate ancient pictures to modern ones and create fancy cultural heritage city maps? We introduce here the task of recognizing the location depicted in an old photo given modern annotated images collected from the Internet. We present an extensive analysis on different features, looking for the most discriminative and most robust to the image variability induced by large time lags. Moreover, we show that the described task benefits from domain adaptation.
+
+@highlight We introduce a new dataset where the objective is to recognize a location of an old photograph using modern digital images.
+@highlight We evaluate a large number of existing features and encoding methods for this task.
+@highlight We show that existing domain adaptation methods can help to improve results for this specific task.
+@highlight We further show that there is the need for further research in cross-domain image retrieval task.

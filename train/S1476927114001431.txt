@@ -1,0 +1,6 @@
+ Protein p7 of HCV is a 63 amino acid channel forming membrane protein essential for the progression of viral infection. With this momentousness, p7 emerges as an important target for antiviral therapy. A series of small molecule drugs, such as amantadine, rimantadine, amiloride, hexamethylene amiloride, NN-DNJ and BIT225 have been found to affect the channel activity. These compounds are docked against monomeric and hexameric structures of p7 taken at various time steps from a molecular dynamics simulation of the protein embedded in a hydrated lipid bilayer. The energetics of binding identifies the guanidine based ligands as the most potent ligands. The adamantanes and NN-DNJ show weaker binding energies. The lowest energy poses are those at the site of the loop region for the monomer and hexamer. For the latter, the poses show a tendency of the ligand to face the lumen of the pore. The mode of binding is that of a balance between hydrophobic interactions and hydrogen bond formation with backbone atoms of the protein.
+
+@highlight Binding poses of antivirals to monomers and hexameric bundles of p7 of HCV.
+@highlight Guanidine based ligands bind better than derivatives of adamantanes and iminosugars.
+@highlight Binding of the best candidates is at the site of the loop.
+@highlight Hydrogen bonding and hydrophobic interactions are important.

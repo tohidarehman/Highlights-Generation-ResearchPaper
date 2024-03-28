@@ -1,0 +1,6 @@
+ In this paper a 3D human pose tracking framework is presented. A new dimensionality reduction method (Hierarchical Temporal Laplacian Eigenmaps) is introduced to represent activities in hierarchies of low dimensional spaces. Such a hierarchy provides increasing independence between limbs, allowing higher flexibility and adaptability that result in improved accuracy. Moreover, a novel deterministic optimisation method (Hierarchical Manifold Search) is applied to estimate efficiently the position of the corresponding body parts. Finally, evaluation on public datasets such as HumanEva demonstrates that our approach achieves a 62.5–65mm average joint error for the walking activity and outperforms state-of-the-art methods in terms of accuracy and computational cost.
+
+@highlight A markerless multi-camera human pose tracking method is proposed.
+@highlight Activities are modelled by a novel hierarchical dimensionality reduction method, Hierarchical Temporal Laplacian Eigenmaps.
+@highlight Poses are estimated by the proposed Hierarchical Manifold Search.
+@highlight Comparisons with state-of-the-art methods demonstrate the accuracy and efficiency of our approach.

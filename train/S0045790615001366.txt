@@ -1,0 +1,7 @@
+ The use of computational accelerators such as NVIDIA GPUs and Intel Xeon Phi processors is now widespread in the high performance computing community, with many applications delivering impressive performance gains. However, programming these systems for high performance, performance portability and software maintainability has been a challenge. In this paper we discuss experiences porting applications to the Titan system. Titan, which began planning in 2009 and was deployed for general use in 2013, was the first multi-petaflop system based on accelerator hardware. To ready applications for accelerated computing, a preparedness effort was undertaken prior to delivery of Titan. In this paper we report experiences and lessons learned from this process and describe how users are currently making use of computational accelerators on Titan.
+
+@highlight Lessons learned are given for moving applications to the GPU-based Titan system.
+@highlight A carefully managed readiness effort is essential to preparing for new hardware.
+@highlight Applications typically require code restructuring to port to accelerators.
+@highlight Exposing more parallelism and minimizing data traffic are common porting themes.
+@highlight Performance gains of 2X–7X have been realized for application codes on Titan.

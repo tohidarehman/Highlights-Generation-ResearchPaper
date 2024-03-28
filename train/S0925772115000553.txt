@@ -1,0 +1,8 @@
+ We show that the survivable bottleneck Steiner tree problem in normed planes can be solved in polynomial time when the number of Steiner points is constant. This is a fundamental problem in wireless ad-hoc network design where the objective is to design networks with efficient routing topologies. Our result holds for a general definition of survivability and for any norm whose ball is specified by a piecewise algebraic curve of bounded degree and with a bounded number of pieces. In particular, under the Euclidean and rectilinear norms our algorithm constructs an optimal solution in log steps, where n is the number of terminals and k is the number of Steiner points. Our algorithm is based on the construction of generalised Voronoi diagrams and relative neighbourhood graphs.
+
+@highlight First polynomial-time algorithm for the survivable bottleneck Steiner network problem in Minkowski planes.
+@highlight Algorithm works for a very general definition of survivability and in most “nicely” defined norms.
+@highlight The algorithm depends on a novel use of oriented Dirichlet cell partitions.
+@highlight Running time is
+@highlight log
+@highlight in the Euclidean and rectilinear planes.

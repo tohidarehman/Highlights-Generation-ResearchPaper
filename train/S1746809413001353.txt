@@ -1,0 +1,7 @@
+ This paper presents an activity mode recognition approach to identify the motions of the human torso. The intent recognizer is based on decision tree classification in order to leverage its computational efficiency. The recognizer uses surface electromyography as the input and CART (classification and regression tree) as the classifier. The experimental results indicate that the recognizer can extract the user's intent within 215ms, which is below the threshold a user will perceive. The approach achieves a low recognition error rate and a user-unperceived latency by using sliding overlapped analysis window. The intent recognizer is envisioned to a part a high-level supervisory controller for a powered backbone exoskeleton.
+
+@highlight We present an activity mode recognition approach to identify motions of the human torso.
+@highlight Approach uses decision tree classification in order to leverage its computational efficiency.
+@highlight The recognizer uses surface electromyography as the input and CART (classification and regression tree) as the classifier.
+@highlight Results indicate that the recognizer can extract the user's intent with minimal delay.
+@highlight We achieved a low recognition error rate and a user-unperceived latency using sliding overlapped window.

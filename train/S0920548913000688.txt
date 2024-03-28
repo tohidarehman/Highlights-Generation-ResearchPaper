@@ -1,0 +1,6 @@
+ IT departments in non-IT small companies lack guidelines for defining the services they provide and for assigning costs to these services. This article compares international models and standards and describes an approach that can be used by these companies in order to define and implement their service catalog to be used as an input for their IT financial management. The proposed solution is based on the concept of a process asset library. The proposal has been tested in a non-IT small company. The results provide useful insights for companies interested in defining their own service catalog from a standard service catalog.
+
+@highlight A metamodel related to IT service catalog and IT service financial Management
+@highlight The metamodel has been experienced in a small company.
+@highlight The solution includes a standard model and a specific model tailored to SME.
+@highlight These models are the base for implementing the IT financial management process.

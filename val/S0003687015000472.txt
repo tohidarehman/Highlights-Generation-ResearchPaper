@@ -1,0 +1,7 @@
+ The hospital is a thermal environment where comfort must be calibrated by taking into account two different groups of people, that is, patients and medical staff. The study involves 30 patients and 19 medical staff with a view to verifying if Predicted Mean Vote (PMV) index can accurately predict thermal sensations of both groups also taking into account any potential effects of age and gender. The methodology adopted is based on the comparison between PMV values (calculated according to ISO 7730 after having collected environmental data and estimated personal parameters) and perceptual judgments (Actual Mean Vote, AMV), expressed by the subjects interviewed. Different statistical analyses show that PMV model finds his best correlation with AMV values in a sample of male medical staff under 65 years of age. It has been observed that gender and age are factors that must be taken into account in the assessment of thermal comfort in the hospital due to very weak correlation between AMV and PMV values.
+
+@highlight Comparison between AMV and PMV values in the hospital taking into account factors as gender and age.
+@highlight Correlation diagrams of PMV and AMV values are concordant for medical staff, discordant for patients.
+@highlight The association between AMV and PMV is stronger for medical staff than for patients.
+@highlight PMV finds its best correlation with AMV values among male medical staff under 65 years of age.
+@highlight Gender and age are factors that must be taken into account in the assessment of thermal comfort in the hospital.

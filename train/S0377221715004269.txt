@@ -1,0 +1,6 @@
+ We investigate the impact of advance notice of product returns on the performance of a decentralised closed loop supply chain. The market demands and the product returns are stochastic and are correlated with each other. The returned products are converted into “as-good-as-new” products and used, together with new products, to satisfy the market demand. The remanufacturing process takes time and is subject to a random yield. We investigate the benefit of the manufacturer obtaining advance notice of product returns from the remanufacturer. We demonstrate that lead times, random yields and the parameters describing the returns play a significant role in the benefit of the advance notice scheme. Our mathematical results offer insights into the benefits of lead time reduction and the adoption of information sharing schemes.
+
+@highlight Advance notice, lead times, random yield and correlation are considered.
+@highlight The production variance could increase as the result of the advance notice scheme.
+@highlight Longer remanufacturing lead times could reduce inventory variance.
+@highlight Increasing the returns and the yields could result in lower performance.

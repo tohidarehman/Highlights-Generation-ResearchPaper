@@ -1,0 +1,11 @@
+ Probabilistic forecasts from discrete choice models, which are widely used in marketing science and competitive event forecasting, are often best evaluated out-of-sample using pseudo-coefficients of determination, or pseudo-R s. However, there is a danger of misjudging the accuracy of forecast probabilities of event outcomes, based on observed frequencies, because of issues related to pseudo-R 2s. First, we show that McFadden’s pseudo-R 2 varies predictably with the number of alternatives in the choice set. Then we evaluate the relative merits of two methods (bootstrap and asymptotic) for estimating the variance of pseudo-R 2s so that their values can be appropriately compared across non-nested models. Finally, in the context of competitive event forecasting, where the accuracy of forecasts has direct economic consequence, we derive new R 2 measures that can be used to assess the economic value of forecasts. Throughout, we illustrate using data drawn from UK and Ireland horse race betting markets.
+
+@highlight Forecasts of discrete choice can be misjudged due to difficulties of pseudo-R
+@highlight 2.
+@highlight We resolve these difficulties in the context of competitive event forecasting.
+@highlight McFaddenś pseudo-R
+@highlight 2 is dependent on the mean number of alternatives.
+@highlight Pseudo-R
+@highlight s can be given standard errors with bootstrap and asymptotic methods.
+@highlight We derive a relative pseudo-R
+@highlight 2, a new measure of the economic value of forecasts.

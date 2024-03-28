@@ -1,0 +1,6 @@
+ In this paper, we propose a new approach to the problem of degree reduction of Bézier curves with respect to the least squares norm. We impose restrictions of the control points area to get more intuitive location of the control points. As a result, the degree reduced curve is suitable for further modification and applications. We present and compare two methods of solving the new problem. First one is based on quadratic programming approach and the other on BVLS algorithm. Some illustrative examples are given.
+
+@highlight We propose a new approach to the problem of degree reduction of Bézier curves.
+@highlight We impose constraints of the control points area.
+@highlight The degree reduced curve is suitable for further modification and applications.
+@highlight We give and compare two methods of solving the new problem.

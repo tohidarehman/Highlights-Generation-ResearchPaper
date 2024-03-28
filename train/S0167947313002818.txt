@@ -1,0 +1,7 @@
+ Challenges in the analyses of growth mixture models include missing data, outliers, estimation, and model selection. Four non-ignorable missingness models to recover the information due to missing data, and three robust models to reduce the effect of non-normality are proposed. A full Bayesian method is implemented by means of data augmentation algorithm and Gibbs sampling procedure. Model selection criteria are also proposed in the Bayesian context. Simulation studies are then conducted to evaluate the performances of the models, the Bayesian estimation method, and selection criteria under different situations. The application of the models is demonstrated through the analysis of education data on children’s mathematical ability development. The models can be widely applied to longitudinal analyses in medical, psychological, educational, and social research.
+
+@highlight Four non-ignorable missingness models are proposed.
+@highlight Three robust models to deal with outliers are proposed.
+@highlight A full Bayesian method is implemented.
+@highlight Model selection criteria are proposed in a Bayesian context.
+@highlight Three simulation studies and one real data case study are conducted.

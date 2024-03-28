@@ -1,0 +1,5 @@
+ The Point-Feature Cartographic Label Placement (PFCLP) problem consists of placing text labels to point features on a map avoiding overlaps to improve map visualization. This paper presents a Clustering Search (CS) metaheuristic as a new alternative to solve the PFCLP problem. Computational experiments were performed over sets of instances with up to 13,206 points. These instances are the same used in several recent and important researches about the PFCLP problem. The results enhance the potential of CS by finding optimal solutions (proven in previous works) and improving the best-known solutions for instances whose optimal solutions are unknown so far.
+
+@highlight A new improved metaheuristic for the Cartographic Label Placement Problem.
+@highlight We propose a Clustering Search metaheuristic for solving the Point-Feature Cartographic Label Placement Problem.
+@highlight CS found equal or better solutions for practically all considered instances.

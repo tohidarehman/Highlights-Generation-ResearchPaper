@@ -1,0 +1,7 @@
+ Consider a random vector, and assume that a set of its moments information is known. Among all possible distributions obeying the given moments constraints, the envelope of the probability distribution functions is introduced in this paper as distributional robust probability function. We show that such a function is computable in the bi-variate case under some conditions. Connections to the existing results in the literature and its applications in risk management are discussed as well.
+
+@highlight Introduce “distributional robust probability function” with input moments.
+@highlight Revisit worst case VaR-portfolio with a new concept (i.e. the existence of zeta).
+@highlight Introduce new computational methods for joint probability moment bounds.
+@highlight The new method is exact, while only approximation is available currently.
+@highlight Three applications are introduced for risk management purposes.

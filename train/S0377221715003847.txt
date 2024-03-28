@@ -1,0 +1,6 @@
+ Empirically, cointegration and stochastic covariances, including stochastic volatilities, are statistically significant for commodity prices and energy products. To capture such market phenomena, we develop a continuous-time dynamics of cointegrated assets with a stochastic covariance matrix and derive the joint characteristic function of asset returns in closed-form. The proposed model offers an endogenous explanation for the stochastic mean-reverting convenience yield. The time series of spot and futures prices of WTI crude oil and gasoline shows cointegration relationship under both physical and risk-neutral measures. The proposed model also allows us to fit the observed term structure of futures prices and calibrate the market-implied cointegration relationship. We apply it to value options on a single commodity and on multiple commodities.
+
+@highlight We propose a multiple asset model with cointegration and stochastic covariances.
+@highlight The model is applied to pricing commodity derivatives.
+@highlight We show that the model captures key features of the commodity derivatives market.
+@highlight The pricing formulas are tractable and parameters can be calibrated to observed trading data.

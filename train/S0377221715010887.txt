@@ -1,0 +1,8 @@
+ This paper deals with assigning hierarchically skilled technicians to jobs by considering preferences. We investigate stability definitions in multi-skill workforce assignments stemming from the notion of blocking pairs as stated in the Marriage model of Gale–Shapley. We propose a Branch-and-Price approach to find a stable workforce assignment in which no technician and job pair can be better off by replacing an already assigned technician in current team of the job. As base for our exact algorithm, we give a reformulation of the problem which constructs a stable assignment by selecting teams from a base set. Then, the pricing problem accounts finding a team to a job. We provide details of the algorithm and show its efficiency by means of a computational study. We also show that checking stability becomes NP-hard, if replacing groups of technicians is considered in defining stability.
+
+@highlight A real-life problem of finding stable workforce assignments is studied.
+@highlight A new and compact IP model is developed.
+@highlight The problem is reformulated as an IP model with set packing structure, and Column Generation is employed.
+@highlight The pricing problem amounts to finding a team with replacement weight coefficients in objective
+@highlight Stability is used in reducing the problem size after branching decisions.
+@highlight The Branch-and-Price has significantly increased the instance size that can be solved within a given time limit.

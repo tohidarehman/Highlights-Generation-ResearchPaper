@@ -1,0 +1,8 @@
+ Control charts are the most useful tools for monitoring production and service processes. Their design involves the selection of such design parameters as sample size, control limits, and sampling frequency. This paper considers the design of control charts as a multiple objective decision making problem (MODM) which is identified by three criteria: expected hourly cost, in-control average run length, and detection power of control chart. To solve the MODM problem, we propose a hybrid method based on an evolutionary algorithm. In this method, an epsilon constraint is integrated with PSO (particle swarm optimization) as a multi-objective framework. Also, we consider the magnitude of the process shift and the occurrence rate of an assignable cause as fuzzy numbers. Hence, the fuzziness is modeled using both minimax and maximin approaches. Generally, we present a control chart which is suitable for processes with fuzzy parameters and is effective for a range of values of process parameters. A numerical example from the literature is used to illustrate the procedure used for solving the proposed hybrid algorithm.
+
+@highlight We design an control chart which is suitable for process with fuzzy parameters.
+@highlight The control chart is effective for different ranges of processes parameters.
+@highlight This design is considered as a multiple objective decision making problem.
+@highlight We use hybrid epsilon constraint PSO algorithm for solving our problem.
+@highlight Proposed methods extract Pareto sets for different cuts on fuzzy input parameters.
+@highlight We compare algorithm in crisp status with results reported in the literature.

@@ -1,0 +1,7 @@
+ Policies for managing multi-echelon supply chains can be considered mathematically as large-scale dynamic programs, affected by uncertainty and incomplete information. Except for a few special cases, optimal solutions are computationally intractable for systems of realistic size. This paper proposes a novel approximation scheme using scenario-based model predictive control (SCMPC), based on recent results in scenario-based optimization. The presented SCMPC approach can handle supply chains with stochastic planning uncertainties from various sources (demands, lead times, prices, etc.) and of a very general nature (distributions, correlations, etc.). Moreover, it guarantees a specified customer service level, when applied in a rolling horizon fashion. At the same time, SCMPC is computationally efficient and able to tackle problems of a similar scale as manageable by deterministic optimization. For a large class of supply chain models, SCMPC may therefore offer substantial advantages over robust or stochastic optimization.
+
+@highlight New method based on recent, groundbreaking results in scenario optimization.
+@highlight Applicable to many different models in operations research/supply chain mgt.
+@highlight Handles uncertain parameters of a very general type and distribution.
+@highlight Computationally efficient, hence applicable to large problem instances.
+@highlight Many open theoretical questions and a large range of further applications.

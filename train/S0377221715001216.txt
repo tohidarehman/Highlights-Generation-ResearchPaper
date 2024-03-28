@@ -1,0 +1,6 @@
+ We develop a model for a one-time special purchasing opportunity where there is uncertainty with respect to the materialization of the discounted purchasing offer. Our model captures the phenomenon of an anticipated future event that may or may not lead to a discounted offer. We analyze the model and show that the optimal solution results from a tradeoff between preparing for the special offer and staying with the regular ordering policy. We quantify the tradeoff and find that the optimal solution is one of four intuitive policies. We present numerical illustrations that provide additional insights on the relationship between the different ordering policies.
+
+@highlight A new model that captures the uncertainty of one-time discounts and generalizes previous work.
+@highlight An insightful analysis of the optimal policy.
+@highlight The optimal policy is shown to be one of four intuitive non-dominated policies.
+@highlight Numerical illustrations that provide additional insights on the problem and the solution.

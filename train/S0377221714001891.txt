@@ -1,0 +1,7 @@
+ The paper presents a simulationÃ¢ÂÂoptimization modeling framework for the evacuation of large-scale pedestrian facilities with multiple exit gates. The framework integrates a genetic algorithm (GA) and a microscopic pedestrian simulationÃ¢ÂÂassignment model. The GA searches for the optimal evacuation plan, while the simulation model guides the search through evaluating the quality of the generated evacuation plans. Evacuees are assumed to receive evacuation instructions in terms of the optimal exit gates and evacuation start times. The framework is applied to develop an optimal evacuation plan for a hypothetical crowded exhibition hall. The obtained results show that the model converges to a superior optimal evacuation plan within an acceptable number of iterations. In addition, the obtained evacuation plan outperforms conventional plans that implement nearest-gate immediate evacuation strategies.
+
+@highlight A novel approach for optimizing evacuation decisions for large-scale pedestrian facilities.
+@highlight Optimizing exit gate decision and time interval at which each subarea starts evacuation.
+@highlight Iterative approach where a genetic algorithm is used on the top of pedestrian simulation model.
+@highlight The model converges to a good optimal evacuation plan within acceptable number of iterations.
+@highlight Evacuation plan that outperforms a possible plan in which pedestrians exit from the closest gate.

@@ -1,0 +1,5 @@
+ Computer technology is widely used for multimodal image analysis of the prostate gland. Several techniques have been developed, most of which incorporate a priori knowledge extracted from organ features. Knowledge extraction and modeling are multi-step tasks. Here, we review these steps and classify the modeling according to the data analysis methods employed and the features used. We conclude with a survey of some clinical applications where these techniques are employed.
+
+@highlight Complete and up to date review of prostate modeling.
+@highlight Description as three main steps: characteristics extraction, analyses and modeling.
+@highlight Classification and linkage with the main clinical applications.

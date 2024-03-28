@@ -1,0 +1,6 @@
+ In this paper, based on the logarithmic image processing model and the dyadic wavelet transform (DWT), we introduce a logarithmic DWT (LDWT) that is a mathematical transform. It can be used in image edge detection, signal and image reconstruction. Comparative study of this proposed LDWT-based method is done with the edge detection Canny and Sobel methods using Pratt's Figure of Merit, and the comparative results show that the LDWT-based method is better and more robust in detecting low contrast edges than the other two methods. The gradient maps of images are detected by using the DWT- and LDWT-based methods, and the experimental results demonstrate that the gradient maps obtained by the LDWT-based method are more adequate and precisely located. Finally, we use the DWT- and LDWT-based methods to reconstruct one-dimensional signals and two-dimensional images, and the reconstruction results show that the LDWT-based reconstruction method is more effective.
+
+@highlight We introduce a logarithmic dyadic wavelet transform.
+@highlight It can be used in edge detection.
+@highlight It can be used in 1D signal reconstruction.
+@highlight It can be used in 2D image reconstruction.

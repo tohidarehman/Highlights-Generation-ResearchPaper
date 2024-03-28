@@ -1,0 +1,7 @@
+ Radio Frequency Identification (RFID) has been widely adopted in practice for objects identification. The ownership of an object can be represented by the ownership of the RFID tag attached to the object. An ownership could be shared among different parties and should be transferable. Although many RFID ownership transfer protocols were proposed, a shared ownership transfer protocol remains as a daunting task with absence of a trusted party. In this paper, we propose the first provably secure shared ownership transfer protocol, which requires merely hashing computations and has a constant key size.
+
+@highlight We propose a shared RFID ownership transfer protocol without the trusted third party.
+@highlight A group of users can share the ownership of a tag with high security.
+@highlight The group key size is constant regardless of the number of group users.
+@highlight We provide the formal definition of shared ownership transfer system.
+@highlight We prove the security of the shared ownership transfer protocol.

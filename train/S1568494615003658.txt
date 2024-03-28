@@ -1,0 +1,6 @@
+ In this paper, we investigate how adaptive operator selection techniques are able to efficiently manage the balance between exploration and exploitation in an evolutionary algorithm, when solving combinatorial optimization problems. We introduce new high level reactive search strategies based on a generic algorithm's controller that is able to schedule the basic variation operators of the evolutionary algorithm, according to the observed state of the search. Our experiments on SAT instances show that reactive search strategies improve the performance of the solving algorithm.
+
+@highlight Adaptive operator selection selects the most appropriate operators in an evolutionary algorithm.
+@highlight The proposed framework aims at controlling a basic EA for non-expert users.
+@highlight Our generic controller may achieve good results using “average” operators dynamic strategies better manage the search process.
+@highlight The framework can be used by expert users to improve EA design.

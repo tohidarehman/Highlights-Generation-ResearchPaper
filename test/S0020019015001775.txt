@@ -1,0 +1,6 @@
+ The problem of order-preserving matching has gained attention lately. The text and the pattern consist of numbers. The task is to find all the substrings in the text which have the same length and relative order as the pattern. The problem has applications in analysis of time series. We present a new sublinear solution based on filtration. Any algorithm for exact string matching can be used as a filtering method. If the filtration algorithm is sublinear, the total method is sublinear on average. We show by practical experiments that the new solution is more efficient than earlier algorithms.
+
+@highlight We present a sublinear solution based on filtration for order-preserving matching.
+@highlight Any algorithm for exact string matching can be used as a filtering method.
+@highlight If the filtration algorithm is sublinear, the total method is sublinear on average.
+@highlight We show by practical experiments that the new solution is more efficient than earlier algorithms.

@@ -1,0 +1,7 @@
+ We validated the usability of a new infusion pump interface designed with a situated Cognitive Engineering approach by comparing it to a reference interface using a novel testing method employing repeated measurements and process measures, in addition to traditional outcome measures. The sample consisted of 25 nurses who performed eight critical tasks three times. Performance measures consisted of number and type of errors, deviations from a pre-established normative path solution, task completion times, number of keystrokes, mental effort and preferences in use. Results showed that interaction with the new interface resulted in 18% fewer errors, 90% fewer normative path deviations, 42% lower task completion times, 40% fewer keystrokes, 39% lower mental effort and 76% more subjective preferences in use. These outcomes suggest that within the scope of this case study, combining the situated Cognitive Engineering approach with a novel testing method addresses various shortcomings of earlier testing methods.
+
+@highlight Infusion pump interface designed with situated Cognitive Engineering was validated.
+@highlight Usability validation took place by comparison with a reference interface.
+@highlight A novel process tracing technique was used for analysis.
+@highlight Task performance increased with novel interface.
+@highlight Novel method was feasible for validating safety of medical devices.

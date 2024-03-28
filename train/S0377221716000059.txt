@@ -1,0 +1,7 @@
+ The q-gradient vector is a generalization of the gradient vector based on the q-derivative. We present two global optimization methods that do not require ordinary derivatives: a q-analog of the Steepest Descent method called the q-G method and a q-analog of the Conjugate Gradient method called the q-CG method. Both q-G and q-CG are reduced to their classical versions when q equals 1. These methods are implemented in such a way that the search process gradually shifts from global in the beginning to almost local search in the end. Moreover, Gaussian perturbations are used in some iterations to guarantee the convergence of the methods to the global minimum in a probabilistic sense. We compare q-G and q-CG with their classical versions and with other methods, including CMA-ES, a variant of Controlled Random Search, and an interior point method that uses finite-difference derivatives, on 27 well-known test problems. In general, the q-G and q-CG methods are very promising and competitive, especially when applied to multimodal problems.
+
+@highlight Two global optimization methods based on the q-gradient are developed: q-G and q-CG.
+@highlight q-G and q-CG are q-analogs of the steepest descent and conjugate gradient methods.
+@highlight Convergence of q-G and q-CG with Gaussian perturbations is proved.
+@highlight The methods are compared with their classical versions and with other alternatives.
+@highlight q-G and q-CG are very competitive with the alternative methods on multimodal problems.

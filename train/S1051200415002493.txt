@@ -1,0 +1,7 @@
+ A novel signal processing method for the analysis of financial and commodity price time series is here introduced to assess the predictability of financial markets. Our technique, exploiting the maximum entropy method (MEM), predicts the entropy of the next future time interval of the time series under investigation by a least square minimization approach. Like in conventional ex-post analysis based on estimated entropy, high entropy values characterize unpredictable series, while more stable series exhibit lower entropy values. We first evaluate (by theory and simulation) the performance of our method in terms of mean and variance of the predictions. Then, we apply our technique to several sets of historical financial data, correlating the entropy trend to contemporary socio-political events. The efficiency of our technique for application to financial engineering analysis is shown in comparison with the conventional approximate entropy method (usually applied in econometrics).
+
+@highlight We propose a novel signal processing method for financial time series analysis.
+@highlight We predict the entropy by a least square minimization approach.
+@highlight We evaluate (by theory and simulation) the mean and variance of the predictions.
+@highlight We apply our technique to several sets of historical financial data.
+@highlight The efficiency of our technique is shown versus conventional econometrics approach.

@@ -1,0 +1,6 @@
+ We consider the stowage planning problem of a container ship, where the ship visits a series of ports sequentially and containers can only be accessed from the top of the stacks. At some ports, certain containers will be unloaded temporarily and will be loaded back later for various purposes. Such unproductive movements of containers are called shifts, which are both time and money consuming. Literature shows that binary linear programming formulation for such problems is impracticable for real life problems due to the large number of binary variables and constraints. Therefore, we develop a heuristic algorithm which can generate stowage plans with a reasonable number of shifts for such problems. The algorithm, verified by extensive computational experimentations, performs better than the Suspensory Heuristic Procedure (SH algorithm) proposed in Avriel et al. , which, to the best of our knowledge, is one of the leading heuristic algorithms for such stowage planning problem.
+
+@highlight We propose a heuristic algorithm for stowage planning problem of a container ship.
+@highlight Our algorithm is time efficient, and can generate good solutions.
+@highlight Our algorithm performs better than the one proposed by Avriel
+@highlight et al. (1998).

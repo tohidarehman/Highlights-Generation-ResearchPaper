@@ -1,0 +1,7 @@
+ Foreground detection algorithms have sometimes relied on rather ad hoc procedures, even when probabilistic mixture models are defined. Moreover, the fact that the input features have different variances and that they are not independent from each other is often neglected, which hampers performance. Here we aim to obtain a background model which is not tied to any particular choice of features, and that accounts for the variability and the dependences among features. It is based on the stochastic approximation framework. A possible set of features is presented, and their suitability for this problem is assessed. Finally, the proposed procedure is compared with several state-of-the-art alternatives, with satisfactory results.
+
+@highlight Features for foreground detection algorithms are evaluated.
+@highlight The foreground is modeled with a full covariance Gaussian.
+@highlight The background is modeled with a uniform distribution.
+@highlight The model accommodates for any number of pixel features.
+@highlight Extensive comparisons are carried out with well known competing approaches.

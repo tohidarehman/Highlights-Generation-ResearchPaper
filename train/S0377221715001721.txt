@@ -1,0 +1,6 @@
+ The flexible job shop scheduling is a challenging problem due to its high complexity and the huge number of applications it has in real production environments. In this paper, we propose effective neighborhood structures for this problem, including feasibility and non improving conditions, as well as procedures for fast estimation of the neighbors quality. These neighborhoods are embedded into a scatter search algorithm which uses tabu search and path relinking in its core. To develop these metaheuristics we define a novel dissimilarity measure, which deals with flexibility. We conducted an experimental study to analyze the proposed algorithm and to compare it with the state of the art on standard benchmarks. In this study, our algorithm compared favorably to other methods and established new upper bounds for a number of instances.
+
+@highlight Neighborhood structures for Flexible Job Shop Scheduling Problem (FJSP) are proposed.
+@highlight New dissimilarity measures for solutions of the FJSP are defined.
+@highlight A new Scatter Search with Path Relinking (SSPR) algorithm is proposed for the FJSP.
+@highlight The experiments show that SSPR compares favorably with the state-of-the-art.

@@ -1,0 +1,6 @@
+ The hazardous material routing problem from an origin to a destination in an urban area is addressed. We maximise the distance between the route and its closest vulnerable centre, weighted by the centre’s population. A vulnerable centre is a school, hospital, senior citizens’ residence or the like, concentrating a high population or one that is particularly vulnerable or difficult to evacuate in a short time. The potential consequences on the most exposed centre are thus minimized. Though previously studied in a continuous space, the problem is formulated here over a transport (road) network. We present an exact model for the problem, in which we manage to significantly reduce the required variables, as well as an optimal polynomial time heuristic. The integer programming formulation and the heuristic are tested in a real-world case study set in the transport network in the city of Santiago, Chile.
+
+@highlight We propose a new approach for treatment of HAZMAT transportation in urban areas.
+@highlight The approach maximises the distance between a HAZMAT route and its closest vulnerable population centre.
+@highlight An exact model is proposed, including a method of reduction of variables, and an optimal, polynomial heuristic.
+@highlight A real-like large instance is solved.

@@ -1,0 +1,7 @@
+ Thermoregulatory models have been used in the military to quantify probabilities of individuals' thermal-related illness/injury. The uses of the models have diversified over the past decade. This paper revisits an overall view of selected thermoregulatory models used in the U.S. military and provides examples of actual practical military applications: 1) the latest military vehicle designed with armor and blast/bulletproof windows was assessed to predict crews' thermal strains levels inside vehicles under hot environment (air temperature [T a]: 29–43 °C, dew point: 13 °C); 2) a military working dog (MWD) model was developed by modifying existing human thermoregulatory models with canine physical appearance and physiological mechanisms; 3) thermal tolerance range of individuals from a large military group (n = 100) exposed to 35 °C/40% relative humidity were examined using thermoregulatory modeling and multivariate statistical analyses. Model simulation results assist in the decisions for the strategic planning and preventions of heat stress.
+
+@highlight We modeled physiology of soldiers inside the military vehicle driving in dry heat.
+@highlight We developed a military working dog model from human models with dog functions.
+@highlight We modeled soldiers' heat tolerance that could differ >25% by body size and shape.
+@highlight Soldiers inside the military vehicle >35 °C need cooling to avoid heat illness.
+@highlight A resting military working dog can survive in a shaded dry environment to <40 °C.

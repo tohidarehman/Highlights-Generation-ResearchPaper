@@ -1,0 +1,6 @@
+ Theory of belief function can be introduced to the interval set by defining interval-valued belief structures. The Dempster–Shafer (D–S) theory of evidence has been extended to combine interval-valued belief structures for decades. Although there already exist several combination approaches proposed by previous researchers, this problem has not been fully resolved so far. A novel combination of interval-valued belief structures is developed after analyzing existing irrational or suboptimal approaches. The novel combination approach is modeled based on intuitionistic fuzzy set, rather than nonlinear programming models, which are computational complicated. Numerical examples are implemented to illustrate the performance of the proposed novel approach.
+
+@highlight The latest combination approaches are critically analyzed.
+@highlight The combination operation on intuitionistic fuzzy set is presented based on Dempster’s rule.
+@highlight A novel combination of interval-valued belief structures is developed.
+@highlight The requirement of associativity of the novel approach is analyzed.

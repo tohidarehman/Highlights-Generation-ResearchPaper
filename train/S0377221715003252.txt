@@ -1,0 +1,6 @@
+ Risk prices are calculated as the certainty equivalents of risky assets, using a recently developed non-expected utility (non-EU) approach to quantitative risk assessment. The present formalism for the pricing of risk is computationally simple, realistic in the sense of behavioural economics and straightforward to apply in operational research and risk and decision analyses.
+
+@highlight A non-expected utility model of risk pricing is presented.
+@highlight Risk prices are calculated as the certainty equivalents of risky assets.
+@highlight Certainty equivalents are given simple, explicit algebraic representations.
+@highlight Certainty equivalents of risks with multi-attribute utilities can be calculated.

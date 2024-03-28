@@ -1,0 +1,5 @@
+ This paper presents a swept surface for the geometric model of drawbeads mounted on curved surfaces. Vertical section sweeping is used for the swept surface. The section curves are the cross sections of the drawbeads and the shapes of the section curves are variable. Also, the section planes are normal to the projection of the drawbead curve along the die opening direction. This paper presents a scheme for computing the variable vertical section curves and the smooth endings for the swept surface of a drawbead. The geometric model presented has a no-undercut shape in the die opening direction and easily represents the smooth ending at ends of drawbeads.
+
+@highlight Full three-dimensional geometric model of drawbeads in automotive draw dies.
+@highlight A vertical section sweeping process for the geometric model of drawbeads.
+@highlight Fully automated and robust procedure for the modelling of drawbeads.

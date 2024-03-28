@@ -1,0 +1,7 @@
+ We introduce a new family of coalitional values designed to take into account players’ attitudes with regard to cooperation. This new family of values applies to cooperative games with a coalition structure by combining the Shapley value and the multinomial probabilistic values, thus generalizing the symmetric coalitional binomial semivalues. Besides an axiomatic characterization, a computational procedure is provided in terms of the multilinear extension of the game and an application to the Catalonia Parliament, Legislature 2003–2007, is shown.
+
+@highlight These coalitional values take into account players’ attitudes to form coalitions.
+@highlight We axiomatically characterize these values.
+@highlight They combine the Shapley value and the multinomial probabilistic values.
+@highlight They generalize the symmetric coalitional binomial value with no loss of properties.
+@highlight We give a computational procedure in terms of the multilinear extension of the game.

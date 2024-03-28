@@ -1,0 +1,7 @@
+ This paper describes a user study on the interaction with an in-vehicle information system (IVIS). The motivation for conducting this research was to investigate the subjectively and objectively measured impact of using a single- or multi-modal IVIS while driving. A hierarchical, list-based menu was presented using a windshield projection (head-up display), auditory display and a combination of both interfaces. The users were asked to navigate a vehicle in a driving simulator and simultaneously perform a set of tasks of varying complexity. The experiment showed that the interaction with visual and audio-visual head-up displays is faster and more efficient than with the audio-only display. All the interfaces had a similar impact on the overall driving performance. There was no significant difference between the visual only and audio-visual displays in terms of their efficiency and safety; however, the majority of test subjects clearly preferred to use the multi-modal interface while driving.
+
+@highlight The users were asked to perform several tasks with the aid of a menu while driving.
+@highlight The menu was presented through a visual head-up, an audio and a multi-modal display.
+@highlight The visual and multi-modal displays were more efficient than the audio display.
+@highlight All displays had a similar impact on driving performance.
+@highlight The majority of users selected the multi-modal display as the easiest to use.

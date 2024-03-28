@@ -1,0 +1,7 @@
+ This paper introduces a new variation of the p-norm detector, which is designed for application to coherent multilook detection in compound Gaussian clutter with inverse Gamma texture. By applying what is termed a compensator, enhanced detection performance can be achieved independently of the number of looks used. This is particularly useful in the case of a fast scan rate radar where the number of looks may be quite small. Conventional coherent detectors tend to experience saturation in such scenarios, and so this new detection process complements recent advances in this area. Further validation is provided by applying this new decision rule to synthetic target detection in real X-band radar clutter.
+
+@highlight The p-norm detector investigated for coherent multilook detection.
+@highlight Compensator used to improve its performance.
+@highlight Criteria established to select p-norm plus compensator detector's parameters.
+@highlight Enhance detector performance achieved regardless of the number of looks.
+@highlight Application to detection in compound Gaussian clutter with inverse Gamma texture shows excellent results.

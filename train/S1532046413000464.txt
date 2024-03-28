@@ -1,0 +1,5 @@
+ A major goal of Natural Language Processing in the public health informatics domain is the automatic extraction and encoding of data stored in free text patient records. This extracted data can then be utilized by computerized systems to perform syndromic surveillance. In particular, the chief complaint—a short string that describes a patient’s symptoms—has come to be a vital resource for syndromic surveillance in the North American context due to its near ubiquity. This paper reviews fifteen systems in North America—at the city, county, state and federal level—that use chief complaints for syndromic surveillance.
+
+@highlight We present a review of 15 chief complaint classification systems currently in use in North America.
+@highlight Classifiers can be divided into those that use statistical methods and those that use keyword based methods.
+@highlight All of the systems reviewed are capable of mapping to respiratory and gastrointestinal syndromes.

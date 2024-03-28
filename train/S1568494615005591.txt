@@ -1,0 +1,7 @@
+ Support Vector Machine (SVM) has important properties such as a strong mathematical background and a better generalization capability with respect to other classification methods. On the other hand, the major drawback of SVM occurs in its training phase, which is computationally expensive and highly dependent on the size of input data set. In this study, a new algorithm to speed up the training time of SVM is presented; this method selects a small and representative amount of data from data sets to improve training time of SVM. The novel method uses an induction tree to reduce the training data set for SVM, producing a very fast and high-accuracy algorithm. According to the results, the proposed algorithm produces results with similar accuracy and in a faster way than the current SVM implementations.
+
+@highlight This paper describes the development of an algorithm for training large data sets.
+@highlight The algorithm uses a first stage of SVM with a small data set.
+@highlight The algorithm uses decision trees to find best data points in the entire data set.
+@highlight DT is trained using SV and non-SV found in the first SVM stage.
+@highlight In the second SVM stage the training data represent all data points found by the DT.

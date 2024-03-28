@@ -1,0 +1,7 @@
+ This study investigates a two-echelon supply chain model for deteriorating inventory in which the retailer’s warehouse has a limited capacity. The system includes one wholesaler and one retailer and aims to minimise the total cost. The demand rate in retailer is stock-dependent and in case of any shortages, the demand is partially backlogged. The warehouse capacity in the retailer (OW) is limited; therefore the retailer can rent a warehouse (RW) if needed with a higher cost compared to OW. The optimisation is done from both the wholesaler’s and retailer’s perspectives simultaneously. In order to solve the problem a genetic algorithm is devised. After developing a heuristic a numerical example together with sensitivity analysis are presented. Finally, some recommendations for future research are presented.
+
+@highlight A two-echelon supply chain model for deteriorating inventory is developed.
+@highlight The system includes one wholesaler and one retailer and aims to minimise the total cost.
+@highlight The demand rate in retailer is stock-dependent and in case of any shortages, the demand is partially backlogged.
+@highlight A heuristic is developed to analyse the model.
+@highlight The integration shows a great saving in the total cost of the system.

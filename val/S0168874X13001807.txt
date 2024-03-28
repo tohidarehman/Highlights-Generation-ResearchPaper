@@ -1,0 +1,7 @@
+ This paper presents an advanced analysis method for three-dimensional semi-rigid steel frames accounting for three main nonlinear sources. The second-order effects are considered by the use of stability functions obtained from the solution of beam–columns under axial force and bending moments at two ends. The spread of plasticity over the cross section and along the member length is captured by monitoring the uniaxial stress–strain relation of each fiber on selected sections. The nonlinear semi-rigid beam-to-column connection is simulated by a 3D multi-spring element. The generalized displacement control method is applied to solve the nonlinear equilibrium equations in an incremental-iterative scheme. The nonlinear load–displacement responses and ultimate load results compare well with those of previous studies. It is concluded that using only one element per member with monitoring the end sections accurately likely predict the nonlinear responses of three-dimensional semi-rigid steel frames.
+
+@highlight An efficient analysis procedure of 3D semi-rigid steel frames is proposed.
+@highlight A beam–column element is developed for considering spread-of-plasticity effects.
+@highlight Stability functions are employed to predict second-order effects accurately.
+@highlight Beam-to-column connections are modeled by 3D nonlinear spring elements.
+@highlight The proposed program can be developed for daily engineering design.

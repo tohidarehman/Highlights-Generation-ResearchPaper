@@ -1,0 +1,6 @@
+ This paper considers the problem where resource-limited client such as a smartphone wants to outsource chaotic selective image encryption to the cloud; meanwhile the client does not want to reveal the plain image to the cloud. A general solution is proposed with the help of steganography. The client first selects the important data to be selectively encrypted, embeds it into a cover image, and sends the stego image to the cloud for outsourced encryption; after receiving the encrypted stego image from the cloud, the client can extract the secret data in its encrypted form and get the selectively encrypted image. Theoretical analysis and extensive experiments are conducted to validate the correctness, security, and performance of the proposed scheme. It is shown that the client can fulfill the task of selective image encryption securely and save much overhead at the same time.
+
+@highlight We propose a scheme to source chaotic selective image encryption to the cloud.
+@highlight The plain image is encrypted by the cloud but not exposed to it by steganography.
+@highlight The client can extract the embedded secret data directly in its encrypted form.
+@highlight The scheme saves significantly computations and communication cost for the client.

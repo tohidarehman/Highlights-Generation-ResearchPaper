@@ -1,0 +1,7 @@
+ Traditionally, pattern-based relation extraction methods are usually based on iterative bootstrapping model which generally implies semantic drift or low recall problem. In this paper, we present a novel semantic bootstrapping framework that uses semantic information of patterns and flexible match method to address such problem. We introduce formalization for this class of bootstrapping models, which allows semantic constraint to guide learning iterations and use flexible bottom-up kernel to compare patterns. To obtain the insights of reliability and applicability of our framework, we applied it to the English Slot Filling (ESF) task of Knowledge Based Population (KBP) at Text Analysis Conference (TAC). Experimental results show that our framework obtains performance superior to the state of the art.
+
+@highlight A general formalization of existing bootstrapping frameworks is concluded.
+@highlight A formalization of new semantic bootstrapping model is defined.
+@highlight A unique SSDP to guide learning iterations of bootstrapping.
+@highlight A novel bottom-up kernel method for comparing patterns.
+@highlight The application of the new model to KBP-ESF task.

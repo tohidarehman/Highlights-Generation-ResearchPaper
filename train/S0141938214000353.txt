@@ -1,0 +1,6 @@
+ We investigate the effect of the metal pattern shape (i.e., square, hexagonal, and random grids) on the starburst phenomenon of touch screen panels (TSPs) based on opaque metallic grids. It is demonstrated that a standalone random metal grid can suppress the starburst phenomenon to a great extent. By way of ray tracing simulation, we have found that specular reflection of light on the gentle slope of the patterned edges of metallic grids contributes to the generation of starburst patterns. It is also addressed that employing a light-absorbing material and increasing metal grid spacing can reduce the intensity of starburst patterns.
+
+@highlight We examine the effect of metal meshes on the starburst phenomenon of touch panels.
+@highlight The gentle slope of the patterned edges generates the starburst patterns.
+@highlight The starburst patterns were suppressed substantially by a light-absorbing material.
+@highlight A random metal grid shows many but weakened threadlike beams.

@@ -1,0 +1,7 @@
+ We study the constructive variant of the control problem for Condorcet voting, where control is done by deleting voters. We prove that this problem remains NP-hard if instead of Condorcet winners the alternatives in the uncovered set win. Furthermore, we present a relation-algebraic model of Condorcet voting and relation-algebraic specifications of the dominance relation and the solutions of the control problem. All our relation-algebraic specifications immediately can be translated into the programming language of the OBDD-based computer system RelView. Our approach is very flexible and especially appropriate for prototyping and experimentation, and as such very instructive for educational purposes. It can easily be applied to other voting rules and control problems.
+
+@highlight We study the constructive control by deleting voters for Condorcet voting.
+@highlight We prove that this problem is NP-hard if the uncovered alternatives win.
+@highlight We present a relation-algebraic model of Condorcet voting.
+@highlight We apply it to solve control problems.
+@highlight We demonstrate how the computer system RelView can be used to execute the developed algorithms.

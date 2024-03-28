@@ -1,0 +1,6 @@
+ In this paper we address the problem of measuring the degree of consensus/dissensus in a context where experts or agents express their opinions on alternatives or issues by means of cardinal evaluations. To this end we propose a new class of distance-based consensus model, the family of the Mahalanobis dissensus measures for profiles of cardinal values. We set forth some meaningful properties of the Mahalanobis dissensus measures. Finally, an application over a real empirical example is presented and discussed.
+
+@highlight We address the problem of measuring the degree of consensus/dissensus.
+@highlight Experts express their opinions on alternatives or issues by means of cardinal evaluations.
+@highlight We propose a new class of distance-based consensus model, the family of the Mahalanobis dissensus measures.
+@highlight An application with discussion over a real empirical example is presented.

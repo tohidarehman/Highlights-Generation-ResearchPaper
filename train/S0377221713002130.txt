@@ -1,0 +1,7 @@
+ This paper presents a genetic algorithm for solving the resource-constrained project scheduling problem. The innovative component of the algorithm is the use of a magnet-based crossover operator that can preserve up to two contiguous parts from the receiver and one contiguous part from the donator genotype. For this purpose, a number of genes in the receiver genotype absorb one another to have the same order and contiguity they have in the donator genotype. The ability of maintaining up to three contiguous parts from two parents distinguishes this crossover operator from the powerful and famous two-point crossover operator, which can maintain only two contiguous parts, both from the same parent. Comparing the performance of the new procedure with that of other procedures indicates its effectiveness and competence.
+
+@highlight A new precedence-based crossover operator has been developed based on extensive research on related work.
+@highlight The operator can be applied to a variety of permutation problems.
+@highlight The procedure strikes a balance between diversification and intensification.
+@highlight The computational experiments show the effectiveness of the procedure.
+@highlight The operator is versatile, the procedure is robust, and the results are very promising.

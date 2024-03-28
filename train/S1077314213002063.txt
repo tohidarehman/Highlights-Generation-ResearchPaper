@@ -1,0 +1,7 @@
+ In this study, we propose a novel approach to facial expression recognition that capitalizes on the anatomical structure of the human face. We model human face with a high-polygon wireframe model that embeds all major muscles. Influence regions of facial muscles are estimated through a semi-automatic customization process. These regions are projected to the image plane to determine feature points. Relative displacement of each feature point between two image frames is treated as an evidence of muscular activity. Feature point displacements are projected back to the 3D space to estimate the new coordinates of the wireframe vertices. Muscular activities that would produce the estimated deformation are solved through a least squares algorithm. We demonstrate the representative power of muscle force based features on three classifiers; NB, SVM and Adaboost. Ability to extract muscle forces that compose a facial expression will enable detection of subtle expressions, replicating an expression on animated characters and exploration of psychologically unknown mechanisms of facial expressions.
+
+@highlight A set of anatomy based features are proposed for facial expression recognition.
+@highlight We decompose a facial action into a unique set of muscle activity scores.
+@highlight We tested these features on CK+ database through three classifiers.
+@highlight Our results are close to human performance in expression recognition.
+@highlight Muscle-based features allow exploration of unknown mechanisms of expressions.

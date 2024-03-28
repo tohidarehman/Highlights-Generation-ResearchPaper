@@ -1,0 +1,6 @@
+ Transfer function design is a key issue in direct volume rendering. Many sophisticated transfer functions have been proposed to visualize boundaries in volumetric data sets such as computed tomography and magnetic resonance imaging. However, it is still conventionally challenging to reliably detect boundaries. Meanwhile, the interactive strategy is complicated for new users or even experts. In this paper, we first propose the human-centric boundary extraction criteria and our boundary model. Based on the model we present a boundary visualization method through a what material you pick is what boundary you see approach. Users can pick out the material of interest to directly convey semantics. In addition, the 3-D canny edge detection is utilized to ensure the good localization of boundaries. Furthermore, we establish a point-to-material distance measure to guarantee the accuracy and integrity of boundaries. The proposed boundary visualization is intuitive and flexible for the exploration of volumetric data.
+
+@highlight Human-centric boundary extraction criteria and new boundary model.
+@highlight A novel boundary visualization method though a what material you pick is what boundary you see approach.
+@highlight Point-to-material distance measure.
+@highlight A complete application.

@@ -1,0 +1,11 @@
+ High-pressure braking hose in the automobile power braking system undergoes the complicated large deformation cyclic motion during the driver’s steering operation and the up and down motion of vehicle, so that the fatigue damage becomes accumulated in proportional to the cycle number. Since the occurrence of fatigue-induced micro crack in the braking hose may cause the oil leakage, the fatigue life assessment becomes the most important task in the design of high-durable braking hose. In this context, this paper intends to introduce a numerical method for predicting the fatigue life of braking hose in the lamination structure composed of pure rubber and fabric braided layers. A specific trajectory of braking hose in the combined tire’s steering and car’s up-down motion is defined as the target cyclic path, and the variations in strain and stress fields along the cyclic path are analyzed by the large deformation finite element analysis. The strain and stress cycles in their variations are calculated by the rainflow cycle counting method, and the fatigue life cycle is evaluated by three fatigue life evaluation models, together with the Palmgren–Miner accumulative damage law. The curves of rubber layers are obtained by a specially designed displacement-controlled fatigue test using rubber specimens, while the inserted fabric braided layers which are excluded from the fatigue life assessment are modeled as an orthotropic material. The validity of the proposed numerical method is illustrated by the numerical experiments, and the fatigue life cycles to the evaluation model and to the cyclic path are investigated and compared.
+
+@highlight The fatigue life of braided 5-layer rubber hose in the complicated large deformation cycle motion is numerically evaluated.
+@highlight The fatigue life cycles are evaluated by three different fatigue evaluation models for two distinct cycle paths.
+@highlight The relative differences in the critical fatigue life cycles with respect to the basic strain-life approach are
+@highlight 35.13
+@highlight 18.80
+@highlight at the Morrow model and
+@highlight 48.24
+@highlight 12.04
+@highlight at the SWAT model, respectively.

@@ -1,0 +1,5 @@
+ This work gives an improved competitive analysis for an online inventory problem with bounded storage and order costs proposed by Larsen and Wø. We improve the upper bound of the competitive ratio from to less than where k, M and m are parameters of the given problem. The key idea is to use linear-fractional programming and primal-dual analysis methods to find the upper bound of a central inequality.
+
+@highlight We improve the competitive analysis for an online inventory problem of Larsen and Wøhlk.
+@highlight The upper bound of competitive ratio is improved.
+@highlight Linear-fractional programming and primal-dual analysis methods are used to find the upper bound of a central inequality.

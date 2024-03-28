@@ -1,0 +1,8 @@
+ Confronted with the explosive growth of web images, the web image annotation has become a critical research issue for image search and index. Sparse feature selection plays an important role in improving the efficiency and performance of web image annotation. Meanwhile, it is beneficial to developing an effective mechanism to leverage the unlabeled training data for large-scale web image annotation. In this paper we propose a novel sparse feature selection framework for web image annotation, namely sparse Feature Selection based on Graph Laplacian (FSLG)2. FSLG applies the l2,1/2-matrix norm into the sparse feature selection algorithm to select the most sparse and discriminative features. Additional, graph Laplacian based semi-supervised learning is used to exploit both labeled and unlabeled data for enhancing the annotation performance. An efficient iterative algorithm is designed to optimize the objective function. Extensive experiments on two web image datasets are performed and the results illustrate that our method is promising for large-scale web image annotation.
+
+@highlight Spare feature selection method based on l
+@highlight 2,1/2-matix norm is proposed.
+@highlight Graph Laplacian based semi-supervised learning is exploited.
+@highlight A effective algorithm for optimizing the objective function is introduced.
+@highlight The convergence of the algorithm is proven.
+@highlight Experiments demonstrate that the method is suitable for web image annotation.

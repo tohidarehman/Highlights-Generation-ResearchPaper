@@ -1,0 +1,7 @@
+ Container terminals are facing great challenges in order to meet the shipping industry’s requirements. An important fact within the industry is the increasing vessel sizes. Actually, within the last decade the ship size in the Asia–Europe trade has effectively doubled. However, port productivity has not doubled along with the larger vessel sizes. This has led to increased vessel turn around times at ports which indeed is a severe problem. In order to meet the industry targets a game-changer in container handling is required. Indented berth structure is one important opportunity to handle this issue. This novel berth structure requires new models and solution techniques for scheduling the quay cranes serving the indented berth. Accordingly, in this paper, we approach the quay crane scheduling problem at an indented berth structure. We focus on the challenges and constraints related to the novel architecture. We model the quay crane scheduling problem under the special structure and develop a solution technique based on branch-and-price. Extensive experiments are conducted to validate the efficiency of the proposed algorithm.
+
+@highlight Vessels of larger sizes are being built and are currently in operation.
+@highlight Therefore the industry calls for game-changer solutions.
+@highlight Indented berth architecture is one promising solution to the problem.
+@highlight We provide new models incorporating the specific restrictions and challenges.
+@highlight We develop a solution technique based on branch-and-price.

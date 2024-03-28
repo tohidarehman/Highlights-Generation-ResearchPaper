@@ -1,0 +1,7 @@
+ A new approach for intonation stylization that enables the extraction of an intonation representation from prosodically unlabeled data is introduced. This approach yields global and local intonation contour classes arising from a contour-based, parametric and superpositional intonation stylization. Based on findings about the linguistic interpretation of the contour classes derived from corpus statistics and perception experiments, we created simple prediction models for the partial generation of intonation contours from discourse structure defined by discourse segment boundaries and the information status of nouns within these segments. The predicted intonation contours were evaluated by human judgments of adequacy that yielded a high accordance.
+
+@highlight New contour-based, parametric, and superpositional approach for automatic intonation analysis and partially automatic synthesis.
+@highlight Biunique relation between the F0 contour and its representation.
+@highlight Extraction of an optimum number of contour classes by subtractive and k-means clustering.
+@highlight Data-driven linking of the stylization to discourse structure by means of simple prediction models.
+@highlight Successful evaluation of this linguistic anchoring in two perception experiments.

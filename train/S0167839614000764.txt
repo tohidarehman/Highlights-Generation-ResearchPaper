@@ -1,0 +1,8 @@
+ This paper presents a biarc-based subdivision scheme for space curve interpolation. Given a sequence of space points, or a sequence of space points and tangent vectors, the scheme produces a smooth curve interpolating all input points by iteratively inserting new points and computing new tangent vectors. For each step of subdivision, the newly inserted point corresponding to an existing edge is a specified joint point of a biarc curve which interpolates the two end points and the tangents. A provisional tangent is also assigned to the newly inserted point. Each of the tangents for the following subdivision step is further updated as a linear blending of the provisional tangent and the tangent at the respective point of a circle passing through the local point and its two adjacent points. If adjacent four initial points and their initial reference tangent vectors are sampled from a spherical surface, the limit curve segment between the middle two initial points exactly lies on the same spherical surface. The biarc based subdivision scheme is proved to be continuous with a nice convexity preserving property. Numerical examples also show that the limit curves are continuous and fair. Several examples are given to demonstrate the excellent properties of the scheme.
+
+@highlight This article presents a biarc based interpolatory subdivision scheme.
+@highlight The scheme produces convexity preserving spatial limit curves in 3D.
+@highlight The limit curves are proved to be
+@highlight continuous, while numerical examples show that they are also
+@highlight smooth and fair.
+@highlight The scheme reproduces circular arcs and spherical curves with control data sampled on a circle and a sphere, respectively.

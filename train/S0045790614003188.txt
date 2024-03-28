@@ -1,0 +1,7 @@
+ Networks-on-Chip (NoCs) have emerged as a promising solution for the communication crisis in today’s high-performance Multi-Processor System-on-Chip (MPSoC) architectures. Routing methods have a prominent role in taking advantage of the potential benefits offered by NoCs. As a result, designing high-performance and efficient routing algorithms is highly desirable. In this paper, the Hamiltonian-based Odd–Even (HOE) turn model is proposed for both unicast and multicast routing in wormhole-switched 2D mesh networks. HOE is able to maximize the degree of adaptiveness by minimizing the number of prohibited turns, such that the algorithm remains deadlock-free without adding virtual channels. By increasing the number of alternative minimal paths, the hotspots are less likely to be created and the traffic is efficiently distributed throughout the network. The simulation results in terms of latency and power consumption indicate the better performance of the proposed method in comparison with the existing routing methods.
+
+@highlight A highly adaptive routing method is proposed for wormhole-switched 2D mesh networks.
+@highlight The degree of adaptiveness is maximized by minimizing the number of prohibited turns.
+@highlight The deadlock-freedom is guaranteed without adding virtual channels.
+@highlight The proposed method is minimal and can be used for unicast/multicast routing.
+@highlight The number of hotspots is diminished and the traffic distribution is efficient.

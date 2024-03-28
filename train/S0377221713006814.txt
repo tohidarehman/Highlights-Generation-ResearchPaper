@@ -1,0 +1,6 @@
+ We consider the problem of scheduling products with components on a single machine, where changeovers incur fixed costs. The objective is to minimize the weighted sum of total flow time and changeover cost. We provide properties of optimal solutions and develop an explicit characterization of optimal sequences, while showing that this characterization has recurrent properties. Our structural results have interesting implications for practitioners, primarily that the structure of optimal sequences is robust to changes in demand.
+
+@highlight We study scheduling products with subassemblies on a single machine.
+@highlight We derive structural results that characterize optimal schedules.
+@highlight We show that optimal schedules can be derived from a recurrent sequence of schedules.
+@highlight These optimal schedules can be implemented before total demand is known.

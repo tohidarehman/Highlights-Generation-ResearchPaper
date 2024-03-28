@@ -1,0 +1,5 @@
+ This paper surveys the academic OR/analytics literature describing research into the laws and rules of sports and sporting competitions. The literature is divided into post hoc analyses and proposals for future changes, and is also divided into laws/rules of sports themselves and rules/organisation of tournaments or competitions. The survey outlines a large number of studies covering 21 sports in many parts of the world. The analytical approaches most commonly used are found to be various forms of regression analysis and simulation. Issues highlighted by this survey include the different views of what constitutes fairness and the frequency with which changes produce unintended consequences.
+
+@highlight Reviews OR analysis of the effects of changes to the rules and laws of sports.
+@highlight Also reviews OR analysis of proposed future changes.
+@highlight Cites 67 references involving 21 different sports.

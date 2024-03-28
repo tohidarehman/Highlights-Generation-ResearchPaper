@@ -1,0 +1,6 @@
+ This paper presents an improved multiple instance learning (MIL) tracker representing target with Distribution Fields (DFs) and building a weighted-geometric-mean MIL classifier. Firstly, we adopt DF layer as feature instead of traditional Haar-like one to model the target thanks to the DF specificity and the landscape smoothness. Secondly, we integrate sample importance into the weighted-geometric-mean MIL model and derive an online approach to maximize the bag likelihood by AnyBoost gradient framework to select the most discriminative layers. Due to the target model consisting of selected discriminative layers, our tracker is more robust while needing fewer features than the traditional Haar-like one and the original DFs one. The experimental results show higher performances of our tracker than those of five state-of-the-art ones on several challenging video sequences.
+
+@highlight We adopt Distribution Field (DF) layer as feature instead of traditional Haar-like one to robustly model the target.
+@highlight We derive an online weighted-geometric-mean MIL classifier to select the most discriminative layers.
+@highlight Our tracker is more robust while needing fewer features than the traditional Haar-like one and the original DFs one.
+@highlight The experiments show higher performance of our tracker than five state-of-the-art ones.

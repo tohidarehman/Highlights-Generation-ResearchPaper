@@ -1,0 +1,6 @@
+ The paper proposes a model for stochastic multi-mode resource-constrained project scheduling under risk aversion with the two objectives makespan and cost. Activity durations and costs are assumed as uncertain and modeled as random variables. For the scheduling part of the decision problem, the class of early-start policies is considered. In addition to the schedule, the assignment of execution modes to activities has to be selected. To take risk aversion into account, the approach of optimization under multivariate stochastic dominance constraints, recently developed in other fields, is adopted. For the resulting bi-objective stochastic integer programming problem, the Pareto frontier is determined by means of an exact solution method, incorporating a branch-and-bound technique based on the forbidden set branching scheme from stochastic project scheduling. Randomly generated test instances, partially derived from a test case from the PSPLIB, are used to show the computational feasibility of the approach.
+
+@highlight New model for stochastic multi-mode resource constrained project scheduling.
+@highlight Objectives makespan and cost considered simultaneously.
+@highlight Risk aversion addressed by multivariate stochastic dominance constraints.
+@highlight An exact solution technique is developed.

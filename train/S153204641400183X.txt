@@ -1,0 +1,6 @@
+ This paper proposes the all-IP WSNs (wireless sensor networks) for real-time patient monitoring. In this paper, the all-IP WSN architecture based on gateway trees is proposed and the hierarchical address structure is presented. Based on this architecture, the all-IP WSN can perform routing without route discovery. Moreover, a mobile node is always identified by a home address and it does not need to be configured with a care-of address during the mobility process, so the communication disruption caused by the address change is avoided. Through the proposed scheme, a physician can monitor the vital signs of a patient at any time and at any places, and according to the IPv6 address he can also obtain the location information of the patient in order to perform effective and timely treatment. Finally, the proposed scheme is evaluated based on the simulation, and the simulation data indicate that the proposed scheme might effectively reduce the communication delay and control cost, and lower the packet loss rate.
+
+@highlight The all-IP WSN architecture based on gateway trees is proposed.
+@highlight The proposed routing algorithm is achieved in the link layer without route discovery.
+@highlight A mobile node does not need to be configured with a care-of address.
+@highlight A physician can monitor the vital signs of a patient at any time and at any places.

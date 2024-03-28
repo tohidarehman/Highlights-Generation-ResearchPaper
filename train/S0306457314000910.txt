@@ -1,0 +1,6 @@
+ One of the problems of opinion mining is the domain adaptation of the sentiment classifiers. There are several approaches to tackling this problem. One of these is the integration of a list of opinion bearing words for the specific domain. This paper presents the generation of several resources for domain adaptation to polarity detection. On the other hand, the lack of resources in languages different from English has orientated our work towards developing sentiment lexicons for polarity classifiers in Spanish. The results show the validity of the new sentiment lexicons, which can be used as part of a polarity classifier.
+
+@highlight A lexicon-based domain adaptation method is proposed.
+@highlight Several domain polar lexicons were compiled following a corpus-based approach.
+@highlight The new resources are assessed over a Spanish corpus.
+@highlight The promising results encourage us to follow improving this domain adaptation method.

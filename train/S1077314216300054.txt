@@ -1,0 +1,5 @@
+ A new eye blink detection algorithm is proposed. Motion vectors obtained by Gunnar–Farneback tracker in the eye region are analyzed using a state machine for each eye. Normalized average motion vector with standard deviation and time constraint are the input to the state machine. Motion vectors are normalized by the intraocular distance to achieve invariance to the eye region size. The proposed method outperforms related work on the majority of available datasets. We extend the way how to evaluate eye blink detection algorithms without the impact of algorithms used for face and eye detection. We also introduce a new challenging dataset Researcher’s night, which contains more than 100 unique individuals with 1849 annotated eye blinks. It is currently the largest dataset available.
+
+@highlight Introduces eye blink detection algorithm while outperforming most of the related work.
+@highlight Introduces the largest real-world dataset on eye blink detection with more than 1800 annotated eye blinks.
+@highlight Proposes the way how to evaluate eye blink detection algorithms.

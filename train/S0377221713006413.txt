@@ -1,0 +1,5 @@
+ Two-stage stochastic linear programming is a classical model in operations research. The usual approach to this model requires detailed information on distribution of the random variables involved. In this paper, we only assume the availability of the first and second moments information of the random variables. By using duality of semi-infinite programming and adopting a linear decision rule, we show that a deterministic equivalence of the two-stage problem can be reformulated as a second-order cone optimization problem. Preliminary numerical experiments are presented to demonstrate the computational advantage of this approach.
+
+@highlight The model only uses the first and second moments information of random variables.
+@highlight We show that the new model is indeed a second-order cone optimization problem.
+@highlight Preliminary numerical experiments indicate the computational advantage of this model.

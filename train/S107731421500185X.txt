@@ -1,0 +1,7 @@
+ With the rapidly increasing demands from surveillance and security industries, crowd behaviour analysis has become one of the hotly pursued video event detection frontiers within the computer vision arena in recent years. This research has investigated innovative crowd behaviour detection approaches based on statistical crowd features extracted from video footages. In this paper, a new crowd video anomaly detection algorithm has been developed based on analysing the extracted spatio-temporal textures. The algorithm has been designed for real-time applications by deploying low-level statistical features and alleviating complicated machine learning and recognition processes. In the experiments, the system has been proven a valid solution for detecting anomaly behaviours without strong assumptions on the nature of crowds, for example, subjects and density. The developed prototype shows improved adaptability and efficiency against chosen benchmark systems.
+
+@highlight A real-time crowd anomaly detection algorithm for video surveillance is proposed.
+@highlight The research has developed a spatio-temporal texture model for feature extraction.
+@highlight A redundant texture feature space has been composed by using wavelet transform.
+@highlight Detection algorithm is based on 3-sigma rule which is fast and robust.
+@highlight The system shows improved accuracy and efficiency against many benchmark systems.

@@ -1,0 +1,7 @@
+ In order to improve profitability, freight forwarding companies try to organize their operational transportation planning systematically, considering not only their own fleet but also external resources. Such external resources include vehicles from closely related subcontractors in vertical cooperations, autonomous common carriers on the transportation market, and cooperating partners in horizontal coalitions. In this paper, the transportation planning process of forwarders is studied and the benefit of including external resources is analyzed. By introducing subcontracting, the conventional routing of own vehicles is extended to an integrated operational transportation planning, which simultaneously constructs fulfillment plans with overall lowest costs using the own fleet and subcontractors’ vehicles. This is then combined with planning strategies, which intend to increase the profitability by exchanging requests among members in horizontal coalitions. Computational results show considerable cost reductions using the proposed planning approach.
+
+@highlight Collaborative transportation planning of freight forwarders is studied.
+@highlight Routing of own vehicles is extended by subcontracting and request exchanging.
+@highlight Considering all request fulfillment options may result in considerable cost savings.
+@highlight A new planning framework is proposed for forwarders in horizontal coalitions.
+@highlight Computational results show very high efficiency of the proposed planning framework.

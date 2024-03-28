@@ -1,0 +1,6 @@
+ We introduce a class of incremental network design problems focused on investigating the optimal choice and timing of network expansions. We concentrate on an incremental network design problem with shortest paths. We investigate structural properties of optimal solutions, show that the simplest variant is NP-hard, analyze the worst-case performance of natural greedy heuristics, derive a 4-approximation algorithm, and conduct a small computational study.
+
+@highlight We study the optimal choice and timing of network expansions.
+@highlight We introduce a new class of incremental network design problems.
+@highlight We develop a 4-approximation algorithm for incremental network design with shortest paths.
+@highlight Analysis shows that coordinating timing of expansions increases the complexity of network design.

@@ -1,0 +1,7 @@
+ To reduce labor-intensive and costly order picking activities, many distribution centers are subdivided into a forward area and a reserve (or bulk) area. The former is a small area where most popular stock keeping units (SKUs) can conveniently be picked, and the latter is applied for replenishing the forward area and storing SKUs that are not assigned to the forward area at all. Clearly, reducing SKUs stored in forward area enables a more compact forward area (with reduced picking effort) but requires a more frequent replenishment. To tackle this basic trade-off, different versions of forward–reserve problems determine the SKUs to be stored in forward area, the space allocated to each SKU, and the overall size of the forward area. As previous research mainly focuses on simplified problem versions (denoted as fluid models), where the forward area can continuously be subdivided, we investigate discrete forward–reserve problems. Important subproblems are defined and computation complexity is investigated. Furthermore, we experimentally analyze the model gaps between the different fluid models and their discrete counterparts.
+
+@highlight Existing literature mainly focuses on “fluid models”.
+@highlight We formulate discrete versions of basic and extended forward–reserve problems.
+@highlight We discuss their computational complexity and present suitable solution procedures.
+@highlight We show the basic allocation problem to be solvable in polynomial time.
+@highlight We propose and computationally examine a very effective “repair heuristic”.

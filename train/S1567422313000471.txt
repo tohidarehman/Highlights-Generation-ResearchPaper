@@ -1,0 +1,8 @@
+ In this paper we present an XML-based multi-agent system, called Multi Agent System for Traders (MAST), that supports several Business-to-Customer e-Commerce activities, including advertisements and payments. MAST helps both customers and merchants in performing their tasks by using a personalized approach. MAST’s e-payment model avoids exchanging sensitive information, reinforcing trust between merchants and customers. A complete prototype of MAST has been implemented under the JADE framework, and it has been exploited for realizing some experiments, in order to evaluate its performances.
+
+@highlight Merchants and customers are provided by software agents, managing their profiles, to consider their competencies in the performed B2C activities.
+@highlight The underlying CBB model provides MAST with a useful starting point and guideline to identify and suitably weight the events composing a B2C process.
+@highlight Software agents use the XML to: manage agent profiles and messages; represent categories and instances; realize communications in ACML language.
+@highlight An Ontology model, used as a common agent language, allows to give a unique representation of products and categories belonging to various cataloges.
+@highlight An e-payment protocol, called AIPP (Agent Internet Payment Protocol), based on existing financial institutions, fully compliant with the standard FAST framework, it is used together with single-use account identifiers in order to perform safe and trusted payments.
+@highlight A “yellow page” service is available for all the agents.

@@ -1,0 +1,5 @@
+ The theory of the isoptic curves is widely studied in the Euclidean plane (see Cieślak et al., 1991 and  and the references given there). The analogous question was investigated by the authors in the hyperbolic and elliptic planes (see Csima and , 2012, submitted for publication), but in the higher dimensional spaces there are only few results in this topic. we gave a natural extension of the notion of the isoptic curves to the n-dimensional Euclidean space which is called isoptic hypersurface. Now we develope an algorithm to determine the isoptic surface of a 3-dimensional polyhedron We will determine the isoptic surfaces for Platonic solids and for some semi-regular Archimedean polytopes and visualize them with Wolfram Mathematica .
+
+@highlight Isoptic curves are generalized to isoptic surfaces.
+@highlight Implicit equations of isoptic surfaces for polytopes are given algorithmically.
+@highlight Spherical geometry is useful to determine solid angles.

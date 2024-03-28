@@ -1,0 +1,6 @@
+ In this paper, we present an approach to multilingual Spoken Language Understanding based on a process of generalization of multiple translations, followed by a specific methodology to perform a semantic parsing of these combined translations. A statistical semantic model, which is learned from a segmented and labeled corpus, is used to represent the semantics of the task in a language. Our goal is to allow the users to interact with the system using other languages different from the one used to train the semantic models, avoiding the cost of segmenting and labeling a training corpus for each language. In order to reduce the effect of translation errors and to increase the coverage, we propose an algorithm to generate graphs of words from different translations. We also propose an algorithm to parse graphs of words with the statistical semantic model. The experimental results confirm the good behavior of this approach using French and English as input languages in a spoken language understanding task that was developed for Spanish.
+
+@highlight Test-on-source multilingual speech understanding.
+@highlight Construction of graphs of words from multiple translations.
+@highlight Semantic decoding of graphs of words using statistical models.
+@highlight Unsupervised portability for Spoken Language Understanding.

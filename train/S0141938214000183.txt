@@ -1,0 +1,7 @@
+ Common projection optics use Köhler illumination to achieve a required lighting. These systems always prevent the realization of a compact optical configuration along with a high lumen output. Based on conventional Köhler illumination, a modified Köhler illumination system for LED-based projection display is presented in this paper, which can significantly reduce the system volume while allowing for adequate and homogeneous illumination. Equipped with the proposed system, a pocket-sized CF-LCoS projector with a physical dimension of 27.4mm×19.4mm×9.6mm is designed, simulated and analyzed. Compared to conventional approaches, this design could offer an average 43% volume reduction with acceptable tolerance. To the best of our knowledge, the screen uniformity of 90.2% and the light efficiency of 56.5% are competitive as compared with those of the currently commercialized pocket-sized CF-LCoS projectors.
+
+@highlight An improved design of conventional Köhler illumination is proposed for projection display.
+@highlight The modified Köhler illumination can significantly reduce the system volume.
+@highlight An actual pocket-sized CF-LCoS projector is designed, simulated and analyzed.
+@highlight High light efficiency and illumination uniformity are both available.
+@highlight Tolerance analysis shows that the system is well acceptable for current machining.

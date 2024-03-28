@@ -1,0 +1,5 @@
+ An improved meshless density variable approximation is incorporated into the BESO method for topology optimization of continuum structures in this paper. The essential boundary condition is enforced by using the compactly supported radial basis function (CSRBF). The Shepard function is used to create a physically meaningful dual-level density approximation. Numerical examples show that the proposed method is feasible and fidelity for the topology optimization of continuum structures. The common numerical instabilities of the BESO method do not exist in the final results.
+
+@highlight An improved meshless density variable approximation BESO method is founded.
+@highlight The essential boundary condition is enforced by using the CSRBF.
+@highlight The Shepard function is used to create a dual-level density approximation. Numerical instabilities can be improved.

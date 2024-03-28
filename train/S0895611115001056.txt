@@ -1,0 +1,7 @@
+ We propose a new deformable slice-to-volume registration method to register a 2D Transvaginal Ultrasound (TVUS) to a 3D Magnetic Resonance (MR) volume. Our main goal is to find a cross-section of the MR volume such that the endometrial implants and their depth of infiltration can be mapped from TVUS to MR. The proposed TVUS-MR registration method uses contour to surface correspondences through a novel variational one-step deformable Iterative Closest Point (ICP) method. Specifically, we find a smooth deformation field while establishing point correspondences automatically. We demonstrate the accuracy of the proposed method by quantitative and qualitative tests on both semi-synthetic and clinical data. To generate semi-synthetic data sets, 3D surfaces are deformed with 4–40% degrees of deformation and then various intersection curves are obtained at 0–20° cutting angles. Results show an average mean square error of 5.7934±0.4615mm, average Hausdorff distance of 2.493±0.14mm, and average Dice similarity coefficient of 0.9750±0.0030.
+
+@highlight We propose a deformable slice-to-volume registration method to map a 2D TVUS into a 3D MR volume.
+@highlight The method uses curve to surface correspondences through a variational one-step ICP.
+@highlight This fusion technique localizes endometriosis with respect to the patient's anatomy.
+@highlight Our method maps the TVUS planar image to a curved 2D surface in MR volume.
+@highlight One-step ICP shows less sensitivity to increment of deformation and slant.

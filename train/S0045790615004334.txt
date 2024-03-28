@@ -1,0 +1,7 @@
+ Graphical abstract The system bifurcation diagrams for x 1 are shown for harmonic excitation force = (a) 1.14 × 10−3, (b) 0.1, (c) 1.0 and (d) 2.0, respectively. There are two intervals of nonlinear motion at 0 < η < 0.006 and 1.248 ≦ η ≦ 2.0, respectively when harmonic excitation force ( ) increases to 2.0. Image, graphical abstract
+
+@highlight Highlight
+@highlight Analyze the nonlinear cubic stiffness coefficient ratio effect for ultrasonic cutting system.
+@highlight Ultrasonic cutting system is designed for stable and synchronized vibration when the excitation force is controlled at 2.0 with the interval of nonlinear cubic stiffness coefficient ratio 0.006 ≦ η < 1.248.
+@highlight For small values of η, the non-periodic motion is more obvious meaning that the larger hardening cubic stiffness coefficient causes more severely unsteady behavior.
+@highlight For the variation of dynamic behavior, ultrasonic cutting system includes periodic, quasi-periodic and chaotic motions under specific operating parameters.

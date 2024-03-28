@@ -1,0 +1,7 @@
+ This paper proposes an optimization model for high-speed railway scheduling. The model is composed of two sub-models. The first is a discrete event simulation model which represents the supply of the railway services whereas the second is a constrained logit-type choice model which takes into account the behaviour of users. This discrete choice model evaluates the attributes of railway services such as the timetable, fare, travel time and seat availability (capacity constraints) and computes the High-Speed railway demand for each planned train service. A hybridisation of a Standard Particle Swarm Optimisation and Nealder–Mead methods has been applied for solving the proposed model and a real case study of the High-Speed corridor Madrid–Seville in Spain has been analysed. Furthermore, parallel computation strategies are used to speed up the proposed approach.
+
+@highlight The high-speed railway model represents the behaviour of the passengers.
+@highlight The supply is represented as a discrete event simulation model.
+@highlight The demand is defined as a nested logit model which considers user preferences.
+@highlight A hybridization of PSO and NM methods is applied for solving the model.
+@highlight A numerical experiment has been conducted on a real high-speed railway network.

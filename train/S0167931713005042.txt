@@ -1,0 +1,7 @@
+ In this work the direct transfer of nanopatterns into titanium is demonstrated. The nanofeatures are imprinted at room temperature using diamond stamps in a single step. We also show that the imprint properties of the titanium surface can be altered by anodisation yielding a significant reduction in the required imprint force for pattern transfer. The anodisation process is also utilised for curved titanium surfaces where a reduced imprint force is preferable to avoid sample deformation and damage. We finally demonstrate that our process can be applied directly to titanium rods.
+
+@highlight Direct nanopatterning of titanium using nanopatterned diamond based stamps.
+@highlight Quantify nanopillar matrix imprint depth with regards to feature size and density.
+@highlight An account of a novel method of reducing the imprint load required to emboss titanium.
+@highlight TEM and EELS analysis following our load reduction treatment.
+@highlight The first demonstration of nanopatterning curved, bulk titanium.

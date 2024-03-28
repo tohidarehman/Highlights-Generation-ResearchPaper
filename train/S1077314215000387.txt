@@ -1,0 +1,6 @@
+ A popular approach for finding the correspondence between two nonrigid shapes is to embed their two-dimensional surfaces into some common Euclidean space, defining the comparison task as a problem of rigid matching in that space. We propose to extend this line of thought and introduce a novel spectral embedding, which exploits gradient fields for point to point matching. With this new embedding, a fully automatic system for finding the correspondence between shapes is introduced. The method is demonstrated to accurately recover the natural maps between nearly isometric surfaces and shown to achieve state-of-the-art results on known shape matching benchmarks.
+
+@highlight An embedding of 3D-shapes using spectral gradient fields (GFs).
+@highlight It is based on the inner and external products of pairs of eigenfunctions.
+@highlight The embedding naturally defines a distance measure between nonrigid shapes.
+@highlight The method achieves state-of-the-art performance on correspondence benchmarks.

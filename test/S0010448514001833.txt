@@ -1,0 +1,6 @@
+ In this work we propose an algorithm for progressive point set surface compression based on planar reflective symmetry analysis. For a given point set surface, we detect the primary symmetry plane and project the surface onto three orthogonal planes including the primary symmetry one. Then, on each projection plane, we adaptively subdivide the support domain into rectangular sub-domains. Analyzing the projected geometry on each sub-domain, we partition the original surface into portion(s), if any, that each can be modeled as a height field and the remaining portion, if any, that cannot. Further, we identify symmetric pairs of height-field portions, if any. Finally, different encoding techniques are designed for different types of surface portions, resulting in a generic progressive point set surface encoder that processes surfaces of arbitrary topological complexity and yields outstanding rate–distortion performance.
+
+@highlight We propose a progressive point set surface compression algorithm.
+@highlight The algorithm analyzes high-level semantic information existent in a 3D model.
+@highlight The original surface is partitioned and encoded by different encoding techniques.
+@highlight The proposed algorithm is able to process surfaces of arbitrary topology types.

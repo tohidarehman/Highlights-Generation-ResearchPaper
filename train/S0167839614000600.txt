@@ -1,0 +1,6 @@
+ In this paper, we introduce triangular subdivision operators which are composed of a refinement operator and several averaging operators, where the refinement operator splits each triangle uniformly into four congruent triangles and in each averaging operation, every vertex will be replaced by a convex combination of itself and its neighboring vertices. These operators form an infinite class of triangular subdivision schemes including Loop's algorithm with a restricted parameter range and the midpoint schemes for triangular meshes. We analyze the smoothness of the resulting subdivision surfaces at their regular and extraordinary points by generalizing an established technique for analyzing midpoint subdivision on quadrilateral meshes. General triangular midpoint subdivision surfaces are smooth at all regular points and they are also smooth at extraordinary points under certain conditions. We show some general triangular subdivision surfaces and compare them with Loop subdivision surfaces.
+
+@highlight Smoothness of general triangular midpoint surfaces for arbitrary control meshes.
+@highlight analysis tools for infinite classes of triangular subdivision schemes.
+@highlight New spectral properties of subdivision matrices.
+@highlight Smoothness analysis of Loop subdivision surfaces.

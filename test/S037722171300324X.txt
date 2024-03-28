@@ -1,0 +1,7 @@
+ In the truck and trailer routing problems (TTRPs) a fleet of trucks and trailers serves a set of customers. Some customers with accessibility constraints must be served just by truck, while others can be served either by truck or by a complete vehicle (a truck pulling a trailer). We propose a simple, yet effective, two-phase matheuristic that uses the routes of the local optima of a hybrid GRASP×ILS as columns in a set-partitioning formulation of the TTRP. Using this matheuristic we solved both the classical TTRP with fixed fleet and the new variant with unlimited fleet. This matheuristic outperforms state-of-the-art methods both in terms of solution quality and computing time. While the best variant of the matheuristic found new best-known solutions for several test instances from the literature, the fastest variant of the matheuristic achieved results of comparable quality to those of all previous method from the literature with an average speed-up of at least 2.5.
+
+@highlight Simple and effective two-phase matheuristic for the truck and trailer routing problem.
+@highlight Set-partitioning formulation of the truck and trailer routing problem.
+@highlight Hybrid GRASP×ILS fills a pool of columns for the set-partitioning formulation.
+@highlight Set-partitioning phase finds improved solutions in short time.
+@highlight The matheuristic outperforms previous state-of-the-art methods.

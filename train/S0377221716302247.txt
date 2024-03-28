@@ -1,0 +1,7 @@
+ Conventional data envelopment analysis (DEA) models are designed for measuring the productive efficiency of decision making units (DMUs) based merely on historical data. However, in many practical applications, such past results are not sufficient for evaluating a DMU's performance in highly volatile operating environments, such as those with highly volatile crude oil prices and currency exchange rates. That is, in such environments, a DMU's whole performance may be seriously distorted if its future performance, which is sensitive to crude oil price volatility and/or currency fluctuations, is ignored in the evaluation process. However, despite its importance, to our knowledge, there are no DEA models proposed in the literature that explicitly take future performance volatility into account. Hence, this research aims at developing a new system of DEA models that incorporate a DMU's uncertain future performance, and thus can be applied to fully measure their efficiency.
+
+@highlight We propose a new system of DEA models incorporating uncertain future performance.
+@highlight The DEA models evaluate DMUs’ performance in highly volatile operating environments.
+@highlight The DEA models take past, present and future performance indicators into account.
+@highlight This research integrates entropy theory with DEA models.
+@highlight Uncertain future performance is shown to be an integral part of evaluation processes.

@@ -1,0 +1,7 @@
+ Let be a sequence of non-decreasing integer values. Storing a compressed representation of X that supports access and search is a problem that occurs in many domains. The most common solution to this problem uses a linear list and encodes the differences between consecutive values with encodings that favor small numbers. This solution includes additional information (i.e. samples) to support efficient searching on the encoded values. We introduce a completely different alternative that achieves compression by encoding the differences in a search tree. Our proposal has many applications, such as the representation of posting lists, geographic data, sparse bitmaps, and compressed suffix arrays, to name just a few. The structure is practical and we provide an experimental evaluation to show that it is competitive with the existing techniques.
+
+@highlight Space-efficient representation for non-decreasing sequences of integers.
+@highlight Efficient support for random access and searches.
+@highlight Proved performance in main and secondary memory.
+@highlight Results competitive with the state of the art.
+@highlight Applications to several domains: posting lists, sparse bitmaps, geographic data, etc.

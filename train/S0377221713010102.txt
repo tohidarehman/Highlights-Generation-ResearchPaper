@@ -1,0 +1,7 @@
+ We estimate the probability of delinquency and default for a sample of credit card loans using intensity models, via semi-parametric multiplicative hazard models with time-varying covariates. It is the first time these models, previously applied for the estimation of rating transitions, are used on retail loans. Four states are defined in this non-homogenous Markov chain: up-to-date, one month in arrears, two months in arrears, and default; where transitions between states are affected by individual characteristics of the debtor at application and their repayment behaviour since. These intensity estimations allow for insights into the factors that affect movements towards (and recovery from) delinquency, and into default (or not). Results indicate that different types of debtors behave differently while in different states. The probabilities estimated for each type of transition are then used to make out-of-sample predictions over a specified period of time.
+
+@highlight We estimate the probability of delinquency and default using intensity models.
+@highlight These semi-parametric multiplicative hazard models include time-varying covariates.
+@highlight Some debtors are better at keeping themselves in arrears without tipping over into default.
+@highlight Model is adept at predicting between delinquent and non-delinquent accounts.
+@highlight If wrong, model tended to err on conservative side, with a lower cost consequence.

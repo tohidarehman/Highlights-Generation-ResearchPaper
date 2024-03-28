@@ -1,0 +1,6 @@
+ This study aims to derive context-based lighting setup presets in residential space by exploring the multilateral relationships among household activities, affects, and lighting setups. Three procedures were involved: First, sixty affective words were evaluated through which seven affect factors were extracted to facilitate the evaluation of colored illumination in the subsequent experiment. Second, in the user study, seven affect factors and thirty household activities were used to evaluate 147 lighting setups extracted from combinations of twelve hues, six illuminance levels, and three purity levels. As a result, twenty lighting setup presets were derived that were not only activity-based, but affect-based as well. Lastly, the twenty presets were prototyped as a set of testbed to further explore potentials and limitations. This study demonstrates that intuitive, context-based presets can help users explore the effects of colored illumination in creating a diverse range of user experiences.
+
+@highlight Multilateral relationship among activity, affect, and lighting setup was explored.
+@highlight Twenty context-based lighting setup presets were derived for residential space.
+@highlight Seven affect factors were derived for describing emotions of colored illumination.
+@highlight A set of testbed was prototyped: a smartphone application and a model house.

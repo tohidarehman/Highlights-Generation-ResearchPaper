@@ -1,0 +1,6 @@
+ The abundance of mobile software applications (apps) has created a security challenge. These apps are widely available across all platforms for little to no cost and are often created by small companies and less-experienced programmers. The lack of development standards and best practices exposes the mobile device to potential attacks. This article explores not only the practices that should be adopted by developers of all apps, but also those practices the enterprise user should demand of any app that resides on a mobile device that is employed for both business and private uses.
+
+@highlight Most apps are developed without applying information security and best practices.
+@highlight The DoD recently published a standard for secure app development.
+@highlight The standard consists of 70 security controls for developing and vetting apps.
+@highlight This research explores app vulnerabilities and DoD's standard approach to them.

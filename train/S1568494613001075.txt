@@ -1,0 +1,7 @@
+ We investigate the optimization of transport routes of barge container ships with the objective to maximize the profit of a shipping company. This problem consists of determining the upstream and downstream calling sequence and the number of loaded and empty containers transported between any two ports. We present a mixed integer linear programming (MILP) formulation for this problem. The problem is tackled by the commercial CPLEX MIP solver and improved variants of the existing MIP heuristics: Local Branching, Variable Neighborhood Branching and Variable Neighborhood Decomposition Search. It appears that our implementation of Variable Neighborhood Branching outperforms CPLEX MIP solver both regarding the solution quality and the computational time. All other studied heuristics provide results competitive with CPLEX MIP solver within a significantly shorter amount of time. Moreover, we present a detailed case study transportation analysis which illustrates how the proposed approach can be used by managers of barge shipping companies to make appropriate decisions and solve real life problems.
+
+@highlight Mixed-integer programming formulation for barge container ships routing is given.
+@highlight CPLEX commercial solver is used to optimally solve small instances.
+@highlight MIP meta-heuristics are proposed for tackling larger instances.
+@highlight The experimental evaluation confirm practical usefulness of meta-heuristics.
+@highlight Variable Neighborhood Branching is identified as the best performing method for this problem.

@@ -1,0 +1,6 @@
+ The concept of efficiency in groups postulates that a coalition of firms has to record a smaller distance toward the aggregate technology frontier compared with the sum of individual distances. Efficiency analysis (either allocative or technical) is defined with respect to cooperative firm game in order to provide operational distance functions, the so-called pseudo-distance functions. These pseudo-distances belong to the core interior of the allocative firm game, in other terms, any given firm coalition may always improve its allocative efficiency. We prove that such a result is impossible for technical efficiency, i.e., the technical efficiency cannot increase for all possible coalitions.
+
+@highlight Super-efficiency is analyzed with cooperative games.
+@highlight The allocative (super-) efficiency increases with the size of the firm group.
+@highlight The pseudo-distances yield the contribution of each firm to the overall efficiency.
+@highlight The technical efficiency cannot be improved for all possible coalitions.

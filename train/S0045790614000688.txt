@@ -1,0 +1,7 @@
+ When wireless sensor networks (WSNs) are deployed in areas inaccessible by human beings, security becomes extremely important, as they are prone to different types of malicious attacks. We propose a scheme to build a security mechanism in a query-processing paradigm within WSNs with clustered architecture. This work aims to preserve the basic security features such as confidentiality and integrity as well as to protect from replay attack in presence of mote class attacker. Considering the limitations of such an attacker, the probability of attacking cluster head and member nodes is higher than attacking the base station. Paying attention to this fact, in all communication between cluster head and member nodes, the key is neither transmitted nor pre-deployed. Performance of the scheme is evaluated and compared through qualitative and quantitative analyses; results show the present scheme’s dominance over the competing schemes.
+
+@highlight Low-overhead secured query-processing mechanism in clustered WSN environment.
+@highlight Preserves security features- confidentiality, integrity and defence against replay attack.
+@highlight Query is sent from base station to cluster heads in encrypted form.
+@highlight The cluster heads register their member nodes by exchanging messages.
+@highlight The cluster heads send aggregated responses to the base station.

@@ -1,0 +1,7 @@
+ Malaria, one of the deadliest diseases, is responsible for nearly 627,000 deaths every year. It is diagnosed manually by pathologists using a microscope. It is time-consuming and subjected to inconsistency due to human intervention, so computerized image analysis for diagnosis has gained importance. In this article, an edge-based segmentation of erythrocytes infected with malaria parasites using microscopic images has been developed to facilitate the diagnostic process. The color space transformation and Gamma equalization reduce the effects of colors and correct luminance differences of images. Fuzzy C-means clustering is applied to extract infected erythrocytes, which is further processed for the final segmentation. The experimental results showed that the proposed method can gain 98%, 93.3%, 98.65% and 90.33% of sensitivity, specificity, prediction value positive and prediction value negative, respectively. In conclusion, the proposed method provides a consistent and robust method of edge-based segmentation of parasite infected erythrocytes using microscopic images for diagnosis.
+
+@highlight Edge-based segmentation of erythrocytes infected with malaria parasites in microscopic images.
+@highlight Gamma equalization for contrast enhancement can improves the segmentation performance.
+@highlight Proposed method outperforms others traditional edge segmentation methods.
+@highlight To facilitate segmentation performance, a confusion matrix is proposed.
+@highlight The proposed method is useful for pathologists in the diagnosis of malaria.

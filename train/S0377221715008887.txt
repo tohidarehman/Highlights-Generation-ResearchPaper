@@ -1,0 +1,7 @@
+ Determining the optimal amount of mailings being sent to customers is crucial. However, this decision depends on various aspects. First, it is important to specify relevant mailing variables. By distinguishing different types of mailings and considering their sizes, we set our study apart from the majority of existing studies. To deal with unobserved heterogeneity we estimate a Mixture of Dirichlet Processes (MDP) whose components are Tobit-2 models. A policy function approach is used to take endogeneity into account. We investigate whether and how consideration of endogeneity leads to different managerial implications. To this end, we determine mailings by dynamic optimization for three individual customers which are prototypical for the segments discovered by the MDP model. We find out that mailings should be avoided altogether more frequently for all three customer types according to the model which takes endogeneity into account.
+
+@highlight Distinguish between different types of mailing variables.
+@highlight Control for unobserved heteregoeneity
+@highlight Control for endogeneity.
+@highlight Find (super-)saturation effects of mailings.
+@highlight Perform dynamic optimization of mailings.

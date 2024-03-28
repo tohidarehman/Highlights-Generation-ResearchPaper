@@ -1,0 +1,6 @@
+ In this paper we introduce a time-dependent probabilistic location model for Emergency Medical Service (EMS) vehicles. The goal is to maximize the expected coverage throughout the day and at the same time minimize the number of opened facilities and the number of relocations. We apply our model to both a randomly generated test instance and to data from the city of Amsterdam, the Netherlands. We see that time-dependent models can result in better solutions than time-independent models. Furthermore, we see that the current set of base locations in Amsterdam is not optimal. We can obtain higher coverage with even less base locations.
+
+@highlight We introduce a new time-dependent probabilistic location model for Emergency Medical Service (EMS) vehicles.
+@highlight We test the model on both random and real data.
+@highlight We compare time-independent and time-dependent input.
+@highlight We perform a sensitivity analysis.

@@ -1,0 +1,7 @@
+ In model-based development, quality properties such as consistency of security requirements are often verified prior to code generation. Changed models have to be re-verified before re-generation. If several alternative evolutions of a model are possible, each alternative has to be modeled and verified to find the best model for further development. We present a verification strategy to analyze whether evolution preserves given security properties. The UMLchange profile is used for specifying potential evolutions of a given model simultaneously. We present a tool that reads these annotations and computes a delta containing all possible evolution paths. The paths can be verified wrt. security properties, and for each successfully verified path a new model version is generated automatically.
+
+@highlight We present a security verification approach which can deal with software evolution.
+@highlight It includes tools to analyze whether evolution preserves a security property.
+@highlight The tool can compute all possible evolution paths of the given model.
+@highlight We also present the UML profile UMLchange used for specifying potential evolutions.
+@highlight UMLchange makes our approach independent from specific modeling tools.

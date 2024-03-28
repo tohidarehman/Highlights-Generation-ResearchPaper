@@ -1,0 +1,5 @@
+ We investigate the scheduling of series of consecutive locks. This setting occurs naturally along canals and waterways. Our contribution is to (i) provide two distinct mathematical programming formulations and compare them empirically, (ii) investigate the trade-off between reducing flow time and reducing emissions, and (iii) compare the results of the integrated model to those of a heuristic scheduling the locks separately. Our findings confirm that integrated scheduling of consecutive locks can reduce flow time significantly, and reveal that both model formulations have their merits when compared to each other.
+
+@highlight We provide two distinct mathematical programming formulations and compare them empirically.
+@highlight We show how these models allow for minimizing emission by having the speed of a ship as a decision variable.
+@highlight We investigate the trade-off between reducing flow time and reducing emissions.

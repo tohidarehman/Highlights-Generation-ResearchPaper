@@ -1,0 +1,7 @@
+ Software architecture management, especially in component-based web user interfaces is important to enhance their run-time accessibility, dynamics and management. The cloud offers some excellent mechanisms for this kind of systems, since software can be managed remotely, easy availability of the resources is ensured and mass storage is possible. This article presents an infrastructure solution, based on the use of web services and cloud computing, for managing COTS-based architectures.
+
+@highlight Cloud services for deploying component-based architectures
+@highlight Component-based architectures for building user interfaces at run-time
+@highlight Components and interfaces, models, and COTSget-as-a-service
+@highlight An infrastructure model based on a three-tier architecture to deploy user interfaces
+@highlight Integration of CBSE, MDE and cloud computing technologies

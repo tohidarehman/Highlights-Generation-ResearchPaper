@@ -1,0 +1,7 @@
+ This paper describes a case study for a medical diagnostic laboratory service provider to model the behavior of patients when choosing a patient service centre for their medical tests and to estimate future demand volume. A tool developed based on our methodology allows the management of the diagnostic services to experiment with locations and capacities for locating or relocating service centres. In addition to the focal firm, the methodology considers the impact of decisions on another service provider and hospital laboratories located in the same area. The methodology identifies the most significant service centre attractiveness factors. Our models are validated from different perspectives and show good predictive capability. This case study is used to draw a number of lessons for applying these types of models to other similar services in order to assist other applications.
+
+@highlight We apply discrete choice model to medical diagnostics location problems.
+@highlight We model a competitive environment with incomplete data from competitors.
+@highlight The choice involves which location patients choose and why.
+@highlight Our methodology employs “off the shelf” statistical and spreadsheet tools.
+@highlight Our methodology is highly portable to other service delivery systems.

@@ -1,0 +1,8 @@
+ One of the critical security issues of Vehicular Ad Hoc Networks (VANETs) is the revocation of misbehaving vehicles. While essential, revocation checking can leak potentially sensitive information. Road Side Units (RSUs) receiving the certificate status queries could infer the identity of the vehicles posing the query. An important loss of privacy results from the RSUs ability to tie the checking vehicle with the query's target. We propose a Privacy Preserving Revocation mechanism (PPREM) based on a universal one-way accumulator. PPREM provides explicit, concise, authenticated and unforgeable information about the revocation status of each certificate while preserving the users' privacy.
+
+@highlight We design a mechanism to convey revocation data that preserves the user’s privacy.
+@highlight Certificate status checking can be performed within few milliseconds.
+@highlight Fresh revocation data is available even when disconnected from the infrastructure.
+@highlight Even if RSUs are compromised, attackers cannot infer personal information.
+@highlight Even if RSUs are compromised, attackers cannot infer personal information.
+@highlight Message loss ratio due to authentication delay is reduced to less than 5%.

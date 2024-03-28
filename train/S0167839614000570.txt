@@ -1,0 +1,7 @@
+ A rational curve on a rational surface such that the unit normal vector field of the surface along this curve is rational will be called a curve providing Pythagorean surface normals (or shortly a PSN curve). These curves represent rational paths on the surface along which the surface possesses rational offset curves. Our aim is to study rational surfaces containing enough PSN curves. The relation with PN surfaces will be also investigated and thoroughly discussed. The algebraic and geometric properties of PSN curves will be described using the theory of double planes. The main motivation for this contribution is to bring the theory of rational offsets of rational surfaces closer to the practical problems appearing in numerical-control machining where the milling cutter does not follow continuously the whole offset surface but only certain chosen trajectories on it. A special attention will be devoted to rational surfaces with pencils of PSN curves.
+
+@highlight An algebraic analysis of components of offsets to irreducible surfaces along rational curves is provided.
+@highlight A simple criterion for deciding if the curve on the surface is (proper/non-proper) PSN is formulated.
+@highlight Surfaces with PSN pencils such that a generic fiber is a proper/non-proper PSN curve are investigated.
+@highlight It is shown that all developable surfaces are PSN pencils (but not necessarily PN surfaces).
+@highlight For non-developable surfaces a method for generating all real parameterizations respecting PSN pencils is designed.

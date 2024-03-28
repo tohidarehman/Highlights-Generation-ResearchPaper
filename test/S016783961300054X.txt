@@ -1,0 +1,5 @@
+ The definition of a B-spline is extended to unordered knot sequences. The added flexibility implies that the resulting piecewise polynomials, named U-splines, can be negative and locally linearly dependent. It is therefore remarkable that linear combinations of U-splines retain many properties of splines in B-spline form including smoothness, polynomial reproduction, and evaluation by recurrence.
+
+@highlight The definition of a B-spline is extended to unordered knot sequences. The resulting smooth piecewise polynomial of minimal support is named U-spline.
+@highlight U-splines can be negative and locally linearly dependent.
+@highlight Yet, linear combinations of U-splines share many B-spline properties including smoothness, polynomial reproduction, and evaluation by recurrence.

@@ -1,0 +1,7 @@
+ ï»¿We propose a novel technique for automatic classification of modulation formats/bit-rates of digitally modulated signals as well as non-data-aided (NDA) estimation of signal-to-noise ratio (SNR) in wireless networks. The proposed technique exploits modulation format, bit-rate, and SNR sensitive features of asynchronous delay-tap plots (ADTPs) for the joint estimation of these parameters. Simulation results validate successful classification of three commonly-used modulation formats at two different bit-rates with an overall accuracy of 99.12%. Similarly, in-service estimation of SNR in the range of 0âˆ’30 dB is demonstrated with mean estimation error of 0.88 dB. The proposed technique requires low-speed asynchronous sampling of signal envelope and hence, it can enable simple and cost-effective joint modulation format/bit-rate classification and NDA SNR estimation in future wireless networks.
+
+@highlight A technique for joint modulation format and bit-rate classification is proposed.
+@highlight The proposed technique can simultaneously enable non-data-aided SNR estimation.
+@highlight The technique uses asynchronous delay-tap plots with artificial neural networks.
+@highlight The signal classification accuracy is 99.12% and mean SNR estimation error is 0.88 dB.
+@highlight Due to its simplicity, it is attractive for future cognitive wireless networks.

@@ -1,0 +1,7 @@
+ The execution speed of a programmable logic controller (PLC) depends upon the number of analog and digital input it scans, complication in ladder diagram and the time to store the ladder diagram outputs in memory. Next to the ladder diagram, scanning of analog signals consume enough time as they have to be converted into digital. The two facts that limit the conversion speed is that the processor used for analog signal scanning can process only one channel at a time and the multichannel analog to digital converter (ADC) has digital output for only one channel. The hardware nature of field programmable gate array (FPGA) allows simultaneous conversion of all the analog signals into digital and storage of digital data in block RAM. The proposed design discusses the design of multichannel ADC using FPGA. The simulation result shows that the conversion time of ‘n’ channel ADC is 13.17μs. This increases the PLC execution speed.
+
+@highlight Programmable logic controller deals with analog signals using analog input module.
+@highlight Its scan time depends on the number of analog signal to be processed.
+@highlight Reduction in conversion time of analog to digital converter reduces scan time.
+@highlight Field programmable gate array based analog input module reduces conversion time.
+@highlight Reduction in conversion time reduces scan time.

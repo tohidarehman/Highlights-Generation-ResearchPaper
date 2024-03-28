@@ -1,0 +1,7 @@
+ A reliability system subject to shocks producing damage and failure is considered. The source of shocks producing failures is governed by a Markovian arrival process. All the shocks produce deterioration and some of them failures, which can be repairable or non-repairable. Repair times are governed by a phase-type distribution. The number of deteriorating shocks that the system can stand is fixed. After a fatal failure the system is replaced by another identical one. For this model the availability, the reliability, and the rate of occurrence of the different types of failures are calculated. It is shown that this model extends other previously published in the literature.
+
+@highlight A system under shocks following a Markovian arrival process provoking different types of failure is studied.
+@highlight All the shocks cause deterioration of the system and policy K is applied.
+@highlight Two types of shocks are differenced and each one of them causes different damages to the system.
+@highlight The availability, reliability, and the rate of occurrence of the different types of failure are calculated.
+@highlight An application comparing the performance measures for different policies K in order to optimize these measures is presented.

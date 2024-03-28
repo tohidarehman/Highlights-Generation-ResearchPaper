@@ -1,0 +1,6 @@
+ In this paper, a new pipeline of structure-from-motion for ground-view images is proposed that uses feature points on an aerial image as references for removing accumulative errors. The challenge here is to design a method for discriminating correct matches from unreliable matches between ground-view images and an aerial image. If we depend on only local image features, it is not possible in principle to remove all the incorrect matches, because there frequently exist repetitive and/or similar patterns, such as road signs. In order to overcome this difficulty, we employ geometric consistency-verification of matches using the RANSAC scheme that comprises two stages:  sampling-based local verification focusing on the orientation and scale information extracted by a feature descriptor, and  global verification using camera poses estimated by the bundle adjustment using sampled matches.
+
+@highlight A new SfM pipeline that uses aerial images as external references is proposed.
+@highlight Good matches between ground and aerial images are found by two-stage verification.
+@highlight Consistency of orientation and scale from a feature descriptor is locally verified.
+@highlight Outliers are removed by global verification with sampling based bundle adjustment.

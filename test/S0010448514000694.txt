@@ -1,0 +1,6 @@
+ The authors have recently developed methods for cutter orientation and tool path generation in 5-axis sculptured surface machining, where the design surface is approximated locally by a quadric. This paper presents, from a purely geometric perspective, the fundamental theory for optimising the cutter orientation on a quadric, which maximises the machined strip width whilst avoiding local and rear gouging. The analysis focuses on the flat-end cutter which is modelled by a circular cylinder but can be generalised for any fillet-end cutter using an appropriate offset of the design surface and the concept of geometric equivalency. The theory is illustrated by three examples.
+
+@highlight The conditions to avoid local gouging and rear gouging are formulated.
+@highlight The machined strip width is evaluated analytically.
+@highlight Two orientation angles are fully exploited to maximise the width without gouging.
+@highlight The theory has been successfully applied in 5-axis sculptured surface machining.

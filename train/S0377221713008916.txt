@@ -1,0 +1,6 @@
+ In order to improve the robustness of a railway system in station areas, this paper introduces an iterative approach to successively optimize the train routing through station areas and to enhance this solution by applying some changes to the timetable in a tabu search environment. We present our vision on robustness and describe how this vision can be used in practice. By introducing the spread of the trains in the objective function for the route choice and timetabling module, we improve the robustness of a railway system. Using a discrete event simulation model, the performance of our algorithms is evaluated based on a case study for the Brussels’ area. The computational results indicate an average improvement in robustness of 6.2% together with a decrease in delay propagation of about 25%. Furthermore, the effect of some measures like changing the train offer to further increase the robustness is evaluated and compared.
+
+@highlight Minimizing the real travel time is introduced as a practical robustness measure.
+@highlight Optimizing the train routing, all potential headway conflicts are considered.
+@highlight An interaction between routing and timetabling is essential in large stations.
+@highlight Different scenarios can be optimized, analyzed and compared with our model.

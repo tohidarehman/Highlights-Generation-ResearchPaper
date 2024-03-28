@@ -1,0 +1,7 @@
+ We consider a multi-server queueing model in which the arrivals occur according to a Markovian arrival process. One of the servers, henceforth referred to as the main server, offers consultation to fellow servers (referred to as regular servers) apart from serving the customers. A regular server may request a consultation only when serving a customer and is offered consultation on a first-come-first-served basis by the main server. The main server gives a preemptive priority to regular servers (for consulting) over customers. Thus, the main server can undergo interruptions during his/her servicing the customers. Under the assumptions of exponential services and consultations, the model is analyzed in steady-state using the well-known matrix-analytic methods. Illustrative numerical examples to bring out the qualitative nature of the model under study are presented.
+
+@highlight Introduction of server consultations in a queueing system.
+@highlight Queues with interruptions but not a special case of any in the literature.
+@highlight Arose out of a personal experience of this author.
+@highlight Use of a versatile arrival process for the arrivals of customers.
+@highlight Bring out qualitative nature of the model under study.

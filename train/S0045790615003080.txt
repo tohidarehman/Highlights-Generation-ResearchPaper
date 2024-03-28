@@ -1,0 +1,7 @@
+ A carbonating tank is continuously operated and filled with water supplied by an immersed flow injecting nozzle. At the same time, CO2 gas is introduced from the gas tank. CO2 gas can be dissolved in water and can form carbonated water with minimum production of gas bubbles depending on various process conditions. Therefore, the flow mixing phenomenon of CO2 and water can be affected by the placement of the injecting nozzle and the flow rate in consideration of the interfacial surface. In this study, the gas–liquid flow mixing with the mass transport inside the carbonation process tank is numerically predicted. The Euler–Euler methodology is used to observe the effects of the design of the injecting nozzle, the gas bubble size, as well as the velocities of liquid and gas on the gas volume fraction, liquid velocity, gas concentration, interfacial area, and mass transfer coefficient.
+
+@highlight The Euler–Euler method was used to model the flow mixing inside a carbonating tank.
+@highlight Carbonation process increased at high gas and water inlet velocities.
+@highlight L-shaped nozzle design increased the carbonation process.
+@highlight Mass transfer coefficient increased with the increase of the inlet gas velocities.
+@highlight Carbonation process was improved with the use of small gas bubbles.

@@ -1,0 +1,6 @@
+ We first consider the ordinary NP-hard three-machine proportionate open shop minimum makespan O3|prpt|C max  problem and show that it is solvable in O(nlog n) time when certain conditions on the total machine load are met. When these conditions are not met, we derive an approximate solution by implementing the optimal solution for the O3|prpt|C max  problem when the two longest jobs are of equal length. In that case, both absolute and ratio worst-case bounds are derived. We also consider the more general mixed shop problem M3|prpt|C max  in which a given job subset must be processed as in a flow shop while the remaining jobs can be processed as in the O3|prpt|C max  problem. We show that our open shop solution techniques can be implemented to derive exact and approximate solutions for the M3|prpt|C max  problem. Finally, we discuss the applicability of our open shop results to the proportionate open shop problem with unequal machine speeds.
+
+@highlight We consider the three-machine proportionate open shop and mixed shop makespan problems.
+@highlight We derive sufficient conditions to solve the problems in polynomial time.
+@highlight We derive algorithms with worst-case bounds for the problems.
+@highlight We extend our open shop results to the unequal speed case.

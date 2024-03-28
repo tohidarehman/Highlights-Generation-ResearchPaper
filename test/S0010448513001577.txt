@@ -1,0 +1,8 @@
+ We present a method for isogeometric analysis on the triangulation of a domain bounded by NURBS curves. In this method, both the geometry and the physical field are represented by bivariate splines in Bernstein–Bézier form over the triangulation. We describe a set of procedures to construct a parametric domain and its triangulation from a given physical domain, construct -smooth basis functions over the domain, and establish a rational Triangular Bézier Spline (rTBS) based geometric mapping that -smoothly maps the parametric domain to the physical domain and exactly recovers the NURBS boundaries at the domain boundary. As a result, this approach can achieve automated meshing of objects with complex topologies and allow highly localized refinement. Isogeometric analysis of problems from linear elasticity and advection–diffusion analysis is demonstrated.
+
+@highlight Isogeometric analysis on triangulation of a domain bounded by NURBS curves.
+@highlight Geometry and solution represented by bivariate splines in Bernstein–Bézier form.
+@highlight Approach to construct parametric domain and construct
+@highlight -smooth basis functions.
+@highlight Applicable to complex topologies and allow highly localized refinement.
+@highlight Isogeometric analysis of linear elasticity and advection–diffusion demonstrated.

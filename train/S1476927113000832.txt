@@ -1,0 +1,5 @@
+ To explore the molecular mechanisms of cholangiocarcinoma (CC), microarray technology was used to find biomarkers for early detection and diagnosis. The gene expression profiles from 6 patients with CC and 5 normal controls were downloaded from Gene Expression Omnibus and compared. As a result, 204 differentially co-expressed genes (DCGs) in CC patients compared to normal controls were identified using a computational bioinformatics analysis. These genes were mainly involved in coenzyme metabolic process, peptidase activity and oxidation reduction. A regulatory network was constructed by mapping the DCGs to known regulation data. Four transcription factors, FOXC1, ZIC2, NKX2-2 and GCGR, were hub nodes in the network. In conclusion, this study provides a set of targets useful for future investigations into molecular biomarker studies.
+
+@highlight Microarray technology was used to find biomarkers for early detection and diagnosis.
+@highlight 204 differentially co-expressed genes (DCGs) in CC patients were identified.
+@highlight Providing a set of targets for molecular biomarker studies.

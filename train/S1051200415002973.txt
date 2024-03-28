@@ -1,0 +1,7 @@
+ Estimation of the number of harmonics in multidimensional sinusoids is studied in this paper. The ESTimation ERror (ESTER) is a subspace based detection approach that is robust against colored noise. However, the number of signals it can detect is very limited. To improve the identifiability, we propose to combine the multidimensional folding (MDF) techniques with ESTER for multidimensional sinusoidal order selection. Our algorithm development is inspired by the shift invariance properties of the two matrix slices resulting from multidimensional folding and unfolding, which have been exploited to extract the spatial frequencies in the literature. The maximum identifiable number of signals of the MDF-ESTER is of the order of magnitude of product of the lengths of all spatial dimensions with uniform spacing, which is significantly larger than that of the conventional multidimensional ESTER methods. Meanwhile, it inherits the robustness of the ESTER against colored noise, and performs comparably to state-of-the-art schemes when the number of signals is small.
+
+@highlight The order estimation algorithm relies on multidimensional folding combined with ESTimation ERror criterion.
+@highlight Multidimensional folding and unfolding construct two matrix slices that satisfy the shift invariance equality.
+@highlight The ESTER criterion estimates number of harmonics based on shift invariance equality.
+@highlight The algorithm is able to identify significantly more harmonics.
+@highlight The algorithm is robust against colored noise.

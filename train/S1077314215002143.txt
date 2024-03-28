@@ -1,0 +1,7 @@
+ Despite significant improvements have been made for visual tracking in recent years, tracking arbitrary object is still a challenging problem. In this paper, we present a weighted part model tracker that can efficiently handle partial occlusion and appearance change. Firstly, the object appearance is modeled by a mixture of deformable part models with a graph structure. Secondly, through modeling the temporal evolution of each part with a mixture of Gaussian distribution, we present a temporal weighted model to dynamically adjust the importance of each part by measuring the fitness to the historical temporal distributions in the tracking process. Moreover, the temporal weighted models are used to control the sample selections for the update of part models, which makes different parts update differently due to partial occlusion or drastic appearance change. Finally, the weighted part models are solved by structural learning to locate the object. Experimental results show the superiority of the proposed approach.
+
+@highlight Part models are formulated with a graph structure for object tracking.
+@highlight Weighted part models are used to handle target appearance change and occlusion.
+@highlight GMMs are used as weight models for describing dynamic evolution of object parts.
+@highlight Weight models are used to dynamically adjust the part appearance models.
+@highlight Weight models are used to control the sample selections for part model update.

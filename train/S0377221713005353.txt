@@ -1,0 +1,7 @@
+ There are several identical facilities in which precious or dangerous material is processed or stored. Since parts of this material may be diverted by some manager or employee of these facilities or since failures in the processing of the material may occur, an authorized organization inspects these facilities regularly at the beginning and at the end of some reference time interval. In order to shorten the time required for detecting such an illegal activity or failures, in addition some interim inspections are performed in these facilities during the reference time interval. The optimal distribution of these interim inspections in space and time poses considerable analytical problems since adversary strategies have to be taken into account. So far only special cases have been analysed successfully, but these results lead to a conjecture for the solution of the general case which is surprisingly simple in view of the complexity of this inspection problem.
+
+@highlight The distribution of k inspections in n facilities over time is modeled.
+@highlight A zero sum game with Inspectee and Inspectorate as the two players is considered.
+@highlight Previous work with k inspections in one facility is extended.
+@highlight Optimal strategies for special cases of k and n are proven.
+@highlight A surprisingly simple conjecture for the general case is formulated.

@@ -1,0 +1,6 @@
+ The computational detection of pulmonary lobes from CT images is a challenging segmentation problem with important respiratory health care applications, including surgical planning and regional image analysis. Several authors have proposed automated algorithms and we present a methodological review. These algorithms share a number of common stages and we consider each stage in turn, comparing the methods applied by each author and discussing their relative strengths. No standard method has yet emerged and none of the published methods have been demonstrated across a full range of clinical pathologies and imaging protocols. We discuss how improved methods could be developed by combining different approaches, and we use this to propose a workflow for the development of new algorithms.
+
+@highlight A detailed review of automated segmentation methods for the pulmonary lobes from clinical CT data.
+@highlight Formulation of a modular description, identifying common strategies.
+@highlight A methodological review of the challenges and solutions at each algorithmic stage.
+@highlight A proposed workflow for the future development of improved algorithms.

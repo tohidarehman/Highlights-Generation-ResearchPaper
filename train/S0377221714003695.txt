@@ -1,0 +1,6 @@
+ For electricity market participants trading in sequential markets with differences in price levels and risk exposure, it is relevant to analyze the potential of coordinated bidding. We consider a Nordic power producer who engages in the day-ahead spot market and the hour-ahead balancing market. In both markets, clearing prices and dispatched volumes are unknown at the time of bidding. However, in the balancing market, the market participant faces an additional risk of not being dispatched. Taking into account the sequential clearing of these markets and the gradual realization of market prices, we formulate the bidding problem as a multi-stage stochastic program. We investigate whether higher risk exposure may cause hesitation to bid into the balancing market. Furthermore, we quantify the gain from coordinated bidding, and by deriving bounds on this gain, assess the performance of alternative bidding strategies used in practice.
+
+@highlight We consider sequential electricity markets.
+@highlight We develop a stochastic programming model for coordinated bidding.
+@highlight Our case study shows that there is significant gain from coordination.
+@highlight Coordination may become increasingly important with growth in renewables.

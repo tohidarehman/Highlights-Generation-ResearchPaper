@@ -1,0 +1,7 @@
+ Different lifting analysis tools are commonly used to assess spinal loads and risk of injury. Distinct musculoskeletal models with various degrees of accuracy are employed in these tools affecting thus their relative accuracy in practical applications. The present study aims to compare predictions of six tools (HCBCF, LSBM, 3DSSPP, AnyBody, simple polynomial, and regression models) for the L4-L5 and L5-S1 compression and shear loads in twenty-six static activities with and without hand load. Significantly different spinal loads but relatively similar patterns for the compression (R 2 > 0.87) were computed. Regression models and AnyBody predicted intradiscal pressures in closer agreement with available in vivo measurements (RMSE ≈ 0.12 MPa). Due to the differences in predicted spinal loads, the estimated risk of injury alters depending on the tool used. Each tool is evaluated to identify its shortcomings and preferred application domains.
+
+@highlight Predictions of six lifting analysis tools for the spine loads were compared.
+@highlight 26 symmetric/asymmetric lifting tasks in upright/flexed postures were considered.
+@highlight Significantly different spinal loads were predicted by the tools.
+@highlight The potential risk of injury could vary depending on the tool used.
+@highlight The shortcomings of each tool and its domain of applications were identified.

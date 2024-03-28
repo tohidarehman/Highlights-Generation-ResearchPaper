@@ -1,0 +1,6 @@
+ Smart Grid makes use of Information and Communications Technology (ICT) infrastructures for the management of the generation, transmission and consumption of electrical energy to increase the efficiency of remote control and automation systems. One of the most widely accepted standards for power system communication is IEC 61850, which defines services and protocols with different requirements that need to be fulfilled with traffic engineering techniques. In this paper, we discuss the implementation of a novel management framework to meet these requirements through control and monitoring tools that provide a global view of the network. With this purpose, we provide an overview of relevant Software Defined Networking (SDN) related approaches, and we describe an architecture based on OpenFlow that establishes different types of flows according to their needs and the network status. We present the implementation of the architecture and evaluate its capabilities using the Mininet network emulator.
+
+@highlight We describe the IEC 61850 communication model and provide an SDN-based framework.
+@highlight This framework mainly uses the OpenFlow, sFlow, and OVSDB protocols.
+@highlight It controls an IEC 61850 network, including resource analysis and management.
+@highlight It integrates traffic engineering techniques, such as QoS or traffic filtering.

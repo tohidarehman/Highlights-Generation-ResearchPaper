@@ -1,0 +1,8 @@
+ This paper addresses the multitrip Cumulative Capacitated Single-Vehicle Routing Problem (mt-CCSVRP). In this problem inspired by disaster logistics, a single vehicle can perform successive trips to serve a set of affected sites and minimize an emergency criterion, the sum of arrival times. Two mixed integer linear programs, a flow-based model and a set partitioning model, are proposed for small instances with 20 sites. An exact algorithm for larger cases transforms the mt-CCSVRP into a resource-constrained shortest path problem where each node corresponds to one trip and the sites to visit become resources. The resulting problem can be solved via an adaptation of Bellman–Ford algorithm to a directed acyclic graph with resource constraints and a cumulative objective function. Seven dominance rules, two upper bounds and five lower bounds speed up the procedure. Computational results on instances derived from classical benchmark problems for the capacitated VRP indicate that the exact algorithm outperforms a commercial MIP solver on small instances and can solve cases with 40 sites to optimality.
+
+@highlight A hard single-vehicle routing problem raised by disaster logistics is studied.
+@highlight The problem is formulated by two mixed integer linear models.
+@highlight An exact method based on a resource-constrained shortest path formulation is developed.
+@highlight Dominance rules and lower and upper bounds are added to speed up the algorithm.
+@highlight The exact method outperforms a commercial ILP solver on small instances.
+@highlight Instances with up to 40 demand points can be solved to optimality.

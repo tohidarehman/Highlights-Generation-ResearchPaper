@@ -1,0 +1,7 @@
+ Language workbenches are environments for simplifying the creation and use of computer languages. The annual Language Workbench Challenge (LWC) was launched in 2011 to allow the many academic and industrial researchers in this area an opportunity to quantitatively and qualitatively compare their approaches. We first describe all four LWCs to date, before focussing on the approaches used, and results generated, during the third LWC. We give various empirical data for ten approaches from the third LWC. We present a generic feature model within which the approaches can be understood and contrasted. Finally, based on our experiences of the existing LWCs, we propose a number of benchmark problems for future LWCs.
+
+@highlight We describe the challenges posed by the 4 Language Workbench Challenges run so far.
+@highlight We establish a feature model that captures the design space of language workbenches.
+@highlight We classify 10 language workbenches according to our feature model.
+@highlight We present empirical data on 10 implementations of a questionnaire DSL.
+@highlight We propose benchmark problems to be used in future Language Workbench Challenges.

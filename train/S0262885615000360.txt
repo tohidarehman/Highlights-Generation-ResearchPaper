@@ -1,0 +1,5 @@
+ In this paper, we address the document image binarization problem with a three-stage procedure. First, possible stains and general document background information are removed from the image through a background removal stage. The remaining misclassified background and character pixels are then separated using a Local Co-occurrence Mapping, local contrast and a two-state Gaussian Mixture Model. Finally, some isolated misclassified components are removed by a morphology operator. The proposed scheme offers robust and fast performance, especially for both handwritten and printed documents, which compares favorably with other binarization methods.
+
+@highlight Background removal technique based on adaptive median filtering and thresholding
+@highlight A Local Co-occurrence Map with local contrast can distinguish between document text and document stains and background.
+@highlight Low complexity approach with fast and accurate binarization results

@@ -1,0 +1,6 @@
+ We consider two linear project time–cost tradeoff problems with multiple milestones. Unless a milestone is completed on time, penalty costs for tardiness may be imposed. However, these penalty costs can be avoided by compressing the processing times of certain jobs that require additional resources or costs. Our model describes these penalty costs as the total weighted number of tardy milestone. The first problem tries to minimize the total weighted number of tardy milestones within the budget for total compression costs, while the second problem tries to minimize the total weighted number of tardy milestones plus total compression costs. We develop a linear programming formulation for the case with a fixed number of milestones. For the case with an arbitrary number of milestones, we show that under completely ordered jobs, the first problem is NP-hard in the ordinary sense while the second problem is polynomially solvable.
+
+@highlight We consider two project linear time–cost tradeoff problems with multiple milestones.
+@highlight The first problem is NP-hard, even when jobs are completely ordered.
+@highlight The first problem is pseudo-polynomially solvable, when jobs are completely ordered.
+@highlight The second problem is polynomially solvable, when jobs are completely ordered.

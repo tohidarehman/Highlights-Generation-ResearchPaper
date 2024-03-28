@@ -1,0 +1,7 @@
+ We study a class of mixed-integer programs for solving linear programs with joint probabilistic constraints from random right-hand side vectors with finite distributions. We present greedy and dual heuristic algorithms that construct and solve a sequence of linear programs. We provide optimality gaps for our heuristic solutions via the linear programming relaxation of the extended mixed-integer formulation of Luedtke et al.   as well as via lower bounds produced by their cutting plane method. While we demonstrate through an extensive computational study the effectiveness and scalability of our heuristics, we also prove that the theoretical worst-case solution quality for these algorithms is arbitrarily far from optimal. Our computational study compares our heuristics against both the extended mixed-integer programming formulation and the cutting plane method of Luedtke et al.  . Our heuristics efficiently and consistently produce solutions with small optimality gaps, while for larger instances the extended formulation becomes intractable and the optimality gaps from the cutting plane method increase to over 5%.
+
+@highlight Heuristics for chance constrained programs with random right-hand side vectors.
+@highlight Efficient algorithms for scenarios with non-equal probabilities.
+@highlight Computational experiments compare against the best known exact solution methods.
+@highlight Near optimal solutions for problems that are currently intractable using MIP alone.
+@highlight Demonstrates where heuristics fail, highlighting the difficulty of solving CCPs.

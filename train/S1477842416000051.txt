@@ -1,0 +1,7 @@
+ The actor-based language, Timed Rebeca, was introduced to model distributed and asynchronous systems with timing constraints and message passing communication. A toolset was developed for automated translation of Timed Rebeca models to Erlang. The translated code can be executed using a timed extension of McErlang for model checking and simulation. In this work, we added a new toolset that provides statistical model checking of Timed Rebeca models. Using statistical model checking, we are now able to verify larger models against safety properties compared to McErlang model checking. We examine the typical case studies of elevators and ticket service to show the efficiency of statistical model checking and applicability of our toolset.
+
+@highlight A toolset was developed for automated translation of Timed Rebeca models to Erlang.
+@highlight McErlang is used for model checking of Timed Rebeca models based on monitors.
+@highlight The existing simulation tool is extended to calculate the confidence interval for simulation results.
+@highlight A new toolset is introduced to provide statistical model checking of Timed Rebeca models.
+@highlight Two case studies are evaluated to show the applicability of proposed approaches.

@@ -1,0 +1,7 @@
+ This paper addresses two versions of a lifetime maximization problem for target coverage with wireless directional sensor networks. The sensors used in these networks have a maximum sensing range and a limited sensing angle. In the first problem version, predefined sensing directions are assumed to be given, whereas sensing directions can be freely devised in the second problem version. In that case, a polynomial-time algorithm is provided for building sensing directions that allow to maximize the network lifetime. A column generation algorithm is proposed for both problem versions, the subproblem being addressed with a hybrid approach based on a genetic algorithm, and an integer linear programming formulation. Numerical results show that addressing the second problem version allows for significant improvements in terms of network lifetime while the computational effort is comparable for both problem versions.
+
+@highlight Lifetime of directional wireless sensor networks is maximized.
+@highlight We set the sensing direction of sensors for target coverage.
+@highlight A column generation algorithm is proposed for maximizing lifetime.
+@highlight The subproblem is addressed with a combination of an ILP and a genetic algorithm.
+@highlight We show that ‘non-dominated groups’ provide better lifetime.

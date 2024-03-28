@@ -1,0 +1,6 @@
+ This paper addresses the problem of finding an effective distribution plan to deliver free newspapers from a production plant to subway, bus, or tram stations. The overall goal is to combine two factors: first, the free newspaper producing company wants to minimize the number of vehicle trips needed to distribute all newspapers produced at the production plant. Second, the company is interested in minimizing the time needed to consume all newspapers, i.e., the time needed to get all the newspapers taken by the final readers. The resulting routing problem combines aspects of the vehicle routing problem with time windows, the inventory routing problem, and additional constraints related to the production schedule. We propose a formulation and different heuristic approaches, as well as a hybrid method. Computational tests with real world data show that the hybrid method is the best in various problem settings.
+
+@highlight We model the problem of distributing free newspapers in an urban area.
+@highlight We highlights the peculiarities of the problem that makes it different from classical problems in the routing literature.
+@highlight We propose a two phase and a hybrid solution approach.
+@highlight We tested the approaches on a set of instances derived from real data.

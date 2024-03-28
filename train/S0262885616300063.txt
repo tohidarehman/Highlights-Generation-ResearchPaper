@@ -1,0 +1,6 @@
+ Nowadays, with so many surveillance cameras having been installed, the market demand for intelligent violence detection is continuously growing, while it is still a challenging topic in research area. Therefore, we attempt to make some improvements of existing violence detectors. The primary contributions of this paper are two-fold. Firstly, a novel feature extraction method named Oriented VIolent Flows (OViF), which takes full advantage of the motion magnitude change information in statistical motion orientations, is proposed for practical violence detection in videos. The comparison of OViF and baseline approaches on two public databases demonstrates the efficiency of the proposed method. Secondly, feature combination and multi-classifier combination strategies are adopted and excellent results are obtained. Experimental results show that using combined features with AdaBoost+Linear-SVM achieves improved performance over the state-of-the-art on the Violent-Flows benchmark.
+
+@highlight A novel feature named OViF for violence detection.
+@highlight OViF makes full use of the orientation information of optical flows compared to ViF.
+@highlight We use AdaBoost as a feature selector and Linear SVM as a classifier.
+@highlight Experiments show that ViF+OViF obtain the state-of-the-art violence detection performance when using AdaBoost with SVM.

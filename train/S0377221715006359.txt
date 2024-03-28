@@ -1,0 +1,6 @@
+ This study concerns a method of selecting the best subset of explanatory variables in a multiple linear regression model. Goodness-of-fit measures, for example, adjusted R 2, AIC, and BIC, are generally used to evaluate a subset regression model. Although variable selection with regard to these measures is usually performed with a stepwise regression method, it does not always provide the best subset of explanatory variables. In this paper, we propose mixed integer second-order cone programming formulations for selecting the best subset of variables with respect to adjusted R 2, AIC, and BIC. Computational experiments show that, in terms of these measures, the proposed formulations yield better solutions than those provided by common stepwise regression methods.
+
+@highlight AIC/BIC minimization, and adjusted R
+@highlight 2 maximization problems are considered.
+@highlight These problems are formulated as mixed integer second-order cone programming problems.
+@highlight Experiments shows results of better quality than obtained by stepwise regression.

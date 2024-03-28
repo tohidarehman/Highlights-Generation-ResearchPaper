@@ -1,0 +1,7 @@
+ Structural damages caused by natural catastrophic events cover a wide area and it is convenient to supervise the event consequences by vision tools. The aim of this paper is to supply a rapid damage detector designed as a way to aid in risk assessment, damage control and disaster prevention as well as a way to speed the examination of catastrophic effects for emergency studies. The satellite pictures covering the area of interest represent the required bits of information to manage the developed telematics tool. A case study is discussed in order to provide experimental evidence of the proposed procedure potential. Moreover, a multi-view image/video fusion system is integrated in the image process to detect the damage levels of structures to overcome the limitations on the vertical information provided by a satellite. In synthesis, this study shows how a GIS-based real time monitoring system can be effectively used for a rapid evaluation of structural damage and disaster management.
+
+@highlight Use of a Border Detection Tool to identify the damaged systems after a catastrophic event.
+@highlight Application and detailed analysis for a real case study.
+@highlight Creation of pre-event and post-event layers related to structures and infrastructures network.
+@highlight Comparison between the layers of the two images in order to define the various scenarios.
+@highlight Integration of data that comes from multi-view image/video fusion applications.

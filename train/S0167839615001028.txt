@@ -1,0 +1,6 @@
+ In this paper we investigate the problem of interpolating a B-spline curve network, in order to create a surface satisfying such a constraint and defined by blending functions spanning the space of bivariate quadratic splines on criss–cross triangulations. We prove the existence and uniqueness of the surface, providing a constructive algorithm for its generation. We also present numerical and graphical results and comparisons with other methods.
+
+@highlight Interpolation of a B-spline curve network by a surface based on
+@highlight quadratic B-splines on criss–cross triangulations.
+@highlight Proof of the existence and uniqueness of the surface and constructive algorithm for its generation.
+@highlight Numerical and graphical results and comparisons with other spline methods.

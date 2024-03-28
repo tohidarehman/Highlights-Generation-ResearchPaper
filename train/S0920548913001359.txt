@@ -1,0 +1,5 @@
+ Worldwide organizations have made important efforts to replace their legacy information applications by ERP (Enterprise Resource Planning) solutions. However, a suitable system implementation does not guarantee the ERP adoption success. This also depends on the modifications carried out in the system during the ERP maintenance. The implementation process of these changes is risky and may negatively affect application performance. Therefore, practitioners must handle the existing ERP maintenance risks in order to preserve the system performance. Hence, we propose an innovative and flexible technique to manage risks impacts on ERP performance.
+
+@highlight We model the effects of risks activated in the implementation of maintenance requests on ERP performance over time.
+@highlight Static analysis reveals that the management of risks derived from participants is critical.
+@highlight Dynamic analysis shows that risks derived from internal personnel always prevail over the impact derived from external agents.

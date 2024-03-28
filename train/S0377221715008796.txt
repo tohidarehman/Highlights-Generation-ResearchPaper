@@ -1,0 +1,5 @@
+, by incorporating both positive and negative criteria in the model. As such, we propose a DEA model, known as pure DEA, using a directional distance function approach.
+
+@highlight We propose a new way to handle positive and negative criteria.
+@highlight Our model satisfies both unit and translation invariance.
+@highlight A numerical example is provided for better understanding.

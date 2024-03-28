@@ -1,0 +1,7 @@
+ This paper presents a new efficient and robust smooth-threshold generalized estimating equations for generalized linear models (GLMs) with longitudinal data. The proposed method is based on a bounded exponential score function and leverage-based weights to achieve robustness against outliers both in the response and the covariate domain. Our motivation for the new variable selection procedure is that it enables us to achieve better robustness and efficiency by introducing an additional tuning parameter which can be automatically selected using the observed data. Moreover, its performance is near optimal and superior to some recently developed variable selection methods. Under some regularity conditions, the resulting estimator possesses the consistency in variable selection and the oracle property in estimation. Finally, simulation studies and a detailed real data analysis are carried out to assess and illustrate the finite sample performance, which show that the proposed method works better than other existing methods, in particular, when many outliers are included.
+
+@highlight We develop a new efficient and robust variable selection approach for generalized linear models with longitudinal data.
+@highlight The root
+@highlight -consistency and asymptotic normality of the proposed estimators are established.
+@highlight An efficient algorithm is proposed to implement the procedures.
+@highlight Simulation studies and a real data example have shown that our proposed estimators are superior to some recently developed variable selection methods.

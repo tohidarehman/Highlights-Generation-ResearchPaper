@@ -1,0 +1,7 @@
+ We present a modeling framework for analyzing if the use of interruptible transportation services can improve capacity utilization in a natural gas transportation network. The network consists of two decision makers: the transmission system operator (TSO) and a shipper of natural gas. The TSO is responsible for the routing of gas in the network and allocates capacity to the shipper to ensure that the security of supply in the network is within given bounds. The TSO can offer two different types of transportation services: firm and interruptible. Only firm services have a security of supply measure, while the interruptible services can freely be interrupted whenever the available capacity in the transportation network is not sufficiently large. We apply our modeling framework on a case study with realistic data from the Norwegian Continental Shelf. The results indicate substantial increased throughput and profits with the introduction of interruptible services.
+
+@highlight We model a natural gas pipeline network with a system operator and a shipper.
+@highlight We examine the effect of introducing interruptible transportation services.
+@highlight We use stochastic programming to model uncertainty in prices and network capacity.
+@highlight Interruptible transportation services increase network flow and profitability.
+@highlight Increased security of supply levels increases the effect of interruptible services.

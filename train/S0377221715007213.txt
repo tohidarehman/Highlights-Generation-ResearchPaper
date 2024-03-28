@@ -1,0 +1,6 @@
+ We propose a non-parametric, three-stage strategy for efficiency estimation in which the Richardson–Lucy blind deconvolution algorithm is used to identify firm-specific inefficiencies from the residuals corrected for the expected inefficiency μ. The performance of the proposed algorithm is evaluated against the method of moments under 16 scenarios assuming . The results show that the Richardson–Lucy blind deconvolution method does not generate null or zero values due to wrong skewness or low kurtosis of inefficiency distribution, that it is insensitive to the distributional assumptions, and that it is robust to data noise levels and heteroscedasticity. We apply the Richardson–Lucy blind deconvolution method to Finnish electricity distribution network data sets, and we provide estimates for efficiencies that are otherwise inestimable when using the method of moments and correct ranks of firms with similar efficiency scores.
+
+@highlight We propose a non-parametric three-stage strategy for efficiency estimation.
+@highlight The proposed algorithm (RLb) identifies firm-specific inefficiencies.
+@highlight RLb needs no distribution assumption, tolerates data noise and heteroscedasticity.
+@highlight RLb efficiently distinguishes nuance among Finnish energy suppliers.

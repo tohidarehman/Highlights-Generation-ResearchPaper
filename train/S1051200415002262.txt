@@ -1,0 +1,5 @@
+ The presence of jamming usually degrades the detection performance of a detector. Moreover, sufficient information about the jamming may be difficult to be obtained. To overcome the problem of adaptive array signal detection in noise and completely unknown jamming, we temporarily assume the jamming belongs to a subspace which is orthogonal to the signal steering vector in the stage of detector design. Consequently, by resorting to the criteria of generalized likelihood ratio test (GLRT) and Wald test, we propose two adaptive detectors, which can achieve signal detection and jamming suppression. It is shown, by Monte Carlo simulations, that the two proposed adaptive detectors have improved detection performance over existing ones.
+
+@highlight We derive two adaptive detectors for signal detection in unknown jamming.
+@highlight The two proposed detectors have the CFAR property.
+@highlight They have better detection performance than the existing detectors.

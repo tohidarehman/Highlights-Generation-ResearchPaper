@@ -1,0 +1,6 @@
+ In this paper we study situations where a group of agents require a service that can only be provided from a source, the so-called source connection problems. These problems contain the standard fixed tree, the classical minimum spanning tree and some other related problems such as the k-hop, the degree constrained and the generalized minimum spanning tree problems among others. Our goal is to divide the cost of a network among the agents. To this end, we introduce a rule which will be referred to as a painting rule because it can be interpreted by means of a story about painting. Some meaningful properties in this context and a characterization of the rule are provided.
+
+@highlight The source connection problems are defined.
+@highlight A group of agents need a service that could be only provided by a source.
+@highlight A rule that shares the cost of the tree connecting agents to the source is defined.
+@highlight An axiomatic characterization of the rule is provided.

@@ -1,0 +1,6 @@
+ Automatic multiple object tracking with a single pan–tilt–zoom (PTZ) cameras is a hard task, with few approaches in the literature, most of them proposing simplistic scenarios. In this paper, we present a novel PTZ camera management framework in which at each time step, the next camera pose (pan, tilt, focal length) is chosen to support multiple object tracking. The policy can be myopic or non-myopic, where the former analyzes exclusively the current frame for deciding the next camera pose, while the latter takes into account plausible future target displacements and camera poses, through a multiple look-ahead optimization. In both cases, occlusions, a variable number of subjects and genuine pedestrian detectors are taken into account, for the first time in the literature. Convincing comparative results on synthetic data, realistic simulations and real trials validate our proposal, showing that non-myopic strategies are particularly suited for a PTZ camera management.
+
+@highlight Detailed derivation of an information theoretic framework for real PTZ management.
+@highlight Introduction and implementation of a non-myopic strategy.
+@highlight Large experimental validation, with synthetic and realistic datasets.
+@highlight Working demonstration of myopic strategy on an off-the-shelf PTZ camera.

@@ -1,0 +1,7 @@
+ The use of battery storage devices has been advocated as one of the main ways of improving the power quality and reliability of the power system, including minimisation of energy imbalance and reduction of peak demand. Lowering peak demand to reduce the use of carbon-intensive fuels and the number of expensive peaking plant generators is thus of major importance. Self-adaptive control methods for individual batteries have been developed to reduce the peak demand. However, these self-adaptive control algorithms of are not very efficient without sharing the energy among different batteries. This paper proposes a novel battery network system with optimal management of energy between batteries. An optimal management strategy has been implemented using a population-based constraint differential evolution algorithm. Taking advantage of this strategy the battery network model can remove more peak areas of forecasted demand data compared to the self-adaptive control algorithm developed for the New York City study case.
+
+@highlight A novel battery network system with optimal management of energy is proposed.
+@highlight An optimal management strategy has been implemented.
+@highlight The constraint differential evolution optimisation is applied to above system.
+@highlight The new strategy can remove more peak areas of forecasted demand data.
+@highlight The proposed method is also compared to the self-adaptive control algorithm.

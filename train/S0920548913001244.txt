@@ -1,0 +1,6 @@
+ This paper presents an analysis of the relation between IP channel characteristics and final voice transmission quality. The NISTNet emulator is used for adjusting the IP channel network. The transmission quality criterion is an MOS parameter investigated using the ITU-T P.862 PESQ, future P.863 POLQA and P.563 3SQM algorithms. Jitter and packet loss influence are investigated for the PCM codec and the Speex codec.
+
+@highlight We analyze the relation between IP channel characteristics and voice transmission quality.
+@highlight To obtain MOS estimation, the ITU-T P.862 PESQ, future P.863 POLQA and P.563 3SQM algorithms are used.
+@highlight Jitter and packet loss decrease quality of transferred voice.
+@highlight POLQA predicts a higher MOS value for most samples.

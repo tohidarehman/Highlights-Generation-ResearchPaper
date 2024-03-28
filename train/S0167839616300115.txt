@@ -1,0 +1,7 @@
+ Recently, a construction of spline spaces suitable for representing smooth parametric surfaces of arbitrary topological genus and arbitrary order of continuity has been proposed. These splines, called RAGS (rational geometric splines), are a direct generalization of bivariate polynomial splines on planar triangulations. In this paper we discuss how to construct parametric splines associated with the three homogeneous geometries (spherical, affine, and hyperbolic) and we also consider a number of related computational issues. We then show how homogeneous splines can be used to obtain RAGS. As examples of RAGS surfaces we consider direct analogs of the Powell–Sabin macro-elements and also spline surfaces of higher degrees and higher orders of continuity obtained by minimizing an energy functional.
+
+@highlight Piecewise rational functions, called rational geometric splines (or RAGS), are studied.
+@highlight RAGS are suitable for representing surfaces of arbitrary genus and continuity.
+@highlight A construction of parametric homogeneous splines is proposed.
+@highlight Interpolation and approximation methods for constructing smooth splines are presented.
+@highlight It is shown how homogeneous splines can be used to obtain RAGS.

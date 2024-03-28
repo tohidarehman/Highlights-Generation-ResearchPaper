@@ -1,0 +1,6 @@
+ In this paper, we present the dfcomb R package for the implementation of a single prospective clinical trial or simulation studies of phase I combination trials in oncology. The aim is to present the features of the package and to illustrate how to use it in practice though different examples. The use of combination clinical trials is growing, but the implementation of existing model-based methods is complex, so this package should promote the use of innovative adaptive designs for early phases combination trials.
+
+@highlight R package “dfcomb” available for phase I combination clinical trials according to previous methodological paper.
+@highlight Implement a single prospective clinical trial or simulation studies of phase I combination trials in oncology.
+@highlight Features and illustration of the functions.
+@highlight Promote the use of innovative adaptive design for early phase combination trials.

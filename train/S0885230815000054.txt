@@ -1,0 +1,6 @@
+ This paper investigates three different sources of information and their integration into language modelling. Global semantics is modelled by Latent Dirichlet allocation and brings long range dependencies into language models. Word clusters given by semantic spaces enrich these language models with short range semantics. Finally, our own stemming algorithm is used to further enhance the performance of language modelling for inflectional languages. Our research shows that these three sources of information enrich each other and their combination dramatically improves language modelling. All investigated models are acquired in a fully unsupervised manner. We show the efficiency of our methods for several languages such as Czech, Slovenian, Slovak, Polish, Hungarian, and English, proving their multilingualism. The perplexity tests are accompanied by machine translation tests that prove the ability of the proposed models to improve the performance of a real-world application.
+
+@highlight The unsupervised techniques of language modelling are investigated.
+@highlight We use global semantics, local semantics, and morphology information in our models.
+@highlight We experiment with modelling of six different languages.
+@highlight Final models dramatically reduce the perplexities and improve machine translation.

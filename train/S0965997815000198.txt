@@ -1,0 +1,6 @@
+ This article discusses on the detection of fault occurred during friction stir welding using discrete wavelet transform on force and torque signals. The work pieces used were AA1100 aluminum alloys of thickness 2.5mm. The plates were 200mm in length and 80mm in width. Presence of defect in welding causes sudden change in force signals (Z-load), thus it is easier to detect such abrupt changes in a signal using discrete wavelet transform. Statistical features like variance and square of errors of detail coefficients are implemented to localize the defective zone properly as it shows better variations (in defective area) than the detail coefficient itself.
+
+@highlight Detection of fault occurred during friction stir welding.
+@highlight Analyzed using discrete wavelet transform on force and torque signals.
+@highlight Provides plot of frequency spectra vs. time with varying resolution.
+@highlight Variance and square of errors of detail coefficients of transformed signal are obtained to localize the defected zone.

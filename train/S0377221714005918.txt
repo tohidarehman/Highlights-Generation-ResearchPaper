@@ -1,0 +1,7 @@
+ The classical objective function of the Vehicle Routing Problem (VRP) is to minimize the total distance traveled by all vehicles (Min–Sum). In several situations, such as disaster relief efforts, computer networks, and workload balance, the minimization of the longest route (Min–Max) is a better objective function. In this paper, we compare the optimal solution of several variants of the Min–Sum and the Min–Max VRP, from the worst-case point of view. Our aim is two-fold. First, we seek to motivate the design of heuristic, metaheuristic, and matheuristic algorithms for the Min–Max VRP, as even the optimal solution of the classical Min–Sum VRP can be very poor if used to solve the Min–Max VRP. Second, we aim to show that the Min–Max approach should be adopted only when it is well-justified, because the corresponding total distance can be very large with respect to the one obtained by optimally solving the classical Min–Sum VRP.
+
+@highlight We study Min–Sum VRP (min total distance) and Min–Max VRP (min longest route).
+@highlight We compare the optimal costs from the worst-case point of view.
+@highlight We compare the structure of the optimal solutions in worst-case instances.
+@highlight We motivate the design of heuristic algorithms for the Min–Max VRP.
+@highlight We show that the Min–Max approach should be adopted only when it is well justified.

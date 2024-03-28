@@ -1,0 +1,6 @@
+ Disaster Management (DM) is a diffused area of knowledge. It has many complex features interconnecting the physical and the social views of the world. Many international and national bodies create knowledge models to allow knowledge sharing and effective DM activities. But these are often narrow in focus and deal with specified disaster types. We analyze thirty such models to uncover that many DM activities are actually common even when the events vary. We then create a unified view of DM in the form of a metamodel. We apply a metamodelling process to ensure that this metamodel is complete and consistent. We validate it and present a representational layer to unify and share knowledge as well as combine and match different DM activities according to different disaster situations.
+
+@highlight Disaster management knowledge is dispersed and requires a centralised and better access.
+@highlight We present metamodelling a way of unifying DM knowledge.
+@highlight We develop our DM Metamodel, DMM.
+@highlight We validate theoretically and illustrate how it would apply in representing DM knowledge used in two recent disasters.

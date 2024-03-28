@@ -1,0 +1,7 @@
+ In this paper, a survey of scheduling problems with due windows is presented. The due window of a job is a generalization of the classical due date and it is a time interval in which this job should be finished. If the job is completed before or after the due window, it incurs an earliness or a tardiness penalty. A review of an extensive literature concerning problems with various models of given due windows, due window assignment and job-independent and job-dependent earliness/tardiness penalties is presented. The article focuses mainly on the computational complexity of the problems, mentioning also their solution algorithms. Moreover, the practical applications of the reviewed problems are mentioned, giving the appropriate references to the scientific literature. One particularly interesting IT example is described in detail.
+
+@highlight The scheduling problems with due windows which generalize the due dates are surveyed.
+@highlight A job completed before (after) the due window incurs earliness (tardiness) penalty.
+@highlight The problems with both the given as well as the optimized due windows are reviewed.
+@highlight Job-dependent and job-independent earliness/tardiness penalties are considered.
+@highlight The paper is focused on computational complexity, algorithms, practical application.

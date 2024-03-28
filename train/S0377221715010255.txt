@@ -1,0 +1,6 @@
+ In this paper we propose a quantile-based risk measure which is defined using the modified loss distribution according to the decision maker’s risk and loss aversion. The properties related to different classes of disutility functions are established. A portfolio selection model in the Mean-Risk framework is proposed and equivalent formulations of the model generating the same efficient frontier are given. The advantages of this approach are investigated using real world data from NYSE. The differences between the efficient frontier of the proposed model and the classical Mean-Variance and Mean-CVaR are quantified and interpreted. Extensive experiments show that the efficient portfolios obtained by using the proposed model exhibit lower risk levels and an increased satisfaction compared to the other two Mean-Risk models.
+
+@highlight We propose a disutility-based risk measure (DCVaR) and study its properties
+@highlight We propose the bi-objective portfolio model Mean-DCVaR and equivalent formulations
+@highlight Mean-DCVaR efficient portfolios differ markedly from the other Mean-Risk frontiers
+@highlight DCVaR efficient portfolios constitute improvement over CVaR/Var

@@ -1,0 +1,6 @@
+ Linguistic decision making systems represent situations that cannot be assessed with numerical information but it is possible to use linguistic variables. This paper introduces new linguistic aggregation operators in order to develop more efficient decision making systems. The linguistic probabilistic weighted average (LPWA) is presented. Its main advantage is that it considers subjective and objective information in the same formulation and considering the degree of importance that each concept has in the aggregation. A key feature of the LPWA operator is that it considers a wide range of linguistic aggregation operators including the linguistic weighted average, the linguistic probabilistic aggregation and the linguistic average. Further generalizations are presented by using quasi-arithmetic means and moving averages. An application in linguistic multi-criteria group decision making under subjective and objective risk is also presented in the context of the European Union law.
+
+@highlight Linguistic aggregation operators that integrate probabilities and weighted averages.
+@highlight Linguistic probabilistic weighted aggregation operators with moving averages.
+@highlight Aggregation operators with quasi-arithmetic means and linguistic information.
+@highlight A new approach for linguistic multi-criteria group decision making in the EU law.

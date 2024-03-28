@@ -1,0 +1,6 @@
+ In this paper, we consider a two-state (up and down) network consisting of n links. We study the D-spectrum based dynamic reliability of the network under the assumption that the links are subject to failure according to a nonhomogeneous Poisson process. Several mixture representations are provided for the reliability function of residual lifetime of used networks, under different conditions on the status of the network or its links. These representations enable us to explore the residual reliability of operating networks in terms of the reliability functions of residual lifetimes of upper record values. The distribution function of inactivity time of a network is examined under the condition that the network has failed by inspection time t. Stochastic ordering properties of the residual lifetimes of networks under conditional D-spectra are investigated. Several examples and graphs are also provided to illustrate the established results.
+
+@highlight The dynamic reliability of a two-state network is explored.
+@highlight We assume that the links are subject to failure according to a nonhomogeneous Poisson process.
+@highlight Stochastic ordering results are presented.
+@highlight To illustrate the importance of the results, various examples and graphs are also provided.

@@ -1,0 +1,6 @@
+ Dynamic pricing of commodities without knowing the exact relation between price and demand is a much-studied problem. Most existing studies assume that the parameters describing the market are constant during the selling period. This severely reduces their practical applicability, since, in reality, market characteristics may change all the time, without the firm always being aware of it. In the present paper we study dynamic pricing and learning in a changing market environment. We introduce a methodology that enables the price manager to hedge against changes in the market, and provide explicit upper bounds on the regret - a measure of the performance of the firm’s pricing decisions. In addition, this methodology guides the selection of the optimal way to estimate the market process. We provide numerical examples from practically relevant situations to illustrate the methodology.
+
+@highlight We study dynamic pricing in an unknown, changing, market environment.
+@highlight We show how a price manager can hedge against changes in the market.
+@highlight We provide analytical bounds on the performance of this policy.
+@highlight We apply our method to the well-known Bass model, and to oligopoly pricing.

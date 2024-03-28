@@ -1,0 +1,6 @@
+ Spectral hashing (SpH) is an efficient and simple binary hashing method, which assumes that data are sampled from a multidimensional uniform distribution. However, this assumption is too restrictive in practice. In this paper we propose an improved method, fitted spectral hashing (FSpH), to relax this distribution assumption. Our work is based on the fact that one-dimensional data of any distribution could be mapped to a uniform distribution without changing the local neighbor relations among data items. We have found that this mapping on each PCA direction has certain regular pattern, and could be fitted well by S-curve function (Sigmoid function). With more parameters Fourier function also fits data well. Thus with Sigmoid function and Fourier function, we propose two binary hashing methods: SFSpH and FFSpH. Experiments show that our methods are efficient and outperform state-of-the-art methods.
+
+@highlight We find that the projection of high-dimensional data on PCA axis has specific pattern.
+@highlight For efficiency, we use fitting function to fit this pattern to uniform distribution.
+@highlight Two binary hashing methods are proposed with Sigmoid function and Fourier function.
+@highlight The proposed methods are efficient and outperform current methods.

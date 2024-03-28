@@ -1,0 +1,5 @@
+ Recent advances in wireless sensor networks (WSNs) technologies and their incorporation with geographic information system (GIS) technologies offer vast opportunities for development and application of environment monitoring data communication. This paper analyzes the method of predicting the location of moving target with the Kalman filter and Greedy-ViP approach to establish WSN flat network routing and the data management system. Simulation results demonstrate that the predicted information collection node locations by the proposed method are consistent with the majority of real ones, the hops tend to straight lines, the hops count is the least, lower repetition rate of the nodes on different hops, and the environment monitoring data can be saved and queried.
+
+@highlight The design and implementation of Jujube real-time monitoring and management system
+@highlight Data management system which includes remote monitoring subsystem and jujube germplasm resources professional subsystem
+@highlight Providing functions of jujube germplasm information storage and query of remote monitoring data with GIS technology

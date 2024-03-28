@@ -1,0 +1,7 @@
+ We have developed a translation system that maps sentences of Attempto Controlled English to predicates of many-sorted first-order logic, which can be directly imported into a logic-based policy management framework. Our translation achieves broader coverage than prior work that uses ACE, by a novel application of modern compositional semantics. This translation also natively supports question answering. The system significantly features a modular architecture, enabling semi-automated porting to new policy domains. We initially developed the system for cognitive radio policies, then generalized and ported it to two other policy vocabularies. The system interoperates with policies written in the XACML language.
+
+@highlight Architecture for adding natural language interfaces to access policy frameworks
+@highlight A new semantic mapping for Attempto Controlled English into first-order logic
+@highlight Use of compositional formal semantics provides broader grammatical coverage.
+@highlight Automatic generation of new domain lexicons based on logical signatures
+@highlight Used to develop interfaces for multiple policy domains in a short period of time

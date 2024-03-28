@@ -1,0 +1,6 @@
+ In the framework of spatial competition, two or more players strategically choose a location in order to attract consumers. It is assumed standardly that consumers with the same favorite location fully agree on the ranking of all possible locations. To investigate the necessity of this questionable and restrictive assumption, we model heterogeneity in consumers’ distance perceptions by individual edge lengths of a given graph. A profile of location choices is called a “robust equilibrium” if it is a Nash equilibrium in several games which differ only by the consumers’ perceptions of distances. For a finite number of players and any distribution of consumers, we provide a complete characterization of robust equilibria and derive structural conditions for their existence. Furthermore, we discuss whether the classical observations of minimal differentiation and inefficiency are robust phenomena. Thereby, we find strong support for an old conjecture that in equilibrium firms form local clusters.
+
+@highlight New modeling approach with heterogeneous distance perceptions.
+@highlight Tool for testing whether outcomes of location games rely on homogeneous distances.
+@highlight Support for an old conjecture (“principle of minimal clustering”).
+@highlight Structural conditions for the (non-)existence of “robust equilibria”.

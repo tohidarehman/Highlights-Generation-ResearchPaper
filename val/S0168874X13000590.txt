@@ -1,0 +1,6 @@
+ In modern finite element analysis (FEA), a mesh is said to be ‘tangled’ if it contains one or more inverted elements. Tangling can occur, for example, during mesh optimization and mesh morphing. Modern finite element theory and commercial FEA packages are not designed to handle tangled meshes, i.e., they can lead to erroneous results. Researchers and practitioners therefore unanimously recommend untangling prior to analysis. In this paper, a new mathematical framework for FEA over tangled meshes is proposed. Specifically, by defining a cell decomposition of a tangled mesh, and an associated set of cell shape functions, it is shown that FEA can be successfully carried out over tangled meshes. The cell shape functions are constructed through an oriented linear combination of the classic element shape functions. Numerical examples illustrate the correctness of the proposed framework. Potential applications of the proposed framework are also illustrated.
+
+@highlight A new theory is proposed for finite element analysis over a tangled mesh.
+@highlight The theory rests on cell decomposition and cell shape functions.
+@highlight The theory extends continuous Galerkin formulation to a tangled mesh.
+@highlight Numerical results are provided to validate the proposed theory.

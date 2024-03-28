@@ -1,0 +1,6 @@
+ Cerebrospinal fluid imaging plays a significant role in the clinical diagnosis of brain disorders, such as hydrocephalus and Alzheimer's disease. While three-dimensional images of cerebrospinal fluid are very detailed, the complex structures they contain can be time-consuming and laborious to interpret. This paper presents a simple technique that represents the intracranial cerebrospinal fluid distribution as a two-dimensional image in such a way that the total fluid volume is preserved. We call this a volumetric relief map, and show its effectiveness in a characterization and analysis of fluid distributions and networks in hydrocephalus patients and healthy adults.
+
+@highlight A planar map of intracranial cerebrospinal fluid distribution is presented.
+@highlight Useful for fluid distribution analysis in hydrocephalus cases.
+@highlight Characterize fluid distributions of (non-)pathological cases.
+@highlight Study fluid networks of (non-)pathological cases.

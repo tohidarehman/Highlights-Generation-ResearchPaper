@@ -1,0 +1,5 @@
+ Illustration of Tracking Groups/Extended Objects with the Bayesian approach. The peaks of the posterior state probability density function (shown on the top) correspond to the two groups G1 and G2 (visualized at the bottom). Based on the peaks one can deduce where the positions of the groups are. In recent years there has been an increasing interest in tracking a number of objects moving in a coordinated and interacting fashion. There are many fields in which such situations are frequently encountered: video surveillance, sport events, biomedicine, neuroscience, meteorology, situation awareness and search rescue operations, to mention but a few. Although individual objects in the group can exhibit independent movement at a certain level, overall the group moves as one whole, synchronously with respect to the individual entities and avoiding collisions.
+
+@highlight An overview is provided of key sequential Monte Carlo methods for group and extended object tracking.
+@highlight Current achievements, trends and challenges are presented.
+@highlight Efficient implementations of sequential Monte Carlo algorithms in distributed and parallel ways.

@@ -1,0 +1,6 @@
+ Coronary artery disease (CAD) is the leading cause of death in both the UK and worldwide. The detection of related risk factors and tracking their progress over time is of great importance for early prevention and treatment of CAD. This paper describes an information extraction system that was developed to automatically identify risk factors for heart disease in medical records while the authors participated in the 2014 i2b2/UTHealth NLP Challenge. Our approaches rely on several nature language processing (NLP) techniques such as machine learning, rule-based methods, and dictionary-based keyword spotting to cope with complicated clinical contexts inherent in a wide variety of risk factors. Our system achieved encouraging performance on the challenge test data with an overall micro-averaged F-measure of 0.915, which was competitive to the best system (F-measure of 0.927) of this challenge task.
+
+@highlight Risk factor detection is of great importance for the treatment of heart disease.
+@highlight Machine learning techniques combined with keywords and rule-based approaches.
+@highlight 7 main heart disease risk factors with relevant medications are identified.
+@highlight Achieving an overall micro-averaged F-measure of 91.56%.

@@ -1,0 +1,8 @@
+ A surface in Euclidean space is called ringed (or cyclic) if there exists a one-parameter family of planes that intersects this surface in circles. Well-known examples of ringed surfaces are the surfaces of revolution, (not only rotational) quadrics, canal surfaces, or Darboux cyclides. This paper focuses on modeling with rational ringed surfaces, mainly for blending purposes. We will deal with the question of rationality of ringed surfaces and discuss the usefulness of the so called P-curves for constructing rational ringed-surface-blends. The method of constructing blending surfaces that satisfy certain prescribed constraints, e.g. a necessity to avoid some obstacles, will be presented. The designed approach can be easily modified also for computing -way blends. In addition, we will study the contour curves on ringed surfaces and use them for computing approximate parameterizations of implicitly given blends by ringed surfaces. The designed techniques and their implementations are verified on several examples.
+
+@highlight The paper focuses on modeling with rational ringed surfaces, mainly for blending purposes.
+@highlight We answer the question of their rationality and use P-curves for constructing rational ringed surfaces.
+@highlight The method for constructing blends that satisfy certain prescribed constraints is presented.
+@highlight The designed approach can be easily modified also for computing
+@highlight -way blends.
+@highlight The contour curves are used for computing approximate parameterizations of implicitly given blends by ringed surfaces.

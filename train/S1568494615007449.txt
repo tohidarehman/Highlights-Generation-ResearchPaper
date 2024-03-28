@@ -1,0 +1,7 @@
+ In this study, a new kind of fuzzy set in fuzzy time series’ field is introduced. It works as a trend estimator to be appropriate for fuzzy time series forecasting by reconnoitering trend of data appropriately. First, the historical data are fuzzified into differential fuzzy sets, and then differential fuzzy relationships are calculated. Second, differential fuzzy logic groups are established by grouping differential fuzzy relationships. Finally, in the defuzzification step, the forecasts are calculated. However, for increasing the accuracy of the models, an evolutionary algorithm, namely imperialist competitive algorithm is injected, to train the model. A massive stock data from four main stock databases have been selected for model validation. The final project, has shown that outperformed its counterparts in term of accuracy.
+
+@highlight A differential fuzzy time series model is defined for forecast inside trend data.
+@highlight The differential fuzzy logical relationships and groups are established.
+@highlight The actual value at former state is added to the average of defuzzified values.
+@highlight The proposed method is combined with the ICA to enhance forecast accuracy.
+@highlight Frothy case studies are employed for validating the proposed method.

@@ -1,0 +1,7 @@
+ This work deals with pricing of “virtual” products, i.e., products that a retailer can supply after demand has been realized. Such products allow the retailer to avoid holding costs and ensure timely fulfillment of demand with no risk of shortage. Demand is commonly price-dependent and uncertain, and we seek to maximize each of three criteria: expected profit, the likelihood of achieving a profit target, and the profit for a given percentile. Simultaneous multiple criteria are also explored. Two forms of demand uncertainty are considered in the analysis: the multiplicative form, where, due to stochastic dominance, all the investigated profit criteria—and, in fact, any utility function of the profit—can be optimized simultaneously; and the additive form, where stochastic dominance cannot occur. Under the multiplicative form of demand, the property of stochastic dominance is shown to hold in a two-echelon supply chain (comprising both the supplier and the retailer) and in a centralized system.
+
+@highlight For a multiplicative demand the optimal price is identical for any increasing utility function.
+@highlight For an additive demand, pricing strategies are presented for three profit criteria: expectation, target and percentile.
+@highlight Showing how to calculate the non-dominated set of criteria values that can aid in selecting the preferred price.
+@highlight A risk-averse retailer does not necessarily set a lower price than a risk-neutral one.
+@highlight Our results are extended to a two-echelon supply chain.

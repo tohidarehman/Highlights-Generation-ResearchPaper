@@ -1,0 +1,7 @@
+ Quantitative assessment is made of using two display techniques, providing two different levels of depth perception, in conjunction with a haptic device for manipulating 3D objects in virtual environments. The two display techniques are 2D display, and interactive 3D stereoscopic virtual holography display on a zSpace tablet. Experiments were conducted, by several users of different ages and computer training. The experiments involved selected pointing and manipulation tasks. The speed of performing the tasks using the two display techniques were recorded. Statistical analysis of the data is presented. As expected, the use of interactive 3D stereoscopic display resulted in faster performance of the tasks. The improvement in performance was particularly noticeable for the cases wherein the subjects needed to manipulate the haptic arm to reach objects/targets at different depths, and also when the objects/targets were occluded partially by the obstacles.
+
+@highlight The effects of two display techniques on 3D manipulation tasks were compared.
+@highlight The two display techniques are 2D and 3D stereoscopic virtual holography display.
+@highlight Experiments involving selected pointing and manipulation tasks were conducted.
+@highlight The use of 3D virtual holography resulted in faster performance of the tasks.
+@highlight The performance gains were quantified through statistical analysis.

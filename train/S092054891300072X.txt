@@ -1,0 +1,6 @@
+ This paper proposes a QoS active queue management (AQM) mechanism for multi-QoS classes, named as M-GREEN (Global Random Early Estimation for Nipping), which includes the consideration of QoS parameters and provides service differentiation among different flows/classes. M-GREEN extends the concept of “Random” and “Early Detection” in RED to “Global Random” and “Early Estimation,” respectively. Furthermore, M-GREEN extends the “linear” concept of RED to an “exponential” one to enhance the efficiency of AQM. For performance evaluation, extensive numerical cases are employed to compare M-GREEN with some popular AQM schemes and to show the superior performance and characteristics of M-GREEN. Consequently, M-GREEN is a possible way to provide the future multimedia Internet with differential services for different traffic classes of diverse QoS requirements.
+
+@highlight We proposes a QoS AQM mechanism, M-GREEN, for multi-QoS classes.
+@highlight It extends the concept of “Random” in RED to “Global Random”.
+@highlight It extends the concept of “Early Detection” in RED to “Early Estimation”.
+@highlight It extends the “linear” concept of RED to an “exponential” one.

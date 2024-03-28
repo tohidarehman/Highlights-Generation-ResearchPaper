@@ -1,0 +1,6 @@
+ This paper presents a decision support system that aims to estimate a patient׳s general condition and detect situations which pose an immediate danger to the patient׳s health or life. The use of this system might be especially important in places such as accident and emergency departments or admission wards, where a small medical team has to take care of many patients in various general conditions. Particular stress is laid on cardiovascular and pulmonary conditions, including those leading to sudden cardiac arrest. The proposed system is a stand-alone microprocessor-based device that works in conjunction with a standard vital signs monitor, which provides input signals such as temperature, blood pressure, pulseoxymetry, ECG, and ICG. The signals are preprocessed and analysed by a set of artificial intelligence algorithms, the core of which is based on Bayesian networks. The paper focuses on the construction and evaluation of the Bayesian network, both its structure and numerical specification.
+
+@highlight A system for detecting conditions dangerous to patient׳s health or life is presented.
+@highlight The system is a microprocessor-based device attached to a medical monitor.
+@highlight The system works in real time providing guidance for medical personnel.
+@highlight The core of the reasoning algorithms is based on Bayesian networks.

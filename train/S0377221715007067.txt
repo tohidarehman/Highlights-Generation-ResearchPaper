@@ -1,0 +1,6 @@
+ We consider in this paper a single-item lot sizing problem with a periodic carbon emission constraint. In each period, the carbon emission constraint defines an upper limit on the average emission per product. Different modes are available, each one is characterized by its own cost and carbon emission parameters. The problem consists in selecting the modes used in each period such that no carbon emission constraint is violated, and the cost of satisfying all the demands on a given time horizon is minimized. This problem has been introduced in Absi et al. , and has been shown polynomially solvable when only unit carbon emissions are considered. In this paper, we extend the analysis for this constraint to the realistic case of a fixed carbon emission associated with each mode, in addition to its unit carbon emission. We establish that this generalization renders the problem NP-hard. Several dominant properties are presented, and two dynamic programming algorithms are proposed. We also establish that the problem can be solved in polynomial time for a fixed number of modes when carbon emission parameters are stationary.
+
+@highlight Single-item lot sizing problem with periodic carbon emission constraints.
+@highlight Fixed carbon emissions.
+@highlight Complexity analysis.
+@highlight Dynamic programming algorithms.

@@ -1,0 +1,5 @@
+ Toric surface patches are a multi-sided generalization of classical rational Bézier surface patches which are widely used in free-form surface modeling. In this paper, we present the first derivatives of toric surface patches along the boundary and study the continuity between adjacent toric surface patches by the toric degenerations. Furthermore, some practical sufficient conditions of toric surface patches are developed and the representative examples are given.
+
+@highlight We present the first derivatives of toric surface patches along the boundary.
+@highlight The conditions for G1 continuity between toric surface patches are analyzed.
+@highlight Some practical sufficient conditions for G1 continuity are developed.

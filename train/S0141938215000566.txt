@@ -1,0 +1,5 @@
+ This study explores a new way to integrate advanced display technology into educational activities for children with different disabilities. A free interactive mobile augmented reality (AR) application was developed to facilitate the learning of geometry. Twenty-one elementary school children participated in an experiment. The results show that the AR system could help the school children to finish puzzle game activities independent of teacher’s assistance. With the use of AR display technology, the participants demonstrated improved ability to complete puzzle game tasks when compared to the use of traditional paper-based methods. Performance data indicated that the use of AR technology could enhance learning motivation and frustration tolerance in children with special needs.
+
+@highlight Mobile devices with a free application were used to design teaching materials.
+@highlight Augmented reality techniques transform display methods to help children perform tasks independently.
+@highlight The experimental data shows that participants could complete tasks using AR support.

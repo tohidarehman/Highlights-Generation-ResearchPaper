@@ -1,0 +1,6 @@
+ With the development of the 6LoWPAN standard, sensors can be natively integrated into the IP world, becoming tiny information providers that are directly addressable by any Internet-connected party. To protect the information gathered by sensors from any potential attacker on the Internet, it is essential to have trustworthy real-time information about the legitimacy of every attempt to interact with a sensor. Our approach to address this issue is Ladon, a new security protocol specifically tailored to the characteristics of low capacity devices. In this paper, we study the performance of Ladon, showing that it successfully meets the requirements of the targeted environments. To that end, we evaluate the delay and energy consumption of the execution of Ladon. The obtained results show that the cost of Ladon is bounded, even in situations of high packet loss rates (20–80%) and comparable to that of other protocols that implement fewer security features.
+
+@highlight There is a lack of end-to-end security mechanisms tailored to IP-enabled sensors.
+@highlight Ladon is proposed as end-to-end authentication and authorization protocol.
+@highlight We evaluate the time and energy cost of executing Ladon on the protected sensors.
+@highlight Ladon is proved to be a suitable security protocol for resource-deprived devices.

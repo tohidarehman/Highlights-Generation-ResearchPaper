@@ -1,0 +1,7 @@
+ Probabilistic approaches are now widespread in most natural language processing applications and selection of a particular approach usually depends on the task at hand. Targeting speech semantic interpretation in a multilingual context, this paper presents a comparison between the state-of-the-art methods used for machine translation and speech understanding. This comparison justifies our proposition of a unified framework for both tasks based on a discriminative approach. We demonstrate that this framework can be used to perform a joint translation-understanding decoding which allows to combine, in the same process, translation and semantic tagging scores of a sentence. A cascade of finite-state transducers is used to compose the translation and understanding hypothesis graphs (1-bests, word graphs or confusion networks). Not only this proposition is competitive with the state-of-the-art techniques but also its framework is even more attractive as it can be generalized to other components of human–machine vocal interfaces (e.g. speech recognizer) so as to allow a richer transmission of information between them.
+
+@highlight A comparison between the methods used for speech translation and understanding.
+@highlight A unified framework for translation and understanding.
+@highlight A discriminative joint decoding for multilingual speech semantic interpretation.
+@highlight The proposition is competitive with state-of-the-art techniques.
+@highlight The framework can be generalized to other components of a dialogue system.

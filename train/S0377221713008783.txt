@@ -1,0 +1,6 @@
+ Forecasting critical fractiles of the lead time demand distribution is an important problem for operations managers making newsvendor-type inventory decisions. In this paper, we propose a semi-parametric approach to forecasting the critical fractile when demand is serially correlated. Starting from a user-defined but potentially misspecified forecasting model, we use historical demand data to generate empirical forecast errors of this model. These errors are then used to  parametrically correct for any bias in the point forecast conditional on the recent demand history and  non-parametrically estimate the critical fractile of the demand distribution without imposing distributional assumptions. We present conditions under which this semi-parametric approach provides a consistent estimate of the critical fractile and evaluate its finite sample properties using simulation and real data for retail inventory planning.
+
+@highlight We study forecasting the critical fractile of a lead time demand distribution when demand is autocorrelated.
+@highlight We propose a semi-parametric approach to estimate the critical fractile.
+@highlight The proposed approach uses empirical forecast errors to correct a possibly misspecified demand forecasting model.
+@highlight We provide conditions for its asymptotic validity and evaluate its small sample performance.

@@ -1,0 +1,7 @@
+ We examine a supply chain in which a manufacturer participates in a sealed-bid lowest price procurement auction through a distributor. This form of supply chain is common when a manufacturer is active in an overseas market without establishing a local subsidiary. To gain a strategic advantage in the division of profit, the manufacturer and distributor may intentionally conceal information about the underlying cost distribution of the competition. In this environment of information asymmetry, we determine the equilibrium mark-up, the ex-ante expected mark-up and expected profit of the manufacturer and the equilibrium bid of the distributor. In unilateral communication, we demonstrate the informed agent’s advantage resulting to higher mark-up. Under information sharing, we show that profit is equally shared among the supply chain partners and we explicitly derive the mark-up when the underlying cost distribution is uniform in . The model and findings are illustrated by a numerical example.
+
+@highlight We examine a supply chain where a manufacturer bids through a distributor in a procurement auction.
+@highlight Under information asymmetry, we find the equilibrium manufacturer mark-up and distributor bid.
+@highlight The manufacturer’s ex-ante expected mark-up and expected profit are derived.
+@highlight In unilateral communication, the informed agent enjoys a higher mark-up by concealing information.
+@highlight In information sharing, profit is equally divided among the two agents.

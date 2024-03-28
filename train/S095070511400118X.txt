@@ -1,0 +1,6 @@
+ This study analyzed the “Cost efficiency” and “Revenue efficiency” of 207 certified public accountant firms in Taiwan by using the additive efficiency decomposition DEA approach. Furthermore, this study applied the Tobit regression to explore the relationship between CPA firms and intellectual capital (IC). The study found that the Big 4 and CPA firms that practiced auditing in China were relatively efficient in both cost and revenue. In addition, this research discovered that CPA firms relying mainly on auditing are more efficient in creating revenue and utilizing costs. Furthermore, the Tobit regression was employed to evaluate whether IC affected CPA firms’ cost efficiency and revenue efficiency. This study found that IC played an important role in performance representation both in cost efficiency and revenue efficiency. Therefore, this study suggests that CPA firms should manage IC efficiently to enhance CPA firms’ competitive abilities.
+
+@highlight We apply a two-stage DEA model to evaluate cost efficiency and revenue efficiency.
+@highlight The additive efficiency decomposition DEA approach is utilized.
+@highlight We examine whether intellectual capital affects performance through Tobit models.
+@highlight We find that intellectual capital has a positive impact on CPA firms’ performance.

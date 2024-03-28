@@ -1,0 +1,7 @@
+ This paper presents the formulation and performance analysis of four techniques for detection of a narrowband acoustic source in a shallow range-independent ocean using an acoustic vector sensor (AVS) array. The array signal vector is not known due to the unknown location of the source. Hence all detectors are based on a generalized likelihood ratio test (GLRT) which involves estimation of the array signal vector. One non-parametric and three parametric (model-based) signal estimators are presented. It is shown that there is a strong correlation between the detector performance and the mean-square signal estimation error. Theoretical expressions for probability of false alarm and probability of detection are derived for all the detectors, and the theoretical predictions are compared with simulation results. It is shown that the detection performance of an AVS array with a certain number of sensors is equal to or slightly better than that of a conventional acoustic pressure sensor array with thrice as many sensors.
+
+@highlight Analysis of 4 methods of narrowband signal detection in ocean by AVS array.
+@highlight All detectors employ GLRT, each with a different model of array signal vector.
+@highlight Different signal models produce different signal estimation errors.
+@highlight Strong correlation between detector performance and signal estimation error.
+@highlight AVS arrays perform better than pressure sensor arrays with same number of sensors.

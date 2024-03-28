@@ -1,0 +1,6 @@
+ Due to strict inherent limitations in terms of processing power, storage and bandwidth, data processing is a challenge in the wireless multimedia sensor networks. In this paper, we provide an energy-saving audio data compression technique for such a network using lifting based partial discrete wavelet transform (PDWT). Unlike existing implementation of such a lifting based PDWT, we exploit both spatial and temporal correlation of data together, with an objective to save energy while achieving acceptable signal-to-noise ratio (SNR). We subsequently design a tree based routing scheme and an encoding scheme to be used with the proposed compression scheme with a target to reduce energy further. Finally, the design feasibility along with simulation results, including statistical analysis is presented to evaluate efficacy of the scheme in terms of two conflicting parameters viz. energy consumption and SNR. The comparative results confirm our scheme’s supremacy over a few competing schemes.
+
+@highlight Energy saving data compression for WMSNs with randomly deployed nodes.
+@highlight Energy is primarily saved by exploiting spatial and temporal correlation together.
+@highlight It is further saved by proposing a tree based routing which ensures unidirectional data flow toward the sink.
+@highlight A lossless encoding scheme is proposed to save energy further.

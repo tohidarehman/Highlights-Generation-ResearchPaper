@@ -1,0 +1,7 @@
+ A speech pre-processing algorithm is presented that improves the speech intelligibility in noise for the near-end listener. The algorithm improves intelligibility by optimally redistributing the speech energy over time and frequency according to a perceptual distortion measure, which is based on a spectro-temporal auditory model. Since this auditory model takes into account short-time information, transients will receive more amplification than stationary vowels, which has been shown to be beneficial for intelligibility of speech in noise. The proposed method is compared to unprocessed speech and two reference methods using an intelligibility listening test. Results show that the proposed method leads to significant intelligibility gains while still preserving quality. Although one of the methods used as a reference obtained higher intelligibility gains, this happened at the cost of decreased quality. Matlab code is provided.
+
+@highlight An algorithm is presented to improve speech intelligibility for the near-end listener.
+@highlight Speech energy is redistributed optimally for a perceptual distortion measure.
+@highlight An intelligibility listening test is performed to evaluate the proposed method.
+@highlight The algorithm leads to significant intelligibility gains, while preserving quality.
+@highlight A reference method obtained higher intelligibility gains, with a decrease in quality.

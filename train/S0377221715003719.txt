@@ -1,0 +1,6 @@
+ Let G = (V, E) be an undirected graph with costs associated with its edges and K pre-specified root vertices. The K−rooted mini-max spanning forest problem asks for a spanning forest of G defined by exactly K mutually disjoint trees. Each tree must contain a different root vertex and the cost of the most expensive tree must be minimum. This paper introduces a Branch-and-cut algorithm for the problem. It involves a multi-start Linear Programming heuristic and the separation of some new optimality cuts. Extensive computational tests indicate that the new algorithm significantly improves on the results available in the literature. Improvements being reflected by lower CPU times, smaller enumeration trees, and optimality certificates for previously unattainable K = 2 instances with as many as 200 vertices. Furthermore, for the first time, instances of the problem with K ∈ {3, 4} are solved to proven optimality.
+
+@highlight We introduce optimality cuts for the K-rooted mini-max spanning forest problem.
+@highlight Optimality cuts are used within a new branch-and-cut algorithm.
+@highlight Extensive computational testings with the new method are carried out.
+@highlight With such an algorithm we are able to substantially improve previous results on the problem.

@@ -1,0 +1,6 @@
+ A rational surface  can be generated from a rational planer curve and a rational space curve . Let pass through the point . Then the surface goes through the space curve . Moreover on each -plane, the cross section of the surface is a stretching or shrinking of the planar curve , such that the point travels to the point . Using moving planes, we provide a new technique to implicitize this kind of rational surface. We find four moving planes that follow the surface from which we construct a sparse matrix whose size is just the degree of the surface with entries linear in x, y, z, w. We prove that the determinant of this matrix is the exact implicit equation of the surface without any extraneous factors. Examples are presented to illustrate our methods.
+
+@highlight Initiate study of rational surfaces generated from a planar curve and a space curve.
+@highlight We construct moving planes that follow the rational surfaces.
+@highlight We construct a sparse Sylvester style matrix for four special bidegrees polynomials.
+@highlight Use this resultant in conjunction with moving planes to implicitize the surfaces.

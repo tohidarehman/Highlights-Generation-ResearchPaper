@@ -1,0 +1,7 @@
+ This paper deals with the estimation of glucose levels in ICU patients by the application of statistical filter theory to the data provided by a commercial continuous glucose monitoring system using a microdialysis sensor. Kalman and particle filtering are applied to simple models of the glucose dynamics. The particle filter enables the joint filtering and calibration of the sensor. The results show that the proposed filters lead to significant reduction in the estimation error with computational cost well within the capabilities of modern digital equipment. Additionally, the filters can be used for the automatic recognition of sensor faults. These results show that suitable filters can help in the construction of an artificial pancreas.
+
+@highlight The importance of filtering to the enhancement of the data of a CGMS is illustrated.
+@highlight Kalman filtering applied to simple models of glucose dynamics performs well.
+@highlight Particle filtering performs both filtering and calibration further reducing error.
+@highlight A fault detection scheme is proposed, recognizing faulty intervals or recordings.
+@highlight The error reduction obtained can help integrating a CGMS into an Artificial Pancreas.

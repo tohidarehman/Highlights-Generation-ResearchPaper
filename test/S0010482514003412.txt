@@ -1,0 +1,6 @@
+ The low-weight newborns and especially the premature infants have difficulty in maintaining their temperature in the range considered to be normal. Several studies revealed the importance of thermal environment and moisture to increase the survival rate of newborns. This work models the process of heat exchange and energy balance in premature newborns during the first hours of life in a closed incubator. In addition, a control problem was proposed and solved in order to maintain thermal stability of premature newborns to increase their rate of survival and weight. For this purpose, we propose an algorithm to control the temperature inside the incubator. It takes into account the measurements of the body temperature of a premature newborn which are recorded continuously. We show that using this model the temperature of a premature newborn inside the incubator can be kept in a thermal stability range.
+
+@highlight We propose a model for heat transfer between a premature infant and incubator.
+@highlight The model incorporates the main mechanisms of generation and heat exchange.
+@highlight We formulate a functional to minimize the metabolic cost of newborn.
+@highlight Minimum functional generates the baby׳s temperature is in neutral temperature ranges.

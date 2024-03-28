@@ -1,0 +1,7 @@
+ An n-unit system provisioned with a single warm standby is investigated. The individual units are subject to repairable failures, while the entire system is subject to a nonrepairable failure at some finite but random time in the future. System performance measures for systems observed over a time interval of random duration are introduced. Two models to compute these system performance measures, one employing a policy of block replacement, and the other without a block replacement policy, are developed. Distributional assumptions involving distributions of phase type introduce matrix Laplace transformations into the calculations of the performance measures. It is shown that these measures are easily carried out on a laptop computer using Microsoft Excel. A simple economic model is used to illustrate how the performance measures may be used to determine optimal economic design specifications for the warm standby.
+
+@highlight System with warm standby is subject to repairable and nonrepairable failures.
+@highlight System performance measures developed specifically for this type of system.
+@highlight Models with and without block replacement analyzed.
+@highlight Distributional assumptions introduce matrix-valued Laplace transformations.
+@highlight Computational examples implemented in Microsoft Excel.

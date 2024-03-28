@@ -1,0 +1,7 @@
+ Recent advances in technology are changing the way how everyday activities are performed. Technologies in the traffic domain provide diverse instruments of gathering and analysing data for more fuel-efficient, safe, and convenient travelling for both drivers and passengers. In this article, we propose a reference architecture for a context-aware driving assistant system. Moreover, we exemplify this architecture with a real prototype of a driving assistance system called Driving coach. This prototype collects, fuses and analyses diverse information, like digital map, weather, traffic situation, as well as vehicle information to provide drivers in-depth information regarding their previous trip along with personalised hints to improve their fuel-efficient driving in the future. The Driving coach system monitors its own performance, as well as driver feedback to correct itself to serve the driver more appropriately.
+
+@highlight We propose a reference architecture for context-aware driving assistance systems.
+@highlight We implement a driving assistance system according to this architecture.
+@highlight System fuses real-world information from on-board sensors and external services.
+@highlight System adapts decision-making based on driver progress and feedback.
+@highlight System is implemented and operates with real data for real trips and real user.

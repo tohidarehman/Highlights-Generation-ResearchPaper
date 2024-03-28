@@ -1,0 +1,7 @@
+ We propose a fuzzy ontology for human activity representation, which allows us to model and reason about vague, incomplete, and uncertain knowledge. Some relevant subdomains found to be missing in previous proposed ontologies for this domain were modelled as well. The resulting fuzzy OWL 2 ontology is able to model uncertain knowledge and represent temporal relationships between activities using an underlying fuzzy state machine representation. We provide a proof of concept of the approach in work scenarios such as the office domain, and also make experiments to emphasize the benefits of our approach with respect to crisp ontologies. As a result, we demonstrate that the inclusion of fuzzy concepts and relations in the ontology provide benefits during the recognition process with respect to crisp approaches.
+
+@highlight Human activity modelling ontologies for imprecise knowledge reasoning are inexistent.
+@highlight We develop a fuzzy ontology to deal with uncertain or vague knowledge representation.
+@highlight We show examples of use of the ontology in different scenarios within office domain.
+@highlight We create a dataset with rules and queries and compare fuzzy and crisp reasoning.
+@highlight We demonstrate that fuzzy ontological reasoning improves accuracy and it is scalable.

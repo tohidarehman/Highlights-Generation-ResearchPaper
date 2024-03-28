@@ -1,0 +1,6 @@
+ Facility dispersion problems involve placing a number of facilities as far apart from each other as possible. Four different criteria of facility dispersal have been proposed in the literature . Despite their formal differences, these four classic dispersion objectives can be expressed in a unified model called the partial-sum dispersion model . In this paper,. We also present a fast branch-and-bound based exact algorithm.
+
+@highlight We operationalize the partial-sum dispersion model that unifies four classic models.
+@highlight We develop a more compact ILP formulation that is faster on average.
+@highlight We developed an exact method that is orders of magnitude faster.
+@highlight All problem instances can be solved on a medium sized problem in 20 seconds.

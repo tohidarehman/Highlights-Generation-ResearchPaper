@@ -1,0 +1,6 @@
+ For constrained multi-objective optimization problems (CMOPs), how to preserve infeasible individuals and make use of them is a problem to be solved. In this case, a modified objective function method with feasible-guiding strategy on the basis of NSGA-II is proposed to handle CMOPs in this paper. The main idea of proposed algorithm is to modify the objective function values of an individual with its constraint violation values and true objective function values, of which a feasibility ratio fed back from current population is used to keep the balance, and then the feasible-guiding strategy is adopted to make use of preserved infeasible individuals. In this way, non-dominated solutions, obtained from proposed algorithm, show superiority on convergence and diversity of distribution, which can be confirmed by the comparison experiment results with other two CMOEAs on commonly used constrained test problems.
+
+@highlight A modified objective function method is proposed to handle constraints in CMOPs.
+@highlight A feasible-guiding strategy is adopted to guide the evolution of infeasible individuals.
+@highlight Compared experimental results show the superiority of proposed objective function method.
+@highlight Feasible-guiding strategy promotes the convergence of obtained non-nominated solutions.

@@ -1,0 +1,7 @@
+ In the United States, about 600,000 people die of heart disease every year. The annual cost of care services, medications, and lost productivity reportedly exceeds 108.9billion dollars. Effective disease risk assessment is critical to prevention, care, and treatment planning. Recent advancements in text analytics have opened up new possibilities of using the rich information in electronic medical records (EMRs) to identify relevant risk factors. The 2014 i2b2/UTHealth Challenge brought together researchers and practitioners of clinical natural language processing (NLP) to tackle the identification of heart disease risk factors reported in EMRs. We participated in this track and developed an NLP system by leveraging existing tools and resources, both public and proprietary. Our system was a hybrid of several machine-learning and rule-based components. The system achieved an overall F1 score of 0.9185, with a recall of 0.9409 and a precision of 0.8972.
+
+@highlight Risk factor detection in electronic medical records (EMR) was automated.
+@highlight Existing tools and techniques were leveraged to build detection systems.
+@highlight A general binary classification system was used to extract various risk factors.
+@highlight Additional classifiers were built for subsets of target risk factors.
+@highlight The hybrid approach combining our systems achieved F-score of 0.92.

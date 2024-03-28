@@ -1,0 +1,7 @@
+ This article presents the working principle of an algorithm designed for the purpose of examining a section of the snail shell canal. The procedure of scanning the specimens is described as well as the tests performed using the proposed algorithm. Also, the digital models used for testing the algorithm are described. The article contains a description of the initial processing of the data, including segmentation and detection of the edges of the image. A flowchart of the algorithm is presented together with its implementation. The data obtained in the course of the microtomographic scanning of one of the snails and a digital model of a canal created for this purpose were subjected to the application of the measurement algorithm. This algorithm was aimed at conducting a spatial analysis of the varying dimensions in the canal section. The process of applying the algorithm and the measurement errors are presented and discussed on the basis of the results.
+
+@highlight A new method of measuring cavities is proposed.
+@highlight Described algorithm shows its unique behavior steering by selected settings.
+@highlight The method proves usability of solution in measuring snail’s shell patency.
+@highlight The definition of snail’s shell can be successfully carry on based on XMT images.
+@highlight Results of have been shown using land snail samples and test models.

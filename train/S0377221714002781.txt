@@ -1,0 +1,6 @@
+ In this paper, we consider coordinated production and interstage batch delivery scheduling problems, where a third-party logistics provider (3PP) delivers semi-finished products in batches from one production location to another production location belonging to the same manufacturer. A batch cannot be delivered until all jobs of the batch are completed at the upstream stage. The 3PP is required to deliver each product within a time T from its release at the upstream stage. We consider two transportation modes: regular transportation, for which delivery departure times are fixed at the beginning, and express transportation, for which delivery departure times are flexible. We analyze the problems faced by the 3PP when either the manufacturer dominates or the 3PP dominates. In this context, we investigate the complexity of several problems, providing polynomiality and NP-completeness results.
+
+@highlight We model coordinated production and interstage batch delivery scheduling problems.
+@highlight Delivery is outsourced to a third-party logistics provider (3PP) that uses two transportation modes.
+@highlight We analyze the problems faced by the 3PP when either the manufacturer dominates or the 3PP dominates.
+@highlight We investigate the complexity of several problems, providing polynomiality and NPcompleteness results.

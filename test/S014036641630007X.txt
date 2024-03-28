@@ -1,0 +1,6 @@
+ Multipath TCP is a recent TCP extension that enables multihomed hosts like smartphones to send and receive data over multiple interfaces. Despite the growing interest in this new extension, little is known about its behavior in real networks. We analyze a five-month trace collected on multipath-tcp.org using Multipath TCP. This first detailed study of real Multipath TCP traffic reveals several interesting points about its behavior in the wild. With packets from thousands of hosts using IPv4 and/or IPv6, we confirm that Multipath TCP correctly passes through a wide range of Internet paths. We observe long Multipath TCP connections that benefit from handovers and also connections composed of subflows having very different round-trip-times. We also analyze some inefficiencies in the current Multipath TCP implementations and quantify the importance of reinjections, i.e. the transmission of the same data over two or more subflows.
+
+@highlight We analyse a Multipath TCP dataset collected from multipath-tcp.org consecutively in 5 months.
+@highlight Multipath TCP correctly passes through a wide range of Internet paths.
+@highlight Current implementations of Multipath TCP try to utilise additional paths as quickly as possible.
+@highlight Multipath TCP could be further improved in terms of traffic overhead and path management.

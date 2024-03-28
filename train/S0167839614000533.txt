@@ -1,0 +1,5 @@
+ By means of bond theory, we study Stewart Gough (SG) platforms with n-dimensional self-motions with . It turns out that only architecturally singular manipulators can possess these self-motions. Based on this result, we present a complete list of all SG platforms, which have n-dimensional self-motions. Therefore this paper also solves the famous Borel Bricard problem for n-dimensional motions. We also give some remarks and a new result on SG platforms with 2-dimensional self-motions; nevertheless a full discussion of this case remains open.
+
+@highlight We list all Stewart Gough platforms, which have n-dimensional self-motions with
+@highlight Therefore we solve the Borel Bricard problem for n-dimensional motions.
+@highlight We also give remarks and a new result on hexapods with 2-dimensional self-motions.

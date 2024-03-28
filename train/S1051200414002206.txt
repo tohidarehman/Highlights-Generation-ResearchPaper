@@ -1,0 +1,7 @@
+ In this paper, we extend the concept of the optimal similarity measure, originally developed for Zernike moments (ZMs) which belong to a class of orthogonal rotation invariant moments (ORIMs), to angular radial transform (ART) which is non-orthogonal. The proposed distance measure not only uses the magnitude of the ART coefficients but also incorporates phase component unlike the existing -distance and -distance measures which use only the magnitude of ART in image matching problems. Experimental results show that the new distance measure outperforms -distance measure. The performance of the proposed method is highly robust to Gaussian noise and salt-and-pepper noise even at very high level of noise. The results are compared with the ZMs-based optimal similarity measure. It is shown that the recognition rate of the proposed distance measure is comparable to that of the ZMs, however, at very low computational complexity.
+
+@highlight A new improved distance measure for angular radial transform (ART) is developed.
+@highlight Recognition performance of the proposed method is better than the Euclidean distance measure.
+@highlight The proposed similarity measure provides excellent recognition performance on noisy images.
+@highlight The performance of ART is comparable or better than the Zernike moments (ZMs) features.
+@highlight ART is very fast and simple to implement than ZMs.

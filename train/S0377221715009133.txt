@@ -1,0 +1,6 @@
+ We introduce a new binary quadratic program that subsumes the well known quadratic assignment problem. This problem is shown to be NP-hard when some associated parameters are restricted to simple values but solvable in polynomial time when some other parameter values are restricted. Three different neighborhood structures are introduced. A best solution in all these neighborhoods can be identified in polynomial time even though two of these neighborhoods are of exponential size. Different local search algorithms and their enhancements using tabu search are developed using these neighborhoods. Experimental analysis show that two hybrid algorithms obtained by combining these neighborhoods in specific ways yield results that are superior to the algorithms that use these neighborhoods separately. Extensive computational results and statistical analysis of the resulting data are presented.
+
+@highlight We introduced a new model that subsumes the well-known quadratic assignment problem.
+@highlight We developed meta-heuristic algorithms using three neighborhoods and their unions.
+@highlight Experimental analysis disclosed the superiority of hybrid algorithms.
+@highlight Complexity results and polynomially solvable special cases are also established.

@@ -1,0 +1,6 @@
+ Generalized quantum splines are piecewise polynomials whose generalized quantum derivatives agree up to some order at the joins. Just like classical and quantum splines, generalized quantum splines admit a canonical basis with compact support: the generalized quantum B-splines. Here we study generalized quantum B-spline bases and generalized quantum B-spline curves, using a very general variant of the blossom: the generalized quantum blossom. Applying the generalized quantum blossom, we develop algorithms and identities for generalized quantum B-spline bases and generalized quantum B-spline curves, including generalized quantum variants of the de Boor algorithms for recursive evaluation and generalized quantum differentiation, knot insertion procedures for converting from generalized quantum B-spline to piecewise generalized quantum Bézier form, and a generalized quantum variant of Marsden's identity.
+
+@highlight Quantum splines are extended to splines whose divided differences agree at the joins.
+@highlight Generalized quantum blossoms are used to derive properties of generalized quantum splines.
+@highlight Algorithms and formulas are extended from quantum splines to generalized quantum splines.
+@highlight Generalized quantum B-spline bases and generalized quantum B-spline curves are also studied.

@@ -1,0 +1,6 @@
+ We present a Markov decision process (MDP) model to determine the optimal timing of blood pressure and cholesterol medications. We study the use of our model for a high-risk population of patients with type 2 diabetes; however, the model and methods we present are applicable to the general population. We compare the optimal policies based on our MDP to published guidelines for initiation of blood pressure and cholesterol medications over the course of a patient’s lifetime. We also present a bicriteria analysis that illustrates the trade off between quality-adjusted life years and costs of treatment.
+
+@highlight We model the simultaneous control of blood pressure and cholesterol for patients with type 2 diabetes.
+@highlight We present a trade-off analysis between costs and quality-adjusted life years.
+@highlight We compare optimal guidelines to current treatment guidelines.
+@highlight Results indicate that coordination of treatment can reduce costs while improving length and quality of life.

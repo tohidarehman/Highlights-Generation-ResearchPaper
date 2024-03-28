@@ -1,0 +1,6 @@
+ Orthogonal Frequency Division Multiplexing (OFDM) system has lead to significant advancement in wireless communication systems. In OFDM system multi-carriers are present. During modulation the sub-carriers are added together with same phase which increases the value of Peak-to-Average Power Ratio (PAPR). High PAPR leads to more interference and reduced resolution of analog to digital converter (A/D) and digital to analog converter (D/A). The Partial Transmit Sequence (PTS) is a popular technique used for PAPR reduction in OFDM systems. The modified PTS technique proposed in this paper overcomes the drawbacks of Original PTS (O-PTS) by making use of Group Phase Weighting Factor (GPW) and Recursive Phase Weighting Factor (RPW) along with All Pass Filtering. Simulations show that the proposed scheme performs very well in terms of PAPR and achieves almost the same Bit Error Rate (BER) performance under Rayleigh fading channel.
+
+@highlight The major drawback of OFDM system is its high PAPR.
+@highlight The drawback is overcome by use of GPW and RPW with All Pass Filtering technique.
+@highlight The GPW and RPW generate more optimum phase factors when implemented together.
+@highlight All Pass Filtering technique maintains magnitude response and optimum phase shift.

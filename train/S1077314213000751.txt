@@ -1,0 +1,6 @@
+ In recent years, gradient vector flow (GVF) based algorithms have been successfully used to segment a variety of 2-D and 3-D imagery. However, due to the compromise of internal and external energy forces within the resulting partial differential equations, these methods may lead to biased segmentation results. In this paper, we propose MSGVF, a mean shift based GVF segmentation algorithm that can successfully locate the correct borders. MSGVF is developed so that when the contour reaches equilibrium, the various forces resulting from the different energy terms are balanced. In addition, the smoothness constraint of image pixels is kept so that over- or under-segmentation can be reduced. Experimental results on publicly accessible datasets of dermoscopic and optic disc images demonstrate that the proposed method effectively detects the borders of the objects of interest.
+
+@highlight Classical GVF based algorithms face challenges such as over- or under-segmentation.
+@highlight Our MSGVF algorithm pursues a minimised combination of mean shift and GVF terms.
+@highlight The proposed algorithm is evaluated against two publicly accessible databases.
+@highlight MSGVF achieves better segmentation performance than the classical methods.

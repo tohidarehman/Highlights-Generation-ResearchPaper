@@ -1,0 +1,7 @@
+ Improper camera orientation produces convergent vertical lines (keystone distortion) and skewed horizon lines (horizon distortion) in digital pictures; an a-posteriori processing is then necessary to obtain appealing pictures. We show here that, after accurate calibration, the camera on-board accelerometer can be used to automatically generate an alternative perspective view from a virtual camera, leading to images with residual keystone and horizon distortions that are essentially imperceptible at visual inspection. Furthermore, we describe the uncertainty on the position of each pixel in the corrected image with respect to the accelerometer noise. Experimental results show a similar accuracy for a smartphone and for a digital reflex camera. The method can find application in customer imaging devices as well as in the computer vision field, especially when reference vertical and horizontal features are not easily detectable in the image.
+
+@highlight On-board accelerometers make feasible perspective correction in digital photography.
+@highlight Perspective correction is obtained with no human intervention.
+@highlight Perspective correction can be applied also to zoom lenses.
+@highlight Accelerometer calibration is necessary to get high accuracy.
+@highlight Accelerometer pose has to be estimated carefully to get high accuracy.

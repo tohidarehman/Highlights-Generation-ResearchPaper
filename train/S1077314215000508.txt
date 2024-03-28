@@ -1,0 +1,7 @@
+ The movement of a vehicle is much affected by surrounding environments such as road shapes and other traffic participants. This paper proposes a new vehicle motion prediction method to predict future motion of an on-road vehicle which is observed by a stereo camera system mounted on a moving vehicle. Our proposed algorithm considers not only the history movement of the observed vehicle, but also the environment configuration around the vehicle. To find feasible paths under a dynamic road environment, the Rapidly-Exploring Random Tree (RRT) is used. A simulation based method is then applied to generate future trajectories by combining results from RRT and a motion prediction algorithm modelled as a Gaussian Mixture Model (GMM). Our experiments show that our approach can predict future motion of a vehicle accurately, and outperforms previous works where only motion history is considered for motion prediction.
+
+@highlight A new methodology for an on-road vehicle motion prediction for several seconds.
+@highlight Our algorithm is operated on a stereo camera system mounted on a moving vehicle.
+@highlight We use a vehicle motion model based on the Gaussian Mixture Model (GMM).
+@highlight The Rapidly-Exploring Random Tree (RRT) allows to consider surrounding environments.
+@highlight We propose a simulation based method to combine the results of the RRT and GMM.

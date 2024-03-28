@@ -1,0 +1,6 @@
+ Recent hardware technologies have enabled acquisition of 3D point clouds from real world scenes in real time. A variety of interactive applications with the 3D world can be developed on top of this new technological scenario. However, a main problem that still remains is that most processing techniques for such 3D point clouds are computationally intensive, requiring optimized approaches to handle such images, especially when real time performance is required. As a possible solution, we propose the use of a 3D moving fovea based on a multiresolution technique that processes parts of the acquired scene using multiple levels of resolution. Such approach can be used to identify objects in point clouds with efficient timing. Experiments show that the use of the moving fovea shows a seven fold performance gain in processing time while keeping 91.6% of true recognition rate in comparison with state-of-the-art 3D object recognition methods.
+
+@highlight Object recognition: foveation speedup 7x compared to the non-foveated approach.
+@highlight True recognitions rates are kept high with false recognitions at 8.3%.
+@highlight Faster setups with 91.6% recognition rate and 14x improvement were also achieved.
+@highlight The slowest configuration still shows almost 3x faster computing times

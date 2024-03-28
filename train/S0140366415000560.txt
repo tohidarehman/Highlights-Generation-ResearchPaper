@@ -1,0 +1,7 @@
+ In typical mobile sensing architectures, sensing data are collected from users and stored in centralized servers at third parties, making it difficult to effectively protect users’ privacy. A better way to protect privacy is to upload sensing data on personal data stores, which are owned and controlled by the users, enabling them to supervise and limit personal data disclosure and exercise access control to their data. The problem however remains how data requesters can discover the users who can offer them the data they need. In this paper we suggest a mobile sensing platform that enables data requesters to discover data producers within a specific geographic region and acquire their data. Our platform protects the anonymity of both requesters and producers, while at the same time it enables the incorporation of trust frameworks, incentive mechanisms and privacy-respecting reputation schemes. We also present extensive experimental results that demonstrate the efficiency of our approach in terms of scalability, load balancing and performance.
+
+@highlight We consider privacy for both data consumers and data producers in mobile sensing.
+@highlight We present an integrated platform that considers social aspects of mobile sensing.
+@highlight Data providers can define their own privacy preferences and control how much they share.
+@highlight The platform provider is also considered by ensuring only registered users can request data.
+@highlight We present a distributed solution that requires no trusted third parties.

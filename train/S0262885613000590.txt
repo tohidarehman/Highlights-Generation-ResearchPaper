@@ -1,0 +1,6 @@
+ In this paper, we introduce a novel framework for low-level image processing and analysis. First, we process images with very simple, difference-based filter functions. Second, we fit the 2-parameter Weibull distribution to the filtered output. This maps each image to the 2D Weibull manifold. Third, we exploit the information geometry of this manifold and solve low-level image processing tasks as minimisation problems on point sets. For a proof-of-concept example, we examine the image autofocusing task. We propose appropriate cost functions together with a simple implicitly-constrained manifold optimisation algorithm and show that our framework compares very favourably against common autofocus methods from literature. In particular, our approach exhibits the best overall performance in terms of combined speed and accuracy.
+
+@highlight We model filtered image responses with the Weibull distribution.
+@highlight We represent images as points on the 2D Weibull manifold.
+@highlight We solve image processing problems as optmisation on the manifold.
+@highlight Application to automatic image focusing

@@ -1,0 +1,7 @@
+ In the context of segmenting a boundary represented solid into topological hexahedra suitable for isogeometric analysis, it is often necessary to split an existing face by constructing auxiliary curves. We consider solids represented as a collection of trimmed spline surfaces, and design a curve which can split the domain of a trimmed surface into two pieces satisfying the following criteria: the curve must not intersect the boundary of the original domain, it must not intersect itself, the two resulting pieces should have good shape, and the endpoints and the tangents of the curve at the endpoints must be equal to specified values.
+
+@highlight A method is proposed for splitting a trimmed surface into two with a curve.
+@highlight The curve is required to have specified endpoints and tangents at the endpoints.
+@highlight The splitting is central to an algorithm for isogeometric segmentation of 3D models.
+@highlight The curve optimizes a penalty function that measures the quality of the shapes.
+@highlight We study regularity properties and methods for computing the penalty function.

@@ -1,0 +1,6 @@
+ The paper deals with the level control of a Modified Quadruple Tank Process (MQTP). In that, the interaction is introduced between the bottom two tanks which causes an additional non-linear dynamical component of the conventional Quadruple Tank Process (QTP). Since the process has an inbuilt and imposed uncertainties, a robust Sliding Mode Controller (SMC) is initially designed to drive the system to the desired operating point via the sliding surface. Further, the conventional sliding surface is altered with fractional order dynamics. It makes a Fractional-Order SMC (FrSMC) and is proposed for both finite time convergence and counteract to the uncertainties present in the system. The undesirable chattering effect is reduced by introducing a novel exponential Multi-Level Switching (MLS) technique in order to protect control valve. Simulation results show the efficacy of the proposed Multi-Level Switching FrSMC (MFrSMC) in terms of fast convergence with high robustness when compared to conventional SMC.
+
+@highlight Devised a new and complex, nonlinear process model named as MQTP.
+@highlight Initial implementation of nonlinear and robust control over the MQTP using SMC.
+@highlight Proposed a FrSMC for Finite-Time-Convergence with adequate mathematical proofs.
+@highlight Implemented a novel approach for reducing the chattering effect by means of MLS.

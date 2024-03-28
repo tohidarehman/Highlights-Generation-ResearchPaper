@@ -1,0 +1,7 @@
+ Using a unique data set with 168 ski resorts located in France, this paper investigates the relationship between lift ticket prices and supply-related characteristics of ski resorts. A non-parametric analysis combined with a principal component analysis is used to identify the set of efficient ski resorts, defined as those where the lift ticket price is the cheapest for a given level of quality. Results show that the average inefficiency per lift ticket price is less than 1.5euros for resorts located in the Pyrenees and the Southern Alps. The average inefficiency is three times higher for ski resorts located in the Northern Alps, which is explained by the presence of large connected ski areas offering many more runs for a small surcharge.
+
+@highlight Lift ticket prices are correlated to attributes of ski resorts.
+@highlight Efficient resorts are those where ticket price is the cheapest for a given quality.
+@highlight The FDH outer frontier is estimated for 168 French ski resorts.
+@highlight The average inefficiency is much higher for ski resorts located in the Northern Alps.
+@highlight Connected ski areas in the Northern Alps offer many more runs for a small surcharge.

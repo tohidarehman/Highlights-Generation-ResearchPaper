@@ -1,0 +1,5 @@
+ Congestion is a major cause of inefficiency in air transportation. A question is whether delays during the arrival phase of a flight can be absorbed more fuel-efficiently in the future. In this context, we analyze Japan’s flow strategy empirically and use queueing techniques in order to gain insight into the generation of the observed delays. Based on this, we derive a rule to balance congestion delays more efficiently between ground and en-route. Whether fuel efficiency can be further improved or not will depend on the willingness to review the concept of runway pressure.
+
+@highlight Pre-scheduled traffic flows exhibit a serial correlation structure.
+@highlight We solved a special case and analyzed the transient properties of the corresponding queueing system.
+@highlight Based on this we derived a strategic rule for delay management.

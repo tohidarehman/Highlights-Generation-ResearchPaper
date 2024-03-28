@@ -1,0 +1,5 @@
+ We study the predictive power of industry-specific economic sentiment indicators for future macro-economic developments. In addition to the sentiment of firms towards their own business situation, we study their sentiment with respect to the banking sector – their main credit providers. The use of industry-specific sentiment indicators results in a high-dimensional forecasting problem. To identify the most predictive industries, we present a bootstrap Granger Causality test based on the Adaptive Lasso. This test is more powerful than the standard Wald test in such high-dimensional settings. Forecast accuracy is improved by using only the most predictive industries rather than all industries.
+
+@highlight We study the predictive power of industry-specific sentiment indicators for future macro-economic growth.
+@highlight To this end, we use a high-dimensional Granger Causality test.
+@highlight Forecast accuracy is improved by using only the most predictive industries rather than all.

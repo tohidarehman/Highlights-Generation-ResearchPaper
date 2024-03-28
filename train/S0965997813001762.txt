@@ -1,0 +1,6 @@
+ The full description of a two-stage speed reducer generally requires a large number of design variables (typically, well over ten), resulting a very large and heavily constrained design space. This paper presents the specific case of the complete automated optimal design with Genetic Algorithms of a two-stage helical coaxial speed reducer. The objective function (i.e. the mass of the entire speed reducer) was described by a set of 17 mixed design variables (i.e. integer, discrete and real) and also was subjected to 76 highly non-linear constraints. It can be observed that the proposed Genetic Algorithm offers better design solutions as compared with the results obtained by using the traditional design method (i.e. a commonly trial and cut error).
+
+@highlight A Genetic Algorithm (GA) for automated optimal design of a two-stage speed reducer is introduced.
+@highlight The objective function is the mass of the complete speed reducer.
+@highlight A unique trade-off between the mass and service life is presented.
+@highlight The proposed GA offers better results as opposite to traditional design methods.

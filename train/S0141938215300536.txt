@@ -1,0 +1,5 @@
+ The MoO3 doped N,N′-bis-(1-naphthyl)-diphenyl-1,1′-biphenyl-4,4′-diamine (NPB:MoO3 in 2:1 mass ratio) and 4,4′-N,N′-dicarbazole-biphenyl (CBP:MoO3 in 2:1 mass ratio) as p-doped hole transport layers have been used in inverted organic light emitting diodes (IOLEDs). Compared to the NPB/20nm NPB:MoO3 structure, the NPB/10nm CBP:MoO3/10nm NPB:MoO3 structure showed increased device performance, mostly because the hole transport barrier from CBP:MoO3 to NPB was smaller than that from NPB:MoO3 to NPB; it also presented improved device performance than the NPB/20nm CBP:MoO3 structure, ascribed to the higher conductivity of NPB:MoO3 than that of CBP:MoO3. We provide a manageable way to unlock the merits of p-doped hole transport layers for markedly increasing the performance of IOLEDs.
+
+@highlight Inverted OLEDs with two combined p-doped layers show enhanced hole current.
+@highlight The combined NPB:MoO3 and CBP:MoO3 outperform single NPB:MoO3 and CBP:MoO3.
+@highlight Using two p-doped layers gives better balance between hole conduction and barrier.

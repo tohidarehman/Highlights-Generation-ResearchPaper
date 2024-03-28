@@ -1,0 +1,6 @@
+ Space or voxel carving  is a technique for creating a three-dimensional reconstruction of an object from a series of two-dimensional images captured from cameras placed around the object at different viewing angles. However, little work has been done to date on evaluating the quality of space carving results. This paper extends the work reported in , where application of persistent homology was initially proposed as a tool for providing a topological analysis of the carving process along the sequence of 3D reconstructions with increasing number of cameras. We give now a more extensive treatment by:  developing the formal framework by which persistent homology can be applied in this context;  computing persistent homology of the 3D reconstructions of 66 new frames, including different poses, resolutions and camera orders;  studying what information about stability, topological correctness and influence of the camera orders in the carving performance can be drawn from the computed barcodes.
+
+@highlight Application of persistent homology to the evaluation of a method for 3D reconstruction.
+@highlight Computation of persistent homology of 66 sequences of reconstructions by voxel carving.
+@highlight Study of stability, topological correctness and influence of camera order in the carvings.
+@highlight Proposals for future research lines.

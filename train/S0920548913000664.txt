@@ -1,0 +1,7 @@
+ This paper deals with the investigation of PESQ's (Perceptual Evaluation of Speech Quality; also known as ITU-T Recommendation P.862) behavior under independent and dependent loss conditions from a speech activity parameter perspective. The results show that an increase in amount of speech in the reference signal (expressed by the activity parameter) may result in an increase of the PESQ sensitivity to packet loss change as well as PESQ's prediction accuracy improvement. On the other hand, it seems that human brain is a bit less sensitive to loss of some parts of words than PESQ. The reasons for those findings are particularly discussed.
+
+@highlight Speech activity factor is one of the important reference signal characteristics, especially when comes to time-varying impairments, like packet loss, etc.
+@highlight This parameter is defined very broadly by the ITU-T Recommendation P.862.3.
+@highlight The impact of this parameter on speech quality is thoroughly investigated from subjective and objective perspective (quality predictions provided by PESQ) in this study/paper.
+@highlight Higher values of the parameter result in higher PESQ sensitivity to loss change as well as PESQ’s predictions accuracy improvement.
+@highlight Human brain is a bit less sensitive to loss of some parts of words than PESQ.

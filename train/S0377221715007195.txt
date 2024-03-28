@@ -1,0 +1,6 @@
+ This paper presents a cost allocation scheme for a horizontal cooperation of traveling salesmen that is implemented a priori and provides expected costs for the coalition members. The cost allocation is determined using the core concept. To compute the value of the characteristic function over the whole planning horizon the TSP with release dates combined with simulation is used. The developed core computation algorithm, based on mathematical programming techniques, provides a core element or, in case of an empty core, a least-core element. To decrease the computational effort of core computation a row generation procedure is implemented. The developed computation study tests the computational performance of the solution procedure.
+
+@highlight A cooperative TSP model formulation is provided.
+@highlight Release dates are taken into account.
+@highlight A cost allocation for the salesmen is defined by means of a cooperative game theory solution concept, i.e. the (least) core.
+@highlight Mathematical programming is used to compute a (least) core element.

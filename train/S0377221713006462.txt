@@ -1,0 +1,7 @@
+ This paper considers a manufacturing supply chain with multiple suppliers in the presence of multiple uncertainties such as uncertain material supplies, stochastic production times, and random customer demands. The system is subject to supply and production capacity constraints. We formulate the integrated inventory management policy for raw material procurement and production control using the stochastic dynamic programming approach. We then investigate the supplier base reduction strategies and the supplier differentiation issue under the integrated inventory management policy. The qualitative relationships between the supplier base size, the supplier capabilities and the total expected cost are established. Insights into differentiating the procurement decisions to different suppliers are provided. The model further enables us to quantitatively achieve the trade-off between the supplier base reduction and the supplier capability improvement, and quantify the supplier differentiation in terms of procurement decisions. Numerical examples are given to illustrate the results.
+
+@highlight Model integrated inventory management with multiple suppliers and multiple uncertainties.
+@highlight Develop stochastic dynamic programming model to obtain optimal management policy.
+@highlight Establish qualitative relationships of supplier base size and capabilities with total cost.
+@highlight Achieve balance between supplier base reduction and supplier capability improvement.
+@highlight Differentiate the optimal procurement decisions between different suppliers.

@@ -1,0 +1,9 @@
+ The aim of this study is to develop an effective method to analyze regions of interest (ROIs). Two experiments were conducted at different times using different groups of observers with different images on different displays. Observers’ eye-movement data were collected. Fixation maps showing CIELAB L ∗ values were created. The ΔL ∗ values between the two maps were used to quantify differences in visual fields, counting methods, observer variability and repeatability between the two experiments. The results showed that fixation maps can be used to effectively analyze the distribution of eye movements between images. The ΔL ∗ value calculated for two fixation maps is easy to understand and computes differences based only on ROIs more effectively than differences based on the entire image. The results from the two experiments were consistent, indicating that eye-tracking data are robust for evaluating image quality.
+
+@highlight We develop an effective method to analyze human’s regions of interest (ROI).
+@highlight Results of two experiments can be compared to test the robustness of the method.
+@highlight The CIEL
+@highlight ∗ has been analyze to check the amount of variation between fixation maps.
+@highlight The fixation map can be easy used to analyze the ROIs between images.
+@highlight The delta L
+@highlight ∗ value is more effective by computing the fixation map of entire image.

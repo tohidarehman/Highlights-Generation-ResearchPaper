@@ -1,0 +1,6 @@
+ A cooperative game consists of a set of players and a characteristic function determining the maximal gain or minimal cost that every subset of players can achieve when they decide to cooperate, regardless of the actions that the other players take. The relationships of closeness among the players should modify the bargaining among them and therefore their payoffs. The first models that have studied this closeness used a priori unions or undirected graphs. In the a priori union model a partition of the big coalition is supposed. Each element of the partition represents a group of players with the same interests. The groups negotiate among them to form the grand coalition and later, inside each one, players bargain among them. Now we propose to use proximity relations to represent leveled closeness of the interests among the players and extending the a priori unions model.
+
+@highlight We consider games adding a proximity relation among the players.
+@highlight We propose a new framework for the Owen model in a fuzzy way.
+@highlight The prox-Owen value in defined by a Choquet integral.
+@highlight An axiomatization is given for the value using the properties of the Choquet integral.

@@ -1,0 +1,6 @@
+ In this paper, a contour-based focus of attention approach is presented. Fast to compute, contour based features are extracted from 3D scenes and matched to model parts of objects. Local reference frames associated with the features induce a translation and rotation, resulting in a vote being cast for the presence of the object in a certain position within the scene. In these positions, HoG features are extracted and SVM classification is applied. Detection results and computation times are compared to those corresponding to a sliding window approach.
+
+@highlight Fast focus of attention mechanism based on 3D contour features
+@highlight Individual contour features cast a vote for the presence of the entire object.
+@highlight Model parts are obtained to generalize across intra-class variations.
+@highlight Considerably speed up is achieved in comparison to a sliding window approach.

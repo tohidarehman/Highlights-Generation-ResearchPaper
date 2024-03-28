@@ -1,0 +1,6 @@
+ Clinical text, such as clinical trial eligibility criteria, is largely underused in state-of-the-art medical search engines due to difficulties of accurate parsing. This paper proposes a novel methodology to derive a semantic index for clinical eligibility documents based on a controlled vocabulary of frequent tags, which are automatically mined from the text. We applied this method to eligibility criteria on ClinicalTrials.gov and report that frequent tags  define an effective and efficient index of clinical trials and  are unlikely to grow radically when the repository increases. We proposed to apply the semantic index to filter clinical trial search results and we concluded that frequent tags reduce the result space more efficiently than an uncontrolled set of UMLS concepts. Overall, unsupervised mining of frequent tags from clinical text leads to an effective semantic index for the clinical eligibility documents and promotes their computational reuse.
+
+@highlight We propose a novel method to mine frequent tags from clinical eligibility text.
+@highlight We indexed eligibility criteria through a controlled vocabulary of frequent tags.
+@highlight Frequent tags were unsupervised mined from clinical trial eligibility criteria.
+@highlight Frequent tags appeared effective to filter search results from ClinicalTrials.gov.

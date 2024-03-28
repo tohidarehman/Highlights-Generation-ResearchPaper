@@ -1,0 +1,7 @@
+ A construction of spline spaces suitable for representing smooth parametric surfaces of arbitrary topological genus and arbitrary order of continuity is proposed. The obtained splines are a direct generalization of bivariate polynomial splines on planar partitions. They are defined as composite functions consisting of rational functions and are parametrized by a single parameter domain, which is a piecewise planar surface, such as a triangulation of a cloud of 3D points. The idea of the construction is to utilize linear rational transformations (or transition maps) to endow the piecewise planar surface with a particular -differentiable structure appropriate for defining rational splines.
+
+@highlight A new approach for constructing smooth parametric surfaces is proposed.
+@highlight Bivariate polynomial splines are generalized to rational splines.
+@highlight The genus and order of continuity of the surfaces can be arbitrary.
+@highlight The construction employs linear rational transformations as transition maps.
+@highlight The computational properties of the new splines are similar to those of the classical splines.

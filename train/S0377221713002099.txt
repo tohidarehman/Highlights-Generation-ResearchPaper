@@ -1,0 +1,5 @@
+ This paper clarifies the relation between decisions of a risk-averse decision maker, based on expected utility theory on the one hand, and spectral risk measures on the other. We first demonstrate that recent approaches to this problem generally do not provide strongly consistent results, i.e. they fail to induce identical preference orders simultaneously with both concepts. Then we detail the relation between risk-averse decisions under the dual theory of choice and spectral risk measures. This relation is identified as the fundamental reason why it is not in general possible to establish a simple one-to-one mapping between expected utility theory and spectral risk measures. We are nonetheless able to use spectral risk measures to model decisions obtained using expected utility theory. Interestingly, this implies that a given utility function corresponds to a whole family of risk spectra.
+
+@highlight We establish a formal link between expected utility and spectral risk measures.
+@highlight We give sufficient conditions for existence and uniqueness of such a link.
+@highlight We provide a spectral version of the Pratt-Arrow risk aversion measure.

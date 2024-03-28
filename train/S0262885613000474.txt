@@ -1,0 +1,7 @@
+ In this paper, an efficient method for text-independent writer identification using a codebook method is proposed. The method uses the occurrence histogram of the shapes in a codebook to create a feature vector for each specific manuscript. For cursive handwritings, a wide variety of different shapes exist in the connected components obtained from the handwriting. Small fragments of connected components are used to avoid complex patterns. Two efficient methods for extracting codes from contours are introduced. One method uses the actual pixel coordinates of contour fragments while the other one uses a linear piece-wise approximation using segment angles and lengths. To evaluate the methods, writer identification is conducted on two English and three Farsi handwriting databases. Both methods show promising performances with the performance of second method being better than the first one.
+
+@highlight Two new codebook based methods for writer identification are proposed.
+@highlight The introduced code extraction methods are very efficient.
+@highlight Optimal parameter values for English and Farsi handwritings are determined.
+@highlight The method is compared with the existing methods comprehensively.
+@highlight The proposed method outperforms existing methods for Farsi and English languages.

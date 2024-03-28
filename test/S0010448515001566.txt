@@ -1,0 +1,6 @@
+ An indirect approach for building hex-dominant meshes is proposed: a tetrahedral mesh is constructed at first and is recombined to create a maximum amount of hexahedra. The efficiency of the recombination process is known to significantly depend on the quality of the sampling of the vertices. A good vertex sampling depends itself on the quality of the underlying frame field that has been used to locate the vertices. An iterative procedure to obtain a high quality three-dimensional frame field is presented. Then, a new point insertion algorithm based on a frame field smoothness is developed. Points are inserted in priority in smooth frame field regions. The new approach is tested and compared with simpler strategies on various geometries. The new method leads to hex-dominant meshes exhibiting either an equivalent or a larger volume ratio of hexahedra (up to 20%) compared to the frontal point insertion approach.
+
+@highlight A frame field smoothness-based algorithm for bulk point insertion is proposed.
+@highlight An iterative procedure for smoothing the frame field is proposed.
+@highlight The impact of geometric singularities on the final mesh is reduced.
+@highlight Volumic ratio of hexahedra is increased up to twenty percents.

@@ -1,0 +1,7 @@
+ A relative pose and target model estimation framework using calibrated multicamera clusters is presented. It is able to accurately track up-to-date relative motion, including scale, between the camera cluster and the (free-moving) completely unknown target object or environment using only image measurements from a set of perspective cameras. The cameras within the cluster may be arranged in any configuration, even such that there is no spatial overlap in their fields-of-view. An analysis of the set of degenerate motions for a cluster composed of three cameras is performed. It is shown that including the third camera eliminates many of the previously known ambiguities for two-camera clusters. The estimator performance and the degeneracy analysis conclusions are confirmed in experiment with ground truth data collected from an optical motion capture system for the proposed three-camera cluster against other camera configurations suggested in the literature.
+
+@highlight A SLAM framework for multicamera clusters is proposed.
+@highlight Use of three or more cameras avoids the need for field of view overlap.
+@highlight System fully initialized using the first set of image measurements.
+@highlight Motions leading to scale ambiguity are identified for three-camera cluster.
+@highlight Experiments demonstrate increased accuracy of solution against two-camera cluster.

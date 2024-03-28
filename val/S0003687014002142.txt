@@ -1,0 +1,6 @@
+ Point, linear and areal elements, which are two-dimensional and of a graphic nature, are the morphological elements employed when designing tactile maps and symbols for visually impaired users. However, beyond the two-dimensional domain, there is a fourth group of elements – volumetric elements – which mapmakers do not take sufficiently into account when it comes to designing tactile maps and symbols. This study analyses the effect of including volumetric, or 3D, symbols within a tactile map. In order to do so, the researchers compared two tactile maps. One of them uses only two-dimensional elements and is produced using thermoforming, one of the most popular systems in this field, while the other includes volumetric symbols, thus highlighting the possibilities opened up by 3D printing, a new area of production. The results of the study show that including 3D symbols improves the efficiency and autonomous use of these products.
+
+@highlight We compare two tactile maps, one of them includes Volumetric (3D) tactile symbols.
+@highlight Improving the interaction between users and tactile maps using 3D symbols together with 2D ones.
+@highlight 3D symbols can be located in less time and, generally, cause fewer errors than flat relief symbols-2D.
+@highlight 3D printing opens new horizons for the design and production of tactile maps for blind users.

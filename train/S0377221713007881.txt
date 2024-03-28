@@ -1,0 +1,7 @@
+ We study a two-machine flowshop scheduling problem with time-dependent deteriorating jobs, i.e. the processing times of jobs are an increasing function of their starting time. The objective is to minimize the total completion time subject to minimum makespan. We propose a mixed integer programming model, and develop two pairwise interchange algorithms and a branch-and-bound procedure to solve the problem while using several dominance conditions to limit the size of the search tree. Several polynomial-time solvable special cases are discussed. Finally, numerical studies are performed to examine the effectiveness and the efficiency of the proposed algorithms.
+
+@highlight Examine a two-machine flowshop scheduling problem with deteriorating jobs.
+@highlight Minimize the total completion time subject to minimum makespan.
+@highlight Propose a mixed integer programming and branch-and-bound algorithm for the problem.
+@highlight Discuss dominant conditions and several polynomial-time solvable special cases.
+@highlight Examine the effectiveness and efficiency of the proposed algorithms.

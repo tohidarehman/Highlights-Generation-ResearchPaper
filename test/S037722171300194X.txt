@@ -1,0 +1,5 @@
+ In this paper we obtain new theoretical results relating the notions of potential optimality and non-dominance without an assumption that a value function exists. In particular, we investigate a decision problem involving the choice of single or multiple best objects. Our results show that the notions of potential optimality and non-dominance are equivalent in a special case of preferences of the decision maker expressed by partial quasi-orders.
+
+@highlight The paper investigates the choice of single or several best objects.
+@highlight Decision maker’s preferences are expressed by means of binary relations.
+@highlight The notions of potential optimality and non-dominance are equivalent.

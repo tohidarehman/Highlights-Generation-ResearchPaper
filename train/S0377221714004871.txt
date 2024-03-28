@@ -1,0 +1,7 @@
+ This paper provides a two-stage decision framework in which two or more parties exercise a jointly held real option. We show that a single party’s timing decision is always socially efficient if it precedes bargaining on the terms of sharing. However, if the sharing rule is agreed before the exercise timing decision is made, then socially optimal timing is attained only if there is a cash payment element in the division of surplus. If the party that chooses the exercise timing can divert value from the project, then the first-best outcome may not be possible at all and the second-best outcome may be implemented using a contract that is generally not optimal in the former cases. Our framework contributes to the understanding of a range of empirical regularities in corporate and entrepreneurial finance.
+
+@highlight We model optimal exercise of real options held jointly by two (or more) firms.
+@highlight The exercise decision is always efficient if it precedes bargaining.
+@highlight In the opposite case, timing is generally only efficient if cash payments are allowed.
+@highlight With value diversion, the second-best outcome may require a contract that is not optimal in former cases.
+@highlight The analyzed decision framework helps to understand a range of empirical regularities.

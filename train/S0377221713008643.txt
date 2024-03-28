@@ -1,0 +1,6 @@
+ In this paper we consider the consistent partition problem in reverse convex and convex mixed-integer programming. In particular we will show that for the considered classes of convex functions, both integer and relaxed systems can be partitioned into two disjoint subsystems, each of which is consistent and defines an unbounded region. The polynomial time algorithm to generate the partition will be proposed and the algorithm for a maximal partition will also be provided.
+
+@highlight We study the consistent partition problem in reverse convex and convex mixed-integer programming.
+@highlight We show that an infeasible system can be partitioned into two disjoint feasible subsystems.
+@highlight Polynomial time algorithm to generate the partition has been proposed.
+@highlight Algorithm for a maximal partition has been provided.

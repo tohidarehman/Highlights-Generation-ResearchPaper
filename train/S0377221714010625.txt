@@ -1,0 +1,7 @@
+ In this paper, firm profit loss is decomposed as the sum of two terms related to the output price uncertainty (price expectation error and risk preference), plus one extra term expressing technical inefficiency. We then describe the implementation of our theoretical model in a robust data envelopment analysis (DEA) framework, which allows an effective and separate estimation of each term of the decomposition. In addition, we offer an operational tool to reveal producers’ risk preferences. A 2009 database of French fattening pig farms is used as an illustration. Our results indicate that risk preference and technical inefficiency are the main sources of profit loss.
+
+@highlight Output price uncertainty causes ex post profit loss.
+@highlight Loss is split into price misprediction, risk preference and technical inefficiency.
+@highlight Our theoretical model is implemented in a data envelopment analysis (DEA).
+@highlight A 2009 database of French fattening pig farms is used as an illustration.
+@highlight Risk preference and technical inefficiency are the main sources of profit loss.

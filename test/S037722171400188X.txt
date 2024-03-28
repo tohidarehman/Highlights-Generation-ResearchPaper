@@ -1,0 +1,6 @@
+ We consider a multi-item spare parts problem with multiple warehouses and two customer classes, where lateral transshipments are used as a differentiation tool. Specifically, premium requests that cannot be met from stock at their preferred warehouse may be satisfied from stock at other warehouses (so-called lateral transshipments). We first derive approximations for the mean waiting time per class in a single-item model with selective lateral transshipments. Next, we embed our method in a multi-item model minimizing the holding costs and costs of lateral and emergency shipments from upstream locations in the network. Compared to the option of using only selective emergency shipments for differentiation, the addition of selective lateral transshipments can lead to significant further cost savings (14% on average).
+
+@highlight We consider a new approach to service differentiation using lateral transshipments.
+@highlight Contrary to earlier literature, we only allow such transshipments for premium customers.
+@highlight We give an effective and efficient heuristic procedure to solve the multi-item problem with various warehouses.
+@highlight We show that selective transshipments have great added value when used with selective emergency shipments.

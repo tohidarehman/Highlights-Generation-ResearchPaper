@@ -1,0 +1,7 @@
+ This paper proposes a singing style control technique based on multiple regression hidden semi-Markov models (MRHSMMs) for changing singing styles and their intensities appearing in synthetic singing voices. In the proposed technique, singing styles and their intensities are represented by low-dimensional vectors called style vectors and are modeled in accordance with the assumption that mean parameters of acoustic models are given as multiple regressions of the style vectors. In the synthesis process, we can weaken or emphasize the intensities of singing styles by setting a desired style vector. In addition, the idea of pitch adaptive training is extended to the case of the MRHSMM to improve the modeling accuracy of pitch associated with musical notes. A novel vibrato modeling technique is also presented to extract vibrato parameters from singing voices that sometimes have unclear vibrato expressions. Subjective evaluations show that we can intuitively control singing styles and their intensities while maintaining the naturalness of synthetic singing voices comparable to the conventional HSMM-based singing voice synthesis.
+
+@highlight We propose singing style control for HMM-based expressive singing voice synthesis.
+@highlight Feature-space pitch adaptive training is proposed for robust pitch modeling.
+@highlight Robust vibrato modeling is proposed for unclear vibrato expressions.
+@highlight Experiments show the techniques improve the naturalness and similarity.
+@highlight Experiments show we can control singing style expressivity intuitively

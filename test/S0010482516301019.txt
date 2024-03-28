@@ -1,0 +1,7 @@
+ This study presents a system that aims to estimate changes in arterial health status in an unobtrusive way. It might be especially useful in long-term self-monitoring of cardiovascular performance for successful treatment and empowerment of patients. This system applies the electrocardiographic and impedance plethysmographic signals acquired using modified body composition scales for the calculation of pulse arrival time, which is directly related to arterial stiffness. The proposed device was tested in a cohort of 14 subjects. The modified scales were compared to the commercial PulsePen tonometer and the results showed significant relationship between these different devices ( 0.93 0.01 ). The system also showed the ability to track small pulse arrival time variations induced by paced respiration. These findings suggest that scales evaluating parameters of cardiovascular function have potential to become a convenient device for self-monitoring of arterial stiffness.
+
+@highlight A concept of scales application for arterial health monitoring is presented.
+@highlight Pulse arrival time is estimated from impedance plethysmogram and electrocardiogram.
+@highlight The proposed method agrees well with arterial tonometry.
+@highlight The system is able to track small changes in pulse arrival time.
+@highlight The system has a potential to be used in clinical and ambulatory settings.

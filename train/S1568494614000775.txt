@@ -1,0 +1,7 @@
+ Detection and diagnosis of faults in cement industry is of great practical significance and paramount importance for the safe operation of the plant. In this paper, the design and development of Adaptive Neuro-Fuzzy Inference System (ANFIS) based fault detection and diagnosis of pneumatic valve used in cooler water spray system in cement industry is discussed. The ANFIS model is used to detect and diagnose the occurrence of various faults in pneumatic valve used in the cooler water spray system. The training and testing data required for model development were generated at normal and faulty conditions of pneumatic valve in a real time laboratory experimental setup. The performance of the developed ANFIS model is compared with the MLFFNN (Multilayer Feed Forward Neural Network) trained by the back propagation algorithm. From the simulation results it is observed that ANFIS performed better than ANN.
+
+@highlight Fault detection and diagnosis is performed for the pneumatic valve which is used in the cooler water spray system in cement industry.
+@highlight The real time laboratory setup was developed to collect the data under normal and abnormal operating condition of the pneumatic valve.
+@highlight From the developed experimental setup the various critical faults were identified and it is observed practically.
+@highlight Then the ANN and ANFIS models were developed to classify the critical faults present in the pneumatic valve.
+@highlight The classification of fault accuracy is also improved in ANFIS when it is compared with MLFFNN.

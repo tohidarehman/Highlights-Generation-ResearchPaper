@@ -1,0 +1,11 @@
+ Traffic accidents are a fact of life. While accidents are sometimes unavoidable, studies show that the long response time required for emergency responders to arrive is a primary reason behind increased fatalities in serious accidents. One way to reduce this response time is to reduce the amount of time it takes to report an accident. Smartphones are ubiquitous and with network connectivity are perfect devices to immediately inform relevant authorities about the occurrence of an accident. This paper presents the development of a system that uses smartphones to automatically detect and report car accidents in a timely manner. Data is continuously collected from the smartphone’s accelerometer and analyzed using Dynamic Time Warping (DTW) and the Hidden Markov Models (HMMs) to determine the severity of the accident, reduce false positives and to notify first responders of the accident location and owner’s medical information. In addition, accidents can be viewed on the smartphone over the Internet offering instant and reliable access to the information concerning the accident. By implementing this application and adding a notification system, the response time required to notify emergency responders of traffic accidents can potentially reduce the response time which may help in reducing fatalities.
+
+@highlight Use smartphones with their built-in smart sensors to automatically detect & report car accidents.
+@highlight Reporting is done as soon as an accident happens.
+@highlight Data is continuously collected from the smartphone’s accelerometer.
+@highlight Data is intelligently analyzed using Hidden Markov Models (HMM) and Dynamic Time Warping (DTW).
+@highlight Data analysis determines the severity of the accident and reduces false positives.
+@highlight Once the accident is confirmed an SMS is sent to the police, medical services, & family members.
+@highlight The SMS includes the accident’s location, severity, and owner’s medical information.
+@highlight The application will notify the emergency responders within seconds of the accident.
+@highlight The application will help reduce the response time and perhaps help in reducing fatalities.

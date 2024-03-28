@@ -1,0 +1,7 @@
+ In this research, critical infrastructure protection against intentional attacks is modeled as a discrete simultaneous game between the protector and the attacker, to model the situation that both players keep the information of their resource allocation secret. We prove that keeping the information regarding protection strategies secret can obtain a better effect of critical infrastructure protection than truthfully disclosing it. Solving a game theoretic problem, even in the case of two players, has been known to be intractable. To deal with this complexity, after proving that pure-strategy Nash equilibrium solutions do not exist for the proposed simultaneous game, a new approach is proposed to identify its mixed-strategy Nash equilibrium solution.
+
+@highlight Present a simultaneous game model for critical infrastructure protection.
+@highlight Optimally allocate limited resources to protect critical infrastructures.
+@highlight Prove pure-strategy Nash equilibrium solution does not exist.
+@highlight Describe approach for identifying a mixed-strategy Nash equilibrium solution.
+@highlight Used IEEE RTS 96 test system as illustration of approach.

@@ -1,0 +1,5 @@
+ We develop a dynamic continuous-time theory of the competitive firm under multiple correlated uncertainties (output price uncertainty and output uncertainty as an example). In doing so, we completely generalize and extend the previous (one-period) comparative statics results (the marginal impact of each parameter on optimal output). Particularly, we relax the assumption of the statistical independence between the risks, and the restrictions on the coefficient of absolute/relative risk aversion. Furthermore, we generally show the impact of one risk on the aversion to another. Moreover, we show the role of the factor of correlation between risks on the decisions of the firm.
+
+@highlight A dynamic model of the firm under multiple correlated uncertainties.
+@highlight Completely generalize the previous (static) results.
+@highlight The impact of one risk on the aversion to another.

@@ -1,0 +1,9 @@
+ The -and- distributional family is generated from a relatively simple transformation of the standard normal and can approximate a broad spectrum of distributions. Consequently, it is easy to use in simulation studies and has been applied in multiple areas, including risk management, stock return analysis and missing data imputation studies. A rapidly convergent quantile based least squares (QLS) estimation method to fit the -and- distributional family parameters is proposed and then extended to a robust version. The robust version is then used as a more general outlier detection approach. Several properties of the QLS method are derived and comparisons made with competing methods through simulation. Real data examples of microarray and stock index data are used as illustrations.
+
+@highlight Introduced simple methods to estimate the
+@highlight -and-
+@highlight distributional parameters.
+@highlight Proved consistency and asymptotic normality.
+@highlight Effective robust version introduced.
+@highlight Robust version used to obtain base distribution for outlier detection.
+@highlight Illustrated use of proposed methods to multiple fields.

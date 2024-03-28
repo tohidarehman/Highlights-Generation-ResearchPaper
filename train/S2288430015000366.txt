@@ -1,0 +1,6 @@
+ One of the current challenges in the domain of the multicriteria shape optimization is to reduce the calculation time required by conventional methods. The high computational cost is due to the high number of simulation or function calls required by these methods. Recently, several studies have been led to overcome this problem by integrating a metamodel in the overall optimization loop. In this paper, we perform a coupling between the Normal Boundary Intersection – NBI – algorithm with Radial Basis Function – RBF – metamodel in order to have a simple tool with a reasonable calculation time to solve multicriteria optimization problems. First, we apply our approach to academic test cases. Then, we validate our method against an industrial case, namely, shape optimization of the bottom of an aerosol can undergoing nonlinear elasto-plastic deformation. Then, in order to select solutions among the Pareto efficient ones, we use the same surrogate approach to implement a method to compute Nash and Kalai–Smorodinsky equilibria.
+
+@highlight We model the aerosol can.
+@highlight We developed an algorithm to solve multicriteria optimization problem.
+@highlight We solve our industrial problem with our developed algorithm.
+@highlight We proposed a new profiles for the bottom of the aerosol can which satisfying the customers requirements.

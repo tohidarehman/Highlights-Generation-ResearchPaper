@@ -1,0 +1,5 @@
+ In this paper, we consider that the judgments provided by the decision makers (DMs) cannot be aggregated and revised, then define them as hesitant judgments to describe the hesitancy experienced by the DMs in decision making. If there exist hesitant judgments in analytic hierarchy process-group decision making (AHP-GDM), then we call it AHP-hesitant group decision making (AHP-HGDM) as an extension of AHP-GDM. Based on hesitant multiplicative preference relations (HMPRs) to collect the hesitant judgments, we develop a hesitant multiplicative programming method (HMPM) as a new prioritization method to derive ratio-scale priorities from HMPRs. The HMPM is discussed in detail with examples to show its advantages and characteristics. The practicality and effectiveness of our methods are illustrated by an example of the water conservancy in China.
+
+@highlight We propose a new analytic hierarchy process-hesitant group decision making.
+@highlight We develop a new optimization method, hesitant fuzzy programming method.
+@highlight Proposed methods are used to deal with the water conservancy in China.

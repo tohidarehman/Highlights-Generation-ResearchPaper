@@ -1,0 +1,5 @@
+ Memory allocation has a significant impact on energy consumption in embedded systems. In this paper, we are interested in dynamic memory allocation for embedded systems with a special emphasis on time performance. We propose two mid-term iterative approaches which are compared with existing long-term and short-term approaches, and with an ILP formulation as well. These approaches rely on solving a static version of the allocation problem and they take advantage of previous works for addressing the static problem. A statistic analysis is carried out for showing that the mid-term approach is the best one in terms of solution quality.
+
+@highlight Two Mid-term iterative approaches for addressing a dynamic memory allocation problem are proposed.
+@highlight They are compared with Short-term and Long-term iterative approaches form the literature, as well as with an ILP formulation.
+@highlight Statistic analysis is used for showing the superiority of the Mid-term approach.

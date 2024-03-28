@@ -1,0 +1,6 @@
+ A guidance system using transesophageal echocardiography and magnetic tracking is presented which avoids the use of nephrotoxic contrast agents and ionizing radiation required for traditional fluoroscopically guided procedures. The aortic valve is identified in tracked biplane transesophageal echocardiography and used to guide stent deployment in a mixed reality environment. Additionally, a transapical delivery tool with intracardiac echocardiography capable of monitoring stent deployment was created. This system resulted in a deployment depth error of 3.4mm in a phantom. This was further improved to 2.3mm with the custom-made delivery tool. In comparison, the variability in deployment depth for traditional fluoroscopic guidance was estimated at 3.4mm.
+
+@highlight A guidance system for TAVI using ultrasound and magnetic tacking was developed.
+@highlight Eliminates the use of nephrotoxic contrast and ionizing radiation.
+@highlight In phantom experiment, similar accuracy in deployment depth as with fluoroscopy.
+@highlight A new delivery tool with integrated ICE further improves deployment accuracy.

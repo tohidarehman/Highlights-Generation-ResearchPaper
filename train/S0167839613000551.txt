@@ -1,0 +1,5 @@
+ This paper proposes a generalization of the ordinary de Casteljau algorithm to manifold-valued data including an important special case which uses the exponential map of a symmetric space or Riemannian manifold. We investigate some basic properties of the corresponding Bézier curves and present applications to curve design on polyhedra and implicit surfaces as well as motion of rigid body and positive definite matrices. Moreover, we apply our approach to construct canal and developable surfaces.
+
+@highlight A Generalization of the ordinary De Casteljauʼs algorithm and Bézier construction for nonlinear data.
+@highlight Main properties and several applications from Dynamics, medical imaging and Geometry, curve design on polyhedra, motion of rigid body and positive definite matrices.
+@highlight Geometric and numerical aspects of the approach and criteria for implementation.

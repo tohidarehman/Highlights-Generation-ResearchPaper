@@ -1,0 +1,6 @@
+ This paper focuses on the parameter estimation problems of output error autoregressive systems and output error autoregressive moving average systems (i.e., the Box–Jenkins systems). Two recursive least squares parameter estimation algorithms are proposed by using the data filtering technique and the auxiliary model identification idea. The key is to use a linear filter to filter the input–output data. The proposed algorithms can identify the parameters of the system models and the noise models interactively and can generate more accurate parameter estimates than the auxiliary model based recursive least squares algorithms. Two examples are given to test the proposed algorithms.
+
+@highlight The parameter estimation problems of an output error type system are discussed.
+@highlight An auxiliary model based recursive generalized least squares algorithm is presented.
+@highlight An input–output data filtering based recursive least squares algorithm is presented.
+@highlight The data filtering based algorithms can achieve more accurate parameter estimates.

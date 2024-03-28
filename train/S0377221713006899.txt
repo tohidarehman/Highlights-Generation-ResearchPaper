@@ -1,0 +1,6 @@
+ In this work, we investigate the Resilient Multi-level Hop-constrained Network Design (RMHND) problem, which consists of designing hierarchical telecommunication networks, assuring resilience against random failures and maximum delay guarantees in the communication. Three mathematical formulations are proposed and algorithms based on the proposed formulations are evaluated. A Branch-and-price algorithm, which is based on a delayed column generation approach within a Branch-and-bound framework, is proven to work well, finding optimal solutions for practical telecommunication scenarios within reasonable time. Computational results show that algorithms based on the compact formulations are able to prove optimality for instances of limited size in the scenarios of interest while the proposed Branch-and-price algorithm exhibits a much better performance.
+
+@highlight We propose three mathematical formulations to model the Resilient Multi-level Hop-constrained Network Design problem.
+@highlight We evaluate the performance of algorithms based on the proposed formulations.
+@highlight We show that two formulations are equivalent and provide the same bounds for the problem.
+@highlight A Branch-and-price approach for the problem presents a much better performance than other traditional optimization tools

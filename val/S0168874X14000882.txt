@@ -1,0 +1,6 @@
+ The paper presents results of FE analysis of mechanical size effects in longitudinally reinforced concrete slender beams without shear reinforcement failing in shear mode. The simulations were performed under plane stress conditions for three beams of different sizes and a fixed shape (height/length ratio). The attention was focused on deterministic and statistical size effects related to the nominal beam shear strength. Concrete was assumed as an isotropic elasto-plastic material exhibiting non-local softening. The bond strength between concrete and reinforcement was assumed to depend on interface slip with both stable and softening responses. Statistical simulations were performed for spatially correlated Gaussian random fields of tensile strength using a stratified sampling reduction method. The FE numerical results were compared with the respective own experimental test results.
+
+@highlight We investigate a deterministic and statistical size effect in reinforced concrete beams.
+@highlight We use stochastic elasto-plasticity with nonlocal softening in FE analyses.
+@highlight We assume the tensile strength spatially correlated.
+@highlight We compare FE results with experiments.

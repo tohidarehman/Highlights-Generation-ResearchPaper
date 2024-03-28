@@ -1,0 +1,5 @@
+ This paper deals with the problem of digital IIR filter design. Two novel modifications are proposed to Particle Swarm Optimization and validated through novel application for design of IIR filter. First modification is based on quantum mechanics and proved to yield a better performance. The second modification is to take care of time dependency character of the constriction factor. Extensive simulation results validate the superior performance of proposed algorithms.
+
+@highlight Two novel modifications to QPSO proposed.
+@highlight Time dependency of constriction factor taken care.
+@highlight Improved methods for IIR filter design proposed and validated.

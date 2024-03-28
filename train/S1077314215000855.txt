@@ -1,0 +1,6 @@
+ Surveillance cameras have become a customary security equipment in buildings and streets worldwide. It is up to the field of Computational Forensics to provide automated methods for extracting and analyzing relevant image data captured by such equipment. In this article, we describe an effective and semi-automated method for detecting vanishing points, with their subsequent application to the problem of computing heights in single images. With no necessary camera calibration, our method iteratively clusters segments in the bi-dimensional projective space, identifying all vanishing points – finite and infinite – in an image. We conduct experiments on images of man-made environments to evaluate the output of the proposed method and we also consider its application on a photogrammetry framework.
+
+@highlight We propose a detector for identifying vanishing points in single images.
+@highlight We apply the detector to the problem of computing heights in single images.
+@highlight The height of a person was measured in several images.
+@highlight The mean observed error was 0.58 cm.

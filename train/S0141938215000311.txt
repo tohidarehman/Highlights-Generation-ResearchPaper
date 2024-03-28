@@ -1,0 +1,7 @@
+ Using a ray tracing technique, we investigate the dependence of the moiré effect on the crossing angles between touch screen panels (TSPs) and display panels, the metal grid structures (spacing and width), and metal grid shapes (non-uniform and random grids). Of those design parameters, adjusting the crossing angle (∼45°), reducing the grid width (∼1μm), and employing a random grid in the shape of irregular hexagon are found to suppress the moiré phenomenon to a great extent. We also provide the simulation scheme that can capture the moiré patterns observed experimentally and useful design guidelines for metal grids.
+
+@highlight We examine the effect of metal meshes on the moiré phenomenon of touch panels.
+@highlight The ray tracing simulation reproduces the moiré fringes observed experimentally.
+@highlight The moiré phenomenon is quantified using the contrast ratio and standard deviation.
+@highlight A random metal grid is shown to suppress the moiré phenomenon substantially.
+@highlight However, it exhibits even higher standard deviation due to point defects.

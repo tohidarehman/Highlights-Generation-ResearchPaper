@@ -1,0 +1,6 @@
+ We propose a robust thickness estimation approach for 3D objects based on the Shape Diameter Function (SDF). Our method first applies a modified strategy to estimate the local diameter with increased accuracy. We then compute a scale-dependent robust thickness estimate from a point cloud, constructed using this local diameter estimation and a variant of a robust distance function. The robustness of our method is benchmarked against several operations such as remeshing, geometric noise and artifacts common in triangle soups. The experimental results show a more stable local thickness estimation than the original SDF, and consistent segmentation results on defect-laden inputs.
+
+@highlight We propose a robust diameter-based thickness estimation method for 3D objects.
+@highlight This method is based on the Shape Diameter Function and a robust distance function.
+@highlight Benchmark results against operations and artifacts show the robustness of our method.
+@highlight Results regarding the accuracy also show improvements.

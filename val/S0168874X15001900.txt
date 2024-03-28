@@ -1,0 +1,6 @@
+ This contribution applies structural shape optimization techniques to actuated smart structures. In order to combine these two disciplines, the idea of Optimal Actuation and an enlarged filtering scheme are presented. A parameter free optimization scheme is used, which allows the treatment of different branches of structural optimization using an identical framework.
+
+@highlight We apply structural optimization to smart structures, using sensitivity filtering.
+@highlight Vertex morphing is applied for generating complex beads, allowing high flexibility.
+@highlight The effect of gradient filtering onto complex shape optimization tasks is discussed.
+@highlight Shape optimization and sizing are applied to a real-application smart structure.

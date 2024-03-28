@@ -1,0 +1,7 @@
+ ï»¿When estimating human gaze directions from captured eye appearances, most existing methods assume a fixed head pose because head motion changes eye appearance greatly and makes the estimation inaccurate. To handle this difficult problem, in this paper, we propose a novel method that performs accurate gaze estimation without restricting the user's head motion. The key idea is to decompose the original free-head motion problem into subproblems, including an initial fixed head pose problem and subsequent compensations to correct the initial estimation biases. For the initial estimation, automatic image rectification and joint alignment with gaze estimation are introduced. Then compensations are done by either learning-based regression or geometric-based calculation. The merit of using such a compensation strategy is that the training requirement to allow head motion is not significantly increased; only capturing a 5-s video clip is required. Experiments are conducted, and the results show that our method achieves an average accuracy of around 3Â° by using only a single camera.
+
+@highlight Appearance-based gaze estimation with head motion is decomposed into subproblems.
+@highlight Subproblems are solved by compensating for two types of estimation biases.
+@highlight The compensation method only requires a 5-second video for training.
+@highlight Eye images for different head poses are aligned via rectification and optimization.
+@highlight We achieve a gaze estimation accuracy of 3° with free head motion.

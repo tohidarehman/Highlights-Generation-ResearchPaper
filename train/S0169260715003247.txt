@@ -1,0 +1,7 @@
+ The assessment of microcirculation spatial heterogeneity on the hand skin is the main objective of this work. Near-infrared spectroscopy based 2D imaging is a non-invasive technique for the assessment of tissue oxygenation. The haemoglobin oxygen saturation images were acquired by a dedicated camera (Kent Imaging) during baseline, ischaemia (brachial artery cuff occlusion) and reperfusion. Acquired images underwent a preliminary restoration process aimed at removing degradations occurring during signal capturing. Then, wavelet transform based multiscale analysis was applied to identify edges by detecting local maxima and minima across successive scales. Segmentation of test areas during different conditions was obtained by thresholding-based region growing approach. The method identifies the differences in microcirculatory control of blood flow in different regions of the hand skin. The obtained results demonstrate the potential use of NIRS images for the clinical evaluation of skin disease and microcirculatory dysfunction.
+
+@highlight We study oxygen saturation by vascular occlusion test.
+@highlight NIRS camera captured 2D images of hand during ischaemia and in perfusion.
+@highlight We applied edge detection and segmentation to NIRS images.
+@highlight With the applied methods, we can visualize the oxygenation changes.
+@highlight The method allows to quantitate and visualize oxygenation at the same time.

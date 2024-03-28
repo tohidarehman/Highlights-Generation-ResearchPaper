@@ -1,0 +1,6 @@
+ ï»¿This paper presents a novel methodology to estimate the frequency shift in chirp signals with SNRs as low as âˆ’17 dB through the use of an adaptive array of Duffing oscillators. The system used here is an array of five Duffing oscillators with each oscillator's response enhanced through a correlation with the reference signal. As a final result, a time-frequency depiction is provided by the Duffing array for further analysis of chirp signals. Using computer simulated experiments, it is found that the analysis of chirp signals with low SNR by means of the Duffing oscillator shows a markedly better performance than the conventional methods of time-frequency analysis. To this end, the results obtained from the proposed Duffing method are compared against some recent techniques in time-frequency analysis. Furthermore, to strengthen the proposed representation, Monte Carlo simulation is used.
+
+@highlight Method based on periodic–chaotic states of the Duffing oscillator for time-frequency analysis.
+@highlight Adaptive Duffing Array of five oscillators to precisely measure Chaotic Intermittence.
+@highlight Implementation of a recursive algorithm to obtain time-varying spectra of non-stationary signals.
+@highlight Experiments show extraordinary performance in the analysis of signals with up to −17 dB SNR

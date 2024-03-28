@@ -1,0 +1,5 @@
+ Bensolve is an open source implementation of Benson’s algorithm and its dual variant. Both algorithms compute primal and dual solutions of vector linear programs (VLP), which include the subclass of multiple objective linear programs (MOLP). The recent version of Bensolve can treat arbitrary vector linear programs whose upper image does not contain lines. This article surveys the theoretical background of the implementation. In particular, the role of VLP duality for the implementation is pointed out. Some numerical examples are provided. In contrast to the existing literature we consider a less restrictive class of vector linear programs.
+
+@highlight We present the vector linear program solver Bensolve.
+@highlight We review the theoretical background of the algorithm.
+@highlight We provide numerical examples.

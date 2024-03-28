@@ -1,0 +1,6 @@
+ Cellular Automata (CA) are of interest in several research areas and there are many available serial implementations of CA. However, there are relatively few studies analyzing in detail High Performance Computing (HPC) implementations of CA which allow research on large systems. Here, we present a parallel implementation of a CA with distributed memory based on MPI. As a first step to insure fast performance, we study several possible serial implementations of the CA. The simulations are performed in three infrastructures, comparing two different microarchitectures. The parallel code is tested with both Strong and Weak scaling, and we obtain parallel efficiencies of ∼ 75%–85%, for 64 cores, comparable to efficiencies for other mature parallel codes in similar architectures. We report communication time and multiple hardware counters, which reveal that performance losses are related to cache references with misses, branches and memory access.
+
+@highlight We present a free open source code for Cellular Automata (CA) using MPI.
+@highlight Weak and strong scaling tests are carried out in 3 different architectures.
+@highlight Performance of our code compares well with performance of other mature HPC codes.
+@highlight Hardware counters are used to help identifying performance issues.

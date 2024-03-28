@@ -1,0 +1,6 @@
+ In the development of the next generation computer-aided design (CAD) systems, it is important to consider systematically the interactions between designers and design tools. As one of the first steps in quantifying such relations, we propose a method to investigate the relation between a designer’s mental stress and mental effort. We hypothesize that mental effort is low at low and high stress levels but high at a medium stress level. To test the hypothesis, we conducted experiments on seven subjects. Design activities, body movements, brain signals and heart rate were recorded during a design process. Mental stress was quantified by LF/HF ratio and mental effort was quantified by EEG energy. The statistical analysis shows that mental effort is the lowest at high stress level and there is no significant difference in mental effort between medium stress level and low stress level.
+
+@highlight We propose a new approach to process EEG and HRV signals for design activities.
+@highlight We assume that an inverse U curve relationship exists between mental effort and mental stress.
+@highlight We found that designers’ mental effort is the lowest at the highest mental stress.
+@highlight There is no significant difference in mental effort at low and medium stress levels.

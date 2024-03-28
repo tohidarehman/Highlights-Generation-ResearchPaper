@@ -1,0 +1,7 @@
+ We consider a two-echelon, continuous review inventory system under Poisson demand and a one-for-one replenishment policy. Demand is lost if no items are available at the local warehouse, the central depot, or in the pipeline in between. We give a simple, fast and accurate approach to approximate the service levels in this system. In contrast to other methods, we do not need an iterative analysis scheme. Our method works very well for a broad set of cases, with deviations to simulation below 0.1% on average and below 0.36% for 95% of all test instances.
+
+@highlight We consider a two-echelon inventory system with Poisson demand and lost sales.
+@highlight For this system, we develop a new analysis approach that works well in many settings.
+@highlight Our main contribution is a more accurate analysis of the central depot.
+@highlight Contrary to existing methods, we therefore do not need an iterative analysis approach.
+@highlight A numerical experiment shows the method to be very accurate relative to simulation.

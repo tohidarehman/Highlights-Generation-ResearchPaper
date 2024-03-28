@@ -1,0 +1,7 @@
+ A chain code is a common, compact and size-efficient way to represent the contour shape of an object. When a group of objects is studied using chain codes, previous works require to obtain one chain code for each object. In this paper we assign a single chain to a group of objects, in such a way that all the properties of each object of the group can be recovered from the single chain. In order to achieve higher levels of compression, we propose a lossless method, that consists of representing a group of objects by means of a single chain, and then to apply a context-mixing algorithm. Regarding other methods of compression of the state-of-the-art, our experiments demonstrate that the best compression performance is achieved when our lossless method is applied. In this case more than 15% of a better compression level is reached.
+
+@highlight Chain codes representations are applied to binary objects.
+@highlight Concatenation of the chain codes is achieved.
+@highlight Each object can be recovered without loss of information.
+@highlight Context-mixing algorithm is applied to the single chain.
+@highlight Greater compression levels are obtained.

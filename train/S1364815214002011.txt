@@ -1,0 +1,7 @@
+ Systematic sampling is more precise than simple random sampling when spatial autocorrelation is present and the sampling effort is equal, but there is no unbiased method to estimate the variance from a systematic sample. The objective of this paper is to assess selected variance estimation methods and evaluate the influence of spatial structure on the results. These methods are treated as models and a complete enumeration of Norway was used as the modeling environment. The paper demonstrates that the advantage of systematic sampling is closely related to autocorrelation in the material, but also that the improvement is influenced by periodicity and drift in the variables. Variance estimation by stratification with the smallest possible strata gave the best overall results but may underestimate the variance when spatial autocorrelation is absent. Treating the sample as a simple random sample is a safe and conservative alternative when spatial autocorrelation is absent or unknown.
+
+@highlight Demonstrates the advantage of systematic sampling over simple random sampling.
+@highlight Local estimators of variance superior to variance calculated as simple random sample.
+@highlight The improvement is linked to the presence of spatial autocorrelation.
+@highlight Stratification using small non-overlapping neighborhoods gave the best results.
+@highlight Variance may be underestimated when the spatial autocorrelation is weak.

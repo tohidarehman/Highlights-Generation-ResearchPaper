@@ -1,0 +1,7 @@
+ Preclinical micro-computed tomography (microCT) images are of utility for 3D morphological bone evaluation, which is of great interest in cancer detection and treatment development. This work introduces a compression strategy for microCTs that allocates specific substances in different Volumes of Interest (VoIs). The allocation procedure is conducted by the Hounsfield scale. The VoIs are coded independently and then grouped in a single DICOM-compliant file. The proposed method permits the use of different codecs, identifies and transmit data corresponding to a particular substance in the compressed domain without decoding the volume(s), and allows the computation of the 3D morphometry without needing to store or transmit the whole image. The proposed approach reduces the transmitted data in more than 90% when the 3D morphometry evaluation is performed in high density and low density bone. This work can be easily extended to other imaging modalities and applications that work with the Hounsfield scale.
+
+@highlight Preclinical micro-computed tomographies are used for morphological bone evaluation.
+@highlight A Volume of Interest (VoI) strategy for microCT images is proposed.
+@highlight The proposal allocates substances in different VoIs using the Hounsfield scale.
+@highlight The proposed approach may reduce the transmitted data in more than 90%.
+@highlight This proposal can be used to other imaging modalities work with the Hounsfield scale.

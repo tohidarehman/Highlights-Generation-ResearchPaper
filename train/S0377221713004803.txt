@@ -1,0 +1,7 @@
+ This paper studies the team orienteering problem with time windows, the aim of which is to maximize the total profit collected by visiting a set of customers with a limited number of vehicles. Each customer has a profit, a service time and a time window. A service provided to any customer must begin in his or her time window. We propose an iterative framework incorporating three components to solve this problem. The first two components are a local search procedure and a simulated annealing procedure. They explore the solution space and discover a set of routes. The third component recombines the routes to identify high quality solutions. Our computational results indicate that this heuristic outperforms the existing approaches in the literature in average performance by at least 0.41%. In addition, 35 new best solutions are found.
+
+@highlight Developed an iterative three-component heuristic for the TOP with time windows.
+@highlight Inspired by two “no-worse-than” propositions when designing the algorithm.
+@highlight Combined local search, meta-heuristic and mathematical programming.
+@highlight Employed a dedicated neighborhood operator.
+@highlight Achieved best overall performance and new best solutions on the benchmark.

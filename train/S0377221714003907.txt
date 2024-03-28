@@ -1,0 +1,5 @@
+ In this paper we study the problem of designing a survivable telecommunication network with shared-protection routing. We develop a heuristic algorithm to solve this problem. Recent results in the area of global re-routing have been used to obtain very tight lower bounds for the problem. Our results indicate that in a majority of problem instances, the average gap between the heuristic solutions and the lower bounds is within 5%. Computational experience is reported on randomly generated problem instances with up to 35 nodes, 80 edges and 595 demand pairs and also on the instances available in SNDlib database.
+
+@highlight We solve the survivable network design problem with shared-protection routing with and without capacity reuse.
+@highlight Solution of a global rerouting problem solution provides a very tight lower bound to the problem.
+@highlight In many cases in our computational tests, one or two additional links suffice to provide shared-protection routing.

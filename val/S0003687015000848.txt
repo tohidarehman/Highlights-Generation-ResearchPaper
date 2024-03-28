@@ -1,0 +1,5 @@
+ The increasing number of handheld mobile devices used today and the increasing dependency on them in the workplace makes understanding how users interact with these devices critical. This study seeks to understand how user error changes based on user age as well as input content type on ruggedized handheld devices. Participants completed data entry tasks of word and character input on two different devices, a physical keypad and touchscreen device. The number of errors and types of error, corrected and permanent were collected for each participant. Based on results on the study, touchscreen devices proved to be the optimal ruggedized handheld device to minimize user error.
+
+@highlight There are no significant differences between user error and age.
+@highlight Lack of corrective software may not impact user error as much as expected.
+@highlight Keypad devices had more character errors while touchscreen devices had more word.

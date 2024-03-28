@@ -1,0 +1,5 @@
+ We propose a general scheme for detecting critical locations (of dimension zero) of piecewise polynomial multivariate equation systems. Our approach generalizes previously known methods for locating tangency events or self-intersections, in contexts such as surfaceÃ¢ÂÂsurface intersection (SSI) problems and the problem of tracing implicit plane curves. Given the algebraic constraints of the original problem, we formulate additional constraints, seeking locations where the differential matrix of the original problem has a non-maximal rank. This makes the method independent of a specific geometric application, as well as of dimensionality. Within the framework of subdivision based solvers, test results are demonstrated for non-linear systems with three and four unknowns.
+
+@highlight A method for detecting critical points of nonlinear algebraic systems.
+@highlight Detecting isolated critical points.
+@highlight Point cloud approximation for critical varieties of dimension greater than zero.

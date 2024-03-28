@@ -1,0 +1,6 @@
+ This study introduces a welding process design tool to determine optimal arc welding process parameters based on Finite Element Method (FEM), Response Surface Method (RSM) and Genetic Algorithms (GA). Here, a sequentially integrated FEM–RSM–GA framework has been developed and implemented to reduce the weld induced distortion in the final welded structure. It efficiently incorporates finite element based numerical welding simulations to investigate the desired responses and the effect of design variables without expensive trial experiments. To demonstrate the effectiveness of the proposed methodology, a lap joint fillet weld specimen has been used in this paper. Four process parameters namely arc voltage, input current, welding speed and welding direction have been optimized to minimize the distortion of the structure. The optimization results revealed the effectiveness of the methodology for welding process design with reduced cost and time.
+
+@highlight A welding process design tool is proposed for arc welding parametric optimization.
+@highlight It is based on integrated Finite Element Method, Response Surface Method and Genetic Algorithms.
+@highlight Simulation based process parameter optimization is possible without expensive experiments.
+@highlight The method effectively determines optimum parameters for minimum distortion.

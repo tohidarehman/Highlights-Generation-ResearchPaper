@@ -1,0 +1,6 @@
+ It has proved difficult to visualize the iridescent colors of objects coated with multilayer films in ray-based tracers. A physical-based full spectrum scattering model is proposed in this paper; this model applies the multi-beam interference equations to explain the multiple reflection and refraction of light inside the thin films in order to simulate the phase and amplitude variations of light related to iridescent colors. The Fresnel coefficients for the metallic and dielectric films are introduced respectively to photo-realistically render the wave properties of multilayer films. The solution is further extended to take into account the geometry of rough surfaces instead of a smooth averaging surface where the anisotropic and isotropic scattering characteristics are well explained. We demonstrate the validity of the proposed model by visualizing wave effects for diverse metallic or dielectric multilayer film structures and a Morpho butterfly.
+
+@highlight We model the interaction of light and films by the multi-beam interference equations.
+@highlight We introduce Fresnel coefficients for the metallic and dielectric films.
+@highlight We incorporate microfacet factor to take into account the geometry of rough surfaces.
+@highlight We model the iridescence of Morpho butterflies with the regularity and irregularity.

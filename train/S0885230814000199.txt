@@ -1,0 +1,5 @@
+ Voice conversion functions based on Gaussian mixture models and parametric speech signal representations are opaque in the sense that it is not straightforward to interpret the physical meaning of the conversion parameters. Following the line of recent works based on the frequency warping plus amplitude scaling paradigm, in this article we show that voice conversion functions can be designed according to physically meaningful constraints in such manner that they become highly informative. The resulting voice conversion method can be used to visualize the differences between source and target voices or styles in terms of formant location in frequency, spectral tilt and amplitude in a number of spectral bands.
+
+@highlight New voice conversion functions based on bilinear frequency warping and constrained amplitude scaling.
+@highlight Good overall conversion performance using more intuitive and informative parameters.
+@highlight Useful as an analysis tool to visualize spectral differences between different voices or styles.

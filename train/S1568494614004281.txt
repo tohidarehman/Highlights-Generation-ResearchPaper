@@ -1,0 +1,7 @@
+ This paper represent a new multiple colony bees algorithm (MCBA) for functional optimization. The MCBA simulates the behaviours of honey bees in their own hive and realizes a communication strategy between the bees living in different hives. However, there is not much information about such a communication strategy between different hives of honey bees. Since information sharing is an essential issue from the optimization point of view, this relevant communication strategy has been based on the similarity between the waggle dance behaviours of real honey bees and the pheromone laying and following behaviours of ants. By the way the MCBA uses the positive feedback mechanism as distinct from the basic bees algorithm and other versions of the bee swarm optimization algorithms. The performance of the proposed MCBA is tested on a set of well-known test functions through a set of computational study, which contains comparison to some other standard meta-heuristics, cooperative approaches and ant-related approaches. The experimental results indicate the effectiveness of the proposed MCBA.
+
+@highlight We developed a multiple colony bees algorithm for continuous spaces.
+@highlight Our algorithm simulates intra-hive and inter hive behaviours of honey bees.
+@highlight The basis of the algorithm is the similarity between homey bees and ant.
+@highlight The performance of the algorithm is tested through a set of computational study.
+@highlight Computational results indicate that the algorithm has a satisfactory performance.

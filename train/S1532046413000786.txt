@@ -1,0 +1,6 @@
+ The use of family information is a key issue to deal with inheritance illnesses. This kind of information use to come in the form of pedigree files, which contain structured information as tree or graphs, which explains the family relationships. Knowledge-based systems should incorporate the information gathered by pedigree tools to assess medical decision making. In this paper, we propose a method to achieve such a goal, which consists on the definition of new indicators, and methods and rules to compute them from family trees. The method is illustrated with several case studies. We provide information about its implementation and integration on a case-based reasoning tool. The method has been experimentally tested with breast cancer diagnosis data. The results show the feasibility of our methodology.
+
+@highlight Risk assessment of developing an inherited illness using pedigree information.
+@highlight Methods, structured and statistic indices are defined for knowledge-based systems.
+@highlight Real information from a breast cancer database is used for experimentation.
+@highlight Implemented and integrated into eXiT∗CBR experimentation framework as a plugin.

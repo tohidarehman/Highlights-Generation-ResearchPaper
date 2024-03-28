@@ -1,0 +1,8 @@
+ Renewable energy technologies are generally complex, requiring nonlinear simulation concepts. This holds true especially for solar updraft power plants, the scope of this treatment, which starts with a short introduction into their functioning. Then the basic physical conditions of the thermo-fluiddynamic processes in such plants including the solar radiation power transfers are summarized, and the expected numerical difficulties in the computer simulation are notified. It follows the discussion of the structure of the program code to be developed which shall compute the power generation of such plants in sufficient exactness and fast computing speed, in spite of strong nonlinearities. Finally, some economic statements for solar updraft power plants close the treatment.
+
+@highlight A one-dimensional flow tube theory for solar updraft power plants is formulated as basis of a computer software.
+@highlight Numerical difficulties arise from highly nonlinearity in T and T
+@highlight 4 (absolute temperatures).
+@highlight The problem is separated into a NL initial value problem and a number of NL algebraic power balance equations.
+@highlight The structure of the coded program is elucidated, especially the role of the nonlinear solution modulus Excel-Solver.
+@highlight Computed results demonstrate the stability of solution and applicability of the software.

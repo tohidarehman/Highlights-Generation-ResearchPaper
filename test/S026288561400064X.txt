@@ -1,0 +1,7 @@
+ This paper describes an approach for automatically analyzing the alterations of an original artwork during its reproduction. The overall deformation of the artwork is modelled by a piecewise linear model, where regions of the artwork that feature similar alterations are automatically inferred and assigned to the different model components. Model complexity, that is, the required number of affine components required for registration, is automatically estimated using a statistical stability analysis. The main challenge is to simultaneously solve three tasks: (i) inferring the correspondences between both shapes, (ii) identifying the groups in the image that share the same transformation, and (iii) estimating the transformation of these groups. Our approach is tested on controlled scenarios as well as on real historical images.
+
+@highlight An approach to analyze alterations of artworks and their reproductions is presented.
+@highlight Point correspondences, point grouping, and transformations are estimated jointly.
+@highlight Finding of initial grouping assignments is phrased as a linear program.
+@highlight A statistical stability analysis yields the complexity of the registration model.
+@highlight An extensive qualitative and quantitative evaluation is performed on challenging images from art history.

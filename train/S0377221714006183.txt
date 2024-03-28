@@ -1,0 +1,7 @@
+ In this paper we investigate the problem of finding a safe transit of a ship through areas threatened by sea mines. The aim is to provide decision-making support by a tool that can be integrated into a naval command and control system. We present a route finding algorithm which avoids regions of risk higher than a given threshold. The algorithm takes into account the technical and operational restrictions of the ship’s movement. It allows to minimize the route length, the traveling time, the number of maneuvers, or other objectives. The basic idea is to embed a network in the operational area and compute a least-cost path. Instead of using a regular grid graph which strongly restricts the types of maneuvers and necessitates a path smoothing after optimization, we design a network which is especially tailored to the maneuverability of the vessel. Each path in this network represents a continuous-curvature track based on combinations of clothoids and straight line segments. The approach allows a large variety of maneuvers, hence high-quality solutions are achievable provided a sufficiently dense network.
+
+@highlight A safe transit of a ship through an area threatened by sea mines has to be found.
+@highlight The problem is solved using a network-based approach.
+@highlight The network is especially tailored to the maneuverability of the ship.
+@highlight Each path in the network is a combination of clothoids and straight line segments.
+@highlight We minimize route length, traveling time, number of maneuvers, or other objectives.

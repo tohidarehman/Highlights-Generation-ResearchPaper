@@ -1,0 +1,6 @@
+ The Global Financial Crisis (GFC) demonstrated the devastating impact of extreme credit risk on global economic stability. We develop four credit models to better measure credit risk in extreme economic circumstances, by applying innovative Conditional Value at Risk (CVaR) techniques to structural models (called Xtreme-S), transition models (Xtreme-T), quantile regression models (Xtreme-Q), and the author's unique iTransition model (Xtreme-i) which incorporates industry factors into transition matrices. We find the Xtreme-S and Xtreme-Q models to be the most responsive to changing market conditions. The paper also demonstrates how the models can be used to determine capital buffers required to deal with extreme credit risk.
+
+@highlight Four innovative credit models are developed that apply CVaR metrics to credit risk.
+@highlight Traditional credit models understated risk by about three times during the GFC.
+@highlight Rating models respond slowly to economic changes as compared to our models.
+@highlight Our models measure capital buffers needed by banks in dynamic economic conditions.

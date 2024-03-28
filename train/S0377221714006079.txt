@@ -1,0 +1,5 @@
+ This paper provides a mathematical treatment of the NP-hard post enrolment-based course timetabling problem and presents a powerful two-stage metaheuristic-based algorithm to approximately solve it. We focus particularly on the issue of solution space connectivity and demonstrate that when this is increased via specialised neighbourhood operators, the quality of solutions achieved is generally enhanced. Across a well-known suite of benchmark problem instances, our proposed algorithm is shown to produce results that are superior to all other methods appearing in the literature; however, we also make note of those instances where our algorithm struggles in comparison to others and offer evidence as to why.
+
+@highlight We give a mathematical treatment of the NP-hard post enrolment-based course timetabling problem.
+@highlight We present a powerful two-stage metaheuristic-based algorithm to approximately solve it.
+@highlight We focus particularly on the issue of solution space connectivity.

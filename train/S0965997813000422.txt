@@ -1,0 +1,7 @@
+ Several cement and alkali activated fly ash based concrete samples are examined in this paper with emphasis on their fracture properties. These are first obtained from an extensive experimental program. The measured loading curves are then compared with those derived numerically in the framework of an inverse approach. Here, the artificial neural network and the ATENA finite element code are combined to constitute the optimization driver that allows for a reliable determination of the modulus of elasticity, fracture energy, and tensile strength of individual concretes. A brief introduction to the numerical analysis of fiber reinforced specimens again in conjunction with inverse analysis is also provided.
+
+@highlight Cement and alkali activated fly ash based concrete is analyzed.
+@highlight Fracture properties of various compositions are investigated both experimentally and numerically.
+@highlight Primary attention is accorded to the influence of the amount of fly ash replacing cement on fracture energy.
+@highlight The influence of short synthetic fibers on mechanical properties is also studied.
+@highlight Artificial neural network is introduced to provide parameters of the constitutive model.

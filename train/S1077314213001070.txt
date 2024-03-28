@@ -1,0 +1,7 @@
+ A binary iriscode is a very compact representation of an iris image. For a long time it was assumed that the iriscode did not contain enough information to allow for the reconstruction of the original iris. The present work proposes a novel probabilistic approach based on genetic algorithms to reconstruct iris images from binary templates and analyzes the similarity between the reconstructed synthetic iris image and the original one. The performance of the reconstruction technique is assessed by empirically estimating the probability of successfully matching the synthesized iris image against its true counterpart using a commercial matcher. The experimental results indicate that the reconstructed images look reasonably realistic. While a human expert may not be easily deceived by them, they can successfully deceive a commercial matcher. Furthermore, since the proposed methodology is able to synthesize multiple iris images from a single iriscode, it has other potential applications including privacy enhancement of iris-based systems.
+
+@highlight A novel approach to reconstruct iris images from their iriscodes is presented.
+@highlight It is demonstrated the feasibility of such a reverse engineering process.
+@highlight Different iris images with very similar iriscodes are produced.
+@highlight Commercial systems and human examiners are deceived by the reconstructed images.
+@highlight The approach is evaluated following a consistent and reproducible protocol.

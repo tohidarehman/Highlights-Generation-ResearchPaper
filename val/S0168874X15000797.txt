@@ -1,0 +1,6 @@
+ Dynamic elasticity solution for a clamped, laminated cylindrical shell with two orthotropic layers bounded with a piezoelectric layer and subjected to exponential dynamic load distributed on inner surface is presented. The piezoelectric layer serves as sensor/actuator. The governing elasticity partial differential equations are reduced to ordinary differential equations by means of Legendre polynomial expansion for displacement and electric potential in axial direction. The resulting equations are reduced to a system of ODE with constant coefficients by means of Galerkin׳s integral method and finally the governing equations are solved by using linear finite element in radial direction. The static and dynamic results are presented for  lamination. The ratio effect of the radius to thickness on dynamic behaviour is studied. The results are compared for different thickness ratios and applied electric loads with simply-supported shell results. Time responses for sensor and actuated shell are presented.
+
+@highlight A dynamic elasticity solution for 3D formulation.
+@highlight Clamped, laminated cylindrical shell.
+@highlight Exponential dynamic loading and vibration analysis.
+@highlight Orthotropic layers bounded with a piezoelectric layer.

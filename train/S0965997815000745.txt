@@ -1,0 +1,7 @@
+ An efficient solver integrating the restarted simpler generalized minimal residual method (SGMRES(m)) with finite volume method (FVM) on triangular grid is developed to simulate the viscoelastic fluid flows. In particular, the SGMRES(m) solver is used to solve the large-scale sparse linear systems, which arise from the course of FVM on triangular grid for modeling the Newtonian and the viscoelastic fluid flows. To examine the performance of the solver for the nonlinear flow equations of viscoelastic fluids, we consider two types of numerical tests: the Newtonian flow past a circular cylinder, and the Oldroyd-B fluid flow in a planar channel and past a circular cylinder. It is shown that the numerical results obtained by the SGMRES(m) are consistent with the analytical solutions or empirical values. By comparing CPU time of different solvers, we find our solver is a highly efficient one for solving the flow equations of viscoelastic fluids.
+
+@highlight SGMRES(m) integrated with FVM to simulate the viscoelastic fluid flows.
+@highlight Oldroyd-B flow in a planar channel with SGMRES(m) fitting analytical flow.
+@highlight Oldroyd-B flow past a circular cylinder with SGMRES(m) fitting empirical flow.
+@highlight Example applications for small m values being optimal for SGMRES(m) and GMRES(m).
+@highlight Example applications showing that SGMRES(m) could be faster than GMRES(m).

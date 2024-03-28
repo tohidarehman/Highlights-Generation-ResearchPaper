@@ -1,0 +1,7 @@
+ Extracting information from unstructured clinical narratives is valuable for many clinical applications. Although natural Language Processing (NLP) methods have been profoundly studied in electronic medical records (EMR), few studies have explored NLP in extracting information from Chinese clinical narratives. In this study, we report the development and evaluation of extracting tumor-related information from operation notes of hepatic carcinomas which were written in Chinese. Using 86 operation notes manually annotated by physicians as the training set, we explored both rule-based and supervised machine-learning approaches. Evaluating on unseen 29 operation notes, our best approach yielded 69.6% in precision, 58.3% in recall and 63.5% F-score.
+
+@highlight A novel information extraction strategy for Chinese free-text EMR is proposed.
+@highlight Both rule-base method and sequential labeling method (CRF) are explored.
+@highlight Totally, 12 important data elements related to hepatic carcinomas are extracted.
+@highlight Two boundary matching strategies (exact, overlapped) are introduced for evaluation.
+@highlight This work provides some insights for Chinese natural language processing.

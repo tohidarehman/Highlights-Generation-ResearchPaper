@@ -1,0 +1,7 @@
+ To analyze the heating and cooling phase of an induction heated injection molding tool accurately, the temperature dependent magnetic properties, namely the non-linear B-H curves, need to be accounted for in an induction heating simulation. Hence, a finite element model has been developed, including the non-linear temperature dependent magnetic data described by a three-parameter modified Fröhlich equation fitted to the magnetic saturation curve, and solved with an iterative procedure. The numerical calculations are compared with experiments conducted with two types of induction coils, built in to the injection molding tool. The model shows very good agreement with the experimental temperature measurements. It is also shown that the non-linearity can be used without the temperature dependency in some cases, and a proposed method is presented of how to estimate an effective linear permeability to use with simulation codes not able to utilize a non-linear solver.
+
+@highlight Induction heating in injection molding tools was simulated with an FE-model.
+@highlight B-H is described with a modified Fröhlich equation and parameters are included.
+@highlight Cyclic steady state model agrees with experiments.
+@highlight An effective linear permeability can be established for this type of setup.
+@highlight The temperature dependency of the B-H was not found to be strong.

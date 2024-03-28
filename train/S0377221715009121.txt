@@ -1,0 +1,7 @@
+ We study the operations scheduling problem encountered in the process of making and distributing emergency supplies. The lead times of a multi-echelon process, including shipping time, assembly time, and waiting time for raw materials must be explicitly modeled. The optimization problem is to find an inventory allocation and a production/assembly plan together with a shipping schedule for inbound supplies and outbound deliveries so that the total tardiness in customer order fulfillment is minimized. We define the problem as a mixed integer programming model, perform a structure analysis of the problem, and then propose a new search heuristic for the problem. This proposed heuristic finds a feasible solution to the problem by solving a series of linear programming relaxation problems, and is able to terminate quickly. Observations from an extensive empirical study are reported.
+
+@highlight We model an emergency operations scheduling problem with tardiness penalties.
+@highlight The lead times (waiting, production and transportation times) are considered.
+@highlight Through a structure analysis of the problem, solvable cases are identified.
+@highlight A heuristic algorithm based on a mixed integer programming is developed.
+@highlight The algorithm runs very fast and has small errors in numerical experiment.

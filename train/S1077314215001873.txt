@@ -1,0 +1,7 @@
+ This paper presents a novel method for separating reflection components in a single image based on the dichromatic reflection model. Our method is based on a modified version of sparse non-negative matrix factorization (NMF). It simultaneously performs the estimation of diffuse colors and the separation of reflection components through optimization. Our method does not use a spatial prior such as smoothness of colors on the object surface, which is in contrast with recent methods attempting to use such priors to improve separation accuracy. Experimental results show that as compared with these recent methods that use priors, our method is more accurate and robust. For example, it can better deal with difficult cases such as the case where a diffuse color is close to the illumination color.
+
+@highlight A novel method for separating reflection components in a single image is presented.
+@highlight The method is based on a modified version of sparse non-negative matrix factorization.
+@highlight It does not use a spatial prior such as smoothness of colors on the object surface.
+@highlight Such priors are commonly used in recent state-of-the-art methods.
+@highlight Experimental results show that our method is more accurate and robust than them.

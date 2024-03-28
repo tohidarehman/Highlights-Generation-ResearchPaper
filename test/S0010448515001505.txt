@@ -1,0 +1,6 @@
+ We propose a new method for fitting a high-quality planar curve to styling design data by using a curvature continuous ( ) quadratic B-spline curve. In order to attain continuity of the B-spline curve, we use a non-uniform knot vector, which also enables the curve to be composed of fewer segments as compared to a uniform curve. In our method, control points and the knot vector of the B-spline curve are calculated separately; therefore, we can avoid solving a complicated nonlinear optimization problem. By conducting experiments, we demonstrate that high-quality curves can be generated from both artificial noisy data and real-world scanned data.
+
+@highlight We propose a method for fitting a
+@highlight quadratic B-spline curve to planar styling design data.
+@highlight continuity is attained by using a non-uniform knot vector of the B-spline curve.
+@highlight High-quality curves have been obtained from noisy styling design data.

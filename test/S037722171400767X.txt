@@ -1,0 +1,5 @@
+ In this paper we study a classical parallel machine scheduling model with m machines and n jobs, where each job is either accepted and then processed by one of the machines, or rejected and then a rejection penalty is paid. The objective is to minimize the completion time of the last accepted job plus the total penalty of all rejected jobs. The scheduling problem is known to be NP-hard in the strong sense. We find some new optimal properties and develop an O(nlog n + n/ε) heuristic to solve the problem with a worst-case bound of 1.5 + ε, where ε > 0 can be any small given constant. This improves upon the worst-case bound of the heuristic presented by Bartal et al. (Bartal, Y., Leonardi, S., Marchetti-Spaccamela, A., Sgall, J., & Stougie, L. . Multiprocessor scheduling with rejection. SIAM Journal on Discrete Mathematics, 13, 64–78) in the scheduling literature.
+
+@highlight Parallel machine scheduling with rejection.
+@highlight New optimal properties and different solution techniques.
+@highlight A near linear-time heuristic with better worst-case bound.

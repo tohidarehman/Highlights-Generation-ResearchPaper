@@ -1,0 +1,6 @@
+ This paper studies the Elevator Dispatching Problem arising in destination controls. In many of the presented methods to the problem a routing aspect is not considered; decision variables specify only request-to-elevator assignments and the service order of the requests is determined by applying a heuristic rule called the collective control principle. However, quality of this approach is rarely investigated. In this paper the approach is compared with a formulation defining explicitly the elevator routes. The average waiting time as well as average journey time are used as objective functions in the comparisons. Computational experiments with the former objective function on random instances arising during light and normal traffic conditions indicate that both approaches very often produce the same solution while with the latter one the situation is the opposite. Some well-known traffic patterns are also analyzed to identify cases in which the optimal solutions of these approaches are equal.
+
+@highlight A mixed integer linear program for the Elevator Dispatching Problem is introduced.
+@highlight The assignment formulation is compared with the routing formulation.
+@highlight Some well-known traffic patterns are analyzed.
+@highlight A numerical experiment is carried out on random instances.

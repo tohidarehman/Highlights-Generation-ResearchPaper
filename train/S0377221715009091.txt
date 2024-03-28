@@ -1,0 +1,7 @@
+ The talent scheduling problem is a simplified version of the real-world film shooting problem, which aims to determine a shooting sequence so as to minimize the total cost of the actors involved. In this article, we first formulate the problem as an integer linear programming model. Next, we devise a branch-and-bound algorithm to solve the problem. The branch-and-bound algorithm is enhanced by several accelerating techniques, including preprocessing, dominance rules and caching search states. Extensive experiments over two sets of benchmark instances suggest that our algorithm is superior to the current best exact algorithm. Finally, the impacts of different parameter settings, algorithm components and instance generation distributions are disclosed by some additional experiments.
+
+@highlight The talent scheduling problem is formulated as an IP model.
+@highlight An enhanced B&B algorithm is proposed for the problem.
+@highlight We employ a novel lower bound and memoization technique in the B&B.
+@highlight Two new dominance rules are employed to reduce the search space.
+@highlight Our algorithm outperforms the existing best approach.

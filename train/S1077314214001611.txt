@@ -1,0 +1,7 @@
+ Existing crowd counting algorithms rely on holistic, local or histogram based features to capture crowd properties. Regression is then employed to estimate the crowd size. Insufficient testing across multiple datasets has made it difficult to compare and contrast different methodologies. This paper presents an evaluation across multiple datasets to compare holistic, local and histogram based methods, and to compare various image features and regression models. A K-fold cross validation protocol is followed to evaluate the performance across five public datasets: UCSD, PETS 2009, Fudan, Mall and Grand Central datasets. Image features are categorised into five types: size, shape, edges, keypoints and textures. The regression models evaluated are: Gaussian process regression (GPR), linear regression, K nearest neighbours (KNN) and neural networks (NN). The results demonstrate that local features outperform equivalent holistic and histogram based features; optimal performance is observed using all image features except for textures; and that GPR outperforms linear, KNN and NN regression.
+
+@highlight This paper presents an evaluation of existing crowd counting algorithms.
+@highlight We evaluate 5 datasets: UCSD, PETS 2009, Fudan, Mall, Grand Central.
+@highlight We evaluate holistic, local and histogram features (size, shape, edges, keypoints).
+@highlight GPR outperforms linear, KNN and neural network regression.
+@highlight Multiple local features outperform holistic and histogram based features.

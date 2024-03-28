@@ -1,0 +1,7 @@
+ This paper describes an optimal algorithm using continuous state Hidden Markov Models for solving the HMS decoding problem, which is the problem of recovering an underlying sequence of phonetic units from measurements of smoothly varying acoustic features, thus inverting the speech generation process described by Holmes, Mattingly and Shearme in a well known paper (Speech synthesis by rule. Lang. Speech 7 ).
+
+@highlight We outline a model in which dynamic properties are explicit components.
+@highlight These dynamic properties reflect the smooth motion of speech articulators.
+@highlight We construct an optimal algorithm for decoding a signal satisfying the model.
+@highlight The underlying principle is that of the continuous state Hidden Markov Model.
+@highlight We show that the algorithm achieves its aims in an experiment on toy data.

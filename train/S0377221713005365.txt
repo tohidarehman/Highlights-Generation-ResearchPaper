@@ -1,0 +1,7 @@
+ We formulate a noncooperative game to model competition for policyholders among non-life insurance companies, taking into account market premium, solvency level, market share and underwriting results. We study Nash equilibria and Stackelberg equilibria for the premium levels, and give numerical illustrations.
+
+@highlight A game to model competition between non-life insurance companies is formulated.
+@highlight Section 1 develops the one-period noncooperative game of this paper.
+@highlight Existence and uniqueness of a premium equilibrium are established.
+@highlight Section 2 presents numerical illustrations of the game.
+@highlight A conclusion and perspectives are given in Section 3.

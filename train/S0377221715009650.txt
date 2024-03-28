@@ -1,0 +1,7 @@
+ Network formation among individuals constitutes an important part of many OR processes, but relatively little is known about how individuals make their linking decisions in networks. This article provides an investigation of heuristic effects in individual linking decisions for network formation in an incentivized lab-experimental setting. Our mixed logit analysis demonstrates that the inherent complexity of the network linking setting causes individuals’ choices to be systematically less guided by payoff but more guided by simpler heuristic decision cues, and that this shift is systematically stronger for social payoff than for own payoff. Furthermore, we show that the specific complexity factors value transferability and social tradeoff aggravate the former effect. These heuristic effects have important research and policy implications in areas that involve network formation.
+
+@highlight We explore individual linking decisions in a network context by an incentivized laboratory experiment with mixed logit analysis.
+@highlight The inherent complexity of this context results in two heuristic effects with substantial implications for OR models of network formation.
+@highlight Individuals’ choices are systematically less guided by payoff but more by simpler heuristic decision cues.
+@highlight This shift from payoff to heuristic cues is systematically stronger for social payoff than for own payoff.
+@highlight The specific between-subject complexity factors value transferability and social tradeoff aggravate the former effect.

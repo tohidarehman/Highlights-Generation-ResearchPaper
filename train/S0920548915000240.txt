@@ -1,0 +1,6 @@
+ This paper analyzes to which extent research published in Computer Standards & Interfaces (CSI) has a technical focus. We find that CSI has been following its scope very closely in the last three years and that the majority of its publications have a technical focus. Articles published in CSI constantly cite research from various technical disciplines, but there are also a limited number of references to non-technical literature. Mostly technical journals cite CSI papers, with a few exceptions of non-technical journals. We conclude that CSI stays within its scope of computer standards and interfaces interpreted in a technical sense.
+
+@highlight We conducted a citation analysis of CSI articles published in 2011, 2012, and 2013.
+@highlight CSI has been following its scope very closely in the last three years.
+@highlight The majority of CSI publications have a technical focus.
+@highlight CSI focuses on standards and interfaces, interpreted in a technical sense.

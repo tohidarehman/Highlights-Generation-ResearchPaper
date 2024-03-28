@@ -1,0 +1,5 @@
+ In wireless LANs (WLANs), handover is usually performed based on either signal power or congestion level. However, considering only the congestion level could be insufficient for handover since it may cause traffic loss. Therefore, besides the load of access points (APs), it is necessary to consider the physical conditions of different WLANs for performing a seamless handover. This article introduces a novel scheme for seamless handover of IPTV streams in WLAN carrying IPTV traffic, called Physical Constraint and Load Aware (PCLA) handover. The PCLA can compute the load of APs for congestion detection purposes. In PCLA, a mobile node chooses the best network considering signal strength, bit error rate in the relevant environment, and the congestion of APs for making a seamless handover. The simulation results show the appropriateness of PCLA in improving handover performance.
+
+@highlight A seamless handover mechanism for IPTV services in WLAN is proposed.
+@highlight The mechanism relies on received signal strength, congestion level and bit error rate.
+@highlight New method for estimation of congestion level of each access point is proposed.

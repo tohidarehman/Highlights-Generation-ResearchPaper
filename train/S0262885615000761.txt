@@ -1,0 +1,7 @@
+ In this paper, we propose a novel contactless palmprint authentication system where the system uses a CCD camera to capture the user's hand at a distance without any restrictions and touching the device. Furthermore, a novel and high performance region of interest (ROI) extraction method which makes use of nonlinear regression and palm model to extract the ROIs with high success is proposed. Comparative results indicate that the proposed ROI extraction method gives superior performance as compared to the previously proposed point-based approaches. To show the performance of the proposed system, a novel contactless database has also been created. This database includes images captured from the users who present their hands with various hand positions and orientations in cluttered backgrounds. Furthermore, experiments show that the proposed system has achieved a recognition rate of 99.488% and equal error rate of 0.277% on the contactless database of 145 people containing 1752 hand images.
+
+@highlight A novel unrestricted, contactless palmprint image acquisition device is developed.
+@highlight A novel model-based ROI extraction method, robust to the small errors is proposed.
+@highlight A contactless palmprint DB is constituted by collecting 1752 images from 145 subjects.
+@highlight The images in DB have pose, rotation, position variations and cluttered backgrounds.
+@highlight The results achieved by the proposed system are encouraging: 0.277% EER and 99.488% RR.

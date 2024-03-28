@@ -1,0 +1,6 @@
+ This paper shows that generic 2D-Free-Form Deformations of degree can be made birational by a suitable assignment of weights to the Bézier or B-spline control points. An FFD that is birational facilitates operations such as backward mapping for image warping, and Extended Free-Form Deformation. While birational maps have been studied extensively in the classical algebraic geometry literature, this paper is the first to present a family of non-linear birational maps that are flexible enough to be of practical use in geometric modeling.
+
+@highlight A method is proposed for creating a planar free-form deformation of degree
+@highlight that has a rational inverse.
+@highlight The control points can be freely positioned, and weights are computed that produce a birational map.
+@highlight Weight computation is simple, and can be performed in real-time as the control points are moved.

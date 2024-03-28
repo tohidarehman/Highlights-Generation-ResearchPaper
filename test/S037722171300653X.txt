@@ -1,0 +1,5 @@
+ The problem of comparing random vectors arises in many applications. We propose three new concepts of stochastically weighted dominance for comparing random vectors X and Y. The main idea is to use a random vector V to scalarize X and Y as and , and subsequently use available concepts from stochastic dominance and stochastic optimization for comparison. For the case where the distributions of X, Y and V have finite support, we give (mixed-integer) linear inequalities that can be used for random vector comparison as well as for modeling of optimization problems where one of the random vectors depends on decisions to be optimized. Some advantages of the proposed new concepts are illustrated with the help of a capital budgeting example.
+
+@highlight We propose three new concepts of stochastically weighted stochastic dominance.
+@highlight These concepts are represented by finitely many (mixed-integer) linear inequalities.
+@highlight A capital investment problem illustrates the use of these concepts in finance.

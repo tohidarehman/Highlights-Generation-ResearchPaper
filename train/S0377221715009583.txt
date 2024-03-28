@@ -1,0 +1,7 @@
+ Convex risk measures for European contingent claims are studied in a non-Markovian jump-diffusion modeling framework using functional Itô’s calculus. Two representations for a convex risk measure are considered, one based on a nonlinear g-expectation and another one based on a representation theorem. Functional Itô’s calculus for càdlàg processes, backward stochastic differential equations (BSDEs) with jumps and stochastic optimal control theory are used to discuss the evaluation of convex risk measures. FPDIEs and PDIEs for convex risk measures are derived in the Markovian and non-Markovian situations, respectively. An entropic risk measure, which is a particular case of a convex risk measure, is discussed.
+
+@highlight A functional Ito’s calculus approach is adopted to evaluate convex risk measures.
+@highlight A non-Markovian jump-diffusion model is considered.
+@highlight Functional partial differential-integral equations for convex risk measures are obtained.
+@highlight An entropic risk measure is also considered.
+@highlight Partial differential-integral equations for convex risk measures are obtained in the Markovian case.

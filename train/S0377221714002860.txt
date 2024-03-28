@@ -1,0 +1,5 @@
+ The assessment of additive value functions in Multicriteria Decision Aid (MCDA) has to face issues of legitimacy and technical difficulties when real decision makers are involved. This paper presents a synergy of three complementary techniques to assess additive models on the whole criteria space. The synergy includes a revised MACBETH technique, the standard MAUT trade-off analysis and UTA-based methods for the assessment of both the marginal value functions and the weighting factors. The paper uses a set of original robustness measures and rules associated with revised MACBETH and UTA in order to manage multiple linear programming solutions and to extract robust conclusions from them. Finally, to illustrate the methods’ synergy, an application example is presented, dealing with the planning of metro extension lines.
+
+@highlight A synergy of MAUT-MACBETH-UTA multicriteria methods is proposed.
+@highlight An original revised MACBETH technique is outlined.
+@highlight A set of original robustness measures and rules is proposed.

@@ -1,0 +1,7 @@
+ a generalization of Bernstein polynomials and Bézier curves based on umbral calculus has been introduced. In the present paper we describe new geometric and algorithmic properties of this generalization including: , i.e., families that include both Bernstein and Lagrange polynomial, are generalized in a new way,  a generalized de Casteljau algorithm is discussed,  an efficient evaluation of generalized Bézier curves through a linear transformation of the control polygon is described,  a simple criterion for endpoint tangentiality is established.
+
+@highlight Generalization of both Bernstein and Lagrange polynomials.
+@highlight Generalization of the Stancu and Goldman polynomials.
+@highlight Generalization of the de Casteljau algorithm in a new way.
+@highlight Efficient evaluation through a linear transformation of the control polygon.
+@highlight New results are illustrated with many pictures.

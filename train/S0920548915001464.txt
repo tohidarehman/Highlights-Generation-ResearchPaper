@@ -1,0 +1,7 @@
+ The automatic detection of differences between documents is a very common task in several domains. This paper introduces a formal way to compare diff algorithms and to analyze the deltas they produce. There is no one-fits-all definition for the quality of a delta, because it is strongly related to the application domain and the final use of the detected changes. Researchers have historically focused on minimality: reducing the size of the produced edit scripts and/or taming the computational complexity of the algorithms. Recently they started giving more relevance to the human interpretability of the deltas, designing tools that produce more readable, usable and domain-oriented results. We propose a universal delta model and a set of metrics to characterize and compare effectively deltas produced by different algorithms, in order to highlight what are the most suitable ones for use in a given task and domain.
+
+@highlight We study the quality of deltas produced by diff algorithms, regardless of their speed.
+@highlight We present a formal way to compare the deltas and their properties.
+@highlight It includes a uniform delta model and a set of quantitative metrics.
+@highlight It makes it possible to compare algorithms with different aims and output formats.
+@highlight We show how the metrics capture peculiarities of some widespread XML diff algorithms.

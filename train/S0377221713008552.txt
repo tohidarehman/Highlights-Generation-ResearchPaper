@@ -1,0 +1,5 @@
+ From a practical perspective, the paper demonstrates that the appropriate use of dispersion, population, and equity criteria can lead to fairly good solutions with respect to the p-median objective. The only stipulation is that the decision maker verifies (through simple constraint checks) that the chosen locations meet the dispersion, population, and equity criteria. An empirical investigation is conducted to obtain appropriate values for these parameters. From a location science perspective, a new location model that accounts for equity and efficiency simultaneously is studied and analyzed. Specifically, the p-maxian problem with side constraints on dispersion, population, and equity is developed, its NP-completeness established, and valid inequalities and bounds derived. Computational tests show encouraging results.
+
+@highlight Population, Dispersion and Equity Criteria in public facility location.
+@highlight Generation of good, implementable solutions for a location problem.
+@highlight Modeling a problem from the viewpoint of an OR/MS practitioner.

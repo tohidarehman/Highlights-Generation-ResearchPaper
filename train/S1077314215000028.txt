@@ -1,0 +1,6 @@
+ 3D mesh segmentation has become a crucial part of many applications in 3D shape analysis. In this paper, a comprehensive survey on 3D mesh segmentation methods is presented. Analysis of the existing methodologies is addressed taking into account a new categorization along with the performance evaluation frameworks which aim to support meaningful benchmarks not only qualitatively but also in a quantitative manner. This survey aims to capture the essence of current trends in 3D mesh segmentation.
+
+@highlight An overview of the state-of-the-art in 3D mesh segmentation.
+@highlight An overview of performance evaluation frameworks for 3D mesh segmentation.
+@highlight New categorization for 3D mesh segmentation methodologies.
+@highlight Pros and cons in performance evaluation frameworks.

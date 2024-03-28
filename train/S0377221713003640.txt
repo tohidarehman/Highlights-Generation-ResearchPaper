@@ -1,0 +1,5 @@
+ The linear models for the approximate solution of the problem of packing the maximum number of equal circles of the given radius into a given closed bounded domain G are proposed. We construct a grid in G; the nodes of this grid form a finite set of points T, and it is assumed that the centers of circles to be packed can be placed only at the points of T. The packing problems of equal circles with the centers at the points of T are reduced to 0–1 linear programming problems. A heuristic algorithm for solving the packing problems based on linear models is proposed. This algorithm makes it possible to solve packing problems for arbitrary connected closed bounded domains independently of their shape in a unified manner. Numerical results demonstrating the effectiveness of this approach are presented.
+
+@highlight Linear model for circles packing problem to the given domain is proposed.
+@highlight Heuristic algorithm using linear models for packing circles is proposed.
+@highlight Effectiveness of the linear models for packing circles is demonstrated.

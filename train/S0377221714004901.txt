@@ -1,0 +1,7 @@
+ We introduce a novel strategy to address the issue of demand estimation in single-item single-period stochastic inventory optimisation problems. Our strategy analytically combines confidence interval analysis and inventory optimisation. We assume that the decision maker is given a set of past demand samples and we employ confidence interval analysis in order to identify a range of candidate order quantities that, with prescribed confidence probability, includes the real optimal order quantity for the underlying stochastic demand process with unknown stationary parameter(s). In addition, for each candidate order quantity that is identified, our approach produces an upper and a lower bound for the associated cost. We apply this approach to three demand distributions in the exponential family: binomial, Poisson, and exponential. For two of these distributions we also discuss the extension to the case of unobserved lost sales. Numerical examples are presented in which we show how our approach complements existing frequentist—e.g. based on maximum likelihood estimators—or Bayesian strategies.
+
+@highlight We address the issue of demand estimation in newsboy-type inventory control.
+@highlight We introduce confidence-based optimisation for stochastic inventory control.
+@highlight We analytically combine confidence interval analysis and inventory control.
+@highlight We estimate the set of candidate optimal decisions at a prescribed confidence level.
+@highlight We estimate the actual cost of a given decision at a prescribed confidence level.

@@ -1,0 +1,7 @@
+ We consider the problem of scheduling a set of n jobs on m identical and parallel batching machines. The machines have identical capacities equal to K and the jobs have identical processing times equal to p. Job j has a size sj , a due date dj and a profit Rj . Several jobs can be batched together and processed by a machine, provided that the total size of the jobs in the batch does not exceed the machine capacity K. The company will earn a profit of Rj dollars if job j is delivered by time dj ; otherwise, it earns nothing. A third party logistic (3PL) provider will be used to deliver the jobs. The 3PL provider picks up the jobs at times T 1 < T 2 < ⋅⋅⋅ < Tz , and vk (1 ≤ k ≤ z) vehicles will be provided for delivery at time Tk . The vehicles have identical capacities equal to C. The objective is to find a production and delivery schedule so as to maximize the total profit that the company can earn. We show that the problem is solvable in polynomial time if the jobs have identical sizes, but it becomes unary NP-hard if the jobs have different sizes. We propose heuristics for various NP-hard cases and analyze their performances.
+
+@highlight The problem of scheduling n jobs on m parallel batching machines is considered.
+@highlight The goal is to maximize the total profit earned.
+@highlight We show that the problem can be solved efficiently if each job has the same size.
+@highlight The problem becomes unary NP-hard if the jobs have different sizes.
+@highlight For the NP-hard cases, heuristics are given and their performance analyzed.

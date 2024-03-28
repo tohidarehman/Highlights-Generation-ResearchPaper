@@ -1,0 +1,7 @@
+ The multiple traveling salesperson problem (MTSP) is similar to famous traveling salesperson problem (TSP) except for the fact that there are more than one salesperson to visit the cities though each city must be visited exactly once by only one salesperson. For this problem, we have considered two different objectives. First one is to minimize the total distance traveled by all the salespersons, whereas the second one is to minimize the maximum distance traveled by anyone salesperson. This latter objective is about fairness as it tries to balance the workload among salespersons. MTSP, being a generalization of TSP under both the objectives, is also NP -Hard. In this paper, we have proposed two metaheuristic approaches for the MTSP. The first approach is based on artificial bee colony algorithm, whereas the second approach is based on invasive weed optimization algorithm. We have also applied a local search to further improve the solution obtained through our approaches. Computational results on a wide range of benchmark instances show the superiority of our proposed approaches over all the other state-of-the-art approaches for this problem on both the objectives.
+
+@highlight Two metaheuristic approaches are proposed.
+@highlight First approach is based on artificial bee colony algorithm.
+@highlight Second approach is based on invasive weed optimization algorithm.
+@highlight Our approaches are compared with previous approaches on two different objectives.
+@highlight Our approaches outperformed all the previous approaches on both the objectives.

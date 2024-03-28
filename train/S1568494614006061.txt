@@ -1,0 +1,6 @@
+ In this paper, we have proposed a new method of similarity measure associating the geometric distance, area and height of generalized trapezoidal fuzzy numbers. Some properties regarding the proposed new method of similarity measure have been derived. To illustrate the effectiveness of this method, it is compared with existing techniques taking thirty two different sets of generalized trapezoidal fuzzy numbers. Moreover, the proposed method has been used for calculating the fuzzy risk analysis in a production system in which different parameters are represented by linguistic trapezoidal fuzzy numbers.
+
+@highlight A new method of similarity measure of the generalized trapezoidal fuzzy numbers.
+@highlight Properties regarding the proposed new method.
+@highlight Comparison of this method with the existing methods.
+@highlight Application in a production system.

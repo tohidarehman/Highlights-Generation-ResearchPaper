@@ -1,0 +1,7 @@
+ Processing specifications is an issue of crucial importance when developing critical complex systems. In particular, establishing rigorous specifications broadly impacts the subsequent engineering phases. This paper discusses a refinement technique for processing informal specifications expressed in a literal shape, with the aim to generate formal specifications appropriate to automatic processing. The developed technique carries out an iterative process which relies on a set of basic refinement patterns that we have established, and ends up with a formalization step which actually generates logical CTL* formulas. Furthermore, the method implements traceability facilities, which allow for a tidy backtracking of the whole process. The concepts introduced to set up the various mechanisms are discussed and a case study featuring an embedded railway control system is used to illustrate our technique.
+
+@highlight Processing specifications is a crucial issue in critical complex systems.
+@highlight Establishing rigorous specifications highly impacts the engineering phases.
+@highlight A refinement technique for processing informal specifications is developed.
+@highlight The established technique relies on a set of basic refinement patterns.
+@highlight The refinement/formalization process outputs a set of logical CTL* formulas.

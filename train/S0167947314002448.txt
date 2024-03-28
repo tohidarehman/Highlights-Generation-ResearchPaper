@@ -1,0 +1,6 @@
+ A Gini-based statistical test for a unit root is suggested. This test is based on the well-known Dickey–Fuller test, where the ordinary least squares (OLS) regression is replaced by the semi-parametric Gini regression in modeling the AR process. A residual-based bootstrap is used to find critical values. The Gini methodology is a rank-based methodology that takes into account both the variate values and the ranks. Therefore, it provides robust estimators that are rank-based, while avoiding loss of information. Furthermore, the Gini methodology relies on first-order moment assumptions, which validates its use for a wide range of distributions. Simulation results validate the Gini-based test and indicate its superiority in some design settings in comparison to other available procedures. The Gini-based test opens the door for further developments such as a Gini-based cointegration test.
+
+@highlight A Gini-based unit root test is developed.
+@highlight The test relies on the semi-parametric Gini regression.
+@highlight Includes an in-depth numerical comparison of the Gini-based test and existing tests.
+@highlight Simulations indicate the superiority of the Gini-based test in some design settings.

@@ -1,0 +1,6 @@
+ In this paper, we present a simple method for finding the extreme points of various types of incomplete attribute weights. Incomplete information about attribute weights is transformed by a sequence of change of variables to a set whose extreme points are readily found. This enhanced method fails to derive the extreme points of every type of incomplete attribute weights. Nevertheless, it provides us with a flexible method for finding the extreme points, including widely-used forms of incomplete attribute weights. Finally, incomplete attribute values, expressed in various forms, are also analyzed to find their characterizing extreme points by applying similar procedures carried out in the incomplete attribute weights.
+
+@highlight We model a multi-attribute decision-making with incomplete information.
+@highlight The change of variables is used to find the extreme points of given information.
+@highlight We find the extreme points of incomplete attribute weights and values.
+@highlight These findings complete an extreme point-based multi-attribute decision-making.

@@ -1,0 +1,9 @@
+ The main focus of the call center research has been on models that assume all input distributions are known in queuing theory which gives birth to staffing and the estimation of operating characteristics. Studies investigating uncertainty of the input distributions and its implications on call center management are scarce. This study attempts to fill this gap by analyzing the call center service distribution behavior by using Bayesian parametric and semi-parametric mixture models that are capable of exhibiting non-standard behavior such as multi-modality, skewness and excess kurtosis motivated by real call center data. The study is motivated by the observation that different customer profiles might require different agent skill sets which can create additional sources of uncertainty in the behavior of service distributions. In estimating model parameters, Markov chain Monte Carlo methods such as the Gibbs sampler and the reversible jump algorithms are presented and the implications of using such models on system performance and staffing are discussed.
+
+@highlight We consider modeling and inference of the service processes for 3 service profiles.
+@highlight We propose finite mixtures and Dirichlet processes to model service times.
+@highlight We show support in favor of mixture behavior with at least three latent groups.
+@highlight We show how our models can be used as an input to the M
+@highlight /G/s
+@highlight G queue for staffing.
+@highlight We show how covariates such as the day time affect the service time distributions.

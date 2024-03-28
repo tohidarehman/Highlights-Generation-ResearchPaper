@@ -1,0 +1,6 @@
+ Starting with a boundary triangulation an algorithm automatically generates graded densities of triangular elements inside arbitrary polygonal domains. Interior nodes generated inside acute triangles receive spacing values from Bezier based nonlinear spacing functions defined on interior edges and a nonlinear interpolant defined over triangles. Nodal spacing values, adaptive breakpoints and a single G-value control densities of nodes and offer a range of graded meshes. Predetermined nodes with spacing values and internal boundaries provide additional initial control of nodal densities.
+
+@highlight A nonlinear triangular interpolant and Bezier curves produce nonlinear graded Delaunay meshes.
+@highlight Bezier functions depend on break points, spacing values at endpoints, edge lengths and a G-parameter.
+@highlight The global G-parameter automatically controls nonlinear gradients of nodal densities.
+@highlight Interior boundaries and vertices with preassigned spacing values establish local mesh densities.

@@ -1,0 +1,7 @@
+ Bicycle sharing systems can significantly reduce traffic, pollution, and the need for parking spaces in city centers. One of the keys to success for a bicycle sharing system is the efficiency of rebalancing operations, where the number of bicycles in each station has to be restored to its target value by a truck through pickup and delivery operations. The Static Bicycle Rebalancing Problem aims to determine a minimum cost sequence of stations to be visited by a single vehicle as well as the amount of bicycles to be collected or delivered at each station. Multiple visits to a station are allowed, as well as using stations as temporary storage. This paper presents an exact algorithm for the problem and results of computational tests on benchmark instances from the literature. The computational experiments show that instances with up to 60 stations can be solved to optimality within 2 hours of computing time.
+
+@highlight A routing optimization problem arising in bicycle sharing systems is studied.
+@highlight The first exact algorithm for the problem is proposed.
+@highlight The underlying formulation is developed using a variable transformation from general integer to binary variables.
+@highlight The algorithm is a branch-and-cut algorithm that uses combinatorial Benders’ cuts.
+@highlight Instances with up to 60 stations are solved to optimality.

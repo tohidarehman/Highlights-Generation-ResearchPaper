@@ -1,0 +1,7 @@
+ Traditional mobile phones depend on MultiTap, virtual or physical QWERTY keyboard for text entry, and they had some respective drawbacks include low input performance, occupying too large an area, high error rates, lack of feedbacks, etc. Therefore, some researches utilized the characteristics of the chording keyboard to improve input performance. Yet, as the learning efficiency of the chording keyboard is too low, users are not highly willing to learn. In view of that, this study combines the physical and virtual keys, and develops two chording input methods, MagArea and MemoryTap. After three days of learning, the fourteen experiment participants show effectively reduce error rates on MagArea, and they enhance their input speed on MemoryTap. In addition, excellent learning efficiency is found in the two methods, will be more motivated and willing to employ.
+
+@highlight We designed two new chording text entry methods, namely MagArea and MemoryTap.
+@highlight The two presented methods used with both physical and virtual keys simultaneously.
+@highlight MemoryTap got higher text entry speed than virtual keyboard after three days of training.
+@highlight Both methods revealed lower error rates than virtual keyboard.
+@highlight Both methods had higher learning efficiency than previous chording methods.

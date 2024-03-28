@@ -1,0 +1,7 @@
+ Motivated by the growing prevalence for airlines to charge for checked baggage, this paper studies pricing of primary products and ancillary services. We consider a single seller with a fixed capacity or inventory of primary products that simultaneously makes an ancillary service available, e.g. a single-leg flight and checked baggage service. The seller seeks to maximize total expected revenue by dynamically setting prices on both the primary product and the ancillary service. In each period, a random number of customers arrive each of whom may belong to one of three groups: those that only want the primary products, those that would buy the ancillary service if the price is right, and those that only purchase a primary product together with the ancillary service. A multi-period dynamic pricing model is presented with computational complexity only of order equal to the number of periods. For certain distributions, close to analytical results can be obtained from which structural insights may be gleaned.
+
+@highlight Analyze multi-period dynamic pricing problem.
+@highlight Derive expression regarding expected total revenue.
+@highlight Analyze sales of primary and ancillary service to heterogeneous customers.
+@highlight Derive algorithm for deriving optimal prices of primary and ancillary service.
+@highlight Numerical analysis when dual pricing strategy outperforms single bundle price.

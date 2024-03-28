@@ -1,0 +1,7 @@
+ Fruit fly optimization algorithm (FOA) is recently presented metaheuristic technique that is inspired by the behavior of fruit flies. This paper improves the standard FOA by introducing the novel parameter integrated with chaos. The performance of developed chaotic fruit fly algorithm (CFOA) is investigated in details on ten well known benchmark problems using fourteen different chaotic maps. Moreover, we performed comparison studies with basic FOA, FOA with Levy flight distribution, and other recently published chaotic algorithms. Statistical results on every optimization task indicate that the chaotic fruit fly algorithm (CFOA) has a very fast convergence rate. In addition, CFOA is compared with recently developed chaos enhanced algorithms such as chaotic bat algorithm, chaotic accelerated particle swarm optimization, chaotic firefly algorithm, chaotic artificial bee colony algorithm, and chaotic cuckoo search. Overall research findings show that FOA with Chebyshev map show superiority in terms of reliability of global optimality and algorithm success rate.
+
+@highlight Development of new method named chaotic fruit fly optimization algorithm (CFOA).
+@highlight Fruit fly algorithm (FOA) is integrated with ten different chaos maps.
+@highlight Novel algorithm is tested on ten different well known benchmark problems.
+@highlight CFOA is compared with FOA, FOA with Levy distribution, and similar chaotic methods.
+@highlight Experiments show superiority of CFOA in terms of obtained statistical results.

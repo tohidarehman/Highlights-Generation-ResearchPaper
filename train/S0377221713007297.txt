@@ -1,0 +1,6 @@
+ It is widely accepted in forecasting that a combination model can improve forecasting accuracy. One important challenge is how to select the optimal subset of individual models from all available models without having to try all possible combinations of these models. This paper proposes an optimal subset selection algorithm from all individual models using information theory. The experimental results in tourism demand forecasting demonstrate that the combination of the individual models from the selected optimal subset significantly outperforms the combination of all available individual models. The proposed optimal subset selection algorithm provides a theoretical approach rather than experimental assessments which dominate literature.
+
+@highlight Propose an optimal selection algorithm from all individual models using information theory.
+@highlight The selected optimal subset significantly outperforms the combination of all individual models.
+@highlight Provide a theoretical approach instead of experimental assessment.
+@highlight The proposed algorithm shows considerably improved performance on forecasting.

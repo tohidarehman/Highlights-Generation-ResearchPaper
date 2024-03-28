@@ -1,0 +1,7 @@
+ Consider n mobile application (app) developers selling their software through a common platform provider (retailer), who offers a consignment contract with revenue sharing. Each app developer simultaneously determines the selling price of his app and the extent to which he invests in its quality. The demand for the app, which depends on both price and quality investment, is uncertain, so the risk attitudes of the supply chain members have to be considered. The members' equilibrium strategies are analyzed under different attitudes toward risk: risk-aversion, risk-neutrality and risk-seeking. We show that the retailer's utility function has no effect on the equilibrium strategies, and suggest schemes to identify these strategies for any utility function of the developers. Closed-form solutions are obtained under the exponential utility function.
+
+@highlight A consignment contract with revenue sharing, vertical and horizontal competition.
+@highlight Demand is stochastic and affected by both price and quality investment.
+@highlight Equilibrium strategies are obtained under risk-aversion, -neutrality and -seeking.
+@highlight Due to stochastic dominance, price is independent of quality and revenue shares.
+@highlight Closed-form solutions are obtained under exponential utility function.

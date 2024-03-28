@@ -1,0 +1,6 @@
+ Food consumption data are collected and used in several fields of science. The data are often combined from various sources and interchanged between different systems. There is, however, no harmonized and widely used data interchange format. In addition, food consumption data are often combined with other data such as food composition data. In the field of food composition, successful harmonization has recently been achieved by the European Food Information Resource Network, which is now the basis of a standard draft by the European Committee for Standardization. We present an XML-based data interchange format for food consumption based on work and experiences related to food composition. The aim is that the data interchange format will provide a basis for wider harmonization in the future.
+
+@highlight Data interchange format for food consumption data
+@highlight Definition of the key concepts used with food consumption data
+@highlight A generic data model for food consumption data
+@highlight Linking food consumption data with food composition data

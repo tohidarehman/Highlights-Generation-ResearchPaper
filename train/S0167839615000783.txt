@@ -1,0 +1,8 @@
+ We consider a cubic spline space defined over a triangulation with Powell–Sabin refinement. The space has some local super-smoothness and can be seen as a close extension of the classical cubic Clough–Tocher spline space. In addition, we construct a suitable normalized B-spline representation for this spline space. The basis functions have a local support, they are nonnegative, and they form a partition of unity. We also show how to compute the Bézier control net of such a spline in a stable way.
+
+@highlight We consider a
+@highlight cubic spline space defined over a Powell–Sabin refined triangulation.
+@highlight The space has some local
+@highlight super-smoothness and can be seen as a close extension of the classical cubic Clough–Tocher spline space.
+@highlight We construct a suitable normalized B-spline representation for this spline space.
+@highlight We also show how to compute the Bézier control net of such a spline in a stable way.

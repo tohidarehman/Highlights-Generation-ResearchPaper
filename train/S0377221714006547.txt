@@ -1,0 +1,7 @@
+ This article studies the role of social capital on cotton production efficiency and productivity for a sample of small farms in Maharashtra, India using data envelopment analysis. Input shadow prices are computed as an indicator of the importance of social capital relative to other inputs. Results suggest social capital to be the input with the highest contribution to production efficiency after land. The Luenberger indicator is used to assess the productivity improvement associated to an investment in social capital, which is found to be on the order of 12%. Undertaking collective production activities is found to play an important role in improving productivity. This is especially relevant to agricultural households facing important economic and institutional restrictions that make it difficult to increase conventional (expensive) inputs.
+
+@highlight The role of social capital on production efficiency and productivity is assessed.
+@highlight We focus on a sample of small cotton farms in Maharashtra, India.
+@highlight Data envelopment analysis, directional derivatives and a Luenberger indicator are used.
+@highlight Social capital contribution to production efficiency is on the order of 507 rupees.
+@highlight Investment in social capital is found to increase productivity on the order of 12%.

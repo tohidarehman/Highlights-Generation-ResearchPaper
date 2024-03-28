@@ -1,0 +1,7 @@
+ This work presents an analysis on efficiency of solar energy harvesting circuits focused on low power, low voltage sensor platforms. Two different approaches were tested in order to operate a solar panel closely to its maximum power point. The first circuit precisely matches the solar cells with the batteries. The second one is based on a Maximum Power Point Tracker (MPPT) chip. The paper addresses the circuits’ design and evaluation. Two tests were performed outdoors, under two different irradiance conditions. Although the MPPT chip may be efficient for a variety of low power devices, experiments have shown that it did not extract more energy from the environment than the directly coupled circuit. A mathematical energy consumption analysis shows that, in both cases, the directly coupled circuit is more efficient. Therefore, this work shows that there is still a lack of industry solutions for low power, low voltage, solar harvesting circuits.
+
+@highlight Two solar energy harvesting circuits have been tested for low power applications.
+@highlight The directly coupling technique has been compared with an MPPT integrated circuit.
+@highlight A mathematical energy consumption analysis shows both circuits’ efficiency.
+@highlight For all tests performed the directly coupled circuit has been more efficient.
+@highlight Solar cell’s input current simulations have confirmed the experimental results.

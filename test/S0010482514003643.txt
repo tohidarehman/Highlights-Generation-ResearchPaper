@@ -1,0 +1,6 @@
+ How the blood in veins of dragonfly wing affects its vibration characteristics is investigated. Based on the experimental results of the wing׳s morphology and microstructures, including the veins, the membranes and the pterostigma, accurate three-dimensional finite element models of the dragonfly forewing are developed. Considering the blood in veins, the total mass, mass distribution and the moments of inertia of the wing are studied. The natural frequencies/modal shapes are analyzed when the veins are filled with and without blood, respectively. The based natural frequency of the model with blood (189Hz) is much closer to the experimental result. Relative to bending modal shapes, the torsional ones are affected more significantly by the blood. The results in this article reveal the multi-functions of the blood in dragonfly wings and have important implications for the bionic design of flapping-wing micro air vehicles.
+
+@highlight The microstructures of dragonfly wing are observed by the SEM.
+@highlight Accurate three-dimensional FE model of the dragonfly forewing is developed.
+@highlight The blood in veins is considered in the analysis of the mass, moments of inertia and natural frequency/mode.
+@highlight We report the influence of the blood on the vibration characteristics of the wing for the first time.

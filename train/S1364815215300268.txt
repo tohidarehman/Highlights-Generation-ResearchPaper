@@ -1,0 +1,7 @@
+ As sea-level rises, the frequency of coastal marine flooding events is changing. For accurate assessments, several other factors must be considered as well, such as the variability of sea-level rise and storm surge patterns. Here, a global sensitivity analysis is used to provide quantitative insight into the relative importance of contributing uncertainties over the coming decades. The method is applied on an urban low-lying coastal site located in the north-western Mediterranean, where the yearly probability of damaging flooding could grow drastically after 2050 if sea-level rise follows IPCC projections. Storm surge propagation processes, then sea-level variability, and, later, global sea-level rise scenarios become successively important source of uncertainties over the 21st century. This defines research priorities that depend on the target period of interest. On the long term, scenarios RCP 6.0 and 8.0 challenge local capacities of adaptation for the considered site.
+
+@highlight Future coastal flooding depends on sea-level rise and other uncertain coastal factors.
+@highlight We use a dynamic global sensitivity analysis to assess these sources of uncertainties.
+@highlight We apply the method at a low-lying urban French Mediterranean coastal site.
+@highlight Here, coastal processes are dominant sources of uncertainties for the coming decades.
+@highlight Uncertainties on sea-level rise and climate change scenarios prevail after 2080.

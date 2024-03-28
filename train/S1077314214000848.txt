@@ -1,0 +1,7 @@
+ “Actions in the wild” is the term given to examples of human motion that are performed in natural settings, such as those harvested from movies  or Internet databases . This paper presents an approach to the categorisation of such activity in video, which is based solely on the relative distribution of spatio-temporal interest points. Presenting the Relative Motion Descriptor, we show that the distribution of interest points alone (without explicitly encoding their neighbourhoods) effectively describes actions. Furthermore, given the huge variability of examples within action classes in natural settings, we propose to further improve recognition by automatically detecting outliers, and breaking complex action categories into multiple modes. This is achieved using a variant of Random Sampling Consensus (RANSAC), which identifies and separates the modes. We employ a novel reweighting scheme within the RANSAC procedure to iteratively reweight training examples, ensuring their inclusion in the final classification model. We demonstrate state-of-the-art performance on five human action datasets.
+
+@highlight To recognise actions solely on motion observed in the video.
+@highlight A quaternary representation of the interest point node test.
+@highlight Extensive experimental analysis throughout the approach.
+@highlight State of the art performance on “in the wild” datasets.
+@highlight Performance gains independent of the features or classification architecture.

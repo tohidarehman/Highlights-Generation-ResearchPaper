@@ -1,0 +1,7 @@
+ Automating actions based on collected context from Internet of Things (IOT)-controlled systems is one of the most important requirements of IOT systems; this paper seeks to satisfy this requirement by offering a context-aware service framework on top of IOT controlled systems. The fault management process in electric power distribution networks is taken here as a case study and used for implementing our proposed framework. We discuss the different aspects that need to be covered in such a framework and its components. The obtained results from simulating and testing the framework show a significant improvement in the task management process compared to the traditional approach.
+
+@highlight Detailed explanation of an automatic dispatcher, its components and functions.
+@highlight Framework structure is based on context-awareness integration. with IOT middleware
+@highlight Framework tested in electrical distribution systems as a case study.
+@highlight High progress in the system performance in terms of cost, time and effort.
+@highlight Acceleration in faults repairing and increased user satisfaction.

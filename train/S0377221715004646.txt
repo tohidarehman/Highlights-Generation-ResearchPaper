@@ -1,0 +1,7 @@
+ Given the growing importance of service supply chain management (SSCM) in operations, we review a selection of papers in the operations research and the management science (OR/MS) literature that focus on innovative measures associated with the SSCM. First, we review and discuss the definitions of service supply chains (SSCs) and categorize SSCs into the Service Only Supply Chains (SOSCs) and the Product Service Supply Chains (PSSCs). Second, by classifying the literature into three major areas, namely service supply management, service demand management, and the coordination of service supply chains, we derive insights into the current state of knowledge in each area, and examine the evolution of the SSCM research over the past decade. Finally, we identify some associated research challenges and explore future directions for research on SSCM from an operational perspective.
+
+@highlight We review operational models in service supply chain management (SSCM).
+@highlight We examine and discuss the definitions of SSCM.
+@highlight We classify the literature into three major areas.
+@highlight We derive insights into the current state of knowledge in each area.
+@highlight We identify the research challenges of SSCM.

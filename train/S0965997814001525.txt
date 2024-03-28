@@ -1,0 +1,7 @@
+ We introduce a new architecture for the design of a tool for modeling and simulation of continuous and hybrid systems. The environment includes a compiler based on Modelica, a modular and a causal standard specification language for physical systems modeling (the tool supports models composed using certain component classes defined in the Modelica Standard Library, and the instantiation, parameterization and connection of these MSL components are described using a subset of Modelica). Models are defined in Modelica and are translated into DEVS models. DEVS theory (originally defined for modeling and simulation of discrete event systems) was extended in order to permit defining these of models. The different steps in the compiling process are show, including how to model these dynamic systems under the discrete event abstraction, including examples of model simulation with their execution results.
+
+@highlight Models can be defined in Modelica and are translated into DEVS models.
+@highlight An intermediate code generator transforms the models in Bond Graphs.
+@highlight We focus on the construction of the compiler, showing the different steps of the process.
+@highlight We show how to model these dynamic systems under the discrete event abstraction.
+@highlight We discuss different examples based on Modelica’s electrical library.

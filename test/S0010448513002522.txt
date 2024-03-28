@@ -1,0 +1,6 @@
+ According to the characteristics of the coordinates and phases in 2D CAD engineering graphics, difference histograms are constructed. Consequently, two reversible watermarking schemes based on difference histogram shifting are put forward. The first scheme HS_C implements the integer part of coordinate values to construct the adjacent difference histogram and hides messages in the peak and zero point pairs. The scheme can achieve high capacity and good invisibility in the graphics with high correlated coordinates. Instead of coordinates, the second scheme HS_P adopts the integer part of the phase value as the cover data, and the watermark is embedded by shifting and modifying the difference histogram of the phase. It is robust against translation, rotation and even scaling. Experimental results show that both schemes are strictly reversible. The proposed schemes have great potential to be applied for content authentication or secret communication of 2D CAD engineering graphics.
+
+@highlight Difference histogram shifting is used for reversible watermarking of 2D CAD graphics.
+@highlight Difference histograms are constructed by coordinate values and phase values.
+@highlight Two reversible watermarking schemes are put forward for 2D CAD graphics.
+@highlight HS_C can obtain a good capacity, while HS_P can achieve a good robustness.

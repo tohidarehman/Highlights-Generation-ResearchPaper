@@ -1,0 +1,6 @@
+ This paper describes the use of Wikipedia as a rich knowledge source for a question answering (QA) system. We suggest multiple answer matching modules based on different types of semi-structured knowledge sources of Wikipedia, including article content, infoboxes, article structure, category structure, and definitions. These semi-structured knowledge sources each have their unique strengths in finding answers for specific question types, such as infoboxes for factoid questions, category structure for list questions, and definitions for descriptive questions. The answers extracted from multiple modules are merged using an answer merging strategy that reflects the specialized nature of the answer matching modules. Through an experiment, our system showed promising results, with a precision of 87.1%, a recall of 52.7%, and an F-measure of 65.6%, all of which are much higher than the results of a simple text analysis based system.
+
+@highlight The use of Wikipedia as a knowledge source for question answering system.
+@highlight Wikipedia article content & structure, infobox, category, and definition are used.
+@highlight Each knowledge source has its unique strength for certain question types.
+@highlight Answer merging strategy for multiple answer matching modules.

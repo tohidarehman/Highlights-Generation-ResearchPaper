@@ -1,0 +1,6 @@
+ A fault detection method based on dynamic kernel slow feature analysis (DKSFA) is presented in the paper. SFA is a new feature extraction technology which can find a group of slowly varying feature outputs from the high-dimensional inputs. In order to analyze the nonlinear dynamic characteristics of the process data, DKSFA is presented which applies the augmented matrix to consider the dynamic characteristic and uses kernel slow feature analysis (KSFA) to extract the nonlinear slow features hidden in the observed data. For the purpose of fault detection, the D monitoring statistic index is built based on DKSFA model and its confidence limit is computed by kernel density estimation. Simulations on a nonlinear system and Tennessee Eastman (TE) benchmark process show that the proposed method has a better fault detection performance compared with the conventional (kernel principal component analysis) KPCA-based method.
+
+@highlight A nonlinear dynamic process monitoring method is presented.
+@highlight The proposed method can extract the inherent slow features from the high-dimensional observed data.
+@highlight A statistic index is built based on slow features to carry out process monitoring.
+@highlight The method is more sensitive to process faults than the conventional KPCA-based method.

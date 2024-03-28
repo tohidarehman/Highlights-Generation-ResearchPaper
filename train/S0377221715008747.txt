@@ -1,0 +1,7 @@
+ We consider a small- and medium-sized enterprise (SME) with a funding gap intending to invest in a project, of which the cash flow follows a double exponential jump-diffusion process. In contrast to traditional corporate finance theory, we assume the SME is unable to get a loan directly from a bank and hence it enters into a partial guarantee agreement with an insurer and a lender. Utilizing a real options approach, we develop an investment and financing model with a partial guarantee. We explicitly derive the pricing and timing of the option to invest. We find that if the funding gap rises, the option value decreases but its investment threshold first declines and then increases. The larger the guarantee level, the lower the option value and the later the investment. The optimal coupon rate decreases with project risk and a growth of the guarantee level can effectively reduce agency conflicts.
+
+@highlight Utilizing a real options approach, we develop an investment and financing model with a partial guarantee.
+@highlight We explicitly derive the pricing and timing of the option to invest for the cash flow with both diffusion and jump risk.
+@highlight If the funding gap rises, the option value decreases but the investment threshold first declines and then increases.
+@highlight The larger the guarantee level, the lower the option value and the later the investment.
+@highlight Raising guarantee levels reduce borrowers’ risk-shifting incentives but do not change their incentives to replenish equity.

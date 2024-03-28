@@ -1,0 +1,6 @@
+ This paper shows the potential of the Tweedie distribution in the analysis of international trade data. The availability of a flexible model for describing traded quantities is important for several reasons. First, it can provide direct support to policy makers. Second, it allows the assessment of the statistical performance of anti-fraud tools on a large number of data sets artificially generated with known statistical properties, which must comply with real world scenarios. We see the advantages of adopting the Tweedie model in several data sets which are particularly relevant in the anti-fraud context and which show non-trivial features. We also provide a systematic outline of the genesis of the Tweedie distribution and we address a number of relevant statistical and computational issues, such as the development of efficient algorithms both for parameter estimation and for random variate generation.
+
+@highlight We adapt the Tweedie distribution for modeling economic transactions.
+@highlight We address statistical and computational issues in parameter estimation.
+@highlight We develop an efficient exact algorithm for random variate generation.
+@highlight We empirically show the potential of the Tweedie model for anti-fraud analysis.

@@ -1,0 +1,8 @@
+ Human emotional recognition using physiological signals is relatively recent. The interest to this field has been motivated by the robustness of physiological traits to avoid the artifacts created by human social masking. In this paper our attention is focus on two aims: the development of an anxiety recognition system using only one physiological signal “Blood volume pulse, BVP” and the creation of a reliable anxiety model using objective assessment. This assessment is done by using dynamics of selected features. The anxiety elicitation is based on exposure to virtual reality (EVR). The results of these investigations show that this assessment technique is effective for the construction of a reliable database and hence improves the recognition system rate.
+
+@highlight We develop a short-term anxiety recognition system in healthy people.
+@highlight We used only one bio-sensor “Blood volume pulse signal”.
+@highlight Data was obtained through an emotion stimuli based on virtual reality exposure.
+@highlight We recognize two anxiety levels with 97% and three anxiety levels with 96%.
+@highlight Model's objective assessment was done by features dynamics in anxiety situations.
+@highlight We validate a model of three levels anxiety operable in clinical studies.

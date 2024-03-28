@@ -1,0 +1,6 @@
+ Network data envelopment analysis (DEA) concerns using the DEA technique to measure the relative efficiency of a system, taking into account its internal structure. The results are more meaningful and informative than those obtained from the conventional black-box approach, where the operations of the component processes are ignored. This paper reviews studies on network DEA by examining the models used and the structures of the network system of the problem being studied. This review highlights some directions for future studies from the methodological point of view, and is inspirational for exploring new areas of application from the empirical point of view.
+
+@highlight This paper reviews articles on network data envelopment analysis.
+@highlight Network structures and models for studying network DEA are categorized.
+@highlight Network DEA studies are classified according to the structure and model discussed.
+@highlight Directions for future studies are suggested from the review.

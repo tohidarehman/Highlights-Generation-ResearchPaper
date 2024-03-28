@@ -1,0 +1,7 @@
+ Mobile payment has long been discussed but has still not reached mass market in Western societies. Banks and telecom operators often struggle to develop platforms for authorization and authentication of mobile payment services. This paper analyses an in-depth case on collaboration between three major Dutch banks and three Dutch telecom operators who jointly developed a trusted service manager for mobile payment. Collective action theory and platform theory is combined to study the issues of collaboration and competition between banks and operators. We find that differing strategic objectives and interests, conflicts, lack of dependencies and governance issues led to dissolution of the mobile payment platform. These problems partly result from platform characteristics of openness to third parties, governance of relations with third parties and platform competition.
+
+@highlight Mobile payment requires collective action between banks and telecom operators.
+@highlight A case study on cooperation between all major Dutch banks and operators is analyzed.
+@highlight Differing strategic objectives between banks and operators hinder collective action.
+@highlight Lack of leadership, authority and commitment hindered collective action.
+@highlight Realizing joint m-payment platforms for banks and operators is highly challenging.

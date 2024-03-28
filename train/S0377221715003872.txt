@@ -1,0 +1,7 @@
+ This paper presents a novel nonparametric methodology to evaluate convergence in an industry, considering a multi-input multi-output setting for the assessment of total factor productivity. In particular, we develop two new indexes to evaluate σ-convergence and β-convergence that can be computed using nonparametric techniques such as Data Envelopment Analysis. The methodology developed is particularly useful to enhance productivity assessments based on the Malmquist index. The methodology is applied to a real world context, consisting of a sample of Portuguese construction companies that operated in the sector between 2008 and 2010. The empirical results show that Portuguese companies tended to converge, both in the sense of σ and β, in all construction activity segments in the aftermath of the financial crisis.
+
+@highlight The paper presents a novel nonparametric methodology to evaluate convergence.
+@highlight We develop two new indexes to evaluate α-convergence and β-convergence.
+@highlight The indexes developed allow evaluations using multiple inputs and outputs.
+@highlight The methodology complements productivity assessments based on the Malmquist index.
+@highlight The methodology is applied to Portuguese construction companies operating in 2008–2010.

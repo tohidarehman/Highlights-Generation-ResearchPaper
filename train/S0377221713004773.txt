@@ -1,0 +1,7 @@
+ In this paper we use simulations to numerically evaluate the Hybrid DEA – Second Score Auction. In a procurement setting, the winner of the Hybrid auction by design receives payment at the most equal to the Second Score auction. It is therefore superior to the traditional Second Score scheme from the point of view of a principal interested in acquiring an item at the minimum price without losing in quality. For a set of parameters we quantify the size of the improvements and show that the improvement depends intimately on the regularity imposed on the underlying cost function. In the least structured case of a variable returns to scale technology, the hybrid auction only improved the outcome for a small percentage of cases. For other technologies with constant returns to scale, the gains are considerably higher and payments are lowered in a large percentage of cases. We also show that the number of the participating agents, the concavity of the principal value functions, and the number of quality dimensions impact the expected payment.
+
+@highlight We numerically evaluate the Hybrid DEA – Second Score Auction.
+@highlight We quantify the improvement of Hybrid DEA over Second Score for a set of parameters.
+@highlight The improvement depends on the regularity of the underlying cost functions.
+@highlight It is small for VRS based Hybrid Auctions, while significant for CRS based auctions.
+@highlight We consider single and multi-dimensional settings.

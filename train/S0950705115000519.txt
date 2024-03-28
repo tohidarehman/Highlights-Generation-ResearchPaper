@@ -1,0 +1,7 @@
+ This paper reviews the fingerprint classification literature looking at the problem from a double perspective. We first deal with feature extraction methods, including the different models considered for singular point detection and for orientation map extraction. Then, we focus on the different learning models considered to build the classifiers used to label new fingerprints. Taxonomies and classifications for the feature extraction, singular point detection, orientation extraction and learning methods are presented. A critical view of the existing literature have led us to present a discussion on the existing methods and their drawbacks such as difficulty in their reimplementation, lack of details or major differences in their evaluations procedures. On this account, an experimental analysis of the most relevant methods is carried out in the second part of this paper, and a new method based on their combination is presented.
+
+@highlight The state-of-the-art on fingerprint classification is reviewed.
+@highlight A double perspective of the fingerprint classification problem is considered: feature extraction and learning models.
+@highlight Three taxonomies are proposed: orientation map extraction, singular point detection and feature extraction.
+@highlight The different classification approaches considered in fingerprint classification are reviewed.
+@highlight A critical discussion is presented, which has led us to develop the second part of this paper.

@@ -1,0 +1,7 @@
+ Medication exposure is an important variable in virtually all clinical research, yet there is great variation in how the data are collected, coded, and analyzed. Coding and classification systems for medication data are heterogeneous in structure, and there is little guidance for implementing them, especially in large research networks and multi-site trials. Current practices for handling medication data in clinical trials have emerged from the requirements and limitations of paper-based data collection, but there are now many electronic tools to enable the collection and analysis of medication data. This paper reviews approaches to coding medication data in multi-site research contexts, and proposes a framework for the classification, reporting, and analysis of medication data. The framework can be used to develop tools for classifying medications in coded data sets to support context appropriate, explicit, and reproducible data analyses by researchers and secondary users in virtually all clinical research domains.
+
+@highlight Medication coding and classification tasks have different requirements.
+@highlight Various medication coding and classification systems exist.
+@highlight Heterogeneous studies complicate a standard approach to handling medication data.
+@highlight Classification systems can support data retrieval and analysis.
+@highlight A reference classification system can support standardized analysis approaches.

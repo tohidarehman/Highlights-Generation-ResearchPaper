@@ -1,0 +1,7 @@
+ In this system dynamics simulation study we analyze a series of feedback causal relationships wherein R&D investments create new knowledge stocks, increasing technological knowledge “triggers” and interactions among entities of technological innovation, leading to firm profits through the commercialization process. Major aspects of this study are: First, we provide a holistic modeling approach to technological innovation in order to explicate the hidden causal relationships underlying innovation and the mechanisms which lead to innovative performance. Second, hypotheses pertaining to process and product innovation are tested utilizing the system dynamics model to open the black box of technological innovation incorporating long-term and dynamic perspectives. This study addresses strategic innovation policies vis-a-vis product complexity and suggests that a new paradigm wherein product and process innovations are pursued concurrently instead of sequentially can ensure a firm's sustainable growth.
+
+@highlight We model a system dynamics to uncover the hidden technological innovation black-box.
+@highlight Investments in product innovation maximize a firm's profits in the long run.
+@highlight Product portfolio complexity is a constraint on new product introduction.
+@highlight Process innovation is a facilitating factor for achieving time to market.
+@highlight Product and process innovation should be pursued simultaneously, not sequentially.

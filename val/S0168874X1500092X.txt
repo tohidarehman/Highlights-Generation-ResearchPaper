@@ -1,0 +1,6 @@
+ This paper proposes a strategy for the efficient implementation of Fixed Grid Finite Element Analysis (FGFEA) method on Graphics Processing Units (GPUs). Such a strategy makes use of grid regularity of FGFEA to reduce drastically both the memory required by the implementation and the memory transactions to perform the operations with the common elemental stiffness matrix. The matrix-free method is adopted (i) to reduce the memory requirements obviating the assembly process of FEA and (ii) to exploit the parallelization potential of GPU architectures performing matrix–vector products at the Degree of Freedom (DoF) level. The underlying idea is to exploit data locality and maximize the use of on-chip memory, which increase notably the performance of GPU computing. The numerical experiments show that the proposed matrix-free GPU instance of FGFEA can achieve significant speedup over classical sparse-matrix CPU implementation using similar iterative solver.
+
+@highlight Efficient strategy for GPU computing of FGFEA is proposed.
+@highlight Data locality is exploited to achieve notable GPU performance.
+@highlight Required device memory is minimized replacing it by efficient parallel calculations.
+@highlight Significant speedup with respect to sparse-matrix CPU implementation is achieved.

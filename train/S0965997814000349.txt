@@ -1,0 +1,7 @@
+ The efficient management of monitoring data is necessary for large geotechnical engineering projects. The development of an information management, prediction and warning software system for geotechnical monitoring is presented in this study. Seven categories of property objects that describe the hierarchical relationships among the monitoring objects, as well as two objects that represent and manage the construction progress, are proposed based on the requirements of geotechnical monitoring, data flow and the monitoring objectives of the site. The corresponding data structure and database were established using the object-oriented method in the Visual C++ environment. The software integrated various types of information and document management schemes, including data input and processing, CAD drawing visualisation, data modelling and prediction, as well as an early warning function. The applied case studies indicate that the software system is highly flexible and reliable and can be widely applied to monitor the sites of various geotechnical construction projects, such as tunnels, underground caverns, slopes and foundation pits.
+
+@highlight A software for geotechnical excavation monitoring was developed.
+@highlight Seven objects were used to describe monitoring object hierarchical relations.
+@highlight Two objects representing and managing construction progress were extracted.
+@highlight An object-oriented data structure was proposed.
+@highlight The software features high scalable for various geotechnical projects.

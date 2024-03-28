@@ -1,0 +1,5 @@
+ This paper proposes a test for whether data are over-represented in a given production zone, i.e. a subset of a production possibility set which has been estimated using the non-parametric Data Envelopment Analysis (DEA) approach. A binomial test is used that relates the number of observations inside such a zone to a discrete probability weighted relative volume of that zone. A Monte Carlo simulation illustrates the performance of the proposed test statistic and provides good estimation of both facet probabilities and the assumed common inefficiency distribution in a three dimensional input space. Potential applications include tests for whether benchmark units dominate more (or less) observations than expected.
+
+@highlight This paper proposes a test for whether data are over-represented in a subset of a DEA estimated production possibility set.
+@highlight The binomial test the number of observations inside a zone to a discrete probability weighted relative volume of that zone.
+@highlight A Monte Carlo simulation illustrates the performance of the proposed test.

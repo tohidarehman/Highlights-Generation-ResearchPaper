@@ -1,0 +1,7 @@
+ This paper presents the formulation of beam finite elements based on Deslauriers–Dubuc interpolating wavelets, also known as Interpolets. Unlike other wavelet families like Daubechies, Interpolets possess rational filter coefficients, are smooth, symmetric and therefore more suitable for use in numerical methods. Displacement and rotation shape functions are obtained and presented graphically. Expressions for stiffness matrix and force vector are developed based on connection coefficients, which are inner products of basis functions and their derivatives. In order to validate the formulation, several examples with increasing level of complexity are tested and results are compared with analytical and standard beam element solutions.
+
+@highlight A beam finite element based on Deslauriers–Dubuc interpolating wavelets (Interpolets) is formulated.
+@highlight Some properties of Interpolets are presented (rational filter coefficients, smoothness and symmetry).
+@highlight Expressions for derivatives and connection coefficients are developed.
+@highlight Interpolet-based shape functions are obtained and presented graphically. Expressions for stiffness matrix and force vector are derived.
+@highlight Several examples with increasing level of complexity are successfully tested and results compared with analytical and standard beam element solutions.

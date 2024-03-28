@@ -1,0 +1,6 @@
+ Despite the importance and value of the pharmaceutical market, a significant portion of procurement spending including pharmaceuticals are lost. Coupling poor and reactive management practices with the inevitable national drug shortages, leads to lack of medicines causing patient suffering and direct life or death consequences. In this paper, we propose a stochastic model to find the optimal inventory policy for a healthcare facility to proactively minimize the effect of drug shortages in the presence of uncertain disruptions and demand.
+
+@highlight We model a hospital’s inventory system that is subject to supply disruptions
+@highlight We propose a practical solution approach that would maximize the quality of service
+@highlight The optimal inventory allocation is somewhat controversial but is consequential
+@highlight Hospitals are likely to benefit from inventory pooling

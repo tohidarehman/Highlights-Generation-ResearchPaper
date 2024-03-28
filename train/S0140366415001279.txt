@@ -1,0 +1,5 @@
+ Poor medication adherence is a prevalent medical problem resulting in significant morbidity and mortality, especially for elder adults. In this paper, we propose a Socialized Prompting System (SPS), which combines ubiquitous sensors in the smart home and mobile social networks to improve medication adherence. Ubiquitous sensors benefit the seamless monitoring of medication intake behaviors, while the mobile social networks contribute to social prompting in a community. The mechanisms of medication monitoring with ubiquitous sensors and the collaborative prompting based on mobile social network are presented. The experimental results showed that the medication adherence of the testing subjects has been improved by using the proposed system.
+
+@highlight A socialized prompting system improves medication adherence of elders.
+@highlight Ubiquitous sensors benefit the seamless monitoring of medication intake behaviors.
+@highlight The mobile social networks contribute to social prompting in a community.

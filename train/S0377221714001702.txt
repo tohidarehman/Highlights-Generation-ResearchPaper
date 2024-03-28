@@ -1,0 +1,6 @@
+ Agents are connected each other through a tree. Each link of the tree has an associated cost and the total cost of the tree must be divided among the agents. In this paper we assume that agents are asymmetric (think on countries that use aqueducts to bring water from the rainy regions to the dry regions, for example). We suppose that each agent is entitled with a production and demand of a good that can be sent through the tree. This heterogeneity implies that the links are not equally important for all the agents. In this work we propose, and characterize axiomatically, two rules for sharing the cost of the tree when asymmetries apply.
+
+@highlight Agents can produce and demand a good.
+@highlight Agents can send and receive the good through a tree.
+@highlight This tree has associated a cost that should be paid by the agents.
+@highlight We propose two rules for dividing the cost of the tree among the agents.

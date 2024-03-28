@@ -1,0 +1,6 @@
+ In this study, two induced generalized hesitant fuzzy hybrid operators called the induced generalized hesitant fuzzy Shapley hybrid weighted averaging (IG-HFSHWA) operator and the induced generalized hesitant fuzzy Shapley hybrid geometric mean (IG-HFSHGM) operator are defined. The prominent characteristics of these two operators are that they do not only globally consider the importance of elements and their ordered positions, but also overall reflect their correlations. Furthermore, when the weight information of the attributes and the ordered positions is partly known, using grey relational analysis (GRA) method and the Shapley function models for the optimal fuzzy measures on an attribute set and on an ordered set are respectively established. Finally, an approach to hesitant fuzzy multi-attribute decision making with incomplete weight information and interactive conditions is developed, and an illustrative example is provided to show its practicality and effectivity.
+
+@highlight An improvement ranking method for HFEs is proposed.
+@highlight Two induced generalized hesitant fuzzy Shapley hybrid operators are defined.
+@highlight Models for the optimal fuzzy measures are built.
+@highlight An approach to hesitant fuzzy multi-attribute decision making is developed.

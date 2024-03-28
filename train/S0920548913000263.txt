@@ -1,0 +1,6 @@
+ The CSMA/CD access method is no longer invoked in switched, full-duplex Ethernet, but the industrial protocols still take the presence of the method into account. The parallel processing producer–distributor–consumer network architecture (ppPDC) was designed specifically to actively utilize the frame queuing. The network nodes process frames in parallel, which shortens the time needed to perform a cycle of communication, especially in cases when frame processing times within the nodes are not uniform. The experiments show that the achievable cycle times of the ppPDC architecture are an order of magnitude shorter than in the well-known sequential PDC protocol.
+
+@highlight Well-known producer–distributor–consumer (PDC) network architecture is modified.
+@highlight New protocol (ppPDC) is designed to exploit network switching unit capabilities.
+@highlight ppPDC and PDC are implemented using UDP in an off-the-shelf Ethernet network.
+@highlight ppPDC is both theoretically and experimentally proved to be faster than PDC.

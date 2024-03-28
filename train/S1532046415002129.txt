@@ -1,0 +1,6 @@
+ The 2014 i2b2/UTHealth Natural Language Processing (NLP) shared task featured a new longitudinal corpus of 1304 records representing 296 diabetic patients. The corpus contains three cohorts: patients who have a diagnosis of coronary artery disease (CAD) in their first record, and continue to have it in subsequent records; patients who do not have a diagnosis of CAD in the first record, but develop it by the last record; patients who do not have a diagnosis of CAD in any record. This paper details the process used to select records for this corpus and provides an overview of novel research uses for this corpus. This corpus is the only annotated corpus of longitudinal clinical narratives currently available for research to the general research community.
+
+@highlight New corpus of 1304 de-identified medical records.
+@highlight Longitudinal records represent 296 patients.
+@highlight Three patient cohorts: with Coronary Artery Disease (CAD), no CAD, develop CAD.
+@highlight Overview of novel uses for this corpus.

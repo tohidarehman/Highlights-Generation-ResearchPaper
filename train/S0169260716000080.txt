@@ -1,0 +1,5 @@
+ Registration of mammograms plays an important role in breast cancer computer-aided diagnosis systems. Radiologists usually compare mammogram images in order to detect abnormalities. The comparison of mammograms requires a registration between them. A temporal mammogram registration method is proposed in this paper. It is based on the curvilinear coordinates, which are utilized to cope both with global and local deformations in the breast area. Temporal mammogram pairs are used to validate the proposed method. After registration, the similarity between the mammograms is maximized, and the distance between manually defined landmarks is decreased. In addition, a thorough comparison with the state-of-the-art mammogram registration methods is performed to show its effectiveness.
+
+@highlight The comparison of mammograms requires a registration between them.
+@highlight A mammogram registration method based on the curvilinear coordinates is proposed.
+@highlight Temporal mammogram pairs are used to validate the proposed method.

@@ -1,0 +1,6 @@
+ This paper deals with modeling and model reduction methods intended to sandwich structures with viscoelastic materials. The modeling step is carried out by combining the First order shear deformation theory (FSDT) with the Golla–Hughes–Mc Tavish (GHM) model. The GHM model introduces auxiliary coordinates to take into account the frequency dependence of viscoelastic materials which, combined with the finite element method (FEM), leads to large order models. This paper focuses on the use of model reduction methods. The reduced models compared to the full model are illustrated by three numerical examples in order to outline the performance, the practical interest of these methods and their validity domains.
+
+@highlight We combine first order shear deformation theory with the Golla Hughes Mc-Tavish model.
+@highlight We propose model reduction methods for viscoelastic sandwich structures.
+@highlight Extension of the Guyan reduction method to viscoelastic sandwich structures is shown.
+@highlight The potential of the Golla Hughes Mc-Tavish model in non-linear domain is highlighted.

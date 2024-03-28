@@ -1,0 +1,6 @@
+ Cutting and packing problems are found in numerous industries such as garment, wood and shipbuilding. The collision free region concept is presented, as it represents all the translations possible for an item to be inserted into a container with already placed items. The often adopted nofit polygon concept and its analogous concept inner fit polygon are used to determine the collision free region. Boolean operations involving nofit polygons and inner fit polygons are used to determine the collision free region. New robust non-regularized Boolean operations algorithm is proposed to determine the collision free region. The algorithm is capable of dealing with degenerated boundaries. This capability is important because degenerated boundaries often represent local optimal placements. A parallelized version of the algorithm is also proposed and tests are performed in order to determine the execution times of both the serial and parallel versions of the algorithm.
+
+@highlight An algorithm to determine the collision free region is proposed.
+@highlight The collision free region is a useful tool for cutting and packing problems with irregular items.
+@highlight Degenerated elements (edges and vertexes) represent local compaction situations.
+@highlight The collision free regions determines the presence of local compaction for the current item.

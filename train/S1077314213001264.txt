@@ -1,0 +1,7 @@
+ In this paper, we propose a novel stereo method for registering foreground objects in a pair of thermal and visible videos of close-range scenes. In our stereo matching, we use Local Self-Similarity (LSS) as similarity metric between thermal and visible images. In order to accurately assign disparities to depth discontinuities and occluded Region Of Interest (ROI), we have integrated color and motion cues as soft constraints in an energy minimization framework. The optimal disparity map is approximated for image ROIs using a Belief Propagation (BP) algorithm. We tested our registration method on several challenging close-range indoor video frames of multiple people at different depths, with different clothing, and different poses. We show that our global optimization algorithm significantly outperforms the existing state-of-the art method, especially for disparity assignment of occluded people at different depth in close-range surveillance scenes and for relatively large camera baseline.
+
+@highlight A stereo dense correspondence algorithm is proposed for visual–thermal close-range video surveillance.
+@highlight Proposed stereo model is an energy function that is minimized using efficient belief propagation.
+@highlight Local self-similarity is used as similarity metric and motion and color segmentation used as prior.
+@highlight Our method assigns accurate disparities for occluded people that are merged in a ROI.
+@highlight Our method outperforms MI-based local stereo dense correspondence approaches.

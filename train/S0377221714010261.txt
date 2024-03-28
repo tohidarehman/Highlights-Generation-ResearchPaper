@@ -1,0 +1,7 @@
+ We study stochastic linear programming games: a class of stochastic cooperative games whose payoffs under any realization of uncertainty are determined by a specially structured linear program. These games can model a variety of settings, including inventory centralization and cooperative network fortification. We focus on the core of these games under an allocation scheme that determines how payoffs are distributed before the uncertainty is realized, and allows for arbitrarily different distributions for each realization of the uncertainty. Assuming that each player’s preferences over random payoffs are represented by a concave monetary utility functional, we prove that these games have a nonempty core. Furthermore, by establishing a connection between stochastic linear programming games, linear programming games and linear semi-infinite programming games, we show that an allocation in the core can be computed efficiently under some circumstances.
+
+@highlight We study stochastic linear programming games, a class of stochastic cooperative games.
+@highlight These games can model various settings involving payoff sharing under uncertainty.
+@highlight We focus on the core of these games under a scenario-dependent allocation scheme.
+@highlight The core is nonempty when preferences are given by concave certainty equivalents.
+@highlight For some certainty equivalents, a core allocation can be computed in polynomial time.

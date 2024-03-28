@@ -1,0 +1,6 @@
+ Empirical mode decomposition (EMD) is an adaptive decomposition method, which is widely used in time-frequency analysis. As a bidimensional extension of EMD, bidimensional empirical mode decomposition (BEMD) presents many useful applications in image processing and computer vision. In this paper, we define the mean points in BEMD ‘sifting’ processing as centroid point of neighbour extrema points in Delaunay triangulation and propose using mean approximation instead of envelope mean in ‘sifting’. The proposed method improves the decomposition result and reduces average computation time of ‘sifting’ processing. Furthermore, a BEMD-based image fusion approach is presented in this paper. Experimental results show our method can achieve more orthogonal and physical meaningful components and more effective result in image fusion application.
+
+@highlight We define the mean points in BEMD ‘sifting’ processing as centroid point of neighbour extrema points in Delaunay triangulation.
+@highlight Using mean approximation instead of envelope mean in BEMD ‘sifting’ processing.
+@highlight The proposed method improves the decomposition result and reduces average computation time of ‘sifting’ processing.
+@highlight A BEMD-based image fusion approach is proposed.

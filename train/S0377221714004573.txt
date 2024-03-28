@@ -1,0 +1,7 @@
+ In this paper, we introduce and study a generalization of the degree constrained minimum spanning tree problem where we may install one of several available transmission systems (each with a different cost value) in each edge. The degree of the endnodes of each edge depends on the system installed on the edge. We also discuss a particular case that arises in the design of wireless mesh networks (in this variant the degree of the endnodes of each edge depend on the transmission system installed on it as well as on the length of the edge). We propose three classes of models using different sets of variables and compare from a theoretical perspective as well as from a computational point of view, the models and the corresponding linear programming relaxations. The computational results show that some of the proposed models are able to solve to optimality instances with 100 nodes and different scenarios.
+
+@highlight We describe a minimum spanning tree problem with variable degree bounds.
+@highlight This problem is motivated by the design of wireless mesh networks.
+@highlight We propose three classes of models using different sets of variables.
+@highlight We have implemented branch and cut approaches to evaluate the models.
+@highlight Instances with realistic properties, 100 nodes and different scenarios are used.

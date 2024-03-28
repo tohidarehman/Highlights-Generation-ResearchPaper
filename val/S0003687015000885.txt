@@ -1,0 +1,7 @@
+ The clip fitting task is a frequently encountered assembly operation in the car industry. It can cause upper limb pain. During task laboratory simulations, upper limb muscular activity and external force were compared for 4 clip fitting methods: with the bare hand, with an unpowered tool commonly used at a company and with unpowered and powered prototype tools. None of the 4 fitting methods studied induced a lower overall workload than the other three. Muscle activity was lower at the dominant limb when using the unpowered tools and at the non-dominant limb with the bare hand or with the powered tool. Fitting clips with the bare hand required a higher external force than fitting with the three tools. Evaluation of physical workload was different depending on whether external force or muscle activity results were considered. Measuring external force only, as recommended in several standards, is insufficient for evaluating physical workload.
+
+@highlight The study compared muscular activity and external force for 4 clip fitting methods.
+@highlight Muscle activity of the dominant limb was lower when using the unpowered tools.
+@highlight Non-dominant limb muscle activity was lower with bare-hand or powered-tool fitting.
+@highlight However, fitting clips with the bare hand required a higher external force.
+@highlight Thus, measuring the external force alone may give rise to an erroneous interpretation.

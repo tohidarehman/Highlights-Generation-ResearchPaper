@@ -1,0 +1,7 @@
+ The paper deals with the definition and the computation of surrogate upper bound sets for the bi-objective bi-dimensional binary knapsack problem. It introduces the Optimal Convex Surrogate Upper Bound set, which is the tightest possible definition based on the convex relaxation of the surrogate relaxation. Two exact algorithms are proposed: an enumerative algorithm and its improved version. This second algorithm results from an accurate analysis of the surrogate multipliers and the dominance relations between bound sets. Based on the improved exact algorithm, an approximated version is derived. The proposed algorithms are benchmarked using a dataset composed of three groups of numerical instances. The performances are assessed thanks to a comparative analysis where exact algorithms are compared between them, the approximated algorithm is confronted to an algorithm introduced in a recent research work.
+
+@highlight We define an upper bound set for the bi-objective bi-dimensional knapsack problem.
+@highlight It is based on the surrogate relaxation and generalizes the dual surrogate problem.
+@highlight We propose two exact algorithms: an enumerative algorithm and its improved version.
+@highlight We analyze the surrogate multipliers and the dominance relations between bound sets.
+@highlight Based on the improved exact algorithm, an approximated version is derived.

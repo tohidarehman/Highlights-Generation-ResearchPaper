@@ -1,0 +1,7 @@
+ Stochastic resonance (SR) has been proved to be an effective approach for weak signal detection. In this paper, an underdamped step-varying second-order SR (USSSR) method is proposed to further improve the output signal-to-noise ratio (SNR). In the method, by selecting a proper underdamped damping factor and a proper calculation step, the weak periodic signal, the noise and the potential can be matched with each other in the regime of second-order SR to generate an optimal dynamical system. The proposed method has three distinct merits as: 1) secondary filtering effect produces a low-noise output waveform; 2) good band-pass filtering effect attenuates the multiscale noise that locates in high- and (or) low-frequency domains; and 3) good anti-noise capability in detecting weak signal being submerged in heavy background noise. Numerical analysis and application verification are performed to confirm the effectiveness and efficiency of the proposed method in comparison with a traditional SR method.
+
+@highlight Propose an underdamped step-varying second-order stochastic resonance method.
+@highlight Method implemented via choosing proper damping factor and calculation step.
+@highlight Distinct merits include secondary filtering, band-pass filtering, anti-noise.
+@highlight Suitable for detecting weak signal being submerged in multiscale noise.
+@highlight Validity and superiority are verified by simulations and defective bearing signals.

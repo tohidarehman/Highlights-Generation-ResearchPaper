@@ -1,0 +1,6 @@
+ The capitalization of activities occurring during collaborative brainstorming sessions is a real challenge. It is still enhanced when two remote teams have to participate in the same work sessions. Activities which have tangible results like digital notes are easier to capitalize. However many other events may happen which can only be captured by videos. We use the mandatory system of video conference between two remote teams to capitalize non-tangible results like agreement or disagreement between participants. We developed a system for supporting remote collaboration. The paper describes the design of two main parts of this system. First it presents the resource channel i.e. the way the teams can exchange, display and synchronize data on large multi-touch devices. Then it presents the video channel i.e. the way people can be aware of the other team. The paper concludes with some observations about the current version of this system alloted to the capitalization of collaborative team activities.
+
+@highlight We model brainstorming activities involving two remote teams.
+@highlight We develop tools supporting brainstorming activities on large tactile surfaces.
+@highlight The awareness of remote teams is essential.
+@highlight Annotation of videos which register the teams activities help to the capitalization of information.

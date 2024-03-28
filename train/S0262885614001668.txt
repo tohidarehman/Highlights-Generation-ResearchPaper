@@ -1,0 +1,7 @@
+ We propose a holistic approach to the problem of re-identification in an environment of distributed smart cameras. We model the re-identification process in a distributed camera network as a distributed multi-class classifier, composed of spatially distributed binary classifiers. We treat the problem of re-identification as an open-world problem, and address novelty detection and forgetting. As there are many tradeoffs in design and operation of such a system, we propose a set of evaluation measures to be used in addition to the recognition performance. The proposed concept is illustrated and evaluated on a new many-camera surveillance dataset and SAIVT-SoftBio dataset.
+
+@highlight Formalization of object re-identification problem in a distributed environment
+@highlight Re-identification treated as an open-world problem
+@highlight Novelty detection and forgetting included in the scheme
+@highlight A set of performance measures, geared towards open-world, distributed surveillance
+@highlight Experiments on a many-camera (36) surveillance dataset and publicly available source code

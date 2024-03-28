@@ -1,0 +1,6 @@
+ This paper deals with the treatment of incompressibility in solid mechanics in finite-strain elastoplasticity. A finite-strain model proposed by Miehe, Apel and Lambrecht, which is based on a logarithmic strain measure and its work-conjugate stress tensor is chosen. Its main interest is that it allows for the adoption of standard constitutive models established in a small-strain framework. This model is extended to take into account the plastic incompressibility constraint intrinsically. In that purpose, an extension of this model to a three-field mixed finite element formulation is proposed, involving displacements, a strain variable and pressure as nodal variables with respect to standard finite element. Numerical examples of finite-strain problems are presented to assess the performance of the formulation. To conclude, an industrial case for which the classical under-integrated elements fail is considered.
+
+@highlight A three-field mixed finite element formulation in finite-strain is proposed.
+@highlight It is based on an additive split of the logarithmic strain into elastic and plastic parts.
+@highlight The developed formulation is easy, effective and generic.
+@highlight Our approach was validated on both academic cases and on a complex industrial case.

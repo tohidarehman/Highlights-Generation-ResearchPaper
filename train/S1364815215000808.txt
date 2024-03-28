@@ -1,0 +1,7 @@
+ Long-term exposure to fine particulate matter (PM2.5) has been shown to have significant negative impacts on human health. It is estimated that current levels of air pollution shorten the statistical life expectancy of European citizens by several months. The GAINS integrated assessment model calculates shortening of life expectancy from population exposure to PM2.5 using epidemiologically-derived health impact functions. In addition, GAINS estimates PM2.5 concentrations at 1875 air quality monitoring stations located in diverse environments ranging from remote background locations to busy street canyons. In this article, different approaches to dealing with the PM2.5 pollution problem are compared. We assess for the present and future the attainment of EU and WHO air quality standards for PM2.5 and estimate the loss of life expectancy under different policy scenarios developed for the ongoing revision of the EU Air Quality Legislation.
+
+@highlight We present PM2.5 forecasts for 1875 individual air quality monitoring stations in Europe.
+@highlight Calculations bridge the gap between regional background and street canyons.
+@highlight Compliance with the EU limit value is achieved easily, but not with the WHO guideline.
+@highlight We quantify EU wide health benefits of future emission control legislation scenarios.
+@highlight We analyse the relationship between compliance and population exposure.

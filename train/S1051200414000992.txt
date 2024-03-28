@@ -1,0 +1,7 @@
+ This paper presents a stochastic model for the normalized least-mean-square (NLMS) algorithm operating in a nonstationary environment with complex-valued Gaussian input data. To derive this model, several approximations commonly used in the modeling of algorithms with normalized step size are avoided, thus giving rise to very accurate model expressions describing the algorithm behavior in both transient and steady-state phases. Such accuracy comes mainly from the strategy used for computing the normalized autocorrelation-like matrices arising from the model development, for which analytical solutions are also derived here. In addition, based on the proposed model expressions, the impact of the algorithm parameters on its performance is discussed, clarifying the tracking properties of the NLMS algorithm in a nonstationary environment. Through simulation results, the effectiveness of the proposed model is assessed for different operating scenarios.
+
+@highlight An accurate stochastic model for the NLMS algorithm is developed.
+@highlight This model considers a nonstationary environment, i.e., a time-varying plant.
+@highlight Model expressions describing the steady-state algorithm behavior are obtained.
+@highlight Analytical solutions for the normalized autocorrelation-like matrices are proposed.
+@highlight Simulation results for different scenarios confirm the accuracy of the model.

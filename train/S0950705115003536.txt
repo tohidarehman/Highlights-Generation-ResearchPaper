@@ -1,0 +1,6 @@
+ Due to the potential important information in real world networks, link prediction has become an interesting focus of different branches of science. Nevertheless, in “big data” era, link prediction faces significant challenges, such as how to predict the massive data efficiently and accurately. In this paper, we propose two novel node-coupling clustering approaches and their extensions for link prediction, which combine the coupling degrees of the common neighbor nodes of a predicted node-pair with cluster geometries of nodes. We then present an experimental evaluation to compare the prediction accuracy and effectiveness between our approaches and the representative existing methods on two synthetic datasets and six real world datasets. The experimental results show our approaches outperform the existing methods.
+
+@highlight The novel node coupling clustering methods for link prediction are proposed.
+@highlight A new node coupling degree metric is proposed.
+@highlight The node coupling information and clustering information are used.
+@highlight Experimental evaluation about the effectiveness of our methods is presented.

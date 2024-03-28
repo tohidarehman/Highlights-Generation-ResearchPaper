@@ -1,0 +1,6 @@
+ We present a method for efficiently generating dense, relative depth estimates from video without requiring any knowledge of the imaging system, either a priori or by estimating it during processing. Instead we only require that the epipolar constraint between any two frames is satisfied and that the fundamental matrix can be estimated. By tracking sparse features across many frames and aggregating the multiple depth estimates together, we are able to improve the overall estimate for any given frame. Once the depth estimates are available, we treat the generation of the depth maps as a label propagation problem. This allows us to combine the automatically generated depth maps with any user corrections and modifications (if so desired).
+
+@highlight A method for generating sparse, relative depth estimates from video.
+@highlight Depth estimates can be generated without access to past or future frames.
+@highlight Depth maps are created through efficient filter-based propagation.
+@highlight Results are favourable when compared to more expensive SfM+MVS techniques.

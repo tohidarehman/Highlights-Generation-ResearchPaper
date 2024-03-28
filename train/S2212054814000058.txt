@@ -1,0 +1,7 @@
+ This paper discusses a methodology used in the 3D virtual representation of monuments whose characteristics and function make them unsuitable for an integrated survey and modelling study. We therefore analysed the potential of Architecture, Engineering and Construction (AEC) tools, which combine geometry with alpha numeric metadata. Parametric and associative geometry allows updating the automatic model so that whenever there is a new survey or new findings emerge, the whole model does not need to be reworked, except for the relevant components, which renders unnecessary its complete reformulation in future updates. This makes the modelling process applicable to any inaccessible monument. Moreover, it is also possible to explore the potential of these strategies for heritage management. We chose an extensive monument, the Águas Livres Aqueduct, a Portuguese national monument in and near Lisbon, of which we present the first outputs in this paper.
+
+@highlight We modelled an 18th-century monument, about 14km long in a short time.
+@highlight We used parametric associative geometry design tools for generating a digital model.
+@highlight We were able to automatically update the model, partially or totally.
+@highlight We avoided the need of its complete reformulation.
+@highlight We have a product that allows its use in contexts of virtual tours.

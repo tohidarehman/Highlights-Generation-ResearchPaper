@@ -1,0 +1,6 @@
+ Face detection is one of the most important parts of biometrics and face analysis science. In this paper, a novel multi-stage face detection method is proposed which can remarkably detect faces in different images with different illumination conditions, variety of poses and disparate sizes. The idea is to utilize a preprocessing step to filter many non-face windows by means of a skin segmentation procedure in order to boost the speed of the detection and also utilize the color information as much as possible. Subsequently, candidate windows are fed to a Local Hierarchical Pattern (LHP) generator unit where a new texture pattern is produced. Based on this pattern, a kernel probability map is calculated for each window, and by summing probabilities of all kernels and comparing it with a predefined threshold, decision is made about content of the window. Not only does this algorithm effectively eliminate many non-face regions, but it is also capable of detecting faces with relatively acceptable rate in different conditions.
+
+@highlight A multi-stage face detection method is proposed using color and texture information.
+@highlight Using skin detection, candidate windows are extracted.
+@highlight Candidate windows are verified based on combination of KPM and LHP.
+@highlight Both qualitative and quantitative results confirm the merit of the algorithm.

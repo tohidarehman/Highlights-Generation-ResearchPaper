@@ -1,0 +1,7 @@
+ Mass customization is the new frontier in business competition for both manufacturing and service industries. To improve customer satisfaction, reduce lead-times and shorten costs, families of similar products are built jointly by combining reusable parts that implement the features demanded by the customers. To guarantee the validity of the products derived from mass customization processes, feature dependencies and incompatibilities are usually specified with a variability model. As market demand grows and evolves, variability models become increasingly complex. In such entangled models it is hard to identify which features are essential, dispensable, highly required by other features, or highly incompatible with the remaining features. This paper exposes the limitations of existing approaches to gather such knowledge and provides efficient algorithms to retrieve that information from variability models.
+
+@highlight Complex variability models (VM) are commonly used in mass customization.
+@highlight The limitations of current measures and algorithms to identify essential and dispensable features in VMs are shown.
+@highlight We redefine existing measures by taking into account a sensitivity parameter.
+@highlight We propose an algorithm to efficiently compute the measures using Binary Decision Diagrams.
+@highlight We report empirical evidence of the goodness of our approach.

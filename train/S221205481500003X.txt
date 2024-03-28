@@ -1,0 +1,7 @@
+ Contemporary rock art researchers have a wide choice of 3D laser scanners available to them for recording stone surfaces and this is complimented by numerous software packages that are able to process point cloud data. Though ESRI’s ArcGIS primarily handles geographical data, it also offers the ability to visualise XYZ data from a stone surface. In this article the potential of ArcGIS for rock art research is explored by focusing on 3D data obtained from two panels of cup and ring marks found at Loups’s Hill, County Durham, England. A selection of methods commonly utilised in LiDAR studies, which enhance the identification of landscape features, are also conducted upon the rock panels, including DSM normalisation and raster data Principle Component Analysis (PCA). Collectively, the visualisations produced from these techniques facilitate the identification of the rock art motifs, but there are limitations to these enhancements that are also discussed.
+
+@highlight Problems of traditional rock art recordings were discussed
+@highlight Laser scans of rock art carvings were processed in ArcGIS
+@highlight Detailed DSMs of rock art surfaces were generated from TIN interpolation
+@highlight Rasters with different surface illuminations were summarised with PCA
+@highlight ArcGIS offers the possibility to visualise and enhance rock art carvings

@@ -1,0 +1,6 @@
+ We propose a measure of information gained through biometric matching systems. Firstly, we discuss how the information about the identity of a person is derived from biometric samples through a biometric system, and define the “biometric system entropy” or BSE based on mutual information. We present several theoretical properties and interpretations of the BSE, and show how to design a biometric system which maximizes the BSE. Then we prove that the BSE can be approximated asymptotically by the relative entropy D(fG (x)∥fI (x)) where fG (x) and fI (x) are probability mass functions of matching scores between samples from individuals and among population. We also discuss how to evaluate the BSE of a biometric system and show experimental evaluation of the BSE of face, fingerprint and multimodal biometric systems.
+
+@highlight We propose an information theoretical measure for biometric systems.
+@highlight We present several useful properties and interpretations of the measure.
+@highlight We prove that the measure can be approximated by the relative entropy.
+@highlight We discuss how to evaluate the measure and show experimental evaluations.

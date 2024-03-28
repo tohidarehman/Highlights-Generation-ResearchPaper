@@ -1,0 +1,7 @@
+ This paper studies a valuation framework for financial contracts subject to reference and counterparty default risks with collateralization requirement. We propose a fixed point approach to analyze the mark-to-market contract value with counterparty risk provision, and show that it is a unique bounded and continuous fixed point via contraction mapping. This leads us to develop an accurate iterative numerical scheme for valuation. Specifically, we solve a sequence of linear inhomogeneous PDEs, whose solutions converge to the fixed point price function. We apply our methodology to compute the bid and ask prices for both defaultable equity and fixed-income derivatives, and illustrate the non-trivial effects of counterparty risk, collateralization ratio and liquidation convention on the bid-ask spreads.
+
+@highlight A valuation framework for contracts with counterparty risk and collateralization.
+@highlight Propose a fixed point approach.
+@highlight Propose an accurate algorithm for computation.
+@highlight Apply our model to price equity and fixed-income derivatives.
+@highlight Show impacts of counterparty risk on bid-ask prices.

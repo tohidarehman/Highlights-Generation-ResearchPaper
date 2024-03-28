@@ -1,0 +1,6 @@
+ Model-driven engineering is the generation of software artefacts from abstract models. This is achieved through transformations that encode domain knowledge and implementation strategies. The same transformations can be used to produce quite different systems, or to produce successive versions of the same system. A model-driven approach can thus reduce the cost of development. It can also reduce the cost of verification: if the transformations are shown or assumed to be correct, each new system or version can be verified in terms of its model, rather than its implementation. This paper introduces an approach to model-driven engineering that is particularly suited to the development of critical information systems. The language of the models, and the language of the transformations, are amenable to formal analysis. The transformation strategy, and the associated development methodology, are designed to preserve systems integrity and availability.
+
+@highlight Model-driven tools can reduce the cost of development and verification.
+@highlight Information systems can be produced automatically from object oriented designs.
+@highlight A formal, model-driven approach is proposed for use in safety critical systems.
+@highlight A framework is provided for the correctness of model transformations.

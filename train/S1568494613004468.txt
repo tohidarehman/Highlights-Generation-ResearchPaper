@@ -1,0 +1,5 @@
+ Metaheuristic methods have been demonstrated to be efficient tools to solve hard optimization problems. Most metaheuristics define a set of parameters that must be tuned. A good setup of that parameter values can lead to take advantage of the metaheuristic capabilities to solve the problem at hand. Tuning strategies are step by step methods based on multiple runs of the metaheuristic algorithm. In this study we compare four automated tuning methods: F-Race, Revac, ParamILS and SPO. We evaluate the performance of each method using a standard genetic algorithm for continuous function optimization. We discuss about the requirements of each method, the resources used and quality of solutions found in different scenarios. Finally we establish some guidelines that can help to choose the more appropriate tuning procedure.
+
+@highlight We study the similarities and differences of well-known tuning methods.
+@highlight We empirically compare their results when tuning numerical parameter of a standard genetic algorithm.
+@highlight We establish guidelines for beginner's users of tuning algorithms.

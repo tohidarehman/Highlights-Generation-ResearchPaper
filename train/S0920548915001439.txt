@@ -1,0 +1,5 @@
+ The addressing-based routing solutions usually adopt a tree topology, but the routing paths along a tree are not optimal and the resources of nodes around a root are excessively consumed. Moreover, the descendants of a failed node need to rejoin a tree and reacquire addresses, and during this process they cannot perform communications. In order to overcome the above deficiencies, this paper proposes an optimal addressing-based routing scheme for 6LoWPAN. This scheme takes advantages of one-hop and two-hop neighbors to calculate optimal paths. Since a root is not involved in most of optimal paths, the excessive resource consumption is avoided. This scheme also proposes an address update algorithm and the descendants of a failed node can use this algorithm to update their addresses rather than reacquire the new addresses. During the address update process, the descendants can still use the original addresses to perform communications.
+
+@highlight The addressing algorithm based on an address tree is proposed.
+@highlight The optimal routing algorithm based on an address tree is proposed.
+@highlight An address update algorithm is proposed.

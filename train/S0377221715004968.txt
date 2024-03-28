@@ -1,0 +1,7 @@
+ In onshore oilfields, several sucker-rod pumps are deployed over a large geographic area to lift oil from the bottom of production wells. Powered by electric rotary machines, the rod pumps operate according to cyclic control policies that alternate between on and off pumping periods which are designed to drive maximum production. This cyclic behavior gives rise to the problem of scheduling pumpoff operations in order to minimize the system power peak and thereby smoothen the power-consumption profile. To this end, this paper develops MILP formulations for the coordination of control policies and their reconfiguration during operations. Following a column-based approach or using integer variables to model the power-consumption profile, the resulting MILP formulations are put to the test in a host of synthetic, but representative oilfields.
+
+@highlight Models for scheduling pumpoff control operations in onshore oil fields.
+@highlight Cyclic behavior and system-wide power consumption are accounted for by the models.
+@highlight The models are based on scheduling conditions and column-based strategies.
+@highlight Computational analysis show that column-based models are more efficient and flexible.
+@highlight Models for reconfiguring operations are also proposed and analyzed.

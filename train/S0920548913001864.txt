@@ -1,0 +1,6 @@
+ Trust is an essential feature of any system where entities have to collaborate. Trust can assist entities making decisions before establishing collaborations. It is desirable to simulate the behaviour of users as in social environments where they tend to trust users who have common interests or share some of their opinions, i.e., users similar to them. In this paper, we introduce the concept of context similarity among entities and derive a similarity network. Then, we define a trust model that allows us to establish trust along a path of entities. We validate our model in a proximity-based trust establishment scenario.
+
+@highlight We have defined the concept of similarity measure.
+@highlight We have used similarity measures to define similarity networks.
+@highlight We have defined a trust model based on similarity networks in order to establish trust along a path of entities.
+@highlight The trust model has been validated in a proximity-based scenario where the most trusted entity is identified.

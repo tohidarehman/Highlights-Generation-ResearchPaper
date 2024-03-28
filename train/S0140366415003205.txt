@@ -1,0 +1,7 @@
+ Online Social Networks (OSNs) are the most popular applications in todays Internet and they have changed the way people interact with each other. Understanding the structural properties of OSNs and, in particular, how users behave when they connect to OSNs is crucial for designing user-centered systems. Results about OSNs demonstrated that the relationships that an individual (ego) maintains with other people (alters) can be organized into a set of circles (named Dunbar’s circles) according to the ego network model. The study of the impact of ego networks structure on the availability patterns of users is seriously limited by the lack of information about users availability patterns. In this work we contribute to fill this gap by analysing availability information of a sample of Facebook users. The data reveal a number of strong temporal dependencies (or temporal homophily) which provide insights into the availability pattern that characterize an ego network.
+
+@highlight We have defined and implemented a Facebook application to log a Facebook dataset.
+@highlight We have studied and validated the structural properties of the whole dataset and of the Dunbar ego networks.
+@highlight We have analyzed the interactions of the users.
+@highlight The availability of the users in the Dunbar ego networks have been investigated.
+@highlight Our results reveal the presence of the temporal homophily property in the Dunbar ego networks.

@@ -1,0 +1,6 @@
+ The scalability of Network-on-Chip (NoC) designs has become a rising concern as we enter the manycore era. Multicast support represents a particular yet relevant case within this context, mainly due to the poor performance of NoCs in the presence of this type of traffic. Multicast techniques are typically evaluated using synthetic traffic or within a full system, which is either simplistic or costly, given the lack of realistic traffic models that distinguish between unicast and multicast flows. To bridge this gap, this paper presents a trace-based multicast traffic characterization, which explores the scaling trends of aspects such as the multicast intensity or the spatiotemporal injection distribution for different coherence schemes. This analysis is the basis upon which the concept of multicast source prediction is proposed, and upon which a multicast traffic model is built. Both aspects pave the way for the development and accurate evaluation of advanced NoCs in the context of manycore computing.
+
+@highlight Multicast traffic is characterized and modeled with an emphasis on scalability.
+@highlight Intensity, concentration and burstiness increase with the system size.
+@highlight Growing correlation suggests the use of prediction to optimize NoC designs.
+@highlight Simple multicast source predictors achieve modest but promising accuracies.

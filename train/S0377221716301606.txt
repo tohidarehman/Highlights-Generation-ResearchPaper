@@ -1,0 +1,7 @@
+ The sampling information for the cost-effectiveness analysis typically comes from different health care centers, and, as far as we know, it is taken for granted that the distribution of the cost and the effectiveness does not vary across centers. We argue that this assumption is unrealistic, and prove that to not consider the sample heterogeneity will typically give misleading results. Consequently, a cost-effectiveness procedure for heterogeneous samples is here proposed. The proposed cost-effectiveness procedure consists of a Bayesian clustering to measure the sample heterogeneity, and a meta-analysis to account for the specific clustering structure of the data. Examples with real data illustrate this methodology for normal and lognormal models, and the results are compared with those we would obtain if homogeneity of the samples is assumed.
+
+@highlight A two steps cost-effectiveness procedure for heterogeneous samples is proposed.
+@highlight Step 1: a Bayesian clustering to measure the sampling heterogeneity.
+@highlight Step 2: a Bayesian meta-analysis to account for the clustering structure of the data.
+@highlight Examples with real data are developed to illustrate the procedure.
+@highlight We show that to not consider sample heterogeneity could give misleading results.

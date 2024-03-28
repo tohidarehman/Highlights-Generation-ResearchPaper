@@ -1,0 +1,7 @@
+ In this paper, we propose a new reversible image watermarking method based on interpolation-error expansion called region based interpolation error expansion (RBIEE). We improved Thodi's prediction error expansion (PEE) technique by using a novel interpolation algorithm which exploits interpixel correlation better. Furthermore, interpolation error histogram is divided into two regions. The parameters of each region are determined separately and iteratively to reach a given embedding capacity more precisely. However, adaptive embedding strategy is utilized to get better capacity-distortion performance. Advantage of the proposed method over the other state-of-the-art methods in terms of capacity and visual quality is demonstrated experimentally.
+
+@highlight Proposed algorithm is a new reversible image watermarking algorithm based on interpolation error expansion.
+@highlight In the data extraction, original image can be obtained from watermarked image in a distortionless manner.
+@highlight Watermarking algorithm embeds data adaptively into the image.
+@highlight Spatial correlation has been exploited effectively by using image interpolation algorithm.
+@highlight Image quality is preserved by proposed pixel selection algorithm.

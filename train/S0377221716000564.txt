@@ -1,0 +1,6 @@
+ In this paper, we generalize a formula for the discrete Choquet integral by replacing the standard product by a suitable fusion function. For the introduced fusion functions based discrete Choquet-like integrals we discuss and prove several properties and also show that our generalization leads to several new interesting functionals. We provide a complete characterization of the introduced functionals as aggregation functions. For several new aggregation functions are obtained, and if symmetric capacities are considered, our approach yields new generalizations of OWA operators. If n > 2, the introduced functionals are aggregation functions only if they are Choquet integrals with respect to some distorted capacity.
+
+@highlight A new generalization of the discrete Choquet integral is proposed.
+@highlight Fusion functions yielding particular properties are characterized.
+@highlight Translation invariant generalizations are completely described.
+@highlight New classes of binary aggregation functions are exemplified.

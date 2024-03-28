@@ -1,0 +1,7 @@
+ This paper deals with a generalized version of the capacitated p-center problem. The model takes into account the possibility that a center might suffer a disruption (being unavailable to serve some demand) and assumes that every site will be covered by its closest available center. The problem is of interest when the goal is to locate emergency centers while, at the same time, taking precautions against an unforeseen incident (natural disaster, labor strike, accident…) which can cause failure of a center. We consider different formulations for the problem and extensive computational tests are reported, showing the potentials and limits of each formulation in several types of instances. Finally, a preprocessing phase for fixing variables has been developed and different families of valid inequalities have been proposed to strengthen the most promising formulations, obtaining in some cases much better resolution times.
+
+@highlight Different formulations for a genearalized p-center location problem.
+@highlight Developing of a heuristic approach to solve the problem.
+@highlight Development of preprocessing phases for fixing variables.
+@highlight Valid inequalities have been proposed for strengthening the formulations.
+@highlight An exact solution approach reducing two orders of magnitude the initial CPU times.

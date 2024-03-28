@@ -1,0 +1,7 @@
+ In this paper we take into account three different spanning tree problems with degree-dependent objective functions. The main application of these problems is in the field of optical network design. In particular, we propose the classical Minimum Leaves Spanning Tree problem as a relevant problem in this field and show its relations with the Minimum Branch Vertices and the Minimum Degree Sum Problems. We present a unified memetic algorithm for the three problems and show its effectiveness on a wide range of test instances.
+
+@highlight We study three spanning tree problems with degree-dependent objective functions.
+@highlight Finding the ST with fewest leaves is proven to be relevant for optical networks.
+@highlight Several relations among the three problems are demonstrated.
+@highlight We propose mathematical models and a memetic approach for the problems.
+@highlight We show the effectivity of the proposed approach on test instances.

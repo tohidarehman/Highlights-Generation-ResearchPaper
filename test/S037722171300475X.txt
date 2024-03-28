@@ -1,0 +1,5 @@
+ We formulate and solve a new hub location and pricing problem, describing a situation in which an existing transportation company operates a hub and spoke network, and a new company wants to enter into the same market, using an incomplete hub and spoke network. The entrant maximizes its profit by choosing the best hub locations and network topology and applying optimal pricing, considering that the existing company applies mill pricing. Customers’ behavior is modeled using a logit discrete choice model. We solve instances derived from the CAB dataset using a genetic algorithm and a closed expression for the optimal pricing. Our model confirms that, in competitive settings, seeking the largest market share is dominated by profit maximization. We also describe some conditions under which it is not convenient for the entrant to enter the market.
+
+@highlight We solve a hub location- pricing problem.
+@highlight Profit maximization dominates market share maximization in competitive situations.
+@highlight Customers’ sensitivity to price is shown to be determinant for location.

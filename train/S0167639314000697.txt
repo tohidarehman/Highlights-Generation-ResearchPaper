@@ -1,0 +1,6 @@
+ A spectral envelope estimation algorithm is presented to achieve high-quality speech synthesis. The concept of the algorithm is to obtain an accurate and temporally stable spectral envelope. The algorithm uses fundamental frequency (F0) and consists of F0-adaptive windowing, smoothing of the power spectrum, and spectral recovery in the quefrency domain. Objective and subjective evaluations were carried out to demonstrate the effectiveness of the proposed algorithm. Results of both evaluations indicated that the proposed algorithm can obtain a temporally stable spectral envelope and synthesize speech with higher sound quality than speech synthesized with other algorithms.
+
+@highlight A spectral envelope estimator is presented for high-quality speech synthesis.
+@highlight The proposed algorithm enables us to obtain the temporally stable spectral envelope.
+@highlight Objective results showed the proposed algorithm was better than other algorithms.
+@highlight Subjective results showed that the proposed algorithm can synthesize natural speech.

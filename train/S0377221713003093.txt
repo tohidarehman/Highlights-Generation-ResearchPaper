@@ -1,0 +1,7 @@
+ This work addresses harvest planning problems that arise in the production of sugar and alcohol from sugar cane in Brazil. The planning is performed for two planning horizons, tactical and operational planning, such that the total sugar content in the harvested cane is maximized. The tactical planning comprises the entire harvest season that averages seven months. The operational planning considers a horizon from seven to thirty days. Both problems are solved by mixed integer programming. The tactical planning is well handled. The model for the operational planning extends the one for the tactical planning and is presented in detail. Valid inequalities are introduced and three techniques are proposed to speed up finding quality solutions. These include pre-processing by grouping and filtering the distance matrix between fields, hot starting with construction heuristic solutions, and dividing and sequentially solving the resulting MIP program. Experiments are run over a set of real world and artificial instances. A case study illustrates the benefits of the proposed planning.
+
+@highlight We model tactical and operational planning as a mixed integer programming model.
+@highlight We propose new valid inequalities to reduce the integrality gap.
+@highlight We propose heuristic pre-processing techniques to speed-up the resolution time.
+@highlight We solve the problem instances in short cpu times to optimality gaps below 5%.
+@highlight The solutions suggested hold a potential to improve the total profit by 2.5%.

@@ -1,0 +1,7 @@
+ This paper describes an Essential Software Framework for Meshfree Methods (ESFM). Through thorough analyses of many existing meshfree methods, their common elements and procedures are identified, and a general procedure is formulated into ESFM that can facilitate their implementations and accelerate new developments in meshfree methods. ESFM also modulates performance-critical components such as neighbor-point searching, sparse-matrix storage, and sparse-matrix solver enabling developed meshfree analysis programs to achieve high-performance. ESFM currently consists of 21 groups of classes and 94 subclasses, and more algorithms can be easily incorporated into ESFM. Finally, ESFM provides a common ground to compare various meshfree methods, enabling detailed analyses of performance characteristics.
+
+@highlight ESFM, an object-oriented software framework for meshfree methods, is described.
+@highlight Using few ESFM components can yield 48 variations of meshfree methods.
+@highlight ESFM enables exploring meshfree method implementations such as data structures and algorithms.
+@highlight Using ESFM, researchers can develop new meshfree methods with much less effort.
+@highlight ESFM is an ideal platform for future research on meshfree methods.

@@ -1,0 +1,6 @@
+ Steganography has become a hot topic in information hiding, and the reversibility technology allows the recovery of the original image without distortion when the embedded secret information is extracted. In this paper, a high payload image steganographic scheme based on an extended interpolating method is proposed. In the premise of image quality assurance, the proposed scheme increases the capacity by maximizing the difference between neighboring pixels. Meanwhile, it has low complexity and retains good image quality. Extensive experiments on images have been conducted and the experimental results demonstrate that the proposed approach performs better than several state-of-the-art methods.
+
+@highlight By analysis of statistical properties of adjacent pixels as well as image interpolation techniques, a novel interpolation method is put forward.
+@highlight Under the conditions of ensuring the image quality, the proposed image interpolation method maximizes the difference values between neighboring pixels and improves the capacity.
+@highlight The proposed scheme still has the advantage of lower computing complexity and better results between interpolating pixels.
+@highlight The experimental results show that the performance of the proposed method is superior to several state-of-the-art methods.

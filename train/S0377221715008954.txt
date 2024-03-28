@@ -1,0 +1,5 @@
+ We extend the literature on risk preferences of a representative bettor by including odds-dependent bet sizes in our estimations. Accounting for different bet sizes largely reduces the standard errors of all coefficients. Substituting the coefficients from the model with equal bet sizes into the model with odds-dependent sizes leads to a sharp decline in the likelihood which shows that accounting for different amounts is important. Our estimations strongly reject the hypothesis that the overbetting of outcomes with low probabilities (favorite-longshot bias) can be explained by risk-seeking bettors. Depending on the exact specification within cumulative prospect theory, the data can best be described by an overweighting of small probabilities which is more pronounced in the gain domain. Models allowing for two parameters for probability weighting each in the gain- and in the loss domain are superior.
+
+@highlight We show that including bet sizes is crucial for understanding betting behavior.
+@highlight We find no evidence for risk-seeking preferences.
+@highlight We find strong evidence for the overweighting of small loss probabilities.

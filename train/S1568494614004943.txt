@@ -1,0 +1,5 @@
+ Effective planning and scheduling of relief operations play a key role in saving lives and reducing damage in disasters. These emergency operations involve a variety of challenging optimization problems, for which evolutionary computation methods are well suited. In this paper we survey the research advances in evolutionary algorithms (EAs) applied to disaster relief operations. The operational problems are classified into five typical categories, and representative works on EAs for solving the problems are summarized, in order to give readers a general overview of the state-of-the-arts and facilitate them to find suitable methods in practical applications. Several state-of-art methods are compared on a set of real-world emergency transportation problem instances, and some lessons are drawn from the experimental analysis. Finally, the strengths, limitations and future directions in the area are discussed.
+
+@highlight We provide an overview of evolutionary algorithms for disaster relief operations.
+@highlight We show major strengths and shortcomings of the state-of-the-arts.
+@highlight We discuss potential directions for future research.

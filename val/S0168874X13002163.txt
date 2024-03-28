@@ -1,0 +1,7 @@
+ An element has been developed for the analysis of laminated composite plates. The element is capable of representing high orders of displacement using very few degrees of freedom. The respective orders of deflection, rotation, moment and shear have been preserved through scrupulous choice of field variables. The element is found to have a correct rank and is free from shear locking. Performance of the element has been tested in a wide range of problems which indicate that combining all these features can help to achieve great accuracy at reduced computation cost.
+
+@highlight An element has been developed for the analysis of composite plates.
+@highlight The element has six nodes in its final form, each with the usual degrees of freedom.
+@highlight It has a correct rank, is free from spurious modes, with no signs of shear locking.
+@highlight The respective orders of deflection, rotation, moment and shear are preserved.
+@highlight The element performs very accurately and is computationally economic and efficient.
