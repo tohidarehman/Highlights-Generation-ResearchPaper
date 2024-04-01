@@ -1,7 +1,0 @@
- This article describes an experimental study investigating the impact on user experience of two approaches of personalization of content provided on a mobile device, for spectators at large sports events. A lab-based experiment showed that a system-driven approach to personalization was generally preferable, but that there were advantages to retaining some user control over the process. Usability implications for a hybrid approach, and design implications are discussed, with general support for countermeasures designed to overcome recognised limitations of adaptive systems.
-
-@highlight Personalized mobile content improves spectator UX at large sports events.
-@highlight User and system-initiated personalization approaches each provide distinct benefits.
-@highlight User initiated personalization provides accuracy and a feeling of control.
-@highlight System-initiated approaches minimise interaction effort from participants.
-@highlight An integrated hybrid approach can capitalise on the merits of both approaches.

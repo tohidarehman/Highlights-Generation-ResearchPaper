@@ -1,5 +1,0 @@
- The present contribution deals with the question how structures with softening material behavior can be controlled in a numerical analysis beyond limit points, when conventional path following schemes fail. For nonlinear problems with localized cracks, adaptive path following schemes that increase numerical robustness, minimize user interference and avoid nonphysical (artificial) unloading are presented. In the methods proposed, a control region is identified where control parameters are evaluated. This control region adapts with the continuation of the crack tip. Robustness and applicability of the schemes are illustrated by numerical examples.
-
-@highlight A new adaptive path following technique for tracing highly nonlinear static equilibrium paths is presented.
-@highlight It avoids nonphysical artificial unloading for materials with softening.
-@highlight The method allows efficient computation with a small number of increments and minimal user interference.

@@ -1,7 +1,0 @@
- Personal Health Records (PHR) are electronic applications for individuals to access, manage and share their health information in a secure environment. The goal of this study was to evaluate the usefulness and usability of a Web-based PHR technology aimed at improving preventive care, from both the patients' and primary care providers' perspectives. We conducted a multi-method descriptive study that included direct observations, concurrent think-aloud, surveys, interviews and focus groups in a suburban primary care clinic. Patients found the tailored health recommendations useful and the PHR easy to understand and use. They also reported asking useful health-related questions to their physicians because of using the system. Generally, care providers were interested in using the system due to its useful content and impact on patient activation. Future successful systems should be better integrated with hospital records; put more emphasis on system security; and offer more tailored health information based on comprehensive health databases.
-
-@highlight We examined the usefulness and usability of a Personal Health Records (PHR) application.
-@highlight Multiple methods with observations, think-aloud, surveys, interviews, focus groups.
-@highlight Patients found tailored health recommendations useful.
-@highlight Patients asked more informed questions to their providers due to the system.
-@highlight Care providers interested in PHR due to useful content and patient activation.

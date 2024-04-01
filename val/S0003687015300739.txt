@@ -1,6 +1,0 @@
- The central thesis of this paper is that Rasmussen framed his approach to Cognitive Systems Engineering from the perspective of a Triadic Semiotic Model. This frame became the context for integrating multiple intellectual threads including Control Theory, Information Theory, Ecological Psychology, and Gestalt Psychology into a coherent theoretical framework. The case is made that the triadic semiotic framework is essential for a complete appreciation of the constructs that were central to Rasmussen's approach: Abstraction Hierarchy, Skill-Rules-Knowledge Model, Ecological Interface Design, and Proactive Risk Management.
-
-@highlight Pierce's Triadic Model of Semiotics provides context for understanding Rasmussen's work.
-@highlight The Triadic Semiotic Model provides common ground for design and evaluation of cognitive systems.
-@highlight Rasmussen emphasized human capabilities as a resource for improving system performance.
-@highlight Components of Rasmussen's approach are evaluated through the lens of the Triadic Semiotic Model.

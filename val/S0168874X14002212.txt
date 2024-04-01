@@ -1,6 +1,0 @@
- This paper revisits the buckling analysis of a benchmark cylindrical panel undergoing snap-through when subjected to transverse loads. We show that previous studies either overestimated the buckling load and identified a false buckling mode, or failed to identify all secondary solution branches. Here, a numerical procedure composed of the arclength and branch switching methods is used to identify the full postbuckling response of the panel. Additional bifurcation points and corresponding secondary paths are discovered. Parametric studies of the effect of the rise, thickness, and boundary conditions of the panel on the buckling and postbuckling responses are also performed.
-
-@highlight All equilibrium paths of cylindrical panels are obtained.
-@highlight Numerical methods used are robust and efficient.
-@highlight Approach does not require prior knowledge or assumptions on solution.
-@highlight Influence of geometric characteristics on the equilibrium manifold is examined.

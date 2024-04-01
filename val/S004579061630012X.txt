@@ -1,5 +1,0 @@
- This paper proposes a dual mode guidance, which is called the proportional navigation-improved particle swarm optimization guidance (PN-IPSOG), in order to optimize the guidance performance of a missile. The improved particle swarm optimization guidance (IPSOG) has the advantages of a robustness and fast reaction, but the attitude of the missile is unstable in the initial phase. Therefore, proportional navigation (PN) guidance is used to adjust the attitude of the missile in the initial phase. Meanwhile, the angle Î¼ that is between the tangent of the current line-of-sight (LOS) rate and the horizontal reference line is calculated. When a set of Î¼ is close to zero, the PN-IPSOG switches from the PN guidance to the IPSOG. Numerical simulation results show that the performance of the PN-IPSOG is better than the PN guidance at miss distance and lateral accelerations.
-
-@highlight A dual mode guidance is developed for solve nonlinear missile guidance problem.
-@highlight Switch Law for detecting and switching from PNG to the IPSOG is also presented.
-@highlight PN-IPSOG has good guidance performance in miss distance and lateral accelerations.

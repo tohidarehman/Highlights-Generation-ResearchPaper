@@ -1,7 +1,0 @@
- An increasing intensity of operations means that the longstanding safety issue of rail level crossings is likely to become worse in the transport systems of the future. It has been suggested that the failure to prevent collisions may be, in part, due to a lack of systems thinking during design, crash analysis, and countermeasure development. This paper presents a systems analysis of current active rail level crossing systems in Victoria, Australia that was undertaken to identify design requirements to improve safety in future rail level crossing environments. Cognitive work analysis was used to analyse rail level crossing systems using data derived from a range of activities. Overall the analysis identified a range of instances where modification or redesign in line with systems thinking could potentially improve behaviour and safety. A notable finding is that there are opportunities for redesign outside of the physical rail level crossing infrastructure, including improved data systems, in-vehicle warnings and modifications to design processes, standards and guidelines. The implications for future rail level crossing systems are discussed.
-
-@highlight Future transport systems will be more diverse and complex.
-@highlight Rail level crossings are a key safety issue that will likely degenerate.
-@highlight We used cognitive work analysis to analyse rail level crossings.
-@highlight Key flaws and design requirements for future systems were identified.
-@highlight Modifications outside of rail level crossings are also required.

@@ -1,7 +1,0 @@
- Resource consumption in additive manufacturing (AM) is often tied with the physical attribute of the fabricated part. Thus, optimizing the processes plan for minimum part fabrication resource requirement is a matter of great interest. In this work, the hierarchical nature of the AM process plan steps are emphasized and both build direction and material deposition direction are optimized while considering the resource requirement. A novel combined two-step optimization methodology is presented to determine optimal build direction for the object and material deposition direction for layers while considering minimum contour plurality, surface quality, build height, fabrication factor, and layer contour concavity to compensate the fabrication and resource limitations. The proposed methodology is implemented for an example object and the results indicate that the total build time can be significantly reduced compared to the total build time associated with arbitrary build and deposition directions.
-
-@highlight Resource based process planning model is proposed for Additive manufacturing.
-@highlight Optimum build direction is determined for free-form object.
-@highlight Deposition directions are optimized for generated slices.
-@highlight Proposed methodology minimizes the resource consumption during part fabrication.
-@highlight Better build time and length are found during implementation.

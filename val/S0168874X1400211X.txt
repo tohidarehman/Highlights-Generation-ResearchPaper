@@ -1,8 +1,0 @@
- In this paper, an Interior Penalty Discontinuous Galerkin (IPDG) finite element method is analyzed for approximating quasilinear parabolic equations. The equations can be characterized as perturbed parabolic p-Laplacian equations. The fully discrete scheme is obtained by applying s-stage Diagonally Implicit Runge–Kutta (s-DIRK) methods for the time integration. The nonlinear systems of the algebraic equations appearing in s-DIRK cycles are solved by developing two low storage Picard iterative processes. A stability bound is shown for the semi-discrete IPDG solution in the broken DG norm . Continuous in time a priori error estimates are proved in case of , when linear approximation space is used. A numerical test is performed in order to compare the performance of the two Picard iterative processes. Also, the results presented in the theoretical analysis are confirmed by numerical examples.
-
-@highlight In this work we present an Interior Penalty Discontinuous Galerkin finite element method for solving quasilinear parabolic problems.
-@highlight In these problems where the diffusion coefficient has a p-exponent form.
-@highlight The natural formulation of the problem is in Lp
-@highlight space
-@highlight For the IPDG method, stability bounds and a-priori error estimates are shown.
-@highlight Two low computational cost Picard block-iterative methods are proposed.

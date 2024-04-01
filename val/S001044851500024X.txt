@@ -1,7 +1,0 @@
- For several 3D data applications such as data-hiding or compression, data ordering is a major problem. We need to know how to achieve the same 3D mesh path between the coding and decoding stages. Various algorithms have been proposed in recent years, but we focus on methods based on Euclidean Minimum Spanning Trees (EMST). In this paper, we analyse the sensitivity of the EMST structure to obtain a more robust synchronization. We present a new theoretical analysis and a way to visualize EMST robustness. Moreover, this analysis can be useful in 3D data-hiding in order to detect fragile area and to predict the 3D object robustness during transmission on a noisy channel.
-
-@highlight We analysed sensitivity of the EMST structure to obtain a more robust synchronization.
-@highlight We computed how a vertex can be moved without changing the connections.
-@highlight We present a new theoretical analysis and a way to visualize EMST robustness.
-@highlight We detect fragile area and to predict the 3D object robustness.
-@highlight Keywords are Euclidean minimum spanning tree, Sensitivity analysis, Synchronization.

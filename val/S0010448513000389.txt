@@ -1,6 +1,0 @@
- When end milling free-form surfaces using a torus milling cutter, the notion of cutter effective radius is often used to address the procedure for removal of material from a purely geometrical perspective. Using an original analytical approach, the present study establishes a relation enabling the value of this effective radius to be easily computed. The limits of validity of this relation are then discussed and precisely defined. By way of an illustration, an example of how this relation can be used to generate a numerical tool for analysis of the possibilities for machining free-form surfaces on multi-axis machine-tools is also presented.
-
-@highlight Importance of effective radius in studying milling of free-form surfaces with a torus cutter.
-@highlight Establishing an analytical expression of the effective radius of a torus milling cutter working in translation.
-@highlight Same expression used to calculate the effective radius near instantaneously.
-@highlight Presentation of an industrial example showing potential use of the expression.

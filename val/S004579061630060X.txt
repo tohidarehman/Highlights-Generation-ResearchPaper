@@ -1,7 +1,0 @@
- Recently, hyperspectral image compression has become an urgent issue for remote sensing applications. A lossy hyperspectral image compression scheme based on intra-band prediction and inter-band fractal encoding is put forward in this paper. The hyperspectral image is firstly partitioned into several groups of bands (GOBs). Intra-band prediction is applied to the first band in each GOB, exploiting spatial correlation, while inter-band fractal encoding with a local search algorithm is applied to the other bands in each GOB, making use of the local similarity between two adjacent bands. The fractal parameters are signed Exp-Golomb entropy encoded. To improve the decoded quality, the prediction error and fractal residual are further transformed, quantized, and entropy encoded. Experimental results illustrate that the proposed scheme can obtain a better compression performance with low complexity compared with other well-known methods. In addition, the effect of compression on SVM (Support Vector Machine) classification is presented.
-
-@highlight Hightlights
-@highlight A lossy hyperspectral image compression scheme based on intra-band prediction and inter-band fractal is proposed.
-@highlight Intra-band prediction exploiting spatial correlation is applied to I-bands.
-@highlight Inter-band fractal encoding with a local search algorithm is applied to P-bands.
-@highlight SVM classification accuracy for the reconstructed image is slightly higher than that for the original one.

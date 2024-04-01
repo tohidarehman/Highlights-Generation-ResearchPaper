@@ -1,7 +1,0 @@
- This paper provides a case study of Signal Detection Theory (SDT) as applied to a continuous monitoring dual-task environment. Specifically, SDT was used to evaluate the independent contributions of sensitivity and bias to different qualitative gauges used in process control. To assess detection performance in monitoring the gauges, we developed a Time Window-based Human-In-The-Loop (TWHITL) simulation bed. Through this test bed, we were able to generate a display similar to those monitored by console operators in oil and gas refinery plants. By using SDT and TWHITL, we evaluated the sensitivity, operator bias, and response time of flow, level, pressure, and temperature gauge shapes developed by Abnormal Situation Management® (ASM®) Consortium (www.asmconsortium.org). Our findings suggest that display density influences the effectiveness of participants in detecting abnormal shapes. Furthermore, results suggest that some shapes elicit better detection performance than others.
-
-@highlight Our findings suggest design principles for continuous monitoring multi-task environments in oil and gas refineries.
-@highlight Combinations of flow and level gauge shapes and a small set size promote effective performance.
-@highlight Combinations of pressure and temperature gauge shapes and a large set size elicit ineffective performance.
-@highlight In general, a smaller set size will elicit faster and more sensitive performance.
-@highlight However, smaller set sizes elicit more false alarms so the cost of false alarms must be considered in the design.

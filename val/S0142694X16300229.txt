@@ -1,7 +1,0 @@
- Modularisation, product platforms, product families and product configuration are efficient product structuring tactics in mass customisation. Industry needs descriptions of how the engineering should be done in this context. We suggest that key engineering concepts in this field are partitioning logic, set of modules, interfaces, architecture and configuration knowledge. A literature review reveals that methods consider these concepts partly or with different combinations, but considering all of them is rare. Therefore, a design method known as the Brownfield Process is presented. The method is applied to an industrial case in which the aim was rationalisation of existing product variety towards a modular product family that enables product configuration. We suggest that the method is valuable in cases with similar goals.
-
-@highlight Existing methods in modular product family development are reviewed.
-@highlight Key engineering concepts in this field are suggested.
-@highlight Considering the key engineering concepts in a single design method is rare.
-@highlight Method that considers the key engineering concepts is presented.
-@highlight The method helps defining design information related to the key concepts.

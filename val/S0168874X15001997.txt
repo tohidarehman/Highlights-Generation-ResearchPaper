@@ -1,6 +1,0 @@
- Progressive fracture in quasi-brittle materials is often treated via strain softening models in continuum damage mechanics. Such constitutive relations favour spurious strain localization and ill-posedness of boundary value problems. The introduction of non-local damage models together with a characteristic length parameter controlling the size of the fracture process zone is known to regularize the problem. In order to account for the non-locality of these models, it is crucial to work with fine spatial discretizations at the damage progress zone. In this paper we present a non-local damage model in combination with a mesh-adaptive finite element technique that can help automatize the analysis of progressive fracture problems in an efficient manner. Classical two-dimensional examples are given to illustrate the presented approach.
-
-@highlight Fracture of quasi-brittle materials is treated via continuum damage mechanics.
-@highlight Strain localization is regularized through an integral-type non-local damage model.
-@highlight A mesh-adaptive finite element technique has been implemented to work along with the non-local damage model.
-@highlight Examples in 2D are given to illustrate the presented approach.

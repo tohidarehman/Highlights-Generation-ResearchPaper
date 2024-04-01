@@ -1,6 +1,0 @@
- Operators in dynamic work environments use strategies to manage threats in order to achieve task goals. We introduce a structured interview method, the Threat-Strategy Interview (TSI), and an accompanying qualitative analysis to induce operator-level threats, strategies, and the cues that give rise to them. The TSI can be used to elicit knowledge from operators who are on the front line of managing threats to provide an understanding of strategic thinking, which in turn can be applied toward a variety of problems.
-
-@highlight A structured interview (TSI) elicited strategies to combat threats.
-@highlight Threats obstruct safe task completion.
-@highlight Strategies are plans to achieve goals.
-@highlight The TSI can be applied to uncover strategic thinking in dynamic environments.

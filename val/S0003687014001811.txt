@@ -1,7 +1,0 @@
- The assessment of glare is a key consideration in the design of a railway driver's cab. However, unlike assessment of other factors, such as forward visibility, there are no standardised approaches for performing assessments of glare. This paper describes an approach for assessing the impact of glare in a full size mock-up of a railway cab. While it is unrealistic to evaluate every possible lighting condition that may potentially occur in the vehicle cab in service, a pragmatic and practical approach is taken to provide a good level of indicative information about the cab design's likely glare performance. This involves assessing internal light sources, such as internal lights and illuminated controls, and simulating external light sources (e.g. the sun, other trains' headlights) by illuminating the cab mock up windscreen, side and door windows with a single light source manually located in a sequence of discrete positions and orientations and assessing the resulting glare impacts. The paper describes a structured process for assessing and recording the impact of glare and recommending mitigations.
-
-@highlight Glare is key design consideration for train cabs.
-@highlight There are no established standardised approaches for assessing glare within a rail context.
-@highlight We propose a new approach for assessing the impact of glare using subjective ratings.
-@highlight Initial findings indicate that this approach may be of wider use.
-@highlight Further validation of the described approach is needed.

@@ -1,5 +1,0 @@
- In this paper, mathematical models of biofilteration of mixtures of hydrophilic (methanol) and hydrophobic (α-pinene) volatile organic compounds (VOC's) biofilters were discussed. The model proposed here is based on the mass transfer in air–biofilm interface and chemical oxidation in the air stream phase. An approximate analytical expression of concentration profiles of methanol and α-pinene in air stream and biofilm phase have been derived using the Adomian decomposition method (ADM) for all possible values of parameters. Furthermore, in this work, the numerical simulation of the problem is also reported using the Matlab program to investigate the dynamics of the system. Graphical results are presented and discussed quantitatively to illustrate the solution. Good agreement between the analytical and numerical data is noted.
-
-@highlight Analytical expressions of concentrations of substrate are presented in gas and biofilm phase.
-@highlight Analytical results are compared with the numerical results and are good in agreement.
-@highlight Analytical results provide a good understanding of the system and the optimization of the parameters in biofiltration model.

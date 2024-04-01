@@ -1,6 +1,0 @@
- This paper outlines the human error identification (HEI) techniques that currently exist to assess latent human errors. Many formal error identification techniques have existed for years, but few have been validated to cover latent human error analysis in different domains. This study considers many possible error modes and influential factors, including external error modes, internal error modes, psychological error mechanisms, and performance shaping factors, and integrates several execution procedures and frameworks of HEI techniques. The case study in this research was the operational process of changing chemical cylinders in a factory. In addition, the integrated HEI method was used to assess the operational processes and the system's reliability. It was concluded that the integrated method is a valuable aid to develop much safer operational processes and can be used to predict human error rates on critical tasks in the plant.
-
-@highlight A number of execution procedures and frameworks of HEI techniques were integrated to assess latent human errors.
-@highlight Some latent human errors and error mechanism of a chemical cylinder change task have been identified.
-@highlight The human error probability of the case system has been calculated.
-@highlight Some strategies to prevent latent human errors of the case system have been proposed.

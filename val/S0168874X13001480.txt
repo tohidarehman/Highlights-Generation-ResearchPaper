@@ -1,7 +1,0 @@
- In this paper, the effect of initial geometric imperfections on the buckling load of steel tubes (relatively thick cylindrical shells) under axial load and lateral pressure is investigated. The geometric imperfections are modeled as a 2D-1V non-homogeneous Gaussian stochastic field simulated using the spectral representation method. The evolutionary power spectrum of the non-homogeneous field is derived from available experimental measurements using the recently proposed method of separation. For the determination of the limit load variability of the tubes, a stochastic formulation based on Monte Carlo simulation is implemented. It is shown that the imperfections can lead to a substantial reduction of the buckling load and thus should be taken into account via a realistic description through stochastic field modeling.
-
-@highlight The buckling load variability of imperfect steel tubes is investigated.
-@highlight The imperfections are modeled as a non-homogeneous Gaussian stochastic field.
-@highlight Evolutionary power spectra are derived from experimental measurements.
-@highlight The imperfections can lead to a substantial reduction of the buckling load.
-@highlight The type of loading and the imperfections affect the failure modes of the tubes.

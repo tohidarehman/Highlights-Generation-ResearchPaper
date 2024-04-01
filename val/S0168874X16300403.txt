@@ -1,5 +1,0 @@
- In this paper, we propose a stabilized augmented Lagrange multiplier method for the finite element solution of small deformation elastic contact problems. We limit ourselves to friction-free contact with a rigid obstacle, but the formulation is readily extendable to more complex situations.
-
-@highlight Stabilized method for finite element solution of elastic contact problems.
-@highlight Stabilized augmented Lagrange multiplier method for contact.
-@highlight FEA solution of Hertzian contact problem.

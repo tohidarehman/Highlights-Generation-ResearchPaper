@@ -1,8 +1,0 @@
- The paper proposes a 3D mixed finite element and tests its performance in elasto-plastic and limit analysis problems. A composite tetrahedron mesh is assumed over the domain. Within each element the displacement field is described by a quadratic interpolation, while the stress field is represented by a piece-wise constant description by introducing a subdivision of the element into four tetrahedral regions. The assumptions for the unknown fields make the element computationally efficient and simple to implement also in existing codes. The limit and elasto-plastic analyses are formulated as a unified mathematical programming problem allowing the use of Interior Point like algorithms. A series of numerical experiments shows that the proposed finite element is locking free and has a good plastic behavior.
-
-@highlight The element is simple and easy nevertheless is accurate and robust in plasticity.
-@highlight The displacement and stress interpolations produces an isostatic element.
-@highlight The element is locking free.
-@highlight The piece-wise constant stress addresses the discontinuities in the plastic strain.
-@highlight T.
-@highlight The numerical experiments show that the element is stable also with irregular meshes.

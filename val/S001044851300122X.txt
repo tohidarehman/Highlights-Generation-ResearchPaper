@@ -1,6 +1,0 @@
- In this paper, a customised fashion design system is proposed for non-professional users (general customers) to create their preferred fashion designs in a user-friendly way. The proposed sketch design system consists of a sketch representation and composing method, an interactive genetic algorithm (IGA)-based design model, and a user-friendly interface. The sketch representation and composing method generates feasible design sketches, based on the design parameters defined by the IGA-based design model, and the sketches are presented to customers via the user-friendly interface. Experimental results have demonstrated that the proposed system is effective in generating fashion design sketches reflecting users’ preference. 
-
-@highlight A sketch design system is proposed for customers to create/customise fashion designs.
-@highlight A representation model classifies various designs as three-level design elements.
-@highlight A knowledge model governs the generation of designs and avoids impractical designs.
-@highlight Interactive genetic algorithms govern design creation based on users’ preferences.

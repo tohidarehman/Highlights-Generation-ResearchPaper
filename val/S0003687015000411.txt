@@ -1,7 +1,0 @@
- The adverse effects of night-shift work and alcohol consumption on performance have received considerable attention. However, how night shifts and alcohol affect productivity in workers has not been quantified. This paper describes the experiments featuring multiple tiling tasks and patterns. The tiling quality performed by the graduate student participants in four different statuses was objectively evaluated by an edge-detection computer program. The results indicate that both night shift and alcohol significantly reduce the quality in general, and the effects of the factors on position and alignment-angle qualities were dissimilar in distinct areas due to tile patterns and size. Both night-shift and alcohol conditions affected the basic (−34.01% and −25.79%) and advanced tiling abilities (−40.14% and −26.16%), and night shift had a larger impact than alcohol. These results provide jobsite managers with usable information regarding how night shifts and alcohol affect workers' abilities to execute basic and advanced tasks.
-
-@highlight We designed five tiling tasks to evaluate the impact of night shift and alcohol.
-@highlight Participants executed the tasks in four statuses (e.g., inebriation, night shift).
-@highlight Night shift had a larger impact than did alcohol.
-@highlight Tiling quality was decreased, by 31.31% (night shift) and 23.82% (alcohol).
-@highlight Both factors potently affected the ability to execute basic and advanced tasks.

@@ -1,7 +1,0 @@
- A nonlocal extension of the damage-plasticity model CDPM2 is proposed. The performance of this extension is evaluated in comparison with a crack band version of the same model for describing the failure of reinforced concrete. In particular, the influence of mesh size on the structural response in the form of load–displacement curves and strain distributions is studied for a reinforced concrete beam subjected to four point bending. The nonlocal model provides mesh independent load–displacement curves and strain profiles, whereas the peak loads and strain profiles obtained with the crack band model depend on the element size.
-
-@highlight A new nonlocal damage-plasticity model has been proposed.
-@highlight The model has been applied to analyse plain and reinforced concrete members.
-@highlight The results of the nonlocal model are compared to those of a crack band approach.
-@highlight The influence of mesh size for the two modelling approaches has been investigated.
-@highlight The nonlocal model yields mesh independent results.

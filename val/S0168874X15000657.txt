@@ -1,5 +1,0 @@
- We propose a discontinuous finite element method for small strain elasticity allowing for cohesive zone modeling. The method yields a seamless transition between the discontinuous Galerkin method and classical cohesive zone modeling. Some relevant numerical examples are presented.
-
-@highlight A new discontinuous FEM for cohesive zones is proposed.
-@highlight Allows for seamless transition from pre-failure to post-failure behaviour.
-@highlight Application to realistic nonlinear models of cohesive failure.

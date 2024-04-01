@@ -1,7 +1,0 @@
- A finite element formulation is proposed to implement the Discontinuous Galerkin method in commercial FE code (here, Abaqus). Such an implementation leads to the definition of perfect interfaces, and then, allows the definition of extrinsic cohesive zone. The proposed element is tested in a simple mechanical configuration, and the influence of several parameters is focused on. Formulation limitations are last explained.
-
-@highlight We propose a Finite Element formulation based on the Discontinuous Galerkin method.
-@highlight The element is implemented in Abaqus using User Element subroutine.
-@highlight The element is tested on a simple mechanical configuration.
-@highlight Element parameters influence on the interfacial response is focused on.
-@highlight Element limitation is shown and explained.

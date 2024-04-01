@@ -1,7 +1,0 @@
- Purpose Designers and ergonomists may occasionally be limited to using tables of percentiles of anthropometric data to model users. Design models that add or subtract percentiles produce unreliable estimates of the proportion of users accommodated, in part because they assume a perfect correlation between variables. Percentile data do not allow the use of more reliable modeling methods such as Principle Component Analysis. A better method is needed. Results A new method for modeling with limited data is described. It uses measures of central tendency (median or mean) of the range of possible correlation values to estimate the combined variance is shown to reduce error compared to combining percentiles. Second, use of the Chebyshev inequality allows the designer to more reliably estimate the percent accommodation when the distributions of the underlying anthropometric data are unknown than does combining percentiles. Conclusion This paper describes a modeling method that is more accurate than combining percentiles when only limited data are available.
-
-@highlight Severly limited data may force anthropometric modeling based on adding percentiles.
-@highlight Adding percentiles is shown to assume a perfect correlation between variables.
-@highlight A method superior to adding percentiles is demonstrated.
-@highlight The method is applicable when the correlation between variables is unknown.
-@highlight The method is applicable when the distribution of the data is unknown.

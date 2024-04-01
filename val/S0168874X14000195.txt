@@ -1,6 +1,0 @@
- A numerical investigation on the performance of wave barrier and a developed optimization design method for wave barrier are presented. Firstly, a two-dimensional (2D) numerical model is built in ABAQUS and the results are verified by previous publications. A comparative study of the 2D model and three-dimensional (3D) model is also carried out. Then, an extensive parametric study is committed to investigate the effect of each parameter on the barrier vibration isolation effectiveness, key parameters are identified. Unlike most of the previous work, an optimization design method has finally been developed to find out the barrier which has the best vibration isolation effectiveness. An example of optimization design for barriers made up of expanded polystyrene (EPS) geofoam is shown as well. This suggested method can provide useful guidelines for wave barrier design in practice.
-
-@highlight We develop an optimization design method for wave barrier.
-@highlight The barrier which has the best isolation performance is identified.
-@highlight We perform an extensive parametric study on the barrier isolation effectiveness.
-@highlight The barrier depth, width and Young׳s modulus are major concern in practical design.

@@ -1,6 +1,0 @@
- In this research work, a new k-class approach for efficient and accurate face recognition called kCAFRe is established. The kCAFRe system has three stages: preprocessing, training, and testing. In the training phase, four reference pictures (classes) are constructed for each person. During testing, the correlation coefficient (CC) is calculated between the picture under test and each of the reference pictures. For each person, one accredited class is chosen. Subsequently, the accredited class for the person with the highest CC is selected. Results were given for four image databases. A recognition ratio of 97% has been obtained for the Libor Spacek’s set.
-
-@highlight A novel k-class approach system for accurate face recognition is introduced.
-@highlight The system is fully automatic: every step in the system is automatically performed.
-@highlight The system does not take long time to recognize a picture from a large database.
-@highlight The system achieves high recognition rates of 96.9% for Rank 1 and 99.5% for Rank 10.

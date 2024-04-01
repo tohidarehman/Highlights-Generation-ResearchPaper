@@ -1,7 +1,0 @@
- Evaluation of the tangent modulus is one of the crucial steps in the finite element implementation of a constitutive model. The analytical derivation of the fourth order tangent moduli is in general a tedious task as it involves the derivative of stress tensor with respective to an appropriate strain tensor. A constitutive model independent subroutine which numerically evaluates tangent modulus in the place of material model specific closed form analytical expressions is developed in this study. In this context, the concept of numerically approximated Cauchy integral (NACI) is introduced based on Cauchy integral formula for evaluating derivatives. The performance of this method is demonstrated by evaluating tangent moduli for five hyperelastic models. In addition, efficacy of NACI is compared to the other existing numerical methods generally employed to evaluate tangent moduli. NACI is found to be computationally efficient and numerically robust when compared to the existing procedures.
-
-@highlight Numerically approximated Cauchy integral (NACI) is proposed to find accurate higher order derivatives.
-@highlight NACI is used to evaluate tensor derivatives of scalar functions.
-@highlight NACI is used to evaluate fourth order tangent moduli in material models.
-@highlight Computational efficiency of NACI is compared with other numerical procedures.
-@highlight NACI is found to be numerically robust and computationally efficient method for evaluating derivatives.

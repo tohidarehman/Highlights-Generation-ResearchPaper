@@ -1,5 +1,0 @@
- An Element-free Galerkin scaled boundary method (EFG-SBM) based partitioning algorithm is proposed for the 2D steady-state heat transfer analysis of cyclically symmetrical structures. The eigenvalue matrices of EFG-SBM for the rotationally periodic system are proved to be block-circulant under a symmetry-adapted reference coordinate system. Furthermore, both the eigenvalue and system equations can be partitioned into a number of smaller independent problems which are solved by a partitioning algorithm. Numerical examples are given to verify the proposed algorithm in term of computing accuracy and efficiency.
-
-@highlight Prove the matrices of the eigenvalue and system equations of EFG-SBM block-circulant.
-@highlight Present a partitioning algorithm for the rotationally periodic system.
-@highlight Illustrate computational expense can be significantly reduced via numerical tests.

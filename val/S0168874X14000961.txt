@@ -1,7 +1,0 @@
- A mixed 8-nodes quadrilateral 16 dof membrane finite element, called HQ8-13β, is proposed. It is developed within the Hellinger–Reissner variational framework: the assumed stress is self-equilibrated and based on Airy stress solution and the kinematics includes drilling rotations handled à la Allman. It is particularly suitable for recovering constant bending solution accurately with less sensitivity to mesh distortion. On the whole, it shows accuracy also for very coarse meshes anda convergence of order . Its performance has been extensively investigated. Patch tests, considering constant stress, constant and linear bending, are passed. Convergence and the accuracy, in higher order benchmarks, compare well with other elements available in the literature, stress recovery being less sensitive to the mesh distortion. The handling of drilling rotations, which avoids spurious modes without introducing penalty constraints, allows the rotations field to be accurately recovered, making the element suitable for the geometrically nonlinear analysis within a corotational formulation.
-
-@highlight A mixed/hybrid isostatic quadrilateral membrane finite element is proposed.
-@highlight The assumed stress is based on Airy stresses.
-@highlight It is based on Allman׳ kinematics and an additional incompatible mode.
-@highlight There are no spurious modes and no penalty constraints.
-@highlight The performance of element shows accuracy for coarse mesh and less sensitive to mesh distortion.

@@ -1,6 +1,0 @@
- A method for performing modal analysis of undamped active flexible multibody systems with collocated sensors and actuators in a finite element environment was recently developed by the authors. In this paper, the theory is further expanded to include systems with non-collocated sensors and actuators, damping and steady-state error elimination. The closed-loop eigenvalue problem for active flexible multibody systems with multiple-input multiple-output proportional-integral-derivative (PID) feedback type controllers and multiple degrees of freedom finite element models is solved.
-
-@highlight Coupled mechanical and control system equations are expressed in second-order form.
-@highlight n-Space eigensolvers can be used without damping and steady-state error elimination.
-@highlight 2n eigensolvers can be used with damping.
-@highlight New 3n eigensolver method allows for both damping and steady-state error elimination.

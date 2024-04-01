@@ -1,6 +1,0 @@
- The research goal is to develop a numerical method and computer code to inverse compute the multilayer moduli of a flexible pavement structure. A finite element model with infinite-elements on the infinite-half spaces of boundaries is developed to model pavement responses. A Newton–Raphson iteration procedure is proposed to inverse compute the multilayer moduli. Compared to most conventional analytical approaches it could account for temperature profile and associated modulus variation. A computer code is developed for the entire numerical computation. An average error of 1.77, 10.83, 8.99 and 1.08% is achieved for the inversed moduli of asphalt layer, base, subbase, and soil, respectively, based on 5000 dataset for validation. The method could also inverse compute the modulus variation of the top asphalt layer due to temperature profile, with an average error of 4.45% attained for three examples in cold, regular and hot weather conditions.
-
-@highlight We developed a numerical method and code to inverse multilayer moduli.
-@highlight It accounts for temperature profile and modulus variation.
-@highlight Empirically estimated moduli seeds improve engineering accuracy.
-@highlight Moduli seeds have minimal effects on the numerical accuracy.

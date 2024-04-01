@@ -1,5 +1,0 @@
- This paper presents an isogeometric local h-refinement algorithm based on localized multigrid resolution dedicated to computational mechanics. This algorithm leads to a solution on a quasi-optimal refined mesh initially unknown for a given precision criterion. Moreover, it allows us to circumvent the obstacle of refinement of non-straight geometric boundaries existing in full multigrid algorithms with isoparametric finite element analysis.
-
-@highlight An isogeometric local h-refinement based on multigrid resolution is proposed.
-@highlight It leads to a solution on a quasi-optimal mesh for a given precision criterion.
-@highlight It solves the problem of non-straight boundaries in multigrid resolution with FEA.

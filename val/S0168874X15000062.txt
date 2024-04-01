@@ -1,7 +1,0 @@
- In , a definition is given of the ‘most normal’ normal. This is the normal that minimizes the maximal angle with a given set of normals. The algorithm proposed does indeed compute a normal that verifies the previous property. However, this may not always be the ‘most normal’ normal. The previous normal should have more appropriately been called the ‘most visible’ normal. In the present work, an algorithm is designed to compute the real ‘most normal’ normal, namely the normal that maximizes the minimum angle with the planes carried by the triangles surrounding a point. This normal is the optimal point normal for boundary layer mesh generation if it is in the visibility cone. The algorithm consists in computing the generalized Voronoi diagram on the sphere of the edges created by the intersection between the triangles and the sphere. Numerical results illustrate the method, and compare with the previous algorithm.
-
-@highlight A new method to compute a point normal is proposed.
-@highlight This normal is the ‘most normal’ one. It maximizes the minimal angle with the surrounding planes.
-@highlight This provides an optimal boundary layer normal if it is in the visibility cone.
-@highlight Compared to approximate methods such as Fast Marching Methods, this is the exact solution.
-@highlight The Voronoi diagram of edges has been extended to the sphere.

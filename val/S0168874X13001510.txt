@@ -1,6 +1,0 @@
- A new approach for extracting stress intensity factors (SIFs) by the element-free Galerkin (EFG) class of methods through a modified crack closure integral (MCCI) scheme is proposed. Its primary feature is that it allows accurate calculation of mode I and mode II SIFs with a relatively simple and straightforward analysis even when a coarser nodal density is employed. The details of the adoption of the MCCI technique in the EFG method are described. Its performance is demonstrated through a number of case studies including mixed-mode and thermal problems in linear elastic fracture mechanics (LEFM). The results are compared with published theoretical solutions and those based on the displacement method, stress method, crack closure integral in conjunction with local smoothing (CCI–LS) technique, as well as the M-integral method. Its advantages are discussed.
-
-@highlight Adoption of modified crack closure integral (MCCI) in meshfree methods for evaluation of stress intensity factors (SIFs).
-@highlight Comparison of MCCI technique with M-Integral technique, displacement method, etc.
-@highlight Case studies on mixed-mode crack problems involving remote loading, crack face loading and thermal loading.
-@highlight Effect of enrichment functions, order of Gauss integration, domain of influence and nodal density on accuracy of SIFs.

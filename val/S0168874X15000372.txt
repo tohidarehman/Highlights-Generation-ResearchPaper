@@ -1,7 +1,0 @@
- A finite element study based on 1D beam element model is performed in order to investigate the mechanical behavior of an elasto-plastic beam loaded in axial compression over its buckling limit. The mode of loading is related to the damage of truss-cored beams in truss-cored laminates. The analysis takes into account the effects of geometry and material properties. The results of the FEM analysis are used for developing a simple mechanical model based on the basic Euler–Bernoulli beam theory and accounts for the beam compressibility. The model uses phenomenological functions containing parameters related to the basic material and geometrical properties. The presented model is developed in the form of closed solution which does not require complex numerical methods or extensive parametric studies. Predictions of the compressive stiffness degradation of truss-cored composites are made with the proposed model and compared with the results of FEM simulations. The error of the stiffness prediction with respect to the FEM results is within 10% over a 5 fold range of stiffness.
-
-@highlight Post-buckling beam stiffness is mainly driven by its geometry.
-@highlight Material parameters determine the amount of residual damage in the buckle beam.
-@highlight The percentage of stiffness decrease is an order of magnitude higher compared to the percentage of initial damage.
-@highlight A simple analytical model for prediction of buckled beam stiffness is proposed.
-@highlight Proposed model is able to predict degradation of the stiffness of pyramidal truss core.

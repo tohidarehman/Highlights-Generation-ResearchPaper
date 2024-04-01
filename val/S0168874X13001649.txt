@@ -1,7 +1,0 @@
- The one-dimensional viscous Burgers equation with a time-periodic inflow boundary condition is investigated within the context of a newly developed optimal spatiotemporal reduced order modeling (OPSTROM) framework. Flow simulations are carried out with a conventional finite-difference scheme, and are expedited by coarsening the computational grid in space and time. The OPSTROM framework is used to maintain reliable predictions for the flow by constructing interactive subgrid-scale models to account for the effects due to unresolved spatial and temporal scales. Model construction is data-driven, and is based upon principles of mean-square error minimization, conditional expectations and stochastic estimation. The results indicate a need to model both subgrid spatial and temporal scales in order to improve the accuracy of under-resolved simulations.
-
-@highlight We investigate an optimal spatiotemporal reduced order modeling framework.
-@highlight The viscous Burgers equation serves as a test problem.
-@highlight Models are developed to account for the effects of unresolved spatiotemporal scales.
-@highlight Model construction is simplified through a number of observed statistical properties.
-@highlight Results indicate an ability to improve the reliability of under-resolved simulations.

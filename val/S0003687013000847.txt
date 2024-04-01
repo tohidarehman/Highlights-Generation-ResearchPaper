@@ -1,6 +1,0 @@
- While walking on an instrumented treadmill, 20 subjects were perturbed by lateral sinusoidal oscillations representative of those encountered in transport: frequencies in the range 0.5–2 Hz and accelerations in the range 0.1–2.0 ms−2 r.m.s., corresponding to velocities in the range 0.032–0.16 ms−1 r.m.s. Postural stability was assessed from the self-reported probability of losing balance (i.e., perceived risk of falling) and the movements of the centre of pressure beneath the feet. With the same acceleration at all frequencies, the velocities and displacements of the oscillatory perturbations were greater with the lower frequency oscillations, and these caused greater postural instability. With the same velocity at all frequencies, postural instability was almost independent of the frequency of oscillation. Movements of the centre of pressure show that subjects attempted to compensate for the perturbations by increasing their step width and increasing their step rate.
-
-@highlight When walking, lateral oscillations between 0.5 and 2 Hz cause postural instability.
-@highlight Postural instability cannot be predicted from the unweighted lateral acceleration.
-@highlight Postural instability can be predicted from the unweighted lateral velocity.
-@highlight Magnitudes of lateral vibration causing instability when walking are provided.

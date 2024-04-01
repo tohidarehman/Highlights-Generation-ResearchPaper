@@ -1,7 +1,0 @@
- The classical model-based methods had often proven to be unable to provide acceptable solutions to modern fault diagnosis systems. Therefore, model-free or soft computing techniques such as fuzzy logic, Artificial Neural Networks (ANNs) and Genetic Algorithms (GAs) had become more attractive in industrial applications of fault diagnosis. In this paper, three SC schemes are explored to solve the problem of detecting unprecedented changes and finding the failed state components. First, individual fuzzy systems, ANN and GA are implemented on a fault diagnosis scheme. Then, hybrids of these techniques are applied to enhance the fault diagnosis precision. This approach allows gaining critical information about fault presence or its absence in the shortest possible time. The proposed scheme was simulated and evaluated extensively on a benchmark laboratory scale coupled-two-tank system. The results are encouraging, showing especially, that hybrid GA+ANFIS (GANFIS), outperformed significantly the other techniques.
-
-@highlight Data driven soft computing tools are explored to detect unprecedented changes.
-@highlight Failed state components are also determined.
-@highlight Individual schemes of fuzzy logic, ANN and GA are first implemented on a fault diagnosis problem.
-@highlight Hybrid versions including ANFIS and GA are applied to enhance the quality of fault diagnosis.
-@highlight Results are encouraging, hybrid GA+ANFIS, outperformed significantly other techniques.

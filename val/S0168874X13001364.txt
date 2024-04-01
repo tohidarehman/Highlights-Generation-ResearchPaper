@@ -1,5 +1,0 @@
- A set of mechanism-based constitutive equations was developed to model the effects of microstructure evolution on elastic–plastic flow of Q235 steel. This set of equations is implemented into the finite element (FE) solver ABAQUS for multi-pass shape rolling process simulation. The procedure for multi-pass rolling simulation was developed, a scheduled multi-pass rough rolling process of H-shape steel was carried out and the accuracy of the equations was validated by comparisons between the calculated mill load and measured ones. A numerical orthogonal experiment was designed to investigate the effects of rolling parameters on the microstructure evolution.
-
-@highlight A set of mechanism‐based unified constitutive equations was developed.
-@highlight Procedure for the multi‐pass rolling simulation was developed and a Scheduled 9‐pass H‐shape rough rolling process was carried out.
-@highlight A numerical orthogonal experiment was designed to investigate the effects of rolling parameters on the microstructure evolution.

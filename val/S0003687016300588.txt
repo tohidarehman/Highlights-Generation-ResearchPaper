@@ -1,7 +1,0 @@
- Recent guidelines recommend oxygen saturation (SpO2) levels of 90%–95% for preterm neonates on supplemental oxygen but it is difficult to discern such levels with current pulse oximetry sonifications. We tested  whether adding levels of tremolo to a conventional log-linear pulse oximetry sonification would improve identification of SpO2 ranges, and  whether adding a beacon reference tone to conventional pulse oximetry confuses listeners about the direction of change. Participants using the Tremolo (94%) or Beacon (81%) sonifications identified SpO2 range significantly more accurately than participants using the LogLinear sonification (52%). The Beacon sonification did not confuse participants about direction of change. The Tremolo sonification may have advantages over the Beacon sonification for monitoring SpO2 of preterm neonates, but both must be further tested with clinicians in clinically representative scenarios, and with different levels of ambient noise and distractions.
-
-@highlight Too much supplemental oxygen can be a hazard for some premature neonates.
-@highlight Pulse oximetry sonifications do not reveal when oxygen saturation is too high.
-@highlight We added tremolo or a reference beacon to the current pulse oximetry sonification.
-@highlight The Tremolo sonification supported better monitoring than the current sonification.
-@highlight The Beacon sonification supported better monitoring than the current sonification.

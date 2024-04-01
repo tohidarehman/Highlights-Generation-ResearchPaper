@@ -1,7 +1,0 @@
- Transient structural dynamic analyses often exhibit different phases, which enable one to use an adaptive modeling. Thus, a 3D model is required for a better understanding of local or non-linear effects, whereas a simplified beam model is sufficient for simulating the linear phenomena occurring for a long period of time. This paper proposes a method which enables one to switch from a beam to a 3D model during a transient dynamic analysis, and thus, allows one to reduce the computational cost while preserving a good accuracy. The method is validated through comparisons with a 3D reference solution computed during all the simulation.
-
-@highlight Use of a 3D model and a beam model at two different stages of the same computation.
-@highlight For dynamic problems with non-linearities restricted in space and time.
-@highlight The switch reduces considerably the computational cost with preserved accuracy.
-@highlight Two different initialization techniques are investigated.
-@highlight The energy consistency of the switch is demonstrated.

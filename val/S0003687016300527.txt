@@ -1,6 +1,0 @@
- This paper presents a more ecologically valid way of developing theory-based item questionnaires for measuring user experience. In this novel approach, items were generated using natural and domain-specific language of the research population, what seems to have made the survey much more sensitive to real experiences than theory-based ones. The approach was applied in a survey that measured car experience. Ten in-depth interviews were conducted with drivers inside their cars. The resulting transcripts were analysed with the aim of capturing their natural utterances for expressing their car experience. This analysis resulted in 71 categories of answers. For each category, one sentence was selected to serve as a survey-item. In an online platform, 538 respondents answered the survey. Data reliability, tested with Cronbach alpha index, was 0.94, suggesting a survey with highly reliable results to measure drivers' appraisals of their cars.
-
-@highlight We present a novel way of developing questionnaires for measuring user experience.
-@highlight Items were generated using users' natural and domain-specific language.
-@highlight The survey is sensitive to real-life experiences.
-@highlight Results were highly reliable to measure drivers' appraisals of their cars.

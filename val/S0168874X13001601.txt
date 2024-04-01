@@ -1,5 +1,0 @@
- In this paper we discuss interpolation functions for the field variables and their variations in relation to geometrically non-linear planar beam finite elements of Reissner's type within the context of a non-standard, configuration-dependent interpolational setting. We derive the new configuration-dependent interpolation functions as an extension of the helicoidal interpolation to higher-order elements. In linear analysis, the new interpolation coincides with the higher-order linked interpolation, which is known to produce exact results for polynomial loading. The numerical analysis performed on representative examples illustrates the performance of the configuration-dependent interpolation compared to the Lagrangian interpolation.
-
-@highlight We propose a configuration-dependent interpolation for 2D non-linear beams.
-@highlight We establish a connection between this interpolation and linked interpolation in linear analysis.
-@highlight The results obtained show good performance regardless of the integration order.

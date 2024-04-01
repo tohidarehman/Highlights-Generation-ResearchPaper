@@ -1,7 +1,0 @@
- Whole-body vibration has been identified as a stressor to supine patients during medical transportation. The transmissibility between the input platform acceleration and the output acceleration of the head, sternum, pelvis, head-sternum, and pelvis-sternum of eight supine subjects were investigated. Vibration files were utilized in the fore-aft, lateral, and vertical directions. The power spectral density across the bandwidth of 0.5–20 Hz was approximately flat for each file. A comparison between a baseline rigid-support and a support with a long spinal board strapped to a litter has shown that the latter has considerable effects on the transmitted motion in all directions with a double magnification in the vertical direction around 5 Hz. The results also showed that the neck-collar has increased the relative head-sternum flexion–extension because of the input fore-aft vibration, but reduced the head-sternum extension–compression due to the input vertical vibration.
-
-@highlight The spinal-board-litter magnified the supine-human motion, especially in the vertical direction around 5 Hz.
-@highlight The neck-collar magnified the neck flexion–extension motion during input fore-aft vibration.
-@highlight Inertial sensors facilitated the acceleration measurements to a certain degree, but were affected by surrounding metal.
-@highlight Comparable transmissibility magnitudes resulted from sinusoidal and random input vibrations.
-@highlight Resonance frequency shifted by 1–2 Hz with increased vibration magnitude (softening) from 0.5 m/s2 to 1 m/s2.

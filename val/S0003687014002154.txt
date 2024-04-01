@@ -1,7 +1,0 @@
- A method is proposed for evaluation and selection of a personal cooling system (PCS) incorporating PCS, subject, and equipment weights; PCS run time; user task time; PCS cooling power; and average metabolic rate. The cooling effectiveness method presented is derived from first principles and allows those who select PCSs for specific applications to compare systems based on their projected use. This can lower testing costs by screening for the most applicable system. Methods to predict cooling power of PCSs are presented and are compared to data taken through standard manikin testing. The cooling effectiveness ranking is presented and validated against human subject test data. The proposed method provides significant insight into the application of PCS on humans. However, the interaction a humans with a PCS is complex, especially considering the range of clothing ensembles, physiological issues, and end use scenarios, and requires additional analysis.
-
-@highlight Presentation of a personal cooling system (PCS) selection method.
-@highlight Provides ability to rank systems based on projected cooling ability.
-@highlight Integrates times, weights, and metabolic rates in a cooling effectiveness score.
-@highlight Method decreases testing costs by allowing better selection of systems for testing.
-@highlight Validation is performed against human subject PCS testing.

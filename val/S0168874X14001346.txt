@@ -1,7 +1,0 @@
- In this study we apply the total Lagrangian formulation based on positions to develop a strategy for the physical and geometrical nonlinear analysis of plane structures and mechanisms. The developed frame elements have cross sections constituted by laminas of different materials and widths. The Reissner–Mindlin kinematics is adopted to include shear effects into the formulation. These elements are connected among each other by semi-rigid connections. Both elements and connections have multi-linear elastoplastic behavior with isotropic hardening. An alternative flow direction rule, which allows the reproduction of any stress–strain curve and the determination of closed solution for the plastic multiplier, is shown. All steps to reproduce the formulation are provided. Various examples are used to demonstrate the good behavior of the formulation, including a progressive collapse analysis of a tall building subjected to a real seismic load.
-
-@highlight Development of an alternative FE for physical and geometrical nonlinear dynamics.
-@highlight Generalized vectors with natural energy conserving property.
-@highlight Analysis of 2D frames and machines.
-@highlight Multi-linear elastoplastic for continuum members and semi-rigid connections.
-@highlight Progressive collapse analysis of structures subjected to seismic loads.

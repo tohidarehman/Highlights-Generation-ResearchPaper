@@ -1,6 +1,0 @@
- An all-optical flip-flop based on a nonlinear multi-section DFB semiconductor laser structure is proposed. Holding beam is not required for device's operation. A section of the DFB structure is detuned to prevent lasing in the “OFF” state, and it is accompanied with a negative nonlinear coefficient that is due to partial absorption of photons at Urbach tail. At a high light intensity in the structure the nonlinear coefficient reduces the detuning, and the device is in lasing state; “ON” state. The device is reset by an optical pulse at a shorter wavelength through cross gain modulation. The reset pulse is absorbed in a middle section in the device before reaching the detuned nonlinear section. The switching times between the states are in nanoseconds time scale.
-
-@highlight An improved design of an all-optical flip-flop based on a DFB laser structure is proposed.
-@highlight Flip-flop operation: Reset pulse's wavelength is shorter than Set pulse's wavelength.
-@highlight Numerical model is solved by parallel computing using GPGPU card.
-@highlight Single Set-Reset and multiple Set-Reset operations are simulated in time domain.

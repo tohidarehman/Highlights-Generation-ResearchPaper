@@ -1,6 +1,0 @@
- In CAD, a designer usually specifies mechanisms or objects by the means of sketches supporting dimension requirements like distances between points, angles between lines, and so on. This kind of geometric constraint satisfaction problems presents two aspects which solvers have to deal with: first, the sketches can contain hundreds of constraints, and, second, the problems are invariant by rigid body motions. Concerning the first issue, several decomposition methods have been designed taking invariance into account by fixing/relaxing coordinate systems. On the other hand, some researchers have proposed to use distance geometry in order to exploit invariance by rigid body motions. This paper describes a method that allows us to use distance geometry and decomposition in the same framework.
-
-@highlight We solve 2D/3D geometric constraints by using coordinate-free formulation.
-@highlight Statements are translated into formalism that reduces the number of equations.
-@highlight A decomposition algorithm is proposed to produce small subsystems.
-@highlight Subsystems are solved by homotopy.

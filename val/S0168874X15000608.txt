@@ -1,6 +1,0 @@
- A simple two-dimensional Unit cell (UC) with three different mesoscopic phases may be geometrically modeled as a combination of two concentric circles or squares embedded in a square. In this paper, a two-dimensional three-phase UC with a similar design is developed and utilized for modeling the full deformation and failure response of cement based quasi-brittle cementitious composites under compression. It was identified from the numerical investigation that the three-phase design greatly improved the prediction capability of the UC in suitably capturing the material nonlinearity observed experimentally.
-
-@highlight Successfully developed and implemented the three-phase unit cell approach for the mechanical characterization of cementitious composites.
-@highlight Captured the non-linear deformation behavior in good correlation with experiments.
-@highlight Established the effectiveness of the three-phase unit cell approach in capturing the non-linearity of the materials considered without sacrificing the simplicity of the unit cell model.
-@highlight Different parametric studies were also conducted to identify the influence of certain phase characteristics of the unit cell for the materials considered.

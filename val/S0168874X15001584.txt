@@ -1,5 +1,0 @@
- A novel nonconformal scheme for electromagnetic scattering analysis from perfect electric conducting (PEC) objects is presented in this paper. In this nonconformal scheme, the constant vector basis functions defined on a single triangle element are used as basis functions to solve the magnetic field integral equation (MFIE). Several commonly used basis functions for the MFIE are discussed and it is shown that the use of the new basis functions for the MFIE is reasonable. The construction of constant vector basis function as well as details for the calculation of the admittance matrix elements resulted from the use of method of moments (MoM) to the MFIE are given. It is shown that the use of the constant vector basis functions to the MFIE results in an efficient nonconformal scheme. Numerical results further validate the effectivity and efficiency of the proposed nonconformal scheme.
-
-@highlight A simple nonconformal scheme for electromagnetic scattering is proposed.
-@highlight Several basis functions modeling surface electric currents are discussed.
-@highlight Practical applications of the proposed nonconformal scheme are presented.

@@ -1,7 +1,0 @@
- We report on the extraction procedures of low-contrast symptomatic hypodensity optimized for a computed tomography-based diagnosis. The specific application is brain imaging with enhanced perception of hypodense areas which are direct symptoms of acute ischemia. A standard low-contrast phantom, as commonly employed in dosimetry and imaging quality evaluation, was used to derive numeric criteria for assessing the extraction effectiveness. Our proposed procedure is based on multiscale analysis of the image data expanded over the frames of wavelets, curvelets or complex wavelets, followed by nonlinear approximation of the symptom signatures. Apparent subtle density changes in the phantom were evaluated using computational metrics and subjective ratings. We discuss the advantages and disadvantages of our proposed optimized hypodensity extraction procedures.
-
-@highlight Standard CT low-contrast phantom was adjusted for hypodensity extraction purposes.
-@highlight Nonlinear approximations of signals were applied for hypodensity extraction.
-@highlight Objective, computational and repeatable criteria of assessment were proposed.
-@highlight Previously proposed and new hypodensity extractors were examined with procedures.
-@highlight Better visible small hypodensities and more correct shape assessment were obtained.

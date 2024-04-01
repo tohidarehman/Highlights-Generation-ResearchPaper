@@ -1,6 +1,0 @@
- The mostly advanced polarographic mode of measurement, square wave (SW), was applied for studying reduction of for 2,2-Dimethyl-1,3-dioxan-4,6-dione (Meldrum acid) and its 5-phenyl-azo substituent in 40% v/v ethanolic universal buffer (pH~ 2–12). At more negative potentials, a 2e pH-dependent wave (dEp/dpH = 31 mv) was assigned to one carbonyl group, while at more positive potentials a 4e pH-dependent wave (dEp/dpH = 71 mv) was assigned to the azomethine group. Based on the polarographic data and acid-base pKa values were determined spectrophotometrically. The reduction mechanism pathway was suggested. The azomethine group proved to be in the azo form since the nitro group of the p-NO2 derivative is reduced at a more negative potential than the azomethine linkage. Fair Ep-σ correlation was obtained with positive p values (~0.2–0.3), indicating that the substituents facilitate the reduction process at the dropping electrode.
-
-@highlight Square wave.
-@highlight DME.
-@highlight Azo compounds.
-@highlight Betadiketones.

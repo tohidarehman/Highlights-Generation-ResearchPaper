@@ -1,5 +1,0 @@
- An approach, based on mechanical testing and finite element modeling, is presented to establish the stress–strain relationship for polymers when necking evolves under tension. The paper gives details of criteria used for evaluating the stress–strain relationship during the necking process, and depicts how the total strain range is divided into several sections for the ease of the iterative calculation process. High-density polyethylene (HDPE) is used as a sample polymer to illustrate the approach. The results show that this approach can consider non-linear and creep deformation during the neck evolvement, and the stress–strain relationship established can be applied to a finite element model to regenerate force–elongation curve and cross-section reduction measured from the mechanical testing.
-
-@highlight Testing and FEM were used to establish the constitutive equation for necking in polymers.
-@highlight Creep is included in the constitutive equation in order to regenerate the necking behavior.
-@highlight Constitutive equation is established for HDPE in two specimen geometries at two cross-head speeds.

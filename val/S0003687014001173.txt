@@ -1,6 +1,0 @@
- This research proposes an assessment model for quantifying the perceived visual complexity (PVC) of an in-vehicle instrument cluster. An initial study was conducted to investigate the possibility of evaluating the PVC of an in-vehicle instrument cluster by estimating and analyzing the complexity of its individual components. However, this approach was only partially successful, because it did not take into account the combination of the different components with random levels of complexity to form one visual display. Therefore, a second study was conducted focusing on the effect of combining the different components. The results from the overall research enabled us to suggest a basis for quantifying the PVC of an in-vehicle instrument cluster based both on the PVCs of its components and on the integration effect.
-
-@highlight In-vehicle instrument cluster was divided into component for developing perceived visual complexity estimation model for each.
-@highlight Estimation model was developed based on objective measurement variables, questionnaires, and user experiment.
-@highlight Analysis on the influence of each component on in-vehicle instrument cluster was studied.
-@highlight Quantitative assessment model of instrument cluster developed based on estimated perceived visual complexity of components.
