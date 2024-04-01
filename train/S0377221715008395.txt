@@ -1,7 +1,0 @@
- This paper proposes a tabu search algorithm for the vehicle-routing problem with time windows and driver-specific times (VRPTWDST), a variant of the classical VRPTW that uses driver-specific travel and service times to model the familiarity of the different drivers with the customers to visit. We carry out a systematic investigation of the problem on a comprehensive set of newly generated benchmark instances. We find that consideration of driver knowledge in the route planning clearly improves the efficiency of vehicle routes, an effect that intensifies for higher familiarity levels of the drivers. Increased benefits are produced if the familiar customers of drivers are geographically contiguous. Moreover, a higher number of drivers that are familiar with the same (larger) region provides higher benefits compared to a scenario where each driver is only familiar with a dedicated (smaller) region. Finally, our tabu search is able to prove its performance on the Solomon test instances of the closely related VRPTW, yielding high-quality solutions in short time.
-
-@highlight We study a VRPTW with driver-specific times to reflect the knowledge of the drivers.
-@highlight We propose a tabu search and a comprehensive set of new benchmark instances.
-@highlight Stronger familiarity of drivers changes the costs and structure of vehicle routes.
-@highlight Increased benefits occur if the familiar customers are geographically contiguous.
-@highlight The proposed tabu search shows good results on the Solomon VRPTW instances.

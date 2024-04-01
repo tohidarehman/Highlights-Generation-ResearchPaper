@@ -1,7 +1,0 @@
- Two methods for ranking of solutions of multi objective optimization problems are proposed in this paper. The methods can be used, e.g. by metaheuristics to select good solutions from a set of non dominated solutions. They are suitable for population based metaheuristics to limit the size of the population. It is shown theoretically that the ranking methods possess some interesting properties for such applications. In particular, it is shown that both methods form a total preorder and are both refinements of the Pareto dominance relation. An experimental investigation for a multi objective flow shop problem shows that the use of the new ranking methods in a Population-based Ant Colony Optimization algorithm and in a genetic algorithm leads to good results when compared to other methods.
-
-@highlight Ranking methods for solutions of multi objective optimization problems are proposed.
-@highlight Both methods are refinements of the Pareto dominance relation.
-@highlight The methods help metaheuristics to select good solutions.
-@highlight Desirable properties for applications are shown theoretically.
-@highlight We report experimental results for PACO and GA for multi objective flow shop problem.

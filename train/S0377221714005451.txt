@@ -1,6 +1,0 @@
- In this paper we review and propose different adaptations of the GRASP metaheuristic to solve multiobjective combinatorial optimization problems. In particular, we describe several alternatives to specialize the construction and improvement components of GRASP when two or more objectives are considered. GRASP has been successfully coupled with Path Relinking for single-objective optimization. Moreover, we propose different hybridizations of GRASP and Path Relinking for multiobjective optimization. We apply the proposed GRASP with Path Relinking variants to two combinatorial optimization problems, the biobjective orienteering problem and the biobjective path dissimilarity problem. We report on empirical tests with 70 instances and 30 algorithms, that show that the proposed heuristics are competitive with the state-of-the-art methods for these problems.
-
-@highlight We classify previous GRASP and Path Relink. in multiobjective optimization.
-@highlight We propose the different ways to apply GRASP and PR to multiobjective optimization.
-@highlight We propose and test 30 different methods on 2 NP-hard problems.
-@highlight Some of our methods outperform the best previous methods for these 2 problems.

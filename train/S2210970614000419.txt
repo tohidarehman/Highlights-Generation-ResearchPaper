@@ -1,7 +1,0 @@
- The Øresund and the planned Fehmarnbelt fixed links have recently adopted a set of standards that can significantly raise the operating efficiency and capacity of freight by rail. These standards are explained in the context of the German–Scandinavian railway corridor and in comparison to the European Technical Specifications for Interoperability. Using a quantitative model, the mass and volume load capacity per train are calculated. Compared to present constraining limitations in the German–Scandinavian corridor, the mass load capacity per train can be increased by 64%, and the volume load capacity by up to 220%.
-
-@highlight Infrastructure standards of the Øresund and the planned Fehmarnbelt rail links are.
-@highlight Train length 1050m or longer, gauge C (planned), intermodal gauge P/C 450.
-@highlight Axle load 25tons, linear load 8.3tons/m, trailing mass 4000tons.
-@highlight This results in payload 64% higher, cubic capacity 220% higher than national limitations.
-@highlight These standards set a high benchmark for international rail freight corridors.

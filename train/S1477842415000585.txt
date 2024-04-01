@@ -1,6 +1,0 @@
- Reference attribute grammars (RAGs) provide a practical declarative means to implement programming language compilers and other tools. RAGs have previously been extended to support nonterminal attributes (also known as higher-order attributes), circular attributes, and context-dependent declarative rewrites of the abstract syntax tree. In this previous work, interdependencies between these extensions are not considered. In this article, we investigate how these extensions can interact, and still be well defined. We introduce a generalized evaluation algorithm that can handle grammars where circular attributes and rewrites are interdependent. To this end, we introduce circular nonterminal attributes, and show how RAG rewrites are equivalent to such attributes.
-
-@highlight A definition of circular NTAs, together with an evaluation algorithm.
-@highlight The introduction of the notion of computed children in an AST.
-@highlight Mappings between circular NTAs and rewrites, showing they are equivalent.
-@highlight An evaluation of the presented algorithm.

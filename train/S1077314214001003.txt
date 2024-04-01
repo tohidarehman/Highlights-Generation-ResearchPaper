@@ -1,5 +1,0 @@
- In many geometry processing applications, the estimation of differential geometric quantities such as curvature or normal vector field is an essential step. In this paper, we investigate a new class of estimators on digital shape boundaries based on integral invariants  . More precisely, we provide both proofs of multigrid convergence of principal curvature estimators and a complete experimental evaluation of their performances.
-
-@highlight We propose discrete principal curvature estimators based on integral invariants.
-@highlight We prove the multigrid convergence of these estimators.
-@highlight We provide an experimental evaluation on synthetic and real data.

@@ -1,7 +1,0 @@
- In humans, the relationship between experience and productivity, also known as learning (possibly also including forgetting), is non-linear. As a result, prescriptive planning models that seek to manage workforce development through task assignment are difficult to solve. To overcome this challenge we adapt a reformulation technique from non-convex optimization to model non-linear functions with a discrete domain with sets of binary and continuous variables and linear constraints. Further, whereas the original applications of this technique yielded approximations, we show that in our context the resulting mixed integer program is equivalent to the original non-linear problem. As a second contribution, we introduce a capacity scaling algorithm that exploits the structure of the reformulation model and reduces computation time. We demonstrate the effectiveness of the techniques on task assignment models wherein employee learning is a function of task repetition.
-
-@highlight We address a class of production problems that model human learning with non-linear curves.
-@highlight We reformulate the non-linear program to an equivalent mixed integer program (MIP).
-@highlight We present a specialized algorithm for solving the MIP.
-@highlight We show that the MIP is much easier to solve than the non-linear program.
-@highlight We show that the specialized algorithm is superior to a state-of-the-art solver.

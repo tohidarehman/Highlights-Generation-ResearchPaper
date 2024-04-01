@@ -1,7 +1,0 @@
- A semi-integrated system for driver assistance and pedestrian safety is presented. This system is composed of a single camera which focuses on the driver for picking up visual cues and a stereo rig that focus on the road ahead for the detection of road obstructions and pedestrians. While the car is in motion, the driver's viewing direction is obtained and analyzed along with information of road condition and any moving vehicle ahead in order to determine if the current driving condition is safe. In addition, when the vehicle is moving slowly, the system can also detect the existence of a pedestrian ahead and warns the driver if the pedestrian moves in front of the car. This system contains algorithm-based safety analysis as well as fuzzy rules-based analysis for interaction between variables. Our experimental results show that the condition for driver safety can be accurately classified in 94.5% of the tested driving conditions, and the pedestrians can be identified in 93.18% of the tested cases. These were compared to the results of similar systems and shown to be superior.
-
-@highlight A driver assistance system that correlates obstacles with driver’ view is proposed.
-@highlight Fuzzy-rules-based subsystems are used for analysis under different road conditions.
-@highlight One set of fuzzy rules for when a vehicle or pedestrian ahead is detected.
-@highlight One set of fuzzy rules for when no immediate obstacle is detected.
-@highlight Lab experiments and comparisons using real-world data show good performance.

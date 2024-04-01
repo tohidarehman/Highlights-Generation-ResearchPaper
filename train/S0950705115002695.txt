@@ -1,7 +1,0 @@
- Parsing mistakes impose an upper bound in performance on many information extraction systems. In particular, syntactic errors detecting appositive structures limit the system’s ability to capture class-instance relations automatically from texts. The article presents a method that considers semantic information to correct appositive structures given by a parser. First, we build automatically a background knowledge base from a reference collection, capturing evidence of semantic compatibility among classes and instances. Then, we evaluate three different probabilistic-based measures to identify the correct dependence on ambiguous appositive structures. Results reach a 91.4% of correct appositions which is a relative improvement of 12.9% with respect to the best baseline (80.9%) given by a state of the art parser.
-
-@highlight 80% of parsing mistakes in appositions are due to a lack of semantic information.
-@highlight We automatically gather evidence on class-instance semantic compatibility from text.
-@highlight Classes are common nouns; instances are entities characterized by name and type.
-@highlight Our best model uses both sources of evidence with smoothed conditional probability.
-@highlight Experiments reach 91.4% accuracy, a 12.9% relative improvement over the baseline.

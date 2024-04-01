@@ -1,7 +1,0 @@
- This article introduces proximal three-way decision-making. This form of 3-way decision-making stems from the proximity structures that result from endowing each nonempty set of social network triangulation nodes with several proximity relations. A triangulation is obtained by connecting every pair of nearest neighbour nodes with a straight edge. The proposed approach to 3-way decision-making results from the analysis of Delaunay graphs (spatial) as well as friendship network (social) of location-based social network nodes. The knowledge gained from proximal three-way decision-making is in the form of information granules that are near sets of nodes representing interaction between either casual users or friends in a social network. A practical illustration of proximal three-way decision-making is given in terms of a public domain large-scale social network dataset.
-
-@highlight Proximal 3-way decision-making introduced.
-@highlight Delaunay triangulation meshes used.
-@highlight Computational geometry and near set theory foundation provided.
-@highlight Location-based social networks application included.
-@highlight Human socio-spatial behaviour analysis carried out.

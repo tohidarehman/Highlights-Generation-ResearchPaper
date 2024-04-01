@@ -1,6 +1,0 @@
- In this article, a new methodology is presented to obtain representation models for a priori relation z u(x 1, 2,…, xn ) , with a known an experimental dataset In this methodology, a potential energy is initially defined over each possible model for the relationship , what allows the application of the Lagrangian mechanics to the derived system. The solution of the Euler–Lagrange in this system allows obtaining the optimal solution according to the minimal action principle. The defined Lagrangian, corresponds to a continuous medium, where a n-dimensional finite elements model has been applied, so it is possible to get a solution for the problem solving a compatible and determined linear symmetric equation system. The computational implementation of the methodology has resulted in an improvement in the process of get representation models obtained and published previously by the authors.
-
-@highlight A methodology to obtain numerical model system by finite elements.
-@highlight Improvement of a previous numerical methodology developed by the authors.
-@highlight Rigidization method, via the definition of a potential energy on possible models.
-@highlight Use of Lagrangian formulation for the system’s evolution.

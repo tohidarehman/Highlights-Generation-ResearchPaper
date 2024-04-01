@@ -1,5 +1,0 @@
- In this article, we present a new exact algorithm for solving the simple assembly line balancing problem given a determined cycle time (SALBP-1). The algorithm is a station-oriented bidirectional branch-and-bound procedure based on a new enumeration strategy that explores the feasible solutions tree in a non-decreasing idle time order. The procedure uses several well-known lower bounds, dominance rules and a new logical test based on the assimilation of the feasibility problem for a given cycle time and number of stations (SALBP-F) to a maximum-flow problem. The algorithm has been tested with a series of computational experiments on a well-known set of problem instances. The tests show that the proposed algorithm outperforms the best existing exact algorithm for solving SALBP-1, verifying optimality for 264 of the 269 benchmark instances.
-
-@highlight A new branch and bound is proposed for the simple assembly line balancing problem.
-@highlight A novel flow based logical test and a strengthened dominance rule are put forward.
-@highlight The results from the proposed algorithm outperform those provided by the previous procedures found in the literature.

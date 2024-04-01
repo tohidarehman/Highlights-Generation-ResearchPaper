@@ -1,7 +1,0 @@
- This paper presents a new medical image enhancement method that adjusts the fractional order according to the dynamic gradient feature of the entire image. The presented method can extract the edges of an image accurately and enhance them while preserving smooth areas and weak textures; these improvements can be particularly helpful to doctors’ diagnoses. The primary contribution of this paper is the Adaptive Fractional Differential Algorithm (AFDA), which uses the improved Otsu algorithm to segment the edges, textures and smooth areas of images. This algorithm allows the optimal fractional order of each pixel to be obtained using an adaptive fractional differential function constructed based on the area feature of image. As a result, the image can be enhanced adaptively. Experimental results show that for medical images, AFDA shows better image enhancement than other methods by making edges clearer and textures richer.
-
-@highlight We use the improved Otsu algorithm to segment medical images.
-@highlight The function of order v is constructed based on the features of image areas.
-@highlight The fractional differential order of each pixel is obtained by the function.
-@highlight Each pixel of medical image is processed by adaptive fractional differential mask.
-@highlight The edge of medical image is enhanced while the weak texture is preserved.

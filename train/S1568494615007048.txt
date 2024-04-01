@@ -1,7 +1,0 @@
- E-commerce customers demand quick and easy access to products in large search spaces according to their needs and preferences. To support and facilitate this process, recommender systems (RS) based on user preferences have recently played a key role. However the elicitation of customers preferences is not always precise either correct, because of external factors such as human errors, uncertainty and vagueness proper of human beings and so on. Such a problem in RS is known as natural noise and can bias customers recommendations. Despite different proposals have been presented to deal with natural noise in RS none of them is able to manage properly the inherent uncertainty and vagueness of customers preferences. Hence, this paper is devoted to a new fuzzy method for managing in a flexible and adaptable way such uncertainty of natural noise in order to improve recommendation accuracy. Eventually a case study is performed to show the improvements produced by this fuzzy method regarding previous proposals.
-
-@highlight Focus on natural noise management in collaborative filtering recommender systems.
-@highlight The natural noise management is improved through fuzzy tools.
-@highlight The proposal detects the noisy ratings by analysing the user's and item's tendencies.
-@highlight Noisy ratings are corrected by predicting their value with a noise free dataset.
-@highlight The proposal is evaluated on three widely-used recommendation datasets on movies domain and it shows improvements compared with other techniques.

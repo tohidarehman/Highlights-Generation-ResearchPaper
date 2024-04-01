@@ -1,7 +1,0 @@
- Range imaging sensors such as Kinect and time-of-flight cameras can produce aligned depth and color images in real time. However, the depth maps captured by such sensors contain numerous invalid regions and suffer from heavy noise. These defects more or less influence the use of depth information in practical applications. In order to enhance the depth maps, this paper proposes a new inpainting approach based on the fast marching method (FMM). We extend the inpainting model and the propagation strategy of FMM to incorporate color information for depth inpainting. An edge-preserving guided filter is further applied for noise reduction. To validate our algorithm, we perform experiments on both Kinect data and Middlebury dataset which, respectively, provide qualitative and quantitative results. Meanwhile, we also compare it to the original FMM and other two state-of-the-art depth enhancement methods. Experimental results show that our method performs better than the local methods in terms of both visual and metric qualities, and it achieves visually comparable results to the time-consuming global method.
-
-@highlight We propose a new depth enhancement method for RGB-D sensors.
-@highlight It extends the fast marching method to incorporate color and depth information.
-@highlight It outperforms state-of-the-art local methods in terms of visual and metric qualities.
-@highlight It achieves visually comparable results to time-consuming global methods.
-@highlight It provides better inputs to the applications based on RGB-D sensors.

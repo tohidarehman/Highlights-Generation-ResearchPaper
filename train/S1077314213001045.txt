@@ -1,6 +1,0 @@
- Topological properties are with invariance and take priority over other features, which play an important role in cognition. This paper introduces a new attention selection model called TPA (topological properties-based attention), which adopts topological properties and quaternion. In TPA, using Unit-linking PCNN (Pulse Coupled Neural Network) hole-filter expresses an important topological property (the connectivity) in visual attention selection. Meanwhile, using the quaternion Fourier transform based phase spectrum of an image or a frame in a video obtains the spatio-temporal saliency map, which shows the result of attention selection. Adjusting the weight of a topological channel can change its influence. The experimental results show that TPA reflects the real attention selection more accurately than PQFT (Phase spectrum of Quaternion Fourier Transform).
-
-@highlight We propose a TPA (topological properties-based attention) model using topological properties and quaternion.
-@highlight Inspired by topological perception theory in psychology, we introduce the topological property to attention selection.
-@highlight Using Unit-linking PCNN (Pulse Coupled Neural Network) hole-filter expresses the topological property in TPA.
-@highlight TPA is better than PQFT (Phase spectrum of Quaternion Fourier Transform) with more accuracy.

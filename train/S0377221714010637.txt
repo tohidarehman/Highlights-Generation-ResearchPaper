@@ -1,7 +1,0 @@
- We study a discontinuous mispricing model of a risky asset under asymmetric information where jumps in the asset price and mispricing are modelled by Lévy processes. By contracting the filtration of the informed investor, we obtain optimal portfolios and maximum expected utilities for the informed and uninformed investors. We also discuss their asymptotic properties, which can be estimated using the instantaneous centralized moments of return. We find that optimal and asymptotic utilities are increased due to jumps in mispricing for the uninformed investor but the informed investor still has excess utility, provided there is not too little or too much mispricing.
-
-@highlight Investors are better off when mispricing jumps.
-@highlight Uninformed investors obtain excess utility from jumps in mispricing.
-@highlight Maximum expected utility is increased by jumps in mispricing.
-@highlight Informed investors have positive excess utility relative to uninformed investors.
-@highlight Optimal portfolios depend on both jumps in mispricing and asset price.

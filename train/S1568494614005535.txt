@@ -1,7 +1,0 @@
- Preventing GSM subscribers to move to another operator is an important and crucial issue for the GSM operators. Churn management is of essential importance in detecting loyal and hopeless subscribers. Keeping current GSM number when changing the GSM operator also facilitates these subscribers to switch to another operator. Euclidean Indexing High Dimensional Model Representation (HDMR) method is a polynomial based modeling method which is used to predict the churner behavior of the GSM subscribers. An up-to-date data set consists of demographic information and call details records with the related churn behavior is used to model the churner detection problem. The proposed method uses 640 randomly selected training nodes for the modeling process while 316 nodes are used to examine the performance of the proposed method and to make comparisons with the data mining techniques.
-
-@highlight We propose a novel model to predict GSM churners in GSM Company.
-@highlight Euclidean Indexing HDMR method got successful results than other data mining methods.
-@highlight Small number of attributes has enough reliability to predict churners.
-@highlight Analytical structure has been constructed.
-@highlight Benchmarking of data mining methods show that Euclidean Indexing HDMR is champion.

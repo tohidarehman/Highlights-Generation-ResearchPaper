@@ -1,7 +1,0 @@
- In Vehicular ad-hoc networks (VANETs), one of the challenging tasks is to find an accurate localization information. In this paper, we have addressed this problem by introducing a novel approach based on the idea of cooperative localization. Our proposed scheme incorporates different techniques of localization along with data fusion as well as vehicle-to-vehicle communication, to integrate the available data and cooperatively improve the accuracy of the localization information of the vehicles. The simulation results show that sharing the localization information and deploying that of the neighboring vehicles, not only assures the vehicles in a vicinity to obtain more accurate localization information, but also find the results robust to sensor inaccuracies or even to failures. Moreover, further improvement has been achieved by estimating the vehicle prior (prior mean and covariance) using unscented transform (UT) together with sequential decentralized extended Kalman filtering.
-
-@highlight The paper deals with challenging localization problem in vehicular ad-hoc networks.
-@highlight A novel approach is proposed based on the idea of cooperative localization.
-@highlight Our scheme integrates available data and cooperatively improves location accuracy.
-@highlight Localization is more accurate and robust to sensor inaccuracies or even to failures.
-@highlight The estimation of vehicle prior and sequential decentralized EKF improve further.

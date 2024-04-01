@@ -1,6 +1,0 @@
- In this paper we present an exact solution method for the transportation problem with piecewise linear costs. This problem is fundamental within supply chain management and is a straightforward extension of the fixed-charge transportation problem. We consider two Dantzig–Wolfe reformulations and investigate their relative strength with respect to the linear programming (LP) relaxation, both theoretical and practical, through tests on a number of instances. Based on one of the proposed formulations we derive an exact method by branching and adding generalized upper bound constraints from violated cover inequalities. The proposed solution method is tested on a set of randomly generated instances and compares favorably to solving the model using a standard formulation solved by a state-of-the-art commercial solver.
-
-@highlight We consider a transportation problem with a piecewise linear cost structure.
-@highlight Two new formulations are proposed based on a Dantzig–Wolfe reformulation.
-@highlight One reformulation is extended to an exact solution method.
-@highlight The proposed method is much faster than standard optimization software.

@@ -1,7 +1,0 @@
- The equilibrium and socially optimal balking strategies are investigated for unobservable and observable single-server classical retrial queues. There is no waiting space in front of the server. If an arriving customer finds the server idle, he occupies the server immediately and leaves the system after service. Otherwise, if the server is found busy, the customer decides whether or not to enter a retrial pool with infinite capacity and becomes a repeated customer, based on observation of the system and the reward–cost structure imposed on the system. Accordingly, two cases with respect to different levels of information are studied and the corresponding Nash equilibrium and social optimization balking strategies for all customers are derived. Finally, we compare the equilibrium and optimal behavior regarding these two information levels through numerical examples.
-
-@highlight Study the equilibrium strategic behavior and social optimization in the M/M/1 retrial queues.
-@highlight Two different levels of information provided to arriving customers have been investigated extensively.
-@highlight Nash equilibrium and the equilibrium social benefit for all customers are derived.
-@highlight The effect of the information levels is illustrated by extensive numerical examples.
-@highlight It provides insight into the optimal design and control of the retrial queueing systems.

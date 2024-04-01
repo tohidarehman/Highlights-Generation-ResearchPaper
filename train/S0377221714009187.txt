@@ -1,7 +1,0 @@
- We investigate project scheduling with stochastic activity durations to maximize the expected net present value. Individual activities also carry a risk of failure, which can cause the overall project to fail. In the project planning literature, such technological uncertainty is typically ignored and project plans are developed only for scenarios in which the project succeeds. To mitigate the risk that an activity’s failure jeopardizes the entire project, more than one alternative may exist for reaching the project’s objectives. We propose a model that incorporates both the risk of activity failure and the possible pursuit of alternative technologies. We find optimal solutions to the scheduling problem by means of stochastic dynamic programming. Our algorithms prescribe which alternatives need to be explored, and how they should be scheduled. We also examine the impact of the variability of the activity durations on the project’s value.
-
-@highlight We study project scheduling with stochastic durations to maximize expected NPV.
-@highlight Individual activities carry a risk of failure, which can cause the project to fail.
-@highlight More than one alternative may exist for achieving certain deliverables.
-@highlight We find optimal solutions via stochastic dynamic programming.
-@highlight We examine the relation between duration variability and project value.

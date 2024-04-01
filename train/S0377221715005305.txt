@@ -1,6 +1,0 @@
- We study a class of vector optimization problems with a C-convex objective function under linear constraints. We extend the proximal point algorithm used in scalar optimization to vector optimization. We analyze both the global and local convergence results for the new algorithm. We then apply the proximal point algorithm to a supply chain network risk management problem under bi-criteria considerations.
-
-@highlight Vector optimization is studied.
-@highlight A proximal point algorithm is proposed for vector optimization.
-@highlight The global and local convergence results for the new algorithm are presented.
-@highlight The efficiency of the new algorithm is shown by an application to a supply chain network risk management problem.

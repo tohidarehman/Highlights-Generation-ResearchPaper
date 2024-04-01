@@ -1,5 +1,0 @@
- We present a fast algorithm for finding a Î¼-basis for any rational planar curve that has a complex rational parametrization. We begin by identifying two canonical syzygies that can be extracted directly from any complex rational parametrization without performing any additional calculations. For generic complex rational parametrizations, these two special syzygies form a Î¼-basis for the corresponding real rational curve. In those anomalous cases where these two canonical syzygies do not form a Î¼-basis, we show how to quickly calculate a Î¼-basis by performing Gaussian elimination on these two special syzygies. We also present an algorithm to determine if a real rational planar curve has a complex rational parametrization. Examples are provided to illustrate our methods.
-
-@highlight Two special syzygies for complex rational curves.
-@highlight A fast algorithm to compute a Î¼-basis for complex rational curves.
-@highlight An algorithm to determine if a real rational curve has a complex rational parametrization.

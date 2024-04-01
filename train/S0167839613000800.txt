@@ -1,5 +1,0 @@
- Smooth freeform skins from simple panels constitute a challenging topic arising in contemporary architecture. We contribute to this problem area by showing how to approximate a negatively curved surface by smoothly joined rational bilinear patches. The approximation problem is solved with help of a new computational approach to the hyperbolic nets of Huhnen-Venedey and Rörig and optimization algorithms based on it. We also discuss its limits which lie in the topology of the input surface. Finally, freeform deformations based on Darboux transformations are used to generate smooth surfaces from smoothly joined Darboux cyclide patches; in this way we eliminate the restriction to surfaces with negative Gaussian curvature.
-
-@highlight We approximate negatively curved surfaces by smooth unions of rational bilinear patches.
-@highlight We prove vertex consistency of hyperbolic nets using a CAGD approach.
-@highlight We generate smooth surfaces composed of Darboux cyclide patches.

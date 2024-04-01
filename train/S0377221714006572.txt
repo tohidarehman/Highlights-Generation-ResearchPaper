@@ -1,7 +1,0 @@
- We present an information good pricing model with persistently heterogeneous consumers and a rising marginal propensity for them to pirate. The dynamic pricing problem faced by a legal seller is solved using a flexible numerical procedure with demand discretisation and sales tracking. Three offsetting pricing mechanisms occur: skimming, compressing price changes, and delaying product launch. A novel trade-off in piracy’s effect on welfare is identified. We find that piracy quickens sales times and raises welfare in fixed size markets, and does the opposite in growing markets. In our model, consumers benefit from very high rates of piracy, legal sellers always dislike it, and pirate providers like moderate but not very high rates.
-
-@highlight We model information good pricing with piracy and consumer heterogeneity.
-@highlight The dynamic problem is solved by discretisation and demand tracking.
-@highlight Piracy’s effects on welfare depend on whether the market is growing.
-@highlight Piracy can trade-off product launch delay against accelerated sales.
-@highlight Piracy rate preferences are found for consumers, and legal and pirate sellers.

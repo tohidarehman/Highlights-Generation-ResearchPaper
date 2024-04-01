@@ -1,7 +1,0 @@
- We introduce a Bayesian approach for the adaptation of the log-linear weights present in state-of-the-art statistical machine translation systems. Typically, these weights are estimated by optimising a given translation quality criterion, taking only into account a certain set of development data (e.g., the adaptation data). In this article, we show that the Bayesian framework provides appropriate estimates of such weights in conditions where adaptation data is scarce. The theoretical framework is presented, alongside with a thorough experimentation and comparison with other weight estimation methods. We provide a comparison of different sampling strategies, including an effective heuristic strategy and a theoretically sound Markov chain Monte-Carlo algorithm. Experimental results show that Bayesian predictive adaptation (BPA) outperforms the re-estimation from scratch in conditions where adaptation data is scarce. Further analysis reveals that the improvements obtained are due to the greater stability of the estimation procedure. In addition, the proposed BPA framework has a much lower computational cost than raw re-estimation.
-
-@highlight Bayesian predictive adaptation (BPA) is presented for model adaptation in SMT.
-@highlight Results are presented for a standard adaptation task (JHU SummerWorkshop 2012).
-@highlight Comparison between different sampling strategies.
-@highlight In-depth analysis of stability of most common optimisation algorithms in SMT.
-@highlight Computational cost comparison among the methods presented.

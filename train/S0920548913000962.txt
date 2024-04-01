@@ -1,5 +1,0 @@
- Current XML editors do not provide conceptual modeling for XLink. This leads to inefficient development processes, and a low potential for reuse. To address these shortcomings, this study presents a Model Driven Architecture (MDA) approach with the UML profile to build XLink applications for various domains. This investigation demonstrates how users can use the UML profile to provide a conceptual and visual modeling for XLink applications, and automatically generate different XLink-based documents for various domains. The proposed methodology enables Web-based system developers to generate relationships between resources, and to improve software quality by adopting software engineering techniques in XML development.
-
-@highlight MDA-based visual modeling approach for resources link relationships
-@highlight The XLinkUML profile is developed to extend UML for XLink modeling.
-@highlight XSLT-based approach to automatically generating the XLink documents

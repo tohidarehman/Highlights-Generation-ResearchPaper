@@ -1,7 +1,0 @@
- In this paper, we explore the use of static risk measures from the mathematical finance literature to assess the performance of some standard nonstationary queueing systems. To do this we study two important queueing models, namely the infinite server queue and the multi-server queue with abandonment. We derive exact expressions for the value of many standard risk measures for the Mt /M/∞, Mt /G/∞, and Mt /Mt /∞ queueing models. We also derive Gaussian based approximations for the value of risk measures for the Erlang-A queueing model. Unlike more traditional approaches of performance analysis, risk measures offer the ability to satisfy the unique and specific risk preferences or tolerances of service operations managers. We also show how risk measures can be used for staffing nonstationary systems with different risk preferences and assess the impact of these staffing policies via simulation.
-
-@highlight We analyze risk measures for the infinite server queueing model.
-@highlight We analyze risk measures for the Erlang-A queueing model.
-@highlight We show how risk measures can be used for staffing such queues.
-@highlight We analyze performance measures of queues using risk measures.
-@highlight We extend our work to a non-Markovian setting and provide numerical examples.

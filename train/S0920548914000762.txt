@@ -1,5 +1,0 @@
- This paper proposes two new message scheduling methods on shared timeslots of the ISA100.11a standard to enhance real-time performance, namely, traffic-aware message scheduling (TAMS) and contention window size adjustment (CWSA). In TAMS, instead of competing to transmit sporadic messages in consecutive cycles, end-nodes are divided into groups, which then access the channel in specific cycles when the probability of timeslots getting involved in collisions exceeds a specified threshold. Conversely, in CWSA, the contention window is adjusted when the probability of timeslots getting involved in collisions exceeds the threshold. The results of simulations conducted indicate that these two proposed methods provide performance improvements in terms of success probability and end-to-end delay.
-
-@highlight Two novel scheduling methods for ISA100.11a based on the traffic information of the network are proposed.
-@highlight We applied the previous scheduling scheme of FlexRay to ISA100.11a standard.
-@highlight Focus on average end-to-end delay and throughput

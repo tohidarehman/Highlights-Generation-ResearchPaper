@@ -1,6 +1,0 @@
- In recent years, the automotive industry has known a remarkable development in order to satisfy the customer requirements. In this paper, we will study one of the components of the automotive which is the twist beam. The study is focused on the multicriteria design of the automotive twist beam undergoing linear elastic deformation (Hooke׳s law). Indeed, for the design of this automotive part, there are some criteria to be considered as the rigidity (stiffness) and the resistance to fatigue. Those two criteria are known to be conflicting, therefore, our aim is to identify the Pareto front of this problem. To do this, we used a Normal Boundary Intersection (NBI) algorithm coupling with a radial basis function (RBF) metamodel in order to reduce the high calculation time needed for solving the multicriteria design problem. Otherwise, we used the free form deformation (FFD) technique for the generation of the 3D shapes of the automotive part studied during the optimization process.
-
-@highlight We model the automotive twist beam.
-@highlight We developed an algorithm to solve multicriteria optimization problem.
-@highlight We solve our industrial problem with our developed algorithm.
-@highlight New profiles of the twist beam are proposed.

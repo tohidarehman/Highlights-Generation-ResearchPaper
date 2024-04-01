@@ -1,7 +1,0 @@
- HTML5 can be used to develop client applications by composing REST web services within the context of Web 2.0. However, the possibility of implementing cross-platform smartphone applications with REST services needs to be studied. Accordingly, we developed a REST-based cross-platform application with PhoneGap. The application was deployed on the Android, Windows Phone, and iOS platforms; subsequently we evaluated its usability. We observed that REST-based cross-platform smartphone applications can be implemented with HTML5 and PhoneGap, which can be scaled-up into a REST service composition tool. Moreover, the application’s usability remains unaffected on the native platforms and adaptation required only minimal effort.
-
-@highlight We explore the implications of implementing cross-platform smartphone applications with REST services.
-@highlight A REST-based cross-platform application was developd with PhoneGap.
-@highlight The application was deployed on the Android, Windows Phone, and iOS platforms;.
-@highlight Usability of the application remains unaffected on the native platforms
-@highlight Adaptation required only minimal effort, mainly for SDK configuration

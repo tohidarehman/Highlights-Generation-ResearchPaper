@@ -1,7 +1,0 @@
- Taxol is one of the most important anti-cancer drugs. The interaction between different variants of Taxol, by altering one of its chiral centers at a time, with β-tubulin protein has been investigated. To achieve such goal, docking and molecular dynamics (MD) simulation studies have been performed. In docking studies, the preferred conformers have been selected to further study by MD method based on the binding energies reported by the AutoDock program. The best result of docking study which shows the highest affinity between ligand and protein has been used as the starting point of the MD simulations. All of the complexes have shown acceptable stability during the simulation process, based on the RMSDs of the backbone of the protein structure. Finally, MM-GBSA calculations have been carried out to select the best ligand, considering the binding energy criteria. The results predict that two of the structures have better affinity toward the mentioned protein, in comparison with Taxol. Three of the structures have affinity similar to that of the Taxol toward the β-tubulin.
-
-@highlight Binding properties of Taxol derivatives with β-tubulin have been investigated.
-@highlight Docking and MD simulation studies have been done.
-@highlight MM-GBSA calculations have been carried out.
-@highlight Two of the structures have better affinity toward the β-tubulin.
-@highlight Three of the structures have affinity similar to that of the Taxol.

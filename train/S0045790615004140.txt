@@ -1,5 +1,0 @@
- This paper proposes a robust particle filter to deal with incomplete sensor data to predict the user’s routes and represents users’ movements using a dynamic Bayesian network model that patterns the user’s spatiotemporal routine. The proposed particle filter includes robust particle generation to supplement any incorrect and incomplete sensor information, efficient switching/weight functions to reduce computation complexity while considering uncertainty, and resampling to enhance the accuracy of the particles by solving the degeneracy problem. The robust particle filter enhances the accuracy and efficiency with which a user’s routes and destinations are determined.
-
-@highlight We propose DBN based route models and prediction of users’ routes using robust particle filtering.
-@highlight We use a DBN to infer the next locations or destinations based on the observed spatio-temporal data.
-@highlight The robust particle filter handles uncertainty and constraints to enhance accuracy and efficiency.

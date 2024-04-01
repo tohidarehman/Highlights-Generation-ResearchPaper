@@ -1,7 +1,0 @@
- The analytic hierarchy process (AHP) is a widely-used method for multicriteria decision support based on the hierarchical decomposition of objectives, evaluation of preferences through pairwise comparisons, and a subsequent aggregation into global evaluations. The current paper integrates the AHP with stochastic multicriteria acceptability analysis (SMAA), an inverse-preference method, to allow the pairwise comparisons to be uncertain. A simulation experiment is used to assess how the consistency of judgements and the ability of the SMAA-AHP model to discern the best alternative deteriorates as uncertainty increases. Across a range of simulated problems results indicate that, according to conventional benchmarks, judgements are likely to remain consistent unless uncertainty is severe, but that the presence of uncertainty in almost any degree is sufficient to make the choice of best alternative unclear.
-
-@highlight We develop an extension of the AHP for stochastic judgments.
-@highlight Integrates stochastic multi-criteria acceptability analysis with the AHP.
-@highlight Uses the scaled 1/x distribution to represent pairwise comparisons.
-@highlight Simulations show that judgmental consistency is robust to imprecision.
-@highlight Simulations show that acceptability indices are sensitive to imprecision.

@@ -1,7 +1,0 @@
- The core problem addressed in this article is the 3D position detection of a spherical object of known-radius in a single image frame, obtained by a dioptric vision system consisting of only one fisheye lens camera that follows equidistant projection model. The central contribution is a bijection principle between a known-radius spherical object’s 3D world position and its 2D projected image curve, that we prove, thus establishing that for every possible 3D world position of the spherical object, there exists a unique curve on the image plane if the object is projected through a fisheye lens that follows equidistant projection model. Additionally, we present a setup for the experimental verification of the principle’s correctness. In previously published works we have applied this principle to detect and subsequently track a known-radius spherical object.
-
-@highlight Detecting the 3D position of a known-radius spherical object with a single camera.
-@highlight A bijection principle between the spherical object in 3D and its image in 2D.
-@highlight The core contribution is the formal proof of the bijection principle.
-@highlight A fish-eye lens-based camera with equidistant projection model is used.
-@highlight Experimental verification of the bijection principle is provided.

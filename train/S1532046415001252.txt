@@ -1,7 +1,0 @@
- This paper presents a natural language processing (NLP) system that was designed to participate in the 2014 i2b2 de-identification challenge. The challenge task aims to identify and classify seven main Protected Health Information (PHI) categories and 25 associated sub-categories. A hybrid model was proposed which combines machine learning techniques with keyword-based and rule-based approaches to deal with the complexity inherent in PHI categories. Our proposed approaches exploit a rich set of linguistic features, both syntactic and word surface-oriented, which are further enriched by task-specific features and regular expression template patterns to characterize the semantics of various PHI categories. Our system achieved promising accuracy on the challenge test data with an overall micro-averaged F-measure of 93.6%, which was the winner of this de-identification challenge.
-
-@highlight A model to automatically detect protected health information in clinical texts.
-@highlight Machine learning techniques combined with keywords and rule-based approaches.
-@highlight 7 main PHI categories with 25 associated sub-categories are identified.
-@highlight Achieving an overall micro-averaged F-measure of 93.6%.
-@highlight The winner of 2014 i2b2 de-identification challenge task.

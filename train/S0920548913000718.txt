@@ -1,6 +1,0 @@
- To support the transformation of system engineering from the project-based development of highly customer-specific solutions to the reuse and customization of Ã¢ÂÂsystem productsÃ¢ÂÂ, we integrate a process reference model for reuse- and product-oriented industrial engineering and a process reference model extending ISO/IEC 12207 on software life cycle processes with software- and system-level product management. We synthesize the key process elements of both models to enhance ISO/IEC 15288 on system life cycle processes with product- and reuse-oriented engineering and product management practices as an integrated framework for process assessment and improvement in contexts where systems are developed and evolved as products.
-
-@highlight Extension of ISO/IEC 15288 with system level reuse and product management processes
-@highlight Provision of process reference model conformant to requirements of ISO/IEC 15504
-@highlight Reference framework for process assessment and improvement in systems engineering
-@highlight Support for transformation of systems engineering towards use of Ã¢ÂÂsystem productsÃ¢ÂÂ

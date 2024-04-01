@@ -1,7 +1,0 @@
- Extensible Markup Language (XML) documents are associated with time in two ways:  XML documents evolve over time and  XML documents contain temporal information. The efficient management of the temporal and multi-versioned XML documents requires optimized use of storage and efficient processing of complex historical queries. This paper provides a comparative analysis of the various schemes available to efficiently store and query the temporal and multi-versioned XML documents based on temporal, change management, versioning, and querying support. Firstly, the paper studies the multi-versioning control schemes to detect, manage, and query change in dynamic XML documents. Secondly, it describes the storage structures used to efficiently store and retrieve XML documents. Thirdly, it provides a comparative analysis of the various commercial tools based on change management, versioning, collaborative editing, and validation support. Finally, the paper presents some future research and development directions for the multi-versioned XML documents.
-
-@highlight XML documents contain temporal information and evolve over time.
-@highlight Our work explores change detection, versioning and querying support in XML documents.
-@highlight It describes the storage structures to efficiently store and retrieve XML documents.
-@highlight It explains the change management features in some commercial tools.
-@highlight It highlights several open research issues for multi-versioned XML documents.

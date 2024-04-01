@@ -1,7 +1,0 @@
- Timely imaging examinations are critical for stroke patients due to the potential life threat. We have proposed a contract-based Magnetic Resonance Imaging (MRI) reservation process  in order to reduce their waiting time for MRI examinations. Contracted time slots (CTS) are especially reserved for Neural Vascular Department (NVD) treating stroke patients. Patients either wait in a CTS queue for such time slots or are directed to Regular Time Slot (RTS) reservation. This strategy creates “unlucky” patients having to wait for lengthy RTS reservation. This paper proposes and analyzes other contract implementation strategies called RTS reservation strategies. These strategies reserve RTS for NVD but do not direct patients to regular reservations. Patients all wait in the same queue and are served by either CTS or RTS on a FIFO (First In First Out) basis. We prove that RTS reservation strategies are able to reduce the unused time slots and patient waiting time. Extensive numerical results are presented to show the benefits of RTS reservation and to compare various RTS reservation strategies.
-
-@highlight Contract-based reservation of MRI examination for stroke patients is considered.
-@highlight Control strategies include RTS (regular time slots) assignment and RTS reservation.
-@highlight RTS reservation improves the unused time slots and waiting times of RTS assignment.
-@highlight RTS reservation avoids unlucky patients waiting for lengthy regular reservation.
-@highlight Sensitivity wrt RTS delay, unused time slot cost and arrival rate is investigated.

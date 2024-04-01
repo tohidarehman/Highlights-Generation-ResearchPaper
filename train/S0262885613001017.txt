@@ -1,5 +1,0 @@
- In this article, a novel technique for fixation prediction and saccade generation will be introduced. The proposed model simulates saccadic eye movement to incorporate the underlying eye movement mechanism into saliency estimation. To this end, a simple salience measure is introduced. Afterwards, we derive a system model for saccade generation and apply it in a stochastic filtering framework. The proposed model will dynamically make a saccade toward the next predicted fixation and produces saliency maps. Evaluation of the proposed model is carried out in terms of saccade generation performance and saliency estimation. Saccade generation evaluation reveals that the proposed model outperforms inhibition of return. Also, experiments signify integration of eye movement mechanism into saliency estimation boosts the results. Finally, comparison with several saliency models shows the proposed model performs aptly.
-
-@highlight Introducing a stochastic model for simulating eye movements
-@highlight Implementing the proposed model
-@highlight Implementing an algorithm for predicting saccades and fixations

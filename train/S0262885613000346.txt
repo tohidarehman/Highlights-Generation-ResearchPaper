@@ -1,6 +1,0 @@
- Engineers have proposed many watermark mechanisms for protecting the content of digital media from unauthorized use. The visible watermark scheme indicates the copyright of digital media posted over the Internet by embedding an inconspicuous but recognizable pattern into media. However, the embedding process often results in serious distortion of the protected image. Since the strength of the watermark in conventional methods mainly depends on the feature of protected media, this may lead to unsatisfactory transparency of watermarked images. This paper proposes a removable solution for visible watermark mechanism. By adopting the subsampling technique, the method proposes a contrast-adaptive strategy to solve this problem. This method can also guarantee the essentials of general visible watermark schemes. Experimental results show that the proposed method outperforms related works in terms of preserving the quality of the restored image.
-
-@highlight The transparency of the watermark is applicable to the various host images.
-@highlight The browsers can recognize the watermark, and the host image is not seriously obscured.
-@highlight The new scheme can remove the embedded watermark from the watermarked image.
-@highlight The PSNR values of the various restored images are around 56dB after the visible watermark has been removed.

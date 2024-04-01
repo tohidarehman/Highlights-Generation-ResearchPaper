@@ -1,7 +1,0 @@
- We present new static analysis methods for proving liveness properties of programs. In particular, with reference to the hierarchy of temporal properties proposed by Manna and Pnueli, we focus on guarantee (i.e., “something good occurs at least once”) and recurrence (i.e., “something good occurs infinitely often”) temporal properties. We generalize the abstract interpretation framework for termination presented by Cousot and Cousot. Specifically, static analyses of guarantee and recurrence temporal properties are systematically derived by abstraction of the program operational trace semantics. These methods automatically infer sufficient preconditions for the temporal properties by reusing existing numerical abstract domains based on piecewise-defined ranking functions. We augment these abstract domains with new abstract operators, including a dual widening. To illustrate the potential of the proposed methods, we have implemented a research prototype static analyzer, for programs written in a C-like syntax, that yielded interesting preliminary results.
-
-@highlight We present new static analysis methods for proving liveness properties of programs.
-@highlight We generalize an existing abstract interpretation framework for termination.
-@highlight We reuse existing abstract domains based on piecewise-defined ranking functions.
-@highlight The static analyses methods infer sufficient preconditions for the liveness properties.
-@highlight We provide a prototype implementation of these static analyses.

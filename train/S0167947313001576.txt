@@ -1,7 +1,0 @@
- The authors consider a dynamic probit model where the coefficients follow a first-order Markov process. An exact Gibbs sampler for Bayesian analysis is presented for the model using the data augmentation approach and the forward filtering backward sampling algorithm for dynamic linear models. The authors discuss how our approach can be used for dynamic probit models as well as its generalizations including Markov regressions and models with Student link functions. An approach is presented to compare static and dynamic probit models as well as for Markov order selection in these classes of dynamic models. The developed approach is implemented to some actual data.
-
-@highlight A dynamic probit model with a first order Markov process was developed.
-@highlight Gibbs sampler using data augmentation approach and forward filtering backward sampling algorithm were presented.
-@highlight The discussion was extended to propose models to generalized models including Student
-@highlight -link function.
-@highlight Model fit was compared between static and dynamic probit models.

@@ -1,7 +1,0 @@
- We investigate an automobile supply chain where a manufacturer and a retailer serve heterogeneous consumers with electric vehicles (EVs) under a government’s price-discount incentive scheme that involves a price discount rate and a subsidy ceiling. We show that the subsidy ceiling is more effective in influencing the optimal wholesale pricing decision of the manufacturer with a higher unit production cost. However, the discount rate is more effective for the manufacturer with a lower unit production cost. Moreover, the expected sales are increasing in the discount rate but may be decreasing in the subsidy ceiling. Analytic results indicate that an effective incentive scheme should include both a discount rate and a subsidy ceiling. We also derive the necessary condition for the most effective discount rate and subsidy ceiling that maximize the expected sales of EVs, and obtain a unique discount rate and subsidy ceiling that most effectively improve the manufacturer’s incentive for EV production.
-
-@highlight We analyze an electric vehicle (EV) supply chain under a price-discount scheme.
-@highlight The price-discount scheme involves a discount rate and a subsidy ceiling.
-@highlight Sales are increasing in the rate but may be decreasing in the ceiling.
-@highlight We derive the condition for the most effective scheme maximizing the sales.
-@highlight We obtain a scheme improving the manufacturer’s incentive for EV production.

@@ -1,6 +1,0 @@
- Coherent anti-Stokes Raman scattering (CARS) microscopy is a powerful tool for fast label-free tissue imaging, which is promising for early medical diagnostics. To facilitate the diagnostic process, automatic image analysis algorithms, which are capable of extracting relevant features from the image content, are needed. In this contribution we perform an automated classification of healthy and tumor areas in CARS images of basal cell carcinoma (BCC) skin samples. The classification is based on extraction of texture features from image regions and subsequent classification of these regions into healthy and cancerous with a perceptron algorithm. The developed approach is capable of an accurate classification of texture types with high sensitivity and specificity, which is an important step towards an automated tumor detection procedure.
-
-@highlight We perform automated classification of healthy and tumor areas in CARS images of BCC skin samples.
-@highlight The classification is based on texture features and uses the perceptron algorithm.
-@highlight The approach results in accurate classification with high specificity and sensitivity.
-@highlight We believe this is an important step towards automated tumor detection in CARS images.

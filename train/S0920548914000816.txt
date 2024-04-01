@@ -1,6 +1,0 @@
- Public street lighting system consists of devices distributed in points of light and a supervision and control application. The system architecture is modular and expandable. In developing the work the C# language is adopted to develop the operation and monitoring via standard CyberOPC and XML file types are applied to the device description and definition of the network topology. This paper describes the validation proposed and the results obtained attests that this applied methodology is feasible and can be applied to other public lighting systems.
-
-@highlight Public street lighting system consists of points of light and a supervision.
-@highlight The architecture of the proposed system is modular and expandable.
-@highlight The system follows standard technologies.
-@highlight The results obtained attests that this applied methodology is feasible.

@@ -1,5 +1,0 @@
- Inspired by the observation that a healthcare system usually involves various intelligent technologies from different disciplines, especially metaheuristics and data mining, this paper provides a brief survey of metaheuristics for healthcare system and a roadmap for researchers working on metaheuristics and healthcare to develop a more efficient and effective healthcare system. This paper begins with a discussion of changes for healthcare, followed by a brief review of the features of “up-to-date technologies for healthcare.”. Then, a learnable big data analytics framework for healthcare system is presented which provides a high performance solution to the forthcoming challenges of big data. Finally, changes, potentials, open issues, and future trends of metaheuristics for healthcare are addressed.
-
-@highlight A brief survey of metaheuristics for healthcare system is given.
-@highlight A learnable big data analytics framework for healthcare system is presented.
-@highlight Open issues and future trends of metaheuristics for healthcare system are addressed.

@@ -1,7 +1,0 @@
- The main aim of this paper is to measure the social welfare loss for a continuous moral hazard model when a set of minimal assumptions are fulfilled. By using a new approach, we are able to reproduce the results of Balmaceda, Balseiro, Correa, and Stier- pertaining to the social welfare loss for discrete and continuous models respectively. Previous studies rely on the validity of the first-order approach at the expense of strong assumptions, in particular the convexity of the distribution function condition while we do not make such a restrictive assumption in our developments. In addition, we obtain new bounds for the social welfare loss that are both tight and easy to compute.
-
-@highlight We measure the social welfare loss for continuous moral hazard models.
-@highlight Our developments require a set of minimal assumptions.
-@highlight We do not use the first-order approach which demands strong assumptions.
-@highlight In particular, the convexity of the distribution function condition is not required.
-@highlight We also obtain new bounds that are both tight and easy to compute.

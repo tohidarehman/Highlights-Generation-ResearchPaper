@@ -1,6 +1,0 @@
- Automatic facial landmarking is a crucial prerequisite of many applications dedicated to face analysis. In this paper we describe a two-step method. In a first step, each landmark position in the image is predicted independently. To achieve fast and accurate localizations, we implement detectors based on a two-stage classifier and we use multiple kernel learning algorithms to combine multi-scale features. In a second step, to increase the robustness of the system, we introduce spatial constraints between landmarks. To this end, parameters of a deformable shape model are optimized using the first step outputs through a Gauss–Newton algorithm. Extensive experiments have been carried out on different databases (PIE, LFPW, Cohn-Kanade, Face Pix and BioID), assessing the accuracy and the robustness of the proposed approach. They show that the proposed algorithm is not significantly affected by small rotations, facial expressions or natural occlusions and can be favorably compared with the current state of the art landmarking systems.
-
-@highlight Multi-Kernel Appearance Model is a new facial point detector.
-@highlight Multi-Kernel SVM combines multi-resolution features.
-@highlight A SVM cascade combines increasingly complex kernels to reduce the computational time.
-@highlight A shape model fitting introduces constraints between SVM detections.

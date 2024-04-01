@@ -1,7 +1,0 @@
- This paper proposes an efficient speech data selection technique that can identify those data that will be well recognized. Conventional confidence measure techniques can also identify well-recognized speech data. However, those techniques require a lot of computation time for speech recognition processing to estimate confidence scores. Speech data with low confidence should not go through the time-consuming recognition process since they will yield erroneous spoken documents that will eventually be rejected. The proposed technique can select the speech data that will be acceptable for speech recognition applications. It rapidly selects speech data with high prior confidence based on acoustic likelihood values and using only speech and monophone models. Experiments show that the proposed confidence estimation technique is over 50 times faster than the conventional posterior confidence measure while providing equivalent data selection performance for speech recognition and spoken document retrieval.
-
-@highlight We propose a method to select highly accurate data for speech recognition.
-@highlight We rapidly estimate prior confidence before speech recognition.
-@highlight Our prior estimation uses the acoustic likelihood of speech and monophone models.
-@highlight The proposed technique is over fifty times faster than the conventional method.
-@highlight Our proposal provides equivalent data selection performance.

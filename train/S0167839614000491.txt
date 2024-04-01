@@ -1,6 +1,0 @@
- Salient features in 3D meshes such as small high-curvature details in the middle of largely flat regions are easily ignored by most mesh simplification methods. Nevertheless, these features can be perceived by human observers as perceptually important in CAD models. Recently, mesh saliency has been introduced to identify those visually interesting regions. In this paper, we apply view-based mesh saliency to a purely visual method for surface simplification from two approaches. In the first one, we propose a new simplification error metric that considers polygonal saliency. In the second approach, we use viewpoint saliency as a weighting factor of the quality of a viewpoint in the simplification algorithm. Our results show that saliency can improve the preservation of small but visually significant surfaces even in visual algorithms for surface simplification. However, this comes at a price, because logically some other low-saliency regions in the mesh are simplified further.
-
-@highlight Reduce complexity in a polygonal mesh according to perception.
-@highlight Calculate a view-based saliency map from a viewpoint information channel.
-@highlight Simplify the mesh with either polygonal or viewpoint saliency using a visual algorithm for surface simplification.
-@highlight Improvement in the visual appearance of the simplified mesh.

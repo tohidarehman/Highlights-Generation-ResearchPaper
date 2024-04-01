@@ -1,6 +1,0 @@
- This paper concerns the problem of decomposing a network flow into an integral path flow such that the length of the longest path is minimized. It is shown that this problem is NP-hard in the strong sense. Two approximation algorithms are proposed for the problem: the longest path elimination (LPE) algorithm and the balanced flow propagation (BFP) algorithm. We analyze the properties of both algorithms and present the results of experimental studies examining their performance and efficiency.
-
-@highlight The shortest integral flow decomposition problem is NP-hard in the strong sense.
-@highlight Two approximation algorithms LPE and BFP are proposed for the problem.
-@highlight BFP has lower computational complexity and better worst-case performance than LPE.
-@highlight For chain network flows the worst-case performance ratio of BFP is less than 2.

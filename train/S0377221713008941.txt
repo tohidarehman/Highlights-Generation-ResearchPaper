@@ -1,7 +1,0 @@
- In this paper the joint maintenance and spare parts ordering problem for more than one identical operating items is studied. The operating items may suffer two types of silent failures: a minor failure, which results in item malfunctioning, and a major failure, which renders the item completely out-of-function. Inspections are periodically held to detect any failures and the inspected items are preventively maintained, repaired or replaced according to their condition. Two ordering policies are investigated to supply the necessary spare parts: a periodic review and a continuous review policy. The expected total maintenance and inventory cost per time unit is derived and the proposed models are optimized for real case data. In addition, the sensitivity of the proposed models is studied through numerical examples and the effect of some key problem characteristics on the optimal decisions is discussed.
-
-@highlight The joint maintenance and spares ordering policy for identical items is studied.
-@highlight The items suffer two types of silent failures: minor and major.
-@highlight Both periodic and continuous review inventory policies are studied.
-@highlight Properties for the decision variables are provided to facilitate optimization.
-@highlight Sensitivity analysis shows that the models are robust to parameters misestimation.

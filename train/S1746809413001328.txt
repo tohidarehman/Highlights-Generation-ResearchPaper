@@ -1,7 +1,0 @@
- Visualization of the inner ear has been performed using magnetic resonance imaging (MRI) to investigate benign paroxysmal positional vertigo (BPPV). In the patients with BPPV, our recent findings indicate the thickness of some internal auditory canal (IAC) nerves narrower than the thickness of healthy subjects. The thickness of the IAC and its nerves are measured using brain MRI images. The cross sectional area (CSA) of a nerve is assumed as its thickness. Some statistical measurement and a statistical classification are performed on the CSA data to investigate any relation between IAC, the nerves and BPPV.
-
-@highlight Visualization of the inner ear is performed using MRI.
-@highlight The thicknesses of the internal auditory canal and its nerves are measured.
-@highlight A statistical test was performed on the cross sectional areas of the nerves.
-@highlight A classification was performed on the cross sectional areas of the nerves.
-@highlight It is found that the existence of a relationship between superior vestibular verve and benign paroxysmal positional vertigo.

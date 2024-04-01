@@ -1,7 +1,0 @@
- In the simulation of a chain of manufacturing processes, several finite element packages can be employed and for each process or package a different mesh density or element type may be the most suitable. Therefore, there is a need for transferring finite element analysis (FEA) data among packages and mapping it between meshes. This paper presents efficient algorithms for mapping FEA data between meshes with different densities and element types. An in-core spatial index is created on the mesh from which FEA data is transferred. The index is represented by a dynamic grid partitioning the underlying space from which nodes and elements are drawn into equal-sized cells. Buckets containing references to the nodes indexed are associated with the cells in a many-to-one correspondence. Such an index makes nearest neighbour searches of nodes and elements much faster than sequential scans. An experimental evaluation of the mapping techniques using the index is conducted. The algorithms have been implemented in the open source finite element data exchange system FEDES.
-
-@highlight We present efficient algorithms for mapping FEA data between meshes.
-@highlight An in-core spatial index is created on the source mesh.
-@highlight Nearest neighbour searches of nodes and elements in the index are very fast.
-@highlight An experimental evaluation of the mapping techniques using the index is conducted.
-@highlight The algorithms have been implemented in the finite element data exchange system FEDES.

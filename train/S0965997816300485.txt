@@ -1,6 +1,0 @@
- Shear failure of concrete elements reinforced with Fiber Reinforced Polymer (FRP) bars is generally brittle, requiring accurate predictions to avoid it. In the last decade, a variety of artificial intelligence based approaches have been successfully applied to predict the shear capacity of FRP Reinforced Concrete (FRP-RC). In this paper, a new approach, namely, biogeography-based programming (BBP) is introduced for predicting the shear capacity of FRP-RC beams based on test results available in the literature. The performance of the BBP model is compared with several shear design equations, two previously developed artificial intelligence models and experimental results. It was found that the proposed model provides the most accurate results in calculating the shear capacity of FRP-RC beams among the considered shear capacity models. The proposed BBP model can also correctly predict the trend of different influencing variables on the shear capacity of FRP-RC beams.
-
-@highlight BBP model for shear capacity prediction of FRP-RC beams without stirrups.
-@highlight Collection of a large dataset of FRP-RC beams failing in shear from the literature.
-@highlight Assessment of several shear design models available for FRP-RC beams.
-@highlight Evaluation of shear capacity trend against influencing parameters of FRP-RC beams.

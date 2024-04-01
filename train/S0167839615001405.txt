@@ -1,7 +1,0 @@
- We study the dimension of trivariate splines on bipyramid cells, that is, cells with boundary vertices, n of which are coplanar with the interior vertex. We improve the earlier lower bound on the dimension given by J. Shan. Moreover, we derive a new upper bound that is equal to the known lower bound in most cases. In the remaining cases, our upper bound is close to the known lower bound, and we conjecture that the dimension coincides with the upper bound. We use tools from both algebraic geometry and Bernstein–Bézier analysis.
-
-@highlight We introduce bipyramid cells in
-@highlight We improve the lower bound on the dimension of
-@highlight splines for bipyramids.
-@highlight We derive a new upper bound that is equal to the known lower bound in most cases.
-@highlight We use tools from algebraic geometry and Bernstein–Bézier analysis.

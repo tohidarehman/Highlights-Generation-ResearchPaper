@@ -1,6 +1,0 @@
- In this manuscript, we present a computational model to approximate the solutions of a partial differential equation which describes the growth dynamics of microbial films. The numerical technique reported in this work is an explicit, nonlinear finite-difference methodology which is computationally implemented using Newton's method. Our scheme is compared numerically against an implicit, linear finite-difference discretization of the same partial differential equation, whose computer coding requires an implementation of the stabilized bi-conjugate gradient method. Our numerical results evince that the nonlinear approach results in a more efficient approximation to the solutions of the biofilm model considered, and demands less computer memory. Moreover, the positivity of initial profiles is preserved in the practice by the nonlinear scheme proposed.
-
-@highlight Design of a nonlinear, explicit computational model to simulate the growth dynamics of a biofilm equation.
-@highlight Faster computational performance of the proposed method with respect to linear, implicit discretizations available in the literature.
-@highlight Efficient use of computational resources when compared against linear finite-difference schemes.
-@highlight Numerical preservation of the property of positivity, which is physically meaningful in realistic applications.

@@ -1,8 +1,0 @@
- With millions of users and billions of photos, web-scale face recognition is a challenging task that demands speed, accuracy, and scalability. Most current approaches do not address and do not scale well to Internet-sized scenarios such as tagging friends or finding celebrities. Focusing on web-scale face identification, we gather an 800,000 face dataset from the Facebook social network that models real-world situations where specific faces must be recognized and unknown identities rejected. We propose a novel Linearly Approximated Sparse Representation-based Classification (LASRC) algorithm that uses linear regression to perform sample selection for ℓ1-minimization, thus harnessing the speed of least-squares and the robustness of sparse solutions such as SRC. Our efficient LASRC algorithm achieves comparable performance to SRC with a 100–250 times speedup and exhibits similar recall to SVMs with much faster training. Extensive tests demonstrate our proposed approach is competitive on pair-matching verification tasks and outperforms current state-of-the-art algorithms on open-universe identification in uncontrolled, web-scale scenarios.
-
-@highlight Explore large-scale face identification, focusing on realistic open-universe scenarios.
-@highlight Release feature descriptors for a new Facebook dataset and a Facebook downloader tool.
-@highlight Develop an algorithm, LASRC, for realtime, accurate, and web-scale face identification.
-@highlight Evaluate local features, sparsity, and locality with large-scale datasets.
-@highlight Compare LASRC to many state-of-the-art algorithms with real-world datasets.
-@highlight Compare LASRC to many state-of-the-art algorithms with real-world datasets.

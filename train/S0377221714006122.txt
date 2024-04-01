@@ -1,7 +1,0 @@
- While the cross entropy methodology has been applied to a fair number of combinatorial optimization problems with a single objective, its adaptation to multiobjective optimization has been sporadic. We develop a multiobjective optimization cross entropy (MOCE) procedure for combinatorial optimization problems for which there is a linear relaxation (obtained by ignoring the integrality restrictions) that can be solved in polynomial time. The presence of a relaxation that can be solved with modest computational time is an important characteristic of the problems under consideration because our procedure is designed to exploit relaxed solutions. This is done with a strategy that divides the objective function space into areas and a mechanism that seeds these areas with relaxed solutions. Our main interest is to tackle problems whose solutions are represented by binary variables and whose relaxation is a linear program. Our tests with multiobjective knapsack problems and multiobjective assignment problems show the merit of the proposed procedure.
-
-@highlight A multiobjective optimization cross entropy (MOCE) procedure for MOCO problems.
-@highlight It benefits of the linear relaxation, that can be solved with modest computational time.
-@highlight MOCE’s core is a strategy to use together relaxed solutions and integer ones.
-@highlight Most of the more important MOCO problems have a linear relaxation.
-@highlight Our tests show the merit of the proposed procedure on the two most important MOCOs.

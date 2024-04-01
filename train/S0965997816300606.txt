@@ -1,7 +1,0 @@
- Differential Evolution (DE) is one of the most powerful stochastic real parameter optimizers. An alternative adaptive DE algorithm called Expected Improvement (EI)-High Dimensional Model Representation (HDMR)-DE is suggested. The EI criterion and the Kriging-HDMR are used to adjust scale factor F and crossover constant Cr , respectively. Considering the expensive computational cost of evaluation, the Kriging is integrated to evaluate the objective function when an accuracy criterion is met. To compare the performance, the suggested method, it has been compared with four popular adaptive DE algorithms over 25 standard numerical benchmarks derived from the IEEE Congress on Evolutionary Computation 2005 competition. To verify the feasibility of the suggested algorithm, a real-world application, time-dependent variable Blank Hold Force (BHF) optimization problem is also carried out by the EI-HDMR-DE. The results show that the EI-HDMR-DE improves the performance of adaptive DE and has potential capability to solve some complicated real-world applications.
-
-@highlight An alternative adaptive DE algorithm is suggested.
-@highlight Two new mutation strategies are proposed.
-@highlight EI criterion is employed to identify scale factor adaptively.
-@highlight Cut-HDMR is used to determine crossover constant due to coupling characteristic.
-@highlight The suggested method is successfully applied to time-based sheet forming optimization.

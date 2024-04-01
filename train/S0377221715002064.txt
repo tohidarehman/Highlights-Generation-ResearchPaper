@@ -1,7 +1,0 @@
- In applications of data envelopment analysis (DEA) data about some inputs and outputs is often available only in the form of ratios such as averages and percentages. In this paper we provide a positive answer to the long-standing debate as to whether such data could be used in DEA. The problem arises from the fact that ratio measures generally do not satisfy the standard production assumptions, e.g., that the technology is a convex set. Our approach is based on the formulation of new production assumptions that explicitly account for ratio measures. This leads to the estimation of production technologies under variable and constant returns-to-scale assumptions in which both volume and ratio measures are native types of data. The resulting DEA models allow the use of ratio measures “as is”, without any transformation or use of the underlying volume measures. This provides theoretical foundations for the use of DEA in applications where important data are reported in the form of ratios.
-
-@highlight We give a positive answer to the long-standing debate as to whether ratio data could be used in DEA.
-@highlight We develop new VRS and CRS DEA models in which both volume and ratio measures are native types of data.
-@highlight We state new production axioms that account for ratio data and formally derive DEA models from them.
-@highlight Different types of ratio inputs and outputs require different modelling approaches.
-@highlight We discuss solution approaches to the new DEA models and consider a computational example.

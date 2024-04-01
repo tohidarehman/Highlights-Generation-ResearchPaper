@@ -1,7 +1,0 @@
- Self-explicated approaches are popular preference measurement approaches for products with many attributes. This article classifies previous self-explicated approaches according to their evaluation types, i.e. trade-off- versus non-trade-off-based, and outlines their advantages and disadvantages. In addition, it proposes a new method, the presorted adaptive self-explicated approach that is based on Netzer and Srinivasan’ adaptive self-explicated approach and that combines trade-off- and non-trade-off-based evaluation types. Two empirical studies compare this new method with the most popular existing self-explicated approaches, including the adaptive self-explicated approach and paired comparison preference measurement. The new method overcomes the insufficient discrimination between importance weights, as usually found in non-trade-off-based evaluation types; discourages respondents’ simplification strategies, as are frequently encountered in trade-off evaluation types; is easy to implement; and yields high predictive validity compared with other popular self-explicated approaches.
-
-@highlight We provide a conceptual framework for classifying self-explicated approaches.
-@highlight We propose PASEA, which merges trade-off- and non-trade-off-based evaluation types.
-@highlight In 2 studies, we compare PASEA to 6 recently published self-explicated approaches.
-@highlight PASEA overcomes insufficient discrimination and discourages simplification.
-@highlight PASEA also improves predictive validity compared with other popular approaches.

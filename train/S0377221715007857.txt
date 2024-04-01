@@ -1,6 +1,0 @@
- This paper studies the implications of upstream and/or downstream horizontal mergers on suppliers, retailers and consumers, in a bilateral oligopolistic system. We especially focus on market power and operational synergy benefits that such mergers engender. Starting with a benchmark pre-merger scenario in which firms compete on prices at each level, we find that the above two consequences individually almost have opposite effects on the merging and non-merging firms’ optimal decisions/profits after a merger. Furthermore, even though the effects of upstream and downstream mergers are different, the vertical supply chain partners will always try to reduce their losses if the market power effect dominates, but will take actions that improve their profits if the synergy effect is stronger. The above results are robust enough to hold even when taking into account intra-brand competition among retailers.
-
-@highlight We have more clearly stated and justified modeling assumptions.
-@highlight We have extended our analysis to three different scenarios in Section 7.
-@highlight Additional examples of horizontal mergers have been provided to motivate our work.
-@highlight We have streamlined exposition throughout the paper and have reduced the length.

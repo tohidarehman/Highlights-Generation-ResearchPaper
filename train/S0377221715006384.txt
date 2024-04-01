@@ -1,7 +1,0 @@
- The time that a part may spend in a buffer between successive operations is limited in some manufacturing processes. Parts that wait too long must be reworked or discarded due to the risk of quality degradation. In this paper, we present an analytic formulation for the steady-state probability distribution of the time a part spends in a two-machine, one-buffer transfer line (the part sojourn time). To do so, we develop a set of recurrence equations for the conditional probability of a part’s sojourn time, given the number of parts already in the buffer when it arrives and the state of the downstream machine. Then we compute the unconditional probabilities of the part sojourn time using the total probability theorem. Numerical results are provided to demonstrate how the shape of the distribution depends on machine reliability and the buffer size. The analytic formulation is also applied to approximately compute the part sojourn time distribution in a given buffer of a long line. Comparison with simulation shows good agreement.
-
-@highlight An analytic formulation for the part sojourn time distribution in a 2-machine line.
-@highlight Machines are unreliable and the buffer is finite.
-@highlight The analytic formulation is verified with Little’s law.
-@highlight Numerical experiments are provided to illustrate the shape of the distribution.
-@highlight The analytic formulation is also applied to a given buffer of a long line.

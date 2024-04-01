@@ -1,6 +1,0 @@
- Foreign fibers in cotton seriously affect the quality of cotton products. Online detection systems of foreign fibers based on machine vision are the efficient tools to minimize the harmful effects of foreign fibers. The optimum feature set with small size and high accuracy can efficiently improve the performance of online detection systems. To find the optimal feature sets, a two-stage feature selection algorithm combining IG (Information Gain) approach and BPSO (Binary Particle Swarm Optimization) is proposed for foreign fiber data. In the first stage, IG approach is used to filter noisy features, and the BPSO uses the classifier accuracy as a fitness function to select the highly discriminating features in the second stage. The proposed algorithm is tested on foreign fiber dataset. The experimental results show that the proposed algorithm can efficiently find the feature subsets with smaller size and higher accuracy than other algorithms.
-
-@highlight A two-stage selection algorithm combining IG and BPSO for foreign fiber data.
-@highlight IG can filter noisy features and the BPSO can select the highly discriminating features.
-@highlight The experiments show that our method can find the subsets with small size and high accuracy.
-@highlight The optimum subsets are significant for online detection based on machine vision of foreign fibers in cotton.

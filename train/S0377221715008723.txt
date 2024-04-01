@@ -1,5 +1,0 @@
- A Projected-Gradient Underdetermined Newton-like algorithm will be introduced for finding a solution of a Horizontal Nonlinear Complementarity Problem (HNCP) corresponding to a feasible solution of a Mathematical Programming Problem with Complementarity Constraints (MPCC). The algorithm employs a combination of Interior-Point Newton-like and Projected-Gradient directions with a line-search procedure that guarantees global convergence to a solution of HNCP or, at least, a stationary point of the natural merit function associated to this problem. Fast local convergence will be established under reasonable assumptions. The new algorithm can be applied to the computation of a feasible solution of MPCC with a target objective function value. Computational experience on test problems from well-known sources will illustrate the efficiency of the algorithm to find feasible solutions of MPCC in practice.
-
-@highlight Computing a Simple Feasible Solution of MPCC.
-@highlight Computing a Target Feasible Solution of MPCC.
-@highlight Convergence of a PGIP Algorithm for an Underdetermined Complementarity Problem.

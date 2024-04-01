@@ -1,6 +1,0 @@
- Conventional array partitioning analyses split arrays into contiguous partitions to infer properties of sets of cells. Such analyses cannot group together non-contiguous cells, even when they have similar properties. In this paper, we propose an abstract domain which utilizes semantic properties to split array cells into groups. Cells with similar properties will be packed into groups and abstracted together. Additionally, groups are not necessarily contiguous. This abstract domain allows us to infer complex array invariants in a fully automatic way. Experiments on examples from the Minix 1.1 memory management and a tiny industrial operating system demonstrate the effectiveness of the analysis.
-
-@highlight An abstract domain that partitions array elements according to semantic properties.
-@highlight The abstract domain can represent non-contiguous partitions.
-@highlight Allowing empty groups eliminates the need for global disjunction.
-@highlight We verify two non-trivial invariants in two distinct operating systems.

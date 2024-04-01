@@ -1,7 +1,0 @@
- The reinforced-concrete slab road bridges in their simplest form are used as a cost-effective solution for local infrastructure in various parts of the world. Since the reinforced concrete slab is the load-carrying element whose upper surface is directly exposed to both road traffic and weather, the integrity of the upper layer of the concrete slab becomes the decisive factor for estimation of durability of these bridges. This paper presents a fuzzy-logic based approach to estimation of stiffness reduction of concrete in the compressed zone of the cross section which takes into account the combined effect of the cyclic loading, freeze–thawing and chloride contamination. The fuzzy logic is used for derivation of numerical relations from available experimental data on the three relevant effects, which can be readily implemented in or used with existing finite element codes. The proposed approach is demonstrated in an example of a model bridge subjected to moderate road traffic and mountainous climatic conditions.
-
-@highlight Approach to analysis of durability of reinforced concrete slab bridge.
-@highlight Fuzzy model of response of concrete to compressive cyclic loading.
-@highlight Fuzzy model of stiffness reduction of concrete due to freeze–thawing.
-@highlight Fuzzy model of stiffness reduction of concrete due to chloride contamination.
-@highlight Combined fuzzy model of concrete fatigue in hostile environment.

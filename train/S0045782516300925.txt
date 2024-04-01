@@ -1,7 +1,0 @@
- Recently, new families of mixed finite elements have been proposed to address the analysis of linear elastic bodies on regular grids adopting a limited number of degrees of freedom per element. A two-dimensional mixed discretization is implemented to formulate an alternative topology optimization problem where stresses play the role of main variables and both compressible and incompressible materials can be dealt with. The structural compliance is computed through the evaluation of the complementary energy, whereas the enforcement of stress constraints is straightforward. Numerical simulations investigate the features of the proposed approach: comparisons with a conventional displacement-based scheme are provided for compressible materials; stress-constrained solutions for structures made of incompressible media are introduced.
-
-@highlight A topology optimization problem is formulated in terms of stresses only.
-@highlight An efficient mixed finite element is used to provide robustness and accuracy on regular grids.
-@highlight Stress-constrained optimization is dealt with also in case of incompressible media.
-@highlight Stress-constrained optimal layouts take advantage of the accuracy of the adopted fem.
-@highlight Peculiar optimal layouts are found in case of incompressible material and plane strain.

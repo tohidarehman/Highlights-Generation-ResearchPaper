@@ -1,6 +1,0 @@
- Background The application of microarray data for cancer classification is important. Researchers have tried to analyze gene expression data using various computational intelligence methods. Purpose We propose a novel method for gene selection utilizing particle swarm optimization combined with a decision tree as the classifier to select a small number of informative genes from the thousands of genes in the data that can contribute in identifying cancers. Conclusion Statistical analysis reveals that our proposed method outperforms other popular classifiers, i.e., support vector machine, self-organizing map, back propagation neural network, and C4.5 decision tree, by conducting experiments on 11 gene expression cancer datasets.
-
-@highlight This study proposes a new method for gene selection utilizing PSO combined with a decision tree.
-@highlight Experiment on 11 gene expression cancer datasets from Taiwan Cancer Registry and GEMS is done.
-@highlight We investigate a variety of cancers: bladder, blood, bone marrow, brain, breast, colon, kidney, liver, and lung.
-@highlight The proposed method outperforms SVM, SOM, ANN, and C4.5 decision tree by two-way ANOVA analysis.

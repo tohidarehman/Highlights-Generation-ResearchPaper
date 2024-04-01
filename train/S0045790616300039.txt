@@ -1,6 +1,0 @@
- The Binary Offset Carrier (BOC) modulated signals have been introduced in global navigation satellite systems (GNSS). They possess good frequency compatibility with existing Binary Phase Shift Keying (BPSK) signal. However, this type of modulation creates multiple side peaks in auto correlation function. Therefore it is hard to make full use of its ranging capability. To alleviate this problem, this paper analyzes the Double Estimator Technique (DET) thoroughly from a general formulation of two-dimension correlation and proposes a new subcarrier aided code tracking approach. In addition, based on the fact that the pseudo random noise (PRN) code can reflect the absolute delay, an adaptive code monitoring scheme is investigated to tap the potential tracking accuracy. Utilizing BOCsin signal, Monte Carlo simulations demonstrate that the proposed method improves the tracking performance with respect to thermal noise significantly.
-
-@highlight A general analytical expression of the two-dimension correlation of DET is formulated.
-@highlight The crosstalk between SLL and DLL will degrade the ranging capability of BOC signals.
-@highlight The subcarrier aided code tracking (SACT) technique is proposed.
-@highlight The adaptive adjustment by code monitoring is proposed to tap the potential ranging capability.

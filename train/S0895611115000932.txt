@@ -1,7 +1,0 @@
- The paper presents the automatic computer-aided balance assessment system for supporting and monitoring the diagnosis and rehabilitation process of patients with limited mobility or disabled in home environment. The system has adopted seven Berg Balance Scale activities. The assessment approach is based on the accelerometric signals acquired by the inertial sensors worn by the patient. Several specific, mostly medium frequency features of signals are introduced and discussed. The reduction of the feature vector has been performed using the multilevel Fisher's linear discriminant. The classification employs the multilayer perceptron artificial neural network. The direct assessment effectiveness ranges from 75% to 94% for various activities.
-
-@highlight We propose a system for automatic balance assessment.
-@highlight Acceleration signals acquired by sensors worn by a patient.
-@highlight Multiple medium and high frequency signal features extraction and selection.
-@highlight Building an expert system able to process the feature vector.
-@highlight Experiments with seven BBS activities and 52 elderly patients yielding 75–94% of correct assessments.

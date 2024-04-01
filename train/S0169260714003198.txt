@@ -1,7 +1,0 @@
- This research focuses on scheduling patients in emergency department laboratories according to the priority of patients’ treatments, determined by the triage factor. The objective is to minimize the total waiting time of patients in the emergency department laboratories with emphasis on patients with severe conditions. The problem is formulated as a flexible open shop scheduling problem and a mixed integer linear programming model is proposed. A genetic algorithm (GA) is developed for solving the problem. Then, the response surface methodology is applied for tuning the GA parameters. The algorithm is tested on a set of real data from an emergency department. Simulation results show that the proposed algorithm can significantly improve the efficiency of the emergency department by reducing the total waiting time of prioritized patients.
-
-@highlight A semi-online patient scheduling problem in the pathology laboratory is studied.
-@highlight The problem is formulated as a semi-online hybrid shop scheduling problem.
-@highlight A genetic algorithm is developed for solving the problem.
-@highlight Several experiments are conducted to evaluate the effectiveness of the approach.
-@highlight The approach reduces waiting time of patients and improves operations efficiency.

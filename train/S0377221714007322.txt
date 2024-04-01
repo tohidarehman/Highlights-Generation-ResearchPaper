@@ -1,7 +1,0 @@
- We introduce debt issuance limit constraints along with market debt and bank debt to consider how financial frictions affect investment, financing, and debt structure strategies. Our model provides four important results. First, a firm is more likely to issue market debt than bank debt when its debt issuance limit increases. Second, investment strategies are nonmonotonic with respect to debt issuance limits. Third, debt issuance limits distort the relationship between a firm’s equity value and investment strategy. Finally, debt issuance limit constraints lead to debt holders experiencing low risk and low returns. That is, the more severe the debt issuance limits are, the lower are the credit spreads and default probabilities. Our theoretical results are consistent with stylized facts and empirical results.
-
-@highlight We examine how debt issuance limits influence the structure of investment, financing, and debt.
-@highlight An increase in debt issuance limits leads to a preference for the issue of market debt over bank debt.
-@highlight Investment strategies are nonmonotonic with respect to debt issuance limits.
-@highlight Debt issuance limits create distortions in the relationship between investment and value.
-@highlight Debt issuance limits lead to debt holders experiencing low risk and low returns.

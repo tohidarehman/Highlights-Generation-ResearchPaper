@@ -1,6 +1,0 @@
- We demonstrated an optimized 8-domain vertical aligned (VA) liquid crystal display (LCD) by minimizing its color washout. The index G is adopted to analyze the degree of color washout through simulation. By using linearly and circularly polarized incident light, the optimized regime of the area and applied voltage ratios of sub-pixels is obtained. In the experiments with the circularly polarized light, the images are sensuously improved in a coupled capacity type LCD by applying the simulated applied voltage ratio of two sub-pixels.
-
-@highlight We optimized an 8-domain VA LCD by minimizing its color washout.
-@highlight We adopted the index G value to analyze the degree of color washout.
-@highlight The color washout is improved in all the oblique viewing direction.
-@highlight In general, the quality of LCD is raised.

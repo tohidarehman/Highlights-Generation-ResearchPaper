@@ -1,7 +1,0 @@
- When cheap fossil energy is polluting and pollutant no longer absorbed beyond a certain concentration, there is a moment when the introduction of a cleaner renewable energy, although onerous, is optimal with respect to inter-temporal utility. The cleaner technology is adopted either instantaneously or gradually at a controlled rate. The problem of optimum under viability constraints is 6-dimensional under a continuous-discrete dynamic controlled by energy consumption and investment into production of renewable energy. Viable optima are obtained either with gradual or with instantaneous adoption. A longer time horizon increases the probability of adoption of renewable energy and the time for starting this adoption. It also increases maximal utility and the probability to cross the threshold of irreversible pollution. Exploiting a renewable energy starts sooner when adoption is gradual rather than instantaneous. The shorter the period remaining after adoption until the time horizon, the higher the investment into renewable energy.
-
-@highlight Determination of the best moment for adopting a renewable energy, and the best rate of adoption.
-@highlight Viability problem in 6 dimensions and continuous-discrete time.
-@highlight Optima are also viable: the associated trajectories remain within sets of constraints.
-@highlight Gradual adoption (never done before), to be compared with instantaneous adoption.
-@highlight Find the role of initial conditions and time horizon in the probability of adoption of renewable energy.

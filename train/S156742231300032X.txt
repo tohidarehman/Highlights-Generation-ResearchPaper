@@ -1,6 +1,0 @@
- In e-commerce applications, vendors can construct detailed profiles about customers’ preferences, which is known as buyer profiling. These profiles can then be used by vendors in order to perform practices such as price discrimination, poor judgment, etc. The use of pseudonyms and, specially, changing pseudonyms from time to time are known to minimize profiling, minimizing the capacity of vendors to perform such practices in turn. Although there are some frameworks and tools that support pseudonym change, there are few proposals that suggest or directly change the pseudonym in an automated fashion. Instead, users are usually provided with the mechanisms to change pseudonyms but without any advise on when they should actually use these mechanisms. In this paper, we present an approach to control buyer profiling by means of automated pseudonym changes performed according to human privacy attitudes. We also present an application scenario and an evaluation of our proposal.
-
-@highlight We present a novel automated buyer profiling control mechanism.
-@highlight It is based on pseudonym changes performed according to human privacy attitudes.
-@highlight Agents automatically decide whether reusing or changing their pseudonyms.
-@highlight We present the results of an extensive experimental evaluation of the mechanism based on an application scenario.

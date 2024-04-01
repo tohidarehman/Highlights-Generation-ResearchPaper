@@ -1,6 +1,0 @@
- In recent years, many important real-world applications are studied as “rich” vehicle routing problems that are variants and generalizations of the well-known vehicle routing problem. In this paper we address the pickup-and-delivery version of this problem and consider further generalization by allowing transshipment in the network. Moreover, we allow heterogenous vehicles and flexible fleet size. We describe mixed integer-programming formulations for the problem with and without time windows for services. The number of constraints and variables in the models are bounded by polynomial size of the problem. We discuss several problem variants that are either captured by our models or can be easily captured through simple modifications. Computational work gave promising results and confirms that transshipment in network can indeed enhance optimization.
-
-@highlight We considered vehicle routing problem for pickup and delivery with transshipment.
-@highlight We developed polynomial-size mixed integer-programming models with and without time windows.
-@highlight For real-world applications, we discussed problem variants and showed our model can address them.
-@highlight Computational results confirmed effectiveness of transshipment.

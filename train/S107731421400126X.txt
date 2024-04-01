@@ -1,7 +1,0 @@
- In this paper, we present the reconstructed residual error, which evaluates the quality of a given segmentation of a reconstructed image in tomography. This novel evaluation method, which is independent of the methods that were used to reconstruct and segment the image, is applicable to segmentations that are based on the density of the scanned object. It provides a spatial map of the errors in the segmented image, based on the projection data. The reconstructed residual error is a reconstruction of the difference between the recorded data and the forward projection of that segmented image. The properties and applications of the algorithm are verified experimentally through simulations and experimental micro-CT data. The experiments show that the reconstructed residual error is close to the true error, that it can improve gray level estimates, and that it can help discriminating between different segmentations.
-
-@highlight We introduce the reconstructed residual error, a new segmentation evaluation measure.
-@highlight The method provides a spatial map of the errors in a segmented image in tomography.
-@highlight The original projection images are exploited in an unsupervised approach.
-@highlight Validation is performed through simulations and experimental micro-CT data.
-@highlight The method can improve gray level estimates and discriminate between segmentations.

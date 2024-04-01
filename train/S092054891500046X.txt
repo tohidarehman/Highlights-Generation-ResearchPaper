@@ -1,7 +1,0 @@
- Hidden and exposed terminal problems are known to negatively impact wireless communications, degrading potential computing services on top. These effects are more significant in Wireless Mesh Sensor Networks (WMSNs), and, particularly, in those based on the IEEE 802.15.5 Low-Rate Wireless Personal Area Network (LR-WPAN mesh) standard, a promising solution for enabling low-power WMSNs. The first contribution of this paper is a quantitative evaluation of these problems under the IEEE 802.15.5 Asynchronous Energy Saving (ASES) mode, which is intended for asynchronous data-collection applications. The results obtained show a sharp deterioration of the network performance. Therefore, this paper also reviews the most relevant approaches that cope with these problems and are compatible with ASES. Finally, a set of these proposals is assessed to find out those more suitable for their potential integration with ASES, which constitutes the second major contribution of the paper.
-
-@highlight The hidden and exposed effects are assessed on Wireless Mesh Sensor Networks (WMSNs).
-@highlight Performance evaluation reveals a clear negative impact on WMSNs.
-@highlight Different scientific proposals are discussed in order to mitigate these problems.
-@highlight Some of these proposals are stressed and compared according to WMSN premises.
-@highlight Best solutions of our comparative study are shown to the audience.

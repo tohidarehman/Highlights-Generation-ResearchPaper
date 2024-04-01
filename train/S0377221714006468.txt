@@ -1,6 +1,0 @@
- The paper examines a method to attribute hazardous waste streams to regional production and consumption activity, and to connect these same waste streams through to different management options. We argue that a method using an input–output framework provides useful intelligence for decision makers seeking to connect elements of the management of the hazardous waste hierarchy to production and to different patterns and types of final consumption (of which domestic household consumption is one). This paper extends application of conventional demand driven input–output attribution methods to identify hazardous waste ‘hotspots’ in the supply chains of different final consumption goods and consumption groups. Using a regional case study to exposit the framework and its use, we find that domestic government final consumption of public administration production indirectly drives hazardous waste generation that goes to landfill, particularly in the domestic construction and sanitary services sectors, but also in the manufacture of wood products.
-
-@highlight The paper attributes hazardous waste streams to regional economic activity.
-@highlight There is a tightening regulatory framework around hazardous waste.
-@highlight The methods adopted provide information for decision makers.
-@highlight Input–output attribution methods are used for the analysis.

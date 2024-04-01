@@ -1,5 +1,0 @@
- This paper proposes an effective composite image detection method that uses the feature inconsistency of image components of the composite image to detect tampered regions. The composite image is first divided into image components. Next, the variance of the noise remaining after de-noising in each image component is calculated and used as a feature. Finally, tampered regions are detected using this feature based on a tampering detection rule. Experimental results show that the proposed method has good composite image detection performance.
-
-@highlight Feature inconsistency of image components is used to obtain tampering detection.
-@highlight The proposed method can obtain accurate tampered regions in composite images.
-@highlight Image-component-based composite image detection is first proposed.

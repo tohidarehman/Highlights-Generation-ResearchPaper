@@ -1,5 +1,0 @@
- Rational Bézier curves provide a curve fitting tool and are widely used in Computer Aided Geometric Design, Computer Aided Design and Geometric Modeling. The injectivity (one-to-one property) of rational Bézier curve as a mapping function is equivalent to the curve without self-intersections. We present a geometric condition on the control polygon which is equivalent to the injectivity of rational Bézier curve with this control polygon for all possible choices of weights. The proof is based on the degree elevation and toric degeneration of rational Bézier curve.
-
-@highlight We define the well-posedness of control polygon of the rational Bezier curve.
-@highlight The Bezier curve is injective if and only if its control polygon is well-posed.
-@highlight We present a geometric method to determine the injectivity of the Bezier curve.

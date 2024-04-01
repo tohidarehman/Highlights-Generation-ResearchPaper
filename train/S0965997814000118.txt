@@ -1,6 +1,0 @@
- In recent years, the importance of economical considerations in the field of structures has motivated many researchers to propose new methods for minimizing the weight of the structures. In this paper, a new and simple optimization algorithm is presented to solve weight optimization of truss structures with continuous variables. The Colliding Bodies Optimization (CBO) is an algorithm based on one-dimensional collisions between two bodies, where each agent solution is modeled as the body. After a collision of two moving bodies, having specified masses and velocities, these are separated and moved to new positions with new velocities. This process is repeated until a termination criterion is satisfied and the optimum CB is found. Comparison of the results of the CBO with those of some previous studies, demonstrate its capability in solving the present optimization problems.
-
-@highlight A simple optimization algorithm is presented for weight optimal design of trusses.
-@highlight Colliding Bodies Optimization (CBO) is based on one-dimensional collisions of two bodies.
-@highlight CBO is internally a parameter independent algorithm.
-@highlight Comparison of the results of CBO with those of previous studies, demonstrate its capabilities.

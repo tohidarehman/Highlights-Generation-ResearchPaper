@@ -1,8 +1,0 @@
- A Markowitz-type portfolio selection problem is to minimize a deviation measure of portfolio rate of return subject to constraints on portfolio budget and on desired expected return. In this context, the inverse portfolio problem is finding a deviation measure by observing the optimal mean-deviation portfolio that an investor holds. Necessary and sufficient conditions for the existence of such a deviation measure are established. It is shown that if the deviation measure exists, it can be chosen in the form of a mixed CVaR-deviation, and in the case of n risky assets available for investment (to form a portfolio), it is determined by a combination of (n +1) CVaR-deviations. In the later case, an algorithm for constructing the deviation measure is presented, and if the number of CVaR-deviations is constrained, an approximate mixed CVaR-deviation is offered as well. The solution of the inverse portfolio problem may not be unique, and the investor can opt for the most conservative one, which has a simple closed-form representation.
-
-@highlight An inverse mean-deviation portfolio problem finds a deviation measure for a given optimal portfolio.
-@highlight Necessary and sufficient conditions for the existence of such a deviation measure are obtained.
-@highlight The deviation measure can be represented in the form of a mixed CVaR-deviation.
-@highlight For n risky assets, it is determined by a combination of n
-@highlight +1 CVaR-deviations.
-@highlight If the number of CVaR-deviations is constrained, an approximate deviation measure is found.

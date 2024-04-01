@@ -1,7 +1,0 @@
- We analyze a duopoly where capacity-constrained firms offer an established product and have the option to offer an additional new and differentiated product. We show that the firm with the smaller capacity on the established market has a higher incentive to innovate and reaches a larger market share on the market for the new product. An increase in capacity of the larger firm can prevent its competitor from innovating, whereas an increase in capacity of the smaller firm cannot prevent innovation of its larger competitor. In equilibrium the firm with smaller capacity on the established market might outperform the larger firm with respect to total payoffs.
-
-@highlight Incumbents on established market may add capacities for a new product.
-@highlight Capacity constrained oligopolistic price competition on interrelated markets.
-@highlight Non-monotone effects of established capacities on equilibrium profits.
-@highlight Smaller firm on the established market might outperform larger competitor.
-@highlight Symmetry breaking of identical firms depends on firm size on established market.

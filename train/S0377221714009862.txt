@@ -1,6 +1,0 @@
- A capital allocation scheme for a company that has a random total profit Y and uses a coherent risk measure ρ has been suggested. The scheme returns a unique real number which determines the capital that should be allocated to company’s subsidiary with random profit X.. The problem is reduced to selecting the “center” of a non-empty convex weakly compact subset of a Banach space, has been used. Our scheme can also be applied to selecting the unique Pareto optimal allocation in a wide class of optimal risk sharing problems.
-
-@highlight A capital allocation scheme for coherent risk measures has been suggested.
-@highlight It returns the unique solution for every coherent risk measure.
-@highlight The resulting capital allocation is linear and diversifying.
-@highlight The method can be applied to fair division in optimal risk sharing problems.

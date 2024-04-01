@@ -1,7 +1,0 @@
- The capacity of a runway system represents a bottleneck at many international airports. The current practice at airports is to land approaching aircraft on a first-come, first-served basis. An active rescheduling of aircraft landing times increases runway capacity or reduces delays. The problem of finding an optimal schedule for aircraft landings is referred to as the “aircraft landing problem”. The objective is to minimize the total delay of aircraft landings or the respective cost. The necessary separation time between two operations must be met. Due to the complexity of this scheduling problem, recent research has been focused on developing heuristic solution approaches. This article presents a new algorithm that is able to create optimal landing schedules on multiple independent runways for aircraft with positive target landing times and limited time windows. Our numerical experiments show that problems with up to 100 aircraft can be optimally solved within seconds.
-
-@highlight This paper considers the aircraft landing problem with multiple runways, positive target landing times, and time windows.
-@highlight We assume the set of aircraft to be landed is divided into a (small) number of aircraft classes.
-@highlight We provide an exact algorithm to minimize the total delay cost, yielding exact solutions in short time.
-@highlight We show the efficiency of our algorithm through a numerical study.
-@highlight We outline a possible implementation of our algorithm in a dynamic environment via a rolling horizon approach.

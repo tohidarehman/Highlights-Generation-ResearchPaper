@@ -1,6 +1,0 @@
- The Traveling Umpire Problem (TUP) is a challenging combinatorial optimization problem based on scheduling umpires for Major League Baseball. The TUP aims at assigning umpire crews to the games of a fixed tournament, minimizing the travel distance of the umpires. The present paper introduces two complementary heuristic solution approaches for the TUP. A new method called enhanced iterative deepening search with leaf node improvements (IDLI) generates schedules in several stages by subsequently considering parts of the problem. The second approach is a custom iterated local search algorithm (ILS) with a step counting hill climbing acceptance criterion. IDLI generates new best solutions for many small and medium sized benchmark instances. ILS produces significant improvements for the largest benchmark instances. In addition, the article introduces a new decomposition methodology for generating lower bounds, which improves all known lower bounds for the benchmark instances.
-
-@highlight We propose two complementary heuristic methods for the traveling umpire problem.
-@highlight We present a new lower bound methodology for the traveling umpire problem.
-@highlight The heuristic methods improve many best-known objective values known in literature.
-@highlight The lower bound methodology improves all best lower bounds known in literature.

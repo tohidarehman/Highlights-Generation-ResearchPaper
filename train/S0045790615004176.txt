@@ -1,5 +1,0 @@
- With the development of the Internet of Things (IoT), more and more devices that have diverse computing and communication capabilities are interconnected. For multimedia multicast in the IoT, a fixed flow rate cannot meet the quality-of-service requirements of heterogeneous devices and each device may not get the information from all other devices. In order to satisfy the heterogeneous requirements, we develop a distributed algorithm to solve the inter-layer flow optimization problem based on network coding for multimedia multicast in the IoT, by using primal decomposition and primal-dual analysis. We also apply Lyapunov theory to prove the convergence and global stability of the proposed iterative algorithm. Numerical results demonstrate that the proposed algorithm has better flexibility, stability, and implementation advantages than the previous intra-layer ones.
-
-@highlight A method to save bandwidth for multimedia multicast in IoT.
-@highlight A distributed algorithm of joint rate control and multicast layer flow allocation.
-@highlight The inter-layer network coding is more stable than the intra-layer ones.

@@ -1,5 +1,0 @@
- Over the last decades, speculative investors in the FX market have profited in the well known currency carry trade strategy (CT). However, during currencies or global financial crashes, CT produces substantial losses. In this work we present a methodology that enhances CT performance significantly. For our final strategy, constructed backtests show that the mean-semivolatility ratio can be more than doubled with respect to benchmark CT. To do the latter, we first identify and classify CT returns according to their behavior in different regimes, using a Hidden Markov Model (HMM). The model helps to determine when to open and close positions, depending whether the regime is favorable to CT or not. Finally we employ a mean-semivariance allocation model to improve allocations when positions are opened.
-
-@highlight Exchange carry trade returns can be classified in regimes by a Hidden Markov Model.
-@highlight Regime identification allows to construct outstanding carry trade strategies.
-@highlight Optimal mean-semivariance currency portfolio enhances carry trade strategies.

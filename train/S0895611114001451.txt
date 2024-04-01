@@ -1,6 +1,0 @@
- Personalized resection guides (PRG) have been recently proposed in the domain of knee replacement, demonstrating clinical outcome similar or even superior to both manual and navigated interventions. Among the mandatory pre-surgical steps for PRG prototyping, the measurement of clinical landmarks (CL) on the bony surfaces is recognized as a key issue due to lack of standardized methodologies, operator-dependent variability and time expenditure. In this paper, we focus on the reliability and repeatability of an anterior–posterior axis, also known as Whiteside line (WL), of the distal femur proposing automatic surface processing and modeling methods aimed at overcoming some of the major concerns related to the manual identification of such CL on 2D images and 3D models. We show that the measurement of WL, exploiting the principle of mean-shifting surface curvature, is highly repeatable and coherent with clinical knowledge.
-
-@highlight The mean-shift technique applied to the surface curvature facilitates the region clustering.
-@highlight The anatomy of the IF can be consistently represented through a hyperbolic paraboloid.
-@highlight The Whiteside line can be nicely approximated with the principal direction of the saddle shape.
-@highlight The detection of the WL is reliable, more repeatable than that obtained through manual digitations.

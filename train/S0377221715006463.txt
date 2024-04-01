@@ -1,7 +1,0 @@
- Credit scoring models are important tools in the credit granting process. These models measure the credit risk of a prospective client based on idiosyncratic variables and macroeconomic factors. However, small and medium sized enterprises (SMEs) are subject to the effects of the local economy. From a data set with the localization and default information of 9 million Brazilian SMEs, provided by Serasa Experian (the largest Brazilian credit bureau), we propose a measure of the local risk of default based on the application of ordinary kriging. This variable has been included in logistic credit scoring models as an explanatory variable. These models have shown better performance when compared to models without this variable. A gain around 7 percentage points of KS and Gini was observed.
-
-@highlight We discuss the local economy impact on SMEs’ credit risk.
-@highlight We propose using kriging methods to incorporate the spatial dependence among firms.
-@highlight We make the comparison with traditional techniques based on zip code grouping.
-@highlight The proposed methodology increases the discrimination power in 6 points of Gini.
-@highlight We argue about the robustness of the proposed methodology over zip code grouping.

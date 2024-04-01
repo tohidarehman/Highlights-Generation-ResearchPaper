@@ -1,7 +1,0 @@
- Apart from the well-known weaknesses of the standard Malmquist productivity index related to infeasibility and not accounting for slacks, already addressed in the literature, we identify a new and significant drawback of the Malmquist–Luenberger index decomposition that questions its validity as an empirical tool for environmental productivity measurement associated with the production of bad outputs. In particular, we show that the usual interpretation of the technical change component in terms of production frontier shifts can be inconsistent with its numerical value, thereby resulting in an erroneous interpretation of this component that passes on to the index itself. We illustrate this issue with a simple numerical example. Finally, we propose a solution for this inconsistency issue based on incorporating a new postulate for the technology related to the production of bad outputs.
-
-@highlight We show that the Malmquist–Luenberger (ML) index may yield inconsistent results.
-@highlight The ML index can signal declining productivity when productivity is increasing.
-@highlight We discuss this issue within the standard decomposition of the ML index.
-@highlight We use a simple example and give cautionary advice to practitioners.
-@highlight We propose a solution for solving the inconsistency through a new postulate.

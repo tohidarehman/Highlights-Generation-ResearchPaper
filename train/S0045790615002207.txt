@@ -1,6 +1,0 @@
- Wireless sensor networks may be used for the surveillance of large systems (bridges, tunnels, etc.) or in the management of disasters such as forest fires, or oil spills. In some of these applications, the topology of the network is going to be dynamic: a connected system can evolve into a clustered system that presents a break of the global connectivity. Using a collector which will regularly visit the disjoint clusters enables to restore a discreet connectivity. A session layer protocol is proposed to reconstitute a consistent global information system. It enables the collector to reconstruct the communication context with the previously visited clusters, knowing they could have moved, merged, or have split. A node sensor model has been integrated into the Riverbed Opnet Modeler network simulation environment. Simulations show the benefits of the protocol, and particularly how it provides a better trajectory planning of the collector.
-
-@highlight Collection of measurements on a dynamic and non-connected wireless sensor network.
-@highlight Proposition of a session protocol to reconstitute a consistent information system.
-@highlight Definition of a clustering metric and of a contextual inheritance relation.
-@highlight Simulations of the protocol behavior on Riverbed Opnet Modeler.

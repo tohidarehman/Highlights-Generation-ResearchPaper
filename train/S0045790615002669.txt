@@ -1,6 +1,0 @@
- Computer systems are required to process data more rapidly than ever, due to recent software and internet technology developments. The server computers work continuously and provide services to many clients simultaneously, which results in greater heat production and high temperature that must be managed in order to avoid malfunction and failure of critical hardware. In this study, three cooling systems were used comparatively to examine the temperature and performance of the CPU and motherboard. The temperature characteristics and performance of the CPU were tested with a heat sink, water cooling system, and thermoelectric cooler. According to the test results, the thermoelectric cooling system has better cooling performance than the other two systems under continuous operating conditions. Additionally, the performance rating of the CPU was the best with a thermoelectric cooler under varying workloads.
-
-@highlight The cooling efficiency of the specific cooling systems on critical server hardware is investigated.
-@highlight The performance of the cooling systems on server CPU is outlined.
-@highlight The applied cooling systems in the context of temperature and performance are compared.
-@highlight The superior performance rating and cooling efficiency is obtained by the thermoelectric cooler.

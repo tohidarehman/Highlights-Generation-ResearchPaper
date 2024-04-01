@@ -1,8 +1,0 @@
- We extend an existing first-order typing system for strictness analysis to the fully higher-order case, covering both the derivation system and the inference algorithm. The resulting strictness typing system has expressive capabilities far beyond that of traditional strictness analysis systems. This extension is developed with the explicit aim of formally proving soundness of higher-order strictness typing with respect to a natural operational semantics. A key aspect of our approach is the introduction of a proof assistant at an early stage, namely during development of the proof. As such, the theorem prover aids the design of the language theoretic concepts. The new results in combination with their formal proof can be seen as a case study towards the achievement of the long term PoplMark Challenge. The proof framework developed for this case study can furthermore be used in other typing system case studies.
-
-@highlight We introduce syntax and semantics of a basic programming language.
-@highlight We define derivation rules for a higher-order strictness typing system.
-@highlight We proof soundness of our system with respect to the semantics.
-@highlight The proof is formalized by using a theorem prover.
-@highlight In inference algorithm is specified which infers principal strictness types.
-@highlight An extension of our system with recursive data types is given.

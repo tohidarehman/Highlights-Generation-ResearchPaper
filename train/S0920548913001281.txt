@@ -1,5 +1,0 @@
- Wide-area situational awareness for critical infrastructure protection has become a topic of interest in recent years. As part of this interest, we propose in this paper a smart mechanism to: control real states of the observed infrastructure from anywhere and at any time, respond to emergency situations and assess the degree of accuracy of the entire control system. Particularly, the mechanism is based on a hierarchical configuration of sensors for control, the ISA100.11a standard for prioritization and alarm management, and the F-Measure technique to study the level of accuracy of a sensor inside a neighborhood.
-
-@highlight Development of a diagnosis mechanism based on F-Measure, WSNs and ISA100.11a
-@highlight Situational awareness for critical infrastructure protection
-@highlight Respond to emergency situations and assess the degree of accuracy of the mechanism

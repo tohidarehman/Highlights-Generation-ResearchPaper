@@ -1,7 +1,0 @@
- In this paper we study the effect of different lexical resources for selecting synonyms and strategies for word sense disambiguation in a lexical simplification system for the Spanish language. The resources used for the experiments are the Spanish EuroWordNet, the Spanish Open Thesaurus and a combination of both. As for the synonym selection strategies, we have used both local and global contexts for word sense disambiguation. We present a novel evaluation framework in lexical simplification that takes into account the level of ambiguity of the word to be simplified. The evaluation compares various instances of the lexical simplification system, a gold standard, and a baseline. The paper presents an in-depth qualitative error analysis of the results.
-
-@highlight We developed the first lexical simplification for Spanish.
-@highlight Human-informed evaluation of the system.
-@highlight Comparison of two WSD strategies.
-@highlight Comparison of two lexical resources.
-@highlight Software and dataset made available for testing and verification.

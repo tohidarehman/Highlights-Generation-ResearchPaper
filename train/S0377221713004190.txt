@@ -1,7 +1,0 @@
- This technical note extends the results of our recent paper [Korhonen, Soleimani-damaneh, Wallenius, EJOR 215  431Ã¢ÂÂ438], for determining the RTS status of Decision Making Units in Weight-Restricted DEA models.
-
-@highlight We consider identifying the RTS status of DMUs in Weight-Restricted DEA models.
-@highlight We extend some of the results from our EJOR 2011 paper.
-@highlight Under suitable circumstances Constant Returns to Scale prevail.
-@highlight We also present partial results for another previously unresolved case.
-@highlight Our techniques are based on simple ratio calculations, and not on LP.

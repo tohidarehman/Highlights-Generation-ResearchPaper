@@ -1,6 +1,0 @@
- This paper presents an appearance-based method for estimating head direction that automatically adapts to individual scenes. Appearance-based estimation methods usually require a ground-truth dataset taken from a scene that is similar to test video sequences. However, it is almost impossible to acquire many manually labeled head images for each scene. We introduce an approach that automatically aggregates labeled head images by inferring head direction labels from walking direction. Furthermore, in order to deal with large variations that occur in head appearance even within the same scene, we introduce an approach that segments a scene into multiple regions according to the similarity of head appearances. Experimental results demonstrate that our proposed method achieved higher accuracy in head direction estimation than conventional approaches that use a scene-independent generic dataset.
-
-@highlight A head pose estimation method that adapts to individual scenes is proposed.
-@highlight The method automatically collects training dataset for head pose estimators.
-@highlight The method handle appearance differences within the same scene.
-@highlight The method demonstrate high performance without manually collected training data.

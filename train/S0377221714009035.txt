@@ -1,7 +1,0 @@
- This paper studies the multiple runway Aircraft Landing Problem. The aim is to schedule arriving aircraft to available runways at the airport. Landing times lie within predefined time windows and safety separation constraints between two successive landings must be satisfied. We propose a new approach for solving the problem. The method is based on an approximation of the separation time matrix and on time discretization. The separation matrix is approximated by a rank two matrix. This provides lower bounds or upper bounds depending on the choice of the approximating matrix. These bounds are used in a constraint generation algorithm to, exactly or heuristically, solve the problem. Computational tests, performed on publicly available problems involving up to 500 aircraft, show the efficiency of the approach.
-
-@highlight We propose a new approach based on time discretization and various approximations of the separation time matrix.
-@highlight The modelization provides very good LP relaxation especially for rank 2 separation time matrix.
-@highlight Lower bounding approximation is used in a dynamic constraint generation algorithm that can solve medium size instances.
-@highlight Best approximation leads to a heuristic method based on constraint generation.
-@highlight This heuristic can be applied to large instances and has improved previous results of the literature.

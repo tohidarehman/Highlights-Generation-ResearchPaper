@@ -1,6 +1,0 @@
- The problem of recovering multi-channel EEG signals from their randomly under-sampled measurements is addressed. The objective is to reduce the energy consumed by sensing, processing and transmission in an EEG wireless body area network. Our work is based on the Blind Compressed Sensing (BCS) framework, however instead of exploiting only the sparsity of the multi-channel ensemble in a learned basis, we also make use of the ensembles’ approximate rank deficiency. Our proposed formulation requires solving new optimization problems. To solve these problems, we derive algorithms based on the Split Bregman approach. The resulting recovery results are considerably better than those of previous techniques, in terms of the quantitative and qualitative evaluations.
-
-@highlight The problem is to recover multi-channel EEG signals from partial undersampling.
-@highlight Prior techniques used fixed basis for sparsifying the signals, followed by Compressed Sensing based Recovery.
-@highlight In this work, we proposed to learn the sparsifying basis in an adaptive fashion using the Blind Compressed Sensing framework.
-@highlight To improve the results even further, a low-rank penalty is imposed along with sparsity constraints.

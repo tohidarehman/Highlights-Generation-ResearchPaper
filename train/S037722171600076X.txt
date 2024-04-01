@@ -1,7 +1,0 @@
- We consider robust one-way trading with limited information on price fluctuations. Our analysis finds the best guarantee of difference from the optimal offline performance. We provide closed-form solution, and reveal for the first time all possible worst-case scenarios. Numerical experiments show that our policy is more tolerant of information inaccuracy than Bayesian policies, and can earn higher average revenue than other robust policies while keeping a lower standard deviation.
-
-@highlight We provide a competitive difference analysis of the online one-way trading problem with limited information on prices.
-@highlight We formulate the problem recursively and obtain closed-form solutions via backward induction.
-@highlight Our competitive difference analysis reveals for the first time all possible worst case scenarios.
-@highlight Simulations show that our method exhibits robustness against information inaccuracy.
-@highlight Our method can outperform trading policies by competitive ratio analysis in simulations.

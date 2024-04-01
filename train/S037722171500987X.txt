@@ -1,6 +1,0 @@
- This note takes up a shortcoming of Coelli et al.’ popular environmental efficiency measure and its extension to economic-environmental trade-off analysis (see Van Meensel et al. ), namely that they do not reward emission reductions by pollution control. A new environmental efficiency measure that overcomes this issue and - similar to Coelli et al.’s efficiency measure - is in line with the materials balance principle is proposed and further decomposed into “technical environmental efficiency” and “material and nonmaterial allocative environmental efficiencies”. The new efficiency measure collapses into Coelli et al.’s efficiency measure if none of the considered Decision Making Units control pollutants. A numerical example using Data Envelopment Analysis is provided to further explore the properties of the new efficiency measure.
-
-@highlight Coelli et al.’s (2007) environmental efficiency measure does not reward pollution control.
-@highlight Neglecting efforts to control pollutants may lead to biased environmental efficiency scores.
-@highlight A new environmental efficiency measure that rewards pollution control efforts is proposed.
-@highlight A numerical example using Data Envelopment Analysis is provided.

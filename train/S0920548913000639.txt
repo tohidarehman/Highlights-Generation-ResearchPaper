@@ -1,6 +1,0 @@
- The early concept of the World Wide Web was the network of related (linked) documents represented in human readable form. The ongoing development leads to another aspect of the web, the web of data. The goal being that the network will provide first-class, machine readable data. Therefore the current network will be transformed to a network where the machines will not only serve as the platform that hosts human readable data but as a true machine–machine network. In this paper, we review and compare the formats, technologies and approaches that are used today for publishing semantic, machine readable data, on the web.
-
-@highlight We present approaches for publishing machine readable data online.
-@highlight Presented approaches are: Microformats, Microdata, RDFa and Linked Data.
-@highlight The major contribution of the paper is a direct comparison of approaches.
-@highlight The comparison is for readers that are deciding which approach they should use.

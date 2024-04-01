@@ -1,6 +1,0 @@
- The problem of designing a wavelength routed optical transport network without wavelength conversion at intermediate nodes is considered. A class of valid inequalities for wavelength routing and assignment is reported and is used to augment traditional network design formulations. The resulting network cost provides a lower bound on the cost of a network that permits wavelength routing. The resulting network is shown to be optimal for a majority of the problem instances tested and in those cases where it is not, a trial-and-error method is proposed that is able to find near-optimal solutions within relatively short period of time. This is achieved by developing efficient and effective heuristics that attempt to provide a feasible wavelength routing. Computational tests are reported on relatively larger problem sizes than have been reported in literature on the wavelength routing problem.
-
-@highlight Problem of wavelength routed network design is considered.
-@highlight Network design models augmented with valid inequalities provide lower bounds.
-@highlight A heuristic is developed for the problem.
-@highlight Computational experiments are reported on large problem instances.

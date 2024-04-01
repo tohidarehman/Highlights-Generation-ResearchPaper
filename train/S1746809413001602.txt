@@ -1,7 +1,0 @@
- In this paper, a method for detection of steady-state visual evoked potentials in a non-invasive, multiple channel, asynchronous brain–computer interface is proposed. It is based on the canonical correlation analysis spatial filter for identifying optimal weighted combinations of electrode signals, followed by a cluster analysis of its coefficients for a fast and accurate SSVEP detection. High information transfer rates can be achieved after a short calibration session. The proposed algorithm, a standard spectrum analysis approach, and two competitive spatial filtering and detection methods were evaluated in a series of experiments with the use of data from 21 subjects. The obtained results showed a significant improvement in classification accuracy and in an average detection time for a large group of users.
-
-@highlight We propose a new method of SSVEP detection in multichannel, asynchronous BCIs.
-@highlight It is compared with three competitive spatial filtering and detection techniques.
-@highlight The methods are evaluated with the use of EEG signals measured for 21 subjects.
-@highlight The results show significant improvement of the ITR for a large group of users.
-@highlight Only a short calibration session is required to operate the interface.

@@ -1,6 +1,0 @@
- This paper considers a single machine scheduling problem in which each job to be scheduled belongs to a family and setups are required between jobs belonging to different families. Each job requires a certain amount of resource that is supplied through upstream processes. Therefore, schedules must be generated in such a way that the total resource demand does not exceed the resource supply up to any point in time. The goal is to find a schedule minimising total tardiness with respect to the given due dates of the jobs. A mathematical formulation and a heuristic solution approach for two variants of the problem are presented. Computational experiments show that the proposed heuristic outperforms a state-of-the-art commercial mixed integer programming solver both in terms of solution quality and computation time.
-
-@highlight We present a new single-machine scheduling problem with family setups and resource constraints.
-@highlight The problem is motivated from a real-life problem in the steel industry.
-@highlight We present mathematical formulations and heuristic approaches for two variants of the problem.
-@highlight The heuristics can be used for a variety of multi-stage production processes with arbitrary supply and demand rates.

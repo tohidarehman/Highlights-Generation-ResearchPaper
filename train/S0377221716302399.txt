@@ -1,6 +1,0 @@
- This paper considers periodic preventive maintenance policies for a deteriorating repairable system. On each failure the system is repaired and, at the planned times, it is periodically maintained to improve its reliability performance. Most of periodic preventive maintenance (PM) models for repairable systems have been studied assuming that the failure process between two PMs follows the nonhomogeneous Poisson process (NHPP), implying the minimal repair on each failure. However, in this paper, we assume that the failure process between two PMs follows a new counting process which is a generalized version of the NHPP. We develop two types of PM models and study detailed properties of the optimal policies which minimize the long-run expected cost rates. Numerical examples are also provided.
-
-@highlight This paper provides a stochastic model for PM based on a generalized minimal repair process.
-@highlight This paper studies the optimal preventive maintenance problem based on a new counting process.
-@highlight This paper introduces a new type of repair which can be usefully applied in the reliability area.
-@highlight This paper provides a new probabilistic tool for solving practical reliability problems.

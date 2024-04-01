@@ -1,6 +1,0 @@
- In this paper we address the Preemptive Resource Constrained Project Scheduling Problem (PRCPSP). PRCPSP requires a partially ordered set of activities to be scheduled using limited renewable resources such that any activity can be interrupted and later resumed without penalty. The objective is to minimize the project duration. This paper proposes an effective branch-and-price algorithm for solving PRCPSP based upon minimal Interval Order Enumeration involving column generation as well as constraint propagation. Experiments conducted on various types of instances have given very satisfactory results. Our algorithm is able to solve to optimality the entire set of J30, BL and Pack instances while satisfying the preemptive requirement. Furthermore, this algorithm provides improved best-known lower bounds for some of the J60, J90 and J120 instances in the non-preemptive case (RCPSP).
-
-@highlight An effective branch-and-price algorithm (IOE) for the Preemptive Resource Constrained Project Scheduling Problem.
-@highlight A new branching mechanism based on interval orders.
-@highlight IOE is able to solve to optimality the entire set of J30, BL and Pack instances.
-@highlight We provide improved best-known lower bounds for 33 non-preemptive instances.

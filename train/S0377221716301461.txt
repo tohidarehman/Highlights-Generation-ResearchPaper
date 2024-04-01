@@ -1,7 +1,0 @@
- The aim of this paper is to investigate model risk aspects of variance swaps and forward-start options in a realistic market setup where the underlying asset price process exhibits stochastic volatility and jumps. We devise a general framework in order to provide evidence of the model uncertainty attached to variance swaps and forward-start options. In our study, both variance swaps and forward-start options can be valued by means of analytic methods. We measure model risk using a set of 21 models embedding various dynamics with both continuous and discontinuous sample paths. To conduct our empirical analysis, we work with two major equity indices (S&P 500 and Eurostoxx 50) under different market situations. Our results evaluate model risk between 50 and 200 basis points, with an average value slightly above 100 basis points of the contract notional.
-
-@highlight We investigate the model risk of variance swaps and forward-start options.
-@highlight We specify a rigorous framework, based on a set of 21 models.
-@highlight For some models in the considered set, we provide new closed-form expressions.
-@highlight We provide evidence that the model risk of variance swaps is around 100 basis points.
-@highlight We find that variance swaps can be used as calibration instruments.

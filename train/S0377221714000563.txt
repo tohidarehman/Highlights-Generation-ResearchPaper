@@ -1,6 +1,0 @@
- The personnel task scheduling problem is a subject of commercial interest which has been investigated since the 1950s. This paper proposes an effective and efficient three-phase algorithm for solving the shift minimization personnel task scheduling problem (SMPTSP). To illustrate the increased efficacy of the proposed algorithm over an existing algorithm, computational experiments are performed on a test problem set with characteristics motivated by employee scheduling applications. Experimental results show that the proposed algorithm outperforms the existing algorithm in terms of providing optimal solutions, improving upon most of the best-known solutions and revealing high-quality feasible solutions for those unsolved test instances in the literature.
-
-@highlight We propose a state-of-the-art algorithm for the personnel scheduling problem.
-@highlight Sorting tasks in the ascending order of their start times yields good initial solutions.
-@highlight The Boltzmann function enables solutions to overcome their local minima.
-@highlight The advantage of the algorithm is significant, especially for large-scale problems.

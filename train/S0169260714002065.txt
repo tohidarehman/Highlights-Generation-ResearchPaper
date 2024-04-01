@@ -1,7 +1,0 @@
- In this paper we propose a class of flexible weight functions for use in comparison of two cumulative incidence functions. The proposed weights allow the users to focus their comparison on an early or a late time period post treatment or to treat all time points with equal emphasis. These weight functions can be used to compare two cumulative incidence functions via their risk difference, their relative risk, or their odds ratio. The proposed method has been implemented in the R-CIFsmry package which is readily available for download and is easy to use as illustrated in the example.
-
-@highlight The proposed class of flexible weight functions allows emphasis on different time periods when comparing cumulative incidence functions between two groups.
-@highlight The comparisons include the risk difference, the relative risk, and the odds ratio.
-@highlight A large improvement in power was shown when an early weight function was used to compare two cumulative incidence functions with an early difference.
-@highlight The improvement in power under a late difference scenario was more moderate.
-@highlight The companion R package CIFsmry is available for download at CRAN.

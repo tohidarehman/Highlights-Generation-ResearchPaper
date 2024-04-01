@@ -1,7 +1,0 @@
- In this study, we propose constraint programming (CP) model and logic-based Benders algorithms in order to make the best decisions for scheduling non-identical jobs with availability intervals and sequence dependent setup times on unrelated parallel machines in a fixed planning horizon. In this problem, each job has a profit, cost and must be assigned to at most one machine in such a way that total profit is maximized. In addition, the total cost has to be less than or equal to a budget level. Computational tests are performed on a real-life case study prepared in collaboration with the U.S. Army Corps of Engineers (USACE). Our initial investigations show that the pure CP model is very efficient in obtaining good quality feasible solutions but, fails to report the optimal solution for the majority of the problem instances. On the other hand, the two logic-based Benders decomposition algorithms are able to obtain near optimal solutions for 86 instances out of 90 examinees. For the remaining instances, they provide a feasible solution. Further investigations show the high quality of the solutions obtained by the pure CP model.
-
-@highlight We examine a parallel machine scheduling problem with setup times and time windows.
-@highlight Integer programming (IP) and constraint programming (CP) models are proposed.
-@highlight Two logic-based Benders decomposition algorithms are developed.
-@highlight Extensive computational tests on a real-life case study are performed.
-@highlight We report the effectiveness of the algorithms over pure IP and CP models.

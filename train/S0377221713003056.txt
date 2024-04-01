@@ -1,7 +1,0 @@
- The computational time required by interior-point methods is often dominated by the solution of linear systems of equations. An efficient specialized interior-point algorithm for primal block-angular problems has been used to solve these systems by combining Cholesky factorizations for the block constraints and a conjugate gradient based on a power series preconditioner for the linking constraints. In some problems this power series preconditioner resulted to be inefficient on the last interior-point iterations, when the systems became ill-conditioned. In this work this approach is combined with a splitting preconditioner based on LU factorization, which works well for the last interior-point iterations. Computational results are provided for three classes of problems: multicommodity flows (oriented and nonoriented), minimum-distance controlled tabular adjustment for statistical data protection, and the minimum congestion problem. The results show that, in most cases, the hybrid preconditioner improves the performance and robustness of the interior-point solver. In particular, for some block-angular problems the solution time is reduced by a factor of 10.
-
-@highlight Interior-point method for block-angular problems based on hybrid approach.
-@highlight Hybrid preconditioner combining power series and splitting preconditioners.
-@highlight New switching criteria between preconditioners based on Ritz values.
-@highlight Computational results provided for three classes of problems.
-@highlight The hybrid approach resulted more efficient for most instances.

@@ -1,7 +1,0 @@
- This paper proposes an encoding system for 1D biomedical signals that allows embedding metadata and provides security and privacy. The design is based on the analysis of requirements for secure and efficient storage, transmission and access to medical tests in e-health environment. This approach uses the 1D SPIHT algorithm to compress 1D biomedical signals with clinical quality, metadata embedding in the compressed domain to avoid extra distortion, digital signature to implement security and attribute-level encryption to support Role-Based Access Control. The implementation has been extensively tested using standard electrocardiogram and electroencephalogram databases (MIT-BIH Arrhythmia, MIT-BIH Compression and SCCN-EEG), demonstrating high embedding capacity (e.g. 3KB in resting ECGs, 200KB in stress tests, 30MB in ambulatory ECGs), short delays (2–3.3s in real-time transmission) and compression of the signal (by ≃3 in real-time transmission, by ≃5 in offline operation) despite of the embedding of security elements and metadata to enable e-health services.
-
-@highlight A quality-preserving coding for 1D biomedical signals attaching metadata is proposed.
-@highlight It permits embedding a big amount of metadata with the SPIHT-coded signal.
-@highlight Security items are also embedded to provide security and Role-Based Access Control.
-@highlight High compression ratios (3–5) are achieved despite of the embedding.
-@highlight The overall delay of the encoding-access system is 2–3.3s in real-time transmission.

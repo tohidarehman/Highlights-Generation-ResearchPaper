@@ -1,6 +1,0 @@
- We propose a generalization of the multi-depot capacitated vehicle routing problem where the assumption of visiting each customer does not hold. In this problem, called the Multi-Depot Covering Tour Vehicle Routing Problem (MDCTVRP), the demand of each customer could be satisfied in two different ways: either by visiting the customer along the tour or by “covering” it. When a customer is visited, the corresponding demand is delivered at its location. A customer is instead covered when it is located within an acceptable distance from at least one visited customer from which it can receive its demand. For this problem we develop two mixed integer programming formulations and a hybrid metaheuristic combining GRASP, iterated local search and simulated annealing. Extensive computational tests on this problem and some of its variants clearly indicate the effectiveness of the developed solution methods.
-
-@highlight We propose a generalization of the multi-depot capacitated vehicle routing problem.
-@highlight The demand of customers could be satisfied by visiting them on the tour or by covering.
-@highlight Mixed integer formulations and a hybrid metaheuristic algorithm are proposed.
-@highlight Extensive computational tests indicate the effectiveness of developed solution method.

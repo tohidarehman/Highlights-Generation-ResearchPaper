@@ -1,8 +1,0 @@
- Given a mixed graph G with vertex set V, let E and A denote the sets of edges and arcs, respectively. We use and to denote the sets of positive rational numbers and positive integers, respectively. For any connected mixed graph with a length function and two integer functions satisfying for each , we are asked to determine a minimum length tour T traversing each at least and at most times. This new constrained arc routing problem generalizes the mixed Chinese postman problem. Let and denote the number of vertices and edges (including arcs), respectively. Using network flow techniques, we design a -approximation algorithm in time log to solve this constrained arc routing problem such that holds for each edge holds for each arc and min . In addition, we present two optimal combinatorial algorithms in times and nm log to solve this problem for the cases and , respectively.
-
-@highlight We consider the constrained arc routing problem in mixed graphs.
-@highlight It is to determine a shortest tour T traversing each e between l(e) and u(e) times.
-@highlight We design an (1+1/l_0)-approximation algorithm in
-@highlight log
-@highlight to solve this problem.
-@highlight We also present two optimal algorithms to solve its special versions, respectively.

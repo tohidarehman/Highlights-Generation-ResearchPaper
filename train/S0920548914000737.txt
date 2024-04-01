@@ -1,7 +1,0 @@
- In this paper we present a new algorithm called b64pack b64 stands for Base64. for compression of very short text messages. The algorithm executes in two phases: in the first phase, it converts the input text consisting of letters, numbers, spaces and punctuation marks commonly used in English writings to a format which can be compressed in the second phase. The second phase consists of a transformation which reduces the size of the message by a fixed fraction of its original size. We experimentally measured both the compression speed and the compression ratio of b64pack on a large number of short messages and compared them with compress, gzip and bzip2, three most common UNIX compression programs. We show that in case of short text messages up to a certain size b64pack achieves better compression than any of the three programs. With respect to speed, b64pack beats all three algorithms by orders of magnitudes. This rapid compression is one of the key strengths of b64pack.
-
-@highlight We introduce b64pack, an efficient method for compression of short text messages.
-@highlight b64pack is based on standards which facilitate easy deployment and interoperability.
-@highlight We compare b64pack with common UNIX compression programs, compress, gzip and bzip2.
-@highlight b64pack achieves better compression of short messages than compress, gzip and bzip2.
-@highlight b64pack is faster than compress, gzip and bzip2 by orders of magnitudes.

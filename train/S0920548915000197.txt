@@ -1,5 +1,0 @@
- We present an automatic approach to compile language resources for named entity recognition (NER) in Turkish by utilizing Wikipedia article titles. First, a subset of the article titles is annotated with the basic named entity types. This subset is then utilized as training data to automatically classify the remaining titles by employing the k-nearest neighbor algorithm, leading to the construction of a significant lexical resource set for Turkish NER. Experiments on different text genres are conducted after extending an existing NER system with the resources and the results obtained confirm that the resources contribute to NER on different genres.
-
-@highlight An automated procedure to compile resources for named entity recognition from Wikipedia is proposed.
-@highlight The contribution of the language resources is demonstrated through experimentation.
-@highlight Evaluation results are discussed and analyses of significant errors are provided.

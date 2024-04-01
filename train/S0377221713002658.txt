@@ -1,6 +1,0 @@
- Asset allocation among diverse financial markets is essential for investors especially under situations such as the financial crisis of 2008. Portfolio optimization is the most developed method to examine the optimal decision for asset allocation. We employ the hidden Markov model to identify regimes in varied financial markets; a regime switching model gives multiple distributions and this information can convert the static mean–variance model into an optimization problem under uncertainty, which is the case for unobservable market regimes. We construct a stochastic program to optimize portfolios under the regime switching framework and use scenario generation to mathematically formulate the optimization problem. In addition, we build a simple example for a pension fund and examine the behavior of the optimal solution over time by using a rolling-horizon simulation. We conclude that the regime information helps portfolios avoid risk during left-tail events.
-
-@highlight We applied the hidden Markov model for stock, bond, and commodity markets.
-@highlight HMM identified two extreme regimes and two transition regimes.
-@highlight We employed the stochastic programming under regime switching framework.
-@highlight Optimized portfolio performed well in crash periods by reducing the risky assets.

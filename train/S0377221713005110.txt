@@ -1,5 +1,0 @@
- We first study mean–variance efficient portfolios when there are no trading constraints and show that optimal strategies perform poorly in bear markets. We then assume that investors use a stochastic benchmark (linked to the market) as a reference portfolio. We derive mean–variance efficient portfolios when investors aim to achieve a given correlation (or a given dependence structure) with this benchmark. We also provide upper bounds on Sharpe ratios and show how these bounds can be useful for fraud detection. For example, it is shown that under some conditions it is not possible for investment funds to display a negative correlation with the financial market and to have a positive Sharpe ratio. All the results are illustrated in a Black–Scholes market.
-
-@highlight We derive bounds on Sharpe ratios of strategies in the presence of background risk.
-@highlight We show that this can be useful for fraud detection.
-@highlight We derive optimal strategies for investors with correclation constraints.

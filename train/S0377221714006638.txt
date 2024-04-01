@@ -1,6 +1,0 @@
- This paper proposes and estimates a globally flexible functional form for the cost function, which we call Neural Cost Function (NCF). The proposed specification imposes a priori and satisfies globally all the properties that economic theory dictates. The functional form can be estimated easily using Markov Chain Monte Carlo (MCMC) techniques or standard iterative SURE. We use a large panel of U.S. banks to illustrate our approach. The results are consistent with previous knowledge about the sector and in accordance with mathematical production theory.
-
-@highlight We propose and estimate a globally flexible cost function.
-@highlight We impose a priori and satisfy globally all the relevant properties.
-@highlight We use Markov Chain Monte Carlo (MCMC) techniques.
-@highlight We use a large panel of U.S. banks to illustrate our approach.

@@ -1,7 +1,0 @@
- Accurate holiday daily tourist flow forecasting is always the most important issue in tourism industry. However, it is found that holiday daily tourist flow demonstrates a complex nonlinear characteristic and obvious seasonal tendency from different periods of holidays as well as the seasonal nature of climates. Support vector regression (SVR) has been widely applied to deal with nonlinear time series forecasting problems, but it suffers from the critical parameters selection and the influence of seasonal tendency. This article proposes an approach which hybridizes SVR model with adaptive genetic algorithm (AGA) and the seasonal index adjustment, namely AGA-SSVR, to forecast holiday daily tourist flow. In addition, holiday daily tourist flow data from 2008 to 2012 for Mountain Huangshan in China are employed as numerical examples to validate the performance of the proposed model. The experimental results indicate that the AGA-SSVR model is an effective approach with more accuracy than the other alternative models including AGA-SVR and back-propagation neural network (BPNN).
-
-@highlight The model of support vector regression with adaptive genetic algorithm and the seasonal mechanism is proposed.
-@highlight Parameters selection and seasonal adjustment should be carefully selected.
-@highlight We focus on latest and representative holiday daily data in China.
-@highlight Two experiments are used to prove the effect of the model.
-@highlight The AGASSVR is superior to AGA-SVR and BPNN.

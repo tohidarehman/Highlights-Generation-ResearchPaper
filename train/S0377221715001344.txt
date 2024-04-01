@@ -1,6 +1,0 @@
- Multistage stochastic programs show time-inconsistency in general, if the objective is neither the expectation nor the maximum functional. This paper considers distortion risk measures (in particular the Average Value-at-Risk) at the final stage of a multistage stochastic program. Such problems are not time consistent. However, it is shown that by considering risk parameters at random level and by extending the state space appropriately, the value function corresponding to the optimal decisions evolves as a martingale and a dynamic programming principle is applicable. In this setup the risk profile has to be accepted to vary over time and to be adapted dynamically. Further, a verification theorem is provided, which characterizes optimal decisions by sub- and supermartingales. These enveloping martingales constitute a lower and an upper bound of the optimal value function. The basis of the analysis is a new decomposition theorem for the Average Value-at-Risk, which is given in a time consistent formulation.
-
-@highlight Stochastic optimization problems are time-inconsistent.
-@highlight Due to time-inconsistency, the risk profile has to be adapted subsequently.
-@highlight A stage-wise, dynamic decomposition is presented.
-@highlight The optimal risk profile evolves as a martingale process.

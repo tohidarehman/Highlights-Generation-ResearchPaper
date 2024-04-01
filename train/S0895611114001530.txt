@@ -1,7 +1,0 @@
- This paper presents an optimal model integration framework to robustly localize the optic cup in fundus images for glaucoma detection. This work is based on the existing superpixel classification approach and makes two major contributions. First, it addresses the issues of classification performance variations due to repeated random selection of training samples, and offers a better localization solution. Second, multiple superpixel resolutions are integrated and unified for better cup boundary adherence. Compared to the state-of-the-art intra-image learning approach, we demonstrate improvements in optic cup localization accuracy with full cup-to-disc ratio range, while incurring only minor increase in computing cost.
-
-@highlight Glaucoma is a leading cause of vision loss, & optic cup detection is of great interest.
-@highlight An optimal model integration framework to robustly localize the optic cup is presented.
-@highlight It addresses performance variations from random repeated training.
-@highlight Multiple superpixel scales are also integrated for better cup boundary adherence.
-@highlight It outperforms the intra image learning approach in cup localization accuracy.

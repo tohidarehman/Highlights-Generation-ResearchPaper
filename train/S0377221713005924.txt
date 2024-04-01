@@ -1,7 +1,0 @@
- Recent advances in Stein’s lemma imply that under elliptically symmetric distributions all rational investors will select a portfolio which lies on Markowitz’ mean–variance efficient frontier. This paper describes extensions to Stein’s lemma for the case when a random vector has the multivariate extended skew-Student distribution. Under this distribution, rational investors will select a portfolio which lies on a single mean–variance–skewness efficient hyper-surface. The same hyper-surface arises under a broad class of models in which returns are defined by the convolution of a multivariate elliptically symmetric distribution and a multivariate distribution of non-negative random variables. Efficient portfolios on the efficient surface may be computed using quadratic programming.
-
-@highlight This paper extends Stein’s lemma for the multivariate extended skew-t distribution.
-@highlight Efficient portfolios are located on a mean–variance–skewness efficient surface.
-@highlight This surface is a direct extension of Markowitz’ efficient frontier.
-@highlight The multivariate models introduced by Simaan admit the same properties.
-@highlight There are also mean–variance–skewness efficient hyper-surfaces.

@@ -1,5 +1,0 @@
- Detection of region specific voxel is a true challenge in many segmentation procedures. In this study a concept of implementing granular computing in the detection of anatomical structures in abdominal computed tomography (CT) scans is introduced. After proving the usefulness of the information granules to identify voxels that mark certain organs, an automatic model-based approach has been developed. A three-parameter granule that combines the interval and density distribution of voxels has been introduced and employed to identify organ specific voxels of the liver, spleen and kidneys. The specificity of the information granules varies between 90 and 99% for the liver and spleen and over 85% for the kidneys.
-
-@highlight Introducing a concept of implementing granular computing in the detection of anatomical structures in 3D abdomen images.
-@highlight Implementation of granular computing in a model based organ extraction procedure.
-@highlight Implementation of a three-parameter granule in a robust method of organ-specific point detection.

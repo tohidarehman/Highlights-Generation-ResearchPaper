@@ -1,7 +1,0 @@
- We consider a variant of the multidimensional assignment problem (MAP) with decomposable costs in which the resulting optimal assignment is described as a set of disjoint stars. This problem arises in the context of multi-sensor multi-target tracking problems, where a set of measurements, obtained from a collection of sensors, must be associated to a set of different targets. To solve this problem we study two different formulations. First, we introduce a continuous nonlinear program and its linearization, along with additional valid inequalities that improve the lower bounds. Second, we state the standard MAP formulation as a set partitioning problem, and solve it via branch and price. These approaches were put to test by solving instances ranging from tripartite to 20-partite graphs of 4 to 30 nodes per partition. Computational results show that our approaches are a viable option to solve this problem. A comparative study is presented.
-
-@highlight We introduce a continuous nonlinear program for solving the multidimensional star assignment problem (MSAP).
-@highlight We transform the initial formulation into a mixed integer linear optimization program.
-@highlight We propose valid inequalities to improve the lower bound of the proposed formulation.
-@highlight We reformulate the MSAP as a set partitioning problem, and solve it via branch and price.
-@highlight We test our approach by solving several MSAP instances of different sizes.

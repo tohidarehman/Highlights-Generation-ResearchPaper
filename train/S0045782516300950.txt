@@ -1,6 +1,0 @@
- This paper addresses the use of isogeometric analysis to solve solid mechanics problems involving nearly incompressible materials. The present work is focused on extension of two-field mixed variational formulations in both small and large strains to isogeometric analysis. Inf–sup stable displacement–pressure combinations for mixed formulations are developed based on the subdivision property of NURBS. Stability and convergence properties of the proposed displacement–pressure combinations are illustrated by computing numerical inf–sup constants and error norms. The performance of the proposed formulations is assessed by studying several benchmark examples involving nearly incompressible and incompressible elastic and elasto-plastic materials in both small and large strain regime.
-
-@highlight Inf–sup stable displacement–pressure combinations are developed based on subdivision properties of NURBS.
-@highlight The inf–sup stability is proven numerically by evaluating inf–sup constants.
-@highlight Optimal convergence rates are obtained for linear problems.
-@highlight Stable and accurate solutions can be obtained with fewer load steps.

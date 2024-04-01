@@ -1,7 +1,0 @@
- We propose a regression approach for estimating the distribution of ambulance travel times between any two locations in a road network. Our method uses ambulance location data that can be sparse in both time and network coverage, such as Global Positioning System data. Estimates depend on the path traveled and on explanatory variables such as the time of day and day of week. By modeling at the trip level, we account for dependence between travel times on individual road segments. Our method is parsimonious and computationally tractable for large road networks. We apply our method to estimate ambulance travel time distributions in Toronto, providing improved estimates compared to a recently published method and a commercial software package. We also demonstrate our method’s impact on ambulance fleet management decisions, showing substantial differences between our method and the recently published method in the predicted probability that an ambulance arrives within a time threshold.
-
-@highlight We use a Bayesian method to estimate the distribution of ambulance travel times between any two locations in a city.
-@highlight Our method is parsimonious and computationally tractable for large datasets.
-@highlight Ambulance travel times do not vary substantially throughout the day, in contrast to standard vehicles.
-@highlight Our travel time estimates outperform a recently-published method and a commercial software package.
-@highlight Our method leads to different ambulance management decisions, compared to the recently-published method.

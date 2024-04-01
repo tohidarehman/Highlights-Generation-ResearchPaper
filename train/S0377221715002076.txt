@@ -1,5 +1,0 @@
- We analyze the effect of demand uncertainty, as measured by entropy, on expected costs in a stochastic inventory model. Existing models studying demand variabilityÃ¢ÂÂs impact use either stochastic ordering techniques or use variance as a measure of uncertainty. Due to both axiomatic appeal and recent use of entropy in the operations management literature, this paper develops entropyÃ¢ÂÂs use as a demand uncertainty measure. Our key contribution is an insightful proof quantifying how costs are non-increasing when entropy is reduced.
-
-@highlight Provide theoretical justification for the increasing use of entropy in the operations management literature.
-@highlight Establish that expected loss in general stochastic inventory problems is non-increasing as demand uncertainty measured using entropy is reduced.
-@highlight Present insightful comparisons among various methods of measuring demand uncertainty.

@@ -1,6 +1,0 @@
- We investigate a combined routing and scheduling problem for the maintenance of electricity networks. In electricity networks power lines must be regularly maintained to ensure a high quality of service. For safety reasons a power line must be physically disconnected from the network before maintenance work can be performed. After completing maintenance work the power line must be reconnected. Each maintenance job therefore consists of multiple tasks which must be performed at different locations in the network. The goal is to assign each task to a worker and to determine a schedule such that the downtimes of power lines and the travel effort of workers are minimized. For solving this problem, we combine a Large Neighborhood Search meta-heuristic with mathematical programming techniques. The method is evaluated on a large set of test instances which are derived from network data of a German electricity provider.
-
-@highlight Introduces a combined routing and scheduling problem for electricity network maintenance.
-@highlight Considers minimizing two relevant objectives: traveling of workers and downtimes of network assets.
-@highlight Provides a model formulation and a decomposition-based meta-heuristic solution method.
-@highlight Assesses the approach on real network data.

@@ -1,7 +1,0 @@
- In this paper, we propose an album-oriented face-recognition model that exploits the album structure for face recognition in online social networks. Albums, usually associated with pictures of a small group of people at a certain event or occasion, provide vital information that can be used to effectively reduce the possible list of candidate labels. We show how this intuition can be formalized into a model that expresses a prior on how albums tend to have many pictures of a small number of people. We also show how it can be extended to include other information available in a social network. Using two real-world datasets independently drawn from Facebook, we show that this model is broadly applicable and can significantly improve recognition rates.
-
-@highlight We propose a face recognition model based on albums in online social networks.
-@highlight Albums tend to be composed of many pictures of a small group of people.
-@highlight Limiting the set of unique labels and using album-level features improve recognition.
-@highlight We present two systems to learn how best to use these social features.
-@highlight We validate our model on two datasets independently downloaded from Facebook.

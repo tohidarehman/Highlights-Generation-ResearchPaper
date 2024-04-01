@@ -1,7 +1,0 @@
- Multipath interference of light is the cause of important errors in Time of Flight (ToF) depth estimation. This paper proposes an algorithm that removes multipath distortion from a single depth map obtained by a ToF camera. Our approach does not require information about the scene, apart from ToF measurements. The method is based on fitting ToF measurements with a radiometric model. Model inputs are depth values free from multipath interference whereas model outputs consist of synthesized ToF measurements. We propose an iterative optimization algorithm that obtains model parameters that best reproduce ToF measurements, recovering the depth of the scene without distortion. We show results with both synthetic and real scenes captured by commercial ToF sensors. In all cases, our algorithm accurately corrects the multipath distortion, obtaining depth maps that are very close to ground truth data.
-
-@highlight Multipath Interference (MpI) is a non-systematic error in Time of Flight (ToF) imaging.
-@highlight MpI causes severe distortions in ToF measurements.
-@highlight We propose a ray tracing model that renders realistic ToF images, including MpI.
-@highlight We use nonlinear optimization to find the scene that best renders the input image.
-@highlight We present results with real and synthetic datasets. Error is reduced in all cases.

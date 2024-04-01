@@ -1,6 +1,0 @@
- We present a simple and efficient way to improve the performance of the twisted nematic liquid crystal (LC) system by doping a small amount of n-alcohols. The LCs modified by n-hexanol demonstrates the optimum electro-optical properties of lower driving voltage and shorter response time. Our measurements indicate that the liquid dopant n-alcohols can be used to modify LCs for lowering zenithal anchoring energy relative to undoped LCs. Without the drawbacks of precipitation and aggregation that the nanoparticles could have, the method of doping n-alcohol liquids provides a more stable and reliable choice to apply in the various LC display systems.
-
-@highlight We present a simple and efficient way to improve the performance of the twisted nematic liquid crystal (LC) system.
-@highlight The LCs modified by liquid dopant exhibit the functions of lower driving voltage and shorter response time.
-@highlight We replace the solid dopant by the liquid dopant for avoiding the drawbacks of precipitation and aggregation.
-@highlight The result of time-evolved transmittance shows the voltage can be held after the doping of n-hexanol liquid.

@@ -1,7 +1,0 @@
- We introduce a novel basis for multivariate hierarchical tensor-product spline spaces. Our construction combines the truncation mechanism  with the idea of decoupling basis functions . While the first mechanism ensures the partition of unity property, which is essential for geometric modeling applications, the idea of decoupling allows us to obtain a richer set of basis functions than previous approaches. Consequently, we can guarantee the completeness property of the novel basis for large classes of multi-level spline spaces. In particular, completeness is obtained for the multi-level spline spaces defined on T-meshes for hierarchical splines of (multi-)degree p for example (i) with single knots and p-adic refinement and (ii) with knots of multiplicity and dyadic refinement (where each cell to be refined is subdivided into cells, with d being the number of variables) without any further restriction on the mesh configuration. Both classes (i), (ii) include multivariate quadratic hierarchical tensor-splines with dyadic refinement.
-
-@highlight The paper introduces a novel basis for multivariate hierarchical tensor-product spline spaces.
-@highlight It uses the truncation mechanism and the idea of decoupling.
-@highlight The truncation mechanism ensures the partition of unity property.
-@highlight The idea of decoupling allows us to obtain a richer set of basis functions than previous approaches.
-@highlight The construction guarantees the completeness property of the novel basis for large classes of multi-level spline spaces.

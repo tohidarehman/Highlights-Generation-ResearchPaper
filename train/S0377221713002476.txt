@@ -1,5 +1,0 @@
- Because individual interpretations of the analytic hierarchy process (AHP) linguistic scale vary for each user, this study proposes a novel framework that AHP decision makers can use to generate numerical scales individually, based on the 2-tuple linguistic modeling of AHP scale problems. By using the concept of transitive calibration, individual characteristics in understanding the AHP linguistic scale are first defined. An algorithm is then proposed for detecting the individual characteristics from the linguistic pairwise comparison data that is associated with each of the AHP individual decision makers. Finally, a nonlinear programming model is proposed to generate individual numerical scales that optimally match the obtained individual characteristics. Two well-known numerical examples are re-examined using the proposed framework to demonstrate its validity.
-
-@highlight This paper discusses the individual choice of numerical scale in AHP.
-@highlight We present an algorithm to obtain the linguistic individual characteristics in AHP.
-@highlight We set individual numerical scales to optimally match the individual characteristics.

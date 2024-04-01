@@ -1,6 +1,0 @@
- Increasingly, companies are adopting service-oriented architectures to respond to rapid changes in the market. Even though there are excellent tools and frameworks for service-oriented architecture adoption and service development, the latest adaptation to context has not been properly dealt with yet. Current approaches are mostly focused on solving context-aware issues for web applications only, focusing mainly on client-side adaptation, and there is a clear lack of context taxonomies which facilitate context-aware applications. In our previous work we proposed Model-Driven Adaptable Services (MoDAS): a methodology and tool for the development of context-aware services. In this paper, we propose two key improvements on MoDAS: firstly, leveraging the proposal’s abstraction level, facilitating the use of a larger collection of contexts through the definition of an extensible context taxonomy by means of a metamodel; secondly, providing additional opportunities for code generation.
-
-@highlight A context metamodel to classify different types of contexts has been provided.
-@highlight MoDAS was improved through an XML document that facilitates context code-generation.
-@highlight MoDAS provides model-driven trustworthy and well-structured code.
-@highlight The aspect-oriented implementation facilitates system evolution and maintenance.

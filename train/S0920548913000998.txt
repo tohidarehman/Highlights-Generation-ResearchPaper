@@ -1,6 +1,0 @@
- In C2C communication, all necessary information must be collected promptly when a buyer and a seller communicate. That is, an intelligent C2C agent is needed to provide information to buyers and sellers. Along with the evolution of computing technology, C2C agents can exploit the efficient delivery capabilities of peer-to-peer (P2P) technology. However, P2P also increases traffic between agents, but communication faults are a fatal problem for C2C business. This study proposes a robust communication architecture based on current P2P content-delivery standards and its efficiency and robustness have been verified from an experiment.
-
-@highlight Proposes robust communication architecture of the C2C intelligent agent
-@highlight The C2CIA architecture can assure communication between agents.
-@highlight C2CIA employs both pull- and push-based methods to assist buyers and sellers.
-@highlight C2CIA can help balance network loads and transmission efficiency.

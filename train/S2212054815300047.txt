@@ -1,6 +1,0 @@
- The virtual visualization of historical objects opens the door to a variety of new teaching applications in the classroom. In this study, we present a flexible platform for the creation of semi-immersive 3D environments. First, we describe the software and hardware tools that generate the 3D models and the Virtual Reality Environments. We then present an optimized design methodology, adapted to the generation of light 3D models of sufficient visual quality for teaching purposes. The most suitable option for such purposes proved to be CAD tools coupled with extensive use of image textures on low-resolution 3D meshes. Finally, we report an ad-hoc teaching method to test the platform during a short teaching session on Cultural Heritage and Computer Graphics for high-school and undergraduate students. The evaluation of their experiences, based on post-session surveys, points to the effectiveness of this approach to communicate different types of knowledge and to stimulate student learning.
-
-@highlight A methodology to create light 3D models with Blender of Cultural Heritage items.
-@highlight A methodology for short teaching experience in virtual environments.
-@highlight Virtual environment increases the interest of students in history.
-@highlight Virtual environment increases the interest of students in 3D modelling.

@@ -1,6 +1,0 @@
- Vectorcardiography (VCG), as an alternative to standard 12-lead electrocardiography (ECG), represents the electrical activity of the heart. Previous studies on VCG document that VCG criteria for the diagnosis of, for example, myocardial infarction (MI), ventricular hypertrophy and ischemic diseases, are superior to the corresponding 12-lead ECG criteria. Its use in clinical practice is not common because it requires the placement of additional electrodes. However, VCG leads can be derived from standard ECG by using mathematical transformations. This paper reviews the published works on transformation techniques for derivation VCG from 12-lead ECG, their historical evolution and their importance in today's clinical practice. Different kinds of criteria for evaluation accuracy of transformations are briefly described and the accuracy of individual techniques discussed.
-
-@highlight We reviewed all transformation techniques for derivation of VCG from standard ECG.
-@highlight Using correct transformation plays key role in classification of heart diseases.
-@highlight The both interpatient variability and heart diseases influence accuracy of derived VCG.
-@highlight Most of the new methods are not sufficiently tested.

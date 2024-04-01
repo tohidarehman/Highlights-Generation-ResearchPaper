@@ -1,6 +1,0 @@
- OpenVG and SVG Tiny are the most widely used de facto standards for accelerating 2D vector graphics output on various embedded systems, including smart phones and tablet PC's. In this paper, we present a cost-effective way of simultaneously accelerating both of OpenVG and SVG Tiny, based on the multimedia-processing hardware, which is wide-spread on mobile phones and media devices. Through the effective use of these multimedia processors, we successfully accelerated OpenVG and SVG Tiny at least 3.5 times to at most 30 times, even with less power consumption and less CPU usage.
-
-@highlight OpenVG and SVG Tiny are most suitable for accelerating 2D vector graphics output.
-@highlight Most previous OpenVG and SVG implementations need fully-dedicated VLSI chips.
-@highlight We alternatively accelerate them with widely-used multimedia-processing hardware.
-@highlight Our result shows 3.5 to 30 times accelerations without fully-dedicated hardware.

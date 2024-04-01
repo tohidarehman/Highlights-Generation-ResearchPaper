@@ -1,6 +1,0 @@
- The tensor completion problem is to recover a low-n-rank tensor from a subset of its entries. The main solution strategy has been based on the extensions of trace norm for the minimization of tensor rank via convex optimization. This strategy bears the computational cost required by the singular value decomposition (SVD) which becomes increasingly expensive as the size of the underlying tensor increase. In order to reduce the computational cost, we propose a multi-linear low-n-rank factorization model and apply the nonlinear Gauss–Seidal method that only requires solving a linear least squares problem per iteration to solve this model. Numerical results show that the proposed algorithm can reliably solve a wide range of problems at least several times faster than the trace norm minimization algorithm.
-
-@highlight We extend the low-rank matrix completion problem to a low-n-rank tensor completion problem.
-@highlight An efficient algorithm based on the multi-linear low-n-rank factorization model is proposed in this paper.
-@highlight The nonlinear Gauss–Seidal method that only requires solving a linear least squares problem per iteration is applied to solve this model.
-@highlight The proposed algorithm is much less computational cost than the trace norm minimization algorithm especially facing the large data.

@@ -1,7 +1,0 @@
- The Maximum Diversity Problem (MDP) consists in selecting a subset of elements from a given set of elements ( ) in such a way that the sum of the pairwise distances between the chosen elements is maximized. We present a hybrid metaheuristic algorithm (denoted by MAMDP) for MDP. The algorithm uses a dedicated crossover operator to generate new solutions and a constrained neighborhood tabu search procedure for local optimization. MAMDP applies also a distance-and-quality based replacement strategy to maintain population diversity. Extensive evaluations on a large set of 120 benchmark instances show that the proposed approach competes very favorably with the current state-of-art methods for MDP. In particular, it consistently and easily attains all the best known lower bounds and yields improved lower bounds for 6 large MDP instances. The key components of MAMDP are analyzed to shed light on their influence on the performance of the algorithm.
-
-@highlight MAMDP is a hybrid metaheuristic for the Maximum Diversity Problem (MDP).
-@highlight MAMDP is assessed on a collection of 7 sets of 120 MDP benchmark instances.
-@highlight MAMDP obtains all previous best know solutions for these instances.
-@highlight MAMDP yields improved solutons for 6 large instances.
-@highlight MAMDP competes favorably with 4 best performing MDP algorithms.

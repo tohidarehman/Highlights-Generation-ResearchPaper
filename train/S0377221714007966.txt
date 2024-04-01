@@ -1,5 +1,0 @@
- ELECTRE TRI is a set of methods designed to sort alternatives evaluated on several criteria into ordered categories. The original method uses limiting profiles. A recently introduced method uses central profiles. We study the relations between these two methods. We do so by investigating if an ordered partition obtained with one method can also be obtained with the other method, after a suitable redefinition of the profiles. We also investigate a number of situations in which the original method using limiting profiles gives results that do not fit well our intuition. This leads us to propose a variant of ELECTRE TRI that uses limiting profiles. We show that this variant may have some advantages over the original method.
-
-@highlight We study the relations between ELECTRE TRI B and ELECTRE TRI C.
-@highlight We propose and motivate a new variant of ELECTRE TRI B.
-@highlight We analyze the limits and merits of this variant.

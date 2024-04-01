@@ -1,6 +1,0 @@
- A method to obtain accurate hand gesture classification and fingertip localization from depth images is proposed. The Oriented Radial Distribution feature is utilized, exploiting its ability to globally describe hand poses, but also to locally detect fingertip positions. Hence, hand gesture and fingertip locations are characterized with a single feature calculation. We propose to divide the difficult problem of locating fingertips into two more tractable problems, by taking advantage of hand gesture as an auxiliary variable. Along with the method we present the ColorTip dataset, a dataset for hand gesture recognition and fingertip classification using depth data. ColorTip contains sequences where actors wear a glove with colored fingertips, allowing automatic annotation. The proposed method is evaluated against recent works in several datasets, achieving promising results in both gesture classification and fingertip localization.
-
-@highlight A novel use of the ORD feature, to both globally and locally characterize hands
-@highlight A dataset for hand gesture classification and fingertip localization is proposed.
-@highlight We reduce the search space of fingertip locations conditioned to a hand gesture.
-@highlight A new cost function to solve the graph matching problem of fingertip localization

@@ -1,6 +1,0 @@
- U-shaped assembly lines are an important configuration of modern manufacturing systems due to their flexibility to adapt to varying market demands. In U-shaped lines, tasks are assigned after their predecessors or successors. Some MILP models have been proposed to formulate the U-shaped assembly line balancing problem using either–or constraints to express precedence relationships. We show that this modeling approach reported in the literature may often find optimal solutions that are infeasible and verify this on a large set of benchmark problems. We present a revision to this model to accurately express the precedence relationships without introducing additional variables or constraints. We also illustrate on the same benchmark problems that our revision always reports solutions that are feasible.
-
-@highlight Optimization models for U-shaped assembly lines are investigated.
-@highlight A MILP model is investigated in detail and shown that it may find optimal solutions that are infeasible.
-@highlight Theoretical analysis of infeasibility is provided and a revised version of this model is given.
-@highlight The infeasibility of the solutions reported by the model on a large set of benchmark problems.

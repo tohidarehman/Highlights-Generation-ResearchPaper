@@ -1,6 +1,0 @@
- In this paper we compare the residual lifetime of a used coherent system of age with the lifetime of the similar coherent system made up of used components of age t. Here ‘similar’ means that the system has the same structure and the component lifetimes have the same dependence (joint reliability copula). Some comparison results are obtained for the likelihood ratio order, failure rate order, reversed failure rate order and the usual stochastic order. Similar results are reported for comparing inactivity time of a coherent system with lifetime of similar coherent system having component lifetimes same as inactivity times of failed components.
-
-@highlight Coherent systems are quite important in the reliability and survival analysis.
-@highlight The coherent system having used components are compared with used coherent system.
-@highlight Likelihood ratio, failure rate, reversed failure rate and stochastic ordering comparisons are carried out.
-@highlight Examples are provided to illustrate the results.

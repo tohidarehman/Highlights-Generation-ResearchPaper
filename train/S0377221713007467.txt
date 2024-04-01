@@ -1,7 +1,0 @@
- We propose a new power index based on the minimum sum representation (MSR) of a weighted voting game. The MSR offers a redesign of a voting game, such that voting power as measured by the MSR index becomes proportional to voting weight. The MSR index is a coherent measure of power that is ordinally equivalent to the Banzhaf, Shapley–Shubik and Johnston indices. We provide a characterization for a bicameral meet as a weighted game or a complete game, and show that the MSR index is immune to the bicameral meet paradox. We discuss the computation of the MSR index using a linear integer program and the inverse MSR problem of designing a weighted voting game with a given distribution of power.
-
-@highlight The vector of shares in the MSR of a weighed voting game is a coherent power measure.
-@highlight The MSR index is immune to the bicameral meet paradox.
-@highlight We discuss the computation of the MSR using an integer linear program.
-@highlight We discuss the inverse MSR problem.
-@highlight We compare the MSR index to those of most common alternative power measures.

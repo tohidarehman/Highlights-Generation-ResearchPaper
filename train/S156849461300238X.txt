@@ -1,7 +1,0 @@
- Analytic Hierarchy Process (AHP) is increasingly applied to healthcare and medical research and applications. However, knowledge representation of pairwise reciprocal matrix is still dubious. This research discusses the related drawbacks, and recommends pairwise opposite matrix as the ideal alternative. Pairwise opposite matrix is the key foundation of Primitive Cognitive Network Process (P-CNP), which revises the AHP approach with practical changes. A medical decision treatment evaluation using AHP is revised by P-CNP with a step-by-step tutorial. Comparisons with AHP have been discussed. The proposed method could be a promising decision tool to replace AHP to share information among patients or/and doctors, and to evaluate therapies, medical treatments, health care technologies, medical resources, and healthcare policies.
-
-@highlight Indicating the rating scale problems of the Analytic Hierarchy Process (AHP), and proposing the paired interval scale addressing the limitations.
-@highlight Introducing Primitive Cognitive Network Process (P-CNP) to medical treatment decision making, and showing how to use it from laymen perspective.
-@highlight Demonstrating how the current AHP data to medical decision can be converted to P-CNP data, which is further processed by the P-CNP.
-@highlight Applications with the AHP data can be revised by P-CNP to explore the more reliable research findings or make more reliable decisions.
-@highlight P-CNP can be a promising decision making approach to evaluate medical and healthcare decisions.

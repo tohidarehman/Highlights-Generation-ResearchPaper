@@ -1,6 +1,0 @@
- We formulate the multiple knapsack assignment problem (MKAP) as an extension of the multiple knapsack problem (MKP), as well as of the assignment problem. Except for small instances, MKAP is hard to solve to optimality. We present a heuristic algorithm to solve this problem approximately but very quickly. We first discuss three approaches to evaluate its upper bound, and prove that these methods compute an identical upper bound. In this process, reference capacities are derived, which enables us to decompose the problem into mutually independent MKPs. These MKPs are solved euristically, and in total give an approximate solution to MKAP. Through numerical experiments, we evaluate the performance of our algorithm. Although the algorithm is weak for small instances, we find it prospective for large instances. Indeed, for instances with more than a few thousand items we usually obtain solutions with relative errors less than 0.1% within one CPU second.
-
-@highlight We formulate the multiple knapsack assignment problem as an extended problem.
-@highlight We propose three types of upper-bounding procedures and show their coincidence.
-@highlight These upper-bound algorithms cause a procedure to obtain approximate solutions.
-@highlight Our approximate algorithm can solve larger instances quickly and accurately.

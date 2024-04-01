@@ -1,7 +1,0 @@
- The Pickup and Delivery Problem with Shuttle routes (PDPS) is a special case of the Pickup and Delivery Problem with Time Windows (PDPTW) where the trips between the pickup points and the delivery points can be decomposed into two legs. The first leg visits only pickup points and ends at some delivery point. The second leg is a direct trip – called a shuttle – between two delivery points. This optimization problem has practical applications in the transportation of people between a large set of pickup points and a restricted set of delivery points. This paper proposes three mathematical models for the PDPS and a branch-and-cut-and-price algorithm to solve it. The pricing sub-problem, an Elementary Shortest Path Problem with Resource Constraints (ESPPRC), is solved with a labeling algorithm enhanced with efficient dominance rules. Three families of valid inequalities are used to strengthen the quality of linear relaxations. The method is evaluated on generated and real-world instances containing up to 193 transportation requests. Instances with up to 87 customers are solved to optimality within a computation time of one hour.
-
-@highlight We introduce the Pickup and Delivery Problem with Shuttle routes (PDPS).
-@highlight We propose one arc based model and two path based model for the PDPS.
-@highlight We develop a branch-and-cut-and-price algorithm.
-@highlight The method is evaluated on generated and real-world instances with up to 193 requests.
-@highlight Instances with up to 87 requests are solved to optimality in less than one hour.

@@ -1,5 +1,0 @@
- Over the last years, several variants of multi-constrained Vehicle Routing Problems (VRPs) have been studied, forming a class of problems known as Rich Vehicle Routing Problems (RVRPs). The purpose of the paper is twofold: (i) to provide a comprehensive and relevant taxonomy for the RVRP literature and (ii) to propose an elaborate definition of RVRPs. To this end, selected papers addressing various cases are classified using the proposed taxonomy. Once the articles have been classified, a cluster analysis based on two discriminating criteria is performed and leads to the definition of RVRPs.
-
-@highlight We provide a comprehensive and relevant taxonomy for the literature devoted to Rich Vehicle Routing Problems (RVRPs).
-@highlight We analyze 41 articles devoted to “rich” vehicle routing problems in detail.
-@highlight We propose an elaborate definition of RVRPs.

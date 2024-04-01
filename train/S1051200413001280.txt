@@ -1,5 +1,0 @@
- Visual secret sharing (VSS) is a variant form of secret sharing, and is efficient since secret decoding only depends on the human vision system. However, cheating in VSS, first showed by Horng et al., is a significant issue like a limelight. Since then, plenty of studies for cheating activities and cheating prevention visual secret sharing (CPVSS) schemes have been introduced. In this paper, we revisit some well-known cheating activities and CPVSS schemes, and then categorize cheating activities into meaningful cheating, non-meaningful cheating, and meaningful deterministic cheating. Moreover, we analyze the research challenges in CPVSS, and propose a new cheating prevention scheme which is better than the previous schemes in the aspects of some security requirements.
-
-@highlight Revisit some well-known cheating activities and cheating prevention visual secret sharing (CPVSS) schemes.
-@highlight Define three different types of cheating activities including meaningful cheating, non-meaningful cheating, and meaningful deterministic cheating.
-@highlight Present a new CPVSS scheme which is secure against meaningful deterministic cheating.

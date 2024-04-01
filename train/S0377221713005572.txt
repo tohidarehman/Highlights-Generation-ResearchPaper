@@ -1,6 +1,0 @@
- We consider here a NP-hard problem related to the Routing and Wavelength Assignment (RWA) problem in optical networks, dealing with Scheduled Lightpath Demands (SLDs). An SLD is a connection demand between two nodes of the network, during a certain time. Given a set of SLDs, we want to assign a lightpath, i.e. a routing path and a wavelength, to each SLD, so that the total number of required wavelengths is minimized. The constraints are the following: a same wavelength must be assigned all along the edges of the routing path of any SLD; at any time, a given wavelength on a given edge of the network cannot be used to satisfy more than one SLD. To solve this problem, we design a post-optimization method improving the solutions provided by a heuristic. The experimental results show that this post-optimization method is quite efficient to reduce the number of necessary wavelengths.
-
-@highlight We study the routing and wavelength assignment problem for Scheduled Lightpath Demands (SLDs).
-@highlight We design a post-optimization to solve this problem.
-@highlight We provide an experimental study of this method.
-@highlight This method improves the solutions provided by a heuristic.

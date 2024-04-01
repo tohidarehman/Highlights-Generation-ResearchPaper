@@ -1,7 +1,0 @@
- Recently, and ISA100.11 have been proposed as communication standard for a wireless fieldbus. However, Wireless Networked Control Systems performances are hard to verify in the real world, since test beds are expensive and difficult to implement. This paper proposes the use of a co-simulation framework based on the interaction of TrueTime, together with a cross layer wireless network simulator based on OMNET++. In particular, OMNET++ models show accurate aspects of network and devices, for improving overall coexistence management. A sample system controlled by a WirelessHART network has been considered; the analysis of the control performance and coexistence immunity of WirelessHART with respect to the traditional IEEE802.15.4, has been done.
-
-@highlight We improved the available simulation models of WirelessHART devices.
-@highlight We interfaced the proposed enhanced models with an existing co-simulation tool.
-@highlight Control networks based on WirelessHART can be simulated with more details.
-@highlight The co-simulation of coexistence issues of WirelessHART is now improved.
-@highlight Comparison between WirelessHART and IEEE802.15.4 is possible.

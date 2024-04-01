@@ -1,6 +1,0 @@
- In order to maintain a unit that is running successive works with cycle times, this paper classifies its replacement policies into three types: (Type I) Replacement with interrupted cycles; (Type II) replacement with complete works; and (Type III) replacement with incomplete works. Type I is typically done at a continuous time T while Type II is executed at a discrete number N of working cycles. Type III is proposed as an improvement of Type I, which can be done at discrete working cycles. For each type, age and periodic replacement models are respectively observed. It is shown that Type I is more flexible than Type II and costs less than Type III. However, modified replacement costs, i.e., without penalty of operational interruptions, are obtained for Types II and III as critical points at which their policies should be adopted. All discussions are presented analytically and numerical examples are given when each cycle time is exponential and the failure time has a Weibull distribution.
-
-@highlight New categories of replacement policies are proposed.
-@highlight Comparisons of continuous and discrete replacement policies are made.
-@highlight Replacement policy with continuous time is modified to be done at discrete times.
-@highlight Modified replacement costs without penalty are obtained.

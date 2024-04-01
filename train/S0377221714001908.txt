@@ -1,7 +1,0 @@
- This paper considers the Red–Blue Transportation Problem (Red–Blue TP), a generalization of the transportation problem where supply nodes are partitioned into two sets and so-called exclusionary constraints are imposed. We encountered a special case of this problem in a hospital context, where patients need to be assigned to rooms. We establish the problem’s complexity, and we compare two integer programming formulations. Furthermore, a maximization variant of Red–Blue TP is presented, for which we propose a constant-factor approximation algorithm. We conclude with a computational study on the performance of the integer programming formulations and the approximation algorithms, by varying the problem size, the partitioning of the supply nodes, and the density of the problem.
-
-@highlight Red–Blue TP, a new generalization of the transportation problem is presented.
-@highlight It is motivated by a patient assignment problem in hospitals.
-@highlight The problem’s complexity is established and two IP formulations are given.
-@highlight Three 1/2-approximation algorithms are presented for a maximization variant.
-@highlight A computational study discusses performance with respect to problem characteristics.

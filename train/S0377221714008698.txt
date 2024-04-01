@@ -1,7 +1,0 @@
- In many supply chains, the manufacturer sells not only through an independent retailer, but also through its own direct channel. This work studies the pricing and assortment decisions in such a supply chain in the presence of inventory costs. In our model, the retailer offers a subset of the assortment that the manufacturer offers through its direct channel. We model the customer demand by building on the nested-logit model, which captures the customer’s choice between the manufacturer and the retailer. This model produces several insights into the optimal pricing strategies of the manufacturer. For example, we find that variants with high demand variability will carry a lower wholesale price. Furthermore, we characterize scenarios in which the manufacturer’s and retailer’s assortment preferences are in conflict. In particular, the manufacturer may prefer the retailer to carry items with high demand variability while the retailer prefers items with low demand variability.
-
-@highlight We study pricing and assortment decisions in dual-channel supply chains.
-@highlight The channels used by the manufacturer are its direct channel and a retailer.
-@highlight We find that the retailer prefers items with low demand variability.
-@highlight In contrast, the manufacturer prefers the retailer to carry high-variability items.
-@highlight Consequently, the manufacturer charges a lower wholesale price for those items.

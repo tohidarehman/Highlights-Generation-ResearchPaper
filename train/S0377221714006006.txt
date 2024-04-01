@@ -1,7 +1,0 @@
- This paper describes a hybrid stock trading system based on Genetic Network Programming (GNP) and Mean Conditional Value-at-Risk Model (GNP–CVaR). The proposed method, combining the advantages of evolutionary algorithms and statistical model, has provided useful tools to construct portfolios and generate effective stock trading strategies for investors with different risk-attitudes. Simulation results on five stock indices show that model based on GNP and maximum Sharpe Ratio portfolio performs the best in bull market, and that based on GNP and the global minimum risk portfolio performs the best in bear market. The portfolios constructed by Markowitz’s mean–variance model performs the same as mean-CVaR model. It is clarified that the proposed system significantly improves the function and efficiency of original GNP, which can help investors make profitable decisions.
-
-@highlight We combine the advantages of evolutionary algorithms and statistical model.
-@highlight The system has generated effective trading strategies for different risk-attitudes.
-@highlight We propose a method to forecast the stock prices in two opposite environments.
-@highlight Model based on maximum Sharpe Ratio portfolio performs the best in bull market.
-@highlight Model based on the global minimum risk portfolio performs the best in bear market.

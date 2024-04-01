@@ -1,8 +1,0 @@
- A Moment Ratio estimator is proposed for an AR( ) model of the errors in an OLS regression, that provides standard errors with far less median bias and confidence intervals with far better coverage than conventional alternatives. A unit root, and therefore the absence of cointegration, does not necessarily mean that a correlation between the variables is spurious. The estimator is applied to a quadratic trend model of real GDP. The rate of change of GDP growth is negative with finite standard error but is insignificant. The “output gap,” often used as a guide to monetary policy, has an infinite standard error and is therefore a statistical illusion.
-
-@highlight A new Moment Ratio estimator is proposed for an AR(
-@highlight ) model of regression errors.
-@highlight The new estimator gives CIs with less size distortion than popular alternatives.
-@highlight Newey–West HAC standard errors can far overstate regressor precision.
-@highlight Lack of cointegration does not necessarily imply a regression is spurious.
-@highlight The new estimator is applied to a quadratic trend model of US GDP.

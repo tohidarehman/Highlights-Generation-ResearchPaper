@@ -1,5 +1,0 @@
- Let be a cell with a single interior vertex and n boundary vertices . Say that has the interpolation property if for every there is a spline such that for all i. We investigate under what conditions does a cell fail the interpolation property. The question is related to an open problem posed by Alfeld, Piper, and Schumaker in 1987 about characterization of unconfinable vertices. For hexagonal cells, we obtain a geometric criterion characterizing the failure of the interpolation property. As a corollary, we conclude that a hexagonal cell such that its six interior edges lie on three lines fails the interpolation property if and only if the cell is projectively equivalent to a regular hexagonal cell. Along the way, we obtain an explicit basis for the vector space for
-
-@highlight Geometric characterization of hexagonal cells without the interpolation property.
-@highlight New examples of unconfinable interior vertices.
-@highlight Interpolation properties of splines depend on the geometry of cells.

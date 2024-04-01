@@ -1,6 +1,0 @@
- The dissemination of Electronic Health Records (EHRs) can be highly beneficial for a range of medical studies, spanning from clinical trials to epidemic control studies, but it must be performed in a way that preserves patients’ privacy. This is not straightforward, because the disseminated data need to be protected against several privacy threats, while remaining useful for subsequent analysis tasks. In this work, we present a survey of algorithms that have been proposed for publishing structured patient data, in a privacy-preserving way. We review more than 45 algorithms, derive insights on their operation, and highlight their advantages and disadvantages. We also provide a discussion of some promising directions for future research in this area.
-
-@highlight Discusses the major privacy threats that data publishing entails.
-@highlight Presents the privacy models that have been designed for data protection.
-@highlight Surveys over 45 privacy algorithms for publishing patient specific data.
-@highlight Discusses promising directions for future research in data privacy.

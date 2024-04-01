@@ -1,7 +1,0 @@
- The investigated problem is the analysis of customers’ strategic behavior in a single server Markovian M 2/M/1 queue with batch arrivals of two customers with a reward-cost structure. At their arrival time, customers can decide to join the queue or to balk. The utility of each one depends on his decision, on his partner’s decision and on the system state. Two cases are considered: when the system provides the information about its state (observable case), and when this information is not provided (unobservable case). Both problems are modeled as games in extensive form with complete and imperfect information. We give the Nash equilibria for each corresponding game and we compare between both cases in order to determine the policy which arranges the system’s manager.
-
-@highlight We study the interaction between customers in the M2/M/1 queue using game theory approach.
-@highlight Two cases are considered (observable and unobservable) according to the information about the system state.
-@highlight Both cases are modeled as dynamic games and solved by determining the corresponding Nash equilibria.
-@highlight We obtain the different system characteristics in each case.
-@highlight We make a comparison between the two cases and determine the best policy that suits the system’s manager or the server.

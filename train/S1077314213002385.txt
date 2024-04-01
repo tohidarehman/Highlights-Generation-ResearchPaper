@@ -1,6 +1,0 @@
- A model based on the concept of topological suspension is constructed with the purpose of testing and comparing different shape similarity measures in computer vision and graphics. This model gives an automatic way to produce interesting shapes of arbitrarily high dimension as quality tests of algorithms that have been used in low dimensions, but are now intended for comparing multidimensional data sets. The analysis of the matching distance method is provided for one and two-parameter measuring functions on closed curves and surfaces, whose suspension is defined, respectively, on surfaces in and 3D objects in . Perspectives for applying this model to other shape descriptors used for digital images are pointed out.
-
-@highlight We introduce a procedure to build challenging examples for persistence algorithms.
-@highlight Our procedure allows us to construct models in arbitrarily high dimension.
-@highlight The correctness of the procedure is proved and supported with numerical tests.
-@highlight We provide insights regarding the need to use multidimensional measuring functions.

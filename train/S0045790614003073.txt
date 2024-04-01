@@ -1,6 +1,0 @@
- In this paper, an Android based home automation system that allows multiple users to control the appliances by an Android application or through a web site is presented. The system has three hardware components: a local device to transfer signals to home appliances, a web server to store customer records and support services to the other components, and a mobile smart device running Android application. Distributed cloud platforms and Google services are used to support messaging between the components. The prototype implementation of the proposed system is evaluated based on the criteria considered after the requirement analysis for an adequate home automation system. The paper presents the outcomes of a survey carried out regarding the properties of home automation systems, and also the evaluation results of the experimental tests conducted with volunteers on running prototype.
-
-@highlight A cloud based and Android supported scalable home automation system is proposed.
-@highlight The mechanism relies on the distributed Google Cloud Platform.
-@highlight Google Cloud Messaging supports the communication infrastructure in the system.
-@highlight The prototype is evaluated based on a list of criteria for an adequate system.

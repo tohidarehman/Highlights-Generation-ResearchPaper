@@ -1,7 +1,0 @@
- The Standard Quadratic Problem (StQP) is an NP-hard problem with many local minimizers (stationary points). In the literature, heuristics based on unconstrained continuous non-convex formulations have been proposed  but none dominates the other in terms of best value found. Following  we propose to use Support Vector Machines (SVMs) to define a multistart global strategy which selects the “best” heuristic. We test our method on StQP arising from the Maximum Clique Problem on a graph which is a challenging combinatorial problem. We use as benchmark the clique problems in the DIMACS challenge.
-
-@highlight The Standard Quadratic Problem (StQP) is NP-hard with many local minimizers.
-@highlight Global unconstrained heuristics proposed for StQP do not dominate each other.
-@highlight We use Support Vector Machines to combine three global heuristics into one.
-@highlight We prove that our method allows to obtain a good heuristic.
-@highlight We use as benchmark test set the StQP deriving from the max clique problem.

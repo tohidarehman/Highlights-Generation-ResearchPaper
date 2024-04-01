@@ -1,5 +1,0 @@
- In this paper, the modelling problem of brain and eye signals is considered. To solve this problem, three important evolving and stable intelligent algorithms are applied: the sequential adaptive fuzzy inference system (SAFIS), uniform stable backpropagation algorithm (SBP), and online self-organizing fuzzy modified least-squares networks (SOFMLS). The effectiveness of the studied methods is verified by simulations.
-
-@highlight Three evolving and stable intelligent algorithms are described.
-@highlight The evolving and stable intelligent algorithms are used for the modelling of brain signals.
-@highlight The evolving and stable intelligent algorithms are used for the modelling of eye signals.

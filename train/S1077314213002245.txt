@@ -1,7 +1,0 @@
- We present a robust background model for object detection and its performance evaluation using the database of the Background Models Challenge (BMC). Background models should detect foreground objects robustly against background changes, such as “illumination changes” and “dynamic changes”. In this paper, we propose two types of spatiotemporal background modeling frameworks that can adapt to illumination and dynamic changes in the background. Spatial information can be used to absorb the effects of illumination changes because they affect not only a target pixel but also its neighboring pixels. Additionally, temporal information is useful in handling the dynamic changes, which are observed repeatedly. To establish the spatiotemporal background model, our frameworks model an illumination invariant feature and a similarity of intensity changes among a set of pixels according to statistical models, respectively. Experimental results obtained for the BMC database show that our models can detect foreground objects robustly against background changes.
-
-@highlight We propose two types of spatiotemporal background models (i.e., SLDP and StSIC).
-@highlight They integrate multiple different modeling approaches into a single framework.
-@highlight SLDP models an illumination-invariant local feature in a statistical framework.
-@highlight StSIC models spatiotemporal similarity of intensity changes among the pixels.
-@highlight Experimental results show our models are robust against various background changes.

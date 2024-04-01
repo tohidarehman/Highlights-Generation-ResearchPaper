@@ -1,6 +1,0 @@
- A Quasi Extended Chebyshev (QEC) space is a space of sufficiently differentiable functions in which any Hermite interpolation problem which is not a Taylor problem is unisolvent. On a given interval the class of all spaces which contains constants and for which the space obtained by differentiation is a QEC-space has been identified as the largest class of spaces (under ordinary differentiability assumptions) which can be used for design. As a first step towards determining the largest class of splines for design, we consider a sequence of QEC-spaces on adjacent intervals, all of the same dimension, we join them via connection matrices, so as to maintain both the dimension and the unisolvence. The resulting space is called a Quasi Extended Chebyshev Piecewise (QECP) space. We show that all QECP-spaces are inverse images of two-dimensional Chebyshev spaces under piecewise generalised derivatives associated with systems of piecewise weight functions. We show illustrations proving that QECP-spaces can produce interesting shape effects.
-
-@highlight Introduce Quasi Extended Chebyshev piecewise spaces.
-@highlight Develop their properties for design, e.g., existence/pseudoaffinity of blossoms.
-@highlight Determine the class of all such spaces.
-@highlight Provide illustrations.

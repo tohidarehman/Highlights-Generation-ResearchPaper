@@ -1,7 +1,0 @@
- An abdominal aortic aneurysm (AAA) is a pathological dilation of the abdominal aorta that may lead to a rupture with fatal consequences. Endovascular aneurysm repair (EVAR) is a minimally invasive surgical procedure consisting of the deployment and fixation of a stent–graft that isolates the damaged vessel wall from blood circulation. The technique requires adequate endovascular device sizing, which may be performed by vascular analysis and quantification on Computerized Tomography Angiography (CTA) scans. This paper presents a novel 3D CTA image-based software for AAA inspection and EVAR sizing, eVida Vascular, which allows fast and accurate 3D endograft sizing for standard and fenestrated endografts. We provide a description of the system and its innovations, including the underlying vascular image analysis and visualization technology, functional modules and user interaction. Furthermore, an experimental validation of the tool is described, assessing the degree of agreement with a commercial, clinically validated software, when comparing measurements obtained for standard endograft sizing in a group of 14 patients.
-
-@highlight Advanced EVAR vascular analysis, allowing automation, robustness and customization.
-@highlight Advanced multimodal visualization technology allowing better planning procedures.
-@highlight Three modes of operation for standard and fenestrated endografts, and a free mode.
-@highlight Ability to handle complex, fenestrated endograft cases.
-@highlight Validation by comparing the agreement with an existing commercial solution.

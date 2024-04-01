@@ -1,5 +1,0 @@
- This paper focuses on some critical issues in a recently reported approach [V. Singh, Improved LMI-based criterion for global asymptotic stability of 2-D state-space digital filters described by Roesser model using twoʼs complement overflow arithmetic, Digital Signal Process. 22  471–475] for the global asymptotic stability of two-dimensional (2-D) fixed-point state-space digital filters described by the Roesser model employing twoʼs complement overflow arithmetic. In particular, it is highlighted that the situation where Singhʼs approach can be applied to ensure the global asymptotic stability of digital filters in the presence of twoʼs complement overflow nonlinearities is not conceivable.
-
-@highlight We focus on critical issues in a recent approach for stability of 2-D digital filter.
-@highlight It is hard to conceive any situation where the reported approach can be applied.
-@highlight Implication of the approach in the context of 1-D digital filter is discussed.

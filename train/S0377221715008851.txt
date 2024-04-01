@@ -1,6 +1,0 @@
- In a paper published in Management Science in 1984, Korhonen, Wallenius, and Zionts presented the idea and method based on convex-cone dominance in the discrete Multiple Criteria Decision Making framework. In our current paper, we revisit the old idea from a new standpoint and provide the mathematical theory leading to a dual-cone based approach to solving such problems. Our paper makes the old results computationally more tractable. The results provided in the present paper also help extend the theory.
-
-@highlight We are revisiting the old idea of convex preference cones.
-@highlight Convex preference cones can be used to eliminate inferior solutions.
-@highlight The current paper is based on the idea of utilizing dual cones.
-@highlight With dual cones we avoid the solving of LPs resulting in computational savings.

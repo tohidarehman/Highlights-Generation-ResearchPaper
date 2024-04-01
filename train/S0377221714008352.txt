@@ -1,6 +1,0 @@
- Benchmarking and target setting should identify best practices that are not only technically achievable but also desirable in the light of prior knowledge and expert opinion. It should also be considered the possibility of finding targets by minimizing the gap between actual and efficient performances, so that the units under evaluation can achieve these targets with less effort. We extend here the DEA models that provide closest targets for use when expert preferences are incorporated into the analysis. This approach is illustrated by applying the model proposed to the evaluation of educational performance of public Spanish universities.
-
-@highlight A new DEA model for performance benchmarking.
-@highlight Target setting minimizing the gap between actual and efficient performances.
-@highlight Expert preferences are incorporated into the analysis.
-@highlight A real-world application to the evaluation of educational performance of Spanish universities.

@@ -1,7 +1,0 @@
- In for-profit organizations, profit efficiency decomposition is considered important since estimates on profit drivers are of practical use to managers in their decision making. Profit efficiency is traditionally due to two sources – technical efficiency and allocative efficiency. The contribution of this paper is a novel decomposition of technical efficiency that could be more practical to use if the firm under evaluation really wants to achieve technical efficiency as soon as possible. For this purpose, we show how a new version of the Measure of Inefficiency Proportions (MIP), which seeks the minimization of the total technical effort by the assessed firm, is a lower bound of the value of technical inefficiency associated with the directional distance function. The targets provided by the new MIP could be beneficial for firms since it specifies how firms may become technically efficient simply by decreasing one input or increasing one output, suggesting that each firm should focus its effort on a specific dimension (input or output). This approach is operationalized in a data envelopment analysis framework and applied to a dataset of airlines.
-
-@highlight We show how technical efficiency can be decomposed into two new terms.
-@highlight We apply the Principle of Least Action in order to determine closest targets.
-@highlight We introduce a new Measure of Inefficiency Proportions (MIP).
-@highlight We show the interesting properties that satisfies the new MIP.
-@highlight The new approach is applied to a dataset on airlines.

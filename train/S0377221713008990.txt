@@ -1,7 +1,0 @@
- This article studies a two-firm dynamic pricing model with random production costs. The firms produce the same perishable products over an infinite time horizon when production (or operation) costs are random. In each period, each firm determines its price and production levels based on its current production cost and its opponent’s previous price level. We use an alternating-move game to model this problem and show that there exists a unique subgame perfect Nash equilibrium in production and pricing decisions. We provide a closed-form solution for the firm’s pricing policy. Finally, we study the game in the case of incomplete information, when both or one of the firms do not have access to the current prices charged by their opponents.
-
-@highlight This paper considers the game between two competing firms.
-@highlight External factors are considered including production cost that is random in nature.
-@highlight Based on the model setting, an alternating-move approach is used to solve this problem.
-@highlight A closed-form solution is provided for special cases
-@highlight A comprehensive numerical study is provided to illustrate the results.

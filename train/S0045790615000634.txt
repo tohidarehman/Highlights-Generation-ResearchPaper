@@ -1,7 +1,0 @@
- The biometrics, the password and the storage device are the elements of the three-factor authentication. In 2013, Yeh et al. proposed a three-factor user authentication scheme based on elliptic curve cryptography. However, we find that it has weaknesses including useless user identity, ambiguous process, no session key and no mutual authentication. Also, it cannot resist the user forgery attack and the server spoofing attack. Moreover, Khan et al. propose a fingerprint-based remote authentication scheme with mobile devices. Unfortunately it cannot withstand the user impersonation attack and the De-synchronization attack. Furthermore, the user’s identity cannot be anonymous, either. To overcome the disadvantages, we propose a new three-factor remote authentication scheme and give a formal proof with strong forward security. It could provide the user’s privacy and is secure. Compared to some recent three-factor authentication schemes, our scheme is secure and practical.
-
-@highlight We point out that Yeh et al.’s scheme is not secure because it has several disadvantages in security.
-@highlight We point out that Khan et al.’s scheme is not secure with some weaknesses.
-@highlight We present a new three-factor scheme based on ECC.
-@highlight We prove our scheme secure with a formal proof and analysis.
-@highlight By comparing with some latest schemes, our scheme is more practical for application due to the security and efficiency.

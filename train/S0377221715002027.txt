@@ -1,7 +1,0 @@
- We develop a model for optimal location of retail stores on a network. The objective is to maximize the total profit of the network subject to a minimum ROI (or ROI threshold) required at each store. Our model determines the location and number of stores, allocation of demands to the stores, and total investment. We formulate a store’s profit as a jointly concave function in demand and investment, and show that the corresponding ROI function is unimodal. We demonstrate an application of our model to location of retail stores operating as an M/M/1/K queue and show the joint concavity of a store’s profit. To this end, we prove the joint concavity of the throughput of an M/M/1/K queue. Parametric analysis is performed on an illustrative example for managerial implications. We introduce an upper bound of an optimal value of the problem and develop three heuristic algorithms based on the structural properties of the profit and ROI functions. Computational results are promising.
-
-@highlight We develop a model for optimal location of retail stores on a network.
-@highlight The objective is to maximize the total profit of stores subject to a minimum ROI.
-@highlight Given a store’s profit is concave in demand and investment, the ROI is unimodal.
-@highlight We demonstrate an application to location of retail stores as an M/M/1/K queue.
-@highlight We introduce an upper bound of optimal value and heuristic algorithms.

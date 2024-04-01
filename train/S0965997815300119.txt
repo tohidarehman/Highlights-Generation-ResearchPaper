@@ -1,7 +1,0 @@
- Design pattern is widely used in the software engineering field, which enables designers to reuse existing mature designs from a high level perspective. Inspired by this idea, a novel approach is proposed to extract design patterns in the CAD field. First, the characteristics for a good design pattern are analyzed and the model for representing design patterns is elaborated. Then, given a set of 3D feature-based CAD models, the corresponding extraction approach is proposed, which includes three important phases:  extracting reusable regions with high cohesion, low coupling and moderate complexity so as to form a relative integrated function;  constructing candidate design patterns by clustering reusable regions using a graph-oriented agglomerative hierarchical clustering algorithm;  determining the final design patterns by choosing those candidate design patterns with high frequency and sufficient information. Finally, a design pattern extraction prototype system is developed, and the experimental results are presented to demonstrate the effectiveness of the approach.
-
-@highlight Design pattern is introduced into the CAD field.
-@highlight The characteristics and conditions of a good design pattern are defined.
-@highlight A platform-independent design pattern model is constructed.
-@highlight A multi-phases design pattern extraction approach is proposed.
-@highlight The design pattern extraction approach is efficient and effective.

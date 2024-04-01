@@ -1,7 +1,0 @@
- Most of the traditional histogram-based thresholding techniques are effective for bi-level thresholding and unable to consider spatial contextual information of the image for selecting optimal threshold. In this article a novel thresholding technique is presented by proposing an energy function to generate the energy curve of an image by taking into an account the spatial contextual information of the image. The behavior of this energy curve is very much similar to the histogram of the image. To incorporate spatial contextual information of the image for threshold selection process, this energy curve is used as an input of our technique instead of histogram. Moreover, to mitigate multilevel thresholding problem the properties of genetic algorithm are exploited. The proposed algorithm is evaluated on the number of different types of images using a validity measure. The results of the proposed technique are compared with those obtained by using histogram of the image and also with an existing genetic algorithm based context sensitive technique. The comparisons confirmed the effectiveness of the proposed technique.
-
-@highlight A context sensitive multilevel thresholding technique for image segmentation is presented.
-@highlight To incorporate contextual information a novel energy function is defined.
-@highlight The proposed energy curve is analyzed instead of histogram of the image.
-@highlight Genetic algorithm is exploited for multilevel thresholding.
-@highlight Results pointed out the superiority of the proposed technique.

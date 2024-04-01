@@ -1,6 +1,0 @@
- This paper presents and investigates the application of Zhang neural network (ZNN) activated by Li function to kinematic control of redundant robot manipulators via time-varying Jacobian matrix pseudoinversion. That is, by using Li activation function and by computing the time-varying pseudoinverse of the Jacobian matrix (of the robot manipulator), the resultant ZNN model is applied to redundant-manipulator kinematic control. Note that there are nine novelties and differences of ZNN from the conventional gradient neural network in the research methodology. More importantly, such a Li-function activated ZNN (LFAZNN) model has the property of finite-time convergence (showing its feasibility to redundant-manipulator kinematic control). Simulation results based on a four-link planar robot manipulator and a PA10 robot manipulator further demonstrate the effectiveness of the presented LFAZNN model, as well as show the LFAZNN application prospect.
-
-@highlight The LFAZNN model is developed for time-varying Jacobian matrix pseudoinversion.
-@highlight This paper presents the theoretical result about the LFAZNN finite-time convergence.
-@highlight This paper further shows the LFAZNN application to robots’ kinematic control.
-@highlight Simulation results demonstrate well the effectiveness of the LFAZNN model.

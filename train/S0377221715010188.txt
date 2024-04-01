@@ -1,6 +1,0 @@
- We consider the one-dimensional skiving stock problem which is strongly related to the dual bin packing problem: find the maximum number of items with minimum length L that can be constructed by connecting a given supply of smaller item lengths with availabilities . For this optimization problem, we present three new models (the arcflow model, the onestick model, and a model of Kantorovich-type) and investigate their relationships, especially regarding their respective continuous relaxations. To this end, numerical computations are provided. As a main result, we prove the equivalence between the arcflow model, the onestick approach and the existing pattern-oriented standard model. In particular, this equivalence is shown to hold for the corresponding continuous relaxations, too.
-
-@highlight The formulation of three new models for the one-dimensional skiving stock problem.
-@highlight The equivalence of the continuous relaxations (standard, arcflow and onestick model).
-@highlight Characterization of lexicographic order by linear inequalities and binary variables.
-@highlight Theoretical and numerical investigations on the complexities of the models.

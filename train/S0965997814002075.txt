@@ -1,5 +1,0 @@
- The fatigue behavior of 3D 4-directional braided composites was investigated based on the unit cell approach. First, the unit cell models of 3D 4-directional braided composites with different braiding angles and fiber volume fraction were built up using ABAQUS. Then, the fatigue behavior of the 3D 4-directional braided composites was analyzed, and the effect of fatigue loading direction on the fatigue damage evolution and fatigue life was studied. Finally, the effect of braiding angles and fiber volume fraction of the unit cell on the fatigue behavior of 3D 4-directional braided composites was analyzed. These results will play an important role for evaluating the fatigue behavior of 3D 4-directional braided composites in engineering.
-
-@highlight The unit cell of 3D 4-directional braided composites were built up using ABAQUS.
-@highlight The fatigue behavior of the 3D 4-directional braided composites was analyzed.
-@highlight Effect of braiding angles and fiber volume fraction of on fatigue behavior was analyzed.

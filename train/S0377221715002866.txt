@@ -1,7 +1,0 @@
- A number of factors are causing changes in container logistics, particularly for imports into the United States. These include growth and volatility in demands, expansion of new routes (Panama Canal and Northwest Passage), and development of new ports (Prince Rupert and ports on the Mexican west coast). Uncertainty is a major factor confronting logistics for container shipping. A stochastic network-flow model is developed in this study to analyze risk in port throughput as a result of randomness in critical variables in the logistics system for container imports into the United States. The results illustrate the stochastic distribution of container shipments at ports and routes serving the U.S. container market. The derived distributions for port throughput have important implications for port management.
-
-@highlight A stochastic network-flow model was developed to analyze container flows.
-@highlight It includes inter-port, intermodal and inter-route competition, and congestion.
-@highlight Uncertainty impacts the variability in container flows, which reflect market volatility or rick.
-@highlight It measures risk as the spread and variability of distribution of container volume through port.
-@highlight Shipment variability has implications for port management, shippers, and railways.

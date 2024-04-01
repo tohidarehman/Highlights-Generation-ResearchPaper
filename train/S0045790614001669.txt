@@ -1,6 +1,0 @@
- Having a direct effect on network lifetime, balanced energy consumption is one of the key challenges in wireless networks. In this paper, we investigate the effects of node mobility on energy balancing in wireless networks. We construct a Linear Programming (LP) framework that jointly captures data routing, mobility, and energy dissipation aspects. We explore the design space by performing numerical analysis using the developed LP framework. Our results show that mobility has significant effects on the energy dissipation trends of wireless nodes. Mobility can improve the energy balancing up to a certain level, however extreme mobility may lead to a degradation in energy balancing of wireless networks.
-
-@highlight Utilizing mobility for energy balancing is the key insight of our work.
-@highlight We construct a Linear Programming (LP) framework that jointly captures data routing, mobility, and energy dissipation aspects.
-@highlight Mobility can improve the energy balancing up to a certain level.
-@highlight We delineate future research opportunities in the area.

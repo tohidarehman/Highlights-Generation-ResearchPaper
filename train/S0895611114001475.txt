@@ -1,7 +1,0 @@
- This work introduces a self-contained framework for endoscopic camera tracking by combining 3D ultrasonography with endoscopy. The approach can be readily incorporated into surgical workflows without installing external tracking devices. By fusing the ultrasound-constructed scene geometry with endoscopic vision, this integrated approach addresses issues related to initialization, scale ambiguity, and interest point inadequacy that may be faced by conventional vision-based approaches when applied to fetoscopic procedures. Vision-based pose estimations were demonstrated by phantom and ex vivo monkey placenta imaging. The potential contribution of this method may extend beyond fetoscopic procedures to include general augmented reality applications in minimally invasive procedures.
-
-@highlight A camera tracking method by combining 3D ultrasonography with endoscopy is proposed.
-@highlight This self-contained framework does not require any external tracking devices.
-@highlight It addresses potential issues in conventional visual tracking for fetoscopy.
-@highlight Endoscope tracking ability was demonstrated in phantom and ex vivo placenta imaging.
-@highlight Potential contribution may extend to other minimally invasive procedures.

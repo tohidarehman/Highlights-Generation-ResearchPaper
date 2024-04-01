@@ -1,7 +1,0 @@
- In this paper we present a new approach, based on the Nearest Interval Approximation Operator, for dealing with a multiobjective programming problem with fuzzy-valued objective functions. By the way we have established a Karush–Kuhn–Tucker (K.K.T) kind of Pareto optimality conditions, for the resulting interval multiobjective program. To this end, we made use of gH-differentiability of involved interval-valued functions. Two algorithms play a pivotal role in the proposed method. The first one returns a nearest interval approximation to a given fuzzy number. The other one makes use of K.K.T conditions to deliver a Pareto optimal solution of the above mentioned resulting interval program.
-
-@highlight We present an approach for solving a fuzzy multiobjective program.
-@highlight It is based on the Nearest Interval Approximation (NIA) Operator.
-@highlight K.K.T like conditions of efficiency have been obtained for the resulting program.
-@highlight To solve our problem, we first replace fuzzy values by their NIA counterparts.
-@highlight After this, we make use of obtained efficiency conditions to generate the solution.

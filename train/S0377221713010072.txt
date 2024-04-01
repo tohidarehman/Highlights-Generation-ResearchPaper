@@ -1,6 +1,0 @@
- We develop a network-based warehouse model of individual pallet locations and their interactions with appropriate cross aisles in order to evaluate the expected travel distance of a given design. The model is constructive in that it uses Particle Swarm Optimization to determine the best angles of cross aisles and picking aisles for multiple, pre-determined pickup and deposit (P&D) points in a unit-load warehouse. Our results suggest that alternative designs offer reduced expected travel distance, but at the expense of increased storage space. The opportunity for benefit also seems to decline as P&D points increase in number and dispersion.
-
-@highlight A constructive warehouse design model and an encoding system are developed.
-@highlight New inspirational aisle designs are proposed for unit-load warehouses.
-@highlight The improved two cross aisle designs offer 5–12% improvement over traditional designs.
-@highlight Traditional aisle designs seem to be a good layout when P&D points are highly dispersed.

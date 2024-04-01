@@ -1,5 +1,0 @@
- Removal of noise and restoration of images has been one of the most interesting researches in the field of image processing in the past few years. Existing filter-based methods can remove image noise; however, they cannot preserve image quality and information such as lines and edges. The proposed noise reduction image restoration technique initially performs noise removal by employing a hybrid denoising filter with an adaptive genetic algorithm. The performance of the proposed technique is evaluated by comparing the result for the proposed technique with existing denoising filters, and genetic algorithm and particle swarm optimisation methods. The comparison results show that the proposed method achieves higher-quality denoising and a high restoration ratio for noisy images than the existing methods.
-
-@highlight We modelled a Hybrid filter with AGA to remove the noise from the images.
-@highlight The noisy free images are restored by shining the pixel values using AGA.
-@highlight The performance is analysed by taking number of images and comparing the result with existing technique.

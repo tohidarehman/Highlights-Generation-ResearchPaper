@@ -1,5 +1,0 @@
- We address the TLINK track of the 2012 i2b2 challenge on temporal relations. Unlike other approaches to this task, we  employ sophisticated linguistic knowledge derived from semantic and discourse relations, rather than focus on morpho-syntactic knowledge; and  leverage a novel combination of rule-based and learning-based approaches, rather than rely solely on one or the other. Experiments show that our knowledge-rich, hybrid approach yields an F-score of 69.3, which is the best result reported to date on this dataset.
-
-@highlight Detecting and classifying TLINKs using: PropBank-style predicate-argument relations, and Discourse relations.
-@highlight A hybrid system architecture employing both rules and machine-learning.
-@highlight F-score of 69.3 on TLINK detection and classification.

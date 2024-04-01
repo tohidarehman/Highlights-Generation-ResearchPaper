@@ -1,7 +1,0 @@
- This paper presents an exact algorithm for solving the knapsack sharing problem with common items. In literature, this problem is also denominated the Generalized Knapsack Sharing Problem (GKSP). The GKSP is NP-hard because it lays on the 0–1 knapsack problem and the knapsack sharing problem. The proposed exact method is based on a rigorous decomposition technique which leads to an intense simplification of the solution procedure for the GKSP. Furthermore, in order to accelerate the procedure for finding the optimum solution, an upper bound and several reduction strategies are considered. Computational results on two sets of benchmark instances from literature show that the proposed method outperforms the other approaches in most instances.
-
-@highlight We propose an exact algorithm for an NP-hard problem.
-@highlight We propose an upper bound, which can be efficiently computed.
-@highlight The original problem is decomposed into a series of sub-problems, which can be more easily solved.
-@highlight The proposed reduction strategies can significantly reduce the computational effort.
-@highlight The proposed algorithm generally outperforms the best algorithms from literature.

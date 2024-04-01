@@ -1,7 +1,0 @@
- As the functionality of ISOBUS compliant agriculture machines increases, demands on the underlying bus network capacity increase as well. Therefore, to prevent potential bottleneck performance of critical applications, bus utilization must be carefully optimized. In this paper, a methodology for transparent compression/decompression of Object Pool files arising from the use of powerful GUIs during network initialization time is presented. Comprehensive simulation experiments developed under CANoe.ISO11783 shows that data compression remarkably reduces bus utilization during ISOBUS network initialization time, thus enabling the use of powerful GUIs. Furthermore, simulation results suggest GZIP as the best performing method for transparent ISOBUS data compression.
-
-@highlight We examine four lossless data compression methods for ISOBUS Object Pool (IOP) files.
-@highlight GZIP is found to be the best performing method for transparent ISOBUS data compression.
-@highlight A proposal for implementing transparent ISOBUS data compression at initialization time is presented.
-@highlight A simulation study evaluates the reduction of bus utilization and initialization times under data compression.
-@highlight The method is validated on three benchmark IOP files at three increasingly complex networking scenarios.

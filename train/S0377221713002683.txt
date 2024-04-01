@@ -1,7 +1,0 @@
- Participatory budgets are becoming increasingly popular in many municipalities all around the world. The underlying idea is to allow citizens to participate in the allocation of a municipal budget. Many advantages have been suggested for such experiences, including legitimization and more informed and transparent decisions. There are many conceivable variants of such processes. However, in most cases both its design and implementation are carried out in an informal way. In this paper we propose a methodology to design a participatory budget process based on a multicriteria decision making model.
-
-@highlight We propose a methodology to design a participatory budget processes.
-@highlight This methodology is based on a multicriteria decision making model.
-@highlight We have identified alternatives, constraints, criteria and a value function model.
-@highlight We illustrate the use of the methodology with an example.
-@highlight With this approach we hope to facilitate the design of participatory budget processes.

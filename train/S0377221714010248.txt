@@ -1,5 +1,0 @@
- This note extends the results on the first four derivatives of the utility function by Menegatti (Eur. J. Oper. Res. 232  613–617) to the case of high-order derivatives. We show that, under usual assumptions, if the generic derivative of the utility function of order n is sign invariant then all the derivatives from order n to order 2 alternate in sign. We then focus on the case where the derivative of the utility function of order n is either positive when n is odd or negative when n is even, and we show the implications of this result for high-order risk changes and for saving decisions.
-
-@highlight The signs of derivatives of the utility function of different orders are related.
-@highlight Agent preferences in case of different high-order risk changes are related.
-@highlight Saving choices in case of different high-order risk changes are related.

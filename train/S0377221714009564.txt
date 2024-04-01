@@ -1,7 +1,0 @@
- In this paper we deal with TU games in which cooperation is restricted by means of a weighted network. We admit several interpretations for the weight of a link: capacity of the communication channel, flow across it, intimacy or intensity in the relation, distance between both incident nodes/players, cost of building or maintaining the communication link or even probability of the relation . Then, according to the different interpretations, we introduce several point solutions for these restricted games in a way parallel to the familiar environment of Myerson. Finally, we characterize these values in terms of the (adapted) component efficiency, fairness and balanced contributions properties and we analyze the extent to which they satisfy a link/weight monotonicity property.
-
-@highlight TU games with cooperation restricted by means of a weighted network.
-@highlight Several interpretations of the link weight: capacity, flow, distance, cost.
-@highlight Different weighted restricted-graph games depending on the weights meaning.
-@highlight Weighted Myerson values: the Shapley value of the restricted games.
-@highlight Characterization and Link/weight monotonicity of weighted Myerson values.

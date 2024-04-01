@@ -1,7 +1,0 @@
- In this paper, we apply genetic algorithms to the field of electoral studies. Forecasting election results is one of the most exciting and demanding tasks in the area of market research, especially due to the fact that decisions have to be made within seconds on live television. We show that the proposed method outperforms currently applied approaches and thereby provides an argument to tighten the intersection between computer science and social science, especially political science, further. We scrutinize the performance of our algorithm's runtime behavior to evaluate its applicability in the field. Numerical results with real data from a local election in the Austrian province of Styria from 2010 substantiate the applicability of the proposed approach.
-
-@highlight Election night forecasting depends on finding homogenous groups of polling stations.
-@highlight The industry standard relies on human intuition and K-means clustering.
-@highlight We propose a genetic algorithm to find grouping solutions.
-@highlight Our method outperforms human groupings by far.
-@highlight The concepts are demonstrated with local Austrian election data from 2010.

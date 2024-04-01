@@ -1,5 +1,0 @@
- This paper develops a slack-based decomposition of profit efficiency based on a directional distance function. It is an alternative to Cooper, Pastor, Aparicio,.
-
-@highlight We follow up on recent work of Cooper, Pastor, Aparicio and Borras (2011, EJOR).
-@highlight We operate with slack-based directional distance function.
-@highlight We develop a slack-based decomposition of profit efficiency.

@@ -1,5 +1,0 @@
- In this paper we consider timetable design at a European freight railway operator. The timetable is designed by choosing the time of service for customer unit train demands among a set of discrete points. These discrete points are all found within the a time-window. The objective of the model is to minimize cost while adhering to constraints regarding infrastructure usage, demand coverage, and engine availability. The model is solved by a column generation scheme where feasible engine schedules are designed in a label setting algorithm with time-dependent cost and service times.
-
-@highlight Generate timetables based on infrastructure paths.
-@highlight Branch-and-Price approach implemented.
-@highlight Provides high quality integer solutions to real-life sized instances.

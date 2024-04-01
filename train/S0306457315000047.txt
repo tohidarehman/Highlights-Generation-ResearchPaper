@@ -1,5 +1,0 @@
- Daily deals have emerged in the last three years as a successful form of online advertising. The downside of this success is that users are increasingly overloaded by the many thousands of deals offered each day by dozens of deal providers and aggregators. The challenge is thus offering the right deals to the right users i.e., the relevance ranking of deals. This is the problem we address in our paper. Exploiting the characteristics of deals data, we propose a combination of a term- and a concept-based retrieval model that closes the semantic gap between queries and documents expanding both of them with category information. The method consistently outperforms state-of-the-art methods based on term-matching alone and existing approaches for ad classification and ranking.
-
-@highlight We formalize the problem of retrieving daily deals in the context of Web search.
-@highlight We effectively combine keyword-based retrieval with automated classification.
-@highlight Our solution outperforms state-of-the-art query expansion and prior ad ranking work.

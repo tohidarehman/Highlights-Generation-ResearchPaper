@@ -1,7 +1,0 @@
- We investigate TU-game solutions that are neutral to collusive agreements among players. A collusive agreement binds collusion members to act as a single player and is feasible when they are connected on a network. Collusion neutrality requires that no feasible collusive agreement can change the total payoff of collusion members. We show that on the domain of network games, there is a solution satisfying collusion neutrality, efficiency and null-player property if and only if the network is a tree. Considering a tree network, we show that affine combinations of hierarchical outcomes  are the only solutions satisfying the three axioms together with linearity. As corollaries, we establish characterizations of the average tree solution (equally weighted average of hierarchical outcomes); one established earlier in the literature and the others new.
-
-@highlight Solutions satisfying collusion neutrality, efficiency and null-player property.
-@highlight A necessary and sufficient condition on the network for the existence is tree.
-@highlight Given a tree network, we characterize linear solutions satisfying the three axioms.
-@highlight They are affine combinations of hierarchical outcomes.
-@highlight Characterizations of the average tree solution are obtained as corollaries.

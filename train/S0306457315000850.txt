@@ -1,7 +1,0 @@
- The intention gap between users and queries results in ambiguous and broad queries. To solve these problems, subtopic mining has been studied, which returns a ranked list of possible subtopics according to their relevance, popularity, and diversity. This paper proposes a novel method to mine subtopics using simple patterns and a hierarchical structure of subtopic candidates. First, relevant and various phrases are extracted as subtopic candidates using simple patterns based on noun phrases and alternative partial-queries. Second, a hierarchical structure of the subtopic candidates is constructed using sets of relevant documents from a web document collection. Finally, the subtopic candidates are ranked considering a balance between popularity and diversity using this structure. In experiments, our proposed methods outperformed the baselines and even an external resource based method at high-ranked subtopics, which shows that our methods can be effective and useful in various search scenarios like result diversification.
-
-@highlight We use only web document collection instead of query logs and external resources.
-@highlight Our simple patterns are based on noun phrases and alternative partial-queries.
-@highlight We maintain a balance between popularity and diversity of subtopics.
-@highlight Our method covered various search intentions of a query by its few subtopics.
-@highlight Our results were steadily improved by extracting more relevant and various subtopics.

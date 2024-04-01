@@ -1,6 +1,0 @@
- This study addresses a capacitated facility location and task allocation problem of a multi-echelon supply chain against risky demands. Two and three-echelon networks are considered to maximize profit. The study represents the problem by a bi-level stochastic programming model. The revised ant algorithm proposed in the study improves the existing ant algorithm by using new design of heuristic desirability and efficient greedy heuristics to solve the problem. A set of computational experiments is reported to not only allow to fine-tune the parameters of the algorithm but also to evaluate its performance for solving the problem proposed. Experiments reveal that the proposed solution algorithm can reach 95–99% of the optimal solution against risky demands while consuming only 1000th of the computational time for large-sized problems as compared to an optimization-based tool.
-
-@highlight This study addresses a capacitated location and allocation problem against uncertain demands.
-@highlight A multi-echelon supply chain of TFT-LCD industry is investigated.
-@highlight The study models the problem by bi-level stochastic programming. This study develops a revised ant algorithm with efficient greedy heuristics to solve the problem.
-@highlight The proposed algorithm reaches 95–99% of the optimal solution while consuming only 1000th of time.

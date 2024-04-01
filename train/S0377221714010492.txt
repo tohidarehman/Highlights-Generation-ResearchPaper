@@ -1,6 +1,0 @@
- In this paper, we propose a new random volatility model, where the volatility has a deterministic term structure modified by a scalar random variable. Closed-form approximation is derived for European option price using higher order Greeks with respect to volatility. We show that the calibration of our model is often more than two orders of magnitude faster than the calibration of commonly used stochastic volatility models, such as the Heston model or Bates model. On 15 different index option data sets, we show that our model achieves accuracy comparable with the aforementioned models, at a much lower computational cost for calibration. Further, our model yields prices for certain exotic options in the same range as these two models. Lastly, the model yields delta and gamma values for options in the same range as the other commonly used models, over most of the data sets considered. Our model has a significant potential for use in high frequency derivative trading.
-
-@highlight We propose a new random volatility model for option pricing.
-@highlight Far easier to calibrate than Heston or Bates model, with a similar pricing accuracy.
-@highlight Yields similar prices for exotic options as Heston or Bates model.
-@highlight Yields similar hedging parameters as Heston or Bates model.

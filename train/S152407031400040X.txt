@@ -1,6 +1,0 @@
- We present algorithms for computing the differential geometry properties of lines of curvature of parametric surfaces. We derive a unit tangent vector, curvature vector, binormal vector, torsion, and algorithms to evaluate their higher-order derivatives of lines of curvature of parametric surfaces. Among these quantities, it is shown that the curvature and its first derivative of the lines of curvature lend a hand for the formation of curved plates in shipbuilding. We also visualize the twist of lines of curvature, which enables us to observe how much the osculating plane of the line of curvature turns about the tangent vector.
-
-@highlight We examine the differential geometry properties of the lines of curvature.
-@highlight We visualize the twist of line of curvature using its Frenet frame.
-@highlight We apply our technique to flatten doubly curved plates used in shipbuilding.
-@highlight We apply our technique to thin plate freeform fabrication.

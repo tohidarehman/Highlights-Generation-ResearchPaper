@@ -1,5 +1,0 @@
- This paper presents the development of a knowledge-based system (KBS) prototype able to design natural gas cogeneration plants, demonstrating new features for this field. The design of such power plants represents a synthesis problem, subject to thermodynamic constraints that include the location and sizing of components. The project was developed in partnership with the major Brazilian gas and oil company, and involved interaction with an external consultant as well as an interdisciplinary team. The paper focuses on validation and lessons learned, concentrating on important aspects such as the generation of alternative configuration schemes, breadth of each scheme description created by the system, and its module to support economic feasibility analysis.
-
-@highlight The paper focuses on validation of a KB system for cogeneration power plant.
-@highlight It concentrates on generation of alternative schemes, and describes each scheme.
-@highlight The system was validated by a consultant and an independent expert.

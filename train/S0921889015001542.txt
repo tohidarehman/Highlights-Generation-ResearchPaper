@@ -1,7 +1,0 @@
- Daily life assistance is one of the most important applications for service robots. For comfortable assistance, service robots must recognize the surrounding conditions correctly, including human motion, the position of objects, and obstacles. However, since the everyday environment is complex and unpredictable, it is almost impossible to sense all of the necessary information using only a robot and sensors attached to it. In order to realize a service robot for daily life assistance, we have been developing an informationally structured environment using distributed sensors embedded in the environment. The present paper introduces a service robot system with an informationally structured environment referred to the ROS–TMS. This system enables the integration of various data from distributed sensors, as well as storage of these data in an on-line database and the planning of the service motion of a robot using real-time information about the surroundings. In addition, we discuss experiments such as detection and fetch-and-give tasks using the developed real environment and robot.
-
-@highlight Introduction of architecture and components of the ROS–TMS.
-@highlight Integration of various data from distributed sensors for service robot system.
-@highlight Object detection system (ODS) using RGB-D camera.
-@highlight Motion planning for a fetch-and-give task using a wagon and a humanoid robot.
-@highlight Handing over an object to a human using manipulability of both a robot and a human.

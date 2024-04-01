@@ -1,7 +1,0 @@
- In this note we first show that the centroid (or centre of gravity) gives in value a -approximation to any continuous single facility minisum location problem for any gauge with asymmetry measure σ, and thus a 2-approximate solution for any norm. On the other hand for any gauge the true minimum point (the 1-median) remains within a bounded set whenever a fixed proportion of less than half of the total weight of the destination points is moved to any other positions. It follows that the distance between the centroid and the 1-median may be arbitrary close to half the diameter of the destination set.
-
-@highlight The Weber problem is considered with an arbitrary gauge to measure distance.
-@highlight The centroid (centre of gravity) is compared to an optimal solution (1-median).
-@highlight It gives a (1+σ)-approximation in value (σ is the gauge’s asymmetry measure).
-@highlight The 1-median has a 0.5 breakdown point.
-@highlight Centroid to 1-median distance can be up to half of the destination set’s diameter.

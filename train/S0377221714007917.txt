@@ -1,7 +1,0 @@
- This article analyzes the complexity of the modular tool switching problem arising in flexible manufacturing environments. A single, numerically controlled placement machine is equipped with an online tool magazine consisting of several changeable tool feeder modules. The modules can hold a number of tools necessary for the jobs. In addition to the online modules, there is a set of offline modules which can be changed to the machine during a job change. A number of jobs are processed by the machine, each job requiring a certain set of tools. Tools between jobs can be switched individually, or by replacing a whole module containing multiple tools. or a whole module, containing multiple tools can be replaced. We consider the complexity of the problem of arranging tools into the modules, so that the work for module and tool loading is minimized. Tools are of uniform size and have unit loading costs. We show that the general problem is NP-hard, and in the case of fixed number of modules and fixed module capacity the problem is solvable in polynomial time.
-
-@highlight This paper introduces the modular tool switching problem.
-@highlight The problem is an extension of the traditional tool switching problem.
-@highlight The property that tools can be swapped individually or in group makes the problem difficult to solve.
-@highlight We show that the MTS problem is NP-hard in the general case.
-@highlight We also show that with a fixed number of online modules and a fixed capacity, the problem can be solved in polynomial time.

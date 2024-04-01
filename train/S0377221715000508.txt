@@ -1,7 +1,0 @@
- In a multi-component system, the assumption of failure independence among components is seldom valid, especially for those complex systems with complicated failure mechanism. For such systems, warranty cost is subject to all the factors including system configuration, quality of each component and the extent of failure dependence among components. In this paper, a model is developed based on renewing free-replacement warranty by considering failure interaction among components. It is assumed that whenever a component (subsystem) fails, it can induce a failure of one or more of the remaining components (subsystems). Cost models for series and parallel system configurations are presented, followed by numerical examples with sensitivity analysis. The results show that, compared with series systems, warranty cost for parallel systems is more sensitive to failure interaction.
-
-@highlight We model warranty cost for multi-component systems.
-@highlight We analyze the impact of failure interaction on warranty cost.
-@highlight For series system, the impact of failure interaction is minor.
-@highlight For parallel system, the impact of failure interaction is significant.
-@highlight Extra resource should be allocated to compensate failure interactions.

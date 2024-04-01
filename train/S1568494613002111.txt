@@ -1,6 +1,0 @@
- Network clustering algorithms are typically based only on the topology information of the network. In this paper, we introduce traffic as a quantity representing the intensity of the relationship among nodes in the network, regardless of their connectivity, and propose an evolutionary clustering algorithm, based on the application of genetic operators and capable of exploiting the traffic information. In a comparative evaluation based on synthetic instances and two real world datasets, we show that our approach outperforms a selection of well established evolutionary and non-evolutionary clustering algorithms.
-
-@highlight We propose a network clustering algorithm, based on the application of genetic operators and capable of exploiting the traffic information.
-@highlight The algorithm can be successfully applied, rather than topology-based algorithms, to uncover relationships and detect communities whenever two nodes have a relationship though not being directly connected.
-@highlight We compare our algorithm to other clustering algorithms, both evolutionary and non evolutionary.
-@highlight Our algorithm outperforms all the other algorithms on all the real world datasets and outperforms all in the case of synthetic traffic matrices, excepting Newman's for the single case of a network of 75 nodes.

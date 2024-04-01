@@ -1,5 +1,0 @@
- In this paper, we realise an early warning system for hedge funds based on specific red flags that help detect the symptoms of impending extreme negative returns and the contagion effect. To do this we use regression tree analysis to identify a series of splitting rules that act as risk signals. The empirical findings presented herein prove that contagion, crowded trades, leverage commonality and liquidity concerns are the leading indicators for predicting worst returns. We not only provide a variable selection among potential predictors, but also assign specific risk thresholds for the selected key indicators at which the vulnerability of hedge funds becomes systemically relevant.
-
-@highlight We estimate dynamic conditional correlations for filtered returns, betas, common factors.
-@highlight We realise an early warning system for hedge funds using regression trees approach.
-@highlight Correlations are the leading indicators for predicting hedge fund worst returns.

@@ -1,9 +1,0 @@
- A mixture of skew- factor analyzers is introduced as well as a family of mixture models based thereon. The particular formulation of the skew- distribution used arises as a special case of the generalized hyperbolic distribution. Like their Gaussian and -distribution analogues, mixtures of skew- factor analyzers are very well-suited for model-based clustering of high-dimensional data. The alternating expectation–conditional maximization algorithm is used for model parameter estimation and the Bayesian information criterion is used for model selection. The models are applied to both real and simulated data, giving superior clustering results when compared to a well-established family of Gaussian mixture models.
-
-@highlight A mixture of skew-
-@highlight factor analyzers is introduced.
-@highlight A family of parsimonious mixtures of skew-
-@highlight factor analyzers is developed.
-@highlight The models are well-suited for clustering high-dimensional data.
-@highlight Mixture components can be asymmetric and/or heavy tailed, as required.
-@highlight The models can also be applied for classification or discriminant analysis.

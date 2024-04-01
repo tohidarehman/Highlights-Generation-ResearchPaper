@@ -1,7 +1,0 @@
- In this paper, a novel discovery scheme using modified counting Bloom filters is proposed for data distribution service (DDS) for real-time distributed system. In a large scale network for combat management system (CMS), a lot of memory is required to store all the information. In addition, high network traffic can become problematic. In many cases, most of the information stored is not needed by the DDS's endpoints but occupy memory storage. To reduce the size of information sent and stored, a discovery process combined with counting Bloom filters is proposed. This paper presents delay time for filters construction and total discovery time needed in DDS's discovery process. Simulation results show that the proposed method gives low delay time and zero false positive probability.
-
-@highlight Modified counting Bloom filters as discovery scheme for data distribution service
-@highlight Combine SDPBloom discovery scheme with Fast Hash-table
-@highlight The proposed method is applied in naval combat system.
-@highlight Focus on discovery delay time and false positive probability
-@highlight The discovery scheme can also be applied in dynamic environment.

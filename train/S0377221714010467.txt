@@ -1,8 +1,0 @@
- Given a graph G and a positive integer K, the inverse chromatic number problem consists in modifying the graph as little as possible so that it admits a chromatic number not greater than K. In this paper, we focus on the inverse chromatic number problem for certain classes of graphs. First, we discuss diverse possible versions and then focus on two application frameworks which motivate this problem in interval and permutation graphs: the inverse booking problem and the inverse track assignment problem. The inverse booking problem is closely related to some previously known scheduling problems; we propose new hardness results and polynomial cases. The inverse track assignment problem motivates our study of the inverse chromatic number problem in permutation graphs; we show how to solve in polynomial time a generalization of the problem with a bounded number of colors.
-
-@highlight highlights
-@highlight We define the inverse chromatic number problem in interval and permutation graphs.
-@highlight We provide some motivating models to illustrate the potential of this new topic.
-@highlight Inverse booking problem is strongly NP-hard and n-approximable.
-@highlight Inverse track assignment problem is polynomially solvable.
-@highlight The computational complexity is investigated for many variants.

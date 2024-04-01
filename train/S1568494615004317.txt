@@ -1,5 +1,0 @@
- The bus vehicle scheduling problem addresses the task of assigning vehicles to cover the trips in a timetable. In this paper, a clonal selection algorithm based vehicle scheduling approach is proposed to quickly generate satisfactory solutions for large-scale bus scheduling problems. Firstly, a set of vehicle blocks (consecutive trips by one bus) is generated based on the maximal wait time between any two adjacent trips. Then a subset of blocks is constructed by the clonal selection algorithm to produce an initial vehicle scheduling solution. Finally, two heuristics adjust the departure times of vehicles to further improve the solution. The proposed approach is evaluated using a real-world vehicle scheduling problem from the bus company of Nanjing, China. Experimental results show that the proposed approach can generate satisfactory scheduling solutions within 1min.
-
-@highlight A clonal selection algorithm based bus vehicle scheduling approach is proposed.
-@highlight A fitness function is devised to evaluate the quality of a scheduling solution.
-@highlight Two heuristics are suggested to improve the quality of the scheduling solution.

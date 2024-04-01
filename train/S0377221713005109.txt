@@ -1,7 +1,0 @@
- This paper presents a new local search approach for solving continuous location problems. The main idea is to exploit the relation between the continuous model and its discrete counterpart. A local search is first conducted in the continuous space until a local optimum is reached. It then switches to a discrete space that represents a discretisation of the continuous model to find an improved solution from there. The process continues switching between the two problem formulations until no further improvement can be found in either. Thus, we may view the procedure as a new adaption of formulation space search. The local search is applied to the multi-source Weber problem where encouraging results are obtained. This local search is also embedded within Variable Neighbourhood Search producing excellent results.
-
-@highlight New local search is proposed.
-@highlight Shifting systematically between two formulation spaces (continuous and discrete) is novel.
-@highlight Incorporation of the new local search within VNS.
-@highlight Very competitive results when tested on the continuous p-median problem.
-@highlight This is a general optimization type approach that can have a massive research impact in the future.

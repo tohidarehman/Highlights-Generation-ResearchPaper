@@ -1,6 +1,0 @@
- Tone mapping algorithms are used for image processing to reduce the dynamic range of an image to be displayed on low dynamic range (LDR) devices. The Retinex, which was developed using multi-scale and luminance-based methods, is one of the tone mapping algorithms for dynamic range compression, color constancy and color rendition. Retinex algorithms still have drawbacks, such as lower contrast and desaturation. This paper proposes a multi-scale luminance adaptation transform (MLAT) based on visual brightness functions for the enhancement of contrast and saturation of rendered images. In addition, the proposed algorithm was used to estimate the minimum and maximum luminance and a visual gamma function for local adapted viewing conditions. MLAT showed enhanced contrast and better color representation than the conventional methods in the objective evaluations (CIEDE200 and VCM).
-
-@highlight Luminance adaptation transform is proposed for dynamic rendering of LDR images.
-@highlight Luminance thresholds is estimated based on visual brightness functions.
-@highlight Luminance adaptive visual gamma enhanced the local contrast.
-@highlight We evaluated and adopt a multi-scale method and various color spaces to optimize it.

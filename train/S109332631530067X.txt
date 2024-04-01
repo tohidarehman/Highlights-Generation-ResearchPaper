@@ -1,6 +1,0 @@
- Humic substances are ubiquitous in the environment and have manifold functions. While their composition is well known, information on the chemical structure and three-dimensional conformation is scarce. Here we describe the Vienna Soil-Organic-Matter Modeler, which is an online tool to generate condensed phase computer models of humic substances (). Many different models can be created that reflect the diversity in composition and conformations of the constituting molecules. To exemplify the modeler, 18 different models are generated based on two experimentally determined compositions, to explicitly study the effect of varying e.g. the amount of water molecules in the models or the pH. Molecular dynamics simulations were performed on the models, which were subsequently analyzed in terms of structure, interactions and dynamics, linking macroscopic observables to the microscopic composition of the systems. We are convinced that this new tool opens the way for a wide range of in silico studies on soil organic matter.
-
-@highlight We developed an online tool to generate models of Soil-Organic-Matter (SOM).
-@highlight Molecular dynamics simulations of SOM models are now possible.
-@highlight Influence of composition on structure, interactions and dynamics is studied.
-@highlight Our work opens the way to new and exciting research in soil sciences.

@@ -1,6 +1,0 @@
- We address in this article the multi-commodity pickup-and-delivery traveling salesman problem, which is a routing problem for a capacitated vehicle that has to serve a set of customers that provide or require certain amounts of m different products. Each customer must be visited exactly once by the vehicle, and it is assumed that a unit of a product collected from a customer can be supplied to any other customer that requires that product. Each product is allowed to have several sources and several destinations. The objective is to minimize the total travel distance. We propose a hybrid three-stage heuristic approach that combines a procedure to generate initial solutions with several local search operators and shaking procedures, one of them based on solving an integer programming model. Extensive computational experiments on randomly generated instances with up to 400 locations and 5 products show the effectiveness of the approach.
-
-@highlight We propose a hybrid heuristic approach for a pickup and delivery routing problem.
-@highlight This problem has applications in the context of inventory repositioning and bike hiring system.
-@highlight It is the first heuristic approach designed for this problem.
-@highlight It can efficiently solve instances with up 400 locations and 5 products.

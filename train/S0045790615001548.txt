@@ -1,7 +1,0 @@
- In this paper, we present two novel interference management stratagems for coexisting one primary user (PU) and multiple secondary users (SUs) by exploiting the unused spatial directions at PU. The cognitive stations sense their environment to determine the users they are interfering with, and adapt to it by designing the corresponding precoders using interference alignment (IA) in order to avoid causing performance degradation to nearby PU and SUs. The first proposed approach judiciously designs the set of precoders based on an improved version of minimum weighted leakage interference algorithm. However, there are still leftover interference signals in SUs’ desired signal space due to the limited iterative times in the first algorithm. To tackle this problem, another scheme combining the first one and power allocation method at the secondary stations is developed. Numerical results validate the effectiveness of the proposed algorithms.
-
-@highlight The cognitive interference alignment feasibility condition is investigated.
-@highlight A new convex optimization problem of the CIA problem is then obtained.
-@highlight An efficient algorithm is then proposed to solve the convex problem based on matrix distance.
-@highlight An improved algorithm considering power allocation is derived.
-@highlight The convergences of our algorithms are analyzed.

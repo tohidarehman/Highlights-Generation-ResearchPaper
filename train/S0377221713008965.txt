@@ -1,5 +1,0 @@
- The recent contribution by Cheng et al.  presents a variant of the traditional radial input- and output-oriented efficiency measures whereby original values are replaced with absolute values. This comment spells out that this article contains some imprecisions and therefore presents some further results.
-
-@highlight Variants of the radial model (VRM) by Cheng et al. (2013) need qualification.
-@highlight These VRM maintain proportionality only under certain conditions.
-@highlight This qualified result is based on an earlier, more general analysis.

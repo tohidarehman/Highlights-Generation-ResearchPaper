@@ -1,5 +1,0 @@
- Covering rough sets are a generalization of Pawlak rough sets, in which a partition of the universal set induced by an equivalence relation is replaced by a covering. In this paper, covering rough sets are transformed into generalized rough sets induced by binary relations. The paper discusses three theoretical topics. First, we consider a special type of covering in which the neighborhoods form a reduction of the covering, and we obtain necessary and sufficient conditions for neighborhoods in a covering form a reduction of the covering. Second, we study another special type of covering, and give conditions for the covering lower and upper approximations to be dual to each other. Finally, we give an axiomatic system that characterizes the lower and upper approximations of rough sets based on a partial order.
-
-@highlight Give conditions for neighborhoods in a covering form a reduction of the covering.
-@highlight Give conditions for covering lower and upper approximations are dual to each other.
-@highlight Axiomatize lower and upper rough approximations based on partial orders.

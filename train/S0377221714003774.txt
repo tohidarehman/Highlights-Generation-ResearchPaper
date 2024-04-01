@@ -1,7 +1,0 @@
- In this paper, an algorithm for the fast computation of network reliability bounds is proposed. The evaluation of the network reliability is an intractable problem for very large networks, and hence approximate solutions based on reliability bounds have assumed importance. The proposed bounds computation algorithm is based on an efficient BDD representation of the reliability graph model and a novel search technique to find important minpaths/mincuts to quickly reduce the gap between the reliability upper and lower bounds. Furthermore, our algorithm allows the control of the gap between the two bounds by controlling the overall execution time. Therefore, a trade-off between prediction accuracy and computational resources can be easily made in our approach. The numerical results are presented for large real example reliability graphs to show the efficacy of our approach.
-
-@highlight An algorithm for the computation of two-terminal network reliability is proposed.
-@highlight The reliability bounds provide an approximate solution for very large networks.
-@highlight Controlling the execution time the gap between the two bounds is controlled.
-@highlight Applied on an airplane electrical network with about 4 trillion minpaths.
-@highlight Used to analyze the Boeing 787 Current Subsystem for the FAA Certification.

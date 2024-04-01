@@ -1,7 +1,0 @@
- In this paper, we propose a single-channel speech enhancement method, based on the combination of the wavelet packet transform and an improved version of the principal component analysis (PCA). Our method integrates ability of PCA to de-correlate the coefficients by extracting a linear relationship with what of wavelet packet analysis to derive feature vectors used for speech enhancement. This allows us to operate with a convenient shrinkage function on these new coefficients, removing the noise without degrading the speech. Then, the enhanced speech obtained by the inverse wavelet packet transform is decomposed into three subspaces: low rank, sparse, and the remainder noise components. Finally, we calculate the components as a segregation problem. The performance evaluation shows that our method provides a higher noise reduction and a lower signal distortion even in highly noisy conditions without introducing artifacts.
-
-@highlight Integrating the principal component analysis in wavelet packet decomposition.
-@highlight Extended PCA technique for speech enhancement is considered.
-@highlight To obtain a sparse matrix to contain the enhanced speech.
-@highlight Experiments on NOIZEUS data corrupted by Gaussian and four non-stationary noises.
-@highlight Our approach shows superior outcomes in BSS EVAL toolbox, SegSNR, PESQ, and Cov.

@@ -1,5 +1,0 @@
- In this paper we consider the problem of optimal allocation of a redundant component for series, parallel and k-out-of-n systems of more than two components, when all the components are dependent. We show that for this problem is naturally to consider multivariate extensions of the joint bivariates stochastic orders. However, these extensions have not been defined or explicitly studied in the literature, except the joint likelihood ratio order,. Therefore we provide first multivariate extensions of the joint stochastic, hazard rate, reversed hazard rate order and next we provide sufficient conditions based on these multivariate extensions to select which component performs the redundancy.
-
-@highlight We consider the problem of allocation of a redundant component for systems with dependent components.
-@highlight We develop multivariate extensions of the bivariate joint stochastic orders as a tool to provide the new results.
-@highlight Extensions of known results in the case of independent components are given for the case of dependent components.

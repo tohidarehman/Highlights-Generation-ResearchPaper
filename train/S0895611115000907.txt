@@ -1,8 +1,0 @@
- Accurate registration of dynamic contrast-enhanced (DCE) MR breast images is challenging due to the temporal variations of image intensity and the non-rigidity of breast motion. The former can cause the well-known tumor shrinking/expanding problem in registration process while the latter complicates the task by requiring an estimation of non-rigid deformation. In this paper, we treat the intensity's temporal variations as “corruptions” which spatially distribute in a sparse pattern and model them with a L 1 norm and a Lorentzian norm. We show that these new image similarity measurements can characterize the non-Gaussian property of the difference between the pre-contrast and post-contrast images and help to resolve the shrinking/expanding problem by forgiving significant image variations. Furthermore, we propose an iteratively re-weighted least squares based method and a linear programming based technique for optimizing the objective functions obtained using these two novel norms. We show that these optimization techniques outperform the traditional gradient-descent approach. Experimental results with sequential DCE-MR images from 28 patients show the superior performances of our algorithms.
-
-@highlight Propose new techniques for robust registration of DCE-MR breast image.
-@highlight Treat the temporal variation of DCE-MR breast images as sparse “corruptions”.
-@highlight Model DCE-MR breast image similarity with a L
-@highlight 1 norm and a Lorentzian.
-@highlight Propose an iteratively reweighted least squares for optimization.
-@highlight Propose a linear programming based technique for optimization.

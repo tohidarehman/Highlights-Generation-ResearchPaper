@@ -1,7 +1,0 @@
- A modified quantized kernel least mean square (M-QKLMS) algorithm is proposed in this paper, which is an improvement of quantized kernel least mean square (QKLMS) and the gradient descent method is used to update the coefficient of filter. Unlike the QKLMS method which only considers the prediction error, the M-QKLMS method uses both the new training data and the prediction error for coefficient adjustment of the closest center in the dictionary. Therefore, the proposed method completely utilizes the knowledge hidden in the new training data, and achieves a better accuracy. In addition, the energy conservation relation and a sufficient condition for mean-square convergence of the proposed method are obtained. Simulations on prediction of chaotic time series show that the M-QKLMS method outperforms the QKLMS method in terms of steady-state mean square errors.
-
-@highlight We propose a new method to predict the chaotic time series.
-@highlight The gradient descent method is used in M-QKLMS to reduce the steady-state MSE.
-@highlight The modified quantization method is incorporated in M-QKLMS to reduce the network size.
-@highlight The energy conservation relation of M-QKLMS in RKHS is derived.
-@highlight A sufficient condition for mean square convergence of M-QKLMS is provided.

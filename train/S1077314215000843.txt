@@ -1,7 +1,0 @@
- In this paper, we introduce an original framework for computing local binary like-patterns on 2D mesh manifolds (i.e., surfaces in the 3D space). This framework, dubbed mesh-LBP, preservers the simplicity and the adaptability of the 2D LBP and has the capacity of handling both open and close mesh surfaces without requiring normalization as compared to its 2D counterpart. We describe the foundations and the construction of mesh-LBP and showcase the different LBP patterns that can be generated on the mesh. In the experimentation, we provide evidence of the uniform patterns in the mesh-LBP, the repeatability of its descriptors, and its robustness to moderate shape deformations. Then, we show how the mesh-LBP descriptors can be adapted to a number of surface local and global analysis including 3D texture classification and retrieval, and 3D face matching. We also compare the performance of the mesh-LBP descriptors with a bunch of state of the art surface descriptors.
-
-@highlight A novel framework for computing local binary patterns on triangular mesh manifolds.
-@highlight Mesh-LBP evidences uniformity and repeatability aspects.
-@highlight Mesh-LBP descriptors can cope with mesh irregularities and global deformations.
-@highlight Mesh-LBP can be deployed in both local and global shape analysis.
-@highlight Experiments on 3D texture classification, retrieval and 3D face recognition.

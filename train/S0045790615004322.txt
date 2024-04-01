@@ -1,7 +1,0 @@
- This paper proposes an alternative for building a data hiding algorithm into digital images. The method is based on chaos theory and the least significant bit technique for embedding a secret message in a image. Specifically the Bernoulli’s chaotic maps are used, to perform the following processes: (i) encrypt the bits of the message before embedding them into the cover image, (ii) a random selection of the image’s compositions (R,G or B) must be performed and the insertion of the secret message in a random way to (iii) rows and (iv) columns of the image. Several experimental results are shown under different evaluation criteria, such as entropy, autocorrelation, homogeneity, contrast, energy, peak signal-to-noise ratio, mean squared error and maximum absolute squared deviation. Experimental results show a good improvement in the peak-signal-to-noise-ratio and Image Fidelity value of the proposed algorithm in comparison to the results obtained from similar algorithms.
-
-@highlight A steganographic method for hiding information is proposed using four Bernoulli’s chaotic maps.
-@highlight It is applied a two-step scheme: Pixel selection and masking of sensitive information.
-@highlight A module function is applied to the chaotic maps considering an iterated process.
-@highlight There is no evidence of periodicity in the sequences produced by the modified Bernoulli’s maps.
-@highlight It is assumed that each map uses two 64-bits variables, and the key space has been estimated in 2508.

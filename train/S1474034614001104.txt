@@ -1,7 +1,0 @@
- A technology roadmap (TRM), an approach that is applied to the development of an emerging technology to meet business goals, is one of the most frequently adopted tools to support the process of technology innovation. Although many studies have dealt with TRMs that are designed primarily for a market-driven technology planning process, a technology-driven TRM is far less researched than a market-driven one. Furthermore, approaches to a technology-driven roadmap using quantitative technological information have rarely been studied. Thus, the aim of this research is to propose a new methodological framework to identify both profitable markets and promising product concepts based on technology information. This study suggests two quality function deployment (QFD) matrices to draw up the TRM in order to find new business opportunities. A case study is presented to illustrate the proposed approach using patents on the solar-lighting devices, which is catching on as a high-tech way to prevent environmental pollution and reduce fuel costs.
-
-@highlight Identifying new product/market opportunities.
-@highlight Developing technology-driven roadmaps.
-@highlight Applications of text mining and quality function deployment for roadmapping.
-@highlight Exploring profitable markets and promising product concepts using technology information.
-@highlight Performing a case study of solar lighting devices to illustrate the proposed approach.

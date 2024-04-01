@@ -1,7 +1,0 @@
- We study a two-person zero-sum game where the payoff matrix entries are random and the constraints are satisfied jointly with a given probability. We prove that for the general random-payoff zero-sum game there exists a “weak duality” between the two formulations, i.e., the optimal value of the minimizing player is an upper bound of the one of the maximizing player. Under certain assumptions, we show that there also exists a “strong duality” where their optimal values are equal. Moreover, we develop two approximation methods to solve the game problem when the payoff matrix entries are independent and normally distributed. Finally, numerical examples are given to illustrate the performances of the proposed approaches.
-
-@highlight We study the stochastic zero-sum game problem with a random payoff matrix.
-@highlight We consider that the constraints are satisfied jointly with a given probability.
-@highlight We prove that “weak duality” exists in the stochastic zero-sum game problem.
-@highlight We prove “strong duality” for these problems under certain assumptions.
-@highlight We propose two approximation methods for solving this stochastic game problem under some assumptions.

@@ -1,7 +1,0 @@
- In this paper, initially, the impact of mask spoofing on face recognition is analyzed. For this purpose, one baseline technique is selected for both 2D and 3D face recognition. Next, novel countermeasures, which are based on the analysis of different shape, texture and reflectance characteristics of real faces and mask faces, are proposed to detect mask spoofing. In this paper, countermeasures are developed using both 2D data (texture images) and 3D data (3D scans) available in the mask database. The results show that each of the proposed countermeasures is successful in detecting mask spoofing, and the fusion of these countermeasures further improves the results compared to using a single countermeasure. Since there is no publicly available mask database, studies on mask spoofing are limited. This paper provides significant results by proposing novel countermeasures to protect face recognition systems against mask spoofing.
-
-@highlight 2D and 3D face recognition systems are vulnerable to mask spoofing.
-@highlight Countermeasures are proposed based on reflectance, texture and depth analysis.
-@highlight Reflectance analysis provides best performance to detect 3D mask attacks.
-@highlight Fusion of countermeasures increases the mask spoofing detection performance.
-@highlight Classification accuracy of 99% (almost perfect) is reached to detect mask attacks.

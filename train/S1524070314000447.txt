@@ -1,6 +1,0 @@
- Minimum enclosing ball algorithms are studied extensively as a tool in approximation and classification of multidimensional data. We present pruning techniques that can accelerate several existing algorithms by continuously removing interior points from the input. By recognizing a key property shared by these algorithms, we derive tighter bounds than have previously been presented, resulting in twice the effect on performance. Furthermore, only minor modifications are required to incorporate the pruning procedure. The presented bounds are independent of the dimension, and empirical evidence shows that the pruning procedure remains effective in dimensions up to at least 200. In some cases, performance improvements of two orders of magnitude are observed for large data sets.
-
-@highlight We develop pruning strategies to accelerate minimum enclosing ball computations.
-@highlight We give improved pruning bounds that are valid in a number of existing algorithms.
-@highlight Using these bounds, we achieve twice the effect compared to earlier approaches.
-@highlight We demonstrate substantial speedups of several state-of-the-art algorithms.

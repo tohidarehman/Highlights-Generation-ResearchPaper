@@ -1,6 +1,0 @@
- This paper presents a new heuristic algorithm for reduct selection based on credible index in the rough set theory (RST) applications. This algorithm is efficient and effective in selecting the decision rules particularly the problem to be solved in a large scale. This algorithm is capable to derive the rules with multi-outcomes and identify the most significant features simultaneously, which is unique and useful in solving predictive medical problems. The end results of the proposed approach are a set of decision rules that illustrates the causes for solitary pulmonary nodule and results of the long term treatment.
-
-@highlight Discover certain regularities at the primitive concept level.
-@highlight Improve the efficiency of the discovery process and express the user's preference.
-@highlight Develop high quality attribute-oriented and rule-based models.
-@highlight Find the causes for solitary pulmonary nodule and results of the long term treatment.

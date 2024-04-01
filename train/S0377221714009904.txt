@@ -1,6 +1,0 @@
- The time required to board an airplane directly influences an airplane’s turn-around time, i.e., the time that the airplane requires at the gate between two flights. Thus, the turn-around time can be reduced by using efficient boarding methods and such actions may also result in cost savings. The main contribution of this paper is fourfold. First, we provide a general problem description including partly established and partly new definitions of relevant terms. Next, we survey boarding methods known from theory and practice and provide an according classification scheme. Third, we present a broad overview on the current literature in this field and we describe 12 most relevant papers in detail and juxtapose their results. Fourth, we summarize the state-of-the-art of research in this field showing e.g., that the commonly used strategy back-to-front generally requires more time than other easy to implement strategies such as random boarding. Further concepts and approaches that can help speed up the boarding process are also presented and these can be studied in future research.
-
-@highlight We provide a problem description of the airplane boarding problem.
-@highlight We survey boarding methods.
-@highlight We conduct a literature review.
-@highlight We summarize the state-of-the-art of research in this field.

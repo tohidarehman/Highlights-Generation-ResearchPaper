@@ -1,7 +1,0 @@
- The automatic detection of temporal relations between events in electronic medical records has the potential to greatly augment the value of such records for understanding disease progression and patients’ responses to treatments. We present a three-step methodology for labeling temporal relations using machine learning and deterministic rules over an annotated corpus provided by the 2012 i2b2 Shared Challenge. We first create an expanded training network of relations by computing the transitive closure over the annotated data; we then apply hand-written rules and machine learning with a feature set that casts a wide net across potentially relevant lexical and syntactic information; finally, we employ a voting mechanism to resolve global contradictions between the local predictions made by the learned classifier. Results over the testing data illustrate the contributions of initial prediction and conflict resolution.
-
-@highlight We have employed a hybrid approach (machine learning+manual rules).
-@highlight Simple rules are effective for between-sentence TLINK detection.
-@highlight Machine learning is used for within-sentence TLINK detection.
-@highlight Ablation study results are provided for the feature sets examined.
-@highlight Within-sentence conflict resolution shows limited but positive result.

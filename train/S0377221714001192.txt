@@ -1,6 +1,0 @@
- Batching plays an important role in performance evaluation of manufacturing systems. Three types of batching are commonly seen: transfer batches, parallel batches and serial batches. To model the batching behavior correctly, a comprehensive classification of batching is proposed. Eight types of batching behavior are classified and corresponding queueing models are given. The newly proposed models are validated by simulation.
-
-@highlight We give comprehensive classifications for batch queueing models in manufacturing systems.
-@highlight Eight types of batch models have been identified.
-@highlight We propose new batch queue models based on the classification.
-@highlight The newly proposed models give reliable evaluation of system performance in heavy traffic.

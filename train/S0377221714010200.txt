@@ -1,7 +1,0 @@
- In this paper, we investigate a new variant of the vehicle routing problem (VRP), termed the multi-period vehicle routing problem with time windows and limited visiting quota (MVRPTW-LVQ), which requires that any customer can be served by at most a certain number of different vehicles over the planning horizon. We first formulate this problem as a mixed integer programming model and then devise a three-stage heuristic approach to solve the problem. Extensive computational experiments demonstrate the effectiveness of our approach. Moreover, we empirically analyze the impacts of varying the levels of service consistency and demand fluctuation on the operational cost. The analysis results show that when demand fluctuation is relatively small compared to vehicle capacity, enforcing consistent service can increase customer satisfaction with only a slight increase in the operational cost. However, when a vehicle can only serve a small number of customers due to its capacity limit, relaxing the service consistency requirement by increasing the value of the visiting quota could be considered.
-
-@highlight Investigated the multi-period VRP with time windows and limited visited quota constraints.
-@highlight Designed a customized meta-heuristic to solve the problem.
-@highlight Experimental results show that our approach outperforms the existing algorithm.
-@highlight Analyzed the tradeoff between the service consistency and the demand fluctuation.
-@highlight Provided managerial insights for the industry.

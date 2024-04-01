@@ -1,6 +1,0 @@
- In this paper, a new data hiding method is proposed based on secret sharing scheme with the DNA exclusive or (DNA-XOR) operator for color images. The DNA-XOR secret sharing scheme uses a DNA-XOR truth table. Each input value of truth table is evaluated and according to that evaluation, highest PSNR (Peak Signal-to-Noise Ratio) value is selected for secret sharing. These selected values are embedded into cover image. Cover image is used as an encryption key in the proposed secret sharing process. In this study, the hidden data are divided into three secret shares and embedded into the red, green and blue channels of a cover image respectively. In here, the DNA-XOR operator has been firstly used as secret sharing operator in data hiding literature. Our proposed data hiding method was compared with previous methods. The comparison of these methods shows that our proposed method gives the most successful result.
-
-@highlight We present a new probabilistic secret sharing scheme by using the DNA-XOR (n,
-@highlight n).
-@highlight We suggest a new reversible data hiding algorithm based on the probabilistic secret sharing scheme for color images.
-@highlight We create an optimum data hiding algorithm by using the DNA-XOR secret sharing scheme.

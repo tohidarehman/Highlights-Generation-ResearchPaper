@@ -1,5 +1,0 @@
- Online review mining has been used to help manufacturers and service providers improve their products and services, and to provide valuable support for consumer decision making. Product aspect extraction is fundamental to online review mining. This research is aimed to improve the performance of aspect extraction from online consumer reviews. To this end, we augment a frequency-based extraction method with PMI-IR, which utilizes web search in measuring the semantic similarity between aspect candidates and target entities. In addition, we extend RCut, an algorithm originally developed for text classification, to learn the threshold for selecting candidate aspects. Experiment results with Chinese online reviews show that our proposed method not only outperforms the state of the art frequency-based method for aspect extraction but also generalizes across different product domains and various data sizes.
-
-@highlight Augment frequency-based aspect extraction with web-based similarity measure.
-@highlight Improve the efficiency of aspect extraction methods that use PMI-IR measures.
-@highlight Demonstrate the generality of the proposed method across various products.

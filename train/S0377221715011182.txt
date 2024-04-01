@@ -1,6 +1,0 @@
- We use developments in full-information optimal stopping to decide kidney-offer admissibility depending on the patient’s age in treatment, on his/her estimated lifetime probabilistic profile and his/her prospects on the waiting list. We allow for a broad family of lifetime distributions – the Gamma – thus enabling flexible modeling of patients survival under dialysis. We fully automate an appropriate recursive solution in a spreadsheet application. It yields the optimal critical times for acceptance of offers of different qualities, and the ensuing expected value-to-go as a function of time. The model may serve both the organizer of a donation program for planning purposes, and the particular surgeon in making the critical decision at the proper time. It may further serve the potential individual recipient, practicing present-day patient-choice. Numerical results and their discussion are included.
-
-@highlight We provide a flexible model for the kidney allocation problem.
-@highlight The optimal policy changes dramatically between patients.
-@highlight The model can serves both patient and the decision maker.
-@highlight An easy software tool is available.

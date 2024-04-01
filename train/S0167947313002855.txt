@@ -1,7 +1,0 @@
- For constructing simultaneous confidence intervals for the ratios of means of several lognormal distributions, we propose a new parametric bootstrap method, which is different from an inaccurate parametric bootstrap method previously considered in the literature. Our proposed method is conceptually simpler than other proposed methods, which are based on the concepts of generalized pivotal quantities and fiducial generalized pivotal quantities. Also, our extensive simulation results indicate that our proposed method consistently performs better than other methods: its coverage probability is close to the nominal confidence level and the resulting intervals are typically shorter than the intervals produced by other methods.
-
-@highlight We present parametric bootstrap (PB) simultaneous confidence intervals.
-@highlight Our PB procedure is different from a previous PB procedure which performs poorly.
-@highlight Using simulation, we compare the PB procedure with three other procedures.
-@highlight The coverage probability of the PB method is close to the nominal confidence level.
-@highlight The PB procedure consistently outperforms other procedures.

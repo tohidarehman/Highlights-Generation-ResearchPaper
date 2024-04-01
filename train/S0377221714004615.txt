@@ -1,7 +1,0 @@
- Recent press has highlighted the environmental benefits associated with online shopping, such as emissions savings from individual drivers, economies of scale in package delivery, and decreased inventories. We formulate a dual channel model for a retailer who has access to both online and traditional market outlets to analyze the impact of customer environmental sensitivity on its supply. In particular, we analyze stocking decisions for each channel incorporating price dependent demand, customer preference/utility for online channels, and channel related costs. We compare and contrast results from both deterministic and stochastic models, and utilize numerical examples to illustrate the implications of industry specific factors on these decisions. Finally, we compare and contrast the findings for disparate industries, such as electronics, books and groceries.
-
-@highlight We present a dual channel model for a retailer with online and traditional markets.
-@highlight We study the impact of environmental issues on retailer channel choice.
-@highlight We compare the outcome from both deterministic and stochastic models.
-@highlight We analyze stocking decisions for each channel.
-@highlight We contrast the results for industries such as electronics, books and groceries.

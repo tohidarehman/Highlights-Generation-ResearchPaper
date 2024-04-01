@@ -1,6 +1,0 @@
- The Spectral Radiance Piecewise Partition Model (SRPPM) is a new model for characterizing Liquid Crystal Displays (LCD). According to the additive property of the spectral radiances of the primary displayed color, the SRPPM model can be divided into three subspace partitions to calculate the transfer coefficient matrixes with cubic polynomial, which based on the relationship between the digital input of the LCD and the spectral radiance of displayed color. The color difference was used to evaluate the accuracy of this model. Comparing with other characterization models for LCD, the experimental results show that the average color difference of SRPPM is 0.82ΔE 76, and 80% of the color differences between color samples are less than 1ΔE 76.
-
-@highlight The SRPPM presents a three piecewise partition characterization model for LCD with the display spectral radiance.
-@highlight The characterization is simplified by the cubic polynomial algorithm.
-@highlight The number of color samples for display characterization is reduced by using SRPPM.
-@highlight The experimental results show the good performance of the SRPPM.

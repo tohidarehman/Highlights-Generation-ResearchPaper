@@ -1,7 +1,0 @@
- We present an algorithm based on an ant colony system to deal with a broad range of Dynamic Capacitated Vehicle Routing Problems with Time Windows, (partial) Split Delivery and Heterogeneous fleets (DVRPTWSD). We address the important case of responsiveness. Responsiveness is defined here as completing a delivery as soon as possible, within the time window, such that the client or the vehicle may restart its activities. We develop an interactive solution to allow dispatchers to take new information into account in real-time. The algorithm and its parametrization were tested on real and artificial instances. We first illustrate our approach with a problem submitted by Liege Airport, the 8th biggest cargo airport in Europe. The goal is to develop a decision system to optimize the journey of the refueling trucks. We then consider some classical VRP benchmarks with extensions to the responsiveness context.
-
-@highlight We propose a decision system based on ACS for solving rich vehicle routing problems.
-@highlight Time windows, dynamic, split delivery, heterogeneous fleet constraints are handled.
-@highlight Responsiveness, defined as completing each service as soon as possible, is optimized.
-@highlight The method is illustrated with a real Airport application and using benchmarks.
-@highlight Distance minimization is not equivalent to responsiveness optimization.

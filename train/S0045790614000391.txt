@@ -1,6 +1,0 @@
- In cognitive radio networks, it is well known that the cooperative spectrum sensing can overcome damaging effects of fading and shadowing. However, it also increases the amount of energy consumption which is a critical factor in low powered wireless communications. In this paper based on bi-threshold energy detection, we maximize the network throughput such that the energy consumption is below a predefined value and also sufficient protection of primary users against interference is guaranteed. Convex optimization analysis is presented to jointly obtain the optimal values of sensing time and detection thresholds. Simulation results show that the proposed method is very flexible such that a good tradeoff between achievable throughput and energy efficiency can be established, while it often outperforms the conventional sensing method significantly.
-
-@highlight A bi-threshold cooperative spectrum sensing method for energy efficiency and throughput enhancement is proposed.
-@highlight We present a convex optimization analysis.
-@highlight The method shows a good tradeoff between energy consumption and throughput.
-@highlight Both energy efficiency and throughput can be improved, for a wide range of SNRs.

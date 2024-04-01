@@ -1,7 +1,0 @@
- We introduce a parallel machine scheduling problem in which the processing times of jobs are not given in advance but are determined by a system of linear constraints. The objective is to minimize the makespan, i.e., the maximum job completion time among all feasible choices. This novel problem is motivated by various real-world application scenarios. We discuss the computational complexity and algorithms for various settings of this problem. In particular, we show that if there is only one machine with an arbitrary number of linear constraints, or there is an arbitrary number of machines with no more than two linear constraints, or both the number of machines and the number of linear constraints are fixed constants, then the problem is polynomial-time solvable via solving a series of linear programming problems. If both the number of machines and the number of constraints are inputs of the problem instance, then the problem is NP-Hard. We further propose several approximation algorithms for the latter case.
-
-@highlight We study scheduling problems where the processing times are also decision variables.
-@highlight We consider the case where the processing times must satisfy some linear constraints.
-@highlight We investigate the computational complexity of such problems under various settings.
-@highlight We propose algorithms/approximation algorithms for such problems.
-@highlight This seemingly harder problem could be easier than the NP-Hard scheduling problem.

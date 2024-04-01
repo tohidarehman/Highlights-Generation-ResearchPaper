@@ -1,6 +1,0 @@
- This paper introduces a two-phase approach to solve average cost Markov decision processes, which is based on state space embedding or time aggregation. In the first phase, time aggregation is applied for policy optimization in a prescribed subset of the state space, and a novel result is applied to expand the evaluation to the whole state space. This evaluation is then used in the second phase in a policy improvement step, and the two phases are then alternated until convergence is attained. Some numerical experiments illustrate the results.
-
-@highlight We introduce a two-phase time aggregation algorithm for MDPs.
-@highlight The algorithm enables policy improvement outside of the time aggregated MDP domain.
-@highlight The two phases enable optimization over the entire state space.
-@highlight Improved approximate solutions can be obtained by employing the proposed approach.

@@ -1,5 +1,0 @@
- Better understanding of the anatomical variability of the human cochlear is important for the design and function of Cochlear Implants. Proper non-rigid alignment of high-resolution cochlear μCT data is a challenge for the typical cubic B-spline registration model. In this paper we study one way of incorporating skeleton-based similarity as an anatomical registration prior. We extract a centerline skeleton of the cochlear spiral, and generate corresponding parametric pseudo-landmarks between samples. These correspondences are included in the cost function of a typical cubic B-spline registration model to provide a more global guidance of the alignment. The resulting registrations are evaluated using different metrics for accuracy and model behavior, and compared to the results of a registration without the prior.
-
-@highlight We create simple parametric centerline descriptions for human μCT cochlears.
-@highlight We regularize intensity-based image registration with centerline correspondences.
-@highlight We show that a skeleton can act as an useful global anatomical registration prior.

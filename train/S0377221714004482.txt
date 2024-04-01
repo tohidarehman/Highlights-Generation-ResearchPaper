@@ -1,7 +1,0 @@
- The multiple-choice multidimensional knapsack problem (MMKP) is a well-known NP-hard combinatorial optimization problem with a number of important applications. In this paper, we present a “reduce and solve” heuristic approach which combines problem reduction techniques with an Integer Linear Programming (ILP) solver (CPLEX). The key ingredient of the proposed approach is a set of group fixing and variable fixing rules. These fixing rules rely mainly on information from the linear relaxation of the given problem and aim to generate reduced critical subproblem to be solved by the ILP solver. Additional strategies are used to explore the space of the reduced problems. Extensive experimental studies over two sets of 37 MMKP benchmark instances in the literature show that our approach competes favorably with the most recent state-of-the-art algorithms. In particular, for the set of 27 conventional benchmarks, the proposed approach finds an improved best lower bound for 11 instances and as a by-product improves all the previous best upper bounds. For the 10 additional instances with irregular structures, the method improves 7 best known results.
-
-@highlight The MMKP is a difficult combinatorial optimization problem.
-@highlight We use information from linear relaxation to fix some groups and variables.
-@highlight We use an ILP solver (CPLEX) to solve the reduced problem.
-@highlight We use additional strategies to explore the space of the reduced problems.
-@highlight We find improved best lower bounds for 18 out of the 37 benchmark instances.

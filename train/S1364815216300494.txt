@@ -1,7 +1,0 @@
- It is crucial to identify sources of impacts and degradation to maintain functions and services that the physical structure of coral reef provides. Here, a Bayesian Network approach is used to evaluate effects that anthropogenic and climate change disturbances have on coral reef structure. The network was constructed on knowledge derived from the literature and elicited from experts, and parameterised on independent data. Evaluation of the model was conducted through sensitivity analyses and data integration was fundamental to obtain a balanced dataset. Scenario analyses, conducted to assess the effects of stressors on the reef framework state, suggested that calcifying organisms and carbonate production, rather than bioerosion, had the largest influence on the reef carbonate budgetary state. Despite the overall budget remaining positive, anthropogenic pressures, particularly deterioration of water quality, affected reef carbonate production, representing a warning signal for potential changes in the reef state.
-
-@highlight Anthropogenic/climatic disturbances and coral reef data were integrated in a Bayesian Network.
-@highlight Network structure was assessed through a participatory approach.
-@highlight Correctly classified instances and sensitivity analyses were used to validate the model.
-@highlight Data integration improved data quality and model response.
-@highlight Bio-constructor organisms and water quality were decisive for reef budgetary state.

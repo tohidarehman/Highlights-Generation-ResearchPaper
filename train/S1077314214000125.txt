@@ -1,7 +1,0 @@
- In this paper we present ideas from computational topology, applicable in analysis of point cloud data. In particular, the point cloud can represent a feature space of a collection of objects such as images or text documents. Computing persistent homology reveals the global structure of similarities between the data. Furthermore, we argue that it is essential to incorporate higher-degree relationships between objects. Finally, we show that new computational topology algorithms expose much better practical performance compared to standard techniques.
-
-@highlight Algorithms in Computational topology.
-@highlight Topological analysis of feature spaces using persistent homology.
-@highlight Application in text-mining: texts represented within a vector space model.
-@highlight Application in pattern-recognition: topology of labeled images.
-@highlight Multidimensional extensions of similarity measures.

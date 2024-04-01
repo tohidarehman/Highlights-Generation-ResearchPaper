@@ -1,5 +1,0 @@
- The performance of a genetic algorithm is compared with that of particle swarm optimization for the constrained, non-linear, simulation-based optimization of a double flash geothermal power plant. Particle swarm optimization converges to better (higher) objective function values. The genetic algorithm is shown to converge more quickly and more tightly, resulting in a loss of solution diversity. Particle swarm optimization obtains solutions within 0.1% and 0.5% of the best known optimum in significantly fewer objective function evaluations than the genetic algorithm.
-
-@highlight Genetic algorithm compared to particle swarm for optimization of a geothermal power plant.
-@highlight PSO achieves better specific work output across a range of algorithm control parameters.
-@highlight PSO converges to optimum solution with lower computation cost.

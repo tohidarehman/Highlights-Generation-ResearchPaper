@@ -1,7 +1,0 @@
- In this study, biobjective mixed 0–1 integer linear programming problems are considered and two heuristic approaches are presented to find the Pareto frontier of these problems. The first heuristic is a variant of the variable neighborhood search and explores the k-neighbors of a feasible solution (in terms of binary variables) to find the extreme supported Pareto points. The second heuristic is adapted from the local branching method, which is well-known in single objective mixed 0–1 integer linear programming. Finally, an algorithm is proposed to find Pareto segments of outcome line segments of these heuristics. A computational analysis is performed by using some test problems from the literature and the results are presented.
-
-@highlight Biobjective mixed 0–1 integer linear programming problems are considered.
-@highlight A variable neighborhood search based heuristic is presented.
-@highlight A local branching based heuristic is presented.
-@highlight An algorithm is presented to find Pareto line segments.
-@highlight Several experiments are conducted and results are presented.

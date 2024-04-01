@@ -1,6 +1,0 @@
- In this paper we consider nonlinear integer optimization problems. Nonlinear integer programming has mainly been studied for special classes, such as convex and concave objective functions and polyhedral constraints. In this paper we follow an other approach which is not based on convexity or concavity. Studying geometric properties of the level sets and the feasible region, we identify cases in which an integer minimizer of a nonlinear program can be found by rounding (up or down) the coordinates of a solution to its continuous relaxation. We call this property rounding property. If it is satisfied, it enables us (for fixed dimension) to solve an integer programming problem in the same time complexity as its continuous relaxation. We also investigate the strong rounding property which allows rounding a solution to the continuous relaxation to the next integer solution and in turn yields that the integer version can be solved in the same time complexity as its continuous relaxation for arbitrary dimensions.
-
-@highlight Approach to nonlinear IPs which is not based on convexity or continuity.
-@highlight Study of the geometric properties of the level sets and the feasible region.
-@highlight Special cases where rounding a continuous minimizer leads to an optimal solution.
-@highlight In those cases we gain an efficient algorithm for solving nonlinear IPs.

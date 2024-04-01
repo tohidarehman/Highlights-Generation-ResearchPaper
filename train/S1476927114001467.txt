@@ -1,7 +1,0 @@
- Protein structure prediction is a fundamental issue in the field of computational molecular biology. In this paper, the AB off-lattice model is adopted to transform the original protein structure prediction scheme into a numerical optimization problem. We present a balance-evolution artificial bee colony (BE-ABC) algorithm to address the problem, with the aim of finding the structure for a given protein sequence with the minimal free-energy value. This is achieved through the use of convergence information during the optimization process to adaptively manipulate the search intensity. Besides that, an overall degradation procedure is introduced as part of the BE-ABC algorithm to prevent premature convergence. Comprehensive simulation experiments based on the well-known artificial Fibonacci sequence set and several real sequences from the database of Protein Data Bank have been carried out to compare the performance of BE-ABC against other algorithms. Our numerical results show that the BE-ABC algorithm is able to outperform many state-of-the-art approaches and can be effectively employed for protein structure optimization.
-
-@highlight We propose a novel BE-ABC algorithm for protein structure optimization.
-@highlight The algorithm uses convergence information to manipulate its search intensity.
-@highlight An overall degradation procedure is introduced as a self-adaptive measure.
-@highlight Both artificial (Fibonacci) and real amino-acid sequences are optimized.
-@highlight Results obtained by BE-ABC are the best in the majority of the cases tested.

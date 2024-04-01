@@ -1,6 +1,0 @@
- This paper proposes a new algorithm to solve nonsmooth multiobjective programming. The algorithm is a descent direction method to obtain the critical point (a necessary condition for Pareto optimality). We analyze both global and local convergence results under some assumptions. Numerical tests are also given.
-
-@highlight A nonsmooth quasi-Newton algorithm is proposed for solving nonsmooth multiple objective programming.
-@highlight A tractable subproblem is solved to obtain the descent direction.
-@highlight The global and local convergence results for the new algorithm are presented under reasonable assumptions.
-@highlight The efficiency of the new algorithm is shown by a numerical example.

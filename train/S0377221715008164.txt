@@ -1,7 +1,0 @@
- This paper provides a novel and general framework for the problem of searching parameter space in Monte Carlo simulations. We propose a deterministic online algorithm and a randomized online algorithm to search for suitable parameter values for derivative pricing which are needed to achieve desired precisions. We also give the competitive ratios of the two algorithms and prove the optimality of the algorithms. Experimental results on the performance of the algorithms are presented and analyzed as well.
-
-@highlight We provide a general framework for searching parameter space in Monte Carlo simulation.
-@highlight We provide two online algorithms to search for suitable parameter values in simulation for pricing.
-@highlight This paper gives the competitive ratios of the two algorithms.
-@highlight We prove the optimality of the algorithms.
-@highlight Experimental results on the performance of the algorithms are presented and analyzed.

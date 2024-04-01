@@ -1,7 +1,0 @@
- The present work is dedicated to the detection of Lagrangian Coherent Structures (LCSs) in viscous flows through the Finite-Time Lyapunov Exponents (FTLEs) which have been addressed by several works in the recent literature. Here, a novel numerical technique is presented in the context of the Smoothed Particle Hydrodynamics (SPH) models. Thanks to the Lagrangian character of SPH, the trajectory of each fluid particle is explicitly tracked over the whole simulation. This allows for a direct evaluation of the FTLE field supplying a new way for the data analysis of complex flows. The evaluation of FTLE can be either implemented as a post-processing or nested into the SPH scheme conveniently. In the numerical results, three test-cases are presented giving a proof of concept for different conditions. The last test-case regards a naval engineering problem for which the present algorithm is successfully used to capture the submerged vortical tunnels caused by the splashing bow wave.
-
-@highlight Algorithms for the detection of Lagrangian Coherent Structures (LCSs) are presented.
-@highlight Formulae for the Finite-Time Lyapunov Exponent (FTLE) are derived for SPH models.
-@highlight The FTLE dependence on the use of enhanced SPH models is discussed.
-@highlight Post-processing and nested in time implementations are discussed.
-@highlight Some test-cases are considered giving a proof of concept for different conditions.

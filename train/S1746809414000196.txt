@@ -1,6 +1,0 @@
- Detection of early-stage liver diseases is a challenge in medical field. Automated diagnostics based on machine learning therefore could be very important for liver tests of patients. This paper investigates 225 liver function test records (each record include 14 features), which is a subset from 1000 patients’ liver function test records that include the records of 25 patients with liver disease from a community hospital. We combine support vector data description (SVDD) with data visualisation techniques and the glowworm swarm optimisation (GSO) algorithm to improve diagnostic accuracy. The results show that the proposed method can achieve 96% sensitivity, 86.28% specificity, and 84.28% accuracy. The new method is thus well-suited for diagnosing early liver disease.
-
-@highlight An automated diagnostic method for early-stage liver disease in the general population was proposed.
-@highlight A principal model which combined support vector data description (SVDD) with data visualisation techniques is established to improve diagnostic accuracy.
-@highlight We solve the classification problem in which the normal samples greatly outnumber the abnormal ones for dataset from the general population.
-@highlight A visualisation based on dimensionality reduction is also provided in the medical field.

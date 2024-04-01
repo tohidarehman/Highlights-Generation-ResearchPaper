@@ -1,5 +1,0 @@
- Because of cost and time limit factors, the number of samples is usually small in the early stages of manufacturing systems, and the scarcity of actual data will cause problems in decision-making. In order to solve this problem, this paper constructs a counter-intuitive hypothesis testing method by choosing the maximal p-value based on a two-parameter Weibull distribution to enhance the estimate of a nonlinear and asymmetrical shape of product lifetime distribution. Further, we systematically generate virtual data to extend the small data set to improve learning robustness of product lifetime performance. This study provides simulated data sets and two practical examples to demonstrate that the proposed method is a more appropriate technique to increase estimation accuracy of product lifetime for normal or non-normal data with small sample sizes.
-
-@highlight In this paper, we develop the counter-intuitive hypothesis testing method to find a reliable shape of a lifetime distribution.
-@highlight Small sample set.
-@highlight Virtual sample generation.

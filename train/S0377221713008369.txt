@@ -1,6 +1,0 @@
- This paper introduces a blocking model and closed-form expression of two workers traveling with walk speed m (m integer) in a no-passing circular-passage system of n stations and assuming n +2, 2m +2,…. We develop a Discrete-Timed Markov Chain (DTMC) model to capture the workers’ changes of walk, pick, and blocked states, and quantify the throughput loss from blocking congestion by deriving a steady state probability in a closed-form expression. We validate the model with a simulation study. Additional simulation comparisons show that the proposed throughput model gives a good approximation of a general-sized system of n stations (i.e., n >2), a practical walk speed system of real number m (i.e., m ⩾1), and a bucket brigade order picking application.
-
-@highlight Construct a blocking model traveling with walk speed m in a circular-aisle warehouse.
-@highlight Derive a closed-form expression of two-worker blocking congestion.
-@highlight Estimate the blocking congestion in a practical walk speed system.
-@highlight Demonstrate the applicability to a bucket-brigade order picking situation.

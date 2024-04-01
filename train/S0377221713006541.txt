@@ -1,7 +1,0 @@
- This paper defines and analyzes a generalization of the classical minimum vertex cover problem to the case of two-layer interdependent networks with cascading node failures that can be caused by two common types of interdependence. Previous studies on interdependent networks mainly addressed the issues of cascading failures from a numerical simulations perspective, whereas this paper proposes an exact optimization-based approach for identifying a minimum-cardinality set of nodes, whose deletion would effectively disable both network layers through cascading failure mechanisms. We analyze the computational complexity and linear 0–1 formulations of the defined problems, as well as prove an LP approximation ratio result that generalizes the well-known 2-approximation for the classical minimum vertex cover problem. In addition, we introduce the concept of a “depth of cascade” (i.e., the maximum possible length of a sequence of cascading failures for a given interdependent network) and show that for any problem instance this parameter can be explicitly derived via a polynomial-time procedure.
-
-@highlight Minimum vertex cover problem is extended to the framework of interdependent networks.
-@highlight Cascading failure mechanisms in coupled interdependent networks are considered.
-@highlight NP-completeness of all introduced problems is shown.
-@highlight Linear 0–1 formulations are developed; generalized LP approximation ratio is derived.
-@highlight The concept of “depth of cascade” is proposed and analyzed.

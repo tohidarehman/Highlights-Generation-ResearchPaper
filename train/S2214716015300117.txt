@@ -1,7 +1,0 @@
- In Operational Research practice there are almost always alternative paths that can be followed in the modeling and problem solving process. Path dependence refers to the impact of the path on the outcome of the process. The steps of the path include, e.g. forming the problem solving team, the framing and structuring of the problem, the choice of model, the order in which the different parts of the model are specified and solved, and the way in which data or preferences are collected. We identify and discuss seven possibly interacting origins or drivers of path dependence: systemic origins, learning, procedure, behavior, motivation, uncertainty, and external environment. We provide several ideas on how to cope with path dependence.
-
-@highlight The results of modeling process can depend on the problem solving path.
-@highlight Awareness of the possibility of path dependence is important in OR.
-@highlight The drivers are: system, learning, procedure, behavior, motivation, uncertainty and context.
-@highlight Sociopsychological dynamics create a system in participative problem solving.
-@highlight Ways to cope with path dependence are discussed.

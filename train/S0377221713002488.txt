@@ -1,6 +1,0 @@
- In this paper we develop a supply contract for a two-echelon manufacturer–retailer supply chain with a bidirectional option, which may be exercised as either a call option or a put option. Under the bidirectional option contract, we derive closed-form expressions for the retailer’s optimal order strategies, including the initial order strategy and the option purchasing strategy, with a general demand distribution. We also analytically examine the feedback effects of the bidirectional option on the retailer’s initial order strategy. In addition, taking a chain-wide perspective, we explore how the bidirectional option contract should be set to attain supply chain coordination.
-
-@highlight We model the supply chain that deals with products having high demand uncertainty.
-@highlight We characterize the optimal order strategies with bidirectional options provision.
-@highlight We examine the feedback effects that come from bidirectional options provision.
-@highlight We develop the bidirectional option contracts to coordinate the supply chain.

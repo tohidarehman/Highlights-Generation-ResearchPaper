@@ -1,6 +1,0 @@
- Learning to rank has received great attentions in the field of text retrieval for several years. However, a few researchers introduce the topic into visual reranking due to the special nature of image presentation. In this paper, a novel unsupervised visual reranking is proposed, termed rank via the convolutional neural networks (RankCNN). This approach integrates deep learning with pseudo preference feedback. The optimal set of pseudo preference pairs is first detected from initial list by a modified graph-based method. Ranking is then reduced to pairwise classification in the architecture of CNN. In addition, Accelerated Mini-Batch Stochastic Dual Coordinate Ascent (ASDCA) is introduced to the framework to accelerate the training. The experiments indicate the competitive performance on the LETOR 4.0, the Paris and the Francelandmark dataset.
-
-@highlight Our approach integrates deep learning with pseudo preference feedback to rerank the initial list.
-@highlight The optimal set of pseudo preference pairs is detected by a modified graph-based method.
-@highlight Ranking is then reduced to unsupervised pairwise classification in the architecture of CNN.
-@highlight Accelerated Mini-Batch Stochastic Dual Coordinate Ascent (ASDCA) is introduced to the framework to accelerate the training.

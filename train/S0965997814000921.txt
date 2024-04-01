@@ -1,7 +1,0 @@
- A generalized formulation to design Multi-Input–Multi-Output (MIMO) compliant mechanisms is presented in this work. This formulation also covers the simplified cases of the design of Multi-Input and Multi-Output compliant mechanisms, more commonly used in the literature. A Sequential Element Rejection and Admission (SERA) method is used to obtain the optimum design that converts one or more input works into one or more output displacements in predefined directions. The SERA procedure allows material to flow between two different material models: ‘real’ and ‘virtual’. The method works with two separate criteria for the rejection and admission of elements to efficiently achieve the optimum design. Examples of Multi-Input, Multi-Output and MIMO compliant mechanisms are presented to demonstrate the validity of the proposed procedure to design complex complaint mechanisms.
-
-@highlight A generalized formulation to design Multi-Input–Multi-Output compliant mechanisms.
-@highlight The formulation covers the simplified cases of multiple inputs or multiple outputs.
-@highlight The SERA method employed considers two material models: ‘real’ and ‘virtual’.
-@highlight Separate criteria to add and remove material allows to achieve the optimum topology.
-@highlight Numerous examples prove the validity of the proposed formulation.

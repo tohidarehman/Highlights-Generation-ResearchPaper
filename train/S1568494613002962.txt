@@ -1,6 +1,0 @@
- In this paper, we investigate to use the L1/2 regularization method for variable selection based on the Cox's proportional hazards model. The L1/2 regularization can be taken as a representative of L (0< <1) regularizations and has been demonstrated many attractive properties. To solve the L1/2 penalized Cox model, we propose a coordinate descent algorithm with a new univariate half thresholding operator which is applicable to high-dimensional biological data. Simulation results based on standard artificial data show that the L1/2 regularization method can be more accurate for variable selection than Lasso and SCAD methods. The results from real DNA microarray datasets indicate the L1/2 regularization method performs competitively.
-
-@highlight We propose a L1/2 penalized Cox model.
-@highlight We develop a coordinate descent algorithm with a new univariate half thresholding operator.
-@highlight The L1/2 penalized Cox model is able to reduce the size of the predictor even further at moderate costs for the prediction accuracy.
-@highlight The L1/2 penalized Cox model is suitable for survival analysis with the high dimensional biological data.

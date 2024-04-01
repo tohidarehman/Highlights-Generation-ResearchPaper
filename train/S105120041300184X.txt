@@ -1,7 +1,0 @@
- A simple physical model consisting of a point source displaced from its center of rotation, in combination with a directivity model that includes backwards emitted energy, is considered for the problem of estimating the orientation of a directional acoustic source. Such a problem arises, for instance, in voice-commanded devices in a smart room and is usually tackled with a large or distributed microphone array. We show, however, that when the time difference of arrival is also taken into account, a small array of only two microphones is sufficiently robust against unaccounted factors such as microphone directivity variation and mild reverberation. This is shown by comparing predicted and measured values of binaural cues, and by using them and pairwise frame energies as inputs for an artificial neural network (ANN) in order to estimate source orientation.
-
-@highlight We estimate an acoustic source orientation using only two microphones.
-@highlight A simple physical model that explains ITD and ILD variations is proposed.
-@highlight We propose a new directivity model that includes backwards emitted energy.
-@highlight Multiframe estimation is more robust than frame estimation in adverse conditions.
-@highlight In multiframe estimation there is a tradeoff between COR and estimation delay.

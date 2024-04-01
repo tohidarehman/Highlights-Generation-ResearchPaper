@@ -1,6 +1,0 @@
- The smartphone market is nowadays highly competitive. When buying a new device, users focus on visual esthetics, ergonomics, performance, and user experience, among others. Assessing usability issues allows improving these aspects. One popular method for detecting usability problems is heuristic evaluation, in which evaluators employ a set of usability heuristics as guide. Using proper heuristics is highly relevant. In this paper we present SMASH, a set of 12 usability heuristics for smartphones and mobile applications, developed iteratively. SMASH (previously named TMD: Usability heuristics for Touchscreen-based Mobile Devices) was experimentally validated. The results support its utility and effectiveness.
-
-@highlight Smartphones are very popular among people of all ages.
-@highlight General usability heuristics do not consider specific smartphones aspects.
-@highlight We proposed a set of 12 usability heuristics for smartphones (SMASH).
-@highlight SMASH was experimentally validated.

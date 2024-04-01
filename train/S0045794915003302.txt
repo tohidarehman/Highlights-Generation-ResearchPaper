@@ -1,7 +1,0 @@
- An elliptical ring test method is proposed to replace the circular ring test recommended by ASTM and AASHTO for faster and more reliable assessment of cracking tendency of concrete. Numerical models are also established to simulate stress development and crack initiation/propagation in restrained concrete rings. Cracking age, position and propagation in various rings are obtained from numerical analyses that agree well with experimental results. Elliptical thin rings of certain geometry can shorten the ring test duration as desirable. In thin rings, crack initiation is caused by external restraint effect so that a crack occurs at the inner circumference and propagates towards the outer one. In thick rings, crack initiation is mainly due to the self-restraint effect so that a crack occurs at the outer circumference and propagates towards their inner one. Therefore, thick elliptical concrete rings do not necessarily crack earlier than circular ones as observed from experiment.
-
-@highlight A numerical model proposed for underpinning the elliptical ring test for concrete.
-@highlight The model considers nonlinear moisture distribution & shrinkage within concrete.
-@highlight The multi-physics model integrates micromechanics modelling into macro FE model.
-@highlight The multi-physics model is able to simulate concrete crack initiation & propagation.
-@highlight The numerical approach can be used for analysing other types of concrete structures.

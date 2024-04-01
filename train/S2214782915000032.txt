@@ -1,5 +1,0 @@
- mHealth interventions that deliver content via mobile phones represent a burgeoning area of health behavior change. The current paper examines two themes that can inform the underlying design of mHealth interventions:  mobile device functionality, which represents the technological toolbox available to intervention developers; and  the pervasive information architecture of mHealth interventions, which determines how intervention content can be delivered concurrently using mobile phones, personal computers, and other devices. We posit that developers of mHealth interventions will be able to better achieve the promise of this burgeoning arena by leveraging the toolbox and functionality of mobile devices in order to engage participants and encourage meaningful behavior change within the context of a carefully designed pervasive information architecture.
-
-@highlight mHealth interventions for behavior change are increasing rapidly.
-@highlight mHealth research has focused more on outcome than mechanisms.
-@highlight Recommend tools that fit behavior change goals and pervasive information architecture.

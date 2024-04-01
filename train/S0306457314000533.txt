@@ -1,5 +1,0 @@
- In this paper, a new homomorphic image watermarking method implementing the Singular Value Decomposition (SVD) algorithm is presented. The idea of the proposed method is based on embedding the watermark with the SVD algorithm in the reflectance component after applying the homomorphic transform. The reflectance component contains most of the image features but with low energy, and hence watermarks embedded in this component will be invisible. A block-by-block implementation of the proposed method is also introduced. The watermark embedding on a block-by-block basis makes the watermark more robust to attacks. A comparison study between the proposed method and the traditional SVD watermarking method is presented in the presence of attacks. The proposed method is more robust to various attacks. The embedding of chaotic encrypted watermarks is also investigated in this paper to increase the level of security.
-
-@highlight Information embedding and retrieval in digital images.
-@highlight Digital Watermarking.
-@highlight Image processing.

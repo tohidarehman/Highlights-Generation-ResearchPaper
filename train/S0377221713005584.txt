@@ -1,7 +1,0 @@
- The quay crane scheduling problem plays an important role in the paradigm of port container terminal management, due to the fact that it closely relates to vessel berthing time. In this paper, we focus on the study of a special strategy for the cluster-based quay crane scheduling problem that forces quay cranes to move unidirectionally during the scheduling. The scheduling problem arising when this strategy is applied is called the unidirectional quay crane scheduling problem in the literature. Different from other researches attempting to construct more sophisticated searching algorithms, in this paper, we seek for a more compact mathematical formulation of the unidirectional cluster-based quay crane scheduling problem that can be easily solved by a standard optimization solver. To assess the performance of the proposed model, commonly accepted benchmark suites are used and the results indicate that the proposed model outperforms the state-of-the-art algorithms designed for the unidirectional cluster-based quay crane scheduling problem.
-
-@highlight An effective formulation for unidirectional quay crane scheduling problem is proposed.
-@highlight Two observations for the formulation are made.
-@highlight A rule for simplification is highlighted.
-@highlight A relaxed formulation for tight lower bounds is developed.
-@highlight Numerical experiments are conducted to show the performance of the proposed formulation compared with LTM algorithm.

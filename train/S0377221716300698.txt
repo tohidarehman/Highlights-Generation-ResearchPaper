@@ -1,8 +1,0 @@
- In this paper, we address a basic production planning problem with price dependent demand and stochastic yield of production. We use price and target quantity as decision variables to control the risk of low production yield. The value of risk control becomes more important especially for products with short life cycle where high losses are unbearable in the short run. In this cases, optimization of a solely scalar function of profit is not sufficient to control the risk. We apply Conditional Value at Risk (CVaR) measure to model the risk preferences of the producer. The producer is interested in shaping the risk by bounding from below the means of α-tail distributions of profit for different values of α. The resulting model is nonconvex. We propose an efficient solution algorithm and present a sufficient optimality condition.
-
-@highlight Presented a risk shaping model for production planning problem under random yield.
-@highlight Used Conditional Value-at-Risk as the risk measure.
-@highlight Developed an efficient solution method for the presented nonconvex model.
-@highlight The presented model can incorporate risk thresholds of decision makers.
-@highlight The presented model can be used for obtaining efficient frontiers.
-@highlight Characterized the set of saddle points by KKT conditions.

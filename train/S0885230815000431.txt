@@ -1,7 +1,0 @@
- In this study we explore opinion summarization on spontaneous conversations using unsupervised and supervised approaches. We annotate a phone conversation corpus with reference extractive and abstractive summaries for a speaker's opinion on a given topic. We investigate two methods: the first is an unsupervised graph-based method, which incorporates topic and sentiment information, as well as sentence-to-sentence relations extracted based on dialogue structure; the second is a supervised method that casts the summarization problem as a classification problem. Furthermore, we investigate the use of pronoun resolution in this summarization task. We develop various features based on pronoun coreference and incorporate them in the supervised opinion summarization system. Our experimental results show that both the graph-based method and the supervised method outperform the baseline approach, and the pronoun related features can help to generate better summaries.
-
-@highlight Investigated opinion summarization in conversations.
-@highlight Annotated Switchboard conversations with sentiment, summary, and pronoun info.
-@highlight Compared graph-based and supervised summarization methods for opinion summarization.
-@highlight Evaluated summarization performance using both human transcripts and ASR output.
-@highlight Exploited pronoun coreference information for summarization of conversations.

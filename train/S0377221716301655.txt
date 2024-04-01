@@ -1,7 +1,0 @@
- We study due-date assignment problems with common flow allowance on a proportionate flowshop. We focus on both minsum and minmax objectives. Both cases are extended to a setting of a due-window. The proposed solution procedures are shown to be significantly different from those of the single machine problems. All the problems studied here are solved in polynomial time: the minsum problems in O(n 2) and the minmax problems in O(nlog n), where n is the number of jobs.
-
-@highlight We study scheduling problems with common flow allowance on a proportionate flowshop.
-@highlight We solve both the minsum and the minmax versions.
-@highlight Both versions are extended to a setting of due-windows.
-@highlight Several unique structural properties of an optimal schedule are proved.
-@highlight All the problems are solved in polynomial time.

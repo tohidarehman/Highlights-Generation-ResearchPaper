@@ -1,7 +1,0 @@
- HTTP Adaptive Streaming (HAS) technologies, e.g., Apple HLS or MPEG-DASH, automatically adapt the delivered video quality to the available network. This reduces stalling of the video but additionally introduces quality switches, which also influence the user-perceived Quality of Experience (QoE). In this work, we conduct a subjective study to identify the impact of adaptation parameters on QoE. The results indicate that the video quality has to be maximized first, and that the number of quality switches is less important. Based on these results, a method to compute the optimal QoE-optimal adaptation strategy for HAS on a per user basis with mixed-integer linear programming is presented. This QoE-optimal adaptation enables the benchmarking of existing adaptation algorithms for any given network condition. Moreover, the investigated concept is extended to a multi-user IPTV scenario. The question is answered whether video quality, and thereby, the QoE can be shared in a fair manner among the involved users.
-
-@highlight A subjective user study on the influence factors of HTTP Adaptive Streaming (HAS) is conducted.
-@highlight Evaluation framework is provided for computing theoretical QoE optimum of HAS and QoE fairness.
-@highlight Optimal initial delay and video segment playout are derived for single and multiple users.
-@highlight Statistical evaluation of single-user and multi-user IPTV scenarios for existing HAS algorithms.
-@highlight Bundling video segments results in unfairness wrt. quality switches, but fairness wrt. video quality.

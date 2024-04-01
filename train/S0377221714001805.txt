@@ -1,6 +1,0 @@
- Computing optimal capacity allocations in network revenue management is computationally hard. The problem of computing exact Nash equilibria in non-zero-sum games is computationally hard, too. We present a fast heuristic that, in case it cannot converge to an exact Nash equilibrium, computes an approximation to it in general network revenue management problems under competition. We also investigate the question whether it is worth taking competition into account when making (network) capacity allocation decisions. Computational results show that the payoffs in the approximate equilibria are very close to those in exact ones. Taking competition into account never leads to a lower revenue than ignoring competition, no matter what the competitor does. Since we apply linear continuous models, computation time is very short.
-
-@highlight A network revenue management problem under competition is studied.
-@highlight Booking limits for competing airlines are computed.
-@highlight A heuristic for computing an approximate Nash equilibrium is introduced.
-@highlight Payoff values are computed on demand, i.e. there is no need to provide the complete playoff matrix in advance.

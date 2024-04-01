@@ -1,6 +1,0 @@
- In this article we generalize the aggregation theory in efficiency and productivity analysis by deriving solutions to the problem of aggregation of individual scale efficiency measures, primal and dual, into aggregate primal and dual scale efficiency measures of a group (e.g., industry). The new aggregation result is coherent with aggregation framework and solutions that were earlier derived for other related efficiency measures and can be used in practice for estimation of scale efficiency of an industry or other groups of firms within it.
-
-@highlight We extend the aggregation theory in efficiency and productivity analysis.
-@highlight We derive solutions for aggregation of individual scale efficiency measures.
-@highlight We provide practical way of estimating scale efficiency of an industry (e.g., from DEA).
-@highlight The new aggregation result is coherent with previous aggregation frameworks.

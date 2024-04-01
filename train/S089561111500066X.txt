@@ -1,7 +1,0 @@
- The present research was directed to effective image restoration with the extraction of ischemic edema signs. Computerized support of hyperacute stroke diagnosis based on routinely used computerized tomography (CT) scans was optimized to visualize the infarct extent more precisely. In particular, a beneficial support of time-limited appropriate decision of whether to treat the patient by thrombolysis is expected. Because of a limited accuracy in determining the area of core infarction, particularly in the early hours of symptoms’ onset, a variational approach to sensed data recovery was applied. Proposed methodology adjusts fidelity norms and regularization priors integrated with simulated sensing procedures in a compressed sensing framework. Experimental study confirmed almost perfect recognition of ischemic stroke in a test set of over 500 CT scans.
-
-@highlight We designed and verified computerized support of acute stroke diagnosis.
-@highlight Novelty is application of integrated variational approach to detect ischemic edema.
-@highlight New, content oriented image restoration and descriptors of asymmetric hypodensity distribution were proposed.
-@highlight Clarified visualization of direct symptoms of pathology was completed with automated recognition of ischemic stroke.
-@highlight Achieved recognition accuracy was 1 for test set of over 500 CT scans.

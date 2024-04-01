@@ -1,5 +1,0 @@
- The concepts of portfolio optimization and diversification have been instrumental in the development and understanding of financial markets and financial decision making. In light of the 60year anniversary of Harry Markowitz’s paper “Portfolio Selection,” we review some of the approaches developed to address the challenges encountered when using portfolio optimization in practice, including the inclusion of transaction costs, portfolio management constraints, and the sensitivity to the estimates of expected returns and covariances. In addition, we selectively highlight some of the new trends and developments in the area such as diversification methods, risk-parity portfolios, the mixing of different sources of alpha, and practical multi-period portfolio optimization.
-
-@highlight We review approaches for implementing Markowitz mean–variance analysis in practice.
-@highlight Review covers inclusion of transaction costs, constraints, sensitivity to inputs.
-@highlight We selectively highlight new trends and developments.

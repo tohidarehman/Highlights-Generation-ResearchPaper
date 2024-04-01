@@ -1,7 +1,0 @@
- Our paper presents a dynamic model of entrepreneurial venture financing under uncertainty based on option exercise games between an entrepreneur and a venture capitalist (VC). In particular, we analyze the impact of multi-staged financing and both economic and technological uncertainty on optimal contracting in the context of VC-financing. Our novel approach combines compound option pricing with sequential non-cooperative contracting, allowing us to determine whether renegotiation will improve the probability of coming to an agreement and proceed with the venture. It is shown that both sources of uncertainty positively impact the VC-investor's optimal equity share. Specifically, higher uncertainty leads to a larger stake in the venture, and renegotiation may result in a dramatic shift of control rights in the venture, preventing the venture from failure. Moreover, given ventures with low volatility, situations might occur where the VC-investor loses his first-mover advantage. Based on a comparative-static analysis, new testable hypotheses for further empirical studies are derived from the model.
-
-@highlight We present a dynamic game theoretic real option model of multi-stage VC-financing.
-@highlight We analyze how economic and technological uncertainties affect optimal contracting.
-@highlight Higher uncertainty leads to a larger stake of the VC-investor in the venture.
-@highlight Renegotiation can result in a dramatic shift of control rights in the venture.
-@highlight Further, the VC might loose his first-mover advantage given low volatile ventures.

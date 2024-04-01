@@ -1,5 +1,0 @@
- This paper presents an orthonormal dictionary learning method for low-rank representation. The orthonormal property encourages the dictionary atoms to be as dissimilar as possible, which is beneficial for reducing the ambiguities of representations and computation cost. To make the dictionary more discriminative, we enhance the ability of the class-specific dictionary to well represent samples from the associated class and suppress the ability of representing samples from other classes, and also enforce the representations that have small within-class scatter and big between-class scatter. The learned orthonormal dictionary is used to obtain low-rank representations with fast computation. The performances of face recognition demonstrate the effectiveness and efficiency of the method.
-
-@highlight A discriminative orthonormal dictionary learning method is proposed for low-rank representation with fast computation.
-@highlight Two kinds of discriminative information is used for learning the dictionary.
-@highlight Experiments on face recognition from both image and video demonstrate the effectiveness of the proposed method.

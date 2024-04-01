@@ -1,5 +1,0 @@
- The failure processes of repairable systems may be impacted by operational and environmental stress factors. To accommodate such factors, reliability can be modelled using a multiplicative intensity function. In the proportional intensity model, the failure intensity is the product of the failure intensity function of the baseline system that quantifies intrinsic factors and a function of covariates that quantify extrinsic factors. The existing literature has extensively studied the failure processes of repairable systems using general repair concepts such as age-reduction when no covariate effects are considered. This paper investigates different approaches for modelling the failure and repair process of repairable systems in the presence of time-dependent covariates. We derive probabilistic properties of the failure processes for such systems.
-
-@highlight Modelled the failure process of repairable systems in the presence of covariates.
-@highlight Derived probabilistic properties of the failure and repair process for such systems.
-@highlight Obtained new results for age reduction models with time-dependent covariates.

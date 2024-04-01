@@ -1,7 +1,0 @@
- This paper deals with the inverse Data Envelopment Analysis (DEA) under inter-temporal dependence assumption. Both problems, input-estimation and output-estimation, are investigated. Necessary and sufficient conditions for input/output estimation are established utilizing Pareto and weak Pareto solutions of linear multiple-objective programming problems. Furthermore, in this paper we introduce a new optimality notion for multiple-objective programming problems, periodic weak Pareto optimality. These solutions are used in inverse DEA, and it is shown that these can be characterized by a simple modification in weighted sum scalarization tool.
-
-@highlight Modeling inverse DEA under inter-temporal dependence assumption.
-@highlight Input-estimation and output-estimation under inter-temporal dependence.
-@highlight Introducing a new optimality notion for MOP, periodic weak Pareto optimality.
-@highlight Using periodic weak Pareto optimality in inverse DEA.
-@highlight Characterizing periodic weak Pareto solutions.

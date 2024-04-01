@@ -1,7 +1,0 @@
- An open-source computer algebra system toolbox devoted to the analysis and synthesis for a wide class of nonlinear time-delay systems is introduced. This contribution provides a practical way to carry out all the computations used to characterize several properties of the systems under consideration, which involve elements in a non-commutative ring of polynomials, and an extended version of the Lie brackets. The package usage will be illustrated with some examples.
-
-@highlight SAC is a toolbox developed for analysis and control of nonlinear time-delay systems.
-@highlight This GNU/GPL software can be used to work with systems without delays.
-@highlight It includes routines, based on the differential-algebraic and geometric approaches.
-@highlight These powerful approaches involve lengthy and cumbersome computations.
-@highlight An algorithm of a new powerful geometric tool, the extended Lie bracket, is included.

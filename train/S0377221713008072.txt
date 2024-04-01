@@ -1,5 +1,0 @@
- This paper models the locations of landfills and transfer stations and simultaneously determines the sizes of the landfills that are to be established. The model is formulated as a bi-objective mixed integer optimization problem, in which one objective is the usual cost-minimization, while the other minimizes pollution. As a matter of fact, pollution is dealt with a two-pronged approach: on the one hand, the model includes constraints that enforce legislated limits on pollution, while one of the objective functions attempts to minimize pollution effects, even though solutions may formally satisfy the letter of the law. The model is formulated and solved for the data of a region in Chile. Computational results for a variety of parameter choices are provided. These results are expected to aid decision makers in the choice of excluding and choosing sites for solid waste facilities.
-
-@highlight We formulate a bi-objective model that minimizes costs and pollution.
-@highlight We apply this model to real-world data in Chile.
-@highlight We provide insight into how the two objectives influence location patterns.

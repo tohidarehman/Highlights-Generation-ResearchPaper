@@ -1,6 +1,0 @@
- This study investigates scheduling problems that occur when the weighted number of late jobs that are subject to deterministic machine availability constraints have to be minimized. These problems can be modeled as a more general job selection problem. Cases with resumable, non-resumable, and semi-resumable jobs as well as cases without availability constraints are investigated. The proposed efficient mixed integer linear programming approach includes possible improvements to the model, notably specialized lifted knapsack cover cuts. The method proves to be competitive compared with existing dedicated methods: numerical experiments on randomly generated instances show that all 350-job instances of the test bed are closed for the well-known problem . For all investigated problem types, 98.4% of 500-job instances can be solved to optimality within 1hour.
-
-@highlight A generic model is proposed for minimizing the number of late jobs on one machine.
-@highlight Machine availability constraints, non-resumable and resumable jobs are considered.
-@highlight An efficient mixed integer linear program is described as well as improvements.
-@highlight Most 500-job instances can be solved to optimality within 1hour.

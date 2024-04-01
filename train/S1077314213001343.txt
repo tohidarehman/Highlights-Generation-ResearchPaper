@@ -1,7 +1,0 @@
- In this paper, we present a comprehensive survey of Markov Random Fields (MRFs) in computer vision and image understanding, with respect to the modeling, the inference and the learning. While MRFs were introduced into the computer vision field about two decades ago, they started to become a ubiquitous tool for solving visual perception problems around the turn of the millennium following the emergence of efficient inference methods. During the past decade, a variety of MRF models as well as inference and learning methods have been developed for addressing numerous low, mid and high-level vision problems. While most of the literature concerns pairwise MRFs, in recent years we have also witnessed significant progress in higher-order MRFs, which substantially enhances the expressiveness of graph-based models and expands the domain of solvable problems. This survey provides a compact and informative summary of the major literature in this research topic.
-
-@highlight We present a comprehensive survey of Markov Random Fields (MRFs) in computer vision.
-@highlight This is a compact and informative summary of literature in the development of MRFs.
-@highlight Techniques in MRF modeling, inference and learning are included.
-@highlight It helps readers rapidly gain a global view and better understanding for using MRFs.
-@highlight It begins with basic notions and then goes onto cover important recent development.

@@ -1,6 +1,0 @@
- This paper introduces a fast algorithm for randomized computation of a low-rank Dynamic Mode Decomposition (DMD) of a matrix. Here we consider this matrix to represent the development of a spatial grid through time e.g. data from a static video source. DMD was originally introduced in the fluid mechanics community, but is also suitable for motion detection in video streams and its use for background subtraction has received little previous investigation. In this study we present a comprehensive evaluation of background subtraction, using the randomized DMD and compare the results with leading robust principal component analysis algorithms. The results are convincing and show the random DMD is an efficient and powerful approach for background modeling, allowing processing of high resolution videos in real-time. Supplementary materials include implementations of the algorithms in Python.
-
-@highlight Fast and robust decomposition of a matrix representing a spatial grid through time.
-@highlight Rapid approximation for robust principal component analysis.
-@highlight Competitive performance in terms of recall and precision for motion detection.
-@highlight GPU accelerated implementation allows faster computation.

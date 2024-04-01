@@ -1,7 +1,0 @@
- This article focuses on the evaluation of moves for the local search of the job-shop problem with the makespan criterion. We reason that the omnipresent ranking of moves according to their resulting value of a criterion function makes the local search unnecessarily myopic. Consequently, we introduce an alternative evaluation that relies on a surrogate quantity of the move’s potential, which is related to, but not strongly coupled with, the bare criterion. The approach is confirmed by empirical tests, where the proposed evaluator delivers a new upper bound on the well-known benchmark test yn2. The line of the argumentation also shows that by sacrificing accuracy the established makespan estimators unintentionally improve on the move evaluation in comparison to the exact makespan calculation, in contrast to the belief that the reliance on estimation degrades the optimization results.
-
-@highlight Highllights
-@highlight We demonstrate the superiority of the makespan estimation over its exact calculation for the purpose of move evaluation.
-@highlight We introduce move evaluation on the basis of a surrogate value of moves’ potential.
-@highlight We present a practical implementation of an evaluator that relies on the introduced potential.
-@highlight We deliver a new upper bound on the well-known benchmark instance yn2

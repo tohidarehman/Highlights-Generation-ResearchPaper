@@ -1,7 +1,0 @@
- While the application service provider (ASP) market continues to grow, it is fiercely competitive, and ASPs encounter difficulties in retaining customers and achieving long-term profitability. One stream of prior literature suggests that customer loyalty is driven by service quality, while another argues that loyalty is driven by partnerships between the firms. However, to date these competing explanations have not been tested together in the ASP context. This empirical study contributes to the literature by unifying these two previously separate streams of research on customer loyalty. Using a survey of 135 ASP clients, we find a significant relationship between the service quality perspective and the partnership perspective. We thus argue that service loyalty models ought to include both of these constructs in order to effectively explain service loyalty.
-
-@highlight We model two conflicting explanations of loyalty in application service provision.
-@highlight One stream of literature focuses on partnership-trust.
-@highlight Other literature focuses on service quality-satisfaction.
-@highlight We test our model using a survey of 135 ASP client firms.
-@highlight We find that satisfaction, not trust, predicts ASP loyalty.

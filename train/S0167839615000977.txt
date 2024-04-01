@@ -1,6 +1,0 @@
- Many problems in computer aided geometric design and computer graphics can be turned into a root-finding problem of a polynomial equation. Among various solutions, clipping methods based on the Bernstein–Bézier form usually have good numerical stability. A traditional clipping method using polynomials of degree r can achieve a convergence rate of for a single root. It utilizes two polynomials of degree r to bound the given polynomial of degree n, where , and the roots of the bounding polynomials are used for clipping off the subintervals containing no roots of . This paper presents a rational cubic clipping method for finding the roots of a polynomial within an interval. The bounding rational cubics can achieve an approximation order of 7 and the corresponding convergence rate for finding a single root is also 7. In addition, differently from the traditional cubic clipping method solving the two bounding polynomials in , the new method directly constructs the two rational cubics in which can be used for bounding in many cases. Some examples are provided to show the efficiency, the approximation effect and the convergence rate of the new method.
-
-@highlight Use two rational cubics as bounding polynomials.
-@highlight Achieve a convergence rate 7 for a single root.
-@highlight It can achieve linear computational complexity
-@highlight for improved cases.

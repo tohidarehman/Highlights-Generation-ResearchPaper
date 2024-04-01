@@ -1,7 +1,0 @@
- The aim of this paper is to present an integrated mathematical model to solve the dynamic cell formation problem considering operator assignment and inter/intra cell layouts problems with machine duplication, simultaneously. The proposed model includes three objectives which the first objective seeks to minimize inter/intra cell part movements and machine relocation, the second objective minimizes machine and operator related costs and the third objective maximizes consecutive forward flows ratio. In order to validate the proposed model, a numerical example is presented and solved by the sum weighted method. Due to NP-hardness of the model, two meta-heuristics namely multi-objective simulated annealing (MOSA) and multi-objective vibration damping optimization (MOVDO) present to solve the proposed model. Finally, two algorithms have been compared using multi-objective criteria.
-
-@highlight Developing a new mathematical model for integrating dynamic cell formation problem.
-@highlight Linearizing the proposed model by employing a number of auxiliary variables.
-@highlight Solving the model by a multi-objective vibration damping optimization algorithm.
-@highlight Comparing the MOVDO algorithm with MOSA algorithm by six multi-objective criteria.
-@highlight Applying Taguchi method for parameter setting.

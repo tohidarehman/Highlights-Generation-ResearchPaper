@@ -1,7 +1,0 @@
- We consider a manufacturing system with product recovery. The system manufactures a new product as well as remanufactures the product from old, returned items. The items remanufactured with the returned products are as good as new and satisfy the same demand as the new item. The demand rate for the new item and the return rate for the old item are deterministic and constant. The relevant costs are the holding costs for the new item and the returned item, and the fixed setup costs for both manufacturing and remanufacturing. The objective is to determine the lot sizes and production schedule for manufacturing and remanufacturing so as to minimize the long-run average cost per unit time. We first develop a lower bound among all classes of policies for the problem. We then show that the optimal integer ratio policy for the problem obtains a solution whose cost is at most 1.5% more than the lower bound.
-
-@highlight Deterministic model of manufacturing system with remanufacturing.
-@highlight Teunter proposed integer-ratio policies: (1,
-@highlight R) and (P,1) policy.
-@highlight We develop a lower bound among all classes of policies.
-@highlight We prove the optimal integer ratio policy is at most 1.5% more than the lower bound.

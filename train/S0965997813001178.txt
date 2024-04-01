@@ -1,7 +1,0 @@
- Most of the existing methods for dam behavior modeling require a persistent set of input parameters. In real-world applications, failures of the measuring equipment can lead to a situation in which a selected model becomes unusable because of the volatility of the independent variables set. This paper presents an adaptive system for dam behavior modeling that is based on a multiple linear regression (MLR) model and is optimized for given conditions using genetic algorithms (GA). Throughout an evolutionary process, the system performs real-time adjustment of regressors in the MLR model according to currently active sensors. The performance of the proposed system has been evaluated in a case study of modeling the Bocac dam (at the Vrbas River located in the Republic of Srpska), whereby an MLR model of the dam displacements has been optimized for periods when the sensors were malfunctioning. Results of the analysis have shown that, under real-world circumstances, the proposed methodology outperforms traditional regression approaches.
-
-@highlight We proposed an adaptive system for a dam behavior modeling.
-@highlight The system performs real-time generation of the optimized regression model.
-@highlight Optimized model is adapted to currently available measurements.
-@highlight The system is based on a linear regression and genetic algorithm.
-@highlight Case study showed advantage of this system comparing to traditional regression models.

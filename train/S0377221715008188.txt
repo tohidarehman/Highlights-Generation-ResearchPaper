@@ -1,6 +1,0 @@
- Convex vector (or multi-objective) semi-infinite optimization deals with the simultaneous minimization of finitely many convex scalar functions subject to infinitely many convex constraints. This paper provides characterizations of the weakly efficient, efficient and properly efficient points in terms of cones involving the data and Karush–Kuhn–Tucker conditions. The latter characterizations rely on different local and global constraint qualifications. The results in this paper generalize those obtained by the same authors on linear vector semi-infinite optimization problems.
-
-@highlight We introduce different types of tangent cones for convex vector SIO problems.
-@highlight We introduce and compare four constraint qualifications (CQs).
-@highlight We characterize (weakly, properly) efficient solutions in terms of cones.
-@highlight KKT results are provided.

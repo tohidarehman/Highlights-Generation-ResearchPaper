@@ -1,6 +1,0 @@
- In this paper we provide a model which describes how voluntary disclosure impacts on the timing of a firm’s investment decisions. A manager chooses a time to invest in a project and a time to disclose the investment return in order to maximise his monetary payoff. We assume that this payoff is linked to the level of the firm’s stock price. Prior to investing, the profitability of the project and the market reaction to the disclosure of the investment return are uncertain, but the manager receives signals at random points in time which assist in resolving some of this uncertainty. We find that a manager whose objective can only be achieved through voluntarily disclosing the return is motivated to invest at a time that would be sub-optimal for an identical manager with a profit maximising objective.
-
-@highlight We provide a model describing how disclosure affects firms’ investment decisions.
-@highlight Uncertainty over way in which information disclosed will be interpreted by market.
-@highlight This can lead to sub-optimal investment timing decisions.
-@highlight Extent of sub-optimality depends on stock price impact from disclosure.

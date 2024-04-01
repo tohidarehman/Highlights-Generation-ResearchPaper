@@ -1,8 +1,0 @@
- We introduce a new paradigm, based on an extension of the Open Cloud Computing Interface (OCCI), for the on-demand monitoring of the cloud resources provided to a user. We have extended the OCCI with two new sub-types of core entities: one to collect the measurements and the other to process them. The user can request instances of such entities to implement a monitoring infrastructure. The paradigm does not target a specific cloud model, and is therefore applicable to any kind of resource provided as a service. The specifications include only the minimum needed to describe a monitoring infrastructure, thus making this standard extension simple and easily adoptable. Despite its simplicity, the model is able to describe complex solutions, including private/public clouds, and covers both infrastructure and application monitoring. To highlight the impact of our proposal in practice, we have designed an engine that deploys a monitoring infrastructure using its OCCI-compliant descriptions. The design is implemented in a prototype that is available as open source.
-
-@highlight We define an OGF–OCCI interface for the configuration of a monitoring infrastructure in a cloud provision.
-@highlight While introducing a minimal number of new types, the interface is able to describe complex monitoring infrastructures.
-@highlight We introduce an OCCI-conformant solution to describe the communication between OCCI entities.
-@highlight We outline and prototype a cloud manager that deploys the monitoring framework using the container’s technology.
-@highlight A demo available online operates the prototype to deploy a simple monitoring framework.
-@highlight We survey the monitoring provisions offered by commercial cloud providers.

@@ -1,7 +1,0 @@
- We propose a human motion tracking method that not only captures the motion of the skeleton model but also generates a sequence of surfaces using images acquired by multiple synchronized cameras. Our method extracts articulated postures with 42 degrees of freedom through a sequence of visual hulls. We seek a globally optimized solution for likelihood using local memorization of the “fitness” of each body segment. Our method efficiently avoids problems of local minima by using a mean combination and an articulated combination of particles selected according to the weights of the different body segments. The surface is produced by deforming the template and the details are recovered by fitting the deformed surface to 2D silhouette rims. The extracted posture and estimated surface are cooperatively refined by registering the corresponding body segments. In our experiments, the mean error between the samples of the deformed reference model and the target is about 2cm and the mean matching difference between the images projected by the estimated surfaces and the original images is about 6%.
-
-@highlight We capture human motion and recover the details of surfaces by image based system.
-@highlight Our method is efficient for motion tracking in a high dimensional search space.
-@highlight Local memorization guides to search for the optimal solution that avoids local minima.
-@highlight Self-intersection detection and voxel sampling reduce the computing time.
-@highlight A refinement method is presented to adjust captured motion and surfaces cooperatively.

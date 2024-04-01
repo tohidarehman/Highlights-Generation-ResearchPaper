@@ -1,5 +1,0 @@
- We present a method of hedging Conditional Value at Risk of a position in stock using put options. The result leads to a linear programming problem that can be solved to optimise risk hedging.
-
-@highlight We derive an analytic formula for CVaR of stock hedged with put options.
-@highlight The CVaR of such position can be optimised using linear programming.
-@highlight The work is a generalisation of Ahn et al. (1999), where VaR was used instead of CVaR.

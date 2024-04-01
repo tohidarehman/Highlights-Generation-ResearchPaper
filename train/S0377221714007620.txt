@@ -1,8 +1,0 @@
- In a bankruptcy situation individuals are not equally affected since each one has its own specific characteristics. These aspects cannot be ignored and may justify an allocation bias in favor of or against some individuals. This paper develops a theory of differentiation in claims problems that considers not only the vector of claims, but also some justified differentiating criteria based on other characteristics (wealth, net-income, GDP, etc.). Accordingly, we propose some progressive transfers from richer to poorer claimants with the purpose of distributing the damage as evenly as possible. Finally, we characterize our solution by means of the Lorenz criterion. Endogenous convex combinations between solutions are also considered.
-
-@highlight Not all claimants are equally in claims problems.
-@highlight We differentiate among claimants through some personal characteristic (wealth, net-income, etc.)
-@highlight With the purpose of distributing losses as evenly as possible, we propose progressive transfers that satisfy a set of properties.
-@highlight We characterize our solution by means of the Lorenz criterion.
-@highlight We apply the duality property, then the proposed solution is the most equitable redistribution of losses in Lorenz sense.
-@highlight We consider endogenous convex combinations between possible distributions.

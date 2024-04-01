@@ -1,6 +1,0 @@
- For a current deregulated power system, a large amount of operating reserve is often required to maintain the reliability of the power system using traditional approaches. In this paper, we propose a two-stage robust optimization model to address the network constrained unit commitment problem under uncertainty. In our approach, uncertain problem parameters are assumed to be within a given uncertainty set. We study cases with and without transmission capacity and ramp-rate limits (, for which the analysis part is included in Section 3 in this paper). We also analyze solution schemes to solve each problem that include an exact solution approach and an efficient heuristic approach that provides tight lower and upper bounds for the general network constrained robust unit commitment problem. The final computational experiments on an IEEE 118-bus system verify the effectiveness of our approaches, as compared to the nominal model without considering the uncertainty.
-
-@highlight Provide one of the first studies on network constrained robust unit commitment.
-@highlight Introduce a two-dimensional uncertainty set to describe the uncertain parameters.
-@highlight Develop an exact and a bilinear heuristic approaches to solve the problem.
-@highlight Cost savings obtained as compared to the traditional approach.

@@ -1,6 +1,0 @@
- This article investigates the role played by both production and market risks on cash crop farmers’ decision to adopt long rotations considered as innovative cropping systems. We build a multi-period recursive farm model with Discrete Stochastic Programming. The model arbitrates each year between conventional and innovative, longer rotations. Yearly farming operations are declined according to a decision tree, so that production risk is an intra-year risk. Market risk is considered as an inter-year risk influencing crop successions. Simulations are performed on a specialized French cash crop farm. They show that when the long rotation is subsidized by an area premium, farmers are encouraged to remain in longer rotations. They also show that a high level of risk aversion tends to slow down the conversion towards longer rotations.
-
-@highlight The adoption of long rotations in cash crop farms is exposed to yield uncertainty.
-@highlight A dynamic DSP model of crop rotation choice is built, under yield and market risks.
-@highlight Specific protein crop premium encourage the adoption of longer rotations.
-@highlight High risk aversion slow down adoption.

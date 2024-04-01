@@ -1,7 +1,0 @@
- Mobility currently evolves far beyond owning a car or using public transit services. Passenger transport can be managed by mobility providers by combining and extending various mobility services either directly or by using available mobility service platforms. This paper evaluates the capabilities and technical features of existing mobility service platforms with a special focus on electric mobility. Based upon this evaluation, criteria are presented which future platforms should address. As part of this work, a marketplace approach is developed which addresses the identified criteria. Potential marketplace architectures are presented which are deemed to establish marketplace interconnectivity. The developed marketplace approach and the proposed architectures contribute to the vision of an interconnected service ecosystem for mobility services.
-
-@highlight Current electric mobility service marketplaces are proprietary and closed systems.
-@highlight Data exchange among marketplaces is not possible because no common protocol exists.
-@highlight Roaming provides easy service access and extends the end-customers’ operation area.
-@highlight The access at foreign services can be achieved via interconnectivity and roaming.
-@highlight The selected architecture is critical for the success of interconnectivity.

@@ -1,7 +1,0 @@
- Given a general affine camera, we study the problem of finding the closest metric affine camera, where the latter is one of the orthographic, weak-perspective and paraperspective projection models. This problem typically arises in stratified Structure-from-Motion methods such as factorization-based methods. For each type of metric affine camera, we give a closed-form solution and its implementation through an algebraic procedure. Using our algebraic procedure, we can then provide a complete analysis of the problem’s generic ambiguity space. This also gives the means to generate the other solutions if any.
-
-@highlight A specific study of the orthographic, weak-perspective and paraperspective cameras.
-@highlight An algebraic procedure solving the affine correction problem for each camera model.
-@highlight A closed-form solution for each camera model.
-@highlight A full characterization of the affine corrections’ generic ambiguities for each camera model.
-@highlight An experimental evaluation comparing the algebraic procedures to global polynomial optimization and an interior-point method.

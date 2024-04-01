@@ -1,5 +1,0 @@
- Human Nonverbal Communication Computing aims to investigate how people exploit nonverbal aspects of their communication to coordinate their activities and social relationships. Nonverbal behavior plays important roles in message production and processing, relational communication, social interaction and networks, deception and impression management, and emotional expression. This is a fundamental yet challenging research topic. To effectively analyze Nonverbal Communication Computing, motion analysis methods have been widely investigated and employed. In this paper, we introduce the concept and applications of Nonverbal Communication Computing and also review some of the motion analysis methods employed in this area. They include face tracking, expression recognition, body reconstruction, and group activity analysis. In addition, we also discuss some open problems and the future directions of this area.
-
-@highlight Introduce the concept of nonverbal communication computing and it use cases
-@highlight Review motion analysis techniques used for nonverbal communication computing
-@highlight Discuss future directions of this area

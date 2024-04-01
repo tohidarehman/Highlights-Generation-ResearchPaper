@@ -1,7 +1,0 @@
- This paper introduces a new fast integer-based algorithm to convert the RGB color representation to HSV and vice versa. The proposed algorithm is as accurate as the classical real-valued one. The use of only integer operations increases performance and portability. Performance measurement results show a speed gain of about two times when compared with the classical C++ language implementation on PC platforms. Lookup tables are not involved, thus the memory usage is minimal. The resulting HSV color can be packed into 48 bits. The proposed method can safely replace the commonly used floating-point implementation.
-
-@highlight Conversion algorithm between 24-bit RGB and integer HSV is proposed.
-@highlight The algorithm is as accurate as the classical real-valued one.
-@highlight Performance measurement results show a speed gain of about two times.
-@highlight The resulting HSV color can be packed into 48 bits.
-@highlight Floating-point variables and Lookup tables are not used.

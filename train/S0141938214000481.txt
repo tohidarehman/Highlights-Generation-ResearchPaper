@@ -1,6 +1,0 @@
- The TiO2 coated silicate micro-spheres (SMS) core–shell particles (SMS@TiO2) were synthesized using the sol–gel reaction followed by calcination. The SMS@TiO2 particles were used to enhance the light diffusion property of polycarbonate (PC) composites. Our experimental analysis shows that the TiO2 was coated on the SMS particles and the optimum parameters of the reaction were 4:1 of the Si/Ti molar ratio and 500°C of the calcination temperature. The UV–Vis spectra indicate that SMS@TiO2 can absorb or hinder the UV light, which may prolong the service life of PC light diffusion materials. Compared to that of PC composites physically mixed with SMS+TiO2, the haze of the PC/SMS@TiO2 composites was little affected, while the transmittance was obviously enhanced, which can be increased from 55.5% for PC/TiO2/SMS to 70.3% for PC/SMS@TiO2 with only 0.6wt% filler loading.
-
-@highlight The SMS@TiO2 particles were used to enhance the light diffusion property of polycarbonate (PC) composites.
-@highlight The SMS@TiO2 can absorb or hinder the UV light, which may prolong the service life of PC light diffusion materials.
-@highlight The resulting light diffusing agent was well dispersed in PC.
-@highlight The resulting light diffusing agent achieved the balance of transmittance and haze for light diffusion applications.

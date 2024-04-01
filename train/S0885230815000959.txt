@@ -1,7 +1,0 @@
- Language transfer creates a challenge for Chinese (L1) speakers in acquiring English (L2) rhythm. This appears to be a widely encountered difficulty among foreign learners of English, and is a major obstacle in acquiring a near-native oral proficiency. This paper presents a system named MusicSpeak, which strives to capitalize on musical rhythm for prosodic training in second language acquisition. This is one of the first efforts that develop an automatic procedure which can be applied to arbitrary English sentences, to cast rhythmic patterns in speech into rhythmic patterns in music. Learners can practice by speaking in synchrony with the musical rhythm. Evaluation results suggest that after practice, the learners’ speech generally achieves higher durational variability and better approximates stress-timed rhythm.
-
-@highlight We analyze and leverage commonalities between speech and music in terms of rhythm.
-@highlight We develop automatic musical rhythm generation techniques for L2 prosodic training.
-@highlight The automatic procedure can be applied to arbitrary English sentences.
-@highlight Users may practice by speaking in synchrony with the generated musical rhythm.
-@highlight Speech from users after practice better approximates stress-timed rhythm.

@@ -1,7 +1,0 @@
- In this article, we investigate the performance of a coded multiple-input multiple-output (MIMO) multi-carrier (MC) system in underwater communication, where acoustic interference and ambient noise are the two major channel impairments. The channel model considered in this work is based on the shallow water model that has eleven paths. In our work, the acoustic signal is spread with the aid of a high rate spreading sequence to alleviate the effects of acoustic interference. At the receiver, non-linear detectors based on Zero-Forcing (ZF) and Minimum-Mean-Square-Error (MMSE) are employed for signal detection. The simulation results reveal that the system under consideration with the MMSE detector provides better performance in terms of the achievable bit error rate than the system with the ZF detector while achieving higher data rates.
-
-@highlight We investigate the performance of VBLAST assisted MIMO–OFDM system in underwater communications.
-@highlight Performance is analyzed with non-linear MUD when communicating over multi-path environment.
-@highlight BER performance is compared for coded and uncoded ZF/OSIC and MMSE/OSIC.
-@highlight Coded multi-carrier MIMO system out performs uncoded system in terms of BER performance.
-@highlight Coded multi-carrier MIMO system with MMSE/OSIC provides better BER performance than system with coded ZF/OSIC.

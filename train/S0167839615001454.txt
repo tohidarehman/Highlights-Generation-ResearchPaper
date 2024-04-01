@@ -1,7 +1,0 @@
- In this note we study the regularity of generalized Hermite interpolation and compare it to that of classical Hermite interpolation. While every Hermite interpolation scheme is regular in one variable, the “classical Hermite interpolation schemes” in several variables are regular if and only if they are supported at one point. In this note we exhibit some regular generalized Hermite interpolation schemes supported at two points and study some limitation of existence of such schemes. The existence of such schemes provides a class of counterexamples to a conjecture of Jia and Sharma.
-
-@highlight We compare regularity properties of generalized and classical Hermite interpolation.
-@highlight Classical Hermite interpolation in several variables is regular iff it interpolates at one point.
-@highlight We exhibit regular generalized Hermite interpolation schemes supported at two points.
-@highlight We study some limitation of existence of such schemes.
-@highlight These schemes provide a class of counterexamples to a conjecture of Jia and Sharma.

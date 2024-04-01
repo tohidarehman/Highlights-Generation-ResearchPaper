@@ -1,6 +1,0 @@
- Recently, it was shown that a bi-cubic patch complex with n-sided holes can be completed into a curvature-continuous () surface by n-sided caps of degree bi-5 that offer good and flexible shape . This paper further explores the space of n-sided caps of degree bi-5 but focuses on functionals to set degrees of freedom and to optimally propagate and average out curvature from the bi-cubic complex.
-
-@highlight Multi-sided holes in a bicubic patch complex are filled by a curvature-continuous cap.
-@highlight The cap is of degree bi-5 and has good and flexible shape.
-@highlight The space of n-sided
-@highlight caps of degree bi-5 is explored via functionals.

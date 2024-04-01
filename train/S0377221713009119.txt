@@ -1,6 +1,0 @@
- Minimizing two different upper bounds of the matrix which generates search directions of the nonlinear conjugate gradient method proposed by Dai and Liao, two modified conjugate gradient methods are proposed. Under proper conditions, it is briefly shown that the methods are globally convergent when the line search fulfills the strong Wolfe conditions. Numerical comparisons between the implementations of the proposed methods and the conjugate gradient methods proposed by Hager and Zhang, and Dai and Kou, are made on a set of unconstrained optimization test problems of the CUTEr collection. The results show the efficiency of the proposed methods in the sense of the performance profile introduced by Dolan and Moré.
-
-@highlight Solutions for an open problem in the conjugate gradient methods are discussed.
-@highlight A singular value study on the Dai–Liao conjugate gradient method is made.
-@highlight Two modified Dai–Liao conjugate gradient methods are suggested.
-@highlight Convergence analyses and numerical comparisons are made.

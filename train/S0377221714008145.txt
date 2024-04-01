@@ -1,8 +1,0 @@
- The Vehicle Routing Problem with Simultaneous Pickup and Delivery with Time Limit (VRPSPDTL) is a variant of the basic Vehicle Routing Problem where the vehicles serve delivery as well as pick up operations of the clients under time limit restrictions. The VRPSPDTL determines a set of vehicle routes originating and terminating at a central depot such that the total travel distance is minimized. For this problem, we propose a mixed-integer mathematical optimization model and a perturbation based neighborhood search algorithm combined with the classic savings heuristic, variable neighborhood search and a perturbation mechanism. The numerical results show that the proposed method produces superior solutions for a number of well-known benchmark problems compared to those reported in the literature and reasonably good solutions for the remaining test problems.
-
-@highlight The Vehicle Routing Problem with Simultaneous Pickup and Delivery with Time Limit is presented and the literature is summarized.
-@highlight A mixed-integer linear programming formulation of the problem is proposed.
-@highlight Designed small sized test instances with time limit and no time limit are solved with the CPLEX solver.
-@highlight A perturbation based variable neighborhood search heuristic based on classic savings heuristic, variable neighborhood search, and perturbation mechanism is developed.
-@highlight A number of well-known benchmark problems with time limit and no time limit are solved and the solutions are compared.
-@highlight A perturbation based variable neighborhood search heuristic proposed new best and robust solutions for benchmark problem instances.

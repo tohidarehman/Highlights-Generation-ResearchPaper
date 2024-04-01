@@ -1,7 +1,0 @@
- 3D has been one of the most important technologies of the last decade having an exponential progression. Nevertheless, several problems such as visual discomfort and visual fatigue have slowed its progression for homes. This factor decreases significantly the overall quality of experience from watching 3D content and reduces the level of satisfaction of a user. This study explores the accumulation of visual fatigue when watching 3D video in close to real-life conditions. In order to obtain more information about visual discomfort, an hour of eye-tracking experiments have been conducted. Investigations have been made by analyzing information provided both by users through questionnaires and visual gaze characteristics recording. Obtained results are compared to data produced when watching 2D. The deep statistical analysis showed that time and video content have an influence on video fatigue accumulation and visual functions. With respect to the obtained results, a model has been proposed based on video characteristics (motion activity, disparity range and changes) and the previous state of visual fatigue.
-
-@highlight This paper’s studies factors causing visual discomfort for 3D watching.
-@highlight The study based on eye-tracking explored eye-movements in addition to blinking.
-@highlight Visual fatigue accumulation depends strongly on time and content on S3D content.
-@highlight Features as motion activity and disparity impact visual fatigue accumulation.
-@highlight A model for fatigue prediction based on features and fatigue state is proposed.

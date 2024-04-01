@@ -1,6 +1,0 @@
- We developed an EXpectation Propagation LOgistic REgRession (EXPLORER) model for distributed privacy-preserving online learning. The proposed framework provides a high level guarantee for protecting sensitive information, since the information exchanged between the server and the client is the encrypted posterior distribution of coefficients. Through experimental results, EXPLORER shows the same performance (e.g., discrimination, calibration, feature selection, etc.) as the traditional frequentist logistic regression model, but provides more flexibility in model updating. That is, EXPLORER can be updated one point at a time rather than having to retrain the entire data set when new observations are recorded. The proposed EXPLORER supports asynchronized communication, which relieves the participants from coordinating with one another, and prevents service breakdown from the absence of participants or interrupted communications.
-
-@highlight EXPLORER handles learning from distributed sources without sharing raw data.
-@highlight EXPLORER allows client sites dynamically shift from online to offline modes.
-@highlight EXPLORER offers online learning capability for efficient model update.
-@highlight EXPLORER provides high estimation accuracy and strong privacy protection.

@@ -1,5 +1,0 @@
- The paper studies the incumbent-entrant problem in a fully dynamic setting. We find that under an open-loop information structure the incumbent anticipates entry by overinvesting, whereas in the Markov perfect equilibrium the incumbent slightly underinvests in the period before the entry. The entry cost level where entry accommodation passes into entry deterrence is lower in the Markov perfect equilibrium. Further we find that the incumbent’s capital stock level needed to deter entry is hump shaped as a function of the entry time, whereas the corresponding entry cost, where the entrant is indifferent between entry and non-entry, is U-shaped.
-
-@highlight Anticipation is different in the open-loop commitment scenario compared to the case of Markovian strategies.
-@highlight Entry costs level where entry accommodation passes into entry deterrence is lower in the Markov perfect case.
-@highlight Incumbent’s capital stock level needed to deter entry is a hump shaped function of the entry time.

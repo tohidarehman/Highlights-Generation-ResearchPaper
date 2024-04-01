@@ -1,7 +1,0 @@
- Protein nitration is an important post-translational modification regulating protein structure and function, especially for heme proteins. Myoglobin (Mb) is an ideal protein model for investigating the structure and function relationship of heme proteins. With limited structural information available for nitrated heme proteins from experiments, we herein performed a molecular dynamics study of human Mb with successive nitration of Tyr103, Tyr146, Trp7 and Trp14. We made a detailed comparison of protein motions, intramolecular contacts and internal cavities of nitrated Mbs with that of native Mb. It showed that although nitration of both Tyr103 and Tyr146 slightly alters the local conformation of heme active site, further nitration of both Trp7 and Trp14 shifts helix A apart from the rest of protein, which results in altered internal cavities and forms a water channel, representing an initial stage of Mb unfolding. The computational study provides an insight into the nitration of heme proteins at an atomic level, which is valuable for understanding the structure and function relationship of heme proteins in non-native states by nitration.
-
-@highlight Nitration of human Mb was investigated by MD simulation.
-@highlight Nitration of Tyr103/Tyr146 slightly alters local conformation in heme site.
-@highlight Nitration of Trp7/Trp14 shifts helix A apart from the rest of protein.
-@highlight Nitration regulates the distribution and formation of internal cavities.
-@highlight Structure of nitrated Mb represents an initial stage of unfolding.

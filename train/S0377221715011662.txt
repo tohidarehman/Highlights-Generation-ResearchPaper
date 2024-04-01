@@ -1,7 +1,0 @@
- Given that companies have the flexibility to decide about size and timing of a renewable electricity investment, the existence of four paradox effects is proven: Only the type but not the amount of governmental support has an influence on the optimal capacity of a renewable electricity generating system. A decrease of governmental support over time may result in higher capacities of renewables installed on an industry level, at least on the short term. Likewise, higher uncertainty may encourage an expansion of these capacities. In contrast, technological progress may hamper the expansion of capacities. Finally, these four paradox effects are exemplified in a Germany-based case study regarding a photovoltaic project.
-
-@highlight We analyze the influence of support schemes and flexibility on renewable investments.
-@highlight Investors are assumed to optimally choose the investment timing and the capacity.
-@highlight Given flexibility the optimal capacity does not depend on governmental support.
-@highlight Decreasing governmental support over time may lead to higher capacities installed.
-@highlight Likewise, higher uncertainty may lead to higher capacities installed.

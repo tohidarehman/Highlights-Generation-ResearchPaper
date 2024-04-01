@@ -1,6 +1,0 @@
- Simulation-based forecasting methods for a non-Gaussian noncausal vector autoregressive (VAR) model are proposed. In noncausal autoregressions the assumption of non-Gaussianity is needed for reasons of identifiability. Unlike in conventional causal autoregressions the prediction problem in noncausal autoregressions is generally nonlinear, implying that its analytical solution is unfeasible and, therefore, simulation or numerical methods are required in computing forecasts. It turns out that different special cases of the model call for different simulation procedures. Monte Carlo simulations demonstrate that gains in forecasting accuracy are achieved by using the correct noncausal VAR model instead of its conventional causal counterpart. In an empirical application, a noncausal VAR model comprised of U.S. inflation and marginal cost turns out superior to the best-fitting conventional causal VAR model in forecasting inflation.
-
-@highlight Forecasting methods for a noncausal VAR model are proposed.
-@highlight Due to the nonlinearity of the prediction problem, simulation methods are required.
-@highlight Monte Carlo simulations are used to illustrate the methods.
-@highlight An empirical application to inflation forecasting is presented.

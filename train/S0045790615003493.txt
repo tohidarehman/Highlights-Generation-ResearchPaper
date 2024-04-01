@@ -1,6 +1,0 @@
- Code Division Multiple Access, which allows multiple users to access and transmit data over wireless channel simultaneously, is implemented using different code assignment schemes including Pair-wise Code Assignment. In this paper, the existing pair-wise code assignment procedure is enhanced and a new such scheme is presented with at most ? codes, where ? is the maximum degree of a network. In addition, a co-channel interference called secondary interference that exists in the existing schemes has been addressed and an interference free pair-wise code assignment procedure is proposed with at most ?2- c codes, where c is a constant. On simulation over different synthesized, actual and random networks, it is found that our scheme improves successful transmission rate and blocking probability by 17% and 12.5% respectively. Although the code requirement of the proposed interference free scheme is increased by 40%, it would improve the network performance.
-
-@highlight Two pair-wise code assignment schemes are proposed for CDMA based MAC protocol.
-@highlight A co-channel secondary interference is detected in the existing code assignment schemes.
-@highlight The proposed schemes deals with the minimum code requirement, spatial reuse of codes and avoidance of secondary interference.
-@highlight Improves the network performance.

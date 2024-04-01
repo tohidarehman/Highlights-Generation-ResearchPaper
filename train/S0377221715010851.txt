@@ -1,6 +1,0 @@
- We present two new mixed integer programming formulations for the order acceptance and scheduling problem in two machine flow shops. Solving this optimization problem is challenging because two types of decisions must be made simultaneously: which orders to be accepted for processing and how to schedule them. To speed up the solution procedure, we present several techniques such as preprocessing and valid inequalities. An extensive computational study, using different instances, demonstrates the efficacy of the new formulations in comparison to some previous ones found in the relevant literature.
-
-@highlight We consider the order acceptance and scheduling problem in two machine flow shops.
-@highlight Two new mixed integer linear programming formulations are presented for the problem.
-@highlight Several techniques are developed to improve each of these formulations.
-@highlight Larger instances of the problem are solved within a reasonable amount of time.

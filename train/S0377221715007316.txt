@@ -1,7 +1,0 @@
- In this paper, a hybrid algorithm based on variable neighborhood search and ant colony optimization is proposed to solve the single row facility layout problem. In the proposed algorithm, three neighborhood structures are utilized to enhance the exploitation ability. Meanwhile, new gain techniques are developed to reduce the mathematical calculations of the objective function values. Furthermore, ant colony optimization as the shaking step is used to avoid being stuck at the local optima. In addition, a novel pheromone updating rule has been proposed based on both the best and worst solutions of the ants. A reverse criterion based on edit distance measure is applied to help ants to converge to the best solution and reduce the solution space. Finally, numerical simulation is carried out based on the benchmark instances, and the comparisons with some existing algorithms demonstrate the effectiveness of the proposed algorithm.
-
-@highlight We develop a hybrid algorithm, based on VNS and ACO.
-@highlight Edit distance measure is used to reduce the solution space.
-@highlight A novel approach for updating pheromone value is presented.
-@highlight New gain techniques are used to reduce the solution time.
-@highlight Extensive computational experiments prove the effectiveness of our approach.

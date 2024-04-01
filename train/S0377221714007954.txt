@@ -1,6 +1,0 @@
- Emergency medical services (EMS) assist different classes of patients according to their medical seriousness. In this study, we extended the well-known hypercube model, based on the theory of spatially distributed queues, to analyze systems with multiple priority classes and a queue for waiting customers. Then, we analyzed the computational results obtained when applying this approach to a case study from an urban EMS in the city of Ribeirão Preto, Brazil. We also investigated some scenarios for this system studying different periods of the day and the impact of increasing the demands of the patient classes. The results showed that relevant performance measures can be obtained to analyze such a system by using the analytical model extended to deal with queuing priority. In particular, it can accurately evaluate the average response time for each class of emergency calls individually, paying particular attention to high priority calls.
-
-@highlight We extend the hypercube model to analyze EMS with different priorities in queues.
-@highlight Then we analyze the results obtained when applying this approach to a case study.
-@highlight We investigate scenarios for this system considering different periods of the day.
-@highlight The model can accurately evaluate average response times for each class of calls.

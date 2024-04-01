@@ -1,7 +1,0 @@
- This paper focuses on the problem of 3D shape categorization. For a given set of training 3D shapes, a 3D shape recognition system must be able to predict the class label for a test 3D shape. We introduce a novel discriminative approach for recognizing 3D shape categories which is based on a 3D Spatial Pyramid (3DSP) decomposition. 3D local descriptors computed on the 3D shapes have to be extracted, to be then quantized in order to build a 3D visual vocabulary for characterizing the shapes. Our approach repeatedly subdivides a cube inscribed in the 3D shape, and computes a weighted sum of histogram of visual word occurrences at increasingly fine sub-volumes. Additionally, we integrate this pyramidal representation with different types of kernels, such as the Histogram Intersection Kernel and the extended Gaussian Kernel with ?2 distance. Finally, we perform a thorough evaluation on different publicly available datasets, defining an elaborate experimental setup to be used for establishing further comparisons among different 3D shape categorization methods.
-
-@highlight We introduce the 3D spatial pyramid representation for 3D shape categorization.
-@highlight This pyramid representation repeatedly subdivides a cube inscribed in the 3D shape.
-@highlight Then, a weighted sum of histogram of visual word occurrences is computed.
-@highlight Different types of kernels are integrated into the approach for training a SVM.
-@highlight Results on publicly available benchmarks have been reported.

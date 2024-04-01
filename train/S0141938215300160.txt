@@ -1,6 +1,0 @@
- A new display concept for reproduction of high-luminance colors based on a liquid crystal display has been developed using a brighter backlight unit and color mapping algorithms. The new concept is able to display brighter colors close to a peak luminance of a display white than conventional displays so that realistic scene of brighter colors is better reproduced. It may also be one of the future display solutions needed to extend the color gamut in the direction of brighter colors, which is a principal limitation in conventional displays even in high-dynamic range display systems. With the new concept, an xvYCC- (extended-video YCbCr) compatible display can be easily realized.
-
-@highlight A new display concept for the reproduction of high-luminance colors was proposed.
-@highlight A new display was compared with the conventional display using xvYCC and sRGB-encoded images.
-@highlight xvYCC compatible display was realized.
-@highlight Impact of sRGB expansion was verified through the subjective experime.

@@ -1,6 +1,0 @@
- This paper introduces a novel two-phase supplier selection procedure. Unlike most supplier selection researches, which are decisive based on supplier eligibility at the time of the decision making, the proposed method is based on the long term trend of value, stability, and relationship of potential suppliers. In the first phase, suppliers are evaluated and assigned a comparable value based on a set of criteria. This value is then analyzed in the long run, and fed into a multi-objective portfolio optimization model in the second phase. The model determines a supplier portfolio by maximizing the expected value and development of suppliers, and minimizing their correlated risk. The novelty of this procedure is introducing a new view toward the supplier selection problem. Numerical tests show that the proposed approach selects higher value suppliers with lower risk of failure, compared to available methods.
-
-@highlight A novel supplier selection model with supplier value, development and risk is proposed.
-@highlight Consignee preference, supplier change and covariance of suppliers are considered.
-@highlight Approach is compared with literature and tested through extensive numerical tests.
-@highlight Lower risk of failure, analysis, change of suppliers, and higher value are achieved.

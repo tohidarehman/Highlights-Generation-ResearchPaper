@@ -1,7 +1,0 @@
- The main goal of this paper was to develop an integrated simulation-design of experiments (DOE) model to optimize a petrol station queuing system and sales rate. Initially, the petrol station operating system was simulated using Witness 2014 simulation software©. Then, the responses of simulation were deployed as the input of DOE. Two-level full factorial experiments with center points were performed where the simulated model parameter studied were number of pump, number of cashier and inter arrival times (IATs). The response variables analyzed were queue length and sales rate. The obtained model from experimental design revealed that number of cashier and inter arrival time were significant in determining the queue length while all the factors and their interaction were significantly affecting the sales rate.
-
-@highlight A case study was simulated to provide a realistic depiction of an operating system.
-@highlight Investigated factors were number of pump, number of cashier and IATs.
-@highlight 2-level full factorial experiments were used for further analysis of simulation.
-@highlight The performance of a service industry queuing system has been analyzed.
-@highlight The influential parameters on queue length and sales rate have been obtained.

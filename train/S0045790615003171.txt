@@ -1,6 +1,0 @@
- This paper proposes an accelerating correlation-based image alignment using CPUs for time-critical applications in automatic optical inspection (AOI). In order to improve computation efficiency, the image pyramid search scheme is combined with the parallel computation. The image pyramid search scheme is employed first to quickly find certain objects in both monochrome and color images with rotation, translation and scaling. Sub-pixel accuracy is then used to attain the more accurate results at the sub-pixel level. In our experimental results, rotation accuracy is smaller than 0.218°, and the speed is increased between 277 and 20,841 times. According to translation, rotation and scaling tests, the errors of rotation, translation and scaling are 0.2°, 2.07pixel and 0.55%, respectively. These results show that the proposed method is suitable for dealing with correlation-based image alignment for time-critical applications in automatic optical inspection.
-
-@highlight We propose an accelerating CPU based correlation-based image alignment.
-@highlight The image pyramid search scheme is combined with the parallel computation.
-@highlight Sub-pixel accuracy is used to attain the more accurate image alignment.
-@highlight It can align the accurate pose of the template image within the inspected image.

@@ -1,5 +1,0 @@
- A mixture of latent trait models with common slope parameters for model-based clustering of high-dimensional binary data, a data type for which few established methods exist, is proposed. Recent work on clustering of binary data, based on a -dimensional Gaussian latent variable, is extended by incorporating common factor analyzers. Accordingly, this approach facilitates a low-dimensional visual representation of the clusters. The model is further extended by the incorporation of random block effects. The dependencies in each block are taken into account through block-specific parameters that are considered to be random variables. A variational approximation to the likelihood is exploited to derive a fast algorithm for determining the model parameters. Real and simulated data are used to demonstrate this approach.
-
-@highlight A method for clustering high-dimensional binary data.
-@highlight The model is extended to include random block effects for repeatedly sampled data.
-@highlight A variational EM algorithm is developed for parameter estimation.

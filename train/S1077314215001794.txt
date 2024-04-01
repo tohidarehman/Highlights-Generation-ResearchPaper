@@ -1,7 +1,0 @@
- Successful efforts in hand gesture recognition research within the last two decades paved the path for natural human–computer interaction systems. Unresolved challenges such as reliable identification of gesturing phase, sensitivity to size, shape, and speed variations, and issues due to occlusion keep hand gesture recognition research still very active. We provide a review of vision-based hand gesture recognition algorithms reported in the last 16 years. The methods using RGB and RGB-D cameras are reviewed with quantitative and qualitative comparisons of algorithms. Quantitative comparison of algorithms is done using a set of 13 measures chosen from different attributes of the algorithm and the experimental methodology adopted in algorithm evaluation. We point out the need for considering these measures together with the recognition accuracy of the algorithm to predict its success in real-world applications. The paper also reviews 26 publicly available hand gesture databases and provides the web-links for their download.
-
-@highlight The paper surveys RGB and RGB-D sensors based hand gesture recognition methods.
-@highlight Dynamic as well as static gesture (posture/pose) recognition methods are reviewed.
-@highlight Qualitative as well as quantitative comparison of algorithms is provided.
-@highlight Twenty-six publicly available hand gesture/posture databases are also reviewed.
-@highlight Discussion on unresolved issues and future research directions is provided.

@@ -1,6 +1,0 @@
- We suggest a new one-parameter family of solidarity values for TU-games. The members of this class are distinguished by the type of player whose removal from a game does not affect the remaining players’ payoffs. While the Shapley value and the equal division value are the boundary members of this family, the solidarity value is its center. With exception of the Shapley value,.
-
-@highlight A new family of solidarity values is suggested and characterized.
-@highlight Shapley value and equal division value are its boundary members.
-@highlight The solidarity value is its center.
-@highlight Almost all of these values are asymptotically equivalent to the equal division value.

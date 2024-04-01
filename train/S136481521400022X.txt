@@ -1,7 +1,0 @@
- ï»¿This systematic review considers how water quality and aquatic ecology models represent the phosphorus cycle. Although the focus is on phosphorus, many of the observations and discussion points here relate to aquatic ecosystem models in general. The review considers how models compare across domains of application, the degree to which current models are fit for purpose, how to choose between multiple alternative formulations, and how models might be improved. Lake and marine models have been gradually increasing in complexity, with increasing emphasis on inorganic processes and ecosystems. River models have remained simpler, but have been more rigorously assessed. Processes important in less eutrophic systems have often been neglected: these include the biogeochemistry of organic phosphorus, transformations associated with fluxes through soils and sediments, transfer rate-limited phosphorus uptake, and responses of plants to pulsed nutrient inputs. Arguments for and against increasing model complexity, physical and physiological realism are reviewed.
-
-@highlight The treatment of phosphorus in aquatic models is systematically reviewed.
-@highlight The complexity of lake, river and marine models is increasing over time.
-@highlight Catchment–river models tend to be simpler than lake and marine models.
-@highlight Performance assessment of lake and marine models is generally inadequate.
-@highlight Processes not included in models are discussed.

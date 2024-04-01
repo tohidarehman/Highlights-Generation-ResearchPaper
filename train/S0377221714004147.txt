@@ -1,7 +1,0 @@
- Economic activity produces not only desirable outputs but also undesirable outputs. Undesirable outputs are usually omitted from efficiency assessments (i.e., applications of Data Envelopment Analysis) which fail to express the true production process. The directional distance function model has been used for handling asymmetrically both desirable and undesirable outputs in the assessment process. In the present paper, we apply a generalized directional distance function to measure the efficiency of the health systems of 171 countries. We incorporate both desirable and undesirable outputs into the efficiency assessment without transforming the latter type of outputs into inputs or into their inverse form, as is done in most of the extant studies that deal with the measurement of health efficiency. The methodology that we apply introduces a modified definition of the efficiency score which yields results consistent with those obtained from radial DEA models. In addition, our results are independent of the length of the direction vector.
-
-@highlight We measure the efficiency of health systems of 171 countries.
-@highlight We incorporate both desirable and undesirable outputs into the efficiency assessment.
-@highlight We introduce a modified definition of the efficiency score.
-@highlight The obtained efficiency scores are independent of the length of the direction vector.
-@highlight The inefficiency scores always lie within the interval null and unity.

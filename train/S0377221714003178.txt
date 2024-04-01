@@ -1,7 +1,0 @@
- The aim of this paper is to solve a real-world problem proposed by an international company operating in Spain and modeled as a variant of the Open Vehicle Routing Problem in which the makespan, i.e., the maximum time spent on the vehicle by one person, must be minimized. A competitive multi-start algorithm, able to obtain high quality solutions within reasonable computing time is proposed. The effectiveness of the algorithm is analyzed through computational testing on a set of 19 school-bus routing benchmark problems from the literature, and on 9 hard real-world problem instances.
-
-@highlight Nine real-world problems that concerns the planning of bus services are solved.
-@highlight The problem is modeled as a variant of the Open Vehicle Routing Problem.
-@highlight The objective is to minimize the makespan instead of the total cost.
-@highlight A competitive multi-start algorithm is proposed.
-@highlight A specific local search for the considered problem is proposed.

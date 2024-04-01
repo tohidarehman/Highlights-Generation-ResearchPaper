@@ -1,7 +1,0 @@
- This paper presents two new dynamic programming (DP) algorithms to find the exact Pareto frontier for the bi-objective integer knapsack problem. First, a property of the traditional DP algorithm for the multi-objective integer knapsack problem is identified. The first algorithm is developed by directly using the property. The second algorithm is a hybrid DP approach using the concept of the bound sets. The property is used in conjunction with the bound sets. Next, the numerical experiments showed that a promising partial solution can be sometimes discarded if the solutions of the linear relaxation for the subproblem associated with the partial solution are directly used to estimate an upper bound set. It means that the upper bound set is underestimated. Then, an extended upper bound set is proposed on the basis of the set of linear relaxation solutions. The efficiency of the hybrid algorithm is improved by tightening the proposed upper bound set. The numerical results obtained from different types of bi-objective instances show the effectiveness of the proposed approach.
-
-@highlight A property of the traditional dynamic programming algorithm is identified.
-@highlight The first algorithm is developed by directly using the property.
-@highlight The second algorithm is developed by using the property in conjunction with the bound sets.
-@highlight Insufficiency of linear relaxation solutions to estimate an upper bound set is identified.
-@highlight An extended upper set is proposed on the basis of the set of the linear relaxation solutions.

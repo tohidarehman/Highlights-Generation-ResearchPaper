@@ -1,7 +1,0 @@
- In this paper, we study a multi-periodic production planning problem in agriculture. This problem belongs to the class of crop rotation planning problems, which have received considerable attention in the literature in recent years. Crop cultivation and fallow periods must be scheduled on land plots over a given time horizon so as to minimize the total surface area of land used, while satisfying crop demands every period. This problem is proven strongly NP-hard. We propose a 0-1 linear programming formulation based on crop-sequence graphs. An extended formulation is then provided with a polynomial-time pricing problem, and a Branch-and-Price-and-Cut (BPC) algorithm is presented with adapted branching rules and cutting planes. The numerical experiments on instances varying the number of crops, periods and plots show the effectiveness of the BPC for the extended formulation compared to solving the compact formulation, even though these two formulations have the same linear relaxation bound.
-
-@highlight A new fully-combinatorial sustainable crop planning problem is proven NP-hard.
-@highlight A {0,1} linear programming formulation and an extended formulation are provided.
-@highlight The sub-problem in the extended formulation has the integrality property.
-@highlight A Branch-and-Price-and-Cut (BPC) algorithm is proposed.
-@highlight Comparative results for a large set of instances show the effectiveness of BPC.

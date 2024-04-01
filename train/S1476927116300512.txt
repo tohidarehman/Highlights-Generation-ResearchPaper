@@ -1,7 +1,0 @@
- Carcinogenicity prediction is an important process that can be performed to cut down experimental costs and save animal lives. The current reliability of the results is however disputed. Here, a blind exercise in carcinogenicity category assessment is performed using augmented top priority fragment classification. The procedure analyses the applicability domain of the dataset, allocates in clusters the compounds using a leading molecular fragment, and a similarity measure. The exercise is applied to three compound datasets derived from the Lois Gold Carcinogenic Database. The results, showing good agreement with experimental data, are compared with published ones. A final discussion on our viewpoint on the possibilities that the carcinogenicity modelling of chemical compounds offers is presented.
-
-@highlight The prediction of chemical carcinogenicity using theoretical models is examined.
-@highlight A non-congeneric dataset is analysed.
-@highlight A blind approach to modelling carcinogenicity is used warranting an unbiased result.
-@highlight A comparison with available models is performed.
-@highlight A discussion concerning the prediction reliability is presented.

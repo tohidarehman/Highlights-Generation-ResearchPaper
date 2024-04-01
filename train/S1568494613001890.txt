@@ -1,5 +1,0 @@
- The paper introduces several modifications to self-learning fuzzy spiking neural network that is used as a base for evolving system design. The adaptive wavelet activation-membership functions are utilized to improve and generalize receptive neuron activation functions and the temporal Hebbian learning algorithm. The proposed evolving spiking wavelet-neuro-fuzzy self-learning system retains native features of spiking neurons and reveals evolving systems’ capabilities in detecting overlapping clusters of irregular form.
-
-@highlight Evolving system based on self-learning fuzzy spiking neural network is proposed.
-@highlight The adaptive wavelet activation-membership functions usage is extended.
-@highlight Complex clusters detection capability is achieved via evolving architecture.

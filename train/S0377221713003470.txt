@@ -1,5 +1,0 @@
- Risk aversion is a prevalent phenomenon when sufficiently large amounts are at risk. In this paper, we introduce a new prescriptive approach for coping with risk in sequential decision problems with discrete scenario space. We use Conditional Value-at-Risk (CVaR) risk measure as optimization criterion and prove that there is an explicit linear representation of the proposed model for the problem.
-
-@highlight We developed decision tree analysis for a risk averse decision maker under CVaR Criterion.
-@highlight We proved there is an explicit non trivial linear representation of the problem.
-@highlight We showed the geometric underpinnings of the model using disjunctive programming theory.

@@ -1,7 +1,0 @@
- Bacterial MocR transcriptional regulators possess an N-terminal DNA-binding domain containing a conserved helix-turn-helix module and an effector-binding and/or oligomerization domain at the C-terminus, homologous to fold type-I pyridoxal 5′-phosphate (PLP) enzymes. Since a comprehensive structural analysis of the MocR regulators is still missing, a comparisons of Firmicutes MocR sequences was undertook to contribute to the understanding of the structural characteristics of the C-terminal domain of these proteins, and to shed light on the structural and functional relationship with fold type-I PLP enzymes. Results of this work suggest the presence of at least three subgroups within the MocR sequences and provide a guide for rational site-directed mutagenesis studies aimed at deciphering the structure-function relationships in this new protein family.
-
-@highlight C-terminal domains of Firmicutes MocR cluster into three clades.
-@highlight Evolutionary analysis indicates conserved structural features.
-@highlight Each Firmicutes MocR clade is characterized by specific conserved residues.
-@highlight MocR effector binding site shares many features with PLP fold type-I enzymes.
-@highlight Differences with PLP enzymes may explain lack of catalytic activity

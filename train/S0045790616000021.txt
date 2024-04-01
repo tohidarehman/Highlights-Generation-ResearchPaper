@@ -1,7 +1,0 @@
- A graph grammar is a formal tool for providing rigorous but intuitive ways to define visual languages. Based on an existing graph grammar, this paper proposes new context-sensitive graph grammar formalism called the Extension of Edge-based Graph Grammar, or E-EGG. The E-EGG introduces new mechanisms into grammatical specifications, productions, operations and so on in order to conveniently treat the bidirectional transformation between the Business Process Modeling Notation (BPMN) and the Business Process Execution Language (BPEL). Besides formal definitions of the E-EGG are provided, steps and algorithms to achieve the bidirectional transformation and to check the correctness of BPMN models’ structure are presented. Finally, a case study on transformation from BPMN models to BPEL codes is provided to show how the parsing algorithm of the E-EGG works.
-
-@highlight We propose a new context-sensitive graph grammar formalism called E-EGG in short.
-@highlight E-EGG introduces new mechanisms to tackle bidirectional transformation between BPMN and BPEL.
-@highlight Steps to achieve transformation and check correctness of BPMN structure are presented.
-@highlight Corresponding algorithms are further designed and analyzed.
-@highlight A case study on transformation from BPMN to BPEL is discussed.

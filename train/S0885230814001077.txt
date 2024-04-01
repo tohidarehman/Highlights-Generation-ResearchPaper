@@ -1,5 +1,0 @@
- This survey on hybrid machine translation (MT) is motivated by the fact that hybridization techniques have become popular as they attempt to combine the best characteristics of highly advanced pure rule or corpus-based MT approaches. Existing research typically covers either simple or more complex architectures guided by either rule or corpus-based approaches. The goal is to combine the best properties of each type. This survey provides a detailed overview of the modification of the standard rule-based architecture to include statistical knowledge, the introduction of rules in corpus-based approaches, and the hybridization of approaches within this last single category. The principal aim here is to cover the leading research and progress in this field of MT and in several related applications.
-
-@highlight Overview of hybrid machine translation guided by the rule-based paradigm.
-@highlight Overview of hybrid machine translation guided by the corpus-based paradigm.
-@highlight Review of works on machine translation applications with hybrid components.

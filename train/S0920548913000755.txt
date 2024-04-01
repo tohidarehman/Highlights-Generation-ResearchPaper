@@ -1,6 +1,0 @@
- This paper presents the concept of hybrid semantic-document models to aid information management when using standards for complex technical domains. These standards are traditionally text based documents for human interpretation, but prose sections can often be ambiguous and can lead to discrepancies. Many organisations will produce semantic representations of the material. In developing these semantic representations, no relationship is maintained to the original prose. Maintaining the relationships has key benefits, including assessing conformance at a semantic level rather than prose, and enabling original content authors to explicitly define their intentions. This paper proposes a framework to help achieve these benefits.
-
-@highlight We present the concept of hybrid semantic-document models.
-@highlight Provide an analysis of the information model of Military Standard TDL Link 16
-@highlight We propose set of model relationships to facilitate the concept.
-@highlight Evaluate the potential benefits of the approach

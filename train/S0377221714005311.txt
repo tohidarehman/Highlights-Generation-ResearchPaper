@@ -1,7 +1,0 @@
- We consider a random yield inventory system, where a company has access to real time information about the actual yield realizations. To contribute to a better understanding of the value of this information, we develop a mathematical model of the inventory system and derive structural properties. We build on these properties to develop an optimal solution approach that can be used to solve small to medium sized problems. To solve large problems, we develop two heuristics. We conduct numerical experiments to test the performances of our approaches and to identify conditions under which real time yield information is particularly beneficial. Our research provides the approaches that are necessary to implement inventory control policies that utilize real time yield information. The results can also be used to estimate the cost savings that can be achieved by using real time yield information. The cost savings can then be compared against the required investments to decide if such an investment is profitable.
-
-@highlight Consider random yield inventory system with real-time yield information.
-@highlight Develop optimal solution approach for small to medium sized problems.
-@highlight Develop heuristics to solve large problems.
-@highlight Conduct numerical experiments to test the performances of the approaches.
-@highlight Provide an estimate for value of using real time yield information.

@@ -1,7 +1,0 @@
- Feature selection methods are used in machine learning and data analysis to select a subset of features that may be successfully used in the construction of a model for the data. These methods are applied under the assumption that often many of the available features are redundant for the purpose of the analysis. In this paper, we focus on a particular method for feature selection in supervised learning problems, based on a linear programming model with integer variables. For the solution of the optimization problem associated with this approach, we propose a novel robust metaheuristics algorithm that relies on a Greedy Randomized Adaptive Search Procedure, extended with the adoption of short memory and a local search strategy. The performances of our heuristic algorithm are successfully compared with those of well-established feature selection methods, both on simulated and real data from biological applications. The obtained results suggest that our method is particularly suited for problems with a very large number of binary or categorical features.
-
-@highlight Feature Selection (FS) is modelled as a (mixed) integer optimization problem.
-@highlight To solve this problem, a new FS algorithm (FSA) with short memory is proposed.
-@highlight This algorithm has been already successfully applied to life science data.
-@highlight New experiments on randomly generated and real biological datasets are reported.
-@highlight The results are compared w.r.t. other FSA confirming the validity of our approach.

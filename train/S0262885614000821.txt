@@ -1,7 +1,0 @@
- The present work attempts to build a bio-cryptographic system that combines transformed minutiae pairwise feature and user-generated password fuzzy vault. The fingerprint fuzzy vault is based on a new minutiae pairwise structure, which overcomes the fingerprint feature publication while the secret binary vault code is generated according to the fingerprint fuzzy vault result. The authentication process involves two stages: fuzzy vault matching and secret vault code validation. Our minutiae pairwise transformation produces different templates thus resolving the problem of cross matching attacks in fingerprint fuzzy vault. So, the original fingerprint template cannot be recreated because it is protected by the key generated from the user password. In addition, the proposed bio-cryptographic system ensures an acceptable security level for user authentication.
-
-@highlight A new fingerprint feature representation.
-@highlight The proposed fingerprint fuzzy vault scheme has three layers of security.
-@highlight The hardened fuzzy vault scheme produces different templates.
-@highlight The hardened fuzzy vault scheme can resolve the problem of cross matching attacks.
-@highlight The results show better user authentication performance with FRR=6.31% at FAR=0%.

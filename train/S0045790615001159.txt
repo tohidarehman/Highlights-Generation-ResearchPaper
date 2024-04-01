@@ -1,6 +1,0 @@
- This article presents a new method for detecting objects on waters’ surfaces using colour elimination based on image erosion with a morphological variable. The proposed object detection method includes definitions of the target’s colour space and colour deviation using Euclidean distance. It also introduces a procedure for image erosion using a morphological variable. In order to evaluate the proposed object detection method, the experiments were performed on two different image databases: the MSRA (Microsoft Research Asia) salient object database and a proprietary image database containing pictures of water activities typically encountered near hydro power plants. The experimental results show that the proposed object detection method enables efficient and robust detection of objects on of waters’ surfaces, compared to other methods primarily based on the optimisation of image contrast and edge detection.
-
-@highlight A new method for detecting salient objects on waters’ surfaces is proposed.
-@highlight The proposed object-detection method enables an efficient and robust detection.
-@highlight Four different methods were compared with the proposed CEIEMV method.
-@highlight The proposed method equals or outperforms the methods being compared.

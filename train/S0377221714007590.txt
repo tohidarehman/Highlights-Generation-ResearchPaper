@@ -1,7 +1,0 @@
- Packaging links the entire supply chain and coordinates all participants in the process to give a flexible and effective response to customer needs in order to maximize satisfaction at optimal cost. This research proposes an optimization model to define the minimum total cost combination of outer packs in various distribution channels with the least opening ratio (the percentage of total orders requiring the opening of an outer pack to exactly meet the demand). A simple routine to define a feasible start point is proposed to reduce the complexity caused by the number of possible combinations. A Fast-Moving Consumer Goods company in an emerging economy (Colombia) is analyzed to test the proposed methodology. The main findings are useful for emerging markets in that they provide significant savings in the whole supply chain and insights into the packaging problem.
-
-@highlight The packaging design has a strategic impact in the efficiency of the supply chain.
-@highlight The optimization model defines the best quantity of units inside a package.
-@highlight A set of scenarios is evaluated in a Colombian Fast-Moving Consumer Goods company.
-@highlight A proposed initialization routine let to reduce the computational time.
-@highlight All the scenarios yielded an average decrease of 8 percent in the total logistics cost.

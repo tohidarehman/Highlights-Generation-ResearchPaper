@@ -1,7 +1,0 @@
- In underwater acoustic sensor networks, long baseline localization for autonomous underwater vehicles (AUVs) requires distance estimation that always encounters severe problems: (a) Time-synchronization is hard to achieve in underwater environment, which baffles ranging methods based on the synchronized time. (b) Long propagation delay of acoustic signals and the impact of AUVs’ mobility make it rash to use the round trip ranging (RTR) technology. (c) Sound speed uncertainty enlarges the inaccuracy of distance estimation. This work addresses those problems above and proposes an AUVs self-localization algorithm with accurate sound travel time solution (SL-STTS), which is time-synchronization free and ranging optimization based. Simulation results show that under the measurement noise of time and angles, the root mean square error of SL-STTS is decreased by about 8–79% compared with the counterparts. In addition the average distance estimation error of SL-STTS is declined by 42% compared with RTR.
-
-@highlight RTR causes large ranging error.
-@highlight AOA and AUV's orientation are processed to produce accurate OWTT.
-@highlight Mathematical expectation of underwater sound speed reasonably catches its uncertainty.
-@highlight LMA serves as an effective ranging optimizer to localize the AUV.
-@highlight The strategy is sensitive to time measurement noise and less affected by angle measurement noise.

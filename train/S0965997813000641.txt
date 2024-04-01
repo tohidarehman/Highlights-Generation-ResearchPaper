@@ -1,7 +1,0 @@
- Temperature and early-age mechanical properties in hydrating concrete structures present a significant risk for cracking, having a major impact on concrete durability. In order to tackle these phenomena, a multiscale analysis is formulated. It accounts for a high variety of cement properties, concrete composition, structure geometry and boundary conditions. The analysis consists of two steps. The first step focuses on the evolution of moisture and temperature fields. An affinity hydration model accompanied with non-stationary heat and moisture balance equations are employed. The second step contains quasi-static creep, plasticity and damage models. It imports the previously calculated moisture and temperature fields into the mechanical problem in the form of a staggered solution. The whole model has been implemented in the ATENA software, including also the effect of early-age creep, autogenous and drying shrinkage. Validation on selected structures shows a good prediction of temperature fields during concrete hardening and a reasonable performance of the mechanical part.
-
-@highlight A multiscale hydro-thermo-mechanical model is developed to investigate RC structures.
-@highlight Staggered approach is used: humidity/moisture transport and static creep analyses.
-@highlight An affinity hydration model is employed to calculate generated hydration heat.
-@highlight Hydration heat measured or predicted from concrete composition at microscale level.
-@highlight Validation on several structures. For engineering practice.

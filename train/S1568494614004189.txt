@@ -1,6 +1,0 @@
- In this paper, the author proposes some new ideas for the E-spread information systems for an epidemic E, and takes covering approximation spaces as mathematical models of E-spread information systems. By characterizations for connectivity of covering approximation spaces, the author solves the problem: How can one know that an epidemic E spreads easily or not easily in a E-spread information system? Furthermore, the author gives an example to demonstrate the usefulness, which gives a further application of rough set theory in medical sciences of the above result by logical methods and mathematical methods.
-
-@highlight We introduce the E-spread information systems for an epidemic E.
-@highlight We take covering approximation spaces as models of E-spread information systems.
-@highlight We characterize connectivity of covering approximation spaces.
-@highlight We characterize the epidemic E spreads easily in a E-spread information system.

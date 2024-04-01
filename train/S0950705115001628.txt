@@ -1,5 +1,0 @@
- In this paper, we address the task of automatically tracking a variable number of objects in the scene of a monocular and uncalibrated camera. We propose a global optimization method in network flow model for multiple object tracking. This approach extends recent work which formulates the tracking-by-detection into a maximum-a posteriori (MAP) data association problem. We redefine the observation likelihood and the affinity between observations to handle long term occlusions. Moreover, an improved greedy algorithm is designed to solve min-cost flow, reducing the amount of ID switches apparently. Furthermore, a linear hypothesis method is proposed to fill up the gaps in the trajectories. The experiment results demonstrate that our method is effective and efficient, and outperforms the state-of-the-art approaches on several benchmark datasets.
-
-@highlight Proposing a new integrated observation model.
-@highlight Proposing an improved approximate greedy algorithm.
-@highlight Proposing a simple and effective linear hypothesis method.

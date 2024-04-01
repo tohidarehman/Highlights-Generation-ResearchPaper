@@ -1,6 +1,0 @@
- This paper presents a new powerful nature-inspired method named Virus Colony Search (VCS). VCS simulates diffusion and infection strategies for the host cells adopted by virus to survive and propagate in the cell environment. With the strategies, the individual in the new algorithm explores and exploits the search space more efficiently. To verify the performance of our VCS, both the unconstrained classic and CEC2014 modern benchmark functions, and constrained engineering design optimization problems are employed. The experimental results, considering both convergence and accuracy simultaneously, demonstrate the effectiveness of VCS for global numerical and engineering optimization problems.
-
-@highlight A new VCS algorithm is introduced to solve the mathematical and engineering optimization.
-@highlight Forty numerical optimization problems and three engineering design problems are tested.
-@highlight The results obtained by VCS are compared with other optimization methods.
-@highlight Obtained results confirm the excellent performance of the VCS method.

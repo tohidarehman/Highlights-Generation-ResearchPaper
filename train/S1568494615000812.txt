@@ -1,6 +1,0 @@
- The optimal layout or geometry of the production area (stope) in an underground mining operation maximises the undiscounted value subject to the inherent physical, geotechnical, and geological constraints. Numerous approaches to develop possible stope layouts have been introduced. However, owing to the size and complexity of the problem, these approaches do not guarantee an optimal solution in three-dimensional space. This article proposes a new heuristic algorithm that incorporates stope size variation for solving this complex and challenging optimisation problem. A case study demonstrates the implementation of the algorithm on an actual ore body model. In a validation study, the proposed algorithm generates 10.7% more profitable solution than the commercially available Maximum Value Neighbourhood (MVN) algorithm.
-
-@highlight This research proposes a new heuristic algorithm for stope layout optimisation in underground mining operations.
-@highlight The proposed heuristic generates non-overlapping stopes in three-dimensional space.
-@highlight A modification in the original algorithm resolves the computational complexity of the problem.
-@highlight An implementation demonstrates its robustness and value as compared to commercially available software.

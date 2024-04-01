@@ -1,9 +1,0 @@
- In this paper, we address the problem of parallel batching of jobs on identical machines to minimize makespan. The problem is motivated from the washing step of hospital sterilization services where jobs have different sizes, different release dates and equal processing times. Machines can process more than one job at the same time as long as the total size of jobs in a batch does not exceed the machine capacity. We present a branch and bound based heuristic method and compare it to a linear model and two other heuristics from the literature. Computational experiments show that our method can find high quality solutions within short computation time.
-
-@highlight Parallel batch scheduling approach for hospital sterilization services.
-@highlight A branch and bound based heuristic method is developed.
-@highlight Our algorithm,
-@highlight BB
-@highlight , can solve real-world size instances with short computation time.
-@highlight BB
-@highlight outperforms the current state of the art solution methods for most of the problem instances.

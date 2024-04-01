@@ -1,7 +1,0 @@
- The reformulation–linearization technique (RLT), introduced in [Sherali, H. D., Adams. W. P. . A hierarchy of relaxations between the continuous and convex hull representations for zero-one programming problems. SIAM Journal on Discrete Mathematics 3, 411–430], provides a way to compute a hierarchy of linear programming bounds on the optimal values of NP-hard combinatorial optimization problems. In this paper we show that, in the presence of suitable algebraic symmetry in the original problem data, it is sometimes possible to compute level two RLT bounds with additional linear matrix inequality constraints. As an illustration of our methodology, we compute the best-known bounds for certain graph partitioning problems on strongly regular graphs.
-
-@highlight We study reformulation–linearization technique relaxations for two problems.
-@highlight Namely standard quadratic programming and the quadratic assignment problem.
-@highlight We show how these relaxations relate to known ones from the literature.
-@highlight We show how to exploit symmetry in the problem data when solving RLT relaxations.
-@highlight Thus we compute the best known bounds for some graph partitioning problems.

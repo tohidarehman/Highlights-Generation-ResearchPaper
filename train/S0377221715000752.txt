@@ -1,6 +1,0 @@
- The problem of sharing a cost M among n individuals, identified by some characteristic appears in many real situations. Two important proposals on how to share the cost are the egalitarian and the proportional solutions. In different situations a combination of both distributions provides an interesting approach to the cost sharing problem. In this paper we obtain a family of (compromise) solutions associated to the Perron’s eigenvectors of Levinger’s transformations of a characteristics matrix A. This family includes both the egalitarian and proportional solutions, as well as a set of suitable intermediate proposals, which we analyze in some specific contexts, as claims problems and inventory cost games.
-
-@highlight We present a family of compromise solutions for cost sharing problems.
-@highlight Our proposals are between the egalitarian and proportional solutions.
-@highlight We analyze the monotonic behavior of these solutions.
-@highlight We apply them to specific situations (inventory cost games and claims problems).

@@ -1,6 +1,0 @@
- In this paper, we consider the two-dimensional variable-sized bin packing problem (2DVSBPP) with guillotine constraint. 2DVSBPP is a well-known NP-hard optimization problem which has several real applications. A mixed bin packing algorithm (MixPacking) which combines a heuristic packing algorithm with the Best Fit algorithm is proposed to solve the single bin problem, and then a backtracking algorithm which embeds MixPacking is developed to solve the 2DVSBPP. A hybrid heuristic algorithm based on iterative simulated annealing and binary search (named HHA) is then developed to further improve the results of our Backtracking algorithm. Computational experiments on the benchmark instances for 2DVSBPP show that HHA has achieved good results and outperforms existing algorithms.
-
-@highlight A mixed packing algorithm which combines a heuristic with Best Fit is presented.
-@highlight A hybrid heuristic algorithm based on simulated annealing and binary search are developed.
-@highlight Experiments show that the proposed algorithm outperforms the existing algorithms.
-@highlight The first hybrid meta-heuristic algorithm for the considered problem.

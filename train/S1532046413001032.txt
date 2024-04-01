@@ -1,7 +1,0 @@
- Temporal information in clinical narratives plays an important role in patients’ diagnosis, treatment and prognosis. In order to represent narrative information accurately, medical natural language processing (MLP) systems need to correctly identify and interpret temporal information. To promote research in this area, the Informatics for Integrating Biology and the Bedside (i2b2) project developed a temporally annotated corpus of clinical narratives. This corpus contains 310 de-identified discharge summaries, with annotations of clinical events, temporal expressions and temporal relations. This paper describes the process followed for the development of this corpus and discusses annotation guideline development, annotation methodology, and corpus quality.
-
-@highlight This paper describes the creation of a temporally annotated clinical corpus.
-@highlight It is the largest publically available clinical corpus with full temporal information.
-@highlight This paper informs the MLP researchers about the temporal data preparation process.
-@highlight This paper guides the development of future clinical temporal annotation guidelines.
-@highlight It cautions against pitfalls and the issues often raised in the temporal representation.

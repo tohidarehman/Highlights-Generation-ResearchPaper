@@ -1,8 +1,0 @@
- In this paper, we deal with the problem of classification of interval type-2 fuzzy sets through evaluating their distinguishability. To this end, we exploit a general matching algorithm to compute their similarity measure. The algorithm is based on the aggregation of two core similarity measures applied independently on the upper and lower membership functions of the given pair of interval type-2 fuzzy sets that are to be compared. Based on the proposed matching procedure, we develop an experimental methodology for evaluating the distinguishability of collections of interval type-2 fuzzy sets. Experimental results on evaluating the proposed methodology are carried out in the context of classification by considering interval type-2 fuzzy sets as patterns of suitable classification problem instances. We show that considering only the upper and lower membership functions of interval type-2 fuzzy sets is sufficient to (i) accurately discriminate between them and (ii) judge and quantify their distinguishability.
-
-@highlight We deal with the problem of classifying interval type-2 fuzzy sets data.
-@highlight A generalized matching algorithm is introduced to compare interval type-2 fuzzy sets.
-@highlight The problem of evaluating the distinguishability of interval type-2 fuzzy sets is then addressed.
-@highlight The distinguishability of a collection of interval type-2 fuzzy sets is directly related to the obtained test set classification accuracy result.
-@highlight The methodology is applied to four different collections of interval type-2 fuzzy sets, elaborated from the same input data.
-@highlight Interesting experimental results are obtained which confirm the validity of the proposed method.

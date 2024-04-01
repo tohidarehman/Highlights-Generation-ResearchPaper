@@ -1,5 +1,0 @@
- This paper proposes a cross-layer mobility support scheme for the IPv6 over low-power wireless personal area network (6LoWPAN) wireless sensor network (WSN). This scheme combines the handover in the network layer (L3) with the handover in the link layer (L2) so that the L3 handover and the L2 one can be performed simultaneously. During the L3 handover process, a sensor node neither needs a care-of address nor participates in the handover process. During the L2 handover process, a node uses the channel information to directly achieve the L2 handover without scanning all channels. Finally, this paper analyzes and evaluates the performance of this protocol, and the data results show that this protocol improves the mobility handover performance.
-
-@highlight The L3 handover and the L2 handover can be performed simultaneously.
-@highlight A sensor node can directly achieve the L2 handover without scanning all channels.
-@highlight A sensor node neither needs a care-of address nor participates in the L3 handover.

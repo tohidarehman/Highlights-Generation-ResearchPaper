@@ -1,5 +1,0 @@
- In this paper, we present a structure-aligned approach for surface parameterization using eigenfunctions from the Laplace–Beltrami operator. Several methods are designed to combine multiple eigenfunctions using isocontours or characteristic values of the eigenfunctions. The combined gradient information of eigenfunctions is then used as a guidance for the cross field construction. Finally, a global parameterization is computed on the surface, with an anisotropy enabled by adapting the cross field to non-uniform parametric line spacings. By combining the gradient information from different eigenfunctions, the generated parametric lines are automatically aligned with the structural features at various scales, and they are insensitive to local detailed features on the surface when low-mode eigenfunctions are used.
-
-@highlight We present an eigenfunction-based method for surface parameterization.
-@highlight The generated parametric lines are aligned with mutliscale structural features.
-@highlight A new anisotropic parameterization scheme is presented.

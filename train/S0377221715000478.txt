@@ -1,7 +1,0 @@
- Cloud computing promises the flexible delivery of computing services in a pay-as-you-go manner. It allows customers to easily scale their infrastructure and save on the overall cost of operation. However Cloud service offerings can only thrive if customers are satisfied with service performance. Allowing instantaneous access and flexible scaling while maintaining the service levels and offering competitive prices poses a significant challenge to Cloud computing providers. Furthermore services will remain available in the long run only if this business generates a stable revenue stream. To address these challenges we introduce novel policy-based service admission control models that aim at maximizing the revenue of Cloud providers while taking informational uncertainty regarding resource requirements into account. Our evaluation shows that policy-based approaches statistically significantly outperform first come first serve approaches, which are still state of the art. Furthermore the results give insights in how and to what extent uncertainty has a negative impact on revenue.
-
-@highlight We propose service admission control models for Cloud service providers.
-@highlight The models aim at maximizing revenue under both certainty and uncertainty.
-@highlight All suggested models can be solved in polynomial time.
-@highlight Policy-based approaches outperform the first-come first-serve approach.
-@highlight The presence of informational uncertainty can significantly reduce revenue.

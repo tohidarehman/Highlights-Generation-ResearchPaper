@@ -1,6 +1,0 @@
- The Mumford–Shah segmentation model is an energy model widely applied in computer vision. Many attempts have been made to minimize the energy of the model. We focus on recently proposed two methods for solving multi-phase segmentation;  and the Monte Carlo method by Watanabe et al.  . We compare the convergence of solutions, the values of obtained energy, the computational time, etc. Finally we propose a hybrid method combining the advantages of the Monte Carlo and the graph cuts. The hybrid method can find the global minimum energy solution efficiently without sensitivity of initial guess.
-
-@highlight We give a comparison of two methods for solving the Mumford–Shah segmentation model.
-@highlight We propose a hybrid method for solving the Mumford–Shah segmentation model.
-@highlight This hybrid method combines the advantages of the two methods, robustness and speed.
-@highlight We show that the hybrid method is efficient for a wide range of model parameters.

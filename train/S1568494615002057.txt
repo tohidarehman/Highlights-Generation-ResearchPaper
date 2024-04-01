@@ -1,7 +1,0 @@
- Artificial bee colony (ABC) algorithm has several characteristics that make it more attractive than other bio-inspired methods. Particularly, it is simple, it uses fewer control parameters and its convergence is independent of the initial conditions. In this paper, a novel artificial bee colony based maximum power point tracking algorithm (MPPT) is proposed. The developed algorithm, does not allow only overcoming the common drawback of the conventional MPPT methods, but it gives a simple and a robust MPPT scheme. A co-simulation methodology, combining Matlab/Simulink™ and Cadence/Pspice™, is used to verify the effectiveness of the proposed method and compare its performance, under dynamic weather conditions, with that of the Particle Swarm Optimization (PSO) based MPPT algorithm. Moreover, a laboratory setup has been realized and used to experimentally validate the proposed ABC-based MPPT algorithm. Simulation and experimental results have shown the satisfactory performance of the proposed approach.
-
-@highlight An artificial bee colony based MPPT under partially shaded conditions is proposed.
-@highlight Photovoltaic systems are considered.
-@highlight A co-simulation methodology combining Simulink and Pspice has been adopted.
-@highlight Excellent efficiency and tracking performance compared to the PSO-based MPPT.
-@highlight The effectiveness of the proposed method has been confirmed experimentally.

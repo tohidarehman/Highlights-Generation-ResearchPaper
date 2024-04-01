@@ -1,7 +1,0 @@
- It has recently been shown that the incorporation of weight restrictions in models of data envelopment analysis (DEA) may induce free or unlimited production of output vectors in the underlying production technology, which is expressly disallowed by standard production assumptions. This effect may either result in an infeasible multiplier model with weight restrictions or remain undetected by normal efficiency computations. The latter is potentially troubling because even if the efficiency scores appear unproblematic, they may still be assessed in an erroneous model of production technology. Two approaches to testing the existence of free and unlimited production have recently been developed: computational and analytical. While the latter is more straightforward than the former, its application is limited only to unlinked weight restrictions. In this paper we develop several new analytical conditions for a larger class of unlinked and linked weight restrictions.
-
-@highlight We introduce the notions of consistent and inconsistent weight restrictions.
-@highlight Inconsistent weight restrictions induce free production in the model of technology.
-@highlight Inconsistent weight restrictions may cause the infeasibility of multiplier models.
-@highlight The inconsistency of weight restrictions may not be apparent from computations.
-@highlight We develop conditions for verifying the consistency of weight restrictions.

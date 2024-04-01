@@ -1,7 +1,0 @@
- Despite many alternatives to feature tracking problem, iterative least squares solution solving the optical flow constraint has been the most popular approach used by many in the field. This paper attempts to leverage the former efforts to enhance feature tracking methods by introducing a view geometric constraint to the tracking problem. In contrast to alternative geometry based methods, the proposed approach provides a closed form solution to optical flow estimation from image appearance and view geometry constraints. We particularly use invariants in the projective coordinates generated from tracked features that results in a new optical flow equation. This treatment provides persistent tracking of features even when they are occluded. At the end of each tracking loop the quality of the tracked features is judged using both appearance similarity and geometric consistency. Our experiments demonstrate robust tracking performance even when the features are occluded or they undergo appearance changes due to projective deformation of the template.
-
-@highlight We introduce a view geometric constraint to the tracking problem.
-@highlight We provide a closed form solution from appearance and geometry.
-@highlight This paper provides persistent tracking of features even when they are occluded.
-@highlight Bayesian-based selection of the best features.
-@highlight Our experiments demonstrate robust tracking performance.

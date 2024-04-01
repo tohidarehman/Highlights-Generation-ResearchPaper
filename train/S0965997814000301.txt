@@ -1,7 +1,0 @@
- Constitutive models for concrete based on the microplane concept have repeatedly proven their ability to well-reproduce non-linear response of concrete on material as well as structural scales. The major obstacle to a routine application of this class of models is, however, the calibration of microplane-related constants from macroscopic data. The goal of this paper is twofold: (i) to introduce the basic ingredients of a robust inverse procedure for the determination of dominant parameters of the M4 model proposed by Bažant et al.  based on cascade artificial neural networks trained by evolutionary algorithm and (ii) to validate the proposed methodology against a representative set of experimental data. The obtained results demonstrate that the soft computing-based method is capable of delivering the searched response with an accuracy comparable to the values obtained by expert users.
-
-@highlight Paper presents a calibration procedure for microplane M4 model.
-@highlight Artificial neural networks are used to approximate the inverse relationship between parameters and response of the model.
-@highlight Two tricks - cascade neural networks and parallel combination of two neural networks - are used to obtain reliable results.
-@highlight Validation is performed for original experimental data.
-@highlight Results are compared against expert estimations.

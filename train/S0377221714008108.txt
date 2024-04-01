@@ -1,7 +1,0 @@
- A VNS-based heuristic using both a facility as well as a customer type neighbourhood structure is proposed to solve the p-centre problem in the continuous space. Simple but effective enhancements to the original Elzinga–Hearn algorithm as well as a powerful ‘locate–allocate’ local search used within VNS are proposed. In addition, efficient implementations in both neighbourhood structures are presented. A learning scheme is also embedded into the search to produce a new variant of VNS that uses memory. The effect of incorporating strong intensification within the local search via a VND type structure is also explored with interesting results. Empirical results, based on several existing data set (TSP-Lib) with various values of p, show that the proposed VNS implementations outperform both a multi-start heuristic and the discrete-based optimal approach that use the same local search.
-
-@highlight A powerful VNS algorithm is proposed for the p-centre problem on the plane.
-@highlight The local search is enhanced by speed-up rules used in Elzinga–Hearn's algorithm.
-@highlight Well structured neighbourhoods and intelligent allocation schemes are designed.
-@highlight An adaptive learning process is developed and embedded within the search.
-@highlight Extensive computational experiments are presented with new best results.

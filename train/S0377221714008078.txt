@@ -1,6 +1,0 @@
- We study an incremental network design problem, where in each time period of the planning horizon an arc can be added to the network and a maximum flow problem is solved, and where the objective is to maximize the cumulative flow over the entire planning horizon. After presenting two mixed integer programming (MIP) formulations for this NP-complete problem, we describe several heuristics and prove performance bounds for some special cases. In a series of computational experiments, we compare the performance of the MIP formulations as well as the heuristics.
-
-@highlight An incremental network design problem is studied, where the objective is to maximize the cumulative s-t-flow over a time horizon.
-@highlight Two mixed integer programming (MIP) formulations are presented.
-@highlight Two greedy heuristics are described and performance guarantees in special cases are proved.
-@highlight The MIP formulations as well as the heuristics are compared in computational experiments on randomly generated instances.

@@ -1,7 +1,0 @@
- Image segmentation is a very important step in image analysis, and performance evaluation of segmentation algorithms plays a key role both in developing efficient algorithms and in selecting suitable methods for the given tasks. Although a number of publications have appeared on segmentation methodology and segmentation performance evaluation, little attention has been given to statistically bounding the performance of image segmentation algorithms. In this paper, to determine the performance limits of image segmentation algorithms, a modified Cramér–Rao bound combined with the Affine bias model is employed. A fuzzy segmentation formulation is considered, of which hard segmentation is a special case. Experimental results are obtained where we compare the performance of several representative image segmentation algorithms with the derived bound on both synthetic and real-world image data.
-
-@highlight We formulate image segmentation as a statistical parameter estimation problem.
-@highlight A modified Cramér–Rao bound is used to determine segmentation performance limit.
-@highlight The bound is based on the biased estimator assumption and Affine bias model.
-@highlight Fuzzy segmentation formulation is used, where hard segmentation is a special case.
-@highlight Synthetic and real-world images are experimented to show the accuracy of the bound.

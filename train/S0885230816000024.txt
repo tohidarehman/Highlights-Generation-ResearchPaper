@@ -1,6 +1,0 @@
- Previous studies have demonstrated the benefits of PLDA–SVM scoring with empirical kernel maps for i-vector/PLDA speaker verification. The method not only performs significantly better than the conventional PLDA scoring and utilizes the multiple enrollment utterances of target speakers effectively, but also opens up opportunity for adopting sparse kernel machines in PLDA-based speaker verification systems. This paper proposes taking the advantages of empirical kernel maps by incorporating them into a more advanced kernel machine called relevance vector machines (RVMs). The paper reports extensive analyses on the behaviors of RVMs and provides insight into the properties of RVMs and their applications in i-vector/PLDA speaker verification. Results on NIST 2012 SRE demonstrate that PLDA–RVM outperforms the conventional PLDA and that it achieves a comparable performance as PLDA–SVM. Results also show that PLDA–RVM is much sparser than PLDA–SVM.
-
-@highlight Incorporate empirical kernel maps into relevance vector machines (RVMs).
-@highlight Report the extensive analyses on the behaviors of RVMs.
-@highlight Provide insight into the properties of RVMs and their applications in i-vector/PLDA speaker verification.
-@highlight Compare PLDA–RVM with conventional PLDA and PLDA–SVM.

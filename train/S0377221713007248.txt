@@ -1,7 +1,0 @@
- Increased rates of mortgage foreclosures in the U.S. have had devastating social and economic impacts during and after the 2008 financial crisis. As part of the response to this problem, nonprofit organizations such as community development corporations (CDCs) have been trying to mitigate the negative impacts of mortgage foreclosures by acquiring and redeveloping foreclosed properties. We consider the strategic resource allocation decisions for these organizations which involve budget allocations to different neighborhoods under cost and return uncertainty. Based on interactions with a CDC, we develop stochastic integer programming based frameworks for this decision problem, and assess the practical value of the models by using real-world data. Both policy-related and computational analyses are performed, and several insights such as the trade-offs between different objectives, and the efficiency of different solution approaches are presented.
-
-@highlight We build stochastic models for budget allocation in foreclosed housing acquisition.
-@highlight We use real data to derive computational and policy related results for nonprofits.
-@highlight The efficient heuristic simplifications proposed produce near optimal solutions.
-@highlight Results imply no significant conflict between financial and nonfinancial objectives.
-@highlight A trade-off of around 20% exists between equity and social utility for given data.

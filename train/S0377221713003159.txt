@@ -1,6 +1,0 @@
- The nested L-shaped method is used to solve two- and multi-stage linear stochastic programs with recourse, which can have integer variables on the first stage. In this paper we present and evaluate a cut consolidation technique and a dynamic sequencing protocol to accelerate the solution process. Furthermore, we present a parallelized implementation of the algorithm, which is developed within the COIN-OR framework. We show on a test set of 51 two-stage and 42 multi-stage problems, that both of the developed techniques lead to significant speed ups in computation time.
-
-@highlight We present acceleration techniques for the nested L-shaped method.
-@highlight Cut consolidation reduces average solution time by 38% on 48 problems.
-@highlight Dynamic sequencing reduces average solution time by more than 12% on 42 problems.
-@highlight We present a parallelized, COIN-OR based implementation of the algorithm.

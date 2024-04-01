@@ -1,5 +1,0 @@
- A keyword auction is conducted by Internet search engines to sell advertising slots listed on the search results page. Although much of the literature assumes the dynamic bidding strategy that utilizes the current bids of other advertisers, such information is, in practice, not available for participants in the auction. This paper explores the bidding behavior of advertisers in a sealed-bid environment, where each bidder does not know the current bids of others. This study considers secure bidding with a trial bid (SBT) as the bid adjustment process used by the advertisers, which is functional in a sealed-bid environment. It is shown that the SBT bid adjustment process converges to some equilibrium point in a one-shot game irrespective of the initial bid profile. Simulation results verify that a sealed-bid environment would be beneficial to search engines.
-
-@highlight Bidding behaviors in a sealed-bid keyword auction is analyzed.
-@highlight Even in a sealed bid environment, bidding behavior with a minimal search for others bids leads to a unique fixedpoint.
-@highlight A computer simulation shows that a sealed bid environment is beneficial to a search engine.

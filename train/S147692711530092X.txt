@@ -1,7 +1,0 @@
- Motivation Protein fold space is a conceptual framework where all possible protein folds exist and ideas about protein structure, function and evolution may be analyzed. Classification of protein folds in this space is commonly achieved by using similarity indexes and/or machine learning approaches, each with different limitations. Results We propose a method for constructing a compact vector space model of protein fold space by representing each protein structure by its residues local contacts. We developed an efficient method to statistically test for the separability of points in a space and showed that our protein fold space representation is learnable by any machine-learning algorithm. Availability An API is freely available at /.
-
-@highlight We implemented a vectorial representation of residues contacts
-@highlight We implemented an efficient statistical test for machine-learnable data
-@highlight Our vectorial model reproduces protein packing
-@highlight A predictor is trained to effectively reproduce CATH and SCOP classifications
-@highlight Our predictor automatically identified inconsistent classification in CATH and SCOP

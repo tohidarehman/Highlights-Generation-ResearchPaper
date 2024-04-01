@@ -1,6 +1,0 @@
- We describe a data management solution and associated key management approaches to provide accountability within service provision networks, in particular addressing privacy issues in cloud computing applications. Our solution involves machine readable policies that stick to data to define allowed usage and obligations as data travels across multiple parties. Service providers have fine-grained access to specific data based on agreed policies, enforced by interactions with independent third parties that check for policy compliance before releasing decryption keys required for data access. We describe alternative solutions based upon Public Key Infrastructure (PKI), Identity Based Encryption (IBE) and advanced secret sharing schemes.
-
-@highlight We describe novel approaches for controlling data in distributed, multi-party contexts.
-@highlight Sticky policies cryptographically bind data to policies constraining how it may be used.
-@highlight Secret sharing techniques can be used to improve scalability.
-@highlight Such approaches are useful in a variety of business contexts, especially involving sensitive data.

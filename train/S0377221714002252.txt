@@ -1,5 +1,0 @@
- Problems of loading, unloading and premarshalling of stacks as well as combinations thereof appear in several practical applications, e.g. container terminals, container ship stowage planning, tram depots or steel industry. Although these problems seem to be different at first sight, they hold plenty of similarities. To precisely unite all aspects, we suggest a classification scheme and show how problems existing in literature can be described with it. Furthermore, we give an overview of known complexity results and solution approaches.
-
-@highlight Survey of loading, unloading, and premarshalling of stacks and combined problems.
-@highlight New classification scheme.
-@highlight Survey of complexity results, solution algorithms, and computational results.

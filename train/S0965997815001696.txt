@@ -1,5 +1,0 @@
- With several characteristics, such as large scale, diverse predictability and timeliness, the city traffic data falls in the range of definition of Big Data. A Virtual Reality GIS based traffic analysis and visualization system is proposed as a promising and inspiring approach to manage and develop traffic big data. In addition to the basic GIS interaction functions, the proposed system also includes some intelligent visual analysis and forecasting functions. The passenger flow forecasting algorithm is introduced in detail.
-
-@highlight A virtual reality GIS based traffic analysis and visualization system is proposed as a promising and inspiring approach to manage and develop traffic big data.
-@highlight In addition to the basic GIS interaction functions, the proposed system and includes some intelligent visual analysis and forecasting functions.
-@highlight The passenger flow forecasting algorithm is introduced in detail.

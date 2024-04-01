@@ -1,6 +1,0 @@
- In this paper we study a firm’s disposition decision for returned end-of-use products, which can either be remanufactured and sold, or dismantled into parts that can be reused. We formulate this problem as a multi-period stochastic dynamic program, and find the structure of the optimal policy, which consists of monotonic switching curves. Specifically, if it is optimal to remanufacture in a given period and for given inventory levels, then it is also optimal to remanufacture when the inventory of part(s) is higher or the inventory of remanufactured product is lower.
-
-@highlight We study the dynamic optimal disposition decision for returns.
-@highlight Disposition options are remanufacturing, and dismantling for distinct parts.
-@highlight Demands for remanufactured products and parts are stochastic.
-@highlight We prove the structure of the optimal policy.

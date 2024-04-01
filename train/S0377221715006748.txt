@@ -1,6 +1,0 @@
- There is continuing interest in the trend of costs associated with pollution abatement activities. We specify an environmental production technology to model the joint production of good and bad outputs. The joint production model calculates pollution abatement costs and identifies changes in these costs associated with:  technical change,  input changes, and  changes in bad output production. Estimates of the relative importance of each factor are estimated using data from 1995 to 2005 for a sample of coal-fired power plants in the United States. Finally, we discuss the potential usefulness of the decomposition model for identifying discrepancies between ex ante and ex post pollution abatement costs that are linked to the underlying joint production model.
-
-@highlight Specify DEA model of the joint production of good and bad outputs.
-@highlight Pollution abatement cost (PAC) is foregone good output when the bad output is regulated.
-@highlight ΔPAC results from: change in inputs, change in bad outputs, and technical change.
-@highlight Operationalize model with balanced panel of 80 coal-fired power plants from 1995–2005.

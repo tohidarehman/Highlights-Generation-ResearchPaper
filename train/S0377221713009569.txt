@@ -1,7 +1,0 @@
- As input flows of secondary raw materials show high volatility and tend to behave in a chaotic way, the identification of the main drivers of the dynamic behavior of returns plays a crucial role. Based on a stylized production-recycling system consisting of a set of nonlinear difference equations, we explicitly derive parameter constellations where the system will or will not converge to its equilibrium. Using a constant elasticity of substitution production function, the model is then extended to enable coverage of real world situations. Using waste paper as a reference raw material, we empirically estimate the parameters of the system. By using these regression results, we are able to show that the equilibrium solution is a Lyapunov unstable saddle point. This implies that the system is sensitive on initial conditions that will hence impede the predictability of product returns. Small variations of production input proportions could however stabilize the whole system.
-
-@highlight We model a production-remanufacturing system as a discrete dynamical system.
-@highlight We derive explicit conditions for stable, instable or saddle point equilibria.
-@highlight For the waste paper industry, we can show that the equilibrium is a saddle point.
-@highlight Even small variations of production input proportions could stabilize the system.
-@highlight The substitutability of the production inputs is a main driver for chaotic behavior.

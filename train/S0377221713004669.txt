@@ -1,5 +1,0 @@
- We consider the problem of minimizing a smooth function over a feasible set defined as the Cartesian product of convex compact sets. We assume that the dimension of each factor set is huge, so we are interested in studying inexact block coordinate descent methods (possibly combined with column generation strategies). We define a general decomposition framework where different line search based methods can be embedded, and we state global convergence results. Specific decomposition methods based on gradient projection and Frank–Wolfe algorithms are derived from the proposed framework. The numerical results of computational experiments performed on network assignment problems are reported.
-
-@highlight We provide an inexact decomposition scheme for large scale optimization.
-@highlight We state global convergence results.
-@highlight We show that different line search methods can be embedded in the framework.

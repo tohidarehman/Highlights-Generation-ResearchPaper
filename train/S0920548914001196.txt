@@ -1,7 +1,0 @@
- Microarray technology is a powerful tool in molecular biology which is used for concurrent monitoring of a large number of gene expressions. Each microarray experiment produces hundreds of images. In this paper, we present a hardware scheme for lossless compression of 16-bit microarray images. The most significant parts of the image pixels are compressed by classifying them into foreground and background regions. This increases the spatial redundancy of the image. The foreground regions are packed together using a novel compaction unit. Real-time compression of these images is achieved while the bit-per-pixel values are comparable with the standard offline compression tools.
-
-@highlight This research is in the field of hardware based image processing. Even though microarray images are the base of this work but the algorithm has many other applications.
-@highlight The main idea is to separate foreground from background in images that such situation exist.
-@highlight With growing concern in the era of “big data” about the storage space, sharing, and transmission of bio-medical imagery, the proposed strategy could have other applications too.
-@highlight Most CT and digital x-ray images contain vast areas of background. The mentioned foreground/background separation could have application for such images.
-@highlight Hardware compression of microarray images is just an example of big data applications.

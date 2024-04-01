@@ -1,7 +1,0 @@
- An equivalent multi-input multi-output (MIMO) linear model of the standard transceiver for OFDM/OQAM systems is derived. Specifically, the impulse response of the equivalent filter that determines the effect on each output of the symbol sequence transmitted on each subcarrier, both with reference to AWGN and multipath channels, is obtained. The derived model is exploited for the design of the optimum single-tap per-subcarrier equalizer according to the maximum signal-to-interference ratio criterion. It is shown that the optimum single-tap equalizer in the absence of guard subcarriers is the inverse of a specific coefficient of an impulse response of the derived MIMO model. This coefficient under particular conditions leads to the conventionally used single-tap equalizer given by the inverse of the channel frequency response at the frequency of the considered subcarrier. The effects of guard subcarriers and the inclusion of the noise term in the cost function are also studied.
-
-@highlight An equivalent model of the standard transceiver for OFDM/OQAM systems is derived.
-@highlight The impulse response of the equivalent filter in multipath channels is obtained.
-@highlight The optimum single-tap equalizer according to the maximum SIR criterion is designed.
-@highlight It is related to the inverse of a specific coefficient of the derived impulse response.
-@highlight Under particular conditions it reduces to the standard single-tap equalizer.

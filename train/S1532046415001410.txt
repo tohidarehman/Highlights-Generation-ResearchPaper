@@ -1,6 +1,0 @@
- This paper describes the use of an agile text mining platform (Linguamatics’ Interactive Information Extraction Platform, I2E) to extract document-level cardiac risk factors in patient records as defined in the i2b2/UTHealth 2014 challenge. The approach uses a data-driven rule-based methodology with the addition of a simple supervised classifier. We demonstrate that agile text mining allows for rapid optimization of extraction strategies, while post-processing can leverage annotation guidelines, corpus statistics and logic inferred from the gold standard data. We also show how data imbalance in a training set affects performance. Evaluation of this approach on the test data gave an F-Score of 91.7%, one percent behind the top performing system.
-
-@highlight We used a data-driven methodology for rule-based information extraction.
-@highlight This was applied to the i2b2 cardiac risk factors challenge.
-@highlight It exploited an agile text mining system augmented with a simple classifier.
-@highlight Evaluation on an unseen test set gave an F-score of 91.7%.

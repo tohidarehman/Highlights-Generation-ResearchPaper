@@ -1,5 +1,0 @@
- Recently, several image encryption algorithms based on DNA encoding and chaotic maps have been proposed, which create a novel direction in image encryption. By a careful examination on most of these image cryptosystems, we find that DNA operators can only influence one DNA base, which leads to poor diffusion. A recent image encryption scheme based on DNA encoding and chaos is treated as a case study. The flaws of this algorithm are illustrated. By applying a known plaintext attack, we demonstrate that a hacker can determine the chaotic sequences used to confuse the image and reveal the plain-image. Finally, a suggestion is given to enhance the diffusion ability of image encryption scheme based on DNA encoding and chaos. The experiment results prove that the suggestion is effective.
-
-@highlight The flaws of an image encryption algorithm based on DNA encoding and chaos are founded.
-@highlight According to the flaws, a known plaintext attack is presented to reveal the plain-image from the cipher-image.
-@highlight A remedy is suggested to enhance the security of the image encryption algorithm.

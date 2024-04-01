@@ -1,6 +1,0 @@
- Online applications such as decision support systems depend on data collected from multiple sources. We develop a generic data acquisition and transmission framework by modularizing the repetitive functions. Other than data acquisition and distribution with necessary transformation, the framework can act as a middle storage when the sources cannot connect to the destination directly. We designed three types of data extractors to accommodate the data acquisition from the file system, the net protocol and the database. After being collected by the extractors, the data is processed by an assembler module, to fit the target’s data structure. The data is inserted into the database by a loader module, which gets data from the assembler module. The assembler module and the loader module are controlled by a monitor and controller module. These modules are highly configurable and they form a 3-Level hierarchy. Taking advantage of modular design and shared library technique, the framework is extensible and flexible.
-
-@highlight We propose a configurable Data Acquisition and Transmission Framework (DATF).
-@highlight The DATF has 4 parts: a controller, a set of extractors, an assembler and a loader.
-@highlight We design the hierarchy of the four parts.
-@highlight Modular design and shared library technique make the DATF extensible and flexible.

@@ -1,6 +1,0 @@
- This paper introduces an improved physiological animal model with diabetic Göttingen minipigs, which focuses on the application of human therapy devices and metabolic system analysis. Based on measurement data-sets collected by metabolic test procedures, a new mathematical minipig model is developed. The model consists of 16 differential equations and describes the diabetic porcine glucose metabolism according to the human model published by Sorensen. In the future, the mathematical model will be used as a basis for controller design and the physiological model for experimental control performance evaluation.
-
-@highlight Model development of glucose metabolism diabetic Göttingen minipigs.
-@highlight Establishment of animal model for long-term trials with Göttingen minipigs.
-@highlight Development of mathematical model for future control design.
-@highlight Verification of mathematical model by blood glucose measurements in diabetic minipigs.

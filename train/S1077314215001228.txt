@@ -1,5 +1,0 @@
- This paper addresses the structure-and-motion problem, that requires to find camera motion and 3D structure from point matches. A new pipeline, dubbed Samantha, is presented, that departs from the prevailing sequential paradigm and embraces instead a hierarchical approach. This method has several advantages, like a provably lower computational complexity, which is necessary to achieve true scalability, and better error containment, leading to more stability and less drift. Moreover, a practical autocalibration procedure allows to process images without ancillary information. Experiments with real data assess the accuracy and the computational efficiency of the method.
-
-@highlight We describe a hierarchical structure-from-motion pipeline.
-@highlight No information is needed beside images themselves.
-@highlight The pipeline proved successful in real-world tasks.

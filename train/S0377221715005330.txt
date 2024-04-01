@@ -1,7 +1,0 @@
- A problem of profit oriented disassembly line design and balancing with possible partial disassembly and presence of hazardous parts is studied. The objective is to design a production line providing a maximal revenue with balanced workload. Task times are assumed to be random variables with known normal probability distributions. The cycle time constraints are to be jointly satisfied with at least a predetermined probability level. An AND/OR graph is used to model the precedence relationships among tasks. Several lower and upper–bounding schemes are developed using second order cone programming and convex piecewise linear approximation. To show the relevance and applicability of the proposed approach, a set of instances from the literature are solved to optimality.
-
-@highlight The disassembly line design and balancing problem is studied under uncertainty.
-@highlight Task times are assumed to be random variables with known normal distributions.
-@highlight The goal is to design a line with maximal profit in presence of hazardous material.
-@highlight Chance constrained programs and efficient exact solution approach are developed.
-@highlight Results have shown their potential applicability in industry for real life cases.

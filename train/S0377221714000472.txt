@@ -1,7 +1,0 @@
- This paper discusses a new meta-DEA approach to solve the problem of choosing direction vectors when estimating the directional distance function. The proposed model emphasizes finding the “direction” for productivity improvement rather than estimating the “score” of efficiency; focusing on “planning” over “evaluation”. In fact, the direction towards marginal profit maximization implies a step-by-step improvement and “wait-and-see” decision process, which is more consistent with the practical decision-making process. An empirical study of U.S. coal-fired power plants operating in 2011 validates the proposed model. The results show that the efficiency measure using the proposed direction is consistent with all other indices with the exception of the direction towards the profit-maximized benchmark. We conclude that the marginal profit maximization is a useful guide for determining direction in the directional distance function.
-
-@highlight A meta-DEA is developed to find the direction for marginal profit maximization.
-@highlight A meta-DEA illustrates the “frontier about frontier” by marginal productivity.
-@highlight Suggest a direction which can be used in directional distance function (DDF).
-@highlight A comparison of five different directions used for efficiency measure via DDF.
-@highlight An empirical study of U.S. coal-fired power plants operating in 2011.

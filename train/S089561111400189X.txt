@@ -1,7 +1,0 @@
- Volume visualization is a very important work in medical imaging and surgery plan. However, determining an ideal transfer function is still a challenging task because of the lack of measurable metrics for quality of volume visualization. In the paper, we presented the voxel vibility model as a quality metric to design the desired visibility for voxels instead of designing transfer functions directly. Transfer functions are obtained by minimizing the distance between the desired visibility distribution and the actual visibility distribution. The voxel model is a mapping function from the feature attributes of voxels to the visibility of voxels. To consider between-class information and with-class information simultaneously, the voxel visibility model is described as a Gaussian mixture model. To highlight the important features, the matched result can be obtained by changing the parameters in the voxel visibility model through a simple and effective interface. Simultaneously, we also proposed an algorithm for transfer functions optimization. The effectiveness of this method is demonstrated through experimental results on several volumetric data sets.
-
-@highlight We propose the voxel visibility model for transfer function in volume rendering.
-@highlight We propose an optimization algorithm for automatic transfer function design.
-@highlight The voxel visibility model is a feature- and voxel-level model.
-@highlight The voxel visibility model can be efficiently used by users.
-@highlight The voxel visibility model provides an importance-based strategy.

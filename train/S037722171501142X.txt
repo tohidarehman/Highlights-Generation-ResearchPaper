@@ -1,7 +1,0 @@
- This manuscript reviews recent advances in deterministic global optimization for Mixed-Integer Nonlinear Programming (MINLP), as well as Constrained Derivative-Free Optimization (CDFO). This work provides a comprehensive and detailed literature review in terms of significant theoretical contributions, algorithmic developments, software implementations and applications for both MINLP and CDFO. Both research areas have experienced rapid growth, with a common aim to solve a wide range of real-world problems. We show their individual prerequisites, formulations and applicability, but also point out possible points of interaction in problems which contain hybrid characteristics. Finally, an inclusive and complete test suite is provided for both MINLP and CDFO algorithms, which is useful for future benchmarking.
-
-@highlight We review the recent advances in global optimization for Mixed Integer Nonlinear Programming, MINLP.
-@highlight We review the recent advances in global optimization for Constrained Derivative-Free optimization, CDFO.
-@highlight We present theoretical contributions, software implementations and applications for both MINLP and CDFO.
-@highlight We discuss possible interactions between the two areas of MINLP and CDFO.
-@highlight We present a complete test suite for MINLP and CDFO algorithms.

@@ -1,6 +1,0 @@
- In this paper we consider aggregate Malmquist productivity index measures which allow inputs to be reallocated within the group (when in output orientation). to determine aggregate Malmquist productivity indexes that are justified by economic theory, consistent with previous aggregation results, and which maintain analogous decompositions to the original measures. Such measures are of direct relevance to firms or countries who have merged (making input reallocation possible), allowing them to measure potential productivity gains and how these have been realised (or not) over time.
-
-@highlight We derive aggregate Malmquist productivity indexes allowing input reallocation.
-@highlight The aggregation scheme is justified by economic theory.
-@highlight The aggregation scheme is coherent with previous aggregation results.
-@highlight The aggregate indexes are relevant for firms or countries where reallocation of inputs is possible.

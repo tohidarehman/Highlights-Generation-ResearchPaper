@@ -1,7 +1,0 @@
- Many organizations are implementing process improvement models, seeking to increase their organizational maturity for software development. However, implementing traditional maturity models involves a large investment (as regards money, time and resources) which is beyond the reach of vast majority of small organizations. This paper presents the use and adaptation of some ISO models in the creation of an organizational maturity model for the Spanish software industry. This model was used satisfactorily to (i) improve the software processes of several Spanish small firms, and (ii) obtain an organizational maturity certification for software development, granted by the Spanish Association for Standardization and Certification.
-
-@highlight A Software Engineering Maturity Model was produced for Spanish software industry.
-@highlight The model is based on standards: ISO/IEC 12207, ISO/IEC 15504 and ISO/IEC 17021.
-@highlight It allows a certification of the organizational maturity for software enterprises.
-@highlight Helping to improve the software development quality in all types of enterprises.
-@highlight Currently there are 38 development enterprises certified by AENOR in this model.

@@ -1,5 +1,0 @@
- In this paper, we present a tool combining two software applications aimed at optimizing structural design problems of the civil engineering domain. Our approach lies in integrating an application for designing 2D and 3D bar structures, called Ebes, with the jMetal multi-objective optimization framework. The result is a software package that helps civil engineers to create bar structures which can be optimized further with multi-objective metaheuristics according to different goals, such as minimizing the structure weight and minimizing the deformation. The main features of both Ebes and jMetal are described and how they are combined together in one single tool is explained. Finally a case study to illustrate how the application works is presented.
-
-@highlight Ebes+jMetal is an open source graphical tool for designing spatial bar structures.
-@highlight The proposed tools enable civil engineers to use advanced multi-objective solvers.
-@highlight Metaheuristic practitioners can also use spatial bar structures as testbed.

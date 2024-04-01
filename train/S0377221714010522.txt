@@ -1,7 +1,0 @@
- In this paper, we first propose a portfolio management model where the objective is to balance equity and liability. The asset price dynamics includes both permanent and temporary price impact, where the permanent impact is a linear function of the cumulative trading amount and the temporary impact is a kth (between 0 and 1) order power function of the instantaneous trading rate. We construct efficient frontiers to visualize the tradeoff between equity and liability and obtain analytical properties regarding the optimal trading strategies. In the second part, we further consider an optimal deleveraging problem with leverage constraints. It reduces to a non-convex polynomial optimization program with polynomial and box constraints. A Lagrangian method for solving the problem is presented and the quality of the solution is studied.
-
-@highlight We propose a portfolio management model to balance equity and liability.
-@highlight Efficient frontiers are constructed to visualize tradeoff between equity/liability.
-@highlight We further study portfolio management under leverage requirement.
-@highlight The deleveraging problem is a non-convex constrained polynomial program.
-@highlight An efficient algorithm is developed to solve the polynomial optimization problem.

@@ -1,7 +1,0 @@
- Corner Polyhedra are a natural intermediate step between linear programming and integer programming. This paper first describes how the concept of Corner Polyhedra arose unexpectedly from a practical operations research problem, and then describes how it evolved to shed light on fundamental aspects of integer programming and to provide a great variety of cutting planes for integer programming.
-
-@highlight We describe the practical origins of the column generation method.
-@highlight We describe the discovery of periodicity in knapsack problems.
-@highlight We describe how knapsack periodicity led to a relaxation of the integer programming problem.
-@highlight We describe the origins of Corner Polyhedra, subadditivity and minimality.
-@highlight We show how Corner Polyhedra generate a great variety of cutting planes.

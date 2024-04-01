@@ -1,6 +1,0 @@
- The last decade has seen an exponential growth in the quantity of clinical data collected nationwide, triggering an increase in opportunities to reuse the data for biomedical research. The Vanderbilt research data warehouse framework consists of identified and de-identified clinical data repositories, fee-for-service custom services, and tools built atop the data layer to assist researchers across the enterprise. Providing resources dedicated to research initiatives benefits not only the research community, but also clinicians, patients and institutional leadership. This work provides a summary of our approach in the secondary use of clinical data for research domain, including a description of key components and a list of lessons learned, designed to assist others assembling similar services and infrastructure.
-
-@highlight We developed a secondary use data infrastructure to serve the Vanderbilt research community.
-@highlight The data layer consists of identified and de-identified resources.
-@highlight The utilization layer consists of tools and services that are researcher-centric.
-@highlight Secondary use of clinical data for research is a complex task but it benefits the entire medical center community.

@@ -1,7 +1,0 @@
- Standards are documents that aim to define norms and common understanding of a subject by a group of people. In order to accomplish this purpose, these documents must define its terms and concepts in a clear and unambiguous way. Standards can be written in two different ways: by informal specification (e.g. natural language) or formal specification (e.g. math-based languages or diagrammatic ones). Remarkable papers have already shown how well-founded ontology languages provide resources for the specification's author to better distinguish concepts and relations meanings, resulting in a better specification. This paper has the objective to expose the importance of truly ontological distinctions for standardizations. To achieve this objective, we evaluate a math-based formal specification, in Z notation, using a well-founded ontology language for a telecommunications case study, the ITU-T Recommendation G.805. The results confirm that truly ontological distinctions are essential for clear and unambiguous specifications.
-
-@highlight Standards must define its terms and concepts in a clear and unambiguous way.
-@highlight Standards can be written in informal specification or formal specification.
-@highlight Well-founded ontology languages provides resources for distinction of meanings.
-@highlight A Z notation formal specification is evaluated for a telecommunications case study.
-@highlight Results confirm that ontological distinctions are vital for unambiguous standards.

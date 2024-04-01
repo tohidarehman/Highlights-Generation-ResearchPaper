@@ -1,7 +1,0 @@
- We present an algorithm for graph based saliency computation that utilizes the underlying dense subgraphs in finding visually salient regions in an image. To compute the salient regions, the model first obtains a saliency map using random walks on a Markov chain. Next, k-dense subgraphs are detected to further enhance the salient regions in the image. Dense subgraphs convey more information about local graph structure than simple centrality measures. To generate the Markov chain, intensity and color features of an image in addition to region compactness is used. For evaluating the proposed model, we do extensive experiments on benchmark image data sets. The proposed method performs comparable to well-known algorithms in salient region detection.
-
-@highlight Underlying dense subgraphs in a graph can be utilized in finding visually salient regions in an image.
-@highlight Dense subgraphs convey more information about local graph structure than simple centrality measures.
-@highlight Region compactness in addition to image intensity and color features has been used to compute image region similarities.
-@highlight Dense subgraph computation is performed after entropy based thresholding is applied on a sparse graph.
-@highlight Multiple salient objects in a scene are detected with dense subgraph computation.

@@ -1,7 +1,0 @@
- In the operations management literature, traditional revenue management focused on pricing and capacity allocation strategies in a two-period model with stochastic demand. Inspired by travel and lodging industries, we examine a two-period model in which each seller may also adopt the overselling strategy to customers whose valuations are differentiated by timing of arrivals. Widely seen as a popular hedge against consumers’ skipping reservations, we extend the stylized approaches of Biyalogorsky, Carmon, Fruchter, to understand the value of overselling under various market structures. We find that contrary to existing literature, the impact of period-two pricing competition from overselling spills over to period-one such that overselling may not always be a (weakly) dominant strategy once unlimited early demand ceases to hold in a duopoly regime. We provide some numerical studies on the existence of multiple equilibria at the capacity allocation level which actually lead to different selling strategies at the equilibrium despite identical market conditions and firm characteristics.
-
-@highlight We model both monopoly and duopoly for two periods of stochastic demands.
-@highlight Firms decide on overselling, pricing, and capacity allocation strategies.
-@highlight When early demand is low, overselling may not be a (weakly) dominant strategy in a duopoly.
-@highlight Impact of pricing competition in period 2 from overselling spills over to period 1.
-@highlight Asymmetric equilibrium selling strategies exist despite identical firm conditions.

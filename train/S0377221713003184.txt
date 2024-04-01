@@ -1,7 +1,0 @@
- The term “hypernetwork” (more precisely, s-hypernetwork and (s, d)-hypernetwork) has been recently adopted to denote some logical structures contained in a directed hypergraph. A hypernetwork identifies the core of a hypergraph model, obtained by filtering off redundant components. Therefore, finding hypernetworks has a notable relevance both from a theoretical and from a computational point of view. In this paper we provide a simple and fast algorithm for finding s-hypernetworks, which substantially improves on a method previously proposed in the literature. We also point out two linearly solvable particular cases. Finding an (s, d)-hypernetwork is known to be a hard problem, and only one polynomially solvable class has been found so far. Here we point out that this particular case is solvable in linear time.
-
-@highlight Theoretical and computational relevance of hypernetworks.
-@highlight Relations to other concepts, namely, flow hypergraphs and dominators.
-@highlight A simple and fast method for finding the s-hypernetwork.
-@highlight Linear time methods for s-hypernetworks in acyclic hypergraphs and directed graphs.
-@highlight A linear time method for the (s, d)-hypernetwork in acyclic hypergraphs.

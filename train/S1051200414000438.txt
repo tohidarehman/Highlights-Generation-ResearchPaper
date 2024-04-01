@@ -1,6 +1,0 @@
- This paper deals with the problem of global asymptotic stability of fixed-point state-space digital filters under various combinations of quantization and overflow nonlinearities and for the situation where quantization occurs after summation only. Utilizing the structural properties of the nonlinearities in greater detail, a new global asymptotic stability criterion is proposed. A unique feature of the presented approach is that it exploits the information about the maximum normalized quantization error of the quantizer and the maximum representable number for a given wordlength. The approach leads to an enhanced stability region in the parameter-space, as compared to several previously reported criteria.
-
-@highlight Stability criterion of fixed-point digital filters with finite wordlength is proposed.
-@highlight Criterion utilizes the values of maximum normalized quantization error and maximum representable number.
-@highlight Criterion provides less restrictive stability condition than several existing criteria.
-@highlight Several examples illustrate the applicability of the approach.

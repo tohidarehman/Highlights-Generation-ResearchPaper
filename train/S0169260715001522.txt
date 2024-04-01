@@ -1,7 +1,0 @@
- Background and objective The accurate identification of fat droplets is a prerequisite for the automatic quantification of steatosis in histological images. A major challenge in this regard is the distinction between clustered fat droplets and vessels or tissue cracks. Methods We present a new method for the identification of fat droplets that utilizes adjacency statistics as shape features. Adjacency statistics are simple statistics on neighbor pixels. Results The method accurately identified fat droplets with sensitivity and specificity values above 90%. Compared with commonly-used shape features, adjacency statistics greatly improved the sensitivity toward clustered fat droplets by 29% and the specificity by 17%. On a standard personal computer, megapixel images were processed in less than 0.05s. Conclusions The presented method is simple to implement and can provide the basis for the fast and accurate quantification of steatosis.
-
-@highlight A new method for identifying fat droplets in histological images is presented.
-@highlight Adjacency statistics are utilized as shape features.
-@highlight Fat droplets are identified with high sensitivity and specificity.
-@highlight Adjacency statistics greatly improve the identification of clustered fat droplets.
-@highlight The method can be quickly executed on standard computers.

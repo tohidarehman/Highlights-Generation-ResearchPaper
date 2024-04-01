@@ -1,7 +1,0 @@
- This paper presents a smart surveillance system named CASSANDRA, aimed at detecting instances of aggressive human behavior in public environments. A distinguishing aspect of CASSANDRA is the exploitation of complementary audio and video cues to disambiguate scene activity in real-life environments. From the video side, the system uses overlapping cameras to track persons in 3D and to extract features regarding the limb motion relative to the torso. From the audio side, it classifies instances of speech, screaming, singing, and kicking-object. The audio and video cues are fused with contextual cues (interaction, auxiliary objects); a Dynamic Bayesian Network (DBN) produces an estimate of the ambient aggression level. Our prototype system is validated on a realistic set of scenarios performed by professional actors at an actual train station to ensure a realistic audio and video noise setting.
-
-@highlight A system to monitor aggression in surveillance scenes from audio and video.
-@highlight Person motion and proximity measured in volumetric representation of tracked people.
-@highlight Informative sound classes are extracted in challenging acoustic conditions.
-@highlight DBN fuses context and the multi-modal features into latent aggression estimate.
-@highlight Comparison to previous work and system parts shows benefit of combining modalities.

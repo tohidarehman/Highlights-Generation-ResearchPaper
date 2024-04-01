@@ -1,6 +1,0 @@
- Implementation of a design pattern can take many forms according to the programming language being used. Most of the literature presents design patterns in their conventional object-oriented implementations. Several other studies show the implementation in aspect-oriented languages such as AspectJ, EOS, and Caesar. In this work, we compare the implementation of three design patterns: singleton, observer, and decorator design patterns in these languages and also discuss the possibility of implementing them in ParaAJ: an extension to the AspectJ language that implements the idea of parametric aspects. We found that ParaAJ helps in making the implementation of the singleton and observer patterns reusable but it fails to help in the decorator case. The problem with the decorator pattern exists because of the current translation mechanism of ParaAJ׳s aspects to normal AspectJ׳s aspects. This opens the door for further work in ParaAJ to better support the idea of parametric aspects.
-
-@highlight Implementation of design patterns depends on the language being used.
-@highlight ParaAJ helps in creating reusable aspects.
-@highlight Some design patterns can be implemented as reusable aspects in ParaAJ.
-@highlight ParaAJ simplifies the reuse of design patterns to a single line of code.

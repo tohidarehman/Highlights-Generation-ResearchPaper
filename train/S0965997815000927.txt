@@ -1,5 +1,0 @@
- In the paper, two methods for building a 3-dimensional geometry of a wire rope bent over a sheave in Proe™ are presented. In order to obtain the centroidal axes of the wires, the first method is associated with deriving their coordinate equations based on the Serret–Frenet frame and the second method is characterized by using the ‘Variable Section Sweep’ tool in Proe™ to generate a helically twisting surface around the centroidal axis of the king wire or a strand with the two boundary curves being the centroidal axes of two double or triple helical wires. Finally, both methods use the ‘Variable Section Sweep’ tool to generate the geometries of the wires. The two methods can be applied to any helical-strand wire rope.
-
-@highlight Derive the coordinate equations (CE) of the wires’ centroidal axis in a bent rope.
-@highlight Build a CAD model of a wire rope bent over sheave based on the CE.
-@highlight Extend the two modeling methods presented to any kind of helical-strand wire rope.

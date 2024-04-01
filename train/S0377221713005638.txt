@@ -1,6 +1,0 @@
- Multimodal transportation offers an advanced platform for more efficient, reliable, flexible, and sustainable freight transportation. Planning such a complicated system provides interesting areas in Operations Research. This paper presents a structured overview of the multimodal transportation literature from 2005 onward. We focus on the traditional strategic, tactical, and operational levels of planning, where we present the relevant models and their developed solution techniques. We conclude our review paper with an outlook to future research directions.
-
-@highlight We give an overview of the multimodal transportation literature from 2005 onward.
-@highlight We approach the papers on strategic, tactical, and operational levels of planning.
-@highlight We discuss multimodal, intermodal, co-modal, and synchromodal transportation.
-@highlight We conclude our review paper with future research directions.

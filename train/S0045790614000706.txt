@@ -1,7 +1,0 @@
- Thresholding is a popular image segmentation method that converts a grayscale image into a binary image. In this paper, we propose a cloud model-based framework for range-constrained thresholding with uncertainty, and improve four traditional methods. The method involves four major steps, including representing the image using cloud model, estimating the automatic threshold for gray level ranges of object and background, implementing image transformation to focus on mid-region of the image, and determining the binary threshold within the constrained gray level range. Cloud model can effectively represent various visual properties of the image, such as intensity-based class uncertainty, intra-class homogeneity, and between-class contrast. The approach is validated both quantitatively and qualitatively. Compared with the traditional state-of-art algorithms on a variety of synthetic and real images, with or without noisy, as well as laser cladding images, the experimental results suggest that the presented method is efficient and effective.
-
-@highlight A cloud model-based framework for range-constrained thresholding with uncertainty.
-@highlight Improving four traditional methods under the new framework.
-@highlight Representing the image using cloud model.
-@highlight Implementing image transformation to focus on mid-region of the image.
-@highlight Cloud model-based framework is efficient and effective.

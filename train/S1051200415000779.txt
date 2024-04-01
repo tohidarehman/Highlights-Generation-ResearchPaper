@@ -1,5 +1,0 @@
- Accurate frequency estimation of sinusoidal signal is commonly required in a large number of engineering practice scenarios. In this paper, an iterative frequency estimation algorithm is proposed based on the interpolation of Fourier coefficients of weighted samples. This algorithm is nearly applicable for all conventional window functions. Systematic errors for various windows are presented and the performance of the proposed algorithm is investigated in the presence of white Gaussian noise. The simulation results demonstrate that errors caused by a mistaken location of the spectral line can be significantly reduced. The proposed algorithm is straightforward to implement, has high precision, good compatibility, and is robust against additive noise, all of which make it ideal for accurate frequency estimation in spectral analysis.
-
-@highlight A new iterative frequency estimation algorithm is proposed.
-@highlight The new algorithm is compatible with all conventional window functions.
-@highlight The errors caused by incorrect polarity estimation can be significantly reduced.

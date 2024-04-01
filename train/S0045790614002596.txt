@@ -1,6 +1,0 @@
- A wireless ad hoc network consists of a set of wireless devices. The wireless devices are capable of communicating with each other without the assistance of base stations. Space Division Multiple Access (SDMA) is a new technology designed to optimize the performance of current and future mobile communication systems. In this paper, an SDMA-based MAC protocol (S-MAC) for wireless ad hoc networks with smart antennas is proposed. The proposed protocol exploits the SDMA system to allow reception of more than one packet from spatially separated transmitters. Using SDMA technology provides collision-free access to the communication medium based on the location of a node. The proposed protocol solves the hidden terminal problem, the exposed terminal problem, and the deafness problem. Simulation results demonstrate the effectiveness of the proposed S-MAC in improving throughput and increasing spatial channel reuse.
-
-@highlight An SDMA-based MAC protocol (S-MAC) for wireless ad hoc networks is proposed.
-@highlight Exploiting the creation of spatial channels to enhance network capacity.
-@highlight Providing collision-free access to the communication medium based on the location of a node.
-@highlight Improving the performance of throughput and spatial channel reuse.

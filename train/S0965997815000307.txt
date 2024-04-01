@@ -1,6 +1,0 @@
- This article discusses the applicability of the three-parameter Kozeny–Carman generalized equation to trigger immiscible viscous fingers and describe it in fractal heterogeneous porous media, during numerical simulations of waterflood operations in oil reservoirs. For that purpose, for the first time this equation was incorporated into a model that describes immiscible flows of incompressible two-phase fluids in porous media. Results were generated from intensive simulations, and viscous fingers were visualized graphically for three different well patterns, typical of oil fields: Line-Drive, Five-Spot and Inverted Five-Spot. Such results suggest that this generalization of the Kozeny–Carman equation can be used in numerical simulations of oil recovery processes susceptible to hydrodynamic instability phenomena.
-
-@highlight We have developed a simulator for waterflood operations in oil reservoirs.
-@highlight The TPKCG equation was used to simulate heterogeneous porous media.
-@highlight New numerical results were generated from intensive simulations.
-@highlight We proved that the TPKCG equation is able to describe viscous fingers.

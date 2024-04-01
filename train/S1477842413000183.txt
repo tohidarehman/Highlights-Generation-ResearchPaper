@@ -1,5 +1,0 @@
- We present a new set of algorithms for performing arithmetic computations on the set of natural numbers, represented as ordered rooted binary trees. We show formally that these algorithms are correct and discuss their time and space complexity in comparison to traditional arithmetic operations on bitstrings. Our binary tree algorithms follow the structure of a simple type language, similar to that of Gödel's System T. Generic implementations using Haskell's type class mechanism are shared between instances shown to be isomorphic to the set of natural numbers. This representation independence is illustrated by instantiating our computational framework to the language of balanced parenthesis languages. The self-contained source code of the paper is available at .
-
-@highlight We present a new set of algorithms for performing arithmetic computations using binary trees.
-@highlight Our arithmetic algorithms have average time and space complexity comparable to traditional operations on bitstrings.
-@highlight Our results are implemented using Haskell instances isomorphic to natural numbers.

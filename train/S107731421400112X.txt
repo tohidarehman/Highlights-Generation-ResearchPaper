@@ -1,6 +1,0 @@
- This paper describes a method of gait recognition by suppressing and using gait fluctuations. Inconsistent phasing between a matching pair of gait image sequences because of temporal fluctuations degrades the performance of gait recognition. We remove the temporal fluctuations by generating a phase-normalized gait image sequence with equal phase intervals. If inter-period gait fluctuations within a gait image sequence are repeatedly observed for the same subject, they can be regarded as a useful distinguishing gait feature. We extract phase fluctuations as temporal fluctuations as well as gait fluctuation image and trajectory fluctuations as spatial fluctuations. We combine them with the matching score using the phase-normalized image sequence as additional matching scores in the score-level fusion framework or as quality measures in the score-normalization framework. We evaluated the methods in experiments using large-scale publicly available databases and showed the effectiveness of the proposed methods.
-
-@highlight Introduction of the phase, trajectory fluctuations, and gait fluctuation image.
-@highlight Using gait fluctuation as a quality measure or an additional matching score.
-@highlight Evaluation using large-scale publicly available gait databases.
-@highlight Suppressing and utilizing gait fluctuations improve the gait recognition performance.

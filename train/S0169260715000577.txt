@@ -1,7 +1,0 @@
- Classifying imbalanced data in medical informatics is challenging. Motivated by this issue, this study develops a classifier approach denoted as BSMAIRS. This approach combines borderline synthetic minority oversampling technique (BSM) and artificial immune recognition system (AIRS) as global optimization searcher with the nearest neighbor algorithm used as a local classifier. Eight electronic medical datasets collected from University of California, Irvine (UCI) machine learning repository were used to evaluate the effectiveness and to justify the performance of the proposed BSMAIRS. Comparisons with several well-known classifiers were conducted based on accuracy, sensitivity, specificity, and G-mean. Statistical results concluded that BSMAIRS can be used as an efficient method to handle imbalanced class problems. To further confirm its performance, BSMAIRS was applied to real imbalanced medical data of lung cancer metastasis to the brain that were collected from National Health Insurance Research Database, Taiwan. This application can function as a supplementary tool for doctors in the early diagnosis of brain metastasis from lung cancer.
-
-@highlight Developing a new classifier approach by combining borderline SMOTE and AIRS.
-@highlight Eight medical datasets from UCI machine learning repository were evaluated.
-@highlight Outperform well-known classifiers.
-@highlight The proposed method can handle imbalanced class problems efficiently.
-@highlight Applying successfully to the prediction of lung cancer to brain metastasis.

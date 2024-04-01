@@ -1,7 +1,0 @@
- This work investigates the use of switching linear Gaussian state space models for the segmentation and automatic labelling of Stage 2 sleep EEG data characterised by spindles and K-complexes. The advantage of this approach is that it offers a unified framework of detecting multiple transient events within background EEG data. Specifically for the identification of background EEG, spindles and K-complexes, a true positive rate (false positive rate) of 76.04% (33.47%), 83.49% (47.26%) and 52.02% (7.73%) respectively was obtained on a sample by sample basis. A novel semi-supervised model allocation approach is also proposed, allowing new unknown modes to be learnt in real time.
-
-@highlight We propose switching multiple models for automatic Stage 2 sleep EEG analysis.
-@highlight This provides a unified framework for detection of multiple transient events.
-@highlight This method is used to automatically segment EEG data and label multiple events.
-@highlight Sleep spindles and K-complexes are successfully detected and labeled.
-@highlight We extend the method to afford unsupervised learning of new models in real time.

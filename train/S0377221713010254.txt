@@ -1,6 +1,0 @@
- This paper considers line search optimization methods using a mathematical framework based on the simple concept of a v-pattern and its properties. This framework provides theoretical guarantees on preserving, in the localizing interval, a local optimum no worse than the starting point. Notably, the framework can be applied to arbitrary unidimensional functions, including multimodal and infinitely valued ones. Enhanced versions of the golden section, bisection and Brent’s methods are proposed and analyzed within this framework: they inherit the improving local optimality guarantee. Under mild assumptions the enhanced algorithms are proved to converge to a point in the solution set in a finite number of steps or that all their accumulation points belong to the solution set.
-
-@highlight We define and analyze a pattern, called v-pattern, for general line search methods.
-@highlight We derive enhanced golden section, bisection and Brent’s algorithm
-@highlight The algorithms convergence using composite maps is proven under mild conditions.
-@highlight We analyze the performance of the three enhanced line search methods in practice.

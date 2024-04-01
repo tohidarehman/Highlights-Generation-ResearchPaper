@@ -1,6 +1,0 @@
- The paper presents a computer-based assessment for facioscapulohumeral dystrophy (FSHD) diagnosis through characterisation of the fat and oedema percentages in the muscle region. A novel multi-slice method for the muscle-region segmentation in the T1-weighted magnetic resonance images is proposed using principles of the live-wire technique to find the path representing the muscle-region border. For this purpose, an exponential cost function is used that incorporates the edge information obtained after applying the edge-enhancement algorithm formerly designed for the fingerprint enhancement. The difference between the automatic segmentation and manual segmentation performed by a medical specialists is characterised using the Zijdenbos similarity index, indicating a high accuracy of the proposed method. Finally, the fat and oedema are quantified from the muscle region in the T1-weighted and T2-STIR magnetic resonance images, respectively, using the fuzzy c-mean clustering approach for 10 FSHD patients.
-
-@highlight A novel method for lower-limb muscle segmentation is proposed.
-@highlight The proposed method is insensitive to the muscle fat infiltration and shape variation.
-@highlight Segmentation is based on the shortest path detection between anatomical structures.
-@highlight The proposed method does not require training set.

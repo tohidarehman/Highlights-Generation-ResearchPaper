@@ -1,6 +1,0 @@
- This study proposes a novel collaborative filtering framework which integrates both subjective and objective information to generate recommendations for an active consumer. The proposed framework can solve the problem of sparsity and the cold-start problem which affect traditional CF algorithms. The fuzzy linguistic model, which is a more natural way for the consumer to present their preferences, is adopted within the proposed framework. Based on these concepts, two algorithms, a simple aggregated (SA) algorithm and aggregated subjective and objective users’ viewpoint (ASOV) algorithm are developed. A series of experiments is performed, the results of which indicate that the proposed methodologies produce high-quality recommendations. Finally, the results confirm that the proposed algorithms perform better than the traditional method.
-
-@highlight This study proposed a framework which integrates subjective and objective information to generate recommendations for an active consumer.
-@highlight The proposed algorithm applied a fuzzy linguistic model.
-@highlight The proposed algorithms were evaluated by a real dataset.
-@highlight The proposed algorithm performed excellent with the traditional algorithms.

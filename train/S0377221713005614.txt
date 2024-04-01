@@ -1,8 +1,0 @@
- We consider a p- and reduces to a linear programming problem with p-order cone constraints. The proposed approach for handling linear programming problems with p-order cone constraints is based on reformulation of p-order cone optimization problems as second order cone programming (SOCP) problems when p is rational. Since such reformulations typically lead to SOCP problems with large numbers of second order cones, an “economical” representation that minimizes the number of second order cones is proposed. A case study illustrating the developed model on several popular data sets is conducted.
-
-@highlight We consider problem of linear separation/classification of two discrete sets.
-@highlight Our model minimizes the risk of misclassification as measured by p-order moment.
-@highlight Solution approach is based on representing p-cones via a set of quadratic cones.
-@highlight A representation that minimizes the number of quadratic cones is derived.
-@highlight The proposed p-norm model allows for improvement over the traditional p
-@highlight =1 and SVM models

@@ -1,6 +1,0 @@
- This paper deals with a discrete facility location model where service is provided at the facility sites. It is assumed that facilities can fail and customers do not have information on failures before reaching them. As a consequence, they may need to visit more than one facility, following an optimized search scheme, in order to get service. The goal of the problem is to locate p facilities in order to minimize the expected total travel cost. The paper presents two alternative mathematical programming formulations for this problem and proposes a matheuristic based on a network flow model to provide solutions to it. The computational burden of the presented formulations is tested and compared on a test-bed of instances.
-
-@highlight New variant of the reliable p-median problem with at facility service.
-@highlight Two different MIP formulations are presented and compared.
-@highlight Approximation based on network flows provides good solutions and lower bounds.
-@highlight Computational results based on two data sets show the performance of formulations.

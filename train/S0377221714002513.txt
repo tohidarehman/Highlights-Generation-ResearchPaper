@@ -1,7 +1,0 @@
- This paper studies vertical integration in serial supply chains with a wholesale price contract. We consider a business environment where the contracting leader may be endogenously changed before and after forming the integration. A cooperative game is formulated to normatively analyze the stable and fair profit allocations under the grand coalition in such an environment. Our main result demonstrates that vertical integration is stable when all members are pessimistic in the sense that they are sure that they will not become the contracting leader if they deviate from the grand coalition. We find that in this case, the grand coalition’s profit must be allocated more to the retailer and the members with higher costs. Nevertheless, we also show the conditions under which the upstream manufacturer can have strong power as in traditional supply chains.
-
-@highlight We study vertical integration in serial multi-tier supply chains.
-@highlight We consider a situation where the contract leader may be endogenously changed.
-@highlight A cooperative game is formulated to analyze the stable profit allocations in such a situation.
-@highlight The vertical integration is stable only when all members are pessimistic.
-@highlight The grand coalition’s profit must be allocated more to the retailer and the members with higher costs.

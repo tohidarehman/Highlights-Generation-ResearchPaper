@@ -1,7 +1,0 @@
- In this paper we discuss the multicriteria p-facility median location problem on networks with positive and negative weights. We assume that the demand is located at the nodes and can be different for each criterion under consideration. The goal is to obtain the set of Pareto-optimal locations in the graph and the corresponding set of non-dominated objective values. To that end, we first characterize the linearity domains of the distance functions on the graph and compute the image of each linearity domain in the objective space. The lower envelope of a transformation of all these images then gives us the set of all non-dominated points in the objective space and its preimage corresponds to the set of all Pareto-optimal solutions on the graph. For the bicriteria 2-facility case we present a low order polynomial time algorithm. Also for the general case we propose an efficient algorithm, which is polynomial if the number of facilities and criteria is fixed.
-
-@highlight This paper discusses the multicriteria p-facility median location problem on networks with positive and negative weights.
-@highlight Demand is located at the nodes with a variable weight according to the criterion under consideration.
-@highlight We obtain the set of non-dominated objective values as well as the set of Pareto-optimal locations.
-@highlight This paper provides an efficient algorithm to solve the bicriteria 2-facility problem.
-@highlight The general problem is also solved by a polynomial algorithm provided the number of facilities is fixed.

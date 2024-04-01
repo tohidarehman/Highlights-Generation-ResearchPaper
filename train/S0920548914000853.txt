@@ -1,7 +1,0 @@
- Cloud computing is one of the most popular information processing concepts of today's IT world. The security of the cloud computing is complicated because each service model uses different infrastructure elements. Current security risk assessment models generally cannot be applied to cloud computing systems that change their states very rapidly. In this work, a scalable security risk assessment model has been proposed for cloud computing as a solution of this problem using game theory. Using this method, we can evaluate whether the risk in the system should be fixed by cloud provider or tenant of the system.
-
-@highlight Cloud computing model and systems has ben used extensively in recent years.
-@highlight Security risks have become important topic for cloud systems.
-@highlight We have proposed a game theory model to assess security risks on cloud systems.
-@highlight Model has been evaluated using sample players named as attacker and defender.
-@highlight Proposed model is a novel approach in this field.

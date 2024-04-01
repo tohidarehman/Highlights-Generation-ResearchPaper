@@ -1,6 +1,0 @@
- In this work, we consider some basic sports scheduling problems and introduce the notions of graph theory which are needed to build adequate models. We show, in particular, how edge coloring can be used to construct schedules for sports leagues. Due to the emergence of various practical requirements, one cannot be restricted to classical schedules given by standard constructions, such as the circle method, to color the edges of complete graphs. The need of exploring the set of all possible colorings inspires the design of adequate coloring procedures. In order to explore the solution space, local search procedures are applied. The standard definitions of neighborhoods that are used in such procedures need to be extended. Graph theory provides efficient tools for describing various move types in the solution space. We show how formulations in graph theoretical terms give some insights to conceive more general move types. This leads to a series of open questions which are also presented throughout the text.
-
-@highlight We apply edge coloring theory to construct schedules for sports tournaments.
-@highlight Local search neighborhoods are modeled in terms of edge coloring operators.
-@highlight The standard definitions of neighborhoods in local search are extended.
-@highlight We show the theoretical and practical importance of graph models for such problems.

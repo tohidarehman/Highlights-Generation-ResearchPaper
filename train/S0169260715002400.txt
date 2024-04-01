@@ -1,7 +1,0 @@
- Automated fracture detection is an essential part of a computer-aided tele-medicine system. In this paper, we have proposed a unified technique for the detection and evaluation of orthopaedic fractures in long-bone digital X-ray image. We have also developed a software tool that can be conveniently used by paramedics or specialist doctors. The proposed tool first segments the bone region of an input digital X-ray image from its surrounding flesh region and then generates the bone-contour using an adaptive thresholding approach. Next, it performs unsupervised correction of bone-contour discontinuities that might have been generated because of segmentation errors, and finally detects the presence of fracture in the bone. Moreover, the method can also localize the line-of-break for easy visualization of the fracture, identify its orientation, and assess the extent of damage in the bone. Several concepts from digital geometry such as relaxed straightness and concavity index are utilized to correct contour imperfections, and to detect fracture locations and type. Experiments on a database of several long-bone digital X-ray images show satisfactory results.
-
-@highlight Input: Bone X-ray image.
-@highlight Output: Segmentation of bone-contour from the surrounding region.
-@highlight Correct false discontinuities in the bone-contour based on digital-geometry.
-@highlight Generate an isothetic outer-cover of the bone contour.
-@highlight Identify fracture-points and the line-of-fracture.

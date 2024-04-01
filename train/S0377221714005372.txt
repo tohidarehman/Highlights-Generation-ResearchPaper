@@ -1,7 +1,0 @@
- This paper examines the combined use of predictive analytics, optimization, and overbooking to schedule outpatient appointments in the presence of no-shows. We tackle the problem of optimally overbooking appointments given no-show predictions that depend on the individual appointment characteristics and on the appointment day. The goal is maximizing the number of patients seen while minimizing waiting time and overtime. Our analysis leads to the definition of a near-optimal and simple heuristic which consists of giving same-day appointments to likely shows and future-day appointments to likely no-shows. We validate our findings by performing extensive simulation tests based on an empirical data set of nearly fifty thousand appointments from a real outpatient clinic. The results suggest that our heuristic can lead to a substantial increase in performance and that it should be preferred to open access under most parameter configurations. Our paper will be of great interest to practitioners who want to improve their clinic performance by using individual no-show predictions to guide appointment scheduling.
-
-@highlight We develop a method to schedule appointments given no-show predictions.
-@highlight We study the database of a large mental health center with a high no-show rate.
-@highlight Likely shows should be scheduled soon, while likely no-shows later.
-@highlight We outperform a popular appointment scheduling policy: open access.
-@highlight A “same-day appointments” policy should not be adopted for high prediction quality.

@@ -1,7 +1,0 @@
- This paper presents a methodology and software tools for parametric design of complex architectural objects, called digital or algorithmic forms. In order to provide a flexible tool, the proposed design philosophy involves two open source utilities DONKEY and MIDAS written in Grasshopper algorithm editor and C++, respectively, that are to be linked with a scripting-based architectural modellers Rhinoceros, IntelliCAD and the open source Finite Element solver OOFEM. The emphasis is put on the structural response in order to provide architects with a consistent learning framework and an insight into structural behaviour of designed objects. As demonstrated on three case studies, the proposed modular solution is capable of handling objects of considerable structural complexity, thereby accelerating the process of finding procedural design parameters from orders of weeks to days or hours.
-
-@highlight A software tool for parametric design of complex architectural objects was developed.
-@highlight It provides a learning framework on structural behaviour of architectural artworks.
-@highlight A particular emphasis is on procedural design parameters due to mechanical response.
-@highlight The solution flexibility is guaranteed by open source utilities DONKEY, MIDAS, OOFEM.
-@highlight The tool capabilities are demonstrated on several case studies of various complexity.

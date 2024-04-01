@@ -1,7 +1,0 @@
- We consider the min-max regret version of a single-machine scheduling problem to determine which jobs are processed by outsourcing under processing time uncertainty. The performance measure is expressed as the total cost for processing some jobs in-house and outsourcing the rest. Processing time uncertainty is described through two types of scenarios: either an interval scenario or a discrete scenario. The objective is to minimize the maximum deviation from optimality over all scenarios. We show that when the cost for in-house jobs is expressed as the makespan, the problem with an interval scenario is polynomially solvable, while the one with a discrete scenario is NP-hard. Thus, for the discrete scenario case, we develop a 2-approximation algorithm and investigate when the problem is polynomially solvable. Since the problem minimizing the total completion time as a performance measure for in-house jobs is known to be NP-hard for both scenarios, we consider the problem with a special structure for the processing time uncertainty and develop a polynomial-time algorithm for both scenarios.
-
-@highlight We consider a single-machine scheduling problem with an outsourcing option.
-@highlight Processing times are uncertain and expressed as the set of scenarios.
-@highlight The objective is to minimize the maximum regret over all scenarios.
-@highlight We establish the computational complexity such as NP-hardness and FPTAS.
-@highlight We investigate several conditions under which the problem can be polynomial.

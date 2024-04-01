@@ -1,7 +1,0 @@
- Market segmentation comprises a variety of measurement methodologies that are used to support management, marketing and promotional policies in tourism destinations. This study applies ClustOfVar, a relatively recent algorithm for cluster analysis from mixed variables. The technique finds groups of variables by using a homogeneity criterion based on the sum of correlation ratios for qualitative variables, and squared correlations for quantitative variables. Then principal components from each cluster of variables are extracted in order to segment cruise passengers. CART analysis is finally used for the sake of finding the variables that drove the formation of the clusters. All the analysis is based on an official survey of tourists who disembarked in Uruguayan ports. The analysis identified five clusters, both for variables and cruise passengers. Findings highlight the importance of the enjoyment of the contact with local people for the economic impact, as well as the important role of age and gender related variables. Managerial implications are also discussed.
-
-@highlight The ClustOfVar algorithm is applied to segment cruise tourists.
-@highlight The technique is suitable for mixed qualitative and quantitative variables.
-@highlight Clusters of cruise visitors to Uruguay are detected and analysed.
-@highlight Economic impact is linked to positive perception of local people.
-@highlight Port of call and age are main discriminators of groups.

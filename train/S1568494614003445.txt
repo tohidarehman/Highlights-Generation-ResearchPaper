@@ -1,7 +1,0 @@
- In this paper, a new and efficient optimization technique based on hybridization of chemical reaction optimization (CRO) with differential evolution (DE) is developed and demonstrated to solve the ELD problem with thermal cost function having valve point loading effect together with and without multiple fuel options and with and without considering prohibited operating zone and ramp rate constraint. When valve-point effects, multi-fuel operations and the constraints of prohibited operating zone and ramp rate are taken into account, ELD problem become more complex than conventional ELD problem. To show the priority of the proposed algorithm, it is implemented on six different test systems for solving ELD problems. Comparative studies are carried out to examine the effectiveness of the proposed HCRO-DE approach with conventional DE, CRO and the other algorithms reported in the literature. The simulation results show that the proposed HCRO-DE method is capable of obtaining better quality solutions than DE, CRO and the other well popular optimization techniques.
-
-@highlight Hybrid chemical reaction optimization (CRO) algorithm applied to ELD is proposed.
-@highlight To improve solution quality hybridization of DE and CRO is made.
-@highlight Effectiveness is checked by applying it in six different test systems.
-@highlight The performance of HCRO-DE is compared with other optimization techniques.
-@highlight Robustness of the proposed method is checked through statistical analysis.

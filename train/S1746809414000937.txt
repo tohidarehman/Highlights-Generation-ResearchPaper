@@ -1,7 +1,0 @@
- The array-comparative genomic hybridization (aCGH) and next generation sequence technologies enable cost-efficient high resolution detection of DNA copy number variations (CNVs). However, while the CNVs estimates provided by different methods are often inconsistent with each other, still a little can be found about the estimation errors. Based on our recent studies of the confidence limits for stepwise signals measured in noise, we develop an efficient algorithm for computing the confidence upper and lower boundary masks in order to guarantee an existence of genomic changes with required probability. We suggest combining these masks with estimates in order to give medical experts more information about true CNVs structures. Applications given for high-resolution CGH microarray measurements ensure that there is a probability that some changes predicted by an estimator may not exist.
-
-@highlight Estimation of genome copy number variations is provided in large noise.
-@highlight The estimation accuracy is limited with jitter in the breakpoints.
-@highlight The confidence limit masks are formed for arbitrary confidence intervals.
-@highlight The HR-CGH array measurements of the CNVs are tested by the masks formed.
-@highlight It is shown that the CNVs estimation errors can be large in segments and edges.

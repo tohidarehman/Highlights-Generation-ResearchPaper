@@ -1,5 +1,0 @@
- In this article we provide the characterization of analysis suitable T-spline spaces  as the space of piecewise polynomials with appropriate linear constrains on the subdomain interfaces. We describe AST-meshes for which the linear constrains are equivalent to smoothness conditions and provide examples showing that this is not always the case.
-
-@highlight We study the analysis suitable T-spline spaces as a piecewise polynomials space.
-@highlight We characterize the difference between two neighboring polynomial expressions.
-@highlight We study when the space can be described by smoothness conditions.

@@ -1,7 +1,0 @@
- New city logistics approaches are needed to ensure efficient urban mobility for both people and goods. Usually, these are handled independently in dedicated networks. This paper considers conceptual and mathematical models in which people and parcels are handled in an integrated way by the same taxi network. From a city perspective, this system has a potential to alleviate urban congestion and environmental pollution. From the perspective of a taxi company, new benefits from the parcel delivery service can be obtained. We propose two multi-commodity sharing models. The Share-a-Ride Problem (SARP) is discussed and defined in detail. A reduced problem based on the SARP is proposed: the Freight Insertion Problem (FIP) starts from a given route for handling people requests and inserts parcel requests into this route. We present MILP formulations and perform a numerical study of both static and dynamic scenarios. The obtained numerical results provide valuable insights into successfully implementing a taxi sharing service.
-
-@highlight We consider a taxi-based people-freight sharing system.
-@highlight Two MILP formulations are given to find a tradeoff between flexibility and complexity.
-@highlight Addressed the experimenting in static and dynamic environments.
-@highlight An extensive numerical study is done.
-@highlight Among different scenarios, the one mimicking a typical city provides the best results.

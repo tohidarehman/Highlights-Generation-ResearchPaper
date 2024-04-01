@@ -1,7 +1,0 @@
- Motivated by the emergence of online penny or pay-to-bid auctions, in this study, we analyze the operational consequences of all-pay auctions competing with fixed list price stores. In all-pay auctions, bidders place bids, and highest bidder wins. Depending on the auction format, the winner pays either the amount of their bid or that of the second-highest bid. All losing bidders forfeit their bids, regardless of the auction format. Bidders may visit the store, both before and after bidding, and buy the item at the fixed list price. In a modified version, we consider a setting where bidders can use their sunk bid as a credit towards buying the item from the auctioneer at a fixed price (different from the list price). We characterize a symmetric equilibrium in the bidding/buying strategy and derive optimal list prices for both the seller and auctioneer to maximize expected revenue. We consider two situations:  one firm operating both channels (i.e. fixed list price store and all-pay auction), and  two competing firms, each operating one of the two channels.
-
-@highlight Equilibrium bidding strategies for all-pay auctions with pre- and post-bid options.
-@highlight Incorporate sunk bids as credit towards posted price purchase.
-@highlight Discuss optimal pricing for seller and auctioneer in dual sales channel competition.
-@highlight Illustrate bid variation as function of bid credits towards posted price purchase.
-@highlight Illustrate application to online penny auctions.

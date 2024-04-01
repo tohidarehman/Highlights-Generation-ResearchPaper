@@ -1,5 +1,0 @@
- This paper studies the problem of pricing high-dimensional American options. We propose a method based on the state-space partitioning algorithm developed by Jin et al.  and a dimension-. By applying the approach in the present paper, the computational efficiency of pricing high-dimensional American options is significantly improved, compared to the extant approaches in the literature, without sacrificing the estimation precision. Various numerical examples are provided to illustrate the accuracy and efficiency of the proposed method. Pseudcode for an implementation of the proposed approach is also included.
-
-@highlight Pricing high-dimensional American-style options suffers the “curse of dimensionality”.
-@highlight Bundling based on option payoff converts high-dimensional cases to one-dimensional one.
-@highlight A state-space partitioning pricing algorithm is proposed based on the bundling method.

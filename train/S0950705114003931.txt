@@ -1,7 +1,0 @@
- Condition of eye images with a low lighting or low contrast ratio between the iris and pupil is one of the challenges for iris recognition in a non-cooperative environment and under visible wavelength illumination. Incorrect iris localization can affect the performance of the iris recognition system. Iso-contrast limited adaptive histogram equalization is proposed to overcome this challenge and increase the performance of iris localization. The eye image is partitioned into the contextual sub-region; then, the proposed method transfers the pixel intensity by referring to a local intensity histogram and a newly suggested cumulative distribution function. This research was tested on 1000 eye images from the UBIRIS.v2 dataset. The results showed that the proposed method performed better than existing methods when dealing with a low lighting or low contrast ratio between the iris and pupil in the eye image.
-
-@highlight Low lighting iris image will reduce the iris segmentation accuracy.
-@highlight Low contrast ratio between the iris and the pupil caused error pupillary detection.
-@highlight CLAHE is used to limit contrast amplification of sub-regions.
-@highlight ISO is used to provide sub-regions with linear distribution intensities.
-@highlight A fusion of iso-CLAHE improved the eye image from a low lighting or contrast ratio.

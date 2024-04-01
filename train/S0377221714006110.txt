@@ -1,6 +1,0 @@
- This paper proposes an analysis of the effects of consensus and preference aggregation on the consistency of pairwise comparisons. We define some boundary properties for the inconsistency of group preferences and investigate their relation with different inconsistency indices. Some results are presented on more general dependencies between properties of inconsistency indices and the satisfaction of boundary properties. In the end, given three boundary properties and nine indices among the most relevant ones, we will be able to present a complete analysis of what indices satisfy what properties and offer a reflection on the interpretation of the inconsistency of group preferences.
-
-@highlight We study the inconsistency of pairwise comparisons in group decision making.
-@highlight We study the effect of the aggregation of pairwise comparisons on their consistency.
-@highlight We derive general results and provide a complete study for well-known inconsistency indices.
-@highlight We start a discussion on the meaning of inconsistency of aggregated preferences.

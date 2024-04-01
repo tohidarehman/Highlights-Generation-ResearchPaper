@@ -1,7 +1,0 @@
- We describe a domain-independent methodology to extend SemRep coverage beyond the biomedical domain. SemRep, a natural language processing application originally designed for biomedical texts, uses the knowledge sources provided by the Unified Medical Language System (UMLS©). Ontological and terminological extensions to the system are needed in order to support other areas of knowledge. We extended SemRep’s application by developing a semantic representation of a previously unsupported domain. This was achieved by adapting well-known ontology engineering phases and integrating them with the UMLS knowledge sources on which SemRep crucially depends. While the process to extend SemRep coverage has been successfully applied in earlier projects, this paper presents in detail the step-wise approach we followed and the mechanisms implemented. A case study in the field of medical informatics illustrates how the ontology engineering phases have been adapted for optimal integration with the UMLS. We provide qualitative and quantitative results, which indicate the validity and usefulness of our methodology.
-
-@highlight Integrating new domain knowledge into the UMLS extends SemRep core coverage.
-@highlight An existing ontology-building method is adapted to accommodate the new knowledge.
-@highlight Text analysis uncovers non-UMLS domain knowledge for a medical informatics case study.
-@highlight New concepts, semantic types, and relations are defined for the new domain.
-@highlight The new knowledge and semantic representation allow SemRep to apply to new domains.

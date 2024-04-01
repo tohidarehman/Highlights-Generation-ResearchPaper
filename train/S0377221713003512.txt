@@ -1,5 +1,0 @@
- In a recent paper by Li and Cheng [Li,S.K., Cheng, Y.S., 2007. Solving the puzzles of structural efficiency. European Journal of Operational Research 180, 713–722], they developed the shadow price model to solve the existing puzzles of structural efficiency theoretically. However, is not always unique. As a result, the decomposition of the structural efficiency is arbitrarily generated, depending on the shadow price vector we choose. Finally, an example with multiple inputs and outputs is used to illustrate the phenomenon.
-
-@highlight The optimal shadow price vector in the shadow price model by Li and Cheng (2007) is not always unique.
-@highlight An algorithm is developed to test whether the shadow price vector is unique.
-@highlight The decomposition of the structural efficiency is arbitrarily generated, depending on the shadow price vector.

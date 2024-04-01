@@ -1,7 +1,0 @@
- The Bayesian neural networks are useful tools to estimate the functional structure in the nonlinear systems. However, they suffer from some complicated problems such as controlling the model complexity, the training time, the efficient parameter estimation, the random walk, and the stuck in the local optima in the high-dimensional parameter cases. In this paper, to alleviate these mentioned problems, a novel hybrid Bayesian learning procedure is proposed. This approach is based on the full Bayesian learning, and integrates Markov chain Monte Carlo procedures with genetic algorithms and the fuzzy membership functions. In the application sections, to examine the performance of proposed approach, nonlinear time series and regression analysis are handled separately, and it is compared with the traditional training techniques in terms of their estimation and prediction abilities.
-
-@highlight A novel Monte Carlo algorithm is proposed to train Bayesian neural networks.
-@highlight This algorithm is based on the full Bayesian approach of artificial neural networks.
-@highlight Monte Carlo methods are integrated with GAs and fuzzy membership functions.
-@highlight Proposed algorithm is applied to time series and regression analysis in the context of BNNs.
-@highlight Proposed approach is superior to traditional training methods in terms of estimation performance.

@@ -1,7 +1,0 @@
- Although MedDRA has obvious advantages over previous terminologies for coding adverse drug reactions and discovering potential signals using data mining techniques, its terminological organization constrains users to search terms according to predefined categories. Adding formal definitions to MedDRA would allow retrieval of terms according to a case definition that may correspond to novel categories that are not currently available in the terminology. To achieve semantic reasoning with MedDRA, we have associated formal definitions to MedDRA terms in an OWL file named OntoADR that is the result of our first step for providing an “ontologized” version of MedDRA. MedDRA five-levels original hierarchy was converted into a subsumption tree and formal definitions of MedDRA terms were designed using several methods: mappings to SNOMED-CT, semi-automatic definition algorithms or a fully manual way. This article presents the main steps of OntoADR conception process, its structure and content, and discusses problems and limits raised by this attempt to “ontologize” MedDRA.
-
-@highlight MedDRA’s current format limits accurate and consistent term selection for coding.
-@highlight OntoADR, a formalized (“ontologized”) version of MedDRA can improve MedDRA coding and support signal detection.
-@highlight OntoADR is an OWL representation of MedDRA using SNOMED-CT formal definitions.
-@highlight Formalizing MedDRA enables terminological reasoning on terms semantics.
-@highlight The process of formalization of MedDRA can be semi-automated.

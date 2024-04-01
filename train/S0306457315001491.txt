@@ -1,7 +1,0 @@
- General graph random walk has been successfully applied in multi-document summarization, but it has some limitations to process documents by this way. In this paper, we propose a novel hypergraph based vertex-reinforced random walk framework for multi-document summarization. The framework first exploits the Hierarchical Dirichlet Process (HDP) topic model to learn a word-topic probability distribution in sentences. Then the hypergraph is used to capture both cluster relationship based on the word-topic probability distribution and pairwise similarity among sentences. Finally, a time-variant random walk algorithm for hypergraphs is developed to rank sentences which ensures sentence diversity by vertex-reinforcement in summaries. Experimental results on the public available dataset demonstrate the effectiveness of our framework.
-
-@highlight We propose a novel hybrid method to capture group relation of sentences.
-@highlight We cluster sentences with a KL-divergence based on word-topic distribution.
-@highlight We proposed a vertex reinforcement random walk process in a hypergraph model.
-@highlight The process simultaneously consider the query similarity, the centrality and the diversity of sentences.
-@highlight We implement our framework and verify improvement over appropriate baselines.

@@ -1,6 +1,0 @@
- In this paper we present a methodology of classifying hepatic (liver) lesions using multidimensional persistent homology, the matching metric (also called the bottleneck distance), and a support vector machine. We present our classification results on a dataset of 132 lesions that have been outlined and annotated by radiologists. We find that topological features are useful in the classification of hepatic lesions. We also find that two-dimensional persistent homology outperforms one-dimensional persistent homology in this application.
-
-@highlight We applied multidimensional persistent homology, the matching metric, and a support vector machine to classify hepatic lesions.
-@highlight We show that a multidimensional filtration is more effective than a one-dimensional filtration in classifying hepatic lesions.
-@highlight Combining geometric information with topological information improves results in lesion classification.
-@highlight We demonstrate that topological features are comparable to more traditional features in hepatic lesion classification.

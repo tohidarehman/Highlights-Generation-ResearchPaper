@@ -1,7 +1,0 @@
- This paper presents a differential evolution (DE) algorithm, namely SLADE, with self-adaptive strategy and control parameters for unconstrained optimization problems. In SLADE, the population is initialized by symmetric Latin hypercube design (SLHD) to increase the diversity of the initial population. Moreover, the trial vector generation strategy assigned to each target individual is adaptively selected from the strategy candidate pool to match different stages of the evolution according to their previous successful experience. SLADE employs Cauchy distribution and normal distribution to update the control parameters CR and F to appropriate values during the evolutionary process. A large amount of simulation experiments and comparisons have been made by employing a set of 25 benchmark functions. Experimental results show that SLADE is better than, or at least comparable to, other classic or adaptive DE algorithms, and SLHD is effective for improving the performance of SLADE.
-
-@highlight We propose an adaptive DE algorithm for unconstrained optimization problems.
-@highlight Symmetric Latin hypercube design is employed to initialize the population.
-@highlight Trial vector generation strategy adaptation is introduced.
-@highlight Control parameters adaptation is introduced.
-@highlight Experimental results show that SLADE is better than other DE algorithms.

@@ -1,6 +1,0 @@
- This paper analyzes scheduling in a data gathering network with data compression. The nodes of the network collect some data and pass them to a single base station. Each node can, at some cost, preprocess the data before sending it, in order to decrease its size. Our goal is to transfer all data to the base station in given time, at the minimum possible cost. We prove that the decision version of this scheduling problem is NP-complete. Polynomial-time heuristic algorithms for solving the problem are proposed and tested in a series of computational experiments.
-
-@highlight Data gathering networks with data compression are studied.
-@highlight The scheduling problem is to transfer all data in given time at the minimum cost.
-@highlight The decision version of the problem is proved to be NP-complete.
-@highlight Polynomial-time heuristics are proposed and tested experimentally.

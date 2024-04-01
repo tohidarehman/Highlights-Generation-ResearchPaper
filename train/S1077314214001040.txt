@@ -1,5 +1,0 @@
- A method to decompose a 3D object into simple parts starting from its curve skeleton is described. Branches of the curve skeleton are classified as meaningful and non-meaningful by using the notion of zone of influence of the points where skeleton branches meet. Meaningful branches are associated to subsets of the object, which are obtained by subtracting from the input object suitably expanded versions of the zones of influence, termed overlapping regions. Decision is taken on whether the overlapping regions should be individual decomposition components, or should be assigned to properly selected adjacent object’s subsets. The so obtained object’s decomposition components are subdivided into parts characterized by simple shape through the polygonal approximation of the corresponding skeleton branches.
-
-@highlight Discrete method for 3D object decomposition into perceptually simple parts.
-@highlight Use of the curve skeleton to guide object decomposition.
-@highlight Polygonal approximation of skeleton branches to obtain spines of simple regions.

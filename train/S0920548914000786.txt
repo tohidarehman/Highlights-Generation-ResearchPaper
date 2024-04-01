@@ -1,7 +1,0 @@
- IT service provider organizations that have implemented a Quality Management System (QMS) according to ISO 9001 can take advantage of all the efforts made when implementing an IT Service Management System (ITSMS). In order to facilitate the integration of these two management systems, we analyze the existing relations between the requirements of the QMS and the ITSMS. Based on these results, we provide a new Integrated Management System (IMS) which widens the scope of the ISO 9001 QMS with the specific IT service management requirements of ISO/IEC 20000-1, and present a guide to support organizations in implementing this IMS.
-
-@highlight The ISO/IEC 20000-1 IT Service Management System (ITSMS) can be integrated with the ISO 9001 Quality Management System (QMS).
-@highlight The relations between the requirements of both management systems have been analyzed.
-@highlight A quality and IT service management Integrated Management System (IMS) is proposed.
-@highlight This new IMS widens the ISO 9001 QMS with the ISO/IEC 20000-1 ITSM requirements.
-@highlight A guide to support organizations in implementing the new IMS is presented.

@@ -1,7 +1,0 @@
- Most developed countries support farming activities through policies that are tailored to meet their specific social, economic and environmental objectives. Economic and environmental efficiency have recently become relevant targets of most of these policies, whose sound implementation can be enhanced by monitoring farm performance from a multidimensional perspective. This paper proposes farm-level technical and environmental efficiency measures that recognize the stochastic conditions in which production takes place. A state-contingent framework is used to model production uncertainty. An implementable representation of the technology is developed using data envelopment analysis. The application focuses on a sample of Catalan arable crop farms. Results suggest that technical efficiency is slightly lower in bad than in good growing conditions. Nitrogen pollution can decrease substantially more under good than bad growing conditions.
-
-@highlight Previous research on technical and environmental efficiency measurement is extended.
-@highlight A state-contingent framework is used to model risk.
-@highlight Data envelopment analysis is used to implement the model.
-@highlight The application focuses on a sample of Catalan arable crop farms.
-@highlight Technical and environmental efficiencies depend on crop growing conditions.

@@ -1,8 +1,0 @@
- This paper introduces the Weighted Uncapacitated Planned Maintenance Problem (WUPMP). Based on guaranteed maximum service intervals, the WUPMP pursues the finding of a maintenance schedule that minimizes the resulting total fixed and variable costs. One finding is that significant polyhedral attributes of its solution space are derived. Among them, quasi-integrality that allows for applying an integral simplex algorithm is proven. Moreover, we prove strong NP -hardness and propose an exact solution procedure that is polynomial if the number of considered maintenance activities or the number of periods is constant. Since at least one restriction applies to most real-world applications, the algorithm provides practical decision support. Furthermore, the complexity status of various polynomial special cases of the WUPMP is resolved.
-
-@highlight The WUPMP has the single assignment property
-@highlight The polytope of the presented WUPMP formulation is quasi-integral
-@highlight The WUPMP is strongly NP-hard even for
-@highlight and
-@highlight An exact solution approach is proposed that is polynomial for N or TϵO(1)
-@highlight Complexity and polyhedral attributes of the WUPMP and variants are derived.

@@ -1,7 +1,0 @@
- Several production environments require simultaneous planing of sizing and scheduling of sequences of production lots. Integration of sequencing decisions in lotsizing and scheduling problems has received an increased attention from the research community due to its inherent applicability to real world problems. A two-dimensional classification framework is proposed to survey and classify the main modeling approaches to integrate sequencing decisions in discrete time lotsizing and scheduling models. The Asymmetric Traveling Salesman Problem can be an important source of ideas to develop more efficient models and methods to this problem. Following this research line, we also present a new formulation for the problem using commodity flow based subtour elimination constraints. Computational experiments are conducted to assess the performance of the various models, in terms of running times and upper bounds, when solving real-word size instances.
-
-@highlight A two-dimensional classification framework for sequencing within CLSP is introduced.
-@highlight We survey and classify the mathematical models for the problem using the framework.
-@highlight We present a formulation using commodity flow based subtour elimination constraints.
-@highlight We perform computational experiments to assess the various models performance.
-@highlight We indicate the potential best modeling approaches for different problem features.

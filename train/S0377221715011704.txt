@@ -1,7 +1,0 @@
- This paper analyzes a model where a manufacturer sells a product in two markets. One market is directly served by the manufacturer and the other is served by a retailer. While the manufacturer can offer consumer rebates, the retailer can potentially sell in a gray market, i.e., selling products outside of the authorized channel. Using a game-theoretic approach, we find that  rebates have a gray-market-deterrence effect,  rebates are beneficial to the manufacturer and possibly to retailer,  partial redemption of rebates is not always beneficial to the manufacturer, and  rebate leakage across markets or rebate under-valuation by consumers is not always detrimental to the retailer. These findings suggest the possible use of rebates even in scenarios where the conventional rationales for their use are absent.
-
-@highlight We establish a model where a manufacturer sells goods in two markets and the delegated retailer may potentially sell in a gray market.
-@highlight We show that the manufacturer can use rebates to deter the gray market (parallel importation).
-@highlight Consumer rebates are beneficial to the manufacturer and possibly to retailer.
-@highlight Partial redemption of rebates is not always a blessing to the manufacturer.
-@highlight Rebate leakage or rebate under-valuation by consumers is not always a bad thing to the retailer.

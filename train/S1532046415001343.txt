@@ -1,6 +1,0 @@
- Objective This paper introduces a model that predicts future changes in systolic blood pressure (SBP) based on structured and unstructured (text-based) information from longitudinal clinical records. Method For each patient, the clinical records are sorted in chronological order and SBP measurements are extracted from them. The model predicts future changes in SBP based on the preceding clinical notes. This is accomplished using least median squares regression on salient features found using a feature selection algorithm. Results Using the prediction model, a correlation coefficient of 0.47 is achieved on unseen test data . This is in contrast to a baseline correlation coefficient of 0.39.
-
-@highlight We present a model for predicting changes in systolic blood pressure (SBP).
-@highlight The model is trained and tested using longitudinal clinical records.
-@highlight Some features that inform the model account for the time of observation.
-@highlight The model’s estimates have a correlation coefficient of 0.47 with actual SBP change.

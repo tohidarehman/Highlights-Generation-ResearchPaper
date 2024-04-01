@@ -1,6 +1,0 @@
- In this paper, we propose a blind color image watermarking scheme based on quaternion discrete Fourier transform (QDFT) and on an improved uniform log-polar mapping (IULPM). The proposed watermarking scheme embeds dual watermarks: one is a meaningful binary image watermark and the other is a bipolar watermark. The former is embedded in the real part of mid-frequency QDFT coefficients using quantization index modulation. The latter is used to resynchronize the watermark after the watermarked image has been attacked, making the scheme resistant to geometric attacks. In particular, the IULPM allows for greater accuracy when estimating the rotation angle of a geometric attack. At the same time, the watermark embedding employs the image holistically, rather than in a block pattern. Experimental results demonstrate that the proposed scheme achieves better performance of robustness against both common signal operations and geometric attacks compared to other existing schemes.
-
-@highlight A robust blind color image watermarking scheme is proposed.
-@highlight An improved uniform log-polar mapping method is used to resist geometric attacks.
-@highlight A dual watermark is embedded into quaternion discrete Fourier transform domain.
-@highlight The holistic embedding manner rather than block-based achieves better robustness.

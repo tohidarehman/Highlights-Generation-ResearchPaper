@@ -1,5 +1,0 @@
- Sustainable online peer-to-peer support groups require engaged members. A metric commonly used to identify these members is the number of posts they have made. The 90-9-1 principle has been proposed as a ‘rule of thumb’ for classifying members using this metric with a recent study demonstrating the applicability of the principal to digital health social networks. Using data from a depression Internet support group, the current study sought to replicate this finding and to investigate in more detail the model of best fit for classifying participant contributions. Our findings replicate previous results and also find the fit of a power curve (Zipf distribution) to account for 98.6% of the variance. The Zipf distribution provides a more nuanced image of the data and may have practical application in assessing the ‘coherence’ of the sample.
-
-@highlight The 90-9-1 principle provides a model for participation in an Internet support group.
-@highlight Alternately, a power curve accounts for 98.6% of variance in frequency of posts.
-@highlight We confirm the application of Zipf's Law for the Internet support group.

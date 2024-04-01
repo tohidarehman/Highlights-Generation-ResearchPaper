@@ -1,7 +1,0 @@
- This paper proposes new methods for computation of greeks using the binomial tree and the discrete Malliavin calculus. In the last decade, the Malliavin calculus has come to be considered as one of the main tools in financial mathematics. It is particularly important in the computation of greeks using Monte Carlo simulations. In previous studies, greeks were usually represented by expectation formulas that are derived from the Malliavin calculus and these expectations are computed using Monte Carlo simulations. On the other hand, the binomial tree approach can also be used to compute these expectations. In this article, we employ the discrete Malliavin calculus to obtain expectation formulas for greeks by the binomial tree method. All the results are obtained in an elementary manner.
-
-@highlight Discrete Malliavin calculus approach is introduced to compute greeks (sensitivity) of the option prices.
-@highlight Discrete Malliavin calculus is ‘Malliavin calculus’ on the binomial lattice.
-@highlight This method enables us to compute greeks easily using the binomial tree.
-@highlight Numerical demonstration indicates robustness of this method.
-@highlight All the results are obtained in an elementary manner.

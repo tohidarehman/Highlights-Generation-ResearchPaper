@@ -1,8 +1,0 @@
- This paper presents an innovative solution to model distributed adaptive systems in biomedical environments. We present an original TCBR-HMM (Text Case Based Reasoning-Hidden Markov Model) for biomedical text classification based on document content. The main goal is to propose a more effective classifier than current methods in this environment where the model needs to be adapted to new documents in an iterative learning frame. To demonstrate its achievement, we include a set of experiments, which have been performed on OSHUMED corpus. Our classifier is compared with Naive Bayes and SVM techniques, commonly used in text classification tasks. The results suggest that the TCBR-HMM Model is indeed more suitable for document classification. The model is empirically and statistically comparable to the SVM classifier and outperforms it in terms of time efficiency.
-
-@highlight The paper presents an innovative solution to model distributed adaptive systems in biomedical environments.
-@highlight A Case Based Reasoning system with an original Hidden Markov Model for biomedical text classification is proposed.
-@highlight The model classifies scientific documents by their content, taking into account the relevance of words.
-@highlight The model is able to adapt to new documents in an iterative learning frame.
-@highlight The model is tested with the SVM and k-NN classifiers using the Ohsumed scientific collection.
-@highlight Empirical and statistical results show the method outperforms other efficient text classifiers.

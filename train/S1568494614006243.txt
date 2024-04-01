@@ -1,7 +1,0 @@
- This paper proposes an alternative approach for determining the most energy efficient route towards a destination. An innovative mesoscopic vehicular consumption model that is based on machine learning functionality is introduced and its application in a case study involving Fully Electric Vehicles (FEVs) is examined. The integration of this model in a routing engine especially designed for FEVs is also analyzed and a software architecture for implementing the proposed routing methodology is defined. In order to verify the robustness and the energy efficiency of this methodology, a system prototype has been developed and a series of field tests have been performed. The results of these tests are reported and significant conclusions are derived regarding the generated energy efficient routes.
-
-@highlight Introduction of a context-aware routing methodology.
-@highlight Ability to sense the environment and to perceive FEV's special characteristics.
-@highlight A rather unbiased (MPE=0.85%) and accurate (MAPE=10.56%) consumption model.
-@highlight Proposed consumption model vs. a reference model: MPE 20x better, MAPE 2x better.
-@highlight Energy efficient vs. fastest routes: save 21% energy, only 10% longer in time.

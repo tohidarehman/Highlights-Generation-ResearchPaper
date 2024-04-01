@@ -1,6 +1,0 @@
- The conventional controller suffers from uncertain parameters and non-linear qualities of Quasi-Z Source converter. However they are computationally inefficient extending to optimize the fuzzy controller parameters, since they exhaustively search the optimal values to optimize the objective functions. To overcome this drawback, a PSO based fuzzy controller parameter optimization is presented in this paper. The PSO algorithm is used to find the optimal fuzzy parameters for minimizing the objective functions. The feasibility of the proposed PSO technique has been simulated and tested. The results are bench marked with conventional fuzzy controller and genetic algorithm for two types of DC/DC converters namely double input Z-Source converter and Quasi-Z Source converter. The results of both the DC/DC converters for several existing methods illustrate the effectiveness and robustness of the proposed algorithm.
-
-@highlight The use of FPSO can reduce the overshoot and improves the performance of the drive.
-@highlight qZSC yield reduced transient response, reduced switching stresses and switching losses.
-@highlight FPSO leads to faster response with reduced overshoot, a short settling time.
-@highlight It includes reduced steady state error and reduced Total Harmonic Distortion.

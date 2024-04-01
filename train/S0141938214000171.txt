@@ -1,6 +1,0 @@
- We investigated green phosphorescent organic light-emitting diodes (PHOLEDs) with charge control layer (CCL) to produce high efficiency and improve operational lifetime. Three types of devices were fabricated following the number of CCL within emitting layer (EML), maintaining the thickness of whole EML. The CCL and host material, which was 4,4′-bis (carbazol-9-yl)biphenyl (CBP) with bipolar property, can control carrier movement in EML. Therefore, the electroluminescent (EL) performance improvement as efficiency and lifetime was realized with a good charge balance, an effective triplet exciton confinement, and the reduced triplet exciton quenching effect in EML. Device 2 with a CCL as exciton distribution structure exhibits the remarkable EL performances for the maximum luminous and external quantum efficiency of 65.34cd/A and 20.42%, respectively. Moreover, operational lifetime is nearly improved 2.5 times than the conventional device.
-
-@highlight Green PHOLEDs have been fabricated using charge control layer (CCL).
-@highlight The distributed recombination zone and charge balance are achieved through the CCL.
-@highlight Green PHOLEDs with CCL exhibited efficient carrier and triplet exciton confinement.
-@highlight Electroluminescent performance improvement as efficiency and lifetime was realized.

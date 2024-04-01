@@ -1,5 +1,0 @@
- This paper introduces an Educational Modeling Language (EML) to support the computational modeling of learning units. These computational models can be processed by suitable e-learning systems to support the authoring and delivering of learning experiences. Nevertheless, the modeling of learning units is a complex endeavor, involving issues of expressiveness, reusability, adaptability and flexibility. This paper proposes the Perspective-oriented EML to simplify this complexity. In PoEML, the model of a learning unit is not a single piece, as in current EMLs, but it is made up by several perspectives, where each perspective is focused on non-overlapping specific issues.
-
-@highlight PoEML modeling of learning units is arranged in several perspectives.
-@highlight Perspectives' separation supports reusability, adaptability and flexibility.
-@highlight Dependencies among perspectives have been minimized and identified.

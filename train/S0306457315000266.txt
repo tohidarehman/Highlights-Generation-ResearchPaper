@@ -1,7 +1,0 @@
- This paper examines the research patterns and trends of Recommendation System (RecSys) in China during the period of 2004–2013. Data (keywords in articles) was collected from the China Academic Journal Network Publishing Database (CAJD) and the China Science Periodical Database (CSPD). A co-word analysis was conducted to measure correlation among the extracted keywords. The cluster analysis and social network analysis revealed 12 theme-clusters, network characteristics (centrality and density) of the clusters, the strategic diagram, and the correlation network. The study results show that there are several important themes with a high correlation in Chinese RecSys research, which is considered to be relatively focused, mature, and well-developed overall. Some research themes have developed on a considerable scale, while others remain isolated and undeveloped. This study also identified a few emerging themes with great potential for development. It was also determined that studies overall on the applications of RecSys are increasing.
-
-@highlight We examine RecSys studies in China quantitatively, empirically, and longitudinally.
-@highlight Research on RecSys is relatively mature and well-developed overall.
-@highlight Twelve theme-clusters and six larger branches are identified.
-@highlight Some undeveloped or immature research themes continue to persist.
-@highlight Emerging themes with great potential for development are also identified.

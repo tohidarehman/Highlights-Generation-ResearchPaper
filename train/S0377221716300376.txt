@@ -1,7 +1,0 @@
- Patients who fail to attend their appointments complicate appointment scheduling systems. The accurate prediction of no-shows may assist a clinic in developing operational mitigation strategies, such as overbooking appointment slots or special management of patients who are predicted as being highly likely to not attend. We present a new model for predicting no-show behavior based solely on the binary representation of a patient's historical attendance history. Our model is a parsimonious, pure predictive analytics technique, which combines regression-like modeling and functional approximation, using the sum of exponential functions, to produce probability estimates. It estimates parameters that can give insight into the way in which past behavior affects future behavior, and is important for clinic planning and scheduling decisions to improve patient service. Additionally, our choice of exponential functions for modeling leads to tractable analysis that is proved to produce optimal and unique solutions. We illustrate our approach using data from patients’ attendance and non-attendance at Veteran Health Administration (VHA) outpatient clinics.
-
-@highlight We model appointment no-show behavior based upon a patient's past history.
-@highlight We determine how much of a patient's past history is necessary to provide insight.
-@highlight Patients with a history of non-compliance tend to repeat that pattern in the future.
-@highlight We prove that our model produces globally optimal estimates.
-@highlight Our model is well-suited for Big Data applications.

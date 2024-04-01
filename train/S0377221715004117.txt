@@ -1,6 +1,0 @@
- The deviation flow refueling location problem is to locate p refueling stations in order to maximize the flow volume that can be refueled respecting the range limitations of the alternative fuel vehicles and the shortest path deviation tolerances of the drivers. We first provide an enhanced compact model based on a combination of existing models in the literature for this relatively new operations research problem. We then extend this problem and introduce the refueling station location problem which adds the routing aspect of the individual drivers. Our proposed branch and price algorithm relaxes the simple path assumption generally adopted in the existing studies and implicitly takes into account deviation tolerances without the pregeneration of the routes. Therefore, the decrease in solution times with respect to existing models is significant and our algorithm scales very efficiently to more realistic network dimensions.
-
-@highlight We study the refueling station location problem with routing considerations.
-@highlight We propose a branch and price algorithm based on the notion of path-segments.
-@highlight The decrease in solution times with respect to existing works is significant.
-@highlight Our algorithm scales very efficiently to more realistic network dimensions.

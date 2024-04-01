@@ -1,6 +1,0 @@
- This paper examines the sailing speed of containerships and refueling of bunker in a liner shipping network while considering that the real speed may deviate from the planned one. It develops a mixed-integer nonlinear optimization model to minimize the total cost consisting of ship cost, bunker cost, and inventory cost, under the worst-case bunker consumption scenario. A close-form expression for the worst-case bunker consumption is derived and three linearization techniques are proposed to transform the nonlinear model to a mixed-integer linear programming formulation. A case study based on the Asia–Europe–Oceania network of a global liner shipping company demonstrates the applicability of the proposed model and interesting managerial insights are obtained.
-
-@highlight Joint sailing speed and refueling optimization.
-@highlight Sailing speed variation captured.
-@highlight Close-form expression for worst-case bunker consumption.
-@highlight Application to real-case examples.

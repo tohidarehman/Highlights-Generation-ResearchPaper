@@ -1,8 +1,0 @@
- We present a survey that focuses on the response and recovery planning phases of the disaster lifecycle. Related mathematical models developed in this area of research are classified in terms of vehicle/network representation structures and their functionality. The relationships between these characteristics and model size are discussed. The review provides details on goals, constraints, and structures of available mathematical models as well as solution methods. In this review, information systems applications in humanitarian logistics are also surveyed, since humanitarian logistics models and their solutions need to be integrated with information technology to enable their use in practice.
-
-@highlight Literature survey on response and recovery planning phases of disaster management.
-@highlight Focus on the classification and computational perspectives of humanitarian logistics models.
-@highlight Computational burdens of logistics models might prevent their practical use in large scale events.
-@highlight More research focusing on integrated models is required for the recovery phase.
-@highlight Enabling technologies are quite dispersed in their functionality and accessibility.
-@highlight A holistic web-based Enterprise Resource Planning (ERP) system is yet to be seen.

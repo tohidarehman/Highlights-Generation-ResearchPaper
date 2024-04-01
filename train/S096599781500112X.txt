@@ -1,5 +1,0 @@
- One of the most important challenges in the computer vision has long been to obtain three-dimensional models from the information given by a projection of the model. In this work we show an automatic system which allows obtaining three-dimensional models from entities that represent the conical projection of a polyhedral model with normalon or quasi-normalon typology. The results obtained on a total of 160 tests, with a success ratio of 100%, make the method a proposal to be considered for obtaining models from conical perspectives automatically.
-
-@highlight The proposed algorithms represent a significant advance in solid geometry reconstruction.
-@highlight The reconstruction process is carried out automatically without user interaction.
-@highlight The methods have been implemented and simulated, obtaining a success rate of 100%.

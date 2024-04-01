@@ -1,6 +1,0 @@
- We present a video-based approach to learn the specific driving characteristics of drivers in the video for advanced traffic control. Each vehicle’s specific driving characteristics are calculated with an offline learning process. Given each vehicle’s initial status and the personalized parameters as input, our approach can vividly reproduce the traffic flow in the sample video with a high accuracy. The learned characteristics can also be applied to any agent-based traffic simulation systems. We then introduce a new traffic animation method that attempts to animate each vehicle with its real driving habits and show its adaptation to the surrounding traffic situation. Our results are compared to existing traffic animation methods to demonstrate the effectiveness of our presented approach.
-
-@highlight We introduce a novel method to estimate vehicles’ personalized driving characteristics based on an input video.
-@highlight The learned characteristics can be employed for traffic reconstruction and agent-based traffic simulation.
-@highlight Our offline learning approach with an adaptive genetic algorithm outperforms existing methods for model calibration.
-@highlight Our system can describe drivers’ adaptation to the surrounding traffic situation using IDMM.

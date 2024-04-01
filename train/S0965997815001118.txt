@@ -1,5 +1,0 @@
- Modern design process is a complex work which includes many aspects and so CAD/CAM/CAE are widely used now. The next special generation of such software which combines complex geometrical design facilities, micro-models of composite structures and FE analysis, and tools for additive technologies has to be developed. This paper proposes a design methodology of a new 3D raster/vector drawing program to make micro-models with crowding or coarsening of fiber structures. The definitions of the new terms, principles, and algorithms to design such structure as a set of domains are given. Files for additive technology machines and finite element analysis were created. This approach is the convenient means of micro-modeling of FRC complex shape parts.
-
-@highlight A methodology to design a 3D graphic editor for composite microstructures.
-@highlight Design of voxel and vector 3D editor for fiber-reinforced composite parts modeling.
-@highlight Micro-modeling of crowding or coarsening of FRC parts fiber structures.

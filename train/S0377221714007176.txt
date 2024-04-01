@@ -1,6 +1,0 @@
- In this paper, we treat the problem of stochastic comparison of standby [active] redundancy at component level versus system level. In the case of standby redundancy, we present some interesting comparison results of both series systems and parallel systems in the sense of various stochastic orderings for both the matching spares case and non-matching spares case, respectively. In the case of active redundancy, a likelihood ratio ordering result of series systems is presented for the matching spares case; and for the non-matching spares case, a counterexample is provided to show that there does not exist similar result even for the hazard rate ordering. The results established here strengthen and generalize some of those known in the literature. Some numerical examples are also provided to illustrate the theoretical results.
-
-@highlight We study redundancy allocation at component level vs. system level.
-@highlight We use the tool of stochastic orderings.
-@highlight We establish several interesting comparison results.
-@highlight Examples are provided to illustrate the results.

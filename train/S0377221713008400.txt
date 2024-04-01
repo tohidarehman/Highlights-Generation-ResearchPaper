@@ -1,7 +1,0 @@
- In this paper, we investigate a two-stage lot-sizing and scheduling problem in a spinning industry. A new hybrid method called HOPS (Hamming-Oriented Partition Search), which is a branch-and-bound based procedure that incorporates a fix-and-optimize improvement method is proposed to solve the problem. An innovative partition choice for the fix-and-optimize is developed. The computational tests with generated instances based on real data show that HOPS is a good alternative for solving mixed integer problems with recognized partitions such as the lot-sizing and scheduling problem.
-
-@highlight A new MIP model for an industrial problem arising at a spinning industry.
-@highlight The synchronized lot-sizing and scheduling is approached by a new matheuristic.
-@highlight A Hamming-Oriented Partition Search is the core of the matheuristic.
-@highlight Variable fixing to problem partitions allows for better upper bounds.
-@highlight The HOPS outperforms two commercial implementations of improvement matheuristics.

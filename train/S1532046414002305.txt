@@ -1,7 +1,0 @@
- Chronic diseases patients often require constant dietary control that involves complicated interaction among factors such as the illness stage, the patient’s physical condition, the patient’s activity level, the amount of food intake, and key nutrient restrictions. This study aims to integrate multiple knowledge sources for problem solving modeling and knowledge-based system (KBS) development. A chronic kidney disease dietary consultation system is constructed by using Web Ontology Language (OWL) and Semantic Web Rule Language (SWRL) to demonstrate how a KBS approach can achieve sound problem solving modeling and effective knowledge inference. For system evaluation, information from 84 case patients is used to evaluate the performance of the system in recommending appropriate food serving amounts from different food groups for balanced key nutrient ingestion. The results show that, excluding interference factors, the OWL-based KBS can achieve accurate problem solving reasoning while maintaining knowledge base shareability and extensibility.
-
-@highlight We build a KBS with OWL-based ontologies to infer for CKD dietary consultation.
-@highlight The KBS can perform standard CKD problem solving inference of as the dietitians.
-@highlight We propose and implement a methodological framework for building OWL-based KBS.
-@highlight We demonstrate a PSM process: Problem, Tasks, Axioms, Inferred Properties, and Rules.
-@highlight The KBS is extensible to include CC for comprehensive chronic disease diet care.

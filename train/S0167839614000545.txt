@@ -1,6 +1,0 @@
- Ganchev has recently proposed a new approach to minimal surfaces. Introducing canonical principal parameters for these surfaces, he has proved that the normal curvature determines the surface up to its position in the space. Here we prove a theorem that permits to obtain equations of a minimal surface in canonical principal parameters and we make some applications on parametric polynomial minimal surfaces. Thus we show that Ganchev's approach implies an effective method to prove the coincidence of two minimal surfaces given in isothermal coordinates by different parametric equations.
-
-@highlight A differential equation for the transition to canonical parameters is obtained.
-@highlight The class of holomorphic functions generating one minimal surface is determined.
-@highlight Surfaces homothetic to the general Enneper surface are given.
-@highlight The coincidence of some families of polynomial minimal surfaces is proved.

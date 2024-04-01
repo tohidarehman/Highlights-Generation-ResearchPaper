@@ -1,6 +1,0 @@
- The number of applications for RFID systems is growing rapidly. Due to the conflict between large-scale use of RFID technology and inadequate security-related research, this paper proposes secure mechanisms based on tripartite credibility consisting of an enhanced security mechanism of LLRP and a tag participation third-party authentication mechanism. This paper first introduces relevant information about RFID systems and then details design and implementation of the proposed secure mechanisms. Finally, this paper evaluates the performance of the proposed mechanisms in terms of storage complexity, communication cost and computational cost and analyzes the security advantages compared to those of previous research.
-
-@highlight Secure mechanisms based on tripartite credibility for RFID systems are proposed.
-@highlight The secure mechanisms have advantages in storage complexity.
-@highlight The secure mechanisms have advantages in communication and computational cost.
-@highlight The secure mechanisms have a stronger ability to resist threats.

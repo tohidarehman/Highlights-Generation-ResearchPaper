@@ -1,5 +1,0 @@
- We present an integer linear programming formulation and solution procedure for determining the tightest bounds on cell counts in a multi-way contingency table, given knowledge of a corresponding derived two-way table of rounded conditional probabilities and the sample size. The problem has application in statistical disclosure limitation, which is concerned with releasing useful data to the public and researchers while also preserving privacy and confidentiality. Previous work on this problem invoked the simplifying assumption that the conditionals were released as fractions in lowest terms, rather than the more realistic and complicated setting of rounded decimal values that is treated here. The proposed procedure finds all possible counts for each cell and runs fast enough to handle moderately sized tables.
-
-@highlight We determine all possible cell counts for a contingency table of rounded conditional frequencies.
-@highlight Redundancies among cell calculations are exploited in a decomposition method.
-@highlight The method allows exploration of risk trade-offs for table configuration and rounding precision.

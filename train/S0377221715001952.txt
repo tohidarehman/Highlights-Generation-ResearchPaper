@@ -1,7 +1,0 @@
- In this paper, we study the optimal procurement and operation of an oil refinery. The crude oil prices follow geometric Brownian motion processes with correlation. We build a multiperiod inventory problem where each period involves an operation problem such as separation or blending. The decisions are the amount of crude oils to purchase and the amount of oil products to produce. We employ approximate dynamic programming methods to solve this multiperiod multiproduct optimization problem. Numerical results reveal that this complex problem can be approximately solved with little loss of optimality. Further, we find that the approximate solution significantly outperforms a set of myopic policies that are currently used.
-
-@highlight We consider a practical decision problem faced by many Chinese oil refineries—the optimal procurement of crude oil.
-@highlight This problem is extremely hard for three reasons—highly volatile crude oil prices, high dimensions and a multiperiod time horizon.
-@highlight We introduce an approximate stochastic dynamic programming method.
-@highlight Numerical results reveal that this complex oil procurement problem can be approximately solved with little loss of optimality.
-@highlight The approximate solution significantly outperforms a set of myopic policies that are currently used.

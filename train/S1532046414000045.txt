@@ -1,7 +1,0 @@
- With the current expansion of data linkage research, the challenge is to find the balance between preserving the privacy of person-level data whilst making these data accessible for use to their full potential. We describe a privacy-protecting safe haven and secure remote access system, referred to as the Secure Anonymised Information Linkage (SAIL) Gateway. The Gateway provides data users with a familiar Windows interface and their usual toolsets to access approved anonymously-linked datasets for research and evaluation. We outline the principles and operating model of the Gateway, the features provided to users within the secure environment, and how we are approaching the challenges of making data safely accessible to increasing numbers of research users. The Gateway represents a powerful analytical environment and has been designed to be scalable and adaptable to meet the needs of the rapidly growing data linkage community.
-
-@highlight SAIL Gateway is a privacy-protecting safe haven and secure remote access system.
-@highlight It provides secure data access to approved users.
-@highlight It is a powerful platform for data analysis activities.
-@highlight The system is able to accommodate a growing data user base.
-@highlight This is a challenging field with further improvements in progress.

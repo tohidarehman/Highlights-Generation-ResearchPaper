@@ -1,7 +1,0 @@
- Clouds are a cue for estimating weak correspondences in outdoor cameras. These correspondences encode the uncertain spatio-temporal relationships between pixels both within individual cameras and across networks of cameras. Using this generalized notion of correspondence, we present methods for estimating the geometry of an outdoor scene from:  a single calibrated camera,  a network of calibrated cameras, and  a collection of arbitrary, uncalibrated cameras. Our methods do not require camera motion nor overlapping fields of view, and use simple geometric constraints based on appearance changes caused by cloud shadows. We define these geometric constraints, describe new algorithms for estimating shape given videos from multiple partly cloud days, and evaluate these algorithms on real and synthetic scenes.
-
-@highlight Cloud shadows provide geometric constraints on the shape of an outdoor scene.
-@highlight Video from several partly cloudy days is sufficient to estimate scene geometry.
-@highlight We estimate metric world-point locations for pixels in a calibrated camera.
-@highlight We estimate metric world-point locations for pixels in a calibrated camera network.
-@highlight We can estimate relative 2D world-point locations without any camera calibration.

@@ -1,7 +1,0 @@
- This paper introduces a general continuous-time mathematical framework for solution of dynamic mean–variance control problems. We obtain theoretical results for two classes of functionals: the first one depends on the whole trajectory of the controlled process and the second one is based on its terminal-time value. These results enable the development of numerical methods for mean–variance problems for a pre-determined risk-aversion coefficient. We apply them to study optimal trading strategies pursued by fund managers in response to various types of compensation schemes. In particular, we examine the effects of continuous monitoring and scheme’s symmetry on trading behavior and fund performance.
-
-@highlight Continuous-time mean-variance stochastic control problems.
-@highlight Theoretical and numerical results.
-@highlight Integral-type and path-independent payoffs.
-@highlight Fund performance and strategies induced by compensation schemes.
-@highlight Symmetric/asymmetric remuneration schemes and different.

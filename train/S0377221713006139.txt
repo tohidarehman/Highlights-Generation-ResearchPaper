@@ -1,5 +1,0 @@
- We consider an order acceptance and scheduling model with machine availability constraints. The manufacturer (machine) is assumed to be available to process orders only within a number of discontinuous time intervals. To capture the real-life behavior of a typical manufacturer who has restrictions of time availability to process orders, our model allows the manufacturer to reject or outsource some of the orders. When an order is rejected or outsourced, an order-dependent cost of penalty will occur. The objective is to minimize the makespan of all accepted orders plus the total penalty of all rejected/outsourced orders. We study the approximability of the model and some of its important special cases.
-
-@highlight We study an order acceptance and scheduling model.
-@highlight The manufacturer is available to process orders only within a number of discontinuous time intervals.
-@highlight We study the approximability of the model and some of its important special cases.

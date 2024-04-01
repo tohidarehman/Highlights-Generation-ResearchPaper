@@ -1,7 +1,0 @@
- In this paper a new approach of edge-based quantization for the compression of gray scale images using an Adaptive Block Truncation Coding technique (ABTC-EQ) is proposed, to improve the compression ratio (CR) with high picture quality. Quantization is done based on the edge information contained in each block of pixels of the image. Conventional BTC method retains the visual quality of the reconstructed image but it shows some artifacts near the edges. In conventional BTC and variants, same quantization is done for all pixel values with different block sizes so that CR is static for images with a fixed block size. But in the case of proposed method since the quantization is done based on the edge information, CR become dynamic and consequently achieves better visual quality with better CR. The experimental analysis based on subjective and quantitative analysis proved that the proposed method outperforms other BTC variants.
-
-@highlight An Adaptive block truncation coding technique (ABTC-EQ) is proposed.
-@highlight Edge image is taken from the input image and divides it into blocks of pixels.
-@highlight Quantization is done based on the edge information of each of these blocks.
-@highlight Bi-clustering is done for the non-edge block and tri-clustering for the edge block.
-@highlight Experimental analysis shows that ABTC-EQ outperforms BTC and its variants.

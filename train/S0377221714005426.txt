@@ -1,7 +1,0 @@
- In most multi-objective optimization problems we aim at selecting the most preferred among the generated Pareto optimal solutions (a subjective selection among objectively determined solutions). In this paper we consider the robustness of the selected Pareto optimal solution in relation to perturbations within weights of the objective functions. For this task we design an integrated approach that can be used in multi-objective discrete and continuous problems using a combination of Monte Carlo simulation and optimization. In the proposed method we introduce measures of robustness for Pareto optimal solutions. In this way we can compare them according to their robustness, introducing one more characteristic for the Pareto optimal solution quality. In addition, especially in multi-objective discrete problems, we can detect the most robust Pareto optimal solution among neighboring ones. A computational experiment is designed in order to illustrate the method and its advantages. It is noteworthy that the Augmented Weighted Tchebycheff proved to be much more reliable than the conventional weighted sum method in discrete problems, due to the existence of unsupported Pareto optimal solutions.
-
-@highlight Robustness analysis of Pareto optimal solutions with perturbations on weights.
-@highlight Systematic Monte Carlo simulation–optimization approach.
-@highlight Introduction of Robustness Index.
-@highlight Revelation of the most robust solutions in a weight neighborhood.
-@highlight Effectiveness of Augmented Weighted Tchebycheff method vs weighted sum.

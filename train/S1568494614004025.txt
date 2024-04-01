@@ -1,5 +1,0 @@
- The PID controller with constant feedback gains has withstood as the preferred choice for control of linear plants or linearized plants, and under certain conditions for non-linear ones, where the control of robotic arms excels. In this paper a model-free self-tuning PID controller is proposed for tracking tasks. The key idea is to exploit the passivity-based formulation for robotic arms in order to shape the damping injection to enforce dissipativity and to guarantee semiglobal exponential convergence in the sense of Lyapunov. It is shown that a neuro-fuzzy network can be used to tune dissipation rate gain through a self-tuning policy of a single gain. Experimental studies are presented to confirm the viability of the proposed approach.
-
-@highlight Self-tuning PID control algorithm based on a single feedback gain using a neuro-fuzzy scheme.
-@highlight Proof stability to demonstrate semiglobal exponential tracking.
-@highlight We claim that our proposal stands for the first one that enforces and proves semiglobal exponential tracking for robot arms using model-free self-tuning PID.

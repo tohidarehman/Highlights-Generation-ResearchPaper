@@ -1,7 +1,0 @@
- In order to demonstrate and analyze the characteristic of the space vector pulse width modulation (SVPWM) technology, several key issues are discussed. The harmonic distortion factor derivation, the numerical analysis method and the program code are presented. The main components of the simulation model are discussed, and the key code is given. The theoretical and simulation spectra of the phase voltage and the DC bus current are presented. The program code is universal and can be used to many other kinds of SVPWM strategies with some minor modification. The simulation result shows that the simulation number has heavy effects on the analysis precision in the Monte Carlo method, and the simulation model is feasible and effective. The theoretical numerical analysis formulas of the SVPWM strategy are always complex, while the simulation method is convenient, so it is excellent if the two methods are used in conjunction.
-
-@highlight We give the derivation for the harmonic distortion factor (HDF).
-@highlight Monte Carlo simulation is an efficient method to analyze the HDF.
-@highlight We discuss the method to build a universal SVPWM simulation platform.
-@highlight Harmonic spectra can be gotten through theoretical formulas and simulation.
-@highlight The simulation number can be determined according to the specified precision.

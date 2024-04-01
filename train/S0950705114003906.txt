@@ -1,7 +1,0 @@
- Segmentation has several strategic and tactical implications in marketing products and services. Despite hard clustering methods having several weaknesses, they remain widely applied in marketing studies. Alternative segmentation methods such as fuzzy methods are rarely used to understand consumer behaviour. In this study, we propose a strategy of analysis, by combining the Bagged Clustering (BC) method and the fuzzy C-means clustering method for fuzzy data (FCM-FD), i.e., the Bagged fuzzy C-means clustering method for fuzzy data (BFCM-FD). The method inherits the advantages of stability and reproducibility from BC and the flexibility from FCM-FD. The method is applied on a sample of 328 Chinese consumers revealing the existence of four segments (Admirers, Enthusiasts, Moderates, and Apathetics) of the perceived images of Western Europe as a tourist destination. The results highlight the heterogeneity in Chinese consumers’ place preferences and implications for place marketing are offered.
-
-@highlight Introduces a novel segmentation method based on bagged and fuzzy clustering.
-@highlight Proposes how to adapt Bagged fuzzy clustering for fuzzy data.
-@highlight Segments the market of potential Chinese consumers to Western Europe.
-@highlight Four segments of perceived images are identified.
-@highlight Results have implications for the application of market segmentation algorithms in marketing.

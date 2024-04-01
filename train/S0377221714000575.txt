@@ -1,7 +1,0 @@
- Oil tankers play a fundamental role in every offshore petroleum supply chain and due to its high price, it is essential to optimize its use. Since this optimization requires handling detailed operational aspects, complete optimization models are typically intractable. Thus, a usual approach is to solve a tactical level model prior to optimize the operational details. In this case, it is desirable that tactical models are as precise as possible to avoid too severe adjustments in the next optimization level. In this paper, we study tactical models for a crude oil transportation problem by tankers. We did our work on the top of a previous paper found in the literature. The previous model considers inventory capacities and discrete lot sizes to be transported, aiming to meet given demands over a finite time horizon. We compare several formulations for this model using 50 instances from the literature and proposing 25 new harder ones. A column generation-based heuristic is also proposed to find good feasible solutions with less computational burden than the heuristics of the commercial solver used.
-
-@highlight We study tactical models for a crude oil transportation problem by tankers.
-@highlight We did our work on the top of a previous paper found in the literature.
-@highlight We use 50 instances from the literature and propose 25 new harder ones.
-@highlight We propose a column generation-based heuristic.
-@highlight We improve the literature results.

@@ -1,8 +1,0 @@
- The problem of dynamic portfolio choice with transaction costs is often addressed by constructing a Markov Chain approximation of the continuous time price processes. Using this approximation, we present an efficient numerical method to determine optimal portfolio strategies under time- and state-dependent drift and proportional transaction costs. This scenario arises when investors have behavioral biases or the actual drift is unknown and needs to be estimated. Our numerical method solves dynamic optimal portfolio problems with an exponential utility function for time-horizons of up to 40 years. It is applied to measure the value of information and the loss from transaction costs using the indifference principle.
-
-@highlight Present a method for portfolio under state-dependent drift and transaction costs.
-@highlight Obtain optimal strategies for 40-year horizons with O(N
-@highlight 2.5) time-complexity.
-@highlight Less risk-averse investors and naive investors incur the most losses in utility.
-@highlight Less trading generally leads to half of the total loss from transaction cost.
-@highlight Learning generally reduces losses due to the uncertain drift and transaction costs.

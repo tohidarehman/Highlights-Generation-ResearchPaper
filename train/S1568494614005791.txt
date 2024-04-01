@@ -1,7 +1,0 @@
- In this paper, a metaheuristic optimizer, the multi-objective water cycle algorithm (MOWCA), is presented for solving constrained multi-objective problems. The MOWCA is based on emulation of the water cycle process in nature. In this study, a set of non-dominated solutions obtained by the proposed algorithm is kept in an archive to be used to display the exploratory capability of the MOWCA as compared to other efficient methods in the literature. Moreover, to make a comprehensive assessment about the robustness and efficiency of the proposed algorithm, the obtained optimization results are also compared with other widely used optimizers for constrained and engineering design problems. The comparisons are carried out using tabular, descriptive, and graphical presentations.
-
-@highlight Multi-objective water cycle algorithm (MOWCA) is proposed for solving constrained and engineering multi-objective problems.
-@highlight Generational distance, metric of spread, and Δ metric are used as performance criteria.
-@highlight Optimal Pareto fronts are finely covered by the MOWCA with a good distribution of the non-dominated solutions.
-@highlight MOWCA is able to approach a full optimal Pareto front and provide a superior quality of solutions.
-@highlight MOWCA is better able to find a wider range of solutions compared with the other optimizers in this paper.

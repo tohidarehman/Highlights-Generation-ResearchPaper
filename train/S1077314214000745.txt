@@ -1,7 +1,0 @@
- Although there are many excellent clustering algorithms, effective clustering remains very challenging for large datasets that contain many classes. Image clustering presents further problems because automatically computed image distances are often noisy. We address these challenges in two ways. First, we propose a new algorithm to cluster a subset of the images only (we call this subclustering), which will produce a few examples from each class. Subclustering will produce smaller but purer clusters. Then we make use of human input in an active subclustering algorithm to further improve results. We run experiments on a face image dataset and a leaf image dataset and show that our proposed algorithms perform better than baseline methods.
-
-@highlight A novel algorithm is proposed for a new problem called subclustering.
-@highlight An active algorithm for subclustering (human in the loop) is also proposed.
-@highlight An evaluation criterion Subclustering Jaccard’s Coefficient is developed.
-@highlight Experiments on a face and a leaf image dataset are performed.
-@highlight Also a faster version of Partition Around Medoids clustering is proposed.

@@ -1,6 +1,0 @@
- In this paper we propose an inexact proximal point method to solve constrained minimization problems with locally Lipschitz quasiconvex objective functions. Assuming that the function is also bounded from below, lower semicontinuous and using proximal distances, we show that the sequence generated for the method converges to a stationary point of the problem.
-
-@highlight We obtain global convergence of an inexact proximal method for quasiconvex problems.
-@highlight We give a sufficient condition to obtain convergence to an optimal point.
-@highlight The studied model is nondifferentiable but Lipschitz continuous.
-@highlight The results may be used, in particular, to solve decision economics problems.

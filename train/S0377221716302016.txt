@@ -1,7 +1,0 @@
- The inventory-staggering problem is a multi-item inventory problem in which replenishment cycles are scheduled or offset in order to minimize the maximum inventory level over a given planning horizon. We incorporate symmetry-breaking constraints in a mixed-integer programming model to determine optimal and near-optimal solutions. Local-search heuristics and evolutionary polishing heuristics are also presented to achieve effective and efficient solutions. We examine extensions of the problem that include a continuous-time framework as well as the effect of stochastic demand.
-
-@highlight The inventory-staggering problem is considered for multi-item inventory systems.
-@highlight Symmetry breaking is used with mixed-integer programs for optimizing small problems.
-@highlight Efficient heuristics are proposed that achieved near-optimal solutions.
-@highlight A continuous-time formulation greatly reduces the maximum inventory requirement.
-@highlight The effect of stochastic demand on the maximum inventory distribution is analyzed.

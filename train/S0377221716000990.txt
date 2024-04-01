@@ -1,7 +1,0 @@
-. In the present paper we further investigate these cooperative games. We establish the links between the class of DEA production games and the classes of linear programming games and linear production games. We also analyse the Owen set of DEA production games and discuss the interpretation of these allocations for different levels of cooperation between agents.
-
-@highlight Collective production processes with technology inspired in DEA are analyzed.
-@highlight Agents with different technologies cooperate under different levels of cooperation.
-@highlight The links between DEA production games and linear programming games are studied.
-@highlight The Owen set is proposed as a solution for allocating the revenue of cooperation.
-@highlight The interpretation of the Owen set is provided for different levels of cooperation.

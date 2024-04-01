@@ -1,6 +1,0 @@
- This paper presents a model and solution methodology for scheduling patients in a multi-class, multi-resource surgical system. Specifically, given a master schedule that provides a cyclic breakdown of total OR availability into specific daily allocations to each surgical specialty, the model provides a scheduling policy for all surgeries that minimizes a combination of the lead time between patient request and surgery date, overtime in the operating room and congestion in the wards. To the best of our knowledge, this paper is the first to determine a surgical schedule based on making efficient use of both the operating rooms and the recovery beds. Such a problem can be formulated as Markov Decision Process model but the size of any realistic problem makes traditional solution methods intractable. We develop a version of the Least Squares Approximate Policy Iteration algorithm and test our model on data from a local hospital to demonstrate the success of the resulting policy.
-
-@highlight We model surgical scheduling with multiple patient classes and multiple resources consumed.
-@highlight We develop a version of the least squares approximate policy iteration algorithm.
-@highlight We capture the stochastic nature of both OR time and post-surgery recovery time.
-@highlight We demonstrate the value of our policy over the current policy at a local hospital.

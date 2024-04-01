@@ -1,7 +1,0 @@
- The computational representation and classification of behaviors is a task of growing interest in the field of Behavior Informatics, being series of data a common way of describing those behaviors. However, as these data are often imperfect, new representation models are required in order to effectively handle imperfection in this context. This work presents a new approach, Frequent Correlated Trends, for representing uncertain and imprecise multivariate data series. Such a model can be applied to any domain where behaviors recur in similar—but not identical—shape. In particular, we have already used them to the task of identifying the performers of violin recordings with good results. The present paper describes the abstract model representation and a general learning algorithm, and discusses several potential applications.
-
-@highlight Representation model for uncertain and imprecise multivariate dataseries.
-@highlight Basic idea: finding repeating frequent correlated patterns among the different dimensions of the dataseries.
-@highlight Deal with data imperfection directly, not transforming the data and pretending it has no imperfection.
-@highlight Applicable to several problems that can be represented by series of observations.
-@highlight Provide a fix size representation, regardless of the length of the dataseries.

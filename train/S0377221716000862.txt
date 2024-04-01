@@ -1,7 +1,0 @@
- We provide a novel adversarial risk analysis approach to security resource allocation decision processes for an organization which faces multiple threats over multiple sites. We deploy a Sequential Defend-Attack model for each type of threat and site, under the assumption that different attackers are uncoordinated, although cascading effects are contemplated. The models are related by resource constraints and results are aggregated over the sites for each participant and, for the Defender, by value aggregation across threats. We illustrate the model with a case study in which we support a railway operator in allocating resources to protect from two threats: fare evasion and pickpocketing. Results suggest considerable expected savings due to the proposed investments.
-
-@highlight Novel approach to security resource allocation in multithreat, multisite problems.
-@highlight We use the adversarial risk analysis framework.
-@highlight Several modeling variants for structure and assessing relevant parameters.
-@highlight Illustrates a real metro security problem, with fare evasion and pickpocketing.
-@highlight Large savings in operator costs by investing in maximum expected utility portfolios.

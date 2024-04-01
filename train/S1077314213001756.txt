@@ -1,7 +1,0 @@
- This paper presents a robust video stabilization method by solving a novel formulation for the camera motion estimation. We introduce spatio-temporal weighting on local patches in optimization formulation, which enables one-step direct estimation without outlier elimination adopted in most existing methods. The spatio-temporal weighting represents the reliability of a local region in estimation of camera motion. The weighting emphasizes regions which have the similar motion to the camera motion, such as backgrounds, and reduces the influence of unimportant regions, such as moving objects. In this paper, we develop a formula to determine the spatio-temporal weights considering the age, edges, saliency, and distribution information of local patches. The proposed scheme reduces the computational load by eliminating the integration part of local motions and decreases accumulation of fitting errors in the existing two-step estimation methods. Through numerical experiments on several unstable videos, we verify that the proposed method gives better performance in camera motion estimation and stabilization of jittering video sequences.
-
-@highlight We estimate camera motion based on local patches’ spatio-temporal information.
-@highlight Spatio-temporal weight considers the age, edges, saliency, and distribution of patch.
-@highlight Weighted object function is minimized to find camera motion model.
-@highlight Direct estimation reduces computational load and eliminates accumulation errors.
-@highlight Estimated camera motion is used for video stabilization.

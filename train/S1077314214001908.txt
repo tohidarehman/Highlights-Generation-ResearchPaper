@@ -1,7 +1,0 @@
- This article presents a new approach for constructing connected operators for image processing and analysis. It relies on a hierarchical Markovian unsupervised algorithm in order to classify the nodes of the traditional Max-Tree. This approach enables to naturally handle multivariate attributes in a robust non-local way. The technique is demonstrated on several image analysis tasks: filtering, segmentation, and source detection, on astronomical and biomedical images. The obtained results show that the method is competitive despite its general formulation. This article provides also a new insight in the field of hierarchical Markovian image processing showing that morphological trees can advantageously replace traditional quadtrees.
-
-@highlight We perform an unsupervised classification of the nodes of the Max-Tree.
-@highlight The Max-Tree is considered as a hidden Markov tree.
-@highlight Multivariate probability density functions enables to model multivariate attributes.
-@highlight Model parameters are estimated from the sole observations.
-@highlight We perform experiments on astronomical images and retinal images segmentation.

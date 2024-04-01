@@ -1,7 +1,0 @@
- An effective sourcing strategy leads to cost savings and value added collaborations. For radical innovative product sourcing (RIPS), the exact nature and demand of products are highly uncertain. As such, knowledge sharing competences and production capacities of potential suppliers are prerequisite capabilities. The main aim is to investigate the impacts of these considerations on sourcing strategies through the development of two optimization models. Under the assumptions of single product sourcing, single period time window, uncertain demand and stochastic supply, KKT conditions are used to solve a simplified nonlinear optimization model analytically. The model is then expanded and particle swarm optimization is used to solve numerically the number of suppliers, order quantities and the level of relationship investments that maximize the value of sourcing. Through extensive scenario and sensitivity analyses, we provide some key insights.
-
-@highlight Knowledge sharing, buyer–supplier relationships and production capacities are considered.
-@highlight Knowledge sharing competencies might outweigh traditional sourcing considerations.
-@highlight Multiple sourcing is preferred and optimal profit increases when demand becomes more certain.
-@highlight Production capacities cause multiple sourcing and relationship investments lose importance.
-@highlight It can be optimal to buy from a costly supplier with large capacities and relational effectiveness.

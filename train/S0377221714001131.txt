@@ -1,7 +1,0 @@
- New theoretical foundations for analyzing the newsboy problem under incomplete information about the probability distribution of random demand are presented. Firstly, we reveal that the distribution-free newsboy problem under the worst-case and best-case demand scenarios actually reduces to the standard newsboy problem with demand distributions that bound the allowable distributions in the sense of increasing concave order. Secondly, we provide a theoretical tool for seeking the best-case and worst-case order quantities when merely the support and the first k moments of the demand are known. Using this tool we derive closed form formulas for such quantities in the case of known support, mean and variance, i.e. k =2. Consequently, we generalize all results presented so far in literature for the worst-case and best-case scenarios, and present some new ones. Extensions of our findings to the cases of the known mode of a unimodal demand distribution, the known median, and to other stochastic inventory problems are indicated.
-
-@highlight We present new foundations for analyzing the distribution-free newsboy problem.
-@highlight Some reductions to the standard newsboy problem are revealed.
-@highlight Tools for seeking solutions under different demand knowledge scenarios are identified.
-@highlight The demand distribution is characterized by its support, mean and variance.
-@highlight Extensions to other stochastic inventory problems are indicated.

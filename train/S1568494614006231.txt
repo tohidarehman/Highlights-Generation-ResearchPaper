@@ -1,5 +1,0 @@
- In this work, we first define intuitionistic fuzzy parameterized soft sets (intuitionistic FP-soft sets) and study some of their properties. We then introduce an adjustable approaches to intuitionistic FP-soft sets based decision making. Finally, we give a numerical example which shows that this method successfully works.
-
-@highlight We define a intuitionistic fuzzy parameterized soft sets for dealing with uncertainties that is based on both soft sets and intuitionistic fuzzy sets.
-@highlight We investigated their operations and properties.
-@highlight We introduce a decision making method based on intuitionistic FP-soft sets.

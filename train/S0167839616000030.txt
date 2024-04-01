@@ -1,7 +1,0 @@
- In this paper we define Tchebycheffian spline spaces over planar T-meshes and we address the problem of determining their dimension. We extend to the Tchebycheffian spline context the homological approach previously used to characterize polynomial spline spaces over T-meshes, and we exploit this characterization in the study of the dimension. In particular, we give combinatorial lower and upper bounds for the dimension, and we show that these bounds coincide if the dimensions of the underlying extended Tchebycheff section spaces are large enough with respect to the smoothness, under some mild conditions on the T-mesh. Finally, we provide simple examples of Tchebycheffian spline spaces over T-meshes with unstable dimension, which means that their dimension depends on the exact geometry of the T-mesh. These results are extensions of those known in the literature for polynomial spline spaces over T-meshes.
-
-@highlight We define Tchebycheffian spline spaces over planar T-meshes and we address the problem of determining their dimension.
-@highlight We give combinatorial lower and upper bounds for the dimension.
-@highlight We show that these bounds coincide under certain conditions on the T-mesh and/or the Tchebycheffian spline space.
-@highlight We provide simple examples of Tchebycheffian spline spaces over T-meshes with unstable dimension.
-@highlight These results are extensions of known results in the literature for polynomial spline spaces over T-meshes.

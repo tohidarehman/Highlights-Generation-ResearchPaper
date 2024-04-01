@@ -1,7 +1,0 @@
- We study a scheduling problem with rejection on a single serial batching machine, where the objectives are to minimize the total completion time and the total rejection cost. We consider four different problem variations. The first is to minimize the sum of the two objectives. The second and the third are to minimize one objective, given an upper bound on the value of the other objective and the last is to find a Pareto-optimal solution for each Pareto-optimal point. We provide a polynomial time procedure to solve the first variation and show that the three other variations are NP-hard. For solving the three  NP -hard problems, we construct a pseudo-polynomial time algorithm. Finally, for one of the NP -hard variants of the problem we propose an FPTAS, provided some conditions hold.
-
-@highlight We study a single machine serial batch scheduling problem with rejection.
-@highlight The objectives are to minimize total completion time and total rejection cost.
-@highlight We study four different variants of the problem.
-@highlight We prove that one variant is efficiently solvable while all other are NP-hard.
-@highlight We provide an ε-approximation algorithm for one of the NP-hard variants.

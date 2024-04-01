@@ -1,6 +1,0 @@
- An urban scale Eulerian non-reactive multilayer air pollution model is proposed describing convection, turbulent diffusion and emission. A mass-consistent wind field model developed by authors is included in the air pollution model. An Adaptive Finite Element Method with characteristics in the horizontal directions and Finite Differences in the vertical direction using splitting techniques is proposed to numerically solve the corresponding PDE problem. A parallel version of the algorithm improves the precision of the solution keeping computation time below real time of simulation. A numerical example illustrates the whole problem.
-
-@highlight An urban scale Eulerian non-reactive multi-level air pollution model is proposed.
-@highlight The mass-consistent wind field model provides a completely self-sufficiently model.
-@highlight Adaptive F.E.M. with characteristics and F.D. with splitting techniques is developed.
-@highlight Splitting techniques, adaptativity and parallel strategies reduce the cots.

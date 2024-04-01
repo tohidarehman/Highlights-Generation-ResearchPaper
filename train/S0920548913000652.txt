@@ -1,7 +1,0 @@
- Reliability is an important criterion to facilitate extensive deployment of web service technology for commercial business applications. Run-time monitoring and fault management of web services are essential to ensure uninterrupted and continuous availability of web services. This paper presents WISDOM (Web Service Diagnoser Model) a generic architecture for detecting faults during execution of web services. Policies have been proposed to describe the intended behavior of web services and faulty behavior would be detected as deviations or inconsistencies with respect to the specified behavior. The model proposes the use of monitoring components in service registries and service providers to detect run-time faults during publishing, discovery, binding and execution of web services. An independent fault diagnoser is proposed to coordinate the individual monitoring components and also act as a repository for the specified web service policies. The proposed model has been tested with a sample web service application and the results obtained are presented.
-
-@highlight Automated policy generation tool
-@highlight A generic run time fault diagnoser model
-@highlight Monitoring component in service registry
-@highlight Monitoring component in service provider
-@highlight Fault taxonomy for publishing faults, binding faults, discovery faults and execution faults

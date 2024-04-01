@@ -1,7 +1,0 @@
- Assembly lines with mixed products present ergonomic risks that can affect productivity of workers and lines. Because of that, the line balancing must consider the risk of injury in regard with the set of tasks necessary to process a product unit, in addition to other managerial and technological attributes such as the workload or the space. Therefore, in this paper we propose a new approach to solve the assembly line balancing problem considering temporal, spatial and ergonomic attributes at once. We formulate several mathematical models and we analyze the behavior of one of these models through case study linked to Nissan. Furthermore, we study the effect of the demand plan variations and ergonomic risk on the line balancing result.
-
-@highlight A new approach to solve the
-@highlight using alternative mathematical models.
-@highlight A classification the tasks into categories depending on the level of risk involved.
-@highlight We presented multiobjective optimization models using the elemental functions.
-@highlight For the computational experiment has been used a data set from Nissan Barcelona.

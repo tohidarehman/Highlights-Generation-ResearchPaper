@@ -1,7 +1,0 @@
- This paper considers the loading optimization problem for a set of containers and pallets transported into a cargo aircraft that serves multiple airports. Because of pickup and delivery operations that occur at intermediate airports, this problem is simultaneously a Weight, and Balance Problem and a Sequencing Problem. Our objective is to minimize fuel and handling operation costs. This problem is shown to be NP-hard. We resort to a mixed integer linear program. Based on real-world data from a professional partner (TNT Airways), we perform numerical experiments using a standard B, and C library. This approach yields better solutions than traditional manual planning, which results in substantial cost savings.
-
-@highlight We propose a new MIP model for the Airline Container Loading Problem with multiple destinations.
-@highlight Our solution reduces two costs linked to this problem: fuel consumption and handling operations costs.
-@highlight Our solution optimizes the Weight and Balanced problems over several leg and the loading/unloading sequences.
-@highlight We show that this problem is NP-hard.
-@highlight We show measures of performance based on real data.

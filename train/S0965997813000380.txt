@@ -1,7 +1,0 @@
- This paper presents an expert system that was developed with the goal of classifying the surface finish of self-compacting concrete (SCC) precast elements. The classification concerns the presence of bugholes, which are imperfections that appear on a concrete surface after demoulding. The surface evaluation is based on digital images that are processed by an image analysis tool. This tool defines the parameters that will be evaluated by a fuzzy logic-based classification tool. The classification is based on a novel scale that considers the degree of treatment necessary to achieve proper surface finish. The proposed system was applied to evaluate SCC precast elements. The results from the case study highlight the success of the proposed expert system in evaluating SCC finish. In addition, the system proved to be of great help when used for systematic analyses of the effect of mixture proportions on surface quality.
-
-@highlight A novel method for classifying concrete surface is proposed.
-@highlight An image analysis tool is developed to allow an objective analysis of the surface.
-@highlight Three input parameters were designed to properly describe concrete surface finish.
-@highlight The performance of the expert system is verified in a case study.
-@highlight The method is suitable for evaluating mixture proportions effect on surface quality.

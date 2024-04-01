@@ -1,6 +1,0 @@
- Lateral transshipments are an effective strategy to pool inventories. We present a Semi-Markov decision problem formulation for proactive and reactive transshipments in a multi-location continuous review distribution inventory system with Poisson demand and one-for-one replenishment policy. For a two-location model we state the monotonicity of an optimal policy. In a numerical study, we compare the benefits of proactive and different reactive transshipment rules. The benefits of proactive transshipments are the largest for networks with intermediate opportunities of demand pooling and the difference between alternative reactive transshipment rules is negligible.
-
-@highlight Semi-Markov decision problem formulation.
-@highlight Benefits of proactive over different reactive transshipment rules.
-@highlight Networks with intermediate opportunities of demand pooling.
-@highlight The difference between reactive transshipment rules is negligible.

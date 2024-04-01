@@ -1,6 +1,0 @@
- This article presents a practicable algorithm for globally solving sum of linear ratios problem (SLR). The algorithm works by globally solving a bilinear programming problem (EQ) that is equivalent to the problem (SLR). In the algorithm, by utilizing convex envelope and concave envelope of bilinear function, the initial nonconvex programming problem is reduced to a sequence of linear relaxation programming problems. In order to improve the computational efficiency of the algorithm, a new accelerating technique is introduced, which provides a theoretical possibility to delete a large part of the investigated region in which there exists no global optimal solution of the (EQ). By combining this innovative technique with branch and bound operations, a global optimization algorithm is designed for solving the problem (SLR). Finally, numerical experimental results show the feasibility and efficiency of the proposed algorithm.
-
-@highlight The algorithm works by globally solving an equivalent bilinear programming.
-@highlight The main computations involve solving a sequence of linear programming problems.
-@highlight A new accelerating technique based on outer space region is proposed.
-@highlight The algorithm economizes the required computations by branching in outer space.

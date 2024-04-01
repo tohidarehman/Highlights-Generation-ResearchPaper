@@ -1,5 +1,0 @@
- It has been around 30 years since the heterogeneous vehicle routing problem was introduced, and significant progress has since been made on this problem and its variants. The aim of this survey paper is to classify and review the literature on heterogeneous vehicle routing problems. The paper also presents a comparative analysis of the metaheuristic algorithms that have been proposed for these problems.
-
-@highlight The paper classifies heterogeneous vehicle routing problems (HVRPs).
-@highlight A comprehensive and up-to-date review of the existing work on HVRPs is presented.
-@highlight A comparative analysis of the metaheuristics proposed for HVRPs is provided.
