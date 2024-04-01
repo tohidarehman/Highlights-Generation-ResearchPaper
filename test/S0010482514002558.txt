@@ -1,7 +1,0 @@
- We propose a graph-cut-based segmentation method for the anterior cruciate ligament (ACL) in knee MRI with a novel shape prior and label refinement. As the initial seeds for graph cuts, candidates for the ACL and the background are extracted from knee MRI roughly by means of adaptive thresholding with Gaussian mixture model fitting. The extracted ACL candidate is segmented iteratively by graph cuts with patient-specific shape constraints. Two shape constraints termed fence and neighbor costs are suggested such that the graph cuts prevent any leakage into adjacent regions with similar intensity. The segmented ACL label is refined by means of superpixel classification. Superpixel classification makes the segmented label propagate into missing inhomogeneous regions inside the ACL. In the experiments, the proposed method segmented the ACL with Dice similarity coefficient of 66.47±7.97%, average surface distance of 2.247±0.869, and root mean squared error of 3.538±1.633, which increased the accuracy by 14.8%, 40.3%, and 37.6% from the Boykov model, respectively.
-
-@highlight We propose an anterior cruciate ligament segmentation method in knee MRI.
-@highlight Patient-specific shape constraints for graph cuts are proposed to avoid leakage.
-@highlight Label refinement with superpixels is proposed to recover inhomogeneous region.
-@highlight Superpixel refinement significantly improves the accuracy of tibia-attached ACL.
-@highlight Experiments show that the proposed method improves the Boykov model by 15% in DSC.

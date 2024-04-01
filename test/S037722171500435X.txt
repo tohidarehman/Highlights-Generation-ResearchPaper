@@ -1,5 +1,0 @@
- In this paper a new class of relaxed sequencing games is introduced: the class of Step out–Step in sequencing games. In this relaxation any player within a coalition is allowed to step out from his position in the processing order and to step in at any position later in the processing order. First, we show that if the value of a coalition in a relaxed sequencing game is bounded from above by the gains made by all possible neighbor switches, then the game has a non-empty core. After that, we show that this is the case for Step out –Step in sequencing games. Moreover, this paper provides a polynomial time algorithm to determine the values of the coalitions in Step out–Step in sequencing games.
-
-@highlight We introduce a new class of relaxed sequencing games, SoSi sequencing games.
-@highlight We prove that SoSi games have a non-empty core.
-@highlight A polynomial algorithm is provided to derive the coalitional values in SoSi games.

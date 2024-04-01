@@ -1,5 +1,0 @@
- In this paper, we present a simple definition for, and a method to find, cavities and protrusions of a 2D polygon. Using these, we fit conformal polygons with each other, which is similar to a jigsaw puzzle and in a general case is NP-hard to solve. We first build a hierarchy of cavities and protrusions for each polygon and use this hierarchy to check for matches between these geometric features of two polygons. This data structure allows for early rejection of mismatches and thus speeds up the fitting process. We show using many examples, that most of the common configurations in exact polygon fitting can be handled by this algorithm in polynomial time. In case of exact, yet non-unique matches, this algorithm will solve the problem in exponential time.
-
-@highlight We define cavities and protrusions of a 2D polygon which are key geometric features of a polygon.
-@highlight We propose an algorithm to compute cavities and protrusions.
-@highlight We propose a method for 2D polygonal piece fitting using a hierarchy of geometric features defined by cavities and protrusions.

@@ -1,6 +1,0 @@
- Accurate and effective cervical smear image segmentation is required for automated cervical cell analysis systems. Thus, we proposed a novel superpixel-based Markov random field (MRF) segmentation framework to acquire the nucleus, cytoplasm and image background of cell images. We seek to classify color non-overlapping superpixel-patches on one image for image segmentation. This model describes the whole image as an undirected probabilistic graphical model and was developed using an automatic label-map mechanism for determining nuclear, cytoplasmic and background regions. A gap-search algorithm was designed to enhance the model efficiency. Data show that the algorithms of our framework provide better accuracy for both real-world and the public Herlev datasets. Furthermore, the proposed gap-search algorithm of this model is much more faster than pixel-based and superpixel-based algorithms.
-
-@highlight We proposed a novel gap-search Markov random field (MRF) for accurate cervical smear image segmentation.
-@highlight This method could acquire three regions (nuclei, cytoplasm, and background) automatically by a label-map mechanism.
-@highlight The gap-search algorithm is faster than other three algorithms in the experiments.
-@highlight A copy of source codes will be released as an open source project for continuing studies.

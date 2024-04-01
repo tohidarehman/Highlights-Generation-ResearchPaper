@@ -1,6 +1,0 @@
- In today’s world, knowledge is important for constructing core competitive advantages for individuals and organizations. Recently, Web 2.0 applications and social media have provided a convenient medium for people to share knowledge over the Internet. However, the huge amount of created knowledge can also leads to the problem of information overload. This research proposes a social knowledge navigation mechanism that utilizes the techniques of relevant knowledge network construction, knowledge importance analysis, and knowledge concept ontology construction to generate a visualized recommendation of a knowledge map of sub-concept and knowledge of an article reading sequence for supporting learning activities related to a free online encyclopedia. The results of experiments conducted on Wikipedia show that the proposed mechanism can effectively recommend useful articles and improve a knowledge seeker’s learning effectiveness.
-
-@highlight We propose a knowledge navigation mechanism for an online encyclopedia.
-@highlight The system generates visualized knowledge map and reading sequence.
-@highlight The system discovers knowledge network, knowledge importance, and concept ontology.
-@highlight The mechanism effectively improves a knowledge seeker’s learning effectiveness.

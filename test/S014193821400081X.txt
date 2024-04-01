@@ -1,7 +1,0 @@
- In order to reduce gray scale loss in low and middle-high gray scale ranges which are caused by inverse gamma conversion and limited gray scale method for dynamic false contour (DFC) improvement, respectively, and enhance gray scales both in static and moving regions of an image, two-stage dither based on real-time motion detection method is proposed. Firstly, the image is divided into blocks, and the motion state of each image block is detected according to real-time motion detection method. So limited gray scale method to improve DFC can only be used in moving image blocks. Then, ordered dither and random dither combined with minor pixel separation (MPS) are used to improve gray scale loss caused by inverse gamma conversion and limited gray scale method, respectively. The experimental results show that motion detection can be implemented easily and the detection accuracy is more than 99.3%. The gray scales in moving and static image regions are all expressed smoothly while DFC is markedly improved.
-
-@highlight Gray scale loss is markedly improved by two-stage dither combined with MPS.
-@highlight Dither noises caused by random dither and ordered dither can be reduced obviously.
-@highlight Gray scales in static and moving regions are expressed smoothly as DFC is improved.
-@highlight Motion state of each image block can be obtained by the real-time motion detection.
-@highlight Motion detection is easy to implement and detection accuracy can reach to 99.3%.

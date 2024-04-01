@@ -1,5 +1,0 @@
- The objective of the current work was to study the sink effect in radiofrequency ablation (RFA) caused by a blood vessel located close to an electrode in a two-compartment numerical model, consisting of a spherical tumor embedded in healthy liver tissue. Several blood vessels of different sizes were studied at different distances from the electrode. It was found that when a straight blood vessel, cylindrical in shape, is located parallel to the electrode, the minimum distance for a drop of only 10% in the isothermal treatment volume above 50°C, compared to the model without the blood vessel, varies from 4.49mm (for a vessel of 2mm in diameter) to 20.02mm (for a vessel 20mm in diameter). The results can be used as a guideline to clinical practitioners, in order to quickly assess the potential impact of existing blood vessels on the resulting treatment volume.
-
-@highlight The impact of blood vessel in radiofrequency ablation (RFA) therapy.
-@highlight Guideline to assess maximum temperature and lesion volume during RFA.
-@highlight Initial treatment planning in thermal therapy.

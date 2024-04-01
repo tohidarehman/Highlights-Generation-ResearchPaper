@@ -1,7 +1,0 @@
- MicroRNA is a type of single stranded RNA molecule and has an important role for gene expression. Although there have been a number of computational methodologies in bioinformatics research for miRNA classification and target prediction tasks, analysis of shared miRNAs among different species has not yet been addressed. In this article, we analyzed miRNAs that have the same name and function but have different sequences and belong to different (but closely related) species which are constructed from the online miRBase database. We used sequence-driven features and performed the standard and the ensemble versions of Canonical Correlation Analysis (CCA). However, due to its sensitivity to noise and outliers, we extended it using an ensemble approach. Using linear combinations of dimer features, the proposed Ensemble CCA (ECCA) method has identified higher test-set-correlations than CCA. Moreover, our analysis reveals that the Redundancy Index of ECCA applied to a pair of species has correlation with their genetic distance.
-
-@highlight We analyze miRNA precursor sequences of several species.
-@highlight We examine changes of common miRNAs among species under different classes.
-@highlight Genetic relationship of species can be analyzed by miRNA sequences.
-@highlight CCA/ECCA can identify the genetic relationships among species.
-@highlight RI for CCA/ECCA has high correlation with genetic distance of species.

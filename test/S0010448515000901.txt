@@ -1,7 +1,0 @@
- An open-source implementation of an efficient mesh generation procedure for hybrid prismatic–tetrahedral meshes intended for use in Reynolds-averaged Navier–Stokes solutions is presented. The method employed combines the established, and very fast, Delaunay-based tetrahedral mesh generator TetGen with a novel technique for the creation of a prismatic layer, where constrained global optimization of the envelope is employed. Once a well-shaped envelope is thus obtained, a semi-structured layer of pentahedral elements is extruded between wall and envelope surface. Satisfactory mesh quality is demonstrated by comparing solutions obtained using the new meshes with reference data computed on high-quality advancing-front grids. Mesh generation time is shown to be substantially smaller than with many other methods. Overall, the presented implementation is deemed a valuable tool for cases where many meshes need to be generated for routine analyses and turnaround time is critical. This is an extended version of the paper presented at the 23rd International Meshing Roundtable in London, October 2014.
-
-@highlight An open-source implementation for prismatic–tetrahedral mesh generation is presented.
-@highlight Global constrained optimization is employed to create prismatic layer envelope.
-@highlight We find that total mesh generation time is substantially reduced.
-@highlight Manual user intervention effort is smaller due to large degree of automation.
-@highlight Comparisons of RANS solutions demonstrate adequate mesh quality.

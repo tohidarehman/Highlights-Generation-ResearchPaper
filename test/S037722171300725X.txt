@@ -1,5 +1,0 @@
- Lack of discrimination power and poor weight dispersion remain major issues in Data Envelopment Analysis (DEA). Since the initial multiple criteria DEA (MCDEA) model developed in the late 1990s, only goal programming approaches; that is, the GPDEA-CCR and GPDEA-BCC were introduced for solving the said problems in a multi-objective framework. We found GPDEA models to be invalid and demonstrate that our proposed bi-objective multiple criteria DEA (BiO-MCDEA) outperforms the GPDEA models in the aspects of discrimination power and weight dispersion, as well as requiring less computational codes. An application of energy dependency among 25 European Union member countries is further used to describe the efficacy of our approach.
-
-@highlight We examine GPDEA models in relation to the MCDEA framework.
-@highlight GPDEA models perform poorly in weight dispersion and discrimination power.
-@highlight The proposed BiO-MCDEA model outperforms GPDEA models in all datasets tested.

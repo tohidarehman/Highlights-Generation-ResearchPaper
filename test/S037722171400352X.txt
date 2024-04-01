@@ -1,6 +1,0 @@
- In this paper we present two exact branch-and-cut algorithms for the Split Delivery Vehicle Routing Problem (SDVRP) based on two relaxed formulations that provide lower bounds to the optimum. Procedures to obtain feasible solutions to the SDVRP from a feasible solution to the relaxed formulations are presented. Computational results are presented for 4 classes of benchmark instances. The new approach is able to prove the optimality of 17 new instances. In particular, the branch-and-cut algorithm based on the first relaxed formulation is able to solve most of the instances with up to 50 customers and two instances with 75 and 100 customers.
-
-@highlight We present two formulations that provide a lower bound for the split delivery vehicle routing problem.
-@highlight We design branch-and-cut algorithms based on these formulations.
-@highlight We performed computational tests on a large set of benchmark instances.
-@highlight We improve most of the best known results in the literature.

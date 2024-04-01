@@ -1,7 +1,0 @@
- This paper introduces a technique for predicting death in patients with Chagas disease using features extracted from symbolic series and time–frequency indices of heart rate variability (HRV). The study included 150 patients: 15 patients who died and 135 who did not. The HRV series were obtained from 24-h Holter monitoring. Sequences of symbols from 5-min epochs from series of RR intervals were generated using symbolic dynamics and ordinal pattern statistics. Fourteen features were extracted from symbolic series and four derived from clinical aspects of patients. For classification, the 18 features from each epoch were used as inputs in a support vector machine (SVM) with a radial basis function (RBF) kernel. The results showed that it is possible to distinguish between the two classes, patients with Chagas disease who did or did not die, with a 95% accuracy rate. Therefore, we suggest that the use of new features based on symbolic series, coupled with classic time–frequency and clinical indices, proves to be a good predictor of death in patients with Chagas disease.
-
-@highlight We predicted the risk of death with a good performance of classifier.
-@highlight We extracted features from symbolic series and time–frequency indices of HRV.
-@highlight Symbolic, time–frequency and clinical indices prove to be a good predictor of death.
-@highlight SVM was useful for accurately classifying two classes, survival and nonsurvival.
-@highlight Conventional autonomic indices have prognostic importance in Chagas disease.

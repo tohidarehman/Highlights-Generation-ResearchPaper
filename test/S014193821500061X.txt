@@ -1,7 +1,0 @@
- High definition (HD) and ultra-high definition (UHD) digital TV require high-resolution images and lots of data transfers between processors and memory devices often become the bottleneck of the system. Video and image signal processing usually require blocks of square or rectangular shaped pixel data for signal processing. It requires frequent precharging and activating new rows, and results in extra latencies for reading and writing pixel data in memory devices. This paper proposes an efficient memory controller for video and image processing to reduce the latencies for reading and writing blocks of pixel data. The controller stores a frame of pixel data by distributing contiguous lines of pixel data to multiple banks in sequence. Its efficiency is enhanced more with an interface protocol such as AMBA AXI in which outstanding transactions are allowed. Memory controllers according to the proposed scheme are designed and the performance and the efficiency are compared with the previous works.
-
-@highlight The proposed scheme distributes contiguous lines of data to multiple banks of SDRAM.
-@highlight It reduces the waiting cycles while reading blocks of data in rectangular shapes.
-@highlight It can be implemented by exchanging several MSBs and LSBs of row addresses.
-@highlight It does not increase of hardware complexity of memory controllers.
-@highlight It does not require re-design of image signal processors in digital TVs.

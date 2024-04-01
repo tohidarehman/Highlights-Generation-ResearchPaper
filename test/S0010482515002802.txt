@@ -1,7 +1,0 @@
- The goal of this paper is to study the classical hawk–dove model using mixed spatial evolutionary games (MSEG). In these games, played on a lattice, an additional spatial layer is introduced for dependence on more complex parameters and simulation of changes in the environment. Furthermore, diverse polymorphic equilibrium points dependent on cell reproduction, model parameters, and their simulation are discussed. Our analysis demonstrates the sensitivity properties of MSEGs and possibilities for further development. We discuss applications of MSEGs, particularly algorithms for modelling cell interactions during the development of tumours.
-
-@highlight Introducing time-varying payoff matrices in mean-field games.
-@highlight New possibilities for more accurate and complex game theoretic simulation.
-@highlight Spatial lattice with simulation of interaction between cells and environment.
-@highlight Heterogeneity of individuals (poly-phenotypic players) in spatial games (MSEG).
-@highlight More precisely biological phenomena, especially for cancer cell populations.

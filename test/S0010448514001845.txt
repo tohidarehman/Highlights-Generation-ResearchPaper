@@ -1,5 +1,0 @@
- Polygonized isosurfaces of anatomical structures commonly suffer from severe artifacts (e.g., noise and staircases), due to inhomogeneous binary volumes. Most state-of-the-art techniques can reduce these artifacts but inevitably ruining anatomical structures’ morphology. Given an initial polygonization of an isosurface, we first eliminate these apparent staircases based on a context-aware Laplace filter, and then solve the morphology-preserving problem of anatomical structures as an optimization of the local spatial quadrics (LSQ) of fitted Bézier surfaces during mesh evolution. This results in a conceptually simple approach that provides a unified framework for not only handling artifacts, but also for enabling the morphology preservation of anatomical structures.
-
-@highlight We design an effective mesh smoothing framework that focuses on medical data.
-@highlight The LSQ gives an isosurface mesh a compact approximation to the underlying surface.
-@highlight We improve the staircase detection strategy by a novel cascaded operation.

@@ -1,7 +1,0 @@
- This paper proposes a new automatic approach to determine the accurate measure of human teeth. The aim of the proposed computer based method is to reduce inaccuracy of measurement with respect to traditional approaches. Starting from a 3D model of the teeth which is obtained from 3D scanning, the method algorithmically evaluates the most important dimensional features detectable in central incisors. For this purpose, specific rules are put forward and implemented in original software with a view to identifying repere points, from which to detect dimensional features both unambiguously and accurately. The automatic method which is proposed here is verified by means of the analysis of real teeth and is then compared with the current state-of-the-art methods for teeth measurement.
-
-@highlight A new automatic approach (CATM) to measure accurately human teeth is proposed.
-@highlight CATM evaluates dimensional features in algorithmic way from a 3D discrete model.
-@highlight CATM shown to be more repeatable and reproducible compared to traditional approaches.
-@highlight Measurements can be carried out quickly.
-@highlight CATM does not require an operator with special skills (dentist or orthodontist).

@@ -1,6 +1,0 @@
- This paper uses computer modeling to estimate the progressive decline in oxygenation that occurs in the human diabetic retina after years of slowly progressive ischemic insult. An established model combines diffusion, saturable consumption, and blood capillary sources to determine the oxygen distribution across the retina. Incorporating long-term degradation of blood supply from the retinal capillaries into the model yields insight into the effects of progressive ischemia associated with prolonged hyperglycemia, suggesting time-scales over which therapeutic mitigation could have beneficial effect. A new extension of the model for oxygen distribution introduces a feedback mechanism for vasodilation and its potential to prolong healthy retinal function.
-
-@highlight A model for retinal oxygenation estimates ischemia associated with diabetes.
-@highlight The model employs diffusion, saturable consumption, and a nonlinear transport.
-@highlight The model’s results reinforces the need for tighter glycemic control.
-@highlight A new extension includes vasodilation as a feedback response to ischemia.

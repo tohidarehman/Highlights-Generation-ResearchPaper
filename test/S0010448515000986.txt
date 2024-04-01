@@ -1,7 +1,0 @@
- Approximately 1% of children are born with a moderate to severe congenital heart defect, and half of them undergo one or more surgeries to fix it. SURGEM, a solid modeling environment, is used to improve surgical outcome by allowing the surgeon to design the geometry for several possible surgical options before the operation and to evaluate their relative merits using computational fluid simulation. We describe here the solid modeling and graphical user interface challenges that we have encountered while developing support for three surgeries:  repair of double-outlet right ventricle, which adds a graft wall within the cardiac chambers to split the solid model of the unique ventricle,  the Fontan procedure, which routes a graft tube to connect the inferior vena cava to the pulmonary arteries, and  stenosis repair, which adds a stent to expand a constricted artery. We describe several solutions that we have developed to address these challenges and to improve the performance, reliability, and usability of SURGEM for these tasks.
-
-@highlight We describe solid modeling challenges faced while developing a surgery planning tool.
-@highlight We support three surgeries: (1) DORV, (2) Fontan procedure and (3) Stenosis repair.
-@highlight DORV and Stenosis repair procedures utilize a simple sketch based interface.
-@highlight For Fontan, the surgeon specifies endpoint locations by clicking.
-@highlight More direct and precise control allows quick exploration of number of surgical options.

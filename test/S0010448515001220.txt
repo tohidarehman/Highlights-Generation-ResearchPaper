@@ -1,5 +1,0 @@
- Measurement quality of industrial cone beam X-ray computed tomography (CT) is influenced by many types of artefacts, therefore, industrial-level accuracy is difficult to attain. In order to avoid the influences of these artefacts, this paper proposes a new method for measuring cylindrical surface that is a common geometric structure in mechanical parts. The proposed method fits cylindrical surface from a sinogram image directly. Compared with a standard way for dimensional CT metrology, higher measurement accuracy and less measurement time can be achieved. Mainly, the method consists of edge points detection of a sinogram image and cylindrical surface fitting. The performance of the method is evaluated by use of both simulation data and actual data.
-
-@highlight The method can fit cylindrical surface from a projection image directly.
-@highlight The method can measure cylindrical surface with a higher accuracy.
-@highlight The method can complete measurement by use of much less measurement time.

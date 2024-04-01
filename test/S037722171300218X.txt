@@ -1,7 +1,0 @@
- In this paper, we present a simulation optimization algorithm for solving the two-echelon constrained inventory problem. The goal is to determine the optimal setting of stocking levels to minimize the total inventory investment costs while satisfying the expected response time targets for each field depot. The proposed algorithm is more adaptive than ordinary optimization algorithms, and can be applied to any multi-item multi-echelon inventory system, where the cost structure and service level function resemble what we assume. Empirical studies are performed to compare the efficiency of the proposed algorithms with other existing simulation algorithms.
-
-@highlight We present an algorithm for the constrained multi-echelon inventory problem.
-@highlight We provide an argument in favor of using simulation instead of analytical methods.
-@highlight We discuss a reasonable sequence of parameter settings in R&S part of our algorithm.
-@highlight Our algorithm needs less simulation effort to guarantee finding a feasible solution.
-@highlight Sometimes the chosen solution is closer to optimal than other existing algorithms.

@@ -1,5 +1,0 @@
- This paper develops an index for comparing the productivity of groups of operating units in cost terms when input prices are available. In that sense it represents an extension of a similar index available in the literature for comparing groups of units in terms of technical productivity in the absence of input prices. The index is decomposed to reveal the origins of differences in performance of the groups of units both in terms of technical and cost productivity. The index and its decomposition are of value in contexts where the need arises to compare units which perform the same function but they can be grouped by virtue of the fact that they operate in different contexts as might for example arise in comparisons of water or gas transmission companies operating in different countries.
-
-@highlight An index for comparing groups of operating units on productivity in cost terms.
-@highlight Decomposition of an index for comparing groups of units on cost efficiency.
-@highlight Numerical illustration of an index and its decomposition.

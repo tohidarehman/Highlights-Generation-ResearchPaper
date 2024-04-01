@@ -1,5 +1,0 @@
- The best known isotropic membrane stress state is a soap film. However, if we allow the value of the isotropic stress to vary from point to point then the surface can carry gravity loads, either as a hanging form in tension, or as a masonry shell in compression. The paper describes the theory of isotropic membrane stress under gravity load and introduces a particle method for its numerical simulation for the form finding of shell structures.
-
-@highlight Derivation of equilibrium equations for loaded shell structures with a varying isotropic stress.
-@highlight The application of the finite element method for the numerical implementation.
-@highlight The introduction of a new particle method for the numerical implementation.

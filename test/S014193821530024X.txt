@@ -1,6 +1,0 @@
- This work explores the synthesis of nanocrystalline MgO:Cr3+ (1–9mol%) nanophosphors via solution combustion route at 400°C. The nanophosphors were well characterized by powder X-ray diffraction (PXRD), scanning electron microscopy (SEM), transmission electron microscopy (TEM) and Fourier transform infra-Red (FTIR) spectroscopy. PXRD results confirm cubic phase and SEM micrographs indicate that the particles are highly porous and agglomerated. The TEM images show that the powder consists of spherical particles of size ∼5–15nm. Upon 356nm excitation the emission profile of MgO:Cr3+ exhibits an emission peak at 677nm due to 2Eg 4A2g transition. It was observed that PL intensity increases with increase in Cr3+ concentration and highest PL intensity was observed for 3mol% doped sample and afterward it decreases, attributed to concentration quenching. The resultant CIE chromaticity co-ordinates in the white region make the present phosphor highly useful for display applications and also for white light-emitting diodes (WLEDs).
-
-@highlight Magnesium oxide (MgO) is an excellent wide band gap insulator.
-@highlight MgO:Cr3+ nanosheets were prepared via facile solution combustion method.
-@highlight Structural and PL of MgO:Cr3+ nanosheets were studied.
-@highlight CIE chromaticity co-ordinates fall in the white region.

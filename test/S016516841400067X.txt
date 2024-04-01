@@ -1,5 +1,0 @@
- The Doppler rate estimation on coherent sinusoidal pulse train, which can be applied in the passive emitter location systems, is investigated in this paper. When the pulse repetition interval (PRI) is constant, a DFT-based Doppler rate estimation algorithm is proposed and its performance is briefly analyzed. In the case of non-constant PRI, a least-squares-fitting based Doppler rate estimator (LSFE) is proposed. The mean square error is computed in closed form and the threshold signal-to-noise ratio (SNR) is analyzed. The Cramer–Rao lower bound on Doppler rate estimation is derived whereafter, and is compared to the mean square error of the LSFE. Monte Carlo simulations show that when operating above the threshold SNR, the proposed approach achieves the CRLB. The threshold SNRs in the simulations are basically coincident with the theoretical values.
-
-@highlight We propose a DFT-based Doppler rate estimator for constant PRI and analyze its performance.
-@highlight We propose a LSF-based estimator for non-constant PRI and derive its MSE and SNR threshold.
-@highlight We derive the CRLB on Doppler rate estimation for non-constant-PRI coherent sinusoidal case.

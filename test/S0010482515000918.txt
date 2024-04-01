@@ -1,7 +1,0 @@
- Achieving an efficient fixation for complicated fractures and scaffold application treatments is a challenging surgery problem. Although many fixation approaches have been advanced and actively pursued, the optimal solution for long bone defects has not yet been defined. This paper promotes an innovative fixation method based on application of magnetic forces. The efficiency of this approach was investigated on the basis of finite element modeling for scaffold application and analytical calculations for diaphyseal fractures. Three different configurations have been analyzed including combinations of small cylindrical permanent magnets or stainless steel rods, inserted rigidly in the bone intramedullary canals and in the scaffold. It was shown that attractive forces as high as 75 N can be achieved. While these forces do not reach the strength of mechanical forces in traditional fixators, the employment of magnetic rods is expected to be beneficial by reducing considerably the interface micromotions. It can additionally support magneto-mechanical stimulations as well as enabling a magnetically assisted targeted delivery of drugs and other bio-agents.
-
-@highlight An innovative magnetic fixation method is proposed for orthopedics.
-@highlight Magnetic rods can be used for long bone and scaffold fixation.
-@highlight Magnetic configurations, compatible with real patient cases, were analyzed.
-@highlight Magnetic fixation forces can achieve values as high as 75N.
-@highlight Magnetic fixation can reduce the interface micromotions and provide bone stimulation.

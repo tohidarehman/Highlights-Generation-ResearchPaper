@@ -1,7 +1,0 @@
- In this paper, we consider a multi-attribute vehicle routing problem derived from a real-life milk collection system. This problem is characterized by the presence of a heterogeneous fleet of vehicles, multiple depots, and several resource constraints. A branch-and-price methodology is proposed to tackle the problem. In this methodology, different branching strategies, adapted to the special structure of the problem, are implemented and compared. The computational results show that the branch-and-price algorithm performs well in terms of solution quality and computational efficiency.
-
-@highlight We investigate the characteristics of a new problem with seasonal supply behavior.
-@highlight We propose a mathematical programming model for the problem.
-@highlight We propose a branch-and-price algorithm.
-@highlight It includes new bounds and structural modifications in the multi-period problem.
-@highlight The efficiency of the algorithm is investigated based on extensive numerical tests.

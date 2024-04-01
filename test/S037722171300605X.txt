@@ -1,6 +1,0 @@
- We present a framework for inverse optimization in a Markowitz portfolio model that is extended to include a third criterion. The third criterion causes the traditional nondominated frontier to become a surface. Until recently, it had not been possible to compute such a surface. But by using a new method that is able to generate the nondominated surfaces of tri-criterion portfolio selection problems, we are able to compute via inverse optimization the implied risk tolerances of given funds that pursue an additional objective beyond risk and return. In applying this capability to a broad sample of conventional and socially responsible (SR) mutual funds, we find that there appears to be no significant evidence that social responsibility issues, after the screening stage, are further taken into account in the asset allocation process, which is a result that is likely to be different from what many SR investors would expect.
-
-@highlight We present a framework for inverse optimization in a 3D Markowitz portfolio model.
-@highlight We analyze a broad sample of conventional and socially responsible (SR) mutual funds.
-@highlight Post screening, there is no difference in how assets are allocated in SR mutual funds.
-@highlight We compute nondominated surfaces in a 3D Markowitz portfolio model.

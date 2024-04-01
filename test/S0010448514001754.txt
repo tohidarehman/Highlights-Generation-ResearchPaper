@@ -1,7 +1,0 @@
- In order to analyze the brain shift situation accurately, we need to register the medical image and analyze its deformation. In this paper, we introduce a framework with volume-preserving registration for brain shift analysis. First, a volume-preserving mapping is introduced for general manifolds supported by a rigorous continuous theory. The registration is then performed on the spherical tetrahedron mesh with MRI gray values. The registration can retain the equality of local volume elements while registering the manifold to a template at the same time. We use simulated brain shift data to test our method. The results show that our method can efficiently register the brain while preserving the volume of each vertex.
-
-@highlight We introduce a volume-preserving registration framework for brain shift analysis.
-@highlight A volume-preserving mapping is supported by a rigorous continuous theory.
-@highlight The registration is performed on spherical tetrahedron mesh with MRI gray value.
-@highlight The registration can retain the equality of local volume elements.
-@highlight Our method can register the brain efficiently while preserving the volume.

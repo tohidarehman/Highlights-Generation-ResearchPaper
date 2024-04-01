@@ -1,7 +1,0 @@
- This letter introduces an alternative approach to modeling the cardiovascular system with a short-term control mechanism published in Computers in Biology and Medicine, Vol. 47 , pp. 104–112. We recommend using abstract components on a distinct physical level, separating the model into hydraulic components, subsystems of the cardiovascular system and individual subsystems of the control mechanism and scenario. We recommend utilizing an acausal modeling feature of Modelica language, which allows model variables to be expressed declaratively. Furthermore, the Modelica tool identifies which are the dependent and independent variables upon compilation. An example of our approach is introduced on several elementary components representing the hydraulic resistance to fluid flow and the elastic response of the vessel, among others. The introduced model implementation can be more reusable and understandable for the general scientific community.
-
-@highlight We reimplemented model of hemodynamics of cardiovascular system.
-@highlight We recommend utilizing object-oriented and acausal features of Modelica language.
-@highlight The models of components focus on single phenomenon.
-@highlight The models of subsystems separate a subsystem behavior from a control mechanism.
-@highlight The whole model, its components and subsystems are more understandable and reusable.

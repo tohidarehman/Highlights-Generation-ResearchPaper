@@ -1,9 +1,0 @@
- Because of its flexible topology and robust data structure, the -spline surface has become the trend of free-form surfaces representation in the realm of CAD design, animation and CAE. Yet its application in manufacturing has not been fully explored. In this work, the possibility of direct tool path generation on the -spline surface has been discussed. An improved space-filling curve (ISFC) tool path planning algorithm has been proposed to exploit the advantage of -spline as a mathematical representation of free-form surfaces in CAM process, as well as to overcome its disadvantages such as irregular boundaries and holes in the pre-image. The turning problem in traditional SFC has been tackled using Hermite compensation curves. Finally, a prototype system has been developed to implement the proposed algorithm and actual machining has been conducted. The result shows the feasibility as well as the efficiency of the proposed method for -spline surfaces tool path generation compared to commercial CAM system.
-
-@highlight Introducing
-@highlight -spline surface to CAM area.
-@highlight Improved space-filling curve (ISFC) tool path for
-@highlight -spline surfaces machining.
-@highlight ISFC generates a non-retracted tool path.
-@highlight Tool path planning algorithm for irregular boundaries and holes in pre-image.
-@highlight Compensation path algorithm to avoid uncut materials on tool path corners.

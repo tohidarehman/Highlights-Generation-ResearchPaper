@@ -1,6 +1,0 @@
- Curve fitting with splines is a fundamental problem in computer-aided design and engineering. However, how to choose the number of knots and how to place the knots in spline fitting remain a difficult issue. This paper presents a framework for computing knots (including the number and positions) in curve fitting based on a sparse optimization model. The framework consists of two steps: first, from a dense initial knot vector, a set of active knots is selected at which certain order derivative of the spline is discontinuous by solving a sparse optimization problem; second, we further remove redundant knots and adjust the positions of active knots to obtain the final knot vector. Our experiments show that the approximation spline curve obtained by our approach has less number of knots compared to existing methods. Particularly, when the data points are sampled dense enough from a spline, our algorithm can recover the ground truth knot vector and reproduce the spline.
-
-@highlight We reduce the computation time dramatically by solving convex optimization problem.
-@highlight We can simultaneously find a good combination of the knot number and knot locations.
-@highlight The algorithm has less knots with good fitting performance compared to other methods.
-@highlight We can recover the ground truth knots when data is sampled enough from a B-spline.

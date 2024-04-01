@@ -1,7 +1,0 @@
- This paper presents a general half quadratic framework for simultaneous analysis of the whole array comparative genomic hybridization (aCGH) profiles in a data set. The proposed framework accommodates different M-estimation loss functions and two underlying assumptions for aCGH profiles of a data set: sparsity and low rank. Using M-estimation loss functions, this framework is more robust to various types of noise and outliers. The solution of the proposed framework is given by half quadratic (HQ) minimization. To hasten this procedure, accelerated proximal gradient (APG) is utilized. Experimental results support the robustness of the proposed framework in comparison to the state-of-the-art algorithms.
-
-@highlight A general framework for recovering multisample aCGH data.
-@highlight The solution of proposed formulation is given by Half Quadratic (HQ) methods.
-@highlight The proposed framework accommodates different robust M-estimators.
-@highlight Using Accelerated Proximal Gradient (APG) for speeding up the convergence rate.
-@highlight Numerous experimental results on simulated datasets with non-Gaussian noise to evaluate the robustness of the proposed framework.

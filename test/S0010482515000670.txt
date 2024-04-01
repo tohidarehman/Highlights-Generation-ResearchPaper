@@ -1,7 +1,0 @@
- A framework for the inflation of micro-CT and histology data using intravascular ultrasound (IVUS) images, is presented. The proposed methodology consists of three steps. In the first step the micro-CT/histological images are manually co-registered with IVUS by experts using fiducial points as landmarks. In the second step the lumen of both the micro-CT/histological images and IVUS images are automatically segmented. Finally, in the third step the micro-CT/histological images are inflated by applying a transformation method on each image. The transformation method is based on the IVUS and micro-CT/histological contour difference. In order to validate the proposed image inflation methodology, plaque areas in the inflated micro-CT and histological images are compared with the ones in the IVUS images. The proposed methodology for inflating micro-CT/histological images increases the sensitivity of plaque area matching between the inflated and the IVUS images (7% and 22% in histological and micro-CT images, respectively).
-
-@highlight A framework for inflating micro-CT/histological images is proposed.
-@highlight The micro-CT/histological images are transformed and validated based on IVUS.
-@highlight A realistic matching between IVUS and micro-CT/histological images is achieved.
-@highlight The overlapping plaque areas are significantly after inflation.
-@highlight The reliability of validation procedure is enhanced in IVUS plaque detection.

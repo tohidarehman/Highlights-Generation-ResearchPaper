@@ -1,7 +1,0 @@
- Pseudo-relevance feedback is the basis of a category of automatic query modification techniques. Pseudo-relevance feedback methods assume the initial retrieved set of documents to be relevant. Then they use these documents to extract more relevant terms for the query or just re-weigh the user's original query. In this paper, we propose a straightforward, yet effective use of pseudo-relevance feedback method in detecting more informative query terms and re-weighting them. The query-by-query analysis of our results indicates that our method is capable of identifying the most important keywords even in short queries. Our main idea is that some of the top documents may contain a closer context to the user's information need than the others. Therefore, re-examining the similarity of those top documents and weighting this set based on their context could help in identifying and re-weighting informative query terms. Our experimental results in standard English and Persian test collections show that our method improves retrieval performance, in terms of MAP criterion, up to 7% over traditional query term re-weighting methods.
-
-@highlight A query term re-weighting method to reformulate textual queries is proposed.
-@highlight Our approach is a local query modification method.
-@highlight We use the information carried by the top documents in relation to each other.
-@highlight Query term re-weighting can applied to short queries too.
-@highlight Queries which use a general vocabulary set show the least improvement.

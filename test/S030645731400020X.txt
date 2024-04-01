@@ -1,5 +1,0 @@
- Query enrichment is a process of dynamically enhancing a user query based on her preferences and context in order to provide a personalized answer. The central idea is that different users may find different services relevant due to different preferences and contexts. In this paper, we present a preference model that combines user preferences, user context, domain knowledge to enrich the initial user query. We use CP-nets to rank the preferences using implicit and explicit user preferences and domain knowledge. We present some algorithms for preferential matching. We have implemented the proposed model as a prototype. The initial results look promising.
-
-@highlight Enriching queries using user preferences increases Information Retrieval in healthcare domain.
-@highlight Prioritizing user preferences improves service discovery.
-@highlight Conditional preference network is employed to rank user preferences.

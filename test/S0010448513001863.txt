@@ -1,5 +1,0 @@
- In mechanical assembly planning research, many intelligent methods have already been reported over the past two decades. However, those methods mainly focus on the optimal assembly solution search while another important problem, the generation of solution space, has received little attention. This paper proposes a new methodology for the assembly planning problem. On the basis of a disassembly information model which has been developed to represent all theoretical assembly/disassembly sequences, two decoupled problems, generating the solution space and searching for the best result, are integrated into one computation framework. In this framework, using an ant colony optimization algorithm, the solution space of disassembly plans can be generated synchronously during the search process for best solutions. Finally, the new method’s validity is verified by a case study.
-
-@highlight We model an ant colony optimization based method for mechanical assembly planning.
-@highlight The computation framework couples both a solution generation and an optimization search.
-@highlight The proposed search strategy improves the performance of the assembly planning method.

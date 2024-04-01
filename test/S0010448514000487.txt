@@ -1,7 +1,0 @@
- This paper introduces a new, octree-based algorithm to assist in the automated conversion of laser scanning point cloud data into solid models appropriate for computational analysis. The focus of the work is for typical, urban, vernacular structures to assist in better damage prediction prior to tunnelling. The proposed FaçadeVoxel algorithm automatically detects boundaries of building façades and their openings. Next, it checks and automatically fills unintentional occlusions. The proposed method produced robust and efficient reconstructions of building models from various data densities. When compared to measured drawings, the reconstructed building models were in good agreement, with only 1% relative errors in overall dimensions and 3% errors in openings. In addition, the proposed algorithm was significantly faster than other automatic approaches without compromising accuracy.
-
-@highlight Introducing a new automatic method to detect boundary points of façade features.
-@highlight Boundary points were extracted based on a local score of data points.
-@highlight The algorithm automatically detected all openings and filled non-openings.
-@highlight This was achieved without any supplemental datasets or user knowledge.
-@highlight Building models were generally more accurate and faster than previous works.

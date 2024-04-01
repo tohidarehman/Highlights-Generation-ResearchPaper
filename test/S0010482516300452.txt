@@ -1,5 +1,0 @@
- Epilepsy is a brain disorder that affects about 1% of the population in the world. Seizure detection is an important component in both the diagnosis of epilepsy and seizure control. In this work a patient non-specific strategy for seizure detection based on Stationary Wavelet Transform of EEG signals is developed. A new set of features is proposed based on an average process. The seizure detection consisted in finding the EEG segments with seizures and their onset and offset points. The proposed offline method was tested in scalp EEG records of 24–48h of duration of 18 epileptic patients. The method reached mean values of specificity of 99.9%, sensitivity of 87.5% and a false positive rate per hour of 0.9.
-
-@highlight It reduces the time spent by physicians in the visual inspection of long term EEG records.
-@highlight It is patient non-specific, so it can be applied to new records that have not been presented to the algorithm.
-@highlight Its performance is comparable with other more complicated algorithms.

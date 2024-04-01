@@ -1,6 +1,0 @@
- Material use of agricultural raw materials as renewable resources is gaining increasing importance in industrial production. Seasonal availability as well as variations in raw material quantity and quality and of market prices need to be considered in supply planning. This research depicts the planning problem of a processor of agricultural raw materials and illustrates it with data on the industrial use of linseed oil, which is a promising raw material for the production of new polymers. A two-stage stochastic program provides decision support and is applied to the example. The approach can be used for a variety of planning problems concerning the supply of agricultural raw materials.
-
-@highlight Challenges arising from material use of renewable resources are explored and illustrated with the example linseed oil.
-@highlight A supply decision for a processor of agricultural goods is derived and a risk mitigation approach is developed.
-@highlight A two-stage stochastic program is presented as decision support.
-@highlight A numerical analysis is conducted with data for linseed oil and its results are interpreted.

@@ -1,7 +1,0 @@
- The single row layout problem (SRLP) consists of finding the most efficient arrangement of a given number of facilities or machines along one side of the material handling path, a topic that has enjoyed lasting interest for the past 45 years. As well as for use in manufacturing environments, the SRLP can serve to arrange rooms along a corridor in, e.g., hospitals and supermarkets. Besides its practical relevance, the problem is also interesting from a formal point of view due to its NP -hardness and therefore attracts the attention of many researchers. Beginning with the year 2000, this paper systematically reviews 82 articles focusing on single row layout problems. After featuring the relevance and timeliness, the SRLP is first positioned within the superordinate facility layout problem (FLP). Thereafter, the articles are classified according to topic of the paper, model formulation and representation, type of input data, objective function, and solution methods. We pay particular attention to recent developments in model formulation and solution methods to elaborate some possible directions and opportunities for further research.
-
-@highlight We systematically review 82 publications covering the period from 2000 to 2014.
-@highlight Classified by, e.g., model formulation, input data, objective, solution method.
-@highlight We provide several tables clustering different aspects of our research.
-@highlight This includes a general overview, model extensions, exact methods, meta-heuristics.
-@highlight We pay particular attention to recent developments.

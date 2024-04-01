@@ -1,7 +1,0 @@
- Most CBIR (content based image retrieval) systems use relevance feedback as a mechanism to improve retrieval results. NN (nearest neighbor) approaches provide an efficient method to compute relevance scores, by using estimated densities of relevant and non-relevant samples in a particular feature space. In this paper, particularities of the CBIR problem are exploited to propose an improved relevance feedback algorithm based on the NN approach. The resulting method has been tested in a number of different situations and compared to the standard NN approach and other existing relevance feedback mechanisms. Experimental results evidence significant improvements in most cases.
-
-@highlight The performance of existing nearest neighbor approaches is studied in a CBIR context.
-@highlight Several issues on the application of NN methods to the CBIR problem are analyzed.
-@highlight An improved relevance feedback algorithm also based on the NN paradigm is proposed.
-@highlight The accuracy of the estimates is improved by considering locality of labeled samples.
-@highlight Experimental results evidence significant improvements in most cases.

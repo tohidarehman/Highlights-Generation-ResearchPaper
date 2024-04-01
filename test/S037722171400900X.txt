@@ -1,6 +1,0 @@
- In this paper, we consider a multi-period fuzzy portfolio optimization problem with minimum transaction lots. Based on possibility theory, we formulate a mean-semivariance portfolio selection model with the objectives of maximizing the terminal wealth and minimizing the cumulative risk over the whole investment horizon. In the proposed model, we take the return, risk, transaction costs, diversification degree, cardinality constraint and minimum transaction lots into consideration. To reflect investor’s aspiration levels for the two objectives, a fuzzy decision technique is employed to transform the proposed model into a single objective mixed-integer nonlinear programming problem. Then, we design a genetic algorithm for solution. Finally, we give an empirical application in Chinese stock markets to demonstrate the idea of our model and the effectiveness of the designed algorithm.
-
-@highlight We propose a multi-period portfolio selection model with transaction lots.
-@highlight We use a fuzzy decision technique to express investor’s preference.
-@highlight A genetic algorithm is designed for solution.
-@highlight An empirical study is given to illustrate the idea of the proposed model.

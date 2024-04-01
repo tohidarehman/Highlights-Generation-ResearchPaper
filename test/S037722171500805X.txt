@@ -1,5 +1,0 @@
- This note finds and resolves a compounding problem in the interactive multi-. The compounding problem means that the algorithm generates a solution unexpected by the decision maker. A concrete example of the compounding problem is demonstrated and, to remove the problem, an improved algorithm is then developed. We also show that the improved algorithm converges to the known optimal solutions faster than the earlier algorithm.
-
-@highlight We find a compounding problem in an earlier interactive multiobjective optimization method.
-@highlight The compounding problem means that the algorithm generates an unexpected solution.
-@highlight To avoid this problem, we develop an improved interactive method.

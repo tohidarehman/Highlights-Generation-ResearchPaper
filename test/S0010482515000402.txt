@@ -1,7 +1,0 @@
- The presence of hair is a common quality problem for dermoscopy images, which may influence the accuracy of lesion analysis. In this paper, a novel no-reference hair occlusion assessment method is proposed according to the distribution feature of hairs in the dermoscopy image. Firstly, the image is adaptively enhanced by simple linear iterative clustering (SLIC) combined with isotropic nonlinear filtering (INF). Then, hairs are extracted from the image by an automatic threshold and meanwhile the postprocessing is used to refine the hair through re-extracting omissive hairs and filtering false hairs. Finally, the degree of hair occlusion is evaluated by an objective metric based on the hair distribution. A series of experiments was carried out on both simulated images and real images. The result shows that the proposed local adaptive hair detection method can work well on both sparse hair and dense hair, and the designed metric can effectively evaluate the degree of hair occlusion.
-
-@highlight A novel local adaptive hair detection method is presented.
-@highlight The proposed hair detection method works well on both sparse hair and dense hair.
-@highlight Hair distribution features based on quantity, position and dispersion are extracted.
-@highlight An objective assessment metric for the degree of hair occlusion is designed.
-@highlight Our assessment method can effectively evaluate the degree of hair occlusion.

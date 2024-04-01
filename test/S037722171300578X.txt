@@ -1,7 +1,0 @@
- GARCH models are commonly used for describing, estimating and predicting the dynamics of financial returns. Here, we relax the usual parametric distributional assumptions of GARCH models and develop a Bayesian semiparametric approach based on modeling the innovations using the class of scale mixtures of Gaussian distributions with a Dirichlet process prior on the mixing distribution. The proposed specification allows for greater flexibility in capturing the usual patterns observed in financial returns. It is also shown how to undertake Bayesian prediction of the Value at Risk (VaR). The performance of the proposed semiparametric method is illustrated using simulated and real data from the Hang Seng Index (HSI) and Bombay Stock Exchange index (BSE30).
-
-@highlight We develop a Bayesian semiparametric approach to GARCH-type models.
-@highlight The innovations follow the class of scale mixtures of Gaussian distributions with a Dirichlet process prior in the mixing distribution.
-@highlight It is also shown how to undertake Bayesian prediction of the Value at Risk (VaR).
-@highlight We have obtained significant differences in the predictive distribution of the returns, especially in the tails.
-@highlight We have observed different results in the VaR estimation with different specifications.

@@ -1,6 +1,0 @@
- The hemodynamic changes induced by stent deployment and vascular remodeling in bifurcation aneurysms were investigated using computational fluid dynamics. The stent deployment reduced the intra-aneurysmal flow activity by decreasing the mean velocity, mean kinetic energy, mean wall shear stress, and mean vorticity. These hemodynamic parameters increased with an increase in the branching angle because of the vessel deformation caused by stent straightening. The maximum wall shear stress and its spatial gradient occurred near the neck of the aneurysm in the stented left daughter vessel, whereas a maximum oscillatory shear index was detected near the neck of the right aneurysm of the right daughter vessel. Theses parameters, which might be related to the recurrence of aneurysms, were also increased by stent-induced vessel deformation.
-
-@highlight The hemodynamic changes induced by vascular remodeling were investigated.
-@highlight The intra-aneurysmal flow activity was reduced by stent-induced vessel deformation.
-@highlight The maximum wall shear stress and oscillatory shear index were also increased.
-@highlight Bifurcation angle remodeling provided an unfavorable hemodynamic environment.

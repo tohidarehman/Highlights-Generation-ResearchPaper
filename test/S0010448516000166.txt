@@ -1,6 +1,0 @@
- We propose a two-step approach for the construction of planar smooth collision-free navigation paths. Obstacle avoidance techniques that rely on classical data structures are initially considered for the identification of piecewise linear paths having no intersection with the obstacles of a given scenario. Variations of the shortest piecewise linear path with angle-based criteria are proposed and discussed. In the second part of the scheme we rely on spline interpolation algorithms with tension parameters to provide a smooth planar control strategy. In particular, we consider the class of curves with Pythagorean structures, because they provide an exact computation of fundamental geometric quantities. A selection of test cases demonstrates the quality of the new motion planning scheme.
-
-@highlight A two-step approach to design planar smooth collision-free paths is presented.
-@highlight The construction of piecewise linear paths with angle-based criteria is investigated.
-@highlight The smooth path is based on PH spline interpolation schemes with tension parameters.
-@highlight A selection of test cases demonstrates the quality of the new motion planning scheme.

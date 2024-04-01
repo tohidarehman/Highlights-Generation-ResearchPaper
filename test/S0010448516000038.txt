@@ -1,5 +1,0 @@
- In order to extract a construction tree from a finite set of points sampled on the surface of an object, we present an evolutionary algorithm that evolves set-theoretic expressions made of primitives fitted to the input point-set and modeling operations. To keep relatively simple trees, we use a penalty term in the objective function optimized by the evolutionary algorithm. We show with experiments successes but also limitations of this approach.
-
-@highlight An algorithm for extracting an object from a 3D point-cloud.
-@highlight An evolutionary approach for combining primitives, fitted to the input point-cloud, by modeling operations.
-@highlight A technique for limiting the size of the evolved model to allow its reusability.

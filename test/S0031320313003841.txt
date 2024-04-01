@@ -1,6 +1,0 @@
- In this paper, we propose a face-hallucination method, namely face hallucination based on sparse local-pixel structure. In our framework, a high resolution (HR) face is estimated from a single frame low resolution (LR) face with the help of the facial dataset. Unlike many existing face-hallucination methods such as the from local-pixel structure to global image super-resolution method (LPS-GIS) and the super-resolution through neighbor embedding, where the prior models are learned by employing the least-square methods, our framework aims to shape the prior model using sparse representation. Then this learned prior model is employed to guide the reconstruction process. Experiments show that our framework is very flexible, and achieves a competitive or even superior performance in terms of both reconstruction error and visual quality. Our method still exhibits an impressive ability to generate plausible HR facial images based on their sparse local structures.
-
-@highlight Our framework aims to shape the prior model using sparse representation.
-@highlight Global structure and local-pixel structure are incorporated to produce plausible facial details.
-@highlight A method to learn local-pixel structures based on sparse representation is proposed.
-@highlight The proposed method is competitive with other, state-of-the-art face-hallucination methods.

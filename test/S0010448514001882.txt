@@ -1,5 +1,0 @@
- The detection of the number of disjoint components is a well-known procedure for surface objects. However, this problem has not been solved for solid models defined with scalar fields in the so-called implicit form. In this paper, we present a technique which allows for detection of the number of disjoint components with a predefined tolerance for an object defined with a single scalar function. The core of the technique is a reliable continuation of the spatial enumeration based on the interval methods. We also present several methods for separation of components using set-theoretic operations for further handling these components individually in a solid modelling system dealing with objects defined with scalar fields.
-
-@highlight A technique for find the number of disjoint components for a model defined implicitly.
-@highlight Various methods for the separation of components for these models.
-@highlight An adaptive spatial continuation for the fast and reliable enumeration.

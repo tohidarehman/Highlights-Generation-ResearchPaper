@@ -1,7 +1,0 @@
- Streamline-like, free-form features that “flow” on a base shape are often utilized in the design of products ranging from automobiles to everyday consumer products. Providing computational support for the design of such features is challenging, because of the open-endedness of the design explorations involved, and the necessity to rapidly and precisely capture the design intents expressed in very simple forms, such as free-form sketches. We present a novel approach for designing streamline-based, free-form surface features in the context of product design. Using our approach, the user first designs a network of streamlines on the base shape, by performing a stroke-constrained mesh parameterization. Then, the user utilizes these streamlines as a curvilinear scaffold for creating 3D free-form features that are bounded and parameterized by these streamlines. The user is able to apply fine-grained control of the outline, profile and extent of the resulting 3D features by manipulating the streamlines. We demonstrate the capability of this approach on several product models.
-
-@highlight We describe a streamline-based aesthetic feature creation method for product styling.
-@highlight Stroke-based editing handles mimic fluid streamlines.
-@highlight A fast linear method for field-guided parameterization is described.
-@highlight Aesthetic flow-like surface features can be generated with ease.
-@highlight Application results are shown in industrial product design examples.

@@ -1,7 +1,0 @@
- We propose a method to extract a kinematic skeleton from an articulated 3D model. Unlike the curve skeleton which concentrates on the abstract structure of given model, we aim to obtain the skeleton with accurate joint positions, which can be directly used for character rigging and animation. Restricting our focus on the articulated body, we construct its skeleton in a bottom-up manner starting from a set of automatically obtained feature points. Our method is a hybrid approach combining the advantages of topology-based and geometry-based methods using the Morse theory and the shape descriptor. It does not require manually-chosen feature points or markers, and is independent of both postures and the number of branches of the given model. Experiments show that our method can efficiently extract kinematic skeletons of various kinds of articulated bodies, and also that the results can be directly applied to the character rigging.
-
-@highlight A kinematic skeleton extraction method for articulated bodies is proposed.
-@highlight It is a hybrid approach combining topology-based and geometry-based methods.
-@highlight It does not require manually-chosen feature points or markers.
-@highlight It is independent of both postures and the number of branches of the model.
-@highlight The results can be directly applied to the character rigging.

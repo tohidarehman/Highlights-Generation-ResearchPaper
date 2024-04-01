@@ -1,7 +1,0 @@
- In this paper we address optimal routing problems in networks where travel times are both stochastic and time-dependent. In these networks, the best route choice is not necessarily a path, but rather a time-adaptive strategy that assigns successors to nodes as a function of time. Nevertheless, in some particular cases an origin–destination path must be chosen a priori, since time-adaptive choices are not allowed. Unfortunately, finding the a priori shortest path is an NP-hard problem. In this paper, we propose a solution method for the a priori shortest path problem, and we show that it can be easily extended to the ranking of the first K shortest paths. Our method exploits the solution of the time-adaptive routing problem as a relaxation of the a priori problem. Computational results are presented showing that, under realistic distributions of travel times and costs, our solution methods are effective and robust.
-
-@highlight We consider networks where travel times are both stochastic and time-dependent.
-@highlight We consider the NP-hard problem where an o–d path must be chosen a priori.
-@highlight Our algorithm can easily be extended to the ranking of the first K shortest paths.
-@highlight The algorithm uses the time-adaptive solution as a relaxation of the a priori problem.
-@highlight Our solution methods are effective and robust under realistic test instances.

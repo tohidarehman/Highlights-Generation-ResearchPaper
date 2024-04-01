@@ -1,5 +1,0 @@
- In this paper, we present a multipoint machining method for the 5-axis machining of triangulated surfaces with radiused end mills. The main idea is to drop the tool onto the surface to find an initial point of contact, and then rotate the tool while maintaining tangency with this initial point of contact until a second point of contact is found. The proposed procedure ensures a gouge-free position with two points of contact, allowing for a larger side step than a single point of contact method. This proof of concept paper presents the mathematical equations that must be solved to position the tool with two points of contacts on an STL surface. The paper further verifies the concept with simulations and presents experimental results to confirm the simulations.
-
-@highlight We give a method for positioning a radiused end milled cutter on an STL surface.
-@highlight Tool is positioned to have two points of contact.
-@highlight We give simulation and machining results.

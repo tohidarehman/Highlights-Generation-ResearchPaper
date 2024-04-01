@@ -1,5 +1,0 @@
- The notion of drawdown is central to active portfolio management. Conditional Drawdown-at-Risk (CDaR) is defined as the average of a specified percentage of the largest drawdowns over an investment horizon and includes maximum and average drawdowns as particular cases. The necessary optimality conditions for a portfolio optimization problem with CDaR yield the capital asset pricing model (CAPM) stated in both single and multiple sample-path settings. The drawdown beta in the CAPM has a simple interpretation and is evaluated for hedge fund indices from the HFRX database in the single sample-path setting. Drawdown alpha is introduced similarly to the alpha in the classical CAPM and is evaluated for the same hedge fund indices. Both drawdown beta and drawdown alpha are used to prioritize hedge fund strategies and to identify instruments for hedging against market drawdowns.
-
-@highlight The capital asset pricing model (CAPM) with drawdown beta is presented.
-@highlight Drawdown alpha is introduced similarly to the alpha in the classical CAPM.
-@highlight Drawdown beta and alpha are used to prioritize hedge fund strategies.

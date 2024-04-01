@@ -1,5 +1,0 @@
- The longest common substring with k-mismatches problem is to find, given two strings and , a longest substring of and of such that the Hamming distance between and is ≤k. We introduce a practical time and space solution for this problem, where n and m are the lengths of and , respectively. This algorithm can also be used to compute the matching statistics with k-mismatches of and in time and space. Moreover, we also present a theoretical solution for the case which runs in log time, assuming , and uses space, improving over the existing time and space bound of Babenko and Starikovskaya .
-
-@highlight Two new algorithms for the longest common substring with k mismatches problem.
-@highlight A practical solution for arbitrary k which uses constant space.
-@highlight A theoretical solution for one mismatch which runs in quasilinear time.

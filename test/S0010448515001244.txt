@@ -1,7 +1,0 @@
- This paper presents an extension of the all-quad meshing algorithm called LayTracks to generate high quality hex-dominant meshes of general solids. LayTracks3D uses the mapping between the Medial Axis (MA) and the boundary of the 3D domain to decompose complex 3D domains into simpler domains called Tracks. Tracks in 3D have no branches and are symmetric, non-intersecting, orthogonal to the boundary, and the shortest path from the MA to the boundary. These properties of tracks result in desired meshes with near cube shape elements at the boundary, structured mesh along the boundary normal with any irregular nodes restricted to the MA, and sharp boundary feature preservation. The algorithm has been tested on a few industrial CAD models and hex-dominant meshes are shown in the Results section. Work is underway to extend LayTracks3D to generate all-hex meshes.
-
-@highlight The proposed meshing algorithm handles general solids.
-@highlight Output mesh is boundary sensitive and preserves sharp features.
-@highlight Output mesh has very low percentage of non-hex elements.
-@highlight LayTracks3D is based on a mathematically sound formulation of MAT.
-@highlight Extension to all-hex meshing is discussed.
