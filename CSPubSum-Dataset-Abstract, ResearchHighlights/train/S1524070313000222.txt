@@ -1,0 +1,6 @@
+ Sunken relief is an art form made by cutting the relief sculpture itself into a flat surface with a shallow overall depth. This paper focuses on the problem of direct generation of line-based sunken relief from a 3D mesh. We show how to extract, post-process and organize the messy feature lines in regular forms, applicable for lines engraving on the sculpture surfaces. We further describe how to construct a smooth height field from the input object, and derive a continuous pitting corrosion method to generate the cutting paths. The whole framework is conducted in object-space, making it flexible for stroke stylization and depth control of the engraving lines. We demonstrate the results with several impressive renderings and photographs used to illustrate the paper itself.
+
+@highlight We focus on the problem of direct generation of line-based sunken relief from a 3D mesh.
+@highlight We adopt clipping, chaining and smoothing to make the lines organized in good forms.
+@highlight We use a continuous pitting corrosion method to simulate the cutting paths.
+@highlight The object-based method is flexible for stroke stylization of the engraving lines.

@@ -1,0 +1,7 @@
+ This paper presents an exact algorithm, a constructive heuristic algorithm, and a metaheuristic for the Hamiltonian p-Median Problem (HpMP). The exact algorithm is a branch-and-cut algorithm based on an enhanced p-median based formulation, which is proved to dominate an existing p-median based formulation. The constructive heuristic is a giant tour heuristic, based on a dynamic programming formulation to optimally split a given sequence of vertices into cycles. The metaheuristic is an iterated local search algorithm using 2-exchange and 1-opt operators. Computational results show that the branch-and-cut algorithm outperforms the existing exact solution methods.
+
+@highlight We provide three algorithms for the Hamiltonian p-median problem.
+@highlight The first algorithm is an exact branch-and-cut algorithm.
+@highlight The others are a constructive heuristic and an iterated local search metaheuristic.
+@highlight The exact algorithm can solve 100-vertex instances.
+@highlight The ILS metaheuristic solves the problem to near-optimality.

@@ -1,0 +1,5 @@
+ Web index recommendation systems are designed to help internet users with suggestions for finding relevant information. One way to develop such systems is using the multi-instance learning (MIL) approach: a generalization of the traditional supervised learning where each example is a labeled bag that is composed of unlabeled instances, and the task is to predict the labels of unseen bags. This paper proposes a multi-instance learning wrapper method using the Rocchio classifier to recommend web index pages. The wrapper implements a new way to relate the instances with the class labels of the bags. The proposed method has low computational cost and the experimental study on benchmark data sets shows that it performs better than the state-of-the-art methods for this problem.
+
+@highlight We propose a new multi-instance learning algorithm for web index recommendation.
+@highlight Compared to previously proposed methods, our algorithm has low computational cost.
+@highlight Our method outperforms state-of-the-art solutions on benchmark data, achieving in particular a high precision.

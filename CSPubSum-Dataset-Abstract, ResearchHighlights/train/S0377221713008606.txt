@@ -1,0 +1,7 @@
+ This paper addresses how asymmetric information, fads and Lévy jumps in the price of an asset affect the optimal portfolio strategies and maximum expected utilities of two distinct classes of rational investors in a financial market. We obtain the investors’ optimal portfolios and maximum expected logarithmic utilities and show that the optimal portfolio of each investor is more or less than its Merton optimal. Our approximation results suggest that jumps reduce the excess asymptotic utility of the informed investor relative to that of uninformed investor, and hence jump risk could be helpful for market efficiency as an indirect reducer of information asymmetry. Our study also suggests that investors should pay more attention to the overall variance of the asset pricing process when jumps exist in fads models. Moreover, if there are very little or too much fads, then the informed investor has no utility advantage in the long run.
+
+@highlight A new jump model for fads in asset prices under asymmetric information is proposed.
+@highlight The roles of asymmetric information, fads and Lévy jumps are discussed.
+@highlight The investor’s optimal portfolios and maximum expected utilities are obtained.
+@highlight Shows that the optimal portfolios contain excess holdings over its Merton optimal.
+@highlight Suggests that jump risk could be helpful for market efficiency.

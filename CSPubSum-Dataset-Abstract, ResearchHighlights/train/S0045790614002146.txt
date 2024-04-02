@@ -1,0 +1,6 @@
+ This paper presents a novel scheme to implement blind image watermarking based on the feature parameters extracted from a composite domain including the discrete wavelet transform (DWT), singular value decomposition (SVD), and discrete cosine transform (DCT). Multiple bits can be embedded into a single image block by adjusting designated parameters via a progressive quantization index modulation technique. The quantization with respect to the feature parameters obtained in the DWT–SVD–DCT domain leads to efficient watermark extraction without referring to the original image. Experimental results show that the embedded watermarks exhibit exceptional robustness against image compression using JPEG and JPEG2000 coding standards.
+
+@highlight A blind image watermarking scheme exploiting the DWT–SVD–DCT features is presented.
+@highlight The proposed PQIM reaches a trade-off between robustness and imperceptibility.
+@highlight Multiple watermarks can be embedded into a host image.
+@highlight The watermarks exhibit exceptional robustness against JPEG and JPEG2000 compression.

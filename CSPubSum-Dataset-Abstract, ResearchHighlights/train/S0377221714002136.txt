@@ -1,0 +1,5 @@
+ In this paper we address the issue of vendor managed inventory (VMI) by considering a two-echelon single vendor/multiple buyer supply chain network. We try to find the optimal sales quantity by maximizing profit, given as a nonlinear and non-convex objective function. For such complicated combinatorial optimization problems, exact algorithms and optimization commercial software such as LINGO are inefficient, especially on practical-size problems. In this paper we develop a hybrid genetic/simulated annealing algorithm to deal with this nonlinear problem. Our results demonstrate that the proposed hybrid algorithm outperforms previous methodologies and achieves more robust solutions.
+
+@highlight Proposed a hybrid algorithm using GA–SA for the VMI model.
+@highlight Results show better performance for hybrid algorithm.
+@highlight Sensitivity analysis was done to demonstrate the performance of proposed algorithm.

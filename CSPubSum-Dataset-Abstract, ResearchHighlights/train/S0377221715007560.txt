@@ -1,0 +1,6 @@
+ In this paper we generalise existing models of loss-averse preferences. This extension clarifies the impact of stochastic changes in risk on the optimal degree of risk taking. Our more general model highlights an intuitive link between the literature on loss-averse behaviours and the notions of prudence and temperance recently introduced in the literature. We also stress the link between our approach and the use of VaR and CVaR as risk measures.
+
+@highlight Downside loss-averse preferences are integrated into the expected utility model.
+@highlight Unequivocal predictions for the impact of changes in risk on risk taking are derived.
+@highlight A link between prudence, higher-order risk attitudes and loss-aversion emerges.
+@highlight Loss-averse behaviours are consistent with VaR and CVaR as risk measures.

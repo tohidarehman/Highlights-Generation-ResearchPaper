@@ -1,0 +1,6 @@
+ We report on the temperature dependence of dielectric properties of nematic liquid crystals impregnated with BaTiO3 (BTO) ferroelectric nanoparticles. The behavior of ion transport at low frequencies is discussed by means of dielectric spectroscopy, which allows the ionic concentration and the relaxation time of electrode polarization to be deduced. The experimental results imply that the ferroelectric nanoparticles can not only increase the traveling time of ions between two electrodes but also suppress the buildup of the electric double layers. Verified by the voltage holding ratio of cells containing various contents of BTO nanoparticles, it is obvious that doping BTO into liquid crystals is a low-cost and easy way to improve the device performance.
+
+@highlight Electric and dielectric properties of BTO FNPs dispersed in E44 have been studied.
+@highlight BTO FNPs suppress the ion transport, lowering the mobile-ion concentration by 50%.
+@highlight BTO FNPs prolong the electrode-polarization relaxation time up to 16 times.
+@highlight BTO FNPs as a dopant promote the voltage holding ratio up to twice higher.

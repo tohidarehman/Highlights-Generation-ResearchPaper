@@ -1,0 +1,7 @@
+ We view an administrative activity of issuing parking tickets in a dense city street setting, like downtown Philadelphia or NYC, as a revenue collection activity. The task of designing parking permit inspection routes is modeled as a revenue collecting Chinese Postman Problem. After demonstrating that our design of inspection routes maximizes the expected revenue we investigate decision rules that allow the officers to adjust online their inspection routes in response to the observed parking permits’ times. A simple simulation study tests the sensitivity of expected revenues with respect to the problem’s parameters and underscores the main conclusion that allowing an officer to selectively wait by parked cars for the expiration of the cars’ permits increases the expected revenues between 10% and 69 percent.
+
+@highlight We view an administrative activity of issuing parking tickets in a city street setting as a revenue collection activity.
+@highlight The task of designing parking permit inspection routes is modeled as a revenue collecting Chinese Postman Problem.
+@highlight We demonstrate that our design of inspection routes maximizes the expected revenue.
+@highlight We investigate decision rules that allow the officers to adjust online their routes in response to the parking permits’ times.
+@highlight Our simulation shows that allowing an officer to selectively wait by cars until permit expires increases expected revenues between 10–69 percent.

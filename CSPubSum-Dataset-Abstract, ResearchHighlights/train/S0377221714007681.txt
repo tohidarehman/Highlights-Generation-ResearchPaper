@@ -1,0 +1,7 @@
+ This paper analyzes three major asymmetries in stock markets, namely, asymmetry in return reversals, asymmetry in return persistency and asymmetry in return volatilities. It argues for a case of return persistency as stock returns do not always reverse, in theory and in practice. Patterns in return-volatility asymmetries are conjectured and investigated jointly, under different stock market conditions. Results from modeling the world's major stock return indexes render support to the propositions of the paper. Return reversal asymmetry is illusionary arising from ambiguous parameter estimations and deluding interpretations of parameter signs. Asymmetry in return persistency, still weak though, is more prevalent.
+
+@highlight The protocol of return reversals and asymmetry in return reversals has been questioned.
+@highlight Return persistency and asymmetry in return persistency have been proposed.
+@highlight Return reversal asymmetry is confined to developed markets during stock market downtowns only.
+@highlight Return reversal asymmetry is mostly ambiguous and illusionary.
+@highlight Return persistency asymmetry, though also weak, is relatively more prevalent.

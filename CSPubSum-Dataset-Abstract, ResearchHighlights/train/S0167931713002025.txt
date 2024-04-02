@@ -1,0 +1,17 @@
+ Anomalous modulation characteristics of Josephson current I c through niobium tunnel junctions at liquid helium temperature were first measured after applying the external magnetic field in perpendicular direction. Josephson current I c was modulated by applying the external magnetic fields (Hx , Hy ) parallel and Hz vertical to the junction plane. Modulation characteristics of the I c value upon Hz had hysteresis. Before applying the vertical field, modulation characteristics I c–(Hx , Hy ) were the product of the two Fraunhofer diffraction patterns in Hx and Hy directions which were parallel to the junction edges of the square shape junction, respectively. Under the perpendicular magnetic field as much as 4000A/m, the maximum I c value did not appear at (Hx , Hy )= point. After removing this vertical field, the I c–(Hx , Hy ) modulation pattern changed from the product of the two Fraunhofer diffraction patterns to the deformed I c–(Hx , Hy ) characteristics, whose anomalous shape was explained by assuming the extremely low current density at four edges of the square shape except the four corner regions. Some magnetic flux would be trapped perpendicularly inside the junction electrodes within the junction area. After the junction was heated to the room temperature and was again cooled to the liquid He temperature, these modulation characteristics again became the normal modulation pattern, in which the trapped flux would be released by this thermal cycle.
+
+@highlight Through Nb superconducting junction with Al-oxide current flow without voltage drop.
+@highlight Josephson current I
+@highlight c dependence on Hx
+@highlight , Hy
+@highlight and Hz
+@highlight magnetic field was obtained.
+@highlight c dependence on Hx
+@highlight , Hy
+@highlight before applying Hz
+@highlight was Fraunhofer pattern.
+@highlight c dependence on Hx
+@highlight , Hy
+@highlight after applying Hz
+@highlight was not Fraunhofer pattern.
+@highlight Numerical simulation explained the measured dependence.

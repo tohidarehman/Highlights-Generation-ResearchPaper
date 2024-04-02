@@ -1,0 +1,6 @@
+ This paper proposes an unambiguous correlation function applicable to generic sine-phased binary offset carrier (BOC) signal tracking. In the proposed scheme, first, we view the BOC sub-carrier pulse as a sum of multiple rectangular pulses. Then, we obtain partial correlation functions by correlating the multiple rectangular pulses with the received signal, and subsequently, construct two symmetric correlation functions by combining the partial correlation functions in a specialized way. Finally, we generate an unambiguous correlation function by combining the two symmetric correlation functions. The proposed correlation function has a sharper main-peak, and consequently, provides a better tracking performance than those of the conventional correlation functions in terms of the tracking error standard deviation (TESD).
+
+@highlight Ambiguity in tracking is the major problem in binary offset carrier signal tracking.
+@highlight The ambiguity in tracking is caused by the BOC correlation side-peaks.
+@highlight A correlation function with no side-peaks is proposed for generic sine-phased BOC.
+@highlight The correlation function removes the ambiguity and improves the tracking performance.

@@ -1,0 +1,5 @@
+ We derive explicit formulas for the μ-bases of conic sections and planar rational cubic curves. Using the μ-bases for planar rational cubic curves, we find explicit formulas for their implicit equations and double points. We also extend the explicit formula for the μ-bases of conic sections to μ-bases for rational curves of degree n in n-dimensions.
+
+@highlight We provide explicit formulas for the μ-bases of conic sections and planar rational cubic curves.
+@highlight We derive explicit formulas for the implicit equations and double points of planar rational cubic curves from the μ-bases of planar rational cubic curves.
+@highlight We also give explicit formulas for the μ-bases of rational curves of degree n in n-dimensions.

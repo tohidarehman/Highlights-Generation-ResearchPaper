@@ -1,0 +1,7 @@
+ Monocular plenoptic cameras are slightly modified, off-the-shelf cameras that have novel capabilities as they allow for truly passive, high-resolution range sensing through a single camera lens. Commercial plenoptic cameras, however, are presently delivering range data in non-metric units, which is a barrier to novel applications e.g. in the realm of robotics. In this work we revisit the calibration of focused plenoptic cameras and bring forward a novel approach that leverages traditional methods for camera calibration in order to deskill the calibration procedure and to increase accuracy. First, we detach the estimation of parameters related to either brightness images or depth data. Second, we present novel initialization methods for the parameters of the thin lens camera model—the only information required for calibration is now the size of the pixel element and the geometry of the calibration plate. The accuracy of the calibration results corroborates our belief that monocular plenoptic imaging is a disruptive technology that is capable of conquering new markets as well as traditional imaging domains.
+
+@highlight A novel method for the calibration of focused plenoptic monocular cameras is proposed.
+@highlight In this way, the camera will deliver metric depth information instead of disparities.
+@highlight We detach the intrinsic camera parameters related to either brightness or depth data.
+@highlight We present novel initialization methods for all parameters.
+@highlight The accuracy is demonstrated on independent ground-truth validation data.

@@ -1,0 +1,6 @@
+ In biophysics, the structural prediction of protein–protein complexes starting from the unbound form of the two interacting monomers is a major difficulty. Although current computational docking protocols are able to generate near-native solutions in a reasonable time, the problem of identifying near-native conformations from a pool of solutions remains very challenging. In this study, we use molecular dynamics simulations driven by a collective reaction coordinate to optimize full hydrogen bond networks in a set of protein–protein docking solutions. The collective coordinate biases the system to maximize the formation of hydrogen bonds at the protein–protein interface as well as all over the structure. The reaction coordinate is therefore a measure for docking poses affinity and hence is used as scoring function to identify near-native conformations.
+
+@highlight Protein–protein interactions are fundamental in most cellular processes.
+@highlight Hydrogen bond networks play a key role in molecular recognition.
+@highlight MD is the tool by excellence to explore the protein potential energy landscape.
+@highlight Collective variable driven MD have been able to accelerate rare events.

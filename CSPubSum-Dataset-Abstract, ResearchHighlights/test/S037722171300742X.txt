@@ -1,0 +1,7 @@
+ This paper reproduces the performance of a geometric average Spot Energy Index by investing only in a subset of stocks from the Dow Jones Composite Average, the FTSE 100 and Bovespa Composite indexes, and in two pools that include only energy-sector stocks from the US and the UK respectively. Daily data are used and the index-tracking problem for passive investment is addressed with two evolutionary algorithms – the differential evolution algorithm and the genetic algorithm. The performance of the suggested investment strategy is tested under three different scenarios: buy-and-hold, quarterly and monthly rebalancing, accounting for transaction costs where necessary.
+
+@highlight Index-tracking problem for a spot energy index.
+@highlight Application of evolutionary algorithms by investing in stock portfolios.
+@highlight Rebalancing trading strategies outperform the buy and hold strategy.
+@highlight Increasing the rebalancing frequency only has marginal effects.
+@highlight Investment strategies are less risky, efficient, and cost-effective.

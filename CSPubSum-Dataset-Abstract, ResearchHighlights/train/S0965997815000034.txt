@@ -1,0 +1,6 @@
+ In order to accelerate fast multipole boundary element method (FMBEM), in terms of the intrinsic parallelism of boundary elements and the FMBEM tree structure, a series of CUDA based GPU parallel algorithms for different parts of FMBEM with level-skip M2L for 3D elasticity are presented. A rigid body motion method (RBMM) for the FMBEM is proposed based on special displacement boundary conditions to deal with strongly singular integration and free term coefficients. The numerical example results show that our parallel algorithms obviously accelerates the FMBEM and can be used in large scale engineering problems with wide applications in the future.
+
+@highlight GPU parallel algorithm of the fast multipole BEM with level-skip M2L is presented.
+@highlight A rigid body motion method for the fast multipole BEM is given.
+@highlight Different M2L schemes are compared and discussed in detail.
+@highlight Engineering examples demonstrate the efficiency and accuracy of the algorithm.

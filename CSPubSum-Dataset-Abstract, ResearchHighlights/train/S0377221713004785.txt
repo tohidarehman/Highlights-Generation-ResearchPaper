@@ -1,0 +1,6 @@
+ This article presents a study on the long-term (i.e., steady-state, convergence) characteristics of workers’ skill levels under learning and forgetting in processing units in a manufacturing environment, in which products are produced in batches. Assuming that all workers already have the basic knowledge to execute the jobs, workers learn (accumulate their skill) while producing units within a batch, forget during interruptions in production, and relearn when production resumes. The convergence properties in the paper are examined under assumptions of an infinite time horizon, a constant demand rate, and a fixed lot size. Our work extends the steady-state results of Teyarachakul, Chand, to the learning and forgetting functions that belong to a large class of functions possessing some differentiability conditions. We also discuss circumstances of manufacturing environments where our results would provide useful managerial information and other potential applications.
+
+@highlight We study worker skill-levels’ long-term characteristics under learning and forgetting.
+@highlight Our convergence results are applicable to general learning and forgetting functions.
+@highlight Using the dynamical system analysis approach has given our paper theoretical rigor.
+@highlight We provide numerous examples to support the practicality of our theoretical results.

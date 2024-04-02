@@ -1,0 +1,6 @@
+ This paper overviews recent development in gas detection with micro- and nano-engineered optical fibers, including hollow-core fibers, suspended-core fibers, tapered optical micro/nano fibers, and fiber-tip micro-cavities. Both direct absorption and photoacoustic spectroscopy based detection schemes are discussed. Emphasis is placed on post-processing stock optical fibers to achieve better system performance. Our recent demonstration of distributed methane detection with a ∼75-m long of hollow-core photonic bandgap fiber is also reported.
+
+@highlight Gas detection based on direct absorption with microstructured fibers is reviewed.
+@highlight Novel gas detection schemes based on fiber optic photoacoustic spectroscopy is reported.
+@highlight Techniques for improving sensor response time are discussed.
+@highlight Distributed methane detection with hollow-core photonic bandgap fiber is reported.

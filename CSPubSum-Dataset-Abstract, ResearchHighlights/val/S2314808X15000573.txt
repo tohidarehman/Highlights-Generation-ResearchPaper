@@ -1,0 +1,7 @@
+ In this paper, a new kind of sets called DÃÂ±-open sets are introduced and studied in a topological spaces. The class of all DÃÂ±-open sets is strictly between the class of all ÃÂ±-open sets and g-open sets. Also, as applications we introduce and study DÃÂ±-continuous, DÃÂ±-open, and DÃÂ±-closed functions between topological spaces. Finally, some properties of DÃÂ±-closed and strongly DÃÂ±-closed graphs are investigated.
+
+@highlight We propose a new kind of sets called DÃÂ±-closed, DÃÂ±-open, DÃÂ±-continuous and DÃÂ±-open function.
+@highlight We introduce the notion of DÃÂ±-closed graph and strongly DÃÂ±-closed graph by using DÃÂ±-closed set.
+@highlight We introduce the notion of DÃÂ±-T
+@highlight 1 and DÃÂ±-T
+@highlight 2 by using DÃÂ±-open set.

@@ -1,0 +1,7 @@
+ The problem of fitting spline surfaces to triangular mesh models is of importance in computer-aided design. Many fitting algorithms have been developed. This paper proposes several novel plug-and-play components or strategies: the use of -splines for fitting, a curvature-guided strategy, faithful re-parameterization and initial spline knot re-placement, which can be used to enhance fitting algorithms. We also present an adaptive -spline fitting algorithm integrating these components and strategies. Extensive experiments have been conducted to demonstrate these components. Our fitting algorithm can generate spline surfaces that well respect the geometrical features of input mesh models and have a more compact representation.
+
+@highlight We present an adaptive
+@highlight -spline fitting algorithm, with several new components.
+@highlight We propose a curvature-guided fitting strategy to effectively capture model features.
+@highlight We introduce a process for faithful re-parameterization.
+@highlight We present a process for re-placing the initial structure of the spline surface.

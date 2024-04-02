@@ -1,0 +1,6 @@
+ Flows with suspended particles is a challenging task and important in many applications such as sedimentation, rheology and fluidized suspensions. The coupling between the suspending liquid flow and the particles’ motion is the central point in the complete understanding of the phenomena that occur in these applications. Finite Element/Fictitious Domain is an important class of method used to solve this problem. In this work we propose a simple object oriented implementation for simulations of flows with suspended particles in the plane using the Fictitious Domain method together with Lagrange multipliers to solve the Navier–Stokes and rigid body equations with a fully implicitly and fully coupled Finite Element approach. To have an efficient implementation for Fictitious Domain/Finite Element method, we introduce a new topological data structure that is concise in terms of storage and very suitable for searching the elements of the mesh intersected by the particles.
+
+@highlight Simulation of flows with suspended particles.
+@highlight Fictitious Domain/Finite Elements method.
+@highlight Topological data structure for mixed triangular/quadrangular meshes.
+@highlight Object oriented programming.

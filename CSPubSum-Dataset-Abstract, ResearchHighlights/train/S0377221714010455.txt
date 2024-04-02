@@ -1,0 +1,6 @@
+ We propose an allocation rule that takes into account the importance of both players and their links and characterize it for a fixed network.. The allocation rule so defined admits multilateral interactions among the players through their links which distinguishes it from the other existing rules. Next, we extend our allocation rule to flexible networks à.
+
+@highlight A solution concept based on multilateral player interactions is proposed.
+@highlight This feature contrasts with existing player based and link based rules.
+@highlight An allocation rule is provided for both fixed and flexible networks.
+@highlight Two examples are provided to interpret the new solution concept.

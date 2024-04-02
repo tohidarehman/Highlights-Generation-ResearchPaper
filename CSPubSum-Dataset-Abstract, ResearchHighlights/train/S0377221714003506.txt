@@ -1,0 +1,7 @@
+ This paper considers the mobile facility routing and scheduling problem with stochastic demand (MFRSPSD). The MFRSPSD simultaneously determines the route and schedule of a fleet of mobile facilities which serve customers with uncertain demand to minimize the total cost generated during the planning horizon. The problem is formulated as a two-stage stochastic programming model, in which the first stage decision deals with the temporal and spatial movement of MFs and the second stage handles how MFs serve customer demands. An algorithm based on the multicut version of the L-shaped method is proposed in which several lower bound inequalities are developed and incorporated into the master program. The computational results show that the algorithm yields a tighter lower bound and converges faster to the optimal solution. The result of a sensitivity analysis further indicates that in dealing with stochastic demand the two-stage stochastic programming approach has a distinctive advantage over the model considering only the average demand in terms of cost reduction.
+
+@highlight We have studied the mobile facility routing and scheduling problem with stochastic demand.
+@highlight We have formulated the problem as a two-stage stochastic programming model.
+@highlight We have developed a multicut L-shaped based method to solve the problem.
+@highlight We have designed several lower bound inequalities to improve the speed of convergence.
+@highlight We have demonstrated that our approach can yield high-quality solutions with extensive experiments.

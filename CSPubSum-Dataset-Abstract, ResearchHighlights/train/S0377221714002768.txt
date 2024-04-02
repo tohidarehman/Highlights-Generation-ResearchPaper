@@ -1,0 +1,6 @@
+ In this paper we consider the convergence of a sequence of the models of discounted continuous-time constrained Markov decision processes (MDP) to the “limit” one, denoted by . For the models with denumerable states and unbounded transition rates, under reasonably mild conditions we prove that the (constrained) optimal policies and the optimal values of converge to those of , respectively, using a technique of occupation measures. As an application of the convergence result developed here, we show that an optimal policy and the optimal value for countable-state continuous-time MDP can be approximated by those of finite-state continuous-time MDP. Finally, we further illustrate such finite-state approximation by solving numerically a controlled birth-and-death system and also give the corresponding error bound of the approximation.
+
+@highlight Convergence of the optimal values for discounted constrained continuous-time Markov decision processes (CTMDP).
+@highlight Convergence of optimal policies for discounted constrained CTMDP.
+@highlight Finite-state approximation to countable-state discounted constrained CTMDP.
+@highlight Applied examples and convergence rates.

@@ -1,0 +1,6 @@
+ Ridge analysis allows the analyst to explore the optimal operating conditions of the experimental factors. A confidence region is desirable for the estimated ridge path. Most literature concentrates on the univariate response situation. Little is known for the confidence region of the ridge path for the multivariate response; only a large-sample confidence interval for the ridge path is available. The simultaneous coverage rate for the existing interval is typically too conservative in practice, especially for small sample sizes. In this paper, the ridge path (via desirability function) is estimated based on the seemingly unrelated regression (SUR) model as well as standard multivariate regression (SMR) model, and a conservative confidence interval suitable for small sample sizes is proposed. It is shown that the proposed method outperforms the existing methods. Real-life examples and simulative study are given for illustration.
+
+@highlight A new approach to construct a confidence region for a multi-response surface is proposed.
+@highlight The proposed method overcomes the overfitting problem of the existing method.
+@highlight The proposed method outperforms the existing method when sample size is small.
+@highlight We get a more appropriate ridge path and confidence coverage than the existing method.

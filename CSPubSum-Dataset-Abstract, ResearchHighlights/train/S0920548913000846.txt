@@ -1,0 +1,6 @@
+ This paper presents a comparison study between the TLS-based security for DSMIPv6 and IKEv2 when establishing Security Associations between MN and HA. The network transmission and processing costs are examined for each protocol using different authentication methods. The results show that the TLS-based solution has less computation cost and less authentication delay than IKEv2with D–H Groups 5 and 14. However, the high amount of transmitted data for certificate based authentications increases the authentication delay in low bandwidth wireless networks.
+
+@highlight We compared the TLS-based security framework and IKEv2 when used for DSMIPv6.
+@highlight Network and processing costs are examined with different authentication methods.
+@highlight TLS-based solution has less computation cost with D–H Groups 5 and 14.
+@highlight TLS-based solution presents less authentication delay.

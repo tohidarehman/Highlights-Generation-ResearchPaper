@@ -1,0 +1,6 @@
+ For the 2014 i2b2/UTHealth de-identification challenge, we introduced a new non-parametric Bayesian hidden Markov model using a Dirichlet process (HMM-DP). The model intends to reduce task-specific feature engineering and to generalize well to new data. In the challenge we developed a variational method to learn the model and an efficient approximation algorithm for prediction. To accommodate out-of-vocabulary words, we designed a number of feature functions to model such words. The results show the model is capable of understanding local context cues to make correct predictions without manual feature engineering and performs as accurately as state-of-the-art conditional random field models in a number of categories. To incorporate long-range and cross-document context cues, we developed a skip-chain conditional random field model to align the results produced by HMM-DP, which further improved the performance.
+
+@highlight We introduce a novel use of non-parametric Bayesian HMM for de-identification.
+@highlight The paper gives a thorough discussion of the motivation of designing the model.
+@highlight Our model understands local context cues without significant feature engineering.
+@highlight The model offers competitive performance comparing to the state-of-the-art CRF model.

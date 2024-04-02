@@ -1,0 +1,6 @@
+ Institutional Review Boards (IRBs) are a critical component of clinical research and can become a significant bottleneck due to the dramatic increase, in both volume and complexity of clinical research. Despite the interest in developing clinical research informatics (CRI) systems and supporting data standards to increase clinical research efficiency and interoperability, informatics research in the IRB domain has not attracted much attention in the scientific community. The lack of standardized and structured application forms across different IRBs causes inefficient and inconsistent proposal reviews and cumbersome workflows. These issues are even more prominent in multi-institutional clinical research that is rapidly becoming the norm. This paper proposes and evaluates a domain analysis model for electronic IRB (eIRB) systems, paving the way for streamlined clinical research workflow via integration with other CRI systems and improved IRB application throughput via computer-assisted decision support.
+
+@highlight We developed a domain analysis model for electronic IRB systems.
+@highlight We evaluated the model’s ability to represent real-world IRB forms.
+@highlight This model fills a gap in standardization and modeling efforts in the IRB domain.
+@highlight Development of the model paves the way for future automated IRB workflow.

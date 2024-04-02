@@ -1,0 +1,6 @@
+ In this paper we develop a Malmquist productivity index for public sector production characterized by the influence of environmental variables. to the more general case of variable returns to scale to further decompose the Malmquist productivity index into technical, efficiency, scale and environmental change. We apply our model to analyze productivity of Dutch schools using 2002–2007 data. The results indicate that the environment influences the productivity index as well as the technical, efficiency, scale and environmental change components. We see that schools with a moderate classification of environment have the highest productivity numbers. In line with expectations, schools with the worst environment also perform worse and would perform better with an improved environment.
+
+@highlight We extend the Malmquist productivity index to the public sector.
+@highlight We use a conditional DEA model to control for the socio-economic environment.
+@highlight We extend Johnson and Ruggiero (2011) to allow variable returns to scale.
+@highlight We apply the new model to analyze productivity of Dutch schools.

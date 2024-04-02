@@ -1,0 +1,7 @@
+ Cell segmentation is an important element of automatic cell analysis. This paper proposes a method to extract the cell nuclei and the cell boundaries of touching cells in low contrast images. First, the contrast of the low contrast cell images is improved by a combination of multiscale top hat filter and h-maxima. Then, a curvelet initialized level set method has been proposed to detect the cell nuclei and the boundaries. The image enhancement results have been verified using PSNR (Peak Signal to noise ratio) and the segmentation results have been verified using accuracy, sensitivity and precision metrics. The results show improved values of the performance metrics with the proposed method.
+
+@highlight A method to segment touching cells in very low contrast cell images has been proposed.
+@highlight To improve contrast multiscale top-hat transform and h-maxima has been proposed.
+@highlight Curvelet initialized modified Chan–Vese model has been proposed for segmentation.
+@highlight The enhancement results of the proposed method have been verified using PSNR.
+@highlight Accuracy, precision and sensitivity validate the proposed segmentation method.

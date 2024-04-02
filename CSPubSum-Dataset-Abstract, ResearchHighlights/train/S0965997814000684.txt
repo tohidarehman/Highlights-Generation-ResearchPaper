@@ -1,0 +1,6 @@
+ The recently introduced Finite Cell Method combines the fictitious domain idea with the benefits of high-order finite elements. Although previous publications demonstrated the method’s excellent applicability in various contexts, the implementation of a three-dimensional Finite Cell code is challenging. To lower the entry barrier, this work introduces the object-oriented MATLAB toolbox FCMLab allowing for an easy start into this research field and for rapid prototyping of new algorithmic ideas. The paper reviews the essentials of the methods applied and explains in detail the class structure of the framework. Furthermore, the usage of the toolbox is discussed by means of different two- and three-dimensional examples demonstrating all important features of FCMLab (/).
+
+@highlight Overview of the current state of the art of high-order fictitious domain methods.
+@highlight Review of the recently introduced Finite Cell Method.
+@highlight Introduces FCMLab as an entrypoint into high-order fictitious domain methods.
+@highlight Information provided allows researchers to quickly prototype new numerical ideas.

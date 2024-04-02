@@ -1,0 +1,6 @@
+ A probabilistic real time tracking algorithm is proposed where the target’s feature distribution is represented by a Gaussian mixture model (GMM). The target localization is achieved by maximizing its weighted likelihood in the image sequence. The role of the weight in the likelihood definition is important as it allows gradient based optimization to be performed, which would not be feasible in a context of standard likelihood representations. Moreover, the algorithm handles scale and rotation changes of the target, as well as appearance changes, which modifies the components of the GMM. The real time performance is experimentally confirmed, while the algorithms has comparative performance with other state-of-the-art tracking algorithms.
+
+@highlight Gradient based method for tracking.
+@highlight The object model is described by weighted Gaussian mixture models.
+@highlight The likelihood is maximized in order to track the object between frames.
+@highlight Scale adaptation, rotation and model update are handled.

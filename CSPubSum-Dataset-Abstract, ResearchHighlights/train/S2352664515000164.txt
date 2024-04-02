@@ -1,0 +1,7 @@
+ In this paper, a new method for the detection of switching time is proposed for discrete-time linear switched systems, whose switching mechanism is unknown. The switching instant estimation problem consists to predict the mode switching for discrete behavior from a finite set of input–output data. First, the proposed method use a clustering and classification approach define the number of submodels and the data repartition. Then, by the use of statistical learning approach, we define the linear boundary separator of each validity region. Finally, a technique of detection given an explicitly estimation of switching time. A numerical example was reported to evaluate the proposed method.
+
+@highlight Method for the detection of switching time.
+@highlight Clustering and classification approach.
+@highlight Statistical learning approach.
+@highlight Technique of detection given an explicitly estimation of switching time.
+@highlight To demonstrate the efficiency and feasibility of our approaches and validate the results obtained, we conducted a numerical example.

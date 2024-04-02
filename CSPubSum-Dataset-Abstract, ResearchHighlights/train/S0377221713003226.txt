@@ -1,0 +1,6 @@
+ This paper deals with a mean–variance optimal portfolio selection problem in presence of risky assets characterized by low-frequency trading and, therefore, low liquidity. To model the dynamics of illiquid assets, we introduce pure-jump processes. This leads to the development of a portfolio selection model in a mixed discrete/continuous time setting. We pursue the twofold scope of analyzing and comparing either long-term investment strategies as well as short-term trading rules. The theoretical model is analyzed by applying extensive Monte Carlo experiments, in order to provide useful insights from a financial perspective.
+
+@highlight We develop a long- and a short-term strategy for optimal portfolio and provide a comparison between them.
+@highlight We consider a market characterized by the presence of thin stocks.
+@highlight We build a mixed continuous/discrete time model.
+@highlight We provide extensive Monte Carlo experiments to derive insights under the financial perspective.

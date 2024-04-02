@@ -1,0 +1,7 @@
+ Fitting a pair of coupled geometric objects to a number of coordinate points is a challenging and important problem in many applications including coordinate metrology, petroleum engineering and image processing. This paper derives two asymptotically efficient estimators, one for concentric circles fitting and the other for concentric ellipses fitting, based on the weighted equation error formulation and non-linear parameter transformation. The Kanatani–Cramér–Rao (KCR) lower bounds for the parameter estimates of the concentric circles and concentric ellipses under zero-mean Gaussian noise are provided to serve as the performance benchmark. Small-noise analysis shows that the proposed estimators reach the KCR lower bound performance asymptotically. The accuracy of the proposed estimators is corroborated by experiments with synthetic data and realistic images.
+
+@highlight New solutions for coupled circles and coupled ellipses fittings in explicit forms.
+@highlight The non-iterative solutions have computation advantage.
+@highlight The iterative solutions are self-initialized and achieve optimum performance.
+@highlight They have higher noise tolerance levels before the thresholding effects happen.
+@highlight They can be reduced back to the fittings of a single circle and a single ellipse.

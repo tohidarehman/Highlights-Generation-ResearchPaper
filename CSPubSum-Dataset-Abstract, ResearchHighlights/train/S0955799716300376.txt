@@ -1,0 +1,5 @@
+ Radial basis function domain-type collocation method is applied for an elliptic partial differential equation with nonlocal multipoint boundary condition. A geometrically flexible meshless framework is suitable for imposing nonclassical boundary conditions which relate the values of unknown function on the boundary to its values at a discrete set of interior points. Some properties of the method are investigated by a numerical study of a test problem with the manufactured solution. Attention is mainly focused on the influence of nonlocal boundary condition. The standard collocation and least squares approaches are compared. In addition to its geometrical flexibility, the examined method seems to be less restrictive with respect to parameters of nonlocal conditions than, for example, methods based on finite differences.
+
+@highlight RBF collocation method is applied for the solution of elliptic PDE with nonlocal mulipoint boundary condition.
+@highlight The influence of nonlocal condition on the properties of the method is investigated.
+@highlight The results of numerical study are presented and discussed.

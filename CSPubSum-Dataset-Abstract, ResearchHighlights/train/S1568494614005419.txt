@@ -1,0 +1,7 @@
+ A class of compensative weighted averaging (CWA) aggregation operators, having a dedicated parameter to model compensation, is presented. The variants of CWA operator with ordered weighted averaging (OWA) operator are developed. The proposed operators are compared, both theoretically and empirically, with other operators in terms of their compensation abilities. Two approaches are proposed to learn the compensation parameter and the weight vector from the given data. The proposed learning approaches are applied in four case-studies, involving real experimental data. The usefulness of CWA operators in strategic multi-criteria decision making and supplier selection is also highlighted.
+
+@highlight Introduction of parameter based compensative aggregation operators.
+@highlight New approaches for learning the compensation parameter.
+@highlight Empirical evaluation of the proposed operators in four case-studies.
+@highlight Applications in the real world decision making.
+@highlight Comparison with existing operators is drawn.

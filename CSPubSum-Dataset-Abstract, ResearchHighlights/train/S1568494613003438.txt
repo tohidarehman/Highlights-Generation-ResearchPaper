@@ -1,0 +1,7 @@
+ One approach to protein structure prediction is to first predict from sequence, a thresholded and binary 2D representation of a protein's topology known as a contact map. The predicted contact map can be used as distance constraints to construct a 3D structure. We focus on the latter half of the process for helix pairs and present an approach that aims to obtain a set of non-binary distance constraints from contacts maps. We extend the definition of “in contact” by incorporating fuzzy logic to construct fuzzy contact maps. Then, template-based retrieval and distance geometry bound smoothing were applied to obtain distance constraints in the form of a distance map. From the distance map, we can calculate the helix pair structure. Our experimental results indicate that distance constraints close to the true distance map could be predicted at various noise levels and the resulting structure was highly correlated to the predicted distance map.
+
+@highlight We incorporate fuzzy logic to create fuzzy contact maps for helix pairs.
+@highlight Similar distance map regions to a query are retrieved based on fuzzy contact map similarity.
+@highlight Retrieved distance map regions are used to predict a distance map using bound smoothing.
+@highlight The EMBED algorithm is used on the predicted distance map to obtain 3D structure.
+@highlight We obtain good structures at various levels of noise.

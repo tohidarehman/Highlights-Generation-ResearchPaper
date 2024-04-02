@@ -1,0 +1,5 @@
+ This paper presents the LQM metadata schema, an extension of the IEEE LOM standard. LQM is capable of registering information related to the quality of virtual education resources. As a complement, we have developed a cataloging and evaluation tool capable of registering LQM metadata and performing the subsequent quality estimation according to UNE 66181:2012. The proposal identifies and describes the dimensions and properties of the LQM element data. The research results show that it is feasible to provide an automatic estimation of quality of digital educational resources using LQM.
+
+@highlight LQM is a metadata schema based on IEEE LOM which has been expanded with information on quality of educational resources.
+@highlight The quality of virtual education courses cataloged with LQM can be automatically evaluated with the tool LOMPAD-Q.
+@highlight Using metadata for representing the quality of learning objects is a key point for fostering quality in e-learning.

@@ -1,0 +1,7 @@
+ The C Programming Language is known for being an efficient language that can be compiled on almost any architecture and operating system. However the absence of dynamic safety checks and a relatively weak type system allows programmer oversights that are hard to spot. In this paper, we present RTC, a runtime monitoring tool that instruments unsafe code and monitors the program execution. RTC is built on top of the ROSE compiler infrastructure. RTC finds memory bugs and arithmetic overflows and underflows, and run-time type violations. Most of the instrumentations are directly added to the source file and only require a minimal runtime system. As a result, the instrumented code remains portable. In tests against known error detection benchmarks, RTC found 98% of all memory related bugs and had zero false positives. In performance tests conducted with well known algorithms, such as binary search and MD5, we determined that our tool has an average run-time overhead rate of 9.7× and memory overhead rate of 3.5×.
+
+@highlight RTC is a tool for instrumenting C programs with run-time safety checks.
+@highlight It handles memory violations, arithmetic underflow/overflows, and type violations.
+@highlight The instrumented code can be compiled by any C99 compliant compiler.
+@highlight The runtime framework is extremely lightweight, useful for in situ analysis.
+@highlight The overhead is very low compared to other, similar tools available today.

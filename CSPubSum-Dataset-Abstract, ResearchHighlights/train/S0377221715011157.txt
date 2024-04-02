@@ -1,0 +1,6 @@
+ Bus transit network planning is a complex process that is divided into several phases such as: line planning, timetable generation, vehicle scheduling, and crew scheduling. In this work, we address the timetable generation which consists in scheduling the departure times for all trips of each bus line. We focus on the Synchronization Bus Timetabling Problem (SBTP) that favors passenger transfers and avoids congestion of buses at common stops. A Mixed Integer Program (MIP) was proposed in the literature for the SBTP but it fails to solve real bus network instances. We develop in this paper four classes of valid inequalities for this MIP using combinatorial properties of the SBTP on the number of synchronizations. Experimental results show that large instances are solved within few minutes with a relative deviation from the optimal solution that is usually less than 3 percent.
+
+@highlight The SBTP favors passenger transfers and avoids congestion of buses at common stops.
+@highlight Four classes of valid inequalities for its MIP using combinatorial properties.
+@highlight The enhanced MIP yields high quality solutions using short computational times.
+@highlight Realistic instances are solved within few minutes with a 3 percent deviation from the optimum.

@@ -1,0 +1,6 @@
+ Mechanisms that cause foot discomfort during prolonged standing are poorly understood. There is currently no method for evaluating discomfort associated with low levels of static pressure that are typical during standing. Pain thresholds were measured for 20 healthy participants by applying five levels of static pressure at different plantar foot locations. A survival analysis was performed to determine the effects of pressure magnitude and foot location on the time until pain onset. Time to pain onset was significantly affected by pressure magnitude (P < 0.001); time decreased as pressure increased. Foot location was also significant (P < 0.001); greatest times to pain onset (least sensitive) were observed under the heel and fifth metatarsal head, shortest times (most sensitive) were found under the midfoot. This research presents a novel methodology for evaluating static pressure that may be applicable to product design.
+
+@highlight We introduced “time to pain onset,” a measurement of sensitivity to static pressure.
+@highlight Time to pain onset was sensitive to magnitude and location of static pressure.
+@highlight Pain onset occurs earlier for higher levels of pressure and earlier at the midfoot.
+@highlight During standing, pain most often originated at the foot region of greatest pressure.

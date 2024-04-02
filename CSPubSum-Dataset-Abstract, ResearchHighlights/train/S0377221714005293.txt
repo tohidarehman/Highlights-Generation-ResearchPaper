@@ -1,0 +1,6 @@
+ Let P be an undirected path graph of n vertices. Each edge of P has a positive length and a constant capacity. Every vertex has a nonnegative supply, which is an unknown value but is known to be in a given interval. The goal is to find a point on P to build a facility and move all vertex supplies to the facility such that the maximum regret is minimized. The previous best algorithm solves the problem in log time and log space. In this paper, we present an log time and space algorithm, and our approach is based on new observations and algorithmic techniques.
+
+@highlight We propose an algorithm to compute the minmax regret.
+@highlight We solve the minmax 1-facility location problem on uncertain path network.
+@highlight Our algorithm improves the previous work.
+@highlight We discover new observations on the problem.

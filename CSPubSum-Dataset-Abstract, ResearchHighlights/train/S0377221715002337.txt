@@ -1,0 +1,7 @@
+ This paper examines variance swap pricing using a model that integrates three major features of financial assets, namely the mean reversion in asset price, multi-factor stochastic volatility (SV) and simultaneous jumps in prices and volatility factors. Closed-form solutions are derived for vanilla variance swaps and gamma swaps while the solutions for corridor variance swaps and conditional variance swaps are expressed in a one-dimensional Fourier integral. The numerical tests confirm that the derived solution is accurate and efficient. Furthermore, empirical studies have shown that multi-factor SV models better capture the implied volatility surface from option data. The empirical results of this paper also show that the additional volatility factor contributes significantly to the price of variance swaps. Hence, the results favor multi-factor SV models for pricing variance swaps consistent with the implied volatility surface.
+
+@highlight Consider the asset dynamics with mean reversion, multi-factor volatility and jumps.
+@highlight We derive the multivariate characteristic function of log-asset values at different discrete time points.
+@highlight We derive closed-form solutions to various types of discrete variance swaps.
+@highlight Numerical examples confirm the accuracy and efficiency of the solution.
+@highlight Empirical study shows that the second volatility factor is significant to variance swaps.

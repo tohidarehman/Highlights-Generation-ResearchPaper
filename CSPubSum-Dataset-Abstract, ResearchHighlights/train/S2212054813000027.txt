@@ -1,0 +1,6 @@
+ Archaeology and biological anthropology share research interests and numerous methods for field work. Both profit from collaborative work and diffusion of know-how. The last two decades have seen a technical revolution in biological anthropology: Virtual Anthropology (VA). It exploits digital technologies and brings together experts from different domains. Using volume and surface data from scanning processes, VA allows applying advanced shape and form analysis, higher reproducibility, offers permanent availability of virtual objects, and easy data exchange. The six main areas of VA including digitisation, exposing hidden structures, comparing shapes and forms, reconstructing specimens, materialising electronic specimens, and sharing data are introduced in this paper. Many overlaps with archaeological problems are highlighted and potential application areas are emphasised. The article provides a 3D human cranium model and a movie flying around and through the virtual copy of a most famous archaeological object: the Venus from Willendorf, Austria.
+
+@highlight Introduces the six operational areas of Virtual Anthropology.
+@highlight Emphasises the applicability of these methods in archaeology.
+@highlight Provides a 3D model to demonstrate a landmark-based measurement approach.
+@highlight Provides a movie of a virtual Venus from Willendorf, Austria.

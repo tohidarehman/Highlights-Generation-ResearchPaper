@@ -1,0 +1,7 @@
+ Virtual fixtures can be used in haptic-enabled hydraulic telemanipulators to facilitate certain tasks. Using this concept, however, the operator may tend to move the master fast due to relying on the virtual fixture. As a result, the slave manipulator could start to lag due to latency in the hydraulic actuation control system. This paper describes how to mitigate the position errors between master and slave robots by overlaying an augmentation force on the master that is collinear but opposite of the master instantaneous velocity. The magnitude of this force is proportional to the position error at the slave end-effector. Experiments, conducted on a teleoperated hydraulic manipulator to perform several live-line maintenance tasks, show that the augmented scheme exhibits less position error at the slave side, better task quality, but longer task completion time as compared to the virtual fixture alone.
+
+@highlight We introduce the concept of augmented virtual fixtures to reduce tracking error.
+@highlight We experimentally validate effectiveness of the proposed scheme.
+@highlight The application, targeted in this paper, is live transmission line maintenance.
+@highlight The proposed scheme shows a marked improvement over the virtual fixture mode alone.
+@highlight Specifically, for presented experiments, our scheme reduces position error by 71%.

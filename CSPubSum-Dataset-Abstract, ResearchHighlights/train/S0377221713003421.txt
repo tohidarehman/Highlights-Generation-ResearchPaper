@@ -1,0 +1,7 @@
+ This study investigates multiperiod service level (MSL) policies in supply chains facing a stochastic customer demand. The objective of the supply chains is to construct integrated replenishment plans that satisfy strict stockout-oriented performance measures which apply across a multiperiod planning horizon. We formulate the stochastic service level constraints for the fill rate, ready rate, and conditional expected stockout MSL policies. The modeling approach is based on the concept of service level trajectory and provides reformulations of the stochastic planning problems associated with each MSL policy that can be efficiently solved with off-the-shelf optimization solvers. The approach enables the handling of correlated and non-stationary random variables, and is flexible enough to accommodate the implementation of fair service level policies, the assignment of differentiated priority levels per products, or the introduction of response time requirements. We use an earthquake disaster management case study to show the applicability of the approach and derive practical implications about service level policies.
+
+@highlight Multiperiod service level (MSL) policies for supply chains.
+@highlight Construction of replenishment plans that satisfy strict stockout-oriented performance measures.
+@highlight Stochastic models for fill rate, ready rate and conditional expected stockout MSL.
+@highlight Fair service policies, differentiated priority levels and response time requirements.
+@highlight Application to disaster management problem.

@@ -1,0 +1,7 @@
+ Our main interest in supervised classification of gene expression data is to infer whether the expressions can discriminate biological characteristics of samples. With thousands of gene expressions to consider, a gene selection has been advocated to decrease classification by including only the discriminating genes. We propose to make the gene selection based on partial least squares and logistic regression random-effects (RE) estimates before the selected genes are evaluated in classification models. We compare the selection with that based on the two-sample t-statistics, a current practice, and modified t-statistics. The results indicate that gene selection based on logistic regression RE estimates is recommended in a general situation, while the selection based on the PLS estimates is recommended when the number of samples is low. Gene selection based on the modified t-statistics performs well when the genes exhibit moderate-to-high variability with moderate group separation. Respecting the characteristics of the data is a key aspect to consider in gene selection.
+
+@highlight Gene selection is needed in supervised classification of gene expression.
+@highlight Respecting the characteristics of data is a key aspect to consider in gene selection.
+@highlight Selection based on logistic regression estimates is recommended in general.
+@highlight Selection based on PLS estimates is recommended when the number of samples is low.
+@highlight Selection based on modified t-statistics performs well on data with high variability.

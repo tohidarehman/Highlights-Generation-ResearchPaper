@@ -1,0 +1,7 @@
+ Stealthy attackers move patiently through computer networks – taking days, weeks or months to accomplish their objectives in order to avoid detection. As networks scale up in size and speed, monitoring for such attack attempts is increasingly a challenge. This paper presents an efficient monitoring technique for stealthy attacks. It investigates the feasibility of proposed method under number of different test cases and examines how design of the network affects the detection. A methodological way for tracing anonymous stealthy activities to their approximate sources is also presented. The Bayesian fusion along with traffic sampling is employed as a data reduction method. The proposed method has the ability to monitor stealthy activities using 10–20% size sampling rates without degrading the quality of detection.
+
+@highlight A scalable monitoring scheme for stealthy attacks on computer networks is presented.
+@highlight Bayesian fusion along with traffic sampling is used as a data reduction method.
+@highlight Stealthy activities can be detected using 10–20% size sampling rates.
+@highlight A tracing algorithm for anonymous stealthy activities to their sources is presented.
+@highlight The effect of network parameters on detection is investigated.

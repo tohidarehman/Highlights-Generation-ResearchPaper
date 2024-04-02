@@ -1,0 +1,7 @@
+ Distance functions in production theory are mathematical structures that characterize the belonging to the reference technology through a numerical value, behave as technical efficiency measures when the focus is analyzing an observed input–output vector within its production possibility set and present a dual relationship with some support function (profit, revenue, cost function). In this paper, we endow the well-known weighted additive models in Data Envelopment Analysis with a distance function structure, introducing the Weighted Additive Distance Function and showing its main properties.
+
+@highlight The literature on the use of the weighted additive model is reviewed.
+@highlight The necessity of endowing this model with a distance function structure is remarked.
+@highlight A new weighted additive distance function is introduced.
+@highlight The main properties of this distance and the way of implementing it are shown.
+@highlight The existence of a dual relationship regarding the profit function is proved.

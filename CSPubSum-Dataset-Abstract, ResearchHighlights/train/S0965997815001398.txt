@@ -1,0 +1,6 @@
+ This paper presents a novel method for mesh color sharpening using the discrete Laplace–Beltrami operator, which is an approximation of the second order derivatives on irregular 3D meshes. The one-ring neighborhood is utilized to compute the Laplace–Beltrami operator. The color of each vertex of the 3D mesh is updated by adding the Laplace–Beltrami operator of the vertex color weighted by a factor to its original value. Laplacian is commonly used in image processing to sharpen 2D images and different discretizations of the Laplace–Beltrami operator have been proposed for geometrical processing of 3D meshes. This paper utilizes several discretizations of the Laplace–Beltrami operator for sharpening 3D mesh colors and applied them to various 3D objects. This method successfully improves the visual appearance of the meshes while keeping the surface geometry intact. Experimental results of the proposed mesh color sharpening method using different discretizations of the Laplace–Beltrami operator demonstrated its effectiveness on improving the visual appearances of 3D meshes.
+
+@highlight A new method for mesh color sharpening.
+@highlight Utilize the Laplace–Beltrami operator for mesh color processing.
+@highlight Implement five different discretizations of the Laplace–Beltrami operator.
+@highlight Sharpen mesh vertex color while keeping vertex positions intact.

@@ -1,0 +1,5 @@
+ In this paper, we investigate the impact of emotions on author profiling, concretely identifying age and gender. Firstly, we propose the EmoGraph method for modelling the way people use the language to express themselves on the basis of an emotion-labelled graph. We apply this representation model for identifying gender and age in the Spanish partition of the PAN-AP-13 corpus, obtaining comparable results to the best performing systems of the PAN Lab of CLEF.
+
+@highlight We take into account emotions for author profiling.
+@highlight We model the six basic emotions with a novel graph-based approach (EmoGraph).
+@highlight We achieve comparable results to the best performing systems of the PAN Lab of CLEF 2013.

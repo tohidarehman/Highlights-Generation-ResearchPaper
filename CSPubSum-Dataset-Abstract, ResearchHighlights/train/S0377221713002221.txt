@@ -1,0 +1,6 @@
+ In this paper, we consider a latent Markov process governing the intensity rate of a Poisson process model for software failures. The latent process enables us to infer performance of the debugging operations over time and allows us to deal with the imperfect debugging scenario. We develop the Bayesian inference for the model and also introduce a method to infer the unknown dimension of the Markov process. We illustrate the implementation of our model and the Bayesian approach by using actual software failure data.
+
+@highlight A new model for software reliability is proposed.
+@highlight Proposed model enables us to infer performance of the debugging process.
+@highlight Bayesian inference is developed.
+@highlight An approach is introduced to assess dimension of the Markov process.

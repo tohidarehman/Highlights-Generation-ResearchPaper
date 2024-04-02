@@ -1,0 +1,6 @@
+ Despite linear programming and duality have correctly been incorporated in algorithms to compute the nucleolus, we have found mistakes in how these have been used in a broad range of applications. Overlooking the fact that a linear program can have multiple optimal solutions and neglecting the relevance of duality appear to be crucial sources of mistakes in computing the nucleolus. We discuss these issues and illustrate them in five mistaken examples from this and other journals. The purpose of this note is to prevent these mistakes propagate longer by clarifying how linear programming and duality can be correctly used for computing the nucleolus.
+
+@highlight Common mistakes in computing the nucleolus are found in the literature.
+@highlight The mistakes have propagated in a wide range of applications over the years.
+@highlight We clarify how to use linear programming and duality for computing the nucleolus.
+@highlight Mistaken examples from this and other journals are corrected.

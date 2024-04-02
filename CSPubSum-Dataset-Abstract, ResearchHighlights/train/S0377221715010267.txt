@@ -1,0 +1,5 @@
+ In this paper we present a financial economy in the case when the financial volumes depend on time and on the expected solution, in order to take into account the influence of the expected equilibrium distribution for assets and liabilities on the investments on all financial instruments. We derive the quasi-variational formulation which characterizes the equilibrium of the dynamical financial model. The main result of the paper is a general existence theorem for quasi-variational inequalities under general assumptions, which is also applied to the financial model. We also recall some concepts on the infinite dimensional duality and study some numerical examples.
+
+@highlight We prove a general existence theorem for quasi variational inequalities.
+@highlight We apply this result to a financial model in the case when the financial volumes depend on time and on the expected solutions.
+@highlight We present numerical examples which allow us to demostrate the existence of an equilibrium point.

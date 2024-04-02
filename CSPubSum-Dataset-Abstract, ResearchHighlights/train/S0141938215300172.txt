@@ -1,0 +1,7 @@
+ Data hiding, also known as information hiding, plays an important role in information security for various purposes. Reversible data hiding is a technique that allows distortion-free recovery of both the cover image and the secret information. In this paper, we propose a new, reversible data hiding scheme that is based on the Sudoku technique and can achieve higher embedding capacity. The proposed scheme allows embedding more secret bits into a pair of pixels while guaranteeing the good quality of the stego-image. The experimental results showed that the proposed scheme obtained higher embedding capacity than some other previous schemes. In addition, our proposed scheme maintained the good visual quality of the stego-image (i.e., PSNR>46dB), which outperforms some existing schemes.
+
+@highlight Sudoku technique is used for data embedding.
+@highlight A reversible data hiding scheme that is based on the Sudoku technique and can achieve the higher embedding capacity.
+@highlight The reference matrix is built and applied to obtain better embedding capacity.
+@highlight The experimental results showed that the proposed scheme obtained higher embedding capacity than some other previous schemes.
+@highlight The proposed scheme also achieved more consistent results for the different test images.

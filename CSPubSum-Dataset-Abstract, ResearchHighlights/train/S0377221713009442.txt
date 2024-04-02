@@ -1,0 +1,7 @@
+. It has been further extended in many directions, for the “Option Based Portfolio Insurance” (OBPI) for the “Constant Proportion Portfolio Insurance” method (CPPI). The recent financial crisis has dramatically emphasized the interest of such portfolio strategies. This paper examines the CPPI method when the multiple is allowed to vary over time. To control the risk of such portfolio management, a quantile approach is introduced together with expected shortfall criteria. In this framework, we provide explicit upper bounds on the multiple as function of past asset returns and volatilities. These values can be statistically estimated from financial data, using for example ARCH type models. We show how the multiple can be chosen in order to satisfy the guarantee condition, at a given level of probability and for various financial market conditions.
+
+@highlight We extend one of the two main portfolio insurance methods, namely the CPPI method.
+@highlight We allow the multiple to vary over time while controlling the risk of such portfolio management.
+@highlight A quantile approach is introduced together with expected shortfall criteria.
+@highlight We provide explicit upper bounds on the multiple as function of past asset returns and volatilities.
+@highlight We show how this new asset allocation method performs for various financial market conditions.

@@ -1,0 +1,7 @@
+ A new binary four-point subdivision scheme is presented, which keeps the second-order divided difference at the old vertices unchanged when the new vertices are inserted. Using the symbol of the subdivision scheme, we show that the limit curve is at least continuous. Furthermore, the conditions imposed on the initial points are also discussed, thus the given limit functions are both monotonicity preserving and convexity preserving
+
+@highlight We present a new relaxation of binary four-point subdivision scheme.
+@highlight The scheme keeps the second-order divided difference at the old vertices unchanged when inserting new vertices.
+@highlight Our limit functions are both monotonicity preserving and convexity preserving.
+@highlight Our limit curve is at least
+@highlight continuous when using the symbol of the scheme.

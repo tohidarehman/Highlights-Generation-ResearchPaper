@@ -1,0 +1,6 @@
+ This paper provides an updated overview of the rapidly developing research field of multi-attribute online reverse auctions. Our focus is on academic research, although we briefly comment on the state-of-the-art in practice. The role that Operational Research plays in such auctions is highlighted. We review decision- and game-theoretic research, experimental studies, information disclosure policies, and research on integrating and comparing negotiations and auctions. We conclude by discussing implementation issues regarding online procurement auctions in practice.
+
+@highlight Methodological research.
+@highlight Experimental economic performance comparisons between different auction formats.
+@highlight Testing different policies on information disclosure.
+@highlight Integrating negotiations and auctions.

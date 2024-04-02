@@ -1,0 +1,7 @@
+ The Police Districting Problem (PDP) concerns the efficient and effective design of patrol sectors in terms of performance attributes such as workload, response time, etc. A balanced definition of the patrol sector is desirable as it results in crime reduction and in better service. In this paper, a multi-criteria Police Districting Problem defined in collaboration with the Spanish National Police Corps is presented. This is the first model for the PDP that considers the attributes of area, risk, compactness, and mutual support. The decision-maker can specify his/her preferences on the attributes, on workload balance, and efficiency. The model is solved by means of a heuristic algorithm that is empirically tested on a case study of the Central District of Madrid. The solutions identified by the model are compared to patrol sector configurations currently in use and their quality is evaluated by public safety service coordinators. The model and the algorithm produce designs that significantly improve on the current ones.
+
+@highlight A Police Districting Problem for the design of patrol sectors is presented.
+@highlight The model has been defined in collaboration with the Spanish National Police Corps.
+@highlight It considers multiple performance attributes: workload, efficiency, and support.
+@highlight The solutions are compared to patrol sector configurations currently in use.
+@highlight According to practitioners, model configurations are better than the current ones.

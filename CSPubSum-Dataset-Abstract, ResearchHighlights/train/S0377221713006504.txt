@@ -1,0 +1,7 @@
+ Given an undirected graph G =(V, E), a k-club is a subset of nodes that induces a subgraph with diameter at most k. The k-club problem is to find a maximum cardinality k-club. In this study, we use a linear programming relaxation standpoint to compare integer formulations for the k-club problem. The comparisons involve formulations known from the literature and new formulations, built in different variable spaces. For the case k =3, we propose two enhanced compact formulations. From the LP relaxation standpoint these formulations dominate all other compact formulations in the literature and are equivalent to a formulation with a non-polynomial number of constraints. Also for k =3, we compare the relative strength of LP relaxations for all formulations examined in the study (new and known from the literature). Based on insights obtained from the comparative study, we devise a strengthened version of a recursive compact formulation in the literature for the k-club problem (k >1) and show how to modify one of the new formulations for the case k =3 in order to accommodate additional constraints recently proposed in the literature.
+
+@highlight Comparison of formulations for the 3-club problem, from the LP relaxation standpoint.
+@highlight New enhanced formulation for the 3-club problem.
+@highlight New enhanced formulation for the k-club problem (k
+@highlight >1).
+@highlight New formulation for a variant of the 3-club problem with additional robustness constraints.

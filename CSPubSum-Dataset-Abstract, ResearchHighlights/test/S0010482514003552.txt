@@ -1,0 +1,6 @@
+ In this paper a parametric model of the left ventricle is presented. Its task is to estimate the myocardium shape on those slices, on which the segmentation algorithm has outlined the structure incorrectly. The aim of using the model on improperly segmented slices is to improve the accuracy of computing cardiac hemodynamic parameters and the heart mass. The proposed model works with any segmentation algorithm. The usefulness of the model is the largest while determining the myocardium at end-systole and calculating the heart mass. In case of the segmentation algorithm applied in this study, the error decreased from clinically unacceptable to acceptable after using the presented model.
+
+@highlight A parametric model of the left ventricle is presented.
+@highlight Bézier curves are used to model the left ventricle shape.
+@highlight The model improves the results obtained by other segmentation algorithms.
+@highlight The presented algorithm is fully automatic.

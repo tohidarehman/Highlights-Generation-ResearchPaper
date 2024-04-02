@@ -1,0 +1,5 @@
+ The Team Orienteering Problem (TOP) is a particular vehicle routing problem in which the aim is to maximize the profit gained from visiting customers without exceeding a travel cost/time limit. This paper proposes a new and fast evaluation process for TOP based on an interval graph model and a Particle Swarm Optimization inspired Algorithm (PSOiA) to solve the problem. Experiments conducted on the standard benchmark of TOP clearly show that our algorithm outperforms the existing solving methods. PSOiA reached a relative error of 0.0005% whereas the best known relative error in the literature is 0.0394%. Our algorithm detects all but one of the best known solutions. Moreover, a strict improvement was found for one instance of the benchmark and a new set of larger instances was introduced.
+
+@highlight A new fast optimal split for the team orienteering problem.
+@highlight An effective particle swarm algorithm (PSOiA).
+@highlight PSOiA is robust and outperforms the state-of-the-art algorithms in the literature.

@@ -1,0 +1,5 @@
+ This article is a critical review of methods integrating environmental aspects into productive efficiency. We describe the classic modelling approach relying on the weak disposability assumption, and explain the major recent developments around the inclusion of undesirable outputs in production technology modelling, namely the materials balance principles and the weak G-disposability, the by-production modelling and the cost disposability assumption, and the unified model under natural and managerial disposability concepts. We discuss the limits inherent in each methodology and suggest future research perspectives.
+
+@highlight We conduct an extended survey of DEA-based approaches that include bad outputs.
+@highlight The widely-used weak disposability assumption presents important shortcomings.
+@highlight Approaches considering multiple frontier technologies are more promising.

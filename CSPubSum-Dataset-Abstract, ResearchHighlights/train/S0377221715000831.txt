@@ -1,0 +1,7 @@
+ This paper investigates the powerplay in one-day cricket. The rules concerning the powerplay have been tinkered with over the years, and therefore the primary motivation of the paper is the assessment of the impact of the powerplay with respect to scoring. The form of the analysis takes a “what if” approach where powerplay outcomes are substituted with what might have happened had there been no powerplay. This leads to a paired comparisons setting consisting of actual matches and hypothetical parallel matches where outcomes are imputed during the powerplay period. Some of our findings include (a) the various forms of the powerplay which have been adopted over the years have different effects, (b) recent versions of the powerplay provide an advantage to the batting side, (c) more wickets also occur during the powerplay than had there been no powerplay and (d) there is some effect in run production due to the over where the powerplay is initiated. We also investigate individual batsmen and bowlers and their performances during the powerplay.
+
+@highlight We investigate the effect of the powerplay in one-day cricket.
+@highlight We compare actual matches to parallel imputed matches (without powerplays).
+@highlight We observe that the powerplay contributes 6.5 additional runs on average.
+@highlight We observe that the powerplay also contributes additional wickets.
+@highlight We study individual batsmen and bowlers and their performance during powerplays.

@@ -1,0 +1,7 @@
+ A small yet diverse xanthone library was build and computationally docked against wild type Pf-DHFR by Molegro Virtual Docker (MolDock). For analysis of results an integrated approach based on re-ranking, scaling (based on heavy atom counts), pose clustering and visual inspection was implemented. Standard methods such as self-docking (for docking), EF analysis, average rank determinations (for size normalization), and cluster quality indices (for pose clustering) were used for validation of results. Three compounds X5, X113A and X164B displayed contact footprints similar to the known inhibitors with good scores. Finally, 16 compounds were extracted from ZINC data base by similarity based screening, docking score and drug/lead likeness. Out of these 16 compounds, 11 displayed very close contact footprints to experimentally known inhibitors, indicating there potential utility in further drug discovery efforts.
+
+@highlight 300 xanthones were docked against Pf-DHFR-TS.
+@highlight Size effect on potency was considered.
+@highlight Contact footprints were generated.
+@highlight X5, X113A and X164B were hits with contact footprints similar to known actives.
+@highlight Final selection of 11 compounds from ZINC database.

@@ -1,0 +1,9 @@
+ In this paper we propose a strategy for generating consistent hierarchical -meshes which allow local refinement and offer a way to obtain spline basis functions with highest order smoothness incrementally. We describe the required ordering of line-segments during refinement and the construction of spline basis functions. We give our strategy for generating consistent hierarchical -meshes over any shape of a two-dimensional domain.
+
+@highlight An iterative refinement strategy for generating hierarchical
+@highlight -meshes is proposed.
+@highlight The required ordering of line-segments which form a
+@highlight -mesh is specified.
+@highlight The construction of spline basis functions is obtained.
+@highlight The proposed algorithm includes standard hierarchical
+@highlight -splines.

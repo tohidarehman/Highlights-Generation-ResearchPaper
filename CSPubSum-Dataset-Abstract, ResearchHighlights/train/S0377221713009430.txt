@@ -1,0 +1,5 @@
+ In this article, we review published studies that consider the solution of the one-dimensional cutting stock problem (1DCSP) with the possibility of using leftovers to meet future demands, if long enough. The one-dimensional cutting stock problem with usable leftovers (1DCSPUL) is a problem frequently encountered in practical settings but often, it is not dealt with in an explicit manner. For each work reviewed, we present the application, the mathematical model if one is proposed and comments on the computational results obtained. The approaches are organized into three classes: heuristics, item-oriented, or cutting pattern-oriented.
+
+@highlight The literature of cutting stock problem with usable leftovers is reviewed.
+@highlight Paper organization: heuristic methods, cutting pattern and item oriented models.
+@highlight We point out some further research related to the problem.

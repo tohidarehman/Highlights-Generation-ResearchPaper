@@ -1,0 +1,7 @@
+ Condition assessment is one of the most important techniques to realize the equipment's health management and condition based maintenance (CBM). This paper introduces a preprocessing model of the bearing using wavelet packet–empirical mode decomposition (WP-EMD) for feature extraction. Then it uses self-organization mapping (SOM) for the condition assessment of the performance degradation. To verify the superiority of the proposed method, it is compared with some traditional features, such as RMS, kurtosis, crest factor and entropy. Meanwhile, seventeen datasets from the bearing run-to-failure test are used to validate the proposed method. The analysis results from the bearing's signals with multiple faults show that the proposed assessment model can effectively indicate the degradation state and help us to estimate remaining useful life (RUL) of the bearings.
+
+@highlight A new assessment method based on the WP-EMD and SOM network is proposed.
+@highlight Wavelet packet entropy sequence is introduced to demonstrate the whole stage of degradation development.
+@highlight The method is useful for extracting the feature and reflecting the early degradation.
+@highlight SOM network served as a data fusion method to identify the work condition of bearing.
+@highlight The superiority of the proposed method is verified by experiment data.

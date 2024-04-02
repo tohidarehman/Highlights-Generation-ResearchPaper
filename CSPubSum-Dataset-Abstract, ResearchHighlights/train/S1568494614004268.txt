@@ -1,0 +1,5 @@
+ This study develops the hybrid models of dynamic multidimensional efficiency classification. By integrating data envelopment analysis (DEA), naïve Bayesian networks (NBN) and dynamic Bayesian networks (DBN), this work proposes a five-step design for efficiency classification:  performance evaluation with DEA model,  efficiency discretization,  intra-period classification by NBN,  inter-period classification by DBN,  testing and validation. Due to the Markovian property of the dynamic models, the inter-period dependency is assumed invariant over time. In data-driven parameter learning, the fuzzy parameters for incorporating the variation in dynamic dependencies are introduced. We conduct an empirical case study of higher education in Taiwan to demonstrate the usability of this design.
+
+@highlight Efficiency evaluation from multiple perspectives.
+@highlight Intra-period as well as inter-period classification.
+@highlight Fuzzy parameters for unifying multi-period dependency relationships.

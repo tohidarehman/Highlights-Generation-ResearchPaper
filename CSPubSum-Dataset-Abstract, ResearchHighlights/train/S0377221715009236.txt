@@ -1,0 +1,7 @@
+ In this paper we study the profitable windy rural postman problem. This is an arc routing problem with profits defined on a windy graph in which there is a profit associated with some of the edges of the graph, consisting of finding a route maximizing the difference between the total profit collected and the total cost. This problem generalizes the rural postman problem and other well-known arc routing problems and has real-life applications, mainly in snow removal operations. We propose here a formulation for the problem and study its associated polyhedron. Several families of facet-inducing inequalities are described and used in the design of a branch-and-cut procedure. The algorithm has been tested on a large set of benchmark instances and compared with other existing algorithms. The results obtained show that the branch-and-cut algorithm is able to solve large-sized instances optimally in reasonable computing times.
+
+@highlight We study a hard arc routing problem with profits.
+@highlight We provide an integer programming formulation for the problem.
+@highlight The associated polyhedron is partially described.
+@highlight We implement a branch-and-cut algorithm based on the partial description.
+@highlight Extensive computational results show that the exact algorithm outperforms existing heuristics in time and quality.

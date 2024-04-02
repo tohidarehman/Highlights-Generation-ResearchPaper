@@ -1,0 +1,6 @@
+ In this work we present a comprehensive computational framework to help in the clinical assessment of cancer response from a pair of time consecutive oncological PET-CT scans. In this scenario, the design and implementation of a supervised machine learning system to predict and quantify cancer progression or response conditions by introducing a novel feature set that models the underlying clinical context is described. Performance results in 100 clinical cases (corresponding to 200 whole body PET-CT scans) in comparing expert-based visual analysis and classifier decision making show up to 70% accuracy within a completely automatic pipeline and 90% accuracy when providing the system with expert-guided PET tumor segmentation masks.
+
+@highlight Computational cancer evolution assessment from a pair of oncological PET-CT scans.
+@highlight Automatic PET tumor segmentation and decision making system proposal.
+@highlight Supervised learning framework with a novel multi modal feature set.
+@highlight Introduction to computer aided diagnosis tools in a nuclear medicine scenario.

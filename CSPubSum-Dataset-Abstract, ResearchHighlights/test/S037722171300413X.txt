@@ -1,0 +1,7 @@
+ How should firms price new products when they do not know the timing, nor the nature of the next competitive entry? To guide managers’ pricing decisions in such contexts, we propose a dynamic pricing model with two types of randomly timed entry, i.e. imitative and innovative. The characterization of the equilibrium strategies reveals how optimal prices vary with the manager’s knowledge about the timing of future competitive entries. We show that price skimming is not always optimal when entry dates are unknown to managers. Everything else equal, we demonstrate that the randomness of competitive entries make forward looking managers to choose constant prices, even though the characteristics of the market would have justified skimming the demand in the normal course. Moreover, we show that the constant pricing policy remains optimal even when the incumbent’s optimal pricing strategy influences the probability of facing a competitive entry. Finally, we find that uncertainty does not necessarily hurt firms’ profits.
+
+@highlight We propose a dynamic pricing model with stochastic competitive entries.
+@highlight We use stochastic optimal control to characterize the optimal policies.
+@highlight We find that constant prices can maximize long-term profits.
+@highlight Firms should not use price skimming when they do not know when competitors enter.
+@highlight Firms can profit from uncertainty when competitive entries are stochastic.

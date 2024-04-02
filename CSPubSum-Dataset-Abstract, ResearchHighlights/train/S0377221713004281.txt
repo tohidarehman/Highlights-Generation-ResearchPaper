@@ -1,0 +1,6 @@
+ In this paper we consider the problem of allocating servers to maximize throughput for tandem queues with no buffers. We propose an allocation method that assigns servers to stations based on the mean service times and the current number of servers assigned to each station. A number of simulations are run on different configurations to refine and verify the algorithm. The algorithm is proposed for stations with exponentially distributed service times, but where the service rate at each station may be different. We also provide some initial thoughts on the impact on the proposed allocation method of including service time distributions with different coefficients of variation.
+
+@highlight We study server allocation in zero buffer tandem lines to maximize throughput.
+@highlight Heterogeneous workloads are considered.
+@highlight We discuss how the algorithm can be modified as service time variability changes.
+@highlight We examine the effect of multiple slow servers outperforming a single fast server.

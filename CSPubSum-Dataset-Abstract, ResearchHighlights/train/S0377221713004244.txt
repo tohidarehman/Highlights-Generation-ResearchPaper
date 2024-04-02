@@ -1,0 +1,7 @@
+ In recent years several countries have set up policies that allow exchange of kidneys between two or more incompatible patient–donor pairs. These policies lead to what is commonly known as kidney exchange programs. The underlying optimization problems can be formulated as integer programming models. Previously proposed models for kidney exchange programs have exponential numbers of constraints or variables, which makes them fairly difficult to solve when the problem size is large. In this work we propose two compact formulations for the problem, explain how these formulations can be adapted to address some problem variants, and provide results on the dominance of some models over others. Finally we present a systematic comparison between our models and two previously proposed ones via thorough computational analysis. Results show that compact formulations have advantages over non-compact ones when the problem size is large.
+
+@highlight Revision of Integer Programming approaches for the Kidney Exchange Problem.
+@highlight Presentation of two new IP formulations that grow polynomially with size of the instances.
+@highlight The tightness of IP formulations is compared theoretically.
+@highlight All formulations are evaluated computationally with a commercial IP solver.
+@highlight Two of the models are shown to perform best, although for different types of instances.

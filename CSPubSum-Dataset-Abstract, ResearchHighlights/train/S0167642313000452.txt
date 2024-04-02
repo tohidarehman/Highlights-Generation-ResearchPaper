@@ -1,0 +1,7 @@
+ The CancerGrid approach to software support for clinical trials is based on two principles: careful curation of semantic metadata about clinical observations, to enable subsequent data integration, and model-driven generation of trial-specific software artefacts from a trial protocol, to streamline the software development process. This paper explains the approach, presents four varied case studies, and discusses the lessons learned.
+
+@highlight Summary, philosophy, and lessons of the CancerGrid project and follow-ons.
+@highlight Software support for cancer clinical trials, and similar data collection exercises.
+@highlight Metadata support, to enable subsequent meta-analysis.
+@highlight Model-driven generation of software artefacts to run trial.
+@highlight Four case studies.

@@ -1,0 +1,7 @@
+ Business process modelling and security engineering are two important concerns when developing information system. However current practices report that security is addressed at the later development stages (i.e. design and implementation). This raises a question whether the business processes are performed securely. In this paper, we propose a method to introduce security requirements to the business processes through the collaboration between business and security analysts. To support this collaboration we present a set of security risk-oriented patterns. We test our proposal in two industrial business models. The case findings characterise pattern performance when identifying business assets, risks, and countermeasures.
+
+@highlight We propose a method to develop secure business processes.
+@highlight The method is based on collaboration between business and security analysts.
+@highlight We define a set of security risk-oriented patterns.
+@highlight We use the BPMN notation to present these patterns graphically.
+@highlight The proposal is tested within two industrial business models.

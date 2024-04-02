@@ -1,0 +1,6 @@
+ In the present paper, a novel image classification method that uses the hierarchical structure of categories to produce more semantic prediction is presented. This implies that our algorithm may not yield a correct prediction, but the result is likely to be semantically close to the right category. Therefore, the proposed method is able to provide a more informative classification result. The main idea of our method is twofold. First, it uses semantic representation, instead of low-level image features, enabling the construction of high-level constraints that exploit the relationship among semantic concepts in the category hierarchy. Second, from such constraints, an optimization problem is formulated to learn a semantic similarity function in a large-margin framework. This similarity function is then used to classify test images. Experimental results demonstrate that our method provides effective classification results for various real-image datasets.
+
+@highlight Novel large margin formulation for semantic similarity learning.
+@highlight Efficient optimization algorithm to solve the proposed semi-definite program (SDP).
+@highlight Thorough experimental study to compare the performances of several algorithms for hierarchical image classification.
+@highlight State-of-the-art classification performance under the hierarchical-loss criterion.

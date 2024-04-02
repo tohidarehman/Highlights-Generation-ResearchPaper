@@ -1,0 +1,6 @@
+ Accurate prediction of driving behaviour is essential for an active safety system to ensure driver safety. A model for predicting lane-changing behaviour is developed from the results of naturalistic on-road experiment for use in a lane-changing assistance system. Lane changing intent time window is determined via visual characteristics extraction of rearview mirrors. A prediction index system for left lane changes was constructed by considering drivers' visual search behaviours, vehicle operation behaviours, vehicle motion states, and driving conditions. A back-propagation neural network model was developed to predict lane-changing behaviour. The lane-change-intent time window is approximately 5 s long, depending on the subjects. The proposed model can accurately predict drivers' lane changing behaviour for at least 1.5 s in advance. The accuracy and time series characteristics of the model are superior to the use of turn signals in predicting lane-changing behaviour.
+
+@highlight We conducted a lane change experiment under real road environment.
+@highlight Lane changing intent time window is about 5 s.
+@highlight Vehicle motion states, driving conditions and head movements information were chosen to predict lane changing behaviours.
+@highlight The improved neural network detects 85% of lane changes 1.5 s in advance.

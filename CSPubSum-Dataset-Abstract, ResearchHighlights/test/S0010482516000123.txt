@@ -1,0 +1,6 @@
+ The production and distribution of videos and animations on gaming and self-authoring websites are booming. However, given this rise in self-authoring, there is increased concern for the health and safety of people who suffer from a neurological disorder called photosensitivity or photosensitive epilepsy. These people can suffer seizures from viewing video with hazardous content. This paper presents a spatiotemporal pattern detection algorithm that can detect hazardous content in streaming video in real time. A tool is developed for producing test videos with hazardous content, and then those test videos are used to evaluate the proposed algorithm, as well as an existing post-processing tool that is currently being used for detecting such patterns. To perform the detection in real time, the proposed algorithm was implemented on a dual core processor, using a pipelined/parallel software architecture. Results indicate that the proposed method provides better detection performance, allowing for the masking of seizure inducing patterns in real time.
+
+@highlight Healthy viewing.
+@highlight Real-time detection of hazardous video content for photosensitive seizures.
+@highlight Multicore parallel computation.
+@highlight Seizure pattern inducer testing benchmark.

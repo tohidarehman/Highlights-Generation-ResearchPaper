@@ -1,0 +1,5 @@
+ Motivated by an application to school funding, we introduce the notion of a robust decomposable Markov decision process (MDP). A robust decomposable MDP model applies to situations where several MDPs, with the transition probabilities in each only known through an uncertainty set, are coupled together by joint resource constraints. Robust decomposable MDPs are different than both decomposable MDPs, and robust MDPs and cannot be solved by a direct application of the solution methods from either of those areas. In fact, to the best of our knowledge, there is no known method to tractably compute optimal policies in robust, decomposable MDPs. We show how to tractably compute good policies for this model, and apply the derived method to a stylized school funding example.
+
+@highlight We introduce and formalize the concept of robust, decomposable MDPs.
+@highlight We propose a tractable method to compute good policies in such MDPs.
+@highlight Funding policies from these MDPs outperform strategies based on a real-world policy.

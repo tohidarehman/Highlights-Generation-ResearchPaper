@@ -1,0 +1,5 @@
+ The task of microscopy cell detection is of great biological and clinical importance. However, existing algorithms for microscopy cell detection usually ignore the large variations of cells and only focus on the shape feature/descriptor design. Here we propose a new two-layer model for cell centre detection by a two-layer structure prediction framework, which is respectively built on classification for the cell centres implicitly using rich appearances and contextual information and explicit structural information for the cells. Experimental results demonstrate the efficiency and effectiveness of the proposed method over competing state-of-the-art methods, providing a viable alternative for microscopy cell detection.
+
+@highlight A new two-layer structural prediction framework for detecting microscopic image cells, which focuses on the representation issue to propose a model to effectively capture the rich contextual information.
+@highlight We tackle the problem of microscopic image cell detection from structure learning perspective.
+@highlight The second layer takes the output of the first layer as knowledge abstraction and propagation.

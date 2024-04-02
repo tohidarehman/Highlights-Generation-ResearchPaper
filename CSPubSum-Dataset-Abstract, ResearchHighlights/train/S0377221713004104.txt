@@ -1,0 +1,7 @@
+ A real life order-picking configuration that requires multiple pickers to cyclically move around fixed locations in a single direction is considered. This configuration is not the same, but shows similarities to, unidirectional carousel systems described in literature. The problem of minimising the pickers’ travel distance to pick all orders on this system is a variant of the clustered travelling salesman problem. An integer programming (IP) formulation of this problem cannot be solved in a realistic time frame for real life instances of the problem. A relaxation of this IP formulation is proposed that can be used to determine a lower bound on an optimal solution. It is shown that the solution obtained from this relaxation can always be transformed to a feasible solution for the IP formulation that is, at most, within one pick cycle of the lower bound. The computational results and performance of the proposed methods as well as adapted order sequencing approaches for bidirectional carousel systems from literature are compared to one another by means of real life historical data instances obtained from a retail distribution centre.
+
+@highlight We model a unidirectional order picking system to minimise travel distance.
+@highlight A concept of a cut is introduced to obtain a tight lower bound.
+@highlight This lower bound may be transformed into a feasible solution to the problem.
+@highlight This approach yields solutions that are at most one pick cycle off an optimal.
+@highlight It significantly outperforms adaptations of existing heuristics.

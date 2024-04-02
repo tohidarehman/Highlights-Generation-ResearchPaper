@@ -1,0 +1,5 @@
+ In a recently published paper by Liu et al. [Liu, F., Zhang, W.G., Wang, Z.X. . A goal programming model for incomplete interval multiplicative preference relations and its application in group decision-making. European Journal of Operational Research 218, 747–754], two equations are introduced to define consistency of incomplete interval multiplicative preference relations (IMPRs) and employed to develop a goal programming model for estimating missing values. This note illustrates that such consistency definition and estimation model are technically incorrect. New transitivity conditions are proposed to define consistent IMPRs, and a two-stage goal programming approach is devised to estimate missing values for incomplete IMPRs.
+
+@highlight The consistency definition and the goal programming model proposed by Liu, Zhang, and Wang (2012) are technically wrong.
+@highlight New transitivity conditions are put forward to correct errors in Liu et al. (2012).
+@highlight A two-stage goal programming approach is developed to estimate missing values.

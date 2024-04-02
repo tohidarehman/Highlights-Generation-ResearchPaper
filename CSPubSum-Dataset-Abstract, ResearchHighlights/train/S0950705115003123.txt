@@ -1,0 +1,7 @@
+ The paper describes a new approach of developing and maintaining state-of-the-art decision support systems. Such systems are able to capture the collaborative work on decision problems over time. Due to the complexity of large problem spaces a multi-modal knowledge representation is proposed. For the realization of a multi-modal knowledge base we integrate semantic technologies as a fundamental layer by combining the W3C ontologies PROV-O and SKOS. The approach is demonstrated by an implementation report of an industrially deployed decision support system.
+
+@highlight Decision support systems rely on collaborative and episodic participation.
+@highlight Large decision knowledge bases can include varying knowledge representations.
+@highlight We introduce an approach to implement such systems in a coherent manner.
+@highlight The approach is based on semantic technologies and web standards.
+@highlight A case study describes experiences with a decision support system in industrial use for years.

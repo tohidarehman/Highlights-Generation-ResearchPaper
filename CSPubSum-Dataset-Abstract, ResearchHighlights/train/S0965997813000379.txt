@@ -1,0 +1,5 @@
+ In this paper a simple and efficient algorithm for computing Boolean operations on polygons is presented. The algorithm works with almost any kind of input polygons: concave polygons, polygons with holes, several contours and self-intersecting edges. Important topological information, as the holes of the result polygon, is computed.
+
+@highlight Compute Boolean operations between concave polygons with holes and several contours.
+@highlight Compute the holes of every contour.
+@highlight The algorithm is efficient and simple.

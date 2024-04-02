@@ -1,0 +1,7 @@
+ The paper presents a novel approach and algorithm with mathematical formula for obtaining the exact optimal number of task resources for any workload running on Hadoop MapReduce. In the era of Big Data, energy efficiency has become an important issue for the ubiquitous Hadoop MapReduce framework. However, the question of what is the optimal number of tasks required for a job to get the most efficient performance from MapReduce still has no definite answer. Our algorithm for optimal resource provisioning allows users to identify the best trade-off point between performance and energy efficiency on the runtime elbow curve fitted from sampled executions on the target cluster for subsequent behavioral replication. Our verification and comparison show that the currently well-known rules of thumb for calculating the required number of reduce tasks are inaccurate and could lead to significant waste of computing resources and energy with no further improvement in execution time.
+
+@highlight Overprovisioning could lead to significant waste of computing resources and energy.
+@highlight Performance gain decreases quickly beyond the best trade-off point on elbow curve.
+@highlight Our algorithm for optimal resource provisioning is better than any rules of thumbs.
+@highlight Use dynamic job profiling with table of signatures to match optimal task resources.
+@highlight Efficient task provisioning saves energy and resources for jobs in multi-tenancy.

@@ -1,0 +1,6 @@
+ In this paper, the time-optimal feedrate planning problem under confined feedrate, axis velocity, axis acceleration, axis jerk, and axis tracking error for a high-order CNC servo system is studied. The problem is useful in that the full ability of the CNC machine is used to enhance the machining productivity while keeping the machining precision under a given level. However, the problem is computationally challenging. The main contribution of this paper is to approximate the problem nicely by a finite-state convex optimization problem which can be solved efficiently. The method consists of two key ingredients. First, a relationship between the tracking error and the input signal in a high-order CNC servo system is established. As a consequence, the tracking error constraint is reduced to a constraint on the kinematic quantities. Second, a novel method is introduced to relax the nonlinear constraints on kinematic quantities to linear ones. Experimental results are used to validate the proposed method.
+
+@highlight A relationship between the tracking error and the input signal is established.
+@highlight The tracking error constraint for a CNC system is reduced to a kinematic constraint.
+@highlight The nonlinear constraints on jerk are reduced to linear constraints.
+@highlight Feedrate planning under confined tracking error is reduced to convex optimization.

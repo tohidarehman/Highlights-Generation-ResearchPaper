@@ -1,0 +1,6 @@
+ In topology optimization of a continuum under multiple loading cases (MLC), if the magnitudes of loads are different obviously, it is hard to obtain a clear component to support the weaker loads. Such MLC are called ill-loading cases (ILC). A new method is presented to solve the layout optimization of a continuum with bi-modulus material under multiple loading conditions (MLC) by using a Q-norm weighting objective which is formed with the Q-norm of weighted structural compliances of MLC. The effects both of the value of Q and bi-modulus behavior of material on the final material distribution are studied. Both of validity and efficiency of the present algorithm are discussed numerically. Results show that the optimal bi-modulus material distribution of a structure under serious ILC can be found if using a small positive value of Q within interval of  and the computational efficiency is very close to that of traditional isotropic material layout optimization.
+
+@highlight Compliance design for a bi-modulus structure under multiple ill-loads is studied.
+@highlight Fractional norm objective function is presented and sensitive analysis is derivated.
+@highlight Material replacement approach is suggested to simplify update of design variables.
+@highlight Typical multiple ill-loaded designs are discussed numerically.

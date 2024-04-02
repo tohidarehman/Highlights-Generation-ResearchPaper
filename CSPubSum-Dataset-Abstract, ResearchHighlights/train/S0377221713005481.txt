@@ -1,0 +1,7 @@
+ This paper considers the use of scenarios to treat uncertain attribute evaluations in the outranking methods. The scenario-based approach allows the decision maker to think deterministically about the problem by attaching causal links to a small number of potential outcomes, instead of using probability distributions. The scenario approach can be expressed as a simplified version of the comprehensive but practically complex “distributive” outranking method of d’Avignon and Vincke. Using a scenario approach has distinct practical advantages, but also presents the inherent danger that meaningful information is ignored. The extent of this danger is assessed using a simulation experiment, where it is found to be of a magnitude that is non-trivial but still potentially acceptable for certain decision contexts.
+
+@highlight Describes a scenario-based outranking model for decisions under uncertainty.
+@highlight Relates the scenario model to existing outranking approaches.
+@highlight Conducts a simulation study to assess the accuracy of the scenario model.
+@highlight Finds that the scenario model can give reasonable accuracy in most cases.
+@highlight A critical aspect is good scenario construction covering possible futures.

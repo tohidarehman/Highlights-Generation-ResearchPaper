@@ -1,0 +1,5 @@
+ A new approach to the rule-base evidential reasoning based on the synthesis of fuzzy logic, Atannasov’s intuitionistic fuzzy sets theory and the Dempster-Shafer theory of evidence is proposed. It is shown that the use of intuitionistic fuzzy values and the classical operations on them directly may provide counter-intuitive results. Therefore, an interpretation of intuitionistic fuzzy values in the framework of Dempster-Shafer theory is proposed and used in the evidential reasoning. The merits of the proposed approach are illustrated with the use of developed expert systems for diagnostics of type 2 diabetes. Using the real-world examples, it is shown that such an approach provides reasonable and intuitively obvious results when the classical method of rule-base evidential reasoning cannot produce any reasonable results.
+
+@highlight Rule-base evidential reasoning.
+@highlight Atannasov’s intuitionistic fuzzy sets.
+@highlight Dempster-Shafer theory of evidence.

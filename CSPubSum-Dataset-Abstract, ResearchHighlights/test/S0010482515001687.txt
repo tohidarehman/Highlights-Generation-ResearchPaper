@@ -1,0 +1,5 @@
+ Genistein is a soy metabolite with estrogenic activity that may result in (un)favorable effects on human health. Elucidation of the mechanisms through which food additives such as genistein exert their beneficiary effects is a major challenge for the food industry. A better understanding of the genistein elimination pathway could shed light on such mechanisms. We developed a Petri net model that represents this multi-organ elimination pathway and which assists in the design of future experiments. Using this model we show that metabolic profiles solely measured in venous blood are not sufficient to uniquely parameterize the model. Based on simulations we suggest two solutions that provide better results: parameterize the model using gut epithelium profiles or add additional biological constrains in the model.
+
+@highlight We developed a Petri net to assist in the design of experiments.
+@highlight We modelled the human multi-organ genistein elimination pathway.
+@highlight Gut epithelium profiles and additional constraints improve the model parameterization.

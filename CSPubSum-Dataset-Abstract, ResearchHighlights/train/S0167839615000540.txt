@@ -1,0 +1,6 @@
+ The investigation of the umbral calculus based generalization of Bernstein polynomials and Bézier curves is continued in this paper: First a generalization of the de Casteljau algorithm that uses umbral shift operators is described. Then it is shown that the quite involved umbral shifts can be replaced by a surprisingly simple recursion which in turn can be understood in geometrical terms as an extension of the de Casteljau interpolation scheme. Namely, instead of using only the control points of level to generate the points on level r as in the ordinary de Casteljau algorithm, one uses also points on level or more previous levels. Thus the unintuitive parameters in the algebraic definition of generalized Bernstein polynomials get geometric meaning. On this basis a new direct method for the design of Bézier curves is described that allows to adapt the control polygon as a whole by moving a point of the associated Bézier curve.
+
+@highlight Generalization of the de Casteljau algorithm with new parameters.
+@highlight Geometric interpretation of the new parameters.
+@highlight New direct method of curve design.
+@highlight New results are illustrated with many pictures.

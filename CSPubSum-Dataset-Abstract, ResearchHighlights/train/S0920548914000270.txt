@@ -1,0 +1,5 @@
+ In recent years, there has been a growth in a category of performance-critical distributed embedded systems and applications. These systems gain complexity when they are equipped with many microcontrollers which oversee many electronic control units (ECU). High performance and predictability are the main criteria of choice for any large-scale networked system dependent on real-time data processing and analysis. Switched-fabric networks can provide fast and highly scalable hardware solutions and are now being increasingly used in distributed systems. In this paper, SCPN models of switched fabric and bussed CAN network are presented using timed colored Petri nets. These models are then evaluated and verified for the desired properties using CPN Tools. Comparison is then applied to both of the models to extract information on network performance metrics.
+
+@highlight SCPN models of Switched Fabric and Bussed CAN Network are presented using timed colored Petri nets.
+@highlight We evaluate and verify Switched Fabric and Bussed CAN Network using CPNTools.
+@highlight We compare Switched Fabric and Bussed CAN Network models to extract network performance metrics.

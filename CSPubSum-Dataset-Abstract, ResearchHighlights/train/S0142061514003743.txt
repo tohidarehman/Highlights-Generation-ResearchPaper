@@ -1,0 +1,5 @@
+ This survey paper is an excerpt of a more comprehensive study on Smart Grid (SG) and the role of Advanced Metering Infrastructure (AMI) in SG. The survey was carried out as part of a feasibility study for creation of a Net-Zero community in a city in Ontario, Canada. SG is not a single technology; rather it is a combination of different areas of engineering, communication and management. This paper introduces AMI technology and its current status, as the foundation of SG, which is responsible for collecting all the data and information from loads and consumers. AMI is also responsible for implementing control signals and commands to perform necessary control actions as well as Demand Side Management (DSM). In this paper we introduce SG and its features, establish the relation between SG and AMI, explain the three main subsystems of AMI and discuss related security issues.
+
+@highlight Advances in Metering Infrastructure in Smart Grid.
+@highlight Comprehensive survey on control actions for load demand.
+@highlight Distributed Energy Resources and improvement of delivered power quality.

@@ -1,0 +1,6 @@
+ While the use of Work Domain Analysis as a methodological framework in cognitive engineering is increasing rapidly, verification and validation of work domain models produced by this method are becoming a significant issue. In this article, we propose the use of a method based on Turing machine formalism named “Turing Machine Task Analysis” to verify and validate work domain models. The application of this method on two work domain analyses, one of car driving which is an “intentional” domain, and the other of a ship water system which is a “causal domain” showed the possibility of highlighting improvements needed by these models. More precisely, the step by step analysis of a degraded task scenario in each work domain model pointed out unsatisfactory aspects in the first modelling, like overspecification, underspecification, omission of work domain affordances, or unsuitable inclusion of objects in the work domain model.
+
+@highlight Work domain models produced by Work Domain Analysis need to be validated and verified.
+@highlight A method based on the Turing Machine formalism was proposed.
+@highlight An application to two domains allowed us to highlight some required changes.
+@highlight Over or underspecification, omission or false inclusion of objects were noticed.

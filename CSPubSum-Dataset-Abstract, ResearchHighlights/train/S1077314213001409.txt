@@ -1,0 +1,7 @@
+ This paper proposes an accurate, rotation invariant, and fast approach for detection of facial features from thermal images. The proposed approach combines both appearance and geometric information to detect the facial features. A texture based detector is performed using Haar features and AdaBoost algorithm. Then the relation between these facial features is modeled using a complex Gaussian distribution, which is invariant to rotation. Experiments show that our proposed approach outperforms existing algorithms for facial features detection in thermal images. The proposed approach’s performance is illustrated in a face recognition framework, which is based on extracting a local signature around facial features. Also, the paper presents a comparative study for different signature techniques with different facial image resolutions. The results of this comparative study suggest the minimum facial image resolution in thermal images, which can be used in face recognition. The study also gives a guideline for choosing a good signature, which leads to the best recognition rate.
+
+@highlight Facial feature detector for face thermal image resolution more than 64*64pixels.
+@highlight BRIEF and LBP have a good recognition rate compare with SIFT and ORB.
+@highlight BRIEF shows a good face signature, accurate, compact, and efficient in matching.
+@highlight PCA is the best recognition rate in very low resolution less than 16*16pixels.
+@highlight LBP shows the worst degradation in performance with decreasing the resolution.

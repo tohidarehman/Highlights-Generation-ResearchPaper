@@ -1,0 +1,6 @@
+ This paper examines the application of binary integration to X-band maritime surveillance radar, with a view to enhancing detection performance. The clutter is assumed to follow a Pareto distribution, since this model has been validated for high resolution X-band maritime clutter returns. The binary integration process is based upon an order statistic detection scheme, which has the constant false alarm rate property with respect to the Pareto shape parameter. An optimisation procedure is outlined, which results in ideal choices for the binary integration factor and the order statistic index. Performance of the resultant detection process is analysed, with homogeneous and heterogeneous simulated clutter, whose parameters are matched to those obtained from real clutter data sets. A direct application to real data is also included.
+
+@highlight Binary integration developed under a Pareto clutter model assumption.
+@highlight Mathematical analysis of the merits of binary integration.
+@highlight Binary integration coupled with order statistic CFAR investigated.
+@highlight Application to real X-Band maritime surveillance radar clutter provided.

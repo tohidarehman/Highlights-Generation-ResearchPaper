@@ -1,0 +1,6 @@
+ This paper proposes a novel extended traffic network model to solve the logit-based stochastic user equilibrium (SUE) problem with elastic demand. In this model, an extended traffic network is established by properly adding dummy nodes and links to the original traffic network. Based on the extended traffic network, the logit-based SUE problem with elastic demand is transformed to the SUE problem with fixed demand. Such problem is then further converted to a linearly constrained convex programming and addressed by a predictor–corrector interior point algorithm with polynomial complexity. A numerical example is provided to compare the proposed model with the method of successive averages (MSA). The numerical results indicate that the proposed model is more efficient and has a better convergence than the MSA.
+
+@highlight This paper proposed a novel model for solving the SUE problem with elastic demand.
+@highlight The SUE problem with elastic demand will be transformed into that with fixed demand.
+@highlight The SUE problem with elastic demand will be converted to a convex programming.
+@highlight A predictor corrector interior point algorithm can be employed to solve it.

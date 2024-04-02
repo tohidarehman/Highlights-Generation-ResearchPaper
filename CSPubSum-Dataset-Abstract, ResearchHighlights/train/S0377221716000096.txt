@@ -1,0 +1,7 @@
+ Durable products are characterized by their modular structured design as well as their long life cycle. Each class of components involved in the multi-indenture structure of such products requires a different recovery process. Moreover, due to their long life cycle, the return flows are of various quality levels. In this article, we study a closed-loop supply chain in the context of durable products with generic modular structures. To this end, we propose a mixed-integer programming model based on a generic disassembly tree where the number of each sub-assembly depends on the quality status of the return stream. The model determines the location of various types of facilities in the reverse network while coordinating forward and reverse flows. We also consider the legislative target for the recovery of used products as a constraint in the problem formulation. We present a Benders decomposition-based solution algorithm together with several algorithmic enhancements for this problem. Computational results illustrate the superior performance of the solution method.
+
+@highlight We present a closed-loop supply chain network for the case of used durable products.
+@highlight We address the disassembly tree and several plausible recovery processes.
+@highlight We consider the legislative recovery target and various quality levels of returns.
+@highlight We propose a comprehensive MIP model for optimization of this network.
+@highlight We develop an accelerated Benders decomposition-based solution algorithm.

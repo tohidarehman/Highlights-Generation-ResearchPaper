@@ -1,0 +1,7 @@
+ To overcome computerized intractability and imprecise estimation of the standard cardinalized probability hypothesis density (CPHD) filter for multitarget tracking (MTT), an improved CPHD filtering algorithm is proposed in this paper. We apply Sequential Monte Carlo (SMC) method to achieve the closed-form solution in the filtering process as well as to avoid missed detection. Afterwards we partition the particle set into surviving particles and newborn particles based on the particle labels. To eliminate the over-estimated target number, the weights of newborn particles are assigned to increase to surviving particles on average. Simulations are presented to compare the performance of the proposed filtering algorithm with that of the standard one. The results show that the proposed filtering algorithm can effectively achieve MTT with better performance.
+
+@highlight The PHD and cardinality distributions are approximated by labeled particles.
+@highlight Our algorithm represents the closed-form solution and avoids missed detection.
+@highlight The overestimated target number is revised by the assignment of particle weight.
+@highlight The results show the improved algorithm achieves MTT with better performance.
+@highlight Compared with standard CPHD filter, our algorithm overcomes existing drawbacks.

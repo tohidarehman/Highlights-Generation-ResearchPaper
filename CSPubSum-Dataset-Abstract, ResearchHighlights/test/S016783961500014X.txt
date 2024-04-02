@@ -1,0 +1,5 @@
+ In this paper, we show how to construct a normalized B-spline basis for a special continuous splines of degree 2, defined on Sibson–Thomson refinement. The basis functions have a local support, they are nonnegative, and they form a partition of unity. The dilatation equation can be found by applying the dyadic subdivision scheme directly to the Sibson–Thomson spline basis functions. As an application, a quasi-interpolation method, based on this Sibson–Thomson B-spline representation, is described which can be used for the efficient visualization of gridded surface data.
+
+@highlight B-spline basis of Sibson–Thomson splines.
+@highlight Refinement equation.
+@highlight Quasi-interpolants.

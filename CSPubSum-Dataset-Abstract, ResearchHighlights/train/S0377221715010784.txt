@@ -1,0 +1,7 @@
+ Analytical and iterative optimization techniques are employed to solve a job shop-like capacity planning problem for a maintenance service provider with contractually defined lead time requirements. The problem is motivated by a real-life case example, namely the overhaul of airline aircraft engines through an external service provider. The production network is modeled as a network of GI/G/1 queues, where the service rates are the decision variables and capacity costs and penalty costs for not meeting contractually defined lead times are minimized. In addition, we analytically investigate the effects of collaborative maintenance management as a source of advanced information regarding future maintenance demand. More specifically, we consider the benefits of improved service rates and service and demand variabilities on production capacities and total costs. Numerical examples are provided to verify the proposed optimization procedure and illustrate the effects of collaborative maintenance management.
+
+@highlight Paper motivated by real-life case: maintenance and overhaul of aircraft engines.
+@highlight Production system of maintenance service provider modeled as network of G/G/1 queues.
+@highlight Optimal capacities found by minimizing capacity and tardiness penalty costs.
+@highlight Advanced information of engine arrivals and status obtained through collaboration.
+@highlight Benefits of collaboration on total costs analyzed for investment decision support.

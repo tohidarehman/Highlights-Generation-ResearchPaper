@@ -1,0 +1,7 @@
+ During the last decades photogrammetric computer vision systems have been well established in scientific and commercial applications. Recent developments in image-based 3D reconstruction systems have resulted in an easy way of creating realistic, visually appealing and accurate 3D models. We present a fully automated processing pipeline for metric and geo-accurate 3D reconstructions of complex geometries supported by an online feedback method for user guidance during image acquisition. Our approach is suited for seamlessly matching and integrating images with different scales, from different view points (aerial and terrestrial), and with different cameras into one single reconstruction. We evaluate our approach based on different datasets for applications in mining, archaeology and urban environments and thus demonstrate the flexibility and high accuracy of our approach. Our evaluation includes accuracy related analyses investigating camera self-calibration, georegistration and camera network configuration.
+
+@highlight Use of planar fiducial markers for automatic accurate camera calibration.
+@highlight Online user feedback and quality visualization for image acquisition.
+@highlight Integration of ground control points and GPS measurements in the bundle adjustment.
+@highlight Accurate and easy-to-use 3D reconstruction pipeline with automatic geo-registration.
+@highlight Unified document with extensive evaluations and insights to large-scale 3D modeling.

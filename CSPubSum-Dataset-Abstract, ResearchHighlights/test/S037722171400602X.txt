@@ -1,0 +1,7 @@
+ This article presents a systems approach to access charges in unbundling railways where an infrastructure manager charges services to operators on an open market. The motive for this research is the fact that until now no universal model of access charges has been defined. We define a universal access charges model for an essential service package for a mid- and small-size network based on a systems approach to recovering the costs that are incurred as a result of the operation of a train. System elements are a railway network, trains and costs. Having in mind the system complexity a combination of an analytical and engineering approach has been used for access charges modelling. The model has been developed for a Serbian mid-size railway network and tested on real data. The numerical results of model application indicate that with charges defined in this way it is possible to track cost and cost management by services.
+
+@highlight New access charges model based on the system approach.
+@highlight New segmentation of network into elements that represent homogeneous cost centres.
+@highlight AC model structure enable cost management and making a right decision timely.
+@highlight AC model enables the balance between costs, traffic volume, network structure.
+@highlight The AC equitation represents correlation of infrastructure costs with services.

@@ -1,0 +1,6 @@
+ We discuss the efficiency of parallelization on graphical processing units (GPUs) for the simulation of the one-dimensional Potts model with long-range interactions via parallel tempering. We investigate the behavior of some thermodynamic properties, such as equilibrium energy and magnetization, critical temperatures as well as the separation between the first- and second-order regimes. By implementing multispin coding techniques and an efficient parallelization of the interaction energy computation among threads, the GPU-accelerated approach reached speedup factors of up to 37.
+
+@highlight Simulation of the Potts model with long-range interactions on GPUs.
+@highlight Parallel tempering algorithm implemented on graphical processing units using CUDA.
+@highlight Shared memory implementation.
+@highlight GPU accelerated approach provides performance speedups of up to 35.

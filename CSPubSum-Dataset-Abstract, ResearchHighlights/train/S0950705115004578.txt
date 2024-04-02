@@ -1,0 +1,7 @@
+ The theory of belief functions is a very important and effective tool for uncertainty modeling and reasoning, where measures of uncertainty are very crucial for evaluating the degree of uncertainty in a body of evidence. Several uncertainty measures in the theory of belief functions have been proposed. However, existing measures are generalizations of measures in the probabilistic framework. The inconsistency between different frameworks causes limitations to existing measures. To avoid these limitations, in this paper, a new total uncertainty measure is proposed directly in the framework of belief functions theory without changing the theoretical frameworks. The average distance between the belief interval of each singleton and the most uncertain case is used to represent the total uncertainty degree of the given body of evidence. Numerical examples, simulations, applications and related analyses are provided to verify the rationality of our new measure.
+
+@highlight A new total uncertainty measure in evidence theory is proposed.
+@highlight The new measure is directly defined in the evidential framework.
+@highlight The new measure is not a generalization of those in the probabilistic framework.
+@highlight The belief intervals and distance metric are used for the new measure’s design.
+@highlight The new measure has no drawbacks in traditional ones and has desired properties.

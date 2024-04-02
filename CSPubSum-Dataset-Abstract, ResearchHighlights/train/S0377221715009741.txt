@@ -1,0 +1,7 @@
+ The bin packing problem with precedence constraints (BPP-P) is a recently proposed variation of the classical bin packing problem (BPP), which corresponds to a basic model featuring many underlying characteristics of several scheduling and assembly line balancing problems. The formulation builds upon the BPP by incorporating precedence constraints among items, which force successor items to be packed into later bins than their predecessors. In this paper we propose a dynamic programming based heuristic, and a modified exact enumeration procedure to solve the problem. These methods make use of several new lower bounds and dominance rules tailored for the problem in hand. The results of a computational experiment show the effectiveness of the proposed methods, which are able to close all of the previous open instances from the benchmark instance set within very reduced running times.
+
+@highlight The bin packing problem with precedence constraints is investigated.
+@highlight Its relationship with the assembly line balancing problem is considered.
+@highlight New dominance rules and lower bounds are developed.
+@highlight A dynamic programming based heuristic and a branch-and-bound method are proposed.
+@highlight The results show that the methods outperforms all previous approaches.

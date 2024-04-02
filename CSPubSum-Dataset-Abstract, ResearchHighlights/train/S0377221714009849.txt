@@ -1,0 +1,6 @@
+ This paper addresses the problem of minimizing the total tardiness of a set of jobs to be scheduled on identical parallel machines where jobs can only be delivered at certain fixed delivery dates. Scheduling problems with fixed delivery dates are frequent in industry, for example when a manufacturer has to rely on the timetable of a logistics provider to ship its products to customers. We develop and empirically evaluate both optimal and heuristic solution procedures to solve the problem. As the problem is NP-hard, only relatively small instances can be optimally solved in reasonable computational time using either an efficient mathematical programming formulation or a branch-and-bound algorithm. Consequently, we develop a tabu search and a hybrid genetic algorithm to quickly find good approximate solutions for larger instances.
+
+@highlight We consider identical parallel machine scheduling to minimize total tardiness.
+@highlight Jobs can only be delivered at exogenously given fixed delivery dates.
+@highlight Mathematical programming and a branch-and-bound algorithm solve small problems.
+@highlight A tabu search and a hybrid genetic algorithm are developed for larger problems.

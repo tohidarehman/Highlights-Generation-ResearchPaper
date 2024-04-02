@@ -1,0 +1,6 @@
+ There is relatively little guidance on the situated ergonomic assessment of medical devices, and few case studies that detail this type of evaluation. This paper reports results of a detailed case study that focuses on the design and use of a modern blood glucose meter on an oncology ward. We spent approximately 150 h in-situ, over 11 days and 4 nights, performing observations and interviews with users. This was complemented by interviews with two staff with oversight and management responsibility related to the device. We identified 19 issues with the design and use of this device. These issues were grouped into 7 themes which can help guide the situated study of medical devices: usability, knowledge gaps and mental models, workarounds, wider tasks and equipment, the patient, connection between services, and policy.
+
+@highlight We report a case study of a situated ergonomic assessment of a modern inpatient blood glucose meter.
+@highlight We identify 19 issues with the design and use of the device.
+@highlight We identify 7 broad themes that can help guide future situated studies of medical devices.
+@highlight We highlight the need for more ergonomic case studies and guidance following the implementation of BS EN 62366.

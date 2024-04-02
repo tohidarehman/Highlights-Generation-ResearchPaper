@@ -1,0 +1,7 @@
+ In this paper, a combinatorial optimization model is proposed to efficiently select security safeguards in order to protect IT infrastructures and systems. The approach is designed to provide very concrete decision support for an organization as a whole or separately for specific systems. It can be applied in practice without requiring the decision maker himself to collect extensive input data. This is accomplished by using an existing comprehensive and highly accepted knowledge base as a basis for decision making. For our analysis, we use the publicly available IT baseline protection catalogues of the German Federal Office for Information Security (BSI). The catalogues contain more than 500 threats and over 1200 safeguard alternatives to choose from. Applying our model, it is possible to make use of this knowledge and determine optimal selections of safeguards according to given security requirements. The approach supports the decision maker in establishing an effective baseline security strategy.
+
+@highlight We propose a novel approach to optimally select effective IT security safeguards.
+@highlight Practical applicability is ensured by using extensive real-world security knowledge.
+@highlight The knowledge base covers 80 system components, 518 threats, and 1244 safeguards.
+@highlight An abstract criticality concept is used to utilize automatically extracted knowledge.
+@highlight The new MILP model optimally selects safeguards for realistic instances.

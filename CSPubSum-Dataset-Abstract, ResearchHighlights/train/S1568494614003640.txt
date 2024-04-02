@@ -1,0 +1,5 @@
+ In this paper, a hybrid method is proposed to control a nonlinear dynamic system using feedforward neural network. This learning procedure uses different learning algorithm separately. The weights connecting the input and hidden layers are firstly adjusted by a self organized learning procedure, whereas the weights between hidden and output layers are trained by supervised learning algorithm, such as a gradient descent method. A comparison with backpropagation (BP) shows that the new algorithm can considerably reduce network training time.
+
+@highlight A hybrid method is proposed to control a nonlinear dynamic system.
+@highlight This hybrid algorithm combines gradient method and Kohonen algorithm to obtain faster convergence.
+@highlight The proposed algorithm can considerably reduce networking time.

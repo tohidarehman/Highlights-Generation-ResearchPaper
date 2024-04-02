@@ -1,0 +1,8 @@
+ SAMAR is a system for subjectivity and sentiment analysis (SSA) for Arabic social media genres. Arabic is a morphologically rich language, which presents significant complexities for standard approaches to building SSA systems designed for the English language. Apart from the difficulties presented by the social media genres processing, the Arabic language inherently has a high number of variable word forms leading to data sparsity. In this context, we address the following 4 pertinent issues: how to best represent lexical information; whether standard features used for English are useful for Arabic; how to handle Arabic dialects; and, whether genre specific features have a measurable impact on performance. Our results show that using either lemma or lexeme information is helpful, as well as using the two part of speech tagsets (RTS and ERTS). However, the results show that we need individualized solutions for each genre and task, but that lemmatization and the ERTS POS tagset are present in a majority of the settings.
+
+@highlight We present a system for subjectivity and sentiment analysis (SSA) for Arabic social media data.
+@highlight Individual settings are required per genre and task.
+@highlight Using either lemmas or lexemes improves SSA results.
+@highlight Using a POS tagset leads improved results, as do standard features.
+@highlight Processing dialects does not improve when it is know which sentences are in dialect.
+@highlight Genre specific features tend to be helpful for sentiment analysis, but not for subjectivity.

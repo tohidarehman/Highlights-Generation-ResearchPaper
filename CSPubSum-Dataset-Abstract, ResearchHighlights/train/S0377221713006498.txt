@@ -1,0 +1,7 @@
+ This note studies the relationships between different aspects of agent’s preferences toward risk. We show that, under the assumptions of non-satiation and bounded marginal utility, prudence implies risk aversion (imprudence implies risk loving) and that temperance implies prudence (intemperance implies imprudence). The implications of these results for comparing risks in the cases of increase in risk, increase in downside risk and increase in outer risk are discussed.
+
+@highlight Under non-satiation and bounded marginal utility, prudence implies risk aversion.
+@highlight Under non-satiation and bounded marginal utility, imprudence implies risk loving.
+@highlight Under non-satiation and bounded marginal utility, temperance implies prudence.
+@highlight Under non-satiation and bounded marginal utility, intemperance implies imprudence.
+@highlight Implications for increases in risk, in downside risk and in outer risk are discussed.

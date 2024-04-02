@@ -1,0 +1,7 @@
+ Driver fatigue is an important contributor to road accidents. This paper reports a study that evaluated driver fatigue using multimodal fatigue measures, i.e., surface electromyography (sEMG), electroencephalography (EEG), seat interface pressure, blood pressure, heart rate and oxygen saturation level. Twenty male participants volunteered in this study by performing 60 min of driving on a static simulator. Results from sEMG showed significant physical fatigue (ρ < 0.05) in back and shoulder muscle groups. EEG showed significant (ρ < 0.05) increase of alpha and theta activities and a significant decrease of beta activity during monotonous driving. Results also showed significant change in bilateral pressure distribution on thigh and buttocks region during the study. These findings demonstrate the use of multimodal measures to assess early onset of fatigue. This will help us understand the influence of physical and mental fatigue on driver during monotonous driving.
+
+@highlight Quantification and objective measurement of fatigue that driver experiences during prolonged driving.
+@highlight Simultaneous recording of multimodal fatigue outcome measures.
+@highlight Analyzed both physical and mental aspects of driver fatigue.
+@highlight Addressed human factors evaluation of drivers upon driving.
+@highlight Methodology detects early on-set of fatigue during simulated driving.

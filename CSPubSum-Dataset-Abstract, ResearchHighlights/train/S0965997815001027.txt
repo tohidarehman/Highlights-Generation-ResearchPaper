@@ -1,0 +1,5 @@
+ To effectively investigate the mechanical performance of microstructure-based layered composites, an object-oriented software with interactive graphical user interface has been developed. This software, named PCLab, is able to analyze the microstructure evolution and mechanical performance by both Monte Carlo (MC) simulation and the Finite Element method (FEM). The software has integrated preprocessors, solvers and postprocessors. Some examples are tested and explored the functionality of the software package. It shows that the PCLab software with a user-friendly graphical interface provides an efficient tool for faster material analysis, design and application. It also provides a flexible, robust platform for the future extensity in the material multi-physics research.
+
+@highlight An object-oriented software with interactive GUI interface has been developed.
+@highlight Integrated MC and FEA modules can sequentially analyze microstructure evolution and mechanical performance.
+@highlight PCLab provides an efficient tool for faster material design and application.

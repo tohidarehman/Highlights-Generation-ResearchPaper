@@ -1,0 +1,6 @@
+ Quantile inference with adjustment for covariates has not been widely investigated on competing risks data. We propose covariate-adjusted quantile inferences based on the cause-specific proportional hazards regression of the cumulative incidence function. We develop the construction of confidence intervals for quantiles of the cumulative incidence function given a value of covariates and for the difference of quantiles based on the cumulative incidence functions between two treatment groups with common covariates. Simulation studies show that the procedures perform well. We illustrate the proposed methods using early stage breast cancer data.
+
+@highlight Quantile inferences with adjustment for covariates are proposed.
+@highlight Quantiles are defined based on regression of the cumulative incidence function.
+@highlight The construction of confidence intervals for quantiles is developed.
+@highlight A confidence interval for the difference of two quantiles is derived.

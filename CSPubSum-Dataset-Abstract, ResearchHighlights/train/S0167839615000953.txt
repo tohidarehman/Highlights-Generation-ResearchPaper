@@ -1,0 +1,6 @@
+ In this paper, we discuss the bicubic spline spaces over hierarchical T-meshes in detail. The topological explanation of the dimension formula is further explored. We provide three necessary conditions for the completeness of the spline spaces. Based on the three conditions, the rule of the refinement of the hierarchical T-mesh is given, and a basis is constructed. The basis functions are linearly independent and complete, which provides a solution for the defects in the former literature.
+
+@highlight We explore the topologic explanation of the dimension formula.
+@highlight The configuration of the T-mesh has been given to guarantee the completeness.
+@highlight We construct a basis.
+@highlight Some elementary applications have been given.

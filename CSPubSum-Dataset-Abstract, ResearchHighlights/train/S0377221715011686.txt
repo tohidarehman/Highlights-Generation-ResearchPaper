@@ -1,0 +1,6 @@
+ We consider the problem of customer equilibrium strategies in an M/M/1 queue under dynamic service control. The service rate switches between a low and a high value depending on system congestion. Arriving customers do not observe the system state at the moment of arrival. We show that due to service rate variation, the customer equilibrium strategy is not generally unique, and derive an upper bound on the number of possible equilibria. For the problem of social welfare optimization, we numerically analyze the relationship between the optimal and equilibrium arrival rates as a function of various parameter values, and assess the level of inefficiency via the price of anarchy measure. We finally derive analytic solutions for the special case where the service rate switch occurs when the queue ceases to be empty.
+
+@highlight We model a queue with dynamic service rate and strategic customers.
+@highlight The system exhibits a mixed Avoid/Follow the Crowd behavior.
+@highlight There are between one and three symmetric equilibium join/balk strategies.
+@highlight Both negative and positive externalities are present.

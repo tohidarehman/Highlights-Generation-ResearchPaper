@@ -1,0 +1,6 @@
+ In this paper, we consider a variant of the many-to-many location-routing problem, where hub facilities have to be located and customers with either pickup or delivery demands have to be combined in vehicle routes. In addition, several commodities and inter-hub transport processes are taken into account. A practical application of the problem can be found in the timber-trade industry, where companies provide their services using hub-and-spoke networks. We present a mixed-integer linear model for the problem and use CPLEX 12.4 to solve small-scale instances. Furthermore, a multi-start procedure based on a fix-and-optimize scheme and a genetic algorithm are introduced that efficiently construct promising solutions for medium- and large-scale instances. A computational performance analysis shows that the presented methods are suitable for practical application.
+
+@highlight We introduce an extension of the many-to-many location-routing problem.
+@highlight We provide a test set and perform an extensive computational study.
+@highlight A mixed-integer linear model is developed.
+@highlight A fix-and-optimize heuristic and a genetic algorithm are developed.

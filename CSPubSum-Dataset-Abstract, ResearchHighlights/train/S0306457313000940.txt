@@ -1,0 +1,7 @@
+ The estimation of query model is an important task in language modeling (LM) approaches to information retrieval (IR). The ideal estimation is expected to be not only effective in terms of high mean retrieval performance over all queries, but also stable in terms of low variance of retrieval performance across different queries. In practice, however, improving effectiveness can sacrifice stability, and vice versa. In this paper, we propose to study this tradeoff from a new perspective, i.e., the bias–variance tradeoff, which is a fundamental theory in statistics. We formulate the notion of bias–variance regarding retrieval performance and estimation quality of query models. We then investigate several estimated query models, by analyzing when and why the bias–variance tradeoff will occur, and how the bias and variance can be reduced simultaneously. A series of experiments on four TREC collections have been conducted to systematically evaluate our bias–variance analysis. Our approach and results will potentially form an analysis framework and a novel evaluation strategy for query language modeling.
+
+@highlight We study the retrieval effectiveness-stability tradeoff in query model estimation.
+@highlight This tradeoff is investigated through a novel angle, i.e., bias–variance tradeoff.
+@highlight We formulate the performance bias–variance and estimation bias–variance.
+@highlight We investigate various query estimation methods using bias–variance analysis.
+@highlight Experiments have been conducted to verify hypotheses on bias–variance analysis.

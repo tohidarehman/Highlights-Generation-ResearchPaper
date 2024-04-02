@@ -1,0 +1,5 @@
+ This paper presents an improved solution for optimal placement and sizing of active power conditioner (APC) to enhance power quality in distribution systems using the improved discrete firefly algorithm (IDFA). A multi-objective optimization problem is formulated to improve voltage profile, minimize voltage total harmonic distortion and minimize total investment cost. The performance of the proposed algorithm is validated on the IEEE 16- and 69-bus test systems using the Matlab software. The obtained results are compared with the conventional discrete firefly algorithm, genetic algorithm and discrete particle swarm optimization. The comparison of results showed that the proposed IDFA is the most effective method among others in determining optimum location and size of APC in distribution systems.
+
+@highlight An improved method is proposed to place active power conditioners (APCs).
+@highlight Voltage variation index, total harmonic distortion and total device costs are considered.
+@highlight The improved discrete firefly optimization method is developed.

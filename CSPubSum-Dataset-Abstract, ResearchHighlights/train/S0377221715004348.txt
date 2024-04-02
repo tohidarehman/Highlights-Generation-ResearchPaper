@@ -1,0 +1,5 @@
+ This paper considers a tollbooth queueing system where customers arrive according to a Poisson process and there are two heterogeneous servers of exponential service times. We show that eigenvalues can be found explicitly for the characteristic matrix polynomial associated with the Markov chain characterizing the system. We derive a closed-form solution for the steady state probabilities to make the straightforward computation of performance measures.
+
+@highlight A tollbooth queue with two heterogeneous servers is considered.
+@highlight We show that the stationary probabilities class can be expressed in a closed form.
+@highlight A skilled person in the second server position improves the performance.

@@ -1,0 +1,6 @@
+ Recently, Fu et al. proposed a chaos-based medical image encryption scheme that has permutation–substitution architecture. The authors believe that the scheme with bit-level cat map shuffling can be achieved at high level of security even if it is only applied with a few encryption rounds. However, we find that the scheme cannot resist differential cryptanalysis. The differential cryptanalysis shows that the security of the original scheme depends only on permutation key instead of on all of the keys. Moreover, 17 chosen plain-images can reveal equivalent permutation key for 1-round and 2-round encryption. We propose a novel analysis method called double differential cryptanalysis comparison (DDCC) that is valid to break multi-round encryption with 16 chosen plain-images, where is the size of the image. We also point out several weaknesses of the cryptosystem. The theoretical analysis and simulation results indicate that the encryption scheme is insecure.
+
+@highlight Differential cryptanalysis proves that the security of Fu׳s cryptosystem only depends on permutation key.
+@highlight Propose double differential cryptanalysis comparison method to analyze multiple round Fu׳s cryptosystem.
+@highlight Simulation results demonstrate the effectiveness of our differential attacks.
+@highlight Point out the other defects of the cryptosystem.

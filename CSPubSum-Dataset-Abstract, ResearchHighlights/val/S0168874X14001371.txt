@@ -1,0 +1,7 @@
+ In this manuscript a finite element (FE) investigation of soil–blade interaction is presented. The soil is considered as an elastic–plastic material with the non-associated Drucker–Prager constitutive law. A separation procedure to model the cutting of soil and a method of calculating the forces acting on the blade are proposed and discussed in detail. The procedure uses a separation criterion that becomes active at consecutive nodes on the predefined separation surfaces. In order to mimic soil–blade sliding and soil–soil cutting phenomena contact elements with different properties are applied. Only rectangular shape blades are used in the simulation in order to verify the methodology by comparing the FE results with available analytical predictions, and examine the model׳s convergence. It is believed that the approach presented can be used to investigate the soil–tool interactions of real and more complex blade geometries and soil conditions and ultimately for improving design of blades used in tillage operations.
+
+@highlight Finite element investigation of tillage tools and soil interaction.
+@highlight 3D nonlinear finite element analysis model behavior of moving blade in soil.
+@highlight Contact elements to model connection between soil–blade and soil–soil surfaces.
+@highlight Deformation of soil in front of the blade during soil–blade interaction.
+@highlight Comparing the FEA results with analytical soil mechanics results.

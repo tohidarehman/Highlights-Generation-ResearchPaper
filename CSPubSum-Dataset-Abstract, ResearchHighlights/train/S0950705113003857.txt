@@ -1,0 +1,7 @@
+ Natural data sets often have missing values in them. An accurate missing value imputation is crucial to increase the usability of a data set for statistical analyses and data mining tasks. In this paper we present a novel missing value imputation technique using a data set’s existing patterns including co-appearances of attribute values, correlations among the attributes and similarity of values belonging to an attribute. Our technique can impute both numerical and categorical missing values. We carry out extensive experiments on nine natural data sets, and compare our technique with four high quality existing techniques. We simulate 32 types of missing patterns (combinations), and thereby generate 320 missing data sets for each of the nine natural data sets. Two well known evaluation criteria namely index of agreement and root mean squared error are used. Our experimental results, based on the statistical sign test, indicate that our technique achieves significantly better imputation accuracy than the existing techniques.
+
+@highlight A novel missing value imputation technique.
+@highlight Justification of the basic concepts of the technique through some empirical analyses.
+@highlight Experimentation on nine data sets, two evaluation criteria.
+@highlight Comparison with four existing techniques.
+@highlight A complexity analysis of all techniques.

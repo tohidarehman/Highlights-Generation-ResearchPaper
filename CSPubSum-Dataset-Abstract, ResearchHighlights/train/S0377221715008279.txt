@@ -1,0 +1,6 @@
+ In this study, a Disassembly Line Balancing Problem with a fixed number of workstations is considered. The product to be disassembled comprises various components, which are referred to as its parts. There is a specified finite supply of the product to be disassembled and specified minimum release quantities (possible zero) for each part of the product. All units of the product are identical, however different parts can be released from different units of the product. There is a finite number of identical workstations that perform the necessary disassembly operations, referred to as tasks. We present several upper and lower bounding procedures that assign the tasks to the workstations so as to maximize the total net revenue. The computational study has revealed that the procedures produce satisfactory results.
+
+@highlight We consider Disassembly Lines with fixed number of workstations.
+@highlight We aim to assign the tasks to the workstations so as to maximize the total revenue.
+@highlight We present several upper and lower bounding procedures.
+@highlight Our computational study indicates that our procedures lead to satisfactory behaviors.

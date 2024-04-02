@@ -1,0 +1,7 @@
+ The purpose of this study was to determine the effect of hair density on vibration detection thresholds associated with the perception of low frequency vibration stimuli applied to the head. A host of tactile sensitivity information exists for other parts of the body, however the same information is lacking for the head. Thirty-three college students, age 18-35, were recruited for the study. A mixed design was used to evaluate the effect of hair density, head location, and frequency on vibration detection thresholds. Results suggest that hair density might slightly impede vibration signals from reaching the scalp and reduce vibration sensitivity, for the least sensitive locations on the head. This research provides design recommendations for head-mounted tactile displays for women and those with hair that can be used to convey directional cues for navigation and as alerts to critical events in the environment.
+
+@highlight Obtained vibration detection thresholds for seven locations on the head.
+@highlight Obtained vibration detection thresholds for those with and without hair.
+@highlight Hair density slightly impedes vibration signals from reaching the scalp.
+@highlight Those without hair are most sensitive to vibration at the back/sides of the head.
+@highlight Those with hair are also most sensitive to vibration at the back/sides of the head.

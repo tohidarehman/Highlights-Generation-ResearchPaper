@@ -1,0 +1,7 @@
+ In this paper we introduce an extension of the well known Rural Postman Problem, which combines arc routing with profits and facility location. Profitable arcs must be selected, facilities located at both end-points of the selected arcs, and a tour identified so as to maximize the difference between the profit collected along the arcs and the cost of traversing the arcs and installing the facilities. We analyze properties of the problem, present a mathematical programming formulation and a branch-and-cut algorithm. In an extensive computational experience the algorithm could solve instances with up to 140 vertices and 190 arcs and up to 50 vertices and 203 arcs.
+
+@highlight We studied a location-routing problem with profits.
+@highlight We propose a mathematical formulation and a branch-and-cut algorithm.
+@highlight We discuss in detail an application in the strategic planning of freight transportation.
+@highlight We developed an example of the application and solve it through the branch-and cut.
+@highlight We analyze the properties of the problem.

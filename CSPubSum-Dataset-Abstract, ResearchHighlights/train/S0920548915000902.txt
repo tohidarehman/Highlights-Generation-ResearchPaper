@@ -1,0 +1,6 @@
+ Problems of the E-book application include different file formats, performance inefficiency and image distortion; those may cause a slow development of E-book marketing in the industry of information technology. This paper proposes an innovative E-book system called CloudBook, which utilizes an embedded Graphics Processing Unit (GPU) and a data locality aware Hadoop system to resolve the problems. The results of the experiments show that the CloudBook system can increase the performance of the OpenVG library by 73%, reduce the execution time of file conversion by 50%–75%, and improve the data hit ratio in cloud platform by 10%.
+
+@highlight In this paper, OpenVG are implemented and integrated into an E-book application to be a standard for E-contents.
+@highlight An embedded Graphic Processing Unit (GPU) is used to compute the tasks of OpenVG in a parallel architecture.
+@highlight A Hadoop platform provides a standard interface to convert bitmap images to vector graphic format.
+@highlight A locality-aware resource management is implemented in the Hadoop platform to improve the efficient of resource allocation.

@@ -1,0 +1,7 @@
+ This paper develops a planning concept for defining repetitive delivery patterns according to which stores of a grocery retailer are supplied from a distribution center. Applying repetitive delivery patterns offers major advantages when scheduling the workforce for shelf replenishment, defining cyclic transportation routes and managing warehouse capacities. In doing so, all logistics subsystems of a retail chain, i.e., warehousing, transportation and instore logistics, are jointly scheduled. We propose a novel model to minimize total costs in all associated subsystems of a retail distribution chain. A solution approach is developed for clustering stores and selecting delivery patterns that reflects practical requirements. A broad numerical analysis demonstrates cost savings of 2.5 percent on average compared to a state-of-the-art approach . This considerable cost reduction potential is confirmed by applying the suggested approach to a real case of a major European grocery retailer.
+
+@highlight An MIP model is developed defining repetitive store delivery patterns.
+@highlight The model considers warehouse operations, transportation and instore logistics.
+@highlight The heuristic solution method developed reflects practical requirements and sizes.
+@highlight A numerical study shows that operational costs can be significantly reduced.
+@highlight Significant cost savings were achieved for an European grocery retailer.

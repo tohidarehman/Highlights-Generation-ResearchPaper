@@ -1,0 +1,6 @@
+ In this paper, we study the problem of minimizing the maximum total completion time per machine on m parallel and identical machines. We prove that the problem is strongly NP-hard if m is a part of the input. When m is a given number, a pseudo-polynomial time dynamic programming is proposed. We also show that the worst-case ratio of SPT is at most 2.608 and at least 2.5366 when m is sufficiently large. We further present another algorithm which has a worst-case ratio of 2.
+
+@highlight We study the problem of minimizing the maximum total completion time per machine.
+@highlight The problem is strongly NP-hard if the number of machines is a part of input.
+@highlight We show new lower and upper bounds on the worst-case ratio of SPT.
+@highlight We present another algorithm which has a worst-case ratio of no more than 2.

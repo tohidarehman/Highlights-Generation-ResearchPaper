@@ -1,0 +1,6 @@
+ Electrocardiography (ECG) signals are often contaminated by various kinds of noise or artifacts, for example, morphological changes due to motion artifact, non-stationary noise due to muscular contraction (EMG), etc. Some of these contaminations severely affect the usefulness of ECG signals, especially when computer aided algorithms are utilized. In this paper, a novel ECG enhancement algorithm is proposed based on sparse derivatives. By solving a convex ℓ1 optimization problem, artifacts are reduced by modeling the clean ECG signal as a sum of two signals whose second and third-order derivatives (differences) are sparse respectively. The algorithm is applied to a QRS detection system and validated using the MIT-BIH Arrhythmia database (109,452 anotations), resulting a sensitivity of Se = 99.87% and a positive prediction of +P = 99.88%.
+
+@highlight A new signal model based on sparse derivative is proposed.
+@highlight By solving an l1 optimization problem, a denoising algorithm based on the new signal model is devised.
+@highlight The model (algorithm) is applied to ECG signals.
+@highlight An ECG QRS detection system based on the new algorithm is built and compared to other state-of-art systems.

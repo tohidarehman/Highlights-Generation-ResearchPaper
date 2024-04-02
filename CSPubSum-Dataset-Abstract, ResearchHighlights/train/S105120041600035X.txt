@@ -1,0 +1,5 @@
+ In order to realize the patient privacy protection in medical image, opposite to traditional reversible data hiding (RDH) methods which prior to embed message into the smooth area for pursuing high PSNR value, the proposed method priors to embed message into the texture area of the medical images for improving the quality of the details information and helping accurate diagnosis. Furthermore, in order to decrease the embedding distortion while enhancing the contrast of the texture area, this paper also proposes a message sparse representation method. Experiments implemented on medical images showed that the proposed method enhances the contrast of texture area when compared with previous methods.
+
+@highlight Explain the reason for PSNR metric can't consistent with human visual system.
+@highlight Embed the message into texture area preferentially for helping accurate diagnosis.
+@highlight Propose message sparse representation method for decreasing embedding distortion.

@@ -1,0 +1,6 @@
+ We propose a new speed and departure time optimization algorithm for the pollution-routing problem (PRP), which runs in quadratic time and returns an optimal schedule. This algorithm is embedded into an iterated local search-based metaheuristic to achieve a combined speed, scheduling and routing optimization. The start of the working day is set as a decision variable for individual routes, thus enabling a better assignment of human resources to required demands. Some routes that were evaluated as unprofitable can now appear as viable candidates later in the day, leading to a larger search space and further opportunities of distance optimization via better service consolidation. Extensive computational experiments on available PRP benchmark instances demonstrate the good performance of the algorithm. The flexible departure times from the depot contribute to reduce the operational costs by 8.36% on the considered instances.
+
+@highlight We present a speed and departure time optimization algorithm.
+@highlight A proof of optimality for the proposed speed and departure time optimization algorithm is provided.
+@highlight Computational experiments on the pollution-routing problem are performed.
+@highlight The impact on distance, fuel consumption, and labor costs are investigated.

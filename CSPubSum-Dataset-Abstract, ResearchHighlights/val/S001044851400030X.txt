@@ -1,0 +1,7 @@
+ In geometric constraint solving, Decomposition–Recombination solvers (DR-solvers) refer to a general solving approach where the problem is divided into a set of sub-problems, each sub-problem is recursively divided until reaching basic problems which are solved by a dedicated equational solver. Then the solution to the starting problem is computed by merging the solutions to the sub-problems. Triangle- or tree-decomposition is one of the most widely used approaches in the decomposition step in DR-solvers. It may be seen as decomposing a graph into three subgraphs such that subgraphs pairwise share one graph vertex. Shared vertices are called hinges. Then a merging step places the geometry in each sub-problem with respect to the other two. In this work we report on a new algorithm to decompose biconnected geometric constraint graphs by searching for hinges in fundamental circuits of a specific planar embedding of the constraint graph. We prove that the algorithm is correct.
+
+@highlight A new algorithm to solve the 2D geometric constraint problem is described.
+@highlight The graph is decomposed according to a set of fundamental circuits.
+@highlight Fundamental circuits are induced by a spanning tree.
+@highlight We prove the algorithm soundness.
+@highlight The worst running time is quadratic with the number of geometric elements.

@@ -1,0 +1,7 @@
+ Compactness and landscape connectivity are essential properties for effective functioning of conservation reserves. In this article we introduce a linear integer programming model to determine optimal configuration of a conservation reserve with such properties. Connectivity can be defined either as structural (physical) connectivity or functional connectivity; the model developed here addresses both properties. We apply the model to identify the optimal conservation management areas for protection of Gopher Tortoise (GT) in a military installation, Ft. Benning, Georgia, which serves as a safe refuge for this ‘at risk’ species. The recent expansion in the military mission of the installation increases the pressure on scarce GT habitat areas, which requires moving some of the existent populations in those areas to suitably chosen new conservation management areas within the boundaries of the installation. Using the model, we find the most suitable and spatially coherent management areas outside the heavily used training areas.
+
+@highlight We use integer programming to model spatial/functional connectivity in site selection.
+@highlight We apply the model to test data sets to demonstrate the merits of our approach.
+@highlight Imposing functional connectivity rules out the selection of unfavorable habitat sites.
+@highlight We find optimal connected reserve configurations for protecting an at-risk species.
+@highlight Functionally connected and structurally contiguous reserves differ significantly.

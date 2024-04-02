@@ -1,0 +1,7 @@
+ The family of shortest isothetic paths (FSIP) between two grid points in a digital object A is defined to be the collection of all possible shortest isothetic paths that connect them. We propose here a fast algorithm to compute the FSIP between two given grid points inside a digital object, which is devoid of any hole. The proposed algorithm works with the object boundary as input and does not resort to analysis of the interior pixels. Given the digital object A with n boundary pixels, it first constructs the inner isothetic cover that tightly inscribes A in log time, where g is a positive integer that denotes the unit of the underlying square grid. Then for any two points on the inner cover, it computes the FSIP in time, using certain combinatorial rules based on the characteristic properties of FSIP. We report experimental results that show the effectiveness of the algorithm and its further prospects in shape analysis, object decomposition, and in other related applications.
+
+@highlight An algorithm to compute Family of Shortest Isothetic Paths (FSIP) is proposed.
+@highlight We make certain characterization of FSIP, which leads to the algorithm.
+@highlight Algorithm is discussed in detail with demonstration.
+@highlight We also show how FSIP can be used for shape analysis.
+@highlight Experimental results are given to demonstrate the effectiveness of FSIP.

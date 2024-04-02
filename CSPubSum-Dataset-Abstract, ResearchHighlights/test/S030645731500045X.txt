@@ -1,0 +1,7 @@
+ Extracting opinions and emotions from text is becoming increasingly important, especially since the advent of micro-blogging and social networking. Opinion mining is particularly popular and now gathers many public services, datasets and lexical resources. Unfortunately, there are few available lexical and semantic resources for emotion recognition that could foster the development of new emotion aware services and applications. The diversity of theories of emotion and the absence of a common vocabulary are two of the main barriers to the development of such resources. This situation motivated the creation of Onyx, a semantic vocabulary of emotions with a focus on lexical resources and emotion analysis services. It follows a linguistic Linked Data approach, it is aligned with the Provenance Ontology, and it has been integrated with the Lexicon Model for Ontologies (lemon), a popular RDF model for representing lexical entries. This approach also means a new and interesting way to work with different theories of emotion. As part of this work, Onyx has been aligned with EmotionML and WordNet-Affect.
+
+@highlight Definition of an ontology for emotion representation.
+@highlight Linking to the linguistic linked open data cloud through lemon.
+@highlight Emotion lexicon annotation in several languages and domains available via the EuroSentiment portal.
+@highlight Emotion service specification based on NIF.
+@highlight Vocabularies for different emotion models, including EmotionML and WordNet-Affect.

@@ -1,0 +1,7 @@
+ We consider productivity measurement based on radial DEA models with a single constant input. We show that in this case the Malmquist and the Hicks–Moorsteen productivity indices coincide and are multiplicatively complete, the choice of orientation of the Malmquist index for the measurement of productivity change does not matter, and there is a unique decomposition of productivity change containing two independent sources, namely technical efficiency change and technical change. Technical change decomposes in an infinite number of ways into a radial magnitude effect and an output bias effect. We also show that the aggregate productivity index is given by the geometric mean between any two periods of the simple arithmetic averages of the individual contemporaneous and mixed period distance functions.
+
+@highlight We consider productivity measurement with a single constant input.
+@highlight We show that Malmquist and Hicks–Moorsteen productivity indices coincide.
+@highlight We show that orientation of productivity measurement is irrelevant.
+@highlight We show that productivity change decomposes uniquely into technical efficiency change and technical change.
+@highlight We derive an aggregate productivity index from individual productivity indices.

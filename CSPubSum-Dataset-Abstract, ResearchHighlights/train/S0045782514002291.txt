@@ -1,0 +1,5 @@
+ We consider the extension of the Nitsche method to the case of fluid–structure interaction problems on unfitted meshes. We give a stability analysis for the space semi-discretized problem and show how this estimate may be used to derive optimal error estimates for smooth solutions, irrespectively of the mesh/interface intersection. We also discuss different strategies for the time discretization, using either fully implicit or explicit coupling (loosely coupled) schemes. Some numerical examples illustrate the theoretical discussion.
+
+@highlight Unfitted finite element method for a fluid–structure interaction.
+@highlight Proof of stability and accuracy.
+@highlight Different coupling scheme’s for time advancement: fully coupled or loosely coupled.

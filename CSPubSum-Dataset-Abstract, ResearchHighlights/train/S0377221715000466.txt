@@ -1,0 +1,6 @@
+ In this paper, we consider issues of sustainability in the context of joint trade credit and inventory management in which the demand depends on the length of the credit period offered by the retailer to its customers. We quantify the impacts of the credit period and environmental regulations on the inventory model. Starting with some mild assumptions, we first analyze the model with generalized demand and default risk rates under the Carbon Cap-and-Trade policy, and then we make some extensions to the model with the Carbon Offset policy. We further analytically examine the effects of carbon emission parameters on the retailer’s trade credit and replenishment strategies. Finally, a couple of numerical examples and sensitivity analysis are given to illustrate the features of the proposed model, which is followed by concluding remarks.
+
+@highlight We consider sustainability issues on the joint trade credit and inventory decisions.
+@highlight We analyze the models under various environmental regulations.
+@highlight The effects of carbon emission parameters are performed in rigorous discussions.
+@highlight The influence of environmental costs on the problem is significant.

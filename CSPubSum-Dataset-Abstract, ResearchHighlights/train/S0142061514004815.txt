@@ -1,0 +1,6 @@
+ A power outage brings in economic losses for both the customers and the utilities. Studying these unwanted events and making solid predictions about the outcomes of the interruptions has been an attractive area of interest for the researchers for the last couple of decades. By making use of a customer survey study conducted in Finland, this paper benefits from both the reported cost data collected from customers and from the analytical data that are available and then presents a new hybrid approach to estimate the customer interruption costs of service sector customer segment. Making use of Value Added information of the customers is a common practice for the cost normalization purposes. This paper verifies the approach by comparing the findings of the customer survey and the econometric model suggested here. This study is a unique source in terms of providing a reliable, easy to apply, and a straightforward model for calculating the economic impacts of power outages.
+
+@highlight We analyze the customer interruption costs for service sector customers.
+@highlight It is aimed to come up with an objective and easy to apply model.
+@highlight Customer survey and indirect analytical methods approaches are adopted.
+@highlight Customers are grouped regarding their distinct power consumption characteristics.

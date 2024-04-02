@@ -1,0 +1,7 @@
+ We propose a new optical reconfigurable Network-on-Chip (NoC), named ReFaT ONoC (Reconfigurable Flat and Tree Optical NoC). ReFaT is a dynamically reconfigurable architecture, which customizes the topology and routing paths based on the application characteristics. ReFaT, as an all-optical NoC, routes optical packets based on their wavelengths. For this purpose, we propose a novel architecture for the optical switch, which eliminates the need for optical resource reservation, and thus avoids the corresponding latency and area overheads. As a key idea for dynamic reconfiguration, each application is mapped to a specific set of wavelengths and utilizes its dedicated routing algorithm. We compare the proposed reconfigurable optical NoC with traditional electrical NoCs, as well as non-reconfigurable optical NoCs in terms of data transmission delay, power consumption, and energy dissipation. The simulation results show that on average, ReFaT reduces power and energy consumption by 54.75% and 40%, respectively, compared to the non-reconfigurable ONoC.
+
+@highlight ReFaT enables run-time reconfiguration of network topology and routing algorithm.
+@highlight ReFaT adopts wavelength routing and avoids electrical control packets.
+@highlight ReFaT utilizes a novel wavelength assignment approach to map various topologies.
+@highlight ReFaT architecture facilitates simultaneous multicast and unicast data transmission.
+@highlight ReFaT improves power and energy efficiency compared to non-reconfigurable topologies.

@@ -1,0 +1,5 @@
+ In magnetic resonance (MR) imaging, image spatial resolution is determined by various instrumental limitations and physical considerations. This paper presents a new algorithm for producing a high-resolution version of a low-resolution MR image. The proposed method consists of two consecutive steps:  reconstructs a high-resolution MR image from a given low-resolution observation via solving a joint sparse representation and nonlocal similarity L1-norm minimization problem; and  applies a sparse derivative prior based post-processing to suppress blurring effects. Extensive experiments on simulated brain MR images and two real clinical MR image datasets validate that the proposed method achieves much better results than many state-of-the-art algorithms in terms of both quantitative measures and visual perception.
+
+@highlight Do MR image SR by jointly using sparsity prior, nonlocal similarity, and sparse derivative prior.
+@highlight Use multi-scale first- and second-order derivative to estimate high-frequency information.
+@highlight Use sparse derivative prior based post-processing to suppress blurring effects in MR images.

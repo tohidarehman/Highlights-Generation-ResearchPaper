@@ -1,0 +1,6 @@
+ Installing pedestrian ramps is a common improvement towards a barrier-free environment. This paper introduces a graph-theoretical method of retrofitting of a single-branch Truss-Z (TZ) ramp in a constrained environment. The results produced by this exhaustive search method are usually ideal and better than those produced previously with meta-heuristic methods. A large case study of linking two sections of the Hongo Campus of Tokyo University using an overpass in an extremely constrained environment is presented. TZ modules with 1:12 (8.3%) slope are used, which is allowable in most countries for ramps for self-powered wheelchairs. The results presented here are highly satisfactory both in terms of structural optimization and aesthetics. Visualizations of the TZ ramp system, composed of 124 units, are presented.
+
+@highlight Graph-theoretical method of retrofitting of Truss-Z ramp in constrained environment.
+@highlight This exhaustive search method produces better (ideal) solution than meta-heuristics.
+@highlight Large case study in an extremely constrained environment with 124 TZ units.
+@highlight TZ modules with 1:12 (8.3%) slope are used – allowable for self-powered wheelchairs.

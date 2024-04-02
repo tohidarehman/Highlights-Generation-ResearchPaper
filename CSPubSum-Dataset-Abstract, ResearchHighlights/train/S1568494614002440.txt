@@ -1,0 +1,6 @@
+ Stock selection is an important decision making problem. Trading strategies and rules based on fundamental and technical analysis can be used for decision making process. In this paper, we propose an intelligent stock selection method, which is called case-based reasoning (CBR). This technique uses the fundamental and technical indicators to identify the winning stocks around the earning announcements. CBR method is compared with other artificial intelligence techniques such as multi layer perceptron (MLP), decision trees (QUEST, Classification and Regression Trees, C5), generalized rule induction (GRI) and logistic regression. We show that the performance of CBR is better than the performance of other techniques in terms of classification accuracy, average return, Sharpe ratio and ideal profit.
+
+@highlight We proposed an intelligent stock selection method based on case-based reasoning.
+@highlight Fundamental and technical indicators are used to identify the winning stock.
+@highlight CBR method is compared with other artificial intelligence techniques.
+@highlight We showed that CBR outperforms the other techniques.

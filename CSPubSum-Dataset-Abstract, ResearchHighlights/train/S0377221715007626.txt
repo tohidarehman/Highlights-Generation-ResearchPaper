@@ -1,0 +1,6 @@
+ Personnel rostering is a personnel scheduling problem in which shifts are assigned to employees, subject to complex organisational and contractual time-related constraints. Academic advances in this domain mainly focus on solving specific variants of this problem using intricate exact or (meta)heuristic algorithms, while little attention has been devoted to studying the underlying structure of the problems. The general assumption is that these problems, even in their most simplified form, are NP-hard. However, such claims are rarely supported with a proof for the problem under study. The present paper refutes this assumption by presenting minimum cost network flow formulations for several personnel rostering problems. Additionally, these problems are situated among the existing academic literature to obtain insights into what makes personnel rostering hard.
+
+@highlight Polynomially solvable cases for personnel rostering are identified.
+@highlight New minimum cost network flow reformulations of rostering are presented.
+@highlight Different classes of constraints are studied.
+@highlight Based on previous results, a boundary between easy and hard problems is identified.

@@ -1,0 +1,7 @@
+ In this paper, we develop an optimal shelf-space stocking policy when demand, in addition to the exogenous uncertainty, is influenced by the amount of inventory displayed (supply) on the shelves. Our model exploits stochastic dominance condition; and, we assume that the distribution of realized demand with higher stocking level stochastically dominates the distribution of realized demand with lower stocking level. We show that the critical fractile with endogenous demand may not exceed the critical fractile of the classical newsvendor model. Our computational results validate the optimality of amount of units stocked on the retail shelves.
+
+@highlight An optimal shelf-stocking policy with shelf-space dependent demand.
+@highlight The demand stimulation effect is captured using the concept of stochastic dominance.
+@highlight Differentiate the proposed shelf-stocking policy with the classical newsvendor critical fractile.
+@highlight First result to comprehensively determine the optimal policy under endogenous and exogenous demand uncertainty.
+@highlight Provide managerial insights for retail managers on shelf stocking policy.

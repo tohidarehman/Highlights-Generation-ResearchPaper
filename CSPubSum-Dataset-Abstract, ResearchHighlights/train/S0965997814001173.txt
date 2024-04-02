@@ -1,0 +1,6 @@
+ Permutation flow shop scheduling (PFSP) is among the most studied scheduling settings. In this paper, a hybrid Teaching–Learning-Based Optimization algorithm (HTLBO), which combines a novel teaching–learning-based optimization algorithm for solution evolution and a variable neighborhood search (VNS) for fast solution improvement, is proposed for PFSP to determine the job sequence with minimization of makespan criterion and minimization of maximum lateness criterion, respectively. To convert the individual to the job permutation, a largest order value (LOV) rule is utilized. Furthermore, a simulated annealing (SA) is adopted as the local search method of VNS after the shaking procedure. Experimental comparisons over public PFSP test instances with other competitive algorithms show the effectiveness of the proposed algorithm. For the DMU problems, 19 new upper bounds are obtained for the instances with makespan criterion and 88 new upper bounds are obtained for the instances with maximum lateness criterion.
+
+@highlight A teaching–learning-based optimization is proposed for flow shop problem.
+@highlight A variable neighborhood search is proposed for fast solution improvement.
+@highlight A simulated annealing is adopted as the local search method of VNS.
+@highlight For the DMU problems, some new upper bounds have been obtained.

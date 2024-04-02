@@ -1,0 +1,7 @@
+ This article presents numerical modelling of rural road pavement sections recycled in situ with two materials stabilized with bitumen emulsion. The two materials stabilized with bitumen emulsion are base course materials comprising 25% reclaimed asphalt pavement and 75% natural aggregates with and without 1% cement. A 3D-finite difference model was used to determine the response of these pavement sections when subjected to two types of loads with four types of soil subgrades of varying resistances. A nonlinear elasto–plastic Mohr-Coulomb model was used in the two materials stabilized with bitumen emulsion, and a nonlinear model was adopted in the four soil subgrades. Both the resilient and permanent behaviours of these materials were modelled. An analysis was conducted on rutting and fatigue resistances of the base course materials. The base course material containing 1% cement is more resistant and is apt for use in lightly trafficked rural roads. Both base course materials stabilized with bitumen emulsion will first fail from rutting before fatigue.
+
+@highlight It was used a numerical code to study the response of Bitumen Stabilized Materials
+@highlight A nonlinear elasto–plastic Mohr-Coulomb model was used in BSM
+@highlight Both the resilient and permanent behaviour of BSM were mode lled
+@highlight The BSM material containing 1% cement is more resistant
+@highlight BSM fail first due to rutting before fatigue.

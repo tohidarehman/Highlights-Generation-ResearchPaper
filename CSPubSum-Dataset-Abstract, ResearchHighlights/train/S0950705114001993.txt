@@ -1,0 +1,7 @@
+ This paper presents a novel method to analyse the tonal behaviour of a music piece. The method is based on the development of a novel probability model of the predominant key using the well known Pitch Class Profile (PCP or chroma) descriptor. This feature represents the importance of each note of the chromatic scale within the spectral content of the audio signal. Making use of PCP feature, a main novel contribution presented is the development of new profile models for the characterization of major and minor keys. Most of the key profile models found in the literature assign a single value to each pitch class for a particular key. This value represents the salience of this pitch class in a specific key. The new key profiles, that will be described in this paper, are based on the identification of specific probability density functions (PDFs), defined after the analysis of the presence of the pitch classes of the chromatic scale in the different keys.
+
+@highlight A novel model to analyse the tonality in music is proposed.
+@highlight New key profile models are based on full probability density functions.
+@highlight Each pitch class for each key is assigned a full probability density function.
+@highlight Analytical expressions of the probability density functions of the key models are given.
+@highlight The new key profile models were used in detection experiments at the MIREX contest.

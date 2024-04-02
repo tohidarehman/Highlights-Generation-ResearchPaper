@@ -1,0 +1,6 @@
+ Conditional Value at Risk (CVaR) is widely used in portfolio optimization as a measure of risk. CVaR is clearly dependent on the underlying probability distribution of the portfolio. We show how copulas can be introduced to any problem that involves distributions and how they can provide solutions for the modeling of the portfolio. We use this to provide the copula formulation of the CVaR of a portfolio. Given the critical dependence of CVaR on the underlying distribution, we use a robust framework to extend our approach to Worst Case CVaR (WCVaR). WCVaR is achieved through the use of rival copulas. These rival copulas have the advantage of exploiting a variety of dependence structures, symmetric and not. We compare our model against two other models, Gaussian CVaR and Worst Case Markowitz. Our empirical analysis shows that WCVaR can asses the risk more adequately than the two competitive models during periods of crisis.
+
+@highlight We provide the copula formulation for Value at Risk.
+@highlight We extend Value at Risk to Conditional Value at Risk for copulas.
+@highlight Linear optimization problem for Worst Case Conditional Value at Risk with copulas.
+@highlight Numerical applications in portfolio optimization of stock markets.

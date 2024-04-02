@@ -1,0 +1,7 @@
+ Trying to determine higher education quality, one gets quickly to one of its significant dimensions, namely the quality of faculty members’ teaching. The latter and, overall, the quality of any university course should be certainly evaluated by their recipients, namely students. In this paper we develop a statistical framework based on Statistical Quality Control mainly, which can be used in order to exploit student evaluations as much as possible. More specifically we present two directions of data monitoring and analysis; the one uses control charts and the other hypotheses testing. The results that can be raised through both directions are crucial for any decision maker.
+
+@highlight We develop a statistical framework based on Statistical Quality Control – SQC mainly.
+@highlight It can be used in order to exploit student evaluations as much as possible.
+@highlight We present two directions/axes of data monitoring and analysis.
+@highlight The first make use of the most important SQC tool, namely control charts.
+@highlight The second exploit “multiple” hypotheses testing.

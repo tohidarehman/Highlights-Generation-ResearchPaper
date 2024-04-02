@@ -1,0 +1,7 @@
+ This paper deals with model-based pose estimation (or camera localization). We propose a direct approach that takes into account the image as a whole. For this, we consider a similarity measure, the mutual information. Mutual information is a measure of the quantity of information shared by two signals (or two images in our case). Exploiting this measure allows our method to deal with different image modalities (real and synthetic). Furthermore, it handles occlusions and illumination changes. Results with synthetic (benchmark) and real image sequences, with static or mobile camera, demonstrate the robustness of the method and its ability to produce stable and precise pose estimations.
+
+@highlight We tackle the 3D model based tracking using the entire image and a textured 3D model.
+@highlight We propose a nonlinear optimization of the problem based on mutual information.
+@highlight Mutual information deals with the different modalities of real and virtual images.
+@highlight Our proposed method withdraws feature detection and matching issues.
+@highlight Results show the success of the approach and its precision.

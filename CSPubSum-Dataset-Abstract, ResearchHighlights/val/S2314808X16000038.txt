@@ -1,0 +1,7 @@
+ In this article, we established abundant traveling wave solutions for nonlinear evolution equations. The exp(–φ(η))-expansion method is used to construct traveling wave solutions for the generalized Zakharov–Kuznetsov–Benjamin–Bona–Mahony equation and Simplified Modified form of Camassa–Holm equation. The traveling wave solutions are expressed in terms of the hyperbolic functions, the trigonometric functions and the rational functions. The proposed solutions are found to be important for the explanation of some practical physical problems in mathematical physics and engineering.
+
+@highlight Exp(–φ(η))-expansion method
+@highlight Nonlinear evolution equation
+@highlight Generalized Zakharov–Kuznetsov–Benjamin–Bona–Mahony equation
+@highlight Simplified Modified form of Camassa–Holm equation
+@highlight Traveling wave solutions

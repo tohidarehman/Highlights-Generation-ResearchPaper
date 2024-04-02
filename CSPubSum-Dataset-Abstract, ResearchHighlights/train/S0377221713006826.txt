@@ -1,0 +1,6 @@
+ In the present article, we propose a new control chart for monitoring high quality processes. More specifically, we suggest declaring the monitored process out of control, by exploiting a compound rule couching on the number of conforming units observed between the (i −1)th and the ith nonconforming item and the number of conforming items observed between the (i −2)th and the ith nonconforming item. Our numerical experimentation demonstrates that the proposed control chart, in most of the cases, exhibits a better (or at least equivalent) performance than its competitors.
+
+@highlight A control chart (CC) for monitoring high quality processes is proposed.
+@highlight The Run Length distribution of this CC is studied using an appropriate Markov Chain.
+@highlight Numerical calculations are carried out to investigate the performance of the new CC.
+@highlight The performance of the new CC is compared to alternative CCs.

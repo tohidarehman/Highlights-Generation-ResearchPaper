@@ -1,0 +1,5 @@
+ This paper introduces an original methodology, derived by the robust order-m model, to estimate technical efficiency with spatial autocorrelated data using a nonparametric approach. The methodology is aimed to identify potential competitors on a subset of productive units that are identified through spatial dependence, thus focusing on peers located in close proximity of the productive unit. The proposed method is illustrated in a simulation setting that verifies the territorial differences between the nonparametric unconditioned and the conditioned estimates. A firm-level application to the Italian industrial districts is proposed in order to highlight the ability of the new method to separate the global intangible spatial effect from the efficiency term on real data.
+
+@highlight A nonparametric method to estimate efficiency in presence of spatial dependence.
+@highlight We extend order-m finding peers identified by a measure of spatial dependence.
+@highlight Verified the territorial differences for unconditioned and conditioned estimates.

@@ -1,0 +1,7 @@
+ This paper resolves the complexity status of the well-known Traveling Repairman Problem on a line (Line-TRP) with general processing times at the request locations and deadline restrictions. It has long remained an open research question whether an exact solution procedure with pseudo-polynomial running time can be developed for this version of the Traveling Repairman Problem that was known to be at least binary -hard. The presented proof of strong -completeness of the problem is provided by a reduction from 3-PARTITION. Since recent literature provides significant new results for further variants of the Line-TRP and the Line-TSP, a brief updated overview of the complexity status of the different variants is given. Another major contribution is that a practically applicable exact best-first search Branch&Bound approach that optimally solves instances of real-world size in reasonable time is proposed. By applying sophisticated dominance rules as well as lower bounds, the number of enumerated partial solutions is kept limited. The efficiency of the new approach and the applied instruments is validated by a computational study.
+
+@highlight Resolving the complexity status of the Line-TRP with processing times and deadlines.
+@highlight Proof of strong NP-completeness by a reduction from 3-PARTITION.
+@highlight A new practically applicable best-first Branch & Bound procedure is proposed.
+@highlight Development of various lower bounds and dominance rules.
+@highlight Efficiency of the new approach is validated by a computational study.

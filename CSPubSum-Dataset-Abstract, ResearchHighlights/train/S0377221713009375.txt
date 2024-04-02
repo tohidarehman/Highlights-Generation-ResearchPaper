@@ -1,0 +1,7 @@
+ In this paper, a new general scalarization technique for solving multiobjective optimization problems is presented. After studying the properties of this formulation, two problems as special cases of this general formula are considered. It is shown that some well-known methods such as the weighted sum method, the -constraint method, the Benson method, the hybrid method and the elastic -constraint method can be subsumed under these two problems. Then, considering approximate solutions, some relationships between -(weakly, properly) efficient points of a general (without any convexity assumption) multiobjective optimization problem and -optimal solutions of the introduced scalarized problem are achieved.
+
+@highlight A new scalarization technique for multiobjective programming is presented.
+@highlight It is shown that some well-known scalarization methods can be seen as special case of that.
+@highlight We prove some results on (weakly, properly) efficient solutions.
+@highlight We deal with approximate solutions and derive some necessary/sufficient conditions.
+@highlight We summarize the obtained results in two tables.

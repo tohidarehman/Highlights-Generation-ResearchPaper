@@ -1,0 +1,7 @@
+ Magnetic resonance imaging (MRI) is frequently used to detect and segment multiple sclerosis lesions due to the detailed and rich information provided. We present a modified expectation-maximisation algorithm to segment brain tissues (white matter, grey matter, and cerebro-spinal fluid) as well as a partial volume class containing fluid and grey matter. This algorithm provides an initial segmentation in which lesions are not separated from tissue, thus a second step is needed to find them. This second step involves the thresholding of the FLAIR image, followed by a regionwise refinement to discard false detections. To evaluate the proposal, we used a database with 45 cases comprising 1.5T imaging data from three different hospitals with different scanner machines and with a variable lesion load per case. The results for our database point out to a higher accuracy when compared to two of the best state-of-the-art approaches.
+
+@highlight An algorithm for multiple sclerosis lesion detection in brain MRI is presented.
+@highlight An initial segmentation of brain tissues is performed by a modified EM algorithm.
+@highlight Lesions are located as outliers of the grey matter FLAIR intensity distribution.
+@highlight 45 cases from three different scanner machines were used to evaluate the algorithm.
+@highlight The results show a moderate agreement between manual and automatic detections.

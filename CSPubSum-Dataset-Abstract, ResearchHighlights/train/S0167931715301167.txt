@@ -1,0 +1,6 @@
+ ï»¿We present a new chlorine-free dry etching process which was used to successfully etch indium antimonide grown on gallium arsenide substrates while keeping the substrate temperature below 150 Â°C. By use of a reflowed photoresist mask a sidewall with 60 degree positive slope was achieved, whereas a nearly vertical one was obtained when hard masks were used. Long etch tests demonstrated the non-selectivity of the process by etching through the entire multi-layer epitaxial structure. Electrical and optical measurements on devices fabricated both by wet and dry etch techniques provided similar results, proving that the dry etch process does not cause damage to the material. This technique has a great potential to replace the standard wet etching techniques used for fabrication of indium antimonide devices with a non-damaging low temperature plasma process.
+
+@highlight Chlorine-free low-temperature dry etch of MBE grown InSb on GaAs
+@highlight 60° positive sloped or nearly vertical etch depending on mask
+@highlight Non-selective process etching through Insb, GaSb and GaAs
+@highlight Low damage process with potential to replace standard InSb wet etch

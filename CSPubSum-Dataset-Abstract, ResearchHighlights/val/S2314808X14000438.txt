@@ -1,0 +1,6 @@
+ The aim of present paper is to present a numerical algorithm for time-fractional Black–Scholes equation with boundary condition for a European option problem by using homotopy perturbation method and homotopy analysis method. The fractional derivative is described in the Caputo sense. The methods give an analytic solution in the form of a convergent series with easily computable components, requiring no linearization or small perturbation. The methods show improvements over existing analytical techniques. Two examples are given and show that the homotopy perturbation method and homotopy analysis method are very effective and convenient overcomes the difficulty of traditional methods. The numerical results show that the approaches are easy to implement and accurate when applied to time-fractional Black–Scholes equation.
+
+@highlight We consider a fractional model of Black–Scholes equation.
+@highlight The HPM and HAM are applied to obtain the solution of the problem.
+@highlight The results obtained by HPM and HAM are in excellent agreement.
+@highlight The numerical results show that the techniques are easy to implement and accurate.

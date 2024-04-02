@@ -1,0 +1,7 @@
+ We study the effect of capacity uncertainty on the inventory decisions of a risk-averse newsvendor. We consider two well-known risk criteria, namely Value-at-Risk (VaR) included as a constraint and Conditional Value-at-Risk (CVaR). For the risk-neutral newsvendor, we find that the optimal order quantity is not affected by the capacity uncertainty. However, this result does not hold for the risk-averse newsvendor problem. Specifically, we find that capacity uncertainty decreases the order quantity under the CVaR criterion. Under the VaR constraint, capacity uncertainty leads to an order decrease for low confidence levels, but to an order increase for high confidence levels. This implies that the risk criterion should be carefully selected as it has an important effect on inventory decisions. This is shown for the newsvendor problem, but is also likely to hold for other inventory control problems that future research can address.
+
+@highlight We study the effect of capacity uncertainty on a risk-averse newsvendor’s decision.
+@highlight We consider two criteria: Value-at-Risk as a constraint and Conditional Value-at-Risk.
+@highlight Capacity uncertainty decreases the order quantity under the CVaR.
+@highlight Capacity uncertainty may increase or decrease the order quantity under the VaR constraint.
+@highlight Under the VaR constraint, the effect depends on the confidence level.

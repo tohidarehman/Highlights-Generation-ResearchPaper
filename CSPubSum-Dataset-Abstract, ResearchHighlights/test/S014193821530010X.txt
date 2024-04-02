@@ -1,0 +1,6 @@
+ For visual secret sharing (VSS), general access structure (GAS), which can freely define the qualified set and the forbidden set, provides dealers the ability to share secret information with the qualified set but not the forbidden set. In previous studies, the proposed GAS schemes have focused on strong GAS, but it has retained restrictions and inconvenience in some secret-sharing scenarios. Recently, the random-grid-based VSS (RG-based VSS) technique has aimed to overcome the problem of pixel expansion from which the visual-cryptography-based VSS (VC-based VSS) techniques usually suffer. This paper presents a flexible GAS VSS scheme by RG that is appropriate for wide use and that serves special cases like (2, n), (n, n), and (k, n). The paper also outlines how the scheme can be extended for multiple secrets. The performance and the security of the scheme are theoretically analyzed.
+
+@highlight This flexible general access structure VSS scheme is appropriate for wide use.
+@highlight The paper outlines how the scheme can be extended for multiple secrets.
+@highlight The performance and the security of the scheme are theoretically analyzed.
+@highlight This method serves special cases like (2, n), (n, n), and (k, n).

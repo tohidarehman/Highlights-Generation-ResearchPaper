@@ -1,0 +1,6 @@
+ In the homologous genes studied, the exons and introns alternated in the same order in mouse and human. We studied, in both species: corresponding short segments of introns, whole corresponding introns and complete homologous genes. We considered the total number of nucleotides and the number and orientation of the SINE inserts. Comparisons of mouse and human data series showed that at the level of individual relatively short segments of intronic sequences the stochastic variability prevails in the local structuring, but at higher levels of organization a deterministic component emerges, conserved in mouse and human during the divergent evolution, despite the ample re-editing of the intronic sequences and the fact that processes such as SINE spread had taken place in an independent way in the two species. Intron conservation is negatively correlated with the SINE occupancy, suggesting that virus inserts interfere with the conservation of the sequences inherited from the common ancestor.
+
+@highlight Comparing the introns in mouse and human orthologous genes.
+@highlight Differences and similarities in the distribution of Alu (human) and B1 SINEs (mouse).
+@highlight Stochastic and deterministic components in intronic evolution in mammals.
+@highlight Intron conservation is negatively correlated with the SINE occupancy.

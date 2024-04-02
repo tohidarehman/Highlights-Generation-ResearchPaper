@@ -1,0 +1,7 @@
+ Pisinger et al. introduced the concept of ‘aggressive reduction’ for large-scale combinatorial optimization problems. The idea is to spend much time and effort in reducing the size of the instance, in the hope that the reduced instance will then be small enough to be solved by an exact algorithm. We present an aggressive reduction scheme for the ‘Simple Plant Location Problem’, which is a classical problem arising in logistics. The scheme involves four different reduction rules, along with lower- and upper-bounding procedures. The scheme turns out to be particularly effective for instances in which the facilities and clients correspond to points on the Euclidean plane.
+
+@highlight The simple plant location problem is a classical problem in OR.
+@highlight We present an aggressive reduction scheme for it.
+@highlight The reduction procedures are based on optimality arguments and linear programming.
+@highlight Typically over 98% of the variables are eliminated.
+@highlight This enables larger instances than ever before to be solved to proven optimality.

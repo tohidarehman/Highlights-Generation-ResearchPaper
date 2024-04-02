@@ -1,0 +1,6 @@
+ A bullwhip measure for a two-stage supply chain with an order-up-to inventory policy is derived for a general, stationary SARMA(p, q) × (P, Q) demand process. Explicit expressions for several SARMA models are obtained to illustrate the key relationship between lead-time and seasonal lag. It is found that the bullwhip effect can be reduced considerably by shortening the lead-time in relation to the seasonal lag value.
+
+@highlight A two-stage supply chain with an order-up-to inventory policy is considered.
+@highlight A bullwhip measure for a general SARMA (p, q) × (P, Q)
+@highlight demand process is derived.
+@highlight Can exploit link between lead-time and seasonal lag to reduce bullwhipe effect.

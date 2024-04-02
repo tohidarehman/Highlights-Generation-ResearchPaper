@@ -1,0 +1,6 @@
+ Visual secret sharing (VSS) schemes based on visual cryptography (VC) or random grids (RGs) have been proposed in the past decade with the advantages of easy implementation, efficiency secret recovering and perfect security. As the concept of multiple secret images has gained more and more attention in academia, the novel concept of VC-based VSS with cyclic access structure has been discussed recently, which is a special case of multiple VSS, allowing participants to reconstruct the secret with the one next or last to him/her in a cyclic order. To obtain the benefit of RG-based VSS compared with VC-based VSS, this paper proposes the new VSS scheme with cyclic access structure for multiple secret images by random grids. The experimental results and theoretical security analysis demonstrate the feasibility.
+
+@highlight A VSS scheme with cyclic access structure for multiple images by random grids.
+@highlight The drawbacks from VC-based while inheriting all its advantages are removed.
+@highlight The first advantage is loosening limitation of secret number.
+@highlight The second advantage is removing pixel expansion while visual quality is guaranteed.

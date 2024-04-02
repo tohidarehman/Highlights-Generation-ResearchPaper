@@ -1,0 +1,7 @@
+ Survivors trapped in void spaces formed when buildings collapse in an earthquake may be saved if search and rescue (SAR) operations are quick. A novel computational approach aims to provide building information that can guide SAR teams, thus minimizing their risk and accelerating operations. The inputs are an ‘as-built’ BIM model of the building before an earthquake and a partial ‘as-damaged’ BIM model of the exterior components after the earthquake derived from a terrestrial laser scan. A large set of possible collapse patterns is generated before the earthquake. After the event, the pattern with geometry most similar to that of the ‘as-damaged’ exterior BIM can be selected rapidly. This paper details the selection methods, which use least sum of point distances and Modal Assurance Criteria (MAC) algorithms, and illustrates their operation on a series of simulated computer models of collapsed structures, thus demonstrating the potential feasibility of the proposed approach.
+
+@highlight Search and rescue (SAR) operations in buildings after an earthquake must be quick.
+@highlight A novel computational approach provides a building information model to aid SAR teams.
+@highlight Many collapse candidate models are generated before the quake from an as-built BIM.
+@highlight The ‘best-fit’ model is matched after the quake using terrestrial laser scanning.
+@highlight Feasibility has been demonstrated using Modal Assurance Criteria (MAC) algorithms.

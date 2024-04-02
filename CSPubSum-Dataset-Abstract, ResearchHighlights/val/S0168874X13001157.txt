@@ -1,0 +1,6 @@
+ In this paper, finite element formulation of various four unknown shear deformation theories is presented for the bending and vibration analyses of functionally graded plates. The present theories have strong similarity with the classical plate theory and accounts for shear deformation effects without using any shear correction factors. A four-node quadrilateral finite element is developed using Lagrangian and Hermitian interpolation functions to describe the primary variables corresponding to the in-plane displacements and transverse displacement, respectively. Material properties are assumed to be graded in the thickness direction according to a power-law distribution in terms of volume fractions of the constituents. Convergence test and comparison studies are performed for thin and very thick plates to demonstrate the accuracy of the present formulation.
+
+@highlight A new plate element is developed for functionally graded plates.
+@highlight The present element is based on various four unknown shear deformation theories.
+@highlight Numerical examples are presented to verify the accuracy of the present element.
+@highlight The proposed element is capable of modeling both very thin and thick plates.

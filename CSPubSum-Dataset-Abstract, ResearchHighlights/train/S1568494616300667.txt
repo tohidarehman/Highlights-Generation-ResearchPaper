@@ -1,0 +1,6 @@
+ Dimensionality reduction is a useful technique to cope with high dimensionality of the real-world data. However, traditional methods were studied in the context of datasets with only numeric attributes. With the demand of analyzing datasets involving categorical attributes, an extension to the recent dimensionality-reduction technique t-SNE is proposed. The extension facilitates t-SNE to handle mixed-type datasets. Each attribute of the data is associated with a distance hierarchy which allows the distance between numeric values and between categorical values be measured in a unified manner. More importantly, domain knowledge regarding distance considering semantics embedded in categorical values can be specified via the hierarchy. Consequently, the extended t-SNE can project the high-dimensional, mixed data to a low-dimensional space with topological order which reflects user's intuition.
+
+@highlight An integrated approach of dimensionality-reduction technique is proposed.
+@highlight The approach can handle mixed-type datasets involving categorical attributes.
+@highlight Semantic similarity embedded in categorical values is taken into account.
+@highlight The proposed approach improves topological order of the high-dimensional, mixed data in the low-dimensional space.

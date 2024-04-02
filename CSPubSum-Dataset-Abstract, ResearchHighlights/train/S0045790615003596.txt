@@ -1,0 +1,7 @@
+ We present a watermarking algorithm to synchronously transmit Gong-Che notation musical scores and their musical instrument digital interface (MIDI) information. Our algorithm transforms the MIDI information into a binary sequence, which is used to form watermarking data. This watermark is embedded into the Gong-Che notation musical score image, using an inward clockwise rotation. The algorithm then uses optical music recognition to judge whether the musical information in the image is loss. Experiments have validated the effectiveness of our watermarking and expansion algorithms. The expansion process increases transmission accuracy, and the added processing time is minimal. Furthermore, our methodology can be applied to other musical notations such as conventional musical notation or numbered musical notation.
+
+@highlight Achieve synchronous transmission of GCN musical scores and their MIDI information.
+@highlight Examine difference numbers of connected components in original and watermarked scores.
+@highlight Run expansion algorithm on original score to improve note extraction accuracy rate.
+@highlight Minimal added time complexity needed to expand the score and avoid information loss.
+@highlight Our algorithms are suitable for Conventional Musical Notation.

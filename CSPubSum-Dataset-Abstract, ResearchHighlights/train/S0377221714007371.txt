@@ -1,0 +1,7 @@
+ In this paper we analyze a situation in which several firms deal with inventory problems concerning the same type of product. We consider that each firm uses its limited capacity warehouse for storing purposes and that it faces an economic order quantity model where storage costs are irrelevant (and assumed to be zero) and shortages are allowed. In this setting, we show that firms can save costs by placing joint orders and obtain an optimal order policy for the firms. Besides, we identify an associated class of costs games which we show to be concave. Finally, we introduce and study a rule to share the costs among the firms which provides core allocations and can be easily computed.
+
+@highlight We analyze a situation in which several firms deal with inventory problems concerning the same type of product and having limited capacity warehouses.
+@highlight We find a collective optimal policy when a coalition cooperates by placing joint orders.
+@highlight We show that the formation of the grand coalition is profitable.
+@highlight We use cooperative game theory tools to allocate the total cost among the agents.
+@highlight For each problem, we obtain a coalitional stable allocation easy to compute.

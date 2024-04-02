@@ -1,0 +1,8 @@
+ We consider the two-machine no-wait open shop minimum makespan problem in which the determination of an optimal solution requires an optimal pairing of the jobs followed by the optimal sequencing of the job pairs. We show that the required enumeration can be curtailed by reducing the pair sequencing problem for a given pair set to a traveling salesman problem which is equivalent to a two-machine no-wait flow shop problem solvable in O(n log n) time. We then propose an optimal O(n log n) algorithm for the proportionate problem with equal machine speeds in which each job has the same processing time on both machines. We show that our O(n log n) algorithm also applies to the more general proportionate problem with equal machine speeds and machine-specific setup times. We also analyze the proportionate problem with unequal machine speeds and conclude that the required enumeration can be further curtailed (compared to the problem with arbitrary job processing times) by eliminating certain job pairs from consideration.
+
+@highlight We consider the two-machine no-wait open shop makespan problem.
+@highlight We reduce the pair sequencing problem to a solvable traveling salesman problem.
+@highlight We present an O(n
+@highlight log
+@highlight n) algorithm for the proportionate problem.
+@highlight We also analyze the proportionate problem with unequal machine speeds.

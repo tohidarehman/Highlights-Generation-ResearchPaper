@@ -1,0 +1,7 @@
+ In this paper we present a novel template-based approach for fast object detection. In particular we investigate the use of Dominant Orientation Templates (DOT), a binary template representation introduced by Hinterstoisser et al., as a means for fast detection of objects even if textureless. During training, we learn a binary mask for each template that allows to remove background clutter while at the same time including relevant context information. These mask templates then serve as weak classifiers in an Adaboost framework. We demonstrate our method on detection of shape-oriented object classes as well as multiview vehicle detection. We obtain a fast yet highly accurate method for category level detection that compares favorably to other more complicated yet much slower approaches. We further show how to efficiently transfer meta-data using the top most similar activated templates. Finally, we propose an optimization scheme for detection of specific objects using our proposed masks trained by the SVM, resulting in an increment of up to 17% in performance of the DOT method, without sacrificing testing speed and it is able to run the training on real time.
+
+@highlight An efficient category-level object detector.
+@highlight We base our method on binary dominant orientation templates.
+@highlight We learn efficiently a binary mask for each template.
+@highlight Our masks are based on feature selection using a linear support vector machine.
+@highlight We propose an optimization method for template based detectors.

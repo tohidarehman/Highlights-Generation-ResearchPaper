@@ -1,0 +1,7 @@
+ We face the problem of obtaining the optimal polygonal approximation of a digital planar curve. Given an ordered set of points on the Euclidean plane, an efficient method to obtain a polygonal approximation with the minimum number of segments, such that, the distortion error does not excess a threshold, is proposed. We present a novel algorithm to determine the optimal solution for the min-# polygonal approximation problem using the sum of square deviations criterion on closed curves. Our proposal, which is based on Mixed Integer Programming, has been tested using a set of contours of real images, obtaining significant differences in the computation time needed in comparison to the state-of-the-art methods.
+
+@highlight A novel method to solve the min-# polygonal approximation problem is proposed.
+@highlight The approach uses a modified Mixed Integer Programming model to solve the min-# problem.
+@highlight The proposed model is smaller than previous proposals.
+@highlight The novel procedure obtains the optimal solution faster than state-of-the-art methods.
+@highlight Only one execution of our procedure is needed to assure the optimality of the solution.

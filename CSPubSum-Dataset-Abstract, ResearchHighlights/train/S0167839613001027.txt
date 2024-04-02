@@ -1,0 +1,8 @@
+ In this paper, the dual representation of spatial parametric curves and its properties are studied. In particular, rational curves have a polynomial dual representation, which turns out to be both theoretically and computationally appropriate to tackle the main goal of the paper: spatial rational Pythagorean-hodograph curves (PH curves). The dual representation of a rational PH curve is generated here by a quaternion polynomial which defines the Euler–Rodrigues frame of a curve. Conditions which imply low degree dual form representation are considered in detail. In particular, a linear quaternion polynomial leads to cubic or reparameterized cubic polynomial PH curves. A quadratic quaternion polynomial generates a wider class of rational PH curves, and perhaps the most useful is the ten-parameter family of cubic rational PH curves, determined here in the closed form.
+
+@highlight Dual representation of spatial rational PH curves is presented.
+@highlight Connection between the degrees of a dual and a point representation of rational curves is revealed.
+@highlight It is proven that linear quaternion polynomials lead to reparameterized cubic PH curves.
+@highlight Spatial rational PH curves of a class
+@highlight are derived in a closed form having
+@highlight degrees of freedom.

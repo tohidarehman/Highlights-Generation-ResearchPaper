@@ -1,0 +1,6 @@
+ In this paper, we use stochastic dynamic programming to model the choice of a municipality which has to design an optimal waste management program under uncertainty about the price of recyclables in the secondary market. The municipality can, by undertaking an irreversible investment, adopt a flexible program which integrates the existing landfill strategy with recycling, keeping the option to switch back to landfilling, if profitable. We determine the optimal share of waste to be recycled and the optimal timing for the investment in such a flexible program. We find that adopting a flexible program rather than a non-flexible one, the municipality: (i) invests in recycling capacity under circumstances where it would not do so otherwise; (ii) invests earlier; and (iii) benefits from a higher expected net present value.
+
+@highlight We determine the optimal recycling policy within a flexible waste management program.
+@highlight We determine the optimal time for investing in a flexible waste management program.
+@highlight Flexibility is purchased to reduce the impact of uncertainty on investment.
+@highlight Investment in a flexible program occurs earlier and at a higher expected NPV.

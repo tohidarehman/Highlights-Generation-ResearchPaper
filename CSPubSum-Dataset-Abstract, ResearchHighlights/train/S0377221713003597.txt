@@ -1,0 +1,6 @@
+ Scientific Research Assessment (SRA) is receiving increasing attention in both academic and industry. More and more organizations are recognizing the importance of SRA for the optimal use of scarce resources. In this paper, a vague set theory based decision support approach is proposed for SRA. Specifically, a family of parameterized S-OWA operator is developed for the aggregation of vague assessments. The proposed approach is introduced to evaluate the research funding programs of the National Natural Science Foundation of China (NSFC). It provides a soft and expansive way to help the decision maker in NSFC to make his decisions. The proposed approach can also be used for some other agencies to make similar assessment.
+
+@highlight We present a novel decision support method based on vague set theory.
+@highlight A new family of parameterized S-OWA operator is first developed for the aggregation of vague values.
+@highlight This method provides a soft and expansive way to help the decision maker to make his decisions.
+@highlight The proposed method can be used for many agencies to make project assessment.

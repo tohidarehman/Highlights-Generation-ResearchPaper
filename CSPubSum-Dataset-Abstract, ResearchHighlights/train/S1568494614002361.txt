@@ -1,0 +1,8 @@
+ Most of the existing results mainly concentrate on the convergence analysis and stability analysis of Particle Swarm Optimization (PSO) in the presence of ω ∈. However, few existing works discuss the convergence and the stability of time-varying stochastic PSO swarm system from the perspective of the consensus. This paper firstly proposes an improved consensus protocol on the basis of the velocity and position equations of the canonical PSO algorithm, and transforms the dynamical PSO system into one new linear discrete-time system including random variables. Finally several important theorems concerning the mean square consensus are provided according to the existing important results of nonnegative random matrices, stability theory of large-scale system, etc. Furthermore, the boundary of consensus region is given to better select the parameters in PSO algorithm. Finally, numerical simulation results chiefly discuss the convergence analysis of each particle and demonstrate the effectiveness of the above-mentioned theorems.
+
+@highlight Consensus analysis of PSO algorithm in the presence of ω
+@highlight ∈[−1, 0].
+@highlight Construction of a class of stochastic PSO system model.
+@highlight Quantization of the mean and variance of a common stochastic variable.
+@highlight Boundary conditions of consensus area are given under an improved protocol.
+@highlight The experiment concentrates on states consensus of all particles.

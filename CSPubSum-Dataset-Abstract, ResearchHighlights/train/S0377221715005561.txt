@@ -1,0 +1,6 @@
+ The financial health of local governments has attracted considerable interest over the past couple of decades. In this study, we follow a benchmarking perspective and introduce a multi-attribute financial evaluation model that allows peer assessments to be made, including comparisons over time, while differentiating between managerial performance and the effect of the external environment. The model is applied to a large database involving the entire population of French municipalities over the period 2000–2012 to assess how the reforms implemented over the past decade (taxation and decentralization) have affected the financial performance of local governments in France. The findings are of particular interest to both the academia and policymakers including local public authorities and central governments.
+
+@highlight Introduction of a multi-attribute peer assessment approach for panel data.
+@highlight A rich data set with more than 35,000 French municipalities over 2000–2012.
+@highlight Distinction of management competence effects from the external conditions.
+@highlight Analysis of the impact of decentralization and amalgamation processes.

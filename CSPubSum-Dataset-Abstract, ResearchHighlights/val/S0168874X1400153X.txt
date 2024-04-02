@@ -1,0 +1,7 @@
+ Geometric designs for the controlled fragmentation of metal cylindrical shells have been considered via CTH hydrocode simulations. Fragmentation is controlled by engineering notches on the interior of the shells. Design parameters considered include the shell radius, thickness, and the depth and spacing of interior notches. A large number of shell designs were analyzed and their effectiveness on the controlled fragmentation categorized. The best overall controlled fragmentation designs exhibit full and complete fragment breakup as prescribed along the system of interior notches without any of the individual fragments naturally fragmenting throughout their thicknesses. For the combination of the Composition C-4 explosive and the 4340 steel, the best performing designs were shown to commonly possess the following characteristics:  they each have notch or groove depths greater than half of the shell thickness,  they each have notch or groove spacing within a range that is approximately the same as the shell thickness, and  they each have shell thicknesses many times smaller than the shell radius.
+
+@highlight We consider designs for the controlled fragmentation of metal cylindrical shells.
+@highlight The best performing designs were shown to commonly possess the following features:
+@highlight They each have notch or groove depths greater than half of the shell thickness.
+@highlight They each have notch spacing within a range approximately the shell thickness.
+@highlight They each have shell thicknesses many times smaller than the shell radius.

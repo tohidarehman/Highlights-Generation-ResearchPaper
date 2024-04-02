@@ -1,0 +1,7 @@
+ Virtual campuses (VCs) are becoming complex applications. Nowadays, users demand more tools, more e-learning platforms, and fewer dependencies among these platforms. To deal with these requirements the Virtual Campus Advanced Architecture project has defined multitier software architecture for VC based on the SOA integration of e-learning platforms. This solution defines a set of interfaces that standardizes the core functions of learning management systems (LMSs), so decoupling VC from LMSs and promoting its evolution towards the SaaS model. Simplicity and viability have been key issues in the development of these interfaces that have been implemented for Blackboard Learn, Moodle and Sakai.
+
+@highlight This paper describes and defines several architectures for virtual campuses (VCs).
+@highlight One of these architectures promotes VCs independent of their underlying LMSs.
+@highlight We define a set of software interfaces that isolate VCs from specific LMSs.
+@highlight Implementation of these interfaces for three relevant LMSs is also provided.
+@highlight A running prototype of virtual campus has been deployed and it has been used by users.

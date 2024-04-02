@@ -1,0 +1,7 @@
+ Current strategies for real-time rendering of trimmed spline surfaces re-approximate the data, pre-process extensively or introduce visual artifacts. This paper presents a new approach to rendering trimmed spline surfaces that guarantees visual accuracy efficiently, even under interactive adjustment of trim curves and spline surfaces. The technique achieves robustness and speed by discretizing at a near-minimal correct resolution based on a tight, low-cost estimate of adaptive domain griding. The algorithm is highly parallel, with each trim curve writing itself into a slim lookup table. Each surface fragment then makes its trim decision robustly by comparing its parameters against the sorted table entries. Adding the table-and-test to the rendering pass of a modern graphics pipeline achieves anti-aliased sub-pixel accuracy at high render-speed, while using little additional memory and fragment shader effort, even during interactive trim manipulation.
+
+@highlight Tight estimates relate domain resolution to screen resolution of trimmed surfaces.
+@highlight Based on the estimates, sub-pixel accuracy of a display algorithm is proven.
+@highlight The algorithm has been implemented within the standard graphics pipeline.
+@highlight The implementation enables interactive editing of trimmed surfaces.
+@highlight The implementation has a small memory footprint.

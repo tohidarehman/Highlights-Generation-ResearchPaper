@@ -1,0 +1,7 @@
+ In this paper we present a comparative study of two approaches for road traffic density estimation. The first approach uses the microscopic parameters which are extracted using both motion detection and tracking methods from a video sequence, and the second approach uses the macroscopic parameters which are directly estimated by analyzing the global motion in the video scene. The extracted parameters are applied to three classifiers, the K Nearest Neighbor (KNN) classifier, the LVQ classifier and the SVM classifier, in order to classify the road traffic in three categories: light, medium and heavy. The methods are compared based on their robustness to the classification of different road traffic states. The goal of this study is to propose an algorithm for road traffic density estimation with a high precision.
+
+@highlight We propose an algorithm for road traffic congestion estimation from video scenes.
+@highlight We compare between macroscopic and microscopic parameters in terms of accuracy.
+@highlight The method proposed is accurate, and it is computationally inexpensive.
+@highlight It does not require segmentation or tracking of vehicles.
+@highlight It is robust towards illumination changes.

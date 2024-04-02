@@ -1,0 +1,7 @@
+ Course timetabling is an important and recurring administrative activity in most educational institutions. This article combines a general modeling methodology with effective learning hyper-heuristics to solve this problem. The proposed hyper-heuristics are based on an iterated local search procedure that autonomously combines a set of move operators. Two types of learning for operator selection are contrasted: a static (offline) approach, with a clear distinction between training and execution phases; and a dynamic approach that learns on the fly. The resulting algorithms are tested over the set of real-world instances collected by the first and second International Timetabling competitions. The dynamic scheme statistically outperforms the static counterpart, and produces competitive results when compared to the state-of-the-art, even producing a new best-known solution. Importantly, our study illustrates that algorithms with increased autonomy and generality can outperform human designed problem-specific algorithms.
+
+@highlight Course timetabling constraints are converted into generic structures.
+@highlight Two types of learning for operator selection are contrasted: online and offline.
+@highlight An empirical approach for selecting the best operators from a pool is proposed.
+@highlight Online learning shows competitive results, even producing new best-known solutions.
+@highlight The proposed method achieves a balance between generality and effectiveness.

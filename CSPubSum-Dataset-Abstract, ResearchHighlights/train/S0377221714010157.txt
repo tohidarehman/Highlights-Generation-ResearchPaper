@@ -1,0 +1,7 @@
+ Credit card balance is an important factor in retail finance. In this article we consider multivariate models of credit card balance and use a real dataset of credit card data to test the forecasting performance of the models. Several models are considered in a cross-sectional regression context: ordinary least squares, two-stage and mixture regression. After that, we take advantage of the time series structure of the data and model credit card balance using a random effects panel model. The most important predictor variable is previous lagged balance, but other application and behavioural variables are also found to be important. Finally, we present an investigation of forecast accuracy on credit card balance 12 months ahead using each of the proposed models. The panel model is found to be the best model for forecasting credit card balance in terms of mean absolute error (MAE) and the two-stage regression model performs best in terms of root mean squared error (RMSE).
+
+@highlight Consider the univariate distribution of credit card balance.
+@highlight Consider alternative multivariate regression models of balance.
+@highlight Based on UK credit card data, we find previous balance is the strongest predictor.
+@highlight For panel model, an empirical Bayes estimate of random effect is used in forecasting.
+@highlight The models are compared forecasting 12 months ahead.

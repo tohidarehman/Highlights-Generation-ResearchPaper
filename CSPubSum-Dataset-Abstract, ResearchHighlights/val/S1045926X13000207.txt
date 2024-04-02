@@ -1,0 +1,6 @@
+ We are investigating information analysis as a kind of problem solving in which teams are presented with a collection of facts regarding people, places and events, and then identify underlying connections, patterns, and plans in order to draw specific conclusions. The teams spontaneously created a variety of artifacts to hold and organize problem information, and practices to simplify and regularize their collaborative interactions around these artifacts. In this paper, we analyze the artifacts and practices as a potential source of insight into how this problem solving activity could be supported by an interactive system design.
+
+@highlight User-centered method to identify design requirements for collaboratine info analysis.
+@highlight Created a reference task for information analysis [35].
+@highlight Analyzed spontaneous creation and use of visual representational artifacts by teams.
+@highlight Identified 7 actionable design requirements for such system.

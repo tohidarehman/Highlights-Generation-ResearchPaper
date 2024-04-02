@@ -1,0 +1,7 @@
+ Using five alternative data sets and a range of specifications concerning the underlying linear predictability models, we study whether long-run dynamic optimizing portfolio strategies may actually outperform simpler benchmarks in out-of-sample tests. The dynamic portfolio problems are solved using a combination of dynamic programming and Monte Carlo methods. The benchmarks are represented by two typical fixed mix strategies: the celebrated equally-weighted portfolio and a myopic, Markowitz-style strategy that fails to account for any predictability in asset returns. Within a framework in which the investor maximizes expected HARA (constant relative risk aversion) utility in a frictionless market, our key finding is that there are enormous difference in optimal long-horizon (in-sample) weights between the mean–variance benchmark and the optimal dynamic weights. In out-of-sample comparisons, there is however no clear-cut, systematic, evidence that long-horizon dynamic strategies outperform naively diversified portfolios.
+
+@highlight Analyze performance of optimal portfolios under predictability for HARA investors.
+@highlight The portfolio problem solved using dynamic programming and Monte Carlo methods.
+@highlight Benchmarks are fixed-mix strategies: equal-weight and a myopic Markowitz strategy.
+@highlight There are strong differences between mean–variance and optimal dynamic weights.
+@highlight No out-of-sample evidence that dynamic strategies outperform naive portfolios.

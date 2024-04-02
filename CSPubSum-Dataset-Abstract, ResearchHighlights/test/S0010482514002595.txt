@@ -1,0 +1,7 @@
+ In this paper, a novel hybrid method is proposed based on Principal Component Analysis (PCA) and Brain Emotional Learning (BEL) network for the classification tasks of gene-expression microarray data. BEL network is a computational neural model of the emotional brain which simulates its neuropsychological features. The distinctive feature of BEL is its low computational complexity which makes it suitable for high dimensional feature vector classification. Thus BEL can be adopted in pattern recognition in order to overcome the curse of dimensionality problem. In the experimental studies, the proposed model is utilized for the classification problems of the small round blue cell tumors (SRBCTs), high grade gliomas (HGG), lung, colon and breast cancer datasets. According to the results based on 5-fold cross validation, the PCA–BEL provides an average accuracy of 100%, 96%, 98.32%, 87.40% and 88% in these datasets respectively. Therefore, they can be effectively used in gene-expression microarray classification tasks.
+
+@highlight The computational complexity of BEL model is O(n).
+@highlight BEL is a suitable model for high dimensional feature vector classification.
+@highlight In this paper, BEL is applied for the classification tasks of gene-expression microarray data.
+@highlight Proposed method improves the detection accuracy of SRBCT, HGG and lung cancer.
+@highlight Our method has been able to effect a 30.18% improvement on HGG classification.

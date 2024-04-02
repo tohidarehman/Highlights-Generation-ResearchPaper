@@ -1,0 +1,6 @@
+ Gene selection is an important task in bioinformatics studies, because the accuracy of cancer classification generally depends upon the genes that have biological relevance to the classifying problems. In this work, randomization test (RT) is used as a gene selection method for dealing with gene expression data. In the method, a statistic derived from the statistics of the regression coefficients in a series of partial least squares discriminant analysis (PLSDA) models is used to evaluate the significance of the genes. Informative genes are selected for classifying the four gene expression datasets of prostate cancer, lung cancer, leukemia and non-small cell lung cancer (NSCLC) and the rationality of the results is validated by multiple linear regression (MLR) modeling and principal component analysis (PCA). With the selected genes, satisfactory results can be obtained.
+
+@highlight A new approach was developed to identify genes from gene expression data.
+@highlight A statistic is defined to evaluate the significance of the genes in the method.
+@highlight Informative genes are selected by the statistic for cancer classification.
+@highlight The method may provide an alternative for gene selection problem.

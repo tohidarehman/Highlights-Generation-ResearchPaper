@@ -1,0 +1,6 @@
+ Natural language processing (NLP) is crucial for advancing healthcare because it is needed to transform relevant information locked in text into structured data that can be used by computer processes aimed at improving patient care and advancing medicine. In light of the importance of NLP to health, the National Library of Medicine (NLM) recently sponsored a workshop to review the state of the art in NLP focusing on text in English, both in biomedicine and in the general language domain. Specific goals of the NLM-sponsored workshop were to identify the current state of the art, grand challenges and specific roadblocks, and to identify effective use and best practices. This paper reports on the main outcomes of the workshop, including an overview of the state of the art, strategies for advancing the field, and obstacles that need to be addressed, resulting in recommendations for a research agenda intended to advance the field.
+
+@highlight We report on a natural language workshop sponsored by the National Library of Medicine.
+@highlight We summarize the current state of the art in biomedical natural language processing.
+@highlight We report on research strategies for advancing natural language processing.
+@highlight We summarize discussions of obstacles and challenges to the field.

@@ -1,0 +1,5 @@
+ One of the major research challenges for the successful deployment of cloud services is a clear understanding of security and privacy issues on a cloud environment, since cloud architecture has dissimilarities compared to traditional distributed systems. Such differences might introduce new threats and require a different treatment of security and privacy issues. It is therefore important to understand security and privacy within the context of cloud computing and identify relevant security and privacy properties and threats that will support techniques and methodologies aimed to analyze and design secure cloud based systems.
+
+@highlight Identification of cloud computing main characteristics and challenges.
+@highlight Matching cloud computing threats with service models and critical areas.
+@highlight Security and privacy requirements identification for supporting security and privacy analysis in cloud-based systems.

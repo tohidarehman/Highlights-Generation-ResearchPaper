@@ -1,0 +1,7 @@
+ The sequential ordering problem (SOP) is the generalisation of the asymmetric travelling salesman problem in which there are precedence relations between pairs of nodes. Hernández & Salazar introduced a multi-commodity flow (MCF) formulation for a generalisation of the SOP in which the vehicle has a limited capacity. We strengthen this MCF formulation by fixing variables and adding valid equations. We then use polyhedral projection, together with some known results on flows, cuts and metrics, to derive new families of strong valid inequalities for both problems. Finally, we give computational results, which show that our findings yield good lower bounds in practice.
+
+@highlight We present several new formulations for the classical “Sequential Ordering Problem”.
+@highlight Two interesting families of equations are useful to strengthen the linear programming relaxations.
+@highlight We prove that the linear programming relaxations of the new formulations give good bounds.
+@highlight We analyse computational results to compare the known and new formulations.
+@highlight The paper also addresses the capacitated variant of the problem.

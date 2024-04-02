@@ -1,0 +1,7 @@
+ Unexpected events, such as accidents or track damages, can have a significant impact on the railway system so that trains need to be canceled and delayed. In case of a disruption it is important that dispatchers quickly present a good solution in order to minimize the nuisance for the passengers. In this paper, we focus on adjusting the timetable of a passenger railway operator in case of major disruptions. Both a partial and a complete blockade of a railway line are considered. Given a disrupted infrastructure situation and a forecast of the characteristics of the disruption, our goal is to determine a disposition timetable, specifying which trains will still be operated during the disruption and determining the timetable of these trains. Without explicitly taking the rolling stock rescheduling problem into account, we develop our models such that the probability that feasible solutions to this problem exist, is high. The main objective is to maximize the service level offered to the passengers. We present integer programming formulations and test our models using instances from Netherlands Railways.
+
+@highlight We present models to adjust a timetable in case of partial and complete blockades.
+@highlight The integer programming models are solved to optimality.
+@highlight Results on numerical real-world instances are presented.
+@highlight The models offer a trade-off between different objectives of the railway operator.
+@highlight We consider rolling stock rescheduling by including inventory constraints.

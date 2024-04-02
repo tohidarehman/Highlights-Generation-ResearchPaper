@@ -1,0 +1,5 @@
+ Many systems and physical processes require non-Gaussian probabilistic models to accurately capture their dynamic behaviour. In this paper, we present a random-coefficient mathematical form that can be used to simulate a third-order Laplace autoregressive (AR) process. The mathematical structure of the random-coefficient AR process has a Markovian property that makes it flexible and simple to implement. A detailed derivation of its parameters as well as its pseudo-code implementation is provided. Moreover, it is shown that the process has an autocorrelation property that satisfies Yuleâ€“Walker type of equations. Having such an autocorrelation property makes the developed AR process, particularly, convenient for deriving mathematical models for dynamic systems, as well as signals, whose parameters of interest are Laplace distributed.
+
+@highlight Derivation of a random coefficient third-order Laplace AR process.
+@highlight Pseudo-code to simulate Laplace AR process.
+@highlight Steps to design a Laplace AR process to meet a desired autocorrelation property.

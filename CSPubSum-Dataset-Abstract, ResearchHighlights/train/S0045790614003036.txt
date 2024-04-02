@@ -1,0 +1,7 @@
+ Biometric-based personal authentication is receiving a widespread interest in the area of research due to its high applicability in a wide range of security applications. Among these, hand-based biometric systems are considered to be more successful in terms of accuracy and computational complexity. In hand-based biometrics, finger knuckle surface is considered as one of the emerging potential biometric traits for personal authentication. This is due to its stable and unique inherent patterns present in the outer surface of the finger back knuckle region. Further, this finger knuckle has a high potentiality towards discriminating individuals with high accuracy. In this paper, we present a review of various system models that are implemented for personal authentication using finger knuckle biometrics. Furthermore, the challenges that could arise during the implementation of the large scale real time biometric system with finger knuckle print are explored.
+
+@highlight Describes the role of finger knuckle surface in biometric authentication.
+@highlight Enumerates various available open datasets for finger knuckle biometric trait.
+@highlight Presents different view point in the classification of various finger knuckle feature recognition methods.
+@highlight Elaborates on finger knuckle surface preprocessing, feature extraction, classification and fusion methodologies.
+@highlight Addresses significant issues that are mandatory for deploying finger knuckle biometric system.

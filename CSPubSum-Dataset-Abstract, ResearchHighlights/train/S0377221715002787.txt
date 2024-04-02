@@ -1,0 +1,5 @@
+ We show that a number of scheduling problems with competing agents and earliness minimization objectives are equivalent to the corresponding problems with tardiness minimization objectives.
+
+@highlight We revisit single-machine two-agent problems with earliness measures.
+@highlight We show their equivalency with tardiness problems.
+@highlight The earliness results can be derived from known tardiness results.

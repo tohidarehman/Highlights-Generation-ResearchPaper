@@ -1,0 +1,6 @@
+ This paper proposes a shape-restricted nonparametric quantile regression to estimate the τ-frontier, which acts as a benchmark for whether a decision making unit achieves top τ efficiency. This method adopts a two-step strategy: first, identifying fitted values that minimize an asymmetric absolute loss under the nondecreasing and concave shape restriction; second, constructing a nondecreasing and concave estimator that links these fitted values. This method makes no assumption on the error distribution and the functional form. Experimental results on some artificial data sets clearly demonstrate its superiority over the classical linear quantile regression. We also discuss how to enforce constraints to avoid quantile crossings between multiple estimated frontiers with different values of τ. Finally this paper shows that this method can be applied to estimate the production function when one has some prior knowledge about the error term.
+
+@highlight We propose a nonparametric quantile regression for τ-frontier estimation.
+@highlight This estimation can be obtained by solving two linear programs.
+@highlight Experimental results verify its superiority over the linear estimator.
+@highlight We suggest how to avoid crossing between multiple estimated τ-frontiers.

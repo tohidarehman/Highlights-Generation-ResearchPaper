@@ -1,0 +1,6 @@
+ This paper reports a multiscale asymptotic analysis and computation for predicting heat transfer performance of periodic porous materials with radiation boundary condition. In these porous materials thermal radiation effect at micro-scale have an important impact on the macroscopic temperature field, which is our particular interest in this study. The multiscale asymptotic expansions for computing temperature field of the problem are constructed, and associated explicit convergence rates are obtained on some regularity hypothesis. Finally, the corresponding finite element algorithms based on the multiscale method are brought forward and some numerical results are given in details. The numerical tests indicate that the developed method is feasible and valid for predicting the heat transfer performance of periodic porous materials, and support the approximate convergence results proposed in this paper.
+
+@highlight A novel multiscale analysis and computation is proposed.
+@highlight Heat transfer problem of periodic porous materials with radiation boundary condition are considered.
+@highlight Error estimates of the multiscale approximate solution are derived on some regularity hypothesis.
+@highlight Some numerical results are given in details to validate the multiscale method.

@@ -1,0 +1,7 @@
+ Random simulations from complicated combinatorial sets are often needed in many classes of stochastic problems. This is particularly true in the analysis of complex networks, where researchers are usually interested in assessing whether an observed network feature is expected to be found within families of networks under some hypothesis (named conditional random networks, i.e., networks satisfying some linear constraints). This work presents procedures to generate networks with specified structural properties which rely on the solution of classes of integer optimization problems. We show that, for many of them, the constraints matrices are totally unimodular, allowing the efficient generation of conditional random networks by specialized interior-point methods. The computational results suggest that the proposed methods can represent a general framework for the efficient generation of random networks even beyond the models analyzed in this paper. This work also opens the possibility for other applications of mathematical programming in the analysis of complex networks.
+
+@highlight Novel conditionally uniform random networks models based on MILP.
+@highlight Total unimodularity of some network problems with side constraints.
+@highlight Probability density function of LP solutions in terms of the cost vector.
+@highlight Two LP-based procedures for the generation of random networks.
+@highlight Computational results for real-world datasets.

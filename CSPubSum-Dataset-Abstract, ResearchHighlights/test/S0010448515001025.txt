@@ -1,0 +1,6 @@
+ Subject-specific modeling is increasingly important in biomechanics simulation. However, how to automatically create high-quality finite element (FE) mesh and how to automatically impose boundary condition are challenging. This paper presents a statistical atlas based approach for automatic meshing of subject-specific shapes. In our approach, shape variations among a shape population are explicitly modeled and the correspondence between a given subject-specific shape and the statistical atlas is sought within the “legal” shape variations. This approach involves three parts:  constructing a statistical atlas from a shape population, including the statistical shape model and the FE model of the mean shape;  establishing the correspondence between a given subject shape and the atlas; and  deforming the atlas to the subject shape based on the shape correspondence. Numerical results on 2D hands, 3D femur bones and 3D aorta demonstrate the effectiveness of the proposed approach.
+
+@highlight A statistical atlas is constructed to account for shape variations.
+@highlight Shape correspondence is obtained through the eigenspace search.
+@highlight Subject-specific FE mesh is obtained from the deformed mesh of the mean shape.
+@highlight The method is automated and is applicable to shapes with large variations.

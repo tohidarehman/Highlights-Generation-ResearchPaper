@@ -1,0 +1,7 @@
+ Event loops are a main control architecture to implement actors. In this paper we first analyse the impact that this choice has on the design of actor-based concurrent programs. Then, we discuss control loops as the main architecture adopted to implement agents, and we frame them as an extension of event loops effective to improve the programming of autonomous components that need to integrate both reactive and proactive behaviors, in a modular way.
+
+@highlight The event loop architecture has a strong impact on actor programming.
+@highlight Main weaknesses concern asynchronous spaghetti and fragmentation.
+@highlight Control loops adopted in agent programming can be framed as an extension.
+@highlight It leads to a more procedural structure of programs yet preserving reactivity.
+@highlight It allows us to improve modularity, encapsulation and abstraction.

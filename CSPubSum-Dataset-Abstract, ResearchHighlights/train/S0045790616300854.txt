@@ -1,0 +1,7 @@
+ We consider a novel variational model for image reconstruction, based on second-order partial differential equations, in this paper. This inpainting approach is inspired by the anisotropic diffusion-based denoising solutions. A stable variational scheme is proposed first. Then, a nonlinear differential model is derived from it, by determining the corresponding Euler–Lagrange equation and applying the steepest descent method. A rigorous mathematical treatment of this anisotropic diffusion scheme is provided next. This nonlinear second order diffusion model is then numerically approximated, a consistent and explicit finite-difference based discretization scheme being developed. Some successful image inpainting experiments and method comparison are also provided in this article.
+
+@highlight A novel variational scheme for image inpainting is proposed in this paper, first.
+@highlight A nonlinear anisotropic diffusion model is obtained from this PDE variational scheme.
+@highlight A mathematical treatment of the obtained second-order PDE-based model is provided.
+@highlight An explicit finite-difference based numerical approximation scheme is constructed for it.
+@highlight Successful image reconstruction experiments and method comparison are also described.

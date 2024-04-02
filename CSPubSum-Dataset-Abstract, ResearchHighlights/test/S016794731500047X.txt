@@ -1,0 +1,7 @@
+ The Bayesian information criterion (BIC) is one of the most popular criteria for model selection in finite mixture models. However, it implausibly penalizes the complexity of each component using the whole sample size and completely ignores the clustered structure inherent in the data, resulting in over-penalization. To overcome this problem, a novel criterion called hierarchical BIC (HBIC) is proposed which penalizes the component complexity only using its local sample size and matches the clustered data structure well. Theoretically, HBIC is an approximation of the variational Bayesian (VB) lower bound when sample size is large and the widely used BIC is a less accurate approximation. An empirical study is conducted to verify this theoretical result and a series of experiments is performed on simulated and real data sets to compare HBIC and BIC. The results show that HBIC outperforms BIC substantially and BIC suffers from underestimation.
+
+@highlight A new HBIC criterion is proposed for model selection in mixture models.
+@highlight BIC ignores the clustered data structure while HBIC matches the structure well.
+@highlight HBIC is a large sample approximation of variational Bayesian lower bound.
+@highlight BIC is a less accurate approximation.
+@highlight The results show that HBIC outperforms BIC and BIC suffers from underestimation.

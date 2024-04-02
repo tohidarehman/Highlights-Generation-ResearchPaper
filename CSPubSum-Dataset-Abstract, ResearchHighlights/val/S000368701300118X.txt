@@ -1,0 +1,7 @@
+ Pictorials can aid in communicating warning information, but viewers may not always correctly comprehend them. Two experiments focused on whether the use of relevant highlighting could benefit pictorial comprehension. A set of warning-related pictorials were manipulated according to three-color highlighting conditions: highlighting areas more relevant to correct comprehension, highlighting areas less relevant to comprehension, and no highlighting. Participants were asked to describe the purpose and meaning of each pictorial presented to them. The findings from both experiments indicate that comprehension of warning pictorials is higher for the relevant highlighting condition than the other two conditions. The highlighting of less relevant areas reduced comprehension compared to no highlighting. Use of appropriately placed highlighting could benefit the design of a complex symbol by pointing out pertinent areas to aid in determining its intended conceptual meaning.
+
+@highlight Two experiments tested whether highlighting benefits warning comprehension.
+@highlight Conditions of warning pictorials were relevant, less relevant, and no highlighting.
+@highlight Relevant highlighting increased comprehension.
+@highlight Less relevant highlighting decreased comprehension.
+@highlight Appropriate highlighting could prove beneficial to the design of complex pictorials.

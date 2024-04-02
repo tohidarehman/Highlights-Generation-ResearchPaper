@@ -1,0 +1,7 @@
+ The complexity of evaluating chance constraints makes chance-constrained programming problem difficult to solve. One way to handle this complexity is by devising satisficing measures for the relevant uncertainties. This paper focuses on solving the stochastic vehicle routing problem with time windows (VRPTW) by Satisficing Measure Approach (SMA) that mitigates the dissatisfaction experienced by the customers. Satisficing measures are first proposed for the VRPTW with stochastic demand on various distributions to demonstrate the dependency of customers’ satisfaction towards lack of inventory based on the vehicle's capacity. Similar satisficing measures are extended to VRPTW with stochastic travel times. We integrate the proposed satisficing measures into an existing tabu-search heuristics to solve a set of generalized Solomon instances in a short amount of computation time. Compared with best-known results, the SMA saves the effort to design recourse actions, applicable to many popular probability distributions and produces very competitive results.
+
+@highlight The proposed satisficing measures can be easily applied within heuristics.
+@highlight Satisficing Measure Approach can solve VRPTWSD and VRPTWST.
+@highlight Our approach can be applied on many common probability distributions.
+@highlight Our approach is fast and obtains good quality solutions.
+@highlight Our approach does not require computing the expected recourse and total cost.

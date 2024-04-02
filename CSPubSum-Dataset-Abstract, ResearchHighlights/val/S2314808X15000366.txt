@@ -1,0 +1,5 @@
+ This study is designed to propose a solitary-solution formulation method by applying transformation and ancient Chinese algorithm. This method is projected to obtain closed-form solution of fractional differential-difference equations (FDDEs). A closed-form solution of hybrid lattice is used to demonstrate the rationality and the large potential of the proposed method in finding the solutions of FDDEs. This method is very effective in obtaining the exact solutions of nonlinear FDDEs and it can be extended to obtain the solution of nonlinear FDDEs in mathematical physics. Comparison has been made with previous work.
+
+@highlight A methodology is developed for soliton solution of DDE.
+@highlight The hybrid lattice equation with fractional order derivative is consider and found solution.
+@highlight Frequency amplitude formula and chain rule for fractional derivative are utilized.

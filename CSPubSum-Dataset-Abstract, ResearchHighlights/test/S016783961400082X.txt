@@ -1,0 +1,7 @@
+ This paper considers the problem of curve interpolation using a special type of discrete logarithmic spirals. A “logarithmic arc spline” is defined as a set of smoothly connected circular arcs. The arcs of a logarithmic arc spline have equal angles and the curvatures of the arcs form a geometric sequence. Given two points together with two unit tangents at the points, interpolation of logarithmic arc splines with a user specified winding angle is formulated into finding the positive solutions to a vector equation. A practical algorithm is developed for computing the solutions and construction of interpolating logarithmic arc splines. Compared to known methods for logarithmic spiral interpolation, the proposed method has the advantages of unbounded winding angles, simple offsets and NURBS representation.
+
+@highlight A special kind of discrete logarithmic spiral, logarithmic arc spline, is defined.
+@highlight A practical algorithm for
+@highlight curve interpolation by logarithmic arc splines is given.
+@highlight The winding angles of the interpolating curves are unbounded.
+@highlight Logarithmic arc splines are compatible with NURBS and their offsets are simple to compute.

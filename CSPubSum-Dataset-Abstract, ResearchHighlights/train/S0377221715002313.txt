@@ -1,0 +1,7 @@
+ An economic measure of scale efficiency is the ratio of the minimum average cost to the average cost at the actual output level of a firm. It is easily measured by the ratio of the total cost of this output under the constant and variable returns to scale assumptions. This procedure does not identify the output level where the average cost reaches a minimum. This paper proposes a nonparametric method of measuring this output level using DEA. The relation between this efficient production scale, the short run physical capacity output, and the most productive scale size (MPSS) is also discussed. An empirical application using state level data from U.S. manufacturing is used to illustrate the procedure. The DEA findings are further analyzed using a smoothed bootstrap procedure.
+
+@highlight An appropriate DEA LP problem can be solved to find the economic capacity output.
+@highlight The capacity output in U.S. manufacturing in 2007 is calculated for each state.
+@highlight This capacity output differs from both short run capacity output and Banker's MPSS.
+@highlight Out of 48 states, we find economies of scale in 16 and diseconomies for 31.
+@highlight A subsequent bootstrap analysis broadly supports the DEA findings.

@@ -1,0 +1,6 @@
+ OPC UA is the evolution of the well known OPC COM and XML specifications. OPC UA adopts a very complex software infrastructure to realise the communication among industrial applications; furthermore it features many mechanisms realising data exchanges, whose tuning depends on several parameters. The aim of this paper is to deal with the performance evaluation of OPC UA. The main data exchange mechanisms which may influence performance of the client/server communications will be pointed out; then, the analysis of the overhead they introduce will be presented and discussed. Finally, some guidelines about the setting of OPC UA mechanisms will be given on the basis of the results achieved.
+
+@highlight Analysis of overheads introduced by OPC UA in the client/server data exchange
+@highlight Results point out that some OPC UA mechanisms strongly influence OPC UA performance.
+@highlight Guidelines about setting of critical OPC UA mechanisms are given in the paper.
+@highlight Current literature presents very few papers dealing with this subject.

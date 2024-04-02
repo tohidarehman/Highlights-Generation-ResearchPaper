@@ -1,0 +1,6 @@
+ Text-based image retrieval may perform poorly due to the irrelevant and/or incomplete text surrounding the images in the web pages. In such situations, visual content of the images can be leveraged to improve the image ranking performance. In this paper, we look into this problem of image re-ranking and propose a system that automatically constructs multiple candidate “multi-instance bags (MI-bags)”, which are likely to contain relevant images. These automatically constructed bags are then utilized by ensembles of Multiple Instance Learning (MIL) classifiers and the images are re-ranked according to the final classification responses. Our method is unsupervised in the sense that, the only input to the system is the text query itself, without any user feedback or annotation. The experimental results demonstrate that constructing multiple instance bags based on the retrieval order and utilizing ensembles of MIL classifiers greatly enhance the retrieval performance, achieving on par or better results compared to the state-of-the-art.
+
+@highlight A system that constructs multi-instance bags from text-based retrieval order.
+@highlight Ensemble of MI-classifiers is learned using these multi-instance bags.
+@highlight We report image re-ranking performance on multiple datasets.
+@highlight Our system receives on par or better results than the state-of-the-art.

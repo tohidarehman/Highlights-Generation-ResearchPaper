@@ -1,0 +1,6 @@
+ The asymmetry in the tail dependence between U.S. equity portfolios and the aggregate U.S. market is a well-established property. Given the limited number of observations in the tails of a joint distribution, standard non-parametric measures of tail dependence have poor finite-sample properties and generally reject the asymmetry in the tail dependence. A parametric model, based on a multivariate noncentral t distribution, is developed to measure and test asymmetry in tail dependence. This model allows different levels of tail dependence to be estimated depending on the distribution’s parameters and accommodates situations in which the volatilities or the correlations across returns are time varying. For most of the size, book-to-market, and momentum portfolios, the tail dependence with the market portfolio is significantly higher on the downside than on the upside.
+
+@highlight The tail dependence between US equity portfolios and the US market is asymmetric.
+@highlight We describe a multivariate t distribution with asymmetry in the lower and upper tail dependence.
+@highlight The lower and upper tail dependence parameters are estimated by maximum likelihood.
+@highlight The estimated tail dependence parameters are consistent with the data provided volatilities and correlations are allowed to vary over time.

@@ -1,0 +1,6 @@
+ This paper provides a general formula for the dimension of spline space over general planar T-meshes (having concave corners or holes) by using the smoothing cofactor-conformality method. We introduce a new notion, the diagonalizable T-mesh, where the dimension formula is only associated with the topological information of the T-mesh. A necessary and sufficient condition for characterization of the diagonalizable T-mesh is also provided. By this new notion, we obtain some new dimension results for the spline spaces over T-meshes.
+
+@highlight A general formula for the dimension of the spline space over the T-mesh is provided.
+@highlight The diagonalizable T-mesh is introduced.
+@highlight A necessary and sufficient condition to characterize the diagonalizable T-meshes is proved.
+@highlight Some new dimension results for the spline space over T-meshes that do not have a nested structure is provided.

@@ -1,0 +1,7 @@
+ In this article we survey mathematical programming approaches to problems in the field of drinking water distribution network optimization. Among the predominant topics treated in the literature, we focus on two different, but related problem classes. One can be described by the notion of network design, while the other is more aptly termed by network operation. The basic underlying model in both cases is a nonlinear network flow model, and we give an overview on the more specific modeling aspects in each case. The overall mathematical model is a Mixed Integer Nonlinear Program having a common structure with respect to how water dynamics in pipes are described. Finally, we survey the algorithmic approaches to solve the proposed problems and we discuss computation on various types of water networks.
+
+@highlight Survey mathematical programming approaches to water network optimization.
+@highlight Network design.
+@highlight Network operation
+@highlight Nonlinear network flow model tackled by Mixed Integer Nonlinear Programming.
+@highlight Linearization issues and opportunities.

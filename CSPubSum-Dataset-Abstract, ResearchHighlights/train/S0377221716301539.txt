@@ -1,0 +1,7 @@
+ In this paper we search for conditions on age-structured differential games to make their analysis more tractable. We focus on a class of age-structured differential games which show the features of ordinary linear-state differential games, and we prove that their open-loop Nash equilibria are sub-game perfect. By means of a simple age-structured advertising problem, we provide an application of the theoretical results presented in the paper, and we show how to determine an open-loop Nash equilibrium.
+
+@highlight We define the class of linear-state age-structured differential games.
+@highlight For such games, the open-loop Nash equilibria are sub-game perfect.
+@highlight We propose a search scheme to determine open-loop Nash equilibria.
+@highlight We discuss an age-structured advertising model.
+@highlight For such model we prove existence and uniqueness of the OLNE.

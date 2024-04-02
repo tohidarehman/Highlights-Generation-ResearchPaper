@@ -1,0 +1,7 @@
+ A NURBS tessellation technique is presented with the goal to robustly approximate CAD surfaces that define the boundary of complicated three dimensional geometric shapes with a minimum number of triangles. The minimization is achieved by generating anisotropic triangles in the three dimensional space. New procedures are presented to handle numerical stability issues due to the anisotropy. The tessellation is generated using a mesh generation viewpoint, as opposed to the more classical viewpoint of graphical visualization of surfaces in CAD. This ensures topological conformity of the resulting mesh. A tiered approximation approach is used for speed and robustness. Degeneracies associated with NURBS curves and surfaces are given special attention as they occur frequently in naval and aerospace conceptual-to-early design process. Analogies with a classical mesh generation process are discussed and several numerical examples illustrate the method.
+
+@highlight A tessellation technique based on a mesh generation is described.
+@highlight A minimum number of elements is generated to encode the shape of a model as compressed as possible.
+@highlight Conformity is guaranteed by construction.
+@highlight NURBS singularities are commented and handled properly.
+@highlight Drawbacks of parametric methods are highlighted.

@@ -1,0 +1,6 @@
+ This article analyzes the fleet management problem faced by a firm when deciding which vehicles to add to its fleet. Such a decision depends not only on the expected mileage and tasks to be assigned to the vehicle but also on the evolution of fuel and CO2 emission prices and on fuel efficiency. This article contributes to the literature on fleet replacement and sustainable operations by proposing a general decision support system for the fleet replacement problem using stochastic programming and conditional value at risk (CVaR) to account for uncertainty in the decision process. The article analyzes how the CVaR associated with different types of vehicle is affected by the parameters in the model by reporting on the results of a real-world case study.
+
+@highlight A decision support system for the vehicle replacement problem using conditional value at risk.
+@highlight Comparison of the value at risk of different types of vehicles.
+@highlight Identification of the risk drivers in vehicle replacement.
+@highlight Real world application of the methodology in a case study.

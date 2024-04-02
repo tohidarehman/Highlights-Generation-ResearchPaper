@@ -1,0 +1,8 @@
+ Our previous reports described the use of the Hyperbolic Dirac Net (HDN) as a method for probabilistic inference from medical data, and a proposed probabilistic medical Semantic Web (SW) language Q-UEL to provide that data. Rather like a traditional Bayes Net, that HDN provided estimates of joint and conditional probabilities, and was static, with no need for evolution due to “reasoning”. Use of the SW will require, however, (a) at least the semantic triple with more elaborate relations than conditional ones, as seen in use of most verbs and prepositions, and (b) rules for logical, grammatical, and definitional manipulation that can generate changes in the inference net. Here is described the simple POPPER language for medical inference. It can be automatically written by Q-UEL, or by hand. Based on studies with our medical students, it is believed that a tool like this may help in medical education and that a physician unfamiliar with SW science can understand it. It is here used to explore the considerable challenges of assigning probabilities, and not least what the meaning and utility of inference net evolution would be for a physician.
+
+@highlight The POPPER language was developed to explore probabilistic semantics.
+@highlight The application was developed to assist in medical reasoning.
+@highlight The core theory is the same as the Hyperbolic Dirac Net HDN.
+@highlight Like an HDN, it enables bidirectional probabilistic logic and cyclic paths.
+@highlight Unlike the basic HDN, it allows verbal relationships.
+@highlight Unlike the basic HDN, it evolves by, e.g., syllogistic reasoning.

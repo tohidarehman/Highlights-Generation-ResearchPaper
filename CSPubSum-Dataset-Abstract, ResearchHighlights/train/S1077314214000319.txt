@@ -1,0 +1,7 @@
+ We propose a new Statistical Complexity Measure (SCM) to qualify edge maps without Ground Truth (GT) knowledge. The measure is the product of two indices, an Equilibrium index obtained by projecting the edge map into a family of edge patterns, and an Entropy index , defined as a function of the Kolmogorov–Smirnov (KS) statistic. This new measure can be used for performance characterization which includes: (i) the specific evaluation of an algorithm (intra-technique process) in order to identify its best parameters and (ii) the comparison of different algorithms (inter-technique process) in order to classify them according to their quality. Results made over images of the South Florida and Berkeley databases show that our approach significantly improves over Pratt’s Figure of Merit (PFoM) which is the objective reference-based edge map evaluation standard, as it takes into account more features in its evaluation.
+
+@highlight A statistical complexity measure for edge maps and binary images is proposed.
+@highlight The measure is a product of equilibrium and entropy indices.
+@highlight Equilibrium is measured projecting the edge map into a family of predefined edge patterns.
+@highlight Information is measured with the Kolmogorov–Smirnov statistic of goodness of fit.
+@highlight Measure can be used for specific algorithm evaluation and to identify its best parameters.

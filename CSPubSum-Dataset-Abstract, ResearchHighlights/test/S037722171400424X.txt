@@ -1,0 +1,7 @@
+ In this paper, we consider a generic inexact subgradient algorithm to solve a nondifferentiable quasi-convex constrained optimization problem. The inexactness stems from computation errors and noise, which come from practical considerations and applications. Assuming that the computational errors and noise are deterministic and bounded, we study the effect of the inexactness on the subgradient method when the constraint set is compact or the objective function has a set of generalized weak sharp minima. In both cases, using the constant and diminishing stepsize rules, we describe convergence results in both objective values and iterates, and finite convergence to approximate optimality. We also investigate efficiency estimates of iterates and apply the inexact subgradient algorithm to solve the Cobb–Douglas production efficiency problem. The numerical results verify our theoretical analysis and show the high efficiency of our proposed algorithm, especially for the large-scale problems.
+
+@highlight An inexact subgradient algorithm is proposed for the quasi-convex programming.
+@highlight We establish the convergence property, finite convergence and efficiency estimates.
+@highlight The Hölder condition is assumed instead of usc when the constraint set X is compact.
+@highlight The generalized weak sharp minima is introduced and utilized when X is noncompact.
+@highlight We apply the proposed algorithm to solve the Cobb–Douglas production efficiency problem.

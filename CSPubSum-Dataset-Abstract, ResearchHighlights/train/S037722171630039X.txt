@@ -1,0 +1,6 @@
+ We consider storage loading problems where items with uncertain weights have to be loaded into a storage area, taking into account stacking and payload constraints. Following the robust optimization paradigm, we propose strict and adjustable optimization models for finite and interval-based uncertainties. To solve these problems, exact decomposition and heuristic solution algorithms are developed. For strict robustness, we also propose a compact formulation based on a characterization of worst-case scenarios. Computational results for randomly generated data with up to 300 items are presented showing that the robustness concepts have different potential depending on the type of data being used.
+
+@highlight We present a new model for stacking problems with payload constraints.
+@highlight Due to uncertain item weights, two robust optimization approaches are developed.
+@highlight Problems are solved using exact decomposition and heuristic algorithms.
+@highlight Using a characterization of worst-case scenarios, a compact model is presented.

@@ -1,0 +1,6 @@
+ We present work on understanding natural language in a situated domain in an incremental, word-by-word fashion. We explore a set of models specified as Markov Logic Networks and show that a model that has access to information about the visual context during an utterance, its discourse context, the words of the utterance, as well as the linguistic structure of the utterance performs best and is robust to noisy speech input. We explore the incremental properties of the models and offer some analysis. We conclude that mlns provide a promising framework for specifying such models in a general, possibly domain-independent way.
+
+@highlight We use situation, discourse, words, linguistics to infer interpretation.
+@highlight We use Markov Logic Networks to jointly use information sources.
+@highlight We show that our model works well with speech and hand-annotated data.
+@highlight We offer some interesting analysis of the model and how it works incrementally.

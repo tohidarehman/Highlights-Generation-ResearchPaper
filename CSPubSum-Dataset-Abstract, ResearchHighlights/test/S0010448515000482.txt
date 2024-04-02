@@ -1,0 +1,5 @@
+ Recommended practices supplement data exchange standards by providing common implementation guidance associated with specific requirements. ISO 10303 (STEP) product data exchange files that conform to recommended practices ensure interoperability between computer-aided design (CAD) systems and with downstream applications such as manufacturing and inspection. Correct implementation of product and manufacturing information (PMI)–annotations associated with a CAD model’s edges and faces such as geometric tolerances, dimensional tolerances, and datum features–in CAD authoring systems and translators is essential for interoperability. This paper discusses an approach implemented in a software tool for checking the conformance of STEP files to the recommended practice for PMI representation.
+
+@highlight Geometric and dimensional tolerances (PMI) are represented in STEP files.
+@highlight Correct implementation of PMI ensures interoperability with downstream applications.
+@highlight A software tool has been developed for conformance checking of PMI in STEP files.

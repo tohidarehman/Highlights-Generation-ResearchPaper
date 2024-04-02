@@ -1,0 +1,7 @@
+ Collaboration between mobile nodes is significant in Mobile Ad Hoc Networks (MANETs). The great challenges of MANETs are their vulnerabilities to various security attacks. Because of the lack of centralized administration, secure routing is challenging in MANETs. Effective secure routing is quite essential to protect nodes from anonymous behaviours. Game theory is currently employed as a tool to analyse, formulate and solve selfishness issues in MANETs. This work uses a Dynamic Bayesian Signalling Game to analyse strategy profiles for regular and malicious nodes. We calculate the Payoff to nodes for motivating the particular nodes involved in misbehaviour. Regular nodes monitor continuously to evaluate their neighbours by using the belief evaluation and belief updating system of the Bayes rule. Simulation results show that the proposed scheme could significantly minimize the misbehaving activities of malicious nodes and thereby enhance secure routing.
+
+@highlight Collaboration between mobile nodes is significant in Mobile Ad Hoc Networks.
+@highlight Dynamic Bayesian Signalling Game model is proposed to enhance secure routing and motivate effective cooperation among nodes.
+@highlight A novel scheme of payoff formulation is developed to motivate the misbehaving nodes.
+@highlight We used a belief updating system to update a node’s belief in terms of action chosen, message sent, and strategy chosen.
+@highlight The proposed scheme could significantly minimize the misbehaving activities of malicious nodes and thereby enhance secure routing.

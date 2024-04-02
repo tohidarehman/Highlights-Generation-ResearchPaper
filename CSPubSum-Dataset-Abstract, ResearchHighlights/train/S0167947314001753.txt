@@ -1,0 +1,7 @@
+ Limited information statistics have been recommended as the goodness-of-fit measures in sparse contingency tables, but the -values of these test statistics are computationally difficult to obtain. A Bayesian model diagnostic tool, Relative Entropy–Posterior Predictive Model Checking (RE–PPMC), is proposed to assess the global fit for latent trait models in this paper. This approach utilizes the relative entropy (RE) to resolve possible problems in the original PPMC procedure based on the posterior predictive -value (PPP-value). Compared with the typical conservatism of PPP-value, the RE value measures the discrepancy effectively. Simulated and real data sets with different item numbers, degree of sparseness, sample sizes, and factor dimensions are studied to investigate the performance of the proposed method. The estimates of univariate information and difficulty parameters are found to be robust with dual characteristics, which produce practical implications for educational testing. Compared with parametric bootstrapping, RE–PPMC is much more capable of evaluating the model adequacy.
+
+@highlight A novel Relative Entropy–Posterior Predictive Model Checking method is proposed.
+@highlight RE–PPMC with limited information checks the model fitness effectively.
+@highlight Compared with the original PPMC with PPP value, RE value is better.
+@highlight Compared with parametric bootstrapping, RE–PPMC is more feasible.
+@highlight The univariate information is robust with dual characteristics.

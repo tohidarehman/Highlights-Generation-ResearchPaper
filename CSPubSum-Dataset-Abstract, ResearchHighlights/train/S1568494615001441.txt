@@ -1,0 +1,7 @@
+ In this paper, we propose a novel visual tracking algorithm using the collaboration of generative and discriminative trackers under the particle filter framework. Each particle denotes a single task, and we encode all the tasks simultaneously in a structured multi-task learning manner. Then, we implement generative and discriminative trackers, respectively. The discriminative tracker considers the overall information of object to represent the object appearance; while the generative tracker takes the local information of object into account for handling partial occlusions. Therefore, two models are complementary during the tracking. Furthermore, we design an effective dictionary updating mechanism. The dictionary is composed of fixed and variational parts. The variational parts are progressively updated using Metropolis–Hastings strategy. Experiments on different challenging video sequences demonstrate that the proposed tracker performs favorably against several state-of-the-art trackers.
+
+@highlight We propose a tracking method using both overall information of object and local representation.
+@highlight The object is divided into m overlapped patches to improve tracking performance in background clutter and partial occlusions.
+@highlight We take the prior information into account for avoiding ambiguity in discriminative model.
+@highlight The dictionary is updated by Metropolis–Hastings to capture the appearance changes.
+@highlight We achieve comparable performances with other methods on challenging sequences.

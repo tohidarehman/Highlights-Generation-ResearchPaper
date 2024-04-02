@@ -1,0 +1,6 @@
+ Curriculum design is a highly important activity for the academic institutions. It is discussed in literature as a balancing academic curriculum problem (BACP). The BACP schedules courses to different semesters, while balancing the total workload per period. BACP model involves precedence relations, but the related courses are not necessarily assigned to closest periods. The Relevance Based Curriculum Balancing (RBCB) models presented in this paper are the first implementation of Generalized Quadratic Assignment Problem (GQAP) to curriculum design. RBCB aims at assigning relevant courses to closest possible periods in a way that academic load per semester is balanced and prerequisite conditions are met simultaneously. RBCB models are applied to Fatih University Industrial Engineering Department undergraduate curriculum and comparative performances of different RBCB and BACP models are examined in terms of relevance and balancing efficiency.
+
+@highlight Relevance Based Curriculum Balancing (RBCB) is a new model for curriculum design.
+@highlight We linearize the RBCB model and find an exact solution by using Xpress MP Solver.
+@highlight RBCB aims at assigning relevant courses to closest possible periods.
+@highlight RBCB gives a fully balanced solution, with better assignments for relevant courses.

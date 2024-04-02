@@ -1,0 +1,7 @@
+ An algorithm for the evaluation of the exact Gaussian likelihood of an -dimensional vector autoregressive-moving average (VARMA) process of order ( ), with time-dependent coefficients, including a time dependent innovation covariance matrix, is proposed. The elements of the matrices of coefficients and those of the innovation covariance matrix are deterministic functions of time and assumed to depend on a finite number of parameters. These parameters are estimated by maximizing the Gaussian likelihood function. The advantages of that approach is that the Gaussian likelihood function can be computed exactly and efficiently. The algorithm is based on the Cholesky decomposition method for block-band matrices. It is shown that the number of operations as a function of and , the size of the series, is barely doubled with respect to a VARMA model with constant coefficients. A detailed description of the algorithm followed by a data example is provided.
+
+@highlight We consider VARMA models with time-dependent coefficients.
+@highlight These coefficients and the error variance can be deterministic functions of time.
+@highlight We present an efficient algorithm for computing their exact Gaussian likelihood.
+@highlight It is based on an algorithm for traditional VARMA models.
+@highlight An illustration on financial data is provided.

@@ -1,0 +1,7 @@
+ We analyze Nash equilibrium in time of use of a congested facility. Users are risk averse with general concave utility. Queues are subject to varying degrees of random sorting, ranging from strict queue priority to a completely random queue. We define the key “no residual queue” property, which holds when there is no queue at the time the last user arrives at the queue, and prove that this property holds in equilibrium under all queueing regimes considered. The no residual queue property leads to simple results concerning the equilibrium utility of users and the timing of the queue.
+
+@highlight Paper considers bottleneck queueing where the timing of arrivals is endogenous.
+@highlight Users are risk averse with general concave scheduling utility.
+@highlight Queues are subject to varying degrees of random sorting.
+@highlight The no residual queue property is defined and leads to simple results.
+@highlight The no residual queue property holds in equilibrium under all regimes considered.

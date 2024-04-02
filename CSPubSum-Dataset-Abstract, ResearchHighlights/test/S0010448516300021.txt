@@ -1,0 +1,8 @@
+ This paper presented an optimization method to select a tool orientation for machining a sculptured surface by the -axis machining strategy. The optimization method could select the tool orientation for the maximum average strip width in -axis machining. The method could also be used to determine the workpiece setup for general 3-axis machining. The average strip width estimation method was presented as well. Quasi-feasible sectors containing the optimal tool orientation could be found according to the projection planes and the normal vectors of sample points. And the method can find the optimal tool orientation based on projection planes. A freeform surface was parted into 9 sub-surfaces firstly, and then the presented method was applied on those sub-surfaces to determine the optimal tool orientations. The tool paths were generated with the optimized tool orientations and used to mill the sub-surfaces without interference. The method presented could also be applied on the trimmed surface, the surface with a boss, and the blade on a blisk. The machining results indicate that our method can improve machining efficiency through reducing the number of tool paths for -axis sculptured surface machining.
+
+@highlight Average strip width estimation method and sample points selection method for
+@highlight -axis sculptured surface machining.
+@highlight The quasi-feasible sector (QFS) in a projection plane for determining the domain that contains the optimal tool orientation.
+@highlight Novel tool orientation optimization method based on a bunch of projection planes.
+@highlight Numerical examples for tool orientation optimization in
+@highlight -axis machining of a sculptured surface.

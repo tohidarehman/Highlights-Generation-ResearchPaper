@@ -1,0 +1,5 @@
+ We propose a tabu search meta-heuristic for the Time-dependent Multi-zone Multi-trip Vehicle Routing Problem with Time Windows. Two types of neighborhoods, corresponding to the two sets of decisions of the problem, together with a strategy controlling the selection of the neighborhood type for particular phases of the search, provide the means to set up and combine exploration and exploitation capabilities for the search. A diversification strategy, guided by an elite solution set and a frequency-based memory, is also used to drive the search to potentially unexplored good regions and, hopefully, enhance the solution quality. Extensive numerical experiments and comparisons with the literature show that the proposed tabu search yields very high quality solutions, improving those currently published.
+
+@highlight A new formulation for the Time-dependent Multi-zone Multi-trip Vehicle Routing Problem with Time Window.
+@highlight A new tabu search meta-heuristic outperforming the literature.
+@highlight An adaptive neighborhood structure and strategy used to control the selection of neighborhoods and the phases of the search.

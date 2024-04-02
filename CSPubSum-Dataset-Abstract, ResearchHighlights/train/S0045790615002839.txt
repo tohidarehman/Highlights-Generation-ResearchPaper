@@ -1,0 +1,7 @@
+ Broadcasting is the simplest form of communication in which nodes disseminate the same information simultaneously to all of their neighbors. Broadcasting has been widely used in many types of networks including wireless networks, wireless sensor networks, and mobile ad-hoc networks. Likewise these networks, broadcasting is also used in cognitive radio networks (CRNs) to accomplish various tasks such as spectrum sensing, spectrum sharing, spectrum management, and spectrum mobility. This article investigates and provides a comprehensive overview of various broadcasting strategies that have been proposed so far for cognitive radio networks. Moreover, it provides a detailed study of broadcast storm problem in CRNs. Finally, it discusses issues, challenges and future research directions for broadcasting strategies in CRNs.
+
+@highlight We give an overview of various broadcasting strategies proposed so far for cognitive radio networks (CRNs).
+@highlight We identify required key characteristics of broadcasting strategies in CRNs.
+@highlight We propose a comprehensive and detailed classification of broadcasting strategies in CRNs.
+@highlight We provide a detailed study of broadcast storm problem in CRNs.
+@highlight We discuss the possible scenarios for the generation of broadcast storm problem and its related challenges in CRNs.

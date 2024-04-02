@@ -1,0 +1,6 @@
+ The present paper is devoted to the computation of optimal tolls on a traffic network that is described as fuzzy bilevel optimization problem. As a fuzzy bilevel optimization problem we consider bilinear optimization problem with crisp upper level and fuzzy lower level. An effective algorithm for computation optimal tolls for the upper level decision-maker is developed under assumption that the lower level decision-maker chooses the optimal solution as well. The algorithm is based on the membership function approach. This algorithm provides us with a global optimal solution of the fuzzy bilevel optimization problem.
+
+@highlight The aim is a search of an optimal solution of a fuzzy bilevel optimization problem.
+@highlight The problem is interpreted as a traffic network problem.
+@highlight Solution approach is based on stability regions and a switch between two problems.
+@highlight By examining all regions of stability we obtain the global optimal solution.

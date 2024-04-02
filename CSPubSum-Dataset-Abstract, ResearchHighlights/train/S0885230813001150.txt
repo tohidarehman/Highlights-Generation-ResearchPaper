@@ -1,0 +1,6 @@
+ This article describes an evaluation of a POMDP-based spoken dialogue system (SDS), using crowdsourced calls with real users. The evaluation compares a “Hidden Information State” POMDP system which uses a hand-crafted compression of the belief space, with the same system instead using an automatically computed belief space compression. Automatically computed compressions are a way of introducing automation into the design process of statistical SDSs and promise a principled way of reducing the size of the very large belief spaces which often make POMDP approaches intractable. This is the first empirical comparison of manual and automatic approaches on a problem of realistic scale (restaurant, pub and coffee shop domain) with real users. The evaluation took 2193 calls from 85 users. After filtering for minimal user participation the two systems were compared on more than 1000 calls.
+
+@highlight Application of E-PCA for automatic belief compression in a spoken dialogue system.
+@highlight First real user evaluation comparing manual and automatic belief compression.
+@highlight Promising results, keeping in mind the advantage of advanced design automation.
+@highlight Crowdsourced evaluation of spoken dialogue systems using CrowdFlower.

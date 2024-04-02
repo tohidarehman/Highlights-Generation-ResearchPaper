@@ -1,0 +1,6 @@
+ Discontinuities are common in the pricing of financial derivatives and have a tremendous impact on the accuracy of quasi-Monte Carlo (QMC) method. While if the discontinuities are parallel to the axes, good efficiency of the QMC method can still be expected. By realigning the discontinuities to be axes-parallel, [] succeeded in recovering the high efficiency of the QMC method for a special class of functions. Motivated by this work, we propose an auto-realignment method to deal with more general discontinuous functions. The k-means clustering algorithm, a classical algorithm of machine learning, is used to select the most representative normal vectors of the discontinuity surface. By applying this new method, the discontinuities of the resulting function are realigned to be friendly for the QMC method. Numerical experiments demonstrate that the proposed method significantly improves the performance of the QMC method.
+
+@highlight The idea of machine learning is introduced to the QMC area.
+@highlight A new path generation method called the auto-realignment method is proposed.
+@highlight The k-means clustering algorithm is used to select representative normal vectors.
+@highlight Experiments demonstrate the efficiency and robustness of the proposed method.

@@ -1,0 +1,7 @@
+ A scalable video coding (SVC) server can simultaneously provide a single bitstream with a fixed maximum service layer for different kinds of devices having different memory capacity, network bandwidth, and CPU performance requirements. An efficient hybrid 3D video service scheme is proposed without violation of the SVC standard technology for multiple transmission paths. A dynamic local disparity vector estimation algorithm is used to reflect the motion shift component between stereo views in the inter-layer prediction stage of the SVC encoder. To improve the coding efficiency, an adaptive search scheme based on distortion rates (DRs) between corresponding and reference macroblocks is used. Based on experimental results, up to 1.41dB of quality improvement using JSVM 9.19 reference software is verified.
+
+@highlight Field: An efficient scheme for hybrid 3D video service technology.
+@highlight Core Algorithm: An adaptive search range control mechanism for inter-layer prediction.
+@highlight Implementation: JSVM 9.19 reference software with standard sequences.
+@highlight Performance: Up-to 1.41dB of quality improvement with some bit saving.
+@highlight Applications: Hybrid broadcasting systems for next generation TV technology.

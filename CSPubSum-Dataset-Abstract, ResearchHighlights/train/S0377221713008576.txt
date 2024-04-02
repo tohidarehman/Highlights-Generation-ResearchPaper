@@ -1,0 +1,7 @@
+ The fuzzy Analytic Hierarchy Process (fuzzy AHP) is a very popular decision making method and literally thousands of papers have been published about it. However, we find the basic logic of this approach has problems. From its methodology, the definition and operational rules of fuzzy numbers not only oppose the main logic of fuzzy set theory, but also oppose the basic principles of the AHP. In dealing with the outcomes, fuzzy AHP does not give a generally accepted method to rank fuzzy numbers and a way to check the validity of the results. Besides, we discuss the validity of the Analytic Hierarchy/Network Process (AHP/ANP) in complex and uncertain environments and find that fuzzy ANP is a false proposition because there is no fuzzy priority in the super matrix which provides the basis for the ANP. Although fuzzy AHP has been applied in many cases and cited hundreds of times, we hoped that those who use fuzzy AHP would understand the problems associated with this method.
+
+@highlight Found fuzzy numbers oppose the logic of fuzzy set theory.
+@highlight Found the operation rules of fuzzy numbers oppose the logic of the AHP.
+@highlight Found fuzzy AHP cannot give an acceptable method to rank fuzzy numbers.
+@highlight Analysis the validity of the AHP/ANP in complex and uncertain environments.
+@highlight Found fuzzy ANP is a false proposition.

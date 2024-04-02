@@ -1,0 +1,7 @@
+ To get a more efficient program for net routing design in VLSI physical design, a new mixed algorithm is presented by combining ant colonies algorithm and Tabu search algorithm for improving net routing design scheme in VLSI physical design. The models by considering different structure property such as two-terminal, multiple-terminal, multi-layers and gridless net routing are developed with introducing the proper parameters matching which can be obtained by computer experiments. The results show that the new algorithm can avoid the low convergence rate in the initial stage of basic ant colonies system. The efficiency of the Tabu-ant colonies is improved about 16.667%; meantime, the Tabu-ant colonies system can also avoid the local optimal solution effectively. It builds a basis for future work in solving multiple-terminal, multiple-layers and gridless net routing problems with high efficiency.
+
+@highlight We proposed a mixed algorithm by combining ant colonies and Tabu search algorithm for improving net routing in VLSI design.
+@highlight We investigated the different structure such as two-terminal, multiple-terminal, multi-layers and gridless net routing in VLSI physical design.
+@highlight We detected the proper parameters matching for the new mixed algorithm implement.
+@highlight We detected the property and efficiency of the new mixed algorithm.
+@highlight It implies a potential method for very large-scale integration (VLSI) physical design.

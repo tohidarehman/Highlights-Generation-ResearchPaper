@@ -1,0 +1,7 @@
+ In this paper, linear production games are extended so that instead of assuming a linear production technology with fixed technological coefficients, the more general, non-parametric, DEA production technology is considered. Different organizations are assumed to possess their own technology and the cooperative game arises from the possibility of pooling their available inputs, collectively processing them and sharing the revenues. Two possibilities are considered: using a joint production technology that results from merging their respective technologies or each cooperating organization keeping its own technology. This gives rise to two different DEA production games, both of which are totally balanced and have a non-empty core. A simple way of computing a stable solution, using the optimal dual solution for the grand coalition, is presented. The full cooperation scenario clearly produces more benefits for the organizations involved although the implied technology sharing is not always possible. Examples of applications of the proposed approach are given.
+
+@highlight Owen’s linear production game is extended to non-parametric production technology.
+@highlight Several organizations, possibly with different technologies, may cooperate.
+@highlight Resources can be pooled and their production technologies shared.
+@highlight Cooperation increases the total revenue that can be obtained.
+@highlight Cooperative game theory is proposed for allocating this revenue surplus.

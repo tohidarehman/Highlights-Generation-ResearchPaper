@@ -1,0 +1,7 @@
+ Simulation models are frequently analyzed through a linear regression model that relates the input/output data behavior. However, in several situations, it happens that different data subsets may resemble different models. The purpose of this paper is to present a procedure for constructing switching regression metamodels in stochastic simulation, and to exemplify the practical use of statistical techniques of switching regression in the analysis of simulation results. The metamodel estimation is made using a mixture weighted least squares and the maximum likelihood method. The consistency and the asymptotic normality of the maximum likelihood estimator are establish. The proposed methods are applied in the construction of a switching regression metamodel. This paper gives special emphasis on the usefulness of constructing switching metamodels in simulation analysis.
+
+@highlight How to collect data for switching metamodels (SWM) where several identified regimes.
+@highlight Procedure using replications to estimate regime probabilities and variances of SWM.
+@highlight Generalize WLSQ to mixtures of regimes (MWLSQ) based on clusterwise regression.
+@highlight Asymptotic normality and consistency of the MLE is established for MLE metamodels.
+@highlight Compare the precision of MWLSQ and MLE metamodels with a 4 regime example.

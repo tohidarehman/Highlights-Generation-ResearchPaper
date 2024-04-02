@@ -1,0 +1,6 @@
+ This work deals with the challenging task of activity recognition in unconstrained videos. Standard methods are based on video encoding of low-level features using Fisher Vectors or Bag of Features. However, these approaches model every sequence into a single vector with fixed dimensionality that lacks any long-term temporal information, which may be important for recognition, especially of complex activities. This work proposes a novel framework with two main technical novelties: First, a video encoding method that maintains the temporal structure of sequences and second a Time Flexible Kernel that allows comparison of sequences of different lengths and random alignment. Results on challenging benchmarks and comparison to previous work demonstrate the applicability and value of our framework.
+
+@highlight TFK: a kernel framework between arbitrary length sequences.
+@highlight Some complex activities are defined by the order of sub-actions.
+@highlight The new kernel framework improves results in complex activities recognition.
+@highlight Combination of several levels of granularity in temporal divisions reduces clutter.

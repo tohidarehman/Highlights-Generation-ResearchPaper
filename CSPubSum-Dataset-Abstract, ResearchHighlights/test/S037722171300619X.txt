@@ -1,0 +1,7 @@
+ The Miller–Tucker–Zemlin (MTZ) Subtour Elimination Constraints (SECs) and the improved version by Desrochers and Laporte (DL) have been and are still in regular use to model a variety of routing problems. This paper presents a systematic way of deriving inequalities that are more complicated than the MTZ and DL inequalities and that, in a certain way, “generalize” the underlying idea of the original inequalities. We present a polyhedral approach that studies and analyses the convex hull of feasible sets for small dimensions. This approach allows us to generate generalizations of the MTZ and DL inequalities, which are “good” in the sense that they define facets of these small polyhedra. It is well known that DL inequalities imply a subset of Dantzig–Fulkerson–Johnson (DFJ) SECs for two-node subsets. Through the approach presented, we describe a generalization of these inequalities which imply DFJ SECs for three-node subsets and show that generalizations for larger subsets are unlikely to exist. Our study presents a similar analysis with generalizations of MTZ inequalities and their relation with the lifted circuit inequalities for three node subsets.
+
+@highlight Miller–Tucker–Zemlin (MTZ) and Desrochers–Laporte (DL) SECs are studied.
+@highlight A systematic way of deriving MTZ and DL SECs is presented.
+@highlight The approach is based on analyzing the convex hull of small polyhedra and facets.
+@highlight A generalization of the DL SECs implying 3-node CLIQUE constraints is shown.
+@highlight Generalizations for larger node sets are unlikely to exist.

@@ -1,0 +1,6 @@
+ Hybrid CDN-P2P networks blend Content Delivery Networks (CDN) and Peer-to-Peer (P2P) networks to overcome their shortcomings. Replica placement in these networks is still an open problem. Hierarchical structure of these networks makes it inefficient to use available replica placement strategies specialized to CDN or P2P network domains. In this work, we introduce a novel replication strategy which enables traditional CDNs to offer Hybrid CDN-P2P streaming content delivery services. The proposed solution relies on economic model of the Hybrid CDN and employs a dynamic mechanism to optimize the number and places of replicas for P2P service. In particular, processing and communication complexities of the proposed solution are studied and its performance is analyzed in a typical Hybrid CDN-P2P network in comparison to related strategies.
+
+@highlight Economic model of streaming content distribution in HCDNs is introduced.
+@highlight A novel replica placement mechanism is introduced for streaming content in HCDN.
+@highlight Asymptotic resource consumption of the solution is studied.
+@highlight Performance of the solution is analyzed in comparison to other strategies.

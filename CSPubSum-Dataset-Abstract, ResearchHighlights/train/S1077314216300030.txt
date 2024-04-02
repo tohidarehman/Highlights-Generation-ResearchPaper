@@ -1,0 +1,7 @@
+ Toothbrush training is a complex and not fun task for the child nor for the parents or for the dental stuff. Parents and hygienists often report that they are frustrated by poor responses to the training and in most of cases children go home and resume wrong brushing habits, if any. In this paper we present a novel approach where the tooth brushing procedure can become a fun and enjoyable task for kids using a cheap toothbrush accessory and a tablet or a smartphone. The main idea is to apply a simple and cheap 3D colored target at the end of the toothbrush and to track and analyze its motion, imparted by the child. In particular, from the tablet camera it is possible to track both the toothbrush target and the child’s facial parts in order to estimate the brushed dental side. The proposed approach has been tested on seven kids showing good results both in propensity and accuracy after a 20 days period.
+
+@highlight A novel approach to help children learn proper tooth brush based on Computer Vision is proposed.
+@highlight 3D toothbrush tracking is performed based on MOSSE algorithm and a colored marker.
+@highlight Hidden Markov Models are adopted for tooth brushing gesture recognition.
+@highlight A tooth brushing gamification based on avatars induces kids to follow their hints.
+@highlight A test on volunteer kids was performed providing good results.

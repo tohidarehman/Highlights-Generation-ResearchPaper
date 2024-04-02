@@ -1,0 +1,7 @@
+ The quality of computer-aided-design (CAD) generated ‘As-built’ documentation is evaluated for a High Voltage Switchgear System (HVSS), which forms part of a Supervisory Control and Data Acquisition up-grade within a geo-thermal power plant. A total of 267 CAD drawings for the HVSS were used to create a Systems Information Model (SIM) whereby the physical components and associated connections were constructed in an object orientated database. Throughout the modelling process a considerable amount of errors and information redundancy were identified and examples are presented. The production of the CAD drawings took 10,680 man-h in stark contrast to the 80 man-h required to construct the SIM, illustrating the efficiency and effectiveness of SIM compared to CAD for the documentation of electrical instrumentation and control systems (EICS). To realise this significant potential cost and productivity saving requires a shift in mindset and a move beyond the use of CAD, to an object oriented SIM, with a 1:1 relationship between objects in the model, and components in the real world.
+
+@highlight Quality of CAD generated ‘As-built’ documentation is evaluated for a High Voltage Switchgear System.
+@highlight CAD drawings are used to create a Systems Information Model.
+@highlight Significant errors, omissions and information redundancy identified in the CAD drawings.
+@highlight CAD drawings took 10,680 man-h to develop compared to 80 man-h required to construct a SIM.
+@highlight A SIM should be to design and document electrical control instrumentation systems.

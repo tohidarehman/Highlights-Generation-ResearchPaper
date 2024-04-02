@@ -1,0 +1,7 @@
+ Using image hierarchies for visual categorization has been shown to have a number of important benefits. Doing so enables a significant gain in efficiency (e.g., logarithmic with the number of categories ) or the construction of a more meaningful distance metric for image classification . A critical question, however, still remains controversial: would structuring data in a hierarchical sense also help classification accuracy? In this paper we address this question and show that the hierarchical structure of a database can be indeed successfully used to enhance classification accuracy using a sparse approximation framework. We propose a new formulation for sparse approximation where the goal is to discover the sparsest path within the hierarchical data structure that best represents the query object. Extensive quantitative and qualitative experimental evaluation on a number of branches of the Imagenet database  as well as on the Caltech-256  demonstrate our theoretical claims and show that our approach produces better hierarchical categorization results than competing techniques.
+
+@highlight A new hierarchical classification scheme by sparse approximation is proposed.
+@highlight Leverage large scale structured data for the accurate hierarchical classification.
+@highlight Distance function taking into account the hierarchical structure is introduced.
+@highlight Defined two images to be similar if they shared a similar path in the hierarchy
+@highlight Achieved better performances than flat 1-vs-N classification methods

@@ -1,0 +1,7 @@
+ Using different shapes of recognition regions in Artificial Immune Systems (AIS) are not a new issue. Especially, ellipsoidal shapes seem to be more intriguing as they have also been used very effectively in other shape space-based classification methods. Some studies have done in AIS through generating ellipsoidal detectors but they are restricted in their detector generating scheme – Genetic Algorithms (GA). In this study, an AIS was developed with ellipsoidal recognition regions by inspiring from the clonal selection principle and an effective search procedure for ellipsoidal regions was applied. Performance evaluation tests were conducted as well as application results on some real-world classification problems taken from UCI machine learning repository were obtained. Comparison with GA was also done in some of these problems. Very effective and comparatively good classification ratios were recorded.
+
+@highlight An Artificial Immune System was developed based on ellipsoidal recognition regions.
+@highlight Clonal selection principle was utilizes for generating best ellipsoidal regions.
+@highlight Different mutation procedure was applied for the speed of the algorithm.
+@highlight Applications were done on some benchmark data and real-world datasets taken from UCI machine learning repository.
+@highlight Good and promising results have been obtained.

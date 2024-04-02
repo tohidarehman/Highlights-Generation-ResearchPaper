@@ -1,0 +1,7 @@
+ In this study, we developed a DEA–based performance measurement methodology that is consistent with performance assessment frameworks such as the Balanced Scorecard. The methodology developed in this paper takes into account the direct or inverse relationships that may exist among the dimensions of performance to construct appropriate production frontiers. The production frontiers we obtained are deemed appropriate as they consist solely of firms with desirable levels for all dimensions of performance. These levels should be at least equal to the critical values set by decision makers. The properties and advantages of our methodology against competing methodologies are presented through an application to a real-world case study from retail firms operating in the US. A comparative analysis between the new methodology and existing methodologies explains the failure of the existing approaches to define appropriate production frontiers when directly or inversely related dimensions of performance are present and to express the interrelationships between the dimensions of performance.
+
+@highlight We develop a performance measurement methodology with interrelated variables.
+@highlight Our methodology draws on generalized expressions of the directional distance function.
+@highlight Our methodology takes into account trade-offs among the dimensions of performance.
+@highlight The identified benchmarks satisfy threshold values for every dimension of performance.
+@highlight Our methodology provides scientific underpinning to the Balanced Scorecard.

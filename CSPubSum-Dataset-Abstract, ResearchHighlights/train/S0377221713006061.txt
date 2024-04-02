@@ -1,0 +1,6 @@
+ This paper proposes an easily implementable, scalable decomposition heuristic for determining near optimal base stocks in two-level general inventory systems. In this heuristic, the general system is decomposed into assembly systems—one for each end product. For these assembly systems, the base-stock levels are calculated separately, taking into account risk-pooling effects for the common components. Our numerical analyses yield two main insights: First, the base-stock levels determined by the heuristic are close-to-optimal. Second, considerable improvements can be obtained compared to common-sense heuristics.
+
+@highlight We consider a two-level general inventory system.
+@highlight We propose an easily implementable, scalable decomposition heuristic for determining base-stock levels.
+@highlight The base-stock levels identified by the heuristic are near optimal.
+@highlight Considerable improvements can be obtained compared to common- sense heuristics.

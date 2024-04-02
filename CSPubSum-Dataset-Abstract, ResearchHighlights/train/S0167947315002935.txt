@@ -1,0 +1,7 @@
+ Change point models seek to fit a piecewise regression model with unknown breakpoints to a data set whose parameters are suspected to change through time. However, the exponential number of possible solutions to a multiple change point problem requires an efficient algorithm if long time series are to be analyzed. A sequential Bayesian change point algorithm is introduced that provides uncertainty bounds on both the number and location of change points. The algorithm is able to quickly update itself in linear time as each new data point is recorded and uses the exact posterior distribution to infer whether or not a change point has been observed. Simulation studies illustrate how the algorithm performs under various parameter settings, including detection speeds and error rates, and allow for comparison with several existing multiple change point algorithms. The algorithm is then used to analyze two real data sets, including global surface temperature anomalies over the last 130 years.
+
+@highlight Algorithm quickly updates its inference in linear time with each new observation.
+@highlight Derives uncertainty bounds on the number and location of change points in a data set.
+@highlight Explores potential detection criteria associated with posterior distribution.
+@highlight Simulation studies show high detection rate, low false positive rate.
+@highlight Analysis of two real data sets illustrate wide range of potential applications.

@@ -1,0 +1,7 @@
+ We investigate the Minimum Evolution Problem (MEP), an NP -hard network design problem arising from computational biology. The MEP consists in finding a weighted unrooted binary tree having n leaves, minimal length, and such that the sum of the edge weights belonging to the unique path between each pair of leaves is greater than or equal to a prescribed value. We study the polyhedral combinatorics of the MEP and investigate its relationships with the Balanced Minimum Evolution Problem. We develop an exact solution approach for the MEP based on a nontrivial combination of a parallel branch-price-and-cut scheme and a non-isomorphic enumeration of all possible solutions to the problem. Computational experiments show that the new solution approach outperforms the best mixed integer linear programming formulation for the MEP currently described in the literature. Our results give a perspective on the combinatorics of the MEP and suggest new directions for the development of future exact solution approaches that may turn out useful in practical applications. We also show that the MEP is statistically consistent.
+
+@highlight We study the Minimum Evolution problem (MEP), which arises in Computational Biology.
+@highlight We study the polyhedral combinatorics of the MEP.
+@highlight We present an exact solution approach for the MEP.
+@highlight We study relationships between the MEP and the Balanced Minimum Evolution Problem.
+@highlight We show the statistical consistency of the MEP.

@@ -1,0 +1,7 @@
+ This paper presents a new finite-element formulation for the dynamic analysis of three-dimensional beams. The formulation is based on the geometrically exact three-dimensional beam theory in which the strain vectors are the only unknown functions of the arc-length parameter. The classical Newmark time integration scheme extended to the multiplicative group of spatial rotations is used and properly adapted for the strain-based formulation. The Generalized- method is used to enforce a numerical dissipation of higher modes. The update procedure needed in the iteration process is discussed in detail. The exact linearization of the governing equations is also presented. The performance of the formulation is demonstrated with numerical examples.
+
+@highlight We study the dynamics of spatial beams based on strain measures.
+@highlight Strain measures are the only unknown functions of the arc-length parameter.
+@highlight Additive interpolation of strains gives fully consistent displacement and rotation fields.
+@highlight Present formulation satisfies the equality of equilibrium and the constitutive internal forces.
+@highlight The linearization and the update procedure are novel and presented for the first time.

@@ -1,0 +1,7 @@
+ We propose a 3D symmetric homotopic thinning method based on the critical kernels framework. It may produce either curvilinear or surface skeletons, depending on the criterion that is used to prevent salient features of the object from deletion. In our new method, rather than detecting curve or surface extremities, we detect isthmuses, that is, parts of an object that are “locally like a curve or a surface”. This allows us to propose a natural extension of our new method that copes with the robustness to noise issue, this extension is based on a notion of “isthmus persistence”. As far as we know, this is the first method that permits to obtain 3D symmetric and robust curvilinear/surface skeletons of objects made of voxels.
+
+@highlight We propose a 3D paralel and symmetri homotopi thinning method.
+@highlight The frame work of critical kernels ensures the topological soundnes of our method.
+@highlight Salient geometri features of the objects are deteted by “isthmuses”.
+@highlight Either curvilinear or surface skeletons may be produced.
+@highlight “Isthmus persistence” alows us to cope with the robustness to noise issue.

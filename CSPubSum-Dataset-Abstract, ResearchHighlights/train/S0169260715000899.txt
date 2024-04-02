@@ -1,0 +1,7 @@
+ In this paper a new automatic approach to determine the accurate measure of human vertebrae is proposed. The aim is to speed up the measurement process and to reduce the uncertainties that typically affect the measurement carried out by traditional approaches. The proposed method uses a 3D model of the vertebra obtained from CT-scans or 3D scanning, from which some characteristic dimensions are detected. For this purpose, specific rules to identify morphological features, from which to detect dimensional features unambiguously and accurately, are put forward and implemented in original software. The automatic method which is here proposed is verified by analysing real vertebrae and is then compared with the state-of-the-art methods for vertebra measurement.
+
+@highlight This paper proposes a new approach to determine the measure of human vertebrae.
+@highlight Typical approaches perform measurements with lack of repeatability and reproducibility.
+@highlight The proposed method is based on morphological features recognition from 3D high point density model of the vertebrae.
+@highlight The paper proposes unambiguous rules to identify geometric references and the associated dimensions.
+@highlight Compared to typical approaches, the proposed method proved to be more repeatable and reproducible.

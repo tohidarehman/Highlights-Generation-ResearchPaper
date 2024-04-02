@@ -1,0 +1,5 @@
+ In the recent article, develop a scheme that allows for identical replenishment cycles for all the retailers, in the context of a single vendor supplying a group of retailers under VMI partnership. This paper proposes an alternative replenishment scheme allowing for different replenishment cycles for each retailer. An example has been shown to illustrate the cost savings under the proposed model.
+
+@highlight This paper proposes an alternative model for single vendor multiple retailer case under VMI partnership.
+@highlight The role of A/Dh ratio has been shown to be deciding factor for the replenishment scheme.
+@highlight Cost savings by applying the proposed model has been illustrated by an example.

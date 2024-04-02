@@ -1,0 +1,8 @@
+ The normalized Laplacian spectrum (NLS) is a powerful tool for comparing graphs with different sizes. Recently, we showed that two NLS features, namely the weighted spectral distribution (WSD) and the multiplicity of the eigenvalue 1 (ME1), are particularly relevant to the Internet topology at the inter-domain level. In this paper, we examine the physical meaning of the two metrics for the Internet. We show that the WSD reflects the transformation from single-homed nodes to multi-homed nodes for better fault-tolerance and that the ME1 quantifies the initial star-based structure associated with node classification, both of which are critical to the robustness of the Internet structure. We then investigate the relation between the metrics and graph perturbations (i.e., small changes in a graph). We show that these two NLS metrics can be a good choice for study on the Internet optimization. Our work reveals novel insights into the Internet structure and provides useful knowledge for statistical analysis on complex networks.
+
+@highlight Hightlights
+@highlight The physical meaning of the normalized Laplacian spectrum for the Internet.
+@highlight Graph perturbations and changes in the weighted spectral distribution.
+@highlight Graph perturbations and changes in the multiplicity of the eigenvalue 1.
+@highlight The two spectral metrics are asymptotically independent of network size.
+@highlight The two spectral metrics are a good choice for study on the Internet optimization.

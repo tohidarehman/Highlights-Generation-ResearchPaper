@@ -1,0 +1,7 @@
+ Soft computing techniques have been widely used during the last two decades for nonlinear system modeling, specifically as predictive tools. In this study, the performances of two well-known soft computing predictive techniques, artificial neural network (ANN) and genetic programming (GP), are evaluated based on several criteria, including over-fitting potential. A case study in punching shear prediction of RC slabs is modeled here using a hybrid ANN (which includes simulated annealing and multi-layer perception) and an established GP variant called gene expression programming. The ANN and GP results are compared to values determined from several design codes. For more verification, external validation and parametric studies were also conducted. The results of this study indicate that model acceptance criteria should include engineering analysis from parametric studies.
+
+@highlight Two major soft computing techniques, ANN and GP, are evaluated in detail.
+@highlight A case study in punching shear modeling of RC slabs is modeled.
+@highlight The models are compared based on model complexity, statistical validation and parametric study.
+@highlight Overfitting potential of the models is evaluated and suggestions are provided.
+@highlight The results indicate model acceptance criteria should include engineering analysis.

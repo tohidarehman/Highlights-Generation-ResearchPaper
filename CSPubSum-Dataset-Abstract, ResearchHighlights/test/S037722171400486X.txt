@@ -1,0 +1,7 @@
+ Three approaches are commonly used for analyzing decisions under uncertainty: expected utility (EU), second-degree stochastic dominance (SSD), and mean-risk (MR) models, with the mean–standard deviation (MS) being the best-known MR model. Because MR models generally lead to different efficient sets and thus are a continuing source of controversy, the specific concern of this article is not to suggest another MR model. Instead, we show that the SSD- and MR-efficient sets are identical, as long as (a) definition(s) of increasing risk and (b) the choice set includes the riskless asset and satisfies a generalized location and scale property, which can be interpreted as a market model. Under these conditions, there is no controversy among MR models and they all have a decision-theoretic foundation. They also offer a convenient way to compare the estimation error related to the empirical implementation of different MR models.
+
+@highlight We show that SSD- and MR-efficient sets are identical under three conditions.
+@highlight First: the risk measure satisfies two mild axiomatic requirements.
+@highlight Second: the choice set includes the riskless asset.
+@highlight Third: the choice set satisfies a generalized location and scale property.
+@highlight These conditions provide a decision-theoretic foundation for many mean-risk models.

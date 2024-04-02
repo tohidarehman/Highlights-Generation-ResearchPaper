@@ -1,0 +1,7 @@
+ Having sufficient inventories in the forward or piece picking area of a warehouse is an essential condition for warehouse operations. As pickers consume the inventory in the piece racks, there is a risk of stockout. This can be reduced by the timely replenishment of products from the bulk reserve area to the forward area. We develop and compare three policies for prioritizing replenishments for the case where order picking and replenishments occur concurrently because of time restrictions. The first policy, based on the ratio of available inventory to wave demand, reduces the number of stockouts considerably. The other two more sophisticated policies reduce the number of stockouts even more but require much more computation time, and are more costly in terms of implementation, maintenance and software updates. We present the results of implementing one of these policies in the warehouse of a large cosmetics firm.
+
+@highlight The efficiency of optimal order picking routes can be severely hampered by product stockouts in the piece picking area.
+@highlight Time pressure forces warehouses to combine order picking and replenishments of the piece picking area.
+@highlight Prioritizing the product replenishments based on impending stockouts can substantially reduce these.
+@highlight A simple priority rule is already quite effective, shown by both simulation and practical implementation in a warehouse.
+@highlight This simple priority rule can be further refined making use of all the short-term demand information available.

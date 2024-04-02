@@ -1,0 +1,5 @@
+ Detecting user context with high accuracy using smartphone sensors is a difficult task. A key challenge is dealing with the impact of different smartphone positions on sensor values. Users carry their smartphones in different positions such as holding in their hand or keeping inside their pants or jacket pocket, and each of these smartphone positions affects various sensor values in different ways. This paper addresses the issue of poor accuracy in detecting user context due to varying smartphone positions. It describes the design and prototype development of a smartphone position discovery service that accurately detects a smartphone position, and then demonstrates that the accuracy of an existing context aware application is significantly enhanced when run in conjunction with this proposed smartphone position discovery service.
+
+@highlight We analyze the impact of smartphone carry positions on readings provided by sensors.
+@highlight We use accelerometer, gyroscope and light sensors to detect position information.
+@highlight Two-stage method based on position is shown to enhance fall classification accuracy.

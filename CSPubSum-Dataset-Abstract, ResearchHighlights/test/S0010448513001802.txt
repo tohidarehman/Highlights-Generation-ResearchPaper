@@ -1,0 +1,7 @@
+ Longest-edge refinement algorithms were designed to iteratively refine the mesh for finite-element applications by maintaining mesh quality (assuring a bound on the smallest angle). In this paper we improve geometrical results on longest-edge refinement algorithms and provide precise bounds on the refinement propagation. We prove that the iterative application of the algorithm gradually reduces the average extent of the propagation per target triangle, tending to affect only two triangles. We also include empirical results which are in complete agreement with the theory.
+
+@highlight We improve geometrical results on longest-edge refinement algorithms.
+@highlight We provide new results on the refinement propagation of the Lepp-bisection algorithm.
+@highlight The iterative application of the algorithm improves the quality of the triangulation.
+@highlight We perform an empirical study of the algorithm and the behavior of the propagation.
+@highlight We also review mathematical properties of the iterative longest-edge bisection.

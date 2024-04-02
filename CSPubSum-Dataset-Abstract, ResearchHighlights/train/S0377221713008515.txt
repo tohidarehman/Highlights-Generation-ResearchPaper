@@ -1,0 +1,5 @@
+ Motivated by Markowitz portfolio optimization problems under uncertainty in the problem data, we consider general convex parametric multiobjective optimization problems under data uncertainty. For the first time, this uncertainty is treated by a robust multiobjective formulation in the gist of Ben-Tal and Nemirovski. For this novel formulation, we investigate its relationship to the original multiobjective formulation as well as to its scalarizations. Further, we provide a characterization of the location of the robust Pareto frontier with respect to the corresponding original Pareto frontier and show that standard techniques from multiobjective optimization can be employed to characterize this robust efficient frontier. We illustrate our results based on a standard mean–variance problem.
+
+@highlight Multiobjective optimization problems with uncertainty can easily be robustified.
+@highlight The concept of the robust Pareto front is introduced.
+@highlight Applications to Markowitz portfolio optimization are described in detail.

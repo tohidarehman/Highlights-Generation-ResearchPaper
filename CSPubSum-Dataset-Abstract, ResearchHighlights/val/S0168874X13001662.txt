@@ -1,0 +1,6 @@
+ In order to investigate the microstructure evolution of inertia friction welding process of FGH96 ring part, the dynamic recrystallization kinetic model of FGH96 superalloy was established and a two-dimensional axisymmetric coupled thermo-mechanical finite element model was developed using the MSC.Marc software. By the second development of MSC.Marc, the dynamic recrystallization kinetic model was integrated into the finite element model to simulate the microstructure evolution of inertia friction welding process of FGH96 superalloy. The distributions of dynamic recrystallized fraction and average grain size during the inertia friction welding process were obtained and analyzed. The inertia friction welding experiments of FGH96 ring parts were carried out. The comparison results show that the simulated results agree well with the measured ones.
+
+@highlight A DRX model of FGH96 of IFW process is established.
+@highlight An axisymmetric coupled thermo-mechanical FE model of IFW process is established.
+@highlight The microstructure evolution of FGH96 superalloy during IFW process is simulated.
+@highlight The DRX fraction and average grain size during IFW process are predicted accurately.

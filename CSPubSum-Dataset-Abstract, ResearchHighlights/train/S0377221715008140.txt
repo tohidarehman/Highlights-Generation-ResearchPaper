@@ -1,0 +1,7 @@
+ This paper proposes the Flexible and Interactive Tradeoff (FITradeoff) method, for eliciting scaling constants or weights of criteria. The FITradeoff uses partial information about decision maker (DM) preferences to determine the most preferred in a specified set of alternatives, according to an additive model in MAVT (Multi-Attribute Value Theory) scope. This method uses the concept of flexible elicitation for improving the applicability of the traditional tradeoff elicitation procedure. FITradeoff offers two main benefits: the information required from the DM is reduced and the DM does not have to make adjustments for the indifference between two consequences (trade-off), which is a critical issue on the traditional tradeoff procedure. It is easier for the DM to make comparisons of consequences (or outcomes) based on strict preference rather than on indifference. The method is built into a decision support system and applied to two cases on supplier selection, already published in the literature.
+
+@highlight FITradeoff (Flexible and Interactive Tradeoff) is a new elicitation MCDM method.
+@highlight FITradeoff uses the tradeoff procedure for eliciting weights of an additive model.
+@highlight FITradeoff uses the concept of flexible elicitation and has been built into a DSS.
+@highlight The nature of information required is cognitively easier for the DM to grasp.
+@highlight FITradeoff also reduces the amount of information required from the DM.

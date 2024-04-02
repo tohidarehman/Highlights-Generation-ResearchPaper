@@ -1,0 +1,7 @@
+ Cloud computing is an emerging technology that allows to access computing resources on a pay-per-use basis. The main challenges in this area are the efficient performance management and the energy costs minimization. In this paper we model the service provisioning problem of Cloud Platform-as-a-Service systems as a Generalized Nash Equilibrium Problem and show that a potential function for the game exists. Moreover, we prove that the social optimum problem is convex and we derive some properties of social optima from the corresponding Karush–Kuhn–Tucker system. Next, we propose a distributed solution algorithm based on the best response dynamics and we prove its convergence to generalized Nash equilibria. Finally, we numerically evaluate equilibria in terms of their efficiency with respect to the social optimum of the Cloud by varying our algorithm initial solution. Numerical results show that our algorithm is scalable and very efficient and thus can be adopted for the run-time management of very large scale systems.
+
+@highlight The Cloud service provisioning problem is modeled as a generalized Nash game.
+@highlight We show that a potential function for the game exists.
+@highlight We propose solution methods based on the best response dynamics.
+@highlight Equilibria efficiency is evaluated with respect to the social optimum.
+@highlight Results show that our algorithms can manage at run-time very large scale systems.

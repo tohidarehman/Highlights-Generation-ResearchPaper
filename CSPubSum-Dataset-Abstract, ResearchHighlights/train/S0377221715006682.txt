@@ -1,0 +1,5 @@
+ For mid-term demand forecasting, the accuracy, stability, and ease of use of the forecasting method are considered important user requirements. We propose a new forecasting method using linearization of the hazard rate formula of the Bass model. In the proposal, reduced non-linear least square method is used to determine the market potential estimate, after the estimates for the coefficient of innovation and the coefficient of imitation are obtained by using ordinary least square method with the new linearization of the Bass model. Validations of 29 real data sets and 36 simulation data sets show that the proposed method is accurate and stable. Considering the user requirements, our method could be suitable for mid-term forecasting based on the Bass model. It has high forecasting accuracy and superior stability, is easy to understand, and can be programmed using software such as MS Excel and Matlab.
+
+@highlight Our method combines non-linear least square and ordinary least square.
+@highlight The key idea is to use the linearization of the Bass diffusion model.
+@highlight Comparing with other typical methods, ours has better accuracy and stability.

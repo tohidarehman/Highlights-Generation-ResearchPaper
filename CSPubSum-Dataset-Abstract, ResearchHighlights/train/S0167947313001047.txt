@@ -1,0 +1,8 @@
+ It is often necessary to test for the presence of seasonal unit roots when working with time series data observed at intervals of less than a year. One of the most widely used methods for doing this is based on regressing the seasonal difference of the series over the transformations of the series by applying specific filters for each seasonal frequency. This provides test statistics with non-standard distributions. A generalisation of this method for any periodicity is presented and a response surface regressions approach is used to calculate the -values of the statistics whatever the periodicity and sample size of the data. The algorithms are prepared with the Gretl open source econometrics package and two empirical examples are presented.
+
+@highlight A generalisation of HEGY seasonal unit root tests was presented in Smith, Taylor and del Barrio Castro (2009).
+@highlight We use a response surface regressions approach to calculate
+@highlight -values for the HEGY statistics.
+@highlight They can be used for any seasonal periodicity, sample size and autoregressive order.
+@highlight A Gretl function package is provided for applying the tests and calculating their
+@highlight -values.

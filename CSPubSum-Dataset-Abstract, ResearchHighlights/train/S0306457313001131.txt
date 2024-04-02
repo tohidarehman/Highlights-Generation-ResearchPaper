@@ -1,0 +1,7 @@
+ The volume of entity-centric structured data grows rapidly on the Web. The description of an entity, composed of property-value pairs (a.k.a. features), has become very large in many applications. To avoid information overload, efforts have been made to automatically select a limited number of features to be shown to the user based on certain criteria, which is called automatic entity summarization. However, to the best of our knowledge, there is a lack of extensive studies on how humans rank and select features in practice, which can provide empirical support and inspire future research. In this article, we present a large-scale statistical analysis of the descriptions of entities provided by DBpedia and the abstracts of their corresponding Wikipedia articles, to empirically study, along several different dimensions, which kinds of features are preferable when humans summarize. Implications for automatic entity summarization are drawn from the findings.
+
+@highlight We empirically study how Wikipedians summarize entity descriptions in practice.
+@highlight We compare entity descriptions in DBpedia with their Wikipedia abstracts.
+@highlight We analyze the length of a summary and the priorities of property values.
+@highlight We analyze the priorities of, diversity of, and correlation between properties.
+@highlight Implications for automatic entity summarization are drawn from the findings.

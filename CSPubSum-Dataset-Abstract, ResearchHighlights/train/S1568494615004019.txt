@@ -1,0 +1,7 @@
+ Certain type of linguistic terms such as satisfactory, good, very good and excellent have an order among them. In this paper we introduce a new concept of soft sets with some order among the parameters. Some properties of lattice ordered soft sets are given. Lattice ordered soft sets are very useful in particular type of decision making problems where some order exists among the elements of parameters set.
+
+@highlight Concept of lattice ordered soft sets is introduced.
+@highlight This type of soft sets can help to represent linguistic terms having certain order.
+@highlight Properties of lattice order soft sets have been studied.
+@highlight Some algebraic structures associated with this type of soft sets have been given.
+@highlight In certain decision making problems these soft sets and operations on them can be very helpful.

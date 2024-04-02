@@ -1,0 +1,6 @@
+ In this paper, we introduce a new variant of the Vehicle Routing Problem (VRP), namely the Two-Stage Vehicle Routing Problem with Arc Time Windows (TS_VRP_ATWs) which generally emerges from both military and civilian transportation. The TS_VRP_ATW is defined as finding the vehicle routes in such a way that each arc of the routes is available only during a predefined time interval with the objective of overall cost minimization. We propose a Mixed Integer Programming (MIP) formulation and a heuristic approach based on Memetic Algorithm (MA) to solve the TS_VRP_ATW. The qualities of both solution approaches are measured by using the test problems in the literature. Experimental results show that the proposed MIP formulation provides the optimal solutions for the test problems with 25 and 50 nodes, and some test problems with 100 nodes. Results also show that the proposed MA is promising quality solutions in a short computation time.
+
+@highlight We consider two-stage vehicle routing problem with arc time windows.
+@highlight We propose a MIP formulation and a heuristic approach based on memetic algorithm.
+@highlight The MIP formulation obtains the optimal solution of small and medium-size problems.
+@highlight The memetic algorithm obtains good quality solutions in a short computation time.

@@ -1,0 +1,6 @@
+ We used an evolutionary genomics approach to identify genes that are under lineage-specific positive selection in six species of the genus Bacteroides, including three strains of pathogenic Bacteroides fragilis. Using OrthoMCL, we identified 1275 orthologous gene clusters present in all eight Bacteroides genomes. A total of 52 genes were identified as under positive selection in the branch leading to the B. fragilis lineage, including a number of genes encoding cell surface proteins such as TonB-dependent receptor. Three-dimensional structural mapping of positively selected sites indicated that many residues under positive selection occur in the extracellular loops of the proteins. The adaptive changes in these positively selected genes might be related to dynamic interactions between the host immune systems and the surrounding intestinal environment.
+
+@highlight We identified 1275 orthologous gene clusters present in all eight Bacteroides genomes.
+@highlight 52 genes were identified as being under positive selection in the Bacteroides fragilis lineage.
+@highlight Many genes involved in the cell surface/membrane exhibited positive selection.
+@highlight Positively selected proteins in B. fragilis might interact with host immune systems.

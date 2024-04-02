@@ -1,0 +1,7 @@
+ Classifying walking patterns helps the diagnosis of health status, disease progression and the effect of interventions. In this paper, we develop previous research on human gait to extract a meaningful set of parameters that allow us to design a highly interpretable system capable of identifying different gait styles with linguistic fuzzy if-then rules. The model easily discriminates among five different walking patterns, namely: normal walk, on tiptoes, dragging left limb, dragging right limb, and dragging both limbs. We have carried out a complete experimentation to test the performance of the extracted parameters to correctly classify these five chosen gait styles.
+
+@highlight Based on previous research in the field of computing with perceptions.
+@highlight Highly interpretable and efficient linguistic model used to recognize the gait phases.
+@highlight Set of parameters that characterize relevant aspects of the gait.
+@highlight Fuzzy rule-based classifier that discriminates among different walking patterns.
+@highlight Parameters capable of recognizing among five walking patterns with an accuracy of 84%.

@@ -1,0 +1,6 @@
+ In this study, we have thoroughly researched on performance of six state-of-the-art Multiobjective Evolutionary Algorithms (MOEAs) under a number of carefully crafted many-objective optimization benchmark problems. Each MOEA apply different method to handle the difficulty of increasing objectives. Performance metrics ensemble exploits a number of performance metrics using double elimination tournament selection and provides a comprehensive measure revealing insights pertaining to specific problem characteristics that each MOEA could perform the best. Experimental results give detailed information for performance of each MOEA to solve many-objective optimization problems. More importantly, it shows that this performance depends on two distinct aspects: the ability of MOEA to address the specific characteristics of the problem and the ability of MOEA to handle high-dimensional objective space.
+
+@highlight A performance assessment on state-of-the-art many-objective evolutionary algorithms.
+@highlight Proposed performance metrics ensemble exploits a collection of performance metrics.
+@highlight Performance depends on ability to address specific characteristics of the problem.
+@highlight Performance depends on ability to handle high-dimensional objective space.

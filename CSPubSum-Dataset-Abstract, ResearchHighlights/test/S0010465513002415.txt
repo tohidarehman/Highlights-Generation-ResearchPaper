@@ -1,0 +1,6 @@
+ A new approach to triangular mesh generation based on the molecular dynamics method is proposed. Mesh nodes are considered as interacting particles. After the node placement by molecular dynamics simulation, well-shaped triangles or tetrahedra can be created after connecting the nodes by Delaunay triangulation or tetrahedrization. Some examples are considered in order to illustrate the method’s ability to generate a mesh for an aircraft with a complicated boundary. Mesh adaptation technology for molecular dynamics simulation is presented.
+
+@highlight Triangular mesh generation based on the molecular dynamics method is developed.
+@highlight Mesh adaptation technology for molecular dynamics simulation is suggested.
+@highlight Suggested algorithm works identically for 1D, 2D and 3D problems.
+@highlight Computational grids have been tested for hypersonic flow past unmanned airplane X-43.

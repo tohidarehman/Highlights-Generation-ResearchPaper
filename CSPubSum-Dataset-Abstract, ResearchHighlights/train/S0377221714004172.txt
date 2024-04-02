@@ -1,0 +1,7 @@
+ Traditionally, two variants of the L-shaped method based on Benders’ decomposition principle are used to solve two-stage stochastic programming problems: the aggregate and the disaggregate version. In this study we report our experiments with a special convex programming method applied to the aggregate master problem. The convex programming method is of the type that uses an oracle with on-demand accuracy. We use a special form which, when applied to two-stage stochastic programming problems, is shown to integrate the advantages of the traditional variants while avoiding their disadvantages. On a set of 105 test problems, we compare and analyze parallel implementations of regularized and unregularized versions of the algorithms. The results indicate that solution times are significantly shortened by applying the concept of on-demand accuracy.
+
+@highlight We devise variants of the L-shaped method using the concept of on-demand accuracy (ODA).
+@highlight In many of the iterations only an approximate cut is added to the master problem.
+@highlight These cuts do not require the solution of second-stage subproblems.
+@highlight ODA reduces average solution time by 55% on 105 problems.
+@highlight ODA combined with regularization reduces average solution time by 79%.

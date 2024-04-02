@@ -1,0 +1,7 @@
+ In a plasma display panel (PDP), ramp pulse is used for the reset operation. In this case, the stability of ramp slope is very important because the variation of ramp slope leads to the reset failure. However, the ramp slope is affected by the image load and operation temperature. In this paper, the variation of ramp slope is analyzed and a new ramp driver circuit is proposed. In the proposed driver circuit, the effect of image load is compensated for by redesigning the current path of the feedback capacitor. The slope variation caused by temperature variation is reduced by compensating for the threshold voltage shift of a MOSFET. The proposed ramp driver circuit provides multiple ramp slopes by adjusting the control signal and guarantees the stability of ramp slope against the changes of image load and temperature. The variation of ramp slope in the proposed method is reduced by 82.7% compared with the previous switched ramp driver circuit. Moreover, the additional hardware cost of the proposed driver circuit is minimal.
+
+@highlight Ramp slope variation by image load and temperature is analyzed.
+@highlight Slope variation caused by image load is compensated for by redesigning feedback current path in the driver circuit.
+@highlight Slope variation caused by VT
+@highlight shift is compensated for by adjusting the gate voltage.
+@highlight A new and cost effective ramp driver circuit for an AC-PDP is proposed.

@@ -1,0 +1,5 @@
+ In this study, we focus on improving parameter estimation in Phase I study to construct more accurate Phase II control limits for monitoring multivariate quality characteristics. For a multivariate normal distribution with unknown mean vector, the usual mean estimator is known to be inadmissible under the squared error loss function when the dimension of the variables is greater than 2. Shrinkage estimators, such as the James–Stein estimators, are shown to have better performance than the conventional estimators in the literature. We utilize the James–Stein estimators to improve the Phase I parameter estimation. Multivariate control limits for the Phase II monitoring based on the improved estimators are proposed in this study. The resulting control charts, JS-type charts, are shown to have substantial performance improvement over the existing ones.
+
+@highlight Multivariate control chart is a useful tool in quality control.
+@highlight We use the James–Stein estimator to construct better control charts.
+@highlight JS-type control charts are proposed.

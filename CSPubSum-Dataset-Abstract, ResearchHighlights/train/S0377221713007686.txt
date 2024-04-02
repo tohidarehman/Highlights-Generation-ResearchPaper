@@ -1,0 +1,7 @@
+ A problem of decision making under uncertainty in which the choice must be made between two sets of alternatives instead of two single ones is considered. A number of choice rules are proposed and their main properties are investigated, focusing particularly on the generalizations of stochastic dominance and statistical preference. The particular cases where imprecision is present in the utilities or in the beliefs associated to two alternatives are considered.
+
+@highlight We extend binary relations to express preferences between sets of alternatives.
+@highlight The cases of stochastic dominance and statistical preference are considered.
+@highlight We use this to deal with imprecise information about utilities and probabilities.
+@highlight We make a connection with aggregation operators.
+@highlight The results are illustrated by means of an example.

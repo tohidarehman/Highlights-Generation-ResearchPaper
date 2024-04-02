@@ -1,0 +1,6 @@
+ Model risk has a huge impact on any risk measurement procedure and its quantification is therefore a crucial step. In this paper, we introduce three quantitative measures of model risk when choosing a particular reference model within a given class: the absolute measure of model risk, the relative measure of model risk and the local measure of model risk. Each of the measures has a specific purpose and so allows for flexibility. We illustrate the various notions by studying some relevant examples, so as to emphasize the practicability and tractability of our approach.
+
+@highlight We propose three definitions of model risk when measuring financial risks.
+@highlight We link the three measures to current regulatory practice.
+@highlight We derive general properties of the three measures.
+@highlight We provide examples of computation for Value-at-Risk and Expected Shortfall.

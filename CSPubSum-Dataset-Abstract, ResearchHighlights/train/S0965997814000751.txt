@@ -1,0 +1,5 @@
+ This paper investigates the search performances of various meta-heuristics (MHs) for solving truss mass minimisation with dynamic constraints. Several established MHs were used to solve five truss optimisation problems. The results obtained from using the various MHs were statistically compared based upon convergence rate and consistency. It was found that the best optimisers for this design task are evolution strategy with covariance matrix adaptation (CMAES) and differential evolution (DE). Furthermore, the best penalty function technique was discovered while four penalty function techniques assigned with several parameter settings were used in combination with the five best optimisers to solve the truss optimisation problems.
+
+@highlight Comparative performance of 24 meta-heuristics for solving truss mass minimisation with dynamic constraints.
+@highlight Comparison of penalty function techniques for handling dynamic constraints.
+@highlight Best results for the benchmark problems of truss mass minimisation with dynamic constraints.

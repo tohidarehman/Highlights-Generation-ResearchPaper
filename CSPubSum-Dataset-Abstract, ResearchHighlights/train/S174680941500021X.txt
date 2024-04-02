@@ -1,0 +1,7 @@
+ This review discusses the critical issues and recommended practices from the perspective of myoelectric interfaces. The major benefits and challenges of myoelectric interfaces are evaluated. The article aims to fill gaps left by previous reviews and identify avenues for future research. Recommendations are given, for example, for electrode placement, sampling rate, segmentation, and classifiers. Four groups of applications where myoelectric interfaces have been adopted are identified: assistive technology, rehabilitation technology, input devices, and silent speech interfaces. The state-of-the-art applications in each of these groups are presented.
+
+@highlight Critical issues and practices for myoelectric interfaces are discussed.
+@highlight Robust classification in real use is the main challenge of sEMG interfaces.
+@highlight Expected trend is toward regression and factorization methods and sensor fusion.
+@highlight Simplified sEMG setup may be adequate in real-life environment.
+@highlight Potential uses of sEMG interfaces are rapidly increasing.

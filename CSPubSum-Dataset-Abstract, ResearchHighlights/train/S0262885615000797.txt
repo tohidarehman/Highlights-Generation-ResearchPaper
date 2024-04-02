@@ -1,0 +1,7 @@
+ Modern appearance-based object recognition systems typically involve feature/descriptor extraction and matching stages. The extracted descriptors are expected to be robust to illumination changes and to reasonable (rigid or affine) image/object transformations. Some descriptors work well for general object matching, but gray-scale key-point-based methods may be suboptimal for matching line-rich color scenes/objects such as cars, buildings, and faces. We present a Rotation- and Scale-Invariant, Line-based Color-aware descriptor (RSILC), which allows matching of objects/scenes in terms of their key-lines, line-region properties, and line spatial arrangements. An important special application is face matching, since face characteristics are best captured by lines/curves. We tested RSILC performance on publicly available datasets and compared it with other descriptors. Our experiments show that RSILC is more accurate in line-rich object description than other well-known generic object descriptors.
+
+@highlight A new rotation- and scale-invariant line-based color-aware descriptor is introduced.
+@highlight The descriptor captures both local (texture, color) and global (inter-line spatial) information.
+@highlight Experiments show that proposed descriptor is robust to rotation, scale, and illumination.
+@highlight The descriptor is compared to the well-known descriptors.
+@highlight The proposed descriptor is more accurate on matching line-rich objects such as faces.

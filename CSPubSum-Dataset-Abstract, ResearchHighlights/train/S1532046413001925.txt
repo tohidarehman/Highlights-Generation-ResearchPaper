@@ -1,0 +1,6 @@
+ Finding, capturing and describing characteristic features represents a key aspect in disorder definition, diagnosis and management. This process is particularly challenging in the case of rare disorders, due to the sparse nature of data and expertise. From a computational perspective, finding characteristic features is associated with some additional major challenges, such as formulating a computationally tractable definition, devising appropriate inference algorithms or defining sound validation mechanisms. In this paper we aim to deal with each of these problems in the context provided by the skeletal dysplasia domain. We propose a clear definition for characteristic phenotypes, we experiment with a novel, class association rule mining algorithm and we discuss our lessons learned from both an automatic and human-based validation of our approach.
+
+@highlight Definition and a novel mining approach for characteristic phenotypes.
+@highlight Class association rule mining algorithm on labelled data.
+@highlight Automatic and human validation of the algorithm on skeletal dysplasia data.
+@highlight Discussion on standard vs. class association rule mining algorithms.

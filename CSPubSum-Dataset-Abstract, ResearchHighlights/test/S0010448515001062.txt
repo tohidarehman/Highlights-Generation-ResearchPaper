@@ -1,0 +1,7 @@
+ Planar Bézier curves that have rationally parameterized offsets can be classified into two classes. The first class is composed of curves that have Pythagorean hodographs (PH) and the second class is composed of curves that do not have PHs but can have rational PHs after reparameterization by a fractional quadratic transformation. This paper reveals a geometric characterization for all properly-parameterized cubic Bézier curves in the second class. The characterization is given in terms of Bézier control polygon geometry. Based on the derived conditions, we also present a simple geometric construction of Hermite interpolation using such Béziercurves. The construction results in a one-parameter family of curves if a solution exists. We further prove that there exists a unique value of the parameter which minimizes the integral of the squared norm of the second order derivative of the curves.
+
+@highlight This paper presents a geometric characterization of cubic indirect-PH curves.
+@highlight We give a construction of
+@highlight Hermite interpolation using indirect-PH curves.
+@highlight The optimal indirect-PH curve to
+@highlight Hermite interpolation is investigated.

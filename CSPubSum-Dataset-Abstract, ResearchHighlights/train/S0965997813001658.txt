@@ -1,0 +1,7 @@
+ Bat inspired (BI) algorithm is a recently developed metaheuristic optimization technique inspired by echolocation behavior of bats. In this study, the BI algorithm is examined in the context of discrete size optimization of steel frames designed for minimum weight. In the optimum design problem frame members are selected from available set of steel sections for producing practically acceptable designs subject to strength and displacement provisions of American Institute of Steel Construction-Allowable Stress Design (AISC-ASD) specification. The performance of the technique is quantified using three real-size large steel frames under actual load and design considerations. The results obtained provide a sufficient evidence for successful performance of the BI algorithm in comparison to other metaheuristics employed in structural optimization.
+
+@highlight Bat-inspired (BI) search is a recently developed optimization technique.
+@highlight BI makes use of echolocation behavior of bats in seeking a design space.
+@highlight A novel algorithm is developed with BI for steel frame optimization.
+@highlight Capabilities and potentials of BI are investigated in structural optimization.
+@highlight Efficiency of the BI algorithm is verified through numerical examples.

@@ -1,0 +1,7 @@
+ Many methods to elicit preference models in multi-attribute decision making rely on evaluations of a set of sample alternatives by decision makers. Using orthogonal design methods to create this set of alternatives might require respondents to evaluate unrealistic alternatives. In this paper, we perform an empirical study to analyze whether the presence of such implausible alternatives has an effect on the quality of utility elicitation. Using a new approach to measure consistency, we find that implausible alternatives in fact, have a positive effect on consistency of intra-attribute preference information and consistency with dominance, but do not affect inter-attribute preference information.
+
+@highlight We analyze the impact of implausible alternatives in utility elicitation.
+@highlight Utility functions are evaluated by their consistency with plausible requirements.
+@highlight An innovative LP based approach is developed to measure consistency.
+@highlight We find that subjects evaluating implausible alternatives are more consistent.
+@highlight Possible explanations for these results are offered.

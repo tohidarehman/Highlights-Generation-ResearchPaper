@@ -1,0 +1,7 @@
+ A modal shift from road transport towards inland water or rail transport could reduce the total Green House Gas emissions and societal impact associated with Municipal Solid Waste management. However, this shift will take place only if demonstrated to be at least cost-neutral for the decision makers. In this paper we examine the feasibility of using multimodal truck and inland water transport, instead of truck transport, for shipping separated household waste in bulk from collection centres to waste treatment facilities. We present a dynamic tactical planning model that minimises the sum of transportation costs, external environmental and societal costs. The Municipal Solid Waste Service Network Design Problem allocates Municipal Solid Waste volumes to transport modes and determines transportation frequencies over a planning horizon. This generic model is applied to a real-life case in Flanders, the northern region of Belgium. Computational results show that multimodal truck and inland water transportation can compete with truck transport by avoiding or reducing transhipments and using barge convoys.
+
+@highlight We present a generic dynamic tactical planning model for shipping household waste.
+@highlight Multimodal transport is shown to compete with truck transport over short distances.
+@highlight Computational experiments illustrate the performance of the model.
+@highlight Real life case shows its potential to support decision-making.
+@highlight Real life case shows feasibility for modal shift on distances shorter than 100km.

@@ -1,0 +1,7 @@
+ The aim of the present work is to perform a step towards the design of specific algorithms and methods for automatic music generation. A novel probabilistic model for the characterization of music learned from music samples is designed. This model makes use of automatically extracted music parameters, namely tempo, time signature, rhythmic patterns and pitch contours, to characterize music. Specifically, learned rhythmic patterns and pitch contours are employed to characterize music styles. Then, a novel autonomous music compositor that generates new melodies using the model developed will be presented. The methods proposed in this paper take into consideration different aspects related to the traditional way in which music is composed by humans such as harmony evolution and structure repetitions and apply them together with the probabilistic reutilization of rhythm patterns and pitch contours learned beforehand to compose music pieces.
+
+@highlight A music compositor that generates new melodies of a selected music style is presented.
+@highlight Tempo and time signature are estimated.
+@highlight Reusable patterns are used for style-based music composition.
+@highlight A probabilistic model of rhythmic and pitch patterns is used for composition.
+@highlight Rules based on music theory concepts support the music composition process.

@@ -1,0 +1,7 @@
+ This paper examines the relation between dividend policy, managerial ownership and debt-financing for a large sample of firms listed on NYSE, AMEX and NASDAQ. In addition to standard parametric estimation methods, we use a semi-parametric approach, which helps capture more effectively non-linearities in the data. In line with the alignment effect of managerial ownership, our results support a negative relationship between managerial ownership and dividends when managerial ownership is at relatively low levels. However, this negative relationship turns into a positive one at very high levels of managerial ownership. We also find that the nature of the relationship between managerial ownership and dividends may be more complex than it has been previously thought, and it also differs significantly across firms with different levels of debt/financial constraints. The results are consistent with the view that agency theory provides useful insights but cannot fully explain how firms determine their dividend policy.
+
+@highlight The effect of managerial ownership on dividends is explored using a new approach.
+@highlight The dividend–ownership relation is non-linear with multiple turning points.
+@highlight It is increasing at high levels of ownership compatible with entrenchment.
+@highlight The relation is not increasing at ‘high’ ownership levels for high leverage firms.
+@highlight Dividends, ownership and debt are substitute mechanisms to reduce agency costs.

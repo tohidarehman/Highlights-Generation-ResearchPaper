@@ -1,0 +1,6 @@
+ Methods are introduced for the analysis of large sets of sleep study data (hypnograms) using a 5-state 20-transition-type structure defined by the American Academy of Sleep Medicine. Application of these methods to the hypnograms of 5598 subjects from the Sleep Heart Health Study provide: the first analysis of sleep hypnogram data of such size and complexity in a community cohort with a range of sleep-disordered breathing severity; introduce a novel approach to compare 5-state (20-transition-type) to 3-state (6-transition-type) sleep structures to assess information loss from combining sleep state categories; extend current approaches of multivariate survival data analysis to clustered, recurrent event discrete-state discrete-time processes; and provide scalable solutions for data analyses required by the case study. The analysis provides detailed new insights into the association between sleep-disordered breathing and sleep architecture. The example data and both R and SAS code are included in online supplementary materials.
+
+@highlight We explore associations of sleep-disordered breathing and sleep structure.
+@highlight 5-state hypnograms are systematically compared to 3-state.
+@highlight We analyze a community cohort of 5598 subjects (2.7 million rows total).
+@highlight We reduce analysis time from 8 hours to 30 s.

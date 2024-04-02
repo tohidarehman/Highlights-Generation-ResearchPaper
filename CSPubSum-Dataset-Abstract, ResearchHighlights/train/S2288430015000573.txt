@@ -1,0 +1,5 @@
+ Feature-based NC machining, which requires high quality of 3D CAD model, is widely used in machining aircraft structural part. However, there has been little research on how to automatically detect the CAD model errors. As a result, the user has to manually check the errors with great effort before NC programming. This paper proposes an automatic CAD model errors detection approach for aircraft structural part. First, the base faces are identified based on the reference directions corresponding to machining coordinate systems. Then, the CAD models are partitioned into multiple local regions based on the base faces. Finally, the CAD model error types are evaluated based on the heuristic rules. A prototype system based on CATIA has been developed to verify the effectiveness of the proposed approach.
+
+@highlight The 3D CAD model of an aircraft structural part is partitioned into multiple local regions in terms of the base faces.
+@highlight The fillet association level graph is proposed to represent the local region for exploring the CAD model errors.
+@highlight An automatic CAD model error detection method based on heuristics rule is proposed.

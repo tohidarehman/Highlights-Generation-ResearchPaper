@@ -1,0 +1,6 @@
+ This paper proposes a self-contained reference for both policy makers and scholars who want to address the problem of efficiency and effectiveness of local public transport (LPT), with special emphasis on urban transit, in a sound empirical way. Framing economic efficiency studies into a transport planning perspective, it offers a critical discussion of the existing empirical studies, relating them to the main methodological approaches used. The connection between such perspectives and Operations Research studies dealing with scheduling and tactical design of public transport services is also developed. The comprehensive classification of selected relevant dimensions of the empirical literature, namely inputs, outputs, kind of data analysed, methods adopted and policy relevant questions addressed, and the systematic investigation of their interrelationships allows us to summarise the existing literature and to propose desirable developments and extensions for future studies in the field.
+
+@highlight Self-contained reference for policy makers and scholars in local public transport.
+@highlight Framing economic efficiency into a transport planning perspective.
+@highlight It offers a critical discussion of the existing empirical studies.
+@highlight Includes OR studies on scheduling and tactical design in LPT.

@@ -1,0 +1,8 @@
+ We consider a stochastic knapsack problem in which the event of overflow results in the problem ending with zero return. We assume that there are n types of items available where each type has infinite supply. An item has an exponentially distributed random weight with a known mean depending on its type and the item’s value is proportional to its weight with a given factor depending on the item’s type. We have to make a decision on each stage whether to stop, or continue to put an item of a selected type in the knapsack. An item’s weight is learned when placed to the knapsack. The objective of this problem is to find a policy that maximizes the expected total values. Using the framework of dynamic programming, the optimal policy is found when and a heuristic policy is suggested for
+
+@highlight We consider a stochastic knapsack problem with
+@highlight types of items and each has infinite supply.
+@highlight Stochastic dynamic programming method is applied in evaluating the optimal value function.
+@highlight When only two types of items available, there exists an optimal policy.
+@highlight A straightforward heuristic policy for general
+@highlight gives good performance.

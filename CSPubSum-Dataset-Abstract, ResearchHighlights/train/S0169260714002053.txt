@@ -1,0 +1,5 @@
+ In this paper, a passive planar micromixer with ellipse-like micropillars is proposed to operate in the laminar flow regime for high mixing efficiency. With a splitting and recombination (SAR) concept, the diffusion distance of the fluids in a micromixer with ellipse-like micropillars was decreased. Thus, space usage for micromixer of an automatic sample collection system is also minimized. Numerical simulation was conducted to evaluate the performance of proposed micromixer by solving the governing Navier–Stokes equation and convection–diffusion equation. With software (COMSOL 4.3) for computational fluid dynamics (CFD) we simulated the mixing of fluids in a micromixer with ellipse-like micropillars and basic T-type mixer in a laminar flow regime. The efficiency of the proposed micromixer is shown in numerical results and is verified by measurement results.
+
+@highlight The SAR structures result in the reduction of the diffusion distance of two fluids.
+@highlight The mixing strength is increased when one stream is injected into the other.
+@highlight Fluids flow faster in SAR mixer for rapid mixing and mixing efficiency.

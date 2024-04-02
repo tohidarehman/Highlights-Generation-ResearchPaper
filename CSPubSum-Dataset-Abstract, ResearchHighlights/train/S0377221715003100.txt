@@ -1,0 +1,5 @@
+ In this paper we study a hub location problem in which the hubs to be located must form a set of interconnecting lines. The objective is to minimize the total weighted travel time between all pairs of nodes while taking into account a budget constraint on the total set-up cost of the hub network. A mathematical programming formulation, a Benders-branch-and-cut algorithm and several heuristic algorithms, based on variable neighborhood descent, greedy randomized adaptive search, and adaptive large neighborhood search, are presented and compared to solve the problem. Numerical results on two sets of benchmark instances with up to 70 nodes and three lines confirm the efficiency of the proposed solution algorithms.
+
+@highlight We study the design of hub networks with multiple lines.
+@highlight We minimize the total travel time while considering a budget design constraint.
+@highlight A Benders-branch-and-cut algorithm and several heuristic algorithms are presented.

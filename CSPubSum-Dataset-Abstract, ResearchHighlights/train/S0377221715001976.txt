@@ -1,0 +1,7 @@
+ In this paper we consider the MMAP/PH/1 priority queue, both the case of preemptive resume and the case of non-preemptive service. The main idea of the presented analysis procedure is that the sojourn time of the low priority jobs in the preemptive case (and the waiting time distribution in the non-preemptive case) can be represented by the duration of the busy period of a special Markovian fluid model. By making use of the recent results on the busy period analysis of Markovian fluid models it is possible to calculate several queueing performance measures in an efficient way including the sojourn time distribution (both in the time domain and in the Laplace transform domain), the moments of the sojourn time, the generating function of the queue length, the queue length moments and the queue length probabilities.
+
+@highlight Provides a unique approach to the analysis of the MMAP[K]/PH[K]/1 priority queue.
+@highlight Both the preemptive resume and the non-preemptive service policies are covered.
+@highlight Properties of the sojourn time and the number of jobs in the system are obtained.
+@highlight Numerically efficient procedure that can handle a large number of phases.
+@highlight At least an order of magnitude faster than alternative methods.

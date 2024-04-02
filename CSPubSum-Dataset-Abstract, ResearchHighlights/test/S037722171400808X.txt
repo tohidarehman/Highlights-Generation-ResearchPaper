@@ -1,0 +1,6 @@
+ This paper investigates the 2D guillotine knapsack packing problem, in which the objective is to select and cut a set of rectangles from a sheet with fixed size and maximize the total profit of the selected rectangles. The orientation of the rectangles is fixed. And the guillotine cut, in which the cut must be parallel to the sides of the sheet to divide it into two completely separated sheets, is required. Two well-known methods, namely the top-down and bottom-up approaches, are combined into a coherent algorithm to address this problem. Computational experiments on benchmark test sets show that the approach finds the optimal solution for almost all moderately sized instances and outperforms all existing approaches for larger instances.
+
+@highlight We combine two well-known methods into a coherent algorithm.
+@highlight We place a block instead of a single rectangle in each step.
+@highlight We divide the input sheet into successively smaller sheets at each step.
+@highlight We outperform all existing approaches on standard benchmark instances.

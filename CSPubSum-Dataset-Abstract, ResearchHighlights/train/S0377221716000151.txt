@@ -1,0 +1,7 @@
+ Sorting methods, in particular ELECTRE Tri methods, are widely used in Multiple Criteria Decision Aiding to deal with ordinal classification problems. Problems of this kind encountered in practice involve the evaluation of different alternatives (actions) on several evaluation criteria that are structured in a hierarchical way. In order to deal with a hierarchical structure of criteria in decision problems, Multiple Criteria Hierarchy Process (MCHP) has been recently proposed. In this paper, we apply the MCHP to the ELECTRE-Tri methods. In particular, we extend ELECTRE Tri-B, ELECTRE Tri-C and ELECTRE Tri-nC methods. We also adapt the MCHP concept to the case where interaction among evaluation criteria has either strengthening, or weakening, or antagonistic effect. Finally, we present an extension of the SRF method to determine the weights of criteria in case they are hierarchically structured.
+
+@highlight ELECTRE Tri methods help solving multiple criteria sorting problems.
+@highlight We extend the ELECTRE Tri methods to take into account a hierarchical structure of the set of criteria.
+@highlight The Multiple Criteria Hierarchy Process is applied in conjunction with the ELECTRE Tri methods.
+@highlight An extension of the Simos–Roy–Figueira (SRF) method is proposed to compute the weights of criteria.
+@highlight A didactic example shows the applicability of the proposed methodology to real world decision problems.

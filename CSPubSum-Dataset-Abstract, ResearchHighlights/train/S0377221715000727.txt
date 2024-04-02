@@ -1,0 +1,6 @@
+ This paper studies the inventory system of a retailer who orders his products from two supply sources, a local one that is responsive and reliable, but expensive, and a global one that is low-cost but less reliable. The deliveries from the global source only partially satisfy the quality requirements. We model this situation with a dual-sourcing inventory model with positive lead times and random yield. We propose a dual-index order-up-to policy (DOP) based on approximating the inventory model with an unreliable supplier by a sequence of dual-sourcing models with reliable suppliers and suitably modified demand distributions. Numerical results show that the performance of this heuristic is close to that of the optimal DOP. Moreover, we extend the heuristic to models with advance yield information and study its impact on the total inventory costs.
+
+@highlight Study the dual-sourcing models with positive lead times and yield uncertainty.
+@highlight Propose a heuristic based on models with full returns and modified demands.
+@highlight Extend heuristic to models with advance yield information.
+@highlight Numerically show close-to-optimal performance of proposed heuristic.

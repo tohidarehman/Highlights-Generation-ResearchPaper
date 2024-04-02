@@ -1,0 +1,7 @@
+ In a wireless sensor network where sensors are arranged into a flat topology, sensors near the sink consume much more energy than sensors at the boundary of the network. Sensors near the sink relay many packets than far away sensors to the sink. After these sensors expire, energy holes are created near the sink. Therefore, other sensors cannot reach to the sink and the network becomes disconnected. In this paper, we propose some strategies that can balance energy consumption of the deployed sensors and reduce energy holes from the network by balancing the communication load as equally as possible. We performed extensive experiments on the proposed algorithm using various network scenarios and compared it with other existing algorithms. The experimental results verify the effectiveness and feasibility of the proposed work in terms of network lifetime, energy consumption, and other important network parameters.
+
+@highlight Load management strategy for large scale wireless sensor networks.
+@highlight Energy efficient on demand clustering strategy.
+@highlight Load balancing data routing mechanism.
+@highlight Load balancing data routing mechanism reduces energy holes from the network.
+@highlight Experimental results for verifying the effectiveness and feasibility of the proposed work.

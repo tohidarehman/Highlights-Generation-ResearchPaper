@@ -1,0 +1,7 @@
+ Pose variation is the major factor significantly affecting recognition efficiency in the field of face recognition. In this paper, we propose a novel algorithm for pose-variant face recognition. We first use the affine-invariant multi-scale autoconvolution (MSA) transformation to extract pose-invariant features. Following this, we use principal component analysis (PCA) to decorrelate the feature sets and reduce the number of required MSA dimensions. The PCA components with sufficiently large corresponding eigenvalues are then passed to the k nearest classifier. Compared with other pose-variant face recognition techniques, our proposed algorithm exhibits a superior ability to pose changes, illumination changes, and different face databases, moreover records a higher recognition rate.
+
+@highlight Multi-scale autoconvolution features maintain invariance to noise and pose changes.
+@highlight Histogram equalization reduces the effect on MSA features caused by illumination.
+@highlight The number of (α,
+@highlight β) pairs affects the size of MSA features and recognition rates.
+@highlight MSA+PCA algorithm exhibits excellent abilities on completely different databases.

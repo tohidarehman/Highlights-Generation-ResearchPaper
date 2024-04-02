@@ -1,0 +1,7 @@
+ Big Data Era brings global digital infrastructure collaboration built on the emerging standards. Given the complexity and dynamics of each specification, corresponding implementations need to undergo sufficient verification and validation procedures. Significant efforts have been invested into conformance testing of individual requirements, for example, by using formal, semi-formal or informal approaches. Less works have been accomplished, however, on the overall orchestration assessment so as to ensure global validity of conformance statements. For example, cyclic dependencies among conformance statements of a service under test may lead to inappropriate conclusions on the assessment outcome. In this study, a dependency model based on three-valued logic and fixed point theory to address dependency issues among cross-referenced statements is presented, so as to provide effective support to global digital infrastructure collaboration.
+
+@highlight The research models dependencies among cross-referenced statements with a three-valued logic model.
+@highlight Open World Assumption, Closed World Assumption and Stub Assumption are applied to evaluate cross-referenced statements.
+@highlight False dead-locks can be derived with the proposed approach.
+@highlight Fixpoint proof is given for the proposed approach.
+@highlight The overall orchestration helps to spot inconsistencies and incompleteness among requirements, implementations and tests.

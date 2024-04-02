@@ -1,0 +1,7 @@
+ When eXtensible Markup Language (XML) becomes a widespread data representation and exchange format for Web applications, safeguarding the privacy of data represented in XML documents can be indispensable. In this paper, we propose an XML privacy protection model by separating the structure and content, and with cloud storage to save content information and Trusted Third Party (TTP) to help manage structure information. To protect data privacy more effectively, we will create different Document Type Definition (DTD) views for different users according to users' privacy practice and the provider's privacy preferences. To further speed up the process of gaining access to data we will adopt the start–end region encoding scheme to encode the nodes in XML document and DTD views. The experiment result shows that this mechanism has a good performance in space and time.
+
+@highlight A new XML privacy protect model by separating the structure and content is proposed.
+@highlight Based on access purposes and privacy preferences, DTD sub-views are created.
+@highlight Start–end region encoding scheme is used skillfully in this model.
+@highlight Only content of XML is stored in the cloud, which has high security and efficiency.
+@highlight This mechanism has a good performance in space and time.

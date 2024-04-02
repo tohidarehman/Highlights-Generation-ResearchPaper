@@ -1,0 +1,5 @@
+ The financial lease is an important financing tool by which the lessee can acquire ownership of equipment upon the expiration of the lease after making a series of rent payments for the use of the equipment. In this paper, we consider an online version of this financial lease decision problem in which the decision maker (the lessee) does not know how long he/she will use the equipment. By assuming, the lessee can use the equipment through two options: financial lease or lease; we define and solve this online financial lease decision problem using the competitive analysis method. The optimal online strategies are discussed in each financial lease case with or without down payment. Finally, the optimal strategies are summarized as simple decision rules.
+
+@highlight We solve an online financial lease decision problem.
+@highlight The optimal strategies are discussed in each financial lease with or without down payment.
+@highlight Simple decision rules are summarized by the optimal strategy.

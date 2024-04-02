@@ -1,0 +1,7 @@
+ Clinical trials are essential for determining whether new interventions are effective. In order to determine the eligibility of patients to enroll into these trials, clinical trial coordinators often perform a manual review of clinical notes in the electronic health record of patients. This is a very time-consuming and exhausting task. Efforts in this process can be expedited if these coordinators are directed toward specific parts of the text that are relevant for eligibility determination. In this study, we describe the creation of a dataset that can be used to evaluate automated methods capable of identifying sentences in a note that are relevant for screening a patient’s eligibility in clinical trials. Using this dataset, we also present results for four simple methods in natural language processing that can be used to automate this task. We found that this is a challenging task (maximum F-score=26.25), but it is a promising direction for further research.
+
+@highlight Manual chart review for clinical trial screening is a laborious process.
+@highlight We present the task of identifying criteria relevant sentences in clinical notes.
+@highlight This is formulated as a search-based textual entailment problem.
+@highlight We describe creation of a dataset and implementation of four baseline methods.
+@highlight Method using similarity between UMLS concept pairs performs the best.

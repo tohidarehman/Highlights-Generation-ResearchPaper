@@ -1,0 +1,7 @@
+ Next-generation wireless technology supports notably high data rates and smart hand-held devices together with data processing, which creates a great challenge for moving these contents from server to client. The classical issue of mobile data synchronization for high-speed data networks can be addressed through Software Defined Networking (SDN) Control. The proposed IDBSync (Improved Database Synchronization) mechanism expedites data synchronization between the server-side and mobile database in a SDN setup. The tables of the synchronization server are maintained in the control plane, including replicas of the data tables at the server and client devices collected from the data planes for application of the synchronization policy. The IDBSync uses BaSyM (Batch Level Synchronization Methodology) to group similar cases for synchronization to considerably reduce network usage and energy consumption in a heterogeneous environment. Comparative performance analysis of the proposed mechanism is performed with reference to commercial approaches.
+
+@highlight SDN based batch level synchronization.
+@highlight Reduced response time.
+@highlight Live test results of obstacle and non-obstacle mode of 2 G and 3 G networks.
+@highlight IDBSync consumes fewer discharging units than the existing solutions.
+@highlight Vendor independency.

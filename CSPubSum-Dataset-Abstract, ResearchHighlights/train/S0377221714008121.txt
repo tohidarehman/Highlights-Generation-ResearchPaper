@@ -1,0 +1,5 @@
+ Direct current (DC) electricity distribution systems have been proposed as an alternative to traditional, alternating current (AC) distribution systems for commercial buildings. Partial replacement of AC distribution with DC distribution can improve service to DC loads and overall building energy efficiency. This article develops (i) a mixed-integer, nonlinear, nonconvex mathematical programming problem to determine maximally energy efficient designs for mixed AC–DC electricity distribution systems in commercial buildings, and (ii) describes a tailored global optimization algorithm based on Nonconvex Generalized Benders Decomposition. The results of three case studies demonstrate the strength of the decomposition approach compared to state-of-the-art general-purpose global solvers.
+
+@highlight We develop an MINLP model which determines the optimal design of a mixed AC–DC building electrical distribution system.
+@highlight We develop a tailored global optimization algorithm, based on Nonconvex Generalized Benders Decomposition.
+@highlight We provide a case study, including a medium office building.

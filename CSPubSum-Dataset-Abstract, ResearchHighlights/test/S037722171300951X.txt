@@ -1,0 +1,7 @@
+ In this paper, we consider the discrete optimization via simulation problem with a single stochastic constraint. We present two genetic-algorithm-based algorithms that adopt different sampling rules and searching mechanisms, and thus deliver different statistical guarantees. The first algorithm offers global convergence as the simulation effort goes to infinity. However, the algorithm’s finite-time efficiency may be sacrificed to maintain this theoretically appealing property. We therefore propose the second heuristic algorithm that can take advantage of the desirable mechanics of genetic algorithm, and might be better able to find near-optimal solutions in a reasonable amount of time. Empirical studies are performed to compare the efficiency of the proposed algorithms with other existing ones.
+
+@highlight We derive two new GA-based algorithms for the constrained DOvS problem.
+@highlight The first one offers global convergence as the sampling effort goes to infinity.
+@highlight The second heuristic algorithm can take advantage of the desirable mechanics of GA.
+@highlight The second algorithm is better able to find near-optimal solutions in finite time.
+@highlight An empirical study is performed to compare the performance of these algorithms.

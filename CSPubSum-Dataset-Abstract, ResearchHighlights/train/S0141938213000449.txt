@@ -1,0 +1,6 @@
+ Seven compounds with pyridine as the backbone modified by carbazole moiety, bromine atom and fluorine atom were synthesized. Compounds 1, 2, 3 with bromo substitution at the 2-position and carbazole modification at the 5-position of pyridine emit not only a sharp blue singlet fluorescence but also a wide banded excimer-based orange emission. The two colors coming from a single molecule can be used to fabricate a simplified white light emitting device. The electroluminescence based on 1 and 2 exhibits white-light emission with CIE coordinates of x =0.25 and y =0.30 for 1 and x =0.33 and y =0.37 for 2 at high current densities, very close to pure white emission. In addition, the role of bromo-substitution at pyridine is concluded to be essential to generate molecular interaction thus an excimer emission.
+
+@highlight Molecules with pyridine as the backbone and modified by carbazoles were synthesized.
+@highlight The molecules exhibit sharp blue fluorescence and excimer orange emission.
+@highlight Structurally, bromo was identified as a crucial factor to generate excimer emission.
+@highlight The molecules were made into simple structured OLED devices and emit white emission.

@@ -1,0 +1,7 @@
+ Finite element (FE) computations have been performed to analyze the thermo-chemo-mechanical behavior of SiC-based refractory parts in linings used in waste-to-energy plants. These parts are in contact on one side with smoke and ashes at high temperature, and on the other side with the pressurized vapor pipe. Three multi-layered lining designs have been studied: two with tiles and one with a concrete panel. A coupled model taking into account the transport of dioxygen in the gas through the porosity, the reaction of dioxygen in contact with silicon carbide particles and the formation of solid components gradually clogging the pores, has been implemented in the finite element code ABAQUS . These phenomena affect the mass diffusion rate of dioxygen through the refractory layer and induce a macroscopic swelling of the material. The analysis of the numerical results allows for a better understanding of the influence of the lining design and the nature of the ceramics on the lifespan of such refractory parts.
+
+@highlight Paper proposes an analysis of behavior of SiC-based refractory linings which are subjected to a chemical environment.
+@highlight The model takes into account the transport of oxygen in the gas through the porosity.
+@highlight The model takes into account the chemical expansion induced by oxidation.
+@highlight Three designs of the lining are studied.
+@highlight The obtained results allow the highlighting of the design effect in relation with material properties.

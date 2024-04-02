@@ -1,0 +1,6 @@
+ Traditionally energy has been a burning issue of mankind, however, this trend has changed with the advent of clean technologies such as wind power. It is common knowledge that wind turbines need to be installed in an open, unobstructed area to obtain the maximal power output. This document attempts to solve the problem of optimization of the layout of large wind farms by the use of nature inspired algorithms. Particular reference is made to the use of the firefly algorithm. A good comparison is made with the past approaches of the use of spread sheets and GA's for optimization.
+
+@highlight This paper demonstrates that the recently discovered firefly algorithm is a better technique for the optimization of large wind farms.
+@highlight It compares the firefly algorithm with the genetic algorithms or by the use of spread sheet methods such as finite difference method.
+@highlight It demonstrates the higher power derived and the lower cost of power produced by using the FA.
+@highlight This paper demonstrates that the firefly algorithm outperforms the genetic algorithms and finite difference method by a wide margin.

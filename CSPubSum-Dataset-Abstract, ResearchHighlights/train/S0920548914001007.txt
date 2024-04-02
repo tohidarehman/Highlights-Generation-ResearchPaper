@@ -1,0 +1,5 @@
+ Identity-based proxy ring signature concept was introduced by Cheng et al. in 2004. This primitive is useful where the privacy of proxy signers is required. In this paper, the first short provably secure identity-based proxy ring signature scheme from RSA assumption has been proposed. In addition, the security of the proposed scheme tightly reduces to the RSA assumption, and therefore, the proposed scheme has a proper advantage in security reduction compared to the ones from RSA. The proposed scheme not only outperforms the existing schemes in terms of efficiency and practicality, but also does not suffer from the proxy key exposure attack due to the use of the sequential aggregation paradigm.
+
+@highlight The first short and efficient identity-based proxy ring signature scheme without bilinear pairings has been proposed.
+@highlight It is provably secure in the random oracle model under RSA assumption.
+@highlight It has a proper advantage in security reduction compared to those from RSA.

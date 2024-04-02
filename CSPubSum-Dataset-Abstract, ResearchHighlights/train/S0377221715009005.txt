@@ -1,0 +1,7 @@
+ The concept of Conditional Value-at-Risk (CVaR) is used in various applications in uncertain environment. This paper introduces CVaR (superquantile) norm for a random variable, which is by definition CVaR of absolute value of this random variable. It is proved that CVaR norm is indeed a norm in the space of random variables. CVaR norm is defined in two variations: scaled and non-scaled. L-1 and L-infinity norms are limiting cases of the CVaR norm. In continuous case, scaled CVaR norm is a conditional expectation of the random variable. A similar representation of CVaR norm is valid for discrete random variables. Several properties for scaled and non-scaled CVaR norm, as a function of confidence level, were proved. Dual norm for CVaR norm is proved to be the maximum of L-1 and scaled L-infinity norms. CVaR norm, as a Measure of Error, is related to a Regular Risk Quadrangle. Trimmed L1-norm, which is a non-convex extension for CVaR norm, is introduced analogously to function L-p for p < 1. Linear regression problems were solved by minimizing CVaR norm of regression residuals.
+
+@highlight CVaR(|X|) is a norm in the space of random variables.
+@highlight CVaR norm as a Measure of Error is related to a Regular Risk Quadrangle.
+@highlight Dual norm for CVaR norm is the maximum of L-1 and scaled L-infinity norms.
+@highlight Trimmed L1-norm is an analog of L-p for p < 1.
+@highlight Linear regression problems were solved by minimizing CVaR norm of residuals.

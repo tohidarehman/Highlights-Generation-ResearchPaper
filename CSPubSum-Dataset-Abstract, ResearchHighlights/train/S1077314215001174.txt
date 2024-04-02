@@ -1,0 +1,7 @@
+ Line segment detection is a fundamental procedure in computer vision, pattern recognition, or image analysis applications. This paper proposes a statistical method based on the Hough transform for line segment detection by considering quantization error, image noise, pixel disturbance, and peak spreading, also taking the choice of the coordinate origin into account. A random variable is defined in each column in a peak region. Statistical means and statistical variances are calculated; the statistical non-zero cells are analyzed and computed. The normal angle is determined by minimizing the function which fits the statistical variances; the normal distance is calculated by interpolating the function which fits the statistical means. Endpoint coordinates of a detected line segment are determined by fitting a sine curve (rather than searching for the first and last non-zero voting cells, and solving equations containing coordinates of such cells). Experimental results on simulated data and real world images validate the performance of the proposed method for line segment detection.
+
+@highlight Voting in each column around an initial peak is considered to be a random variable.
+@highlight The optimal θ is determined by fitting and minimizing a 2nd-order curve.
+@highlight The optimal ρ is determined by fitting and interpolating a sine curve.
+@highlight We calculate voting boundaries instead of searching for non-zero voting cells.
+@highlight The endpoint coordinates are determined by fitting instead of by solving equations.

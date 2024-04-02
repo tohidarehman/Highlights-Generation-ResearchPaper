@@ -1,0 +1,5 @@
+ Traveling Salesman Problem (TSP) tour length estimations can be used when it is not necessary to know an exact tour, e.g., when using certain heuristics to solve location-routing problems. The best estimation models in the TSP literature focus on random instances where the node dispersion is known; those that do not require knowledge of node dispersion are either less accurate or slower. In this paper, we develop a new regression-based tour length estimation model that is distribution-free, accurate, and fast, with a small standard deviation of the estimation errors. When the distribution of the node coordinates is known, it provides a close estimate of the well-known asymptotic tour length estimation formula of Beardwood et al. ; more importantly, when the distribution is unknown or non-integrable so Beardwood et al.’s estimation cannot be used, our model still provides good, fast tour length estimates.
+
+@highlight We develop a new tour length estimation model for random graphs.
+@highlight The model has high predictive power even when the node dispersion in unknown.
+@highlight For known dispersions, the model estimates Beardwood et al.’s (1959) coefficient.

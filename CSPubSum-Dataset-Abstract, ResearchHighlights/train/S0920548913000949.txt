@@ -1,0 +1,6 @@
+ Intelligent Transportation Systems (ITSs) make use of advanced detection, communications, and computing technology to improve the safety and efficiency of surface transportation networks. An ITS incorporates a variety of equipment and devices all working in mutual harmony. However, each piece of equipment or device has its own data format and protocol so they cannot exchange data with each other directly. In this paper, a platform of data exchange in an ITS is proposed that can receive data from several types of equipment external to automobiles, repackage the received data, and then dispatch the data to different devices inside the vehicles.
+
+@highlight An integrated platform of data exchange in an Intelligent Transportation Systems is proposed.
+@highlight The proposed platform can receive data from several types of equipment.
+@highlight The flexibility is considered in designing the integrated platform.
+@highlight The time complexity of the proposed platform is close to constant.

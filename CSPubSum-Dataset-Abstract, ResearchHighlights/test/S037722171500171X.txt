@@ -1,0 +1,7 @@
+ The paper studies the impact of a green supplier’s overconfidence on inventory decisions in a supply chain consisting of a supplier facing effort-dependent stochastic demand and a rational retailer. The overconfident supplier may overestimate the product demand due to carbon-reduction green efforts or underestimate the variability of the stochastic demand. We characterize these two kinds of overconfidence as ability-based and precision-based overconfidence, for which we develop optimal models for three supply chain systems: integrated, vendor managed inventory, and retailer managed inventory. Extensive comparative studies are conducted to highlight the impacts of supplier's overconfidence on the inventory decisions and on different green-supply chain performance measures. We find that, under certain conditions, supplier's overconfidence prompts the supplier to exert more efforts on green manufacturing, and enhances the profits of the retailer and of the entire supply chain. Managerial insights are provided for various scenarios and propositions.
+
+@highlight Optimize inventory decision and supplier efforts in a supply chain.
+@highlight Ability-biased overconfidence (AB) exerts more green manufacturing efforts.
+@highlight Precision-biased overconfidence (PR) inspires more efforts under VMI (not RMI).
+@highlight AB often brings higher profits to the retailer and SC; while PR does the opposite.
+@highlight PR motivates the supplier to implement VMI.

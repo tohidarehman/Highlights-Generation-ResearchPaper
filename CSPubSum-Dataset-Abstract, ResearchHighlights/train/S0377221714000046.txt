@@ -1,0 +1,6 @@
+ In this paper we study an inexact steepest descent method for multicriteria optimization whose step-size comes with Armijo’s rule. We show that this method is well-defined. Moreover, by assuming the quasi-convexity of the multicriteria function, we prove full convergence of any generated sequence to a Pareto critical point. As an application, we offer a model for the Psychology’s self regulation problem, using a recent variational rationality approach.
+
+@highlight A review of an inexact steepest descent method for multicriteria optimization.
+@highlight Full convergence of the sequence generated to a Pareto critical point under quasi-convexity.
+@highlight Full convergence of the sequence generated to a weak Pareto optimal point under pseudo-convexity.
+@highlight A model of self regulation in Psychology using a variational rationality approach.

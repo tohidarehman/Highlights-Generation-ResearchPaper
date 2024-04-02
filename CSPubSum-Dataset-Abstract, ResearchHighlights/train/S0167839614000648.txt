@@ -1,0 +1,8 @@
+ One major issue in CAGD is to model complex objects using free-form surfaces of general topology. A natural approach is curvenet-based design, where designers directly create and modify feature curves. These are interpolated by smoothly connected, multi-sided patches, which can be represented by transfinite surfaces, defined as a combination of side interpolants or ribbons. A ribbon embeds Hermite data, i.e., prescribed positional and cross-derivative functions along boundary curves. The paper focuses on two transfinite schemes: the first is an enhanced and extended variant of a multi-sided generalization of the classical Coons patch ; the second one is based on a new concept of combining doubly curved composite ribbons, each one interpolating three adjacent sides. Main contributions include various ribbon parameterizations that surpass former methods in quality and computational efficiency. It is proven that these surfaces smoothly interpolate the prescribed ribbon data. Both formulations are based on non-regular convex polygonal domains and distance-based, rational blending functions. A few examples illustrate the results.
+
+@highlight Two n-sided transfinite surface representations are presented.
+@highlight The new schemes interpolate ribbon surfaces with
+@highlight continuity.
+@highlight One of these is a generalization of the Coons patch based on the Boolean sum scheme.
+@highlight The other combines curved side interpolants.
+@highlight Special distance-based blending functions and parameterizations are introduced.

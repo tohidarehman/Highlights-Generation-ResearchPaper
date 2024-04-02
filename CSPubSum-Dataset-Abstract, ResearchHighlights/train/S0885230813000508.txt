@@ -1,0 +1,6 @@
+ This study investigated whether the signal-to-noise ratio (SNR) of the interlocutor (speech partner) influences a speaker's vocal intensity in conversational speech. Twenty participants took part in artificial conversations with controlled levels of interlocutor speech and background noise. Three different levels of background noise were presented over headphones and the participant engaged in a “live interaction” with the experimenter. The experimenter's vocal intensity was manipulated in order to modify the SNR. The participants’ vocal intensity was measured. As observed previously, vocal intensity increased as background noise level increased. However, the SNR of the interlocutor did not have a significant effect on participants’ vocal intensity. These results suggest that increasing the signal level of the other party at the earpiece would not reduce the tendency of telephone users to talk loudly
+
+@highlight We measured vocal intensity as a function of signal-to-noise ratio of the interlocutor.
+@highlight A live conversation was simulated using pre-recorded vocal prompts.
+@highlight Vocal intensity increased with background noise level.
+@highlight The signal-to-noise ratio of the interlocutor had no effect on the vocal intensity.

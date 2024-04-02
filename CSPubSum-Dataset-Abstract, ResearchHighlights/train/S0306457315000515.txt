@@ -1,0 +1,7 @@
+ The Question Answering (QA) task aims to provide precise and quick answers to user questions from a collection of documents or a database. This kind of IR system is sorely needed with the dramatic growth of digital information. In this paper, we address the problem of QA in the medical domain where several specific conditions are met. We propose a semantic approach to QA based on (i) Natural Language Processing techniques, which allow a deep analysis of medical questions and documents and (ii) semantic Web technologies at both representation and interrogation levels. We present our Semantic Question-Answering System, called MEANS and our proposed method for “Answer Search” based on semantic search and query relaxation. We evaluate the overall system performance on real questions and answers extracted from MEDLINE articles. Our experiments show promising results and suggest that a query-relaxation strategy can further improve the overall performance.
+
+@highlight We propose a semantic question answering system (MEANS) for the medical domain.
+@highlight We introduce a novel query relaxation approach for question answering.
+@highlight MEANS integrates NLP methods allowing a deep analysis of questions and documents.
+@highlight MEANS uses semantic Web technologies and standards for data sharing and integration.
+@highlight Our experiments show promising results in terms of MRR and precision.

@@ -1,0 +1,7 @@
+ We use the information in intraday data to forecast the volatility of crude oil at a horizon of 1–66days using a variety of models relying on the decomposition of realized variance in its positive or negative (semivariances) part and its continuous or discontinuous part (jumps). We show the importance of these decompositions in predictive (in-sample) regressions using a number of specifications. Nevertheless, an important empirical finding comes from an out-of-sample analysis which unambiguously shows the limited interest of considering these components. Overall, our results indicates that a simple autoregressive specification mimicking long memory and using past realized variances as predictors does not perform significantly worse than more sophisticated models which include the various components of realized variance.
+
+@highlight High-frequency data are used to forecast the volatility of WTI oil futures.
+@highlight Eleven pseudo long memory time series (HAR) models are estimated.
+@highlight Jumps and semivariances are found to be useful in fitting data in-sample.
+@highlight They do not significantly improve the forecast accuracy out-of-sample.
+@highlight A simple HAR model is not outperformed by any more sophisticated alternatives.

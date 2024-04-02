@@ -1,0 +1,8 @@
+ Network enabled capabilities (NEC) and electronic architectures in modern-day military vehicles fundamentally change the way in which the military conduct its operations. In-vehicle electronic (vetronics) architectures consist of the integration of a variety of safety-critical, deterministic and non-deterministic sub-systems through gateways and backbone networks. This assimilation provides the military with the required information superiority, battle space information integration and new capabilities. However, with this integration comes added security and safety risk. In essence, different communication nodes within the vehicle could be accessed with malicious intentions through NEC or by allowing tampered nodes to be part of the system during reconfiguration. Attacks on safety-critical sub-systems can affect the safety of the crew and also the completion of the military mission. This paper presents a novel integrated vetronics survivability architecture framework to protect and recover vehicle's vetronics from the growing threats of attacks. Architecture components are identified, and their behaviour is analysed to present an innovative vetronics survivability architectural framework.
+
+@highlight The paper proposes a framework for vetronics networks to protect them from cyber-attacks
+@highlight The paper uses preventive and reactive mechanism to protect and recover from cyber threats
+@highlight The utilization of existing safety critical time triggered architectures is discussed
+@highlight Through-life capability and cryptographic management is presented
+@highlight The framework is presented for open, modular, and scalable vetronics architectures
+@highlight The paper highlights applicability of the framework to current and future standards

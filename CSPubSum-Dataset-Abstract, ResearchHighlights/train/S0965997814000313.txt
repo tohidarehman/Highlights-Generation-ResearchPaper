@@ -1,0 +1,6 @@
+ Verification of the quantities of interest computed with the finite element method (FEM) requires an upper bound on the strain energy, which is half of the energy norm of displacement solutions. Recently, a modified finite element method with strain smoothing, the node-based smoothed finite element method (NS-FEM), has been proposed to solve solid mechanics problems. It has been found in some cases that the energy norm formed by the smoothed strain of NS-FEM solutions bounds the energy norm of exact displacements from above. We analyze the bounding property of this method, give three kind of energy norms of solutions computed by FEM and NS-FEM, and extend them to the computation of an upper bound and a lower bound on the linear functional of displacements. By examining the bounding property of NS-FEM with different energy norms using some linear elastic problems, the advantages of NS-FEM over the traditional error estimate based methods is observed.
+
+@highlight Propose a verification method for the quantities of interest using NS-FEM.
+@highlight Find two kinds of energy norm of solutions possessing upper bound attribute.
+@highlight Extend to the computation of bound on the quantities of interest in elastic problems.
+@highlight Examine the bounding and convergence property of the energy norms of solutions.

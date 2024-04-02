@@ -1,0 +1,6 @@
+ This paper describes a novel Particle Swarm Optimization (PSO)-based classification algorithm with improved capabilities in comparison to several alternatives. The algorithm uses a new particle-position update mechanism and a new way to handle mixed-attribute data based on particle position interpretation. The new position update mechanism combines particle confinement and dispersion for improved search space coverage, and the proposed interpretation mechanism uses the frequencies of non numerical attributes instead of integer mappings. As our experimental results have shown, this leads to better cost function evaluation in the description space and subsequently enhanced processing of mixed-attribute data by the PSO algorithm. Our experimental setup consisted of three large benchmark databases, and the obtained recognition accuracies were better than those obtained with well-known classifiers.
+
+@highlight We address a major problem encountered in the classification domain: datasets with mixed-attribute value.
+@highlight We make a survey of particle swarm optimization approaches to resolve mixed attribute data. We analyze solutions reported in the literature and study possible enhancement.
+@highlight We propose an enhancement of a PSO classification algorithm.
+@highlight We make a data oriented comparative study.

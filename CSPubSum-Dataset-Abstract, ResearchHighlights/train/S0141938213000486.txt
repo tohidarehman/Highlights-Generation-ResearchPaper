@@ -1,0 +1,6 @@
+ The present work describes indium-zinc oxide (IZO) sputtering depositions onto several types of papers, using radio-frequency (RF) and direct current (DC) sputtering with a ceramic IZO target. The electrical and optical properties of the resulting materials were optimized; by studying the argon and oxygen gas flow rates and the sputtering power effects. At optimal deposition conditions, thin films of IZO were achieved with a low sheet resistance (about 20Ω/sq) and an optical transmittance of ca. 80% in the visible spectrum range. These materials retained these properties for more than 8months. Electrochromic devices (ECDs) with several configurations were built with those conductive papers and life cycling and contrast were measured for the ECDs. These devices exhibited a very good color contrast (as defined using L * color coordinates, =32) and electrochromic cyclability up to 30,000 redox cycles.
+
+@highlight We deposited IZO by DC Sputtering on heat sensitive substrates such as paper.
+@highlight The materials displayed high electric conductivity and optical transparency.
+@highlight Electrochromic materials were deposited using screen-printing.
+@highlight Solid-state electrochromic devices were assembled, showing an excellent performance.

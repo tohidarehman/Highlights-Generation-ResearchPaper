@@ -1,0 +1,7 @@
+ By focus group methodology, we examined the opinions and requirements of persons with ALS, their caregivers, and health care assistants with regard to developing a brain-computer interface (BCI) system that fulfills the user's needs. Four overarching topics emerged from this analysis: 1) lack of information on BCI and its everyday applications; 2) importance of a customizable system that supports individuals throughout the various stages of the disease; 3) relationship between affectivity and technology use; and 4) importance of individuals retaining a sense of agency. These findings should be considered when developing new assistive technology. Moreover, the BCI community should acknowledge the need to bridge experimental results and its everyday application.
+
+@highlight We identified the needs of BCI end-users (persons with ALS and their contacts).
+@highlight BCI end-users need more information on BCIs and everyday applications.
+@highlight A BCI system should support different users through different stages of ALS.
+@highlight BCIs should monitor and account for affective states.
+@highlight Retaining the sense of agency is crucial for end-users with ALS.

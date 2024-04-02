@@ -1,0 +1,5 @@
+ Contact area is an important geometric measurement in many physical systems. It is also difficult to compute due to its extreme sensitivity to infinitesimal perturbations. In this paper, we propose a new concept called an effective contact measure, which acts as a smooth version of contact area. Effective contact measures incorporate a notion of scale into the definition of contact area, allowing one to consider the degree of contact at different sizes. We show how effective contact measures can yield useful statistics for a number of applications, including analysis of multiphase materials and docking/alignment problems.
+
+@highlight Introduces a new concept of effective contact measure as an approximation of surface contact area.
+@highlight Proposes 3 new concepts of effective contact measures.
+@highlight Discusses application to alignment problems.

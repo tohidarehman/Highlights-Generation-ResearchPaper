@@ -1,0 +1,6 @@
+ Macrofeatures are mid-level features that jointly encode a set of low-level features in a neighborhood. We propose a macrofeature layout selection technique to improve localization performance in an object detection task. Our method employs line, triangle, and pyramid layouts, which are composed of several local blocks represented by the Histograms of Oriented Gradients (HOGs) features in a multi-scale feature pyramid. Such macrofeature layouts are integrated into a boosting framework for object detection, where the best layout is selected to build a weak classifier in a greedy manner at each iteration. The proposed algorithm is applied to pedestrian detection and implemented using GPU. Our pedestrian detection algorithm performs better in terms of detection and localization accuracy with great efficiency when compared to several state-of-the-art techniques in public datasets.
+
+@highlight We propose a macrofeature selection to improve object detection and localization.
+@highlight Our algorithm prioritizes more discriminative local macrofeature layouts.
+@highlight Our technique is integrated into the pedestrian detection algorithm by boosting.
+@highlight We accelerate the pedestrian detection algorithm using GPU.

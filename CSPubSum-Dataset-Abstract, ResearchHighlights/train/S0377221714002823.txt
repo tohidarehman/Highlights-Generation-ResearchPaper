@@ -1,0 +1,7 @@
+ A scheduling strategy to determine starting times of surgeries in multiple operating rooms (OR) is presented. The constraints are resource limit of a downstream facility, post-anesthesia care unit (PACU), and the service time uncertainties. Given sets of surgeries that need to be done on a day, this problem is formulated as a flexible job shop model with fuzzy sets. Patient-waitings in the process flow, clinical resource idling, and total completion times are considered for evaluation. This multi-objective problem is solved by a two-stage decision process. A genetic algorithm is used for determining relative order of surgeries in the first stage and definite starting times for all the surgical cases are obtained by a decision-heuristic in the second stage. The resultant schedule is evaluated by a Monte-Carlo simulation. The performance is shown to be better than our previous approach, a simulation based scheduling which already outperforms simple scheduling rules in regional hospitals. Additionally, the ratio of PACU to OR is examined using the proposed scheduling strategy.
+
+@highlight We model a surgery-scheduling system for multiple operating rooms.
+@highlight We determine surgery starting times under service time uncertainties.
+@highlight Patient waiting times, idling of OR, and completion times are used for evaluation.
+@highlight A fuzzy logic based flexible job shop scheduling with time-lag model is used.
+@highlight Appropriate ratio of operating rooms and PACU resources is examined.

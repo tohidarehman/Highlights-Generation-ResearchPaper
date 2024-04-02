@@ -1,0 +1,7 @@
+ This paper presents an algorithm, in the context of speech analysis and pathologic/dysphonic voices evaluation, which splits the signal of the glottal excitation into harmonic and noise components. The algorithm uses a harmonic and noise splitter and a glottal inverse filtering. The combination of these two functionalities leads to an improved estimation of the glottal excitation and its components. The results demonstrate this improvement of estimates of the glottal excitation in comparison to a known inverse filtering method (IAIF). These results comprise performance tests with synthetic voices and application to natural voices that show the waveforms of harmonic and noise components of the glottal excitation. This enhances the glottal information retrieval such as waveform patterns with physiological meaning.
+
+@highlight Tool development for glottal excitation analysis in a speech evaluation context.
+@highlight Assessment of pathologic or dysphonic voices related to the glottis.
+@highlight Applications in the natural speech synthesis and pathological speech recognition.
+@highlight Harmonic and noise components can be applied in biological feedback signals.
+@highlight Improvement of an existent algorithm that estimates the glottal excitation.

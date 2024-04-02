@@ -1,0 +1,7 @@
+ The task of patient identification is performed many times each day by nurses and other members of the care team. Armbands are used for both direct verification and barcode scanning during patient identification. Armbands and information layout are critical to reducing patient identification errors and dangerous workarounds. We report the effort at two large, integrated healthcare systems that employed human factors engineering approaches to the information layout design of new patient identification armbands. The different methods used illustrate potential pathways to obtain standardized armbands across healthcare systems that incorporate human factors principles. By extension, how the designs have been adopted provides examples of how to incorporate human factors engineering into key clinical processes.
+
+@highlight Patient identification is performed many times each day with armbands used for verification and barcode scanning.
+@highlight The information layout of patient identification armbands is critical to reducing patient misidentification and workarounds.
+@highlight Healthcare systems lack guides to armband designs: Current requirements are insufficient.
+@highlight Two healthcare systems followed human factors design approaches on new patient identification armbands.
+@highlight Paper shows ways to standardize armband designs that incorporate human factors principles.

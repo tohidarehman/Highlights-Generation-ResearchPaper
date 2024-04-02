@@ -1,0 +1,7 @@
+ IDR/QR, which is an incremental dimension reduction algorithm based on linear discriminant analysis (LDA) and QR decomposition, has been successfully employed for feature extraction and incremental learning. IDR/QR can update the discriminant vectors with light computation when new training samples are inserted into the training data set. However, IDR/QR has two limitations: 1) IDR/QR can only process new samples one instance after another even if a chunk of training samples is available at a time; and 2) the approximate trick is used in IDR/QR. Then there exists a gap in performance between incremental and batch IDR/QR solutions. To address the problems of IDR/QR, in this paper, we propose a new chunk IDR method which is capable of processing multiple data instances at a time and can accurately update the discriminant vectors when new data items are added dynamically. Experiments on some real databases demonstrate the effectiveness of the proposed algorithm over the original one.
+
+@highlight We propose a new implementation of the batch IDR/QR method.
+@highlight Our new implementation is theoretically equivalent to the original one but is more efficient.
+@highlight Based on our new implementation of batch IDR/QR, we propose the chunk IDR method.
+@highlight Chunk IDR is capable of processing multiple data instances at a time.
+@highlight Chunk IDR can accurately update the discriminant vectors when new data items are added dynamically.

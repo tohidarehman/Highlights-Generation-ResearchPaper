@@ -1,0 +1,5 @@
+ We consider a firm facing stochastic demand for two products with downward, supplier-driven substitution and customer service objectives. We assume both products are perishable or prone to obsolescence, hence the firm faces a single period problem. The fundamental challenge facing the firm is to determine in advance of observing demand the profit maximizing inventory levels of both products that will meet given service level objectives. Note that while we speak of inventory levels, the products may be either goods or services. We characterize the firm’s optimal inventory policy with and without customer service objectives. Results of a numerical study reveal the benefits obtained from substitution and show how optimal inventory levels are impacted by customer service objectives.
+
+@highlight The first paper to study inventory substitution with service level requirements.
+@highlight Deep analysis and additional insights for the model with two substitutable products.
+@highlight Numerical study shows how optimal inventory levels are affected by service levels.

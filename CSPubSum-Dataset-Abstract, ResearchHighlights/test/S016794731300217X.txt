@@ -1,0 +1,7 @@
+ The statistical analysis of the method of construction of the market graph when considered as a multiple decision statistical procedure is investigated. It is shown that under the condition of additivity of the loss function the method can be optimal in different classes of unbiased multiple statistical procedures. The results are obtained by application of the Lehmann theory of multiple decision procedures to the method of construction of the market graph. The main findings are illustrated by numerical studies of the conditional risk of multiple decision statistical procedures for different loss functions and different return distributions.
+
+@highlight The market graph construction is investigated as a multiple decision statistical procedure.
+@highlight The multiple decision problem is reduced to the family of two-decision problems.
+@highlight Multiple decision statistical testing is reduced to generating hypothesis testing.
+@highlight The market graph construction procedure is optimal as a multiple decision statistical procedure.
+@highlight Compatibility conditions and additivity of the loss function are discussed theoretically and numerically.

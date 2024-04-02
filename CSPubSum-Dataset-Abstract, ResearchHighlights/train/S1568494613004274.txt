@@ -1,0 +1,6 @@
+ Type reduction (TR) is one of the key components of interval type-2 fuzzy logic systems (IT2FLSs). Minimizing the computational requirements has been one of the key design criteria for developing TR algorithms. Often researchers give more rewards to computationally less expensive TR algorithms. This paper evaluates and compares five frequently used TR algorithms based on their contribution to the forecasting performance of IT2FLS models. Algorithms are judged based on the generalization power of IT2FLS models developed using them. Synthetic and real world case studies with different levels of uncertainty are considered to examine effects of TR algorithms on forecasts’ accuracies. As per obtained results, Coupland–Jonh TR algorithm leads to models with a higher and more stable forecasting performance. However, there is no obvious and consistent relationship between the widths of the type reduced set and the TR algorithm.
+
+@highlight Forecasting using interval type-2 fuzzy logic system.
+@highlight Comprehensive evaluation of type reduction algorithms of IT2 FLSs.
+@highlight Identifying TR algorithms generating best forecasts.
+@highlight Obtaining best forecasts using IT2 FLS models.

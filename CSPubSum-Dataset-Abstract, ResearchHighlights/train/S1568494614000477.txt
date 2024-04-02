@@ -1,0 +1,7 @@
+ A novel support vector machine (SVM) model combining kernel principal component analysis (KPCA) with genetic algorithm (GA) is proposed for intrusion detection. In the proposed model, a multi-layer SVM classifier is adopted to estimate whether the action is an attack, KPCA is used as a preprocessor of SVM to reduce the dimension of feature vectors and shorten training time. In order to reduce the noise caused by feature differences and improve the performance of SVM, an improved kernel function (N-RBF) is proposed by embedding the mean value and the mean square difference values of feature attributes in RBF kernel function. GA is employed to optimize the punishment factor C, kernel parameters σ and the tube size ɛ of SVM. By comparison with other detection algorithms, the experimental results show that the proposed model performs higher predictive accuracy, faster convergence speed and better generalization.
+
+@highlight A novel method combination of KPCA and SVM is proposed for intrusion detection.
+@highlight KPCA is used as a preprocessor of SVM to extract features.
+@highlight A new radial basis kernel function (N-RBF) is developed for KPCA and SVM.
+@highlight GA is employed to optimize the parameters of SVM.
+@highlight Experimental results shown that the proposed method had more excellent performance.

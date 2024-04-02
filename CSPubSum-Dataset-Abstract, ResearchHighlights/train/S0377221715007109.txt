@@ -1,0 +1,7 @@
+ A preventive maintenance policy that considers information provided by observing the failure history of a repairable system is proposed. For a system that is to be operated for a long time, it is shown that the proposed policy will have a lower expected cost than a periodical one which does not take into account the failure history. Statistical inference using both maximum likelihood point estimates and bootstrap confidence intervals is discussed. The proposed policy is applied to a real situation involving maintenance of off-road engines owned by a Brazilian mining company. A simulation study compares the performance between the maintenance policy proposed and the periodical one.
+
+@highlight The history of the system is considered in order to decide whether to maintain it.
+@highlight The equipment is maintained whenever the failure intensity goes above a threshold.
+@highlight This random policy will incur in lower costs than the periodical, fixed age policy.
+@highlight Estimation for imperfect repair models uses maximum likelihood and bootstrap methods.
+@highlight Application to a data set regarding failures of engines of off-road trucks is shown.

@@ -1,0 +1,7 @@
+ The Ship Stowage Planning Problem is the problem of determining the optimal position of containers to be stowed in a containership. In this paper we address the problem considering the objectives of the terminal management that are mainly related to the yard and transport operations. We propose a Binary Integer Program and a two-step heuristic algorithm. An extensive computational experience shows the efficiency and effectiveness of our approach. A classification scheme for stowage planning problems is also provided.
+
+@highlight We address the Ship Stowage Planning Problem as it arises at the Gioia Tauro Port.
+@highlight We minimize the terminal operative costs (transport of containers and yard-shifts).
+@highlight We design a classification scheme for Ship Stowage Planning Problems.
+@highlight We propose a Linear Binary Model and a heuristic solution algorithm.
+@highlight The numerical experience shows the efficiency and effectiveness of our approach.

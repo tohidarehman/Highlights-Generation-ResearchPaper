@@ -1,0 +1,7 @@
+ Every year, hundreds of thousands of people are affected by natural disasters. The number of casualties is usually increased by lack of clean water, food, shelter, and adequate medical care during the aftermath. One of the main problems influencing relief distribution is the state of the post-disaster road network. In this paper, we consider the problem of scheduling the emergency repair of a rural road network that has been damaged by the occurrence of a natural disaster. This problem, which we call the Network Repair Crew Scheduling and Routing Problem addresses the scheduling and routing of a repair crew optimizing accessibility to the towns and villages that demand humanitarian relief by repairing roads. We develop both an exact dynamic programming (DP) algorithm and an iterated greedy-randomized constructive procedure to solve the problem and compare the performance of both approaches on small- to medium-scale instances. Our numerical analysis of the solution structure validates the optimization model and provides managerial insights into the problem and its solutions.
+
+@highlight We addressed the scheduling and routing of a repair crew after a disaster.
+@highlight We present a dynamic programming model that solves small/mid-sized problems.
+@highlight We develop a IGRCP procedure to solve large problem instances efficiently.
+@highlight Our work has societal impact as it helps to efficiently repair a network damaged by a disaster.
+@highlight Considering the routing of the repair crew makes the problem more realistic.

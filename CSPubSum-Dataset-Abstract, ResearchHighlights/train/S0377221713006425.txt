@@ -1,0 +1,6 @@
+ Production optimization of gas-lifted oil wells under facility, routing and pressure constraints is a challenging problem, which has attracted the interest of operations engineers aiming to drive economic gains and scientists for its inherent complexity. The hardness of this problem rests on the non-linear characteristics of the multidimensional well-production and pressure-drop functions, as well as the discrete routing decisions. To this end, this work develops several formulations in Mixed-Integer Linear Programming (MILP) using multidimensional piecewise-linear models to approximate the non-linear functions with domains spliced in hypercubes and simplexes. Computational and simulation analyses were performed considering a synthetic but realistic oil field modeled with a multiphase-flow simulator. The purpose of the analyses was to assess the relative performance of the MILP formulations and their impact on the simulated oil production.
+
+@highlight A comprehensive analysis of multidimensional piecewise-linear models.
+@highlight A computational analysis of the piecewise-linear models in oil production optimization.
+@highlight Logarithmic convex combination models were mostly efficient to model pressure drops.
+@highlight Simulated production is improved with increased resolution of the models.

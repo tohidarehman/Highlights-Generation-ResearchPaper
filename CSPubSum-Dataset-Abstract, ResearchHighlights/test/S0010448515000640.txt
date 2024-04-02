@@ -1,0 +1,6 @@
+ In CNC machining, fitting the polyline machining tool path with parametric curves can be used for smooth tool path generation and data compression. In this paper, an optimization problem is solved to find a quadratic B-spline curve whose Hausdorff distance to the given polyline tool path is within a given precision. Furthermore, adopting time parameter for the fitting curve, we combine the usual two stages of tool path generation and optimal velocity planning to derive a one-step solution for the CNC optimal interpolation problem of polyline tool paths. Compared with the traditional decoupled model of curve fitting and velocity planning, experimental results show that our method generates a smoother path with minimal machining time.
+
+@highlight The explicit Hausdorff distance of a line segment and a quadratic curve is given.
+@highlight G01 codes can be fitted by quadratic B-splines with confined error.
+@highlight We combine the tool path generating and optimal velocity planning in one step.
+@highlight We simulate the manufacture process with our proposed method.

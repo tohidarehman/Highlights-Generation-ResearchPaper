@@ -1,0 +1,5 @@
+ We model developable surfaces by wrapping a planar figure around cones and cylinders. Complicated developables can be constructed by successive mappings using cones and cylinders of different sizes and shapes. We also propose an intuitive control mechanism, which allows a user to select an arbitrary point on the planar figure and move it to a new position. Numerical techniques are then used to find a cone or cylinder that produces the required mapping. Several examples demonstrate the effectiveness of our technique.
+
+@highlight An effective technique for modeling the bending of paper using cones and cylinders.
+@highlight A methodology for producing complicated developable surfaces from a planar figure.
+@highlight Interactive control of paper bending from a user-specified displacement.

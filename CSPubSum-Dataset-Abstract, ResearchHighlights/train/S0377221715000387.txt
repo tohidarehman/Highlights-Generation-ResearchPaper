@@ -1,0 +1,7 @@
+ In this paper we deal with fusion functions, i.e., mappings from  into . As a generalization of the standard monotonicity and recently introduced weak monotonicity, we introduce and study the directional monotonicity of fusion functions. For distinguished fusion functions the sets of all directions in which they are increasing are determined. Moreover, in the paper the directional monotonicity of piecewise linear fusion functions is completely characterized. These results cover, among others, weighted arithmetic means, OWA operators, the Choquet, Sugeno and Shilkret integrals.
+
+@highlight Introduction of fusion functions extending the notion of aggregation functions.
+@highlight Introduction of directional monotonicity of fusion functions.
+@highlight Study of directional monotonicity of composite and transformed fusion functions.
+@highlight Study of the set D↑(F) of all directions making a fusion function F increasing.
+@highlight A complete description of D↑(F) for continuous piecewise linear fusion functions.

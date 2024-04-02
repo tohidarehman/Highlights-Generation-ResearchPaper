@@ -1,0 +1,6 @@
+ In this study, a novel single-image based dehazing framework is proposed to remove haze artifacts from images through local atmospheric light estimation. We use a novel strategy based on a physical model where the extreme intensity of each RGB pixel is used to define an initial atmospheric veil (local atmospheric light veil). Across bilateral filter is applied to each veil to achieve both local smoothness and edge preservation. A transmission map and a reflection component of each RGB channel are constructed from the physical atmospheric scattering model. The proposed approach avoids adverse effects caused by the error in estimating the global atmospheric light. Experimental results on outdoor hazy images demonstrate that the proposed method produces image output with satisfactory visual quality and color fidelity. Our comparative study demonstrates a higher performance of our method over several state-of-the-art methods.
+
+@highlight A novel strategy is proposed based on the minimum and maximum of each RGB pixel.
+@highlight The concept of local atmosphere light veil is defined in this study.
+@highlight The reflection component of the scene is calculated accurately with imaging physical model.
+@highlight The proposed method yields even better results than the state-of-the-art techniques.

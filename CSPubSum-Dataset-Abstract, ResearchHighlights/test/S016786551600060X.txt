@@ -1,0 +1,6 @@
+ Conventionally, in vector Taylor series (VTS) based compensation for noise-robust speech recognition, hidden Markov models (HMMs) are usually trained with clean speech. However, it is known that better performance is generally obtained by training the HMM with noisy speech rather than clean speech. From this viewpoint, we propose a novel VTS-based HMM adaptation method for the noisy speech trained HMM. We derive a mathematical relation between the training and test noisy speech in the cepstrum-domain using VTS and the mean and covariance of the noisy speech trained HMM are adapted to the test noisy speech in an iterative expectation-maximization (EM) algorithm. In the experimental results on the Aurora 2 database, we could obtain about 10–25% relative improvements in word error rates (WERs) over multi-condition training (MTR) method depending on speech front-ends and the HMM complexity.
+
+@highlight Novel relation between training and test noisy speech in the cepstrum domain is derived.
+@highlight Noisy speech trained HMM is adapted to the test speech using the noise corruption model.
+@highlight Better performance is observed compared with the state-of-the-art model adaptation methods.
+@highlight Easy to implement by adapting directly the conventional ML trained HMM.

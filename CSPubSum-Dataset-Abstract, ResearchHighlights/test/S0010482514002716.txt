@@ -1,0 +1,5 @@
+ This paper presents a system for correcting motion influences in time-dependent 2D contrast-enhanced ultrasound (CEUS) images to assess tissue perfusion characteristics. The system consists of a semi-automatic frame selection method to find images with out-of-plane motion as well as a method for automatic motion compensation. Translational and non-rigid motion compensation is applied by introducing a temporal continuity assumption. A study consisting of 40 clinical datasets was conducted to compare the perfusion with simulated perfusion using pharmacokinetic modeling. Overall, the proposed approach decreased the mean average difference between the measured perfusion and the pharmacokinetic model estimation. It was non-inferior for three out of four patient cohorts to a manual approach and reduced the analysis time by 41% compared to manual processing.
+
+@highlight This paper proposes a semi-automatic system to motion compensated CEUS perfusion data.
+@highlight Evaluation showed equal or improved performance compared to manual processing.
+@highlight It saves 41% of the time required for manual processing of the datasets.

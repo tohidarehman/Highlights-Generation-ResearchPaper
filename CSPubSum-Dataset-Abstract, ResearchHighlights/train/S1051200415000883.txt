@@ -1,0 +1,7 @@
+ This work proposes a new method of extracting texture descriptors from digital images based on local scaling properties of the greyscale function using constraints to define connected local sets. The texture is first mapped onto a three-dimensional cloud of points and the local coarseness under different scales is assigned to each point p. This measure is obtained from the size of the largest “connected” set of points within a cube centred at p. Here, the “connected set” is defined as the set of points such that for each point in the local domain there is at least one other point at a distance smaller than a threshold t. Finally, the Bouligand–Minkowski fractal descriptors of the local coarseness of each pixel are computed. The classificatory power of the descriptors on the Brodatz, Vistex, UIUC and UMD databases showed an improvement over the results obtained with other well-known texture descriptors reported in the literature. The performance achieved also suggests possible applications to real-world problems where the images are best analysed as textures.
+
+@highlight We propose a new method to extract features from texture images.
+@highlight The method combines a local with a global fractal-based analysis.
+@highlight It was assessed in the classification of well-known benchmark databases.
+@highlight The proposal outperformed other state-of-the-art and classical approaches.
+@highlight This local/global analysis is robust and useful for general purpose applications.

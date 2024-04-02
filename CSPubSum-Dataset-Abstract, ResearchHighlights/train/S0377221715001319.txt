@@ -1,0 +1,5 @@
+ This paper investigates the modal split and trip scheduling decisions with consideration of the commuters’ uncertainty expectation in the morning commute problem. Two physically separated modes for transportation, the auto mode on highway and the transit mode on subway, are available for commuters to choose for traveling from home to workplace. The travel time uncertainty is assumed to only occur on highway. Every commuter is faced with the joint choice of transport mode and trip scheduling for minimizing her/his generalized travel cost. The study reveals that uncertainty expectation can significantly influence the travel decisions and lead to a distinctive flow pattern. We also examine the effects of transit headway and fare on modal split and equilibrium cost by numerical examples.
+
+@highlight Study the joint decision-making of modal split and trip scheduling.
+@highlight Consider the travel time uncertainty on highway.
+@highlight Reveal the influences of uncertainty expectation on decisions and flow patterns.

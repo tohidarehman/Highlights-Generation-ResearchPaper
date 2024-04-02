@@ -1,0 +1,6 @@
+ In this article, we consider the T 2 control chart for bivariate samples of size n with observations that are not only cross-correlated but also autocorrelated. The cross covariance matrix of the sample mean vectors is derived with the assumption that the observations are described by a multivariate first order autoregressive model – VAR . The combined effect of the correlation and autocorrelation on the performance of the T 2 chart is also investigated. Earlier studies proved that changes in only one variable are detected faster when the variables are correlated. This result extends to the case that one or both variables are also autocorrelated.
+
+@highlight The cross covariance matrix of sample mean vectors.
+@highlight Multivariate processes described by the VAR(1) model.
+@highlight Combined effect of the correlation and autocorrelation on the T
+@highlight 2 chart’s performance.

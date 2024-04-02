@@ -1,0 +1,6 @@
+ This paper studies sectorization increase in horizontal and vertical plane. We have simulated downlink (DL) macro long-term evolution (LTE) network using three-dimensional antenna and propagation models. New network layouts have been proposed based on 4-sector site deployment. The challenge was to offer lower network cost and complexity. Simulation results have showed good tradeoff between capacity and mobility performance in comparison to known sectorization schemes. Besides, carrier aggregation (CA) and active antenna system (AAS) have been used to exploit the sector vertical plane. Low frequency band (800MHz) improves coverage and indoor signal penetration in urban environment. Our proposed sectorization schemes give multi-objective network quality of service (QOS).
+
+@highlight Radio site design with four horizontal and four vertical sectors is proposed.
+@highlight Vertical sectorization is applied using active antennas.
+@highlight Low band, carrier aggregation and sectorization boosted radio performance.
+@highlight Throughput and mobility performance tradeoff is maintained.

@@ -1,0 +1,6 @@
+ Decision makers often face challenges during the adoption of technology. Indeed, technology adoption usually occurs sequentially, so observational learning can help the decision makers to reach reasonable decisions. In reality, the decision makers may prefer to adopt a waiting strategy when the situation is equivocal. In this study, we construct a technology adoption model called the G-WB model, where we consider a generalized waiting situation based on the Walden–Browne (WB) model. In our model, herd behavior is a difficult issue, but an information cascade occurs after herding appears. We explore the effect of different parameters on the convergence speed and extend our G-WB model. We also demonstrate that observational learning is a useful strategy during sequential decision making and our model is an optimal version of the WB model, which facilitates a better understanding of herding.
+
+@highlight Construct a technology adoption model called the G-WB model.
+@highlight Explore the effect of different parameters on the convergence speed.
+@highlight Demonstrate that our model is an optimal version of the WB model.
+@highlight Extended our model by relaxing certain assumptions.

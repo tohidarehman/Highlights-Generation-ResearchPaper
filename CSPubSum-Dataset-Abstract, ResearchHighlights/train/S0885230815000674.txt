@@ -1,0 +1,6 @@
+ In this paper, a new statistical method for detecting bilabial closure gestures is proposed based on articulatory data. This can be surprisingly challenging, since mere proximity of the lips does not imply their involvement in a directed phonological goal. This segment-based bilabial closure detection scheme uses principal differential analysis (PDA) to extract articulatory gestures. The dynamic patterns of the tract variables (TVs) lip aperture, lip protrusion, and their derivatives, are captured with PDA and used to detect and quantify bilabial closure gestures. The proposed feature sets, which are optimized using sequential forward floating selection (SFFS), are combined and used in binary classification. Experimental results using the articulatory database MOCHA-TIMIT show the effectiveness of the proposed method demonstrating promising performance in terms of high classification accuracy (95%), sensitivity (95%), and specificity (95%).
+
+@highlight Electromagnetic articulographic data represented in task dynamics.
+@highlight Dynamics of lip movement represented by linear differential equations.
+@highlight Linear differential equations learned by principal differential analysis (PDA).
+@highlight Bilabial/non-bilabial classification using parameters of PDA with high accuracy.

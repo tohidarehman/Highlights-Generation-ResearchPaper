@@ -1,0 +1,6 @@
+ We present the deficiencies of traditional identity-based authorization models in structured Peer-to-Peer (P2P) networks where users' Public Key Certificates (PKCs) represent two roles, authentication and authorization, and the access to the network resources is controlled by Access Control Lists (ACLs). With these deficiencies in mind, we propose a complete new framework for authorization in structured P2P networks based on Attribute Certificates (ACs) and a fully distributed certificate revocation system. We argue that the proposed framework yields a more flexible and secure authorization scheme for structured P2P networks while improving the efficiency of the assignment of privileges.
+
+@highlight Analysis of the deficiencies of traditional identity-based authorization models in structured P2P networks.
+@highlight Proposal of a more flexible and secure authorization scheme for authorization in structured P2P networks.
+@highlight Presentation of a distributed revocation system that can be established within the structured P2P network.
+@highlight Evaluation (both theoretically and with simulations) of our framework by applying it to the RELOAD protocol.

@@ -1,0 +1,5 @@
+ The rise of Internet of Things has been improving the so-called mobile Online Social Networks (mOSNs) in sense of more ubiquitous inter-communication and information sharing. Meanwhile, location sharing service is known as the key cornerstone of mOSNs. Unfortunately, location sharing has also caused similarly serious concerns on the potential privacy leakage. We propose BMobishare, a security enhanced privacy-preserving location sharing mechanism. It employs the Bloom Filter to mask sensitive data exchanges, such that exchange of both sides cannot obtain unauthorized privacy information. Analyses and evaluations show that BMobishare's enhanced location sharing procedure achieves significantly better performance when compared to existing approaches.
+
+@highlight We make a further research on privacy-preserving location sharing on mobile online social networks.
+@highlight BMobishare is proposed, a security improved mechanism which employs dummy query and the Bloom Filter to protect privacy.
+@highlight A performance evaluation that attests to the practicality of our solution.

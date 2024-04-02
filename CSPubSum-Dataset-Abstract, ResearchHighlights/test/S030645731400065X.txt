@@ -1,0 +1,6 @@
+ The emerging research area of opinion mining deals with computational methods in order to find, extract and systematically analyze people’s opinions, attitudes and emotions towards certain topics. While providing interesting market research information, the user generated content existing on the Web 2.0 presents numerous challenges regarding systematic analysis, the differences and unique characteristics of the various social media channels being one of them. This article reports on the determination of such particularities, and deduces their impact on text preprocessing and opinion mining algorithms. The effectiveness of different algorithms is evaluated in order to determine their applicability to the various social media channels. Our research shows that text preprocessing algorithms are mandatory for mining opinions on the Web 2.0 and that part of these algorithms are sensitive to errors and mistakes contained in the user generated content.
+
+@highlight We carry out an empirical analysis to determine characteristics of social media channels.
+@highlight User generated content is “noisy” and contains mistakes, emoticons, etc.
+@highlight We evaluate text preprocessing algorithms regarding user generated content.
+@highlight Discussion of improvements to opinion mining process.

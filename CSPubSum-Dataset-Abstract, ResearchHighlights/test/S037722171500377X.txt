@@ -1,0 +1,6 @@
+ In this paper, we are interested in the label ranking problem. We are more specifically interested in the recent trend consisting in predicting partial but more accurate (i.e., making less incorrect statements) orders rather than complete ones. To do so, we propose a ranking method based on label-wise decomposition. We estimate an imprecise probabilistic model over each label rank and we infer a partial order from it using optimization techniques. This leads to new results concerning a particular bilinear assignment problem. Finally, we provide some experiments showing the feasibility of our method.
+
+@highlight We propose to rank labels using label-wise information.
+@highlight We consider the use of probability sets over ranks to produce cautious predictions.
+@highlight We approximate the solution of the corresponding bilinear problem.
+@highlight We perform some first experiment showing the potential benefits of the approach.

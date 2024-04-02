@@ -1,0 +1,7 @@
+ J% is an extension of the Java programming language that efficiently supports the integration of domain-specific languages. In particular, J% allows the embedding of domain-specific language code into Java programs in a syntax-checked and type-safe manner. This paper presents J%׳s support for the sql language. J% checks the syntax and semantics of sql statements at compile-time. It supports query validation against a database schema or through execution to a live database server. The J% compiler generates code that uses standard jdbc api calls, enhancing runtime efficiency and security against sql injection attacks.
+
+@highlight The SQL queries are syntactically checked.
+@highlight Optionally the SQL queries can be validated against a specified SQL database schema.
+@highlight Each SQL query can be separately configured with different compile-time features.
+@highlight The integration between the Java and SQL is type-safe.
+@highlight The compiler automatically generates secure code against SQL injection attacks.

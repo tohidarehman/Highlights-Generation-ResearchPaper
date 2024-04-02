@@ -1,0 +1,6 @@
+ Bone drilling is a common procedure in many types of surgeries, including orthopedic, neurological and otologic surgeries. Several technologies and control algorithms have been developed to help the surgeon automatically stop the drill before it goes through the boundary of the tissue being drilled. However, most of them rely on thrust force and cutting torque to detect bone layer transitions which has many drawbacks that affect the reliability of the process. This paper describes in detail a bone-drilling algorithm based only on the position control of the drill bit that overcomes such problems and presents additional advantages. The implication of each component of the algorithm in the drilling procedure is analyzed and the efficacy of the algorithm is experimentally validated with two types of bones.
+
+@highlight Description of an admittance algorithm for bone drilling procedures.
+@highlight Layer transitions properly detected before bone breakthrough.
+@highlight Robust performance without collecting experimental data or retuning the control parameters.
+@highlight Only a position sensor is needed.

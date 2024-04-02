@@ -1,0 +1,8 @@
+ A novel method has been proposed for the detection of ischemia using an isoelectric energy function (IEEF) resulting from ST segment deviations in ECG signals. The method consists of five stages: pre-processing, delineation, measurement of isoelectric energy, a beat characterization algorithm and detection of ischemia. The isoelectric energy threshold is used to differentiate ischemic beats from normal beats for ischemic episode detection. Then, ischemic episodes are classified as transmural or subendocardial. The method is validated for recordings of the annotated European ST-T database (EDB). The results show 98.12% average sensitivity (SE ) and 98.16% average specificity (SP ). These results are significantly better than those of existing methods cited in the literature. The advantage of the proposed method includes simplicity, ruggedness and automatic discarding of noisy beats.
+
+@highlight Proposed a new method for detection of ischemia using mathematical isoelectric energy function.
+@highlight The proposed method does not involve any training and complicated calculation.
+@highlight Detection of ischemia class for detected ischemic episode.
+@highlight Achieved 98.12% average sensitivity and 98.16% average specificity.
+@highlight The results are significantly better than those of existing methods for recordings of European ST-T database.
+@highlight The advantage of the proposed method includes the automatic discarding of noisy beats.

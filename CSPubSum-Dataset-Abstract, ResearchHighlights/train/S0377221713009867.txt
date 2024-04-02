@@ -1,0 +1,6 @@
+ We address the single-machine stochastic scheduling problem with an objective of minimizing total expected earliness and tardiness costs, assuming that processing times follow normal distributions and due dates are decisions. We develop a branch and bound algorithm to find optimal solutions to this problem and report the results of computational experiments. We also test some heuristic procedures and find that surprisingly good performance can be achieved by a list schedule followed by an adjacent pairwise interchange procedure.
+
+@highlight We address the stochastic earliness/tardiness sequencing problem.
+@highlight A branch and bound algorithm finds optimal solutions to problems up to 20 jobs.
+@highlight For larger problems, it is possible to exploit asymptotic optimality.
+@highlight A heuristic solution method generated optimal solutions for all test problems.

@@ -1,0 +1,5 @@
+ This study presents a new weak signal detection method based on the van der Pol–Duffing oscillator. The principle of the proposed method is described. A weak signal is detected through the transition from the chaotic to the periodic state. Numerical simulation shows that the van der Pol–Duffing oscillator is sensitive to a weak signal under strong noise conditions. Several aspects of the proposed method, including the noise influence, influence of different frequency signals, and influence of the phase shift, are studied in detail. Results indicate that the application of the van der Pol–Duffing oscillator to weak signal detection is feasible.
+
+@highlight Proposed van der Pol–Duffing oscillator based weak signal detection method.
+@highlight The signal-to-noise ratio of the weak signal can be detected −45dB.
+@highlight Compared to Duffing oscillator more robust against the different frequency signal.

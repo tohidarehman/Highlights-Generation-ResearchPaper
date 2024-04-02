@@ -1,0 +1,7 @@
+ Heuristics evaluation is frequently employed to evaluate usability. While general heuristics are suitable to evaluate most user interfaces, there is still a need to establish heuristics for specific domains to ensure that their specific usability issues are identified. This paper presents a comprehensive review of 70 studies related to usability heuristics for specific domains. The aim of this paper is to review the processes that were applied to establish heuristics in specific domains and identify gaps in order to provide recommendations for future research and area of improvements. The most urgent issue found is the deficiency of validation effort following heuristics proposition and the lack of robustness and rigour of validation method adopted. Whether domain specific heuristics perform better or worse than general ones is inconclusive due to lack of validation quality and clarity on how to assess the effectiveness of heuristics for specific domains. The lack of validation quality also affects effort in improving existing heuristics for specific domain as their weaknesses are not addressed.
+
+@highlight Analytical review of 70 studies of domain specific heuristics for usability evaluation.
+@highlight There is a deficiency of validation effort following heuristics proposition.
+@highlight It is inconclusive whether domain specific heuristics is better than general ones.
+@highlight Less than 10% of the studies showed acceptable robustness and rigorousness.
+@highlight More than 80% of the studies used similar heuristics as Nielsen's.

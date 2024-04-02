@@ -1,0 +1,5 @@
+ The conformality of NURBS surfaces greatly affects the results of rendering and tessellation applications. To improve the conformality of NURBS surfaces, an optimization algorithm using general bilinear transformations is presented in this paper. The conformality energy is first formulated and its numerical approximation is then constructed using the composite simpson’s rule. The initial general bilinear transformation is obtained by approximating the conformal mapping of its 3D discretized mesh using a least square method, which is further optimized by the Levenberg–Marquardt method. Examples are given to show the performance of our algorithm for rendering and tessellation applications.
+
+@highlight We give explicit representations of the general bilinear reparameterized surfaces.
+@highlight A scheme is given to construct the general bilinear reparameterized NURBS surfaces.
+@highlight An optimization method is given to improve the conformality of NURBS surfaces.

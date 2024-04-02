@@ -1,0 +1,7 @@
+ This paper considers the block relocation problem (BRP), in which a set of identically-sized items is to be retrieved from a set of last-in-first-out (LIFO) stacks in a specific order using the fewest number of moves. The problem is encountered in the maritime container shipping industry and other industries where inventory is stored in stacks. After surveying the work done on the BRP, we introduce “BRP-III”—a new mathematical formulation for the BRP—and show that it has considerably fewer decision variables and better runtime performance than the other formulation in the literature. We then introduce a new look-ahead algorithm (LA-N) that is an extension of the algorithms from the literature and show that the new algorithm generally obtains better solutions than the other algorithms and has minimal CPU runtime.
+
+@highlight We present a new mathematical formulation for the block relocation problem (BRP).
+@highlight New formulation has better runtime performance than other formulations.
+@highlight We present the first computational results for two math programs of the BRP.
+@highlight We introduce a new look-ahead algorithm (LA-N) for the BRP.
+@highlight LA-N algorithm generally outperforms all other algorithms from the literature.

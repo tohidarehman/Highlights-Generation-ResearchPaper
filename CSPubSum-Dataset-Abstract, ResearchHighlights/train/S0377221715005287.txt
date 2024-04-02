@@ -1,0 +1,6 @@
+ A minimization problem with a convex separable objective function subject to linear equality constraints and box constraints (bounds on the variables) is considered. Necessary and sufficient optimality condition is proved for a feasible solution to be an optimal solution to this problem. Primal-dual analysis is also included. Examples of some convex separable objective functions for the considered problem are presented.
+
+@highlight Multidimensional convex separable continuous knapsack problem is analyzed.
+@highlight Necessary and sufficient optimality condition is formulated and proved.
+@highlight Primal-dual analysis of the proposed approach is included.
+@highlight Examples of convex objective functions for the considered problem are presented.

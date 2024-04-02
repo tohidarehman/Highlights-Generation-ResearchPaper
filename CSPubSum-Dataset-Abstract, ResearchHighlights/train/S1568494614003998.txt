@@ -1,0 +1,7 @@
+ Using benchmark problems to demonstrate and compare novel methods to the work of others could be more widely adopted by the Soft Computing community. This article contains a collection of several benchmark problems in nonlinear control and system identification, which are presented in a standardized format. Each problem is augmented by examples where it has been adopted for comparison. The selected examples range from component to plant level problems and originate mainly from the areas of mechatronics/drives and process systems. The authors hope that this overview contributes to a better adoption of benchmarking in method development, test and demonstration.
+
+@highlight Collection of 13 benchmark problems described in detail in standardized way.
+@highlight General assessment criteria as well as problem-specific tests specified.
+@highlight Benchmarks span from simple artificial systems to complex entire industrial plants.
+@highlight Many domains covered incl. drives, mechatronics, chemical plants, wind turbines.
+@highlight Examples of use in Soft Computing community are provided for each problem.

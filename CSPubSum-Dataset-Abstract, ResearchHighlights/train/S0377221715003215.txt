@@ -1,0 +1,6 @@
+ Network operation and rehabilitation are major concerns for water utilities due to their impact on providing a reliable and efficient service. Solving the optimization problems that arise in water networks is challenging mainly due to the nonlinearities inherent in the physics and the often binary nature of decisions. In this paper, we consider the operational problem of pump scheduling and the design problem of leaky pipe replacement. New approaches for these problems based on simulation-optimization are proposed as solution methodologies. For the pump scheduling problem, a novel decomposition technique uses solutions from a simulation-based sub-problem to guide the search. For the leaky pipe replacement problem a knapsack-based heuristic is applied. The proposed solution algorithms are tested and detailed results for two networks from the literature are provided.
+
+@highlight We propose new approaches for water pump scheduling and pipe replacement problems.
+@highlight Optimization models are developed for both problems.
+@highlight EPANET simulator is used to enforce hydraulic feasibility.
+@highlight Numerical testing is conducted on two real water networks.

@@ -1,0 +1,7 @@
+ Feature weighting has been an important topic in classification learning algorithms. In this paper, we propose a new paradigm of assigning weights in classification learning, called value weighting method. While the current weighting methods assign a weight to each feature, we assign a different weight to the values of each feature. The proposed method is implemented in the context of naive Bayesian learning, and optimal weights of feature values are calculated using a gradient approach. The performance of naive Bayes learning with value weighting method is compared with that of other state-of-the-art methods for a number of datasets. The experimental results show that the value weighting method could improve the performance of naive Bayes significantly.
+
+@highlight Propose a new weighting method in the context of naive Bayes classification learning.
+@highlight Assign different weights for each feature value.
+@highlight A gradient approach for automatically calculating the weights of each feature value.
+@highlight Its performance is compared with that of other state-of-the-art methods.
+@highlight Experiments show the method could improve the performance of naive Bayes.

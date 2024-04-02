@@ -1,0 +1,6 @@
+ Background We sought to evaluate a new regional segmentation method for use with three-dimensional (3D) non-contrast abdominal CT images and to report the preliminary results. Methods The proposed method was evaluated in ten cases. Manually segmented areas were used as the gold standard for evaluation. To compare the standard and the extracted liver regions, the degree of coincidence R% was redefined by transforming a volumetric overlap error. We also evaluated the influence of varying the density window size in terms of setting the starting points. Results We confirmed in ten cases that our method could segment the liver region more precisely than the conventional method. A size of window 15 voxels was optimal as the starting point in all cases. Conclusions We demonstrated the accuracy of a 3D semiautomatic liver segmentation method for non-contrast CT. This method promises to offer radiologists a time-efficient segmentation aid.
+
+@highlight Liver segmentation for non-contrast CT would aid in diagnosis of disease/lesions.
+@highlight We evaluate the method against a hand-drawn standard in ten cases.
+@highlight We confirmed that our method was precise.
+@highlight Our method potentially offers radiologists a time-efficient segmentation aid.

@@ -1,0 +1,7 @@
+ Classification of electrocardiographic (ECG) signals can be deteriorated by the presence in the training set of mislabeled samples. To alleviate this issue we propose a new approach that aims at assisting the human user (cardiologist) in his/her work of labeling by removing in an automatic way the training samples with potential mislabeling problems. The proposed method is based on a genetic optimization process, in which each chromosome represents a candidate solution for validating/invalidating the training samples. Moreover, the optimization process consists of optimizing jointly two different criteria, which are the maximization of the statistical separability among classes and the minimization of the number of invalidated samples. Experimental results obtained on real ECG signals extracted from the MIT-BIH arrhythmia database confirm the effectiveness of the proposed solution.
+
+@highlight We propose a method for mitigating label noise issue in ECG signal classification.
+@highlight It is based on a completely automatic genetic optimization process.
+@highlight Statistical separability and number of invalidated samples are considered.
+@highlight Experiments are conducted on real signals from the MIT-BIH arrhythmia database.
+@highlight Improvements in terms of classification accuracy are demonstrated.

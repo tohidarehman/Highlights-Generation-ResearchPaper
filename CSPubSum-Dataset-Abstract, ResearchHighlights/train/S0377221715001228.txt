@@ -1,0 +1,7 @@
+ We consider the economic lot-sizing problem with perishable items (ELS-PI), where each item has a deterministic expiration date. Although all items in stock are equivalent regardless of procurement or expiration date, we allow for an allocation mechanism that defines an order in which the items are allocated to the consumers. In particular, we consider the following allocation mechanisms: First Expiration, First Out (FEFO), Last Expiration, First Out (LEFO), First In, First Out (FIFO) and Last In, First Out (LIFO). We show that the ELS-PI can be solved in polynomial time under all four allocation mechanisms in case of no procurement capacities. This result still holds in case of time-invariant procurement capacities under the FIFO and LEFO allocation mechanisms, but the problem becomes NP -hard under the FEFO and LIFO allocation mechanisms.
+
+@highlight Introduction of an ELS model accounting for perishability (ELS-PI).
+@highlight Analysis of ELS-PI under FEFO, LEFO, LIFO, FIFO consumption orders.
+@highlight Uncapacitated ELS-PI is polynomially solved under FEFO, LEFO, LIFO, FIFO.
+@highlight With constant production capacities ELS-PI is NP-hard under LIFO, FEFO.
+@highlight With constant production capacities ELS-PI is polynomially solved under FIFO, LEFO.

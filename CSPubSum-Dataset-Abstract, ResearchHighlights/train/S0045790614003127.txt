@@ -1,0 +1,6 @@
+ A memory efficient field programmable gate array (FPGA) method is described that facilitates the processing of the continuous wavelet transform (CWT) arithmetic operations. The CWT computations were performed in Fourier space and implemented on FPGA following several optimization schemes. First, the adapted wavelet function was stored in a lookup table instead of computing the equation each time. Second, the utilization of FPGA memory was highly optimized by only storing the nonzero values of the wavelet function. This reduces 89% of the memory storage and allows fitting the entire design into the FPGA. Third, the design decreases the number of multiplications and shortens the time to produce the CWT coefficients. The proposed design was tested using EEG data and demonstrated to be suitable for extracting features from the event related potentials. Fourth, wavelet function scales were eliminated which saves further resources. The achieved computation speed allows for real time CWT application.
+
+@highlight We design highly optimized architecture for continuous wavelet transform in FPGA.
+@highlight Lookup tables are highly recommended in case of implementing complex algorithms.
+@highlight Zero-free wavelet function and scale reduction save extensive amount of block RAM.
+@highlight Spartan 3AN FPGA device is suitable for real time EEG analysis with the CWT.

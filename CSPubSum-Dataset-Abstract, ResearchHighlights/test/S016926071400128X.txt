@@ -1,0 +1,5 @@
+ Keratoconus (KC) is the most common type of corneal ectasia. A corneal transplantation was the treatment of choice until the last decade. However, intra-corneal ring implantation has become more and more common, and it is commonly used to treat KC thus avoiding a corneal transplantation. This work proposes a new approach based on Machine Learning to predict the vision gain of KC patients after ring implantation. That vision gain is assessed by means of the corneal curvature and the astigmatism. Different models were proposed; the best results were achieved by an artificial neural network based on the Multilayer Perceptron. The error provided by the best model was 0.97D of corneal curvature and 0.93D of astigmatism.
+
+@highlight Optimization of corneal ring implantation using Machine Learning techniques.
+@highlight Prediction of astigmatism and corneal curvature improvement in patients with keratoconus after ring implantation by means Machine Learning techniques.
+@highlight Finding out the most relevant features for a successful ring implantation.

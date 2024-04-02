@@ -1,0 +1,6 @@
+ Large corporations fund their capital and operational expenses by issuing bonds with a variety of indexations, denominations, maturities and amortization schedules. We propose a multistage linear stochastic programming model that optimizes bond issuance by minimizing the mean funding cost while keeping leverage under control and insolvency risk at an acceptable level. The funding requirements are determined by a fixed investment schedule with uncertain cash flows. Candidate bonds are described in a detailed and realistic manner. A specific scenario tree structure guarantees computational tractability even for long horizon problems. Based on a simplified example, we present a sensitivity analysis of the first stage solution and the stochastic efficient frontier of the mean-risk trade-off. A realistic exercise stresses the importance of controlling leverage. Based on the proposed model, a financial planning tool has been implemented and deployed for Brazilian oil company Petrobras.
+
+@highlight Our model was implemented in practice by Petrobras to solve a realworld problem.
+@highlight Corporate debt management SP model to handle multiplicity of bond characteristics.
+@highlight Multi-criteria objective function: cost, risk and financial performances.
+@highlight We assume an approximated information structure due to the dimensionality curse.

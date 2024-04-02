@@ -1,0 +1,7 @@
+ This paper presents a backward state reduction dynamic programming algorithm for generating the exact Pareto frontier for the bi-objective integer knapsack problem. The algorithm is developed addressing a reduced problem built after applying variable fixing techniques based on the core concept. First, an approximate core is obtained by eliminating dominated items. Second, the items included in the approximate core are subject to the reduction of the upper bounds by applying a set of weighted-sum functions associated with the efficient extreme solutions of the linear relaxation of the multi-objective integer knapsack problem. Third, the items are classified according to the values of their upper bounds; items with zero upper bounds can be eliminated. Finally, the remaining items are used to form a mixed network with different upper bounds. The numerical results obtained from different types of bi-objective instances show the effectiveness of the mixed network and associated dynamic programming algorithm.
+
+@highlight Introduce size reduction and upper bound reduction based on the core concept.
+@highlight Construct the mixed network consisting of items with different upper bounds.
+@highlight Develop an efficient dynamic programming algorithm based on the mixed network.
+@highlight Conduct the time complexity analysis for the reduction procedures.
+@highlight Conduct the time and space analysis for the developed algorithm.

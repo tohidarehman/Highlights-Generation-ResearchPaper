@@ -1,0 +1,7 @@
+ We introduce a new framework for the development of hybrid stress finite elements for two-dimensional linear elasticity. A family of arbitrarily shaped elements is derived which takes advantage of the special structure of this framework. The key feature is to explicitly approximate, in the parent domain, either the second Piola–Kirchhoff, the first Piola–Kirchhoff, or the Cauchy stresses, and to enforce the divergence-free condition in the physical domain using their corresponding first Piola–Kirchhoff projections. The introduced finite elements may have arbitrary curved edges, and internally satisfy in strong form the equilibrium differential equations. Furthermore, under certain conditions, the new elements may lead to statically admissible stress distributions, by also verifying equilibrium of tractions on the element boundaries. Feasibility and effectiveness of the proposed elements are numerically verified through several benchmark tests.
+
+@highlight We introduce a new framework for the development of hybrid stress finite elements for linear elasticity.
+@highlight The introduced framework relies on a Piola–Kirchhoff transformation.
+@highlight A new family of finite elements is derived taking advantage of the special structure of this framework.
+@highlight The proposed finite elements may have arbitrarily curved edges.
+@highlight The introduced finite elements satisfy in strong form the equilibrium differential equations.

@@ -1,0 +1,7 @@
+ This paper presents techniques for GPS based autonomous navigation of heavy vehicles at high speed. The control system has two main functions: vehicle position estimation and generation of the steering commands for the vehicle to follow a given path autonomously. Position estimation is based on fusion of measurements from a carrier-phase differential GPS system and odometric sensors using fuzzy logic. A Takagi–Sugeno fuzzy controller is used for steering commands generation, to cope with different road geometry and vehicle velocity. The presented system has been implemented in a 13tons truck, and fully tested in very demanding conditions, i.e. high velocity and large curvature variations in paved and unpaved roads.
+
+@highlight The paper presents techniques for autonomous path tracking of heavy vehicles at high speeds.
+@highlight Vehicle state estimation is based on fuzzy logic, and a Takagi–Sugeno type controller is used for vehicle lateral control.
+@highlight The paper describes the real implementation and testing of the controllers in a real truck.
+@highlight The implementation of high speed robot controllers for heavy vehicles is more difficult in practice than for small mobile robots.
+@highlight The paper also describes experiments with the soft controller at high speeds, up to 100km/h.

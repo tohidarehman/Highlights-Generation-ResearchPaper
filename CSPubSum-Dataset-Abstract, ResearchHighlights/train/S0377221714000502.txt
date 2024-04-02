@@ -1,0 +1,6 @@
+ The line-cell (or line-seru) conversion is an innovation of assembly system applied widely in the electronics industry. Its essence is tearing out an assembly line and adopting a mini-assembly unit, called seru (or Japanese style assembly cell). In this paper, we develop a multi-objective optimization model to investigate two line-cell conversion performances: the total throughput time (TTPT) and the total labor hours (TLH). We analyze the bi-objective model to find out its mathematical characteristics such as solution space, combinatorial complexity and non-convex properties, and others. Owing to the difficulties of the model, a non-dominated sorting genetic algorithm that can solve large size problems in a reasonable time is developed. To verify the reliability of the algorithm, solutions are compared with those obtained from the enumeration method. We find that the proposed genetic algorithm is useful and can get reliable solutions in most cases.
+
+@highlight Develop a bi-objective model to investigate two line-cell conversion performances.
+@highlight Clarify its solution space and combinatorial complexity.
+@highlight Prove it is NP-hard and the Pareto-optimal front is non-convex.
+@highlight Propose a NSGA-II based algorithm to solve the bi-objective model.

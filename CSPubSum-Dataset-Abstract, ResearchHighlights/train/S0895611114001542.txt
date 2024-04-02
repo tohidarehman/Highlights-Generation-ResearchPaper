@@ -1,0 +1,7 @@
+ We address the problem of subclassification of rare circulating cells using data driven feature selection from images of candidate circulating tumor cells from patients diagnosed with breast, prostate, or lung cancer. We determine a set of low level features which can differentiate among candidate cell types. We have implemented an image representation based on concentric Fourier rings (FRDs) which allow us to exploit size variations and morphological differences among cells while being rotationally invariant. We discuss potential clinical use in the context of treatment monitoring for cancer patients with metastatic disease.
+
+@highlight Data driven feature selection from a circulating tumor cell data set.
+@highlight Features can be used to classify cells with high accuracy.
+@highlight Features characterize differentiating cell structure.
+@highlight Methodology objectively quantifies quality of cell classification.
+@highlight Preliminary step for computer aided diagnostics.

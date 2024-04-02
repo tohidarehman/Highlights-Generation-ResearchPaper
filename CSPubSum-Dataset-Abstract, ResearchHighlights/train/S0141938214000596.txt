@@ -1,0 +1,7 @@
+ A novel MEMS display device comprising a light separator and MEMS light shutters is introduced. This device is operable both in transmissive mode using internal light source and in reflective mode using external sun light. In transmissive mode, the light separator directs internal backlight illuminated on its incident surface into a plural of small openings (grooves) on the viewing surface. The MEMS light shutters are used to control the color and intensity of light at individual pixels. Internal light utilization efficiency of this display is the greatest compared to any other transmissive displays. The device is capable of having true black background, hence a very high contrast ratio. In reflective mode, MEMS shutters direct part of the sun light for image display. MEMS shutters have fast response time, making the new device suitable for vivid motion picture display, and operable at very low voltages, suitable for mobile device applications.
+
+@highlight A new type of MEMS display that is operable at very low voltage is introduced.
+@highlight Its internal back light is directed to exit grooves and controlled by MEMS shutters.
+@highlight A large surface area for building MEMS devices and for electrostatic interaction.
+@highlight True black background, high contrast ratio and high light utilization efficiency.
+@highlight It is also operable in reflective mode using external light, e.g., bright sunlight.

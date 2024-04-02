@@ -1,0 +1,6 @@
+ De-identification is a shared task of the 2014 i2b2/UTHealth challenge. The purpose of this task is to remove protected health information (PHI) from medical records. In this paper, we propose a novel de-identifier, WI-deId, based on conditional random fields (CRFs). A preprocessing module, which tokenizes the medical records using regular expressions and an off-the-shelf tokenizer, is introduced, and three groups of features are extracted to train the de-identifier model. The experiment shows that our system is effective in the de-identification of medical records, achieving a micro-F1 of 0.9232 at the i2b2 strict entity evaluation level.
+
+@highlight The method used in our work is completely machine-learning-based.
+@highlight Pattern-matching techniques are used in the preprocessing module.
+@highlight Three groups of features are extracted to train the de-identifier model.
+@highlight Missing errors are the main component of the errors in system output.

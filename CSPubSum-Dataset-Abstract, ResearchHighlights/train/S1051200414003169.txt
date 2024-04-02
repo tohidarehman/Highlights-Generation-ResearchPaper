@@ -1,0 +1,5 @@
+ A recently reported Lyapunov based criterion ( ) for the asymptotic stability of two-dimensional (2-D) linear discrete systems described by the Fornasini–Marchesini second local state-space (FMSLSS) model is reviewed. It is established in this paper that, despite utilizing a more general Lyapunov matrix, Singh's criterion will never lead to an enhanced stability region in the parameter-space as compared to that obtainable via Hinamoto–Lu's criterion.
+
+@highlight A recent criterion due to Singh for stability of 2-D FMSLSS model is reviewed.
+@highlight Singh's criterion is shown to be equivalent to Hinamoto–Lu's criterion.
+@highlight Singh's criterion fails to provide an enhanced stability region.

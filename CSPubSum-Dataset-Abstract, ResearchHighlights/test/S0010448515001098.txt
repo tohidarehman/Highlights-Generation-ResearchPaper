@@ -1,0 +1,6 @@
+ Various geometric operators have been playing an important role in surface processing. For example, many shape analysis algorithms have been developed based on eigenfunctions of the ​Laplace–Beltrami operator (LBO), which is defined based on the first fundamental form of the surface. In this paper, we introduce two new geometric operators based on the second fundamental form of the surface, namely the secondary Laplace operator (SLO) and generalized Giaquinta–Hildebrandt operator (GGHO). Surface features such as concave creases/regions and convex ridges can be captured by eigenfunctions of the SLO, which can be used in surface segmentation with concave and convex features detected. Moreover, a new geometric flow method is developed based on the GGHO, providing an effective tool for sharp feature-preserving surface smoothing.
+
+@highlight Two new geometric operators are introduced based on the second fundamental form.
+@highlight The new operators, SLO and GGHO, are sensitive to the curvature-related features.
+@highlight A segmentation method is introduced based on the SLO eigenfunctions.
+@highlight A geometric flow method is developed based on the GGHO for surface smoothing.

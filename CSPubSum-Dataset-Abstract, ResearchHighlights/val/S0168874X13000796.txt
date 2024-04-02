@@ -1,0 +1,5 @@
+ A continuum finite element model for the nanoscale plates considering the surface effect of the material is developed. Governing equations for Kirchoff and Mindlin nanoplates are derived by using the Galerkin finite element technique. The model is verified by comparing the results with available analytical solutions. The results indicate that, depending on the boundary conditions, the deflections and frequencies of the plate have a dramatic dependence on the residual surface stress and surface elasticity of the plates. The present model is an efficient tool for the analysis of the static and dynamic mechanical behaviors of nanoscale plates with complex geometry, boundary and loading conditions and material properties.
+
+@highlight A continuum finite element model for the bending and vibration behaviors of nanoscale plates is developed.
+@highlight Effects of residual surface stress and surface elasticity are included in the model.
+@highlight The model is an efficient tool for the analysis and design of nanoscale plate devices.

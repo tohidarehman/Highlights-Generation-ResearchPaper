@@ -1,0 +1,7 @@
+ We demonstrate how the problem of determining the ask price for electricity swing options can be considered as a stochastic bilevel program with asymmetric information. Unlike as for financial options, there is no way for basing the pricing method on no-arbitrage arguments. Two main situations are analyzed: if the seller has strong market power he/she might be able to maximize his/her utility, while in fully competitive situations he/she will just look for a price which makes profit and has acceptable risk. In both cases the seller has to consider the decision problem of a potential buyer – the valuation problem of determining a fair value for a specific option contract – and anticipate the buyer’s optimal reaction to any proposed strike price. We also discuss some methods for finding numerical solutions of stochastic bilevel problems with a special emphasis on using duality gap penalizations.
+
+@highlight We review swing option pricing in the context of stochastic bilevel programs.
+@highlight Several to date modeling and algorithmic approaches are discussed.
+@highlight We treat a penalty method for stochastic multistage bilevel problems in detail.
+@highlight We demonstrate the complexity on a real world problem.
+@highlight The bargaining between a potential seller and a buyer is illustrated.

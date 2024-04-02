@@ -1,0 +1,6 @@
+ We present an efficient adaptive refinement procedure that preserves analysis-suitability of the T-mesh, that is, the linear independence of the T-spline blending functions. We prove analysis-suitability of the overlays and boundedness of their cardinalities, nestedness of the generated T-spline spaces, and linear computational complexity of the refinement procedure in terms of the number of marked and generated mesh elements.
+
+@highlight We present a new algorithm for the adaptive refinement of T-meshes.
+@highlight The algorithm preserves Analysis-Suitability and produces nested T-spline spaces.
+@highlight Any two generated meshes have an analysis-suitable overlay.
+@highlight We prove linear complexity of the refinement algorithm.

@@ -1,0 +1,5 @@
+ In this paper, we consider the online strip packing problem, in which a list of online rectangles has to be packed without overlap or rotation into a strip of width 1 and infinite length so as to minimize the required height of the packing. We derive a new improved lower bound of 2.618 for the competitive ratio for this problem. This result improves the best known lower bound of 2.589.
+
+@highlight We derive a new improved lower bound of 2.618 for the competitive ratio for the online strip packing.
+@highlight This result improves the best known lower bound of 2.589.
+@highlight We also show that 2.618 is the best lower bound which can be obtained by our adversary sequences.

@@ -1,0 +1,5 @@
+ In this paper, we compose six different Python and Prolog VMs into 4 pairwise compositions: one using C interpreters, one running on the JVM, one using meta-tracing interpreters, and one using a C interpreter and a meta-tracing interpreter. We show that programs that cross the language barrier frequently execute faster in a meta-tracing composition, and that meta-tracing imposes a significantly lower overhead on composed programs relative to mono-language programs.
+
+@highlight We present a viable Python/Prolog composition and show four different implementations each using a different composition style.
+@highlight We present the first experiment designed to help understand the effects of different composition styles upon performance.
+@highlight We thoroughly analyse and discuss the results of the experiment, breaking down the impact that each composition style has on performance.

@@ -1,0 +1,5 @@
+ Customization is assumed to reduce error and increase user acceptance in the human–machine relation. Reconfiguration gives the operator the option to customize a user interface according to his or her own preferences. An experimental study with 72 computer science students using a simulated process control task was conducted. The reconfiguration group (RG) interactively reconfigured their user interfaces and used the reconfigured user interface in the subsequent test whereas the control group (CG) used a default user interface. Results showed significantly lower error rates and higher acceptance of the RG compared to the CG while there were no significant differences between the groups regarding situation awareness and mental workload. Reconfiguration seems to be promising and therefore warrants further exploration.
+
+@highlight Reconfiguration allows customizing a user interface according to own preferences.
+@highlight Reconfiguration reduced error rates and enhanced user acceptance.
+@highlight Promising approach that warrants further exploration.

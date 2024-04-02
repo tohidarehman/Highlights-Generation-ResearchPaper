@@ -1,0 +1,6 @@
+ We propose a novel approach to synthesizing images that are effective for training object detectors. Starting from a small set of real images, our algorithm estimates the rendering parameters required to synthesize similar images given a coarse 3D model of the target object. These parameters can then be reused to generate an unlimited number of training images of the object of interest in arbitrary 3D poses, which can then be used to increase classification performances. A key insight of our approach is that the synthetically generated images should be similar to real images, not in terms of image quality, but rather in terms of features used during the detector training. We show in the context of drone, plane, and car detection that using such synthetically generated images yields significantly better performances than simply perturbing real images or even synthesizing images in such way that they look very realistic, as is often done when only limited amounts of training data are available.
+
+@highlight We propose a novel approach to generating synthetic training data.
+@highlight We introduce detector-specific similarity measures between real and synthetic images.
+@highlight We show that the choice of the similarity measure relies on the features used by the detector.
+@highlight We have tested our approach on different object detection tasks.

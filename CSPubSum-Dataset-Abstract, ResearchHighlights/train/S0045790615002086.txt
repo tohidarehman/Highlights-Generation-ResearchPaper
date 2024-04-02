@@ -1,0 +1,5 @@
+ Power efficiency is a crucial issue for embedded systems, and effective power profiling and prediction tools are in high demand. This paper presents a cloud-based power profiling (CPP) tool for recording system calls and their associated parameters to predict hardware power consumption when running target applications. Based on hardware power consumption and system profiling from the operating system (OS) kernel, the proposed network model can effectively summarize running behavior of the target applications and the relationship among system calls. This model is also used to develop an energy efficient cluster scheduling for user-inactive processes to reduce the power consumption and extend the service time of embedded systems. These profiling data can be integrated into a cloud model to be maintained by software designers or OS developers to accommodate power estimation and scheduling data for a variety of platforms.
+
+@highlight We predict power consumption of embedded systems to extend their service time.
+@highlight A cloud model is proposed.
+@highlight A power-aware scheduling organizes system calls into DAGs.

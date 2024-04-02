@@ -1,0 +1,7 @@
+ The effort of carrying additional mass at different body locations is important in ergonomics and in designing wearable robotics. We investigate the metabolic rate of carrying a load as a function of its mass, its location on the body and the subject’s walking speed. Novel metabolic rate prediction equations for walking while carrying loads at the ankle, knees and back were developed based on experiments where subjects walked on a treadmill at 4, 5 or 6 km/h bearing different amounts of added mass (up to 2 kg per leg and 22 kg for back). Compared to previously reported equations, ours are 7–69% more accurate. Results also show that relative cost for carrying a mass at a distal versus a proximal location changes with speed and mass. Contrary to mass carried on the back, mass attached to the leg cannot be modeled as an increase in body mass.
+
+@highlight We study metabolic rate required to carry a mass at ankle, knee and back.
+@highlight Equations for determining the metabolic rate of carrying mass at ankle, knee, back.
+@highlight Compared to previously reported equations, ours were 7% to 69% more accurate.
+@highlight Metabolic rate for mass at a distal location is higher than at a proximal location.
+@highlight Unlike on the back, leg mass cannot be modeled as an increase in body mass.

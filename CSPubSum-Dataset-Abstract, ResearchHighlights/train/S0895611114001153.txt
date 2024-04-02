@@ -1,0 +1,6 @@
+ In this paper we report how thickness and density vary over the calvarium region of a collection of human skulls. Most previous reports involved a limited number of skulls, with a limited number of measurement sites per skull, so data in the literature are sparse. We collected computer tomography (CT) scans of 51 ex vivo human calvaria, and analyzed these in silico using over 2000 measurement sites per skull. Thickness and density were calculated at these sites, for the three skull layers separately and combined, and were mapped parametrically onto the skull surfaces to examine the spatial variations per skull. These were found to be highly variable, and unique descriptors of the individual skulls. Of the three skull layers, the thickness of the inner cortical layer was found to be the most variable, while the least variable was the outer cortical density.
+
+@highlight Density and thickness vary widely over the surface of individual skulls and also over a population of skulls.
+@highlight The spatial distribution of thickness and density appears to form a unique pattern for each skull.
+@highlight Of the three skull layers the diploë has the highest effect on overall thickness and density.
+@highlight Parametric mapping of the anatomical measurements provides insight to the uniqueness of individual skulls.

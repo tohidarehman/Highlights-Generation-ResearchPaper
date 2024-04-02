@@ -1,0 +1,5 @@
+ Tuberculosis continues to plague the world with the World Health Organization estimating that about one third of the world's population is infected. Due to the emergence of MDR and XDR strains of TB, the need for novel therapeutics has become increasing urgent. Herein we report the results of a virtual screen of 4.1 million compounds against a promising drug target, DrpE1. The virtual compounds were obtained from the Zinc docking site and screened using the molecular docking program, AutoDock Vina. The computational hits have led to the identification of several promising lead compounds.
+
+@highlight A large-scale (4 million compounds) virtual screen of an essential M. tb protein.
+@highlight The identification of promising lead compounds for the anti-tuberculosis compounds.
+@highlight Analysis of predicted binding affinity and empirical screening.

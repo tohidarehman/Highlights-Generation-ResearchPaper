@@ -1,0 +1,6 @@
+ In this paper, we present an optimization framework for automating the shape customization of human-centric products, which can be mounted on or embedded in human body (such as exoskeletal devices and implants). This kind of products needs to be customized to fit the body shapes of users. At present, the design customization for freeform objects is often taken in an interactive manner that is inefficient. We investigate a method to automate the procedure of customization. Major difficulty in solving this problem is caused by the not freely changed shape of components. They should be selected from a series of standardized shapes. Different from the existing approaches that allow fabricating all components by customized production, we develop a new method to generate customized products by using as-many-as-possible standardized components. Our work is based on a mixed-integer shape optimization framework.
+
+@highlight A mixed-integer shape optimization framework.
+@highlight The ability of design transfer with standardized components.
+@highlight An approach using standardized components in the customization of freeform objects.
+@highlight Design automation of customized products for fitting human bodies.

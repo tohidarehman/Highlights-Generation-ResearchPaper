@@ -1,0 +1,6 @@
+ This paper presents an analysis of a mobile manipulator movement executing a pick-up task. The robot has to reach a target point with its end-effector. The configuration of the manipulator and the pose of the mobile robot define the inputs of the problem. The random profile approach is applied to deal with the aforementioned issue. The trajectory which minimizes the execution time of the task is generated. Furthermore, the manipulability index is introduced in the optimization process in order to allow a comfortable configuration of the manipulator to reach the target-point. The obtained results in free and cluttered environments are presented and discussed. The feasibility of the computed trajectories is also validated against experimentation, in the case of the RobuTER mobile robot carrying the Ultra-Light Manipulator.
+
+@highlight Reaching Target-point by the end-effector of a mobile manipulator.
+@highlight The optimized trajectory, minimizing the execution time of the task is generated.
+@highlight Introduction of manipulability index for configuring the manipulator far from singularities.
+@highlight The feasibility of the computed trajectories is validated against experimentation on a real robot.

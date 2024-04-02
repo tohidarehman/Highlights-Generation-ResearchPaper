@@ -1,0 +1,10 @@
+ This paper aims to find a faster method for optimal solutions of Feng et al.’s int –int decision making scheme. We first give theoretical characterizations of optimal decision sets. Then we develop a pruning method which filters out those objects that cannot be elements of any optimal decision sets in the beginning. Experimental results have shown that our method has higher efficiency in computing the optimal solutions of this scheme, particularly when we are processing soft sets with a great quantity of data.
+
+@highlight The int
+@highlight –int
+@highlight decision making is based on choice value soft sets.
+@highlight Computing choice value soft sets is a heavy load when processing big data.
+@highlight We make characterizations of optimal int
+@highlight –int
+@highlight decision sets.
+@highlight We develop a pruning method without computation of choice value soft sets.

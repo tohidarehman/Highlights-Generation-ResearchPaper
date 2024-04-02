@@ -1,0 +1,6 @@
+ In this article we investigate the job Sequencing and tool Switching Problem (SSP), a NP -hard combinatorial optimization problem arising from computer and manufacturing systems., Crama et al.  and Laporte et al. , we develop new integer linear programming formulations for the problem that are provably better than the alternative ones currently described in the literature. Computational experiments show that the lower bounds obtained by the linear relaxation of the considered formulations improve, on average, upon those currently described in the literature and suggest, at the same time, new directions for the development of future exact solution approaches.
+
+@highlight We study the job Sequencing and tool Switching Problem, arising in computer systems.
+@highlight We study the polyhedral combinatorics of the problem.
+@highlight We develop new integer linear programming formulations for the problem.
+@highlight We show that the formulations are provably better than the current state-of-the-art.

@@ -1,0 +1,7 @@
+ Discrete event simulation (DES) studies in healthcare are thought to benefit from stakeholder participation during the study lifecycle. This paper reports on a multi-methodology framework, called PartiSim that is intended to support participative simulation studies. PartiSim combines DES, a traditionally hard OR approach, with soft systems methodology (SSM) in order to incorporate stakeholder involvement in the study lifecycle. The framework consists of a number of prescribed activities and outputs as part of the stages involved in the simulation lifecycle, which include study initiation, finding out about the problem, defining a conceptual model, model coding, experimentation and implementation. In PartiSim four of these stages involve facilitated workshops with a group of stakeholders. We explain the organisation of workshops, the key roles assigned to analysts and stakeholders, and how facilitation is embedded in the framework. We discuss our experience of using the framework, provide guidance on when to use it and conclude with future research directions.
+
+@highlight We propose a framework that supports facilitated discrete-event simulation.
+@highlight The framework includes six stages and five sub-stages, activities and outputs.
+@highlight Four out of six stages involve facilitated workshops with stakeholders.
+@highlight We employ a multi-methodology combining methods from the hard and soft OR paradigm.
+@highlight Workshop organisation, analyst and stakeholder roles and facilitation are explained.

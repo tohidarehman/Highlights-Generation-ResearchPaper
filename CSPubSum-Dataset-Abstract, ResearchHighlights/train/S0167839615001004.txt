@@ -1,0 +1,7 @@
+ The Laplace–Beltrami operator is the foundation of describing geometric partial differential equations, and it also plays an important role in the fields of computational geometry, computer graphics and image processing, such as surface parameterization, shape analysis, matching and interpolation. However, constructing the discretized Laplace–Beltrami operator with convergent property has been an open problem. In this paper we propose a new discretization scheme of the Laplace–Beltrami operator over triangulated surfaces. We prove that our discretization of the Laplace–Beltrami operator converges to the Laplace–Beltrami operator at every point of an arbitrary smooth surface as the size of the triangular mesh over the surface tends to zero. Numerical experiments are conducted, which support the theoretical analysis.
+
+@highlight We construct a localized discrete Laplace–Beltrami operator over triangular mesh.
+@highlight Our algorithm is based on the discretization of the heat kernel defined on the surface.
+@highlight Our discretization scheme is point-wise convergent for arbitrary triangulated surfaces.
+@highlight We propose a method to estimate the parameters involved in the algorithm adaptively.
+@highlight Experimental results shows that our method outperforms other discretization schemes.

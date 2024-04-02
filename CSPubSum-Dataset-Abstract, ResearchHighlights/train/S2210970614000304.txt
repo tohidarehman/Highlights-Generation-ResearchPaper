@@ -1,0 +1,7 @@
+ The evaluation of carrying capacity of complex railway nodes is a typical problem to be faced in metropolitan areas. This paper initially analyzes a few methods (Potthoff methodology, Probabilistic approach and Deutsche Bahn procedure) for the evaluation of carrying capacity of complex railway nodes. The aim of the article is to investigate commonalities and differences among these methods in order to try (even in the continuation of the research) to identify potential margins of improvement or to formulate a new approach to evaluate the use of stations in a synthetic mode, considering the characteristics and the limits of the existing and analyzed models. The results of the theoretical analysis have been validated by means of applications to typical case studies.
+
+@highlight We analyse three synthetic methods for evaluation of capacity of railway nodes.
+@highlight We examine their commonalities and differences to identify margins of improvement.
+@highlight Aim is to propose (even in the continuation of research) a new synthetic approach.
+@highlight Results have been validated with applications to case studies.
+@highlight The three models are similar and they address different facets of station capacity.

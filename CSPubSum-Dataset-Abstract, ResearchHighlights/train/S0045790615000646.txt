@@ -1,0 +1,7 @@
+ This study proposes a novel optical fiber sensor (OFS) network using three-dimensional (3-D) wavelength/time/spatial optical code-division multiple-access (OCDMA) scheme. The proposed 3-D modified quadratic congruence/M-matrix (MQC/M-matrix) coding scheme overcome the restriction of single pulse per row inherent in traditional three-dimensional codes and maintain a high signal-to-noise ratio even when source power is low. The 3-D system is implemented using optical switches (OSW), fiber-Bragg gratings (FBGs), optical splitter and optical combiner. The noises of phase-induced intensity noise (PIIN) and multiple access interference (MAI) in the decoding mechanism can be suppressed by using a spectral spreading scheme and balance-detection in the receivers. By constructing 3-D codes using bipolar pseudorandom (PN) codes rather than unipolar codes provides a significant increase in the maximum permissible number of active sensor nodes.
+
+@highlight The OFS network using 3-D wavelength/time/spatial optical CDMA scheme.
+@highlight OFS have advantages of high bandwidth and resist electromagnetic interference.
+@highlight The 3-D codes by extending modified quadratic congruence and M-matrix codes.
+@highlight Overcoming the restriction of single pulse per row in traditional technology.
+@highlight The noises of PIIN and MAI can be suppressed by balance-detection scheme.

@@ -1,0 +1,5 @@
+ In this paper, we propose a robust principal component analysis (PCA) to overcome the problem that PCA is prone to outliers included in the training set. Different from the other alternatives which commonly replace L 2-norm by other distance measures, the proposed method alleviates the negative effect of outliers using the characteristic of the generalized mean keeping the use of the Euclidean distance. The optimization problem based on the generalized mean is solved by a novel method. We also present a generalized sample mean, which is a generalization of the sample mean, to estimate a robust mean in the presence of outliers. The proposed method shows better or equivalent performance than the conventional PCAs in various problems such as face reconstruction, clustering, and object categorization.
+
+@highlight We propose a robust principal component analysis.
+@highlight The generalized mean is used in the proposed method instead of the arithmetic mean.
+@highlight A novel method is also presented to solve our optimization problem.

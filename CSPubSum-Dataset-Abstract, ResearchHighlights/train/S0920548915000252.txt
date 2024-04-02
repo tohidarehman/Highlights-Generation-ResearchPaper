@@ -1,0 +1,6 @@
+ This paper introduces the design, implementation and evaluation of the CORFU technique to deal with corporate name ambiguities and heterogeneities in the context of public procurement meta-data. This technique is applied to the “PublicSpending.net” initiative to show how the unification of corporate names is the cornerstone to provide a visualization service that can serve policy-makers to detect and prevent upcoming necessities. Furthermore, a research study to evaluate the precision, recall and robustness of the proposed technique is conducted using more than 40 million of names extracted from public procurement datasets (Australia, United States and United Kingdom) and the CrocTail project.
+
+@highlight We outline the problem and necessity of unifying corporate names in public procurement meta-data.
+@highlight We design and implement a stepwise method, CORFU, to unify corporate names using NLP techniques.
+@highlight We present the Public Spending initiative as a client of the CORFU technique.
+@highlight We evaluate the precision, recall and robustness of the CORFU technique using datasets of corporate names coming from Australia, United States, United Kingdom and the CrocTail project.

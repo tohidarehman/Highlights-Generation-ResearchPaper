@@ -1,0 +1,6 @@
+ Object segmentation of unknown objects with arbitrary shape in cluttered scenes is an ambitious goal in computer vision and became a great impulse with the introduction of cheap and powerful RGB-D sensors. We introduce a framework for segmenting RGB-D images where data is processed in a hierarchical fashion. After pre-clustering on pixel level parametric surface patches are estimated. Different relations between patch-pairs are calculated, which we derive from perceptual grouping principles, and support vector machine classification is employed to learn Perceptual Grouping. Finally, we show that object hypotheses generation with Graph-Cut finds a globally optimal solution and prevents wrong grouping. Our framework is able to segment objects, even if they are stacked or jumbled in cluttered scenes. We also tackle the problem of segmenting objects when they are partially occluded. The work is evaluated on publicly available object segmentation databases and also compared with state-of-the-art work of object segmentation.
+
+@highlight Segmentation of unknown objects in cluttered scenes.
+@highlight Abstraction of raw RGB-D data into parametric surface patches.
+@highlight Learning of perceptual grouping between surfaces with SVMs.
+@highlight Global decision making for segmentation using Grahp-Cut.

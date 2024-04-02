@@ -1,0 +1,6 @@
+ The variable critical speeds and resonances of a geared parallel-rotor system with five shafts effected by changing oil bearing stiffness due to different external loads are investigated in this paper. The rotor system of a modern centrifugal compressor is taken as the research object firstly. A finite element (FE) model of it is established by using rotating beam elements with 6 degrees-of-freedom (DOFs), and linear mesh stiffnesses of the engaged helical gears are involved. The changing stiffness and damping of the oil bearings effected by different loads are calculated based on traditional oil-film fluid formula. Then, the Campbell diagrams of the whole rotor system under different loads on three output shafts are calculated based on the above model. Finally, comparing the obtained critical speeds, the load ranges are revealed to lead possible resonances of the rotor system near the operating speeds.
+
+@highlight A FE model of a geared rotor system in centrifugal compressor is established.
+@highlight Gear mesh and oil bearing are considered in the model.
+@highlight We examine variational vibration due to the increasing external loads.
+@highlight Results reproduced the vibration phenomenon in the start-up process.

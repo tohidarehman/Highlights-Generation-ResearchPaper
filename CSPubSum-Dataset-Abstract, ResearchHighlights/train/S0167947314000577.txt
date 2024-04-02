@@ -1,0 +1,7 @@
+ The latent class model provides an important platform for jointly modeling mixed-mode data—i.e., discrete and continuous data with various parametric distributions. Multiple mixed-mode variables are used to cluster subjects into latent classes. While the mixed-mode latent class analysis is a powerful tool for statisticians, few studies are focused on assessing the contribution of mixed-mode variables in discriminating latent classes. Novel measures are derived for assessing both absolute and relative impacts of mixed-mode variables in latent class analysis. Specifically, the expected posterior gradient and the Kolmogorov variation of the posterior distribution, as well as related properties are studied. Numerical results are presented to illustrate the measures.
+
+@highlight Two measures are proposed for assessing continuous and discrete variables in LCA.
+@highlight Both measures are either in closed form or straightforward to compute.
+@highlight Both measures perform reasonably well compared to existing measures such LRT and
+@highlight st
+@highlight Both absolute and relative interpretations of one measure are possible.

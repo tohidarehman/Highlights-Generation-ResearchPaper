@@ -1,0 +1,7 @@
+ Three-dimensional transition elements are proposed achieve efficient and accurate connections of nonmatching meshes with different resolutions. These elements, termed variable-node elements, allow additional nodes on element faces of conventional hexahedral elements, as well as on element edges. By taking proper polynomial bases and their absolute values that correspond to the additional nodes, compatible trilinear shape functions are systematically derived in master domains of the elements. When one hexahedral element meets many other hexahedral elements at its faces or edges, the variable-node elements enable one-to-many connection of the dissimilar hexahedral elements in a seamless way. The effectiveness of the proposed scheme is demonstrated through numerical examples of local mesh refinement and subdivision modeling involving nonmatching mesh problems.
+
+@highlight A scheme is proposed for 3D mesh connection using variable-node elements (VNEs).
+@highlight Shape functions of the VNEs are derived from point interpolation.
+@highlight The VNEs allow additional nodes on edges and faces of hexahedral elements.
+@highlight The VNEs lead to general one-to-many connection of hexahedral elements.
+@highlight The present scheme is effective for local mesh refinement and subdivision modeling.

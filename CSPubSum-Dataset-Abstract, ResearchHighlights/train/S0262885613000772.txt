@@ -1,0 +1,6 @@
+ This paper presents a novel skeleton pruning approach based on a 2D empirical mode like decomposition (EMD-like). The EMD algorithm can decompose any nonlinear and non-stationary data into a number of intrinsic mode functions (IMFs). When the object contour is decomposed by empirical mode like decomposition (EMD-like), the IMFs of the object provide a workspace with very good properties for obtaining the object's skeleton. The theoretical properties and the performed experiments demonstrate that the obtained skeletons match to hand-labeled skeletons provided by human subjects. Even in the presence of significant noise and shape variations, cuts and tears, the resulted skeletons have the same topology as the original skeletons. In particular, the proposed approach produces no spurious branches as many existing skeleton pruning methods and moreover, does not displace the skeleton points, which are all centers of maximal disks.
+
+@highlight Usage of Ensemble Empirical Mode Decomposition (EEMD) on object skeletonization
+@highlight Modeling of object contour with a 2D EEMD-like procedure
+@highlight The produced IMFs provide a very good and novel workspace for image skeletonization.
+@highlight The proposed method is fully automated and unsupervised.

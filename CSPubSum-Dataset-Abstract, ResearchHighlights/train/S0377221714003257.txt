@@ -1,0 +1,6 @@
+ Generalized characteristic functions extend characteristic functions of ‘classical’ TU-games by assigning a real number to every ordered coalition being a permutation of any subset of the player set. Such generalized characteristic functions can be applied when the earnings or costs of cooperation among a set of players depend on the order in which the players enter a coalition. In the literature,, shortly called NR-value, and the one introduced by Sánchez and Bergantiñ, shortly called SB-value. In this paper, we introduce the axiom of order monotonicity with respect to the order of the players in a unanimity coalition, requiring that players who enter earlier should get not more in the corresponding (ordered) unanimity game than players who enter later. We propose several classes of order monotonic solutions for generalized characteristic functions that contain the NR-value and SB-value as special (extreme) cases. We also provide axiomatizations of these classes.
+
+@highlight We argue against null player and symmetry properties of solutions for games in generalized characteristic function form.
+@highlight We introduce the axiom of order monotonicity with respect to the order of the players in a unanimity coalition.
+@highlight We axiomatize the subclass of geometric solutions.
+@highlight We axiomatize the two extreme solutions from this class.

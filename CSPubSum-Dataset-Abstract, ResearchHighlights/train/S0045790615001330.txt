@@ -1,0 +1,7 @@
+ In this paper, we propose GeoRank, a geographic routing approach for the IPv6-enabled large-scale low-power and lossy networks. We discuss the main drawbacks of the RPL (IPv6 Routing Protocol for Low-Power and Lossy Networks) for P2P (point-to-point) communication in large-scale 6LoWPAN networks. Then, we address such drawbacks by proposing a routing protocol, named GeoRank, which integrates RPL protocol with the position-based routing protocol GOAFR (Greedy Other Adaptive Face Routing). The results obtained with simulations show that GeoRank finds shorter routes than RPL in high link density conditions and than GOAFR in low link density conditions. Thus, GeoRank shows to be adaptive to variable link densities found in large-scale networks. Further, GeoRank avoids the use of DAO (Destination Advertisement Object) control messages required in RPL, while being more scalable in terms of memory usage than storing-mode RPL.
+
+@highlight We combine RPL and GOAFR protocols for IPv6-enabled large-scale wireless networks.
+@highlight Main drawbacks of the RPL protocol for P2P communication are discussed.
+@highlight A routing protocol (GeoRank) is proposed and its scalability is compared to RPL.
+@highlight Simulations were performed on networks extracted from real street maps.
+@highlight GeoRank is adaptive to variable link densities found in large-scale networks.

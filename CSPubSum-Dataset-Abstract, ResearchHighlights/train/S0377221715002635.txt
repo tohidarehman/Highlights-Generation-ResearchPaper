@@ -1,0 +1,7 @@
+ This paper considers a firm that introduces multiple generations of a product to the market at regular intervals. We assume that the firm has only a single production generation in the market at any time. To maximize the total profit within a given planning horizon, the firm needs to decide the optimal frequency to introduce new product generations, taking into account the trade-off between sales revenues and product development costs. We model the sales quantity of each generation as a function of the technical decay and installed base effects. We analytically examine the optimal frequency for introducing new product generations as a function of these parameters.
+
+@highlight We develop our models for product development cost and sales revenues.
+@highlight We explicitly model diffusion dynamics.
+@highlight We provide analytical results for the optimal frequency and parameter impacts.
+@highlight For the extended model, we get a closed-form solution under special condition.
+@highlight We prove the uniqueness of the optimal frequency under general conditions.
