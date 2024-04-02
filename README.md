@@ -6,14 +6,16 @@
 4. The proposed approach combines SciBERT pre-trained word embeddings with a pointer-generator network that also uses a coverage mechanism.
 5. The proposed approach outperforms existing methods on CSPubSum dataset in terms of ROUGH, METEOR , and BERTScore metrics.
 **MixSub Dataset:**
-We propose a new dataset called MixSub that contains research articles from multiple domains.
-To prepare MixSub, we crawled the ScienceDirect website and curated articles published in various journals in year 2020. 
-We removed the articles that did not contain research highlights. 
-Finally, we got 19785 articles with author-written research highlights as shown in Table given below. 
-Each example in this dataset is organized as **(abstract,  author-written research highlights)**.
-We have also segmented the dataset into **training, validation and test** subsets in the ratio of **80:10:10**.
+1. We propose a new dataset called MixSub that contains research articles from multiple domains.
+2. To prepare MixSub, we crawled the ScienceDirect website and curated articles published in various journals in year 2020.
+3. We removed the articles that did not contain research highlights.
+4. Finally, we got 19785 articles with author-written research highlights as shown in Table given below.
+5. Each example in this dataset is organized as **(abstract,  author-written research highlights)**.
+6. We have also segmented the dataset into **training, validation and test** subsets in the ratio of **80:10:10**.
 
 **Subject-wise URL/data contents count in MixSub dataset**
+
+| ----------- | ----------------------------------------------    | ------ | ------ | ---- | ----- |
 | Domain Name | Subject Name                                      | #Total | #Train | #Val | #Test |
 |-------------|---------------------------------------------------|--------|--------|------|-------|
 | Biological  | Agricultural and Biological Sciences              | 2156   | 1726   | 216  | 214   |
@@ -43,17 +45,18 @@ We have also segmented the dataset into **training, validation and test** subset
 |             | Physics and Astronomy                             | 1469   | 1177   | 147  | 145   |
 | ----------- | ----------------------------------------------    | ------ | ------ | ---- | ----- |
 | Social Science | Social Sciences                                | 852    | 654    | 100  | 98    |
+| ----------- | ----------------------------------------------    | ------ | ------ | ---- | ----- |
 
 **CSPubSum Dataset:**
-Conducted crawling and publishing activities to compile the **CSPubSum dataset, comprising 10,147 computer science publications sourced from ScienceDirect**. 
-The URLs for the dataset were extracted based on the work by Collins et al. \cite{collins2017supervised}.
-Each document in the dataset is meticulously structured, featuring essential components such as **abstracts and author-provided research highlights**, ensuring comprehensive coverage and accessibility for researchers and enthusiasts.
-We have also segmented the dataset into **training, validation and test** subsets in the ratio of **80:10:10**.
+1. Conducted crawling and publishing activities to compile the **CSPubSum dataset, comprising 10,147 computer science publications sourced from ScienceDirect**.
+2. The URLs for the dataset were extracted based on the work by Collins et al. \cite{collins2017supervised}.
+3. Each document in the dataset is meticulously structured, featuring essential components such as **abstracts and author-provided research highlights**, ensuring comprehensive coverage and accessibility for researchers and enthusiasts.
+4. We have also segmented the dataset into **training, validation and test** subsets in the ratio of **80:10:10**.
 
 **Our paper is available on [IEEE Xplore](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10172215) and [arXiv](https://arxiv.org/abs/2302.07729).**
 
 **If you find our dataset/method useful, please cite our paper:**
-IEEE Access: Rehman, T., Sanyal, D. K., Chattopadhyay, S., Bhowmick, P. K., & Das, P. P. (2023). "Generation of Highlights From Research Papers Using Pointer-Generator Networks and SciBERT Embeddings." IEEE Access, 11, 91358-91374.
-arXiv: Rehman, T. et al. (2023). "Generation of Highlights from Research Papers Using Pointer-Generator Networks and SciBERT Embeddings." arXiv preprint arXiv:2302.07729."
+1. IEEE Access: Rehman, T., Sanyal, D. K., Chattopadhyay, S., Bhowmick, P. K., & Das, P. P. (2023). "Generation of Highlights From Research Papers Using Pointer-Generator Networks and SciBERT Embeddings." IEEE Access, 11, 91358-91374.
+2. arXiv: Rehman, T. et al. (2023). "Generation of Highlights from Research Papers Using Pointer-Generator Networks and SciBERT Embeddings." arXiv preprint arXiv:2302.07729."
 
 **All rights reserved to the author.**
