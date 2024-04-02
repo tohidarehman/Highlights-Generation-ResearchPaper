@@ -5,6 +5,7 @@
 3. An approach for extracting research highlights from scientific papers is proposed.
 4. The proposed approach combines SciBERT pre-trained word embeddings with a pointer-generator network that also uses a coverage mechanism.
 5. The proposed approach outperforms existing methods on CSPubSum dataset in terms of ROUGH, METEOR , and BERTScore metrics.
+
 **MixSub Dataset:**
 1. We propose a new dataset called MixSub that contains research articles from multiple domains.
 2. To prepare MixSub, we crawled the ScienceDirect website and curated articles published in various journals in year 2020.
