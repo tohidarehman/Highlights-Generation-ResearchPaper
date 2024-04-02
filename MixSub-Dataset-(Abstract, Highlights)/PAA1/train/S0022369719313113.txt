@@ -1,0 +1,14 @@
+ Ab initio calculations based on density functional theory are used to study the structural energetic electronic and magnetic properties of lithium aluminate LiAl
+
+@highlight The properties of lithium aluminate LiAl
+@highlight  spinel doped with Fe and Cr are studied.
+@highlight Exchange and correlation effects are described via the GGA PBEsol and mBJ potential.
+@highlight A Bader analysis shows that the defect charge is 3 for both Fe and Cr.
+@highlight For replacement of Al by Fe Fe
+@highlight has a valence electron configuration of 4s
+@highlight 3d
+@highlight  8c and 12d sites .
+@highlight For replacement of Al by Cr Cr
+@highlight has a valence electron configuration of 4s
+@highlight 3d
+@highlight  8c and 12d sites .

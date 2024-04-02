@@ -1,0 +1,6 @@
+ The goal of this research study is to model user preferences and response times jointly in the context of Mobility on Demand services under different MOD operator pricing schemes information frames and pressure levels . MOD operators information provision delay and vehicle allocation strategies influence users preferences and RTs which in turn affect which operational and information provision strategies are optimal for MOD operators . Evidence shows that preferences and RTs are sensitive to precedent decisions information frames risk and time pressure . These dynamic
+
+@highlight Considers the impact of information update framing effect dynamic decisions and time pressure in ordering a mobility on demand service.
+@highlight Jointly utilizes multi attribute prospect theory diffusion model decision field theory and random utility model.
+@highlight Demonstrates the importance of modeling and analyzing a decision of ordering on demand mobility service as a sequence of sub decisions.
+@highlight The outputs of the behavioral model are the probability of choosing each option and the corresponding response time distribution.

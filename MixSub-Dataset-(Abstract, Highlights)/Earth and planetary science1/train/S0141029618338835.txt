@@ -1,0 +1,6 @@
+ This study is aimed at clarifying the seismic mitigation performance of structures with fluid viscous dampers as a function of the characteristics of the near fault pulse type ground motion and the structural dynamic properties . For this purpose the response spectra and energy response of single degree of freedom structures with FVDs subjected to 20 NP ground motions with different pulse periods
+
+@highlight Seismic responses and energy dissipation distribution of structures are discussed.
+@highlight The seismic performance of SDOF and MDOF structures with dampers is compared.
+@highlight The influence of period ratio on the structures with dampers is presented.
+@highlight Suggestions for improving the performance of structures with dampers are put forward.

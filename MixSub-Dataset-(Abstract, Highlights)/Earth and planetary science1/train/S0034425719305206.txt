@@ -1,0 +1,7 @@
+ Boreal forests constitute a large portion of the global forest area yet they are undersampled through field surveys and only a few remotely sensed data sources provide structural information wall to wall throughout the boreal domain . ArcticDEM is a collection of high resolution space borne stereogrammetric digital surface models covering the entire land area north of 60 of latitude . The free availability of ArcticDEM data offers new possibilities for aboveground biomass mapping across boreal forests and thus it is necessary to evaluate the potential for these data to map AGB over alternative open data sources . This study was performed over the entire land area of Norway north of 60 of latitude and the Norwegian national forest inventory was used as a source of field data composed of accurately geolocated field plots
+
+@highlight NFI data with ArcticDEM and Sentinel 2 used to model above ground biomass.
+@highlight Valuable synergy by combining ArcticDEM and Sentinel 2 data.
+@highlight ArcticDEM variables were more important than Sentinel 2 ones.
+@highlight Sentinel 2 data model was as accurate as ArcticDEM data model.
+@highlight Forest and terrain specific factors influenced the uncertainty and bias in model predictions.

@@ -1,0 +1,5 @@
+ Synchronous observations with similar illumination observation and meteorological conditions are critical components of cross calibration analysis . This study outlines data quality control criteria for obtaining the stable synchronous data needed for developing and evaluating a cross calibration algorithm . With image data from the Visible Infrared Imaging Radiometer and Medium Resolution Spectral Imager II we developed a cross calibration algorithm using 35 image pairs of four ocean gyres and we evaluated the data using 11 image pairs of the global ocean . We found that our new algorithm provided well calibrated MERSI II reflectance at the top of atmosphere . The coefficients of determination
+
+@highlight A new data quality controlling criterion is used to exclude unstable pixels in cross calibration.
+@highlight A cross calibration method has been constructed for improving the imperfect MERSI II radiance.
+@highlight The MERSI II instrument is able to provide the good ocean color products after cross calibration.

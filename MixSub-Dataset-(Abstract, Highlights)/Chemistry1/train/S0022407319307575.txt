@@ -1,0 +1,5 @@
+ When dealing with light scattering theories such as the T matrix methods for structured laser beams e.g . Generalized Lorenz Mie Theory or the Extended Boundary Condition Method EM fields are expanded over a set of Vector Spherical Wave Functions involving spherical Bessel functions with expansion coefficients expressed in terms of Beam Shape Coefficients . Although spherical Bessel functions are orthogonal over the range
+
+@highlight Non orthogonal spherical Bessel functions may be used in the framework of generalized Lorenz Mie theory.
+@highlight This implies the existence of an infinite number of quadratures for evaluating the beam shape coefficients BSCs .
+@highlight This infinite number of quadratures nevertheless implies the uniqueness of BSCs i.e. the uniqueness of the decomposition of EM fields over VSWFs.

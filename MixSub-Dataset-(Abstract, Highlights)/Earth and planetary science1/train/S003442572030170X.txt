@@ -1,0 +1,7 @@
+ The eutrophication of lake and reservoir has attracted concerns from the public and government in China . Water clarity is a reliable indicator for quantifying eutrophic status because of its strong association with chlorophyll a total suspended matter and nutrients . Traditionally water clarity is measured using Secchi disk depth . By linking the spectral signal from water surface with in situ measured SD remote sensing provides a useful tool for SD estimation at a large scale in a repetitive manner . Remote sensing derived water clarity has been reported in many regions with specific models established for different satellite overpasses concurrent with in situ measured SD but national water clarity remained unknown in China . In this study 2152 samples were collected from 34 field campaigns in 20132018 of which 1792 samples were gathered within 7days of Landsat OLI overpasses . We used Landsat 8 OLI bands 14 to develop regression models
+
+@highlight The rhos method was the best of four atmospheric correction methods tested.
+@highlight Model based on red and blue band performed stable for national clarity estimate.
+@highlight Model based on the rhos method demonstrated spatiotemporal transferability.
+@highlight China s water clarity of lake and reservoir area 8ha was mapped nationally.
+@highlight Lake SDD in the TQR and NLR demonstrated the max and min clarity in China.

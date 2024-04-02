@@ -1,0 +1,6 @@
+ Fluid catalytic cracking is one of the most important processes in the renewable energy as well as petrochemical industries . The prediction and understanding of the FCC performance in a real industrial environment is still challenging as this is a highly complex process affected by many extremely non linear and interrelated factors . In this paper a novel hybrid predictive framework for FCC is developed by integrating a data driven deep neural network with a physically meaningful lumped kinetic model powered by orders of magnitude greater number of high quality data from a modem automated FCC process . The results show that the novel hybrid model exhibits best predictions with regards to all the evaluation criteria such as Mean Absolute Percentage Error Pearson coefficient and standard deviation . It indicates that the hybrid data driven deep learning with mechanistic kinetics model creates a better approach for fast prediction and optimization of complex reaction processes such as FCC .
+
+@highlight A hybrid deep learning model for FCC performance is developed.
+@highlight The hybrid model reduces the prediction error by up to 9 .
+@highlight The hybrid model outperformed the DNN model with limited data availability.
+@highlight The hybrid model shows a significantly greater generalization ability.

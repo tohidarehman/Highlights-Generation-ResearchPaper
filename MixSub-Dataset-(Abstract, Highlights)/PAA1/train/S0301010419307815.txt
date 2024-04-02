@@ -1,0 +1,5 @@
+ Coherent spin transport in a DNA molecule has been examined using a first principles calculation . In the calculated model a B form double strand was located between ferromagnetic nickel electrodes and spin transport was calculated under two relative magnetic configurations of electrodes parallel and antiparallel alignments . As a result the molecule was too long to demonstrate an efficient coherent spin transport . Short DNA molecules of ds and ds which were cut out from the Dickerson Drew duplex showed similar results . On the contrary stacking nucleic acids of ds or ds resulted in an efficient coherent spin transport sufficient to cause spin polarization and a certain difference in conductance by varying the magnetic configuration of ferromagnetic electrodes . This result suggested the possibility of tunnel magnetoresistance in the short stacking part of a DNA molecule .
+
+@highlight Spin trasport in Dickerson Drew duplex.
+@highlight Large spin polarization in short stacking part of nucleic acids.
+@highlight A possibility of tunnel magnetoresistance in a short DNA molecule.

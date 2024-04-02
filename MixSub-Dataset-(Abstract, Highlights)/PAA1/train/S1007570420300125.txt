@@ -1,0 +1,7 @@
+ In the previous work the authors have shown how to solve a Lexicographic Multi Objective Linear Programming problem using the Grossone methodology described in . That algorithm called GrossSimplex was a generalization of the well known simplex algorithm able to deal numerically with infinitesimal infinite quantities .
+
+@highlight Lexicographic Multi Objective Mixed Integer Linear Programming problem LMILP is studied.
+@highlight The Grossone methodology using numerical infinities and infinitesimals is applied to LMILP.
+@highlight A Grossone based Branch and Bound in combination with Grossone based simplex is proposed.
+@highlight Theoretical conditions for the correctness of the proposed methodology are established.
+@highlight Experiments show that the new methods are able to solve LMILPs with up to 200 objectives.

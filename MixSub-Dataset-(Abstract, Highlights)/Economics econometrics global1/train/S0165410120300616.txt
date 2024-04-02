@@ -1,0 +1,6 @@
+ Large net loan charge offs are frequently associated with large decreases in nonperforming loans and large increases in loan loss provisions inducing a V shaped relation between loan loss provisions and nonperforming loan changes . Failure to model the asymmetry attributable to net loan charge offs can change inferences about the presence of earnings management and the effects of delayed loan loss recognition in prior papers that assumed linearity . Future researchers should either include net loan charge offs in linear models of loan loss provisions or explicitly model the asymmetry induced by omitting net loan charge offs .
+
+@highlight Banks loan loss provisions have a V shaped relation with changes in nonperforming loans and net loan charge offs contribute to this asymmetry
+@highlight After controlling for net loan charge offs loan loss provisions are more sensitive to nonperforming loan increases than to nonperforming loan decreases
+@highlight Failure to incorporate asymmetry attributable to net charge offs in loan loss provision models yields excessive false rejections against the null of no earnings management in various settings
+@highlight Modeling the asymmetry changes inferences about the effects of delayed loan loss recognition in prior papers that assumed linearity

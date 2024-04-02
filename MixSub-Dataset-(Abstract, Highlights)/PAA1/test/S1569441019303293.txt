@@ -1,0 +1,7 @@
+ The process of aggregation of two colloidal quantum dots in the field of quasiresonant laser radiation is investigated via computer simulation . The cases of either completely deterministic movement of particles or the movement with the account for random forces are considered . The conditions of pair formation are determined in dependence on initial interparticle distance on laser wavelength and on their initial orientation with respect to polarization plane of laser radiation . It is shown that despite velocity of thermal motion dominates over the velocity of directional diffusion of quantum dots the account for random forces weakly influences on the probability of pair formation the latter being close to results obtained in the deterministic case . The reason for this weak influence of Brownian movement is the resonant increase of electrodynamics attraction force during certain time interval within the laser pulse .
+
+@highlight Motion of nanoparticles governed by interaction of laser induced polarizations is simulated.
+@highlight Deterministic case and Brownian motion case are compared.
+@highlight Thermal motion velocity dominates over velocity of directional movement in the realistic conditions of simulation.
+@highlight Despite this the probability of collision and self assembly of particles is weakly influenced by Brownian motion.
+@highlight Explanation for this is the resonant increase of electrodynamic attraction via particles motion.

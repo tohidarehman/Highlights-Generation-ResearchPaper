@@ -1,0 +1,5 @@
+ In this paper we present two methods for deriving the transition matrix of a nonspherical particle in the non local optical response theory which is important for particles of size below about 10nm . The key point in our analysis is the separation of the internal field into a transverse and a longitudinal component . The first method for
+
+@highlight The transition matrix in the non local optical response theory has been derived.
+@highlight The null field equation for the longitudinal field outside the particle was applied.
+@highlight A projection scheme for the additional boundary condition was used for the derivation.

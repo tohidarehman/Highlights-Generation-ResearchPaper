@@ -1,0 +1,7 @@
+ Photonic quasicrystals are of particular interest for waveguiding applications because of their beneficial advantages over conventional photonic crystals such as higher order rotational symmetry and more isotropic Brillouin zone . In this work by use of a 12 fold symmetric photonic quasicrystal lattice and an optofluidic infiltration approach we sought to design a hollow core fiber for telecom C band operation . The simulation results demonstrate a wide flat dispersion range around the zero dispersion wavelength of 1550 nm and an ultralow confinement loss of 2.6 10
+
+@highlight By use of a 12 fold symmetric photonic quasicrystal and optofluidics some hollow core fibers are designed.
+@highlight A wide flat dispersion range around the zero dispersion wavelength of 1550 nm is achieved.
+@highlight The effective mode area is approximately 5.5 m
+@highlight at 1550 nm while it decreases to 2.6 m
+@highlight when the fiber is infiltrated by fluid.

@@ -1,0 +1,7 @@
+ Electric propulsion for commuter air transportation is a promising technology because of significant strides in battery specific energy and motor specific power . Energy storage and rapid battery recharge remain nonetheless challenging owing to the significant energy and power requirements of even small aircraft . By modifying algorithms developed in the field of scheduling theory we propose
+
+@highlight Sizing of battery swap and recharge infrastructure for electric aircraft operations.
+@highlight Machine scheduling implemented using network flow model to schedule recharges.
+@highlight Power optimized strategy to minimize peak power draw and electricity costs.
+@highlight Power investment optimized strategy to minimize capital and operating expenditures.
+@highlight Significant reductions in peak power and electricity prices are obtained.

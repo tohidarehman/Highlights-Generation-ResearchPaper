@@ -1,0 +1,6 @@
+ Starting from the RiemannLiouville derivative many authors have built their own notion of fractional derivative in order to avoid some classical difficulties like a non zero derivative for a constant function or a rather complicated analogue of the Leibniz relation . Discussing in full generality the existence of such operator over continuous functions we derive some obstruction Lemma which can be used to prove the triviality of some operators as long as the linearity and the Leibniz property are preserved . As an application we discuss some properties of the Jumaries fractional derivative as well as the local fractional derivative . We also discuss the chain rule property in the same perspective .
+
+@highlight The Leibniz and chain rule properties are discussed in the light of various extensions of the RiemannLiouvile fractional derivative.
+@highlight We derive the obstruction Lemma and use it to prove the triviality of some fractional operators defined on continuous functions as long as the linearity and the Leibniz property are preserved.
+@highlight We explain that the operator which satisfies the chain rule property and is zero on a constant function needs to be trivial.
+@highlight The Jumaries fractional derivative and the local fractional derivative proposed by Kolwankar and Gangal are discussed as examples.

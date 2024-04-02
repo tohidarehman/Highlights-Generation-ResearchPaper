@@ -1,0 +1,5 @@
+ We investigate throughout this paper the effect of inhomogeneity on the propagation of solitons in ferromagnetic systems governing the magnetization evolution in a magnetic medium . Indeed we focus our attention on a nonlinear evolution equation derived by M. Saravanan and A. Arnaudon 2018 Phys . Lett . A
+
+@highlight An integral modified KdV equation is considered.
+@highlight The KdV equation is solved for the solitons solutions using perturbation technique.
+@highlight The effect of inhomogeneity is studied and show deformed soliton excitation.

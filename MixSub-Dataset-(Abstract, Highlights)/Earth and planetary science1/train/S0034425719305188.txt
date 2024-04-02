@@ -1,0 +1,6 @@
+ The development of metrics derived from LiDAR to quantify structural attributes of forests has contributed to substantial advances in wildlife habitat modeling . However further exploration of the numerous metrics available for quantifying canopy complexity could improve models of forest wildlife habitat while simultaneously increasing understanding of wildlife habitat relationships . We used the full set of metrics available in the LiDAR processing software FUSION including several structural metrics that have not previously been used in published habitat models to identify those that best quantify structural attributes associated with nest site occupancy by the Northern Spotted Owl NSO
+
+@highlight We investigated use of LiDAR metrics to improve habitat models for arboreal species.
+@highlight Maximum canopy height was the single best predictor of use by northern spotted owl.
+@highlight Additional 3D metrics separated structurally complex forest from unsuitable habitat.
+@highlight LiDAR metrics quantify ecologically important habitat features for arboreal species.

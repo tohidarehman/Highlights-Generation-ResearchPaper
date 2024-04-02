@@ -1,0 +1,6 @@
+ The power consumption in stirred tanks is a key parameter to determine the efficiency of a rotating impeller . This parameter is highly related to the viscous forces of the working fluid especially when a complex non Newtonian behavior exhibits . From this basis an attempt is made in this paper to reduce the power requirements of Scaba 6SRGT impellers for stirring viscoplastic fluids in cylindrical unbaffled vessels . For this purpose perforations are created in each blade of the impeller . Effects of the perforation diameter
+
+@highlight Agitation of a viscoplastic fluid by Scaba 6SRGT impellers in a cylindrical tank is investigated.
+@highlight Perforations are introduced in each blade of the impeller in order to reduce power consumption.
+@highlight Effects of the shape of perforations their number and diameters are illustrated.
+@highlight A reduction until 21.6 in power consumption has been obtained by the suggested design.

@@ -1,0 +1,7 @@
+ The performance of an air filtration system is commonly evaluated using laboratory scale studies under optimal but unrealistic experimental conditions . It is therefore important to assess the role of key variables affecting performance from a practical perspective . To this end a series of dynamic adsorption tests were carried out to evaluate the uptake behavior of gaseous benzene by a filter bed system made of a commercial activated carbon in relation to two key variables particle size range 0.212 to 5mm vs. powdered AC 0.6 to 2.36mm and space velocity flow rates 100 to 3000mLmin
+
+@highlight The performance of air purification system made of microporous sorbent system is assessed for VOCs.
+@highlight The shape size and space velocity of such system are the key to control over practical performance.
+@highlight Most lab scale studies suffer from practicality due to confinement to a narrow range of test variables.
+@highlight The main goal of this research is set to practically evaluate the performance of sorbent filter bed system.
+@highlight The results were used to assess the system feasibility w.r.t. space velocity and particle size range.

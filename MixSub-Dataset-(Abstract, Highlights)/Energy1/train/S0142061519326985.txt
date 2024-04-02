@@ -1,0 +1,5 @@
+ As the reliance on natural gas to meet electric generation requirements increases additional operational measures and risks must be considered to better understand the implications of the complex interdependency between the natural gas system and the power system . This paper develops a novel interval optimization framework of contingency constrained unit commitment for integrated energy systems . Uncertainties in contingencies are captured by interval numbers which reduces the computational burden compared with other uncertainty representations . Moreover we incorporate the risk preferences of decision makers in the framework to alleviate the conservativeness of solutions . It is observed that power to gas technology can reduce renewable curtailment and offer auxiliary services . Numerical results demonstrate the economic value of power to gas in integrated energy systems .
+
+@highlight An interval based unit commitment model of integrated energy systems is presented.
+@highlight The decision makers attitude towards risk is captured by comparing interval numbers.
+@highlight The role of power to gas technology in integrated energy systems is investigated.

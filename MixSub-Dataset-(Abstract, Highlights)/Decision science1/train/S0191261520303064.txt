@@ -1,0 +1,6 @@
+ Vickrey proposed a bathtub model for the evolution of trip flows served by privately operated vehicles inside a road network based on three premises treatment of the road network as a single bathtub the speed density relation at the network level also known as the network fundamental diagram of vehicular traffic and the time independent negative exponential distribution of trip distances . However the distributions of trip distances are generally time dependent in the real world and Vickreys model leads to unreasonable results for other types of trip distance distributions . Thus there is a need to develop a bathtub model with more general trip distance distribution patterns .
+
+@highlight Present a bathtub model of network trip flows with general distributions of trip distances.
+@highlight Derive the integral form with the characteristic method.
+@highlight Develop two equivalent numerical methods.
+@highlight Derive six equivalent conditions for Vickreys bathtub model.

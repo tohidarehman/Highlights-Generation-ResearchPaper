@@ -1,0 +1,5 @@
+ One can find it challenging to deal with verification theorems for optimal consumption and investment problems with annuitization . I pose a tractable framework to prove verification theorems for the problems . I revisit an annuitization model of Park and prove the verification theorem for the model . A key idea of the proof is the application of the variational inequality approach of Bensoussan and Lions to the annuitization problem solved by the suggested value function . Further I obtain analytic comparative statics for the optimal consumption and investment strategies with annuitization .
+
+@highlight I prove the uniqueness and existence theorem for models of optimal consumption and investment with annuitization.
+@highlight I apply the variational inequality approach of Bensoussan and Lions 1982 .
+@highlight I obtain analytic comparative statics for the optimal strategies.

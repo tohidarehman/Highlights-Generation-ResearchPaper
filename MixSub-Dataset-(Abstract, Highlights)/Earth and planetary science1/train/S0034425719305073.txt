@@ -1,0 +1,7 @@
+ Lodging the bending of crop stems reduces the quantity and quality of cereal crop yields . Early quantification of crop lodging is important to prevent further losses and to facilitate harvesting operations . Crop angle of inclination is a quantitative measure of the lodging stage and a component of lodging severity score . CAI is an important structural parameter for lodged crops and very few studies have investigated its estimation using satellite based remote sensing . In this study the performance of Sentinel 1 and multi incidence angle RADARSAT 2 data were investigated for estimating CAI . Temporal crop biophysical structural parameters and meteorological data were collected throughout May 1 June 30 2018 in a very large commercial farm located in Jolanda di Savoia Ferrara Italy . Field data were grouped into different crop lodging stages moderate lodging severe lodging and very severe lodging based on CAI . Quantitative relationships were established between field measured CAI values and the RS derived metrics for Sentinel 1 and RADARSAT 2 timeseries using support vector regression models . The RADARSAT 2 FQ8 model performed most robustly with a R
+
+@highlight An approach for quantitative assessment of lodging stages in wheat is presented.
+@highlight The relationship between the crop angle of inclination and SAR metrics were examined.
+@highlight The comparative performance of Sentinel 1 and RADARSAT 2 data was analyzed.
+@highlight RADARSAT 2 low incidence angle model performed most robustly with R
+@highlight of 0.87.

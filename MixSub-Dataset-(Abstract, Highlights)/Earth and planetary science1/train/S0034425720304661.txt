@@ -1,0 +1,6 @@
+ For the past two decades quantitative retrievals of aerosol optical depth have been made from both geostationary and polar orbiting satellites and the results have been widely used in numerous studies . Despite the progress made in improving the accuracy of AOD retrievals there are still major challenges especially over land . A notable one for the so called Dark Target algorithms is building the surface reflectance relationships to derive SR in the visible channels from SR in the short wave infrared channel mainly because these relationships are strongly subjected to entangled factors . In this study we examine the benefits of a new method for deriving the SRR using deep learning techniques . The SRR constructed by the deep neural network considers multiple related inputs such as the SWIR normalized difference vegetation index
+
+@highlight The surface reflectance relationship is built based on deep neural network.
+@highlight The AOD algorithm combines dark target method and deep learning techniques.
+@highlight The biases of AOD are largely reduced under various environmental conditions.
+@highlight Independent tests indicate the algorithm can be applied for untrained regions.

@@ -1,0 +1,5 @@
+ In this paper we present pinning boundary conditions for two and three dimensional phase field models . For the 2D and axisymmetric domains in the neighborhood of the pinning boundaries we apply an odd function type treatment and use a local gradient of the phase field for points away from the pinning boundaries . For the 3D domain we propose a simple treatment that fixes the values on the ghost grid points beyond the discrete computational domain . As examples of the phase field models we consider the AllenCahn and conservative AllenCahn equations with the pinning boundary conditions . We present various numerical experiments to demonstrate the performance of the proposed pinning boundary treatment . The computational results confirm the efficiency of the proposed method .
+
+@highlight Efficient and simple pinning boundary conditions are proposed.
+@highlight Accurate interpolation schemes for the boundary points are used.
+@highlight The efficient and accuracy of the proposed method were tested.

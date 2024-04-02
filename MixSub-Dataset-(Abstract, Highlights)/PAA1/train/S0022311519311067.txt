@@ -1,0 +1,7 @@
+ As fretting wear has become one of the main failure mode of Alloy 690 tube in steam generators and is significantly affected by normal force and displacement the fretting wear behavior of Alloy 690 with different normal force and displacement is studied in high temperature pressurized water . The coefficient of friction wear volume and maximum wear depth decrease with the increasing of the normal force while they increase with the increasing of displacement . In addition the wear mechanism and wear damage are also significantly affected by the applied normal force and displacement . Wear coefficient and energy wear coefficient are calculated respectively . Energy wear coefficient may be a more precise parameter than wear coefficient to describe the fretting wear process .
+
+@highlight Fretting wear between Alloy 690 and 405 SS with 1.0810
+@highlight cycles is studied in HTP water.
+@highlight Coefficient of friction and wear volume change significantly under different normal force and displacement.
+@highlight Wear mechanism and wear damages are significantly affected by the applied normal force and displacement.
+@highlight Both wear coefficient and energy wear coefficient are calculated.

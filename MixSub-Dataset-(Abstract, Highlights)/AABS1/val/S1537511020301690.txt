@@ -1,0 +1,7 @@
+ The efficient selection of sugarcane varieties with enhanced sugar content requires simple rapid accurate and cost effective assays . The objective of this research was to develop spectroscopic models for non destructive evaluation of Commercial Cane Sugar in growing cane stalks . A portable visible shortwave near infrared spectrometer with a wavelength range of 5701031nm was applied to cane stalks grown under normal field conditions . The CCS models were developed by partial least squares regression using spectra sets obtained at three different times based on both individual spectra and a combined set . During the in field measurements it was found that model performance could be affected by varying sample and instrument temperatures especially for the combined set . The models had coefficients of determination of the prediction set r
+
+@highlight NIR has potential for CCS monitoring of growing cane in breeding programmes.
+@highlight Variation in sample temperatures 2545C did not affect spectral reproducibility.
+@highlight PLS models provided good accuracy and could be used for screening.
+@highlight Instrument temperature which varied in field application caused model error.
+@highlight Modelling should be performed based on individual measurement periods of the day.

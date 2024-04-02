@@ -1,0 +1,7 @@
+ The impacts of climate change and extreme weather events on the continuous phenological development over the entire seasonal cycle remained poorly understood . Previous studies mainly focused on modeling key phenological transition dates based on aggregated climate variables . We developed and evaluated a Bayesian Hierarchical Space Time model for Land Surface Phenology to synthesize remotely sensed vegetation greenness with climate covariates at a daily temporal scale from 1981 to 2014 across the entire conterminous United States . The BHST LSP model incorporated both temporal and spatial information and exhibited high predictive power in simulating daily phenological development with an overall out of sample R
+
+@highlight A Bayesian model was developed to simulate continuous phenological development.
+@highlight Rate of daily temperature changes impact speed of both spring and fall phenology.
+@highlight Increased precipitation benefit phenological development over an entire season.
+@highlight Frost events slow spring leaf expansion and accelerate fall leaf senescence.
+@highlight Cropland and evergreen forest show resistance to drought events.

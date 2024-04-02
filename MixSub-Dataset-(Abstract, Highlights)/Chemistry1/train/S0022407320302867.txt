@@ -1,0 +1,7 @@
+ We analyze the results of numerically exact computer modeling of spectral dependences of the intensity of light scattered by different aggregates of submicron spherical particles in the visible range and compare them to those of individual homogeneous spheres . The computations are performed using the Lorenz
+
+@highlight Spectra of light reflected by fractal clusters of submicron particles are analyzed.
+@highlight Interference of waves singly scattered by constituents induces new collective details.
+@highlight Collective maximum is resistant to increasing the constituent number after some value.
+@highlight Number of constituents providing a stable collective maximum depends of the structure .
+@highlight Collective maximum is rather weakly affected by variations in the constituent sizes.

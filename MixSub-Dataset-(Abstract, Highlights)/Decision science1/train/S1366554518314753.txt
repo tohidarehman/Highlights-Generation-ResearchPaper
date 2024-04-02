@@ -1,0 +1,6 @@
+ This paper considers a bi modal traffic corridor with a highway and a transit line where car available travelers tend to be more sensitive to crowding than car unavailable travelers in transit vehicles . Modal spilt and departure time choices of heterogeneous travelers are considered . Two capacity design problems namely total travel cost minimization with budget constraint and total system cost minimization with budget and equity constraints are studied . It was found that when there is a construction operational technology improvement for one traffic mode the cost for its unit capacity reduces and its optimal total investment may increase .
+
+@highlight Traffic corridor highway vs. transit for travelers with without cars is studied.
+@highlight Critical values of transit capacity are derived for a bi modal traffic corridor.
+@highlight Highway and transit mode can be both complementary and substituting.
+@highlight Jevons paradox exists when transport technology improvement is considered.

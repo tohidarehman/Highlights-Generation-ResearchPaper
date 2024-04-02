@@ -1,0 +1,8 @@
+ A process scheme has been developed for the selective separation of sodium and potassium from the bittern using a combination of adsorption elution evaporation crystallization units . Adsorption elution stages have been adopted for K enrichment from bittern using clinoptilolite as absorbent material and sodium nitrate as the subsequent eluent for the glass column . Then evaporation and cooling crystallization are appended to separate the sodium nitrate and potassium nitrate from the potassium enriched solution . Afterwards the mother liquor was completely recycled and ten cycle experiments were carried out to determine that the purity of potassium nitrate which exceeded 99 . Lastly the endothermic process of preparing eluent and the exothermic process of potassium nitrate crystallization can be capitalized by implementing a heat exchanger between the two processes and reduce the overall energy consumption . Thus a heat flow simulation was carried out using Aspen plus software and a temperature convergence was computed .
+
+@highlight The adsorption elution evaporation crystallization units are implemented.
+@highlight The mother liquor was completely recycled and the purity of KNO
+@highlight is above 99 .
+@highlight Heat integration are realized between NaNO
+@highlight dissolution and KNO
+@highlight crystallization.

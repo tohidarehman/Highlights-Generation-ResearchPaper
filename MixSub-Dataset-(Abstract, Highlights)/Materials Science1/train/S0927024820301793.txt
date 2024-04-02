@@ -1,0 +1,6 @@
+ Whereas there are numerous studies dedicated to the corrosion performance of different grades of austenitic stainless steel exposed to the conditions of thermal storage of solar energy there is no data concerning the resistance of the welding joints which are unavoidable when fabricating large structures . Because the microstructure of a weld bead can significantly differ from that of the base metal and the heat affected zone increased susceptibility to localized corrosion can be expected . This work explores corrosion resistance of a welding joint of ASS grade 316L when exposed to molten Solar Salt 60 NaNO
+
+@highlight Corrosion performance in molten Solar Salt is reduced in weld processed AISI 316L.
+@highlight Passivation of AISI316L is suppressed by ferrite in the weld s microstructure.
+@highlight Heat affected zone HAZ of a regular weld is susceptible to intergranular corrosion.
+@highlight Laser surface melting prevents the onset of intergranular corrosion in HAZ.

@@ -1,0 +1,6 @@
+ In this work we investigate alternative quantification methods based on optical spectroscopy and variable selection approach using as a case study the aging process of cachaa . The cachaa was aged in an Amburana barrel and the samples were analyzed with a traditional analytical method for total phenolic quantification with 2 D fluorescence and infrared spectroscopy . We applied a methodology based on Ant Colony Optimization to optimize variable selection and model fitting to predict total phenolic content . Our results demonstrated that fluorescence spectroscopy was more sensitive than IR in the quantification of total phenolic compounds for both global and local models presenting good results R
+
+@highlight The phenolics content of Cachaa was evaluated during the aging process 
+@highlight Chemometric and spectroscopy are used to predict phenolics content during the aging 
+@highlight Variables selection models were developed to monitor cachaa aging 
+@highlight Fluorescence provides good results with a model that used only 4 variables.

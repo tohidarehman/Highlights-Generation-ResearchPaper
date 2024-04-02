@@ -1,0 +1,5 @@
+ An agent based scheme is proposed for distributed underfrequency load shedding . The key concept is a consensus weighting protocol for agents to reach an agreement . Unlike the well adopted average consensus protocol the proposed CWP enables each agent to converge to its weighted portion of the sum of all initial values . Thus the proposed CWP is more suitable for the UFLS application as it allows load buses with a higher level of loading to shed more rather than reducing by the same average value over all load buses as required by the ACP . Proof of convergence for the proposed CWP is derived and presented in this paper together with the constraints . For implementation of the multi agent system the monitoring estimation and distribution steps are developed . Two study cases and the simulation results are provided to validate the performance of the proposed agent based UFLS scheme .
+
+@highlight A new consensus weighting protocol CWP 
+@highlight The convergence for CWP is proven in this study.
+@highlight Constraints on the network topology for the convergence of the CWP are determined.

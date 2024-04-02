@@ -1,0 +1,7 @@
+ Circularly polarized light can induce additional mode conversion when it interacts with a material that rotates the orientation of the plane of polarization which is known as optical rotation or rotary polarization . The effect of this additional mode conversion phenomenon is studied in the framework of the optical radiation force theory . The time averaged force acting on an infinitely long perfect electromagnetic conductor circular cylinder is considered . The multipole modal expansion method in cylindrical coordinates is utilized to derive exact series expansions for the components of the longitudinal radiation force per length applicable to any range of frequencies . Numerical predictions for the radiation force function and its components clearly demonstrate the contribution of the co polarized and cross polarized waves .
+
+@highlight Optical radiation force on a cylindrical material exhibiting rotary polarization is examined.
+@highlight The example of a perfect electromagnetic circular cylinder is considered.
+@highlight A left handed circularly polarized plane wavefield is assumed.
+@highlight The effects of the cross polarized waves and TM TE mode conversion is noted and discussed.
+@highlight Mode conversion contributions cannot be neglected for optical materials exhibiting rotary polarization.

@@ -1,0 +1,7 @@
+ Due to the network shaped colony formed by the filamentous fungi fractional operators are likely to capture the time evolution of their biomass distribution . In this paper a generalised fractional transport model is developed to simulate the colony growth of a wood rot fungus
+
+@highlight This is the first time that fractional calculus has been applied to model fungal colonisation.
+@highlight An efficient accurate extended finite volume discretisation scheme is implemented to simulate the biomass evolution.
+@highlight The model is verified against an analytical solution and parameter estimation is performed using experimental data.
+@highlight Mycelial development is dominated by space rather than time fractional diffusion behaviour.
+@highlight The space fractional index is a potential bio marker of fungal growth behavior.

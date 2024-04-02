@@ -1,0 +1,7 @@
+ This paper investigates the coordination problem of a supply chain consisting of a manufacturer and a retailer who sells products through an offline channel and an online platform . Platform power is considered to reflect the ability of the platform to enlarge the market share . We find that the supply chain can be coordinated via wholesale price and cost sharing contracts when platform power is large and even if platform power is small the supply chain can still be coordinated via cost sharing contract when delivery time sensitivity is relatively high . Most of the results are robust when the manufacturer joins the platform .
+
+@highlight The optimal delivery time may increase with the platform power.
+@highlight The increase of the platform power can promote the supply chain coordination.
+@highlight The supply chain can be coordinated when platform power is large.
+@highlight Wholesale price contract with the low platform power cannot achieve coordination.
+@highlight When the platform power is low cost sharing contract partly achieves coordination.

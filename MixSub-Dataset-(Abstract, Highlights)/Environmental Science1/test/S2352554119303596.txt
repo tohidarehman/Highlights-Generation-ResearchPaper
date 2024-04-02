@@ -1,0 +1,8 @@
+ Chromeno pyrimidine derivatives were synthesized using green approach that involves reaction of multicomponent in one pot using water as solvent . The CPs molecules were tested as potential corrosion inhibitor for N80 steel in 15 hydrochloric acid solution using standard techniques such as weight loss electrochemical impedance spectroscopy and potentiodynamic polarization . CPs are effective corrosion inhibitors giving inhibition efficiency of 96.4 at only 200mg L concentration . Adsorption of CPs with metal surface involve both physical and chemical interactions . EIS results depicted an increase in charge transfer resistance with increase in concentration of CPs . PDP study suggests mixed mode of CPs inhibition action . The adsorbed inhibitor film was confirmed by AFM and XPS spectra .
+
+@highlight CPs exhibited max IE of 96.4 at 200mg L in 15 HCl.
+@highlight The adsorption is spontaneous following Langmuir isotherm.
+@highlight In EIS 
+@highlight values increases with increase in the concentration of CPs.
+@highlight PDP study suggests the mixed mode of inhibition by CPs.
+@highlight AFM and XPS analysis supports the formation of inhibitor film on metal surface.

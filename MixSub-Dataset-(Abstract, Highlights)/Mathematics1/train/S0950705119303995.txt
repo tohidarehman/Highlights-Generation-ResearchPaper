@@ -1,0 +1,6 @@
+ This paper describes a novel model for time series recognition called a Dynamic Time Warping Neural Network . DTW NN is a feedforward neural network that exploits the elastic matching ability of DTW to dynamically align the inputs of a layer to the weights . This weight alignment replaces the standard dot product within a neuron with DTW . In this way the DTW NN is able to tackle difficulties with time series recognition such as temporal distortions and variable pattern length within a feedforward architecture . We demonstrate the effectiveness of DTW NNs on four distinct datasets online handwritten characters accelerometer based active daily life activities spoken Arabic numeral Mel Frequency Cepstrum Coefficients and one dimensional centroid radii sequences from leaf shapes . We show that the proposed method is an effective general approach to temporal pattern learning by achieving state of the art results on these datasets .
+
+@highlight Proposes Dynamic Time Warping Neural Network a feed forward network for time series.
+@highlight DTW NN uses a temporal kernel like function in replace of a typical inner product.
+@highlight DTW NN uses dynamic programming to align weights and inputs.
+@highlight We evaluate on Unipen 1a 1b 1c UCI Spoken Arabic UCI ADL and Flavia leaf shapes.

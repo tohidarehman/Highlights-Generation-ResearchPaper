@@ -1,0 +1,7 @@
+ This work extends the scope of the previous study on the electromagnetic radiation force on a perfect electromagnetic conductor cylinder F.G. Mitri J. Quant . Spectr . Rad . Transfer
+
+@highlight The electromagnetic radiation force on a perfect electromagnetic conductor PEMC sphere is considered.
+@highlight A linearly polarized plane wave illuminates the PEMC sphere.
+@highlight The force is not affected by the admittance of the PEMC sphere material.
+@highlight Scattering asymmetry parameters for the co polarized and cross polarized waves are derived and computed.
+@highlight The results are important from the standpoint of the basics of the electromagnetic radiation force theory.

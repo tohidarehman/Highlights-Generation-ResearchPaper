@@ -1,0 +1,7 @@
+ This study aims to propose a novel artificial intelligence model for forecasting the capital cost of open pit mining projects with high accuracy . It is a unique combination of a deep neural network and ant colony optimization algorithm abbreviated as ACO DNN . In this model MineAP SR MillAP RMG and LOM were used to consider the CC of open pit mining projects . A series of simple and complex artificial neural networks was developed for forecasting CC of 74 copper mining projects herein . Subsequently the ACO algorithm has been applied to optimize the developed ANN and DNN models to improve the accuracy of them . Finally an optimal hybrid model was defined with superior performance than other models i.e . RMSE of 130.988 R
+
+@highlight A novel ACO DNN model was developed for estimating the CC of mining projects with high accuracy.
+@highlight Ten ANN and DNN models were optimized by the ACO algorithm for estimating the CC of mining projects.
+@highlight The performance of the ACO ANN and ACO DNN models was compared and evaluated.
+@highlight ANOVA test was used to assess the strength and statistical significance of the developed models.
+@highlight The sensitivity of input variables was analyzed for predicting the CC of mining projects.

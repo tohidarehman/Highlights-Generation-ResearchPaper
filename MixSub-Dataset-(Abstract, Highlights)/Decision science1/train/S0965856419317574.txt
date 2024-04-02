@@ -1,0 +1,7 @@
+ The literature on airlines presents few studies analyzing the airlines network evolution . We believe that this gap is due to the difficulty of capturing the network complexity in a simple manner . This paper proposes new simple and continuous indicators to measure the airlines network structure . The methodology to build them is based on graph theory and principal component analysis . We apply this approach to the US domestic market for 20052018 and obtain three network indicators . The first one measures how close the network is to a single center structure . The second indicator measures the airlines ability to provide alternative routes . The third indicator captures the network size . We analyze the indicators evolution across time and show their robustness under different scenarios .
+
+@highlight Propose a methodology to build airline network structure indicators.
+@highlight Combine graph theory and principal component analysis.
+@highlight Obtain three indicators to characterize airline network structure for US domestic market.
+@highlight Represent the indicators evolution.
+@highlight Analyze the impact of the main US mergers on the network structure.

@@ -1,0 +1,12 @@
+ Capacitive Deionization is an emerging technology for brackish water desalination . Currently CDI technology lacks practical means of scaling electrodes from the laboratory to pilot plant level for pre commercial applications . With the aim of solving the scalability issues we have prepared easy to scale 3D composites using the highly conductive macrostructure of a graphite felt as electron transfer channel with the microstructure of activated carbon to furnish ionic adsorption sites . The electrochemical characterization of GF AC 1cm
+
+@highlight A 3D composite electrode based on a GF and a microporous AC is proposed for CDI.
+@highlight Operation over 5000 cycles showed great stability 90 capacitance retention .
+@highlight GF AC electrode was scaled from a 1cm
+@highlight single cell to a 300cm
+@highlight 9 cell CDI stack.
+@highlight CDI stack demonstrates excellent performance 
+@highlight  8.7mgg
+@highlight and
+@highlight  63 
+@highlight Brackish water desalination by CDI was performed at 0.6kWhm

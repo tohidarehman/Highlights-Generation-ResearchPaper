@@ -1,0 +1,7 @@
+ This paper presents a colloidal binary composite phase change storage material prepared using inorganicorganic phase change materials to improve the thermal conductivity of the organic PCM and solve the supercooling and phase separation problems associated with inorganic PCMs . Samples of disodium hydrogen phosphate dodecahydrate capric acid were prepared using a sol gel method . These samples were characterized by differential scanning calorimetry thermal conductivity analyses Fourier transform infrared spectroscopy and X Ray diffraction . First the eutectic mixture ratio for a DHPD CA binary system was theoretically predicted . An analysis of the DSC curve and the two phase diagram of the eutectic system reveals that the colloidal mixture is close to the eutectic state when the DHPD CA ratio is 7 3 . The results of FTIR spectroscopy and XRD revealed that DHPD and CA in the colloidal mixture did not undergo a chemical reaction indicating the occurrence of physical mixing . Second the melting temperature of the composite material was 33.8C the degree of supercooling was 0.9C the melting enthalpy of phase change was 168.8Jg
+
+@highlight Colloidal DHPD CA composite phase change material was prepared by sol gel method.
+@highlight Colloidal binary eutectic mixture formed when DHPD CA ratio was 7 3.
+@highlight Addition of CA improved the supercooling and phase separation problems of DHPD.
+@highlight Addition of DHPD improved CA phase change latent heat and thermal conductivity.
+@highlight Cost of the composite material can thereby be reduced.

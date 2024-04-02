@@ -1,0 +1,7 @@
+ Tungsten is the prime candidate material for divertor applications in future nuclear reactors . In the present work a spatially dependent cluster dynamics model is developed to investigate and understand the microstructure evolution of tungsten under low energy helium implantation and neutron irradiation varying over bulk length scales of millimetres and irradiation time scales of hours . The diffusion of helium helium clusters and their trapping at neutron induced defects is simulated along the tungsten monoblock depth . The temperature gradient resulting from a steady state heat load of 10MWm
+
+@highlight Synergistic neutron and helium irradiation under a temperature gradient in W monoblock is simulated for longer time scales.
+@highlight Pronounce formation of helium vacancy based defects is observed in the sub surface region of the monoblock.
+@highlight Mobility based influence of the helium clusters on the defect evolution and diffusion length scales is investigated.
+@highlight Extended diffusion of helium in the bulk monoblock is noticed.
+@highlight A measure of the stored energy is obtained from the defect concentration in the monoblock.

@@ -1,0 +1,8 @@
+ The objective of this paper is to address an issue that arises from the increasing penetration of distributed energy resources in power systems the design and analysis of protective devices with more complex topology and power flow patterns . In particular this paper investigates lightning arrester overloading and failure from fault induced overvoltages . Currently the length of time from the fault inception until the lightning arresters failure is unknown forcing utility companies to assume the worst case scenario and install more costly and complex protection schemes than might otherwise be needed .
+
+@highlight Analysis of overvoltages caused by distributed generation in distribution systems.
+@highlight Provides simulation demonstrating overloading of lightning arresters.
+@highlight Shows that time to failure can be determined by the magnitude of the overvoltage.
+@highlight Proposes Thevenin Equivalent Impedance for analysis of magnitude of overvoltage.
+@highlight Demonstrates accuracy of the proposed Thevenin impedance analysis method.
+@highlight Suggests intentional islanding strategy to continue operating distribution system.

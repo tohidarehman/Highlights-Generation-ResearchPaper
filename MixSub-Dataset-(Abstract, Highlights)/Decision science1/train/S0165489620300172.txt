@@ -1,0 +1,7 @@
+ A cooperative game with transferable utility is a situation in which players can generate worth by cooperating and obtain a certain payoff via a sharing rule . In this paper we assume that the cooperation between players is restricted by an acyclic graph . We introduce new sharing rule for this type of game . We also offer an axiomatization of this sharing rule based mainly on linearity and a consistency axiom . For unanimity games this sharing rule identifies the center of the graph .
+
+@highlight We introduce a new sharing rule for cooperative games on acyclic graphs.
+@highlight Its characterization revolves around associated consistency along with other axioms.
+@highlight All axioms are proved to be logically independent.
+@highlight This sharing rule offers new results for cooperative games on acyclic graphs.
+@highlight The results are widely opposed to those of the Myerson value.

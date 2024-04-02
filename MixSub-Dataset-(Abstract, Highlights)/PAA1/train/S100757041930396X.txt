@@ -1,0 +1,7 @@
+ Recently scaled Brownian motion has attracted considerable attention in the context of single particle tracking experiments displaying anomalous fractional dynamics . Its probability density function coincides with the one for fractional Brownian motion . On the other hand scaled Brownian motion displays weak ergodicity breaking . In this paper we show that by applying the so called Lamperti transformation we are able to transform the scaled Brownian motion into ergodic process . This allows us to estimate the distribution and moments of the studied process having only one appropriately long trajectory . We apply the same method to the scaled fractional Brownian motion and stable Lvy motion . It appears that the method works also in the case of long range correlations and heavy tailed distributions . We confirm our theoretical results using numerical simulations .
+
+@highlight we show that scaled Brownian motion after Lamperti transformation is ergodic.
+@highlight we demonstrate how to transform a non ergodic anomalous diffusion process in order to recover the ergodicity property.
+@highlight we apply Lamperti transformation to estimate moments and distribution having only one trajectory of the analyzed weakly non ergodic process.
+@highlight we apply the method to some generalizations of scaled Brownian motion in particular we analyze scaled fractional Brownian motion and scaled stable Levy motion.
+@highlight we demonstrate efficiency of our method using simulated data for the studied processes.

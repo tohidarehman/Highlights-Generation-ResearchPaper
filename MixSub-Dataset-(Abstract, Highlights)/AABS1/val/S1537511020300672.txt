@@ -1,0 +1,6 @@
+ Valparaso a central southern region in Chile has one of the highest rates of wildfire occurrence in the country . The constant threat of fires is mainly due to its highly flammable forest plantation composed of 97.5
+
+@highlight Viable to reconstruct reflectance in the SWIR region from the VNIR region.
+@highlight Kernel Ridge Regressor was most suitable method to reconstruct leaf reflectance.
+@highlight Reconstructed leaf spectral signature is suitable to compute vegetation indices.
+@highlight Low errors in estimation of leaf moisture content support the proposed method.

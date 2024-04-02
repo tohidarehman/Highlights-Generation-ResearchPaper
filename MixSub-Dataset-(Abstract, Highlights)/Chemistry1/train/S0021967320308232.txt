@@ -1,0 +1,8 @@
+ Growth hormone releasing hormone and its analogues sermorelin tesamorelin and CJC 1295 are included in the prohibited list of the World Antidoping Agency . These target peptides are found at very low concentrations in urine . For this reason hyphenated enrichment and purification steps prior to mass spectrometric detection are required . Among different strategies immunopurification based on magnetic beads is an excellent alternative as it offers improved selectivity when the immunoreactivity and orientation of the antibody are optimum and non specific adsorption is minimized . However choosing the magnetic bead surface functionalities that provide the best recoveries is not so straightforward . In this work we have evaluated the suitability of magnetic beads with different supports binding capacities and affinity chemistries prior analysis of human urine samples by liquid chromatography coupled to high resolution mass spectrometry using a Quadrupole Orbitrap instrument . After optimization of the immunopurification protocol with the magnetic beads that provided better recoveries the method was fully validated and found to be adequate considering the parameters specificity intra and inter day precision matrix effect limit of detection and limit of identification .
+
+@highlight We compared magnetic bead functionalities for the immunopurification of GHRH analogues.
+@highlight We also evaluated critical aspects regarding analyte stability in urine.
+@highlight LOABeads SerAscA magnetic beads provided the best recoveries.
+@highlight The method was full validated by conventional LC
+@highlight HRMS at the MRPL established by WADA.
+@highlight The method could be easily transferred to other antidoping laboratories.

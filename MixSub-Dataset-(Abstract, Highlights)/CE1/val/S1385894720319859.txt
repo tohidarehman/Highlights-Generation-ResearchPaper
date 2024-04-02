@@ -1,0 +1,11 @@
+ The integrated forward osmosis membrane bioreactor and membrane distillation is an emerging technique for wastewater reclamation and trace organic compound removal . The selection of draw solution for this system should consider the particularities of both forward osmosis and membrane distillation . The effect of five different draw solutions on forward osmosis and TrOC rejection in a hybrid submerged forward osmosis membrane distillation module was investigated in this study . The roles of each solution on FO and MD water flux FO reverse salt flux temperature concentration polarization and rejection of 7 TrOCs were explored . The salt used in the draw solution influenced both FO water flux NaCl MgOAc
+
+@highlight Draw solution salt impacts permeate flux and TrOC rejection in hybrid FO MD.
+@highlight NaOAc MgOAc
+@highlight and EDTA Na
+@highlight exhibited lower MD salt rejection than NaCl and MgCl
+@highlight MgCl
+@highlight and NaOAc improved TrOC rejection.
+@highlight Temperature and concentration polarization for FO MD were calculated.
+@highlight MgCl
+@highlight could be used to mitigate salinity build up in an integrated OMBR MD system.

@@ -1,0 +1,5 @@
+ The approach taken by the second place winner of the TRANSFOR prediction challenge is presented . The challenge involves forecasting travel speeds on two arterial links in Xian City in China for two five hour periods on a single day . Travel speeds are measured from trajectory information on probe vehicles from a fleet of vehicles for a large sub area of the city . After experimenting with several deep learning methods we settle on a simple non parametric kernel regression approach . The method borrowed from previous work in fixed route transit predictions formalizes the intuition that in urban systems most failure patterns are recurrent . Our choice is supported by test results where the method outperformed all evaluated neural architectures . The results suggest simple methods are very competitive particularly considering the high lifecycle cost of deep learning models .
+
+@highlight Travel speed forecasting using non parametric models.
+@highlight Outperforms standard deep learning architectures such as LSTMs stacked autoencoders MLP and other machine learning models.
+@highlight Accounting for lifecycle costs of models simpler approaches remain competitive.

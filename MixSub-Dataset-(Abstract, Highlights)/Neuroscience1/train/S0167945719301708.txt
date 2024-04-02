@@ -1,0 +1,7 @@
+ In a bipedal walk the human body experiences continuous changes in stability especially during weight loading and unloading transitions which are reported crucial to avoid fall . Prior stability assessment methods are unclear to quantify stabilities during these gait transitions due to methodological and or measurement limitations . This study introduces Nyquist and Bode methods to quantify stability gait transitional stabilities using the neuromechanical output and somatosensory input responses . These methods are implemented for five different walking conditions grouped into walking speed and imitated rotational impairments . The trials were recorded with eleven healthy subjects using motion cameras and force platforms . The time rate of change in O Is illustrated impulsive responses and modelled in the frequency domain . Nyquist and Bode stability methods are applied to quantify stability margins . Stability margins from outputs illustrated loading phases as stable and unloading phases as unstable in all walking conditions . There was a strong intralimb compensatory interaction
+
+@highlight Gait dynamic stability evaluated during loading and unloading transitions.
+@highlight Neuromotor output and inputs measured from CoP and CoM acceleration signals.
+@highlight Nyquist and Bode methods introduced to quantify gait transitional stabilities.
+@highlight Eversion and inversion foot impairments illustrated a significant decrease in stability.
+@highlight Overground walking speeds partially impacted on gait transitional stabilities.

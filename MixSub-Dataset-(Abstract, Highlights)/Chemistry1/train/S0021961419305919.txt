@@ -1,0 +1,5 @@
+ Thermodynamic speed of sound data are an important basis for the development of Helmholtz energy equations of state because of their thermal and caloric nature . Moreover they can be measured rapidly and with a high accuracy . Xenon is sampled with the pulse echo technique to provide speed of sound data covering a temperature range from 217K to 500K with a pressure of up to 100MPa . The measurement cells path length is calibrated with water and validated with the reference equation of state by Wagner and Pru . At a confidence level of 95
+
+@highlight The speed of sound of xenon is measured with the pulse echo technique.
+@highlight The present data are critically compared with a reference equation of state and all available experimental literature sources.
+@highlight Parameters of the Lennard Jones potential are optimized to the present speed of sound data highlighting deficiencies of this simple force field model.

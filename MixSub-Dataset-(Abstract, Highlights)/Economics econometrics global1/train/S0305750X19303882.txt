@@ -1,0 +1,7 @@
+ This paper studies the impact of the rapid expansion of the Brazilian road network which occurred from the 1960s to the 2000s on the growth and spatial allocation of population and economic activity across the countrys municipalities . It addresses the problem of endogeneity in infrastructure location by using an original empirical strategy based on the historical natural experiment constituted by the creation of the new federal capital city Braslia in 1960 . It highlights long term center periphery agglomeration effects and shows heterogeneous effects of roads depending on the characteristics of metropoles they lead to and on the location of the municipalities themselves in line with predictions in terms of agglomeration economies .
+
+@highlight Studies the impact of the expansion of the road network on municipal population and economic activity between 1970 and 2000.
+@highlight Addresses endogeneity in road location using as natural experiment the creation of the capital city Brasilia in 1960.
+@highlight Identification strategy combines inconsequential unit approach and use of planned routes as instruments.
+@highlight Improvement in access to State capitals generated agglomeration effects in terms of population and GDP growth.
+@highlight Effects were stronger up to 200km around cities and for areas with good amenities and a high share of non agricultural GDP.

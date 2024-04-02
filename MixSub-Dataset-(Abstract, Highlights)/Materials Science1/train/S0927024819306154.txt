@@ -1,0 +1,5 @@
+ Characterization of doped silicon layers using infrared spectroscopy is a fast and non destructive method but data interpretation requires proper simulation and modelling of the free carrier absorption in the mid infrared wavelength range . This work demonstrates an optical model capable of describing the infrared reflectance and transmittance of silicon solar wafers with pyramidal texture and doped layers . The model s ability to accurately describe a broad variety of samples is discussed .
+
+@highlight Fast non contact and non destructive infrared spectroscopy based method to characterize doped silicon layers.
+@highlight A novel ray tracing simulation program which incorporates long wavelength treatments of textured doped silicon wafers.
+@highlight A versatile tool to simulate infrared R and T in a variety of real world samples.

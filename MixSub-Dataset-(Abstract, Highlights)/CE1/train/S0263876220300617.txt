@@ -1,0 +1,6 @@
+ Measuring mass mixing in batch reactors is of great interest to prevent yield losses during scale up of reactions . In this work we present a novel tool to accomplish this the heat pulse method . This is a thermal based technique consisting of a local heat pulse applied electrically or by a hot liquid injection during 10 s at a power of 515 W and subsequent measurement of temperature increase at locations of interest . The 95 mixing time from corrected and smoothed temperature profile characterizes heat mixing . A heat mixing model identifies the contributions of thermal conduction and convection and hereby relates local heat and mass mixing in a 800 mL in a 1 L batch reactor with a 45 4 blade downward pitched turbine . The heat pulse method is applicable on different reactors solvent independent and non destructive . Experiments are repeatable and mixing at reactive circumstances can be mimicked .
+
+@highlight A novel method is developed to measure heat mixing by injecting a short heat pulse.
+@highlight Heat mixing is related to mass mixing by a model for a 1 L reactor.
+@highlight Both convection and conduction are crucial in heat mixing.
+@highlight The model can predict mixing in the reactor for any solvent or reaction.

@@ -1,0 +1,6 @@
+ Polo like kinase 1 is a prominent mediatory player during the cell cycle mitosis and cytokinesis in eukaryotic cells . Besides its physiological roles PLK1 expression is upregulated in a wide range of human malignant tumors and its overexpression worsens prognosis therefore specific inhibition of PLK1 in tumor cells is a fascinating approach for the development of novel chemotherapeutics . The present study elucidated the potential cytotoxic effects of a PLK1 inhibitor GSK461364A in five cancer cell lines including Raji K562 PC3 MCF 7 MDA MB 231 along with noncancerous L929cells by XTT assay . The cells were treated for 24h with GSK461364A at different concentrations ranged between 0.5 and 40M and significant cytotoxicity was observed in all treated groups with the IC
+
+@highlight GSK461364A evaluated for antiproliferative activity against Raji K562 PC3 MCF 7 and MDA MB 231cell lines.
+@highlight GSK461364A exhibited the best cytotoxic activity against Raji cells.
+@highlight GSK461364A arrested the cells at G2 M phase of the cell cycle and caused DNA damage.
+@highlight GSK461364A also induced apoptosis and altered total oxidant status TOS in Raji cells.

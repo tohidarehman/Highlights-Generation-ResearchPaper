@@ -1,0 +1,7 @@
+ The integro differential radiative transfer equation for concentric cylinders problem involving scattering absorption and emission is solved using the discontinuous Galerkin finite element method . The space angle DG method directly solves the cylindrically symmetric RTE as a three dimensional problem where a 1D spatially domain in radial distance
+
+@highlight Discontinuous Galerkin Method DGM for solving radiative transfer equation RTE .
+@highlight DGM employed in both space and angles is superior to hybrid methods.
+@highlight Convergence in polynomial order and mesh refinement is established.
+@highlight Comparison with benchmark results shows good agreement.
+@highlight Numerical examples show how DGM captures discontinuous solutions.

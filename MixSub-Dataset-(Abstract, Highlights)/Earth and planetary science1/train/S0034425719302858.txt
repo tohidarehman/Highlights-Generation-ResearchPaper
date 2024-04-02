@@ -1,0 +1,6 @@
+ The ongoing march toward freely available highly pre processed satellite imagery has given both researchers and the public unprecedented access to a vast and varied data stream teeming with potential . Among many sources the multi decade Landsat archive is certainly the best known but legacy and current data from other sensors is available as well through the USGS data portals these include CBERS ASTER and more . Though the particular band combinations or non global missions have made their integration into analyses more challenging these data in conjunction with the entire Landsat record are available to contribute to multi decade surveys of land cover change .
+
+@highlight We synthesized a 45 year LULC time series from 13 sensors for Roosevelt River Brazil.
+@highlight We quantified forest cover loss for agriculture and its recovery with high accuracy.
+@highlight Roosevelt River BZ until recently highly isolated was 10 deforested by 2016.
+@highlight Noisy image classifications may be highly useful especially in early satellite era.

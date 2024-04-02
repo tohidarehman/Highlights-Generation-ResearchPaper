@@ -1,0 +1,6 @@
+ This paper investigates the role of process coordination dynamics and information exchanges in maritime logistics . To this aim a case study in a mid sized port supported by a Port Community System was developed . Exploiting data retrieved from the PCS the methodology combined three data driven techniques Process Mining Social Network Analysis and Text Mining to draw handover social networks among the port logistics players and to assess the export process efficiency and significant process deviations . Then two sets of regression models were developed to explore the effects of network dynamics on process performances . Preliminary results point out that the process fragmentation and the frequent communication switching among the port actors could negatively affect the export process efficiency and effectiveness . Finally the study proposes practical solutions for reducing process fragmentation and improving information exchange among port actors .
+
+@highlight Process Fragmentation seems to affect Port efficiency.
+@highlight Frequent handover alternation impact on process effectiveness.
+@highlight A case study in a mid sized PCS supported port is reported.
+@highlight A combined approach based on Process Mining SNA and text mining is exploited.

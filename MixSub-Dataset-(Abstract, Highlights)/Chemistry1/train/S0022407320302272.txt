@@ -1,0 +1,6 @@
+ The oceanic lidar which has the advantage of profiling the properties of the upper ocean is a promising active remote sensing tool for complementing the passive ocean color remote sensing in the three dimensional observation of ocean . This paper introduces the design and validation of a shipborne multiple field of view lidar . With the input of simultaneous
+
+@highlight A shipborne multiple field of view MFOV lidar has been developed to detect the vertical profiles of seawater optical properties.
+@highlight The detecting results of the MFOV lidar are validated using simulated results with the input of simultaneous
+@highlight data. The simulation methods include quasi single scattering lidar equation monte carlo MC method and analytical model.
+@highlight The validation results indicate that the oceanic lidar has the feasibility in remote sensing of upper ocean.

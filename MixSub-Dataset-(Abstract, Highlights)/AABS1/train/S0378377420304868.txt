@@ -1,0 +1,8 @@
+ Hybrid Maize model was evaluated for its performance for simulating maize growth grain yield soil water content and crop evapotranspiration ET
+
+@highlight Hybrid Maize model was evaluated for maize growth yield SWC and ET
+@highlight Model performed unsatisfactorily for estimating for most variables.
+@highlight Model estimates were inconsistent for the same variables treatments between the years.
+@highlight NRMSE of SWC estimates ranged from 62 in the 0.30m and 47 in 0.60m soil layer.
+@highlight ET
+@highlight was significantly underestimated up to 167mm in all years and treatments.

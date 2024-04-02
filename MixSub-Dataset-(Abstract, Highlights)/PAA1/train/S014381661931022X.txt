@@ -1,0 +1,7 @@
+ In this research a novel precise and cost effective method of 2 dimensional temperature measurement based on lifetime technique is introduced without using a high speed camera . The setup is simple and includes only a blue excitation light emitting diode and a low frame rate CMOS camera . Instead of multiple frame capturing techniques in a single decay curve the proposed technique takes a single image per excitation pulse in a stroboscopic mode . Two dimensional thermographic imaging of a printed circuit board as a test sample was done based on the transient luminescence characteristics of magnesium fluoro germanate thermographic phosphor . A cost effective blue LED excitation source was used to illuminate the circuit board at a repetition rate of 33.33Hz . The integration time of the camera was 10ms and the detection window was applied after turning off the LEDs with an increasing delay during the successive periods . 100 pictures covering 4 milliseconds of the decay curve were then used to calculate the lifetime and temperature of each pixel of the image of the circuit board . Combined pixel to pixel and shot to shot uncertainty was only 2.5C with a high spatial resolution of 50m .
+
+@highlight Lifetime based 2D phosphor thermography is done using a low frame rate CMOS camera.
+@highlight Magnesium fluoro germanate 
+@highlight  is used as thermographic phosphor.
+@highlight Low cost LED excitation and camera are used in stroboscopic mode for calculation.
+@highlight 2D temperature of a sample circuit board is measured with a precision of 2.5C.

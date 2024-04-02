@@ -1,0 +1,7 @@
+ We model the elastic field near the void using a Modified Molecular Static method . Results show that the atom displacements near nanovoids significantly differ for various crystallographic directions in bcc metals . Using some results of these calculations we estimate the void growth rates following various directions basing on recently obtained equations of vacancy diffusion under strain . This growth rate anisotropy helps to explain the change in shape observed for many voids .
+
+@highlight Shifting rate equations of void surface elements following various crystallographic directions.
+@highlight The atom displacements in the vicinity of the nanovoids in bcc iron.
+@highlight The shift rate of the void surface elements following various crystallographic directions.
+@highlight It is shown that asymmetric elastic field decrease the shift rate of above elements in 100 direction.
+@highlight Effect should change the shape of the initially spherical void to the cuboid type.

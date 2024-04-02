@@ -1,0 +1,6 @@
+ In this paper the degradation process of oily sludge in continuous aeration and stirred bioreactor was studied . The transient kinetics model for degradation of petroleum hydrocarbon by strain NY3 was established by considering both the gas liquid solid multiphase flow model and the mass transfer reaction of microorganisms . By optimizing the key parameters such as stirring speed and aeration rate the degradation rate of oily sludge can be improved . Based on the developed time based model the degradation rate of petroleum hydrocarbon can then be predicted . The experimental results showed the effectiveness of the proposed model which can provide important theoretical support for the parameters optimization of the reactor and the degradation of petroleum pollutants .
+
+@highlight Coupled multiphase flow model and biological reaction kinetic model.
+@highlight The model can predict the degradation rate of petroleum hydrocarbons accurately.
+@highlight Parameter optimization of bioreactor.
+@highlight Biodegradation of oily sludge using strain NY3 is highly efficient.

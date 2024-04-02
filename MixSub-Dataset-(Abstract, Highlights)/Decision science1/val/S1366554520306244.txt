@@ -1,0 +1,6 @@
+ We propose a generalized model of drayage operations that incorporates the coupling and precedence principles allows for live and separation operation modes relaxes the assumptions about fleet composition and truck size and operates in a realistic network . The results of the experiments reveal that the model efficiently and effectively allocates container transport requests and can find close to optimal solution in reasonable time for small and medium size problems . The results also suggest the existence of a threshold strongly related to the ratio of the fleet capacity over the number of requests where the fleet is utilised most effectively .
+
+@highlight A two layered network formulation is developed for the generalized drayage problem.
+@highlight The layered formulation is significantly more efficient than a classic PDP formulation.
+@highlight A threshold which marks fleet underutilization is identified based on the CR ratio.
+@highlight A HC fleet archives the lowest cost compared to LC BC or homogenous fleet types.

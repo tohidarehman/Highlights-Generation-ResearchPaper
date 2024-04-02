@@ -1,0 +1,5 @@
+ In a directed evolution aimed at improving enzymatic activity a situation occurs where highly active variants can no longer be obtained from a template protein because the template is already located at a peak in the fitness landscape of activity for the sequence space . To overcome this situation the template needs to descend the mountain once and climb another higher mountain . However there is no solid guideline of how the template should go down . Here we propose a stability index . Previous studies have shown that protein evolution is potentially governed by stability and that proteins with low activity but high stability are more favorable templates for producing highly active variants . In our earlier works on conventional directed evolution by random mutagenesis of an esterase from
+
+@highlight Stability and activity based selections were incorporated in directed evolution.
+@highlight The two step directed evolution successfully yielded highly active Sto Est variants.
+@highlight The Sto Est variants showed up to 9 fold higher activity than the wild type.

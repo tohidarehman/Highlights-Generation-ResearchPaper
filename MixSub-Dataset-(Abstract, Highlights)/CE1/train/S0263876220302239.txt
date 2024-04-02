@@ -1,0 +1,5 @@
+ In this work we treat the problem of state estimation for a class of nonlinear processes and a distributed high gain observer design is proposed to provide estimates of the full state of the processes . Both a centralized gain and a set of local observer gains are incorporated in the design to provide degrees of freedom for tuning the convergence rate of local observers and adjusting the sensitivity of the estimation results to noise . In the deterministic context sufficient conditions that ensure the exponential stability of the estimation error dynamics are presented . The effectiveness of the proposed approach is illustrated using a binary distillation process and another chemical process involving four reactors connected in series .
+
+@highlight A distributed high gain observer design for a class of nonlinear systems.
+@highlight Sufficient conditions ensuring exponential convergence rate based on rigorous analysis.
+@highlight Two chemical engineering examples showing the effectiveness of the proposed approach.

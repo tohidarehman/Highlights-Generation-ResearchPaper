@@ -1,0 +1,7 @@
+ Meeting investment and operating goals with presence of different sources of uncertainties and operational constraints is critical for a successful underground mining operation and even for a mining company to survive . Small and large mining businesses are all affected by business environment . Production planning that takes into account real strength of the mining company requires from the owner or management of the company to set up acceptable and achievable investment goals . In this paper we propose the production planning model that minimizes deviation from Acceptable Rate Of Return
+
+@highlight Multi objective iterated greedy algorithm was used to define production plan.
+@highlight Frobenius function was used to compare target and realized values of production plan.
+@highlight Algorithm automatically defines priority of targets according to entropy of data.
+@highlight Stochastic diffusion processes were used to simulate metal price and operating costs.
+@highlight For each period of planning algorithm updates the target that considers ore grade.

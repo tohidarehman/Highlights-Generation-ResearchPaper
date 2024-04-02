@@ -1,0 +1,7 @@
+ In a digitally enabled healthcare setting we posit that an individuals current location is pivotal for supporting many virtual care servicessuch as tailoring educational content towards an individuals current location and hence current stage in an acute care process improving activity recognition for supporting self management in a home based setting and guiding individuals with cognitive decline through daily activities in their home . However unobtrusively estimating an individuals indoor location in real world care settings is still a challenging problem . Moreover the needs of location specific care interventions go beyond absolute coordinates and require the individuals
+
+@highlight Accurately locating individuals indoors for virtual care scenarios is difficult.
+@highlight We combine knowledge and data driven methods incl. ontologies and machine learning.
+@highlight We improve location accuracy by training ML models and clustering similar locations.
+@highlight We create semantic location models to validate locations and provide rich semantics.
+@highlight We empirically validate our approach in a real world hospital emergency department.

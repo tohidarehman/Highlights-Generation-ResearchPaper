@@ -1,0 +1,6 @@
+ In this study we examine a class of firstbest congestion pricing schemes that employ various strategies to differentiate price spatially . Since spatial price differentiation raises the issue of privacy infringement two hybrid pricing schemes are proposed to internalize travelers privacy cost . Under these schemes a traveler is given the options to maintain her anonymity and pay a regular toll or compromise her privacy and receive a discount . One of the hybrid schemes allows the travelers privacy cost to be dependent on the link composition of the travelers path . In other words she can choose to disclose none part or all of her path information . We prove that the minimum toll burdenwith or without the privacy costrequired to decentralize a system optimum gradually decreases as the toll becomes more spatially differentiated . We also show that the new hybrid scheme demonstrates some interesting analytical properties compared to existing schemes .
+
+@highlight A class of first best congestion pricing schemes to differentiate price spatially are examined.
+@highlight Two hybrid pricing schemes are proposed to internalize privacy cost.
+@highlight Minimum toll burden to decentralize SO decreases as toll becomes more differentiated.
+@highlight With link additive privacy cost new hybrid scheme demonstrates interesting properties.

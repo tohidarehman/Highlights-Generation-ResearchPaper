@@ -1,0 +1,7 @@
+ A new method has been proposed and verified to measure the viscoelastic properties of polymers by nanoindentation tests . With the mechanical response of loaddisplacement curves at different loading rates the parameters of creep compliance and relaxation modulus are calculated through the viscoelastic contact model . Dynamic thermomechanical analysis tests are conducted to compare the results by the proposed technique . The results show that the correlation coefficients between DMA tests and the new method are above 0.9 in the entire range which verified the feasibility of the method . The loading curves fitted by the model are identical to the experimental curves within the discrete points and so it shows that this technique is more suitable for general linear viscoelastic materials . Numerical creep tests are carried out to examine the effectiveness of the proposed method by input the Prony series calculated by the three element Maxwell model and the viscoelastic contact model . The good agreement shows that the proposed technique can be applied in practice .
+
+@highlight A new method to measure the viscoelastic properties by nanoindentation is proposed.
+@highlight Parameters can be calculated directly by the condition of different loading rates.
+@highlight The correlation coefficients are all above 0.9 compared with the traditional test.
+@highlight The method is suitable for linear viscoelastic materials.
+@highlight Results of creep simulation by input Prony series coincide with the experimental.

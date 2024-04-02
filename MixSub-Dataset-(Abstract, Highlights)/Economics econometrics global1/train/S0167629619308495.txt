@@ -1,0 +1,7 @@
+ We investigate the extent to which healthcare service utilisation and costs can be predicted from biomarkers using the UK Understanding Society panel . We use a sample of 2314 adults who reported no history of diagnosed long lasting health conditions at baseline when biomarkers were collected . Five years later their GP outpatient and inpatient utilisation was observed . We develop an econometric technique for count data observed within ranges and a method of combining administrative reference cost data with the survey data without exact individual level matching . Our composite biomarker index is a powerful predictor of costs for those with a baseline allostatic load of at least one standard deviation above mean a 1 s.d . reduction reduces GP OP and IP costs by around 18 .
+
+@highlight We explore the extent to which healthcare services and costs can be predicted from biomarkers.
+@highlight We followed adults reporting no chronic conditions history at baseline when biomarkers were collected.
+@highlight Five years later their GP outpatient and inpatient utilisation were observed.
+@highlight We use new modeling methods to combine longitudinal survey data and NHS cost data.
+@highlight Biomarker health measures strongly predict future healthcare services and costs.

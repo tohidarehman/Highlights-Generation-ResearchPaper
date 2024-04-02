@@ -1,0 +1,6 @@
+ The mixed mode chromatographic behavior was estimated for imidazoline and serotonin receptor ligands and their related compounds on dual hydrophilic reversed phase stationary phase . The Box Cox transformation was used to obtain the most suitable mathematical equations which describe the mixed mode retention . Optimal equations were found for the optimization parameter
+
+@highlight Mathematical description of mixed mode retention with the use of Box Cox transformation.
+@highlight Introduction of novel mixed mode retention parameters.
+@highlight Evaluation of turning point between hydrophilic and reversed phase interactions.
+@highlight Estimation of molecular properties governing the retention.

@@ -1,0 +1,7 @@
+ Pulmonary exposure to multi walled carbon nanotubes causes inflammation fibroproliferation immunotoxicity and systemic responses in rodents . However the search for representative biomarkers of exposure is an ongoing endeavor . Whole blood gene expression profiling is a promising new approach for the identification of novel disease biomarkers . We asked if the whole blood transcriptome reflects pathology specific changes in lung gene expression caused by MWCNT . To answer this question we performed mRNA sequencing analysis of the whole blood and lung in mice administered MWCNT or vehicle solution via pharyngeal aspiration and sacrificed 56days later . The pattern of lung mRNA expression as determined using Ingenuity Pathway Analysis was indicative of continued inflammation immune cell trafficking phagocytosis and adaptive immune responses . Simultaneously innate immunity related transcripts
+
+@highlight Lung and whole blood gene expression after MWCNT pulmonary exposure was investigated.
+@highlight MWCNT exposure led to several common genes dysregulated in lung and blood datasets.
+@highlight IPA analysis showed opposite activation scores for Cancer between lungs and blood.
+@highlight Hypersensitivity disease category activation was common between the datasets in IPA.
+@highlight Whole blood transcriptome could be used for MWCNT related biomarkers discovery.

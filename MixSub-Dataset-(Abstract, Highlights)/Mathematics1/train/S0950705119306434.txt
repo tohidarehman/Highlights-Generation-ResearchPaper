@@ -1,0 +1,6 @@
+ Finding the best compromise between exploration and exploitation phases of a search algorithm is a hard task . The Gravitational Search Algorithm is an evolutionary algorithm based on the Newtons universal law of gravitation . Many studies show that GSA suffers from slow exploitation which generates premature convergence . This paper proposes a Hyperbolic Gravitational Search Algorithm able to find an optimal balance between exploration and exploitation . The main contributions of this work are the definition of suitable hyperbolic acceleration coefficients the dynamic regulation of the gravitational constant coefficient through hyperbolic function and the definition of a decreasing hyperbolic function for the best agents which attract the other agents . The proposed algorithm is compared with well known search algorithms on classical benchmark functions
+
+@highlight Introduction of acceleration coefficients which depend on suitable hyperbolic sin functions.
+@highlight Dynamic regulation of the gravitational constant coefficient through hyperbolic function.
+@highlight Hyperbolic based definition of the parameter Kbest.
+@highlight Improvement of exploration and exploitation phases.

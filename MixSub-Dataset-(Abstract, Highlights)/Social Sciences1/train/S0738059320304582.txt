@@ -1,0 +1,6 @@
+ PISA is one of the most widely used instruments to assess student performance in the world . This paper investigates how changes in testing dates and students dates of birth between 2000 and 2018 have affected results in Brazil . Controlling for changes in students grade distribution over time we show that changes in grade composition are correlated with increases in average score . We estimate that about 60 of improvements in math are unrelated to student improvement . Since changes in testing date and eligibility are unrelated to the school system performance increases over time might not be a result of a countrys educational policy .
+
+@highlight Changes in the PISA eligibility is correlated with an artificial improvement in the Brazil national average performance.
+@highlight With a correction to the distribution of students per grade in PISA there is a more modest increase in Math.
+@highlight The observed change in the PISA eligibility does not seems to be driven by distinct results across school type.
+@highlight Controlling the sample to show the same distribution in each state results in a reordering of states and worse math scores.

@@ -1,0 +1,7 @@
+ Clinicians healthcare providers suppliers policy makers and patients are experiencing exciting opportunities in light of new information deriving from the analysis of big data sets a capability that has emerged in the last decades . Due to the rapid increase of publications in the healthcare industry we have conducted a structured review regarding healthcare big data analytics . With reference to the resource based view theory we focus on how big data resources are utilised to create organization values capabilities and through content analysis of the selected publications we discuss the classification of big data types related to healthcare the associate analysis techniques the created value for stakeholders the platforms and tools for handling big health data and future aspects in the field . We present a number of pragmatic examples to show how the advances in healthcare were made possible . We believe that the findings of this review are stimulating and provide valuable information to practitioners policy makers and researchers while presenting them with certain paths for future research .
+
+@highlight Systematic review addressing OR techniques and gained values from health BDA.
+@highlight Machine learning is the most applied technique amongst all health related data types.
+@highlight Machine learning tools provide diagnosis for personalized healthcare.
+@highlight Many studies focus on the development of automated algorithms for decision making.
+@highlight Future directions focus on IT development training and health data security mechanisms.

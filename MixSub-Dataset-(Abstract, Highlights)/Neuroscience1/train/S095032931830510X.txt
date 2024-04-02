@@ -1,0 +1,7 @@
+ Temporal Check All That Apply extends classical Check All That Apply by adding a temporal dimension to the evaluation . Because TCATA extends CATA an obvious visualization of product attribute associations over time is to treat product x time combinations as individual observations and then use classical Correspondence Analysis to visualize the associations . Often the CA results and visualization emphasize the chronological features . However this approach could lead to misinterpretations as time is not just a feature but also a confound . Because of time all products might show convergence to e.g .
+
+@highlight Correspondence Analysis CA of Temporal Check All That Apply T CATA data can lead to misinterpretation.
+@highlight Canonical CA and Conditional CA are evaluated as alternative approaches.
+@highlight Canonical CA emphasizes temporal effects common to all products.
+@highlight Conditional CA removes common temporal effects.
+@highlight Together they facilitate a richer and more accurate interpretation.

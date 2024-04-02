@@ -1,0 +1,7 @@
+ This study is a comparative analysis of inflation hedging properties of stocks gold and real estates for the US . It is hypothesised that the assets have varying market characteristics and thus should respond differently to high inflation . The Fisher s hypothesis for asset inflation hedging is constructed both within the bivariate and multivariate modelling frameworks . Thereafter some salient features typical of predictive models such as asymmetry time variation and structural breaks are incorporated in the estimation process for completeness . The results show that inflation hedging tendencies of assets are heterogeneous across the considered assets . The real estates and stocks prove to be good hedges against inflation while gold investment defies Fisher s hypothesis . Also the results are sensitive to the decomposition of data for pre and post GFC periods indicating that asset inflation hedging relationship for the US is time varying . The results are robust to alternative data frequencies .
+
+@highlight The inflation hedging of heterogeneous asset classes is examined.
+@highlight Only real estates and stocks were confirmed to provide hedge against inflation.
+@highlight The former produces a higher potential for inflation hedging than the latter.
+@highlight The result is robust to alternative specifications and data frequencies.
+@highlight It is however sensitive to sub periods of pre and post global financial crisis.

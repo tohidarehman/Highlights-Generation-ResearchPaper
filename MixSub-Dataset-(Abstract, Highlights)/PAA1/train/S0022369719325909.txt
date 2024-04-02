@@ -1,0 +1,7 @@
+ Ceramic pigments due to their properties of thermal stability and suitable optical characteristics are widely used in industries . Hence the theoretical study of pigments based on density functional theory is valuable to predict the structural electronic optical and especially colorimetric properties of them . We have synthesized the malayaite CaSnSiO
+
+@highlight Synthesis of the malayaite and Cr doped malayaite by the conventional ceramic route.
+@highlight DFT TDDFT calculations of the structures by the Quantum ESPRESSO and YAMBO code.
+@highlight Shift of the XRD and Raman peaks and resonance enhancement of vibrational modes for doped samples.
+@highlight Decrease of the gap and Fermi energies with increasing the doping concentration.
+@highlight Checking the correspondence of the absorption spectra and colorimetric results for all samples.

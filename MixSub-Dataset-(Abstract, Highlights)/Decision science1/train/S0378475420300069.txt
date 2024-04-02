@@ -1,0 +1,7 @@
+ In this study a novel computational paradigm based on Morlet wavelet neural network optimized with integrated strength of genetic algorithm and Interior point algorithm is presented for solving second order LaneEmden equation . The solution of the LEE is performed by using modelling of the system with MWNNs aided with a hybrid combination of global search of GAs and an efficient local search of IPA . Three variants of the LEE have been numerically evaluated and their comparison with exact solutions demonstrates the correctness of the presented methodology . The statistical analyses are performed to establish the accuracy and convergence via the Theils inequality coefficient mean absolute deviation and Nash Sutcliffe efficiency based metrics .
+
+@highlight The MWNN is designed successfully to solve the LEE.
+@highlight Exploration in NNs to find the accurate and consistent results for the LEE.
+@highlight The overlapping of the results established the correctness of the designed scheme.
+@highlight Validation of the performance is checked through the statistical operators.
+@highlight ANN is a good selection to solve complicated nonlinear models.

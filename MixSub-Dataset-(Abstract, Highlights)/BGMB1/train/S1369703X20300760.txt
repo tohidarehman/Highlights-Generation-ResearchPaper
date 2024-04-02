@@ -1,0 +1,6 @@
+ A kinetic model of a nitrifying expanded bed reactor for the pretreatment of drinking water was developed to analyze its behavior under different concentrations of influent dissolved oxygen ammonium and organic substrate . In laboratory an up flow expanded bed reactor linear velocity 15.5m h space velocity 7.8 h
+
+@highlight Mathematical model of water treatment with low strength ammonium and organics.
+@highlight A single set of oligotrophic biofilm kinetics applicable to different water sources.
+@highlight Identification of biofilm attachment and detachment in filtration run and backwash.
+@highlight Empirical equation on required oxygen to design the bioreactor.

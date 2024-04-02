@@ -1,0 +1,6 @@
+ This study presents the averaged lidar relevant radiative properties of numerically generated soot fractal aggregate ensembles . The radiative properties of these aggregates have been computed using the Superposition T Matrix Method with emphasis put on those that are most relevant to lidar application the backscattering and extinction cross sections the Lidar Ratio and the Linear Depolarization Ratio . These lidar relevant radiative properties have been computed over a broad spectrum going from the ultraviolet to the near infrared in order to address lidar instrument need for
+
+@highlight Lidar relevant parameters backscattering extinction lidar ratio and depolarization ratio are computed using MSTM for statistically representative ensembles of soot fractal aggregates.
+@highlight The monomer radius strongly influences all of the studied lidar relevant radiative properties
+@highlight The number of monomers per aggregate has also a strong effect on the lidar cross sections but has a limited impact on the lidar parameters such as the Lidar Ratio and the linear depolarization ratio.
+@highlight The aggregate fractal dimension has a weak impact on all lidar relevant radiative properties.

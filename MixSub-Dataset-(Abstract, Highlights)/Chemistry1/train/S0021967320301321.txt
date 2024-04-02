@@ -1,0 +1,7 @@
+ A new platform was developed for determination of drugs in plasma without extraction or instrumental analysis just using TLC smart phone digital camera and free image processing software . Lamotrigine antiepileptic drug was used as model analyte . The proposed platform depends on using oil in water microemulsion to isolate the drug from plasma proteins and using water in oil microemulsion as mobile phase for TLC which results in complete separation between lamotrigine and plasma as viewed under UV lamp . The composition of both microemulsions was optimized using Taguchi orthogonal array and Plackett Burman design . The optimal microemulsion predicted composition was 0.01mL Butyl acetate 4mL butanol 0.925 gm SDS and 8.6mL water while the mobile phase microemulsion was 9mL Butyl acetate 1mL butanol 0.25 gm SDS 0.25mL water . Separation was carried out on a silica gel 60F 254 plate eluted with the microemulsion in about 30min development time . The images of TLC plates were processed using 4 different programs by comparing their results it was found that integrated density measured by
+
+@highlight Oil in water microemulsion dissolved plasma proteins as sample pretreatment step.
+@highlight Water in oil microemulsion mobile phase separated plasma and lamotrigine on TLC plate.
+@highlight Image processing detected the concentration of lamotrigine directly on TLC plate.
+@highlight Both microemulsions were optimized using different experimental designs.
+@highlight Lamotrigine was determined in plasma without extraction or instrumental analysis.

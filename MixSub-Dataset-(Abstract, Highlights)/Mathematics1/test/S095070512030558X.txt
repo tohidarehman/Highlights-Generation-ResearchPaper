@@ -1,0 +1,7 @@
+ To avoid the curse of dimensionality resulting from a large number of features the most relevant features should be selected . Several scores involving must link and can not link constraints have been proposed to estimate the relevance of features . However these constraint scores evaluate features one by one and ignore any correlation between them . In addition they compute distance in the high dimensional original feature space to evaluate similarity between samples . So they would be corrupted by the curse of dimensionality . To deal with these drawbacks we propose a new constraint score based on a similarity matrix that is computed in the selected feature subspace and that makes it possible to evaluate the relevance of a feature subset at once . Experiments on benchmark databases demonstrate the improvement brought by the proposed constraint score in the context of both supervised and semi supervised learnings .
+
+@highlight A new constraint score is proposed for feature selection.
+@highlight It can be used in the context of both supervised and semi supervised learnings.
+@highlight It is based on similarity matrices to evaluate the relevance of a subset of features.
+@highlight It evaluates a subset of features at once and can identify redundant features.
+@highlight It outperforms the other state of the art constraint scores.

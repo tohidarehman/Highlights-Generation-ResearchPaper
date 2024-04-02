@@ -1,0 +1,7 @@
+ Large electricity consumers can purchase energy from various energy resources such as bilateral contracts pool market micro turbines battery storage systems wind turbines photovoltaic panels . The uncertainty of market price leads to uncertainty in the total cost to the LEC . Therefore in this article the robust optimization technique is provided to investigate the uncertainty of the pool market price in the presented problem . Also demand response program is provided to decrease the purchased cost to the LEC as much as possible . According to the obtained results without considering DRP purchased cost is approximately 40 253.252 and 42 586.984 respectively in the risk neutral strategy and robust strategy . Furthermore the purchased cost is reduced nearly 36 945.362 and 39 789.267 in the risk neutral and robust strategies with considering DRP . So it can be concluded that the purchased cost to the LEC with considering DRP is reduced 8.2 and 6.5 in risk neutral and robust strategies respectively .
+
+@highlight Renewable generation based energy procurement of large electricity consumer is studied.
+@highlight Large consumer participates in demand response program to reduce procurement cost.
+@highlight Risk neutral strategy is obtained with deterministic approach without uncertainty modeling.
+@highlight Robust optimization approach is proposed to model the pool market price uncertainty.
+@highlight Risk averse strategy as robust operation is obtained via robust optimization approach.

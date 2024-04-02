@@ -1,0 +1,7 @@
+ This study considers the effect of cross flow velocity and transmembrane pressure on flux and rejection behavior during nanofiltration of Eurasian water milfoil hydrolysate . Fractionation by nanofiltration was applied to obtain a glucose rich permeate solution and a concentrated retentate solution of other sugars and phenolics . Nanofiltration was performed in a cross flow rectangular flat sheet cell . Membrane Microdyn Nadir NP030 with molecular weight cut off 500 Da was used . The velocity and shear stress distribution on the membrane surface was modelled by CFD simulations . Mild hydrodynamic conditions are recommended based on the observed permeate flux and rejection difference between the targeted groups of compounds . The results are discussed in rapport with existing experimental observations in the literature .
+
+@highlight Fractionation by nanofiltration of a complex aquatic weed hydrolysate is performed.
+@highlight A glucose rich permeate and a retentate of other sugars and phenolics are obtained.
+@highlight Mild hydrodynamic conditions pressure and cross flow velocity are recommended.
+@highlight Optimal pressure is 10 bars where 54 of glucose is permeated and twice purified.
+@highlight CFD simulation confirms the good conditions for the used membrane operation modes.

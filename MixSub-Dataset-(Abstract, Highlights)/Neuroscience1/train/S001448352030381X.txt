@@ -1,0 +1,6 @@
+ Optical coherence tomography angiography is a rapidly developing technique which generates angiographic images non invasively . This study proposes a method to determine the vessel density in OCTA scans in general and especially the local peripapillary vessel density . The method produces vessel density heatmaps that contain information about the local vessel density . We apply the method in a small study to demonstrate its applicability and its potential to investigate the influence of local conditions on the vessel density . In the study we combine information from enhanced depth imaging optical coherence tomography about the location of optic disc drusen with information from OCTA about the vessel density . We see a reduction in local peripapillary vessel density in peripapillary sections with a large volume of ODD .
+
+@highlight The developed vessel density heatmaps enables investigation of local vessel density.
+@highlight Large optic disc drusen volume results in low local peripapillary vessel density.
+@highlight Investigation of the impact on vessel density from local anatomic conditions.
+@highlight Multiplexed optical coherence tomography imaging.

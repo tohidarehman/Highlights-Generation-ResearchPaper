@@ -1,0 +1,5 @@
+ We introduce two new inconsistency measures for the incomplete pairwise comparisons matrices and show several examples of their calculation . We also carry out a comparative analysis of the new inconsistency indices with the existing ones based on the Monte Carlo simulation .
+
+@highlight Definitions of two new inconsistency measures.
+@highlight Application for the incomplete pairwise comparisons matrices.
+@highlight Comparative analysis of the new inconsistency indices with the existing ones.

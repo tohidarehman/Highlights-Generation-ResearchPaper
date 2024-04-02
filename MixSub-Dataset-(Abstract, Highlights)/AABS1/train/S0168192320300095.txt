@@ -1,0 +1,6 @@
+ Although the eddy covariance technique provides direct and continuous measurements of evapotranspiration separate measurement of evaporation and transpiration at the ecosystem level is not possible . For partitioning ET into E and T high frequency time series EC observations collected from Apr 2016 to May 2018 over a rainfed alfalfa
+
+@highlight Alfalfa evapotranspiration ET was partitioned using Fluxpart software.
+@highlight Evaporation E and transpiration T were consistent with expected trends.
+@highlight T accounted for roughly 80 of the total ET during the alfalfa growing season.
+@highlight This study can provide a foundation for future applications of this procedure.

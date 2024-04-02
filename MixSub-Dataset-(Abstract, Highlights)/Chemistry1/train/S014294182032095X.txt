@@ -1,0 +1,6 @@
+ The process of filament to filament adhesion during polymer extrusion additive manufacturing is critically influenced by temperature distribution around the filament . Direct measurement of temperature distribution around the filament being deposited is therefore important for fully understanding this critical process . While past papers have reported side view
+
+@highlight Presents in plane temperature of build plate during polymer extrusion 3D printing.
+@highlight Utilizes an infrared camera in conjunction with an IR transparent window and mirror.
+@highlight Both filament and bed temperature fields are measured.
+@highlight Measurements help understand key thermal aspects of filament to bed interactions.

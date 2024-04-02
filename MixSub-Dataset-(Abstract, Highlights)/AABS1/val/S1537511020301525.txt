@@ -1,0 +1,8 @@
+ The quantification and identification of ground cover plays a key role in erosion modelling weed measurement plant disease identification and other environmental applications . Currently a variety of methods are used to mechanically classify digital images for ground cover . Only a few of these methods can distinguish green vegetation straw dormant vegetation and exposed soil using only the Red Green Blue spectrum . This research presents an approach to classifying ground cover using standard JPEG images and readily available
+
+@highlight Machine learning based ground cover identification method using decision trees.
+@highlight Identifies green vegetation straw dormant vegetation and exposed soil.
+@highlight Uses the red green blue spectrum and pre existing
+@highlight  2018b functions.
+@highlight Utilizes histogram of gradients green colour and image texture for identification.
+@highlight Validated using manual grid classification through

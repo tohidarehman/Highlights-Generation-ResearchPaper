@@ -1,0 +1,9 @@
+ The structure guided virtual screening has proved to be successful strategy in identification of new scaffolds for biological targets . The overactivity of NLRP3 inflammasome has been implicated in variety of inflammatory diseases including Alzheimer s disease . The up regulation of estrogen receptor activity has been directly linked with inhibition of NLRP3 inflammasome activity . In the present study we report discovery of new NLRP3 inflammasome inhibitors via ER crystal structure guided virtual screening of 20 000 compound library . For experimental validation top 10 ligands were selected based on structure novelty docking score prime MMGB SA binding affinity and interaction pattern analysis . Amongst the tested compounds three thiazolidin 4 ones IIIM 1268 IIIM 1269 and IIIM 1270 and benzo
+
+@highlight Virtual screening was employed for discovery of NLRP3 inflammsome inhibitors.
+@highlight Identified new class of NLRP3 inflammsome inhibitors.
+@highlight IIIM 1268 inhibited IL 1 release with IC
+@highlight of 2.3M.
+@highlight New inhibitors decreased the protein expression level of mature form of IL 1.
+@highlight Molecular modeling studies were performed with ER 1 and NLRP3.
+@highlight ADME properties were calculated and were within the range.

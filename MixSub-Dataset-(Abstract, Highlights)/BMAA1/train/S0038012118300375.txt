@@ -1,0 +1,7 @@
+ In this paper we propose a weighting scheme for constructing composite indicators based on Shannon entropy . Its main advantages are that it delivers a set of common weights across decision making units that allow for complete comparison and ranking and is easy to implement . It can also be extended to provide group specific weights . We explore the potential of the suggested weighing method by using it to re estimate the Human Development Index .
+
+@highlight Shannon entropy provides a set of common but not necessarily equal weights for the component indicators.
+@highlight Shannon entropy is used directly for the construction of the composite indicator.
+@highlight Weights are determined endogenously onthe basis of the relative variability of the component indicators across DMUs.
+@highlight The proposed method is much easier to implement.
+@highlight It can also be extended to provide group specific weights that are common within each group but vary across groups.

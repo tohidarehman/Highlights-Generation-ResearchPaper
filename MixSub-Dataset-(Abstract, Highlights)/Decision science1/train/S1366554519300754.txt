@@ -1,0 +1,7 @@
+ Emergency medical services systems equipped with both advanced and basic emergency vehicles often dispatch both types of vehicles to one call which is called multiple response . Multiple response allows for faster response times at the potential cost of making more vehicles unavailable for service . To evaluate the value of multiple response we formulate a Markov decision process model that dynamically determines which type of vehicle to dispatch based . We show that the optimal policies are class separable . Numerical experiments demonstrate that multiple response can significantly improve system performance when patients health needs are uncertain .
+
+@highlight We study how to route ambulances to patients.
+@highlight There are two types of ambulances that provide different levels of patient care.
+@highlight At the time of dispatch there is uncertainty regarding which type of ambulance a patient needs.
+@highlight We study when to send a single ambulance and when to send multiple ambulances.
+@highlight The model can inform decisions in tiered emergency medical services.

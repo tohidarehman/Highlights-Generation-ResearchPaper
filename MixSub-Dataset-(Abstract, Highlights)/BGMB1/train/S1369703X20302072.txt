@@ -1,0 +1,16 @@
+ Splitting anaerobic digestion processes into two reactors may be biologically advantageous but their separation in two stages significantly increases energetic costs . Therefore the aim of this work was to study the energetic feasibility of a two stage system producing hydrogen and methane by anaerobically co digesting whey and glycerin in a sequencing batch reactor . The highest methane productivity 185.9 molCH
+
+@highlight Tested viability of a two stage system producing H
+@highlight and CH
+@highlight from whey and glycerin 
+@highlight Highest methane productivity 185.9 molCH
+@highlight .m
+@highlight .d
+@highlight at 11.8 kgCOD.m
+@highlight .d
+@highlight Energy yield of two stage system 7.0MJ.kgCOD
+@highlight with US 8170 of savings 
+@highlight Energy yield of single stage system 12.0MJ.kgCOD
+@highlight with US 13 920 of savings 
+@highlight Two stage should be used when single stage achieves less than 8.8 molCH
+@highlight .kgCOD

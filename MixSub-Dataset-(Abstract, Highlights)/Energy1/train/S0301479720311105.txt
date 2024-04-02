@@ -1,0 +1,10 @@
+ To explore the impact of groundwater hydrodynamics on water quality a cost effective geospatial model was developed using geographic information system technology and the Dupuit assumption . Meanwhile the groundwater quality in the Dagu River Basin was evaluated based on the water quality index and multivariate statistical analyses . In April and September 2017 the groundwater level was automatically monitored from 115 wells and the water quality including 21 hydrochemical parameters was sampled from 37 wells . Results reveal that the WQI values varied from 35.01 to 64.74 with mean values of 51.89 and 47.87 in the rainy and dry seasons . Approximately 80 of the samples exhibited moderate water quality with no significant difference between the rainy and dry seasons . Nitrate pollution and the integrated water quality in the central and northern regions were generally worse than that in the southern region . The Darcy velocity in the central and northern regions was relatively high with a maximum rate of 0.56m d compared with the southern region . This correlation illustrates the effect of groundwater hydrodynamics on quality . The sowing of greater chemical fertilizers combined with faster groundwater movement is likely responsible for the largescale nitrate pollution in the central and northern regions . Results also proved the accuracy of the geospatial model with a valid uncertainty . The geospatial model provides a valuable alternative for the spatial analysis of the effect of groundwater hydrodynamics on water quality .
+
+@highlight Most groundwater samples exhibited a moderate quality status in Dagu River Basin.
+@highlight TH TDS F COD
+@highlight  NH
+@highlight N NO
+@highlight N and NO
+@highlight N were the most effective parameters.
+@highlight Geospatial modeling correlated groundwater quality to groundwater hydrodynamics.
+@highlight Groundwater movement contributed to nitrate pollution in the northcentral regions.

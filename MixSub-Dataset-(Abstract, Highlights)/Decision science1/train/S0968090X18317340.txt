@@ -1,0 +1,7 @@
+ The rise of e hailing taxis has significantly altered urban transportation system and led to a competitive taxi market with both traditional street hailing and e hailing taxis . The various taxi services provide similar door to door rides thus compete with each other . Meanwhile the expanding fleet size of e hailing taxis together with considerable number of traditional taxicabs influence the urban road network performance which can also in turn affect taxi mode choice and operation . In this study we propose an innovative modeling structure for the competitive taxi market and capture the interactions not only within the taxi market but also between the taxi market and urban road system .
+
+@highlight Model the e hailing taxi system using queuing modeling.
+@highlight Empirically show that the arrivals of taxi and service rate can be approximated as a Poisson process.
+@highlight Propose an algorithm to match the vehicles to passengers in the queue.
+@highlight Compute various performance metrics of the e hailing system using queuing models.
+@highlight Conduct various tests using real world data from New York City.

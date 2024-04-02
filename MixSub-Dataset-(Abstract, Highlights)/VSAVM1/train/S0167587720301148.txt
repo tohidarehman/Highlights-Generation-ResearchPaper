@@ -1,0 +1,7 @@
+ Our aim was to examine for the first time the spatial and network characteristics of cattle movements between herds in the Republic of Ireland to inform policy and research of relevance to the surveillance and management of disease in Irish cattle . We analysed movements in 2016 as discrete herd to herd pairings
+
+@highlight Much variation was observed across Ireland in the distribution of movement and the distances moved.
+@highlight Moves between herds tended to occur at close range and often within the same county.
+@highlight In contrast to similar studies there was limited evidence that the data followed a power law.
+@highlight Some herds combined a very high number of movements and long residence in the herd.
+@highlight Different measures of the amount of movement experienced by a herd were often poorly correlated.

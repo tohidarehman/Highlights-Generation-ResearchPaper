@@ -1,0 +1,6 @@
+ The use of microreactors in catalytic processes offers new possibilities for studying and optimizing many mass and photon transfer limited reactions . In this study we propose a scalable computational fluid dynamics model for the prediction of photocatalytic degradation of a model pollutant using immobilized N doped TiO
+
+@highlight Photocatalytic degradation of 4 nitrophenol in microreactor under solar irradiation.
+@highlight The used CFD model incorporates total recirculation mode of operation.
+@highlight The CFD model accounts for adsorption in the dark.
+@highlight The CFD model predicts experimental data in a wide range of reactant concentrations.

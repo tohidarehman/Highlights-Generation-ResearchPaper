@@ -1,0 +1,7 @@
+ Linear demand systems and quasi linear quadratic utility models are widely used in industrial economics . We clarify the link between the two settings and explain their exact origin as it seems to be little known by practitioners . We offer practical recommendations to achieve consistency tractability and a reasonable degree of generality when using the linear demand framework . We show that all tractable versions of the model used in practice are identical and have a mean variance structure . We provide concise ready to use formulae for the symmetric model . Finally we revisit and extend the asymmetric model of Shubik and Levitan .
+
+@highlight Overview of linear demand systems in IO.
+@highlight Make it clear that the model was introduced by Shubik and extended by Levitan and Shubik.
+@highlight The analysis is organized around Facts which are formal results useful for the understanding of the model.
+@highlight Ready to use formulae for the symmetric models currently used in practice.
+@highlight Introduction to an asymmetric model extending chapter 9 of Levitan and Shubik .

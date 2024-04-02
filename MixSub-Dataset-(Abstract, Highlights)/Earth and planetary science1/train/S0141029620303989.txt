@@ -1,0 +1,7 @@
+ Confined masonry is a widely used solution for buildings in developing countries and has potential for worldwide application when considering its economic and constructive advantages . Although a large background of experimental testing of CM walls is available numerical studies are further needed to extend the existing knowledge and derive analytical rules to adopt in design codes . In this work a parametric numerical study is performed aimed to characterize the lateral in plane response of CM walls under different variables and to establish a dataset for comparison of engineering demand parameters towards the proposal of predictive models . Benchmark walls tested under lateral in plane loading are used to calibrate a finite element modelling approach for pushover analysis . Based on the results of the parametric study a formulation and charts are proposed to respectively estimate the lateral resistance and displacement capacity of CM walls with features similar to the ones used as benchmark .
+
+@highlight Possibilities for application of CM and benchmark experimental tests are presented.
+@highlight Friction model with non associated plasticity is used for the frame masonry interface.
+@highlight Effect of wall characteristics on different engineering demand parameters is studied.
+@highlight A new strength formulation of CM walls which includes flexural failure is presented.
+@highlight Backbone models for in plane response of CM walls in shear and flexure are proposed.

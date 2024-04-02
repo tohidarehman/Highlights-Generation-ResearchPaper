@@ -1,0 +1,7 @@
+ This study presents an effort to investigate the determinants of driver injury severity in run off road crashes . In order to account for unobserved heterogeneity a random parameter ordered probit with heterogeneity in the means approach is applied . The police reported ROR crash data that occurred from 2014 to 2017 in the state of North Carolina is used . Four injury severity levels are defined property damage only possible injury non incapacitating and F I . The driver crash roadway environmental characteristics that potentially affect the driver injury severity are explored . Besides the temporal stability of modeling results among the four time periods is investigated using a series of likelihood ratio tests . Significant temporal instability is found indicating underestimating the temporal instability might result in unreliable conclusions . Estimation results demonstrate that the indicators including male driver alcohol and curved roadways increase the possibility of fatal and incapacitating injuries in the ROR crash in most of the year periods .
+
+@highlight Injury severity of run off road crashes was studied and affecting factors on the driver crash severity were investigated.
+@highlight Random parameters ordered probit with heterogeneity in the means approach was used.
+@highlight Unobserved heterogeneity was accounted for and temporal stability of factors was examined.
+@highlight Significant temporal instability was found using the likelihood ratio tests.
+@highlight Marginal effects of specific contributing variables varied over time.

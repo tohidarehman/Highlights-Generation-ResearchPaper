@@ -1,0 +1,5 @@
+ We present the first flight data using a Computational Reconfigurable Imaging Spectrometer system . CRISP is a novel hyperspectral thermal imaging spectrometer that uses computational imaging to enable high sensitivity measurements from smaller noisier and less expensive components making it useful on small space and air platforms with strict size weight and power requirements . In contrast to other multiplexing hyperspectral solutions it does not require moving parts allowing for a robust system without aggressive engineering solutions . We discuss flight system design and calibration . Spectra from ground targets and gaseous species are compared to performance expectations . We successfully demonstrate the ability to extract airborne longwave infrared imagery and spectra from an uncooled camera based CRISP system .
+
+@highlight CRISP is an ultra compact means of collecting hyperspectral imagery.
+@highlight Airborne collection of longwave infrared spectra using uncooled microbolometers.
+@highlight Airborne detection of gaseous species using longwave spectrometry.

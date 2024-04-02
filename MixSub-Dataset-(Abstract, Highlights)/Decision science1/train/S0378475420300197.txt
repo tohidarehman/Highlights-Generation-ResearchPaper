@@ -1,0 +1,6 @@
+ In this paper we propose a corner cutting algorithm for nets of functions and prove its convergence using some approximation ideas first applied to the case of corner cutting algorithms refining points with weights proposed by Gregory and Qu . In the net case convergence is proved for the above mentioned weights satisfying an additional condition . The condition requires a bound on the supremum of the relative sizes of the cuts .
+
+@highlight We provide a simple convergence proof of corner cutting algorithms refining points.
+@highlight We extend the corner cutting algorithm to nets of functions.
+@highlight We show convergence of corner cutting algorithms for bivariate nets of functions.
+@highlight Both proofs are based on a novel approximation idea.

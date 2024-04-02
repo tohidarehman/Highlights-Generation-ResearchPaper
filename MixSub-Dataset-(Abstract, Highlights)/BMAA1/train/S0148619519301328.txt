@@ -1,0 +1,6 @@
+ A well known criticism of the RBC model is that it can not match the data on money . Due to the perfect flexibility of prices and the absence of frictions any exogenous increase in the money supply will be fully offset by wage and price increases implying that money is neutral even in the short run . However beliefs that money is non neutral could become a self fulfilling prophesy . By using money as a sunspot variable in an RBC model I successfully replicate many of the correlations in the data even though money does not directly affect the economys fundamentals . This shows that models with flexible prices are not necessarily incompatible with the monetary data and offers support for the use of sunspot variables in macroeconomics .
+
+@highlight In a standard RBC model money is neutral. This is not supported by the data.
+@highlight Using money as a sunspot variable can reconcile the RBC model with the money data.
+@highlight The RBCs frictionless environment and flexible prices are retained.
+@highlight My model identifies a specific sunspot variable.

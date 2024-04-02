@@ -1,0 +1,5 @@
+ Rotor unmanned aerial vehicles for pesticide spraying have been widely used in China during the past three years . In order to improve the effectiveness of pesticide application and reduce environmental risk caused by spray drift it is important to clarify the spatiotemporal distribution characteristics of airflow field of the drone . The airflow field produced by the UAV plays a key role in droplets delivery during the spraying . In this study the lattice Boltzmann method based on a mesoscopic kinetic model was used to simulate the airflow field of a sixrotor plant protection drone . The airflow field of drone in hover and at varied flight speeds 1.05.0ms
+
+@highlight Airflow field of drone plays a key role in droplets delivery during the spraying.
+@highlight The airflow field was simulated successfully by LBM.
+@highlight Flight speed and altitude had a significant effect on the distribution of airflow field.

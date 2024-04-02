@@ -1,0 +1,7 @@
+ The combustion properties of dimethyl ether are similar to the conventional fuels hence it is being used as a promising green energy source . The conventional method of DME production by methanol dehydration is highly energy consuming due to the use of a series of distillation columns . In the present study an energy efficient reactive distillation configuration is proposed for DME production which leads to higher methanol conversion with less energy requirement as compared to reported configurations . The reactive distillation and dual reaction zone reactive divided wall column were analyzed using steady state ASPEN simulations . Subsequently all the design parameters were optimized by sensitivity analysis to minimize the Total Annual Cost of the configuration . The results showed that the RD column is more energy efficient than RDWC as it requires 10.68 less TAC . The proposed RD and dual reaction zone RDWC configurations were found to have less specific energy requirements and less cost per kg of DME than any other configuration reported earlier .
+
+@highlight Intensified energy efficient reactive distillation configurations are proposed for DME production.
+@highlight The configurations are analyzed using steady state ASPEN simulations.
+@highlight Design parameters were optimized by systematic sensitivity analysis approach.
+@highlight The RD column was found to be more energy efficient than RDWC.
+@highlight Both proposed configurations offers reduction in specific energy requirement.

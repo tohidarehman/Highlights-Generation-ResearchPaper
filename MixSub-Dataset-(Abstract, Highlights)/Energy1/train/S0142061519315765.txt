@@ -1,0 +1,6 @@
+ The rapid adoption of Li ion batteries in electric vehicles merchant storage applications and as providers of ancillary services to the electric grid requires the development of tractable and accurate models for their reliable operation . For such operations it is common practice to use generic and ideal storage mathematical models i.e . models in which the storage efficiency and power limits are considered constant resulting in a possible miscalculation of the flexibility and profit gained from the use of storage units .
+
+@highlight A detailed linear model for Li ion batteries is provided.
+@highlight The developed model provides technical limits for the battery based on its state of energy and requested power.
+@highlight Expressions for the efficiencies dependent on the operation point are presented as well.
+@highlight The proposed model can be adapted for the implementation of diverse energy storage applications.

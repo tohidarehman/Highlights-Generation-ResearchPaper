@@ -1,0 +1,6 @@
+ In this work we propose the Fisher DisEn plane by the discrete Fisher information measure and dispersion entropy to analyze complex dynamic systems . Multiple trials with different artificial chaos and noises are carried out regarding their capability on distinguishing different levels of chaos distinguishing different chaos distinguishing different noise distinguishing between chaos and noise . Compared with the original complexity entropy causality plane our method is more superior in extracting more subtle details to distinguish different dynamic systems . In the experiments with the financial series our method is found to be more reasonable in discriminating stock markets from different parts of the world by making comparisons with original method .
+
+@highlight We propose the Fish DisEn plane to analyze time series from complex dynamic systems.
+@highlight The new approach is capable of extracting more detailed information from time series.
+@highlight We apply our proposed method to the simulated time series to test the validity of distinguishing different chaos and noises.
+@highlight Our method is more reasonable in discriminating stock markets from different parts of the world by making comparison with original method.

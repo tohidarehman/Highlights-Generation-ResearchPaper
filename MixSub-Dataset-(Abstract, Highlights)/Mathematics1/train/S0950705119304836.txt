@@ -1,0 +1,6 @@
+ The rise in the Internet of Things and other sensor networks has created many vertically distributed and high velocity data streams that require specialized algorithms for true distributed data mining . This paper proposes a novel Hierarchical Distributed Stream Miner that learns relationships between the features of separate data streams with minimal data transmission to central locations . Experimental evaluation demonstrates significant improvements in classification accuracy over previously proposed distributed stream mining approaches while minimizing data transmission and computational costs . HDSMs potential for dynamically trading off accuracy with computational resource costs is also demonstrated .
+
+@highlight A novel architecture for distributed stream mining with limited data centralization.
+@highlight A protocol for optimizing data transmission volume in a streaming environment.
+@highlight An algorithm for automatically adapting the architecture to data stream concept drift.
+@highlight A set of real world datasets for distributed stream mining evaluation.

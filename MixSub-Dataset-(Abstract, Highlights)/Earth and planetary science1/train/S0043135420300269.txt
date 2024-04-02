@@ -1,0 +1,7 @@
+ Continuous high frequency water quality monitoring is becoming a critical task to support water management . Despite the advancements in sensor technologies certain variables can not be easily and or economically monitored in situ and in real time . In these cases surrogate measures can be used to make estimations by means of data driven models . In this work variables that are commonly measured in situ are used as surrogates to estimate the concentrations of nutrients in a rural catchment and in an urban one making use of machine learning models specifically Random Forests . The results are compared with those of linear modelling using the same number of surrogates obtaining a reduction in the Root Mean Squared Error of up to 60.1 . The profit from including up to seven surrogate sensors was computed concluding that adding more than 4 and 5 sensors in each of the catchments respectively was not worthy in terms of error improvement .
+
+@highlight Surrogates are used to predict different fractions of nitrogen and phosphorus.
+@highlight The minimum best set of sensors is determined through sequential forward subset.
+@highlight Multiple linear regression does not benefit from including more than two variables.
+@highlight Random Forests greatly benefit from including up to five variables.
+@highlight Random Forests reach considerably better results than multiple linear regression.

@@ -1,0 +1,6 @@
+ In this study an online capillary electrophoresis based dual enzyme co immobilized microreactor was constructed for studying enzyme kinetics and screening dual target inhibitors against THR and FXa with the aid of the polydopamine graphene oxide coating . Based on the developed THR FXa IMER the Michaelis Menten constants
+
+@highlight An online CE based THR FXa IMER with good stability and repeatability is developed.
+@highlight The prepared IMER is applied to screen dual target inhibitors against THR and FXa.
+@highlight Molecular interaction between enzyme inhibitor is verified via molecular docking.
+@highlight A new structure with high inhibition activity is theoretically found by scaffold hopping

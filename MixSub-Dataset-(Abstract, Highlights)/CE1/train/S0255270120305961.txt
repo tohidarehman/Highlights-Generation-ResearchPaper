@@ -1,0 +1,7 @@
+ A numerical investigation of ultrasonic dual frequency waveform assisted transesterification was performed . The dual frequency waveforms of square waves sine waves and sawtooth waves were explored . For non sinusoidal signals the Fourier coefficient and Fourier series were applied to convert the signal into the sum of sinusoidal waves in order to determine the bubble cavitation using Rayleigh Plesset equation . The bubble radius ratios
+
+@highlight Three different dual waves SQ SQ SIN SIN and ST ST were studied.
+@highlight Combined SQ SQ waves have stronger effect on bubble size.
+@highlight Harmonic frequency order HFO was also examined for cavitation effect.
+@highlight The 9th HFO gave a maximum bubble radius ratio for SQ SQ.
+@highlight Increasing HFO has no positive effect on the bubble radius ratio for ST ST.

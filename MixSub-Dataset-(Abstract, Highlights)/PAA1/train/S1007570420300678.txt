@@ -1,0 +1,7 @@
+ Van der Pol and Rayleigh oscillators are two traditional paradigms of nonlinear dynamics . They can be subsumed into a general form of LinardLevinsonSmith system . Based on a recipe for finding out maximum number of limit cycles possible for a class of LLS oscillator we propose here a scheme for systematic designing of generalised Rayleigh and Van der Pol families of oscillators with a desired number of multiple limit cycles . Numerical simulations are explicitly carried out for systematic search of the parameter space for bi rhythmic and tri rhythmic systems and their higher order variants .
+
+@highlight Based on a general scheme of counting limit cycle of a given LLS equation we have proposed a recipe for multi rhythmicity.
+@highlight For polynomial damping and restoring force functions we have constructed birhythmic and tri rhythmic oscillators of Van der Pol and Rayleigh families.
+@highlight New alternative generalizations of Van der Pol and Rayleigh families of bi rhythmicity and tri rhythmicity.
+@highlight The scheme is used to simulate the valid range of parameters for realizing limit cycle oscillations with different generalizations of bi rhythmic and tri rhythmic Rayleigh and Van der Pol families.
+@highlight As multi rhythmicity plays an important role in switching transitions between different dynamical states its control and manipulation would be useful.

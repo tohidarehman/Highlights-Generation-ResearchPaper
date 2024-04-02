@@ -1,0 +1,6 @@
+ Here we describe a new HPLCMS MS method using a mixed mode stationary phase and a binary gradient of elution for the rapid separation and quantification of AAs in human plasma without derivatization or ion pairing reagent addition . The sample preparation procedure consists in a single dilution step after protein precipitation with sulfosalicylic acid . The proposed method allows for the unambiguous identification and analysis of 52 AAs and related compounds including the separation of isomers and isobars in an 18 min chromatographic run including the conditioning and the equilibration times . AAs were detected by selective reaction monitoring . Internal calibration was used for the quantification of 37 AAs including 25 using the corresponding isotopically labeled internal standards . External calibration was used for five additional analytes . Qualitative detection was achieved for the remaining compounds .
+
+@highlight Amino acid analysis in plasma is of utmost importance in human medicine
+@highlight Actual methods of amino acid analysis are very time consuming or not specific or not robust
+@highlight HPLC MS MS using a mixed mode stationary phase avoids pre column derivatization of amino acids
+@highlight HPLC MS MS using a mixed mode stationary phase avoids ion pairing reagent adding to amino acids

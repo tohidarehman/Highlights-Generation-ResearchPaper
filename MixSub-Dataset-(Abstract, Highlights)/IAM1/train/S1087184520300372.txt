@@ -1,0 +1,5 @@
+ MicroRNAs play important roles in various cellular growth and developmental processes through post transcriptional gene regulation via mRNA cleavage and degradation and the inhibition of protein translation . To explore if miRNAs play a role in appressoria formation and virulence that are also governed by the regulators of G protein signaling proteins in the rice blast fungus
+
+@highlight MicroRNA like milR236 targets the sequence encoding MoHat1.
+@highlight milR236 overexpression induces delayed appressorium formation and virulence attenuation.
+@highlight milR236 expression is regulated by the transcription factor MoMsn2.

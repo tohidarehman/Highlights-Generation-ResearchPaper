@@ -1,0 +1,6 @@
+ We develop detailed simulation models for examining how various seaside infrastructure improvement measures of a marine crude oil terminal can increase its maximum oil throughput reduce tanker delays and minimize the total system cost over a certain planning horizon . The models account for special navigation constraints for oil tankers realistic tidal constraints and practical priority rules for different tanker types at the Rizhao Shihua Oil Terminal in China . Results show that the most cost effective measure is adding a buffer to increase the one way channels tanker handling capacity . This novel low cost measure thus holds much promise for real world implementation .
+
+@highlight We develop realistic simulation models for tanker operations at a crude oil terminal with a one way channel.
+@highlight Models account for unique navigation rules and tidal constraints that apply to crude oil terminal operations.
+@highlight Models are used to compare various seaside infrastructure improvement measures for future planning.
+@highlight Simulation results show that adding a buffer alongside the channel is most cost effective.

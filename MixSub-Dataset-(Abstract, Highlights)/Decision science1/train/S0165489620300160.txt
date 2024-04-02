@@ -1,0 +1,7 @@
+ We consider the problem where agents bargain over their shares of a perfectly divisible commodity . The aim of this paper is to identify the class of bargaining solutions induced by dominant strategy implementable allocation rules . To this end we characterize the class of dominant strategy implementable allocation rules and impose the property of welfarism which makes it possible for any allocation rule to induce a bargaining solution . Our main result is that an allocation rule is dominant strategy implementable and satisfies welfarism and some mild requirements if and only if it induces a dictatorial solution .
+
+@highlight We study dominant strategy implementation in bargaining environments.
+@highlight We characterize the class of dominant strategy implementable DSI rules.
+@highlight We identify the class of bargaining solutions induced by desirable DSI rules.
+@highlight Only dictatorial solutions are induced by desirable DSI rules.
+@highlight Some desirable DSI rules are non dictatorial but they all cannot induce any solution.

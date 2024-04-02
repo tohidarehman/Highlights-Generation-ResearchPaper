@@ -1,0 +1,6 @@
+ The enzyme 1 4 dihydroxy 2 naphthoic acid prenyltransferase is a critical player in determining the eciency of the menaquinone synthesis pathway and is an attractive target for the development of novel chemotherapeutics against pathogenic Gram positive bacteria . However there has been no report on structural properties or active region of MenA . To solve this challenge we predicted the three dimensiona structure and critical amino acid sites of MenA by bioinformatics analysis . Six amino acid sites were chosen by alligning the amino acid sequence of MenA from
+
+@highlight Four Asp sites are vital for 1 4 dihydroxy 2 naphthoic acid prenyltransferase MenA .
+@highlight Two sites Q67th N74th positively affect MenA activity and menaquinone titer.
+@highlight Mutant which Q67th was changed to R67th in MenA results a 5 fold increase in Y
+@highlight Hydrophobic interaction was beneficial for promoting MenA activity.

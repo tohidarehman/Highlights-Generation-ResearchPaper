@@ -1,0 +1,6 @@
+ In this semi tutorial paper we revisit the interference phenomena caused by pairs of co propagating or counter propagating transverse electromagnetic waves by letting the host medium be absorbing . We first consider plane waves in an unbounded medium summarize the standing wave solution of the Maxwell equations and discuss specific effects caused by nonvanishing absorption . We then consider the superposition of plane and spherical waves in the context of far field electromagnetic scattering by a particle . To this end we modify the classical Jones lemma by allowing nonzero absorption in the host medium and consider its most obvious consequences such as forward and backscattering interference . The physical similarity of the two scenarios is discussed .
+
+@highlight We revisit interference phenomena caused by pairs of co propagating or counter propagating transverse electromagnetic waves by letting the host medium be absorbing.
+@highlight We first consider plane waves in an unbounded medium.
+@highlight We then consider the superposition of plane and spherical waves in the context of far field electromagnetic scattering by a particle.
+@highlight The physical similarity of the two scenarios is discussed.

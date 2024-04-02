@@ -1,0 +1,7 @@
+ Low temperature stress is known to restrain sugarcane productivity in sub tropical regions significantly . Many researchers have prioritized their work towards developing climate resilient sugarcane varieties incorporating genome of stress tolerant sugarcane related wild type species in the pre breeding programs . However the lack of genomic resources for wild type sugarcane limits the identification and utilization of stress related genes in molecular breeding . In this study for the first time we generated 182 million RNA seq paired end reads for
+
+@highlight First time course root transcriptomes of wild sugarcane challenged with cold stress.
+@highlight 4425 Unigenes differentially expressed under cold stress.
+@highlight Several transcription factors stress responsive genes and pathways were involved.
+@highlight Phenylpropanoid and galactose pathways most significantly upregulated in long term.
+@highlight A useful resource for developing climate resilient sugarcane varieties.

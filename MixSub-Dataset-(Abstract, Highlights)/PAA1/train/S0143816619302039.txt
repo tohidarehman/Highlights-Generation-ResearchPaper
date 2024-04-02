@@ -1,0 +1,5 @@
+ The problem of phase recovery in phase shifting interferometry when the introduced phase shifts are unknown has been analyzed by existing methods through the modification or combination of the least squares and the principal component analysis approaches . In this paper we show that the PSI sequence of images can be written in a matrix form as the product of two matrices V and U where the matrix V contains the components of the modulating phase and the matrix U contains the components of the phase shifts . The VU matrix describes the PSI images without restrictions on the background illumination or the phase shifts thus the phase shifts can be given arbitrarily and they do not need to cover the interval 0 2
+
+@highlight A novel factorization method for phase shifting interferometry.
+@highlight Processing phase shifting fringe patterns without knowing the phase shifts.
+@highlight A robust phase demodulation method for phase shifting interferometry.

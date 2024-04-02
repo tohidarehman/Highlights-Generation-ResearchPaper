@@ -1,0 +1,7 @@
+ A multi channel wavy filler for moving bed biofilm reactor was prepared using 3D printing technology . The treatment effect of the 3D printed filler on simulated rural domestic sewage was tested and the control filler was a widely used multi faced hollow ball filler . The results showed that the 3D printed filler has a biofilm formation rate more than 20 higher than that of the control filler at the startup stage . The 3D printed filler works best when the aeration is 11.5L min HRT is 4h and the pH is 7.5 . The COD removal rate is 88.95 and the ammonia nitrogen removal rate is 93.43 . The effects of different fillers on the velocity field vorticity distribution and gas phase distribution in the reactor were analyzed by numerical simulation . The compact and tortuous gully structure on the surface of the multi channel wavy filler has a good cutting and breaking effect on the bubbles . Its gradually narrowed channel structure reduces the gradient of dissolved oxygen from the outside to the inside of the filler providing a good environment for simultaneous nitrification and denitrification .
+
+@highlight A 3D printed suspended filler was tested in a moving bed bioreactor.
+@highlight The COD removal rate of the 3D printed filler is 88.95 and the NH
+@highlight  N removal rate is 93.43 .
+@highlight The effect of 3D printed filler on aeration was simulated in Fluent.
+@highlight The 3D printed filler has a better gas dispersion effect in MBBR.

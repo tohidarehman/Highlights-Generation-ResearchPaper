@@ -1,0 +1,6 @@
+ Evidence Based Medicine has been an important practice for medical practitioners . However as the number of medical publications increases dramatically it is becoming extremely difficult for medical experts to review all the contents available and make an informative treatment plan for their patients . A variety of frameworks including the PICO framework which is named after its elements have been developed to enable fine grained searches as the first step to faster decision making .
+
+@highlight Neural end to end PICO Entity Recognizer that identifies Population Intervention Comparator and Outcome entities in medical publications.
+@highlight Novel Neural Network architecture for Entity Recognition involving a self attention mechanism a 2D Convolution feature extraction from character embeddings and a Highway residual connection.
+@highlight A PICO Statement classifier that identifies sentences containing all the PICO Entities and answering clinical questions.
+@highlight A high quality manually annotated by medical practitioners dataset for PICO Statement classification.

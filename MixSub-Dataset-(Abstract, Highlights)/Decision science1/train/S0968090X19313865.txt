@@ -1,0 +1,7 @@
+ Lanes used by taxis and other shared ride vehicles at airports and rail terminals are often congested . The present paper examines congestion mitigating strategies for a special type of lane inside of which taxis are prohibited from overtaking each other while dropping off patrons . Taxis must therefore often wait in first in first out queues that form in the lane during busy periods . Patrons may be discharged from taxis upon reaching a desired area near the terminal entrance . When wait times grow long however some taxis discharge their patrons in advance of that desired area .
+
+@highlight Taxi outflows from FIFO drop off lanes are examined via simulation calibrated to real data.
+@highlight Taxis decisions on the location and time for drop offs are explicitly modeled.
+@highlight Taxi outflow would increase significantly if the lanes present batching strategy is rescinded.
+@highlight Even greater outflow gains can be achieved by regulating taxis drop off behavior.
+@highlight Roles for technology in implementing proposed strategies are discussed.

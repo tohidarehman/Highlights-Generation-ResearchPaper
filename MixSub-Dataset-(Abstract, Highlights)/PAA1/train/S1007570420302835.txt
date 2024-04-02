@@ -1,0 +1,7 @@
+ Positive and negative nonlinear integrable lattice hierarchies are established starting from a discrete matrix spectral problem with three potential functions particularly the corresponding Hamiltonian structures are presented respectively with the help of the trace identity all these facts show that these two hierarchies are integrable in Liouville sense . By using Lax pair we derive infinite number of conservation laws and
+
+@highlight Construct positive and negative integrable lattice hierarchies and corresponding Hamiltonian structures.
+@highlight Derive the infinite number of conservation laws.
+@highlight Establish
+@highlight  fold Darboux transformations.
+@highlight Present explicit exact solutions and plot figures to illustrate the propagation of solitary waves.

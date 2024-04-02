@@ -1,0 +1,8 @@
+ This paper proposes an analytical method to determine maximum torque per ampere trajectories in the voltage plane for interior permanent magnet synchronous machines . The MTPA is formulated as an optimization problem and its solution is obtained within a closed form function from the current and voltage planes . In consequent the MTPA tracking control strategy with the novel closed loop direct voltage control is developed for the IPMSM drive systems . Comparison studies against the well known conventional current regulation based MTPA tracking control strategy illustrate the superiority of the developed strategy in various aspects as well as its efficient MTPA tracking capability . Furthermore it also shows more robustness to the IPMSMs parameter variations than conventional strategy from voltage constraint point of view .
+
+@highlight Explaining analytical method to achieve MTPA trajectory in the current plane.
+@highlight Calculating the nominal and accurate point for the IPMSM.
+@highlight Obtaining the voltage based MTPA trajectory by current and voltage restrictions in the voltage plane.
+@highlight Formulating MTPA as a constrained optimization problem under closed form function.
+@highlight Designing a novel MTPA tracking control strategy with closed loop direct voltage regulation.
+@highlight Demonstrating the robustness and superiority of the proposed strategy in MATLAB.

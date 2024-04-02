@@ -1,0 +1,6 @@
+ A hybrid model was developed for simulation of continuous wet granulation of pharmaceutical formulations via twin screw granulator . The model was based on population balance model for prediction of particle size distribution while artificial neural network was used for estimation of mean residence time which is required for numerical solution of PBM . A new numerical scheme based on finite volume approach was developed for solution of one dimensional PBM to predict granule size distribution obtained in a twin screw granulator . The model takes into account liquid and feed flow rates and screw speed while the granule size distribution is the model s main output . Aggregation and breakage were considered as the main mechanisms in the process and the model was developed and solved for different zones of extruder i.e . conveying and kneading ones . The model s predictions were validated through comparing with experimental data collected using a 12
+
+@highlight Continuous wet granulation of pharmaceutical formulations.
+@highlight Compartmental modelling of twin screw granulation using population balance.
+@highlight Development of hybrid ANN finite volume scheme to solve the model.
+@highlight Studying the effect of numerical method for solving compartmental population balance models.

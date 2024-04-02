@@ -1,0 +1,7 @@
+ The advent of supercritical fluid chromatography in the 90s has changed preparative liquid chromatography . SFC is an improved way for separating chiral compounds during drug discovery processes yielding upwards of one hundred grams of pure enantiomers or during clinical trials requiring higher quantities .
+
+@highlight Propranolol is separated by SFC on Chiralpak AD H.
+@highlight Four columns of different dimension were used.
+@highlight Column dimension impacts production rate and productivity.
+@highlight Column dimension does impact solvent use and E Factor.
+@highlight The utilization of the shortest column leads to the highest productivity.

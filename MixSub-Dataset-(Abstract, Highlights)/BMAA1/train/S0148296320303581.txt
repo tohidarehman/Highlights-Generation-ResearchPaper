@@ -1,0 +1,7 @@
+ Machine learning is expected to transform the business landscape in the near future completely . Hitherto some successful ML case stories have emerged . However how organizations can derive business value from ML has not yet been substantiated . We assemble a conceptual model grounded on the dynamic capabilities theory to uncover key drivers of ML BV in terms of financial and strategic performance . The proposed model was assessed by surveying 319 corporations . Our findings are that ML use big data analytics maturity platform maturity top management support and process complexity are to some extent drivers of ML BV . We also find that platform maturity has to some degree a moderator influence between ML use and ML BV and between big data analytics maturity and ML BV . To the best of our knowledge this is the first research to deliver such findings in the ML field .
+
+@highlight The proposed model emerges as the first machine learning business value framework.
+@highlight Platform maturity stands out as a catalyst of financial and strategic performance.
+@highlight Big data analytics maturity and machine learning use positively impact firms KPIs.
+@highlight Process complexity represents a major driver of strategic machine learning value.
+@highlight This study urges C level to reassess the machine learning strategic roadmap.

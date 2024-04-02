@@ -1,0 +1,7 @@
+ We investigate herding at the aggregate market level and for portfolios formed according to firm size using data from the Singapore Stock Exchange . We find that herding is pronounced at the market level and in each size portfolio . This herding is shown to be both spurious and intentional for the overall market and larger portfolios but only intentional for the smaller portfolios . There is also significant evidence of cross portfolio herding . The results further indicate that herding is more prevalent during rising market conditions . Lagged microstructures are also shown to exacerbate herding at the aggregate level and in each size portfolio . These results are robust when we control for global market volatility and market performance . Our analysis also considers the time varying nature of herding using a state space model . We find that herding on the market evolves over time with changes in market events microstructures and investor sentiment . The time varying herding in most size based portfolios generally behave in line with the overall market .
+
+@highlight Herding is prominent on the SGX at the market level and for size based portfolios.
+@highlight Herding is both intentional and spurious.
+@highlight Investors also herd across other portfolios of different sizes.
+@highlight Lagged microstructures including liquidity and volatility increase herd behaviour.
+@highlight A state space model captures the evolution of herding.

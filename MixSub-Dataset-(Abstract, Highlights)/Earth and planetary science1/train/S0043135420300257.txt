@@ -1,0 +1,6 @@
+ Benzene is a toxic contaminant and can harm many aquatic species and cause serious damages to the river eco system if released to rivers . In 2012 a major spill accident occurred on the Huaihe River in Eastern China with 3 tons of benzene released to the river section 70km upstream of a natural reserve . Two emergency measures were taken to minimize the impact of the accident on the natural reserve 1 flow control by adjusting upstream sluices to delay the arrival of the contaminant plume at the reserve and 2 in situ treatment using activated carbons to reduce the contaminant concentration . Here we develop a process based mathematical model to analyze the monitoring data collected shortly after the accident and explore not only how effective the adopted measures were over the incident but more importantly the mechanisms and critical conditions underlying the effectiveness of these measures . The model can be used as a tool for designing optimal management responses to similar spill accidents in regulated river systems combining flow control and in situ treatment .
+
+@highlight A process based mathematical model was developed.
+@highlight Active carbons removed benzene from the river water.
+@highlight The flow control and in situ treatment can effectively reduce benzene.
+@highlight Design an optimal management responses to contaminant spill accidents.

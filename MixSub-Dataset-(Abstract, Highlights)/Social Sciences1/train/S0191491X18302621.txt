@@ -1,0 +1,6 @@
+ This study investigated differential item functioning differential bundle functioning and differential test functioning across gender of the reading comprehension section of the Graduate School Entrance English Exam in China . The datasets included 10 000 test takers item level responses to 6 five item testlets . Both DIF and DBF were examined by using poly simultaneous item bias test and item response theory likelihood ratio test and DTF was investigated with multi group confirmatory factor analyses . The results indicated that although none of the 30 items exhibited statistically and practically significant DIF across gender at the item level 2 testlets were consistently identified as having significant DBF at the testlet level by the two procedures . Nonetheless DBF does not manifest itself at the overall test score level to produce DTF based on MG CFA . This suggests that the relationship between item level DIF and test level DTF is a complicated issue with the mediating effect of testlets in testlet based language assessment .
+
+@highlight None of the 30 items exhibited bias across gender at the item level.
+@highlight Two bundles significantly favored males over females.
+@highlight The reading section functioned the same across gender at the test level.
+@highlight The relationship between item and test bias is complex in testlet based assessment.

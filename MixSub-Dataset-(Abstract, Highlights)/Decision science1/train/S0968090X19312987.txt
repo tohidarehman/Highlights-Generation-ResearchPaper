@@ -1,0 +1,5 @@
+ In this paper we review trajectory data based traffic flow studies that have been conducted over the last 15years . Our purpose is to provide a roadmap for readers who have an interest in the latest developments of traffic flow theory that have been stimulated by the availability of trajectory data . We first highlight the critical role of trajectory data trajectory dataset in the recent history of traffic flow studies . Then we summarize new traffic phenomena models at the microscopic mesoscopic macroscopic levels and provide a unified view of these achievements perceived from different directions of traffic flow studies . Finally we discuss some future research directions .
+
+@highlight Provide a comprehensive review of trajectory based traffic flow studies.
+@highlight Make a survey focusing on the new phenomena and the new models in the last 15years.
+@highlight Highlight the future research directions.

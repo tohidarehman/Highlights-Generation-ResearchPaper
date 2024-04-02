@@ -1,0 +1,5 @@
+ The separation of industrial azeotropes by a new integrated process of distillation membrane separation has the prominent advantages for energy saving and environmental protection . In view of the variety of industrial azeotrope types this paper proposes a comprehensive solution strategy based on intelligent genetic programming for the distillation membrane separation integration process . Based on Visual Studio platform GP is written by C language . This algorithm can quickly calculate the economic optimal distillation membrane separation process for any azeotrope separation . In this paper the
+
+@highlight Genetic programming was used in energy saving optimization of azeotrope separation.
+@highlight Two integration processes are optimized with different azeotropic systems.
+@highlight The optimal integration process will change with the cost of carbon dioxide emission.

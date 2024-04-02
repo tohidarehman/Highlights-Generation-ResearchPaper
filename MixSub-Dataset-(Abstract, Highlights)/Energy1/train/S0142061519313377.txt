@@ -1,0 +1,7 @@
+ Energy storage systems can provide a series of benefits to improve the operation flexibility and reliability of electric power systems but their size and placement in the power system are critical to achieving expected benefits . An optimal ES sizing and siting study is presented in this paper . The formulation considers long term economic benefits all generation and ES technologies for optimal sizing and siting .
+
+@highlight Amalgamate long term power system planning and the day ahead scheduling size ES and schedule ES investments.
+@highlight Flexible to consider user defined planning period with repetitive generator and ES investments.
+@highlight Generate the optimal investment schedule for the planning period.
+@highlight Single robust MILP formulation for long term asset planning.
+@highlight Incorporate system reliability into the long term planning.

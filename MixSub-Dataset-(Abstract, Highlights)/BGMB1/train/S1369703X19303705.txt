@@ -1,0 +1,7 @@
+ A new dynamic model that mimics gastrointestinal function was designed . Elastic and contractile silica gel with gastrointestinal rugae and folds were used to simulate the stomach and large intestine and silica gel with intestinal folds and villi was utilized to simulate small intestines . Mixing times for Newtonian fluids with Reynolds numbers of 105000 and for non Newtonian fluids with Reynolds numbers of 1100 were shortened in the new dynamic model bionic gastrointestinal reactor compared with those in a traditional stirred tank reactor . Gastric pressure of stomach at different digestion phases in the range 20220mm Hg was simulated by adopting different motion models . Maximum force of 0.72N was observed when using agar beads to mimic solid foods . The folds and villi increased the surface area of the modeled small and large intestine walls by 112 and 52 respectively . As a result mixing and grinding in the simulated tract was improved . In the future BGR can be applied for simulated studies on digestion and metabolism of foods and drugs in a mimetic gastrointestinal tract environment .
+
+@highlight BGR has better mixing time than traditional STR.
+@highlight The gastric pressure of the stomach can be simulated by adopting different motion models.
+@highlight The maximum crushing force of the BRG is higher than 0.72N.
+@highlight The folds and villi increased the surface area of small and large intestine walls by 112 and 52 .
+@highlight New technology for dynamic digestion model reactor was developed.

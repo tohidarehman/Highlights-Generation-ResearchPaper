@@ -1,0 +1,6 @@
+ Smart MicroGrids are known as a powerful platform for exploiting the Electrical Energy Storage Systems . On the other hand the Energy Efficiency Programs are recognized as an integral and highly valuable element of smart MGs investments and operations . While the EEPs are known to be long term programs they affect the short term programs such as day ahead energy management . In this paper the optimal energy management program model associated with EESSs and EEPs namely
+
+@highlight The optimal energy management considering EEPs and EESSs in the smart microgrids is addressed.
+@highlight The electrical and thermal energy efficiency investment sensitivity analyses is performed.
+@highlight The important roles of the EESSs and EEPs in the operation cost reduction are evaluated.
+@highlight The effects of EESSs and EEPs on the exchange power with the main grid are investigated.

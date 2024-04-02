@@ -1,0 +1,6 @@
+ In this paper we present numerical methods for solving the phenomenological scalar radiative transfer equation for a discrete random medium illuminated by a Gaussian beam . These rely on the Fourier transform method for the horizontal variables and the discrete ordinate method with matrix exponential for solving the underlying one dimensional radiative transfer equation in the wavenumber domain . The problem of a Gaussian beam at oblique and normal incidence as well as the searchlight problem are treated . A complete description of the methods and the numerical algorithms is provided .
+
+@highlight Radiative transfer in discrete random media illuminated by a Gaussian beam.
+@highlight Coherent field.
+@highlight Vector radiative transfer equation.
+@highlight Numerical solution of the radiative transfer equation.

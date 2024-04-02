@@ -1,0 +1,5 @@
+ In this paper we review the existing studies on the design of financial incentives and payment mechanisms for healthcare service providers which have been published in the literature of operations research management science . We classify these studies in two ways first by the care provider focused on physicians or hospitals and next by categorizing payment incentive schemes as retrospective or prospective models under each care provider group . The problem setting including the geographic background and research methodology are briefly discussed for each paper as are the findings with regard to accessibility quality efficiency and the facilitation of integration and collaboration if reported . We also provide a detailed discussion of potential research problems that would offer promising avenues for future study .
+
+@highlight We review the existing studies on the design of financial incentives and payment mechanisms published in OR MS.
+@highlight We classify the literature by the care provider focused on and payment incentive schemes.
+@highlight The problem setting including the geographic background and the OR MS research method is discussed for each paper.

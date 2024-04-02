@@ -1,0 +1,6 @@
+ To avoid the secondary nozzle caused by the large area occupied by the cyclone in this paper a new type of wall mounted cyclone was proposed for the structural design of supersonic separator which significantly reduces the space occupied by the cyclone and thus delays the generation of shock waves . The natural airflow field and droplets movement trajectory in supersonic separator were numerically calculated by RNG
+
+@highlight A wall mounted cyclone was designed to improve the flow field inside the supersonic cyclone separator.
+@highlight RNG k turbulence model was used to analyze the gas flow field in the separator.
+@highlight The effect of wall mounted cyclone separator on separation efficiency was studied.
+@highlight The separation efficiency and droplets trajectory of supersonic cyclone separator were studied by Discrete Particle Method.

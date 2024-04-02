@@ -1,0 +1,9 @@
+ We provide major updates to the top down Fire Radiative Energy Emissions approach to biomass burning emissions calculations bypassing the estimation of fuel consumption that is a major source of uncertainty in widely used bottom up approaches . The FREM approach links satellite observations of fire radiative power to emission rates of total particulate matter via spatially varying smoke emissions coefficients g.MJ
+
+@highlight New top down smoke emission coefficients using high resolution MAIAC AOD.
+@highlight Improved biome stratification using CCI Landcover and 30m Landsat Tree Cover data.
+@highlight Presents a 6 year fire inventory of TPM CO
+@highlight  CO and CH
+@highlight emissions for Africa.
+@highlight Highest spatio temporal resolution emissions estimates yet available over Africa.
+@highlight We find similar emissions to FEER but much higher emissions than GFED and GFAS.

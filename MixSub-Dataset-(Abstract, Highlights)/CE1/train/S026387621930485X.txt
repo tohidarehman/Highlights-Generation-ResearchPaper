@@ -1,0 +1,5 @@
+ A new short cut method for assessing solvents for gas cleaning by reactive absorption is presented . It considers the absorption desorption cycle using the assumption of infinite number of stages in both columns . For a given feed and removal rate the method yields an estimate for the specific regeneration energy
+
+@highlight Short cut method for assessing solvents for gas cleaning by reactive absorption.
+@highlight Simple and well behaved empirical model for gas solubility with physical background.
+@highlight Methods and models easy to implement in MS Excel.

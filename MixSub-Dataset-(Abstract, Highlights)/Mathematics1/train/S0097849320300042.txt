@@ -1,0 +1,6 @@
+ We present a new approach to example based style transfer combining neural methods with patch based synthesis to achieve compelling stylization quality even for high resolution imagery . We take advantage of neural techniques to provide adequate stylization at the global level and use their output as a prior for subsequent patch based synthesis at the detail level . Thanks to this combination our method keeps the high frequencies of the original artistic media better thereby dramatically increases the fidelity of the resulting stylized imagery . We show how to stylize extremely large images without the need to run the synthesis at the pixel level yet retaining the original high frequency details . We demonstrate the power and generality of this approach on a novel stylization algorithm that delivers comparable visual quality to state of art neural style transfer while completely eschewing any purpose trained stylization blocks and only using the response of a feature extractor as guidance for patch based synthesis .
+
+@highlight Combining neural style transfer with patch based synthesis.
+@highlight High resolution and high quality stylization of photographs.
+@highlight Enhancing results of various neural style transfer methods.
+@highlight Using VGG neural network to guide patch based synthesis.

@@ -1,0 +1,7 @@
+ Halophilic organisms are found widely in environments where the salt concentration is higher than 0.2M . Halophilic proteins isolated from these organisms maintain structural integrity and function under high salt stress whereas their non halophilic homologs tend to aggregate and collapse . Here we report for the first time the expression and function of a DNA polymerase VpV262 Pol which belongs to DNAPol Family A from
+
+@highlight 1 Salt tolerance DNA Pol is indispensable for iron current based polymerase assisted nanopore sequencer.
+@highlight 2 Here we have expressed and characterized a DNA polymerase from the marine phage VpV262.
+@highlight 3VpV262 Pol is a halotolerant DNA polymerase characterized from a known halophilic organism.
+@highlight 4 VpV262 Pol is resistant to 0 0.3M NaCl or KCl 0 0.5M KAc potassium acetate or KGlc potassium gluconate which is significantly higher than Phi29 Pol and Taq Pol. VpV262 Pol is suitable for DNA synthesis at high ionic strength.
+@highlight 5 VpV262 Pol has 25 more acidic amino acids than basic ones. More negatively charged residues might contribute to its enhanced halotolerance.

@@ -1,0 +1,7 @@
+ We develop an analytical approach that offers insights into how governments can better manage an oil revenue stabilization fund . The model maximizes the expected intertemporal utility of households and consists of decisions that are a function of the fund level and oil revenue . We apply our approach to Saudi data noting that the government deposits and reserve at the Saudi Arabian Monetary Agency have historically served as a buffer to decouple the Saudi government budget from oil revenue fluctuations . Results from our model match intuition the larger the fund the smaller the additions during periods of high revenues and the bigger the withdrawals during periods of low revenues . We also show that the fund can be partitioned into tranches with different asset durations rather than being solely invested in short term assets . Our results indicate that the boundary between an oil revenue stabilization fund and a sovereign wealth fund is not a bright line .
+
+@highlight We develop a model for optimally managing an oil revenue stabilization fund.
+@highlight Decisions consider future revenue uncertainty and the current size of the fund.
+@highlight The optimal policy derived has properties that satisfy common sense.
+@highlight We show how to partition the fund into tranches with different durations.
+@highlight The boundary between stabilization and sovereign wealth funds is not a bright line.

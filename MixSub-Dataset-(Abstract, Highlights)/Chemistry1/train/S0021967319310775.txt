@@ -1,0 +1,7 @@
+ For a wide variety of hydrophilic interaction chromatography stationary phases a repeatable partial equilibration was demonstrated in gradient elution after purging with as little as 12 column volumes of mobile phase . Relative standard deviations of retention time of on average 0.15 could be obtained after 1 or 2 conditioning runs . The equilibration period must be kept strictly constant otherwise selectivity changes occur but this is not problematic on modern instruments . Partial equilibration was largely independent of stationary phase or gradient slope . Alternatively full column equilibration is favoured for stationary phases that do not trap extensive water layers and for materials with a wider pore size that have a lower surface area . Temperatures somewhat above ambient also shorten the equilibration time . Some stationary phases under optimum conditions can achieve full column equilibration using purging with 12 column volumes which is useful for rapid set up of isocratic separations or for conventional gradient analysis .
+
+@highlight Repeatable partial gradient elution equilibrium shown for different HILIC columns.
+@highlight Rapid partial equilibration independent of stationary phase and gradient slope.
+@highlight Full equilibration time depends on water layer thickness on stationary phase.
+@highlight Full equilibration faster at elevated temperature and increased column pore size.
+@highlight Full equilibration achieved on some columns with passing only 12 column volumes.

@@ -1,0 +1,7 @@
+ CIGS solar cells with power conversion efficiency in the range of 1.82 12.30 were obtained by using two step process and were further analyzed through various measurement techniques . Material parameters showed diverse values and some trends depending on the device performance . The lower performance device showed small integrated PL intensity short minority life time larger defect density and lower activation energy whereas the higher performance device showed opposite values . We investigated relationship between material parameters and PCE of solar cells and found that some physical parameters such as integrated PL intensity minority life time defect density and difference between band gap and activation energy E
+
+@highlight CIGS solar cells with PCE ranging from 1.82 to 12.3 were analyzed systematically with various spectroscopic tools.
+@highlight The correlation of device parameters with the PCE was probed deeply.
+@highlight Lower PCE cells are affected by defect states both in bulk of absorber and at pn interface.
+@highlight Charge recombination in pn interface is weak for the higher PCE cell.
+@highlight Some material parameters can be used as a quick indicator to evaluate PCE of solar cell.

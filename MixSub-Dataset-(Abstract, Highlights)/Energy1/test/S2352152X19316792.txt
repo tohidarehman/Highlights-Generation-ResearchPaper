@@ -1,0 +1,6 @@
+ This study presents a novel strategy based on Bayesian support vector regression for the estimation of the specific heat capacity of nitrides ethylene glycol based nanofluid . The nanoparticles considered are aluminium nitride silicon nitride Si
+
+@highlight SVR model for specific heat capacity of nitrides EG based nanofluids is developed.
+@highlight SVR model parameters were optimized using the Bayesian optimization algorithm.
+@highlight The model inputs are mass fraction molecular mass of NPs temp size of NPs.
+@highlight Proposed model exhibits improved prediction accuracy compared to existing models.

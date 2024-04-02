@@ -1,0 +1,8 @@
+ We show that the integrable equations of hydrodynamic type admit nonlocal reductions . We first construct such reductions for a general Lax equation and then give several examples . The reduced nonlocal equations are of hydrodynamic type and integrable . They admit Lax representations and hence possess infinitely many conserved quantities .
+
+@highlight All possible nonlocal reductions of the hydrodynamic type of equations in
+@highlight  dimensions are constructed.
+@highlight It is noted that such reductions are possible only for all even numbered systems.
+@highlight Examples of nonlocal reductions for hydrodynamic type of equations are given.
+@highlight It is explored that the reduced nonlocal equations are of hydrodynamic type and integrable that is they admit Lax representations and so possess infinitely many conserved quantities.
+@highlight Some examples of conserved quantities of the new nonlocal reduced systems are given.

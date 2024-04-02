@@ -1,0 +1,5 @@
+ The Ontario Energy Board recently heard an application from incumbent demand response providers claiming that changes to the system operators demand response only capacity auction to allow certain generators to participate were unjustly discriminatory . The claim was based on costs borne by demand responders when curtailed that would not be recovered without energy payments . Using basic economic theory this paper analyzes the implications of variable costs of demand response and how they should best be handled to preserve economic efficiency of dispatch .
+
+@highlight Demand response providers who incur variable costs of curtailment should add these costs to Value of Lost Load.
+@highlight Basic economic theory confirms that such bids will contribute to efficiency and maximum gains from trade.
+@highlight Energy payments made to demand responders will incent inefficient demand reductions and create income transfers.

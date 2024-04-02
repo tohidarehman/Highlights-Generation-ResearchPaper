@@ -1,0 +1,7 @@
+ A novel algorithm for reconstruction of hyperspectral 3D complex domain images from noisy complex domain observations has been developed and studied . This algorithm starts from the SVD analysis of the observed complex valued data and looks for the optimal low dimension eigenspace . These eigenspace images are processed based on special non local block matching complex domain filters . The accuracy and quantitative advantage of the new algorithm for phase and amplitude imaging are demonstrated in simulation tests and in processing of the experimental data . It is shown that the algorithm is effective and provides reliable results even for highly noisy data .
+
+@highlight New universal and highly efficient denoising algorithm named
+@highlight  for Hyperspectral complex domain data is developed.
+@highlight is able to produce complex domain noise suppressing for wrapped phases without unwrapping procedures.
+@highlight Hyperspectral phase imaging based on
+@highlight is able to reconstruct objects data even from highly noised spectral components.

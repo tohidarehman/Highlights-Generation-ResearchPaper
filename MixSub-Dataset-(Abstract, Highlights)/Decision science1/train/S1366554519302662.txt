@@ -1,0 +1,6 @@
+ We consider the storage space allocation problem at an inland bulk stockyard which aims to find an effective way to store the shapeless materials . Due to the specific storage and handling means in the stockyard unloading stacking and reclaiming operations need to be scheduled in an integrated manner . Viewing the space of each stock pad in the yard as a series of unit slots we first develop a novel MIP formulation which can avoid generating scattered small fields . We then decompose the model by exploiting the relationships among the above operations and develop a logic based Benders approach to solve it optimally .
+
+@highlight An exact method for the storage space allocation problem in bulk material stockyards.
+@highlight A novel MIP formulation tackles the practical challenge of avoiding scattered small fields.
+@highlight Logic based Benders approach based on exploitation of operation relationships.
+@highlight Proposed method effectively solve realistic problem in short time.

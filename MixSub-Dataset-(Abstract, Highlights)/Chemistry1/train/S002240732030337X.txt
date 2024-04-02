@@ -1,0 +1,5 @@
+ The current study focuses on the radiative characteristics of heavy smoking flames that are formatted by oxygen being added to the fuel stream of a steady laminar ethylene diffusion flame . In such a scenario based on the experimental local soot temperature and volume fraction results the soot local radiative fields are obtained by solving the Radiative Transfer Equation . Along with the diluted range oxygen volume fraction X
+
+@highlight Based on the experimental local soot temperature and volume fraction results the soot local radiative fields are obtained by solving the Radiative Transfer Equation RTE .
+@highlight It is found that the oxygen chemical effect on soot radiative loss promotion is undermined by approximately 25 compared with that on soot formation promotion. In contrast the oxygen dilution effect results in a similar reduction level on soot formation propensity and soot radiative loss.
+@highlight The initial relative oxidation rate at the position of zFv max the peak location of flame cross section mean soot volume fraction and its residence time are two important factors that may affect the final flame smoking non smoking transition.

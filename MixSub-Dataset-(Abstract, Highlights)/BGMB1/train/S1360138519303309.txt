@@ -1,0 +1,7 @@
+ The use of the omics techniques in environmental research has become common place . The most widely implemented of these include metabolomics proteomics genomics and transcriptomics . In recent years a similar approach has also been taken with the analysis of volatiles from biological samples giving rise to the so called volatilomics in plant analysis . Developments in direct infusion mass spectrometry techniques have made it possible to monitor the changes in the composition of volatile flux from parts of plants single specimens and entire ecosystems in real time . The application of these techniques enables a unique insight into the dynamic metabolic processes that occur in plants . Here we provide an overview of the use of DI MS in real time volatilomics research involving plants .
+
+@highlight Direct infusion mass spectrometry DI MS techniques are a valuable tool for real time monitoring of the plant volatilome.
+@highlight DI MS techniques are particularly useful in detecting brief episodes of increased biogenic volatile organic compound emissions caused for instance by herbivore attacks.
+@highlight Current studies on the use of DI MS techniques for the determination of plant volatiles are conducted at several scales from parts of plants and whole specimens to entire ecosystems.
+@highlight Proton transfer reaction MS is the preeminent technique used for the monitoring of volatile plant metabolites.
+@highlight Current developments in DI MS solutions are focused on the application of tandem MS.

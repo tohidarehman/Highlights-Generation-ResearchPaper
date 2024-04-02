@@ -1,0 +1,7 @@
+ Structural and elastic properties of the two known hydrated phases of calcium carbonate were investigated . A comparative study was conducted where computer atomistic simulations based on standard density functional theory and dispersion corrected density functional theory were performed . Properties such as the elastic constants the bulk modulus the Young modulus the shear modulus the Poisson ratio the velocities of acoustic waves and the Debye temperature were evaluated for the first time at the DFT level of theory . As most of the properties investigated have not been measured experimentally yet the DFT PBE and DFT D2 values provide limits that allow bracketing of the unknown experimental values . The evolution with pressure of the structural and elastic properties of ikaite and monohydrocalcite was investigated in the range from 0 to 5GPa . In monohydrocalcite a brittle ductile transition is predicted to occur between 1.3 and 2.2GPa .
+
+@highlight Structural and elastic properties of ikaite and monohydrocalcite were investigated.
+@highlight The elastic and derived properties were determined for the first time at the density functional theory DFT level of theory.
+@highlight A comparative study based on standard DFT and DFT D2 was conducted.
+@highlight The calculated DFT PBE and DFT D2 values provide limits which allow bracketing of the unknown experimental values.
+@highlight A ductile fragile transition is predicted to occur between 1.3 and 2.2GPa in monohydrocalcite.

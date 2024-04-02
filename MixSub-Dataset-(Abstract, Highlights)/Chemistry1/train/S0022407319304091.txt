@@ -1,0 +1,6 @@
+ In this work we extend earlier findings that optically small and randomly oriented ovaloids extinguish more radiation than equal volume spheres to differential cross sections . Rather than working with the normalized phase function as is typically done in radiative transfer and in remote sensing we compute absolute
+
+@highlight At each angle optically moderate ellipsoids scatter more than equal volume spheres.
+@highlight Increase in absolute scattering cross section is monotonic with aspect ratio.
+@highlight Spherical shape optimality holds for absorption cross sections as well.
+@highlight Ice and quartz serve as examples to illustrate relevance to remote sensing.

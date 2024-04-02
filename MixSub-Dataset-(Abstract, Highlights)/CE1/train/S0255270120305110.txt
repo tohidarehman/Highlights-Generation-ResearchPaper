@@ -1,0 +1,7 @@
+ In this paper a new 5.8kW solar biomass gasification reactor design is proposed . It is meant for energetic exploitation of grape marc a residue of the wine making industry . The design couples the reactor with a 3.0m diameter Parabolic Dish Solar Concentrator and contemplates controlling its temperature by manipulating the biomass inlet rate . This work aims to establish an upper limit on the reactor syngas yield under actual solar and environmental conditions to determine the optimal dimensions of the reactor and to evaluate the feasibility of the temperature control system . Also a process is proposed for industrial application and practical implications are considered . The performance of the reactor was numerically simulated employing 1 min solar irradiance data heat transfer models reaction models and enthalpy balances . The reactor dimensions that maximize syngas production were determined . Simulation results showed an upper limit of 73g
+
+@highlight A solar dish coupled biomass gasification reactor design and process are proposed.
+@highlight The reactor receiver optimal dimensions are determined.
+@highlight The results support temperature control by adjusting the biomass feeding rate.
+@highlight An upper limit on syngas yield for the grape marc production season is determined.
+@highlight Surveyed wineries could replace their entire fossil gas consumption with this process.

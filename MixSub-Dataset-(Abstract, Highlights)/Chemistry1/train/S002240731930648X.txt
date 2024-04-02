@@ -1,0 +1,5 @@
+ The simulation of astronomical spectra of cool stars brown dwarfs and exoplanets requires high resolution line lists and absorption cross sections of many molecules . Similar data sets are needed for the Earths atmosphere and other planets in our solar system . The requirements for line lists are reviewed and methods used to create them are discussed . Equations to convert between different units are provided . The MoLLIST data compilation is presented and used as an example .
+
+@highlight Review of requirements and calculations for line lists for astronomical and atmospheric applications.
+@highlight MOLLIST Molecular Line Lists Intensities and Spectra data compilation is presented.
+@highlight Units used in line lists and their conversion are discussed.

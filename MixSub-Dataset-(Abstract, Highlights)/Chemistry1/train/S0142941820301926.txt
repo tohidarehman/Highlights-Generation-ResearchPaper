@@ -1,0 +1,7 @@
+ Whereas size reduction that accompanies new technologies calls for more complex and more constrained shapes for foams to be used as seals ribbons or surface coatings little is known about the mechanics of foam systems characterized by a potentially small number of pores across their thickness and possessing parietal or free surface pore layers . Elastic stiffness and rupture stress have been measured for open cell foam ribbons produced thanks to a method allowing to tune finely and independently several crucial parameters ribbon thickness pore size and solid volume fraction . Results reveal that the longitudinal elastic stiffness of foam ribbons increases significantly as the number of pores across the ribbon thickness decreases within the range 110 . This increase is understood through the contribution of the parietal layers with respect to the bulk layers . Similarly rupture stress of foam ribbons characterized by narrow pore size distributions increases as a function of the ratio pore size ribbon thickness . All others things being equal the rupture stress is smaller for polydisperse samples compared to monodisperse samples .
+
+@highlight Monodisperse polymer open cell foams ribbons were produced.
+@highlight Pore size D density and ribbon thickness e were controlled independently.
+@highlight Longitudinal elastic stiffness increases as the ratio D e increases.
+@highlight Rupture stress also increases as the ratio D e increases.
+@highlight Boundary pore layers contribute significantly to the longitudinal elastic stiffness.

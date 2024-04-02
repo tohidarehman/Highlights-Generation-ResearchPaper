@@ -1,0 +1,6 @@
+ Under the plane wave setting the existence of small Cauchy data global solution of LandauLifshitzGilbert equation is proved . Some variable separation type solutions and self similar type solutions are constructed for the Harmonic map heat flow on
+
+@highlight Obtain the equivalent equations of LLG equation and HMHF.
+@highlight Prove the existence of the global solution of LLG equation.
+@highlight Present some variable separation of HMHF.
+@highlight Some solutions of HMHF blow up at t 0.

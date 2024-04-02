@@ -1,0 +1,5 @@
+ MicroRNAs play crucial roles in maintaining normal physiological processes by regulating gene expression network and thus the tumor suppressive miRNA has emerged as a promising antitumor agent for cancer treatment . However targeted delivery of miRNA remains a challenge owing to its intrinsic macromolecular and negatively charged features . Herein we first employ the miRNA as crosslinker to construct a nucleic acid nanogel in which miRNA is embedded and protected inside the three dimensional nanostructure . Thereafter nanobody conjugated DNA strands are further loaded on nanogel surface through nucleic acid hybridization to form a Nb functionalized nanogel for tumor targeted miRNA delivery and antitumor treatment . Both
+
+@highlight miRNAs are efficiently embedded in a three dimensional nucleic acid nanogel for protective miRNA delivery.
+@highlight Anti EGFR nanobody functionalized on miRNA bearing nanogel enables the delivery complex active targeting capability.
+@highlight The targeting nanogel delivery system exhibits enhanced miRNA mediated antitumor efficacy.

@@ -1,0 +1,6 @@
+ Computation of elastic structures in contact is performed by means of a dual analysis combining displacement based and equilibrium based finite elements . Contact conditions are formulated in the framework of second order cone programming and an efficient interior point method algorithm is presented for solving the associated optimization problems . The dual approach allows the user to assess the quality of convergence and to efficiently calculate a discretization error estimator which includes a contact error term . An efficient remeshing scheme based on the local contributions of the elements to the global error can then be used to efficiently improve the solution accuracy . The whole process is illustrated on some examples and applied to a typical steel assembly . Its efficiency in particular concerning the IPM solver is demonstrated in comparison with the industrial finite element code Abaqus .
+
+@highlight A primal dual interior point solver is developed for structures in contact.
+@highlight Dual displacement and equilibrium based finite elements provide a bracketing of the exact solution.
+@highlight Remeshing uses the constitutive relation error estimator.
+@highlight Numerical results show efficiency and robust on complex 3D steel assemblies.

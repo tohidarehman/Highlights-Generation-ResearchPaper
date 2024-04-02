@@ -1,0 +1,6 @@
+ Band structure and optical spectrum of hexagonal and tetragonal ScN monolayers are studied using density functional theory . More accurate and reliable mBJ GGA method is applied to find the compressive and tensile strain effects on electronic and optical properties of these structures . Results show different band structure and optical behavior of these models and considerable effects of tension on their physical properties .
+
+@highlight Impact of Stress and strain on electronic and optical properties of h ScN and t ScN monolayers are studied.
+@highlight mBJ GGA method is used to find more accurate results for the band gap.
+@highlight In contrast to the t ScN the h ScN is only stable under tensile strain.
+@highlight The threshold of the absorption spectrum depends on strain values.

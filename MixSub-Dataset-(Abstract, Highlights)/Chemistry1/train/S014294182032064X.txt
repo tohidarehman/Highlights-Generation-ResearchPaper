@@ -1,0 +1,7 @@
+ PTFE is a semi crystalline polymer which can undergo two phase transitions at 19 and 30 . To investigate influence of temperature induced phase transition of PTFE on the mechanical behavior and impact induced initiation characteristics of Al PTFE the dynamic mechanical analysis split Hopkinson pressure bar test and drop weight test were conducted at different temperatures . The correlation between fracture modes and ignition mechanism were analyzed associated with microstructures and reaction phenomena . The results show that with the temperature elevated the mechanical behavior and reactive characteristics of Al PTFE manifested a bilinear temperature dependence . Al PTFE went through a gradual transition from brittleness to ductility . The ignition energy declined explosion flare enhanced and reaction time prolonged consistent with the change of mechanical properties . The shock pressure and ignition time under drop weight tests were far from the requirement of shock induced reaction indicating that it is fracture induced reaction dominates the ignition of Al PTFE at low strain rate .
+
+@highlight The mechanical behavior of Al PTFE took on strong bilinear temperature dependence.
+@highlight Crack propagation is related to brittle to ductile transition near room temperature.
+@highlight The constitutive model can well characterize the mechanical response of Al PTFE.
+@highlight Explosion flare enhanced and reaction time prolonged as the temperature evaluated.
+@highlight Fracture induced reaction dominates the ignition of Al PTFE at low strain rate.

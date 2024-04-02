@@ -1,0 +1,6 @@
+ Recognition of activities of daily living is an essential component of assisted living systems based on actigraphy . This task can nowadays be performed by machine learning models which are able to automatically extract and learn relevant features but most of time need to be trained with large amounts of data collected on several users . In this paper we propose an approach to learn personalized ADL recognition models from few raw data based on a specific type of neural network called
+
+@highlight A new neural architecture combining matching networks with sequence to sequence models called SSMN.
+@highlight An SSMN application to few shot inertial sequence training for personalized activities of daily living recognition.
+@highlight Fine tuning the SSMN neural architecture by using a pretrain model on intertial posture data.
+@highlight High performances in activities of daily living recognition allowing robust actigraphy system that estimates elderly people autonomy.

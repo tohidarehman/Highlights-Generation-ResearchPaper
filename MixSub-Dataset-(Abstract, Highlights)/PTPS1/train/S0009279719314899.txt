@@ -1,0 +1,7 @@
+ Irinotecan is a chemotherapeutic drug used in the treatment of advanced colorectal cancer and elevated blood concentrations of its active metabolite SN 38 leads to increased gastrointestinal toxicity and diarrhea in patients . In this study we investigated the effects of inflammation on the pharmacokinetics of irinotecan and its active metabolite SN 38 . Mice were i.p . injected with either saline or lipopolysaccharide to induce inflammation . After 16h irinotecan was administered orally . Blood was collected from the tail vein of mice from 0 to 24h after dosing . Concentrations of irinotecan SN 38 and SN 38G were analyzed using LC MS MS . The AUC C
+
+@highlight The Effects of Inflammation on Irinotecan CPT 11 PK were investigated.
+@highlight SN 38 blood concentrations and AUC were increased in mice with inflammation.
+@highlight Entero hepatic recycling EHR was found to increase SN 38 exposure.
+@highlight A best fit PK model was developed with irinotecan SN 38 and EHR compartments.
+@highlight The developed model predicts the PK of Irinotecan and SN 38 during inflammation.

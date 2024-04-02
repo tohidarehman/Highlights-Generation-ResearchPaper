@@ -1,0 +1,7 @@
+ Confirmatory composite analysis was invented by Jrg Henseler and Theo K. Dijkstra in 2014 and elaborated by Schuberth et al . as an innovative set of procedures for specifying and assessing composite models . Composite models consist of two or more interrelated constructs all of which emerge as linear combinations of extant variables hence the term emergent variables . In a recent JBR paper Hair et al . mistook CCA for the measurement model evaluation step of partial least squares structural equation modeling . In order to clear up potential confusion among JBR readers the paper at hand explains CCA as it was originally developed including its key steps model specification identification estimation and assessment . Moreover it illustrates the use of CCA by means of an empirical study on business value of information technology . A final discussion aims to help analysts in business research to decide which type of covariance structure analysis to use .
+
+@highlight Like latent variables emergent variables serve to model abstract concepts.
+@highlight Emergent variables can be assessed using confirmatory composite analysis CCA .
+@highlight CCA works in analogy to confirmatory factor analysis CFA .
+@highlight CCA deals with composite models not reflective or formative measurement models.
+@highlight The presentation of CCA by Hair et al. 2020 is misguided.

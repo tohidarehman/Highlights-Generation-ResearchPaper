@@ -1,0 +1,6 @@
+ We perform a numerical study of the initial boundary value problem with vanishing boundary conditions of a driven nonlinear Schrdinger equation with linear damping and a Gaussian driver . We identify Peregrine like rogue waveforms excited by two different types of vanishing initial data decaying at an algebraic or exponential rate . The observed extreme events emerge on top of a decaying support . Depending on the spatial temporal scales of the driver the transient dynamics prior to the eventual decay of the solutions may resemble the one in the semiclassical limit of the integrable NLS or may e.g . lead to large amplitude breather like patterns . The effects of the damping strength and driving amplitude in suppressing or enhancing respectively the relevant features as well as of the phase of the driver in the formation of a diverse array of spatiotemporal patterns are numerically analyzed .
+
+@highlight Emergence of rogue waves for the linearly damped and localized driven NLS.
+@highlight Semi classical type dynamics and breather patterns depending on the spatiotemporal scales of the Gaussian driver.
+@highlight The impact of forcing amplitude damping strength and rate of decay of the initial data on various characteristics or rogue waves.
+@highlight The impact of the phase of the driver on spatiotemporal pattern formation.

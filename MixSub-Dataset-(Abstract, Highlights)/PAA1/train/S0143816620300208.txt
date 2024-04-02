@@ -1,0 +1,6 @@
+ Unveiling the cheating mask of camouflage is of great significance in scientific and military research but the acquisition of detailed information about camouflaged objects remains extremely difficult . This paper presents a fringe projection decamouflaging approach that can provide the position outer rim profile and shadow information about well camouflaged objects in a complex scenario . FPDC requires no expensive instruments just one camera and one projector for monitoring . A bionic detection field namely a phase jump field is established to detect the intrusion of camouflaged objects . Based on local variations in this field multiple parameter decamouflaging is achieved for the first time . Simulations and experiments show the superiority of this technique which has potential applications in counterespionage discovery of wild animals and search and rescue .
+
+@highlight The system is simple and requires no expensive instruments.
+@highlight A novel bionic detection field phase jump field is established to detect the intrusion of camouflaged objects.
+@highlight Multiple parameter decamouflaging is achieved for the first time.
+@highlight Potential applications in counterespionage discovery of wild animals and search and rescue.

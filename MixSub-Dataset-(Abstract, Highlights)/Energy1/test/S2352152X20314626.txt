@@ -1,0 +1,7 @@
+ Finding a convenient low cost method to prepare a promising charge storage material for high performance supercapacitors remains always a critical challenge . Herein the facilely eco friendly electroless electrolytic technique was employed to deposit a worm like Ni Co P nanofilm directly on nickel foam substrate . Gross morphology and microstructure of the as prepared active material were confirmed by SEM EDS and XRD techniques . The supercapacitive properties of Ni Co P NF electrode was studied in 6.0M KOH solution by cyclic voltammetry galvanostatic charging discharging and electrochemical impedance spectroscopy . CV curves displayed a pair of two broad current peaks
+
+@highlight Supercapacitor material Ni Co P is deposited on NF substrate by electroless method.
+@highlight Ni Co P layer texture appears as worm like morphology with a crystalline structure.
+@highlight CV curves display two distinct redox current peaks indicating pseudocapacitive trait.
+@highlight A maximum specific capacitance of 222.16 F g is achievable at a scan rate of 1mV s.
+@highlight Ni Co P shows outstanding cycle stability with capacitance retention remains 105 .

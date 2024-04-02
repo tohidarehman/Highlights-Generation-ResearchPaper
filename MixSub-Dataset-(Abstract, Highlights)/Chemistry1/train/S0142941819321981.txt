@@ -1,0 +1,5 @@
+ Additive manufacturing is gaining a remarkable importance in manufacturing industries because of the ability to build parts with complex and intricate shapes . The most widely used material in additive manufacturing is the polymer . In this paper circular textures have been 3D printed on the surface of Polylactic Acid polymer using fused deposition modelling technique . Experiments were performed under dry and lubricated conditions by varying the texture size . The results were obtained for high and low speeds with varying loads of 10 20 30 40 and 50N . It was observed that coefficient of friction was minimum for texture T
+
+@highlight The ratio of texture diameter and inter textural thickness governs the frictional behaviour of the 3D printed textured polymeric surfaces.
+@highlight The Coefficient of Friction COF is a function of the lubrication retention capability of the textured surfaces.
+@highlight Worn Surface analysis revealed that dominant wear mechanism are adhesion and abrasion.

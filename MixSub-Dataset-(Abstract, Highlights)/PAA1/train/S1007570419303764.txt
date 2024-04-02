@@ -1,0 +1,5 @@
+ We analyze the intermittent regime which develops in an air conveying soft tube . The very thin walls of the tube allow the pipe to fluctuate with high amplitudes and to exhibit kinks in its shape . As a consequence the flow pressure alternates between turbulent and laminar phases . In the experiment the turbulent phase durations scale exponentially while the laminar phases display algebraic statistics . The coexistence of these two distinct laws for the same value of the control parameter value can be modeled on the basis of two competing stochastic processes with different time scales . The first one refers in our case to the local flow velocity and the other one is a critical velocity related to the tube geometrical variable shape which is quenched during the laminar phases but rapidly varying during the turbulent phases . The model reveals that the modification of the ratio
+
+@highlight Sky Dancers display intermittent behavior with several metastable configurations.
+@highlight Turbulent and laminar regimes show very different statistical behaviors.
+@highlight The competition of two time scales in the system may shed light on this phenomenon.

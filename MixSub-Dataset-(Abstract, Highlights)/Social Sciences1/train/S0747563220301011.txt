@@ -1,0 +1,7 @@
+ In the last decade faked reviews have become a growing issue . While most studies have focused on text analysis to identify false reviews the big companies are now switching to simpler review systems exclusively based on ratings . In this paper the possibility of detecting faked ratings from the analysis of mouse movements is explored for the first time . The participants were asked to evaluate twenty products on a five star rating scale . For half of the products they were encouraged to cheat to get an advantage . Results showed greater response times and wider mouse trajectories when users left false ratings then when they left true ones . Concerning the analysis of the ratings results revealed an interaction between the type of rating and deception . Moreover the users attitudes toward the faked reviews has been investigated through a self report questionnaire pointing out that people are more prone to give neutral judgments rather than extremely positive or negative ratings when they are encouraged to cheat .
+
+@highlight For the first time the possibility to detect faked ratings from the analysis of mouse movements is explored.
+@highlight Mouse dynamics is a promising methodology to identify faked ratings.
+@highlight Fakers take more time to start to move the mouse and to compute their response moving slower on the screen.
+@highlight Fakers mouse trajectories are distinguished for being wide and erratic.
+@highlight Participants give neutral judgments rather than positive or negative ratings when they are encouraged to cheat.

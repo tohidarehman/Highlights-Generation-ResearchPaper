@@ -1,0 +1,7 @@
+ Modeling is an important statistical tool to Forest Science especially to forest planning by predicting the forest s yield and assortments for instance . This paper evaluated the accuracy of bivariate and generalized linear mixed modeling in the representation of the
+
+@highlight Wood stock quantification in a forest stand is important to substantiate decisions.
+@highlight Trunk profile prediction occurs through modeling mostly by one dimensional models.
+@highlight Mixed bivariate and generalized linear models can bring more precise data.
+@highlight The cited models did not generate a better precision in the data.
+@highlight New research is needed to improve their application to model the tree profile.

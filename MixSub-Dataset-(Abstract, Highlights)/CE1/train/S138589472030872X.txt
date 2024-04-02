@@ -1,0 +1,8 @@
+ Kinetic modelling of methanol synthesis over commercial catalysts is of high importance for reactor and process design . Literature kinetic models were implemented and systematically discussed against a newly developed kinetic model based on published kinetic data . Deviations in the sensitivities of the kinetic models were explained by means of the experimentally covered parameter range . The simulation results proved that an extrapolation of the working range of the kinetic models can lead towards significant simulation errors especially with regard to pressure stoichiometric number and CO CO
+
+@highlight A new kinetic parameter set for a commercial state of the art catalyst is presented.
+@highlight The kinetic model presented shows a high accuracy towards the measured data.
+@highlight Comparison to literature models proves the plausibility of the model.
+@highlight A sensitivity analysis shows the impact of the kinetic model towards reactor design.
+@highlight For kinetic measurements in the context of PtM high CO
+@highlight contents must be considered.

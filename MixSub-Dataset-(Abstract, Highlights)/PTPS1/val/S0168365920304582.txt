@@ -1,0 +1,7 @@
+ Extracellular vesicles are lipid bilayer vesicles of nanometric size secreted by cells to communicate with other cells either nearby or remotely . Their physicochemical properties make them a promising nanomedicine for drug transport and release in cancer therapy . In this review we present the different types and biogenesis of EVs and highlight the importance of adequately selecting the cell of origin in cancer therapy . Furthermore the main methodologies followed for the isolation of EVs and drug loading as well as the modification and functionalization of these vesicles to generate EV based nanocarriers are discussed . Finally we review some of the main studies using drug loaded exosomes in tumor therapy both in in vitro and in vivo models . These investigations show promising results achieving significant improvement in the antitumor effect of drugs in most cases . However the number of clinical trials and patents based on these nanoformulations is still low thus further research is still warranted in this area .
+
+@highlight EVs are lipid bilayer vesicles of nanometric size for cellular communication.
+@highlight EVs may be used for cancer therapy as drug delivery vehicles especially exosomes.
+@highlight Modifications before or after EVs isolation generates new functionalized nanocarriers.
+@highlight Drug loaded exosomes have great applicability in cancer therapy and resistant tumors.
+@highlight Currently there are clinical trials and patents based on this field.

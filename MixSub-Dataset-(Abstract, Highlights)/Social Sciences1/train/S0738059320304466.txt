@@ -1,0 +1,6 @@
+ The main purpose of the study is to analyze whether globally observed trends towards preschool expansion have impacted student achievement in primary and secondary school . We use data from multiple study cycles of two international large scale assessments that have a longitudinal component at the country levelPIRLS and PISAand combine these data with a country level measure of preschool enrollment rates as the main explanatory variable . Employing a multilevel regression with fixed effects for countries and years we find that changes in preschool enrollment are unrelated to changes in average student achievement . Even after controlling for covariates on the individual and country levels we do not find any support for the policy expectation that expanding preschool enrollment per se leads to better student achievement on country level .
+
+@highlight There is a globally observed trends towards preschool expansion.
+@highlight Changes in preschool enrollment rates are unrelated to changes in student achievement.
+@highlight Null effects on achievement in primary and secondary school.
+@highlight No evidence for effect heterogeneity for disadvantages and privileged children.

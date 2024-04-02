@@ -1,0 +1,7 @@
+ Computation of reference evapotranspiration poses a challenge under limited meteorological data availability . However even in this case hourly data may be available since low cost sensors can report hourly measurements . This study evaluates for the first time in regional and local scenarios the use of limited hourly meteorological data to estimate daily ETo directly and by summing hourly ETo values employing RF XGBoost ANN and CNN . The following options were evaluated use of daily input data use of hourly data measured during a 24 h period hourly extraterrestrial radiation to estimate daily ETo directly the same configuration of the last option but with daily Ra instead of hourly Ra and use of hourly data to estimate hourly ETo and then to estimate daily ETo by summing hourly ETo . All options used Ra . To develop and evaluate the models two daily ETo targets were considered ETo
+
+@highlight Daily ETo was estimated directly from 24 h limited hourly data T or T RH .
+@highlight Daily ETo was also estimated by summing hourly ETo and from daily limited data.
+@highlight RF XGBoost ANN and 1D CNN were used.
+@highlight CNN with daily ETo estimated directly from limited hourly data performed the best.
+@highlight RMSE was reduced by up to 28.2 0.71 to 0.51 .

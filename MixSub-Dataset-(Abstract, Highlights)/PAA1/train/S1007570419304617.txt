@@ -1,0 +1,7 @@
+ In the present work the problem of quantization of a robot via the Schrodinger equation with Jerk Levy noise and the wave function plots is analyzed . Quantum average and quantum fluctuation of the trajectory positions are displayed . It is observed that the quantum robots are molecules whose link angles can be varied resulting in changing chemical properties thus justifying the importance of this work also in physics of biological engineering . we have also made computations on the statistics of the wave function as well as transition probabilities between two stationary states . The quantum analysis has been based on using time independent perturbation theory to evaluate the approximate evolution operator of the unperturbed robot .
+
+@highlight Eigen values Eigen function of 2 link quantum robot without torque are computed using first order time independent perturbation theory.
+@highlight Wave function evolution of 2 link robot are obtained using Dyson series approximation with Poisson process integrals.
+@highlight Unitarity conditions for Poisson noise perturbation are obtained.
+@highlight Transition probabilities between two stationary states are calculated.
+@highlight Moment generating functional of the random wave function computed.

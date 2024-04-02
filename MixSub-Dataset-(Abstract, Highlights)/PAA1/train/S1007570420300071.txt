@@ -1,0 +1,5 @@
+ Dynamic patterns of three dimensional double diffusive convection in horizontally infinite liquid layer at large Rayleigh numbers have been simulated with the use of the previously derived system of complex Ginzburg Landau type amplitude equations valid in the neighborhoods of Hopf bifurcation points . For the special case of convection the first 180 Lyapunov exponents of the system have been calculated and 164 of them are positive . The spatial autocorrelation function is shown to be localized . Thus the system exhibits spatiotemporal chaos .
+
+@highlight We investigated the dynamic patterns in 3D double diffusive convection described by 2D CGL type equations.
+@highlight The studied system exhibits spatiotemporal chaos.
+@highlight We have calculated the first 180 Lyapunov exponents and 164 of them are positive.

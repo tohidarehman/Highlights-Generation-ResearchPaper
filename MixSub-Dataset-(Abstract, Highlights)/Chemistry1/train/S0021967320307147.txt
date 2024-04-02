@@ -1,0 +1,7 @@
+ A fast simple environmentally friendly and sensitive on line concentration method using microemulsion system as background solution was developed for the trace detection of propazine atrazine simazine in food samples . The electrokinetic injection assisted micelle to cyclodextrin stacking was designed for the enrichment of target compounds . The factors affected enrichment performance such as the kind of CDs the amount of CDs the concentration of methanol in BGS the concentration of micelle in sample matrix the concentration of phosphoric acid in BGS and the sample injection time were optimized . The optimized electrophoretic condition was obtained as following 50 mM CD 20 mM SDS in sample matrix . 80 mM PA and 20 MeOH in BGS sample solution by electrokinetic injection at 10 kV for 80 s. Under the optimized conditions described above the linear range was 0.120 ug mL with a good linear relationship with a correlation coefficient 0.9985 . The SEFs for the propazine atrazine simazine were found to be 123 85 and 62 respectively . The proposed MCDS MEEKC method provided an efficient method for trace analysis of triazine herbicides in honey and
+
+@highlight An on line concentration method MCDS MEEKC was developed for analysis of triazine herbicides.
+@highlight Electrokinetic injection assisted micelle to cyclodextrin stacking is applied.
+@highlight The developed method is successfully used for the honey and
+@highlight samples.
+@highlight The sensitivity enrichment of triazine herbicides are 62 123 fold compared with the conventional CE method.

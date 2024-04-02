@@ -1,0 +1,6 @@
+ This paper presents a carefully designed train delay prediction model called FCLL Net which combines a fully connected neural network and two long short term memory components to capture operational interactions . The performance of FCLL Net is tested using data from two high speed railway lines in China . The results show that FCLL Net has significantly improved prediction performance over 9.4 on both lines in terms of the selected absolute and relative metrics compared to the commonly used state of the art models . Additionally the sensitivity analysis demonstrates that interactions of train operations and weather related features are of great significance to consider in delay prediction models .
+
+@highlight Deep learning models were employed to predict train delays.
+@highlight Train operations were modeled as sequences.
+@highlight Interactions were captured from train groups in the prediction model.
+@highlight The proposed model shows satisfactory performance on different railway lines.

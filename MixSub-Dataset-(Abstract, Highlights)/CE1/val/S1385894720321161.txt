@@ -1,0 +1,8 @@
+ As an alternative to the photocatalyst research it is a promising approach by optimizing the macrostructure and reaction conditions to improve the photocatalytic performance of the TiO
+
+@highlight CFD and DEM are introduced to model the packing bed photoreactors with Raschig rings.
+@highlight Modelling is verified by void fraction velocity irradiation and concentration data.
+@highlight Lower
+@highlight leads to a better performance but inlet concentration affects little.
+@highlight Close cells perpendicular to container axis weaken the photocatalytic performance.
+@highlight Reaction rate rises as rings to container diameter ratio drops and thickness rises.

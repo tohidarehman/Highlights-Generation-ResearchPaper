@@ -1,0 +1,7 @@
+ Phase shifting is a powerful phase demodulation method for three dimensional imaging by fringe projection . However numerous fringe patterns which encode a single phase function are required . In this paper the use of intensity patterns which encode multiple phase functions is proposed . A multi demodulation phase shifting algorithm and the intensity pattern projection profilometry approach are developed . A computer simulation and an experimental three dimensional object measurement are performed to validate the proposal and demonstrate its effectiveness . The results exhibit that a similar accuracy than conventional fringe projection is achieved while using a reduced number of patterns . The proposed approach is a feasible alternative to increase the efficiency of three dimensional imaging systems based on phase shifting .
+
+@highlight Extended phase shifting approach for demodulation of multiple phase functions.
+@highlight Multi phase demodulation capability by phase shifted intensity pattern processing.
+@highlight Advanced optical 3D surface imaging by intensity pattern projection profilometry.
+@highlight Comparable accuracy with conventional fringe projection while using fewer patterns.
+@highlight Efficiency increased alternative for 3D surface imaging based on phase shifting.

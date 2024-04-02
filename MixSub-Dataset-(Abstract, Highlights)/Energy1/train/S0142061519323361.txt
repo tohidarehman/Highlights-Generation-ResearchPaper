@@ -1,0 +1,7 @@
+ Available Transfer Capability is the additional power that can be securely and reliably transacted over and above the already committed transactions in a power network . In the electricity market where every player tries to earn higher profit quick and accurate assessment of ATC of the power network is a prime concern . Holomorphic Embedding is a novel and non iterative way of solving the Power Flow equations which guarantees to find the operational High Voltage solution in case it exists . Analytic continuation extends the domain of convergence of non analytic functions to have voltage solutions . This paper thus proposes an extremely efficient and accurate approach for evaluation of ATC using the Holomorphic Embedded PF considering the intact system condition and
+
+@highlight Method is independent of initial guess of allowable transaction for ATC calculation.
+@highlight Accurate computation of ATC even under stressed system condition.
+@highlight Fast computation of ATC in comparison with NRPF based method.
+@highlight Proposed method is tested and validated on IEEE 30 118 and 300 bus test system.
+@highlight Tested for bilateral and multilateral transactions at different operating points.

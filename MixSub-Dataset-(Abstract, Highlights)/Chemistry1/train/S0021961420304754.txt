@@ -1,0 +1,7 @@
+ The solubility of oxaprozin in thirteen organic solvents ethanol n propanol n butanol n pentanol methyl acetate ethyl acetate n propyl acetate n butyl acetate n amyl acetate N N dimethylacetamide N N dimethylformamide dimethyl sulfoxide was determined using a laser monitoring method at atmospheric pressure in this work . The measured temperature range for all selected solvents is 278.15K to 323.15K except DMSO 293.15K to 323.15K . Through the entire studied temperature range the results turned out that oxaprozin solubility in selected solvents has a positive correlation with temperature variation . Four mathematical models were employed to correlate the solubility data including two empirical models and two activity coefficient models with the modified Apelblat model giving the best regression . Solubility order of oxaprozin in thirteen solvents was analysed by using the Hansen solubility parameter and the solvent effect was investigated through correlating oxaprozin solubility in selected solvents based on KAT LSER model . Moreover according to vant Hoff equation thermodynamic properties including apparent standard molar enthalpy change
+
+@highlight Solubility of oxaprozin in thirteen pure solvents was measured.
+@highlight Hansen solubility parameter was applied to analyze the solubility order.
+@highlight KAT LSER model was applied to analyze the solvent effect.
+@highlight Solubility data was correlated by modified apelblat model h model NRTL model UNIQUAC model.
+@highlight Thermodynamic properties of the solution were calculated.

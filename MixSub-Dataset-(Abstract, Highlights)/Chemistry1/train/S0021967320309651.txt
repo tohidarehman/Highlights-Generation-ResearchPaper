@@ -1,0 +1,7 @@
+ The non targeted analysis and identification of contaminant metabolites such as metabolites of phthalates and their alternatives in human biofluid samples constitutes a growing research field in human biomonitoring because of their importance as biomarkers of human exposure to the parent compounds . High resolution mass spectrometry combined with high performance liquid chromatography can provide fast separation and sensitive analysis using this application . However the diversity of potential metabolites especially isomers in human samples makes mass spectrometry based structural identification very challenging even with high resolution and accurate mass . In this study we present a retention time t
+
+@highlight A prediction model for accurately predicting retention time of a given structure.
+@highlight The model increases the identification reliability in non targeted analysis.
+@highlight Three structural specific ions can prioritize candidates from high resolution MS data.
+@highlight Two unknown metabolites were identified with the aid of the developed model.
+@highlight A structure ion intensity relationship model was used to estimate levels of unknowns.

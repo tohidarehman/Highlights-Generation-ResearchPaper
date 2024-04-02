@@ -1,0 +1,7 @@
+ The availability of healthcare data has exponentially grown both in quantity and complexity . The speed of this evolution has generated new challenges for translating complex data into effective evidence informed policy . Visual analytics offers new capacity to analyze healthcare systems and support better decision making . We conducted a systematic scoping review to look for evidence of visual analytics approaches being applied to mental healthcare systems and their use in driving policy . We found 79 relevant studies and categorized them in two ways by study purpose and by type of visualization . The majority of the studies used geographical maps and 11 conducted highly complex studies requiring novel visualizations . Significantly only 15 of the studies provided information indicating high levels of usability for policy and planning . Our findings suggest that while visual analytics continues to evolve rapidly there is a need to ensure this evolution reflects the practical needs of policy makers .
+
+@highlight Visual analytics is needed for mental healthcare systems research and policy.
+@highlight Majority of studies use geographical maps for geospatial and descriptive analyses.
+@highlight Descriptive graphs are supportive but not comprehensive for complex information.
+@highlight Novel visualizations are required for exploring more complex abstract information.
+@highlight Visual analytics has low impact for complex questions in healthcare systems research.

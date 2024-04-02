@@ -1,0 +1,7 @@
+ With the development of 3D printing technology photo curable resin can be used to fabricate bulk objects . However photo curable epoxy resin used in 3D printers are commonly considered as a stiff material which is fragile . In this study a molecular designed core shell particles comprising epoxide groups are prepared to improve the toughness and interlayer bonding of stereolithography resin . Results show that the tensile strength of SLR increases up to 57.2 with the addition of 5 w w CSP and the elongation at break increases up to 1303.6 with the addition of 7 w w CSP . Moreover the introduction of CSP reduces the anisotropy in tensile strength of fabricated workpieces from 42.1 to 0.3 . This novel SLR CSP nanocomposite would expand the scope of application of 3D printing photo curable resin to industrial workpieces with the requirements of stiff toughness mechanical isotropy and thermal resistance rather than being limited in the field of model design and prototyping .
+
+@highlight The novel core shell nanoparticles are synthesized to prepare nanocomposites.
+@highlight The comprehensive mechanical properties are improved especially toughness.
+@highlight The nanocomposites possess similar mechanical properties like ABS.
+@highlight The temperature resistance and the rigidity of the resin are maintained.
+@highlight The anisotropy in tensile strength of fabricated workpieces is reduced.

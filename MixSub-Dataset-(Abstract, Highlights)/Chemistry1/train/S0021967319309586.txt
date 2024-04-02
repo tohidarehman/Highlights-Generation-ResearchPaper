@@ -1,0 +1,8 @@
+ A metal organic framework material MIL 101 was developed as an effective solid phase extraction adsorbent for the extraction of eleven UV filters compounds . The MIL 101 adsorbent was packed into a polypropylene cartridge and connected at the outlet tip with the Visiprep vacuum manifolds allowing process up to 12 port SPE samples simultaneously . The extracted UV filters were quantified by gas chromatography tandem mass spectrometry . Several parameters affecting the extraction efficiency of the target analytes i.e . desorption conditions sample pH the addition of salt and sample volume were optimized by ANOVA analysis followed by a multifactorial design . The sample breakthrough volume of the developed method was also evaluated . The SPE GCMS MS method was validated in terms of linearity
+
+@highlight Multiclass UV filter analysis in environmental and recreational waters by SPE GCMS MS.
+@highlight MIL 101 is proposed for the first time as a miniaturized on column SPE adsorbent.
+@highlight The extraction procedure was extensively optimized by experimental design.
+@highlight Good recoveries precision and low LOD at the ngL
+@highlight were achieved.
+@highlight Real water analysis showed method accuracy as well as high occurrence of UV filters.

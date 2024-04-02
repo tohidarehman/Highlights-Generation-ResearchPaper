@@ -1,0 +1,6 @@
+ Dynamic taxi route recommendation aims at recommending cruising routes to vacant taxis such that they can quickly find and pick up new passengers . Given citizens giant but unbalancing riding demand and the very limited taxis in a city dynamic taxi route recommendation is essential for its ability to alleviate the waiting time of passengers and increase the earning of taxi drivers . Thus in this paper we study the dynamic taxi route recommendation problem as a sequential decision making problem and we design an effective two step method to tackle it .
+
+@highlight We comprehensively study the spatio temporal features for taxi route recommendation.
+@highlight A deep policy network is carefully designed to fuse the extracted features.
+@highlight An adaptive deep reinforcement learning method is developed to learn the policy net.
+@highlight Evaluation using real world datasets demonstrates the effectiveness of our method.

@@ -1,0 +1,8 @@
+ Conversional electromagnetic shielding material with strong reflection coefficient are becoming insufficient for today s application since the serious 2nd electromagnetic pollution . Herein we demonstrate a magnetic carbon based shielding material constructed by magnetic Fe nanoparticles and N dotted amorphous carbon nanosphere . The structure morphology chemical composition of the samples have been studied in depth . It is observed that the average sizes of Fe NPs is 8.0nm and can be loaded well on the surface of N dotted amorphous spheres . The electromagnetic shielding performance has been investigated . Significantly the as prepared samples show excellent electromagnetic shielding performance . The maximum shielding effectiveness can up to 30dB under a thickness of 1.2mm . More importantly the reflection coefficient can be reduced to 2.3dB presenting excellent absorptiondominate shielding performance . The desirable shielding mechanism with less reflection are attributed to the boosted loss ability and matched impedance matching behavior which originate from N doping and magnetic component . This work which integrates magnetic component with N dotted amorphous carbon has been demonstrated as a useful strategy for the development of absorption dominate EM shielding material .
+
+@highlight Magnetic component Fe nanoparticles can be easily loaded on N dotted carbon.
+@highlight The as prepared shows dual magnetic and dielectric loss ability.
+@highlight The impedance matching ability can be greatly improved.
+@highlight The optimal sample has an excellent absorption dominate ability with a reduced SE
+@highlight value of 2.1dB.
+@highlight The total shielding effectiveness was 21dB under a thickness of 1.2mm.

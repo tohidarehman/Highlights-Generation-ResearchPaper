@@ -1,0 +1,8 @@
+ Carbone capture by absorptionregeneration technology is a well known process . However the development and utilization of new solvents remains crucial to lower its energy consumption . Therefore an accurate thermodynamic modeling is essential for the process simulation and optimization . This work focuses on the thermodynamic modeling of CO
+
+@highlight CO
+@highlight absorption into aqueous solutions of DEEA MAPA and their mixtures.
+@highlight eNRTL modeling for DEEA MAPA and DEEA MAPA based systems was developed.
+@highlight Model developed in Aspen Plus by adding species in the database.
+@highlight This work can be used for CO
+@highlight absorptionregeneration process simulation.

@@ -1,0 +1,6 @@
+ Sustainable urban drainage systems can significantly reduce runoff from urban areas . However their potential to mitigate acute river impacts of combined sewer overflows is largely unknown . To close this gap a novel coupled model approach was deployed that simulates the effect of realistic SUDS strategies developed for an established city quarter on acute oxygen depressions in the receiving river . Results show that for an average rainfall year the SUDS strategies reduce total runoff by 28 39 and peak runoff by 31 48 . Resulting relative reduction in total CSO volume ranges from 45 58 exceeding annual runoff reduction from SUDS by a factor of 1.5 . Negative impacts in the form of fish critical dissolved oxygen conditions in the receiving river 2mg DO L
+
+@highlight The developed modelling approach can simulate city wide river impacts of SUDS.
+@highlight Acute oxygen depressions in the river can be prevented with SUDS strategies.
+@highlight Relative reduction of CSO volume generally exceeds relative runoff reduction.
+@highlight Runoff peak attenuation is a relevant factor for CSO reduction and impact mitigation.

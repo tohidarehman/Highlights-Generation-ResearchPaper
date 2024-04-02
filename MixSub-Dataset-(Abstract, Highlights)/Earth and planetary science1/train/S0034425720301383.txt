@@ -1,0 +1,7 @@
+ One of the challenging tasks in modern aquatic remote sensing is the retrieval of near surface concentrations of Total Suspended Solids . This study aims to present a
+
+@highlight Model SOLID is developed for estimating TSS in coastal inland waters.
+@highlight Validated with a wide range of trophic turbidity conditions
+@highlight Performance is thoroughly gauged against five other models.
+@highlight Model produces stable performance in optically complex aquatic ecosystems.
+@highlight Performance is assessed for several satellite missions.

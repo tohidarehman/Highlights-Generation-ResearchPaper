@@ -1,0 +1,9 @@
+ New electrode composite materials consisting of NiMnCr layered double hydroxides coated on carbon spheres supported on nickel foam NiMnCr
+
+@highlight NiMnCr LDH decorated on carbon spheres supported on Ni foam is prepared.
+@highlight The electrode material exhibits a high specific capacitance of 569 Cg
+@highlight at 3Ag
+@highlight A supercapacitor is prepared and exhibits a high energy density of 48Whkg
+@highlight at a power density of 402.7Wkg
+@highlight The supercapacitor can operate home designed windmill device for about 25s.
+@highlight The supercapacitor was used to light up a red LED and a yellow LED.

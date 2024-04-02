@@ -1,0 +1,8 @@
+ This paper investigates the transshipment operations between vessels and trains in seaport rail terminals . In order to get a more effective transshipment plan the schedule plan of trains and the transshipment plan of containers among vessels yards and trains are determined simultaneously . To this end a mixed integer programming model is proposed to integrate the two sub problems with the objective of minimizing the total operation cost in which the service time window and unloading time requirement of trains are considered . It is demonstrated that some variables in the model can be relaxed without influencing the optimal result . Moreover a set of valid inequalities are introduced to tighten the constraints . The result experiments show that the enhanced model can be solved more effectively . Then extensive experiments have been conducted to analyze the influence of several factors including the handling capacity the yard capacity and the value of unit cost . The results report that the handling capacity shows a significant effect on the performance of the transfer plan and increasing the storage cost of import containers leads to a more effective transshipment plan .
+
+@highlight The train schedule template and transshipment plan of intermodal containers are jointly optimized.
+@highlight Various time window constraints related to the transshipment operation are considered.
+@highlight The model is enhanced by valid inequalities and relaxations.
+@highlight A critical value of handling capacity could be effectively identified.
+@highlight Increasing the unit storage cost is in favor of a better transfer plan.
+@highlight The overestimate of the indirect transshipment penalty should be avoided.

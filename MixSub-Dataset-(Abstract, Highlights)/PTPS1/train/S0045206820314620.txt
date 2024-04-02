@@ -1,0 +1,6 @@
+ Multitarget directed ligands are a promising class of drugs for discovering innovative new therapies for difficult to treat diseases . In this study we designed dual inhibitors targeting the human fatty acid amide hydrolase enzyme and human soluble epoxide hydrolase enzyme . Targeting both of these enzymes concurrently with single target inhibitors synergistically reduces inflammatory and neuropathic pain thus dual FAAH sEH inhibitors are likely to be powerful analgesics . Here we identified the piperidinyl sulfonamide moiety as a common pharmacophore and optimized several inhibitors to have excellent inhibition profiles on both targeted enzymes simultaneously . In addition several inhibitors show good predicted pharmacokinetic properties . These results suggest that this series of inhibitors has the potential to be further developed as new lead candidates and therapeutics in pain management .
+
+@highlight Potent dual inhibitors of sEH and FAAH enzymes have been discovered.
+@highlight Both enzymes play an important role in pain and inflammation processes.
+@highlight Several important structure activity relationships have been observed.
+@highlight Molecular modeling studies showed that these inhibitors bind in the catalytic sites.

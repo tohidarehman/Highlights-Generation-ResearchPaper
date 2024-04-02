@@ -1,0 +1,5 @@
+ Accurate spatio temporal classification of crops is of prime importance for in season crop monitoring . Synthetic Aperture Radar data provides diverse physical information about crop morphology . In the present work we propose a day wise and a time series approach for crop classification using full polarimetric SAR data . In this context the 44 real Kennaugh matrix representation of a full polarimetric SAR data is utilized which can provide valuable information about various morphological and dielectric attributes of a scatterer . The elements of the Kennaugh matrix are used as the parameters for the classification of crop types using the random forest and the extreme gradient boosting classifiers .
+
+@highlight Use of Kennaugh matrix representation for agricultural crop classification.
+@highlight Implemented a new day wise and time series approach for classification.
+@highlight Comparison of day wise and time series approaches using RF and XGB classifiers.

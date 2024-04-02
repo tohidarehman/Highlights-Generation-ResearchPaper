@@ -1,0 +1,7 @@
+ In this paper we study the phenomena of the extinction and persistence of predator populations of the three dimensional Kooi etal . model in the global formulation of the problem . This model contains three populations prey susceptible predators and infected predators . We compute ultimate sizes of interacting populations and establish that all biologically feasible trajectories eventually enter in some bounded domain and remain there . We derive analytical conditions for the extinction of the infected predator population in cases of different equal mortality rates of predators . In particular we find conditions under which 1 the population of prey persists while both of predator populations die out 2 the populations of prey and susceptible predators persist while the population of infected predators dies out . Besides we describe the case when at least one periodic orbit exists in the disease free invariant plane . Our analysis is based on using the localization method of compact invariant sets and the theorem of LaSalle . Main theoretical results are illustrated by numerical simulation .
+
+@highlight Convergence dynamics of one eco epidemiological model is studied.
+@highlight Ultimate sizes of prey and predator populations are computed.
+@highlight Conditions for extinction of infected predators are derived.
+@highlight Conditions for persistence of susceptible predators are derived.
+@highlight Cases of different equal death rates of predators are examined.

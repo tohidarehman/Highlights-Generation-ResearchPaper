@@ -1,0 +1,5 @@
+ Reliably predicting brace fracture is crucial in seismic evaluation of post fracture performance of concentrically braced frames . This paper evaluates existing fracture models proposes a new fracture initiation model based on a large amount of experimental data and compares all models with the test results . The existing ductility related empirical models and strain related fiber models are evaluated by experimental tests . A comprehensive database of previously tested square hollow structural sections from different research programs is established to conduct a regression analysis leading to development of a fracture initiation model . The study concludes that the existing fracture models are unable to predict fracture events observed during physical tests . Furthermore the existing strain related fracture models accessible to all users in
+
+@highlight Existing brace fracture models fail to predict the fracture process observed from laboratory data.
+@highlight Fracturing process concept logically explains brace fracture phenomenon.
+@highlight Proposed fracture initiation model predicts brace fracture in a consistently reliable manner.

@@ -1,0 +1,7 @@
+ Environmental decision support systems or DSS applied in the environmental field have been developed for over 40 years now . However most of these tools fail to find use or fall out of use extremely quickly . In the aim of aiding in the conception and development of practical and successful decision support systems i.e . systems that can lead to positive outcomes this review looks over the existing literature both EDSS centric and from broader decision related fields to highlight some of the most important challenges influencing the success and usability of these systems . In all 13 major challenges facing EDSS development were identified and over 60 recommendations and best practices were provided to address these challenges . Though this paper is mainly focused on environmental decision support systems most of the highlighted information and conclusions are applicable to the development of decision support systems in any field .
+
+@highlight Challenges for environmental decision support system success are identified.
+@highlight Stakeholder identification participation and decision modelling are key challenges.
+@highlight Recommendations to mitigate the impact of these challenges are presented.
+@highlight Evaluation criteria for such systems are lacking and proposed in this review.
+@highlight A detailed formal framework is required for development of high quality systems.

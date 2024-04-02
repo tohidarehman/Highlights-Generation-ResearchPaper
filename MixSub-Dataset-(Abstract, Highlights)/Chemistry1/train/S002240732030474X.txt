@@ -1,0 +1,12 @@
+ Rayleigh scattering cross sections for argon carbon dioxide sulfur hexafluoride and methane were measured using Broadband Cavity Enhanced Spectroscopy between 264 and 297nm extending the region of experimental cross section data available for all four gases . The experimentally derived values for Ar and CO
+
+@highlight Rayleigh scattering cross sections measured for gases from 264 to 297nm with BBCES.
+@highlight Results for Ar and CO
+@highlight in excellent agreement with refractive index based values.
+@highlight Measured cross sections for SF
+@highlight and CH
+@highlight disagree with previous n based values.
+@highlight New dispersion formulas are derived for SF
+@highlight and CH
+@highlight for use in the UV and visible.
+@highlight New cross sections provide accurate reference values for BBCES mirror calibration.

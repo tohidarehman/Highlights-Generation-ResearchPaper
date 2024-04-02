@@ -1,0 +1,6 @@
+ Understanding how crop development rate responds to the environment provides the basis for evaluating the impact of climate change on crop yield . In most crop simulation models temperature response functions of development rate during the reproductive growth period are assumed to only vary with temperature and not with other environmental factors . However studies have indicated that the response functions may be plastic with other factors . Until now little attention has been paid to this type of response . Here using extensively collected field observations and data from intentionally designed interval planting experiments with winter wheat
+
+@highlight A plastic phenology model was developed for simulating crop reproductive phase.
+@highlight The model assumes a dynamic response of development rate to temperature.
+@highlight Wheat rice and maize phenology observations under varied conditions were used.
+@highlight The model effectively reduced phenology simulation error in a simple and effective way.

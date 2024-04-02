@@ -1,0 +1,6 @@
+ In this study an analysis of the hydrodynamic effects on the hexadecane uptake strategies of a bacterial consortium in an airlift bioreactor was performed using mathematical modelling . The model was developed by considering the capacity of the consortium to consume HXD either directly through direct interfacial contact or through uptake of emulsified forms . The model was fitted to experimental data 0.822 R
+
+@highlight The kinetic model considers DC and EF as the two principal strategies in HXD uptake.
+@highlight increases led to high oxygen and HXD uptake both predicted by the model.
+@highlight The major microbial strategy was DC with an HXD uptake among 90.897.66 .
+@highlight The model show that hydrophobicity and bacterial shape are critical for HXD uptake.

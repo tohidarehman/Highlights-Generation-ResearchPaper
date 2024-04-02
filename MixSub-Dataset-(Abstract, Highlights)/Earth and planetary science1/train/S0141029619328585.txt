@@ -1,0 +1,5 @@
+ Masonry structures are often characterized by complex non planar geometries . This is also the case for historical and monumental structures . Here we investigate the dynamic behaviour of non standard curvilinear masonry geometries such as vaults subjected to blast loading .
+
+@highlight A Discrete Element Method based approach is used to investigate the fast dynamic behaviour of planar and arched masonry structures subjected to blast loads.
+@highlight The corroboration with experimental tests shows that the proposed model well captures the essential features of the mechanical response and failure modes.
+@highlight The influence of several micro mechanical parameters on the response of an arched structure is assessed through detailed parametric analyses.

@@ -1,0 +1,7 @@
+ Structures accumulate damage during their lifespan . Such damage is usually ignored during the assessment of implicit capacity and demand factors of structures . Thus a simplified method for the assessment of structural reliability considering structural degradation is presented . New mathematical expressions for evolutionary structural capacity and structural demand factors are obtained . An example that takes into account degradation due to fatigue in the tower of a wind turbine subject to wind forces is given . Results show that for a wind turbine tower located in La Ventosa Mexico the capacity factor is lower than values recommended by some international building codes .
+
+@highlight A simple method for the assessment of structural reliability over time is presented.
+@highlight New expressions for evaluating evolutionary capacity and demand factors are proposed.
+@highlight PBSD principles are successfully applied to Wind Engineering.
+@highlight It is considered cumulative damage due to fatigue in a steel wind turbine tower.
+@highlight Structural capacity factor results lower than values in international codes.

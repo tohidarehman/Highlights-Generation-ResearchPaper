@@ -1,0 +1,7 @@
+ An improved intersection feedback laser self mixing sensing system is presented for measuring the micro radian angle by means of the self mixing interference effect . The experimental results demonstrate that this angle measurement system can effectively prevent the low resolution and narrow measurement angle range existing in traditional angle measurement techniques . Meanwhile the theoretical illustration and experimental analysis elucidate that both the different radii of the rotary disk and the different angles between two mirrors significantly affect angle measurement resolution . Accordingly over the full circle ranging from 0 to 2
+
+@highlight We present an improved intersection feedback laser self mixing sensing system for measuring the micro radian angle based on the self mixing interference effect. The practical measurement resolution of this optical sensing system can reach up to 6.28rad over the full circle range from 0 to 2
+@highlight rad of which is consistent with the simulated value.
+@highlight The absolute error of this self mixing angle experimental measurement system is in the range of 0.97rad and the relative error is lower to
+@highlight rad.
+@highlight The self mixing angle measurement system is useful to be developed for measuring angle in some limited space applications due to its slightly small size especially the narrow and small space.

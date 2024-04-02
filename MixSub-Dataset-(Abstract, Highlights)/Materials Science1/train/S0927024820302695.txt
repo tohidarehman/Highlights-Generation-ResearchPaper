@@ -1,0 +1,7 @@
+ In this study a new method to reduce the thermomechanical stress in silicon solar cells induced during the cell interconnection process is proposed . By repositioning the rear pads such that the silicon solar cells are bonded to the front copper conductors ended at the same locations as the outer edges of the outermost rear pads along the busbar direction . Finite element modelling predicts that stress reduction of 50 was achieved when solar cells are interconnected by conventional tabbing or Multi busbars and it was confirmed by the derived stress measured by the micro Raman spectroscopy . Front busbars terminated with a reduced contact area can further increase the tolerance of any potential misalignment arising from process variations .
+
+@highlight Balanced contact method is to mitigate the thermomechanical stress in silicon solar cells induced by interconnection.
+@highlight The bonding end points of the front and rear copper ribbons or wires to the cells are aligned in the busbar direction.
+@highlight More than 50 of stress reduction is predicted using finite element modelling for both conventional tabbing and MBB.
+@highlight Stress reduction is experimentally confirmed using micro Raman spectroscopy.
+@highlight Misalignment tolerance can be increased by front busbars terminated with a reduced contact area.

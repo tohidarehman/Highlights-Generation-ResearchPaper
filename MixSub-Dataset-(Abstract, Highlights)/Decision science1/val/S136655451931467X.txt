@@ -1,0 +1,6 @@
+ We propose a closed loop supply chain system that incorporates a trade in program and refurbishment service simultaneously . Through the trade in program retailers collect used old generation products from customers and provide them with new generation products at a discount price . It helps to acquire the additional products required for the refurbishment service . The proposed integrated system could be useful to retailers selling the smartphone which has a high potential in emerging markets . We approximate the multistage stochastic optimization model to the robust counterpart which features a second order cone program . Computational results provide managerial insights that could be beneficial to the retailer .
+
+@highlight We propose a mathematical model with the refurbishment service and trade in program.
+@highlight To capture the correlated uncertain demands we adopt the factor based demand.
+@highlight We derive the second order cone program from the multistage stochastic program.
+@highlight Computational results show that our model is tractable and provides a tight bound.

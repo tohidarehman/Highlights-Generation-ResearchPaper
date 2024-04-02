@@ -1,0 +1,6 @@
+ Non ductile reinforced concrete building frames have seismic and blast vulnerabilities due to inadequate reinforcement detailing resulting in premature failure . One option to mitigate these vulnerabilities is the installation of a retrofit system on susceptible structures . However differences in code defined performance limits depending on loading type may result in a non conservative retrofit design under multi hazard loads . This paper presents a rapid tool for multi hazard assessment and mitigation for the seismically vulnerable building frames using artificial neural network models which can rapidly generate large datasets . Using the models energy based performance limits for multi hazard loading are derived and a rapid decision making approach for the retrofit design is developed under seismic and blast loads .
+
+@highlight A new rapid tool to determine multi hazard performance and retrofit scheme.
+@highlight Artificial neural network models developed for rapid performance evaluation.
+@highlight A framework for combining seismic and blast performance limits using the ANN models.
+@highlight Demonstration of the rapid tool to select an effective retrofit scheme under multi hazards.

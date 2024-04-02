@@ -1,0 +1,6 @@
+ This paper presents a numerical study of a nanoscale hydrogen gas sensor based on a surface plasmon polariton resonator system . The system consists of two resonators one with a silver core and the other with a palladium core and a side coupled access waveguide . In this study an effective method for eliminating inhibitory detection parameters in hydrogen gas detection is proposed . With a sensitivity of 350 pm hydrogen the proposed structure and the method should lead to future studies investigating more compact cost effective practical and accurate hydrogen detection technology .
+
+@highlight The stability and accuracy of hydrogen gas sensing is studied.
+@highlight Detection accuracy is improved in a potentially multi characteristic environment.
+@highlight An on chip CMOS compatible optical hydrogen sensor is designed.
+@highlight Provides compact small foot print practical and low cost hydrogen detection.

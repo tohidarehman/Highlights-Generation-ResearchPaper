@@ -1,0 +1,7 @@
+ We demonstrate type II GaAsSb GaAsN superlattices as a suitable structure to form the lattice matched 1.01.15eV subcell that would allow the implementation of the optimum monolithic multi junction solar cell design . The separation of Sb and N atoms during growth leads to an improved composition homogeneity and a lower defect density than in the bulk GaAsSbN counterparts . The type II band alignment SLs provide long radiative lifetimes that facilitate carrier collection as compared to equivalent type I SLs . Moreover the radiative lifetime can be controllably tuned through the period thickness which is not possible in type I SLs . A reduced period thickness results in enhanced absorption due to increased wavefunction overlap as well as in a change in the transport regime from diffusive to quasiballistic providing improved carrier extraction efficiency . As a result the short period SL single junction solar cells show an enhanced power conversion efficiency of 134 over the equivalent bulk devices .
+
+@highlight GaAsSb GaAsN superlattices show lower defect density than equivalent bulk alloys.
+@highlight Type II band alignment provides long and tunable radiative carrier lifetimes.
+@highlight Carrier absorption and extraction are enhanced in thin period type II superlattices.
+@highlight Thin period superlattice solar cell shows 134 higher efficiency than bulk devices.
+@highlight GaAsSb GaAsN superlattices are apt structures for ideal multi junction solar cells.

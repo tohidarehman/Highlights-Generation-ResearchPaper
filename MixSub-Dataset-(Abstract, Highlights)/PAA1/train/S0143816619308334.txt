@@ -1,0 +1,6 @@
+ The article presents a study of shock waves induced by a nanosecond laser pulse in samples in the form of steel plates . Its contents include a description of the measurement system methods of calculations and some characteristics of the measuring instruments and materials used . The quoted formulas enabled the processing of recorded measurement signals . The influence of material used as a confining layer and substrate on the amplitude and shape of recorded pressure waves was studied . Pressure behind the shock wave measurements were conducted using piezoelectric polymer PVDF sensors . Verifications of PVDF results were conducted by the measurements of velocity of back sample surface by VISAR . A qualitative compliance between the PVDF s pressure and VISAR s velocity rescaled to pressure was achieved . The strains and strain rates about 310
+
+@highlight The measured shock waves pressures have shown high proportionate reproducibility.
+@highlight Attained was fine adjustment of amplitude profile and duration of pressure peaks.
+@highlight Proved was proper selection of high stress rate conditions for studying materials.
+@highlight Consistent were VISAR velocity tests with measured shock waves pressures.

@@ -1,0 +1,5 @@
+ The complexity entropy causal plane has been widely discussed recently . It can measure the information of sequences from two perspectives to reflect their structural details . But in experiments we find that as a method based on probability space the original CECP is not sensitive to the shape of the probability distributions which may lead to inaccurate structural feature differentiation . Therefore we propose a novel normalized complexity entropy causal plane based on the modified Fisher information measure to solve the problem . The modified Fisher information measure and divergence score
+
+@highlight The novel statistics NF CECP focuses more on the shape of the probability distributions amplitude of signals and other information regarding to the structure.
+@highlight NF CECP can distinguish Gaussian white noises GWN from ARFIMA sequences but the original CECP fails.
+@highlight It also shows that in the past 15 years the relative values of CF and MF of the two countries are gradually approaching and it can be considered that the financial relationship between the two countries may be getting closer.

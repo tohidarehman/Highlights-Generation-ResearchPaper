@@ -1,0 +1,7 @@
+ Because of the hazard of single phase to ground faults on distribution networks for human security and device insulation it is important for the ground fault current to be eliminated by an arc suppression device . However owing to their shortcomings passive arc suppression devices can not compensate the ground fault current fully . Therefore active arc suppression devices have been studied . The flexible arc suppression device with a cascaded H bridge topology is one type of active arc suppression device . An FASD connected to a bus bar of distribution networks is applied to mitigate the ground fault current . Owing to the high voltage and large current during the ground fault a large number of HBs are required for the FASD . To modulate the HBs an improved distributed commutations modulation method which is combined with the flexible arc suppression method is proposed . The proposed modulation strategy aims to minimise the error between the reference signal and the tracking signal during each sampling period . Finally the proposed strategy is validated via simulations and experiments to confirm its effectiveness for the FASD .
+
+@highlight Flexible arc suppression device FASD based on cascaded H bridge topology.
+@highlight Improved distributed commutations modulation IDCM is proposed.
+@highlight IDCM and PSCPWM applied to FASD are compared respectively.
+@highlight Decentralized control is applied to FASD.
+@highlight FASD based on IDCM mitigates the fault current in experiment testing.

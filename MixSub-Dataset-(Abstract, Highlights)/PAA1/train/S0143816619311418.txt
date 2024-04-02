@@ -1,0 +1,7 @@
+ The skin elasticity is a relevant biomechanical property that can be related to different physiological processes and diseases hence it is important to understand and characterize the mechanisms that affect the skin pathologies . In this work an analysis of the rigidity variations of porcine skin caused by exposure to ultraviolet radiation is presented . For this purpose digital holographic interferometry
+
+@highlight Our research proposes a new mathematical formulation to skin rigidity based on the laws of non linear elasticity in anisotropic systems that reflect real skin properties. This formulation is presented for the first time in the literature.
+@highlight We use digital holographic interferometry to measure out of plane displacement fields from samples of UV exposed skin different timings and amounts of radiation are considered.
+@highlight The rigidity measurements were made on fresh skin to guarantee a precise approximation of the rigidity and its variations .
+@highlight Our results suggest an increment in rigidity under prolonged exposure to UV radiation confirming the reported results in previous works in which a reduction in elasticity was found with the ageing of the skin.
+@highlight The rigidity values obtained for fresh pig skin can serve as reference values in future works that deal with the characterization of tissues and their associated diseases.

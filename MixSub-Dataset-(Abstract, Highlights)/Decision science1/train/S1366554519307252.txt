@@ -1,0 +1,5 @@
+ Focusing on the price issue in shared parking two auction based pricing strategies are designed in a double environment covering parking suppliers and demanders . A novel uniform price strategy is proposed to set unique transaction prices for winning participants it is in contrast with the differential price strategy which sets differential transaction prices . The DPS and UPS are compared from the perspective of parking platforms payoff and participants utilities theoretically and numerically . It shows that the DPS is superior to the UPS in terms of parking platforms payoff whilst the UPS outperforms the DPS in terms of participants utilities .
+
+@highlight Rational and innovative uniform price strategy UPS for shared parking price.
+@highlight Comparison between proposed UPS and conventional differential price strategy DPS .
+@highlight Alternative options for policymaker with UPS and DPS in view of certain preference.

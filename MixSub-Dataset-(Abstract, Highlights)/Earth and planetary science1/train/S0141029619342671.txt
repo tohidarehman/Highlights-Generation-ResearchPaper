@@ -1,0 +1,6 @@
+ In this study an innovative re centering energy dissipation brace was developed and its behavior was experimentally studied . The RCED brace contained two groups of cables with zero initial cable force . This configuration helped to eliminate the difficult process of applying pretension and the problem of pretension loss that appears in traditional re centering braces . The re centering force was alternately provided using the two groups of cables and energy dissipation was supplied using a frictional energy dissipative device . A restoring force model for the RCED brace was proposed . Three full scaled RCED braces with various magnitudes of bolt pretension and cable diameters were designed and experimentally tested . The results indicated that the RCED braces exhibited stable quadrilateral hysteretic responses with effective energy dissipation excellent re centering capabilities adjustable ultimate bearing capacity and appreciable ductility .
+
+@highlight The stiffness and re centering capacity were determined by diameter of steel cables.
+@highlight The friction and energy dissipation were determined by high strength bolts.
+@highlight With the increase in displacement the energy dissipation increase continuously.
+@highlight Different cables and high strength bolts can satisfy different design requirements.

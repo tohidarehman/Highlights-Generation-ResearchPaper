@@ -1,0 +1,7 @@
+ This paper addresses the numerical solution of the multi dimensional variable order fractional integro partial differential equations . The upwind scheme and a piecewise linear interpolation are proposed to approximate the Coimbra variable order fractional derivatives and integral term with kernel respectively . Two new approaches via the Sinc collocation method based on single and double exponential transformations are adopted for the temporal and spatial discretizations respectively . The convergence behaviour of the methods is analysed and the error bounds are provided . In addition four test problems illustrate the validity and effectiveness of the proposed algorithms .
+
+@highlight A class of multi dimensional variable order fractional integro partial differential equations is under consideration.
+@highlight New treatments of Sinc spectral method are proposed.
+@highlight The convergence properties of the methods are investigated.
+@highlight The efficiency and accuracy of the proposed methods are analyzed in the perspective of the
+@highlight norm error and convergence order.

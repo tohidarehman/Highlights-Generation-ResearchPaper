@@ -1,0 +1,6 @@
+ The immune system is paradigmatic for a complex arrangement of heterogenous cells performing distinct frequently temporally and anatomically dissociated functions . Immune dysfunction is a common characteristic across most diseases and human genetic approaches have revealed that many disease risk loci are associated with expression profiles and counts of specific immune subsets . Furthermore genetic regulators of immune function may only demonstrate activity in specific disease linked contexts . Here we explore steps taken to dissect the genetic determinants of variation in immune response across cell counts and function and the insights these have provided into human immunity .
+
+@highlight Variation in human immunity is determined both by the proportion of immune cell subsets and their respective expression profiles.
+@highlight Single cell technologies can help to delineate how genomic modulators of immunity acteither by modifying expression in total cell populations or smaller subsets.
+@highlight An area of future investigation is examining quantitative trait loci associations in clinical disease cohorts.
+@highlight These are both influenced to a lesser or greater extent by genetic variation.

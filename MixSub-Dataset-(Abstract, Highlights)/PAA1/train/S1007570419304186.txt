@@ -1,0 +1,7 @@
+ We consider a system of two simple pendulums which interact by elastic forces according to Hookes law in the presence of the gravitational field . Analysis of global dynamics of the system by means of the Poincar sections the bifurcation diagrams and Lyapunovs exponents suggest its non integrability . We give an analytical proof of this fact . An analysis through differential Galois theory is done providing non integrability of the system for most of the values of the parameters . For a certain co dimension one in parameter space family we did not obtain integrability obstructions due to solvability of the first order variational equations of the Lam type . We show an application of the higher order variational equations for proving the non integrability in this case . As the final result we received that the system of two pendulums coupled by a spring is integrable only in two cases postulated in the main theorem of the work .
+
+@highlight The system of two pendulums coupled by a spring is examined.
+@highlight The complexity of the model by means of Poincar sections the bifurcation diagrams and Lyapunovs exponents is presented.
+@highlight The proof of its non integrabiliry in the framework of differential Galois theory is given.
+@highlight For a certain co dimension one in parameter space family the higher order variational equations are used.
+@highlight Certain integrable cases are identified.

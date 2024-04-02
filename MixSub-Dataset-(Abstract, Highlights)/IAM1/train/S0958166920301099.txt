@@ -1,0 +1,7 @@
+ Engineering the transport of small molecules is an effective approach to improve the performance of microbial cell factories . Transporter engineering can improve the utilization of low cost alternative substrates reduce the loss of pathway intermediates and increase the titer and production rate of the target product . However transporters are not commonly engineered in strain development programs because the functions of most of the transport proteins are not known . In the recent years a variety of methods have been developed for identification of transporters for specific substrates and for characterizing transport mechanisms . This review presents recent examples of successful transport engineering for cell factories and discusses the methods for transporter identification and characterization .
+
+@highlight Transporter proteins are essential for substrate uptake product export and intercompartmental metabolite exchange.
+@highlight Transporter activity of a cell can be engineered to improve the production of metabolites.
+@highlight Most of transporters are not functionally characterized.
+@highlight Transporter characterization demands specialized techniques using
+@highlight oocytes membrane vesicles or electrophysiology.

@@ -1,0 +1,5 @@
+ In a recent publication Zafar etal . have reported on the use of Doppler free spectroscopy of helium 414nm line for the determination of electron density in helium plasmas . This was done by fitting their experimentally obtained Doppler free line profiles with spectral profiles constructed using a Stark broadening model . But in this model authors have assumed a closed two level system for the 2
+
+@highlight Important errors exists in Zafar s paper for the definition of the spectral line width and for determination of saturation parameter.
+@highlight Zafar s use of the electron impact broadening width as a fit parameter is unjustified. We report the exact value of the broadening parameter.
+@highlight Zafar s errors results in an underestimated minimum measurable electron density and the E field.

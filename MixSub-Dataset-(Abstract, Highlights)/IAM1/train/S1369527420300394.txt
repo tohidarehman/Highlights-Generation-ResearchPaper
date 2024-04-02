@@ -1,0 +1,7 @@
+ Introduction of antibiotics into clinical use has contributed to some of the greatest improvements to public health in the 20th century . Most antibiotics are based on antimicrobials that were isolated from environmental microorganisms over 50 years ago but emerging resistance requires discovery of new molecules and development of these molecules into therapeutics . Bioinformatic analyses of microbial genomes indicate that many more microbial bioactive molecules remain undiscovered . Understanding when where and why these molecules are produced informs efforts to tap into the hidden unexplored chemical diversity . Expanding the search to undersampled ecological niches and improving culturing techniques will ensure discovery of new antibiotics .
+
+@highlight Most antibiotics are derived from antimicrobials produced by soil microorganisms.
+@highlight Genetic potential of microbes far exceeds their small molecule output in the lab.
+@highlight Microbial ecology informs strategies to discover new antimicrobials.
+@highlight Organisms from non conventional habitats may serve as a source of new antimicrobials.
+@highlight Better models are needed to study the role of antimicrobials in microbial ecology.

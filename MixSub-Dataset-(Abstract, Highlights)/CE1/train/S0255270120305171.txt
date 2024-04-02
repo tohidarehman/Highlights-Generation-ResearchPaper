@@ -1,0 +1,7 @@
+ Gas solids drag model is crucial for the accurate prediction of gas solids flow in turbulent fluidized bed . A four zone drag model based on cluster was proposed to describe the gas solids interactions in TFB . The model considers the cluster effect in the bottom dense bubbling zone while regards the particles as discrete ones in the top dilute dispersed zone . The structural parameter model was used to calculate the equivalent cluster diameter in the drag model . Validations against experiments show that the drag model can accurately simulate the gas solids flow characteristics in TFBs with Geldart A and B particles . Besides the non uniform flow structures resulting from gas voids and particle clusters were successfully captured with the model . Compared with the bubbling fluidized bed more small bubbles with a more uniform size distribution exist in TFB and the variation of operating conditions has little effect on gas voids characteristics in TFB .
+
+@highlight A four zone drag model based on cluster was developed for turbulent fluidized bed
+@highlight Bottom dense zone and top dilute zone were specified in developing the drag model
+@highlight The model is accurate in simulating turbulent fluidized bed at different conditions
+@highlight Voids and clusters result in the unique gas solids flow characteristics in TFB
+@highlight More small bubbles with a more uniform size distribution exist in TFB than BFB

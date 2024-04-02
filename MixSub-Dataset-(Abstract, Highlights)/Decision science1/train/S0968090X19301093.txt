@@ -1,0 +1,7 @@
+ One of the key challenges towards more automation in Air Traffic Control is the resolution of en route conflicts . In this article we present a generic framework for the conflict resolution problem that clearly separates the trajectory and conflict models from the resolution . It is able to handle any kind of maneuver and detection models though we propose our own realistic 3D maneuvers and conflict detection that takes into account uncertainties on the positioning of aircraft . Based on these models realistic scenarios are built for which potential conflicts are detected using an efficient GPU based algorithm . The resulting instances of the conflict resolution problem are provided to the community as a public benchmark .
+
+@highlight Generic conflict resolution framework to provide benchmark to scientific community.
+@highlight GPU based conflict detection fast enough to enable real time applications.
+@highlight 2 phase Memetic Algorithm able to handle feasibility and optimization.
+@highlight Aggregation of ILP model constraints dramatically increases efficiency.
+@highlight Cooperation of exact algorithm and metaheuristic outperforms both on large instances.

@@ -1,0 +1,7 @@
+ Proteins that regulate transcription often also play an architectural role in the genome . Thus it has been difficult to define with precision the distinctions between transcription factors and nucleoid associated proteins . Anachronistic descriptions of NAPs as histone like implied an organizational function in a bacterial chromatin like complex . Definitions based on protein abundance regulatory mechanisms target gene number or the features of their DNA binding sites are insufficient as marks of distinction and trying to distinguish transcription factors and NAPs based on their ranking within regulatory hierarchies or positions in gene control networks is also unsatisfactory . The terms transcription factor and NAP are
+
+@highlight Addresses the nature of the distinction between bacterial transcription factors and nucleoid associated proteins.
+@highlight Proteins lie along a spectrum of influence extending from highly specific to very pervasive effects on gene expression.
+@highlight Uses the BldC protein from
+@highlight as an example.
+@highlight BldC is compared with Xis the excisionase DNA binding and architectural protein that is expressed by bacteriophage lambda.

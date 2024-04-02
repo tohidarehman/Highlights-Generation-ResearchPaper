@@ -1,0 +1,7 @@
+ Pregnant women are an especially vulnerable population given the sensitivity of a developing fetus to chemical exposures . However prescribing behavior for the gravid patient is guided on limited human data and conflicting cases of adverse outcomes due to the exclusion of pregnant populations from randomized controlled trials . These factors increase risk for adverse drug outcomes and reduce quality of care for pregnant populations . Herein we propose the application of artificial intelligence to systematically predict the teratogenicity of a prescriptible small molecule from information inherent to the drug . Using unsupervised and supervised machine learning our model probes all small molecules with known structure and teratogenicity data published in research amenable formats to identify patterns among structural meta structural and
+
+@highlight Machine learning can predict a drugs teratogenicity from its structure.
+@highlight Certain structural motifs predispose a drug to increased teratogenicity.
+@highlight QSAR gives quantitative chemical definitions of existing teratogenicity scores.
+@highlight Teratology HTS data are insufficiently published to enrich structural models.
+@highlight Scarcity of structured teratology data creates barriers to translational science.

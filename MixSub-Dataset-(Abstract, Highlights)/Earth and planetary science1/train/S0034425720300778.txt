@@ -1,0 +1,7 @@
+ Measurements of reflected solar radiation by imaging spectrometers can quantify water in different states thanks to the discriminative absorption shapes . We developed a retrieval method to quantify the amount of water in each of the three states from spaceborne imaging spectroscopy data such as those from the German EnMAP mission . The retrieval couples atmospheric radiative transfer simulations from the MODTRAN5 radiative transfer code to a surface reflectance model based on the Beer Lambert law . The model is inverted on a per pixel basis using a maximum likelihood estimation formalism . Based on a unique coupling of the canopy reflectance model HySimCaR and the EnMAP end to end simulation tool EeteS we performed a sensitivity analysis by comparing the retrieved values with the simulation input leading to an R
+
+@highlight Simultaneously retrieved water vapor and liquid water are quantitatively validated.
+@highlight Imaging spectroscopy tracks changes in canopy water content better than the NDWI.
+@highlight Higher amounts of snow are tracked better than by using the NDSI.
+@highlight More plausible water vapor maps are produced in presence of liquid water absorption.
+@highlight The algorithm leads to accuracy improvements in atmospheric correction procedures.

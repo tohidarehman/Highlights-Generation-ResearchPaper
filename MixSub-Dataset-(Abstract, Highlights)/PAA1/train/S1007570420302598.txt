@@ -1,0 +1,5 @@
+ We study the synchronization critical coupling in the Kuramoto model of globally coupled oscillators analyzing natural frequencies distributed according to unimodal functions . Its is shown that asymmetric distributions can lead to a nonmonotonic critical transition when we modify some of their parameters . In particular we explore the case in which the natural frequencies are given by the log normal distribution . This case presents an interesting behavior in which synchrony vanishes with the increase in dispersion of natural frequencies but the continuous increase in dispersion may also recover part of the synchronization . Our numerical results are compared with analytical predictions based on self consistent equations .
+
+@highlight The phase transition in the Kuramoto Model of globally coupled oscillators was investigated.
+@highlight It is shown that asymmetric distributions may lead to a nonmonotonic critical transition when we modify some of their parameters.
+@highlight The numerical evidence of a nonmonotonic critical threshold was predicted by the selfconsistence equations.

@@ -1,0 +1,5 @@
+ Metal organic frameworks represent a unique platform for fabrication of nanoparticles of diverse composition and crystallinity . The growth of NPs from constituent parts of MOFs is usually initiated by external stimuli such as temperature light and electron irradiation . Herein the kinetics and NP growth mechanisms remain unexplored . Here we utilized electron irradiation to initiate the nucleation and growth of crystalline Cu NPs of tunable size from several nanometers to hundreds of nanometers inside MOF as a precursor . Simultaneously the process of the NPs growth captured in real time using transmission electron microscope demonstrates the evolution of their size shape and spatial distribution . We also analyze the NP growth by the classical kinetic theory taking into account a phase transformation . Our results contribute to crystal engineering and developing of functional MOF based nanocomposites .
+
+@highlight TEM allows observing the growth of NPs from constituent parts of MOFs.
+@highlight The dynamic of the growth of NPs can be modeled by JMAK.
+@highlight Tuning the e beam parameters allows one to manipulate the NP diameter and rate of growth.

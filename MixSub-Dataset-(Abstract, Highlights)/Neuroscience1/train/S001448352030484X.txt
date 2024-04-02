@@ -1,0 +1,5 @@
+ In chicks the diurnal patterns of retinal dopamine synthesis and release are associated with refractive development . To assess the within day patterns of dopamine release we assayed vitreal levels of DOPAC using high performance liquid chromatography with electrochemical detection at 4 h intervals over 24h in eyes with experimental manipulations that change ocular growth rates . Chicks were reared under a 12h light 12h dark cycle experiments began at 12 days of age . Output was assessed by modelling using the robust variance structure of Generalized Estimating Equations .
+
+@highlight DOPAC is initially reduced under all visual conditions that alter growth rate.
+@highlight The diurnal rhythm in DOPAC is retained under conditions altering eye growth.
+@highlight DOPAC is reduced during the day and the night under visual conditions altering eye growth.

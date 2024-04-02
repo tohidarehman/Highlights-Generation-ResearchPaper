@@ -1,0 +1,5 @@
+ We put forward an efficient algorithm for approximating the sums of independent and log normally distributed random variables . Namely by combining tools from probability theory and numerical analysis we are able to compute the cumulative distribution functions of the just mentioned sums to a high precision and in a relatively short computing time . We illustrate the effectiveness of the new method in the contexts of the individual and collective risk models aggregate economic capital determination and economic capital allocation .
+
+@highlight We merge tools from probability theory and numerical analysis
+@highlight There are a vast variety of applications to our method.
+@highlight We illustrate it in the context of Economic Capital aggregation and allocation.

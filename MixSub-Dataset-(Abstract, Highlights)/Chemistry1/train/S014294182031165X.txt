@@ -1,0 +1,6 @@
+ In this paper the bending fatigue tests of honeycomb sandwich panels are carried out by using an improved three point bending test fixture and the S N curves at different stress ratios are obtained . Through the records of fatigue damage in the experiment the failure mode of the honeycomb sandwich panels and the source of fatigue damage are determined . At the same time through the calculation of the shear stress distribution on the honeycomb wall the reasons for the difference in the failure morphology of the L direction and W direction sandwich panels are clarified . Besides a life prediction method is proposed and its effectiveness in predicting the fatigue life of sandwich panels has been verified .
+
+@highlight Complete three point bending test of sandwich panels.
+@highlight Determine the fatigue failure modes of composite sandwich panels.
+@highlight Observe the growth process of fatigue damage in the core of composite sandwich panels.
+@highlight Analyze differences of failure modes between L and W direction specimens.

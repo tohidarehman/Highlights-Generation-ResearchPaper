@@ -1,0 +1,6 @@
+ A fire assessment model has been developed to provide a better understanding of the flame propagation toxic gases and smoke generations of polymer composites . In this study the effectiveness of the Chitosan Graphene Oxide layer by layer fire retardant coating on flexible polyurethane foam was investigated experimentally and numerically via Cone Calorimetry . To generate quality pyrolysis kinetics to enhance the accuracy of the model a systematic framework to extract TGA data is proposed involving the KissingerAkahiraSunose method followed by Genetic Algorithm with less than 5 of RMS error against experimental data . The proposed fire model is capable of predicting and visualising fire development and emitting gas volatiles .
+
+@highlight Porous media surface regression pyrolysis model incorporating detailed chemistry.
+@highlight Advanced numerical genetic searching algorithm for pyrolysis kinetics extraction.
+@highlight Layer by layer assembly approach for fabrication of FPU GO CHT composites.
+@highlight Visualisation and prediction of flammability toxicity and smoke reductions.

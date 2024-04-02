@@ -1,0 +1,7 @@
+ An unstructuredunsegregated temperature dependent kinetic model was developed and validated to describe ethanol fermentation in a mixture of xylose and glucose for the nonconventional yeast
+
+@highlight A kinetic model describing fermentation from mixed C5 and C6 sugars was proposed.
+@highlight The kinetic model was composed by 13 equations and 16 kinetic parameters.
+@highlight A differential evolution algorithm was applied for parameter estimation.
+@highlight Four parameters were estimated as a function of temperature as Arrhenius equations.
+@highlight Through model simulation the highest ethanol productivity is attained between 30 and 32C.

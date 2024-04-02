@@ -1,0 +1,6 @@
+ This paper outlines several control strategies for a feeding blending unit in a continuous pharmaceutical manufacturing setup with the goal of damping feeder fluctuations by adjusting the blender speed . An advanced model predictive control concept and two standard concepts PI and model based feed forward control are described and compared with respect to their performance in the simulation . The concepts which showed satisfactory behaviour in the simulation are further tested on the real system . The paper also provides a detailed explanation of each implementation step in a real system i.e . measurement device setup signal processing parameter identification and controller design . The properties of control concepts are compared and analysed particularly in view of further work on the complete direct compaction line .
+
+@highlight Several controller strategies for a feeding blending unit are designed and applied in a simulation and on a real plant.
+@highlight Standard controller concepts are compared to a model predictive controller.
+@highlight Brief feeder fluctuations are successfully attenuated by adjusting the blender speed.
+@highlight Application of a model predictive controller shows advantageous behaviour compared to the other controller strategies.

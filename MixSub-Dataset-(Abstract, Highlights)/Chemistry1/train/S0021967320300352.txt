@@ -1,0 +1,8 @@
+ The present contribution reports on the practical implementation and validation of a new experimental method to determine the radial dispersion D
+
+@highlight Flow segmentation can be used to measure radial dispersion coefficient D
+@highlight  in practice.
+@highlight Mass flow meter feedback can be used to correct flow rate mismatches.
+@highlight Method validated by showing independence of relative central flow rate and tracer concentration.
+@highlight Measured D
+@highlight  values higher than in most engineering literature reports but still within cited range.

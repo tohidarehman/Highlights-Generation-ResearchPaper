@@ -1,0 +1,6 @@
+ This work evaluates the performance of commercial hydrocyclone for removing contaminant larger particles in bentonite clays which improves its commercial value . A steady state EulerianEulerian 14 phases CFD model was verified with experimental data . The model was further used to simulate the effect of geometry and operational conditions on the recovery efficiency of fine clay fraction in the overflow . Simulation results provided data on the global fine recovery efficiency and granulometric distribution in the hydrocyclone overflow . An empirical correlation to calculate the clay volume fraction as a function of the hydrocyclone pressure drop as well as the characteristic constant parameter of the hydrocyclone family were obtained . Finally a scale up study was performed and the effectiveness of scaled up industrial hydrocyclones was obtained .
+
+@highlight Hydrocyclone performance for bentonite clay treatment is described.
+@highlight CFD is used to optimize hydrocyclone performance.
+@highlight The characteristic constant of a commercial hydrocyclone family is obtained.
+@highlight A hydrocyclone scale up study is performed via CFD.

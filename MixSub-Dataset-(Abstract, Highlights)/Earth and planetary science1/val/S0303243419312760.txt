@@ -1,0 +1,6 @@
+ Surface soil water content plays an important role in driving the exchange of latent and sensible heat between the atmosphere and land surface through transpiration and evaporation processes regulating key physiological processes affecting plants growth . Given the high impact of water scarcity on yields and of irrigated agriculture on the overall withdrawal rate of freshwater it is important to define models that help to improve water resources management for agricultural purposes and to optimize rainfed crop yield . Recent advances in satellite based remote sensing have led to valuable solutions to estimate soil water content based on microwave or optical thermal infrared data . This study aims at improving soil water content estimation at high spatial and temporal resolution by means of the Optical Trapezoid Model driven by Copernicus Sentinel 2 data . Two different model variations were considered based on linear and nonlinear parameters constraints and validated against
+
+@highlight SM at high spatial and temporal resolution in rainfed and irrigated conditions.
+@highlight OPTRAM based on linear and nonlinear parameters constraints for SM estimations.
+@highlight Universal parameterization for crop VS single parameterization for a given location.
+@highlight SM from Sentinel2 Observations and SM from Metop ASCAT and Sentinel 1 CGLS .

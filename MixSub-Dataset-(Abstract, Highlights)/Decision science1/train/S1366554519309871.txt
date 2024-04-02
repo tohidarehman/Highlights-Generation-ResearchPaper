@@ -1,0 +1,6 @@
+ Given economic and environmental benefits closed loop supply chain has been attracting the attention of scholars and governments around the world . Considering dynamic changes and long term development this paper first constructs a dynamic CLSC model inspired by disease transmission model from the perspective of supply chain system . Then considering the characteristics of product quantities over time the performance and the total profits of the system in different situations are analyzed . Finally a numerical study is carried out to analyze the operation condition of the dynamic system by which some additional conclusions are made .
+
+@highlight From the systems perspective a dynamic model of closed loop supply chain inspired by disease transmission model is proposed.
+@highlight The optimal solutions to maintain system balance are obtained.
+@highlight The performance of closed loop supply chain system under different product quantity characteristics is analyzed.
+@highlight A numerical experiment is carried out to verify the validity of the model.

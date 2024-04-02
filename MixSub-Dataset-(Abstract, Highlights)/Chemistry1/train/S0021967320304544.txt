@@ -1,0 +1,6 @@
+ Basic principles are introduced for implementing discovery based analysis with automated quantification of data obtained using comprehensive three dimensional gas chromatography with flame ionization detection GC
+
+@highlight Fisher ratio software is applied to comprehensive three dimensional gas chromatography data.
+@highlight The third separation dimension replaces the mass spectrometric dimension in the data analysis.
+@highlight A new signal ratio algorithm is introduced enabling automated relative analyte quantification.
+@highlight The signal ratio output provides robust quantification with qualitative peak purity information.

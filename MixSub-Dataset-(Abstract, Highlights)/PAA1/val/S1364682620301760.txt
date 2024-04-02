@@ -1,0 +1,12 @@
+ Energetic charged particle precipitation associated with solar wind perturbations causes enhanced high frequency radiowave absorption in the high latitude ionosphere . This study models 38.2MHz cosmic noise absorption by utilising measurements from the Imaging Riometer for Ionospheric Studies at Kilpisjrvi Finland obtained during solar cycle 23 associated with the passage of interplanetary coronal mass ejections past Earth ICMEs are a major driver of enhanced geomagnetic activity . Superposed epoch analysis suggests that the r6absorption
+
+@highlight We have studied cosmic noise absorption CNA during disturbed periods associated with Interplanetary Coronal Mass Ejections ICMES .
+@highlight We analysed radio ionospheric opacity meter Riometer measurements for the Imaging Riometer for Ionospheric Studies IRIS at Kilpisjrvi Finland for CNA covering solar cycle 23 i.e. 1996 2009 .
+@highlight We showed that the response of the ionosphere is different depending on the time that the ICME occurs.
+@highlight We utilised the ICME catalogue produced by one of the authors Richardson and Cane to identify ICME periods within solar cycle 23.
+@highlight The absorption
+@highlight time profile associated with ICMEs is found to depend on whether the ICME starts in the daytime 1014 MLT or at night 22 02 MLT for IRIS Figs. 35 .
+@highlight We used various combinations of solar wind and IMF parameters and ranked them see Tables 2 and 3 to obtain the best coupling parameter for day and night time absorption.
+@highlight The daytime ICME model profile is found to correlate closely with solar wind dynamic pressure SYMH and northward B
+@highlight  while the night side ICME model is most closely related to B
+@highlight and SYMH.

@@ -1,0 +1,8 @@
+ The prediction of carbon uptake by forests across fertility gradients requires accurate characterisation of how biochemical limitations to photosynthesis respond to variation in key elements such as nitrogen and phosphorus . Over the last decade proxies for chlorophyll and photosynthetic activity have been extracted from hyperspectral imagery and used to predict important photosynthetic variables such as the maximal rate of carboxylation
+
+@highlight Limitations to photosynthesis 
+@highlight  were predicted in one year radiata pine.
+@highlight Significant relationships were found between N Chlorophyll and both Vcmax Jmax.
+@highlight However these relationships did not hold over both the N and P limiting ranges.
+@highlight Relationships between SIF PRI and both Vcmax Jmax were generalisable for all data.
+@highlight SIF and PRI may have greater generality than proxies for Chlorophyll and N.

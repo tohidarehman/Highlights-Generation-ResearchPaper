@@ -1,0 +1,7 @@
+ While buckling restrained braces offer excellent energy dissipation characteristics their low post yield stiffness may result in large residual drifts and interstory drift concentration when used in simply supported frames . This paper introduces a new multistage buckling restrained brace to help mitigate these design challenges . The proposed device features two low yield point cores with LY225 and short yield lengths and one high yield point core with SA440B and a longer yield length . In a design level event the LYP cores dissipate energy while the parallel HYP core provides an elastic restoring force . At large drifts the HYP core yields and the device acts similar to a high capacity ductile conventional BRB .
+
+@highlight A new multistage buckling restrained brace is proposed to reduce residual drifts.
+@highlight Features short low yield point LYP cores a long high yield point HYP core.
+@highlight A 384 kN specimen is tested to 1.5 strain achieving 3 AISC 341 fatigue criteria.
+@highlight Early yielding of LYP cores produced 1020 damping prior to yielding the HYP core.
+@highlight After yielding HYP core provided 2 the post yield stiffness as conventional BRBs.

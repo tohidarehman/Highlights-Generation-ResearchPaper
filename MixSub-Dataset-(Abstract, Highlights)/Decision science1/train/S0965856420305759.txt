@@ -1,0 +1,6 @@
+ This paper investigates travel mode and airline choice using stated preference data . Both air and non air passengers data were collected in Western Australia which allows easier generalisability of the findings to a wider population . A market segmentation approach using latent class modelling was applied to identify passenger segments . The results shown a significant difference between identified segments in terms of demographics economics and trip characteristics . One segment comprising travellers with higher income and more frequent business travellers was sensitive to service factors . The other comprising personal travellers with lower incomes placed higher sensitivity on price . The findings highlight the importance of understanding mode choice behaviour based on market segmentation and provides insights to policy makers and airlines for developing more effective polices and strategies .
+
+@highlight Estimating travel mode and airline choice using air and non air passengers stated preference data.
+@highlight Accommodating passengers preference heterogeneity using latent class models.
+@highlight Investigating the differences in travel mode choice socio demographics and trip characteristics among passenger segments.
+@highlight Examining willingness to pay WTP of the travellers.

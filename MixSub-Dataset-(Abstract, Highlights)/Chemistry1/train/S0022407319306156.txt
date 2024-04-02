@@ -1,0 +1,6 @@
+ This paper evaluates uncertainties in the ocean permittivity model needed to compute surface emission and reflection at frequencies of 6 90GHz . The study transforms permittivities and laboratory measurement uncertainties into typical brightness temperatures for microwave imagers . It is established that the permittivity model used by FASTEM agrees with the laboratory measurements to within their published uncertainties at frequencies of 23GHz 37GHz and 89GHz but this is not the case at 6.8 10.65 and 18.7GHz particularly at low temperatures .
+
+@highlight Estimated uncertainties in the FASTEM permittivity model are 0.5 2K at 6 90GHz.
+@highlight FASTEM agrees with permittivity measurements within uncertainties at 23 90GHz.
+@highlight Differences between FASTEM and permittivity measurements are observed at 6 19GHz.
+@highlight A better fit to 6 19GHz measurements leads to increased bias in satellite O B.

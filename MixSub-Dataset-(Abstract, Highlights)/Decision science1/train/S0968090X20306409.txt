@@ -1,0 +1,7 @@
+ Recent advances in the network level traffic flow modelling provide an efficient tool for analyzing traffic performance of large scale networks . A relationship between density and flow at the network level is developed and widely studied namely the macroscopic fundamental diagram . Nevertheless few empirical studies have been dedicated on the empirical evidence on the properties of the MFD for multiple modes of transport and to the best knowledge not yet at the scale of a megacity . This work combines rich but incomplete data from multiple sources to investigate the vehicle and passenger MFDs for cars and buses in the road network of Shenzhen . A novel algorithm is proposed for partitioning bimodal network considering the homogeneous distribution of link level car speeds and bus speeds .
+
+@highlight Combining empirical data from multiple sources to estimate bimodal MFDs.
+@highlight New partitioning algorithm of bimodal network is proposed.
+@highlight Bus passenger density is estimated by fusing smart card and GPS data.
+@highlight Bus pMFD can experience double hysteresis loops even if bus vMFD does not.
+@highlight The three dimension vehicle and passenger MFDs of real data are analyzed.

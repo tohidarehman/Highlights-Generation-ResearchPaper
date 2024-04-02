@@ -1,0 +1,7 @@
+ The modeling of Near Surface Temperature Lapse Rate is of great importance in various environmental applications . This study proposed a new approach for modeling the NSTLR based on the Normalized Land Surface Temperature . A set of remote sensing imagery including Landsat images MODIS products and ASTER Digital Elevation Model land cover maps and climatic data recorded in meteorological stations and self deployed devices located in the three study area were used for modeling and evaluation of NSTLR . First the Split Window and Single Channel algorithms were used to estimate LST and the spectral indices were used to model surface biophysical characteristics . The solar local incident angle was obtained based on topographic and time conditions for different dates . In the second step the NSTLR value was calculated based on the LST DEM feature space at the regional scale . The LST was normalized relative to the surface characteristics based on Random Forest regression and the NSTLR was calculated based on the NLST DEM feature space . Finally the coefficient of determination R
+
+@highlight A new approach to model surface temperature lapse rate STLR is introduced.
+@highlight Remote sensing images biophysical terrain meteorological and climate data were used.
+@highlight STLR was calculated at regional scale using LST DEM feature space.
+@highlight Local STLR was calculated using LST DEM normalized to surface characteristics.
+@highlight Environmental lapse rate prediction significantly increased using NLST over LST.

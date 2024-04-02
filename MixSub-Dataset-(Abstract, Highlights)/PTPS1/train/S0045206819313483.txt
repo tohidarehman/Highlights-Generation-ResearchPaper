@@ -1,0 +1,10 @@
+ The serine hydrolase monoacylglycerol lipase is involved in a plethora of pathological conditions in particular pain and inflammation various types of cancer metabolic neurological and cardiovascular disorders and is therefore a promising target for drug development . Although a large number of irreversible acting MAGL inhibitors have been discovered over the past years there are only few compounds known so far which inhibit the enzyme in a reversible manner . Therefore much effort is put into the development of novel chemical entities showing reversible inhibitory behavior which is thought to cause less undesired side effects . To explore a wide range of chemical structures as MAGL binders we have applied a virtual screening approach by docking small molecules into the crystal structure of human MAGL and envisaged a library of 45 selected compounds which were then synthesized . Biochemical investigations included the determination of the inhibitory potency on hMAGL and two related hydrolases i.e . human fatty acid amide hydrolase and murine cholesterol esterase . The most promising candidates from theses analyses i.e . three quinazolinonylalkyl aryl ureas bearing alkyl spacers of three to five methylene groups exhibited IC
+
+@highlight  Quinazolinonylalkyl aryl ureas are novel inhibitors of tumor relevant MAGL.
+@highlight The most potent representative 
+@highlight  exhibits a
+@highlight value of 15.4M towards MAGL.
+@highlight Interaction of
+@highlight with MAGL is selective reversible and detergent insensitive.
+@highlight Docking and kinetic studies indicate that
+@highlight occupies the substrate pocket of MAGL.

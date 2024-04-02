@@ -1,0 +1,7 @@
+ The steady state design and dynamic performances of three extractive distillation configurations including conventional extractive distillation thermally integrated extractive distillation and extractive dividing wall column are investigated and compared for separating the methanol toluene azeotrope with intermediate boiling triethylamine as solvent . The results show that TIED and EDWC configurations can save 21.28 and 52.70 energy consumption compared to CED respectively but the difficulty of controllability will be increased due to a more complex flowsheet . Towards this end two control structures for EDWC are established and tested via introducing feed throughput and compositions disturbances as well as one control structure for CED and five control structures for TIED . Similar to CED the control structures of TIED and EDWC configurations can also maintain products purities and integral squared error within the acceptable range in resisting feed disturbances . Furthermore EDWC configuration still reflects high energy efficiency compared to CED and TIED after smoothing .
+
+@highlight The separation of methanol toluene azeotrope via CED TIED and SSED is achieved.
+@highlight The intermediate boiling entrainer Et3N is adopted.
+@highlight The robust control structures for three schemes are constructed respectively.
+@highlight Products purities energy consumption and ISE are used as evaluation indicators.
+@highlight The comparisons of three control structures are made in terms of three indicators.

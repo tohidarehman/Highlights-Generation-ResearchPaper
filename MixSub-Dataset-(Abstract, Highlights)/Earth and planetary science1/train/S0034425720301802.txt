@@ -1,0 +1,7 @@
+ The increasing impact of humans on land and ongoing global population growth requires an improved understanding of land cover and land use processes related to settlements . The heterogeneity of built up areas and infrastructures as well as the importance of not only mapping but also characterizing anthropogenic structures suggests using a sub pixel mapping approach for analysing related LC from space . We implement a regression based unmixing approach for mapping
+
+@highlight Sub pixel built up woody non woody vegetation fractions mapped at national scale.
+@highlight Wide range of rural and urban settings investigated for Germany and Austria.
+@highlight Synthetic training data from spectral temporal metrics leads to robust results.
+@highlight A single model achieved MAE of 1318 RMSE 1822 from coastal to alpine regions.
+@highlight Sub pixel fractions structurally characterize settlements in Germany and Austria.

@@ -1,0 +1,6 @@
+ Using an exhaustive database of bookings in one large chain of hotels active in Oslo we estimate a nested logit demand model that allows us to evaluate substitution patterns between online distribution channels . Making use of the chains decision to delist from Expedias platform we compare the simulated and actual effects of such an event on prices and market shares and identify ways to improve on simulated counterfactual outcomes .
+
+@highlight We use an exhaustive database of bookings in 13 Oslo hotels to evaluate the degree of substitution between online distribution channels.
+@highlight Results suggest that while a substantial share of consumers seem to be loyal to the OTAs the chains direct sales channel appears to be a credible alternative to the OTAs.
+@highlight Making use of the chains decision to delist from Expedias platform we compare simulated and actual effects on prices and market shares.
+@highlight We then show how to improve the simulated outcome accounting for changes in pricing behaviour.

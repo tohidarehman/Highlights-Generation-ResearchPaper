@@ -1,0 +1,6 @@
+ As one of the most widespread environmental pollutants benzopyrene is metabolized to diol epoxides and then covalently breaks the initial DNA base pairs which has been closely related to the occurrence and development of many human cancers . High fidelity DNA polymerases play an extremely important role in maintaining the reliability or fidelity of nucleic acid replication which is generally blocked by BP adducts . To reveal the blocking mechanism of BP two comparative molecular dynamics simulations were performed for the thermophilic
+
+@highlight Association of BP leads to the rearrangement of intramolecular hydrogen bonds.
+@highlight Molecular recognition between polymerase and DNA duplex is impaired.
+@highlight Conformation of DNA duplex is distorted accompanied by an increase in molecular overall rigidity.
+@highlight Force field of BP dG is established based on different RESP charges.

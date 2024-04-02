@@ -1,0 +1,7 @@
+ In this study polyvinylidene difluoride is doped with different volume levels of lead zirconate titanate and neat PVDF electrospun nanofibres are prepared by aligning them through the electrospinning process with a rotating drum collector . All of the produced nanofibres are characterized by X ray powder diffraction Scanning Electron Microscopy and Fourier Transform Infrared spectroscopy . The piezoelectric nanogenerator devices are fabricated by placing the PVDF PZT electrospun nanofibres as the dielectric material between two conductive plates . The vibrational energy harvesting analyses of the PEN are defined by taking measurements under various resistive loads . At 15Hz excitation frequency the maximum output power of PEN with PVDF 10vol PZT reaches 6.35W by increasing the power to 85 under a resistive load of 1M while the PEN with PVDF has the electrical power of 3.44Wat the same load . The PEN based energy generation is a promising source of clean energy generation from mechanical vibrations for powering portable microelectronic applications without an external power supply .
+
+@highlight PVDF PZT electrospun fibers were prepared by the electrospinning.
+@highlight The most efficiency filler ratio is defined as 10vol for PZT with microparticle.
+@highlight Aligned electrospun fibers by rotating collector exhibit a rich phase content.
+@highlight PVDF 10vol PZT increased electrical power of 85 against neat PVDF under 1M.
+@highlight At 15Hz impact frequency the maximum output power of PEN reached 6.35W under 1M.

@@ -1,0 +1,7 @@
+ Although fused deposition modeling has gradually become one of the popular additive manufacturing technologies in different industries high surface roughness has always been an inevitable disadvantage of FDM parts . Laser polishing represents a recent and novel application of laser surface irradiation that can be used for precise post process smoothing of the rough surfaces commonly encountered on FDM parts . The influence of laser polishing on surface modification and mechanical properties of aluminum Polylactic Acid composites has been investigated . Laser scanning speed was varied to evaluate its effect on the surface quality and mechanical properties of the experimental samples . The results indicated that laser polishing could enable reductions in surface roughness of over 86.6 from 23.27m to 3.11m
+
+@highlight Laser polished additive manufactured Al PLA has higher surface quality and many defects are removed.
+@highlight A maximum reduction in Al PLA surface roughness is achieved at optimized polishing settings laser scan speed of 100mm s .
+@highlight Laser polishing effectively improves the dynamic mechanical properties and tensile properties of the FMD Al PLA.
+@highlight After laser polishing treated Al PLA composite specimens had a higher storage modulus and glass transition temperature.
+@highlight The strengthening mechanism induced by laser polishing is analyzed.

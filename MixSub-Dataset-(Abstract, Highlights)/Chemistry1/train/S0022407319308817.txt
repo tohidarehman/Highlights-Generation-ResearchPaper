@@ -1,0 +1,7 @@
+ Following previous theoretical development based on the assumption of a rank correlated comonotonic spectrum the Locally Correlated SLW method is outlined . The relationship between the LC SLW method and the Reference Approach SLW method and the Rank Correlated SLW method is established . Further the relationship between these SLW model variants and other global models including the Full Spectrum Correlated
+
+@highlight The Locally Correlated SLW LC SLW model is outlined theoretically.
+@highlight The LC SLW model s relationship to other SLW models and to other global models ADF FSCK is clearly identified.
+@highlight The LC SLW model s accuracy is assessed over a broad range of conditions.
+@highlight It is shown that the LC SLW model may prove more accurate in regions of high temperature dominant gas emission but suffers in situations of dominant gas absorption.
+@highlight It is shown that the LC SLW cannot claim universal improvement relative to RC SLW model in predictive accuracy at all conditions.

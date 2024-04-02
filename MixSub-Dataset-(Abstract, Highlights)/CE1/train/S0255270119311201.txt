@@ -1,0 +1,6 @@
+ The performance of cyclone can be improved by changing operating conditions or geometric parameters . In the present study the liquid liquid flow in cyclone with guiding vanes was investigated by computational fluid dynamics . The two phase swirling is numerically simulated by combining the Reynolds stress model with the Mixture model and the results agree well with the experimental data in the literature . After that further studies on the effects of velocity field pressure field and separation performance under different cone angles are studied which indicates the swirling intensity and residence time have important impact on performance of hydrocyclone . Subsequently the results showed that the reverse flow unable to reach the overflow orifice which lead to stagnant separation efficiency especially for smaller droplets . To solve this problem two suitable underflow tubes were designed which greatly improved the performance of the cyclone .
+
+@highlight The effect of the cone angle on performance of liquid liquid cyclone is obtained.
+@highlight The relation between length of reversed flow and separation efficiency is studied.
+@highlight Two suitable underflow tubes are designed.
+@highlight The novel liquid liquid cyclone has a significant separating effect.

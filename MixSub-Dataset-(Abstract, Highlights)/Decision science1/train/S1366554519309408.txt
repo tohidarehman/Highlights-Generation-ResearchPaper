@@ -1,0 +1,7 @@
+ Organ allocation is the most important decision amongst organ transplantation decisions thanks to the high demand of organs . This research develops a possibilistic programming model for a liver transportation and allocation problem considering medical uncertainty and tradeoff between quality metrics namely efficiency and equity . The model maximizes the survival rate of patients and minimizes the transportation cost and time . A novel hybrid interactive fuzzy optimization model is developed based on preemptive goal programming approach . Several numerical examples are taken from a real case study . The results demonstrate that the suggested algorithm outperforms the existing allocation policy considering both metrics .
+
+@highlight A possibilistic programming approach is proposed for a liver transportation and allocation.
+@highlight The proposed model considers medical uncertainty as well as tradeoff between quality metrics in organ transplantation.
+@highlight The model aims to maximize the survival rate deliberating the most urgent need for liver transplantation and minimize the transportation cost and time.
+@highlight A novel interactive fuzzy optimization model is developed based on goal programming approach.
+@highlight The numerical results demonstrate that the suggested algorithm outperforms the existing allocation policy efficiency and equity metrics.

@@ -1,0 +1,7 @@
+ Although charged particles exist widely in a plasma environment or an electrolyte the problem of electromagnetic scattering by a charged cylinder has remained unsolved . In this paper using the tangential boundary conditions with a surface current induced by excess surface charges we calculate the extinction scattering and absorption efficiencies for a charged infinite cylinder upon which a plane wave is normally incident . For two polarizations of the incident light we show the different effects of the excess surface charges on the optical efficiencies . For
+
+@highlight The expansion coefficients of the electromagnetic fields are derived for a charged infinite cylinder under the normal incidence of plane waves
+@highlight The extinction and absorption efficiencies of the charged cylinder are calculated with the different density of excess surface charges.
+@highlight For p polarized incidence a platform structure in extinction efficiencies for the small size parameter corresponds to the light absorption by the excess surface charges.
+@highlight For s polarized incidence the excess surface charges can induce a new resonance and a shift of anomalous resonances.
+@highlight Both the new resonances and the anomalous resonances shift to a larger size parameter with an increasing surface charge density which has been shown for a charged MgO cylinder near the longitudinal optical phonon frequency.

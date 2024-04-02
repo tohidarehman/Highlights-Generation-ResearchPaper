@@ -1,0 +1,6 @@
+ This study investigates a supply chain financing system with one supplier and one emission dependent and capital constrained manufacturer . Unlike the traditional SCF the manufacturer borrows two loans to execute the ordering decision and make a low carbon investment respectively . We derive the equilibrium strategies of the supply chain members under partial credit guarantee and a combination of trade credit and PCG and compare with that under a benchmark . There exists a unique coefficient of credit guarantee for the supplier to decide whether to provide a trade credit . Numerical studies and extension are discussed to obtain more managerial implications .
+
+@highlight Investigate an emission dependent supply chain with capital constraint.
+@highlight Consider partial credit guarantee PCG and TPCG combine trade credit with PCG .
+@highlight Derive equilibrium strategies under a benchmark and the two financing schemes.
+@highlight Find that supplier prefers to provide trade credit when credit guarantee is higher.

@@ -1,0 +1,9 @@
+ Development of robust and easy to implement methods for quantitative turbidity characterization by inherent properties of absorption and scattering can have wide applications . We report a new method for multiparameter characterization of turbid samples with three photodiodes based on the radiative transfer theory . Instead of acquiring collimated transmittance by spatial filtering and scattered light signals by integrating spheres the method determines RT parameters from forward transmittance dominated by light of single scattering and non hemispherical diffuse reflectance and transmittance dominated by light of multiple scattering . A Monte Carlo based inverse algorithm has been developed to rapidly obtain absorption coefficient
+
+@highlight A new and robust method for determination of absorption coefficient
+@highlight  scattering coefficient
+@highlight and anisotropy factor g has been developed without integrating spheres based on the radiative transfer RT theory.
+@highlight The RT parameters are determined from the measured signals of forward transmittance dominated by light of single scattering and non hemispherical diffuse reflectance and transmittance dominated by light of multiple scattering.
+@highlight An inverse algorithm based on GPU executed Monte Carlo simulations has been developed to rapidly obtain the RT parameters from the measured signals.
+@highlight The new method has been validated against the Mie theory with different sphere suspension samples in a spectral region of 4601000nm.
+@highlight Uniqueness of the inverse solutions has been proved at selected wavelengths.

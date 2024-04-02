@@ -1,0 +1,6 @@
+ This article explores why market platforms do not expel low quality sellers when screening costs are minimal . I model a platform market with consumer search . The presence of low quality sellers reduces search intensity softening competition between sellers and increasing the equilibrium market price . The platform admits some low quality sellers if competition between sellers is intense . Recommending a high quality seller and this form of search obfuscation are complementary strategies . The low quality sellers enable the recommended seller to attract many consumers at a high price and the effect of the recommendation is strengthened as low quality sellers become more adept at imitating high quality sellers .
+
+@highlight Admitting deceptive low quality sellers can act as a form of search obfuscation.
+@highlight Search obfuscation and recommending high quality sellers are complementary strategies.
+@highlight The recommendation is stronger when low quality sellers are more deceptive.
+@highlight Platform competition has an ambiguous effect on the level of obfuscation.

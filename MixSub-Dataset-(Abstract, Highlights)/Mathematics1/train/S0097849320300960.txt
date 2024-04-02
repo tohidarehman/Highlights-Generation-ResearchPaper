@@ -1,0 +1,7 @@
+ In radiation therapy for prostate cancer changes in patient anatomy during treatment might lead to inadequate tumor coverage and higher irradiation of healthy tissues in the nearby pelvic organs . Exploring and analyzing anatomical variability throughout the course of RT can support the design of more robust treatment strategies while identifying patients that are prone to radiation induced toxicity . We present
+
+@highlight An application for cohort exploration of pelvic organ variability in radiotherapy.
+@highlight Global exploration of anatomical variability in an abstracted tabular view.
+@highlight Local exploration of anatomical variability with 2D 3D comparative visualizations.
+@highlight Correlation of anatomical variability with radiation doses and toxicity.
+@highlight Four application scenarios conducted with domain experts to showcase VAPOR.

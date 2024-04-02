@@ -1,0 +1,5 @@
+ Incremental learning is an efficient computational paradigm of acquiring approximate knowledge of data in dynamic environment . Most of the research focuses on knowledge updating for single label classification whereas incremental mechanism for multi label classification is of preliminary nature . This leads to considerable computation complexity to maintain desired performance . To address this challenge we formulate a granular structure system
+
+@highlight Formulate a granular structure system for multi label classification.
+@highlight Present an incremental mechanism for multi label based on proposed structure.
+@highlight Demonstrate the efficiency and effectiveness of proposed algorithm.

@@ -1,0 +1,5 @@
+ The electron conformational genetic algorithm method had been employed by distinguishing between enantiomers for the first time as a 4D QSAR approach to reveal the pharmacophore and to predict the bioactivity of the dipeptidyl boron compounds .
+
+@highlight The biological activities of the stereoisomers of dipeptidyl boron derivatives were successfully distinguished for the first time.
+@highlight EC GA method is capable of distinguishing between the stereoisomers including both enantiomers and diastereomers.
+@highlight The compound 99 which is the diastereomer of 27 is a promising candidate for future studies of more potent proteasome inhibitors.

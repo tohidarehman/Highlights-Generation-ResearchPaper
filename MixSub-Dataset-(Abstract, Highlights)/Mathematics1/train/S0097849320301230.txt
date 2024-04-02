@@ -1,0 +1,6 @@
+ We propose two novel temporally stable screen space labeling methods for dynamic scenes . The first one is suitable for offline processing of the entire interaction or the video in advance . The second method is designed for interactive applications . The main idea of our proposed methods is to minimize the vertical and horizontal movement of the labels during the interaction with the scene
+
+@highlight Two novel temporally stable methods for interactive and non interactive labeling.
+@highlight Proposed methods achieve the best quality score based on users preferences.
+@highlight Users make fewer mistakes with proposed methods when observing labeled animations.
+@highlight Smooth alpha blended label transition improves labeling quality even more.

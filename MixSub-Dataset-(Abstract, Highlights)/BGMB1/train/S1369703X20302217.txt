@@ -1,0 +1,7 @@
+ For high throughput cell culture and associated analytics droplet based cultivation systems open up the opportunities for parallelization and rapid data generation . In contrast to microfluidics with continuous flow sessile droplet approaches enhance the flexibility for fluid manipulation with less operational effort . Generating biologically favorable conditions and promoting cell growth in a droplet however is particularly challenging due to mass transfer limitations which has to be solved by implementing an effective mixing technique .
+
+@highlight Capillary waves induced by vertical oscillation are used to mix a sessile droplet micro bioreactor.
+@highlight Oscillations in resonance lead to specific mode patterns on liquid surface.
+@highlight Mass transfer inside an oscillated liquid droplet is particularly affected by the excitation frequency.
+@highlight Mixing times and
+@highlight  values can be tailored by oscillation settings.

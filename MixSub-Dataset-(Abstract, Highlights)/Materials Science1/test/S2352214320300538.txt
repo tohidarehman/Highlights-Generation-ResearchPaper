@@ -1,0 +1,6 @@
+ First report on electrically doped semiconducting carbon nanotube is presented using Extended Huckel Theory in combination with Non equilibrium Greens function formalism . The results show increase in current with the increasing electrical doping concentration . Electrical doping induces high charge concentration at small applied voltages and is far more superior because of its fault free approach overcoming the limitations of conventional doping . Furthermore the device density of states confirms the sufficient number of peaks in the valence and conduction bands . The obtained results were compared with other theoretical results in the field in the form of a table . The results are very beneficial for the designing of high performance CNT devices and enhancing their potential applications in the electronics industry .
+
+@highlight Electrical doping approach is used in single walled carbon nanotube system.
+@highlight Current increases with the increase in electrical doping charge.
+@highlight Higher current is obtained in electrically doped CNT model as compared to conventionally doped models.
+@highlight Limitations of conventional doping methods are overcome in the electrical doping method.

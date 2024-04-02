@@ -1,0 +1,7 @@
+ Identifying the factors determining the abundance and distribution of species is a fundamental question in ecology . One key issue is how similar the factors determining species distributions across spatial scales are . If the factors are similar across extents then the large scale distribution pattern of a species may provide information about its local habitat requirements and vice versa . We assessed the relationships between landscape and national optima as well as landscape and continental optima for growing degree days maximum temperature and minimum temperature for 96 bryophytes and 50 vascular plants . For this set of species we derived landscape optima from abundance weighted temperature data using species inventories in central Sweden and a fine grained temperature model national optima from niche centroid modelling based on GBIF data from Sweden and the same fine grained climate model and continental optima using the same method as for the national optima but from GBIF data from Europe and Worldclim temperatures
+
+@highlight Landscape and large extent optima correlated for maximum temperature.
+@highlight The correlation between extents were weak for minimum temperatures.
+@highlight Vascular plants and bryophytes had similar correlations for maximum temperatures.
+@highlight Correlations were similar for national fine grain and continental coarse grain data.
+@highlight It is not possible to routinely up or downscale distribution patterns.

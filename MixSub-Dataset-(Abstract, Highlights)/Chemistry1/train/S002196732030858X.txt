@@ -1,0 +1,6 @@
+ Liamocins are a class of biosurfactants with growing interest . However methods for identification and quantification of liamocins on the molecular level are lagging behind . Therefore we developed a chromatographic separation based on supercritical fluid chromatography for liamocins and structurally related exophilins . The different congeners could be separated on a charge modulated hydroxyethyl amide functionalized silica based column . Coupling to high resolution mass spectrometry revealed four exophilin species and four liamocin species with mannitol and arabitol as polyol head group in a sample of the yeast like fungus
+
+@highlight first application of SFC MS for liamocin biosurfactants analysis
+@highlight simultaneous separation of liamocin species and subclasses using a zwitterionic stationary phase
+@highlight complementary quantification by hyphenation with charged aerosol detection CAD 
+@highlight compensation of changing mobile phase composition by an additional modifier flow

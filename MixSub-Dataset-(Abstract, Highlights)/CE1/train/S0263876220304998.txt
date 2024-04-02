@@ -1,0 +1,7 @@
+ Enhancing the environmental performance of production processes is currently a major issue . To propose efficient processes both in terms of productivity and environmental impacts it is necessary to develop multi objective optimization tools . Such an approach was developed in this study for an ultrasound assisted extraction process aiming at valorizing antioxidant polyphenols from downgraded beetroot seeds . Environmental impacts of the process as well as classical productivity indicators were all predicted in function of the varied process parameters . The proposed multi criteria optimization tool allowed to predict optimal operating conditions in function of specific constraints such as maximization of extraction yield and or minimization of extraction time energy consumption and or environmental impacts . Maximal polyphenols concentration 2.8
+
+@highlight Ultrasound assisted extraction of antioxidants from beetroot seeds was investigated.
+@highlight Multi criteria tool for extraction optimization integrating LCA was developed.
+@highlight It allows to find operating conditions minimizing environmental impacts of the process.
+@highlight Time and energy savings thanks to ultrasound assistance were demonstrated.
+@highlight Sonication allowed to significantly reduce the environmental impacts.

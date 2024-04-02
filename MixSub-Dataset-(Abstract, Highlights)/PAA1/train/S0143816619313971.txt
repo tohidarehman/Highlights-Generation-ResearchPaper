@@ -1,0 +1,7 @@
+ Laser confocal tomography faces severe challenges in weak signal detection such as biological tissue imaging and low reflection interfaces measurement . An ultra high sensitive optical confocal tomography based on laser frequency shifted feedback imaging technology is presented whose theoretical magnification can reach 10
+
+@highlight High sensitivity laser confocal tomography based on laser frequency shifted feedback technique.
+@highlight The microchip laser acts as a coherent source and high gain detector so the imaging system is self collimating and easy to adjust.
+@highlight The narrow beam waist of the microchip laser acts as a virtual spatial filter therefore there is no need for the actual filtering device at all.
+@highlight A larger imaging depth can be obtained in highly scattering medium such as biological sample.
+@highlight This technology is suitable for application on imaging and measurement of low reflection surfaces and interfaces.

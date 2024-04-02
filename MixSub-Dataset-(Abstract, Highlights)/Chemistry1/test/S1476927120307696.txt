@@ -1,0 +1,6 @@
+ Cloud computing revolutionized many fields that require ample computational power . Cloud platforms may also provide huge support for microRNA analysis mainly through disclosing scalable resources of different types . In Clouds these resources are available as services which simplifies their allocation and releasing . This feature is especially useful during the analysis of large volumes of data like the one produced by next generation sequencing experiments which require not only extended storage space but also a distributed computing environment . In this paper we show which of the Cloud properties and service models can be especially beneficial for microRNA analysis . We also explain the most useful services of the Cloud that can be used for microRNA analysis . At the same time we review several solutions for microRNA and show that the utilization of the Cloud in this field is still weak but can increase in the future when the awareness of their applicability grows .
+
+@highlight Cloud computing can support many areas of microRNA analysis.
+@highlight Complex systems for microRNA investigations can be developed with Cloud resources.
+@highlight The potential of using Cloud platforms in various microRNA analyses was identified.
+@highlight Moving to the Cloud should be dictated by the willingness to scale the solution flexibly.

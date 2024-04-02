@@ -1,0 +1,6 @@
+ Asymmetric flow field flow fractionation in particular online with elemental detection via inductively coupled plasma mass spectrometry has been developed as powerful and flexible separation technique for suspensions of nano and micro particles covering a broad range of applications including environmental water samples and soil extracts . However for challenging applications such as particulate phosphorus determination in non contaminated water samples at levels close to the limit of detection the throughput of the analytical field flow fractionation is not sufficient . The same holds true for more specific identification and quantification of black carbon which needs a subsequent complex multi step analysis using the well established benzene polycarboxylic acids method .
+
+@highlight Novel preparative field flow fractionation FFF for particulate phosphorus and black carbon BC in soil extracts
+@highlight First online hyphenation of preparative FFF with ICP MS for element selective quantification at improved limits of detection
+@highlight Comparison of routine analytical and novel preparative FFF matching repeatability and recovery
+@highlight Novel off line combination of preparative FFF with GC FID enabled selective BC quantification in particle size fractions

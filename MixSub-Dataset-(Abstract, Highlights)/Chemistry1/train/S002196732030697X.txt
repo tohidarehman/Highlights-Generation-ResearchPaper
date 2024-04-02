@@ -1,0 +1,7 @@
+ Herein we present an efficient column switching method that relies on a custom made T union passive diffusion micromixer to assist water dilution and promote trap solute focusing of a high sample volume dissolved in pure organic solvent using a 0.075mm i.d . nano LC column . This method allows injecting 20 L of sample volume speeding up the analysis time with a 400 fold increase of the limits of quantitation for selected compounds . Five pesticides in different media were used as model compounds and the analyses were carried out with a triple quadrupole mass spectrometer equipped with a Liquid Electron Ionization LC MS interface working in multiple reaction monitoring mode . The system microfluidics were investigated using COMSOL modeling software . Robustness of the entire system was evaluated using a post extraction addition soil extracts with limits of detection values spanning from 0.10 to 0.45g L. Reproducible results in terms of peak area peak shape and retention times were achieved in soil matrix . Repeatability test on peak area variations were lower than 10 .
+
+@highlight Nano HPLC is particularly suitable for coupling with mass spectrometry.
+@highlight Water sample dilution and pre concentration trap can increase injection volumes.
+@highlight LC EI MS is useful in targeted and non targeted analysis.
+@highlight LC EI MS is not affected by matrix effects typical of API sources.
+@highlight Microfluidic passive micromixer allows dilution of sample in strong eluting solvent.

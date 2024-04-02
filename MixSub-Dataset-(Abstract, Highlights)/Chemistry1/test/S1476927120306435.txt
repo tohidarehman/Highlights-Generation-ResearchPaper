@@ -1,0 +1,7 @@
+ Glycogen Synthase Kinase 3 is a member of cellular kinase with various functions such as glucose regulation cellular differentiation neuronal function and cell apoptosis . It has been proved as an important therapeutic target in type 2 diabetes mellitus and Alzheimer s disease . To better understand their structureactivity relationships and mechanism of action an integrated computational study including three dimensional quantitative structure activity relationship molecular docking and molecular dynamics was performed on 79 ethyl amine GSK 3 inhibitors . In this paper we constructed 3D QSAR using comparative molecular field analysis and comparative molecular similarity index analysis method . The results showed that the CoMFA model
+
+@highlight GSK 3 has been proved as an important therapeutic target in type 2 diabetes mellitus and Alzheimer s disease.
+@highlight The constructed 3D QSAR model had good predictive ability.
+@highlight Based on 3D QSAR models and contour maps we designed 10 novel compounds with good potential activity.
+@highlight We explored the binding feature between GSK 3 and inhibitor by molecular docking and MD simulations.
+@highlight Residues Ile62 Val70 and Lys85 located in the active site play a key role for GSK 3 complexed with inhibitors.

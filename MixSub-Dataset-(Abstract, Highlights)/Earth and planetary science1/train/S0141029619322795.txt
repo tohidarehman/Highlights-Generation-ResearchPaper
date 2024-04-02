@@ -1,0 +1,6 @@
+ We present and discuss as a case study the results of the fire safety analysis of the Brenner Base Tunnel structures . In particular we investigate the behavior of the main cross section of the tunnel using a new coupling strategy between a structural thermal code based on Multiphase Porous Media Mechanics MPMM and a CFD code . This allows us to define fire loads based on realistic fire scenarios rather than on the classical temperature time profiles used in engineering practice . Such an advanced analysis is desirable for an infrastructure like the BBT which is one of the most important engineering works under construction in Europe in the field of civil engineering from economic social and technical point of view . This first set of results shows that the behavior of the tunnel system is captured in a much more accurate way despite of an increased complexity in the analysis .
+
+@highlight Fire simulation in the Brenner Base railway tunnel.
+@highlight Concrete is considered as a multiphase porous material.
+@highlight Different damaging mechanisms of the material are taken into account.
+@highlight New Fire Structure interaction strategy allowing for a realistic fire scenario.

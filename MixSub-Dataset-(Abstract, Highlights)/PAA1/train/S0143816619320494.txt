@@ -1,0 +1,6 @@
+ Low coherence interferometry technique is generating considerable interest in industrial applications where there is a need for larger measurements with high resolution . Conventional Fourier domain systems reach a limiting depth of around 3mm mainly due to the spectrometers used as detectors . In this work we present an optical detection system that performs the Fourier transform of the LCI signals based on a spatial heterodyne spectrometer . This device avoids the fall off effect of the spectrometer allowing to reach measurable optical depths of almost 5cm without losing resolution . We describe the theory underlying this detection system and present experimental results which are in great accordance .
+
+@highlight Characterization of heterodyne spectrometer for low coherence interferometry.
+@highlight This device performs the analogical Fourier transform of the signal.
+@highlight Performance is not affected by the fall off effect as in conventional detectors.
+@highlight Dynamic range increased by sixteen times reaching measured distance of almost 5cm.

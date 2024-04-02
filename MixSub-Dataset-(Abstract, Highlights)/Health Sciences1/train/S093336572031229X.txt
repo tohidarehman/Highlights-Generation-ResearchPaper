@@ -1,0 +1,7 @@
+ Discovering new treatments and personalizing existing ones is one of the major goals of modern clinical research . In the last decade Artificial Intelligence has enabled the realization of advanced intelligent systems able to learn about clinical treatments and discover new medical knowledge from the huge amount of data collected . Reinforcement Learning which is a branch of Machine Learning has received significant attention in the medical community since it has the potentiality to support the development of personalized treatments in accordance with the more general precision medicine vision . This report presents a review of the role of RL in healthcare by investigating past work and highlighting any limitations and possible future contributions .
+
+@highlight Survey of the applications of Reinforcement Learning RL in healthcare domains.
+@highlight Identification of seven categories with respect to the most relevant field of applications of RL approaches in medicine.
+@highlight A brief discussion to highlight some considerations that can be taken in account when new prediction models get defined in the field of precision medicine.
+@highlight Analysis of the distribution of the surveyed solutions with respect to their category adopted Reinforcement Learning approaches their impact in terms of citations and publication year.
+@highlight Group the healthcare domains in seven classes of application and for each one stating an overview of the application of Reinforcement Learning based approach.

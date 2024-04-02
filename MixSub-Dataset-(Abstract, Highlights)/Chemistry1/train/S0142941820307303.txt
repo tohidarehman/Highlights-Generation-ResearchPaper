@@ -1,0 +1,7 @@
+ Material databases of plastics are becoming more and more the focus of applied science and commercial use in industry . Material properties of material manufacturers are often provided in publicly accessible material databases which usually contain processing and mechanical properties under static loadings . Fatigue strength values are usually not accessible . The fatigue data for thermoplastics is of particular interest as these materials have a particularly high lightweight construction potential and can be processed with a high degree of automation and reproducibility .
+
+@highlight Fatigue database of Polymers.
+@highlight Influencing fatigue parameter Temperature fibre orientation filler content.
+@highlight Mean stress dependency of Polypropylene in Haigh Diagram.
+@highlight Compendium of Fatigue Factors for Polypropylene.
+@highlight Fatigue Factors input data for artificial intelligence.

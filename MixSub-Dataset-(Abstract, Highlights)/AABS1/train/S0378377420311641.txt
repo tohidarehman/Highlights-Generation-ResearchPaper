@@ -1,0 +1,8 @@
+ Water saving technologies are important for sustainable agriculture and forestry . Recent research indicates that the plant itself may alternate between several natural water sources to survive drought . Therefore a key issue is how to establish the boundaries of hydrological conditions important for non stressed tree growth . The smart decision might be to ask the plant itself . Sap flow represents a suitable language to such a talk it gives long term automatic records of plant responses to environmental changes . In this work we illustrate how root sap flow can be used to provide information on the thresholds for two sources of tree root water uptake superficial soil water and groundwater . With this knowledge a threshold diagram can be constructed which is species and site specific . Such a diagram may help managers of rain fed plantations to follow the current hydrological conditions and apply irrigation as a preventive treatment to avoid growth loss and tree mortality .
+
+@highlight Surface soil water and groundwater are main sources of
+@highlight root water uptake.
+@highlight Negative night flow in shallow roots is a predictor of hydrological thresholds HT .
+@highlight Zero night sap flow in deep roots is the next condition for HT determination.
+@highlight HT are important for construction of threshold diagram TD .
+@highlight TD is species and site specific and may help managers to assess critical conditions.

@@ -1,0 +1,6 @@
+ This paper introduces decomposition and distributed optimization approaches for the real time railway traffic management problem considering microscopic infrastructure characteristics aiming at an improved computational efficiency when tackling large scale railway networks .
+
+@highlight We address the real time railway traffic management for large scale networks microscopically.
+@highlight We propose three decomposition methods based on geography trains and time intervals to partition a large scale problem into some small scale subproblems.
+@highlight We present three distributed optimization approaches namely ADMM PR and CDRSBK for achieving the coordination of subproblems.
+@highlight The proposed CDRSBK algorithm in the case of the train based decomposition can find an optimal or near optimal solution within 10s of computation time.

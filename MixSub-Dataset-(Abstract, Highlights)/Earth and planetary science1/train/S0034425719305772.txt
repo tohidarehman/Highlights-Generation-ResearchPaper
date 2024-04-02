@@ -1,0 +1,8 @@
+ Models of atmospheric composition rely on fire emissions inventories to reconstruct and project impacts of biomass burning on air quality public health climate ecosystem dynamics and land atmosphere exchanges . Many such global inventories use satellite measurements of active fires and or burned area from the Moderate Resolution Imaging Spectroradiometer . However differences across inventories in the interpretation of satellite imagery the emissions factors assumed for different components of smoke and the adjustments made for small and obscured fires can result in large regional differences in fire emissions estimates across inventories . Using Google Earth Engine we leverage 15years of MODIS observations and 6years of observations from the higher spatial resolution Visible Imaging Infrared Radiometer Suite sensor to develop metrics to quantify five major sources of spatial bias or uncertainty in the inventories primary reliance on active fires versus burned area cloud haze burden on the ability of satellites to see fires fragmentation of burned area roughness in topography and small fires which are challenging to detect . Based on all these uncertainties we devise comprehensive relative fire confidence scores mapped globally at 0.250.25 spatial resolution over 20032017 .
+
+@highlight Large regional discrepancies in fire emissions exist among five global inventories.
+@highlight We develop metrics in Google Earth Engine to assess spatial biases in inventories.
+@highlight Inventory choice can significantly bias modeled smoke PM
+@highlight for Equatorial Asia.
+@highlight Peat delineation and cloud gap adjustment are crucial for Indonesian fire emissions.
+@highlight We develop an online app FIRECAM to help end users assess fire inventories.

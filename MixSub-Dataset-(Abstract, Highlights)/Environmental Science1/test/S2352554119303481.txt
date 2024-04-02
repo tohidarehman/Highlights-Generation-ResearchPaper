@@ -1,0 +1,7 @@
+ Pursuing sustainability requires the design of environmentally benign substances and materials and of sufficiently clean processes for their production as well as careful attention to their usage throughout their life cycle and to their eventual fate . These requirements have prompted the birth of green chemistry and more recently of green pharmacy . The current work focuses on relevant common features of the two areas at educational level . After briefly recalling the reasons that have prompted their birth and the main objectives of their approaches it devotes major attention to the design of substances as a tool made increasingly more powerful by the continuous progress of computational chemistry . Particular attention is given to the importance of fostering sound attitudes in approaching molecules and of building awareness of the fundamental roles of conceptual and theoretical knowledge to ensure that the obtained results are meaningful .
+
+@highlight The design of substances with desired benign properties as a key concept in green chemistry and green pharmacy.
+@highlight The essential role of computational chemistry in the design of new molecules.
+@highlight Importance of familiarising students with molecules BEFORE they start performing computational chemistry calculations.
+@highlight Familiarisation with the 3D structure of molecules as pre requisite to any other activity concerning molecules.
+@highlight relevance of early presentation at qualitative visualization level of aspects enabling better understanding of molecules.

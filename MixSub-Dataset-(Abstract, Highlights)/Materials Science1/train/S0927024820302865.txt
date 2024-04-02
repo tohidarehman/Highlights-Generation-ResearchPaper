@@ -1,0 +1,6 @@
+ The electron diffusion in the nanostructured photoanode of a dye sensitized solar cell is affected by both the nanoparticle film morphology and the electron traps in the nanoparticles . The effect of the traps is to reduce the diffusion coefficient from its trap free value which is deleterious to the cell performance . However there is a time for the effect of the traps to be felt which can be identified with a local or quasi equilibration time . We address this issue here and show how the volume of the nanoparticles the equilibrium chemical potential and the temperature affect this time and can make the local equilibration time comparable to the electron transit time across the film .
+
+@highlight A master equation model was proposed to explain the electron equilibration process.
+@highlight The time for local equilibrium was investigated.
+@highlight How the time for local equilibrium compares with the transit time was revealed.
+@highlight A relation between diffusion and electron decay at global equilibrium was identified.

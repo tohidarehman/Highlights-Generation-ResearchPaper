@@ -1,0 +1,6 @@
+ The electrochemical characteristics and temperature difference are crucial for a battery module but they are seldom taken into account in the previous works of multistage fast charging focusing on reducing charging time and temperature rise for a single battery . A multilayer electrochemical thermal coupled model incorporating parallel connected cells inside each battery is developed for a serially connected battery module using two stage fast charging patterns with different charging current rates in two charging stages to study the electrochemical characteristics temperature difference and state of balance . Results show that the shift of C rate causes a sudden change in the magnitude and spatial distribution of local current density and in the magnitude of solid phase Li
+
+@highlight A multilayer electrochemical thermal model for battery module is developed.
+@highlight Various two stage fast charging patterns are applied for a battery module.
+@highlight Distribution and evolution of electrochemical characteristics are discussed.
+@highlight Temperature difference and state of balance for battery module are analyzed.

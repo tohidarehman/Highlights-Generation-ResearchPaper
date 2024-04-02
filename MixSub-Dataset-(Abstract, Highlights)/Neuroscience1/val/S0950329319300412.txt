@@ -1,0 +1,5 @@
+ Studies should be planned with due attention to power and sample size considerations . Abandoning power computations including analyses of the utility of replications is a sure way to reduce the likelihood that an experiment yields insights . This commentary describes how screening for effects with low power leads to biased effect estimates and detrimentally high rates of false findings and why aiming for say 90 power is not enough to ensure that power is on average 90 . It is also suggested that scenario based evaluations of operating characteristics can expose the consequences of power policies . These discussions show that we are easily deceived by low powered studies and that power considerations are crucial for meaningful scientific experimentation .
+
+@highlight Operating characteristics of the experimental process can provide key insights.
+@highlight Screening for rare effects with low power leads to bias and many false findings.
+@highlight On average power is lower than target power due to uncertainty in true effect size.

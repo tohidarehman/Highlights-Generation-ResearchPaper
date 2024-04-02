@@ -1,0 +1,6 @@
+ It is often believed that the way consumers purchase wine differs from the way they purchase other fast moving consumer goods . This review tests this claim by summarising over 15 years of investigation of actual consumer purchases of wine in Australia Belgium Italy Germany France the UK and the US in both the off trade and online markets . The observed levels of penetration and purchase frequencies are benchmarked against the respective theoretical values one would expect to find in a perfect Dirichlet world . The results disprove the common belief and provide academics and brand managers with a series of evidence based implications which they can use to develop efficient marketing strategies .
+
+@highlight Wine purchases are not that different from other FMCG purchases.
+@highlight Wine purchase behaviours are consistent across countries.
+@highlight Online wine purchases follow the same patterns as brick and mortar purchases.
+@highlight The Dirichlet model helps managers develop evidence based marketing strategies.

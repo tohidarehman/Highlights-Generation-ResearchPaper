@@ -1,0 +1,7 @@
+ Food adulteration is a growing concern worldwide . The collation and analysis of food adulteration cases is of immense significance for food safety regulation and research . We collected 961 cases of food adulteration between 1998 and 2019 from the literature reports and announcements released by the Chinese government . Critical molecules were manually annotated in food adulteration substances as determined by food chemists to build the first food adulteration database in China
+
+@highlight We constructed a food adulteration database using various informatics tools.
+@highlight Critical molecules are manually annotated in food adulteration substances.
+@highlight An
+@highlight method is proposed to predict potentially illegal food additives.
+@highlight A total of 1919 potential illegal additives were predicted using our method.

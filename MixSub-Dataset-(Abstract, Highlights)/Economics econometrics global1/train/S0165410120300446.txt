@@ -1,0 +1,6 @@
+ Chordia and Miao provide evidence that low latency trading improves the long term informational efficiency of stock prices . This discussion raises two primary concerns with their analysis . First the mechanism through which LLT enhances long term efficiency is unclear . Second CM s measure of LLT trading activity is correlated with non LLT trading activity which may in turn cause the documented improvements in efficiency . We close by proposing an alternative explanationchanges in market microstructure have had a bifurcated impact on liquidity enhancing efficiency for large and liquid stocks but not for small and illiquid stocks .
+
+@highlight This paper provides a discussion of
+@highlight Chordia and Miao conclude that low latency trading improves the long term informational efficiency of stock prices.
+@highlight We point out that the mechanism through which increased informational efficiency obtains is unclear.We also argue that their primary tests don t completely control for contemporaneous liquidity and trading activity.
+@highlight We conclude that their results may instead be explained by changes in market microstructure that have had a bifurcated impact on liquidity enhancing efficiency for large and liquid stocks but not for small and illiquid stocks.

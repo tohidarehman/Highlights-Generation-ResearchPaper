@@ -1,0 +1,7 @@
+ A simple one pot hydrothermally fabricated N doped oxidized carbon dots revealed an excellent photostability under constant illumination with 344nm UV radiation for 24 000s and intermittently tested stability under ambient conditions for over 18months . The general susceptibility of their PL was tested under different conditions of pH and temperature . The NOCDs were found to act as optical fluorometric sensors for pH and temperature revealing a linear cyclic and reversible trend in their fluorescence intensity between pH 3 and pH 9 and 25C70C temperature range . As reasonable temperature and pH sensing agent a good linear fit with an excellent regression coefficients of 0.979 and 0.989 respectively were revealed . Typical organic pollutants such as anionic and Bromophenol blue and cationic Rhodamine 6 G dyes were found to quench the corresponding fluorescence through an inner filter effect . This is the first report on detection of organic pollutants using NOCDs as optical sensing probe .
+
+@highlight Synthesis of highly stable fluorescent nitrogen doped oxidized carbon dots CDs .
+@highlight Insignificant change in PL signal after 18months under ambient conditions.
+@highlight CDs showed excellent sensing towards pH temperature and several organic pollutants.
+@highlight Lower limit of detection for Methyl Orange found to be 38nM.
+@highlight As prepared CDs demonstrate low toxicity and high fluorescent bio imaging.

@@ -1,0 +1,6 @@
+ Time difference of arrival technique is one of many bases to determine lightning strike location employed in a lightning locating system . In this technique at least four measurement sensors are required to correctly locate a lightning strike . Usage of fewer number of sensors will result in non unique solutions to the generated hyperbolas and hence wrong lightning strike point . This research aims to correctly determine the strike point even if only three measuring sensors are utilized . An artificial neural network based algorithm was developed for a 400km
+
+@highlight The differences in the arrival times of lightning discharge are employed to determine the optimum distance to the flash.
+@highlight The TDOA method requires at least four measurement sensors to avoid false points in the calculations.
+@highlight Artificial Neural Network engines were trained to find the correct location of a lightning strike using three stations.
+@highlight TDOA based LLS equipped with trained ANN engines successfully locates the lightning strike point with a notable accuracy.

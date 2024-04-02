@@ -1,0 +1,8 @@
+ The bottleneck of analytical instrument itself and non ideal instrumental performance will produce a certain degree of drifts between the measured isotopes and the true values . An AAID IC algorithm was thereby proposed to keep the isotopic distributions more accurate in hyphenated instruments e.g . Gas Chromatography Liquid Chromatography Mass Spectrometry . During this data mining process chemical information will be fully used from dozens of data points in retention time
+
+@highlight Average was automatically performed for all sampling points in
+@highlight zones.
+@highlight Automatic resolution and calculation for overlapped isotopes.
+@highlight Calibration functions were established from natural references.
+@highlight The corrected values were transformed into an ionic isotopic curve.
+@highlight AAID IC algorithm was developed for any type of GC LC MS.

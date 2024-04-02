@@ -1,0 +1,7 @@
+ Soybean yield predictions in Brazil are of great interest for market behavior to drive governmental policies and to increase global food security . In Brazil soybean yield data generally demand various revisions through the following months after harvest suggesting that there is space for improving the accuracy and the time of yield predictions . This study presents a novel model to perform in season soybean yield forecasts in southern Brazil using Long Short Term Memory Neural Networks satellite imagery and weather data . The objectives of this study were to compare the performance of three different algorithms for forecasting soybean yield using NDVI EVI land surface temperature and precipitation as independent variables and evaluate how early this method is able to forecast yield with reasonable accuracy . Satellite and weather data were masked using a non crop specific layer with field boundaries obtained from the Rural Environment Registry that is mandatory for all farmers in Brazil . Main outcomes from this study were soybean yield forecasts at municipality scale with a mean absolute error of 0.24Mgha
+
+@highlight Soybean yield at municipality level was forecasted using satellite and weather data.
+@highlight LSTM neural networks outperformed conventional machine learning algorithms in soybean yield prediction.
+@highlight The model accuracy decreased as we anticipated earlier dates of the predictions.
+@highlight Soybean yield can be forecasted with MAE of 0.42Mgha
+@highlight  70 days before harvesting.

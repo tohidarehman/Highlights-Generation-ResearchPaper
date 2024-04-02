@@ -1,0 +1,6 @@
+ In this study metal curse hypothesis was suggested for top precious metal producer countries i.e . Australia Canada Mexico Philippines Peru South Africa and the USA by using nonlinear Smooth Transition Autoregressive Distributed Lag models for the period 19632017 . We used precious metal production data as an indicator for resource richness . According to the analysis results of STARDL models we found statistically significant regime specific long run and short run relationships between economic growth and each precious metal type under analysis . We couldn t find supporting results for metal curse for Canada Philippines Peru South Africa and the USA but the positive effect of each precious metal abundance is asymmetric between the regimes . For Australia and Mexico the effect of precious metal abundance on economic growth is various depending on precious metal type the regime which the economy is in the short and long run .
+
+@highlight We analyzed the relationship between precious metal production and economic growth.
+@highlight We used precious metal production data as an indicator for resource abundance.
+@highlight We utilized Smooth Transition Autoregressive Distributed Lag STARDL analysis method.
+@highlight We couldn t find supporting results for metal curse for Canada Philippines Peru South Africa and the USA.

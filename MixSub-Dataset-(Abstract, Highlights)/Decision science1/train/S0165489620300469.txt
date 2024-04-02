@@ -1,0 +1,7 @@
+ We survey the apportionment methods used by the Republican Party in their 2012 and 2016 state presidential primaries with a focus on the seven methods that are proportional . All of the proportional methods are quota based and all but one are new . After comparing the apportionment methods for three candidates using simplicial geometry we evaluate how they differ in bias toward the top and bottom vote getting candidates . We also compare the methods by how they distinguish among candidates in close elections . We use the bias comparisons to suggest which methods should be used at different junctures in the primary season . We discuss how these new methods were implemented in practice and summarize how successful these methods were in making the Republican delegate process more proportional .
+
+@highlight We survey the 2012 2016 Republican presidential primary apportionment methods.
+@highlight The geometry of the seven quota based delegate apportionment methods is analyzed.
+@highlight We classify the methods used by each state in the 2016 Republican primaries.
+@highlight We compare the biases of the methods using close elections and thresholds.
+@highlight Implementation of the methods including the effect of cutoffs is discussed.

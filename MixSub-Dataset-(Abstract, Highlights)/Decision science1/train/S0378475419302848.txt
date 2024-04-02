@@ -1,0 +1,6 @@
+ In this article an information based method for the selection of expansion coefficients of functions in a Hilbert basis is presented . An information based measure namely Entropic NID is presented the optimal separation point between more informative coefficients and less informative ones is selected by evaluating the information contribution of two competing sets of expansion coefficients . A consistent numerical scheme is given to approximate ENID and the numerical error is studied . Numerical simulations are provided to test the behaviour of ENID in different wavelet bases as well as to perform comparative studies .
+
+@highlight Sparse representation is achieved in wavelet bases.
+@highlight Absolute value of differential entropy of a function is a measure of complexity.
+@highlight An information measure based on Normalized Information Distance is proposed.
+@highlight Optimum coefficients set is related via experiments to Vitanyis NCD.

@@ -1,0 +1,6 @@
+ Co occurrences of peptides and chemical components are usually observed in complicated matrices . Notably those traditional Chinese medicine prescriptions contain both plant and animal ingredients . It is still challenging to simultaneously monitor peptides and chemical components attributing to their different liquid chromatographic and mass spectrometric behaviors . Herein efforts were made to pursue an eligible approach enabling simultaneous determination of peptides and chemical components in a TCMP namely
+
+@highlight RPLC HILICSRM was developed for simultaneously monitoring peptides and compounds.
+@highlight Online energy resolved mass spectrometry was developed for parameter optimization of peptides.
+@highlight RPLC and HILIC were serially coupled to retain and separate both peptides andcompounds.
+@highlight Mild inter batch variations were observed among different batches of CCPI.

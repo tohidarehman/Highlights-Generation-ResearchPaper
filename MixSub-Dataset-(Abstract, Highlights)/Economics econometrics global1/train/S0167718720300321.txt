@@ -1,0 +1,7 @@
+ We consider procurement auctions for the projects where the cost of production is subject to ex post shockscost overruns . The contractor may default due to these overruns which affects the buyers expected cost . Here the lowest bid auction emerges as the procurement mechanism that minimizes the expected transfers to the contractors and requires the lowest surety bond to achieve a given probability of default . Since surety bonds are costly to post the above makes a combination of the lowest bid auction with the surety bond the optimal i.e . the expected cost minimizing procurement mechanism in a wide range of parameters .
+
+@highlight We study a model of procurement free from the insolvency effect.
+@highlight Pay what you say is the optimal payment rule.
+@highlight The optimal surety bond is characterized for any allocation rule.
+@highlight When the virtual costs are increasing the optimal allocation rule is efficient
+@highlight The lowest bid auction with a surety bond is the optimal procurement mechanism.

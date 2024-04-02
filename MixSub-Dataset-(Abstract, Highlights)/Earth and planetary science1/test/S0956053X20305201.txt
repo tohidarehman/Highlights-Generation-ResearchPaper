@@ -1,0 +1,7 @@
+ This paper assesses the performance of waste services in the region of Tuscany in Italy . It adopts non parametric techniques for this purpose . Furthermore it investigates the influence of the operational environment on the estimated performance by using the robust order m technique . Meaningful levels of inefficiency were found in the Italian waste services . A specification of the ownership of the operator entrusted with waste management by municipalities and the formal adoption of the zero waste strategy are included as environmental variables .
+
+@highlight External operational variables are associated with efficiency estimation.
+@highlight Efficiency is higher in municipalities with lower levels of income per capita.
+@highlight Efficiency is lower for municipalities with higher undifferentiated waste produced.
+@highlight Adoption of zero waste strategy is related to higher efficiency in MSW service.
+@highlight Privatization is not associated with significant improvement in performance results.

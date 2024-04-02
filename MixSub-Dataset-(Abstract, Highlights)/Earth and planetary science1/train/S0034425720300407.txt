@@ -1,0 +1,7 @@
+ The natural world has multiple sometimes conflicting sometimes synergistic values to society when viewed through the lens of the Sustainable Development Goals Spatial mapping of nature s contributions to the SDGs has the potential to support the implementation of SDG strategies through sustainable land management and conservation of ecosystem services . Such mapping requires a range of spatial data . This paper examines the use of remote sensing and spatial ecosystem service modelling to examine nature s contribution to targets under SDG 6 also highlighting synergies with other key SDGs and trade offs with agriculture .
+
+@highlight Existing EO datasets can underpin spatial analyses of nature s contributions to SDGs.
+@highlight Such analyses indicate within and between country variability in nature s contribution.
+@highlight A spatial prioritisation suggests the highest priority areas for investment.
+@highlight Ubiquitous EO data enable globally consistent and geographically comprehensive analyses.
+@highlight Challenges remain in using EO data for multi factor models like these.

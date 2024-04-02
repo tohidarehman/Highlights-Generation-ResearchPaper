@@ -1,0 +1,6 @@
+ The single bubble behavior in a 3 mm rectangular gasliquidsolid mini fluidized bed with 90 m particles was simulated using the combination of VOF and DEM and the results were validated by experiments . The simulation on the expansion of liquidsolid mini fluidized shows that the profiles of liquid and particle velocities are consistent and both become more concentrated as the expansion ratio decreases . The bubble formation size does not change with the increase of the solid holdup from 0.25 to 0.45 while the bubble rise velocity becomes lower . The upward liquid velocity in the bubble wake exceeds 50 of the instantaneous bubble velocity . The size of the low particle concentration bubble wake reducing with the increase of solid holdup can be attributed to the decrease in the bubble rise velocity and the enhancement in the inertia effect of the liquidsolid flow .
+
+@highlight Formation and rise of single bubble in mini fluidized was simulated.
+@highlight Simulations were validated by experiments with good agreements.
+@highlight Interactions between bubble and particles were explored.
+@highlight Bubble wake size reduced with the increase of solid holdup in the simulation.

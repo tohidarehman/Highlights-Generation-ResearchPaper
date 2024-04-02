@@ -1,0 +1,6 @@
+ Horizontal heterogeneity causes difficulties in the eddy covariance technique for measuring surface fluxes related to both advection and the confounding of temporal and spatial variability . Our aim here was to address this problem using statistical modelling and footprint analysis applied to a case study of fluxes of sensible heat and methane in a subarctic mire . We applied a new method to infer the spatial heterogeneity in fluxes of sensible heat and methane from a subarctic ecosystem in northern Sweden where there were clear differences in surface types within the landscape . We inferred the flux from each of these surface types using a Bayesian approach to estimate the parameters of a hierarchical model which includes coefficients for the different surface types . The approach is based on the variation in the flux observed at a single eddy covariance tower as the footprint changes over time . The method has applications wherever spatial heterogeneity is a concern in the interpretation of eddy covariance fluxes .
+
+@highlight Spatial heterogeneity causes difficulties in measuring surface fluxes.
+@highlight Using a Bayesian hierarchical model we inferred spatial heterogeneity in fluxes.
+@highlight This correctly apportioned sensible heat fluxes between land and lake surfaces.
+@highlight We could attribute different methane fluxes to vegetation classes.

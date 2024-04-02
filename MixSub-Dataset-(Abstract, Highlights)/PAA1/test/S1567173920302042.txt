@@ -1,0 +1,6 @@
+ Herein a highly integrated plasmonic sensor based on a multichannel metal insulator metal waveguide scheme for the simultaneous detection of multiple analytes is proposed . The numerical study is conducted via the finite element method based on commercially available software COMSOL . The sensor design is highly sensitive which can detect a minute change in the refractive index of the analyte . In this study we have used the refractive index values of three different concentrations of ethanol and
+
+@highlight Highly sensitive integrated plasmonic sensor design.
+@highlight Detection of simultaneous detection of multiple analytes.
+@highlight Sensitivity as high as 1948.67 nm RIU can be obtained by incorporating cavities of length 325nm.
+@highlight The device design is versatile and easy to realize.

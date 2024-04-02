@@ -1,0 +1,6 @@
+ A novel design rotating packed bed is presented aiming at mitigation of liquid maldistribution commonly encountered in rotating packed beds . The design consists of three concentric perforated rings placed in the packing which act as liquid redistribution rings . The effectiveness of the redistribution rings in a rotating packed bed was experimentally demonstrated showing that an induced maldistribution of 31 16th was mitigated by at least 90 within the design operating window . Furthermore an induced maldistribution of 1 4th of the reactor was mitigated by at least 70 irrespective of whether a random packing is present or not . The proposed repeated use of redistribution rings therefore enables a more uniform wetting of the whole packing which potentially enables a more effective scale up of rotating packed beds . To assist the design of redistribution rings a design equation for the thickness of the liquid layer on the redistribution rings was developed and shown to be accurate within 10 .
+
+@highlight A Rotating Packed Bed reactor with enhanced liquid redistribution was developed.
+@highlight Redistribution rings in an RPB ensure axial and radial redistribution of the liquid.
+@highlight Induced liquid maldistributions up to a quarter of the RPB can be overcome.
+@highlight Homogenous liquid distribution possible with and without packing.

@@ -1,0 +1,7 @@
+ Diffusion processes occurring in a myriad of systems sparkle great interest in understanding their general properties and applications . In this work we investigate a broad set of diffusive systems that can be governed by a generalized diffusion equation and subjected to a surface that can promote sorption and consequently desorption thus releasing the particles to the bulk . The general bulk equation used here can reproduce different diffusive regimes among them those described by the Cattaneo equation or by a fractional anomalous diffusion . The equation related to the processes on the surface incorporates non Debye relaxations which can be used to model non exponential relaxations commonly found in biological or fractal systems . The solutions are obtained by using the Green function approach and show a rich class of behavior that can be related to anomalous diffusion .
+
+@highlight We investigate diffusive systems governed by a generalized diffusion equation.
+@highlight The sorption desorption modelling incorporates non Debye relaxations.
+@highlight The processes on the surface incorporates non Debye relaxations.
+@highlight We obtain solutions in terms of the Green function approach.
+@highlight We obtain a rich class of behavior that can be related to anomalous diffusion.

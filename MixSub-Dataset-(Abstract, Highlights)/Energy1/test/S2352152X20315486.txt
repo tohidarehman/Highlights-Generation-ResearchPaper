@@ -1,0 +1,7 @@
+ Thermal energy storage is recognised as a key technology for the implementation of renewable energy sources in buildings and therefore to their contribution to climate change mitigation . Phase change materials are the materials used in latent TES but they present corrosion to metals when encapsulated in these materials . In this study four commercial PCMs are tested against three commonly used metals to evaluate the corrosion of each pair . Results show that stainless steel is resistant to the PCMs tested under the experimental conditions used . Aluminium is recommended to be used with the tested organic PCMs should be used with caution with HS 24P and it is not recommended with SP 21E . Finally copper is also recommended with the tested organic PCMs but it should be used with caution with the inorganic ones .
+
+@highlight Corrosion experiments with metals and 4 commercial organic and inorganic PCM.
+@highlight Stainless steel is the most resistant metal to all PCM studied.
+@highlight Aluminium is recommended for long term use for organic PCMs.
+@highlight Pitting bubbles and deteriorating of al with inorganic PCM SP 21E HS 24P .
+@highlight Low corrosion rate of cu with inorganic and no effect with organic PCM.

@@ -1,0 +1,6 @@
+ A convenient approach to employ an elliptic load deformation elastoplastic approximation has been proposed and used to evaluate the mechanical behavior of pinewood biofuel pellets from lab scale compressive load deformation measurements . Verification of model predictions has been attempted against apparent finite element method based simulations . A database of essential mechanical properties has been established . This submission is intended as a model for being able to study the deformation and breakage behavior using lab scale compression tests .
+
+@highlight Modeling approach to study contact behavior of single biofuel wood pellets is presented.
+@highlight Feasibility to quantify model based mech. properties from lab tests is presented.
+@highlight Model validity is demonstrated by comparing exp. measurements and simulations.
+@highlight Holistic influences of selected material properties and manufacturing is discussed.

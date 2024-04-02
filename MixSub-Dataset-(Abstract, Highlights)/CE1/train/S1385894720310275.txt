@@ -1,0 +1,6 @@
+ We present a self consistent analysis of adsorption of gases on energetically heterogeneous solids and derive expressions for the Henry constant and the isosteric heat at zero loading
+
+@highlight Consistency between the Henry constant and the simulated isotherm at zero loading.
+@highlight Differences between the thermodynamic variables for excess and absolute loadings.
+@highlight Adsorption in a complex substrate is a composite of subsets.
+@highlight Derivation of equations for the isotherm and the heat for a complex substrate.

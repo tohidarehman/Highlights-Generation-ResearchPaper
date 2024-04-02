@@ -1,0 +1,6 @@
+ The void evolution in the presence of one dimensionally migrating self interstitials is considered . No saturation of the void swelling due to 1 D self interstitials is assumed . Void growth rate is considered to be driven by the dislocation bias and undergoes the stochastic fluctuations caused by the random nature of point defect jumps and collision cascade initiation . Void nucleation and subsequent growth are investigated . It is shown that initially nucleated random voids start shrinking already when the spatially aligned voids make a small fraction of the void ensemble . Despite a continuous generation of small void embryos in the random spatial positions and negligible vacancy emission development of the random void population becomes completely suppressed by the stochastic fluctuations when the aligned voids are the major sinks for point defects and the fraction of 1 D self interstitials is small but not negligible .
+
+@highlight No void swelling saturation.
+@highlight No vacancy emission.
+@highlight Growth of the spatially ordered voids at the expense of the random voids.
+@highlight Suppression of random voids growth.

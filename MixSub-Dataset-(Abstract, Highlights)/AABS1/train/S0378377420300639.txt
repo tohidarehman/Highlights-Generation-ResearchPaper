@@ -1,0 +1,10 @@
+ Evapotranspiration is a major hydrologic flux in water resources planning and irrigation management . While recent advances in remote sensing have enabled availability of high spatial and temporal resolution ET data a lack of information related to error in the estimations has made it challenging to use this data for on farm irrigation management decision making . In this study three commonly used single source RS based ET models were used to estimate daily actual evapotranspiration ET
+
+@highlight RS based ET
+@highlight estimates for three crops were compared to surface renewal ET
+@highlight measurements.
+@highlight pySEBAL and METRIC performed better under full canopy cover than early in the season.
+@highlight SEBS performed the best among three remote sensing models for daily ET
+@highlight estimation.
+@highlight Results show potential of using remote sensing based ET
+@highlight in operational irrigation management.

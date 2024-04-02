@@ -1,0 +1,6 @@
+ Model based predictive control or MPC is a popular technique widely used in three phase two level power converters in applications such as motor and generator control . One of the main drawbacks of implementing MPC is the high computation time requirements while evaluating the effects of the six available vectors on the cost function . The computing time becomes unacceptable when the number of vectors is very high as in modular multilevel converters making it impossible to run the MPC algorithm in microcontrollers within reasonable cycle times . This paper proposes a fast method capable of finding the reference voltage vector among a large number of available multilevel voltage vectors in a single step which greatly reduces the computation time and makes it possible to use MPC in regular MCUs . Unlike other MPCs after calculating the reference vector the proposed method discards the duration times obtained by the MPC and the reference vector is modulated using an SVM .
+
+@highlight Model predictive control is time consuming in multilevel converters.
+@highlight Model predictive control for Modular Multilevel Converters MMC .
+@highlight Predictive control of multilevel Grid Side Converters.
+@highlight Fast MPC with low computational burden.

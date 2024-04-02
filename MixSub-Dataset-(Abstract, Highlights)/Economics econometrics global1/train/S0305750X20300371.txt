@@ -1,0 +1,7 @@
+ India has employed a variety of military political and economic measures to combat the long running insurgency in Kashmir with little evidence on what contributes to stability in the region . This paper uses a variety of tests to detect structural breaks in the time series for violence over the period 19982017 . We identify a transition from a high violence regime to a low violence regime that coincides with the fencing of the border with Pakistan the implementation of a large scale development program and the phasing in of the Indian National Rural Employment Guarantee Scheme . Panel data analysis using district level data further corroborate these findings . Our results highlight the complementary roles of development programs and security in reducing violence .
+
+@highlight We analyze the evolution of the violence levels in the long running insurgency in the Indian state of Jammu Kashmir.
+@highlight We find a transition period between 2003 and 2007 when violence levels decreased slowly and remained low thereafter.
+@highlight Using time series techniques we find structural breaks in violence during the transition period.
+@highlight Structural breaks coincide with introduction of a security policy and development plans in the state.
+@highlight Findings are suggestive of the complementary role of security and development programs in reducing violence.

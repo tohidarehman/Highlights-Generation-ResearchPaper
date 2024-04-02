@@ -1,0 +1,7 @@
+ In order to couple more light in absorber layer of a silicon heterojunction solar cell higher optical transparency of the front layer is desirable . In that respect we investigated indium tin oxide as a front surface field layer in a rear emitter SHJ solar cell . We used numerical simulation starting from an experimentally obtained real solar cell . In the experimental cell the n type nanocrystalline silicon was used as the FSF where the power conversion efficiency of the reference cell was 21.84 . Our investigation shows that if 20nm thick ITO is used as the FSF the PCE of the device can be 25.67 while with an 80nm thick ITO as FSF the PCE can be 23.8 . This improvement in the device efficiency primarily comes with the increase in current density in the solar cell due to an increased intensity of light in the absorber layer .
+
+@highlight Silicon heterojunction solar cells were investigated theoretically.
+@highlight Reference experimental cell is of rear emitter structure.
+@highlight Optimum susceptibility front surface field FSF layer was 4.3eV.
+@highlight Indium tin oxide ITO was used as FSF layer.
+@highlight 23.8 25.67 efficiency was obtained with 80 20nm thick ITO as FSF.

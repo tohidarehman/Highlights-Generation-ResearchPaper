@@ -1,0 +1,6 @@
+ This paper presents the Plugin Hybrid Electric Vehicle routing problem that finds the optimal set and sequence of customers visited by PHEVs to minimize total energy consumption . PHEVs use electricity and gasoline as their two energy sources . A power management model finds the optimal draw of power from the two sources along the vehicles path . To solve the PHEVRP we present an exact branch and price and a heuristic algorithm . We derive the complexity order of the algorithms and show that the heuristic becomes faster at larger battery capacities . We present a case study situated in the City of Toronto and show that the PHEVs use electricity in congested downtown regions and gasoline in free flow conditions of highways .
+
+@highlight We present the Plugin Hybrid Electric Vehicle PHEV routing problem.
+@highlight We model the impact of power management strategies in the optimal routes.
+@highlight We offer an exact four index formulation and a decomposition based heuristic solution.
+@highlight PHEVs use battery power in congested links but use gasoline in free flow highways.

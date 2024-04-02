@@ -1,0 +1,9 @@
+ Alzheimers disease is a debilitating neurodegenerative disease that affects over 47 million people worldwide and is the most common form of dementia . There is a vast body of literature demonstrating that the disease is caused by an accumulation of toxic extracellular amyloid peptides and intracellular neurofibrillary tangles that consist of hyperphosphorylated tau . Adherence to the Mediterranean diet has been shown to reduce the incidence of AD and the phenolic compounds in extra virgin olive oil including oleocanthal have gained a significant amount of attention . A large number of these ligands have been described in the pre existing literature and 222 of these compounds have been characterised in the OliveNet database . In this study molecular docking was used to screen the 222 phenolic compounds from the OliveNet database and assess their ability to bind to various forms of the A and tau proteins . The phenolic ligands were found to be binding strongly to the hairpin turn of the A
+
+@highlight The phenolics from the OliveNet Library were utilised in molecular modelling studies of Alzheimers disease.
+@highlight Molecular docking studies were performed against the major pathogenic proteins amyloid A and tau.
+@highlight Key binding sites were identified using molecular docking highlighting the hairpin turn of the A
+@highlight and A
+@highlight peptides.
+@highlight The flavonoid glucoside and secoiridoid subclasses were found to bind with highest affinity to the pathogenic proteins.
+@highlight Dynamic simulations depicted can be used to investigate anti aggregatory effects of compounds from the OliveNet Library.

@@ -1,0 +1,5 @@
+ A major cause of morbidity and mortality for patients who undergo hematologic stem cell transplantation is acute graft versus host disease a mostly T cell mediated disease . Examination of the T cell receptor repertoire of HSCT recipients and the use of next generation nucleotide sequencing have raised the question of whether features of TCR repertoire reconstitution might reproducibly associate with aGVHD .
+
+@highlight Using MCA and a data reduction model we were able to show that not only were clones shared across patient samples but also there are specific TRBV families that were seen predominantly in those who responded to steroids.
+@highlight We found a statistically significant decreasing trend in diversity measures over time.
+@highlight We offer an honest discussion that better reflects the current literature and our study limitations and its merits.

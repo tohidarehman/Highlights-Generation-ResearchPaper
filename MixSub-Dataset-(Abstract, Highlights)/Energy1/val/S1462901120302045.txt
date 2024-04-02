@@ -1,0 +1,6 @@
+ This paper introduces an environment driven artificial intelligence model for sustainable policymaking in the European countries focusing on Ukraine . It develops regional clusters using artificial neural networking and then it dynamically optimises budgeting allocations . It is a hybrid environment driven model which i clusters regionalised data using Kohonens self organising map and ii optimises budget allocations using simplex modified distribution method . Model benefits focus on i regional public policies ii environmental development and iii core periphery balanced growth . Results reveal an innovative plan that i activates participation of the environmental stakeholders in public policymaking ii reforms regions based on sustainability criteria set and iii optimises regional funding .
+
+@highlight Sustainable policymaking model develops regional clusters using neural networking.
+@highlight Simplex algorithm verifies the economic optimality of the environmental clusters.
+@highlight Budget allocation planning according to the socio environmental indicators.
+@highlight The intelligent environmental plan ensures environmental funding flexibility.

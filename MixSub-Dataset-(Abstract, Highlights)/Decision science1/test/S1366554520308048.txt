@@ -1,0 +1,12 @@
+ This article proposes an innovative path finding algorithm to achieve on time arrival reliability on road networks under uncertainty with stochastic delays at signalized intersections . Typically we extend conventional path finding algorithms to signalized traffic networks of 1 random and correlated running travel time along links 2 delays at intersections and traffic signals and their correlations as well as 3 correlations between RTTL and DITS . We first discuss the theoretical foundations concerning the existence of the optimal solutions and analyze the efficient convergence speed of our proposed algorithm . Lastly we conduct numerical studies to demonstrate efficiency and effectiveness of the proposed algorithm .
+
+@highlight Consideration of link travel time correlation in reliable path finding algorithm.
+@highlight Addressing the
+@highlight None
+@highlight non additive
+@highlight None
+@highlight issue to avoid path enumeration using
+@highlight None
+@highlight inequality technique.
+@highlight A path finding algorithm with polynomial computation complexity is proposed.
+@highlight The delays at traffic signals and their correlations among link travel times and delays are also considered.

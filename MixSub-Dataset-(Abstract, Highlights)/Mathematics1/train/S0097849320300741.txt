@@ -1,0 +1,5 @@
+ Skinning is an essential technology in geometric modeling . Unlike non uniform rational B spline skinning T spline skinning does not require knot compatibility of the given cross sections and avoids superfluous of control points . In this study we present a curve guided T spline skinning method for surface and solid generation of high quality which interpolates the given cross sections .
+
+@highlight A T spline skinning method is developed for high quality surface and solid generation.
+@highlight Guiding curves are introduced to improve the quality of the skinned curves and solids.
+@highlight LSPIA method is employed to ensure the fitting accuracy and the stability of iterations.

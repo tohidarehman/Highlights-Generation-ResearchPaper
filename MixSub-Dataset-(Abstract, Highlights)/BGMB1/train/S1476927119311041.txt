@@ -1,0 +1,7 @@
+ The statin drug Simvastatin is a HMG CoA reductase inhibitor that has been widely used to lower blood lipid . However the drug is clinically observed to reposition a significant suppressing potency on glioblastoma by unexpectedly targeting diverse kinase pathways involved in GBM tumorigensis . Here an inverse screening strategy is described to discover potential kinase targets of Simvastatin . Various human protein kinases implicated in GBM are enriched to define a druggable kinome the binding behavior of Simvastatin to the kinome is profiled systematically
+
+@highlight An inverse screening protocol is described to discover unexpected kinase targets from glioblastoma druggable kinome.
+@highlight The binding behavior of Simvastatin to the kinome is profiled systematically
+@highlight an integrative computational approach.
+@highlight Simvastatin shows low affinity to the well established GBM target of PI3K Akt mTOR pathway.
+@highlight EGFR T790M gatekeeper mutation can reduce Simvastatin sensitivity by changing the ligand binding mode.

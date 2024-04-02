@@ -1,0 +1,6 @@
+ This paper studies the longitudinal shear behaviour of composite slabs composed of profiled steel sheeting and engineered cementitious composite i.e . referred to as ECC composite slab in the following . A total of eleven full scale ECC composite slab specimens were designed and tested under four point flexural loading . The main testing parameters included the shear span ratio the thickness of the steel sheeting the depth of the composite slab and the arrangement of the shear studs . The influence of these parameters on the failure modes and the longitudinal shear resistance of the specimens were evaluated based on the test results . The behaviour of the ECC composite slab was compared with that of the composite slab with traditional concrete topping . The formulae for calculating the longitudinal shear resistance and the ultimate shear bond stress of ECC composite slabs were proposed according to the
+
+@highlight Tests were conducted on the longitudinal shear behaviour of ECC composite slabs.
+@highlight Effects of main parameters on the shear behaviour of tested slabs were evaluated.
+@highlight Calculations of the longitudinal shear resistance and anchorage were presented.
+@highlight Advanced numerical model was established and validated against the test data.

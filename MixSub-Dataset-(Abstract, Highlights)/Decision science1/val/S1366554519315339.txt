@@ -1,0 +1,7 @@
+ Social media analytics is very critical in modern supply chain operations management . However in terms of methods conducting social media analytics for SCOM faces many challenges . Problems such as data accuracy user privacy data security etc . are all present . Recently with the emergence of blockchain technology many new social media apps and platforms are developed . Motivated by the fact that SMA is important for SCOM the traditional social media has insufficiency and the blockchain technology supported social media platforms have emerged we explore whether and how the BSM would enhance social media analytics for SCOM . To be specific by reviewing papers published in leading SCOM journals we identify the applications and limitations of SMA for SCOM . Then we conduct real case studies to examine the shortcomings of the TSM platforms and reveal features of their BSM counterparts . We investigate how the blockchain technology would potentially improve the use of SMA for SCOM . Finally a future research agenda is proposed .
+
+@highlight Study the real world blockchain technology supported social media BSM platforms.
+@highlight Conduct a systematic review on social media analytics SMA for supply chain operations management SCOM .
+@highlight Identify the applications and limitations of SMA for SCOM.
+@highlight Explore whether and how the BSM would enhance SMA for SCOM.
+@highlight Uncover how blockchain technology helps improve the use of SMA for SCOM.

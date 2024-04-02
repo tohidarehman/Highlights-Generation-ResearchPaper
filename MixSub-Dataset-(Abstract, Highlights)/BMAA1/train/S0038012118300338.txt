@@ -1,0 +1,6 @@
+ It is well known that composite indicator construction relies on several intermediate modelling steps and that as a result one should be cautious about the exact rankings of observations on the basis of specific composite index values . One way to deal with this concern rests on comparing groups rather than individual observations which has e.g . been advocated for the well known Human Development Index . Data Envelopment Analysis which has become quite popular for composite indicator construction also provides some tools to assess such intergroup differences . We here focus on the Global Frontier Difference index as introduced by Asmild and Tan and use some variants of this index to study inter regional differences in human development performance .
+
+@highlight An alternative approach for assessing intergroup differences viz. the so called Global Frontier Difference index of 30 .
+@highlight We present a chained version its decomposition and an inter temporal version of this index.
+@highlight Apply it to regional categories of countries in the construction of the Human Development Index.
+@highlight We opt for a robust version of DEA so as to deal with potential biases in BoD based composite HDI estimates.

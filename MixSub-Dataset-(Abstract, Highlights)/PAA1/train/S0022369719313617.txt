@@ -1,0 +1,5 @@
+ This work presents for the first time the properties of the liquid phase of silicon carbide using ab initio molecular dynamics simulations based on density functional theory . Our DFT scheme employs a plane wave basis to expand the atomic orbitals pseudopotentials built with the projector augmented wave method and the local density approximation to describe the exchangecorrelation interactions . With this approach we we determine a melting temperature of the zinc blend phase of 2678.54
+
+@highlight The structural thermodynamic dynamic properties of silicon carbide are predicted with ab initio methods.
+@highlight Diffusion coefficients and melting temperatures are calculated as a function of pressure.
+@highlight Comparison with experimental shows the accuracy once more of density functional theory.

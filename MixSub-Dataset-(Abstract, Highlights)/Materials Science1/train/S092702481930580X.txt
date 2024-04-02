@@ -1,0 +1,7 @@
+ In this report a modeling approach is employed to study the effect of the grain boundaries and their electronic activity on the performance parameters of the perovskite solar cells . Our model is based on the 1 dimensional drift diffusion framework to engage the electron defects formed in the GBs and the GB s location through the perovskite layer . Power conversion efficiency of the PSC is optimized with regards to the perovskite layer thickness GBs location and perovskite layer band offset with GBs layer . The results shows that the location or the distribution of the GBs can vary the PCE of PSCs from 12 to around 21 thereby making proper morphology engineering and passivation of GBs is a chief requirement for achieving high efficiency . PCEs larger than 21 require GB defect densities below
+
+@highlight Studying the grain boundaries GBs electronic activity in PSCs.
+@highlight GBs located at closer points to ETL perovskite interface result in higher PCE.
+@highlight Hysteresis is weakened when the GBs are closer to HTL perovskite interface.
+@highlight Efficiencies larger than 21 require GB defect densities below
+@highlight Band offset of 100meV with GB width of 1nm may suppress the impact of the GBs.

@@ -1,0 +1,7 @@
+ Current water consumptions are unsustainable in many regions which requiring more efficient agricultural water management strategies . This study incorporated the DSSAT CERES Maize model with a new algorithm for dynamic within season irrigation scheduling for maize
+
+@highlight Maize yield was forecasted on each day by considering actual weather data.
+@highlight High accuracy of yield prediction could be achieved after maize tasseling.
+@highlight Decline in daily forecasted yields resulted from more serious water stress.
+@highlight This algorithm could quantify the impacts of real time weather on seasonal yield.
+@highlight Simulated IUEs were improved with irrigation schemes scheduled by this method.

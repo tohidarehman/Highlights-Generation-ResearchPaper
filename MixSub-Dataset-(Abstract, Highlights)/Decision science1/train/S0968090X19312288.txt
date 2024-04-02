@@ -1,0 +1,6 @@
+ In the future when traffic streams comprise a mix of conventional and automated vehicles AVs may be employed as mobile actuators to regulate or manage traffic flow across an urban road network to enhance its performance . This paper develops a path control scheme to achieve the system optimum of the network by controlling a portion of cooperative AVs as per the SO routing principle . A linear program is formulated to delineate the scheme and determine the minimum control ratio of CAVs to achieve SO . The properties of the MCR are mathematically and numerically investigated . Numerical examples based on real world networks reveal that the SO of most of the tested networks can be achieved with an MCR below 23 . Considering the low market penetration of AVs at early stages of their deployment we further investigate a joint path based control and pricing scheme to replicate SO . Numerical examples demonstrate the remarkable synergy of these combined instruments on reducing the MCR with little collected tolling revenue .
+
+@highlight Controlling a portion of cooperative AVs to achieve system optimum.
+@highlight A linear program is formulated to find the minimum control ratio.
+@highlight Numerical examples show the ratio is typically below 23 .
+@highlight Combining path based pricing significantly reduces the ratio without collecting much toll.

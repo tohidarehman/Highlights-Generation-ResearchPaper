@@ -1,0 +1,7 @@
+ This study proposes an optical methodology to measure the deflection radius of flexible polymeric substrates to our best knowledge this is the first report taking into consideration the optical anisotropy effect of these substrates for such measurements . The relation between the deflection induced optical phase retardation of two distinct refraction beams and the deflection radius was derived . Full field phase maps were obtained via a polarization measurement system and the phase stepping technique . The measurement results for three substrates having nominal deflection radii of 50 55 and 60mm were correspondingly 51.390.37 57.561.00 and 58.710.85mm thus the measurement precision was confirmed .
+
+@highlight This study proposed an optical methodology to measure the deflection radius of flexible polymeric substrates.
+@highlight The optically anisotropic effect of flexible polymeric substrate was first taken into consideration.
+@highlight The phase steeping technique was used to obtain the phase.
+@highlight The plane and elliptically polarization systems were respectively used to measure.
+@highlight The proposed measurement methodology can be used to the residual stress estimation applied in flexible electronics.

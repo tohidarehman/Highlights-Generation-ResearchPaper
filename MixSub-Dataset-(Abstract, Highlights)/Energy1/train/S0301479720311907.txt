@@ -1,0 +1,7 @@
+ Acid mine drainage is a challenge for current and legacy mining operations worldwide given its potential to severely harm ecosystems and communities if inadequately managed . Treatment costs for AMD are amongst the highest in the industrial wastewater treatment sector with limited sustainable options available to date . This work demonstrates a novel chemical free approach to tackle AMD whereby staged electrochemical neutralisation is employed to treat AMD and concomitantly recover metals as precipitates . This approach was guided by physico chemical modelling and tested on real AMD from two different legacy mine sites in Australia and compared against conventional chemical dosing based techniques using hydrated lime
+
+@highlight Novel staged electrochemical treatment removes all metals from acid mine drainage.
+@highlight System behaviour and removal dynamics can be predicted by physicochemical modelling.
+@highlight Demonstration of acid mine drainage neutralisation without chemical dosing.
+@highlight Treatment concomitantly recovers valuable metals of interest at competitive OPEX.
+@highlight Novel treatment opens the opportunity to design tailored metal rich precipitates.

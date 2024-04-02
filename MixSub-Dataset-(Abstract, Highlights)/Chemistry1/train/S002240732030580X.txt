@@ -1,0 +1,6 @@
+ Excitation energies wavelengths transition probabilities weighted oscillator strengths and line strengths for electric dipole magnetic dipole electric quadrupole and magnetic quadrupole transitions between the states of the 2
+
+@highlight Excitation energies and lifetimes for the lowest 236 fine structure levels of Zr XXXV are calculated.
+@highlight Wavelengths transition rates weighted oscillator strengths and line strengths for E1 M1 E2 and M2 transitions of Zr XXXV are calculated.
+@highlight The calculations are performed using the fully relativistic multiconfiguration Dirac Hartree Fock MCDHF method.
+@highlight The present MCDHF energies wavelengths and electric dipole oscillator strengths are compared with other available theoretical results.

@@ -1,0 +1,6 @@
+ The discrete dipole approximation is a popular numerical method for electromagnetic scattering calculations . The standard DDA formulation involves the uniform discretization of the underlying volume integral equation leading to a linear system of convolution form . This permits a matrix vector product to be performed with
+
+@highlight A preconditioner for scattering simulations with the discrete dipole approximation.
+@highlight The Toeplitz DDA matrix is approximated by a circulant for preconditioning.
+@highlight Order of magnitude accelerations are observed for hexagonal ice prisms.
+@highlight Algorithms are described so the preconditioner can be used in readers own codes.

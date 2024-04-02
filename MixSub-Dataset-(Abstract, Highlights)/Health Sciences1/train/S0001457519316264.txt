@@ -1,0 +1,7 @@
+ Koreas elderly population is growing rapidly as is attention to elderly pedestrian safety . Despite a consensus that the elderly are vulnerable to pedestrian safety issues our understanding of the determinants of elderly pedestrian crashes is limited . This study explores which attributes of the built environment affect the risk of pedestrian accidents among the elderly particularly with respect to injury severity in Seoul Korea . We compare the impacts of various determinants on pedestrian crashes to specify how the associations between various built environments and pedestrian accidents differ by pedestrian age . We also examine how the associations vary by neighborhood economic attributes . Our findings provide policy implications for identifying various attributes of the built environment that increase the risk of elderly pedestrian crashes and improving the safety of elderly pedestrian by neighborhood economic status .
+
+@highlight Examining effects of built environments on elderly pedestrian crashes.
+@highlight Comparing impacts of built environments between all age and elderly groups.
+@highlight Exploring how the impacts vary across neighborhoods stratified by housing price.
+@highlight Using a negative binomial regression with a spatial autocorrelation correction.
+@highlight Impacts of built environments vary by pedestrian age and area characteristics.

@@ -1,0 +1,7 @@
+ Because of the variability of wind and solar resources high shares of wind and solar PV in power supply systems can lead to supply gaps during occasional low resource periods . Due to their ability to meet demand in a short term dispatchable renewable energy resources biomass concentrating solar power and hydropower can assist in meeting such supply gaps . In this study we investigate the spatial and temporal configurations of least cost 100 renewable power supply in Australia at various levels of biomass resource use and CSP penetration . To this end we carry out a high resolution Geographic Information System based hourly electricity supply demand matching simulation . We find that based on the current existing biomass capacity installed in Australia a 100 national RE supply is possible with around 146148GW system installed capacity at a levelized cost of electricity of 910 US kWh
+
+@highlight Simulating 100 renewable grid with different biomass and CSP penetration for Australia.
+@highlight Spatio temporal optimisation to find least cost configurations using GIS data.
+@highlight 100 renewable grid is possible with around 146148GW capacity and 910 US kWh.
+@highlight Under a 15 times expansion of biomass system capacity is reduced to around 70GW.
+@highlight CSP could play an important role in reducing the system capacity to nearly 120GW.

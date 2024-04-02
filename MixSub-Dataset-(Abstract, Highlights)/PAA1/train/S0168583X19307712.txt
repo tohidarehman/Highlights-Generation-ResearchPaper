@@ -1,0 +1,7 @@
+ We present the most recent upgrades of the time of flight medium energy ion scattering system in Uppsala . The experimental chamber features a 6 axis goniometer with a sample annealing stage and two delay line detectors for composition analysis with high depth resolution and depth resolved crystallography . The first detector has a large solid angle and can be moved circularly around the target position which allows to detect backscattered or transmitted ions . The second detector features increased flight distance from sample to detector resulting in enhanced energy resolution . A reduction from 1.4keV to 0.4keV is achieved for 100keV He scattered from an Au surface for 1ns time resolution equivalent to a depth resolution of 6 . This detector is equipped with an electrostatic electrode in order to deflect charged particles which allows to study the charge state for scattered ions in the medium energy regime .
+
+@highlight Simultaneous high resolution depth profiling and crystallography.
+@highlight Experiments can be performed in backscattering or transmission geometries.
+@highlight Ion fraction of scattered particles can be measured.
+@highlight Thermal annealing can be performed in situ.
+@highlight Spectrometry of electrons or desorbed particles can be performed.

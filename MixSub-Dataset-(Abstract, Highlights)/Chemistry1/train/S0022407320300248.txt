@@ -1,0 +1,7 @@
+ In this paper a method is proposed to solve the scattering of electromagnetic waves by a uniformly charged non spherical scatterer . Based on Waterman s extended boundary method a transition matrix between coefficient of the scattering field and incident field of a charged non spherical scatterer is derived called
+
+@highlight  matrix method for charged non spherical scatterers is derived based on extended boundary method.
+@highlight The effect of net surface charges on the scattering of charged non spherical particles e.g. charged spheroids are studied using the abovementioned
+@highlight  matrix method. It is found that the extinction absorption of charged spheroids is augmented by the net surface charges and this augmentation is related to the aspect ratio of the particle and the orientation of the particle with respect to the incident electromagnetic waves.
+@highlight The error of theoretical prediction of extinction absorption resulted from the sphere assumption for non spherical particles e.g. prolate oblate spheorids which was used in many existing studies on optical and scattering properties of charged uncharged particles was evaluated using the proposed
+@highlight  matrix method. This error is enlarged as the non spherical particle is charged and dependent on the aspect ratio of the non spherical particle as well as on the orientation of the particle.

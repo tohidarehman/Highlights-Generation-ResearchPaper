@@ -1,0 +1,7 @@
+ In a Taiwanese chemical processing plant producing ethylbenzene an unexpected thermal runaway reaction occurred in an alkylation tower during shutdown causing approximately 7500kg of catalyst to be wasted . Prior risk assessments failed to identify the responsible hazard vectors . The thermal runaway occurred despite all former appropriate operating procedures being strictly followed . To identify the root cause of this incident the generation and dissemination of the thermal source were tested and simulated using thermal analysis methods and a prototype tower . The results showed that water adsorption could provide heat to the catalyst bed even at temperatures exceeding 350C which is the temperature required for the oxidation of hydrocarbon adsorbates . High humidity caused by Typhoon Lionrock was a critical factor contributing to the incident which was not anticipated by the plant engineers . Humidity within the air inlet supplied the abundant adsorption heat required to increase the bed temperature . This resulted in thermal runaway due to heavy oxidation of the large number of adsorbates . This study proposes a safer strategy that involves passing humid N
+
+@highlight Thermal runaway in an alkylation tower during shutdown was first explored.
+@highlight Weather conditions indirectly compromised operational safety processes.
+@highlight Heat generation and source were evaluated and summarised.
+@highlight Risk assessment methods were reconsidered.
+@highlight This study contributes to loss prevention in catalytic processes.

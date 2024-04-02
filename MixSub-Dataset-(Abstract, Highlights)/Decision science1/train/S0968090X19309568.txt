@@ -1,0 +1,7 @@
+ Recently there have been significant developments and applications in the field of unmanned aerial vehicles . In a few years these applications will be fully integrated into our lives . The practical application and use of UAVs presents several problems that are of a different nature to the specific technology of the components involved . Among them the most relevant problem deriving from the use of UAVs in logistics distribution tasks is the so called last mile delivery .
+
+@highlight Truck drone delivery problem coded as a sequence.
+@highlight Mathematical modelling of a tandem formed by one truck and one drone.
+@highlight Battery capacity constraints and multiple customers visits per flight allowed.
+@highlight Design of a heuristic approach to solve the problem.
+@highlight Performance of the heuristic approach outperforms the exact resolution.

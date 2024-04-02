@@ -1,0 +1,6 @@
+ We explore the effects of interlayer vacancy defects on the vibrational properties of Bernal stacking bilayer armchair graphene nanoribbons using the forced vibrational method . It is observed that the Raman active longitudinal optical phonon of BiAGNR is shifted downward with the decrease of the ribbon width and an increase of the vacancy concentrations . We find that vacancies induce some new peaks in the low frequency regime of the phonon density of states . Our calculated typical mode patterns elucidate that the localized transverse optical phonon at the K point is shifted towards the defect sites from the edges with increased vacancy concentrations . In addition the impact of defect induced phonon modes on the specific heat capacity and thermal conductivity of BiAGNRs are discussed . These results present a new way of understanding the heat dissipation phenomena of graphene based high performance nanodevices and to clarify the Raman and the experiments related to the phonon properties .
+
+@highlight Vibrational properties of disordered bilayer armchair GNR have been explored.
+@highlight Downward shift of LO mode peak has been observed for narrower ribbon.
+@highlight Extra peaks have been found in low frequency regime of PDOS due to vacancies.
+@highlight Vacancy induces strong localization in bilayer armchair GNR.

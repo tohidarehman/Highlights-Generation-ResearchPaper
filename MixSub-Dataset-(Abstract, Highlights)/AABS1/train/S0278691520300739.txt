@@ -1,0 +1,9 @@
+ A model and data toolbox is presented to assess risks from combined exposure to multiple chemicals using probabilistic methods . The Monte Carlo Risk Assessment toolbox also known as the EuroMix toolbox has more than 40 modules addressing all areas of risk assessment and includes a data repository with data collected in the EuroMix project . This paper gives an introduction to the toolbox and illustrates its use with examples from the EuroMix project . The toolbox can be used for hazard identification hazard characterisation exposure assessment and risk characterisation . Examples for hazard identification are selection of substances relevant for a specific adverse outcome based on adverse outcome pathways and QSAR models . Examples for hazard characterisation are calculation of benchmark doses and relative potency factors with uncertainty from dose response data and use of kinetic models to perform
+
+@highlight MCRA is a modular model and data toolbox to assess combined chemical exposure risks.
+@highlight Substances can be selected based on adverse outcome pathway networks or QSAR models.
+@highlight Benchmark doses and relative potency factors with uncertainty can be calculated.
+@highlight Kinetic models can be used for
+@highlight to
+@highlight extrapolation or for aggregation.
+@highlight Risks can be assessed through traditional or probabilistic margins of exposure.

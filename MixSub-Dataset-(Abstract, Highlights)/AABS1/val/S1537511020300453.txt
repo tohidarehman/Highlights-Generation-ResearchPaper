@@ -1,0 +1,7 @@
+ Behaviour and physiological responses could be an indication of the thermal comfort or discomfort of broilers chicks . This study aimed to estimate the cloacal temperature of chicks in response to different intensities and durations of thermal exposure during the first week of life using a fuzzy inference system and a fuzzy genetic algorithm . The experiment was conducted in four temperature controlled wind tunnels located at the environmental laboratory of the Federal University of Lavras . The experimental database is composed of 114 laboratory based observations . The duration of thermal challenge and dry bulb temperature t
+
+@highlight To estimate and compare cloacal temperature of chicks submitted to thermal stress.
+@highlight Fuzzy Inference System and Fuzzy Genetic algorithm were developed and compared.
+@highlight Descriptive statistical indices computed to evaluate improvement to Fuzzy systems.
+@highlight The fuzzy GA exhibited better predicting capacity statistical results than the FIS.
+@highlight Thermal challenge may affect chick welfare and they may not recover adequately.

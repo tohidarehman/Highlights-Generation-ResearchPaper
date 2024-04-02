@@ -1,0 +1,6 @@
+ We study weakly nonlinear wave perturbations propagating in a cold nonrelativistic and magnetized ideal quark gluon plasma . We show that such perturbations can be described by the Ostrovsky equation . The derivation of this equation is presented for the baryon density perturbations . Then we show that the generalized nonlinear Schrdinger equation can be derived from the Ostrovsky equation for the description of quasi harmonic wave trains . This equation is modulationally stable for the wave number
+
+@highlight We derive the Ostrovsky equation in nonrelativistic hydrodynamics with an external magnetic field using an equation of state from the QCD considering external magnetic interactions and mean field approach.
+@highlight The Ostrovsky equation is for the baryon perturbations in magnetized quark gluon plasma.
+@highlight In order to perform numerical study we obtain the nonlinear Schrdinger equation NLS from the Ostrovsky equation to guide the numerical solution.
+@highlight We show the results of numerical study of the wave train evolution with different carrier wave number within the framework of the Ostrovsky equation. We have demonstrated that the perturbations with the narrow spectra of wave numbers can steadily propagate in the form of envelope NLS type solitons whereas the perturbations with relatively wide spectra gradually decay and disperse.

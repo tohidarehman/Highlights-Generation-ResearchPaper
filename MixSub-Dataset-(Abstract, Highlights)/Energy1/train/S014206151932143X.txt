@@ -1,0 +1,5 @@
+ Accurate load modeling with fluctuating loads has been one of the most challenging problems in power system . Input interaction and output fusion of the adaptive interacting multiple load modeling method is introduced in this paper . Different load models switch through a Markov probability transfer matrix and filter in parallel through the extended Kalman filters . After the state estimation model probabilities are updated according to the evaluated errors . Finally load models are fused and output based on the probabilities thus generating a synthetic load model . Simulation results show that interaction and output fusion of the AIMLM method are of high accuracy and can effectively solve the time varying problem of load characteristics .
+
+@highlight A framework of the AIMLM method is established in this paper.
+@highlight Input interaction is used to exchange information among optimal load models.
+@highlight Output fusion is used to generate a synthetic load model

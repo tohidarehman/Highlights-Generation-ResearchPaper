@@ -1,0 +1,5 @@
+ Metastases are the main cause of death in advanced breast cancer patients . Although chemotherapy and hormone therapy are current treatment strategies drug resistance is frequent and still not completely understood .
+
+@highlight Metastases are the main cause of death in advanced breast cancer BC patients.
+@highlight A bioinformatics analysis was performed on BC patients to explore the molecular mechanisms associated with BC metastasis.
+@highlight We identified pathway co expression network that could contribute to understanding the mechanism and development of BC metastases.

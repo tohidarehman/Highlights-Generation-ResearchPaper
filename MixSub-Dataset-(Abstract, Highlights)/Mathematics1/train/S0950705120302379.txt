@@ -1,0 +1,7 @@
+ Effectiveness of several currently popular topology optimization methods is closely related to the number of design variables consisted of discretized finite elements . Since the number of design variables is proportional to the number of finite element meshes a very fine discretization needs more computational cost to carry out a finite element analysis and evaluate a compliance based objective function with the volume constraint . This paper presents a new computational method by using convolutional neural networks which can be substituted for the FEM process to calculate compliances . The robustness and adaptability of the proposed method are tested on a MBB beam and two cantilever beam problems . The designed CNN is trained on a 4816 pixel resolution dataset taken from coarse meshes . The trained CNN can predict the information of image based topologies composed of fine meshes . A graphics processing unit is then used to accelerate the bulk processing of data .
+
+@highlight A new surrogated model is proposed to predict compliance information for topology optimization.
+@highlight The proposed method can eliminate the step of FEM and accelerate optimization processes.
+@highlight The CNNs are then introduced to train neural networks by using coarse elements.
+@highlight High resolution image can be predicted in the trained NNs by using resize interpolation methods.
+@highlight A GPU is then used to accelerate the bulk processing of data.

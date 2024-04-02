@@ -1,0 +1,7 @@
+ Altered intracellular distribution of weak base anticancer drugs owing to lysosomal sequestration is one purported mechanism contributing to chemotherapy resistance . This has often been demonstrated with the example of daunorubicin chemotherapy with its characteristic red fluorescence used to trace it in cellular compartments .
+
+@highlight Image analysis cannot provide a real picture of DNR distribution in cells.
+@highlight There is a complex relationship between DNR fluorescence and its concentration in different compartments.
+@highlight LC MS MS analysis of cell extracts can provide reliable picture about lysosomal accumulation of DNR.
+@highlight Lysosomal sequestration of DNR is not sufficient to significantly reduce its concentration at target sites.
+@highlight Therefore lysosomal sequestration of DNR can hardly contribute to drug resistance

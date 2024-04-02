@@ -1,0 +1,7 @@
+ Robotic milking systems have been demonstrated to reduce on farm labour requirements and collect significant individual level data in relation to animal health welfare and production but they are still largely underutilised . Studies on the relationship between heat stress animal behaviour and robotic milking performance in a RMS are still insufficient . To model such a relationship this study focused on analysing the data collected from a RMS system . Animal response indicators of heat stress assessment were rumination time milk temperature and daily milk yield . In addition RMS milking behaviour i.e . time of milking milking frequency milking duration milking speed and milk yield per milking were also monitored . A new index of rumination efficiency was created to evaluate rumination efficiency under heat stress defined as the ratio between DMY and RT . Using multiple broken line regression it was found that a 1C rise in daily mean temperature could reduce RT by 5.12min decrease REI by 0.07kgcow
+
+@highlight Measure rumination efficiency using robotic dairy farming facilities.
+@highlight Define new index to evaluate heat stress in robotic milking system.
+@highlight Find cows have no adopted milking behaviour against heat stress.
+@highlight Determine the decline of robotic milking performance under heat stress.
+@highlight Modified milking arrangement was recommended with estimated financial benefit.

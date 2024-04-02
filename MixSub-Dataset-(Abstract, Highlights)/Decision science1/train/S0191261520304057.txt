@@ -1,0 +1,6 @@
+ To improve the appeal of carsharing we propose an integrated operation scheme of carsharing and parking sharing services where a carsharing operator rents parking spaces from private owners to provide convenient parking options to carsharing users . We examine how the operator s profit and social welfare differ under the existing carsharing only service scheme and a bundled carsharing and parking sharing service scheme . In particular multiple groups of decision makers i.e . suppliers of shared parking spaces platform operators carsharing users and private vehicle users and interactions among them are modeled in the context of an integrated sharing platform . The properties of carsharing user and private vehicle traveler choice equilibrium are discussed . The profit maximizing and social optimal platform pricing and supply strategies are explored . Numerical examples illustrate that the bundled carsharing and parking sharing service scheme holds the potential to improve the operator s profit and social welfare .
+
+@highlight This study integrates carsharing and parking sharing services.
+@highlight This study examines both profit maximization and social optimum cases.
+@highlight This study compares bundled sharing services against carsharing only service.
+@highlight This study establishes conditions where bundled sharing services can increase profit.

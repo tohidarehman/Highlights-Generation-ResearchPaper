@@ -1,0 +1,6 @@
+ Presented here are the thermophysical characterization and thermodynamic modelling of RAVENOL Calibration Fluid 2.5 which is used for the calibration and preservation of diesel engine fuel injectors . Accurate knowledge of the standardized fluid properties is an important component for engineering modelling to deliver the correct dose of fuel into the combustion chamber of diesel engines while reducing the occurrence of cavitation phenomena . The liquid density and specific isobaric heat capacity measurements were carried out up to
+
+@highlight Thermophysical characterization of an ISO 4113 calibration standard
+@highlight High pressure speed of sound measurements up to 200MPa
+@highlight Iterative calculation of high pressure volumetric properties and heat capacity
+@highlight Accurate density predictions derived from atmospheric pressure data with FT EoS

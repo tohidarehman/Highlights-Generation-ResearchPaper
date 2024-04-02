@@ -1,0 +1,33 @@
+ The accuracy of the distillation efficiency correlations plays a critical role in cost effectively designing distillation columns . Liquid viscosity is considered to be a major factor that influences distillation efficiency through its contribution to the liquid phase mass transfer coefficient interfacial area of mass transfer and vapor and liquid phase residence times . Nearly all of the distillation efficiency correlations in the literature were developed or validated on the basis of efficiency data at liquid viscosities less than 1.5
+
+@highlight Existing tray point efficiency correlations were evaluated at 0.2
+@highlight None
+@highlight mPa
+@highlight None
+@highlight None
+@highlight None
+@highlight None
+@highlight None
+@highlight 4.2
+@highlight None
+@highlight mPa
+@highlight None
+@highlight s.
+@highlight Existing tray point efficiency correlations were unreliable at
+@highlight None
+@highlight None
+@highlight 1.5
+@highlight None
+@highlight mPa
+@highlight None
+@highlight s.
+@highlight Modified the Duss and Taylor correlation for better point efficiency predictions.
+@highlight Model validation with 240 efficiency data points for 10 different test systems.
+@highlight Modification decreased the mean absolute error from 30.52 to 8.79 at
+@highlight None
+@highlight None
+@highlight 1.5
+@highlight None
+@highlight mPa
+@highlight None
+@highlight s.

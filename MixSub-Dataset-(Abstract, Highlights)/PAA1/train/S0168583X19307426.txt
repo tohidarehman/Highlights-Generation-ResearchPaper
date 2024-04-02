@@ -1,0 +1,7 @@
+ A semi relativistic approach is employed to calculate elastic differential integral and momentum transfer cross sections as well as total cross sections for the scattering of electrons from silver platinum and gold atoms in the energy range 0.1100eV . The projectile target interaction is composed of real and imaginary potential . The total optical potential is then used in the solution of the Dirac equation for the scattered electrons . The characteristic features minimum and shape resonance which are required for the fundamental understanding of the dynamic processes at the atomic level are identified in the low energy region . The value of the RT minimum has been correlated with the scattering length to the dipole polarizability of the target atom . The calculated cross sections are compared with available theoretical calculations and experimental measurements in this energy region .
+
+@highlight A relativistic approach is employed to compute the scattering cross sections.
+@highlight The interaction is represented both by real and complex optical potential.
+@highlight The qualitative features RT minimum and shape resonance structure are demonstrated.
+@highlight The value of the RT minimum has been correlated with the different parameters.
+@highlight Present calculated results are compared with the available data.

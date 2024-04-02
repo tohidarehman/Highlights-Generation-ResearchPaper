@@ -1,0 +1,6 @@
+ We provide necessary and sufficient conditions for the existence of Cournot equilibrium for a class of demand functions when firms are identical and produce under constant returns to scale . We focus on inelastic and convex demand yielding non concave profit functions . We show that equilibrium is unique stable and yields well behaved comparative statics . The model can yield huge welfare losses non downward sloping Laffer curves and tax reforms that are never Pareto improving . In the Appendix we generalize our results on existence and uniqueness to more general inverse demand functions and non identical firms .
+
+@highlight Necessary and sufficient conditions for the existence of Cournot equilibrium when demand is convex.
+@highlight Huge percentage of welfare losses under constant marginal costs and identical firms.
+@highlight Non existence of the Laffer curve.
+@highlight Tax substitution reforms that are never Pareto improving.

@@ -1,0 +1,6 @@
+ This study is designed to examine the thermoluminescence characteristics of potassium fluoride for possible use as a thermoluminescence dosemeter . Thermoluminescence measurements were carried out at doses up to 20Gy and heating rates between 0.2 and 4C s. The glow curve of the fluoride readout at 1Cs
+
+@highlight Potassium fluoride has two main TL peaks.
+@highlight The TL peaks have linear dose response.
+@highlight Four TL peaks were indicated by deconvolution.
+@highlight Thermal quenching affected one of the peaks.

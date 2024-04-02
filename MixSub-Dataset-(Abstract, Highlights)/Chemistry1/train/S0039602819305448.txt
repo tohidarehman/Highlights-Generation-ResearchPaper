@@ -1,0 +1,15 @@
+ Higher alcohols synthesis directly from syngas as environment friendly liquid fuel or fuel additives is regarded as a green route . It is essential for catalyst design to study reaction mechanism of HAS . To obtain carbon chain growth mechanism the reaction network of HAS from syngas on CoCu surface was systematically studied by density functional theory calculation and kinetic Monte Carlo simulation . Firstly the energetics of the key elementary reactions of HAS on CoCu were obtained by DFT calculation . And then the reaction processes of carbon chain growth were simulated with kMC method . Finally the reaction mechanism of carbon chain growth on CoCu was analyzed . The results show that CH is not easy to generate and easy to transform into CH
+
+@highlight The mechanism of higher alcohols synthesis from syngas on CuCo catalyst was studied by DFT calculations and kMC simulation.
+@highlight COCHOCH
+@highlight OCH
+@highlight CH
+@highlight CHO CH
+@highlight CH
+@highlight CHO is the possible pathway of carbon chain growth from C1 to C2.
+@highlight CH
+@highlight coupling to CH
+@highlight CH
+@highlight and CH
+@highlight hydrogenation to CH
+@highlight are possible side reactions.

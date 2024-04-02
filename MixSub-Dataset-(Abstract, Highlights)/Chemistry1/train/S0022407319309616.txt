@@ -1,0 +1,6 @@
+ We present a general technique to select optimal filters for a multispectral midwavelength infrared camera to quantify multiple components of a gas mixture . Filter sets are ranked in terms of the ratio of quantity of interest variance to noise variance which is minimized by the optimal filter set . The suitability of this criterion is demonstrated using a numerical experiment in which we estimate the combustion efficiency of a gas flare from MWIR images of the flare . Synthetic hyperspectral intensity data are generated using the spatially resolved thermochemical state of a simulated flare in crosswind . We then compute multispectral images for commercially available filter sets and estimate the concentration of key species CH
+
+@highlight A technique to select a filter set for a multispectral midwavelength infrared MWIR camera using uncertainty propagation is presented.
+@highlight The optimal filter set is found by minimizing the ratio of the quantity of interest variance to the measurement noise variance.
+@highlight The procedure can be used to select bands of different applications involving quantitative optical gas imaging.
+@highlight The filter sets rank found by the error propagation technique agrees with the results found by more expensive computationally Monte Carlo simulation.

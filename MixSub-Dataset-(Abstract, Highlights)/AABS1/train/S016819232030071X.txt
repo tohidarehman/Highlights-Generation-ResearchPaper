@@ -1,0 +1,6 @@
+ The present study focuses on the leaf unfolding dynamics of deciduous broadleaf forests in Central Europe . MODerate resolution Imaging Spectroradiometer Normalized Difference Vegetation Index was used to quantify green up duration for the wider Carpathian Basin located in Central Europe covering the time period 20002019 . GUD was calculated for 170000 pixels with deciduous broadleaf forest cover at 500 m spatial resolution . The GUD exhibited large interannual and elevation dependent variability where the latter likely indicates the distribution of the different species . The longest mean GUD occurred in 2017 while the shortest was associated with 2018 . The relationship between the start of leaf unfolding and the GUD
+
+@highlight Spring green up duration GUD of broadleaf forests was assessed for Central Europe.
+@highlight There is considerable interannual variability in the GUD.
+@highlight Elevation dependent relationship was found between start of season date and the GUD.
+@highlight Multiple linear regression models were created to estimate the GUD.

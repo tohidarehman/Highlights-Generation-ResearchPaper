@@ -1,0 +1,6 @@
+ The mechanism for modulating the effective Schottky barrier height of NiGe Ge contacts by incorporating impurities is still under debate . There is a view that impurities segregated at the NiGe Ge interface act as donors or passivators that alleviate the Fermi level pinning effect so as to significantly affect the electrical characteristics . Our study however clearly demonstrates that ion implantation damage is the primary factor in causing the lowering of the effective Schottky barrier for NiGe
+
+@highlight Debate about the mechanism to modulate the electrical properties.
+@highlight The influence of impurity segregation on the effective Schottky barrier height.
+@highlight The influence of implantation damage on the effective Schottky barrier height.
+@highlight The influence of interface passivation on the effective Schottky barrier height.

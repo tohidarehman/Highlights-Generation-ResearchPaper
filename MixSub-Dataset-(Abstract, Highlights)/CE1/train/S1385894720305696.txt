@@ -1,0 +1,7 @@
+ The study examines the interaction of process conditions of a mechanochemical process in a planetary ball mill . The investigated Knoevenagel condensation of vanillin and barbituric acid exhibits sigmoidal feedback kinetics under solvent free conditions . The temperature development in the non cooled chamber increases the reaction velocity along the process . In contrast to mere grinding processes that are determined by the stressing intensity the mechanochemical process is thus mainly dependent on the power input which is connected to the heating rate . Consequently significantly different temperatures are obtained by the time of full conversion depending on the process parameters . Finally lowest energy demands are reached at shortest reaction times for the Knoevenagel condensation in a planetary ball mill . However a thermal treatment of educt powders under steady mixing but without particle refinement do not result in a sufficient yield .
+
+@highlight Study on mechanochemical Knoevenagel reaction correlating experiment and simulation.
+@highlight High power identified as optimal due to highest heating rates.
+@highlight Maximum energy efficiency occurs simultaneously with shortest reaction times.
+@highlight Simulations applicable to calculate power and thus optimum setting in advance.
+@highlight Ostensible autocatalytic effect attributed to direct crystallization at dry state.

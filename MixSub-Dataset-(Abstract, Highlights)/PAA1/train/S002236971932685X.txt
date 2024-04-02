@@ -1,0 +1,6 @@
+ First principles method based on density functional theory is applied to calculate the Mg TiN interfacial properties including adhesion work electronic structure and interface energy . The Mg slab with five atomic layers and TiN slab with thirteen layers were used to construct the interfaces after the surface convergence test . And three Mg TiN interfaces with different stacking sequences for both the Ti and N terminated interfaces were studied . The N terminated TL interface is the most stable as it has the largest
+
+@highlight Six Mg 0001 TiN 111 models were studied by using first principles method.
+@highlight The N terminated TL site stacking interface is the most stable interface.
+@highlight The interfacial bonding character of N terminated TL stacking is mainly covalent and ionic.
+@highlight TiN particles can act as an effective heterogeneous nucleation substrate of Mg

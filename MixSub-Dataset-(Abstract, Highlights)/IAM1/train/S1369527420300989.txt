@@ -1,0 +1,5 @@
+ Clonal cell populations often display significant cell to cell phenotypic heterogeneity even when maintained under constant external conditions . This variability can result from the inherently stochastic nature of transcription and translation processes which leads to varying numbers of transcripts and proteins per cell . Here we showcase studies that reveal links between stochastic cellular events and biological functions in isogenic microbial populations . Then we highlight emerging tools from engineering computation and synthetic and molecular biology that enable precise measurement control and analysis of gene expression noise in microorganisms . The capabilities offered by this sophisticated toolbox will shape future directions in the field and generate insight into the behavior of living systems at the single cell level .
+
+@highlight Phenotypic heterogeneity is an inevitable consequence of gene expression.
+@highlight Gene expression noise has functional consequences e.g. survival differentiation .
+@highlight Emerging tools offer the potential to quantify and control noise in single cells.

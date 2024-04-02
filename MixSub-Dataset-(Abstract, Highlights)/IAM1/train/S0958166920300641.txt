@@ -1,0 +1,6 @@
+ Bacteria within an isoclonal population display significant heterogeneity in metabolism even under tightly controlled environmental conditions . Metabolic heterogeneity enables influential functions not possible or measurable at the ensemble scale . Several molecular and cellular mechanisms are likely to give rise to metabolic heterogeneity including molecular noise in metabolic enzyme expression positive feedback loops and asymmetric partitioning of cellular components during cell division . Dissection of the mechanistic origins of metabolic heterogeneity has been enabled by recent developments in single cell analytical tools . Finally we provide a discussion of recent studies examining the importance of metabolic heterogeneity in applied settings such as infectious disease and metabolic engineering .
+
+@highlight Molecular noise feedback and asymmetric partitioning create metabolic heterogeneity.
+@highlight Biosensors mass spectrometry and Raman spectroscopy enable single cell measurement.
+@highlight Minimizing heterogeneity improves ensemble yield in engineered production strains.
+@highlight Metabolic heterogeneity underlies bacterial persistence.

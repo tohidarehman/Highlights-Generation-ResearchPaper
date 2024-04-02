@@ -1,0 +1,6 @@
+ Post translational modifications are considered important molecular interactions in protein science . One of these modifications is sumoylation whose computational detection has recently become a challenge . In this paper we propose a new computational predictor which makes use of the sine and cosine of backbone torsion angles and the accessible surface area for predicting sumoylation sites . The aforementioned features were computed for all the proteins in our benchmark dataset and a training matrix consisting of sumoylation and non sumoylation sites was ultimately created . This training matrix was balanced by undersampling the majority class using the NearMiss method . Finally an AdaBoost classifier was used for discriminating between sumoylation and non sumoylation sites . Our predictor was called C iSumo because of its effective use of circular functions . C iSumo was compared with another predictor which was outperformed in statistical metrics such as sensitivity accuracy and Matthews correlation coefficient .
+
+@highlight New computational predictor for detecting sumoylation sites.
+@highlight Combination of the sine and cosine of torsion angles and the accessible surface area.
+@highlight Remarkable performance improvement by undersampling the majority class.
+@highlight Prediction of sumoylation non sumoylation sites using an AdaBoost algorithm.

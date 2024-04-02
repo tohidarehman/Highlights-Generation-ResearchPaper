@@ -1,0 +1,6 @@
+ The problem of reducing the damage due to seismic loads in engineering structures by means of tuned mass dampers is addressed . Differently from previous studies focused on linear or geometrically nonlinear TMDs the present work is concerned with a device that exhibits a hysteretic restoring force with pinching . A numerical TMD optimization is carried out so as to ensure optimal energy transfer from the main structure to the TMD for various seismic ground motion severities . The effectiveness of the vibration protection strategy is discussed for two different structural systems i.e . a multi story steel building with a purely elastoplastic behavior and a masonry building that exhibits stiffness and strength degradation .
+
+@highlight A novel hysteretic TMD for seismic control of nonlinear structures is examined.
+@highlight A steel frame structure and a masonry building are the considered case studies.
+@highlight The detrimental effect of detuning is directly taken into account. The optimization of the hysteretic TMD is performed via Differential Evolution.
+@highlight The hysteretic TMD works better than a classical linear one and is more robust.

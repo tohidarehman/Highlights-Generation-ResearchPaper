@@ -1,0 +1,7 @@
+ Two dimensional liquid chromatography is increasingly being used to address challenging separations in fields ranging from pharmaceutical analysis to the food industry . A significant impediment to development of more methods is the lack of a complete theoretical foundation upon which sound development decisions can be made . One parameter that is currently not fully understood is the extent of filling of sampling loops in the case where effluent from the first dimension separation is transferred to the second dimension separation through this type of open loop interface . This is a highly important parameter because it is connected to several other variables in a 2D LC system including the first dimension flow rate the sampling time and the loop volume . In this study we have used both numerical simulation methods and experimental measurements to understand the extent to which sampling loops can be filled before a significant fraction of the analyte is lost from the end of the loop . Variables included in the study are the analyte diffusion coefficient D
+
+@highlight Sample breakthrough from modulation loops used for 2D LC was simulated.
+@highlight Universal breakthrough curves were found that only depend on a dimensionless t factor.
+@highlight The maximum loop filling for a given level of analyte loss was determined as a function of t .
+@highlight Very good agreement was found between experimental and simulation results for straight loop capillaries.
+@highlight Coiling of the loop capillary enhances radial mixing suppresses analyte loss.

@@ -1,0 +1,7 @@
+ In arch dams the thermal field has a crucial role on the structural behaviour . Throughout construction the internal rise of temperature due to the heat released by cement hydration often results in significant volumetric deformations . When restrained either internally or externally these deformations may lead to the development of considerable tensile stresses and consequently to the cracking of concrete . For this reason establishment of temperature control measures is frequently deemed as necessary . One of the most relevant procedures is the circulation of water in embedded coils which is also used to complete the cooling of concrete to the desired temperature for grouting the contraction joints .
+
+@highlight A new method is presented to simulate the effect of cooling pipes is concrete dams.
+@highlight Cooling coils are represented by a convective boundary.
+@highlight Each convective boundary is described by the Newton s cooling law.
+@highlight The method predicts well the temperatures in an arch dam monolith.
+@highlight It is 11 times faster than using a discrete representation of the cooling pipes.

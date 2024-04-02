@@ -1,0 +1,6 @@
+ A scalable photoelectrochromic glass which can be darkened on exposure to sunlight and return to its original clear state in the absence of sunlight without any expensive materials like ruthenium dye or transparent conductive oxide was fabricated . The PEC glass is composed of light absorbing layer of ligand attached titanium oxide color changing layer of tungsten oxide and the electrolyte containing redox mediator . This work reports for the first time on an application of salicylic acid attached TiO
+
+@highlight A simple low cost self powered and scalable smart window is reported.
+@highlight Device changes to dark blue when exposed to 1 Sun illumination for 3min and fully bleaches when kept in dark overnight.
+@highlight T of the device at 550 and 700nm is 40.8 and 64.3 respectively.
+@highlight The device was stable and working after 150 cycles without any degradation in performance.

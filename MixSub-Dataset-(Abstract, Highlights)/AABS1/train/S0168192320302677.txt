@@ -1,0 +1,8 @@
+ Montane cloud forests are incredibly biodiverse regions that exist globally at narrow elevation bands and are frequently under the presence of low level clouds and fog . Increasing temperatures and rising cloud base heights threaten these ecosystems and may reduce the duration of time that plants are exposed to fog . Some cloud forest species have adapted to cloud immersion and enhanced photosynthesis rates have been observed under such conditions . This manuscript tests a simple model for simulating stomatal conductance for vegetation under cloud immersion based on Jarvis s empirical formulation . The light available energy function within the model is modified to reflect variability observed in
+
+@highlight All values of stomatal conductance 
+@highlight  are estimated for different sky conditions.
+@highlight Estimated and observed stomatal conductance is highest during cloud immersion.
+@highlight Jarvis model cannot recreate the highest values of
+@highlight observed during fog periods.
+@highlight Transpiration rates during fog and low cloud periods are underestimated by model.

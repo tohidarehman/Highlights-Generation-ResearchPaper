@@ -1,0 +1,6 @@
+ A compound s intratumoural distribution is an important determinant for the effectiveness of molecular therapy or imaging . Antibodies though often used in the design of targeted compounds struggle to achieve a homogenous distribution due to their large size and bivalent binding mechanism . In contrast smaller compounds like nanobodies are expected to distribute more homogenously though this has yet to be demonstrated
+
+@highlight A tracer s intratumoural distribution is a very important parameter for the effectiveness of molecular imaging and therapy.
+@highlight We compared nanobody and antibody constructs with different size and valency using intravital imaging.
+@highlight Monomeric nanobodies were found to distribute homogenously through tumour tissue mere minutes post injection.
+@highlight Larger and more valent compounds did not appear to achieve a similarly homogenous intratumoural distribution.

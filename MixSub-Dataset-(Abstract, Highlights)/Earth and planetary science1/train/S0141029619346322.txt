@@ -1,0 +1,6 @@
+ This paper presents a methodology to develop hurricane induced coastal flood vulnerability functions for residential construction based on empirical tsunami fragility functions . A force equivalency mapping procedure first transforms the tsunami fragility functions into coastal flood fragility functions . Following the quantification of the damage states and the incorporation of repair costs the coastal flood fragility functions translate into coastal flood vulnerability functions . Insurance claims data from the National Flood Insurance Program and vulnerability functions independently derived by the US Army Corps of Engineers are employed to validate single story on grade timber and reinforced masonry structure model outputs . The limitations of the model and future developments are discussed .
+
+@highlight Vulnerability of residential structures to hurricane induced coastal flood is modeled.
+@highlight Empirical tsunami fragility functions are adapted to coastal flood fragility.
+@highlight Cost analysis is employed to project vulnerability in terms of loss ratios.
+@highlight Insurance claims data validates the loss ratio vulnerability outputs.

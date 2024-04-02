@@ -1,0 +1,6 @@
+ An advanced computing approach based on commercial software ABAQUS was developed to calculate the welding residual stress in a multi pass butt welded joint . An equal density instantaneous heat source model and the lumping pass method were used to improve the calculation efficiency . According to the numerical and experimental results the influence of lumping pass patterns and two dimensional model on the calculation accuracy and efficiency of welding residual stress were investigated . The results show that the lumping pass method can greatly shorten the calculation time . Lumping weld passes along the thickness direction has little effect on the calculation accuracy of welding residual stress while lumping weld passes along the width direction will cause a larger error in calculation accuracy . Using the 2D model can save 97 of the calculation time and is more effective than the lumping pass method based on 3D model but it has a certain influence on the calculation accuracy of welding residual stress .
+
+@highlight An instantaneous heat source model was developed.
+@highlight An empirical formula was established to correct the heat input of lumping weld beads.
+@highlight The lumping pass method can significantly improve the calculation efficiency.
+@highlight Lumping passes along thickness direction is recommended for thick plate welded joint.

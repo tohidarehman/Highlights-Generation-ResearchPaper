@@ -1,0 +1,6 @@
+ Increase of water erosion is one of the main problems in watersheds all over the world and directly affects soil and water resources causing economic and environmental losses . We proposed a combination of Genetic Algorithm and Erosion Deposition modelling to allocate vegetation zones in order to reduce soil losses within watersheds . In this study we have used Unit Stream Power Based Erosion Deposition model to predict the spatial distribution of erosion and sediment deposition . Based on USPED estimates Genetic Algorithm optimize site as well size of forest restoration zones in order to reduce soil losses . Proposed approach considered watershed entirely in a cell level optimization to find the best possible arrangement of forest zones . For initial scenario soil loss estimate was 2.045 55 ton . ha
+
+@highlight Genetic algorithms can spatially distribute forest restoration zones to minimize soil losses in watersheds.
+@highlight USPED model was used to predict erosion and deposition rates.
+@highlight Genetic algorithms improved initial scenario up to 52 by recovering 20 of total watershed area.
+@highlight Proposed methodology can be applied to any watershed where USPED model is suitable.

@@ -1,0 +1,6 @@
+ The paper describes a dynamical model of gravity wave induced noctilucent cloud brightness . NLC brightness dependences on gravity wave parameters are presented . Results of the inverse problem solution are addressed as well . It is shown that relative variations of NLC brightness are mainly dependent on the amplitude of a gravity wave its horizontal wavelength and unperturbed thickness of an NLC layer . It is also shown that the model can be used for determining a geometric amplitude of a perturbing wave from a relative brightness distribution and that the uncertainty of the geometric wave amplitude is mainly defined by an uncertainty of the cloud layer thickness .
+
+@highlight Undulation of the top and bottom of a noctilucent cloud layer causes waves in its brightness field.
+@highlight This effect alone may account for main features of observing brightness field.
+@highlight Geometrical undulation amplitude can be estimated from a known brightness amplitude.
+@highlight Estimation uncertainty is determined mainly by an unknown width of a cloud layer.

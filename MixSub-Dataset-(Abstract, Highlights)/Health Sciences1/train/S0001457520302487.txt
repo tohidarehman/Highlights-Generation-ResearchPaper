@@ -1,0 +1,7 @@
+ Human necks are vulnerable in train collision accidents . To design a safer cab workspace the driver neck injury mechanism should be investigated first . In this study this issue is addressed by investigating how neck injuries are influenced by the cab workspace dimensions . The driver console seat dynamic models are developed to quantify the neck injuries . The three pivot head neck upper torso model is used to evaluate the relative rotation angle between head and upper torso
+
+@highlight A three pivot head neck upper torso model is used to evaluate the neck dynamics.
+@highlight Four injury mechanisms are identified by different driver dynamic responses.
+@highlight Injury mechanisms with large head rotation angles cause severe neck injuries.
+@highlight Chest first impact mechanism is more dangerous than knee first impact mechanism.
+@highlight Distance between console edge and knee bolster determines the mechanism type.

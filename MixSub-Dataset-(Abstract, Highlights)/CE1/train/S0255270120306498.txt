@@ -1,0 +1,6 @@
+ According to the characteristics of large number of sets and large size differences in the plain plate fin and tube oil cooler a set of heat exchange units including a baffle is selected as the characteristic structure and the heat transfer and pressure drop characteristics are numerically simulated and experimentally studied . The simulation results are compared with the experimental data to study the effects of changes in shell side flow rate and plate fin spacing on the heat transfer and pressure drop characteristics in the oil cooler . The results indicate that as the shell side flow rate increases both the heat transfer coefficient and pressure drop increase . When the shell side flow rate is 1.6 m
+
+@highlight A set of heat exchange units including a baffle is studied as a characteristic model.
+@highlight The pressure drop can be effectively reduced by the multilayer shell side structure with small pitch.
+@highlight The heat transfer coefficient is affected by the uniformity of shell side flow.
+@highlight The optimal values of shell side flow rate and plate fin spacing are obtained which enhance the heat transfer effect.

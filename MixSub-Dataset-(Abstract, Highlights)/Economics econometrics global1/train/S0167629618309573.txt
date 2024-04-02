@@ -1,0 +1,7 @@
+ The oft applied assumption in the use of Quality Adjusted Life Years in economic evaluation that all QALYs are valued equally has been questioned from the outset . The literature has focused on differential values of a QALY based on equity considerations such as the characteristics of the beneficiaries of the QALYs . However a key characteristic which may affect the value of a QALY is the type of QALY itself . QALY gains can be generated purely by gains in survival purely by improvements in quality of life or by changes in both . Using a discrete choice experiment and a new methodological approach to the derivation of relative weights we undertake the first direct and systematic exploration of the relative weight accorded different QALY types and do so in the presence of equity considerations age and severity . Results provide new evidence against the normative starting point that all QALYs are valued equally .
+
+@highlight We present a new approach to the derivation of relative weights for QALYs from DCEs.
+@highlight We undertake the first exploration of the relative weight for different QALY types.
+@highlight We find the relative weight differs depending on how the QALY is generated.
+@highlight QALY type receives higher weight than severity but less weight than age.
+@highlight We do not find support for an end of life premium except for infants.

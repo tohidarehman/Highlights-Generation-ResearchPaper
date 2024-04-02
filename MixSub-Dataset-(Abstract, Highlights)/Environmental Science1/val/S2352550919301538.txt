@@ -1,0 +1,5 @@
+ Appropriate supplier selection due to its direct impact on profitability and maintaining the competitive status of an organization is one of the vital decisions for each company . Data envelopment analysis is a proper tool for measuring the sustainability of suppliers . Classic DEA models suppose that inputs and outputs are deterministic consequently the relative efficiencies of suppliers are also deterministic . However in real life applications all inputs and outputs are not deterministic . Some could be stochastic and or fuzzy . This study consists of four types of supplier selection models in supply chains and provides a decision making scheme for selecting appropriate model for supplier selection under deterministic stochastic and fuzzy conditions . The proposed stochastic fuzzy DEA model can be solved as crisp program for each
+
+@highlight It develops a new DEA model for performance evaluation of sustainable suppliers.
+@highlight The proposed model can fully rank all suppliers.
+@highlight The proposed model can handle uncertainty.

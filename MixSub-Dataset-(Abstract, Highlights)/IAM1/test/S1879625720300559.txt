@@ -1,0 +1,7 @@
+ Dendritic cells are pivotal stimulators of T cell responses . They provide essential signals to T cells and prime adaptive immunity . Therefore they are paramount to immunization strategies geared to generate T cell immunity . The inflammatory signals DCs respond to classically occur in the context of acute virus infection . Yet enlisting viruses for engaging DCs is hampered by their penchant for targeting DCs with sophisticated immune evasive and suppressive ploys . In this review we discuss our work on devising vectors based on a recombinant polio rhinovirus chimera for effectively targeting and engaging DCs . We are juxtaposing this approach with commonly used recently studied dsDNA virus vector platforms .
+
+@highlight Dendritic cells are central protagonists in viral vector immunization approaches.
+@highlight Many viruses naturally target dendritic cells for immune suppression.
+@highlight Viral vector mediated immune suppression intercepts innate and adaptive immunity.
+@highlight Recombinant poliovirus unfolds peculiar non cytopathogenic relations with dendritic cells.
+@highlight These result in profound dendritic cell engagement for co stimulation of T cell immunity.

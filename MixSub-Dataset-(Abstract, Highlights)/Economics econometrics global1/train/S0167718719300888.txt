@@ -1,0 +1,7 @@
+ We empirically examine the role of shopping costs in consumer shopping behavior in a context of competing differentiated supermarkets that supply similar product lines . We develop and estimate a model of demand in which consumers can purchase multiple products from multiple stores in the same week and incur transaction costs of dealing with supermarkets . We show that a similar model without shopping costs predicts a larger proportion of multistop shoppers and overestimates own price elasticities and product markups . Further we use our model along with a model of competition between supermarkets to study two practices that are commonly used by supermarkets product delisting and loss leader pricing . We show that the presence of shopping costs makes product delisting less profitable whereas it makes loss leader pricing more profitable compared to a context in which consumers do not incur shopping costs .
+
+@highlight We estimate consumer shopping costs to be 104.7 euro cents per store visited on average.
+@highlight The omission of shopping costs yields biased predictions of substitution patterns and firm markups and marginal costs.
+@highlight When a supermarket delists a product it losses customers to rivals and its weekly revenue decreases by 5 .
+@highlight When a supermarket gives an aggresive price discount it rises the price of complements in order to partially offset losses.
+@highlight The rise in prices is up to 10 when shopping costs are present whereas it is up to 2 when shopping costs are absent.

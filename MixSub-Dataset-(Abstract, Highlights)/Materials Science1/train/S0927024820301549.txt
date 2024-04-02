@@ -1,0 +1,6 @@
+ Recent developments have renewed the demand for solar cells with increased tolerance to radiation damage . To investigate the specific irradiation damage of 1MeV electron irradiation in GaInAsP lattice matched to InP for varying In and P contents a simulation based analysis is employed by fitting the quantum efficiency and open circuit voltage simultaneously before and after irradiation the induced changes in lifetime are detected . Furthermore the reduction of irradiation damage during regeneration under typical satellite operating conditions for GEO missions is investigated . A clear decrease of the radiation damage is observed after post irradiation regeneration . This regeneration effect is stronger for increasing InP fraction . It is demonstrated that the irradiation induced defect recombination coefficient for irradiation with 1MeV electrons after regeneration for 216h can be described with a linear function of InP fraction between 110
+
+@highlight Simulation based analysis to extract the material specific irradiation damage.
+@highlight Annealing of GaInAsP not saturated even after 2 weeks.
+@highlight Higher InP fraction improves radiation hardness after annealing.
+@highlight GaInAsP is a promising solar cell material for space applications.

@@ -1,0 +1,6 @@
+ Battery Energy Storage Systems for prosumers in distribution grids can be used to increase self consumption of a PV installation and to stack ancillary services . A variable pricing strategy is used to incentivise prosumers to participate in some ancillary services while other ancillary services are implemented through an economic remuneration or penalty . A model is developed in Python and OpenDSS to determine the optimal economic operation strategy for prosumer scale BESSs while stacking services . The model is tested on the IEEE European low voltage test feeder . It is concluded that stacking ancillary services can benefit the flexibility safety reliability and quality of the grid and increases the economic potential of the BESS .
+
+@highlight A variable pricing strategy allows prosumers with a Battery Energy Storage System BESS to participate in the following ancillary services voltage regulation congestion relief demand response energy arbitrage frequency regulation Frequency Containment Reserve and peak shaving
+@highlight Participating in ancillary services can be done while also increasing the self consumption of the prosumer
+@highlight Participating in ancillary services can increase the economic benefit of prosumers with a BESS
+@highlight BESSs are still too expensive to result in an economically viable situation

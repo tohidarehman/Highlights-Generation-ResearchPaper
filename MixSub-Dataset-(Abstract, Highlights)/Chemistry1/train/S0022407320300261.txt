@@ -1,0 +1,6 @@
+ We discuss an operational scheme for measuring the power extinguished by a single particle in terms of physical energy fluxes . Illumination by an infinite plane wave and a collimated Gaussian beam is considered . For the case of a collimated beam consideration of extinguished power presents an apparent paradox which is resolved in this paper . It is then shown that the extinguished power is measurable as a flow of energy for a narrow collimated incident beam and a small scatterer . In this case the extinguished power is simply removed from the transmitted beam . If we relax the above assumptions definition of the extinguished power in terms of measurable energy fluxes is still possible but becomes more nuanced .
+
+@highlight Extinguished energy can be measured directly as a physical energy flux for collimated incident beams and relatively small scatterers.
+@highlight A paradox related to extinction of narrowly collimated beams is formulated and resolved.
+@highlight In the case of narrow collimated beams and small scatterers the extinguished power is removed from the beam in agreement with the conventional interpretation.
+@highlight In the case of an infinite front incident plane wave or a large scatterer with a sharply forward peaked scattering function the operation definition of extinguished power in terms of energy fluxes is possible but problematic.

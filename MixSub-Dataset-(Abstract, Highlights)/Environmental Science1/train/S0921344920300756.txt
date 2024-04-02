@@ -1,0 +1,11 @@
+ The concept of circularity and its quantification through the Material Circularity Indicator is well established for traditional plastic products . In this paper a methodological approach for calculating the circularity of bio based and biodegradable products is proposed and applied to BB mulch films . BB products are different from traditional products in as much as they are sourced and regenerated not through technical cycles but the biological loop . The suggested method is an adaptation of the MCI where two major changes were made the mass of the bio based component corresponds to the recycled material in input and the mass of the bio based component leaving the system through composting or biodegradation in soil is accounted as recycled . The modified MCI supports the eco design of innovative BB products and allows for the comparison of their circularity taking into account the biological source and the expected end of life process such as biodegradation . To demonstrate the adaptation the method has been applied to BB mulch films . Results showed that the MCI of a biodegradable mulch film characterized by an average bio based feedstock content of 30 is 0.370.04 in a 01 scale . For BB mulch film the amount of bio based feedstock is the most sensitive factor and controls linearly the value of the MCI .
+
+@highlight A modification of the macarthur methodology on product circularity 
+@highlight Material circularity indicator MCI has been developed to make it applicable to bio based and biodegradable BB products.
+@highlight The proposed metric has been applied to a specific case study the bio based and biodegradable mulch film.
+@highlight Results show that a biodegradable mulch film with a 30 of bio based feedstock content is characterized by a MCI of 0.370.04 in a 01 scale.
+@highlight For a BB mulch film the amount of bio based feedstock is the most sensitive factor and controls linearly the value of the MCI.
+@highlight A MCI methodology suitable for Bio based and biodegradable BB products has been developed.
+@highlight The proposed metric has been applied to a specific case study BB mulch film.
+@highlight BB mulch film with a 30 of renewable feedstock is characterized by a MCI of 0.370.04 in a 01 scale.
+@highlight The amount of renewable feedstock is the most sensitive factor of the MCI.

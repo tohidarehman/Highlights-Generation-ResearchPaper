@@ -1,0 +1,6 @@
+ Satellite derived fire severity metrics are a foundational tool used to estimate fire effects at the landscape scale . Changes in surface characteristics permit reasonably accurate delineation between burned and unburned areas but variability in severity within burned areas is much more challenging to detect . Previous studies have relied primarily on categorical data to calibrate severity indices in terms of classification accuracy but this approach does not readily translate into an expected amount of error in terms of actual tree mortality . We addressed this issue by examining a dataset of 40 370 geolocated trees that burned in the 2013 California Rim Fire using 36 Landsat derived burn severity indices .
+
+@highlight Various spectral indices detect different aspects of fire related tree mortality.
+@highlight dNBR was not the best index but it was well suited for general use.
+@highlight Relativized versions of dNBR did not consistently improve performance.
+@highlight Range in observed mortality was as high as 40 around the predicted mean.

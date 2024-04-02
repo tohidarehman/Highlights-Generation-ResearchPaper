@@ -1,0 +1,7 @@
+ A microfluidic detection platform is presented for the rapid and low cost measurement of preservatives in foods . The microfluidic platform consists mainly of an integrated microfluidic reaction chip and a micro spectrometer detection system . The reaction chip further involves a heater and a micromixer zone for sample reagent mixing and reaction and is fabricated on a PMMA substrate using a CO
+
+@highlight A microfluidic detection platform is presented for detection of preservatives in foods.
+@highlight The platform comprises a PMMA microfluidic chip and a micro UV detection system.
+@highlight Sorbic acid concentrations of 15 commercial food samples are measured.
+@highlight The measurement results deviate by no more than 7.5 versus official HPLC method.
+@highlight The concentrations of benzoic acid sulfur dioxide and formaldehyde are also measured.

@@ -1,0 +1,7 @@
+ Semi transparent materials are increasingly applied in various industrial and scientific applications such as non destructive testing of fiber reinforced polymers by active or passive thermography reflecting and transmitting components in high precision infrared optics and novel thermal insulation systems . Because there is a strong coupling between optical and thermal properties of these materials they pose unique challenges for their modeling and experimental characterization . At PTB the facilities for spectral emissivity measurement of opaque materials have been expanded for the characterization of semi transparent materials in the near mid and far infrared region and for temperatures from 20C to 90C by using a new sample holder . The sample holder was modelled realized and thermometrically characterized . For a first validation of the new setup measurements of natural PTFE foil were performed at temperatures from 27C to 52C and in the wavelength range from 4.5m to 20m yielding the spectral directional emittance spectral optical thickness and spectral reflectance simultaneously .
+
+@highlight Emission transmission and reflection are intertwined for semitransparent materials.
+@highlight Low temperature IR emissivity measurement is complicated by large thermal background.
+@highlight Solution development of a new sample holder and evaluation scheme.
+@highlight Thermographic characterization of realized sample holder.
+@highlight Successful validation using PTFE sample and independent measurements.

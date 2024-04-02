@@ -1,0 +1,6 @@
+ Although Machine Learning tools and techniques are widespread and quite popular in some cases the patterns found by a model are either not accessible or not easily understandable from a human perspective . Therefore not only model fitness given a quality metric is important but also understanding how it makes decisions has become critical . One example of an ML approach growing in relevance that still lacks support to interpretation is the Learning to Rank . LtR models are typically used to rank elements and as in most ML areas much effort has been put into creating more accurate models but little or no effort has been devoted to understanding how elements are ranked . In this paper we propose
+
+@highlight A framework to support the analysis of iterative LtR models and the interpretation of the produced results.
+@highlight A visualization to compare two different rankings allowing the ranking evolution analysis based on user feedback.
+@highlight A visual representation that explains a ranking by showing how individual features contribute to the data instances ranking positions.
+@highlight A visualization that supports the interpretation of ranking results considering the complex interplay among data features.

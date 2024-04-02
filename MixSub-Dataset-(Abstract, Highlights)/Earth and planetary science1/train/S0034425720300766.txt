@@ -1,0 +1,7 @@
+ In the last two decades the advance in nighttime light remote sensing has fueled a surge in extensive research towards mapping human footprints . Nevertheless the full potential of NTL data is largely constrained by the blooming effect . In this study we propose a new concept the Pixel Blooming Effect to delineate the mutual influence of lights from a pixel and its neighbors and an integrated framework to eliminate the PiBE in radiance calibrated DMSP OLS datasets DMSP
+
+@highlight A concept was proposed to characterize the blooming effect at pixel level.
+@highlight An integrated framework was developed to model and correct the PiBE.
+@highlight Low ISF pixels ISF 0.2 were sensitive to the impact of PiBE.
+@highlight The proposed method was effective in eliminating the PiBE.
+@highlight The lost data variation was recovered and pseudo lights in non BU were suppressed.

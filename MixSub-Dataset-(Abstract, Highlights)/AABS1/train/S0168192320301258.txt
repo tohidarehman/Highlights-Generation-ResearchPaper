@@ -1,0 +1,7 @@
+ Soil vegetation atmosphere transport models are important for the quantification of water fluxes soil water availability drought stress and their uncertainties under climate change . We present
+
+@highlight Sensitivity analysis of LWF Brook90 revealed a distinct parameter importance ranking
+@highlight Bayesian calibration indicated high water use for a poplar short rotation forest
+@highlight The LWF Brook90 SVAT model excellently captures temporal variations of soil moisture
+@highlight The LWFBrook90R package facilitates complex statistical analysis and parallelization
+@highlight The modelling case study with code examples demonstrates the utility of the R package

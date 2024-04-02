@@ -1,0 +1,6 @@
+ The composition of the Earth s atmosphere is changing . The Atmospheric Chemistry Experiment satellite measures infrared transmission spectra of the atmosphere using the Sun as a light source . ACE provides a global view of atmospheric composition from altitude composition profiles for 44 molecules starting in February 2004 . Altitude latitude abundance distributions and composition trends for more than 16 years are presented and briefly discussed . The ACE trends provide a quantitative state of the atmosphere report .
+
+@highlight Altitude latitude distributions for 44 atmospheric molecules.
+@highlight Sixteen year trends in composition from atmospheric chemistry experiment ACE satellite.
+@highlight Solar occultation measurements with ACE fourier transform spectrometer ACE FTS .
+@highlight Volume mixing ratios VMRs profiles retrieved with ACE FTS.

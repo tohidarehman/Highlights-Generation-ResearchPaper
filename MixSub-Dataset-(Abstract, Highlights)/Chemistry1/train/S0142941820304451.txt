@@ -1,0 +1,6 @@
+ In this work we present the modeling of the peak deceleration using data of the experimental drop test . Specimens with different thicknesses and areas tested in the drop test device which has adaptable height and weight . In the empirical modeling of the PD the thickness area drop mass and drop height considered as separable functions . An analytical model and Neural Network was used as the empirical models . Further the stress on the material was calculated using differential equations and the Finite Element Method . The Obtained PD from the experimental test analytical and NN models was converted to the stress on the material using a derived differential equation . Finally the best model for analyzing the PD and Stress on the material was presented .
+
+@highlight Analyzing polyurethane elastomer mechanical behavior under impact loading.
+@highlight Neural Network usage and precision analysis in empirical modeling of impact test under various physical conditions.
+@highlight Numerical material analysis of viscoelastic materials using different material models in Finite Element Method.
+@highlight Peak deceleration and stress analyzing of viscoelastic materials.

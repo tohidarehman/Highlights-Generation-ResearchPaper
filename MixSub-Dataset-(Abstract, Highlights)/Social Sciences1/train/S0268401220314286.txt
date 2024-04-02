@@ -1,0 +1,6 @@
+ Some networks are explicit where members make direct connections whereas other networks are implicit in which an edge between two nodes is inferred using a similarity index . Choosing the right index to infer connections in an implicit inferred network is important because conclusions can be biased if a network does not represent true relationships . In this study we compared two indexes Phi Correlation Coefficient
+
+@highlight Studied the impact of sample size on an implicit network inferred using Phi Correlation coefficient and Ochiai coefficient.
+@highlight Illustrated using a network of diseases developed using 22.1 Million patient records.
+@highlight Found Ochiai coefficient to be less sensitive to the sample size than Phi Correlation coefficient.
+@highlight The betweenness centrality was most affected by the sample size.

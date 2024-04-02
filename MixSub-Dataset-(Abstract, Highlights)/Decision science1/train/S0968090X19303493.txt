@@ -1,0 +1,6 @@
+ The actions of autonomous vehicle manufacturers and related industrial partners as well as the interest from policy makers and researchers point towards the likely initial deployment of autonomous vehicles as shared autonomous mobility services . Numerous studies are lately being published regarding Shared Autonomous Vehicle applications and hence it is imperative to have a comprehensive outlook consolidating the existing knowledge base . This work comprehensively consolidates studies in the rapidly emerging field of SAV . The primary focus is the comprehensive review of the foreseen impacts which are categorised into seven groups namely Traffic Safety Travel behaviour Economy Transport supply Landuse Environment Governance . Pertinently an SAV typology is presented and the components involved in modelling SAV services are described . Issues relating to the expected demand patterns and a required suitable policy framework are explicitly discussed .
+
+@highlight This work comprehensively consolidates studies in the rapidly emerging field of SAV.
+@highlight Foreseen SAV impacts are categorised into seven groups.
+@highlight An SAV typology is presented and the components involved in modelling SAV services are described.
+@highlight Issues relating to the expected demand patterns and a required suitable policy framework are explicitly discussed.

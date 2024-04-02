@@ -1,0 +1,6 @@
+ Proton exchange hydrogen fuel cells have the potential to produce clean and environmentally friendly energy . However this technique should be adapted to technical challenges such as performance and durability prior to its marketing . These challenges are closely related to water management . In this research a PEM fuel cell simulation model was designed for water management . This model consisted of a voltage evolution model based on electrochemical and dynamics gases . It also comprised a model of water activity to estimate the relative humidity . Meanwhile in identifying the PEMFC hydration state impedance was estimated by the humidity sensor model which was based on neural network technology for diagnosis . This model predicted the changes of behaviour in the step response of load demand and the rate of water which flowed into the fuel cell .
+
+@highlight Fuel cell modeling to predict water content management.
+@highlight Artificial neural networks sensor model is used to predict the PEM fuel cell hydration state.
+@highlight Drying or flooding cases are identified in the PEMFC by increasing or decreasing of the internal resistance and biasing resistance at low and high frequency respectively.
+@highlight Dynamic behavior and the hydration state of the PEMFC model are analyzed.

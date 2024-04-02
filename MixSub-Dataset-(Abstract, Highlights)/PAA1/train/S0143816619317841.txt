@@ -1,0 +1,7 @@
+ Digital Image Correlation is a well known non contact experimental technique . Its most common implementation is the subset based approach which performs a local least squares fitting of a simple displacement model usually an affine transform to identify the displacement components at the center of the small area under investigation .
+
+@highlight Standard Digital Image Correlation performs a least squares fit over small subsets of the image.
+@highlight Subsets near cracks shear bands are affected by multiple displacement fields.
+@highlight Least squares fit is known to be not robust in the presence of multiple statistical populations.
+@highlight Robust statistical approaches allow for identification of the largest statistical population.
+@highlight We propose the use of robust approaches for both displacement and strain estimation.

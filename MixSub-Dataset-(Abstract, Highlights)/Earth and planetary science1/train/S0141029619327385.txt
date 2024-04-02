@@ -1,0 +1,6 @@
+ There has been considerable development of self centering seismic force resisting systems in the past few decades many of which incorporate gap opening mechanisms . Experiments on these self centering systems often result in an initial stiffness that is less than the predicted theoretical stiffness . While the discrepancy has often been attributed to uneven bearing surfaces at the gap opening mechanism the cause of the low stiffness is not well understood and can have critical importance for drift controlled systems such as moment frames .
+
+@highlight Reasons for excessive flexibility in self centering SC systems are identified.
+@highlight Methods for predicting initial stiffness of SC systems are demonstrated.
+@highlight Approaches for enhancing the initial stiffness of SC systems are explored.
+@highlight Developed concepts are applied to a self centering beam to enhance stiffness.

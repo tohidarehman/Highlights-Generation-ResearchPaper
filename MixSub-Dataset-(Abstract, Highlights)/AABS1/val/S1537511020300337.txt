@@ -1,0 +1,6 @@
+ Current harvesting robots have limited performance due to the unstructured and dynamic nature of both the target crops and their environment . Efforts to date focus on improving sensing and robotic systems . This paper presents a parallel approach to design the crop and its environment to best fit the robot similar to robotic integration in industrial robot deployments .
+
+@highlight Systems engineering framework for crop design for robotic harvesting.
+@highlight Methodologies of crop selection modification to influence crop dependent features.
+@highlight Design of best fit crop for robotic harvesting.
+@highlight Case study of crop design selection modification for robotic pepper harvester.

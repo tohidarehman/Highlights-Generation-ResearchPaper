@@ -1,0 +1,7 @@
+ Here we propose double coil setup to allow high signal to noise ratio broad range heteronuclear magnetic resonance imaging experiments two independent coils one of them tuned to
+
+@highlight A coil for broad range heteronuclear ultra high field imaging is proposed
+@highlight The coil properties are studied numerically and experimentally
+@highlight The non proton coil is tuned by changing its structural capacitance and inductance
+@highlight H and X nuclei coils are uncoupled so they can be tuned independently
+@highlight The magnetic field distribution show the coils to allow scanning small animals

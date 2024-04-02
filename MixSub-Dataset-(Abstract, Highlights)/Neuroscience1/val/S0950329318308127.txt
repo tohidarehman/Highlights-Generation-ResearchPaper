@@ -1,0 +1,8 @@
+ When considering sensory discrimination studies multiple d prime values are often obtained from several sensory attributes . In this paper we introduce principal component analysis as a way of gaining information about d prime values across sensory attributes . Specifically we propose estimating d prime values using a Thurstonian mixed model for binary paired comparison data and then using these estimates in a principal component analysis . Binary paired comparisons are a sensitive way to test products with only subtle differences . When analyzing data with a Thurstonian mixed model product specific as well as assessor specific d prime values are obtained . Principal component analysis of these values results in information about products and assessors across multiple sensory attributes illustrated by product and attribute maps . Furthermore the analysis captures individual differences . Thus by using d prime values from a multi attribute 2 AFC study in principal component analysis insights that are typically obtained considering quantitative descriptive analysis are obtained .
+
+@highlight Considering
+@highlight values obtained from sensory discrimination testing.
+@highlight Analyzing
+@highlight values from binary paired comparisons by Principal Component Analysis.
+@highlight Comparing multiple products across several sensory attributes.
+@highlight Gaining information about individuals across multiple sensory attributes.

@@ -1,0 +1,6 @@
+ Forests play a vital role in biological cycles and environmental regulation . To understand the key processes of forest canopies reliable and accurate information on spatial variability of Leaf Area Index and its seasonal dynamics is essential . In the present study we assessed the performance of biophysical parameter retrieval methods
+
+@highlight Physically based non parametric and parametric models evaluated for retrieving LAI of tropical deciduous plantation.
+@highlight PROSAIL LUT inversion MLR GPR models performed better than VIs models.
+@highlight NDVI generated with combination of Sentinel 2 740nm 783nm and 2190nm bands exhibited the maximum sensitivity to LAI.
+@highlight PROSAIL LUT and MLR GPR offered higher accuracy than global LAI products.

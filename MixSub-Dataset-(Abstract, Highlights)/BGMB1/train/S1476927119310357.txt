@@ -1,0 +1,9 @@
+ With the development of cancer research various gene expression datasets containing cancer information show an explosive growth trend . In addition due to the continuous maturity of single cell RNA sequencing technology the protein information and pedigree information of a single cell are also continuously mined . It is a technical problem of how to classify these high dimensional data correctly . In recent years Extreme Learning Machine has been widely used in the field of supervised learning and unsupervised learning . However the traditional ELM does not consider the robustness of the method . To improve the robustness of ELM in this paper a novel ELM method based on
+
+@highlight Based on L
+@highlight  norm a robust Extreme Learning Machine method called L
+@highlight  ELM is proposed.
+@highlight Various benchmark datasets downloaded from the UCI database and some image datasets are used to train and test the model.
+@highlight The proposed L
+@highlight  ELM is applied to the classification of cancer samples and single cell data.
+@highlight The proposed method not only inherits the advantages of original ELM such as easy implementation and fast speed but also shows better generalization performance.

@@ -1,0 +1,7 @@
+ Nuclear reactor lifetimes may be limited by nano scale Cu Mn Ni Si precipitates that form under neutron irradiation of pressure vessel steels resulting in hardening and ductile to brittle transition temperature increases . Physical models of embrittlement must be based on characterization of precipitation as a function of the combination of metallurgical and irradiation variables . Here we focus on rapid and convenient charged particle irradiations to both a compare to precipitates formed in NI and b use CPI to efficiently explore precipitation in steels with a very wide range of compositions . Atom probe tomography comparisons show NI and CPI for similar bulk steel solute contents yield nearly the same precipitate compositions albeit with some differences in their number density size and volume fraction dose dependence . However the overall precipitate evolutions are very similar . Advanced high Ni RPV steels with superior unirradiated properties were also investigated at high CPI dpa . For typical Mn contents MNSPs have Ni
+
+@highlight Nuclear reactor life times are limited by nano precipitates formed under irradiation.
+@highlight Ion irradiations provide a rapid affordable way to gain insight into precipitation.
+@highlight Atom Probe data estimates hardening and embrittlement at lower service dose.
+@highlight Advanced high Ni steels with superior unirradiated properties were investigated.
+@highlight Simple thermodynamic models are able to predict volume fraction for alloys.

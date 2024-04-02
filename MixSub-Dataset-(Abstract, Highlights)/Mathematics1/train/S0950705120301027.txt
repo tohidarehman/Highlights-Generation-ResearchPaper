@@ -1,0 +1,6 @@
+ Pre training is considered to be a triggering point for Deep Neural Networks which gains attraction of the researchers . Though recent research works focus on designing efficient pre training models they often fail to capture the relevant information representations across the layers with minimum turns and to maintain the stability of the learning model . This research article presents a novel unsupervised bin wise pre training model which fuses Information Theory and Hypergraph that acts as an effective optimizer speed up the learning process minimize generalization loss and also as an impelling regularizer maintain the stability of the Deep Neural Network . The proposed model is evaluated using three different benchmark datasets and the experimental results confirm the supremacy of the proposed model over the state of the art approaches in speeding up the learning process and minimizing generalization loss without deteriorating the stability of Deep Neural Network .
+
+@highlight Novel pre training model is proposed to improve generalization rate of convergence.
+@highlight New parameter updation is introduced that performs both optimization regularization
+@highlight K helly property of hypergraph is employed to restraint updation during pre training.
+@highlight Three benchmark datasets are used to evaluate the supremacy of the proposed model.

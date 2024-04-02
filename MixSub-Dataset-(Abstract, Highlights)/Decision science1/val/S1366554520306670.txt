@@ -1,0 +1,6 @@
+ The optimal design problem of the bimodal transit network fed by shared bikes has not been well studied . In light of this this study presents a continuum model to jointly optimize the bimodal transit system and shared bikes simultaneously in a grid network . A series of numerical cases are examined for comparing with the scenario of such system only accessing on foot . The results indicate that the generalized cost saving ranges from 12 to 60 . Meanwhile transit operator costs are decreased due to an optimized service headway and line stop spacing .
+
+@highlight An optimal design problem of bimodal transit network fed by shared bikes is studied.
+@highlight A continuum model is developed to jointly optimize bimodal transit and bikesharing.
+@highlight A route assignment model is applied to handle the issue of multiple route options.
+@highlight The bimodal transit network fed by bikesharing shows merits in saving system cost.

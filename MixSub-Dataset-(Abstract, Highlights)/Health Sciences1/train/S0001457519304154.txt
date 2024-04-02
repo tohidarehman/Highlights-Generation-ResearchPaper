@@ -1,0 +1,6 @@
+ Driving behaviour has a great impact on road safety . A popular way of analysing driving behaviour is to move the focus to the manoeuvres as they give useful information about the driver who is performing them . In this paper we investigate a new way of identifying manoeuvres from vehicle telematics data through motif detection in time series . We implement a modified version of the
+
+@highlight A new way of identifying manoeuvres from vehicle telematics data is proposed.
+@highlight A modified version of the Extended Motif Discovery algorithm was implemented.
+@highlight The algorithm was applied to a telematic dataset and some manoeuvres were extracted.
+@highlight Motif detection seems to be a valid line of research in driving behaviour analysis.

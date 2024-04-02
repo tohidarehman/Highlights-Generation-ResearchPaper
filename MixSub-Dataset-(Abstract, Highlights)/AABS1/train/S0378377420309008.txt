@@ -1,0 +1,6 @@
+ Lezria Grande is an important agricultural area in Portugal prone to waterlogging and salinity problems due to the influence of estuarine tides on groundwater dynamics . Simple non invasive practical approaches are need for monitoring soil salinity in the region and preventing further degradation of soil resources . The objective of this study was to develop regression models for soil salinity assessment in Lezria Grande based on the relationship between multi year crop reflectance data derived from Sentinel 2 multispectral imagery and rootzone salinity . Nine vegetation indices computed from the annual averages of the spectral bands were tested between 2017 and 2019 . The multi year maximum from each pixel was then used for correlating the VI with the ground truth dataset . This dataset was composed of average values of the electrical conductivity of the soil saturation paste extract EC
+
+@highlight Regression models were developed for soil salinity assessment in Lezria Grande Portugal 
+@highlight Multi year maxima of 9 vegetation indices were correlated to rootzone salinity 
+@highlight The CRSI vegetation cover and soil type were the inputs selected by stepwise regression 
+@highlight Remote assessment of soil salinity is a viable option in future soil monitoring programs.

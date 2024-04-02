@@ -1,0 +1,7 @@
+ The spinning mesh disc reactor is a rotating catalytic reactor with a potential to facilitate process intensification . In this study the scale up of a newly designed SMDR has been demonstrated by increasing cloth size and cloth number for tributyrin hydrolysis and nitroaldol condensation reaction . The effect of spinning speed cloth size and cloth number was investigated using design of experiments and the results show an increase in the cloth size or cloth number leads to a higher reaction rate . This is due to an increased catalyst loading with increase in surface area and volume of the cloth stack and reduced film thickness with increasing shear forces and longer residence times improving the overall mass transfer . Addition of multiple cloths of increasing cloth sizes further improved the reaction rates at higher substrate concentration . A maximum reaction rate of 6.9mM min
+
+@highlight Scale up of spinning mesh disc reactor SMDR examined by two routes increasing cloth size and cloth number.
+@highlight The reactor performance was tested for chemo and enzyme catalysed reaction systems.
+@highlight Catalyst loading increased with higher cloth surface area and cloth stack volume.
+@highlight Reaction rate increased by 36 with multiple catalyst cloths of larger cloth size.
+@highlight Reactor optimisation with improved productivity for both catalyst systems.

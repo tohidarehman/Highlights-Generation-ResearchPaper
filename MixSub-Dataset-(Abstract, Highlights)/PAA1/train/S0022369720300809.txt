@@ -1,0 +1,7 @@
+ Electronic structure optical and thermoelectric properties of the HfSSe Janus monolayer have been comprehensively investigated using first principles calculations based on the full potential linearized augmented plane wave method . Results show that the HfSSe Janus monolayer is dynamically stable . Electronic properties features indicate that the two dimensional material at hand is an indirect gap semiconductor with a band gap of 0.756eV calculated by the Wu Cohen scheme within generalized gradient approximation . The spin orbit coupling inclusion in the calculations breaks the degeneracy in both valence and conduction bands and gives a smaller band gap of 0.653eV . Additionally the external strain effect on the electronic structure is also examined . The metallization can be achieved when a compressive strain of 8 is applied . Optical properties results suggest that the studied 2D monolayer may be a promising candidate to be applied in nano optoelectronic devices provided that it displays a wide absorption band from visible to ultraviolet with high absorption coefficient of the order of 10
+
+@highlight HfSSe monolayer is dynamically stable.
+@highlight HfSSe is an indirect gap semiconductor with a band gap of 0.756eV.
+@highlight Spin orbit coupling removes the energy degeneracy and decreases slightly the band gap.
+@highlight HfSSe shows good optical absorption from visible to ultraviolet regime.
+@highlight HfSSe possesses high thermopower and power factor and the hole doping is favorable.

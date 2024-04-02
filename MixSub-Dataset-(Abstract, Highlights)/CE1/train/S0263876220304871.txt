@@ -1,0 +1,5 @@
+ Current non intrusive bubble parameter measurement techniques fail to consider bubble depth when extracting parameters from 2 D images resulting in inaccurate measurements . A bubble depth determination method is therefore proposed here that uses a correlation between depth and image focus to estimate depth using the edge intensity gradient with simultaneous depth calibration . Images of bubbles at various depths in two phase and three phase systems were analysed to correlate bubble depth and blur . To increase the reliability of the methodology across various fluids and conditions an
+
+@highlight A single camera method for depth determination from blur was developed
+@highlight calibration allows the system to be very robust to differing fluids
+@highlight The method allows for better bubble size estimation

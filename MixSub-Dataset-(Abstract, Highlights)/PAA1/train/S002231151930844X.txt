@@ -1,0 +1,14 @@
+ The thermoelectric materials that work in radioisotope thermoelectric generators or space reactor power sources will be exposed to neutron irradiation and gamma irradiation for a long time . Herein the influences of neutron irradiation doses between 10
+
+@highlight Neutron irradiation with dose of 10
+@highlight n cm
+@highlight  10
+@highlight n cm
+@highlight induces defects in SiGe.
+@highlight Electrical conductivity decreases to 0.014 0.14 of the pristine value after 10
+@highlight n cm
+@highlight neutron irradiation.
+@highlight Themoelectric properties can be recovered after heat treatment.
+@highlight Neutron induced damage is worse in n type SiGe than in p type SiGe.
+@highlight 10
+@highlight Gy gamma irradiation has no influence on themoelectric properties of SiGe.

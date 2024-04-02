@@ -1,0 +1,9 @@
+ This work pertains to the stochastic stress based topology optimization of frame structures considering uncertainty . Specifically this paper presents an investigation of the second deviatoric stress invariant
+
+@highlight A stochastic stress based topology optimization formulation is presented.
+@highlight The J
+@highlight invariant is suggested in place of von Mises stress to improve accuracy.
+@highlight Expressions for the expected value of the J
+@highlight invariant and sensitivities are derived.
+@highlight The derived expressions facilitate gradient based optimization.
+@highlight Uncertainty in both the magnitude and direction of the loading are considered.

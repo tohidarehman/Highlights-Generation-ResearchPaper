@@ -1,0 +1,7 @@
+ Scarcity of water temperature data in rivers may limit a diversity of studies considering this property which regulates many physical chemical and biological processes . We present a robust method to generate a consistent continuous daily river water temperature data series for medium and large rivers using the combined techniques of remote sensing and water temperature modelling . In order to validate our approach we divided this study into two parts
+
+@highlight Scarcity of temperature data constrains the use of most river temperature models.
+@highlight The use of remote sensing in retrieving river temperatures is still underexplored.
+@highlight Assessment of the accuracy of temperature retrievals using Landsat 7 ETM and 8 TIRS
+@highlight Calibration of river temperature models using only Landsat derived temperature data
+@highlight Generation of consistent continuous long term daily river temperature data series

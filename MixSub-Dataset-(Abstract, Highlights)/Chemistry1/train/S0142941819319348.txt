@@ -1,0 +1,7 @@
+ The interfacial tension of biodegradable melt mixed blends of poly PBAT and poly was measured by breaking thread imbedded fiber retraction and rheological methods . The PBAT rich blends were prepared under different melt mixing conditions in order to investigate the effect of mixing conditions and possibility of reactive mixing between the blend components on the blend morphology rheology mechanical properties and interfacial tension values . The conditions were varied based on a Taguchi design of experiment using four factors namely EVOH content mixing time rotor speed and mixing temperature each varying at three levels . The average size of EVOH droplets in PBAT matrix was determined for each blend by a field emission scanning electron microscopy technique . The values of interfacial tension of PBAT EVOH were found to be 2.570.22 and 2.730.30mNm
+
+@highlight Measured the interfacial tension of PBAT EVOH blend by BT 2.570.22mN.m 1 and IFR 2.730.30mN.m 1 methods.
+@highlight Employed the SAOS rheological data using various models to validate the obtained interfacial tension values.
+@highlight Calculated the continuous relaxation spectrum and the relaxation time of droplets using the SAOS data.
+@highlight Established a correlation between the measured interfacial tension and mechanical rheological and morphology of the blends.
+@highlight Ruled out the possibility of reactive mixing between PBAT and EVOH under the applied mixing conditions.

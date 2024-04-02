@@ -1,0 +1,6 @@
+ We introduce a two echelon urban delivery problem with second level unmanned vehicles . This problem typically applies for delivering parcels or other small commodities to pedestrianized areas such as campuses or residential clusters . To model the proposed vehicle routing problem we introduce a mixed integer program . We further propose construction heuristics and a hybrid metaheuristic approach with backtracking for solving larger instances . A sensitivity analysis for vehicle speed combinations reveals that increasing small autonomous vehicle speeds has only very limited effects on cost . We therefore recommend to keep SAV speeds rather low because of a more pedestrian friendly environment in practical implementations .
+
+@highlight We study a two echelon autonomous urban delivery problem with time window.
+@highlight Formulate the problem as a MILP and provide an effective hybrid metaheuristic approach with backtracking.
+@highlight Implement a sensitivity analysis for vehicle speed combinations.
+@highlight We recommend to keep SAV speeds rather low for a more pedestrian friendly environment in practical implementations.

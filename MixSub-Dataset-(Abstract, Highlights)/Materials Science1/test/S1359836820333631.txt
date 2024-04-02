@@ -1,0 +1,7 @@
+ This paper presents an analytical study on the electrical conductivity of composites whose constituted materials have distinct electrical properties . The present study investigates the effect of the aspect ratio of inclusions on the effective electrical conductivity of composites . Formulations are derived for determining the percolation threshold and calculating the electrical conductivity of composites with considering aspect ratio effect . The validation of the present model is also provided by using available experimental data . The present analytical model can be applied to predict the electrical behaviour of carbon nanotube fibre reinforced polymer composites .
+
+@highlight A theoretical model of electrical conductivity of CNTs polymer composites is presented.
+@highlight Effect of aspect ratio of CNTs on percolation threshold of composites is examined.
+@highlight Theoretical formula is derived for determining the percolation threshold of composites.
+@highlight Theoretical formula is derived for calculating the electrical conductivity of composites.
+@highlight The model is validated using experimental data for CNTs EOC and CNTs epoxy composites.

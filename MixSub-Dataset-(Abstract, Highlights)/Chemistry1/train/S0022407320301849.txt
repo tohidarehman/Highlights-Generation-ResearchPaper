@@ -1,0 +1,5 @@
+ Computer simulations employed in Stark broadening calculations are reexamined within the perspective of giving error bars to results . As a rule the calculated spectra exhibit a noisy structure which is inherent to the random number generators involved in the numerical method . Using a variance estimator we quantify the statistical noise on simulated line shapes . Two expressions for the radiated power spectrum which are analytically equivalent but lead to different noise levels are considered . A discussion of this difference is carried out based on an analytical model .
+
+@highlight Computer simulations employed in Stark broadening calculations are reexamined within the perspective of giving error bars to results.
+@highlight A variance estimator is applied to the quantification of the statistical noise present on simulated line shapes.
+@highlight Two expressions for the radiated power spectrum which are analytically equivalent but lead to different noise levels are examined in detail.

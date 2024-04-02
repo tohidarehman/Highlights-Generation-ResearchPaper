@@ -1,0 +1,7 @@
+ The breakage or fragmentation kinetic function of a given father size floc breaking to form two specific daughter size flocs can not be measured experimentally . Indirectly it can be determined from the FKF model used to solve the dimensionless log form population balance equation for floc fragmentation subjected to meeting three conditions i the computed and experimental particle size distribution function matched at all fragmentation time ii the PSDF data at zero fragmentation time was the input in the computation and iii the duration of the experimental fragmentation be used in making the PB equation dimensionless . The fragmentation of compact polyelectrolyte bridged silica flocs in a narrow gap concentric cylinder flow cell was investigated in the laminar Taylor vortex flow regime . The FKF data was correlated with the Taylor number . The FKF values were much smaller for large flocs as they tend to migrate to the low shear region . Cryo SEM images of the flocs at different fragmentation times showed compact fractal structure with dimension larger than 2 .
+
+@highlight Process floc breakage kinetic function FKF cannot be determined experimentally.
+@highlight A method of determining this process FKF in Taylor flow demonstrated.
+@highlight Relationship between FKF and Taylor number presented.
+@highlight FKF value generally increases with decreasing floc size.
+@highlight Large flocs spend more time in the lower shear region.

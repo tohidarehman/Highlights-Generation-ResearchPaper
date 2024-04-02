@@ -1,0 +1,6 @@
+ Lung cancer is one of the major causes of cancer related deaths worldwide . Stimuli responsive polymers and nanoparticles which respond to exogenous or endogenous stimuli in the tumor microenvironment have been widely investigated for spatiotemporal chemotherapeutic drug release applications for cancer chemotherapy . We developed glutathione responsive polyurethane nanoparticles using a GSH cleavable disulfide bond containing polyurethane that responds to elevated levels of GSH within lung cancer cells . The polyurethane nanoparticles were fabricated using a single emulsion and mixed organic solvent method . Cisplatin loaded GSH sensitive nanoparticles displayed a GSH dose dependent release of cisplatin . In addition a significant reduction in
+
+@highlight Glutathione is abundantly available in lung cancer microenvironment.
+@highlight Biodegradable polyurethane nanoparticles were fabricated via a single emulsion with a mixed organic solvent.
+@highlight GSH sensitive degradable polyurethane nanoparticles GPUs released encapsulated cisplatin in response to elevated glutathione levels.
+@highlight Cisplatin loaded GPUs significantly reduced tumor growth in a subcutaneous A549 lung tumor mouse model compared to the free cisplatin.

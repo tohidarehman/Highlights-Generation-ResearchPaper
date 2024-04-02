@@ -1,0 +1,5 @@
+ In this paper we study a shore power deployment problem in a container shipping network . The aim of the problem is to develop a subsidy program for a government that achieves the utmost reduction of at berth emissions from ships in the network . We formulate the problem as a mathematical model that captures the involved relationships among the government container ports and shipping lines . The model is hard to solve because it involves a multi phase process that does not have a closed form solution . To solve the problem we develop a tailored labeling algorithm . Extensive numerical experiments are conducted and the results demonstrate the applicability and efficiency of the solution method for solving practical instances . The results also demonstrate that the solutions delivered by our algorithm to the problem can significantly reduce the at berth emissions from ships in the shipping network .
+
+@highlight Propose a novel shore power deployment problem for government.
+@highlight Prove the problem is NP hard.
+@highlight Propose a labeling algorithm that solves the problem to optimality.

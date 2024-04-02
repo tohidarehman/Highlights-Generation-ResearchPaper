@@ -1,0 +1,7 @@
+ The objective of this study was to assess how uterine disorders alter the lying behaviour and plasma biomarkers in dairy cows . 34 multiparous cows were retrospectively classified into three groups according to the first uterine disorder that cows were diagnosed with retained placenta metritis or healthy . Lying time and duration of lying bouts were monitored between 6 weeks prior to and 8 weeks after calving via the AfiAct II pedometer . Blood samples were collected routinely between 14 days before and 28 days after calving . Data was analysed using Proc MIXED of SAS ver . 9.4 .
+
+@highlight Lying behavior in healthy cows and those diagnosed with uterine diseases was compared.
+@highlight Cows with retained placenta had longer lying times in the 3 weeks before calving.
+@highlight Cows with metritis but without retained placenta did not change lying behavior.
+@highlight Cows with retained placenta had increased markers of fat mobilization and inflammation.
+@highlight Automatic measurement of behavior confirmed its potential as a disease predictor.

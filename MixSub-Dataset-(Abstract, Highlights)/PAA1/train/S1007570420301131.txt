@@ -1,0 +1,6 @@
+ In this paper we propose a new two stage methodology which is a hybrid model based on ensemble empirical mode decomposition to predict the complex financial time series . The hybrid model comprises Multidimensional
+
+@highlight Using weighted Euclidean distance to match patterns have higher accuracy than Euclidean distance.
+@highlight MKNN method is effective for predicting high frequency IMFs.
+@highlight ARMA model is effective for predicting low frequency IMFs.
+@highlight In the prediction of the residual wave quadratic regression model is simple and effective.

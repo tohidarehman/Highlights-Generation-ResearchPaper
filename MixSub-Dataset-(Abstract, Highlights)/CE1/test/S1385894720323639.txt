@@ -1,0 +1,6 @@
+ Solid oxide fuel cells are important electric generators due to their high energy efficiencies and fuel flexibilities . However the high operation temperature results in high system cost complexity and poor long term durability . Recently decreasing the operating temperature of SOFCs to the low temperature range has attracted intensive attention especially for the direct utilization of hydrocarbons as fuels . This review summarizes the latest progress in hydrocarbon fueled SOFCs working at650C mainly focusing on the challenges and strategies associated with electrolytes anodes and cathodes . It highlights the requirement for highly active and carbon sulfur resistant anode and high ionic conductive electrolytes to gain a superior performance at a lower temperature .
+
+@highlight A comprehensive review of LT SOFCs with hydrocarbons has been provided.
+@highlight Electrolytes anodes and cathodes for LT SOFCs were summarized.
+@highlight Modification strategies for these components were highlighted.
+@highlight The challenges and future directions of LT SOFCs with hydrocarbons were outlined.

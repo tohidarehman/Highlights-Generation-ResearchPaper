@@ -1,0 +1,5 @@
+ We present a neural network based method to integrate wave front shapes from its slopes . Tests were done in order to verify and compare its performance with other state of the art finite difference least squares methods proving that better precision can be achieved having representative data to train our model even when there exist noise in the data . Also a simple simulation of the
+
+@highlight A new Wavefront reconstruction method based in deep learning.
+@highlight High accuracy is achieved in presence of enough representative data.
+@highlight Scalable and highly parallelizable to achieve high speed even for higher resolutions.

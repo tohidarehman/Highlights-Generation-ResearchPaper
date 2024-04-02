@@ -1,0 +1,7 @@
+ This paper addresses an integrated relief network design problem for pharmaceutical items . The proposed bi objective model accounts for perishability of pharmaceutical items mobility of relief facilities and benefits from a cooperative coverage mechanism in designing the network . A minmax robust model is developed to tackle the demand uncertainty . Several numerical experiments are conducted to explore the performance of the robust model . Also by conducting a real case study useful managerial insights are derived through performing several sensitivity analyses . The numerical results reveal that using the minmax robust model enhances the pharmaceutical relief networks effectiveness and efficiency considerably .
+
+@highlight Designing a pharmaceutical relief network under demand uncertainty and drugs perishability.
+@highlight Providing a framework agreement with suppliers using an option contract.
+@highlight Using a cooperative coverage mechanism for moving mobile pharmacies at post disaster.
+@highlight Developing a tailored minmax robust approach to deal with the demand uncertainty.
+@highlight Investigating a real case study and proposing several managerial insights.

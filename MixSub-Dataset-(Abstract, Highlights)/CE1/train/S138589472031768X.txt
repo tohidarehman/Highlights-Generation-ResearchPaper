@@ -1,0 +1,6 @@
+ By changing the electrical bias imposed on a Ni catalyst attached to an external circuit the selectivity of catalytic formic acid decomposition is shown to changefavoring CO
+
+@highlight Electric field enhanced catalytic decomposition of gas phase formic acid.
+@highlight Reaction used to estimate applied field strength at catalyst active site.
+@highlight COMSOL model used to predict field structure across Ni foam catalyst.
+@highlight Applied field is visualized by electron microscopy differential image brightness.

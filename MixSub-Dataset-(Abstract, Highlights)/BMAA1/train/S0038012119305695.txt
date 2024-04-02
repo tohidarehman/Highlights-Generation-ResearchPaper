@@ -1,0 +1,6 @@
+ We investigate the role of private and public resources in educational attainments and the socio institutional determinants of educational resource efficiency in Italy . Following the Sen s capability approach we consider social capital and the quality of government part of the social conversion factors through which resources can be converted into human capabilities such as education . We analyze the case of Italy by constructing a new longitudinal dataset from 1993 to 2012 using repeated cross sections from the main social survey of the Italian Statistical Institute and a panel stochastic frontier model that takes into account endogeneity . The results show the relative importance of private resources measured by an
+
+@highlight We apply an efficiency analysis on education in Italy by considering socio institutional factors.
+@highlight We use an endogenous panel stochastic frontier model.
+@highlight We find a positive impact of social capital and the quality of government on educational resource efficiency.
+@highlight We find the complementarity between private wealth and public expenditures on education attainment.

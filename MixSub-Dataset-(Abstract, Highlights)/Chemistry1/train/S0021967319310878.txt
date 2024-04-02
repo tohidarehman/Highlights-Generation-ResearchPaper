@@ -1,0 +1,12 @@
+ In spatial multi dimensional liquid chromatography devices the flow of each dimension has to remain in the corresponding region otherwise the separation efficiency is undermined . Adequate flow confinement measures are necessary . Here the use of permeability differences across different compartments of spatial two dimensional and three dimensional LC devices as a method to guide fluid flow and reduce analyte loss during the first second and third dimension development was investigated with computational fluid dynamics simulations . In case of 2DLC devices it was shown that porous barriers with a permeability on the order of 10
+
+@highlight Flow control and confinement are necessary in spatial 2D and 3DLC.
+@highlight In 2D
+@highlight LC devices total spillage under 1 achieved with porous barriers.
+@highlight 3D
+@highlight LC devices with a highly permeable monolith in the
+@highlight D and 1m particles in
+@highlight D.
+@highlight A novel 3D
+@highlight LC flow distributor is proposed.
+@highlight Design exploration through computational fluid dynamics is utilized.

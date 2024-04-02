@@ -1,0 +1,7 @@
+ A methodology for gradual process intensification is applied to a conventional flowsheet for the production of the green solvent ethyl lactate from ethyl alcohol and lactic acid . The approach takes the base design and integrates two pieces of equipment into one at each step of the intensification task . The concepts of phenomena building blocks and simultaneous phenomena building blocks are used to track the intensification steps and each intensified structure is rated through economic environmental sustainability and inherent safety metrics . The process involves the separation of an ethanol water azeotropic mixture for which an extractive distillation system is used . Two entrainers were considered for the extractive distillation process one based on a mixture of ethylene glycol glycerol and the other one on acetol . The results of intensifying an original flowsheet with a reaction unit and 4 separating units into two pieces of equipment showed that significant economic savings and improvements in the sustainability and inherent metrics can be obtained .
+
+@highlight A methodology for process intensification is presented.
+@highlight The methodology takes a base flowsheet to gradually intensify the process.
+@highlight The target is to generate a structure with a minimum number of equipment units.
+@highlight Application to a process for the production of ethyl lactate is presented.
+@highlight The intensified process provides improvements in major performance metrics.

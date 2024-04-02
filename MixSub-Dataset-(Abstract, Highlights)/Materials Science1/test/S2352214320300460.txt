@@ -1,0 +1,7 @@
+ Band structure calculation of electronic elastic thermal and electronic properties of 3d Transition metal carbides TMC have been carried out using full potential linearized augmented plane wave within the framework of density functional theory using generalized gradient approximation method . The equilibrium lattice constants of 3d TMC have been obtained by volume optimization . Electronic properties of the compounds such as band structure and density of states have been plotted . The elastic constants such as Young
+
+@highlight Full potential linearized augmented plane wave method.
+@highlight Electronic properties.
+@highlight Elastic properties.
+@highlight Thermal properties.
+@highlight Binary carbides.

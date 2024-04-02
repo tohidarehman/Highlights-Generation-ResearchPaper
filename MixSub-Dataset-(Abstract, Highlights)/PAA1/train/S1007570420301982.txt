@@ -1,0 +1,5 @@
+ A time fractional Allen Cahn equation with volume constraint is first proposed by introducing a nonlocal time dependent Lagrange multiplier . Adaptive linear second order energy stable schemes are developed for the proposed model by combining invariant energy quadratization and scalar auxiliary variable approaches with the recent L1
+
+@highlight A volume preserving time fractional Allen Cahn model is developed.
+@highlight Adaptive linear second order energy stable schemes are developed.
+@highlight The proposed adaptive time stepping algorithms are appropriate for accurately resolv ing the initial singularity of solution and for efficiently capturing the fast dynamics away initial time.

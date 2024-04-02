@@ -1,0 +1,5 @@
+ In the present work a very sensitive and fully automated direct immersion PAL SPME Arrow procedure coupled with GCMS has been developed and validated for determination of nine phosphorus flame retardants in different types of water samples . PDMS DVB was selected among three commercially available SPME Arrows since it resulted in the best sensitivity . The important experimental parameters were optimized via a central composite design response surface methodology and as result extraction time of 65min extraction temperature of 80 C and added salt concentration of 19 were selected as the optimum values . The optimized method showed linear response over the calibration range 2 500ng
+
+@highlight SPME Arrow GCMS showed to be a powerful method for analysis of PFRs in water.
+@highlight Central composite design was successful in optimizing the squared and interaction factors.
+@highlight PFRs were detected in rain and river water samples.

@@ -1,0 +1,7 @@
+ This study addresses a vehicle routing problem in which demands are discrete split delivery is allowed service time is proportional to the units of delivered products multiple time windows are provided and the demand of each customer must be delivered in only one time window . We formulate this problem into a three index vehicle flow model and a set covering model . Then we propose a branch and price and cut algorithm to solve the problem . We compare our branch and price and cut algorithm with CPLEX based on 252 randomly generated instances and the computational results demonstrate the effectiveness of our algorithm .
+
+@highlight Studied an extension of the VRP with split delivery and time windows.
+@highlight Considered proportional service time multiple time windows and synchronization.
+@highlight Developed a branch and price and cut algorithm to optimal solve the problem.
+@highlight Proposed a novel branching strategy to guarantee the requirement of synchronization.
+@highlight Shown the effectiveness of our algorithm based on 252 randomly generated instances.

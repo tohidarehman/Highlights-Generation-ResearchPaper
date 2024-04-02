@@ -1,0 +1,9 @@
+ The most common scale up methods for predicting the product distribution of competitive chemical reactions aim for partial similarity by keeping the dominant mixing mechanism constant . Instead methods aiming for complete similarity have been neglected as they were assumed to allow scale up for uneconomical process parameters only .
+
+@highlight CSA as novel scale up method for competitive chemical model reactions is presented.
+@highlight CSA is based on complete similarity of all chemical and mixing time scales.
+@highlight CSA enables better reliable and applicable scale up and more concise result plots.
+@highlight Successful validation of CSA by Villermaux Dushman experiments in static mixers.
+@highlight Impact of
+@highlight on product distribution must be evaluated at a constant
+@highlight number.

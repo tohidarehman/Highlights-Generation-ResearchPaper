@@ -1,0 +1,6 @@
+ Using laboratory experiments we compare the stability of bidding rings in the first price sealed bid auction and the English auction in a heterogeneous value setting . In both a re matching condition and a fixed matching condition we observe that bidding rings are more stable in the English auction than in the first price sealed bid auction . In both conditions the first price sealed bid auction dominates the English auction in terms of average revenue and the revenue spread . The English auction outperforms the first price sealed bid auction in terms of efficiency .
+
+@highlight We experimentally study the cartel stability of bidding rings.
+@highlight Bidding rings are more stable in the English auction than in the firstprice sealedbid auction.
+@highlight The firstprice sealedbid auction outperforms the English auction in terms of average revenue and the revenue spread.
+@highlight The English auction outperforms the firstprice sealedbid auction in terms of efficiency.

@@ -1,0 +1,7 @@
+ Shrinkage voids have a large influence on the quality of plastic gears and it is still a problem to detect the voids inside gears accurately and conveniently . This paper presents a novel method for detecting shrinkage voids via magnetic levitation . The porosity levels of plastic gears can be calculated using magnetic levitation because the density of plastic gears is influenced by the shrinkage voids . The distribution of shrinkage voids is quantified by the moment of volume hence a theoretical model for the distributions of shrinkage voids and levitating posture can be established . Computer tomography detections were also carried out to verify the accuracy of magnetic levitation for detecting the shrinkage voids . Experimental results show that the average relative error of calculated porosity level is less than 7 and the theoretical model for distribution of shrinkage voids agrees well with the results from CT detections with the correlation coefficient being up to 99.8 . The proposed method has great potential for mass detection of plastic gears .
+
+@highlight Propose a magnetic levitation device for detecting shrinkage voids.
+@highlight Establish the theoretical model for analysing shrinkage voids of plastic gears.
+@highlight Verify the accuracy of magnetic levitation with CT detections.
+@highlight Calculate the porosity levels with the average error less than 7 .
+@highlight Analyze the distributions of shrinkage voids with a correlation coefficient of 99.8 .

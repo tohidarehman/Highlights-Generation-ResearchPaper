@@ -1,0 +1,7 @@
+ This paper proposes a new model to study travelers target oriented route choice behavior with perception errors on the tolled traffic network . The prominent characteristics of our model are stochastic correlation between perceived travel time and perceived travel cost captured by copula and target interaction . Furthermore we propose a target oriented bi attribute user equilibrium with PTT and PTC and targets for route travel time and route travel cost in the equilibrium model are both endogenously determined by travelers confidence levels . Finally we examine the impact of targets on the equilibrium results via analytical proof and numerical demonstration .
+
+@highlight A targeted oriented bi attribute user equilibrium with travelers perception errors is proposed.
+@highlight A copula based framework is proposed to model travelers perception errors.
+@highlight Stochastic correlation between perceived travel time and perceived travel cost is captured.
+@highlight The impact of targets on the equilibrium solution is proved analytically.
+@highlight New insights into travelers route choice behavior with perception errors are provided.

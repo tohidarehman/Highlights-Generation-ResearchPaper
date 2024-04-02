@@ -1,0 +1,5 @@
+ Electrical asymmetrical flow field flow fractionation is an interesting new analytical technique that separates proteins based on size or molecular weight and simultaneously determines the electrical characteristics of each population . However until now the research using EAF4 has not been published except for the proof of concept in the original publication by Johann et . al . in 2015
+
+@highlight Additional focusing step including the electric field gives a more rapid pH stabilization during EAF4 separation.
+@highlight Crucial to use appropriate buffers as carrier liquids to avoid large pH changes during EAF4 separation.
+@highlight EAF4 can examine the zeta potential of individual proteins in mixtures or monomer and oligomers not accessible by other techniques.

@@ -1,0 +1,5 @@
+ As one of the new generations of alternative refrigerants in the future hydrofluoroolefins and mixed refrigerants containing HFOs have gradually attracted attention . In this study the vapour liquid equilibrium for the binary system of isobutane 3 3 3 trifluoropropene was measured with a recirculation method at five temperatures of K. The uncertainties of the temperatures pressures and compositions are estimated to be less than 5mK 800Pa 0.005 respectively . The Peng Robinson equations of state with the Huron Vidal mixing rule involving the non random two liquid activity coefficient model were employed to correlate all the experimental data which had good fitting results . The maximum average absolute relative deviation of pressure AARD
+
+@highlight The vapor liquid equilibrium VLE data for R600a R1243zf were measured.
+@highlight VLE data were correlated by Peng Robinson equation with Huron Vidal mixing rule.
+@highlight Azeotropic behaviours were found at a high mole fraction of R1243zf.

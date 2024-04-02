@@ -1,0 +1,6 @@
+ In this paper we investigate the applicability of the permutation entropy and the conditional entropy of ordinal patterns to Electrocardiogram data analysis . We define a signal dependent threshold based on the PE and the CEOP for the detection of abnormal ECG beats . Parameters of the proposed threshold formula are calibrated using the MIT BIH Arrhythmia and the European Society of Cardiology ST T databases . The experimental results show that the difference between CEOP and PE is marginal and that the algorithm is less sensitive to the parameter setting . We achieved a classification rate of 93.62 in the case of the MIT BIH database and 99.57 in the case of the ESC database . Although these algorithms still need to be improved the above results for the ESC database confirm that ordinal pattern based entropies are promising for ECG beat classification .
+
+@highlight ECG beats classification into normal and abnormal.
+@highlight Definition of a fluctuation function for improving the usefulness of PE and CEOP.
+@highlight No need for the algorithm training.
+@highlight Adaptive evaluation of the threshold for binary beat classification.

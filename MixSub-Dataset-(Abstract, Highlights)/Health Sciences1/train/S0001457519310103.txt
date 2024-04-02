@@ -1,0 +1,6 @@
+ The use of traffic simulation to analyze complex transportation issues has become common practice in transportation engineering . The further application of microsimulation to the analysis of traffic safety in a systematic rigorous and controlled fashion is becoming increasingly viable as simulation models improve and tools for quantifying surrogate safety measures become readily accessible . Using a calibrated traffic microsimulation model and surrogate safety assessment model analysis this paper examined how the risk for left turn crashes varied as traffic conditions changed at a signalized intersection .
+
+@highlight Developed an analytical tool for time of day use of permissive left turn phasing.
+@highlight Motivated by recent widespread application of the flashing yellow arrow indication.
+@highlight Used VISSIM and SSAM to study left turn crash risk as traffic conditions changed.
+@highlight Demonstrated application via time of day crash risk profiles and nomograms.

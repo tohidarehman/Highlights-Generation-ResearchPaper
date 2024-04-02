@@ -1,0 +1,8 @@
+ Incorporating undesirable outputs in the operational assessments through the integration of Life Cycle Assessment and Data Envelopment Analysis has received great attention recently . There are many studies throughout literature that apply various methods to integrate LCA and DEA . In this case study the six most common approaches were employed to assess the winter wheat cropping system in Poland . These six methods were a ignoring undesirable outputs b treating undesirables as inputs to the DEA model c data transformation d impact rate e ratio model and f slack based measurement DEA with undesirable outputs . The environmental impact of wheat production was assessed by determining its carbon footprint . The mean CF equalled 0.45kg CO
+
+@highlight The aim was integration of Life Cycle Assessment and Data Envelopment Analysis.
+@highlight six approaches were tested for efficiency assessment of winter wheat cropping system.
+@highlight The most appropriate method was a slack based measurement DEA.
+@highlight The mean carbon footprint was 0.45kg CO
+@highlight per kg of wheat grain.
+@highlight High reduction potential for mineral fertilizers seed and fuel was reported.

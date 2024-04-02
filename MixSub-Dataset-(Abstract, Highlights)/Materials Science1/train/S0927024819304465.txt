@@ -1,0 +1,7 @@
+ Raising urban albedo increases the fraction of incident sunlight returned to outer space cooling cities and their buildings . We evaluated the angular distribution of solar radiation incident on exterior walls in 17 US . climates to develop performance parameters for solar retroreflective walls then applied first principle physics and ray tracing simulations to explore designs . Our analysis indicates that retroreflective walls must function at large incidence angles to reflect a substantial portion of summer sunlight and that this will be difficult to attain with materials that rely on total internal reflection .
+
+@highlight Wall retroreflectors could cool buildings and reflect sunlight out of the city.
+@highlight Technologies relying on total internal reflection may be not suited for walls.
+@highlight Materials can be screened with a simple laser and paper goniometer.
+@highlight Two surface retroreflectors incorporating orthogonal mirrors show promise.
+@highlight We formed orthogonal folds in aluminized Mylar sheeting.

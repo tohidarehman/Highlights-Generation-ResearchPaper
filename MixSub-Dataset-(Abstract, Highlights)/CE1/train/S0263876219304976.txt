@@ -1,0 +1,5 @@
+ In this work a zone economic model predictive controller is proposed for the operation of a boiler turbine generating system . The control objective is to optimize the operating economics while satisfying the power generation demand from the grid . First the considered boiler turbine system is introduced and the economic performance indices are formulated . Then a moving horizon estimator is designed to provide state estimates for the controller in virtue of its ability in dealing with nonlinearities and constraints . Subsequently an economic model predictive control design integrated with a zone tracking objective is proposed for the boiler turbine generating system . Extensive simulations under different scenarios illustrate the effectiveness of the proposed EMPC design compared with the conventional set point tracking model predictive control .
+
+@highlight An optimal control scheme with zone tracking for coal fired boiler turbine systems.
+@highlight A detailed economics oriented control problem formulation and implementation.
+@highlight Extensive simulations comparing the proposed design and conventional control.

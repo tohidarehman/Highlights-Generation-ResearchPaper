@@ -1,0 +1,7 @@
+ We study the effect of anisotropy on the extinction absorption and scattering spectra of optically uniaxial spherical particles which are small compared to the wavelength of the incident light in the infrared spectral region . To do so we compare simulated Finite Difference Time Domain spectra of the uniaxial sphere to spectra of a corresponding isotropic materials calculated with Mie theory which are given the principal dielectric functions of the ordinary and extraordinary axes respectively . Several effects of anisotropy can be observed caused by the incident plane wave being bent around the sphere and penetrating into the sphere .
+
+@highlight Effect of material anisotropy on cross section spectra of small particles is investigated.
+@highlight FDTD spectra of anisotropic materials are compared to Mie spectra.
+@highlight Absorption scattering extinction is influenced in different ways.
+@highlight Effect of anisotropy strongly dependent on geometry.
+@highlight No range of validity can be given for 1 32 3 approximation.

@@ -1,0 +1,6 @@
+ Fine manipulation of fluid flows at the microscale has a tremendous impact on mass transport phenomena of chemical and biological processes inside microfluidic platforms . Fluid mixing in the laminar flow regime at low Reynolds number is poorly effective due to the inherently slow diffusive mechanism . As a strategy to enhance mixing and prompt mass transport here we focus on polyelectrolyte multilayer capsules embodying a catalytic polyoxometalate as microobjects to create elastic turbulence and as micromotors to generate chaotic flows by fuel fed propulsions .
+
+@highlight Soft organic micromotors generate viscoelastic effects in microchannels.
+@highlight Mass transport in microchannels is enhanced thanks to viscoelastic effects.
+@highlight Mass transport during mixing improves using catalytic soft organic micromotors.
+@highlight A physical model of the experimental data is presented.

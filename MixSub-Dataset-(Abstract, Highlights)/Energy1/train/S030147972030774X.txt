@@ -1,0 +1,7 @@
+ Nitrate pollution of groundwater through spatial models is investigated in this paper by using a sample of nitrate values at monitoring wells using the data from four seasons of a year in which data are sparse . Two spatial modelling strategies are formulated at two levels in which Strategy 1 comprises three variations of kriging based models which are constructed at
+
+@highlight Formulate Strategy 1 for spatial modelling of groundwater nitrate using Co Kriging MCoK .
+@highlight Strategy 2 for probabilistic modelling of groundwater nitrate by Co Indicator Kriging MCoIK .
+@highlight Inclusive Multiple Models IMM are used to improve accuracy even with sparse data.
+@highlight IMM improves the results significantly compared to conventional geostatistical methods.
+@highlight The model learning is that excessive nitrate is identified in the vicinity of urban areas.

@@ -1,0 +1,7 @@
+ This work aims to determine the tensile set behavior of a silicone rubber under different stress magnitudes and temperatures through digital image correlation implemented in an improved creep experimental set up . Creep recovery strains were measured with time at 20 40 and 60C under tensile strengths of 98.1 196.2 and 394.3kPa respectively . The behavior of creep and recovery strain with time at the different stress magnitudes and temperatures was successfully obtained by the experiments . The corresponding elastic and viscous components of the material for each condition were determined from the results . Overall all obtained creep behaviors matched with the behavior of a four element model of creep recovery . The increase of temperature generated an increase of creep compliance at the three loads but the increase of tensile load produced a decrease of creep compliance for the three temperatures . The strain was not recovered entirely in any case for the test time stated .
+
+@highlight Tension set of a silicone rubber was successfully characterized via DIC.
+@highlight Different tensile loads and temperature were tested effectively.
+@highlight All found creep and recovery behaviors corresponded to a four element model.
+@highlight Elastic and viscous constants of silicone rubber were determined for the different conditions.
+@highlight The test proposed in this work is simple and effective for creep strain measurement.

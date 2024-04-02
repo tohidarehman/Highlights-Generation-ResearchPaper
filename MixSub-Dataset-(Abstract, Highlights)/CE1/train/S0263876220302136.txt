@@ -1,0 +1,7 @@
+ Packed columns are crucial equipment established in the process industry in order to perform several separation operations . The scientific challenge is to improve the performance of these separation columns . This work aims to develop an innovative wire based packing where the liquid flow on the wire will have an interfacial surface greater than the geometric surface of the packing structure . A study of the liquid film behavior on inclined wires and their intersections is carried out based on experimental observations and a numerical simulation . The result is a mapping of the liquid flow regimes favored for the distillation process . Hence it will be possible to orient the design of the wire based packing especially the wire diameter and inclination and the shape of the intersections .
+
+@highlight A study on the liquid flow on simple wires and on packing parts for different materials wire diameters and flow rates were conducted.
+@highlight The results highlighted the great influence of the diameter on the liquid thickness.
+@highlight It is necessary to design a structure with important values of wire diameter wire length and contact angles for the liquid to be properly split on the edges.
+@highlight The liquid thickness developed on the wires was considered very close to that calculated by the Nusselt approach.
+@highlight A mapping that predicts the liquid flow regimes was deduced.

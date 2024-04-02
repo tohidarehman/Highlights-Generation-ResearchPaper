@@ -1,0 +1,7 @@
+ Characterization and analysis of airborne solid submicrometer particles have received considerable attention . Representative collection of particles to be analyzed is a fundamental requirement . Herein we review the efficiency of particle sampling using Nuclepore filters . The available theoretical models based on different collection mechanisms diffusion interception and impaction are explored and compared . Experimentally measured values are combined to analyze the effect of the particle capturing mechanism on collection efficiency based on different parameters like filter pore size and flow face velocity . In addition a method for experimental collection efficiency analysis combined with theoretical modeling is developed by considering the models applicability . The diffusion model proposed by Marre fits the sampling conditions with a small most penetrating particle size . The combined efficiency models have corrected the inappropriateness of considering particle deposition mechanisms separately . They are recommended if the assumptions are satisfied .
+
+@highlight Available efficiency models are compared based on different mechanisms.
+@highlight Review of experimental efficiencies to analyze the effect of the sampling mechanism.
+@highlight Factors that affect sampling efficiency are reviewed.
+@highlight An efficiency analysis method based on the models applicability is proposed.
+@highlight Models of Marre fit the sampling condition with a small MPPS.

@@ -1,0 +1,8 @@
+ The major objective of this manuscript is to develop an integrable capacitance voltage model for the extraction of the interfacial states at p type polymeric semiconductor insulator metal capacitors . A polymeric P3HT semiconductor insulator metal device was fabricated firstly . Then an integrable C V model was developed . The model was based on Fermi Dirac distribution
+
+@highlight An integrable model of capacitance voltage and frequency for polymeric MIS was derived.
+@highlight The accurate density of interface state of polymeric MIS devices was obtained by C V.
+@highlight The reliable and precise surface state density of polymeric MIS was detected.
+@highlight The linear and non linear electric potential in polymeric MIS were determined.
+@highlight The amount of the charge in channel region of polymeric MIS was determined by C V.
+@highlight The charge per unit area in channel of polymeric MIS was detected.

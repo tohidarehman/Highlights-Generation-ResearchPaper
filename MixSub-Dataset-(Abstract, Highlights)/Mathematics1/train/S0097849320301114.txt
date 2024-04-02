@@ -1,0 +1,5 @@
+ Generating a line drawing from a 3D model is one long standing topic of non photorealistic rendering because it enables the description of the shape simply and selectively . However determining the intensity of the drawn lines is relatively unfocussed . In this paper we introduce a method to determine intensity as a property of points on a line consisting of two fully convolutional neural networks . Extracted lines by the first CNN are encoded as line property images with long range line information as local values . Those are effective for the second CNN to determine line thickness . The second CNN determines line thickness from them . Finally intensities at points on a line are determined by interpreting them . We show the trained CNNs evaluation results and show line drawings whose lines vary according to the generated intensities .
+
+@highlight Two CNNs are used for line extraction and line intensity determination.
+@highlight Line properties are encoded to inform long range information of lines to CNN.
+@highlight Intensity determined by CNN controls styles of resultant line drawings.

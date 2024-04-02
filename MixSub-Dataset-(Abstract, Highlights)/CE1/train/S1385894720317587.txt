@@ -1,0 +1,6 @@
+ The instability of gas liquid two phase flow caused by bubble collision downstream in parallel microbranching T junctions is discovered and a strategy of splitting liquid feed stream in two for the prevention of bubble collision is proposed . The two main flow regimes of breakup and repartition of bubbles are observed and characterized under the slug flow and the phase distribution among five branches are studied . It is proved that for the breakup regime splitting liquid feed stream with appropriate proportion enhances the uniformity of the bubble size at the branches eliminating the instability caused by bubble collision and the phase distribution is improved and more stable . The influence of the flow rate and viscosity of fluids on the gas liquid two phase distribution is studied . A proportional relationship is given to predict bubble volumes and to reveal the gas distribution among branches with liquid feed stream split .
+
+@highlight Stability and distribution of gas liquid flow in parallel T junctions are focused.
+@highlight Instability caused by bubble collision is prevented with the liquid feed split.
+@highlight Gas liquid two phase distribution among branches is improved and stabilized.
+@highlight A proportional law is proposed to reveal the law of gas distribution in branches.

@@ -1,0 +1,6 @@
+ An investigation of the treatment effect of atmospheric cold plasma generated reactive oxygen species against problematic bacteria of chronic wounds is presented . To study ROS effects specifically a vacuum chamber with a flowmeter to control the background gas composition and a mesh electrode for a dielectric barrier discharge device were used . In addition a numerical modeling was developed to simulate the amount of ROS flux transported from the mesh electrode to determine which of the ROS species was the main factor in the treatment effect . Considering the experimental and computational results and the effective transport distance of each species ozone could be the main factor in the experimental results .
+
+@highlight Availability of indirect atmospheric plasma from a DBD on biofilm forming bacteria.
+@highlight Plasma generated ROS shows different effects depending on the status of bacteria.
+@highlight ROS amplifies antimicrobial susceptibility of most bacteria to certain antibiotics.
+@highlight Numerical simulation points out ozone as a major candidate for the above effects.

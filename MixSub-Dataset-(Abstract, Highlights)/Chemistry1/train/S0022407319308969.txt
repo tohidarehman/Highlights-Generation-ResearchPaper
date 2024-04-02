@@ -1,0 +1,7 @@
+ Particle shapes can be distinguished by the properties of optical light scattering patterns . We investigate the feasibility of convolutional neural networks for shape based classification using light scattering patterns by mimicking a real application scenario of shape classification of micro sized phytoplankton . Six different particle shapes were chosen . The volume equivalent size parameter ranged from 2.98 to 14.89 . The real part of refractive index was
+
+@highlight Six representative shapes of phytoplankton in the low size range were modeled including sphere ellipsoid cylinder box cone half sphere and prolate spheroid 2 cylinders.
+@highlight The volume equivalent size parameter ranged from 2.98 to 14.89. The real part of refractive index was
+@highlight  1.060.04. The particles were random oriented with respect to the direction of propagation of the incident light.
+@highlight The angular range of the scattering pattern in the data set was limited to 89152 for the scattering angle and 063 for the azimuthal angle which is close to the real use case.
+@highlight Convolutional neural network achieves an average of 97 particle shape classification accuracy.

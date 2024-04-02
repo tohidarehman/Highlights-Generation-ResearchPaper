@@ -1,0 +1,7 @@
+ In this study the main objective was to implement an integrative modelling framework in order to support the prioritization and screening of chemicals present in personal care products regarding their potential to expose users across multiple possible pathways . Here we implemented an exposure based framework based on product intake fractions calculated using a two compartment model reproducing the skin uptake and the competing volatilization of chemicals applied on skin during PCP use . The implemented framework enabled to simultaneously and comprehensively accommodate coupled chemical specific parameters
+
+@highlight A modeling framework was implemented to study personal care products exposure.
+@highlight This exposure based framework was built on the product intake fraction PiF .
+@highlight Chemical intake rates were derived combining PiF with PCPs survey data.
+@highlight Exposure patterns were studied using the NMF and clustering methods.
+@highlight The framework was compared to PACEM Kd a high tier model and uncertainty and sensitivity analyses were conducted.

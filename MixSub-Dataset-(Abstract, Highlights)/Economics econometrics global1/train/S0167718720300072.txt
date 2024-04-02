@@ -1,0 +1,7 @@
+ We investigate the effect of an EU wide consumer protection regulation on consumer trust as well as consumer behavior . The Unfair Commercial Practice Directive was implemented by EU member states between 2007 and 2010 . We utilize data from the Special and Flash Eurobarometer for the years between 2006 and 2014 and experts evaluation on consumer protection levels before the introduction of the regulation . This rich data set allows us to apply a difference in difference estimator with multiple time periods . We find a significant relationship between the introduction of the UCPD and consumer trust and cross border purchases for countries with a low consumer protection level before the introduction of the UCPD . The relationship increases over time and stays then relatively constant .
+
+@highlight Analysis of the effects of the Unfair Commercial Practice Directive UCPD .
+@highlight Minimum consumer protection standards improve trust and online shopping behaviour.
+@highlight Trust and cross border shopping increase but domestic online shopping is unaffected.
+@highlight Effects found for consumers in low pre UCPD consumer protection level countries.
+@highlight UCPD especially benefits consumers in countries with initially low protection levels.

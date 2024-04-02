@@ -1,0 +1,5 @@
+ Most liquids in gasliquid phase reactions are organic solvents hence it is particularly important to study the effect of liquid properties on fluid dynamic parameters in bubble columns . In this study the correction of surface tension and viscosity were used to determine the influence of different liquid properties on the hydrodynamic parameters of bubble columns . These were implemented based on the minimum energy model proposed by Li
+
+@highlight CFD PBM model was well validated in a bubble column with different physical properties of liquids.
+@highlight The influence of the liquid viscosity and the liquid surface tension on the hydrodynamic parameters was simulated.
+@highlight The influence of the liquid viscosity and the surface tension on the bubble size distribution was presented.

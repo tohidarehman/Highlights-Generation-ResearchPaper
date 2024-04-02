@@ -1,0 +1,7 @@
+ A device with four parallel channels was designed and manufactured by 3D printing in titanium . A simple experimental setup allowed splitting of the mobile phase in four parallel streams such that a single sample could be analysed four times simultaneously . The four capillary channels were filled with a monolithic stationary phase prepared using a zwitterionic functional monomer in combination with various dimethacrylate cross linkers . The resulting stationary phases were applicable in both reversed phase and hydrophilic interaction retention mechanisms . The mobile phase composition was optimized by means of a window diagram so as to obtain the highest possible resolution of dopamine precursors and metabolites on all columns . Miniaturized electrochemical detectors with carbon fibres as working electrodes and silver micro wires as reference electrodes were integrated in the device atthe end of each column . Experimental separations were successfully compared with those predicted by a three parameter retention model . Finally dopamine was determined in human urine to further confirm applicability of the developed device .
+
+@highlight A device with four parallel channels was manufactured by 3D printing in titanium.
+@highlight A simple experimental setup allowed splitting of the mobile phase in parallel streams.
+@highlight Capillary channels were filled with a monolithic stationary phases.
+@highlight Miniaturized electrochemical detectors were integrated in the device.
+@highlight Dopamine was determined in human urine by using developed device.

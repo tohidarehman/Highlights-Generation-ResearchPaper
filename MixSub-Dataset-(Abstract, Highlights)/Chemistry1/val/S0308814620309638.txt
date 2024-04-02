@@ -1,0 +1,7 @@
+ Sudan I is a synthetic azo dye commonly used to adulterate foods to increase sensory appearance . However it is banned due to its carcinogenic mutagenic and genotoxic properties which represent a serious risk to human health . Thus this paper proposes a feasibility study to identify and quantify Sudan I dye in ketchup samples using colour histograms and multivariate analysis . The successive projections algorithm coupled with linear discriminant analysis classified correctly all samples while the partial least squares coupled with SPA for interval selection
+
+@highlight Adulteration in ketchup by adding illegal Sudan I dye.
+@highlight An eco friendly methodology based on colour histograms is proposed.
+@highlight Multivariate analysis to identify and quantify Sudan I adulteration.
+@highlight SPA LDA classified correctly all the samples in both training and test sets.
+@highlight iSPA PLS achieved good performance to quantify Sudan I adulteration.

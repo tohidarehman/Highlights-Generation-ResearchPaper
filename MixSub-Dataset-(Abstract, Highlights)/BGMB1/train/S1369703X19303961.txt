@@ -1,0 +1,8 @@
+ Since monoclonal antibodies are sensitive to the manufacturing process several mAb variants can be the result of a single batch production . The most critical source of heterogeneity is glycosylation which has a profound impact on safety and efficacy of the final product . Implementation of monitoring and control of the process using the Quality by Design approach may help to ensure mAb specifications although its implementation is limited by the availability of real time specific measurements . All current approaches to elucidate mAb glycoforms require sampling and labour intensive efforts . Thus glycosylation analysis is often performed with the objective of detecting quality defects at the end of the culture process . In this work the capability of Near Infrared spectroscopy and chemometric treatment to accurately monitor mAb glycosylation during CHO cells cultures using
+
+@highlight Monitoring of mAb glycosylation during CHO cell processes by
+@highlight NIR probes.
+@highlight PLS regressions are limited for providing spectrum based glycosylation information.
+@highlight Consideration of the process nature in regression is critical for accurate monitoring.
+@highlight The novel use of LWR allowed to monitor total mAb concentration accurately.
+@highlight Only SVR allowed mAb glycoform concentration monitoring.

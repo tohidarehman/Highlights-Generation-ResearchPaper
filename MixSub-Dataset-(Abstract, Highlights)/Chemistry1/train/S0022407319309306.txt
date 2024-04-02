@@ -1,0 +1,7 @@
+ A numerical model is presented for spectral characteristics of radiation coming from a pool fire flame . The case studies are 1.75
+
+@highlight LES CFD model of large pool fire is developed using FDS.
+@highlight Transient CFD profiles are taken for a line of sight LoS of a sensor.
+@highlight The LBL spectral calculation along the LoS is performed and validated.
+@highlight The intensity peak of hot CO2 is identified as the signature of fire spectra.
+@highlight A sensitivity analysis carried out for size of the pools air relative humidity and distance from the pools.

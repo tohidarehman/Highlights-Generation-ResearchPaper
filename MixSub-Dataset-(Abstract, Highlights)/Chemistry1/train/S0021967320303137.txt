@@ -1,0 +1,7 @@
+ Dried blood spot sampling demonstrates multiple advantages over traditional venous blood collection in terms of quantifying biomarkers for clinical applications . The process is more convenient less invasive and requires smaller sample size . More importantly it lowers risk of infection and allows easier sample transportation and storage . In this study an automated high throughput DBS LC MS MS method was developed for quantifying endogenous biomarkers in DBS and later applied in riboflavin i.e . vitamin B
+
+@highlight Automated high throughput quantitative LC MS MS method in dried blood spot samples.
+@highlight No manual sample preparation is required.
+@highlight Overlapping sample extraction process and LC MS MS analysis.
+@highlight Only a sample of 20 L blood or other body fluid is required for each analysis.
+@highlight Fully validated method was applied to quantify riboflavin in 133 blood samples.

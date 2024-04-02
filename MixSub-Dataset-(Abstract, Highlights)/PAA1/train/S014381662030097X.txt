@@ -1,0 +1,7 @@
+ The performance of an all fibered near infrared laser heterodyne radiometer is demonstrated in ground based solar occultation mode . A 12 fiber optical switch is employed as an alternative modulator to traditional chopper which makes the system more stable and compact . Two distribute feedback lasers centered at 1.6m and 1.65m are employed as local oscillators to probe absorption lines of CO
+
+@highlight An all fiber near infrared laser heterodyne radiometer NIR LHR isintroduced for simultaneous atmospheric remote sensing of CO
+@highlight and CH
+@highlight A 12 fiber optical switch is employed as an alternative modulator to traditional chopper which makes the system more stable and compact.
+@highlight A novel and precise correlation correction method is developed for the wavenumbers shift corrections.
+@highlight To validate the ground NIR LHR results observations over six months were compared with the GOSAT data results.

@@ -1,0 +1,6 @@
+ High strength concrete has higher strength to weight ratio and stiffness than normal strength concrete which can decrease the size and embodied carbon of columns in tall buildings . Because of the brittleness of HSC the practical design strength limit of HSC is usually limited for providing minimum ductility . One feasible way to extend this limit would be to use concrete filled steel tube column which has a better strength ductility performance . There are two shortcomings in theoretical models predicting the stress strain behaviour of CFST column
+
+@highlight A stress path dependent axial load strain model of CFST column is proposed.
+@highlight The effect of confining stress path dependence is studied.
+@highlight The effects of steel concrete interface de bonding on confining stress and strength of CFST column are investigated.
+@highlight The model was verified by 177 test results of CFST columns obtained by the authors and other researchers.

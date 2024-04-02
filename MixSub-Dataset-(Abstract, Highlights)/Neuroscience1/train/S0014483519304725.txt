@@ -1,0 +1,7 @@
+ Adaptation to changes in ambient light intensity in retinal cells and circuits optimizes visual functions . In the retina light adaptation results in changes in light sensitivity and spatiotemporal tuning of ganglion cells . Under light adapted conditions contrast sensitivity of ganglion cells is a bandpass function of spatial frequency in contrast dark adaptation reduces CS especially at higher spatial frequencies . In this work we aimed to understand intrinsic neuromodulatory mechanisms that underlie retinal adaptation to changes in ambient light level . Specifically we investigated how CS is affected by dopamine nitric oxide and modifiers of electrical coupling through gap junctions under different conditions of adapting illumination .
+
+@highlight The optokinetic response is useful for assessing retinal function s in chicks.
+@highlight Dopamine and nitric oxide modulate high photopic adaptation in retinal circuits.
+@highlight Dopamine does this by stimulating nitric oxide release.
+@highlight Blocking connexin35 mediated cell cell coupling simulates high photopic adaptation.
+@highlight The chick has untapped potential as a model for retinal research.

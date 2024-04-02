@@ -1,0 +1,5 @@
+ In this work we inspect the integrability of a natural Hamiltonian system interpreted physically as the motion of a particle in the Euclidean plane under the effect of conservative forces derived from a certain type of a non homogeneous potential . We announce the necessary conditions for its integrability by using the differential Galois theorem . We present three examples to clarify the applicability of the obtained results is easy and efficacious . Some of these examples restore the previous results in the literature and one of them gives a new integrable case describing a generalization of the well known Swinging Atwood machine .
+
+@highlight A new theorem is introduced to study the integrability of a Hamiltonian system with certain type of nonhomogeneous potential.
+@highlight This new theory is more effective in studying the integrability of galactic potentials systematically.
+@highlight A new integrable problem which generalizes the Swinging Atwood machine is announced.

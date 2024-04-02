@@ -1,0 +1,7 @@
+ Brand image is comprehended in consumers mind through favourability strength and uniqueness of brand associations . In this paper a model is proposed to quantify Online Brand IMage from consumer reviews . We consider the product aspects as a brand association . Natural language processing techniques are used to extract those associations . Favourability strength and uniqueness of the extracted associations are computed using sentiment and co word network analysis . Finally the multiplicative sum of these values considers as the OBIM score . It can be used as a measure of consumer perception which apprehends the relation between the association and their changes over time . The proposed model is demonstrated using a dataset of five mobile phones crawled from Amazon . Two applications of OBIM score Association Based SWOT analysis and Senti Concept Mapper technique to discover hidden concepts are proposed . It shows how these techniques can support the decision making process of marketers .
+
+@highlight Probably this is the first attempt to quantify brand image using OBIM.
+@highlight Aspects discussed in reviews are considered as small set of vital brand association.
+@highlight Consumer reviews are used as main source of data to quantify OBIM.
+@highlight Association Based SWOT is for strategic analysis market positioning of a brand.
+@highlight Senti Concept Mapper is for sentiment of hidden concepts to help managers.

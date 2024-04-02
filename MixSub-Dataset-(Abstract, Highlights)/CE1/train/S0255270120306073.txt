@@ -1,0 +1,7 @@
+ Waste cooking oil was converted to biodiesel using a parabolic trough collector using solar radiations as a heating source and a parabolic trough collector as an intensifier . Calcium oxide derived from seashells was used as a catalyst in order to boost the rate of the reaction . Temperatures of almost 95C were reached using this collector although the temperature was limited to below 78.4C in order to prevent the vaporization of ethanol . The influence of different parameters on the reaction was analyzed . The maximum yield was found to be 95.84 obtained under conditions of 180 LPH reactant flow rate 300rpm stirring speed 60minutes reaction time 9 1 ethanol to oil ratio and 90cm catalyst bed height . The composition and properties of the biodiesel were found to be in accordance with literature and ASTM and BIS norms . The energy efficiency of the process was analyzed by net energy ratio . The net energy efficiency index was obtained from the ratio of NER of the solar method to the conventional method . NEEI of the process was found to be 4.16 thereby making the process a highly promising method of biodiesel production .
+
+@highlight Parabolic trough collector used as intensification tool for enhanced biodiesel production.
+@highlight CaO catalyst packed column reactor is also used in combination.
+@highlight Temperature reached around 95C in 20min in day time.
+@highlight Yield up to 95.84 obtained by recirculating batch reactions.
+@highlight Net energy ratio and energy efficiency indices were analyzed for various conditions.

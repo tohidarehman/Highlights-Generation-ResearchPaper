@@ -1,0 +1,7 @@
+ Financial risks related to crude oil imports are certainly affected by crude oil price uncertainty . Our question is How important is it to take also physical risks such as the crude oil exporters political risks and transportation risks into account when controlling financial risks in line with the importers risk attitude when planning crude oil imports and transportation at a tactical level In this paper two stage stochastic programming models are proposed to illustrate the problem and a numerical test is conducted to better understand the effects of physical risks . The mechanism for controlling risk will be forward physical contracts . The results show that the real financial risk is much higher than the importer might believe if physical risks are not considered . Unless the importer is risk neutral more forward crude oil will be imported when physical risks are considered and the distribution of forward crude oil will depend strongly on correlations among risks .
+
+@highlight Physical risks are considered for handling financial risks in crude oil imports.
+@highlight Two stage stochastic programming models are proposed to illustrate the problem.
+@highlight More forward crude oil will be imported when physical risks are considered.
+@highlight Without considering physical risks the real risk is higher than the importer thinks.
+@highlight The mechanism for controlling risk is forward physical contracts.

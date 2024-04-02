@@ -1,0 +1,6 @@
+ Post translational modifications of histone residues shape the landscape of gene expression by modulating the dynamic process of RNA polymerase II transcription . The contribution of particular histone modifications to the definition of distinct RNAPII transcription stages remains poorly characterized in plants . Chromatin immunoprecipitation combined with next generation sequencing resolves the genomic distribution of histone modifications . Here we review histone PTM ChIP seq data in
+
+@highlight PTMs of histone residues affect gene expression by defining transcription stages. ChIP seq reveals the distribution of histone PTMs during transcription.
+@highlight A GPS based on the distribution profile of histone PTMs and histone variants underlies RNAPII transcription stages in plants.
+@highlight Misalignment of GPS and transcription units suggests novel transcription activity and regulation.
+@highlight Histone PTM reader writer and eraser enzyme trios maintain the chromatin based GPS and guide RNAPII transcription.

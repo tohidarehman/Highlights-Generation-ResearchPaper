@@ -1,0 +1,6 @@
+ For the aim of surface refractivity analysis the overall territory of Quebec has been divided in a desired number of areas from North to South using clustering analysis . The meteorological data used in the analysis are collected from 50 stations located in various climatic regions over Quebec for the year 2013 . It is found that the best input data for the identification of areas is the water vapour pressure . The results show that the surface refractivity increase from North to South and the maximum values for all areas are observed in July or in August . However the variation of the surface refractivity remains in a relatively small interval in comparison to the variation observed in some tropical countries particularly Nigeria .
+
+@highlight Clustering analysis has been used to identify areas with similar surface refractivity values from North to South.
+@highlight Surface refractivity increase from North to South.
+@highlight Regardless of the area the maximum values lie in summer.
+@highlight mountainous localities have low values of the surface refractivity since atmospheric pressure decreases with the altitude

@@ -1,0 +1,7 @@
+ In this study a new methodology has been proposed for optimal allocation and optimal sizing of a lithium ion battery energy storage system . The main purpose is to minimize the total loss reduction in the distribution system . The optimization process is applied using a newly developed type of Cayote Optimization Algorithm . The proposed technique includes two different approaches . In the first approach the optimization for allocation and the sizing are performed one by one and in the second approach the optimization has been done simultaneously . To analyze the proposed system four different scenarios have been analyzed which include different conditions without with PVs and also using single two BESS . The results showed that using two BESS can reduce the total error of the distribution system . the results also showed that using PVs can also decrease the total losses . Finally the proposed approach based on ICOA is compared with Firefly Algorithm Whale Optimization Algorithm and Particle Swarm Optimization to show the proposed method s prominence efficiency .
+
+@highlight Optimal location and sizing the Battery Energy Storage System has been proposed.
+@highlight The method considers total losses reduction of the distribution system.
+@highlight Improved version of Cayote Optimization Algorithm is used for optimization.
+@highlight Two different scenarios with two different conditions have been analyzed.
+@highlight The results have been compared with some different algorithms.

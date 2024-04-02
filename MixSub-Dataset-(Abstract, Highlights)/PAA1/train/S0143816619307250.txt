@@ -1,0 +1,7 @@
+ A novel multiple information security system based on key image phase and chaotic random phase encoding is proposed . First a key color image is separated into
+
+@highlight The security system uses key image phase and chaotic random phase encoding.
+@highlight The key phase mask having multiple decryption keys is scrambled key image of a user.
+@highlight The parameters of key phase mask and chaotic phase mask are decryption keys.
+@highlight The proposed system can be executed using a simple hybrid optoelectronic system.
+@highlight Numerical simulation results demonstrate the viability and efficiency of the proposed system.

@@ -1,0 +1,9 @@
+ As the number of operational Phasor Measurement Units is increasing compression is becoming crucial for efficiently transferring and storing enormous amount of synchrophasor data continuously measured from a power system . Some utilities in the U.S .
+
+@highlight The swinging door compression algorithm can cause loss or gain in low or high or all frequencies and can attenuate or boost line spectra in the synchrophasor measurements. This significantly impacts measurement based modal analysis of power system.
+@highlight The algorithm also introduces false harmonics of line spectra and aliasing of false higher order harmonics of the line spectra in the synchrophasor easurements. This significantly impacts forced oscillation detection and modal analysis of power system.
+@highlight The algorithm is highly nonlinear and how it impacts the synchrophasor measurements cannot be precisely predicted.
+@highlight Lossless compression of the algorithm is not appealing since its performance is way lower than the off the shelf lossless compression algorithms.
+@highlight Synchrophasor measurement based emerging technologies for envisioned smart grid including signal processing and data analytics may lead to false results when they operate on swinging door decompressed data.
+@highlight In this paper spectral analysis in frequency domain and forced oscillation detection were performed to show some of the impacts of the compression algorithm.
+@highlight The results presented in this paper can help utilities decide usability of the compression algorithm for their PMU historians when the measurements integrity is of major concern for future smart grid analytics and evolving technologies.

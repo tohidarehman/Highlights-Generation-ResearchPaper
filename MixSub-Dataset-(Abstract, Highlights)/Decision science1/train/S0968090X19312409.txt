@@ -1,0 +1,5 @@
+ Traffic state estimation is a crucial elemental function in Intelligent Transportation Systems . However the collected traffic state data are often incomplete in the real world . In this paper a novel deep learning framework is proposed to use information from adjacent links to estimate road traffic states . First the representation of the road network is realized based on graph embedding . Second with this representation information the generative adversarial network is applied to generate the road traffic state information in real time . Finally two typical road networks in Caltrans District 7 and Seattle area are adopted as cases study . Experimental results indicate that the estimated road traffic state data of the detectors have higher accuracy than the data estimated by other models .
+
+@highlight DeepWalk is used for graph embedding of the road network.
+@highlight Based on the results of DeepWalk GAN is applied to generate road traffic states.
+@highlight The road traffic state estimation results based on GE GAN have higher accuracy.

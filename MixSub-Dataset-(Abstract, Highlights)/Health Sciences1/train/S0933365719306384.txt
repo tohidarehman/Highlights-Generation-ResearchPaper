@@ -1,0 +1,7 @@
+ Early prediction of target patients at high risk of developing Type 2 diabetes plays a significant role in preventing the onset of overt disease and its associated comorbidities . Although fundamental in early phases of T2D natural history insulin resistance is not usually quantified by General Practitioners . Triglyceride glucose index has been proven useful in clinical studies for quantifying insulin resistance and for the early identification of individuals at T2D risk but still not applied by GPs for diagnostic purposes . The aim of this study is to propose a multiple instance learning boosting algorithm for creating a predictive model capable of early prediction of worsening insulin resistance in terms of TyG index . The MIL Boost is applied to past electronic health record patients information stored by a single GP . The proposed MIL Boost algorithm proved to be effective in dealing with this task by performing better than the other state of the art ML competitors
+
+@highlight MIL Boost is applied to predict insulin resistance worsening.
+@highlight MIL Boost is applied to temporal EHR data stored by a general practitioner.
+@highlight MIL Boost overcomes other competitors Recall from 0.70 and up to 0.83 .
+@highlight MIL Boost identifies also non conventional insulin resistance biomarkers.
+@highlight MIL Boost may represent the main core of a clinical decision support system.

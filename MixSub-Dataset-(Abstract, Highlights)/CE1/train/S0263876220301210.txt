@@ -1,0 +1,8 @@
+ The paper presents an application of large eddy simulations to predict the course of barium sulfate precipitation carried out in jet reactors and basic guidelines for a reactor design . The reactors in question were of different geometries and made in different sizes in order to achieve high mixing intensities and low residence times in a mixing chamber thus enabling to reflect and understand the effects of process conditions and influence of mixing on the course of precipitation better . The systems behavior is explained using experimental and simulation results . Simulations were validated by comparing LES model predictions with experimental data as well as the
+
+@highlight Mixing effects on barium sulfate precipitation test process course were investigated.
+@highlight Comparison of several literature barium sulfate precipitation kinetics is presented.
+@highlight Two reactor types of three different sizes each are considered.
+@highlight Mixing in jet reactors was generally found to be faster than precipitation.
+@highlight Both large eddy simulations and
+@highlight model can be used for precipitation modeling in jet reactors.

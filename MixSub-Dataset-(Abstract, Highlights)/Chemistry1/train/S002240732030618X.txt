@@ -1,0 +1,6 @@
+ The opacity information of a finite temperature plasma is an important property and requires the population distribution of a given plasma condition . A population kinetic code for plasma spectroscopy FLYCHK has been widely used by researchers to study the spectroscopic properties of high energy density plasmas under a wide range of conditions . In this study the FLYCHK calculation of the Planck and Rosseland mean opacities of low to high Z elements such as aluminum
+
+@highlight FLYCHK calculation on Planck and Rosseland mean opacities of Al Cu and Au in wide temperature density ranges is reported.
+@highlight Comparisons with opacities from PROPACEOS and ATOMIC code provides the validity range of FLYCHK opacity as well as its limitation.
+@highlight Correlation of the plasma coupling parameter with opacity and the sensitivity of LTE and NLTE conditions are reported.
+@highlight This investigation provide a deeper insight on the opacity related to plasma parameters and validity of FLYCHK opacity.

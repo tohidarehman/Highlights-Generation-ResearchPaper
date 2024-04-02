@@ -1,0 +1,9 @@
+ Density functional theory calculations including the effect of van der Waals forces have been performed to study the adsorption of isocyanic on the defective and perfect Rh surfaces . We have considered Rh adatom on Rh surface as a model of defective Rh surface . Our calculations show that on the perfect surface the HNCO prefers to adsorb on the bridge site with or without the inclusion of vdW correction . However the inclusion of vdW forces results in the reduction of adsorption energy relative to values obtained from pure DFT . Regarding the defective surface in particular the Rh adatom results in greater stability of the adsorbed HNCO when compared to HNCO adsorbed on a perfect surface . Also the interaction between the HNCO and the surface has been analyzed in terms of projected density of states . It is observed that huge hybridization occurs between the
+
+@highlight HNCO has been studied on the flat and defective Rh 001 surfaces using pure DFT PBE and DFT vdW revPBE calculations.
+@highlight HNCO prefers to adsorb on the bridge site with or without the inclusion of vdW correction.
+@highlight Inclusion of van der Walls forces results in the reduction of adsorption energy relative to values obtained from pure DFT.
+@highlight The Rh adatom results in greater stability of the adsorbed HNCO when compared to HNCO adsorbed on a perfect surface.
+@highlight The analysis of the PDOS has revealed a huge hybridization between N 2
+@highlight orbital and Rh 4
+@highlight band.

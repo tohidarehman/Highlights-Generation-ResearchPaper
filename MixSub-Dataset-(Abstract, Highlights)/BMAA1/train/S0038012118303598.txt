@@ -1,0 +1,6 @@
+ This paper presents an approach aimed at assessing multiple criteria spatial risk where several methods are used for decision aiding purposes with an application on marine nuclear releases . The case study simulates a post accident analysis evaluating the impact upon the bay of Toulon of an accidental nuclear release . The problem is characterized by the presence of spatial features multiple criteria describing the involved assets and uncertainties represented through multiple release scenarios and their corresponding probabilities .
+
+@highlight Assessing the impacts of a nuclear accident requires more information than the contamination level registered in a given geographical area.
+@highlight Our approach allows to establish a risk rating for different geographical units for different assets under different attributes and accident scenarios.
+@highlight The information provided can be used for multilateral negotiations and collective decision making processes it can be considered as a common basis from which start designing policies.
+@highlight We nevertheless adopt a clients perspective providing the IRSN Institut de Radioprotection et de Suret Nuclaire with the necessary information that their clients typically require.

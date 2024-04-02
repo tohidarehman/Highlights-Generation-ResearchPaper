@@ -1,0 +1,7 @@
+ Extreme ultraviolet radiation of laser produced zirconium plasmas were measured in the 6.714.7nm region using a spatio temporally resolved laser produced plasma spectroscopy technique . At shorter wavelengths the spectrum was dominated by several lines attributed to the 4s transition arrays of Zr
+
+@highlight A spatio temporally resolved laser produced plasma spectroscopy technique have been used to study the laser produced zirconium Zr plasmas in the 6.714.7 nm region.
+@highlight The Hartree Fok HF method with relativistic corrections HFR using the Cowan s codes and Flexible Atomic Code FAC were used to calculate and interpret the observed spectral obtained. Accordingly a number of new spectral lines are identified.
+@highlight A numerical computation based on the assumption of a normalized Boltzmann distribution among the excited states associated with a steady state collisional radiative model CR has also been performed to obtain the plasma parameters by comparing the experimental and simulated spectra.
+@highlight Good agreement between the experimental and theoretical calculations were obtained.
+@highlight Temporal and spatial evolution behavior about plasma parameters have been analyzed and the variation of electron plasma frequency and skin depth with plasma temperature were introduced.

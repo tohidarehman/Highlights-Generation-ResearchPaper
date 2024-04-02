@@ -1,0 +1,8 @@
+ The application of technology and the development of data analysis such as remote sensing and regression algorithms are an easy and inexpensive way to estimate parameters related to water management such as actual evapotranspiration ET
+
+@highlight The vegetation indices made it possible the crop phenology observation.
+@highlight Complementary vegetation indexes improve ET
+@highlight and SWC models performances.
+@highlight Daily ET
+@highlight and SWC were modeled using remote sensing data and regression techniques.
+@highlight Remote sensing data allow the feasibility of machine learning models in the practice of irrigated agriculture.

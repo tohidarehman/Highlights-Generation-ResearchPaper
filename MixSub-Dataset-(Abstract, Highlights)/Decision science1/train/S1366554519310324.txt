@@ -1,0 +1,7 @@
+ This paper proposes different network structures for a real liner shipping company to serve demands between Norwegian and European continental ports . The current practice of the shipping company deploys a feeder network where all routes depart from the European port . We study the impact of using a hub and spoke network that is composed of mother and daughter routes with the possibility of splitting pickups and deliveries . Computational studies carried out on problem instances based on realistic data show that significant cost reductions can in several cases be obtained by including the proposed network structure .
+
+@highlight Different network designs are studied for a liner shipping company.
+@highlight A feeder network design connects a major European port to local ports.
+@highlight A hub and spoke design allows transshipments at any local port.
+@highlight Both designs are modeled and solved based on realistic data.
+@highlight A discussion of which network design offering better costs is provided.

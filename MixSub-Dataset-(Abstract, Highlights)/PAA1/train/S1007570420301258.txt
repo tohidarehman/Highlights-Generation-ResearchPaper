@@ -1,0 +1,6 @@
+ The two dimensional shallow water equations with constant Coriolis parameter and variable topography bottom in mass Lagrangian coordinates are studied in this paper . The equations describing these flows are reduced to two Euler Lagrange equations . Group classification of these equations with respect to the function describing the topography of the bottom is performed in the paper . For some particular functions transformations mapping the two dimensional shallow water equations with constant Coriolis parameter into the gas dynamics equations of a polytropic gas with polytropic exponent
+
+@highlight The studied equations are reduced to two EulerLagrange equations.
+@highlight The Lagrangian and Hamiltonian formalism of these equations is given.
+@highlight The transformations mapping the shallow water equations into the gas dynamics equations are found.
+@highlight Complete group classification of these equations with respect to the function describing the topography of the bottom is performed.

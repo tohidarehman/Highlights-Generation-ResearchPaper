@@ -1,0 +1,5 @@
+ A laser texturing process including laser ablation and post etching has been developed to form a unique microstructure of pits in craters on the front surface of the diamond wire sawn multi crystalline silicon wafer . A laser ablation is applied to produce craters with size of tens of microns distributed at the front surface of the wafer followed by a post etching process to remove silicon slags produced in the laser process and to form the pits of size in few microns embedded in each crater . The structural optical and electrical characteristics of the PIC structure are investigated and optimized to achieve a good trade off between light trapping and recombination . Finally an applicative laser texturing process is demonstrated for the industrial grade DWS mc Si solar cells with an increased efficiency of 19.26 compared with the standard acid textured ones .
+
+@highlight A laser texturing process including laser ablation and post etching has been developed.
+@highlight A unique microstructure of pits in craters PIC on the front surface of wafer was formed.
+@highlight An efficiency of 19.26 was achieved.

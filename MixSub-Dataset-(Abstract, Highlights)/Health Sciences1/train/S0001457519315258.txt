@@ -1,0 +1,7 @@
+ This paper describes a study that applies the Poisson Tweedie distribution in developing crash frequency models . The Poisson Tweedie distribution offers a unified framework to model overdispersed underdispersed zero inflated spatial and longitudinal count data as well as multiple response variables of similar or mixed types . The form of its variance function is simple and can be specified as the mean added to the product of dispersion and mean raised to the power
+
+@highlight Given a flexible framework for count data regression the Poisson Tweedie distribution was used to model crash frequency.
+@highlight A series of models with fixed and varying dispersion were developed under different values of power parameter in variance.
+@highlight The performance of a model varied by how the dispersion parameter was formulated.
+@highlight The dispersion parameter values were found to be smaller in models fitted with higher value of the power parameter.
+@highlight The variation in expected crash frequency and site ranking linked to different dispersion and power parameters was examined.

@@ -1,0 +1,8 @@
+ Accurate spectroscopic modeling is critical when measuring time resolved state specific chemical kinetics of diatomic molecules . Here a spectroscopic model was developed to accurately simulate oxygen absorption cross sections in the Schumann Runge system for non equilibrium conditions . Cross sections of shock heated oxygen O
+
+@highlight Spectroscopic model developed for the Schumann Runge system.
+@highlight Spectroscopic model extends to high temperatures and non equilibrium conditions.
+@highlight UV pulsed laser absorption spectroscopy acquired O
+@highlight absorption cross sections.
+@highlight Developed steady state model for vibrational temperature determination above 6000K.
+@highlight Developed spectroscopic models agree with cross section data up to 8400K.

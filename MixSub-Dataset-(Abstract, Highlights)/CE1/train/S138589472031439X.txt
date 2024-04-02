@@ -1,0 +1,8 @@
+ Polymer composites with excellent thermal conductivity low dielectric constant and low dielectric loss are urgently required for microelectronics and wireless communication systems . However traditional thermal conductive polymer composites realized by simply adding inorganic fillers can not have high thermal conductivity and good electrical insulation concurrently which greatly hinders the practical application . In this work a facile and scalable assembly technique to construct a three dimensional boron nitride foam for the formation of 3D BN epoxy composites has been proposed to address this long standing challenge . Herein we built a self support and pressure reinforced 3D BN foam composed of only bulk BN microplates to serve as the thermal pathway . The obtained composite with greatly enhanced thermal conductivity enhancement exhibits the highest through plane thermal conductivity of 6.11Wm
+
+@highlight A 3D boron nitride foam was fabricated by the sacrifice of NH
+@highlight HCO
+@highlight template.
+@highlight The 3D boron nitride foam serves as a more effective heat transfer pathway.
+@highlight Significantly enhanced thermal conductivity was achieved.
+@highlight Finite element simulation revealed the reasons and strategies for improving thermal conductivity.

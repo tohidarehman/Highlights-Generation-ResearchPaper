@@ -1,0 +1,7 @@
+ In this paper an efficient sectional model for the nonlinear analysis of reinforced concrete elements sensible to 3D stress components effects is presented . The classic plane sections kinematic hypothesis is enhanced with a warping distortion displacement field which enables the model to reproduce the interaction between normal and tangential forces . The complementary field is obtained explicitly considering the inter fiber equilibrium . This is solved using b splines interpolation on the cross section domain . The proposed method significantly reduces the number of unknowns compared with a finite element solution . The model is able to reproduce the interaction of longitudinal and transverse reinforcement with the concrete matrix . The validation shows that the presented model reproduces accurately complex failure modes as pure shear and coupling between bending and torsion . Further as the transverse reinforcement is considered explicitly confinement can be simulated in an objective manner . The presented model is an efficient tool for nonlinear analysis of reinforced concrete sections under general loading .
+
+@highlight Sectional model for coupled analysis of bending torsion shear and axial forces.
+@highlight B spline interpolation allows a significant reduction on the degrees of freedom.
+@highlight The interaction between normal and tangential forces accurately reproduced.
+@highlight Explicit interaction between concrete longitudinal and transversal reinforcements.
+@highlight Different failure modes of concrete elements reproduced.

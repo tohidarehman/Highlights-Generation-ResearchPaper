@@ -1,0 +1,5 @@
+ This paper is focused on the construction of a novel signal processing algorithm for the diagnostics of roller bearings . The proposed approach is based on the computational analysis of time averaged images produced by specially designed moir gratings which are deflected from the state of equilibrium according to the recorder vibration signal of the bearing . It is demonstrated that the statistical properties of time averaged images can be exploited as an effective diagnostics measure of roller bearings . Extensive computational experiments with a dataset provided by the Center for Intelligent Maintenance Systems University of Cincinnati are used to demonstrate the efficacy of the proposed technique .
+
+@highlight Moir grating with a variable pitch serves as a diagnostic measure for roller bearings.
+@highlight Time averaging of the moir grating is performed according to the acceleration signal.
+@highlight Standard data sets describing test to failure experiments are used to validate this approach.

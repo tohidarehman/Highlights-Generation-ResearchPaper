@@ -1,0 +1,7 @@
+ Perimeter control is an effective city scale solution to tackle congestion problems in urban networks . To accommodate the unpredictable dynamics of congestion propagation it is essential to incorporate real time robustness against travel demand fluctuations into a pragmatic perimeter control strategy . This paper proposes robust perimeter control algorithms based on partial information feedback from the network . The network dynamics are modeled using the concept of the Macroscopic Fundamental Diagram where a heterogeneously congested network is assumed to be partitioned into two homogeneously congested regions and an outer region that acts as demand origin and destination . The desired operating condition of the network is obtained by solving an optimization program . Observer based
+
+@highlight A Robust perimeter control based on an MFD based traffic model with partial information feedback is developed.
+@highlight  observer based P and PI robust controllers are designed.
+@highlight Set point accumulations control values are obtained off line using an optimization program.
+@highlight Control parameters are obtained from an LMI problem derived based on the Lyapunov theory.
+@highlight Control design addresses the correlation between different directions of the perimeter control signals.

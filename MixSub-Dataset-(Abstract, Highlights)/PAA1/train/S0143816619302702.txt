@@ -1,0 +1,7 @@
+ Traditional iterative denoising methods can achieve good results but are time consuming . To address this problem a non iterative dual threshold denoising method is proposed . Based on Canny s work in image edge detection 3D point cloud denoising is divided into two stages of a small and a large threshold . In each stage the 3D point cloud is processed hierarchically using the divide and conquer concept . Experiments are conducted to compare the proposed method with the
+
+@highlight The principles of
+@highlight  means cluster denoising and
+@highlight  d tree cluster denoising for 3D point cloud are analyzed and the factors of slow speed for these two methods are studied.
+@highlight A non iterative dual threshold denoising method is proposed. The proposed method is more robust and faster with different 3D point cloud models at a high level of noise.
+@highlight The proposed method relies on the idea of Canny in image edge detection and the idea of divide and conquer.

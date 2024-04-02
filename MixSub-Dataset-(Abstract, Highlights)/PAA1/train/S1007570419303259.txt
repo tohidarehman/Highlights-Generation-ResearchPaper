@@ -1,0 +1,5 @@
+ We consider several charged spacecraft configurations around a leader spacecraft provided with an artificial magnetic field . In all configurations the nominal orbits are chosen to be about the relative equilibrium points of the reference model . Using a linear quadratic regulator controller we find that controllability is possible in most of the cases and it is strongly related to the stability of the equilibrium point which in turn depends on the orbit of the leader and the rotation rate of its magnetic dipole .
+
+@highlight Formation flight of charged spacecrafts around a spacecraft with a magnetic field.
+@highlight Establishment of configurations around the relative equilibrium points.
+@highlight Formation keeping achieved by merely adjusting the charge on the deputy.

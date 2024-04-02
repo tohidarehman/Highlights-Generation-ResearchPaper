@@ -1,0 +1,5 @@
+ The effects of the envelope temperature on the microstructure and mechanical strength of Ultem 9085 fused deposition modeling components were studied . A customized build chamber was developed for a commercial 3D printer in order to control the envelope temperature during printing . Test specimens were printed in the vertical direction because their mechanical strength exhibited the greatest dependence on inter layer adhesion and neck development . A delay was introduced between two layers in each specimen in order to create a weak region where the neck was not expected to fully develop . However none of the specimens failed in this region . Mechanical testing revealed that neck growth was highly dependent on the envelope temperature and the strength was shown to vary significantly
+
+@highlight Research highlights manufacturing temperatures of FDM specimens in relation to ASTM D638.
+@highlight Mechanical properties are directly dependent on the build chamber temperature.
+@highlight Thermal energy ought to be included as a parameter for standardization.

@@ -1,0 +1,7 @@
+ A railway system plays a significant role in countries with large territorial dimensions . The Brazilian rail cargo system however is focused on solid bulk for export . This paper investigates the extreme performances of BRCS through a new hybrid model that combines TOPSIS with a genetic algorithm for estimating the weights in optimized scenarios . In a second stage the significance of selected variables was assessed . The transport of any type of cargo a centralized control of the operation and sharing the railway track pushing competition and the diversification of services are significant for high performance . Public strategies are discussed .
+
+@highlight The paper investigates the efficiency of the Brazilian Rail Cargo System.
+@highlight The methodology combined TOPSIS with a genetic algorithm to build optimized scenarios.
+@highlight The significant attributes in scenarios of low and high performance were highlighted.
+@highlight Transport of any kind of cargo and shared railway are significant for the results.
+@highlight Competition and diversification are key elements for high performance.

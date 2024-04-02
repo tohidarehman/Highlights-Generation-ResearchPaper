@@ -1,0 +1,7 @@
+ This paper proposes a novel combination of machine learning techniques and discrete choice models for route choice modeling . The data driven choice set generation method identifies routes characteristics by clustering and implicitly generates the choice set by sampling route characteristic attributes from the clusters . Important features are selected by random forests for route choice model development . With the selected features the methodological iterative approach is applied to specify the utility functions and to find significant explanatory variables automatically .
+
+@highlight Combination of machine learning and discrete choice for route choice modeling.
+@highlight Data driven choice set generation method.
+@highlight Important features from Random Forests for route choice model development.
+@highlight Methodological iterative approach applied to find significant explanatory variables automatically.
+@highlight High prediction accuracy.

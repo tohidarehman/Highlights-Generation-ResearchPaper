@@ -1,0 +1,8 @@
+ The hydrothermal corrosion of polished and as cut high purity chemical vapor deposited SiC was studied in a constantly refreshing water loop . Light water reactor conditions were simulated at 288 320 and 350C with dissolved gas concentrations between 0.15 and 3ppm H
+
+@highlight High purity SiC was exposed to high purity water with and without oxygen.
+@highlight Without oxygen mass loss was small and no localized attack observed.
+@highlight With oxygen mass loss was significant with extensive grain boundary attack.
+@highlight The reaction in O
+@highlight proceeds through a single step with a reaction order of 1.
+@highlight An equation is given to predict the mass loss rate in hydrothermal conditions.

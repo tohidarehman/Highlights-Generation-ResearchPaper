@@ -1,0 +1,5 @@
+ In recent years important benefits for the seismic design of precast reinforced concrete wall structures have been obtained from the use of jointed wall to foundation connections where gap openings are permitted thus resulting in a rocking motion . The lumped rotation at the wall base protects the panels from damage while gravity loads and unbounded post tensioned tendons designed to remain elastic re center the structure after an earthquake thus solving the problem of residual displacements . External dissipaters herein partially unbounded mild steel bars limit the amplitude of lateral displacements providing the required dissipating capacity . The resulting response is characterized by flag shaped hysteretic loops .
+
+@highlight Parametric design for rocking walls with mild steel dissipaters.
+@highlight Energy dissipation and post tensioning design equations in hybrid walls.
+@highlight Displacement based design for hybrid walls.

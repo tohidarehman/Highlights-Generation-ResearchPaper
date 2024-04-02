@@ -1,0 +1,7 @@
+ 3D acquisition pipeline delivers 3D digital models accurately representing real world objects improving the geometric accuracy and realism of virtual reconstructions . However even after intensive clean up the captured models fall short of many of the requirements imposed by the downstream application such as video games virtual reality digital movies etc . Often the captured 3D model can only serve as a starting point for a cascade of subsequent phases by either digital artists or geometry processing algorithms such as a complete remeshing surface parameterization and skinning for animation . In contrast we propose a novel
+
+@highlight We propose a new strategy for shape remeshing by matching.
+@highlight We define the CMH a new basis that integrates intrinsic and extrinsic information.
+@highlight We propose an intrinsic extrinsic new representation for functional spaces of surfaces.
+@highlight We provide a new refinement method to improve the matching on fine details.
+@highlight We exploit quantitative and qualitative evaluations of the quality of our remeshing.

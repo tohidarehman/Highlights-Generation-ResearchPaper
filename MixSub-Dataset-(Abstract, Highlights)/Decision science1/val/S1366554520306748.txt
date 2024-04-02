@@ -1,0 +1,7 @@
+ We study the problem of managing traffic on single bottleneck roadways using a mobility permit based methoda scheme that becomes increasingly relevant to shape the new mobility culture . To identify the main concerns of the involved stakeholders we present an integrated framework that embeds our MP based traffic management scheme in which the mobility permit users are allowed to choose the options best matching their travel needs . Furthermore to find the most effective market prices the proposed permit allocation approach is integrated into an iterative auction process to achieve the best equilibrium state in terms of permit prices that is suitable for users mitigating potential efficiency loss . Our computational results indicate the effectiveness of the proposed scheme as an alternative solution for permit based mobility management on single bottleneck roadways .
+
+@highlight A market driven permit based scheme for managing traffic on single bottleneck roadways.
+@highlight An integrated framework imbedding the permit based traffic management scheme.
+@highlight A mathematical programming model and a heuristic algorithm for endowment of the permits.
+@highlight An iterative auction mechanism for optimizing the revenue outcome of the permit based scheme.
+@highlight The strategy proof scheme guaranteeing minimum equilibrium market prices.

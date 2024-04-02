@@ -1,0 +1,9 @@
+ Fluidised bed bioreactors are a promising alternative to provide high cell densities and a more defined culture environment for 2D and 3D cell cultures . However for their wider use in biotechnology applications a better understanding of their hydrodynamics is required . In this work the fluidisation properties of three common particles in tissue engineering single cells cells clusters and gel microbeads were evaluated and compared to established liquid fluidisation correlations . Only a few studies to date have attempted to characterise the hydrodynamic behaviour of gel beads while none were found for the other two particle types studied here . All particles were in the micrometre size range and their densities were found to be near equal to the fluid phase . The particle terminal velocities were measured and corrected for hindrance effects but these values were poorly predicted by equations proposed for rigid smooth spheres . Bed expansion data was presented in the form of logarithmic plots of velocity against voidage and analysed in terms of Richardson Zaki parameters
+
+@highlight Physical properties of cells spheroids and gel beads were characterised.
+@highlight Terminal velocity is sensitive to particle density using Turton Clark equation.
+@highlight The bed expansion was characterised in terms Richardson Zaki equation.
+@highlight Experimental voidage values were not well predicted by existing models.
+@highlight Using experimental
+@highlight and
+@highlight was recommended for an initial FBB design.

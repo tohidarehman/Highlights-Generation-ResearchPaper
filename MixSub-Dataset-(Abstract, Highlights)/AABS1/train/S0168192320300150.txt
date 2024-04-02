@@ -1,0 +1,7 @@
+ Sap flow measurements are a crucial tool for studies of plant water relations but upscaling to tree or stand transpiration requires accounting for the radial distribution of sap flow across the stem . Because radial sap flow profiles can not be measured with single point measuring methods predicting their shape based on easier to measure structural or functional traits is a potential route to cost efficiently improve water use estimates .
+
+@highlight We analysed sap flow measurements of 8 Costa Rican tropical dry forest species.
+@highlight Radial sap flow profiles were modelled in a hierarchical Bayesian framework.
+@highlight We tested if structural and functional traits predict the shape of radial profiles.
+@highlight Including tree height improved the predictive accuracy for new trees and species.
+@highlight Ignoring radial profiles was shown to overestimate tree water use by on average 26 .

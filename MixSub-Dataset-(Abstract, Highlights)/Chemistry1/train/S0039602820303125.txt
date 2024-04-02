@@ -1,0 +1,9 @@
+ Reaction networks calculated using density functional theory play a crucial role in understanding and predicting heterogeneous catalyst performance . However results obtained using different density functionals can vary significantly . Accordingly it is important to assess the accuracy of available functionals in capturing adsorption energetics derived from single crystal adsorption microcalorimetry experiments . Here we evaluate how different density functionals describe the molecular and dissociative adsorption of CH
+
+@highlight Enthalpies of adsorption for CH
+@highlight I CH
+@highlight  I H and CH
+@highlight dissociation on Ni 111 are calculated.
+@highlight Results from different density functionals are compared to experiments.
+@highlight Each adsorption process is described accurately by at least one functional.
+@highlight Within experimental error no functional is accurate for describing all adsorption processes studied.

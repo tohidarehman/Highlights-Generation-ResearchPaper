@@ -1,0 +1,6 @@
+ In this work we examine how the properties of the poly 3 hexylthiophene ZnO solar cell are affected by interfacial modification with phenyl C61 butyric acid and doping with Sr . Using density functional theory calculations on ideal models of the P3HT ZnO
+
+@highlight PBE0 identified as the most accurate functional to model the P3HT ZnO solar cell.
+@highlight Sr doping has a negligible impact on P3HT ZnO adhesion while PCBA weakens adhesion.
+@highlight PCBA decreases interfacial dipole to increase band offsets.
+@highlight Sr decreases interfacial dipole but changes ZnO workfunction to decrease band offsets.

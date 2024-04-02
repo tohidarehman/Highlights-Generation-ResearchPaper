@@ -1,0 +1,6 @@
+ The dynamic liquid distribution and holdup in a TBR packed with porous quadrilobe catalyst were studied using advanced Gamma ray Computed Tomography . A multi compartment module is used to quantify the maldistribution factor which shows that there is a transition region from high maldistribution to relatively uniform distribution depending on the flowrates . The 3D maldistribution maps show that there is more dynamic liquid close to the column center at high bed height and there is no high correlation between the average dynamic liquid holdup and the bed height . If the gas flowrate increases while keeping the liquid flowrate fixed the average dynamic liquid holdup decreases however if the gas flowrate is fixed there is no dominant increasing or decreasing trend showing up . A Deep Neural Network model and a pseudo 3D model are developed showing high accuracy for predicting the local dynamic liquid holdup at different bed heights radius and flowrates .
+
+@highlight Dynamic liquid holdup measurement using advanced Gamma ray Computed Tomography.
+@highlight Gas flowrate has more significant impact on dynamic liquid holdup rather than liquid flowrate.
+@highlight Deep Neural Network shows high accuracy for predicting the dynamic liquid holdup.
+@highlight Pseudo 3D model is able to genuinely predict the local dynamic liquid holdup.

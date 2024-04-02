@@ -1,0 +1,7 @@
+ A simple model to account for subgrid scale turbulence radiation interaction in the filtered radiative emission is evaluated for coupled and uncoupled simulations of a scaled up version of the Sandia flame D. The model is assessed based on comparisons with a reference solution that accounts for SGS TRI by employing the Eulerian Monte Carlo stochastic field method . While SGS TRI effects are in general marginal for the studied flame results of the uncoupled calculations show that the model consistently gives a better approximation of the filtered emission than what is obtained by fully neglecting SGS fluctuations . However this improvement is small due to a significant underprediction of the SGS temperature variance
+
+@highlight A subgrid scale SGS turbulence radiation interaction models accuracy is assessed.
+@highlight The configuration under study is a scaled version of the Sandia flame D.
+@highlight The reference solution is given by the Eulerian Monte Carlo stochastic field method.
+@highlight The model performs slightly better than an approach that neglects SGS fluctuations.
+@highlight A major inaccuracy of the model is in its estimate of the SGS temperature variance.

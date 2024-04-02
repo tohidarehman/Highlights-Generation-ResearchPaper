@@ -1,0 +1,6 @@
+ Intracellular processing of antigens is crucial for the generation of T cell immunity towards cancers since cleaved protein products are the molecular targets of these adaptive lymphocytes . The majority of antigenic peptides requires the TAP transporter to gain access to the peptide loading complex in the ER lumen where they bind MHC class I . This pivotal role of TAP in antigen processing makes the system vulnerable for modifications in cancer cells and indeed human cancers frequently silence this gene epigenetically . Interestingly TAP independent processing pathways then become apparent and partly restore MHC class I presentation with alternative peptides . In this review we discuss recent insights on how TAP independent processing of immunogenic peptides occurs and how these antigens can be exploited for cancer immunotherapy .
+
+@highlight TAP function is often abrogated in malignant and virus infected cells.
+@highlight TAP deficiency allows presentation of an alternative immunopeptidome.
+@highlight TAP independent peptides are predominantly derived from signal sequences and C terminal tails.
+@highlight TAP independent peptides are potential tumor antigens for immunotherapy.

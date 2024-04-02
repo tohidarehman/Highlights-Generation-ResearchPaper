@@ -1,0 +1,6 @@
+ In recent years there has been a rapid growth of smart apps that could interact with users and implement personalized rewards to coordinate and change user behavior . Understanding user behavior is an enabling factor for the success of these promising apps . However existing statistical models for modeling user behavior encounter limitations . Choice models based on Random Utility Maximization commonly assume that the data collection is independent with the human behavior . However when users interact with the apps the real potential and also the real challenge for modeling user behavior is that the apps not merely are data collection tools but also change users behaviors . In this work we model the user behavior as a graphical model examine our hypothesis that existing choice models are not suitable and develop an interesting computational strategy using max margin formulation to overcome the learning challenge of the our proposed graphical model that is named the Latent Decision Threshold model .
+
+@highlight Latent Decision Threshold model characterizes the userapp interaction process.
+@highlight LDT model provides a characterization of decision making behavior.
+@highlight Max margin learning algorithm can efficiently estimate the parameters.
+@highlight The LDT model can help discover users behavior patterns.

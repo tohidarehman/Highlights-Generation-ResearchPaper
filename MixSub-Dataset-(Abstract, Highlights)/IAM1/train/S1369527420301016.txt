@@ -1,0 +1,7 @@
+ Environmental triggers in the context of genetic susceptibility drive phenotypes of complex immune disorders such as Inflammatory bowel disease . One such trigger of IBD is perturbations in enteric commensal bacteria fungi or viruses that shape both immune and neuronal state . The epigenome acts as an interface between microbiota and context specific gene expression and is thus emerging as a third key contributor to IBD . Here we review evidence that the host epigenome plays a significant role in orchestrating the bidirectional crosstalk between mammals and their commensal microorganisms . We discuss disruption of chromatin regulatory regions and epigenetic enzyme mutants as a causative factor in IBD patients and mouse models of intestinal inflammation and consider the possible translation of this knowledge . Furthermore we present emerging insights into the intricate connection between the microbiome and epigenetic enzyme activity via host or bacterial metabolites and how these interactions fine tune the microorganism host relationship .
+
+@highlight Epigenetics is a therapeutically tractable mechanism linking genetics and environmental cues in IBD.
+@highlight Variants of human epigenetic regulators or regulatory regions associate with IBD susceptibility.
+@highlight Individual epigenetic enzymes exacerbate or protect mouse models of colitis.
+@highlight Intestinal bacteria modulate DNA histone modifications and chromatin accessibility.
+@highlight Cellular and bacteria derived metabolites are major determinants of epigenetic enzyme function.

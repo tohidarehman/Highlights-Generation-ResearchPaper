@@ -1,0 +1,8 @@
+ Crystal structure prediction and characterization data have been computed for two novel carbon free energetic compounds namely 1 4 2 3 5 6 dioxatetrazinane and its 2 5 dinitro derivative . Dynamic and mechanical stability of these crystalline materials at ambient pressure has been confirmed . Ab initio molecular dynamics simulations confirmed thermal stability of DOTZ at 298K and of DNDOTZ at 77K . A comprehensive spectral characterization has been performed to provide information for future experimental identification . The parent molecule exhibits powerful detonation properties which exceed those of most compounds hitherto obtained experimentally or predicted theoretically . Meanwhile DNDOTZ is predicted to be an effective solid oxidant for common explosives with negative oxygen balance such as TNT TNB DATB and TATB . Such mixtures demonstrate better propulsive properties than corresponding mixtures of these explosives with gaseous oxygen . By virtue of its zero oxygen balance the only detonation products of DOTZ are environmentally friendly molecular nitrogen and water . Therefore this compound is of great potential interest for further energetic applications .
+
+@highlight Two novel carbon free crystalline energetic compounds are predicted and characterized.
+@highlight One of them represents a powerful green explosive yielding only N
+@highlight and H
+@highlight O as detonation products.
+@highlight Its detonation properties exceed those of most explosives hitherto synthesized or predicted.
+@highlight The other compound is a very effective solid oxidant which outperforms gaseous oxygen.

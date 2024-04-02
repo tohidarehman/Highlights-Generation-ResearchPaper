@@ -1,0 +1,5 @@
+ We consider a multi dimensional procurement problem in which sellers have private information about their costs and about a possible design flaw . The information about the design flaw is necessarily correlated . We solve for the Bayesian procurement mechanism that implements the efficient allocation at the lowest cost under the constraint that sellers are protected by limited liability . We show that the rents obtained from reporting costs truthfully can be used to reduce the rents sellers must get for reporting the flaw . We compare the efficient Bayesian mechanism to the efficient ex post incentive compatible mechanism studied by Herweg and Schmidt that is informationally less demanding .
+
+@highlight We consider a multi dimensional procurement problem.
+@highlight Sellers have private information about their costs and about a possible design flaw.
+@highlight We compare the efficient Bayesian to the ex post incentive compatible mechanism.

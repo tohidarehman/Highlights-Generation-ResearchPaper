@@ -1,0 +1,7 @@
+ This work demonstrates the challenges for selenium determination in bean samples using high resolution continuum source Graphite Furnace Atomic Absorption Spectrometry and line source Graphite Furnace Atomic Absorption Spectrometry . Different chemical modifiers were optimized namely Ir Ru and Pd Mg nitrates . At selenium contents 5ngg
+
+@highlight A 30pgg
+@highlight detection limit of Se in beans was achieved by in situ trapping setup.
+@highlight At ultraviolet range high resolution continuum source AAS drawbacks were explored.
+@highlight Limitation of the HR CS GF AAS at 196.026nm was illustrated.
+@highlight Neither HR CS GF AAS nor LS GF AAS is suitable for Se quantification at ng level.

@@ -1,0 +1,8 @@
+ Category based induction task was combined with ERP to unravel whether prior knowledge and property interact when inferring on genes or diseases . Larger P2 amplitudes for near taxonomic causal distances relative to far ones as well as larger LPC for taxonomic relation relative to thematic relation are found in both gene and disease tasks . However smaller N400 is found for taxonomic relation in gene task and thematic relation in disease task respectively and larger LPC at 700 850 ms for near taxonomic distance in the gene task and near causal distance in the disease task . These results suggested that the category based inductive reasoning is context sensitive and there may be four stages of category based inductive reasoning the early automatic comparison of features relations features relations generalization process the extraction of common relationship rule the inference generation .
+
+@highlight Semantic relation distance causal distance asymmetry were studied in gene and disease induction.
+@highlight Larger P2 was found for near taxonomic causal distances in both gene and disease tasks.
+@highlight Smaller N400 is found for taxonomic relation in gene and for thematic relation in disease task.
+@highlight Larger LPC at 550 700 ms was found for taxonomic relation in both gene and disease tasks.
+@highlight LPC at 700 850 ms PSW reveal the plausibility in inductive reasoning
+@highlight The category based inductive reasoning is context sensitive and includes four stages at least.

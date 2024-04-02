@@ -1,0 +1,6 @@
+ Electromagnetic scattering and absorption of multilayered spheres illuminated by a plane wave or a shaped beam are important issues because of the extensively applications . However computation of the internal fields suffers from several difficulties especially when the sphere contains strongly absorbing layers . In the paper reformulation of expressions of electromagnetic fields are made by replacing the unnormalized associated Legendre functions and the Riccati Bessel functions with the normalized associated Legendre functions and the ratios of Riccati Bessel functions . Thus the beam shape coefficients and the Mie coefficients are redefined . An improved recurrence algorithm is presented for calculating the redefined Mie coefficients and numerical calculations are performed for exemplifying the algorithm . It is numerically shown that the reformulation of expressions rescales the involved quantities into the reasonable ranges for machine calculation and the modified algorithm is robust reliable and efficient .
+
+@highlight Recast the analytical expressions of the electromagnetic fields.
+@highlight Redefine the beam shape coefficients and the Mie coefficients.
+@highlight An improved recurrence algorithm is presented for redefined Mie coefficients.
+@highlight Reformulation of expressions rescales the quantities into reasonable ranges.

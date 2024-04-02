@@ -1,0 +1,6 @@
+ A textile structure is a periodic arrangement of threads in the thickened plane . A topological classification of textile structures is harder than for classical knots and links that are non periodic and restricted to a bounded region . The first important problem is to encode all textile structures in a simple combinatorial way . This paper extends the notion of the
+
+@highlight Textile structures can be considered as knotted structures embedded in a thickened torus.
+@highlight To facilitate computation with these structures we develop an encoding similar to the Gauss code.
+@highlight This encoding can give rise to non realizable textiles we describe an algorithm for determining realizability directly from the code itself.
+@highlight We employ this algorithm to facilitate an enumeration all isotopically distinct oriented textile structures with up to three crossings.

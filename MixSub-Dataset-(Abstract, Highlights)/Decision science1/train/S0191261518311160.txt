@@ -1,0 +1,7 @@
+ We develop and study a model of congested transit service under monopoly when potential users differ in their characteristics . Given travel time delays and crowding externalities general user heterogeneity is characterized in a three dimensional space of value of time value of crowding and willingness to pay . A unique user demand equilibrium is shown to exist . The operator chooses the fare and service frequency to maximize a weighted sum of profit and consumers surplus . The socially optimal fare consists of marginal operating cost external user congestion cost and a nonnegative shadow price on the vehicle capacity constraint which may or may not bind . A cost recovery formula is also derived . Two methods for optimal design capacity are proposed that differ as to whether fare and frequency are exogenous or set conditional on capacity choice . Two numerical examples one without and one with crowding are presented to illustrate the theoretical results .
+
+@highlight A model of congested transit service with heterogeneous users is presented.
+@highlight A unique user demand equilibrium is shown to exist.
+@highlight The socially optimal fare comprises three components.
+@highlight A general cost recovery formula is derived.
+@highlight Two methods for optimal design capacity are proposed.

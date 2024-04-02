@@ -1,0 +1,5 @@
+ This short communication concerns errors in the albedo computation from Sentinel 2 in the article by S. Vanino et al . Capability of Sentinel 2 data for estimating maximum evapotranspiration and irrigation requirements for tomato crop in Central Italy Remote Sensing of Environment vol . 215 2018 Pag . 452470
+
+@highlight Comments about doubtful albedo computation in the article by S. Vanino et al.
+@highlight Errors on the weight computation for Sentinel 2 Table 3 of the article .
+@highlight A revision on the weighting coefficients computation is needed.

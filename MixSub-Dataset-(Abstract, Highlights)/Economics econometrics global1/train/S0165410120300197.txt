@@ -1,0 +1,7 @@
+ Effective tax rates are often used to compare tax avoidance across firms and time . Using firms detailed tax footnote data we find that the effect of valuation allowances related to prior period losses biases GAAP ETRs . This downward bias explains almost all of the downward trend in domestic firms ETRs over the last 20 years . We also find that VAs explain cross sectional differences in ETRs for both domestic and multinational firms . We show this bias extends to cash ETRs and the Henry and Sansing tax avoidance measure . We develop a methodology for substantially reducing the bias in both time series and cross sectional analyses of cash and GAAP ETRs . Overall our results suggest firms loss histories and GAAP rules influence inferences from tax avoidance proxies .
+
+@highlight We provide large scale detail of the components of firms GAAP ETR reconciliations revealing insights about the levels and trends in tax avoidance.
+@highlight We document a downward bias in ETRs from VA releases for both domestic and multinational firms.
+@highlight We find that declines in domestic firm GAAP ETRs are primarily a function of GAAP accounting rules for valuation allowance releases rather than deliberate tax planning.
+@highlight We create a measure of the probability of VA release to mitigate downward ETR biases associated with VA releases in profitable firm years.
+@highlight We show that incorporating the probability of a VA release improves the explanatory power of traditional cross sectional tax avoidance models by 1657 percent.

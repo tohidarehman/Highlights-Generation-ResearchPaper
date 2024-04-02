@@ -1,0 +1,6 @@
+ A reactive distillation process for the production of ethanolamine from ethylene oxide and ammonia catalyzed by water was presented . The possible selectivity and energy consumption benefits of the proposed process were examined by theoretical simulations using the Aspen Plus software package . The effects of different designs and operating variables on the performance of the RD column were investigated based on sensitivity analysis so that the near optimal parameters for preliminary process design were obtained . For identifying the potentials of the RD process for ethanolamine manufacture the total annual cost of the RD based process were compared with a conventional plug flow reactor based process . The results obtained indicated that the TAC was reduced by 39.1 . Therefore it could be concluded that RD process was promising for the production of ethanolamine .
+
+@highlight A reactive distillation RD process for ethanolamine production was proposed.
+@highlight The effects of design and operating parameters on RD column performance were investigated.
+@highlight A 70.3 selectivity of monoethanolamine was achieved under the optimum conditions.
+@highlight The total annual cost of the RD process was reduced by 39.1 compared with a conventional plug flow reactor based process.

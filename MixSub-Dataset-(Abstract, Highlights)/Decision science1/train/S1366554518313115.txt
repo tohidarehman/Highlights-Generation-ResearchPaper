@@ -1,0 +1,6 @@
+ We review recent studies on transportation network performance under perturbations . Three representative concepts relating to network performance are covered reliability vulnerability and resilience . With an overview of the definitions and the quantitative indices of these three concepts we analyse and compare their similarities and differences in the context of transportation . These concepts differ from each other in terms of focus measurement and application scenario . Numerical examples are conducted to assess these concepts under different perturbation scenarios . The results indicate their rationale in reflecting network performance under perturbations yet their outputs differ . Moreover the relationship among the three concepts is intuitively illustrated by the analysis results .
+
+@highlight Review recent studies on reliability vulnerability and resilience of transportation network.
+@highlight Definitions quantitative indices and analyses of the three concepts are overviewed.
+@highlight The characteristics of and the relationship among the three concepts are investigated.
+@highlight We provide remarks on the foci measurements and applications of the three concepts.

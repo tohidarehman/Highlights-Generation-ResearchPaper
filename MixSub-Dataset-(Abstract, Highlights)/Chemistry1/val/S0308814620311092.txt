@@ -1,0 +1,7 @@
+ Among the existing multiplex genetically modified organism detection methods significant problems are highlighted including amplification asymmetry of different targets and the low detection throughput which limits their capacity to meet the requirements of high throughput analysis . To mitigate these challenges a turn on ultra sensitive multiplex real time fluorescent quantitative biosensor is developed . In this system the multiplex ligation dependent amplification universal primer and universal probe are innovatively combined which can enhanced the amplification specificity overcome asymmetric amplification and guarantee the homogeneity of amplification efficiency simultaneously . Furthermore both single and multiplex detection results can be output by the fluorescent group labeled on universal TaqMan probes for different targets in real time . After optimization the quantitative detection limit was 5pg . In conclusion this strategy could serve as an important tool for GMO detection in processed and commercially available products even in the fields that require reliable and sensitive detection of DNA targets .
+
+@highlight A turn on ultra sensitive multiplex real time quantitative biosensor is developed.
+@highlight The amplification asymmetry was overcome by the universal primer.
+@highlight The homogeneity of amplification efficiency is guaranteed by universal probe.
+@highlight The specificity of the amplification was enhanced by MLPA.
+@highlight The strategy is universal and the quantitative detection limit is as low as 1nM.

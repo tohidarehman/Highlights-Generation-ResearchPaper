@@ -1,0 +1,7 @@
+ Cropland abandonment because of rural depopulation or policy interventions has become a key issue in Chinese mountainous areas . One such region is the Guangxi Karst Mountainous Area a zone where more than 59 of total land area is hilly . Although depopulation and declining agriculture since 2000 within the GKMA have led to vast areas of abandoned cropland the spatiotemporal distribution that underlies this pattern as well as its causes remain little understood . We therefore estimated the extent of cropland abandonment since 2001 within this region using land use trajectories derived from Moderate Resolution Imaging Spectroradiometer Normalized Difference Vegetation Index data alongside phenology metrics . The results of this analysis show that 4.89 0.5610
+
+@highlight Extent of cropland abandonment of the GKMA was mapped using NDVI time series.
+@highlight Abandoned cropland was widespread in the GKMA 4.89 of total area .
+@highlight CAR in the GKMA initially increased and then slightly decreased.
+@highlight Determinants of CAR change was explored with a geographical detector model.
+@highlight Environmental factors have exerted a more significant effect on CAR.

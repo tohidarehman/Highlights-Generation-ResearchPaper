@@ -1,0 +1,7 @@
+ This study assesses the value of a city by using the housing price function with a geographically weighted regression model including various social economic and environmental factors . To assess these values various specific data scoressuch as those related to ethnic groups green areas crime rates education unemployment rates number of entrepreneurs and environmental qualitywere considered in a case study of London . The results indicate that some variables such as time to city center and entrepreneurship have a positive impact on the local areas value in London as shown by housing prices while those related to unemployment have a negative impact . Moreover although the London city center has benefitted more in terms of value than its outskirts have a few specific policies related to startups and entrepreneurship have succeeded in connecting these areas to existing companies and entrepreneurs . In general large cities may be better equipped to promote such startup and entrepreneurship policies under local industry plans for future development .
+
+@highlight The value of a city was analyzed using a land price function in London case.
+@highlight The explanatory variables include entrepreneurial and urban factors.
+@highlight The variables of time to city center and entrepreneurship have a positive impact.
+@highlight The variable of unemployment have a negative impact.
+@highlight The London city center has benefitted more in terms of value than its outskirts have.

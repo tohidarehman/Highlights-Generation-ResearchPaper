@@ -1,0 +1,5 @@
+ Phase ratio for an high performance liquid chromatography column is a parameter defined as the ratio between the volume of the stationary phase
+
+@highlight Evaluates the phase ratio for three C18 columns at seven temperatures between 20 C and 50 C.
+@highlight Shows that phase ratio in RP HPLC varies with temperature.
+@highlight Describes the implications of phase ratio variation with temperature on the use of vant t Hoff plots for the evaluation of enthalpy and entropy for RP HPLC separations.

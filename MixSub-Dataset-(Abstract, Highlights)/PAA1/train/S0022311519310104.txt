@@ -1,0 +1,7 @@
+ This research demonstrated the first time that synchrotron X ray micro computed tomography was utilized to analyze the three dimensional morphology of the microstructure of irradiated nuclear fuel . Both absorption contrast and propagation based phase contrast enhanced CT techniques were evaluated . Porosity and phase region volumes were determined in neutron irradiated uranium 10wt zirconium using propagation based phase contrast enhanced CT . Volumes were calculated using image processing software and algorithms with the porosity volume subsequently compared to the ASTM
+
+@highlight First synchrotron CT characterization of neutron irradiated U10Zr fuel.
+@highlight Synchrotron CT revealed the presence of three distinct phase regions and pores.
+@highlight Volume fraction assessment revealed that 7.2 of the U10Zr fuel specimen is porous.
+@highlight Porosity distribution is further classified on basis of pore volume and morphology.
+@highlight Localized microscopic fuel swelling for the intermediate redistribution concentric zone is 7.7 .

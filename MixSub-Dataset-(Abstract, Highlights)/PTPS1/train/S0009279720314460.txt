@@ -1,0 +1,8 @@
+ A cellular model of cardiomyocytes and mitochondria isolated from mouse liver were used to understand the drug action of BPDZ490 and BPDZ711 two benzopyran analogues of the reference potassium channel opener cromakalim on mitochondrial respiratory parameters and swelling by comparing their effects with those of the parent compound cromakalim . For these three compounds the oxygen consumption rate was determined by high resolution respirometry and their impact on adenosine triphosphate production and calcium induced mitochondrial swelling was investigated . Cromakalim did not modify neither the OCR of H9c2 cells and the ATP production nor the Ca induced swelling . By contrast the cromakalim analogue BPDZ490 induced a strong increase of OCR while the other benzopyran analogue BPDZ711 caused a marked slowdown . For both compounds 1 displayed a biphasic behavior while 2 still showed an inhibitory effect . Both compounds 1 and 2 were also found to decrease the ATP synthesis with pronounced effect for 2 while cromakalim remained without effect . Overall these results indicate that cromakalim as parent molecule does not induce
+
+@highlight New cromakalim analogues inhibit mitochondrial respiration rate with low toxicity.
+@highlight Benzopyran derivatives inhibit the Calcium induced swelling of mitochondria.
+@highlight Cromakalim
+@highlight does not act on respiration rate and swelling of mitochondria.
+@highlight Benzopyran derivatives decrease the ATP synthesis.
+@highlight BPDZ490 behaves as a mild uncoupling agent and BPDZ711 as a strong inhibitor.

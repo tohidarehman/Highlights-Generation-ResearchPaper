@@ -1,0 +1,5 @@
+ We propose a sectional hologram reconstruction method through complex deconvolution . By taking into account of both amplitude and phase of wavefront propagation into the inverse problem model we can perform more robust and better imaging quality in the sectional holographic reconstructions . The sectional capacity is about six times the diffraction limited resolution and the experimental results show that our method can achieve the best imaging quality compared to the state of the art techniques .
+
+@highlight The wave propagation in our method is general Rayleigh Sommerfeld diffraction.
+@highlight We apply 3DTV regularization which makes the proposed method also able to achieve axial imaging.
+@highlight The reconstructed object slices at iterations are treated as a complex field.

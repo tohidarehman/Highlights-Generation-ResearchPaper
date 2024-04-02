@@ -1,0 +1,6 @@
+ Wildlife train collisions particularly those with large mammals pose a threat to the safety and continuity of rail operations . In this study we collected 1 909 WTCs which took place in the Czech Republic between 2011 and 2019 in order to identify the most hazardous WTC locations and their spatial pattern . 208 WTC hotspots were identified using the KDE method . They contained 782 collisions and accounted for 0.7 of the Czech rail network length . We also identified and ranked the most important WTC hotspots using a collective risk parameter . WTCs occurred more frequently in the vicinity of a forest or stream and were more distant from arable land or urban industrial areas than from other places on the entire Czech rail network . The results can help in placing crash safety measures as a large proportion of accidents only occurred on less than 1 of the rail network .
+
+@highlight 1 909 wildlife train collisions WTCs were recorded between 2011 and 2019.
+@highlight Roe deer were involved in 46 and wild boar in 36 of WTCs.
+@highlight 208 WTC hotspots were identified using the KDE method.
+@highlight Large proportion of accidents 41 occurred on less than 1 of the rail network.

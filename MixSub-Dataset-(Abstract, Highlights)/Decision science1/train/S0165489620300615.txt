@@ -1,0 +1,7 @@
+ By the GibbardSatterthwaite theorem every reasonable voting rule for three or more alternatives is susceptible to manipulation there exist elections where one or more voters can change the election outcome in their favour by unilaterally modifying their vote . When a given election admits several such voters strategic voting becomes a game among potential manipulators a manipulative vote that leads to a better outcome when other voters are truthful may lead to disastrous results when other voters choose to manipulate as well . We consider this situation from the perspective of a boundedly rational voter using an appropriately adapted cognitive hierarchy framework to model voters limitations . We investigate the complexity of algorithmic questions that such a voter faces when deciding on whether to manipulate . We focus on
+
+@highlight We adapt the cognitive hierarchy framework to obtain a refined model of manipulation in voting.
+@highlight We investigate the computational complexity of manipulation in k approval voting elections.
+@highlight For
+@highlight we provide two polynomial time algorithms for would be manipulators.
+@highlight For k4 we show that manipulation is computationally hard NP and co NP .

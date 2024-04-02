@@ -1,0 +1,7 @@
+ Understanding the spatiotemporal dynamics of total suspended matter in waters is necessary to promote efficient water resource management . In our study we have estimated the spatiotemporal pattern of TSM with the combination of time series Landsat images and field survey . Among various remote sensing derived parameters the red blue band turns to be robust and the most sensitive to the TSM from field measurements . In Songnen Plain the mean annual TSM in 60.5 of the water bodies decreased from 1984 to 2018 . The decreasing of TSM is likely due to the increasing of vegetation in the area . The TSM concentration in waters declined from April to July and then increased from September onwards . We also found the TSM in water bodies in Songnen Plain has very high spatial variation . Our results indicated that the meteorological factors such as wind and precipitation may affect the variation of TSM . Our results demonstrate that long term Landsat data are useful to examine TSM in inland waters . Our findings can support for water resource management under human activities and climate change .
+
+@highlight Landsat images and field surveys were used for mapping long term TSM.
+@highlight The Landsat based models were developed for spatiotemporal TSM.
+@highlight TSM were generally de creasing for 35 years during 19842018.
+@highlight TSM showed significant spatial heterogeneities in our study area.
+@highlight Vegetation wind and precipitation were the key variables affecting TSM.

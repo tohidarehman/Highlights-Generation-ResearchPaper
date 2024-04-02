@@ -1,0 +1,6 @@
+ In the current paper the thermo fluid characteristics of a new design of curved tube called a triple spiral tube heat exchanger was achieved with a brave comparative with a double spiral tube heat exchanger as particular reference . A three dimensional computational fluid dynamic model was developed using Ansys 14.5 software package . The Realize k model had been applied with enhanced wall treatment to simulate the thermo fluid characteristics . The governing equations were solved by a finite volume discretization method . The new design was created by adding a third tube to a double concentric spiral tube heat exchanger . The study carried out under consideration of turbulent fluid to fluid heat transfer condition . The influence of different key design parameter such as inlet hot fluid temperatures flow arrangements concentration of Alumina Al
+
+@highlight A new design of triple spiral tube heat exchanger is presented.
+@highlight Three dimensional CFD study is achieved.
+@highlight The effect of hot fluid source inlet temperature flow arrangements and Alumina nanofluid and energy saving are the main points of interest.
+@highlight Nusselt number friction factor Effectiveness heat transfer per unit pumping power and performance index are presented.

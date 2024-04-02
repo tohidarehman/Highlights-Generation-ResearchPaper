@@ -1,0 +1,6 @@
+ In order to identify the signature genes of tumorigenesis the pattern recognition method was used to analyze the gene methylation data which included only normal and cancer samples and was collected from the TCGA database . Here we analyzed the DNA methylation profiles of the six types of cancer and the ME signature genes for each cancer were selected by means of a combination of correlation student s
+
+@highlight Focus on the early occurrence of cancer.
+@highlight The efficient and versatile method of gene screening for the occurrence of early cancer.
+@highlight The recognition accuracy and sensitivity greater than 97 for all cancers.
+@highlight The occurrence of early cancer is closely related to immune and inflammatory responses.

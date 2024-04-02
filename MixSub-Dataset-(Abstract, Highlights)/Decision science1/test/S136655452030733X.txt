@@ -1,0 +1,7 @@
+ Optimizing the duration of delivery tours is a crucial issue in urban logistics . In most cases travel times between locations are considered as constant for the whole optimization horizon . Making these travel times time dependent is particularly relevant in real urban traffic environments as traffic conditions and thus travel speeds vary according to the time of the day . In this paper we review the literature on time dependent routing problems with a specific focus on benchmarks and performance criteria used to experimentally evaluate the interest of exploiting time dependent data showing the lack of studies on the impact of spatio temporal features of the benchmark on solutions . Hence we introduce a new benchmark produced from a realistic traffic flow micro simulation of Lyon city allowing us to consider different levels of spatial granularity
+
+@highlight The paper is about when it is worth using time dependent data for routing problems.
+@highlight The actual city distribution of sensors favors tours yield by constant costs.
+@highlight Constraints of precedence maximum loads reduce the interest of time dependency.
+@highlight Imposing time window constraints favor time dependent traffic data.
+@highlight This is also the case when the networks sensors cover more than 50 of the roads.

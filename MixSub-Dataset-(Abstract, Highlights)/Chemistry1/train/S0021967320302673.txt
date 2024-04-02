@@ -1,0 +1,7 @@
+ An optimization study of an integrated periodic counter current chromatography process in a monoclonal antibody downstream process at lab scale is presented in this paper . The optimization was based on a mechanistic model of the breakthrough curve in the protein A capture step . Productivity and resin utilization were the objective functions while yield during the loading of the capture column was set as a constraint . Different integration approaches were considered and the effect of the feed concentration yield and the protein A resin was studied . The breakthrough curve and the length of the product recovery which depended on the integration approach determined the process scheduling . Several optimal Pareto solutions were obtained . At 0.5mgmL
+
+@highlight This is the first to our knowledge study of the integration alternatives of multi column continuous chromatography in a downstream process.
+@highlight Integration approaches with higher cycle time leads to lower productivity.
+@highlight The use of a surge vessel after the capture allows to achieve a higher productivity.
+@highlight Optimal values of capture productivity and resin utilization were obtained from a model based optimization.
+@highlight The integrated downstream process was validated experimentally at lab scale with two KTA pure systems.

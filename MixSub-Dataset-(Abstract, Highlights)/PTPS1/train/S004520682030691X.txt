@@ -1,0 +1,7 @@
+ As human serum albumin being the most abundant blood protein involved in the role of transport of molecules we have designed HSA binding organic charge transfer complex between 2 hydroxypyridine and oxalic acid showing antimicrobial activities . The type of interactions between HSA and synthesized complex at the molecular level was studied through fluorescence spectroscopy . Binding constant along with the type of quenching mechanism was shown through the Stern Volmer equation . Molecular docking tool also justifies the binding results obtained from fluorescence by providing different interactions FEB hydrogen bonding and H bonding surfaces . Antimicrobial activity was screened against three bacteria
+
+@highlight A protein binding charge transfer complex between 2 HP and OA was synthesized and characterized.
+@highlight Jobs method and Ross and Labe equation confirms 2 1 stoichiometry of synthesized complex.
+@highlight Fluorescence quenching shows binding of human serum albumin with complex through aromatic residues.
+@highlight Antibacterial and antifungal activities were explored and compared with that of the standard drugs Gentamicin and Nystatin respectively.
+@highlight DFT calculations provides HOMO LUMO energy gap and supports experimental data.

@@ -1,0 +1,6 @@
+ CMSX 4 nickel superalloy specimens in single crystal form were prepared for in situ machining trials using femtosecond pulse laser processing in a focussed ion beam scanning electron microscope . Preliminary laser ablation trials were carried out to establish the optimum focus distance . Various pillars were then prepared using the femtosecond laser varying rectangular hatch pattern scan speed laser line separation and frequency . Polishing trials used helical laser hatch patterns to refine pillar shape and produce circular pillars with high aspect ratio . Example pillars were characterised by FIB SEM cross sectional examination to assess microstructural changes and re deposition of vaporised material . The final selected laser parameters were able to produce a stable high aspect ratio pillar in 4501s 1600m high with tip diameter 138m . An area 655656m was cleared around the pillar with over 0.65mm
+
+@highlight Production of high aspect ratio micropillars is viable using femtosecond pulse lasers.
+@highlight The optimised process used both rectangular and helical laser traverse patterns.
+@highlight Processing is rapid a 1600m pillar with tip diameter 138m was made in 75min.
+@highlight Heat affected zone is small 200nm and re deposition is dependent on the laser path.

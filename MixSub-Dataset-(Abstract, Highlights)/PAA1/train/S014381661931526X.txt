@@ -1,0 +1,7 @@
+ Microstructured surfaces over large areas are typical in diffractive optics and biomimetic surfaces . The topography measurement is challenging due to the multi scale nature . In this paper an efficient stitching method is proposed for fusion of multiple subapertures to produce a large area topography . The first step is detecting edge features and then projecting them on the OXY plane . The next step is correction of lateral coordinates by registering the edge curves in overlapping regions . The change of lateral coordinates is linearly related to the lateral shifts and clocking angle which are estimated by simply solving a linear least squares problem . In the final step height change is also linearly related to the piston and tip tilt of subapertures . Hence it is corrected by minimizing the height difference in overlapping regions which is again modeled as a linear least squares problem . The stitching method is experimentally verified on a holographic sample . Totally seven by seven subapertures are measured with an interference microscope and seamlessly stitched together .
+
+@highlight Measurement of large area micro topography with subaperture stitching.
+@highlight Detection of edge features with slope threshold and projection on OXY plane.
+@highlight Fast correction of 2D lateral coordinates by solving a linear least squares.
+@highlight Correction of height coordinates by solving a linear least squares problem.
+@highlight No need for high precision scanning stages with sliding eliminated by stitching.

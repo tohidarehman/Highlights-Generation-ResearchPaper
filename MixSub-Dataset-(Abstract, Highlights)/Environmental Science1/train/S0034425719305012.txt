@@ -1,0 +1,7 @@
+ The worldwide demand for timely and accurate information about ecosystem dynamics at Landsat spatial scale is growing and as of today still exceeds the availability of information . The diversity of required disturbance metrics and trade offs between sensitivity reliability timelines of information generation and flexibility toward potential customizations suggests that a single system is not likely to fill such demand in the near future . To address this challenge the scientific community has been developing and improving various Landsat based algorithms for land change monitoring . We describe the Ecosystem Disturbance and Recovery Tracker version 2.9 a highly automated prototype system in continuous development which has been operated since 2012 by the USDA Forest Service Pacific Southwest Region to generate most current disturbance maps at Landsat scale and provide customized information services and inputs to science and land management applications in the Region .
+
+@highlight eDaRT maps disturbance events status in California to inform forest managers.
+@highlight Works on dense image time series from Landsat satellites.
+@highlight Processing data along multispectral contextual and temporal dimensions.
+@highlight eDaRT 2.9 system and algorithms are presented.
+@highlight High performance observed in tests with 35 000 reference samples.

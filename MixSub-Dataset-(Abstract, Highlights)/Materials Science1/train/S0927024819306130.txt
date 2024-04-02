@@ -1,0 +1,7 @@
+ In this work a dataset containing long term stability data for 404 organolead halide perovskite cells was constructed from 181 published papers and analyzed using machine learning tools of association rule mining and decision trees the effects of cell manufacturing materials deposition methods and storage conditions on cell stability were investigated . For regular cells mixed cation perovskites multi spin coating as one step deposition DMF DMSO as precursor solution and chlorobenzene as anti solvent were found to have positive effects on stability SnO
+
+@highlight Stability of perovskite solar cells were analyzed using machine learning.
+@highlight Association rule mining and decision tree analyses were used.
+@highlight Mixed oxide perovskites some solvent and anti solvent types were more effective.
+@highlight Multi spin deposition was found to increase stability.
+@highlight Some ETL and HTL materials and HTL additives were better for stability.

@@ -1,0 +1,7 @@
+ Crop characterization using Compact Pol Synthetic Aperture Radar data is of prime interest with the rapid advancements of SAR systems towards operational applications . It is noteworthy that as a good compromise between the dual and quad polarized SAR systems the CP SAR offer advantages in terms of the larger swath and lower data rate . The
+
+@highlight An improvement is proposed in existing compact pol
+@highlight decomposition.
+@highlight Results are compared with existing decomposition for point and distributed targets.
+@highlight Scattering powers obtained from the
+@highlight decomposition captures the crop growth.

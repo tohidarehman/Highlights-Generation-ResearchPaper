@@ -1,0 +1,7 @@
+ In ptychography the precise diffraction distance is critical to recover the object with high quality . An auto focus algorithm is proposed which consists of a rough focusing step and a fine focusing step . These two steps make the sharpness statistics for the amplitude reconstructed from a single diffraction pattern and the amplitude retrieved with extended ptychographic iterative engine respectively . Through the two focusing steps the precise focal length is achievable at visible light wavelength . By using the refocused diffraction distance we can acquire the ptychographic retrieved object with improved quality and resolution . The proposed algorithm has been verified by computer simulations and optical experiments both in the ptychographic imaging of biological samples and the ptychographic microscopy of resolution targets .
+
+@highlight Rough focusing can ensure a wide focusing scale with a fast calculation speed.
+@highlight Fine focusing can achieve both the focusing accuracy and the high stability in the axial direction.
+@highlight The auto focusing algorithm for biological samples in ptychographic imaging was verified.
+@highlight The effectiveness of the algorithm is verified by microscopic experiments on the USAF1951 resolution targets.
+@highlight Try to using an optical ptychography to image the group 8 9 of resolution targets.

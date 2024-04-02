@@ -1,0 +1,6 @@
+ In this study a systematic and comprehensive methodology to assess the operating reliability of the underground gas storage in multiple salt caverns is developed and both the thermal hydraulic characteristic and the operating states uncertainties of the gas storage are considered . This method consists of the thermal hydraulic analysis of the gas storage the unit failure probability estimation and the operating reliability assessment of the entire system . Firstly the thermal hydraulic analysis of the underground gas storage during the gas injection and production cycle is undertaken which is used to obtain the operating parameters and determine whether the operational constraints are met . Thereafter the failure criterions and the corresponding limit state functions of the salt cavern and gas injection production well are established to calculate their failure probabilities . Finally the reliability calculation algorithm of the
+
+@highlight A systematic method is developed to assess the operating reliability of the UGS.
+@highlight The ability of the UGS to perform the gas injection production task is evaluated.
+@highlight Thermal hydraulic characteristic and operating state uncertainties are considered.
+@highlight A numerical example based on a real UGS is applied to illustrate the method.

@@ -1,0 +1,6 @@
+ The purpose of our study is to theoretically calculate the HOMO LUMO gaps and aromaticity indices for graphene quantum dot molecule and its seventeen derivatives . The correlation between the HOMO LUMO gap and each aromaticity index was established for the core and petal rings . The linear correlation coefficient for the petal ring is NICS PLR PDI FLU MCBO HOMA Shannon and that for the core ring is Shannon MCBO PLR PDI FLU NICS HOMA . All calculated aromaticity indices show that the petal ring is more aromatic than the core ring . A better correlation between the HOMO LUMO gap and the energetic or electronic delocalization criterion than the structural criterion was observed for the investigated molecules .
+
+@highlight Aromaticity indices were calculated for graphene quantum dot and its derivatives.
+@highlight Energetic electronic criterion shows a better correlation than structural criterion.
+@highlight NICS shows the best correlation with the HOMO LUMO gap.
+@highlight PDI is similar to PLR in terms of aromaticity.

@@ -1,0 +1,7 @@
+ Accurate bathymetric data is essential for marine coastal ecosystems and related studies . In the past decades a lot of studies were investigated to obtain bathymetric data in shallow waters using satellite remotely sensed data . Satellite multispectral imagery has been widely used to estimate shallow water depths based on empirical models and physics based models . However the
+
+@highlight Estimating bathymetric topography with only satellite remotely sensed data.
+@highlight Using new ICESat 2 lidar points and Sentinel 2 multispectral imageries.
+@highlight Proposing signal detection and bathymetric error correction method for ICESat 2.
+@highlight Training empirical models by ICESat 2 bathymetric points to estimate water depths.
+@highlight Drawing and validating bathymetry in two study areas with multi date datasets.

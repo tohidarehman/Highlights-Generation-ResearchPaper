@@ -1,0 +1,7 @@
+ We propose a thermal modulation structure composed of two identical Weyl semimetal slabs separated by a nanoscale vacuum gap . Following Maxwell s equations and the dielectric tensor of the WSM we derive the reflection matrix at the WSM vacuum interface . Based on fluctuation electrodynamics the effects of the Fermi level the number of Weyl nodes the separation between Weyl nodes and the thickness of vacuum gap on the heat transfer coefficient and the thermal modulation contrast are numerically discussed . It is found that the WSM possesses stronger near field radiative ability in the low frequency region where the coupled surface plasmon polaritons between the WSM slabs play a dominant role . By continuously tuning the Fermi level from 0.01 to 0.15 eV a large modulation contrast as high as 58.5 is obtained at T 300K while in the low temperature interval
+
+@highlight The WSM based nanostructure can greatly improve near field thermal modulation.
+@highlight Tuning the Fermi level is an efficient way to modulate the near field heat flux.
+@highlight The near field radiation is dominated by the coupled SPPs between the WSM slabs.
+@highlight A large thermal modulation contrast exceeding 58 is obtained at T 300K.
+@highlight The maximum modulation contrast exceeds 482 at 150K for a vacuum gap of 20nm.

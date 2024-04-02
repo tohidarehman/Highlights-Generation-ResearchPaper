@@ -1,0 +1,6 @@
+ We explore a technique called class activation mapping to investigate how a Machine Learning architecture learns to classify particles based on their light scattering signals . We release our code and also find that different regions of the light scattering signals play different roles in ML classification . These regions depend on the type of particles being classified and on the nature of the data obtained and trained . For instance the Mueller matrix elements
+
+@highlight Used class activation maps CAM to quantify the discriminative importance of light scattering angles for our trained neural networks.
+@highlight The accuracy of our previous neural network was improved significantly using batch normalization max pooling and leaky ReLU activation function.
+@highlight Azimuthally averaged CAMs highlighted scattering angles with high discriminative importance for specific particle classes and configuration of Mueller matrix data input.
+@highlight CAMs can be used to inform scientists where to place detectors for strongest classification profile depending on the type of particles and measurement configuration.

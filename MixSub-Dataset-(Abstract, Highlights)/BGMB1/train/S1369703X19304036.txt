@@ -1,0 +1,7 @@
+ We introduce a novel magnetically coupled mixer drive for biotechnological pharmaceutical and chemical applications requiring high grade aseptic conditions . The proposed design enables its application in larger volume bioreactors compared to traditional magnetic drives due to a possibility of introducing higher power quantities per individual rotor while ensuring higher mixing intensity .
+
+@highlight The design of the novel magnetically coupled mixer drive is demonstrated.
+@highlight Magnetic field simulations were performed for two magnetic drive scales.
+@highlight The magnetic mixers were built according to the simulated designs.
+@highlight Magnetic mixer performance was evaluated in terms of maximal torque and power input.
+@highlight The magnetic drive was applied during K. marxianus cultivations in 15m3 bioreactor.

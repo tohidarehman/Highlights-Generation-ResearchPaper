@@ -1,0 +1,6 @@
+ Illegal parking adversely impacts traffic and creates unsafe conditions for other road users . We present parking enforcement policies to maximize social welfare and profit . We use the bilateral meet function to quantify the friction and characterize key factors of illegal parking behavior . The model shows that the citation probability increases with the violator dwell time but decreases with the violators arrival rate and drivers are inclined to park illegally when their dwell time is short . We also present a counter intuitive finding that the citation fine may increase the dwell time of the violators .
+
+@highlight We present a model of parking enforcement with search friction.
+@highlight We derive the optimal fare and level of enforcement to maximize profit and social welfare.
+@highlight The citation probability increases with the parking dwell time but decreases with violator intensity.
+@highlight The citation fine may increase the dwell time of violators.

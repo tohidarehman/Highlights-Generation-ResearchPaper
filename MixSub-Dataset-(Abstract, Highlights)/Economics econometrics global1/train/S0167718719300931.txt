@@ -1,0 +1,5 @@
+ We analyze a model of vertical integration between manufacturing and design in a monopolistically competitive market . Specialized input manufacturers can serve multiple design firms and the manufacturer designer pairs negotiate a non binding contract to share input customization cost and production surplus . Hand collected data on 387 product lines from 118 semiconductor firms are used to predict the firms decision to outsource manufacturing . We find that for instance the use of design tools that facilitate collaboration and process technologies that facilitate learning are both positively associated with outsourcing consistent with the models prediction .
+
+@highlight We analyze vertical dis integration in a monopolistic competition model.
+@highlight Specialized manufacturers and design firms share input customization cost.
+@highlight Data from the 2007 semiconductor industry support our empirical prediction.

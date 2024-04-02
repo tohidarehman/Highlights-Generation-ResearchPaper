@@ -1,0 +1,8 @@
+ The genomic duplication study is fundamental to understand the process of evolution . In evolutionary molecular biology many approaches focus on discovering the occurrences of gene duplications and multiple gene duplication episodes and their locations in the Tree of Life . To reconstruct such episodes one can cluster single gene duplications inferred by reconciling a set of gene trees with a species tree . We propose an efficient quadratic time algorithm to solve the problem of genomic duplication clustering in which input gene trees are rooted episode locations are restricted to preserve the minimal number of single gene duplications clustering rules are described by minimum episodes method and the goal is based on the recently introduced new approach to minimize the maximal number of duplication episodes on a single path called here the Our evaluation analysis on three empirical datasets demonstrates that under the model in which the minimal number of duplications is preserved the duplication clusterings with minimal
+
+@highlight Genomic duplication inference from a set of rooted gene trees and a species tree.
+@highlight Model of scenarios preserving the minimal number of single gene duplications.
+@highlight Polynomial time algorithm to compute Maximal Path MP score of duplication clusters.
+@highlight A correspondence between algorithms for computing
+@highlight and minimum episodes ME score.
+@highlight MP optimal mappings support duplication episodes from ME optimal mappings.

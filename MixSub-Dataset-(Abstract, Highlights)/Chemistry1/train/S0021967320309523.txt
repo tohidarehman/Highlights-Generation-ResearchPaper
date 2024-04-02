@@ -1,0 +1,6 @@
+ Column selection often centers on the identification of a stationary phase that increases resolution for a certain class of compounds . While gains in resolution are most affected by selectivity of the stationary phase or modifications of the mobile phase enhancements can still be made with an intentional selection of the packing material s microstructure . Unrestricted mass transfer into the particle s porous structure minimizes band broadening associated with hindered access to stationary phase . Increased efficiency especially when operating above the optimal flow rates can be gained if the pore size is significantly larger than the solvated analyte . Less studied are the effects of reduced access to pores due to physical hindrance and its impact on retention . This article explores the relationship between pore size and reversed phase retention and specifically looks at a series of particle architectures with reversed phase and size exclusion modes to study retention associated with access to stationary phase surface area .
+
+@highlight Retention effects related to pore size on superficially porous materials
+@highlight Inverted selectivity as a function of molecular weight
+@highlight Reversed phase and size exclusion examination of pore restriction
+@highlight Use of pore size for method development

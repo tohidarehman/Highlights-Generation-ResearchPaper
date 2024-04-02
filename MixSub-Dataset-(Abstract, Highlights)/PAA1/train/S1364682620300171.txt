@@ -1,0 +1,6 @@
+ Bubble like structures that grow in the post sunset F region of the equatorial ionosphere have continued to raise concern and research interest among scientists . These structures commonly referred to as Equatorial Plasma Bubbles have depleted electron densities surrounded by a denser plasma . When Trans ionospheric radio signals interact with the EPBs the signals get attenuated and scattered due to reflective refractive and diffractive scattering effects of the EPBs on the signals . This compromises the quality accuracy and reliability of information obtained from Global Navigation Satellite Systems . In this study we have used the Global Positioning System slant Total Electron Content data to identify and characterize EPBs . This data was obtained from International GNSS Service receivers located within the East African region identified by the geographic latitudes
+
+@highlight The percentage occurrence of EPBs increases with distance from the magnetic equator and peaks at the EIA region.
+@highlight The occurrence of EPBs over East Africa is greater during equinoxes than during solstices.
+@highlight The western side of East Africa experience more frequent occurrence of EPBs than the eastern side.
+@highlight The majority of the EPBs that occur over the East African region have moderate depletion depths.

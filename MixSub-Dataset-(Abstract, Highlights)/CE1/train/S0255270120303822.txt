@@ -1,0 +1,6 @@
+ The impact of high flow rates and increased viscosity of digested sewage sludge on the cavitation intensity in ultrasonic tube reactors was determined by use of a hydrophone . The results indicate a reduction of cavitation intensity in DS by 11 at an average flow velocity of 0.4m s compared to batch sonication . Slightly increased flow velocities in the range of 0.81.3m s resulted in an increase in cavitation intensity in DS of up to 9 . Further acceleration of the flow leads to a substantial reduction of cavitation noise level both in DS and in water of up to 49 . The results provide valuable insights for the design of sonication systems in wastewater treatment plants . It can be concluded that the sonication system must be designed in such a way that the sludge is in motion during sonication but the flow velocity does not exceed the limit of laminar flow .
+
+@highlight High flow velocity 2m s reduces cavitation intensity in water by almost 50 
+@highlight High flow velocity 2m s completely suppresses cavitation in digested sludge
+@highlight Shear thinning properties of sewage sludge support cavitation formation by up to 9 
+@highlight Sonication intensity of digested sludge is improved at flow velocity of 0.81.3m s

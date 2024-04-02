@@ -1,0 +1,12 @@
+ The effect of bromide and iodide on the transformation of humic acid and algal organic matter and the formation of disinfection by products during UV chlorination were investigated . Experimental results indicated that the halides effectively inhibited mineralization with multiple changes in organic molecule transformation due to differences in formation and speciation of reactive halogen species and free halogen . As a consequence bromide and iodide also played important roles in DBP formation . The DBP yields in HA containing water during UV chlorination decreased in the order of iodide loaded freshwaterbromide loaded whereas DBP formation in AOM containing water decreased remarkably with halides added at high UV fluence . Moreover Pearson correlation analysis exhibited weaker correlation between DBPs and water parameters in AOM containing water while DBPs in HA containing water exhibited better correlation with water parameters . For both simulated waters the theoretical toxicity was calculated and peaked in bromide containing water whereas the calculated toxicity in iodide containing water was comparable or slightly higher than that in freshwater . Therefore UV chlorine treatment may achieve good quality water with reduced DBP associated toxicity in freshwater or iodide containing water but careful consideration is needed when purifying source waters containing bromide especially for AOM bromide containing water .
+
+@highlight HA and AOM transformation was affected by halides during UV chlorination.
+@highlight DBP formation varied with the addition of Br
+@highlight and I
+@highlight DBP formed from HA decreased in the order of I
+@highlight loaded freshwater Br
+@highlight loaded.
+@highlight Halides mitigated DBP formation from AOM freshwater Br
+@highlight loadedI
+@highlight loaded .
+@highlight The highest DBP associated cytotoxicity was observed in the presence of Br

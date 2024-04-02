@@ -1,0 +1,6 @@
+ An error analysis of a super convergent discontinuous Galerkin method formulated in mixed form and applied to a general class of semi linear equations is presented . To reduce the computational cost at each time step the nonlinear term is approximated with a Lagrange interpolatory operator . Optimal convergence of order
+
+@highlight Optimal convergence for both the primary and auxiliary variables.
+@highlight Super convergence of a post processed primary variable.
+@highlight Decoupling of nonlinear and diffusion terms by an operator splitting technique.
+@highlight Efficient preconditioner based on FSAI factorization.

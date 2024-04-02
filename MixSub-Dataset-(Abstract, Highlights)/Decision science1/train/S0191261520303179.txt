@@ -1,0 +1,7 @@
+ This paper studies a bottleneck model in which the capacity of the bottleneck is constant within a day but changes stochastically from day to day between a designed value and a degraded one . The study relates the travel cost variability due to stochastic capacity with commuters departure time choice behaviors . We postulate that commuters acquire the variability of travel cost based on past experiences and factor such variability into their departure time choice consideration by minimizing their travel cost budget defined as a weighted average of mean travel cost and standard deviation of travel cost . We show that the consideration of TCB yields seven possible equilibrium patterns . Closed form solutions to all possible equilibrium patterns and their corresponding parameter ranges are derived . The rationality of the patterns has been investigated . Dependence of travel cost and the duration of peak hours on the commuters risk attitude has also been derived in each equilibrium pattern . Finally numerical studies have been conducted to illustrate the properties .
+
+@highlight Commuters are assumed to choose departure time by minimizing their travel cost budget.
+@highlight Consideration of travel cost budget yields seven possible equilibrium patterns.
+@highlight Closed form solutions to all possible equilibrium patterns are derived.
+@highlight The rationality of the patterns has been investigated.
+@highlight Dependence of travel cost and the duration of peak hours on the commuters risk attitude has been derived.

@@ -1,0 +1,5 @@
+ The superposition approximation and the BornGreenYvon equation allows calculation of pair distributions in thermal equilibrium from pair potentials . A 2 d variant can be used to derive adatom pair distributions from arbitrary analytical pair potentials . As practical example substrate mediated elastic interactions fitted previously to first principles calculations are used to derive adatom pair distributions of O Pd . The evaluation method utilizes the particle hole symmetry of the pair interaction lattice gas Hamiltonian . The nonlinear BGY type integral equation is solved numerically up to half coverage using power series expansion of coverage .
+
+@highlight Adatom pair distribution calculated from pair interactions.
+@highlight Monte Carlo simulation for comparison.
+@highlight Adatoms show local order like glass no ordered domains.

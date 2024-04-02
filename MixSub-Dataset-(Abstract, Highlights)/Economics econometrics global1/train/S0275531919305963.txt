@@ -1,0 +1,7 @@
+ This paper uses a unique dataset of 120 regulatory events from five classes to test the relevance of the regulatory framework for cryptocurrency value . Time series market wide estimates and panel estimates for 300 individual coins and tokens show statistically and economically significant impact of anti money laundering and issuance regulation . Tighter regulation and more active role of government decrease cryptocurrency prices evidencing that potentially lower risks and wider adoption commonly attributed to the establishment of the regulatory framework do not compensate for respective efficiency and consumer utility losses . The market is generally efficient in reflecting regulatory information in cryptocurrency prices .
+
+@highlight Using data on 120 regulatory events the study investigates the implications of cryptocurrency regulation.
+@highlight Daily data on 300 coins from 01 2017 03 2019 is used in multiple event studies models.
+@highlight Anti money laundering and issuance regulation have the greatest and the most consistent impact.
+@highlight Exchange regulation and state backed issuance have mixed results while risk concerns show no effect.
+@highlight Results suggest tighter regulation of cryptocurrencies is undesirable.

@@ -1,0 +1,6 @@
+ In this paper a new and efficient mechanism to compute the normal forms for 1 1 resonant Hopf bifurcation is developed . For a vector field given by ordinary differential equations by assuming that eigenvalues at an equilibrium point are purely imaginary double and non semisimple the mechanism provides a direct method to calculate the coefficients for the normal forms . In particular we present the following results a simple direct method to determine a basis of the complementary spaces for the Lie transform a simple direct method to determine the projection of any vector in
+
+@highlight A simple direct method to determine a base of the complementary spaces for the Lie transform is given.
+@highlight The normal forms for vector field with double purely imaginary eigenvalues with geometric multiplicity one are considered.
+@highlight Explicit formulas for the normal forms coefficients with three unfolding parameter is given.
+@highlight Using this method the normal form for the non semisimple 1 1 resonance Hopf bifurcation can be given easily.

@@ -1,0 +1,5 @@
+ Seepage losses from unlined channels are a major contributor to water loss in the agricultural sector . Quantification of seepage losses can improve water conveyance efficiency and provide solutions to water scarcity . In this study a numerical simulation method is applied to investigate the factors that affect seepage from earthen channels .
+
+@highlight Seepage associated with various shaped water channels was investigated.
+@highlight Newly developed allow calculation of seepage discharge.
+@highlight The analysis allows users to assess the sensitivity of seepage on various flow or geometric parameters.

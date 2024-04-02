@@ -1,0 +1,7 @@
+ A study was conducted to simulate numerically the effects of internal inserts in the form of an annular segment attached to the wall of a cylindrical container . A series of DEM simulations were performed with an assembly of 200 000 spherical particles with a mean diameter of 3.79mm
+
+@highlight Flow patterns in the presence of annular inserts were visualised.
+@highlight Extent of development of dead zones during discharge was determined.
+@highlight The experimental and simulated load asymmetries are consistent.
+@highlight Maps of circumferential distribution of wall pressure were generated.
+@highlight Inserts may reduce load asymmetry during eccentric discharge.

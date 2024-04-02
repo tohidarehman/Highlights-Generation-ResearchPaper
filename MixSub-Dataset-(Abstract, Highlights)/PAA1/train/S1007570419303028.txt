@@ -1,0 +1,6 @@
+ In this work we propose an efficient method to calculate the Hilbert transform of cubic splines . We start by developing an analytical derivation for the problem . Using the structure of the obtained formula we suggest an efficient algorithm to evaluate it . Our method rewrites the cubic spline and reorders calculations to increase the temporal locality of related tasks . Then it creates lookup tables to reuse calculations instead of repeating them . Results show that this method accurately calculates Hilbert transform when applied to functions with a known analytical Hilbert transform . We also show that it significantly reduces the execution time compared to the direct substitution . Our suggested algorithm can be used for the HilbertHuang Transform whose calculation is based on cubic splines and Hilbert transform .
+
+@highlight An efficient method to calculate the Hilbert transform of cubic splines by suggesting an efficient algorithm to evaluate it.
+@highlight Our method rewrites the cubic spline and reorders calculations to increase the temporal locality of related tasks.
+@highlight The method reduces the execution time significantly compared to the direct substitution.
+@highlight The method is applicable for HilbertHuang Transform whose calculation is based on cubic splines and Hilbert transform.

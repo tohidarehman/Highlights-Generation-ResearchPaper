@@ -1,0 +1,7 @@
+ To optimally plan design freight related infrastructures it is crucial to understand the activities of freight related traffic . This paper proposes a statistical approach to estimate truck activities and freight analytics from Global Positioning System data of trucks . Commodities carried are also determined by the locations and types of truck stops . With the estimated activities and commodities carried the characteristics of trip chains for different commodities are then determined and analysed . An empirical example from Thailand is adopted to illustrate the proposed approaches in estimating activities activity patterns commodity trip chains and status of trips legs from the collected truck GPS data .
+
+@highlight Use of GPS data in estimating truck activities commodities carried and freight analytics.
+@highlight Maximum likelihood estimation approach is adopted for calibration.
+@highlight To determine the activity patterns commodity trip chains and load unload status.
+@highlight Outperforms the cut off and SVM methods.
+@highlight Empirical example from Thailand with multiple commodities.

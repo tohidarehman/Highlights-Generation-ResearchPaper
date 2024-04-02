@@ -1,0 +1,8 @@
+ Greener process synthesis for drug production focuses on the replacement of chemical processes with biological processes . However optimization of these processes remains challenging due to lack of experimental data particularly for long term passaging and suitable parameter estimation techniques . In this context we propose a mixed passaging scheme containing the co culture of
+
+@highlight Implementation of mixed culture of
+@highlight and
+@highlight for indole production.
+@highlight Unstructured model selection using Genetic Algorithm.
+@highlight Parameter estimation of mixed culture model using control vector parameterization.
+@highlight Proposed model can capture the pure and individual cuture dynamics in 6L fermenter.

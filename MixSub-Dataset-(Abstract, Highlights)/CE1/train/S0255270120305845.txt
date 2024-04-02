@@ -1,0 +1,6 @@
+ Phase change material considered as a novel energy transport material can be used for modern energy storages . Nowadays the energy transport enhancement can be achieved using the extended heat transference surface . The present research is devoted to numerical simulation of thermal convection of nano encapsulated phase change material within a square differentially heated chamber under an influence of solid fins of different location sizes and number . The governing equations of conjugate convective energy transport written using the non dimensional primitive variables have been worked out by the finite element technique . The developed computational code has been verified employing computational and experimental results of other authors . Impacts of number of solid fins 1
+
+@highlight PCM considered as a novel and smart energy transport material.
+@highlight The energy transport enhancement can be achieved using the extended surface.
+@highlight Influence of solid fins of different location sizes and number have been studied.
+@highlight Opposite heat transfer behaviors can be found with fins number for different Ra.

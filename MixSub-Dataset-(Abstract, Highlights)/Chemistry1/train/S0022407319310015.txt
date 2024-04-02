@@ -1,0 +1,7 @@
+ The Carbon Dioxide Spectral Databank 4000 is tailored for radiative transfer applications relevant for Mars atmospheric entry studies . This is carried out through the refitting of the original database encompassing individual rovibrational transitions into a more compact form where rotational transitions for specific vibrational bands are obtained through traditional polynomial expressions fitted to the levels and transitions of the original database . This originates a certain loss of precision since the fitted expressions do not always reproduce the original data with full accuracy namely for the perturbed transitions . This is offset by a more compact database suited for wideband radiative transfer simulations . This CDSDv database also provides some minor advantages such as enabling the thermodynamic use of two temperature
+
+@highlight A vibrationally specific database has been produced on the basis of CDSD4000.
+@highlight The database has a compact size 16MB and produces fast spectral simulations when coupled to an adaptive lineshape routine.
+@highlight The resulting numerical routines allow full range spectral simulations for hot nonequilibrium
+@highlight The code is validated against reference high temperature
+@highlight infrared spectra evidencing limited loss of accuracy.

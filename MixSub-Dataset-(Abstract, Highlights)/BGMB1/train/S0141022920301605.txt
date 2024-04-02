@@ -1,0 +1,6 @@
+ A number of organic synthesis involve threonine aldolase a pyridoxal phosphate dependent enzyme . Although the addition of exogenous PLP is necessary for the reactions it increases the cost and complicates the purification of the product . This work constructed a PLP self sufficient biocatalysis system for TA which included an improvement of the intracellular PLP level and co immobilization of TA with PLP . Engineered strain BL ST was constructed by introducing PLP synthase PdxS T to
+
+@highlight An efficient PLP self sufficient biocatalysis system was constructed.
+@highlight Engineered strain co expressing PLP synthase and threonine aldolase was constructed. Intracellular concentration of PLP significantly increased which can satisfy the demand of threonine aldolase.
+@highlight An epoxy resin wrapped by polyethyleneimine was used to co immobilize threonine aldolase and PLP.
+@highlight The half life of the catalyst reached 450 h and the catalyst exhibits excellent stability in 180 reaction batches without the addition of extra PLP.

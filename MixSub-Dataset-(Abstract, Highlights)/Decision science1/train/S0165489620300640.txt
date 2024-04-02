@@ -1,0 +1,7 @@
+ We study the effect of a change in age specific probability of death on risk about the duration of life measured byShannons entropy defined to the base 2 . We first show that a rise in the probability of death at age
+
+@highlight We study the effect of an age specific mortality shock on Shannons lifetime entropy.
+@highlight Shannons lifetime entropy is the mathematical expectation of the quantity of information revealed by the event of a death at a particular age.
+@highlight We derive a necessary and sufficient condition under which a mortality shock increases lifetime entropy.
+@highlight We show that there exist in general two threshold ages at which the sign of the effect of a mortality shock on lifetime entropy changes.
+@highlight For French adults younger resp. older than 81 years old a mortality shock increases resp. decreases lifetime entropy.

@@ -1,0 +1,6 @@
+ Carmine is an artificial colorant commonly used by fraudulent food business participants in black tea adulteration for purpose of gaining illegal profits . This study combined spectrophotometry with machine learning for rapid detection of carmine in black tea based on the spectral characteristics of tea infusion . The qualitative model demonstrated an accuracy rate of 100 for successful identification of the presence absence of carmine in black tea . For quantitative analysis the
+
+@highlight Carmine detection was achieved based on Spectrophotometry without separation.
+@highlight Accuracy of 100 was achieved when identifying presence of carmine in black tea.
+@highlight Difference between predicted values and HPLC values was insignificant.
+@highlight The spectrophotometry method provided a rapid alternative for carmine detection.

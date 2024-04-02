@@ -1,0 +1,6 @@
+ Position and orientation data are critical for guiding and managing cooperative robot tasks in the greenhouse . Errors however associated with current positioning and orientation systems such as indoor GPS compasses or the sensitivity of magnetic direction sensors to magnetic materials limit their application in greenhouses . In this research we develop and evaluate a positioning and orientation system using a sound signal and two different receiver architectures in a greenhouse . The results obtained a positioning accuracy of 23.05.5mm and average orientation accuracy of 3.431.67 and 1.580.86 for these two methods demonstrate this spread spectrum sound based system has the potential to be deployed on small distributed greenhouse robots .
+
+@highlight Spread Spectrum Sound based Position and Orientation System SSSPOS are proposed.
+@highlight Experiment was conducted in 6 m 15 m greenhouse.
+@highlight A positioning accuracy was 23.05.5 mm.
+@highlight Orientationaccuracy was1.580.86.

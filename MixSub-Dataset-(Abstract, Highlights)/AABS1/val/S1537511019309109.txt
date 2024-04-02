@@ -1,0 +1,7 @@
+ Sorting machines use computer vision to separate food items based on various attributes . For instance sorting based on size and colour are commonly used in commercial machines . However detecting external defects using CV remains an open problem . This paper presents an experimental contribution to external defect detection using deep learning . An uncensored dataset with 43 843 images including external defects was built during this study . The dataset is heavily imbalanced towards the healthy class and it is available online . Deep residual neural network classifiers were trained that are capable of detecting external defects using feature extraction and fine tuning . The results show that fine tuning outperformed feature extraction revealing the benefit of training additional layers when sufficient data samples are available . The best model was a ResNet50 with all its layers fine tuned . This model achieved an average precision of
+
+@highlight Deep learning detects different types of external defects without feature engineering.
+@highlight Fine tuning outperformed feature extraction in external defect detection.
+@highlight The best model has Average Precision 94.6 .
+@highlight The best model has 86.6 Recall and 91.7 Precision at the optimal threshold.
+@highlight The best model does not confuse external defects with stems calyxes.

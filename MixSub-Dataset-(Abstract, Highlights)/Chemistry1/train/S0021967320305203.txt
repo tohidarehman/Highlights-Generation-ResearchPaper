@@ -1,0 +1,7 @@
+ Natural estrogens and the synthetic estrogen are endocrine disruptors harmful to aquatic wildlife . The European Commission included these molecules in the surface water Watch Lists issued in 2015 and 2018 under the Water Framework Directive regarding emerging aquatic pollutants proposing maximum detection limits of 0.035 ng L for EE2 and 0.4 ng L for E1 and E2 . Attaining these limits represents a challenge even with the most up to date analytical tools in particular in surface water . A two step sample preparation involving a preliminary extraction of a whole water sample on a solid phase extraction disk and further purification on a Florisil SPE cartridge was optimized . The purified extract was derivatized subsequently and quantified by LC MS MS . The main goal was to maximize the recoveries to achieve the very low LODs required by the European Watch Lists . The method was fully validated in seven surface water . The LODs calculated were below the maximum acceptable limits required by the European Commission .
+
+@highlight Estrogenic compounds determination on surface water samples
+@highlight Comparison of disk and cartridge SPE sorbents
+@highlight Method optimization to maximize sensitivity in agreement with EU requirements
+@highlight LODs below the recommended by the EC Decision 2018 840
+@highlight Validation performed on 7 surface water samples

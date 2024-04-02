@@ -1,0 +1,15 @@
+ Natural gas combined cycle power plants show favourable conditions for the implementation of pressure swing adsorption for the capture of carbon dioxide . These plants also show the advantage of a hydrogen co production system . The challenge when implementing PSA in these plants is to achieve reference configurations that can obtain both products at high purity levels maximizing the recovery of hydrogen as a valuable product . This study presents the scale up of a previously reported laboratory based four bed seven step PSA model and a parametric study of the scaled up PSA variables to maximize the product performance parameters . The capacity of the PSA model is based on the flow rate requirements of a GE 10 gas turbine which can operate with up to 95 hydrogen purity . A parametric study using global system analysis showed the effect of the bed diameter length to diameter ratio and purge to feed flow rate ratio upon the product performance parameters . A purity of carbon dioxide of 95.37 and a hydrogen recovery of 92.27 was obtained with a purge to feed flow rate ratio of 0.22 . The purity of hydrogen stayed close to 99.99 with maximum deviations around 0.0001 for all case studies . The purity of the carbon dioxide and the recovery of hydrogen were further improved by considering additional PSA configurations . The addition of an assisted purge step and three pressure equalization steps improved these performance parameters by two percentage points . Overall the model with one pressure equalization step assisted purge step and rinse step after the feed step showed promising results with a purity of carbon dioxide of 98.28 and hydrogen recovery of 95.48 . Lower capitals costs are expected for this configuration compared to adding pressure equalization steps using more than four fixed bed units .
+
+@highlight PSA demonstrates high potential for pre combustion capture in NGCC power plants.
+@highlight A CO
+@highlight rinse step longer than a purge step at 1
+@highlight None
+@highlight bar is essential for 95 CO
+@highlight purity.
+@highlight CO
+@highlight purity and H
+@highlight recovery improve with an assisted purge step at 1
+@highlight None
+@highlight bar.
+@highlight A rinse step improves CO
+@highlight purity better than more pressure equalization steps.

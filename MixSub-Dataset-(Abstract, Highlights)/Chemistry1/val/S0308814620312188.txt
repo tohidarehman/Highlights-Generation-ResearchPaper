@@ -1,0 +1,7 @@
+ This study is about the rice syrup adulteration determination in different botanical origin honey in the food product . Due to time consuming and large risk of misdiagnosis it is essential to establish a general model for adulteration detection regardless of the original category of honey . In this paper infrared spectra combined with four supervised pattern recognition methods were employed to establish the general model for rice syrup adulteration detection in acacia linden and jujube honey samples simultaneously . Moreover Monte Carlo sampling technology was executed to evaluate the models via the average accuracy sensitivity and specificity . The first derivative least squares support vector machines gave an outstanding performance with higher accuracy higher sensitivity higher specificity and lower standard deviations after fifty trials . In addition this study makes further efforts to control the quality of the honey product in the market on rice syrup adulteration .
+
+@highlight A general model was developed for simultaneous analysis of rice syrup in three kinds of honey.
+@highlight ATR FTIR spectra technology combined with linear and nonlinear algorithms were investigated.
+@highlight Monte Carlo sampling technology was executed to get more credible results.
+@highlight Der LS SVM achieved more impressive performances.
+@highlight It provided a theoretical support for on line analysis.

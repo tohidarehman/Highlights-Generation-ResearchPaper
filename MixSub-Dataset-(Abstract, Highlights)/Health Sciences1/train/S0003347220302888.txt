@@ -1,0 +1,7 @@
+ Intra and intersexual selection drives the evolution of secondary sexual traits leading to increased body size trait size and generally increased reproductive success in bearers with the largest most attractive traits . Evolutionary change through natural selection is often thought of primarily in terms of genetic changes through mutations and adaptive selection . However this view ignores the role of the plasticity in phenotypes and behaviour and its impact on accelerating or decelerating the expression of sexually selected traits . Here we argue that sudden changes in selection pressures may cause a cascade of behavioural responses leading to a rapid change in the size of such traits . We propose that selective removal of individuals with the most prominent traits induces behavioural changes in the surviving males leading to a reduction in the growth of these traits . To test this idea we used an individual based simulation parametrized with empirical data of male bighorn sheep
+
+@highlight We examined trade offs between somatic growth and reproductive success.
+@highlight We propose a nongenetic mechanism for rapid decline in sexually selected traits.
+@highlight We model impacts of selective harvest on horn size in male bighorn sheep.
+@highlight Average male horn length declined rapidly following selective removal of prime males.
+@highlight Smaller males diverted energy from growth to mating in the absence of prime males.

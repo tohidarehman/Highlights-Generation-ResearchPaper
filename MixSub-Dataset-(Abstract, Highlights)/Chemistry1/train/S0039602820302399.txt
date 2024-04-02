@@ -1,0 +1,8 @@
+ The structure excess energy electronic properties and impact sensitivity of different surfaces in 1 3 5 7 tetranitro 1 3 5 7 tetraazacyclooctane have been systematically investigated on the basis of first principles calculations . The N N bond lengths and bond populations of each molecule are obtained and the relationship among impact sensitivity average bond length and the average bond population of the N N bond is discussed . There is a general tendency for area percentage to increase as excess energy becomes larger . The relationship between the excess energy and band gap can be expressed as
+
+@highlight There is a nearly linear correlation between the excess energy versus N N average bond length L .
+@highlight There is an obvious linear relationship between the excess energy versus N N average bond population Y .
+@highlight The relationship between the excess energy and band gap can be expressed as 39.686Eg 141.66 R
+@highlight  0.929 .
+@highlight There is an overall tendency for excess energy to decrease as nitro group charge becomes larger.
+@highlight The excess energy can be deemed as a good criterion to estimate the impact sensitivity for seven surfaces of HMX.

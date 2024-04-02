@@ -1,0 +1,11 @@
+ With more than one million bacterial genome sequences uploaded to public databases in the last 25 years genomics has become a powerful tool for studying bacterial biology . Here we review recent approaches that leverage large numbers of whole genome sequences to decipher the spread and pathogenesis of bacterial infectious diseases .
+
+@highlight 72 of the available 1
+@highlight None
+@highlight 067
+@highlight None
+@highlight 277 bacterial genomes on NCBI are from only 10 species.
+@highlight WGS is a new gold standard for detection of clonal outbreaks and transmission events.
+@highlight WGS ancestral reconstruction and GWAS allow unbiased functional prediction.
+@highlight WGS of longitudinal infection can be used to detect host adaptations.
+@highlight The data loss common in WGS methods may be tackled with database driven approaches.

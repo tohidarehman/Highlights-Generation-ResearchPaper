@@ -1,0 +1,7 @@
+ In this work a feasible method has been introduced for investigating the proton tunneling frequency in Naphthazarin . A two dimensional potential energy surface which couples OH stretching with in plane bending modes has been computed for a firmed skeleton geometry at the B3LYP 6 31G B3LYP 6 311G B3LYP 6 311 G and MP2 6 31G levels . This potential energy function is used to calculate the tunneling frequency OH stretching and in plane bending frequencies . By calculations at the MP2 6 31G level the tunneling frequency of 15.3 and 0.9cm
+
+@highlight We have introduced a 2D potential function for calculation the proton tunneling in Naphthazarin NZ .
+@highlight The reported potential function applied to calculate the vibrational frequencies of NZ by DFT method.
+@highlight The nature of IHB illustrated by proton tunneling.
+@highlight The barrier heights in the stepwise and concerted transfers were 65.3 and 127.3
+@highlight at MP2 6 31G level respectively.

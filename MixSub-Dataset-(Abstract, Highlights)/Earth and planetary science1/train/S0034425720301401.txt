@@ -1,0 +1,6 @@
+ Knowledge on forest structure is vital for sustainable forest management decisions . Currently Airborne Laser Scanning has been well established as an effective tool to delineate and characterize the structure of canopies across a range of forested biomes . However the use of ALS to provide information on sub canopy structure is less well developed . Sub canopy structure consists of suppressed mature trees regenerating tree saplings shrubs herbs snags and coarse woody debris . With the increasing density of ALS point clouds new opportunities exist to describe these sub canopy structural components in forests that were previously difficult to detect using passive remote sensing technologies . In this research we use discrete return ALS data acquired at a density of 23 points m
+
+@highlight Introduced methods for isolating and removing forest canopy from ALS point clouds
+@highlight Sub canopy point cloud metrics generated strong models for sub canopy attributes
+@highlight Prediction of key sub canopy attributes improved with canopy removal method
+@highlight Predictive map produced for sub canopy tree volume.

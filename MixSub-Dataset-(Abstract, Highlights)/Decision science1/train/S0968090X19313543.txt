@@ -1,0 +1,7 @@
+ Traffic flow fundamental diagram is viewed as the basis of traffic flow theory and has various applications in transportation . However the fundamental diagram of mixed human driven vehicles and connected automated vehicles traffic has not been well studied . This paper derives the FD for mixed HV and CAV traffic considering the stochastic headway . Firstly the deterministic FD of pure CAV traffic and pure HV traffic are built . Then the FD of mixed HV and CAV traffic is developed with CAV penetration and platooning intensity taken into consideration . A Gaussian mixture model is applied to model the stochastic headway based on which the stochastic FD is derived . Impact of CAV penetration and platooning intensity on the stochasticity of FD is studied . Results from theoretical analysis and case study show that increasing CAV penetration can reduce the scattering of FD while higher platooning intensity may result in more scattering of FD .
+
+@highlight First the deterministic FDs of pure CAVs traffic and pure HVs traffic are built.
+@highlight Then the FD of mixed HVs and CAVs traffic is developed.
+@highlight A Gaussian mixture model GMM is applied to model the stochastic headway.
+@highlight Results show that increasing CAVs penetration can reduce the scattering of FD.
+@highlight Higher platooning intensity may result in more scattering of FD.

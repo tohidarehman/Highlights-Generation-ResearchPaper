@@ -1,0 +1,6 @@
+ Humoral immunity is key to protection for nearly all licensed vaccines . Yet the design of vaccines has been more difficult for some of our most deadly killers likely due to our incomplete understanding of the precise immunological mechanisms associated with protection . Humoral immunity is governed both by B cells and their bi functional secreted antibodies all of which have a unique capacity to evolve during an immune response . Current OMIC technologies capture individual features of the humoral immune response providing a glimpse into humoral components but fail to provide a wholistic view of the humoral response as a collective functional arm . Here we dissect current OMIC strategies reviewing experimental and computational approaches that if integrated could provide a true systems level view of the humoral immune response .
+
+@highlight Humoral immunity is mediated by complex networks of polyclonal antibodies interacting with antigens and effector immune cells.
+@highlight This network integrates properties of the Fab and Fc domains of antibodies governed by regulatory processes within B cells.
+@highlight Current OMIC tools capture individual aspects of antibody Fab Fc and transcriptional B cell properties separately.
+@highlight Computational frameworks are required to integrate as comprehensively as possible the complexity of humoral immunity.

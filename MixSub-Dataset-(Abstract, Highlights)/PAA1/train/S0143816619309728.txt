@@ -1,0 +1,6 @@
+ Laser direct copper patterning of fine pitch features on polyimide flexible substrate was investigated . On such thin substrates laser parameters should be optimized in order to minimize the damage beneath the conductive layer as it might lead to severe robustness issues . We selected several parameter sets and compared them in terms of damage depth feature sizes and edge straightness . On bare copper PCBs we managed to limit the average damage to a depth of 8m while getting features characteristics significantly better than what would be obtained with standard chemical etching . We also demonstrated alternative parameter sets that allow to obtain ultra thin features or very straight edges at the cost of deeper damage in the substrate .
+
+@highlight PCB fine pitch features laser direct patterning on flexible substrate was demonstrated.
+@highlight Laser patterning is presented as a single step and purely dry alternative to high end PCB manufacturing processes.
+@highlight Feature sizes edges straightness and damage depth were compared for several parameter sets.
+@highlight Planar 2D coils and fine pitch land pattern for COF Chip On Flex applications were realized.

@@ -1,0 +1,6 @@
+ To investigate the thermal decomposition of perfluorinatedketones ReaxFF parameters were optimized by training against QM derived calculations using Monte Carlo Annealing method . The optimized parameters showed proper descriptions in predicting the geometries relative reaction energies and bond dissociation curves of perfluorinatedketones . For validating the reliability of ReaxFF parameters large scale atomistic molecular dynamics with 1ns long simulations were implemented for thermal decomposition of perfluorinatedketones over the temperature range from 300 to 5000K . Our simulation results suggested that C
+
+@highlight ReaxFF parameters were optimized by adding perfluorinatedketones data into training set with Monte Carlo Annealing method.
+@highlight Molecular dynamics simulations were implemented to determine the initial stages kinetic rate constants and product distributions.
+@highlight Thermal decomposition of perfluorinatedketones gas mixtures under engineering condition were simulated with ReaxFF method.
+@highlight Etchant gas HF was observed as a characteristic product for thermal decomposition under the moisture condition.

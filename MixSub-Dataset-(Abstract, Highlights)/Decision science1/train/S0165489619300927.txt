@@ -1,0 +1,7 @@
+ This paper examines the implication of the nature of competition in a market with network externalities on strategic investment in process R D by firms . It shows that network externalities have a larger positive effect on process R D under Bertrand competition than that under Cournot competition . If network externalities are sufficiently strong regardless of the degree of product differentiation Bertrand firms have a stronger incentive for process R D than Cournot firms . Further Bertrand R D can be higher than Cournot R D even in the presence of weak network externalities . These results hold true regardless of whether networks are incompatible or imperfectly compatible .
+
+@highlight Existing CournotBertrand R D ranking is reversed in network goods oligopoly.
+@highlight Network externalities always have a positive effect on process R D.
+@highlight Effect of network externalities on R D is larger under Bertrand competition.
+@highlight If network externalities are strong Bertrand R D is larger than Cournot R D.
+@highlight Bertrand R D can be larger than Cournot R D even when network externalities are weak.

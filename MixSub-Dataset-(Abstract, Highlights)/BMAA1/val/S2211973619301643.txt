@@ -1,0 +1,7 @@
+ The disruption in destinations caused by the emergence of new forms of tourist distribution within the framework of the sharing economy gives rise to new challenges in terms of competitiveness regulation and even investment . This article studies the determining factors that influence consumer decisions in the choice of rental accommodation using both ordinary least square models and quantile regression estimation techniques . The results show the greater interpretative capacity of the QR which reveals certain overlooked patterns of the relationship between some of the characteristics of the properties the hosts or the socioeconomic environment and the price paid by the users . These results can facilitate decision making in the destinations by companies society and the public sector .
+
+@highlight This study improves the interpretative capacity of previous studie in sharing economy area.
+@highlight Quantile regression is more recommended than OLS in determining tourist accommodation preferences and pricing strategies.
+@highlight QR model is especially needed in the variables related to the characteristics of the property.
+@highlight Even if instability is not found in the trend of the coefficients QR allow a better understanding of the variables.
+@highlight A better interpretative capacity means better decisions for stakeholders in improving the destinations.

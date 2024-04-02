@@ -1,0 +1,7 @@
+ This paper deals with grid transit network schemes and their specific features orthogonal main routes that do not overlap increased transit frequency and distance between bus stops in interchange areas to be optimized . So far this solution has been successfully adopted in metropolitan areas with orthogonal urban shapes as shown by the description in
+
+@highlight Grid transit network is adopted in few metropolitan areas with an orthogonal scheme.
+@highlight Normally this PT layout is not adopted at all in non metropolitan contexts.
+@highlight A GIS based model tests its suitability in the Italian city of Turin.
+@highlight Results in terms of agency costs and users travel times reveal its competitiveness.
+@highlight Some transport and morphological features are a prerequisite for its implementation.

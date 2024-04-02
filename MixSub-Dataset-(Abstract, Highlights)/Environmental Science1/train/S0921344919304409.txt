@@ -1,0 +1,7 @@
+ The emerging bike share systems provide convenient mobility to short distance travelers for both leisure and commuting purposes . Many cities are rolling out bike share programs . However few studies have evaluated how bike share systems are used to quantify their sustainability impacts . This study proposes a Bike Share Emission Reduction Estimation Model to quantify the environmental benefits from bike share trips and compare the greenhouse gas emission reductions from BSS in eight cities in the United States including New York Chicago Boston Philadelphia Washington D.C. Los Angeles San Francisco and Seattle . The BS EREM model stochastically estimates the transportation modes substituted by bike share trips considering factors such as trip distance trip purpose trip start time the accessibility of public transits and historical distributions of transportation mode choices . Based on average life cycle emission factors of different transportation modes our analysis reveals that the annual GHG emission reductions contributed by the eight BSSs in year 2016 range from 41tons of CO
+
+@highlight Annual emission reductions of the eight bike share systems range from 41 to 5417tons CO
+@highlight  eq.
+@highlight Bike share systems can only reduce less than 0.1 of GHG emissions from the transportation sector.
+@highlight Bike share stations in the city center reduced more GHG emissions overall.
+@highlight Bike share stations away from the city center reduced more GHG emissions per trip.

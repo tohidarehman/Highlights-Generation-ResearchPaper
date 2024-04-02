@@ -1,0 +1,7 @@
+ Directional radiative intensity over specific spectral region provides fruitful information inside gas fired systems and is very useful for inverse analysis such as temperature and species concentration reconstruction . The statistical narrow band model has acceptable time efficiency for practical applications and has been shown to have good accuracy to calculate integral radiative quantities such as radiative heat flux and radiative source term . No previous work provides its accuracy information for solving spectral radiative intensity in combustion systems which is to be investigated in this work . The SNB model is applied to solve radiative transfer in one dimensional gaseous media with black boundaries . Gaseous media of CO
+
+@highlight Spectral radiative intensity in gases by statistical narrow band model is investigated.
+@highlight Accuracy of spectral radiative intensity for CO
+@highlight is good for H
+@highlight O is not.
+@highlight A strategy to improve the accuracy of spectral radiative intensity is proposed.

@@ -1,0 +1,6 @@
+ Assessing changes in forest cover and fragmentation under urban expansion and the correlation analysis between these changes can provide decision support for urban forest managers . In this study forest cover and morphological spatial patterns were firstly mapped by the vegetation change tracker algorithm and morphological spatial pattern analysis respectively in Nanjing from 1987 to 2017 . Next the visible red and near infrared based built up index was derived to extract urban impervious surface areas and the neighbourhood based urban expansion model was proposed to describe the expansion types . Finally the relationships among the forest cover fragmentation changes and urban expansion were determined using the Pearson correlation coefficient . The results showed that the distribution of forest cover in Nanjing was relatively scattered and it decreased by 94km
+
+@highlight Analysis of forest cover and fragmentation changes from long and dense time series.
+@highlight Neighbourhood based urban expansion model was proposed in this paper.
+@highlight We explored the relationships among forest areas fragmentation and urban expansion.
+@highlight Implication of VCT MSPA and UIS index in urban forest planning.

@@ -1,0 +1,6 @@
+ In this study two artificial neural network models viz . supervised Feed Forward Back Propagation and unsupervised Kohonen Self Organizing Map have been developed to predict the Crop Water Stress Index using air temperature relative humidity and canopy temperature . Field experiments were conducted on Indian mustard to observe the crop canopy temperature under different levels of irrigation treatment during the 2017 and 2018 cropping seasons . The empirical CWSI was computed using well watered and non transpiring baseline canopy temperatures . The K SOM and FF BP CWSI predictions were compared with the empirical CWSI estimates and both performed satisfactorily . Of the two however the K SOM was better with R
+
+@highlight CWSI is predicted using supervised and unsupervised neural network models.
+@highlight KSOM predicted CWSI correlated well with the empirically computed CWSI.
+@highlight Performance of KSOM model was better than FF BP model for predicting CWSI.
+@highlight This modelling approach eliminates the need to obtain baseline temperatures for estimating CWSI.

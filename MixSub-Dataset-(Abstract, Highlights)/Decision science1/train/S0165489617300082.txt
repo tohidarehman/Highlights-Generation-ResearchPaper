@@ -1,0 +1,10 @@
+ We demonstrate that the inconsistency associated with judgment aggregation known as the doctrinal paradox is not a rare exception . There are
+
+@highlight Common assessments based on judges opinions might depend on the order of aggregation.
+@highlight Opinions express degree of belief or conviction about propositions.
+@highlight To get a common opinion one aggregates across propositions and then across individuals.
+@highlight Alternatively one might first aggregate across individuals.
+@highlight If the results in the two cases are different we have the doctrinal paradox.
+@highlight Such a paradox is not a rare exception.
+@highlight We show that the set of opinion aggregators immune to the paradox is meagre.
+@highlight Linear aggregators and a few others are immune to the paradox.

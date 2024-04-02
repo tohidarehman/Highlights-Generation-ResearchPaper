@@ -1,0 +1,7 @@
+ Railway capacity is a scarce and expensive resource that has to be utilised in the best way possible . Many methods exist for medium and short term planning and analysis of railway capacity . Yet there is a lack of methods for long term planning that provides high quality estimates of capacity in complex railway networks . In this paper we define capacity of a railway network by a maximal set of trains that can be operated in a predefined period . This maximal set distinguish between different train types and the number of each type and thus the heterogeneity of the operation .
+
+@highlight New approach determines the maximal set of trains to be operated on a network.
+@highlight Heterogeneous train operation is handled without the need of a fixed timetable.
+@highlight Branch and bound tabu search used to solve defined capacity determination problem.
+@highlight Ideal for early planning as little input is required while maintaining precision.
+@highlight Case study on Danish rail network reveals capacity improvements from upgrades.

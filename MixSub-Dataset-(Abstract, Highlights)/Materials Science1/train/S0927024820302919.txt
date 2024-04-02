@@ -1,0 +1,5 @@
+ In the majority of studies involving injection dependent lifetime spectroscopy it is assumed that the investigated defect is a single level defect following Shockley Read Hall recombination statistics . Nevertheless in real life two level defects or multi level defects are more common than single level defects . In this study we first investigated the possible consequences of misinterpreting a two level defect as two single level defects . A procedure to properly fit two level defects in lifetime spectroscopy is subsequently proposed . At the end we use boron oxygen related defects as an experimental demonstration . Our experimental results reveal that the recombination statistics of boron oxygen related defects can not be explained by the coexistence of two independent single level defects . A two level defect parameterization appears to be more suitable .
+
+@highlight Misinterpreting two level defect can lead to wrong result in lifetime spectroscopy.
+@highlight Parameterization method for two level defects in lifetime spectroscopy is proposed.
+@highlight Boron oxygen related degradation cannot be explained by single level defects.

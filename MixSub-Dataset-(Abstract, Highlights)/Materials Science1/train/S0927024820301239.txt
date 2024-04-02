@@ -1,0 +1,5 @@
+ For screen printed silicon solar cells optimization of the contact characteristics between the front metal electrode and silicon is very significant for realizing high efficiency . As technology advances the solar cell efficiency has been steadily increased . Especially as surface recombination becomes more important in high efficiency solar cells understanding and controlling recombination in the metal contact area are necessary . Recombination at the metal silicon interface is a major cause of the drop in the open circuit voltage V
+
+@highlight This study is a paper on the recombination of electrodes and their effect on solar cells according to the doping profile of solar cell emitter.
+@highlight The recombination of electrodes was measured through the carrier lifetime characteristic and the silver crystallite of electrodes on silicon wafer was quantitatively analyzed and compared.
+@highlight The relationship between the metal induced recombination and the doping profile depends on the degree of surface doping concentration and is described in relation to the surface recombination.

@@ -1,0 +1,7 @@
+ Individuals from two populations seek matchmaking services from competing dating websites . Each population is heterogeneous along an objective quality rank and matched couples experience disutility if there are incompatibilities in their quality ranks . Individuals in the populations care also about other traits that they wish their partner to possess . They are more likely to find a partner possessing such traits the bigger the population served by the website . We investigate whether price competition can lead to segmentation of the two populations . We find that segmentation arises only if compatibility in quality is relatively important to individuals in comparison to the importance of matching with high quality partners and in comparison to cross network externalities . At the market equilibrium too many men and women patronize the website that matches high quality individuals . Allowing websites to price discriminate between men and women reduces social welfare .
+
+@highlight Matching on Dating Platforms.
+@highlight Two Sided Markets.
+@highlight Competing Platforms.
+@highlight Market Segmentation.
+@highlight Asymmetric Information.

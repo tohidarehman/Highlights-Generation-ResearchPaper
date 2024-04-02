@@ -1,0 +1,5 @@
+ Process monitoring is essential to keep quality consistency and operation safety in the batch process . However the existence of multiphase nonlinearity and dynamic features in the batch process makes the batch process monitoring a complicated task . In this work a multi layer recurrent neural network in the encoderdecoder structure called batch wise LSTM encoder decoder network is proposed to solve the difficulties mentioned above in batch process monitoring . The LSTM encoder extracts the nonlinear dynamic features in both between and within batch direction then projects the high dimensional input space to a low dimensional hidden state space . The decoder part regenerates the samples from hidden states . Control statistics
+
+@highlight Proposed a multi layer recurrent neural network in the encoderdecoder structure and the corresponding monitoring method for batch process monitoring.
+@highlight The proposed network can simultaneously capture the between and within batch dynamic features in the nonlinear batch process.
+@highlight The proposed model outperforms the AutoEncoder and Sub PCA model in fault detection.

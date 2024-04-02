@@ -1,0 +1,5 @@
+ With a growing interest in optically active sites in diamond and related materials the need exists to identify novel defects that operate at desired wavelengths . In this study we employ time dependent density functional theory to search a large compositional space for novel color centers in diamond . Results are benchmarked against bulk computational approaches as well as experimental literature and correspondence is observed between molecular and bulk values . Novel defects with potential for infrared emission are identified .
+
+@highlight TD DFT allows rapid computational identification of novel color centers.
+@highlight Novel color centers with potential for infrared emission are identified.
+@highlight Novel color centers with potential application to quantum technologies.

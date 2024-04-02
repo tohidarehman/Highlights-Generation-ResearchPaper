@@ -1,0 +1,5 @@
+ Liquid liquid equilibrium data for ternary systems of methyl isopropyl ketone 2 3 3 4 3 5 dimethylphenol water was determined from 298.15K to 338.15K under 101.3kPa in this work . Distribution coefficient and selectivity were calculated to investigate solvent extraction efficiency of dimethylphenol from water and their high values indicated that MIPK could extract dimethylphenols well . The NRTL and UNIQUAC models were applied to correlate experimental LLE data and related root mean square deviations were less than 0.5 . Additionally the experimental data was predicted by COSMO SAC model and the corresponding RMSD values demonstrated that COSMO SAC model can be applied as a predictive tool to calculate LLE data of the investigated ternary systems .
+
+@highlight Methyl isopropyl ketone was a promising solvent for extracting 2 3 3 4 3 5 dimethylphenol from wastewater at 298.15338.15K.
+@highlight A good agreement had been observed between experiment data and calculated data from the NRTL and UNIQUAC models.
+@highlight COSMO SAC model was used to simulate liquid liquid equilibrium data.

@@ -1,0 +1,6 @@
+ This study uses an AI technique called gene expression programming to generate a deflection model for predicting the deflection of reinforced concrete beams using fibre reinforced polymer bars as the main reinforcements through the effective moment of inertia . Taking into account the advantages of both theoretical and empirical models the study trained GEP using a database created by calculating the effective moment of inertia
+
+@highlight An AI technique is used to generate an improved deflection model for FRP beams.
+@highlight The proposed model is based on both existing impirical and theoretical models.
+@highlight Experimental data and predicted results using design codes have been used to validate the proposed model.
+@highlight The proposed model is suitable for designing FRP beams.

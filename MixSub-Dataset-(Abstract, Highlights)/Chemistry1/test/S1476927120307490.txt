@@ -1,0 +1,11 @@
+ A series of alkylated benzimidazole derivatives was synthesized and screened for their anti HIV anti YFV and broad spectrum antiviral properties . The physicochemical parameters and drug like properties of the compounds were assessed first and then docking studies and MD simulations on HIV RT allosteric sites were conducted to find the possible mode of their action . DFT analysis was also performed to confirm the nature of the hydrogen bonding interaction of active compounds . The
+
+@highlight New benzimidazole analogs synthesized as antivirals against HIV 1 and yellow fever virus.
+@highlight Molecular dynamics simulation studies indicated a stable ligand protein complex of compound
+@highlight within NNIBP of HIV RT.
+@highlight DFT analysis confirmed the stability of hydrogen bonding interaction between the TRP 229 residue of HIV RT and compound
+@highlight Molecules were tested for their anti HIV and broad spectrum antiviral properties against different DNA and RNA viruses.
+@highlight Antiviral properties and cytotoxicity determined using MTT assay.
+@highlight Compound
+@highlight showed anti HIV activity and compound
+@highlight showed excellent inhibition property against yellow fever virus.

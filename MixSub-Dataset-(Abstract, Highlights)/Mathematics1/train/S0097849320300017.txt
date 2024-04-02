@@ -1,0 +1,5 @@
+ Skeletons are well known descriptors that capture the geometry and topology of 2D and 3D shapes . We leverage these properties by using surface skeletons to remove noise from 3D shapes . For this we extend an existing method that removes noise but keeps important corners for 2D shapes . Our method detects and removes large scale complex and dense multiscale noise patterns that contaminate virtually the entire surface of a given 3D shape while recovering its main edges and corners . Our method can treat any 3D shapes and surface noise types is computationally scalable and has one easy to set parameter . We demonstrate the added value of our approach by comparing our results with several known 3D shape denoising methods .
+
+@highlight We present a novel method able to denoise highly noisy 3D shapes while preserving shape edges sharp.
+@highlight We demonstrate for the first time that 3D surface skeletons can be used for feature preserving shape denoising.
+@highlight Our method is simple and computationally efficient to implement making use of existing 3D skeletonization techniques.

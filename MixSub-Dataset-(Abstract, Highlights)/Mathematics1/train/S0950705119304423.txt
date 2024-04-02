@@ -1,0 +1,9 @@
+ Relationships among elements of sets appear in many contexts and can be represented using fuzzy relations . A fuzzy relation system is an extensive information system . Attribute reduction is widely used to discover knowledge hidden in databases . Many approaches to reduction based on the rough set theory have been proposed in recent years to deal with information systems and partial reductions have been proposed in relation to decision systems to extract partial decision rules . This paper considers an approach to fuzzy relation systems based on significant partial attribute reduction by means of discernibility matrices . We propose the concept of
+
+@highlight Study the X lower approximation reduction for fuzzy relation systems.
+@highlight Consider the X upper approximation reduction for fuzzy relation systems.
+@highlight Discuss the X
+@highlight  X
+@highlight  ... X
+@highlight  lower approximation reduction algorithms.
+@highlight Provide examples from UCI datasets to verify our results.

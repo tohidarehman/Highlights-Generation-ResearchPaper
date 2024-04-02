@@ -1,0 +1,7 @@
+ Global surface water extent is changing due to natural processes as well as anthropogenic drivers such as reservoir construction and conversion of wetlands to agriculture . However the extent and change of global inland surface water are not well quantified . To address this we classified land and water in all 3.4 million Landsat 5 7 and 8 scenes from 1999 to 2018 and performed a time series analysis to produce maps that characterize inter annual and intra annual open surface water dynamics . We also used a probability sample and reference time series classification of land and water for 19992018 to provide unbiased estimators of area of stable and dynamic surface water extent and to assess the accuracy of the surface water maps . From the reference sample data we estimate that permanent surface water covers 2.93 million km
+
+@highlight First sample based global estimates of open surface water extent and change.
+@highlight Area of multiple water land transitions far exceeds area of unidirectional change.
+@highlight 40 of area with surface water detected between 1999 and 2018 was not permanent.
+@highlight The produced maps highlight 7 types of 19992018 global surface water dynamics.
+@highlight 10.9 of global inland surface water is within mixed pixels at Landsat resolution.

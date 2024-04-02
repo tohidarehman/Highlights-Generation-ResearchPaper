@@ -1,0 +1,6 @@
+ This work presents experimental and CFD simulation results of heat transfer for water and CuO water nanofluid flow systems stabilized by capping agents . The experiments were carried out in a helically coiled tube in the range of turbulent flow regime with Reynolds numbers from 6000 to 21 968 for practical applications importance . Nusselt number enhancement with regard to host liquid was observed up to 1835 for nanofluids under investigation . Numerical calculations were performed using the ANSYS Fluent package employing homogenous single phase model with the assumption of constant wall temperature condition . The k Realizable Turbulence and Enhancement Wall Treatment models were applied in all analyzed cases . New type stabilizer CTAC was employed which lead to enhanced heat transfer in coil in obtained nanofluids .
+
+@highlight Heat transfer enhancement by simultaneous use of coil and nanofluid.
+@highlight Significant increase in Nusselt number due to CuO nanoparticles presence.
+@highlight Modest heat transfer enhancement due to nanoparticle concentration.
+@highlight Two different nanofluid stabilizers were investigated.

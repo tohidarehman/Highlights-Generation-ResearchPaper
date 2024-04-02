@@ -1,0 +1,7 @@
+ Culpability analysis was conducted on 5000 drivers injured as a result of a vehicular collision and in whom comprehensive toxicology testing in blood was conducted . The sample included 1000 drivers for each of 5 years from approximately 50006000 drivers injured and taken to hospital in the State of Victoria . Logistic regression was used to investigate differences in the odds of culpability associated with alcohol and drug use and other selected crash attributes using the drug free driver as the reference group . Adjusted odds ratios were obtained from multivariable logistic regression models in which other potentially explanatory driver and crash attributes were included . Drivers with alcohol present showed large increases in the odds of culpability similar to that seen in other studies investigating associations between blood alcohol concentration and crash risk . Methylamphetamine also showed a large increase in the odds of culpability compared to the reference group at both below and above 0.1mg L whereas those drivers with
+
+@highlight Culpability analysis was conducted on 5000 injured drivers in whom drug testing was conducted.
+@highlight Alcohol gave large increases in the odds of culpability that was concentration dependent.
+@highlight Methylamphetamine also showed a large increase in the odds of culpability.
+@highlight THC gave a modest increase in the odds of culpability
+@highlight Benzodiazepines also gave a modest increase in the odds of culpability.

@@ -1,0 +1,7 @@
+ Silicon carbide ceramic matrix composites are being investigated as a new generation of fuel cladding materials due to its higher accident tolerance compared to Zircaloy . Characterization of the thermal conductivity of SiC constituents and their interfaces and interphases in SiC SiC composites is needed as inputs to models of cladding performance . We used time domain thermoreflectance to map the thermal conductivity with a spatial resolution of 2m . The SiC SiC composite is comprised of Hi Nicalon Type S fibers in a matrix made by chemical vapor infiltration . The interphase material is a pyrolytic carbon SiC multilayer . We report thermal conductivity maps of the SiC fiber and SiC matrix at temperatures of 25C 90C 164C and 250C . The fiber has a uniform and isotropic thermal conductivity of 22Wm
+
+@highlight High spatial resolution thermal conductivity mapping of SiC SiC composites.
+@highlight Thermal transport in the interphase material is dominated by interfaces.
+@highlight Thermal conductivity of SiC fiber is uniform isotropic and temperature independent.
+@highlight Thermal conductivity of the matrix in SiC SiC composites varies depending on location.
+@highlight Thermal conductivity of matrix has similar temperature dependence as impure crystal.

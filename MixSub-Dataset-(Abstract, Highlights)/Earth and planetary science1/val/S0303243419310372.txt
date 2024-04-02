@@ -1,0 +1,6 @@
+ To tackle Big Data challenges such as Volume Variety and Velocity the Earth Observations Data Cube concept has emerged as a solution for lowering barriers and offering new possibilities to harness the information power of satellite EO data . However installing configuring and managing an EODC instance is still difficult requiring specific knowledge and capabilities . Consequently facilitating and automating the generation and provision of EODC given specific users requirements can be beneficial .
+
+@highlight Facilitate the generation and provision of a Data Cube instance based on simple user requirements.
+@highlight Users have to specify an area of interest sensors temporal frame and provide an email address.
+@highlight DCoD approach can reduce the burden of software installation configuration and data ingestion.
+@highlight Provides more flexibility and scalability as well as a strengthened sense of ownership.

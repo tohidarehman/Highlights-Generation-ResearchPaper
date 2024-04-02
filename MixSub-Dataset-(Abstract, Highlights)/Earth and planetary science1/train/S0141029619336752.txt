@@ -1,0 +1,6 @@
+ The building sector is responsible for a large portion of the global CO2e emissions . With structural materials accounting for a large part of it the reduction of material used in buildings offers an important mitigation option to climate change . Standardized structural elements have very low material efficiencies as their shape does not consider the final use and load cases . New digital manufacturing technologies emerging in the field of construction and architecture open new opportunities for the design of mass customized structural elements with the potential for more efficient use of materials in ubiquitous constructions . This paper offers a shaping methodology for the optimization of structural elements based on computational geometry and analytical mechanics . The paper implements the methodology for the shape optimization of mass timber beams .
+
+@highlight Parametric shaping methodology for material efficient mass timber beams.
+@highlight Analytical timber mechanics for shaped timber beams.
+@highlight Potential material savings case study for wide range of structural configurations.
+@highlight Analysis of efficiency of digital manufacturing methods for shaped timber beams.

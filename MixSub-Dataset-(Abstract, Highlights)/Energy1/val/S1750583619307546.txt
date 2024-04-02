@@ -1,0 +1,8 @@
+ Carbon capture and storage would contribute considerably towards climate change mitigation if it would be implemented on a very large scale at many storage sites with substantial injection rates . Achieving high injection rates in deep saline aquifers requires a detailed assessment of injectivity performance and evaluation of the processes that alter the permeability of the near well region . One of the most common forms of the injectivity loss in the context of CO
+
+@highlight We have suggested a compositional framework for modelling of salt precipitation during CO
+@highlight storage in saline aquifers.
+@highlight The evaporation process and ionic effects are incorporated via an accurate and reliable ePC SAFT fluid model.
+@highlight Two different approaches for modelling of salt deposition i.e. kinetic or equilibrium are implemented and compared.
+@highlight Two interrelated phenomena capillary back flow and self enhancing of salt growth are implemented via a novel formulation.
+@highlight We showed that the extent of formation damage is primarily controlled by the porosity permeability relations.

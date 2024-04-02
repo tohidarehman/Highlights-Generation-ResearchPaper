@@ -1,0 +1,6 @@
+ The World Happiness Report is published by the United Nations Sustainable Development Solutions Network and contains an international ranking of national average happiness as measured by surveys of personal life evaluations . It also contains an analysis which tries to explain the happiness figures from more than 150 countries using data on six key variables . That analysis assumes the factors combine in an
+
+@highlight We consider a model of happiness which is multiplicative rather than additive.
+@highlight This allows synergy or interaction between the explanatory variables.
+@highlight It also models the degree of decreasing marginal benefit for each factor.
+@highlight The model gives a better fit to the international data in the World Happiness Report.

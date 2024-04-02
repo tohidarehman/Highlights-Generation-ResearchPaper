@@ -1,0 +1,5 @@
+ In this paper the dynamic fracture experiment of half circular disk PMMA specimens with prefabricated penetration defects under impact loading was carried out on the digital laser dynamic caustics experimental system the law of crack initiation growth and traversing under different tilt angles was examined and the variations of crack growth trajectory velocity and DSIF at crack tip were compared for analysis . In addition the discrete lattice spring method as a new development was employed to simulate how the dynamic cracks grew in PMMA specimens with defects it was found that the numerical model can reproduce the experiment phenomenon . On the basis the effect of the elastic modulus of the penetration defect medium on crack growth was analyzed . Referring to the experiment and numerical results it was thus concluded that the angle and the elastic modulus of penetration defect would dramatically influence the crack growth characteristics .
+
+@highlight Combine the DLDC and DLSM together.
+@highlight Some value data were got.
+@highlight Some dynamic parameter were analyzed.

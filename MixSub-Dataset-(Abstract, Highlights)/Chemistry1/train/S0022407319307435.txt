@@ -1,0 +1,5 @@
+ Pursuing a study concerning the evaluation of Beam Shape Coefficients of Laguerre Gauss beams after having dealt with the case of beams freely propagating the present paper establishes finite series expressions to evaluate the BSCs of Laguerre Gauss beams focused by a lens which have the known advantage of speeding up computations with respect to the use of numerical quadrature techniques and which may deal with the limitations of localized approximations in the case of beams exhibiting topological charges and or axicon angles .
+
+@highlight Beam shape coefficients for Laguerre Gauss beams focused by a lens are discussed.
+@highlight The method used is the finite series techniques and expressions within this framework are established.
+@highlight Expressions rely on recurrence equations which are solved.

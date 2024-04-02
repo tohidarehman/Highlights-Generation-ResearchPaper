@@ -1,0 +1,6 @@
+ This paper develops a model based hierarchical control method for coordinated ramp metering on freeway networks with multiple bottlenecks and on and off ramps . The controller consists of two levels where at the upper level a Model Predictive Control approach is developed to optimize total network travel time by manipulating total inflow from on ramps to the freeway network . The lower level controller distributes the optimal total inflows to each on ramp of the freeway based on local traffic state feedback . The control method is based on a parsimonious aggregated traffic model that relates the freeway total outflow to the number of vehicles on the freeway sections .
+
+@highlight We propose a hierarchical ramp metering approach that is based on the freeway MFD.
+@highlight The effect of heterogeneity and capacity drop on freeway MFD are investigated.
+@highlight The presented control approach is tested using different models as the plant.
+@highlight The presented control approach is compared with other optimal control approaches.

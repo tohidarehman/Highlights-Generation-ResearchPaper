@@ -1,0 +1,6 @@
+ In the adsorption studies the accurate estimation of the model parameters contributes to getting insights into adsorption behaviors and optimizing adsorber design . After reading the research work of Pap etal . carefully it was found that the fitting results were questionable . Thus this comment tried to address the following aspects Correction of the fitting results for the kinetic and isotherm models Correct form of the BohartAdams model Usage of the Clark model and Effects of the partial or complete experimental data on the model parameters . This work is expected to help readers better understand the adsorption models and estimate the model parameters .
+
+@highlight This work corrected the fitting results of the kinetic and isotherm models.
+@highlight This work gave the correct form of the BohartAdams model.
+@highlight The three parameter Clark model was directly used to obtain the model parameters.
+@highlight The complete breakthrough curve was recommended to obtain the model parameters.

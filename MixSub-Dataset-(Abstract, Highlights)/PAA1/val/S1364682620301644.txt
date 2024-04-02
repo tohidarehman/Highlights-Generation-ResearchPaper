@@ -1,0 +1,5 @@
+ In this paper GNSS ionospheric observations from ground based and spaceborne systems were simulated and the global 3D ionospheric density field was reconstructed by Kalman Filter algorithm . Various errors and influences in the assimilation of the ionospheric data were analyzed and corresponding improvement methods were proposed which were verified from the following two aspects based on simulation analysis
+
+@highlight Various errors and their influences in the ionospheric assimilation.
+@highlight The improvement methods of different errors were proposed and verified.
+@highlight Comparison of electron density from Abel retrieved assimilation algorithms.

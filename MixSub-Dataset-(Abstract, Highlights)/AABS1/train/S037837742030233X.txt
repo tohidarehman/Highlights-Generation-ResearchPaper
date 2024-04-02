@@ -1,0 +1,6 @@
+ A three year study was conducted to assess the ability of satellite based vegetation index images to track evapotranspiration over wheat . While the ability of using VIs notably with the Normalized Difference Vegetation Index to track vegetation growth has been well established the operational capability to accurately estimate the crop coefficient K
+
+@highlight NDVI from satellites used to estimate basal crop coefficients in wheat fields.
+@highlight Actual ET with eddy covariance was compared with modeled ET from remote sensing.
+@highlight Remotely sensed NDVI accurately estimates cumulative mid season and late season ET.
+@highlight Water stress event detected with NDVI.

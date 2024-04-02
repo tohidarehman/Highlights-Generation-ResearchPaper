@@ -1,0 +1,7 @@
+ The luminescent solar concentrator based photomicroreactor is a novel technology applied to the synthesis of chemicals coupling the advantages of sunlight modulation concentration and microflow chemistry . In this work a virtual model of this device based on computational fluid dynamics was implemented . The CFD model was developed considering a kinetic law that takes into account the effect of light intensity on the reaction performance for the 4
+
+@highlight The LSC PM is a novel technology for the synthesis of chemicals.
+@highlight The device couple sunlight modulation concentration and microflow chemistry.
+@highlight A CFD model for the LSC PM was implemented and validated.
+@highlight A control strategy was investigated numerically following the experimental setup.
+@highlight CFD was also applied to geometrical optimization of the device.

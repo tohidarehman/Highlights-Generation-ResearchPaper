@@ -1,0 +1,5 @@
+ This paper describes the development of finite element and analytical models for investigating the behavior of reinforced concrete columns strengthened with UHPFRC jackets under axial or eccentric loading . The main goal of both types of models is to produce load moment
+
+@highlight FE modeling of jacketed columns captured the experimental response reasonably well.
+@highlight Using adequate number of dowels led to a monolithic behavior of jacketed columns.
+@highlight An analytical model was proposed to draw the interaction envelop of jacketed columns.

@@ -1,0 +1,5 @@
+ A theoretical scheme used for controlling molecular orientation with few cycle terahertz pulse is proposed taking the NaI molecule as an example . The time dependent quantum wave packet theory method is used to accurately solve the time dependent Schrdinger equation including rotational degrees of freedom and vibrational degrees of freedom . By optimizing the parameters of few cycle terahertz pulse the maximal orientation 0.824 is achieved . By modualting the carrier envelope phase of few cycle terahertz pulse the enhancement and suppression of molecular orientation can be effectively controlled . Moreover the molecular orientation degrees are dependent on the center frequency and the intensity of electric field of the few cycle terahertz pulse . The numerical computation result shows that the orientation of the NaI molecule can be effectively steered by using our scheme .
+
+@highlight The molecular orientation of NaI molecule with few cycle terahertz pulse is studied.
+@highlight The influence of laser parameters on the orientation is discussed.
+@highlight The orientation could be effectively steered by this scheme.

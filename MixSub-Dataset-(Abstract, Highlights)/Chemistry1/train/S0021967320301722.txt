@@ -1,0 +1,7 @@
+ This paper reports for the first time the coupling of a two dimensional separation technique known as orthogonal pressurised planar electrochromatography with on line UV VIS detection . It establishes the efficiency characteristic of a planar column used in OPPEC . The studies show that in OPPEC all separation steps can run successfully as non separate operation much like in HPLC and the planar column has itself good efficiency ensuring a relatively low plate height value . In its use some findings of the previously proposed theoretical model concerning optimisation of preparative separation of components with the same electrophoretic mobility are verified showing that there is a good agreement between theory and experiment .
+
+@highlight The entire OPPEC separation process can run in a fully online operating mode.
+@highlight There is good agreement between theory and experiment.
+@highlight OPPEC periodic mode separates substances with equal electrophoretic mobility.
+@highlight Successful micro preparative separation of a real post reaction mixture was conducted.
+@highlight Advantage of OPPEC vs HPLC for productivity and eluent consumption is possible.

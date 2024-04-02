@@ -1,0 +1,7 @@
+ Using first principles molecular dynamics we calculated the equation of state and shock Hugoniot of various boron phases . We find a large mismatch between Hugoniots based on existing knowledge of the equilibrium phase diagram and those measured by shock experiments which could be reconciled if the B
+
+@highlight Using boron as an example we show that materials phase diagrams are different depending on the compression technique.
+@highlight We find an anomaly and a negative Clapeyron slope in the melting curve of boron.
+@highlight We provide first principles equations of state and shock Hugoniot curves for boron in multiple phases at up to 1000 GPa.
+@highlight We predict the possible existence of new boron phases at 100 GPa and 2000 K and of post 
+@highlight  Ga phases at megabar pressures.

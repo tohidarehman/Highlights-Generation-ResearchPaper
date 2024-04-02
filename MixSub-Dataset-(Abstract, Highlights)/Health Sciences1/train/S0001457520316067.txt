@@ -1,0 +1,6 @@
+ This study evaluated the impact of an optimal in vehicle advanced warning information service in a connected vehicle environment to prevent secondary crashes . Driving simulation experiments were designed and performed to analyze driving behavior . The forward crash situation was reproduced in a simulated highway environment and the safety effects were assessed based on simulation data from a driving simulator . To explore and analyze the effectiveness of crash notifications from the advanced warning information system for preventing secondary crashes this study utilized repeated measures of multivariate analysis of variance repeated measures of ANOVA paired t test and Wilcoxon signed rank test . The results from this paper indicate that a warning information system was effective to prevent secondary crash risks in general .
+
+@highlight This study evaluated the safety effect of advanced warning information systems on secondary crash risk under connected vehicle environment.
+@highlight Drivers behaviors are analyzed according to the forward crash notifications on the road where the crash occurred.
+@highlight To explore the effectiveness of the system this study utilized repeated measures design.
+@highlight The results indicate that the warning information system can be effective to prevent secondary crash risks.

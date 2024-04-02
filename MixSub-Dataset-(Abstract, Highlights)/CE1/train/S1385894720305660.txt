@@ -1,0 +1,7 @@
+ In this work we assess two electrochemical reactor designs to reduce hexavalent chromium diluted in rinsing waters from the electroplating industry . One reactor has a dynamic electrode composed of rotating rings electrodes and the other is a novel design that has static electrodes with two pitched blade turbines . The SE named Electro Baffles disrupts the tangential flow induced by impellers and promotes the electrochemical reactions . The hydrodynamic behavior of both designs was assessed by Computational Fluid Dynamic using the multiple reference frame approach . Experimental measurements of the mixing and treatment times to validate the results were performed . The rotational velocity of the RRE was150 rpm the optimum rpm reported while for the impellers of the other design two speeds were tested one operated at the same rpm as for RRE and the other at 362rpm to operate it at the same Reynolds Number
+
+@highlight The electrochemical reactor performance to remove Cr VI was improved.
+@highlight The RRE limits the pumping effectiveness due to the poor axial circulation.
+@highlight Using electro baffles and PBT impellers reduce energy consumption.
+@highlight Reducing the spacing between impellers improves hydrodynamic behavior.
+@highlight The use of static electrodes with PBT impellers increases pumping effectiveness.

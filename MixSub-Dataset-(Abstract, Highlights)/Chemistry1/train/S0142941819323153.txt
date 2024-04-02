@@ -1,0 +1,7 @@
+ The crystallization behavior of polymers is usually investigated by the Differential Scanning Calorimetry under isothermal or non isothermal conditions the latter one at constant cooling rates . The results of such experiments are used to calculate the crystallization during the dynamic cooling of processing for instance with the Nakamura crystallization model . In contrast in this article the crystallization of Polybutylene Terephthalate was measured directly calorimetrically at dynamic cooling . For this purpose the Fast Scanning Calorimetry was used in particular which can perform fast changes in scan rates . With this new approach for example the crystallinity can be determined across the part thickness without calculating it with a crystallization model . At the same time the subsequent melting behavior of structures formed during dynamic cooling was investigated . Thus a better interpretation of the first heating run of processed samples is possible .
+
+@highlight Dynamic cooling approach for investigating the crystallization behavior of polymers.
+@highlight Process related condition of crystallization.
+@highlight Conclusions on geometric influences on the crystallization are possible.
+@highlight Quantitative evaluation of bimodal crystallization within the part.
+@highlight Perspective as experimental validation of the Nakamura model conceivable.

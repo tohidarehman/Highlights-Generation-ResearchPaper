@@ -1,0 +1,7 @@
+ This study addresses the nonlinear forced vibration of a deep curved microbeam with a noncontact actuator . The photostrictive actuator is subjected to an ultraviolet switching excitation and the governing equations are derived based on the couple stress theory . The von Krmn geometric nonlinearity is utilized to obtain the fundamental equations of thin curved beams in a curvilinear coordinate system . According to the type of boundaries inextensional condition is applied as a new strategy in such a structure to obtain solution analytically . By using the Galerkin method the equation of motion is discretized and reduced to the ordinary differential equation . Nonlinear analysis is then carried out on the reduced order equation by employing the multiple scales method . Based on the obtained results for the first time it is reported that qualitative and quantitative response of a deep curved beam is highly affected by the geometrical characteristics and the micro interactions . It is found that considering the deepness term
+
+@highlight The nonlinear forced vibration of a curved beam via the couple stress theory.
+@highlight Nonlinear equation is solved analytically by employing the multiple scales method.
+@highlight The effects of geometrical characteristics on the nonlinear behaviour are studied.
+@highlight The Influence of micro interactions are evaluated.
+@highlight The considerable effect of the deepness term on the nonlinear response is investigated.

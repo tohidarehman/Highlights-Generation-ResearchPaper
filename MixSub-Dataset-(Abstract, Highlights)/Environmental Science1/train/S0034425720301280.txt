@@ -1,0 +1,6 @@
+ Nitrogen is considered as one of the most important plant macronutrients and proper management of N therefore is a pre requisite for modern agriculture . Continuous satellite based monitoring of this key plant trait would help to understand individual crop N use efficiency and thus would enable site specific N management . Since hyperspectral imaging sensors could provide detailed measurements of spectral signatures corresponding to the optical activity of chemical constituents they have a theoretical advantage over multi spectral sensing for the detection of crop N. The current study aims to provide a state of the art overview of crop N retrieval methods from hyperspectral data in the agricultural sector and in the context of future satellite imaging spectroscopy missions . Over 400 studies were reviewed for this purpose identifying those estimating mass based N and area based N N content N
+
+@highlight Most plant nitrogen is bound in proteins and only a small part in chlorophylls.
+@highlight Parametric regressions and chemometrics were the most popular methods.
+@highlight Machine learning and radiative transfer modelling are increasingly used.
+@highlight Leaf RTMs with spectral contributions of proteins need to be further developed.

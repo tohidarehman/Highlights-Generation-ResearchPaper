@@ -1,0 +1,9 @@
+ The adsorption of neodymium atoms on W surface was studied by means of the LEED AES and work function change measurements . It was found out that Nd atoms form a set of dilute chain structures at coverages below 1ML similarly to previously investigated rare earth metals adsorbed on Mo . The absence of particular fractional diffraction proved that the atoms in dilute chain structures form a zigzag not only in the case of the Mo substrate but also for adsorption of REM on W. As a result of the glide plane symmetry considerations a modified model was proposed with a different configuration of adatoms in the unit cell of the surface forming the zigzag . To support the new hypothesis an IV LEED analysis was made for the Nd W dilute chain system . Several theoretical structures were tested in dynamical scattering simulations including a centered structure with inequivalent adsorption sites in consecutive chains and a zigzag chain previously discussed in the literature . Ultimately the IV LEED experiment validated a new modified zigzag chain model .
+
+@highlight The geometric structure and Work Function of Nd adsorption layers on W 110 up to coverage of 1ML was investigated.
+@highlight Various structures was identified by means of Low Energy Electron Diffraction including dilute chain structures 
+@highlight 2 with periodicities
+@highlight  12 6 and 4.
+@highlight The detailed LEED pattern analysis was performed to determine the correct atomic model for dilute chain structures based on comparison to previously investigated Nd Mo 110 system.
+@highlight The additional symmetry considerations were discussed resulting in proposal of new zigzag chain structure fulfilling the glide plane symmetry of the system.
+@highlight IV LEED analysis was done to verify the correctness of proposed model.

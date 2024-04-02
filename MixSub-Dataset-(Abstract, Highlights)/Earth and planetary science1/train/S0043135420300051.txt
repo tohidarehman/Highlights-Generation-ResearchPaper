@@ -1,0 +1,6 @@
+ Drinking water purification and distribution processes shape the bacterial community in tap water however this study calls attention to the impact of source water on tap water bacterial community . Herein paired source and tap water samples were collected from 46 drinking water supply systems in different watersheds across China and high throughput sequencing delineated that bacterial richness and diversity decreased and biogeographical distribution pattern weakened in tap water compared to source water . Despite the great changes of bacteria from source to tap Bayesian based SourceTracker analysis still verified that the proportional contributions of source water to shaping the tap water bacterial community ranged from 0 to 92.8 . This indelible contribution was further confirmed by the Mantel test
+
+@highlight Distance decay feature was weak but significant in tap water bacterial communities.
+@highlight 49.73 30.22 tap water bacteria came from its source water by SourceTracker.
+@highlight Dominant source water bacterial groups were divided into sensitive and resistant taxa.
+@highlight Bacterial composition of source water determined its ability to affect tap water.

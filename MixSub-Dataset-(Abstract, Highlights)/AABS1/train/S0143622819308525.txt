@@ -1,0 +1,6 @@
+ Brightness of nighttime lights collected by the Suomi National Polar orbiting Partnership Visible Infrared Imaging Radiometer Suite is compatible across different times of images thanks to the on board calibration system . However the NTL radiance observed by the S NPP VIIRS shows clear seasonality corresponding to the seasonal changes in the albedo of land surface . Additionally the existence of many uncertain factors renders it inappropriate to directly use the NTL radiances to derive changes on the ground . In this study we adopt a statistical procedure of time series analysis namely
+
+@highlight Time series radiance of NTL from VIIRS DNB image composites is decomposed by STL.
+@highlight Seasonal component and noise are removed to detect actual changes in urban areas.
+@highlight Significant changes in brightness of NTL are detected at pixel levels with confidence levels.
+@highlight Damages caused by Hurricanes Irma and Maria in Puerto Rico are assessed by our method.

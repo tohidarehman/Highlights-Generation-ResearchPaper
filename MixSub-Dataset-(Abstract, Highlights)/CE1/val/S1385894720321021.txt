@@ -1,0 +1,8 @@
+ This study presents an experimental demonstration of pressurized chemical looping combustion in an internally circulating reactor . The ICR concept is a novel alternative to the conventional interconnected fluidized bed CLC configuration as it eliminates all cyclones loop seals and solids transport lines and it can be pressurized in a single pressure shell . Stable operation with high fuel conversion was established for about 40h of operation at pressures up to 6bar achieving reasonable CO
+
+@highlight Internally circulating reactor ICR was demonstrated for chemical looping combustion at pressurized condition up to 6.0bar.
+@highlight The ICR is proposed and design to simplify the operation and scale up of chemical looping processes at high pressure.
+@highlight The solids circulation rate was found to increase with increasing the operating pressure at a constant fluidization velocity.
+@highlight CO
+@highlight capture efficiency and purity up to 97 was achieved and found to be insensitive to the operating pressure.
+@highlight Autothermal high pressure CLC operation using ICR was achieved.

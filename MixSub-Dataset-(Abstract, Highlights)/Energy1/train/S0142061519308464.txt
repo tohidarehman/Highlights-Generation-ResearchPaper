@@ -1,0 +1,7 @@
+ In this paper a frequency reactive power channel is proposed for improving the performance of conventional frequency control system in an islanded MicroGrid . Using this channel it will be possible to take advantage of reactive power management for frequency control in addition to the conventional methods of using active power . In order to create the mentioned channel a frequency reactive power controller is proposed for controlling the inverter interfaced energy storage devices . The proposed controller reduces the MG frequency decline during contingencies .
+
+@highlight Manipulating active power of loads through voltage control has been proposed.
+@highlight This improves the performance of conventional frequency control during emergency.
+@highlight Voltage decrease considering CEBEMA is proposed to improve the frequency stability.
+@highlight The frequency reactive power controller is proposed to improve frequency control.
+@highlight The new FRF factor shows dependence of frequency to the reactive power of each bus.

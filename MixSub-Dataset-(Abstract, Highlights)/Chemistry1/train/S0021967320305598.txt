@@ -1,0 +1,7 @@
+ Polysaccharide based chiral stationary phases are the most used chiral selectors in HPLC . These CSPs can be used in normal polar organic and aqueous organic mobile phases . However normal and polar organic mobile phases are not adequate for chiral separation of polar compounds for the analysis of aqueous samples and for MS detection . In these situations reversed phase conditions without the usual non volatile additives incompatible with MS detection are preferable . Moreover in most of the reported chiral chromatographic methods retention is too large for routine work . In this paper the chiral separation of 53 structurally unrelated compounds is studied using three commercial amylose based CSPs coated amylose tris
+
+@highlight Compared enantioresolution Rs in 3 amylose based chiral stationary phases CSPs 
+@highlight Rs discriminant models of 2 Amylose CSPs in RPLC after feature selection
+@highlight Rs topological molecular descriptor relationships for unrelated compounds
+@highlight Chiral carbon topological parameters are key variables for enantioresolution
+@highlight Aromatic and nitrogen related parameters connect with enantioresolution

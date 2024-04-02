@@ -1,0 +1,5 @@
+ The accurate evaluation of maize plants uniformity aligned with an effective improvement in germination and biomass assessment is of paramount importance for farmers . Early detection of stand count provides details on uneven emergence for farmers to make a prompt decision for replanting and applying proper agricultural inputs at defective zones . However conventional ground based stand count methods are costly time intensive and the accuracy of the counting method heavily depends on the selected area . This study focuses on validating the potential application of high resolution unmanned aerial vehicle images for detecting the total number of maize plants and stand uniformity soon after maize germination . A field experiment was conducted to evaluate proper image processing algorithm for detecting the maize crop and calculating the distance between adjacent maize plants within a row .
+
+@highlight Maize germination and stand uniformity were evaluated accurately using UAV images.
+@highlight Plant stand uniformity map were developed using high resolution UAV imagery.
+@highlight The k means clustering segmentation method could identify maize with high accuracy.

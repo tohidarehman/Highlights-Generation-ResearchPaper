@@ -1,0 +1,6 @@
+ Industrially relevant bioprocesses such as paraffin activation present a complex multiphase system consisting of an aqueous growth medium and an immiscible alkane phase that is aerobically metabolized by active micro organisms . Thus the oxygen transfer rate from sparged gas is a key design parameter for which empirical correlations have been proposed to inform bioreactor design . However a fundamental predictive approach is needed to enable the evaluation of novel multiphase bioreactor designs
+
+@highlight Computational fluid dynamics model for gas liquid liquid stirred reactor developed.
+@highlight Hydrodynamics impacted by turbulence modulation not change in fluid properties.
+@highlight Model predicted oxygen transfer rate of similar accuracy to empirical correlations.
+@highlight Change in hydrodynamics better captured by model than empirical correlations.

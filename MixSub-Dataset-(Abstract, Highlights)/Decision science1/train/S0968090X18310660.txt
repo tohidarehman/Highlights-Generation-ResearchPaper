@@ -1,0 +1,6 @@
+ Unmanned Aerial Vehicles are being increasingly deployed in humanitarian response operations . Beyond regulations vehicle range and integration with the humanitarian supply chain inhibit their deployment . To address these issues we present a novel bi stage operational planning approach that consists of a trajectory optimisation algorithm and a hub selection routing algorithm that incorporates a new battery management heuristic . We apply the algorithm to a hypothetical response mission in Taiwan after the Chi Chi earthquake of 1999 considering mission duration and distribution fairness . Our analysis indicates that UAV fleets can be used to provide rapid relief to populations of 20 000 individuals in under 24h . Additionally the proposed methodology achieves significant reductions in mission duration and battery stock requirements with respect to conservative energy estimations and other heuristics .
+
+@highlight A framework to model UAV based humanitarian logistics missions is defined.
+@highlight A mixed integer programming formulation for the problem is presented.
+@highlight An effective Large Neighbourhood Search approach is proposed to solve this problem.
+@highlight The algorithm optimises trajectories depot location and battery allocation.

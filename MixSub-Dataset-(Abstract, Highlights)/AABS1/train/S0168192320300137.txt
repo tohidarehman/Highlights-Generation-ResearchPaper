@@ -1,0 +1,7 @@
+ Plant physiological responses to stress and subsequent damage have not been successfully integrated into leaf plant or land surface models . Water deficit leads to a series of plant responses stomatal closure decreases evaporative cooling leading to higher leaf temperature which it can affect photosynthetic dissipation of absorbed energy especially under high irradiance . Excess absorbed energy by PSII results in photoinhibition which is not typically included when modeling photosynthesis using the Farquhar von Caemmerer Berry model . We introduce a novel approach to represent plant atmosphere interactions a non steady state model of photoinhibition linked to the RuBP regeneration component of the FvCB model that accounts for the interactions between high temperature irradiance and water deficits . Gas exchange and chlorophyll fluorescence dynamics showed that under severe water stress the maximum quantum efficiency of PSII
+
+@highlight New dynamic model of damage and recovery to the rubp regeneration.
+@highlight  F
+@highlight was an effective coupling variable to represent responses to stress.
+@highlight Short term acclimation to irradiance affected photosynthetic parameters.
+@highlight This model is especially relevant when representing long term photosynthesis dynamics.

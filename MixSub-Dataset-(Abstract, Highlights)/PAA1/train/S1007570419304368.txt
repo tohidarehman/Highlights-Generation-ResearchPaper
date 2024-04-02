@@ -1,0 +1,5 @@
+ In this paper we propose a delayed discrete SIR disease model with a saturate incidence rate and extend it to a patchy environment by taking the dispersal of susceptible individuals from one patch to the other into consideration . For the single patch model we establish the global threshold dynamics by the method of Lyapunov functionals . For the two patch model we show that the global dynamics of the disease free equilibrium two boundary endemic equilibria and the interior endemic equilibrium are determined by several threshold quantities . We also explore the impacts of the dispersal on the disease dynamics . Our interesting findings may provide some useful insights on how to properly manage the dispersal between different regions to control the spread of diseases .
+
+@highlight Global threshold dynamics is obtained for a single patch discrete SIR disease model.
+@highlight Global dynamics of a two patch discrete disease model is also established.
+@highlight The impacts of dispersal between two patches on disease dynamics are fully explored.

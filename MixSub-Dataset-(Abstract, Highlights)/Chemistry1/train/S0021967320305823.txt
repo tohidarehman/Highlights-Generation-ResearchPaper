@@ -1,0 +1,5 @@
+ A twin column Multicolumn Countercurrent Solvent Gradient Purification process has been developed for the purification of a therapeutic peptide glucagon from a crude synthetic mixture . This semi continuous process uses two identical columns operating either in interconnected or in batch mode thus enabling the internal recycle of the portions of the eluting stream which do not comply with purity specifications . Because of this feature which actually results in the simulated countercurrent movement of the stationary phase with respect to the mobile one the yield purity trade off typical of traditional batch preparative chromatography can be alleviated . Moreover the purification process can be completely automatized .
+
+@highlight A MCSGP process has been developed for the purification of glucagon from a crude synthetic mixture.
+@highlight The procedure on how to develop the MCSGP process from a single batch experiment is illustrated.
+@highlight MCSGP allowed a 23 increase in yield with respect of single column process at a constant purity.

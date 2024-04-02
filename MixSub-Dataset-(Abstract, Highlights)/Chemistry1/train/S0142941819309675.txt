@@ -1,0 +1,7 @@
+ Polymers and composite materials show temperature dependent material properties . Therefore the frequency resembles a critical part in fatigue testing due to its influence on the self heating of the polymeric material and thereby on the number of cycles to failure . The aim of this paper is the development of a testing method which allows comparable results with varying frequencies . To minimize the self heating effect on the fatigue behavior a model was established for selecting optimized frequencies regarding the load specific temperature increase of the specimen . A new energy parameter the induced energy rate was introduced and correlated to the load specific increase in temperature in multiple and constant amplitude tests at ambient conditions . With this approach it was possible to determine a threshold value for the newly defined induced energy rate . A stress specific model was developed and a limit frequency was calculated . The results were verified in multiple and constant amplitude tests and S N curves .
+
+@highlight Energy based approach for optimized frequency selection for fatigue testing of PA6.
+@highlight Definition and explanation of a new energy based parameter.
+@highlight Influence of frequency on fatigue ratchetting and failure behavior of PA6.
+@highlight Determination and modeling of frequencies based on induced energy rate.
+@highlight Comparative validation of optimized frequencies in S N curves of PA6.

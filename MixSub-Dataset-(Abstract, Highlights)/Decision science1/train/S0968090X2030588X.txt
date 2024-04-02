@@ -1,0 +1,5 @@
+ Sparsity and missing data problems are very common in spatiotemporal traffic data collected from various sensing systems . Making accurate imputation is critical to many applications in intelligent transportation systems . In this paper we formulate the missing data imputation problem in spatiotemporal traffic data in a low rank tensor completion framework and define a novel truncated nuclear norm on traffic tensors of location
+
+@highlight A low rank tensor completion framework is developed for spatiotemporal traffic.
+@highlight We use a truncated nuclear norm TNN in tensor rank approximation.
+@highlight The TNN based model shows superior performance on various traffic data sets.

@@ -1,0 +1,6 @@
+ Groundwater nitrate contamination has been the main water quality problem threatening the sustainable utilization of water resources in Jeju Island South Korea . The spatially varying distribution of nitrate levels associated with complex environmental and anthropogenic factors has been a major challenge restricting improved groundwater management . In this study we applied ordinary least squares regression and geographically weighted regression models to determine the relationships between the NO
+
+@highlight Prediction of nitrate level based on geographical weighted regression GWR model.
+@highlight GWR was used to study spatially varying nitrate level in a complex environment.
+@highlight GWR showed higher prediction performance ability than ordinary least squares model.
+@highlight GWR proposed groundwater management plans reflecting spatial heterogeneity.

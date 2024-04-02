@@ -1,0 +1,7 @@
+ High economic cost of climate policy has attracted critical debate since the Kyoto Protocol . However reliable empirical evidence of the abatement cost of green house gases across countries remains scant . In this study we estimate the average yearly green house gas abatement costs per capita for a panel of 28 OECD countries in years 19902015 . The marginal abatement costs are estimated using a novel data driven approach based on convex quantile regression . Compared to traditional frontier estimation methods the quantile approach takes into account a broader set of abatement options and is more robust to inefficiency noise and heteroscedasticity in empirical data . The comparison of OECD countries shows that the actual abatement cost per capita has been very modest much lower than predicted in the late 1990s . This result has profound policy implications calling for more ambitious climate change mitigation strategy in the future .
+
+@highlight Forecasted costs of the Kyoto Protocol show large variance.
+@highlight Empirical evidence about the economic cost of Kyoto remains scant.
+@highlight Yearly GHG abatement costs estimated for 28 OECD countries in 19902015.
+@highlight New data driven approach based on convex quantile regression is applied.
+@highlight Abatement cost per capita has been much lower than predicted in the 1990s.

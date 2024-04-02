@@ -1,0 +1,5 @@
+ This paper presents the design fabrication and testing of a single mode fiber optic ultrasound transducer . This transducer can work as an ultrasound generator and a receiver based on principles of photoacoustic effect and FabryProt interference . PA effect is a process in which ultrasound waves are generated from optical energy by a PA material and an FP structure is used for ultrasound receiving . The transducer was manufactured by coating a material called gold nanocomposite directly onto a single mode optical fiber tip . The gold nanocomposite acted as the PA material and formed the FP structure as well . The transducer had the same size as the single mode fiber whose diameter was only 125m . It demonstrated its ability to generate ultrasound signals with a bandwidth of 5.6MHz at an efficiency of 3.210
+
+@highlight Combination of an ultrasound generator and a receiver on a single mode fiber.
+@highlight The gold nanocomposite worked as the PA material and formed an FP interferometer.
+@highlight Tiny dimensions and potential to work in locations with very limited space.

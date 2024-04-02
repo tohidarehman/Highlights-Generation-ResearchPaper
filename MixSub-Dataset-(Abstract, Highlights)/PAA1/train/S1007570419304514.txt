@@ -1,0 +1,6 @@
+ The main concern of this paper is to develop and analyze the high order RungeKutta convolution quadrature method for obtaining the numerical solution of nonlinear fractional integro differential equations with weakly singular kernels . We first study the existence and uniqueness of solutions for the original problem . Then the convergence and stability results of the RKCQ method are obtained . Finally some numerical experiments are reported to illustrate the effectiveness of the proposed schemes .
+
+@highlight The Runge Kutta convolution quadrature methods for solving of non linear Volterra integral equations with weakly singular kernels is offered.
+@highlight We study the existence and uniqueness of solutions for the original problem.
+@highlight The convergence and stability analysis of the new developed schemes is presented.
+@highlight We prove that the rate of convergence of the proposed algorithm is

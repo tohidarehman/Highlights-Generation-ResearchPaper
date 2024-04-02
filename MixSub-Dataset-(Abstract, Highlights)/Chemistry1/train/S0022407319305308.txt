@@ -1,0 +1,11 @@
+ Raman spectroscopy can be used to determine the vibrational frequencies of materials and from these the chemical compositions . Raman microspectroscopy can help in understanding the chemistry of atmospheric and other aerosols . This paper describes the use of an automated Aerosol Raman Spectrometer from Battelle to collect approximately 100 000 RS in 15 min intervals over 22.5h in Maryland USA . Approximately 9000 of these RS have intensities exceeding the thresholds used in this analysis . This paper describes and illustrates processing techniques used for the RS including detection and removal of RS exhibiting charring and estimation and removal of fluorescence and other broad features . RS exhibiting the D and G bands of soots and other black carbons are especially common in the data probably because the particles are charged to increase the collection efficiency of small particles the Raman cross sections of DGC are large and the sampling location is near major roads . RS consistent with calcium oxalate hydrates C
+
+@highlight Raman spectra RS of atmospheric aerosol particles were measured with a semi continuous system.
+@highlight Of the 100 320 RS measured in 22.5h approximately 9000 had intensities above the thresholds.
+@highlight RS were consistent with soots carbonates silicates sulfates iron oxides and biomaterials.
+@highlight RS consistent with calcium oxalate hydrates C
+@highlight  Ca 1 
+@highlight  H
+@highlight O where 0 
+@highlight  1 were seen.
+@highlight Particles were charred infrequently by the laser more often during daytime.

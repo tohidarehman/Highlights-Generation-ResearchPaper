@@ -1,0 +1,8 @@
+ Cultivating microalgae with wastewater offers a dual beneficial strategy for the removal of nutrients coupled with the accumulation of valuable bioproducts . However the dynamic mass flow in heterotrophic algal growth is far less known than autotrophic mode . This study particularly provided a new insight into this process by modelling heterotrophic
+
+@highlight Heterotrophic microalgae culture in wastewater was modelled for global optimization.
+@highlight The kinetic model correlates extra intra cellular C N and P for the first time.
+@highlight Monod and Luedeking Piret expressions form the basis of the proposed model.
+@highlight Carbohydrate and lipid are main algal storage components produced in wastewater.
+@highlight Simulation R
+@highlight 0.9 and half saturation constants consist with literature.

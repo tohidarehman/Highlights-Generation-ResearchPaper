@@ -1,0 +1,6 @@
+ We study the effect of spatial inequality on economic activity . Given that the relationship is highly simultaneous in nature we use exogenous variation in geographic features to construct an instrument for spatial inequality which is independent from any man made factors . Our instruments are inequality measures based on grid level data for existing countries as well as for artificial countries . In the construction of the instrumental variable we use both a parametric regression analysis as well as a random forest classification algorithm . Our IV regressions show a significant negative relationship between spatial inequality and economic activity . This result holds if we control for country level averages of different geographic variables . Therefore we conclude that geographic heterogeneity is an important determinant of economic activity .
+
+@highlight We study the causal impact of spatial inequality on economic activity.
+@highlight We use various sources of geo coded data including night lights.
+@highlight We use instrumental variable techniques combined with machine learning.
+@highlight We find that spatial inequality within countries harms national economic activity.

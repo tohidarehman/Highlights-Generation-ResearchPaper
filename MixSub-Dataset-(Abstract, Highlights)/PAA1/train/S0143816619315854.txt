@@ -1,0 +1,5 @@
+ A high efficiency terahertz wave amplification approach by coupled cascaded optical parametric processes with orientationally patterned gallium phosphide is introduced . The CCOPP comprises two cascaded optical parametric processes which are intensely coupled by THz waves and cascaded optical waves via setting a precise periodic vector of OP GaP . A simulation model that solves for the interactions of THz and cascaded optical waves is employed . The influences of cascading orders phase mismatches pump intensities red shifted and blue shifted processes nonlinear coefficients and absorption coefficients the initial THz intensities are considered in the calculations . Simulation results predict that more than 7 THz photons are produced from a pump photon by 12 orders CCOPP .
+
+@highlight THz wave is amplified by two cascaded parametric processes at coupling points.
+@highlight More than 7THz photons are produced from a pump photon by 12orders CCOPP.
+@highlight Quantum efficiency could exceed 7000 at 100 K with more cascading orders.

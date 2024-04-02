@@ -1,0 +1,6 @@
+ This paper investigates fault tolerant secure consensus tracking for delayed nonlinear multi agent systems with deception attacks uncertain parameters and actuator failure via impulsive control . The deception attacks are considered in the information exchange channels among neighbour agents and it would be modeled as a Bernoulli distribution . A class of distributed impulsive control protocols is proposed . Some sufficient conditions for achieving mean square bounded consensus are obtained . The mean square error bounds are derived which are associated with the energy of deception attack and the expectation matrix involved with actuator failure . Simulations are provided to illustrate the effectiveness of the proposed control scheme .
+
+@highlight Fault tolerant secure consensus tracking of nonlinear multi agent systems with deception attacks via impulsive control is considered.
+@highlight The actuator failure parameters fluctuation and time delay are simultaneously taken into consideration.
+@highlight A class of distributed impulsive control protocols is proposed for a secure consensus tracking problem to reduce the influence of fault data on the stability of the system.
+@highlight The mean square error bounds are derived.

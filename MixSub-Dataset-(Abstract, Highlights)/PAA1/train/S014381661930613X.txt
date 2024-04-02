@@ -1,0 +1,6 @@
+ We propose a simultaneous noise filtering and phase unwrapping algorithm . Spatial evolution of phase is modeled as an autoregressive Gaussian Markov random field . Accordingly phase value at a pixel is related to phase values at surrounding pixels in a probabilistic manner . The problem of estimation of these probabilities is formulated as state space analysis using the wrapped Kalman filter . Simulation and experimental results demonstrate the practical applicability of the proposed phase unwrapping algorithm .
+
+@highlight Gaussian Markov random field phase model allows noise robust phase unwrapping.
+@highlight Spatial phase variation can be effectively modelled as autoregressive AR process.
+@highlight The wrapped Kalman filter accurately estimates AR coefficients using wrapped phase.
+@highlight Reliable phase unwrapping is observed with under sampled wrapped phases.

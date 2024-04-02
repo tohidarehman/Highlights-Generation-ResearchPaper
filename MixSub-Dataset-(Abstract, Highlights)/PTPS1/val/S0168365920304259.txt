@@ -1,0 +1,7 @@
+ Metabolic pathways in the body are highly specific . Dysfunction of a metabolic pathway triggers the accumulation of its target substance . For example kidney failure results in increased 2 microglobulin blood levels causing dialysis related amyloidosis . Previously we proposed a novel therapeutic concept that is a removal of an etiologic factor of metabolic disease by artificial switching of its metabolic processing pathway and tested this concept using in cultured cells . However the feasibility of artificial metabolic switching
+
+@highlight We developed a navigator that switches metabolic processing pathway
+@highlight 2 microglobulin 2 m was the target etiologic factor of the navigator.
+@highlight The navigator caught 2 m and steered to LDL receptor on cells to reach lysosome.
+@highlight The navigator switched 2 m accumulation from kidney to liver via LDL receptor.
+@highlight Navigator based artificial metabolic switching can be a new therapeutic strategy.

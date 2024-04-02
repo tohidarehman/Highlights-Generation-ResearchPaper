@@ -1,0 +1,7 @@
+ Recent privacy related incidents of mobile services have shown that app stores and providers face the challenge of mobile users information privacy concerns which can prevent users from installing mobile apps or induce them to uninstall an app . In this paper we investigate the role of app permission requests and compare the impact on privacy concerns with other antecedents of information privacy concerns i.e . prior privacy experience computer anxiety and perceived control . To test these effects empirically we conducted an online survey with 775 participants . Results of our structural equation modeling show that prior privacy experience computer anxiety and perceived control have significant effects on privacy concerns . However concerns for app permission requests have approximately twice as much predictive value than the other factors put together to explain mobile users overall information privacy concerns . We expect that our findings can provide a theoretical contribution for future mobile privacy research as well as practical implications for app stores and providers .
+
+@highlight The focus of the study is on mobile users information privacy concerns.
+@highlight We analyze the role of app permission requests regarding privacy concerns.
+@highlight Other factors are prior privacy experience computer anxiety and perceived control.
+@highlight We surveyed 775 mobile users and conducted structural equation modeling.
+@highlight Results show that the impact of app permission concerns outweighs all other factors.

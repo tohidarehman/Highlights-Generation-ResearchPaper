@@ -1,0 +1,5 @@
+ Texture synthesis plays an important role in computer game and movie industries . Although it has been widely studied the assessment of the quality of the synthesised textures has received little attention . Inspired by the research progress in perceptual texture similarity estimation we propose a Texture Synthesis Quality Assessment approach . To our knowledge this is the first attempt to exploit perceptual texture similarity for the TSQA task . In particular we introduce two perceptual similarity principles for synthesis quality assessment . Correspondingly we train two Random Forest regressors . Given a pair of sample and synthesised textures the two regressors can be used to predict the
+
+@highlight Introduction of two perceptual similarity principles for TSQA
+@highlight Development of a new TSQA approach based on the two principles.
+@highlight Investigation of ten image descriptors and an image quality assessment method

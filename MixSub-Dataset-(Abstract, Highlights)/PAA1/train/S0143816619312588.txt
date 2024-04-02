@@ -1,0 +1,6 @@
+ Surface defects have a significant effect on the mechanical properties of aluminium strips . However the current defect identification algorithm needs to be further improved to meet the quality inspection requirements for aluminium products . The scheme of non subsampled shearlet transform and the kernel locality preserving projection are applied to identify surface defects of aluminium strips . The defect images collected from a cold rolling line of aluminium strips were tested including five true defect types of point imprints scratches dents roll marks and wrinkles and three pseudo defect types of lighting variation water marks and oil stains . The test results show that a 97.71 recognition rate is achieved which is higher than those obtained from the commonly used methods published in literature . The NSST KLPP provides a new scheme for the identification of surface defects of aluminium strips .
+
+@highlight A new classification method combining NSST and KLPP is proposed.
+@highlight NSST can decompose images into different scales and directions and get more information.
+@highlight NSST KLPP has a better generalization ability than that of Contourlet KLPP and DST KLPP.
+@highlight NSST KLPP provides a useful scheme for of surface defect detection of aluminium strips.

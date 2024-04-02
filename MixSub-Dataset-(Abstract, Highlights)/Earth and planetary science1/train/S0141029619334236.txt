@@ -1,0 +1,6 @@
+ We examine the effectiveness of the Textile Reinforced Mortar and Near Surface Mounted reinforcement techniques when applied for the strengthening of existing reinforced concrete frames against disproportionate collapse . Four quasi static experiments were conducted on half scaled specimens considering a central column loss scenario in a perimetral portal frame . The effect of the flexural as well as the shear strengthening on the effectiveness of the strengthening technique is investigated . The experimental results show that the TRM and NSM techniques substantially increase the load bearing capacity during the development of the compressive arch action of the reinforced concrete beam by 1.44 and 1.42 times respectively compared to the control specimen . The NSM technique is shown to increase the ductility of the control specimen by a factor of 1.95 .
+
+@highlight The NSM and TRM techniques are examined vis a vis disproportionate collapse.
+@highlight Both techniques are experimentally shown to increase the robustness of existing RC frames.
+@highlight The ductility of the strengthened beam is increased.
+@highlight Shear strengthening is shown to significantly contribute in the robustness of the frame.

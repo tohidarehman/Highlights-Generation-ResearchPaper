@@ -1,0 +1,6 @@
+ In current breast ultrasound computer aided diagnosis systems the radiologist preselects a region of interest as an input for computerised breast ultrasound image analysis . This task is time consuming and there is inconsistency among human experts . Researchers attempting to automate the process of obtaining the ROIs have been relying on image processing and conventional machine learning methods . We propose the use of a deep learning method for breast ultrasound ROI detection and lesion localisation . We use the most accurate object detection deep learning framework Faster RCNN with Inception ResNet v2 as our deep learning network . Due to the lack of datasets we use transfer learning and propose a new 3 channel artificial RGB method to improve the overall performance . We evaluate and compare the performance of our proposed methods on two datasets i.e . within individual datasets and composite dataset . We report the lesion detection results with two types of analysis
+
+@highlight Automation of breast ultrasound region of interest detection with Faster RCNN.
+@highlight We apply transfer learning approach and propose a new data augmentation method.
+@highlight We evaluate the proposed method within individual dataset and composite dataset.
+@highlight Faster RCNN outperformed the state of the art method in lesion localisation.

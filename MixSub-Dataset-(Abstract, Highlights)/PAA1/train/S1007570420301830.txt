@@ -1,0 +1,6 @@
+ A three dimensional nonlinear system modeling the enzymatic reaction of a substrate and two products is considered . We study how stochastic fluctuations of substrate input affect bistability regimes with coexisting equilibrium and limit cycle as well as birhythmicity with two coexisting cycles . For the analysis of noise induced phenomena we use an apparatus of confidence ellipsoids and tori constructed with the help of stochastic sensitivity function approach . Probabilistic mechanisms of the stochastic generation of complex mixed mode oscillatory regimes with spiking phases are discussed . It is shown that this phenomenon is accompanied by the transformation of regular nonlinear dynamics into chaotic .
+
+@highlight Effects of random noise on the Goldbeter biochemical 3D model are studied.
+@highlight We analyze a noise induced bistability and birhythmicity.
+@highlight We apply the method of analysis based on confidence domains.
+@highlight Stochastic transformations from order to chaos are discussed.

@@ -1,0 +1,7 @@
+ NASA s Orbiting Carbon Observatory 3 was installed on the International Space Station on 10 May 2019 . OCO 3 combines the flight spare spectrometer from the Orbiting Carbon Observatory 2 mission which has been in operation since 2014 with a new Pointing Mirror Assembly that facilitates observations of non nadir targets from the nadir oriented ISS platform . The PMA is a new feature of OCO 3 which is being used to collect data in all science modes including nadir sun glint target and the new snapshot area mapping mode .
+
+@highlight Orbiting Carbon Observatory 3 has been installed on the International Space Station.
+@highlight OCO 3 passed in orbit checkout and began collecting science data August 2019.
+@highlight The planned mission lifetime of OCO 3 is 3years August 2019 to August 2022.
+@highlight OCO measures total column carbon dioxide and solar induced chlorophyll fluorescence.
+@highlight The first data product release vEarly is publicly available on the NASA DISC.

@@ -1,0 +1,5 @@
+ This note shows that the egalitarian Dutta and Ray solution for transferable utility games is self antidual on the class of exact partition games . By applying a careful antiduality analysis we derive several new axiomatic characterizations . Moreover we point out an error in earlier work on antiduality and repair and strengthen several related characterizations on the class of convex games .
+
+@highlight We show that the egalitarian Dutta and Ray 1989 solution for transferable utility games is self antidual on the class of exact partition games.
+@highlight We derive several new axiomatic characterizations of the Dutta and Ray 1989 solution on the class of exact partition games.
+@highlight We repair and strengthen several related characterizations on the class of convex games.

@@ -1,0 +1,6 @@
+ This paper models a single allocation multi commodity hub and spoke network problem through a bi objective mathematical model considering the congestion in both hubs and connection links . A novel aggregation model is developed based on a general GI G c queuing system to evaluate the congestion of the flow of the multiple products in the hubs . The proposed model is then solved using a novel learning based metaheuristic based on NSGA II
+
+@highlight Addressing a multi commodity hub and spoke network design under hub congestion.
+@highlight Considering congestion in both hubs and connection links.
+@highlight Developing a queuing based aggregation model to model the congestion.
+@highlight Developing a learning based metaheuristic to solve the model.

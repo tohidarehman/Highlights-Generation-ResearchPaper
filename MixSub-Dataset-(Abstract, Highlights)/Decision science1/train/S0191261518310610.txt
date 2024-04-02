@@ -1,0 +1,6 @@
+ As every user knows buses tend to bunch . To alleviate this problem transit agencies introduce slack into their schedules and then hold buses back to schedule at pre established control points along their routes . Unfortunately this practice retards buses and only works with low frequency systems i.e . when the headways are long . For higher frequency systems which effectively operate without a schedule headway based control strategies show promise but unfortunately they also retard buses . To alleviate bus retardation in all its forms transit signal priority is commonly used . Curiously however the potential of TSP to enhance bus control practices has not been explored in detail .
+
+@highlight Design a form of conditional signal priority CSP to enhance bus control.
+@highlight Evaluate CSP for both forms of bus service schedule based and headway based.
+@highlight Find that CSP improves reliability considerably.
+@highlight Find that CSP is better for traffic because it sends fewer priority requests.

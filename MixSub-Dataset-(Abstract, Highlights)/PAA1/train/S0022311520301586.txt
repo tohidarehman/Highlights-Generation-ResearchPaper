@@ -1,0 +1,6 @@
+ Hydrazine is added into secondary circuit in order to eliminate oxygen and to impose a reducing potential . Another possible role of hydrazine is to reduce hematite potentially present and thus reduce risk of stress corrosion cracking of steam generator tubes . However the latter effect of hydrazine is still not clear . In order to better understand the mechanism and the kinetics of hematite reduction by hydrazine under secondary circuit conditions an experimental study has been carried out . It was found that the reduction of hematite proceeds through the adsorption of hydrazine surface reduction and dissolution of hematite and coprecipitation of well crystallized octahedral magnetite .
+
+@highlight Ferric oxides are found in secondary circuit despite thermodynamic instability.
+@highlight Hematite can have a detrimental effect toward steam generator tubes.
+@highlight Hematite can be reduced by hydrazine in secondary circuit conditions.
+@highlight Slow reduction kinetics allows the persistence of hematite in industrial conditions.

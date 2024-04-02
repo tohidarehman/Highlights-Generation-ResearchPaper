@@ -1,0 +1,7 @@
+ Hybridly polarized beam is a new type of vector beam different from conventional cylindrical vector beam . In our work we present a simple and effective method to generate hybridly polarized beams by using a cascade of a super structured polarization converter and a quarter wave plate . The transformation of light field was analyzed by using Jones vector and Jones matrix and the Stokes parameters of the generated vector beams were measured to verify the states of polarization . Various novel multiscale micro nanostructures were fabricated on surfaces of 4H SiC by using the hybrid vector beams which are different from that induced by linearly polarized beam or conventional cylindrical vector beam . Experimental results show that the multiscale characteristics can be adjusted with a high degree of freedom by designing states of polarization . This research provides a new idea for preparation of multiscale micro nanostructures that may be useful in the fields of nano micro electromechanical systems thermal photovoltaics and thermal management .
+
+@highlight Multiscale structures were fabricated by hybrid vector beams for the first time.
+@highlight Shapes of multiscale patterns can be controlled by designing state of polarization.
+@highlight Polarization ellipticity at arbitrary azimuth angle of hybrid vector beam is deduced.
+@highlight LIPSS fabricated by hybrid vector beams are rotational symmetric with 90 rotation angle.
+@highlight Circular polarized laser induces the formation of nanoparticles.

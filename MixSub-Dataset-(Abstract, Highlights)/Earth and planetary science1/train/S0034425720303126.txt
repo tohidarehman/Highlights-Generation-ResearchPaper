@@ -1,0 +1,7 @@
+ Satellite observed night time light in urban areas has been widely used as an indicator for socioeconomic development and light pollution . Up to present the diurnal dynamics of city light during the night which are important to understand the nature of human activity and the underlying variables explaining night time brightness have hardly been investigated by remote sensing techniques due to limitation of the revisit time and spatial resolution of available satellites . In this study we employed a consumer grade unmanned aerial vehicle to monitor city light in a study area located in Wuhan City China from 8 08PM April 15 2019 to 5 08AM April 16 2019 with an hourly temporal resolution . By using three ground based Sky Quality Meters we found that the UAV recorded light brightness was consistent with the ground luminous intensity measured by the SQMs in both the spatial R
+
+@highlight A consumer grade UAV was used to investigate hourly dynamic of city light.
+@highlight The UAV recorded light is highly correlated to SQM measured luminous intensity.
+@highlight UAV analysis implies DMSP OLS and VIIRS images may be hard to inter calibrate.
+@highlight Considering urban function the city light shows highly dynamic in space and time.
+@highlight The city light colour shows heterogeneous in space and dynamic in time.

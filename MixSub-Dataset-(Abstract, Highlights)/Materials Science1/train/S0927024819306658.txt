@@ -1,0 +1,6 @@
+ The degradation characteristics of MOCVD grown InGaAsP InGaAs dual junction solar cells irradiated by 1MeV electron 3MeV and 10MeV proton have been investigated . Main electrical and optical properties of solar cell degraded seriously with the increase of irradiation fluences due to the irradiation induced defects which are acting as non radiative recombination centers in the active layers of the solar cell . The remaining factor of
+
+@highlight InGaAsP InGaAs solar cells are studied upon electron and proton irradiation.
+@highlight Degradation characteristics of solar cell properties are studied.
+@highlight Simulation results are applied for analysing irradiation induced defects.
+@highlight Relative damage coefficient for electron to proton irradiation are calculated.

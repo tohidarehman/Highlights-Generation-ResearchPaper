@@ -1,0 +1,5 @@
+ Quickly and accurately summarizing representative opinions is a key step for assessing microblog sentiments . The Ortony Clore Collins model of emotion can offer a rule based emotion export mechanism . In this paper we propose an OCC model and a Convolutional Neural Network based opinion summarization method for Chinese microblogging systems . We test the proposed method using real world microblog data . We then compare the accuracy of manual sentiment annotation to the accuracy using our OCC based sentiment classification rule library . Experimental results from analyzing three real world microblog datasets demonstrate the efficacy of our proposed method . Our study highlights the potential of combining emotion cognition with deep learning in sentiment analysis of social media data .
+
+@highlight Propose an effective opinion summarization method for microblog texts based on emotion modeling and deep learning.
+@highlight Design a blog users sentiment classification rule library based on the OCC model.
+@highlight Analyze three real world microblog datasets to demonstrate the efficacy of our proposed method.

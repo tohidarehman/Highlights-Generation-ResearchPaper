@@ -1,0 +1,8 @@
+ Road traffic congestion is the result of various phenomena often of random nature and not directly observable with empirical experiments . This makes it difficult to clearly understand the empirically observed traffic instabilities . The vehicles acceleration deceleration patterns are known to trigger instabilities in the traffic flow under congestion . It has been empirically observed that free flow pockets or voids may arise when there is a difference in the speeds and the spacing between the follower and the leader increases . During these moments the trajectory is dictated mainly by the characteristics of the vehicle and the behaviour of the driver and not by the interactions with the leader . Voids have been identified as triggers for instabilities in both macro and micro level which influence traffic externalities such as fuel consumption and emissions . In the literature such behaviour is usually reproduced by injecting noise to the results of car following models in order to create fluctuations in the instantaneous vehicles acceleration .
+
+@highlight Formalizing heterogeneity of the vehicle driver system.
+@highlight Free flow term of a CF model leads to the formation and propagation of oscillations.
+@highlight Simulations reproduce periodical oscillations with variable amplitudes and periods.
+@highlight The concave growth pattern of the standard deviation of the speed is observed.
+@highlight Validation was performed on three real world car following datasets.
+@highlight The proposed approach provides accurate fuel consumption estimations.

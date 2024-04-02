@@ -1,0 +1,6 @@
+ The Thermal Electrochemical Co drive System has the advantages of high desorption rate and low energy consumption . However the fluid flow and capture performance is still unknown in TECS . Thus a comprehensive experiment and simulation work on TECS is performed to demonstrate the fluid flow and capture performance in a pilot scale TECS . The reaction kinetics of the electrolyzed MEA SG solution is discussed . A pilot scale TECS is set up and gas liquid two phase flow model is developed for the TECS . According to the numerical computation and experiment the gas liquid two phase flow field was analyzed under the thermal electrochemical co drive conditions . The mechanism of CO
+
+@highlight A comprehensive experiment and simulation work has been done for TECS.
+@highlight The gas liquid two phase flow field in TECS was analyzed.
+@highlight The synergy of thermal desorption and electrochemical desorption was quantified.
+@highlight The energy consumption amount was determined at 1.3GJ t to 2.1GJ t.

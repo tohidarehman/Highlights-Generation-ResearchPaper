@@ -1,0 +1,7 @@
+ In this study the effects of contact force modeling parameters which included the particleparticle friction coefficient spring constant ratio of the tangential spring constant to normal spring constant normal restitution coefficient and tangential restitution coefficient presenting in the linear spring dashpot contact model on the hydrodynamics profile of spouted bed reactor were investigated via computational fluid dynamics coupled with discrete element method using Multiphase Flow with Interphase eXchange . First the base case simulation was validated with the experimental data . Next the 2
+
+@highlight Spouted bed was successfully simulated by using CFD DEM simulation.
+@highlight The linear spring dashpot collision parameters were systematically investigated.
+@highlight Significance of contact force modeling parameters was analyzed by factorial design.
+@highlight Spring constant friction and normal restitution coefficients were key parameters.
+@highlight Various interactions also affected on the system hydrodynamics in spouted bed.

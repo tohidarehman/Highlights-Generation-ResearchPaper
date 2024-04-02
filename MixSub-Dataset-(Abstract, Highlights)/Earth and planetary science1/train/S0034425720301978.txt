@@ -1,0 +1,6 @@
+ Polar ocean ecosystems are experiencing rapid environmental change but measuring the associated phytoplankton responses is challenging using traditional satellite passive ocean color measurements due to signal contamination from clouds and sea ices and to low solar elevation angles . Active satellite lidar measurements allow retrieval of ocean phytoplankton properties under conditions prohibitive to passive ocean color sensors . The ICESat 2 satellite lidar measurements provide two dimensional distributions of upper ocean phytoplankton properties . The spring phytoplankton blooms extending about 230km horizontally from dense packs ice near Antarctic marginal ice zones and 15m vertically below ocean surface are observed from space for the first time . Our findings highlight the advantages of satellite lidar technology for understanding high latitude plankton ecology and biogeochemistry .
+
+@highlight The vertical structures of the ice edge blooms are first uncovered from space.
+@highlight The ice edge blooms extend as far as 230km horizontally and 15m vertically.
+@highlight ICESat 2 lidar measurements can be used for ocean biology studies.
+@highlight High latitude plankton in both day and night can be observed from ICESat 2.

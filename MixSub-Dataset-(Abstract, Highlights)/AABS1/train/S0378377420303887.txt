@@ -1,0 +1,8 @@
+ The variably saturated flow and multi component transport module UNSATCHEM of HYDRUS 1D was used to evaluate the impact of the long term application of recycled water for irrigating perennial horticulture viticulture annual horticulture and pasture crops in representative soils from the Northern Adelaide Plains South Australia . The input parameters for soil hydraulic soil solution and cation exchange data were determined for 14 soil profiles from the NAP region . For a warm up period from 1970 to 2017 the model used historical climate data and low salinity irrigation water . In the subsequent period irrigation continued with RCW and projected meteorological conditions were obtained by considering expected future climate change . The average soil water salinity
+
+@highlight This study evaluates the impact of recycled water RCW irrigation on salinity and sodicity hazards in soils.
+@highlight Potential yields of horticultural crops reduced by 4 32 due to increase in the soil salinity.
+@highlight RCW irrigation results in poor growing conditions due to steep increase in SAR and ESP in the soils.
+@highlight Threshold SAR for the development of critical ESP 6 varied from 3 6 in different soils
+@highlight The impact of RCW irrigation was more pronounced in calcareous and hard red brown soils.
+@highlight Lon term studies are essential to identify critical soil constraints impacting crop yields.

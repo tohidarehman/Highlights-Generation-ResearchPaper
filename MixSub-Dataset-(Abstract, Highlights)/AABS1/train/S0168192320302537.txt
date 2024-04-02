@@ -1,0 +1,8 @@
+ Knowledge of soilvegetationatmosphere energy exchange processes is essential for examining the response of agriculture to changes in climate in both the short and long term . However there are relatively few sites where all the flux measurements necessary for evaluating these responses are available where they exist data are often incomplete and or of limited duration . At the same time there is often an extensive observation network available that has gathered key meteorological data over decades . Simulating the terms of the surface energy balance using available meteorological soil and vegetation data can improve our understanding of how agricultural systems respond to climate and how this response will vary spatially . Here we employ a physically based scheme to simulate the SEB fluxes over a mid latitude maritime temperate environment using routine weather observations . The latent heat flux is a critical SEB term as it incorporates the response of the plant to environmental conditions including available energy and soil water . This response is represented in modeling schemes through surface resistance
+
+@highlight A de Rooy and Holtslag scheme is applied to estimate SEB above temperate grasslands.
+@highlight Sensitivity of estimated fluxes to different methods of
+@highlight is evaluated.
+@highlight The
+@highlight and resultant fluxes are regulated by soil moisture at transitional regime.
+@highlight We use an off site meteorology to reliably estimate surface fluxes at a location.

@@ -1,0 +1,7 @@
+ Molten binary chloride salts are considered as promising heat transfer and storage mediums in a Concentrating Solar Power Station . The properties of them over the entire operating temperature are required to be calculated since they are difficult to be measured under high temperature conditions . Reliable numerical method is an alternative tool to accurately predict thermal properties of molten salts from the viewpoint of micro structure . Based on the effective Born Mayer Huggins pair potential model the local structures and thermodynamic properties of lithium potassium chloride were computed by using Molecular Dynamics simulations and the results are consistent with available experimental literature data . The simulation results prove that BMH force field is reasonable to be adopted to predict the properties of various molten chloride salts and their mixtures . The minimum errors of thermal properties above are all within 11.1 which is accurate and reliable . The results show that Li
+
+@highlight Temperature component dependence on properties of molten lithium potassium chloride.
+@highlight Reverse non equilibrium molecular dynamics methods were reported.
+@highlight Lithium ion promotes the diffusion of the system efficiently.
+@highlight Thermal conductivity specific heat capacity improved with increasing lithium chloride.
+@highlight Accurate material structure design and thermal storage system performance regulation.

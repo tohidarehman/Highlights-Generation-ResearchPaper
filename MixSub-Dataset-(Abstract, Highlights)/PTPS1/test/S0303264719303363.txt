@@ -1,0 +1,6 @@
+ Excitability is an intrinsic feature of a living matter . A commonly accepted feature of an excitable medium is that a local excitation leads to a propagation of circular or spiral excitation wave fronts . This is indeed the case in fully excitable medium . However with a decrease of an excitability localised wave fragments emerge and propagate ballistically . Using FitzhHughNagumo model we numerically study how excitation wave fronts behave in a geometrically constrained medium and how the wave fronts explore a random planar graph . We uncover how excitability controls propagation of excitation in angled branches influences arrest of excitation entering a sudden expansion and determines patterns of traversing of a random planar graph by an excitation waves .
+
+@highlight Excitability affects a speed of excitation wave fronts.
+@highlight Excitability controls which angled branches excitation can enter.
+@highlight Excitability determines a minimum channel width for an excitation not to be arrested on entering an expansion.
+@highlight Excitability governs patterns of graph traversing by excitation wave fronts.

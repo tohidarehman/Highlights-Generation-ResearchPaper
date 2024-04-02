@@ -1,0 +1,5 @@
+ In this paper we propose a new algorithm based on deep learning to reduce the speckle noise for coherent imaging without clean data . By learning the common information namely the clean image from paired noisy holographic reconstructed images the noise reduction mechanism of the system can be obtained . Unlike normal deep learning methods our algorithm does not require prior knowledge of clean object distribution . Experimental results show that noise removal effect of proposed method is better than traditional smoothing algorithms and can be comparable to the existed deep learning method trained with clean data .
+
+@highlight We use deep learning for speckle reduction for coherent imaging fields such as computer generated hologram and digital holography.
+@highlight We achieve noise suppression without clean images greatly reducing the difficulty of data acquisition.
+@highlight The experiment proves that the algorithm has strong applicability and is suitable for other coherent imaging fields.

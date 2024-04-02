@@ -1,0 +1,7 @@
+ The purpose of this study was to employ Artificial Neural Networks to develop data driven models that would enable optimal control of a stochastic multiscale system subject to parametric uncertainty . The system used for the case study was a simulation of thin film formation by chemical vapour deposition where a solid on solid kinetic Monte Carlo model was coupled with continuum transport equations . The ANNs were trained to estimate the dynamic responses of statistical moments of the systems observables and subsequently employed in a dynamic optimization scheme to identify the optimal profiles of the manipulated variables that would attain the desired thin film properties at the end of the batch . The resulting profiles were validated using the stochastic multiscale system and a close agreement with ANN based predictions was observed . Due to their computational efficiency accuracy and the ability to reject disturbances the ANNs appear to be an attractive approach for the optimization and control of computationally demanding multiscale process systems .
+
+@highlight Artificial Neural Networks ANNs were trained on stochastic multiscale model data.
+@highlight ANNs were used for online nonlinear model predictive control under uncertainty.
+@highlight ANNs provided accurate predictions of statistical moments of the observables.
+@highlight ANN computational costs were orders of magnitude lower than the multiscale model.
+@highlight ANNs were able to reject disturbances and drive the plant to the specified target.

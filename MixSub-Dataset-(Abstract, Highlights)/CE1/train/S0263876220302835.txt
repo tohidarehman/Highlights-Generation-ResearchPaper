@@ -1,0 +1,6 @@
+ In the present study hydrodynamic parameters of micro nanoparticles in a conical spouted bed were investigated using experimental and computational fluid dynamics techniques . The EulerianEulerian approach in conjunction with the kinetic theory of granular flow has been used and the effects of solid wall boundary condition parameters such specularity coefficient
+
+@highlight Influence of drag models and solid wall boundary conditions are considered.
+@highlight The RUC model predicts the pressure drop values more accurately.
+@highlight The CFD model suitably predicts the behavior of the spouting regime.
+@highlight Choice of drag models can significantly affect the hydrodynamics of fluidization.

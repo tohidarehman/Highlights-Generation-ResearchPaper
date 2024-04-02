@@ -1,0 +1,7 @@
+ In this paper an ultrasound measurement method was applied to bulge test on carbon black filled SBR specimens in order to determine their thickness at the top of the dome . This method consists in measuring first the variation in the ultrasonic velocity as a function of the deformation in the uniaxial state and subsequently obtaining the thickness value in the equibiaxial state assuming the congruence of velocity in uniaxial and equibiaxial stress states respectively .
+
+@highlight An ultrasound technique to measure the bulge tested elastomer thickness was proposed.
+@highlight A relationship between equibiaxial and uniaxial acoustoelastic effects was found.
+@highlight Congruence of ultrasonic velocity in uniaxial equibiaxial stress states was assumed.
+@highlight Experimental data were compared with thickness values from main literature models.
+@highlight A new theoretical approach based on the elastomeric compressibility was proposed.

@@ -1,0 +1,9 @@
+ A new application of the differential junction photovoltage measurement technique is introduced . The technique s capability to determine the sheet resistance of charge carriers in inversion layers
+
+@highlight Differential JPV measurement is proven to provide contactless and reliable determination of sheet resistance of inversion charge carriers within 1s.
+@highlight Differential JPV technique detects and qualifies inversion layers induced by fixed charges within SiN
+@highlight and AlO
+@highlight layers.
+@highlight Accurate sheet resistance test method for cell concepts utilizing inversion layers e.g. inversion layer solar cells applicable even in production lines.
+@highlight Differential JPV combined with corona charging provides the contactless mobility measurement of inversion charge carriers without test device fabrication.
+@highlight Contactless mobility results feature high sensitivity to interface quality and surface morphology but not influenced by fixed charges.

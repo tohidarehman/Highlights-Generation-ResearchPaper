@@ -1,0 +1,6 @@
+ Ultrathin metal film with a ZnO Ag ZnO hybrid structure was used as transparent electrode in a high efficiency bulk heterojunction system for the fabrication of ITO free polymer solar cells . The performance of the devices was carefully tuned through optical simulation using transfer matrix method by varying the thickness of ZnO seed layer and thin absorber layer . By employing appropriate device architecture polymer solar cells fabricated using this UTMF based electrode show efficiency as high as 9.49 which is slightly higher compared to that of ITO based device . From good agreement between the external quantum efficiency and optical modeling it was found that the optimized microcavity configuration formed in UTMF based device can greatly enhance the absorbance of the BHJ layer at longer wavelength as well as the favored exciton distribution for better charge transport and collection .
+
+@highlight ZnO Ag ZnO UTMF transparent electrode with a low sheet resistance of 8 sq was fabricated.
+@highlight The resulting PSCs with UTMF transparent electrode showed a very high efficiency of 9.49 .
+@highlight The long wavelength absorption was enhanced due to microcavity effect in UTMF based device.
+@highlight A favored exciton distribution for better charge transport and collection can also be formed.

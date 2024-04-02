@@ -1,0 +1,6 @@
+ We investigate whether the returns to mobile information and communication technology in the workplace are contingent on granting employees autonomy over the structure of their workday through trust based work time arrangements . Our regression analysis is based on a production function framework and exploits fine grained firm survey data on ICT use and organisational practices for 1 045 service firms in Germany . We find empirical support for the argument that the returns to mobile ICT are higher when TBW allows for discretion over when where and how to perform work related tasks . The finding holds when we account for more limited forms of workplace flexibility suggesting that the high degree of formal employee autonomy under TBW drives the complementarity between mobile ICT and organisational practices .
+
+@highlight Test for complementarities between mobile ICT and trust based work time arrangements
+@highlight Unique fine grained firm survey data on ICT use and organisational practices for 1 045 service firms
+@highlight Empirical support for higher returns to mobile ICT when TBW allows for discretion over when where and how to perform work related tasks
+@highlight Accounting for other work arrangements suggests that the high degree of formal autonomy under TBW drives the complementarity between mobile ICT and organisational practices

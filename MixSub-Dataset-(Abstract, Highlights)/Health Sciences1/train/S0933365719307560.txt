@@ -1,0 +1,7 @@
+ Various AI models are increasingly being considered as part of clinical decision support tools . However the trustworthiness of such models is rarely considered . Clinicians are more likely to use a model if they can understand and trust its predictions . Key to this is if its underlying reasoning can be explained . A Bayesian network model has the advantage that it is not a black box and its reasoning can be explained . In this paper we propose an incremental explanation of inference that can be applied to hybrid BNs i.e . those that contain both discrete and continuous nodes . The key questions that we answer are which important evidence supports or contradicts the prediction and through which intermediate variables does the information flow . The explanation is illustrated using a real clinical case study . A small evaluation study is also conducted .
+
+@highlight Increasing model trustworthiness and supporting clinical decision making by explaining models reasoning.
+@highlight Review previous work on explanation of inference in Bayesian networks.
+@highlight Propose an efficient algorithm that generates an incremental explanation of inference.
+@highlight The explanation algorithm is demonstrated in a real clinical case study.
+@highlight A small evaluation study is conducted to compare the generated explanation and clinicians reasoning.

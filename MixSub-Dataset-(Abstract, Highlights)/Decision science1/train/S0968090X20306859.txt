@@ -1,0 +1,7 @@
+ Transport demand is highly dependent on supply especially for shared transport services where availability is often limited . As observed demand can not be higher than available supply historical transport data typically represents a biased or
+
+@highlight Observability of mobility demand is inherently limited by supply.
+@highlight Censored regression applied to mobility demand to mitigate bias.
+@highlight Censored Gaussian Process formulated for time varying censorship.
+@highlight Experiments with synthetic and real world data demonstrate solution approach.
+@highlight Benefit of preserving the censored information is measured.

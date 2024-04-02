@@ -1,0 +1,5 @@
+ A new equation has been developed that bridges discrepancies between the theoretical model and the experimental setup . The validity of the quasi equilibrium equation has been analyzed and it was found that quasi equilibrium is valid but its use is incorrect . Again the new equation incorporates the temperature dependent frequency factor thereby giving a physically realistic outlook to the new equation . The temperature dependent frequency factor is given by
+
+@highlight Clarify common misconception regarding quasi equilibrium condition.
+@highlight Derive a temperature dependent frequency factor.
+@highlight Derive a new TL equation based on probability theory which incorporate the temperature dependent frequency factor.

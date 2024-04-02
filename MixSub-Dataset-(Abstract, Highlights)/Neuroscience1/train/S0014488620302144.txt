@@ -1,0 +1,7 @@
+ In the brain murine double minute 2 an E3 ubiquitin ligase modulates neuronal excitability by regulating glutamate receptor and postsynaptic density 95 levels through ubiquitination . Thus Mdm2 is relevant to epileptic seizures in human patients . Although phosphorylation at serine 166 site by AKT increases Mdm2 activity phosphatases of Mdm2 have been still elusive . Here we demonstrate the novel function of pyridoxal 5 phosphate phosphatase chronophin in Mdm2 dephosphorylation that may negatively regulate PSD95 ubiquitination . As compared to wild type mice PLPP CIN knockout
+
+@highlight KA induced seizure activity increases PLPP CIN mediated Mdm2 S166 dephosphorylation.
+@highlight PLPP CIN mediated Mdm2 S166 dephosphorylation increases Mdm2 ubiquitination.
+@highlight PLPP CIN mediated increase in Mdm2 ubiquitination inhibits PSD95 ubiquitination.
+@highlight PLPP CIN mediated Mdm2 ubiquitination increases PSD95 NR2A binding.
+@highlight PLPP CIN inhibition may be a potential therapeutic target for epilepsy.

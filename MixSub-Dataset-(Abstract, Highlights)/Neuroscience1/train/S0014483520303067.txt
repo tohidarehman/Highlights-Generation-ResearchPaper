@@ -1,0 +1,7 @@
+ Epithelial to mesenchymal transition contributes to fibrosis associated pathologies including scarring of different ocular tissues . Recently targeting EMT is seen as an appropriate therapeutic approach for different fibrosis related eye diseases such as macular degeneration or glaucoma surgery related fibrosis . Nevertheless for ocular surface diseases target genes specific for particular cell type or condition are still undefined . This study aimed to expose the complex regulatory mechanisms that trigger EMT in human conjunctival epithelial cells . EMT was induced by prolonged treatment with two TGF isoforms TGF 1 and TGF 2 and their combination . TGF 1 showed the strongest potential for initiating EMT in HCjE cells reflected on morphological changes cell migration and the levels of mRNA expression of different epithelial
+
+@highlight HCjE cells are prone to EMT triggered by prolonged TGF 1 but not TGF 2 treatment.
+@highlight The DNA demethylation agent 5 AzaC reverts EMT in TGF 1 treated HCjE cells.
+@highlight miRNAs are the main targets of 5 AzaC in TGF 1 treated HCjE cells.
+@highlight DNA methylation of the miR 200 family is the key step in EMT induction in HCjE cells.
+@highlight miR 200 loci are candidates for epigenetic treatment in EMT based eye diseases.

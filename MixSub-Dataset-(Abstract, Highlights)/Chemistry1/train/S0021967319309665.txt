@@ -1,0 +1,7 @@
+ Recently it has been reported that immobilized chlorinated type chiral stationary phases based on cellulose tris are able to express an outstanding enantioselectivity towards the structure of 2 benzamide . We now introduce two homologue series of chiral sulfoxides based on the same 2 benzoyl core as the prototype of new selectands for HPLC whose enantioselectivity could be modulable through the replacement of the benzyl group with an unbranched alkyl chain varying in length from 1 to 5 carbon atoms . HPLC parameters such as mobile phase composition and column temperature have been carefully evaluated in order to get pertinent structure enantioselectivity relationships . The enantiomer elution order was unambiguously determined by a combined strategy involving theoretical and experimental procedures . Two cases of temperature dependent inversion of the elution order of enantiomers in the operative temperature range of chiral chromatographic support were observed .
+
+@highlight This paper describes the HPLC behavior of two sets of chiral sufoxides on the IC 3 and IC CSP
+@highlight The analytes contain different alkyl groups Me Et n Pr n Bu and n Pe .
+@highlight The role of the alkyl groups on retention and enantioselectivity was demonstrated.
+@highlight The thermodynamic aspects of enantioseparations were investigated.
+@highlight The retention and enantioseparation processes were analyzed in terms of enthalpic entropic control.

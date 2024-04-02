@@ -1,0 +1,6 @@
+ This paper is concerned with a general cross diffusion system modeling the population dynamics of two competitive predator and one prey with predator taxis . Firstly through the use of contraction mapping principle the Schauder estimates and
+
+@highlight Considere the general three species two predators and one prey cross diffusion predator prey system with predator taxis.
+@highlight Investigate the existence uniqueness and boundedness of non negative classical solution.
+@highlight The global existence and uniqueness of non negative classical solution for this system are proved.
+@highlight Several numerical simulations are presented.

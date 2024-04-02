@@ -1,0 +1,7 @@
+ Container shipping accounts for most of the world merchandise trade . Better maritime connectivity leads to lower freight rates and greater economic growth . This paper presents a novel maxmin integer optimization model to facilitate better shipping network connectivity by analysing the largest eigenvalue and its corresponding eigenvector of the frequency weighted adjacency matrix . An algorithm is presented that can quickly identify which link not currently in the container shipping network would best improve its connectivity . A demand matrix is not required by this method of analysis and network symmetry is not assumed . The method could strengthen direct connection between port pairs .
+
+@highlight The largest eigenvalue of the weighted adjacency matrix measures network connectivity.
+@highlight Adding a link always increases the largest eigenvalue of the adjacency matrix.
+@highlight A max min integer optimization model is proposed to maximize the largest eigenvalue.
+@highlight Results for the world container shipping network are presented.
+@highlight First to use the eigenvector centrality to improve shipping network connectivity.

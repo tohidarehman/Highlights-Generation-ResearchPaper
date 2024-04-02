@@ -1,0 +1,6 @@
+ Increase of buffer gas pressure causes redistribution of intensity in the IR absorption bands and indicating the presence of vibrational perturbation changes the first spectral moment value responsible for the band origin position . Band origin shift coefficients for the
+
+@highlight Measurements and calculations of IR band origin shifts for CO
+@highlight  OCS Rg.
+@highlight First spectral moment estimation by direct computation and by DID model.
+@highlight Band shape transformation with increasing buffer gas pressure.

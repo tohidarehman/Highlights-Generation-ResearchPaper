@@ -1,0 +1,8 @@
+ Tieguanyin tea plant is the most important tea cultivar in Fujian Province China . It has suffered great economic losses due to high temperature and dry weather in recently years . This study proposed a prediction model for daily reference evapotranspiration ET
+
+@highlight MMC and GRNN model is proposed for prediction of ET
+@highlight of Tieguanyin tea plants.
+@highlight Selection of training samples by MMC was helpful for compressing the structure of GRNN.
+@highlight Optimization of smoothing factor of GRNN improved the training effect of GRNN.
+@highlight Prediction performances were assessed with RMSE MAE and model validity coefficient.
+@highlight Prediction results were accurate and reliable under different weather types.

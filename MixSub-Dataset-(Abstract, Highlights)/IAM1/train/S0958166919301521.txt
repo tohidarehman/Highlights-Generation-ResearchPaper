@@ -1,0 +1,6 @@
+ Among immune correlates of clinical responses tumor specific neoantigens took the spotlight as relevant targets for cancer immunotherapy . The implementation of pipelines for personalized cancer therapy remains challenging due to the privacy that is patient specificity of neoantigens and the low frequency of neoantigen specific T cells in blood and tumor samples . To overcome these obstacles recent developments in the field of biotechnology have allowed the multiplexed identification of neoepitope specific T cells . This review addresses the pros and cons of conventional neoantigen screening methodologies and highlights the current as well as the prospective biotechnological opportunities in the field .
+
+@highlight Neoantigens represent promising targets for cancer immunotherapy.
+@highlight Interrogation of neoantigen specific T cell responses is challenging.
+@highlight High throughput strategies for immunogenicity validation are required.
+@highlight Bioengineering has and will continue to foster neoantigen identification.

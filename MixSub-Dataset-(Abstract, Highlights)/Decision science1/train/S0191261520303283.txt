@@ -1,0 +1,5 @@
+ There has been an increasing effort to improve the behavioural realism of mathematical models of choice resulting in efforts to move away from random utility maximisation models . Some new insights have been generated with for example models based on random regret minimisation RRM
+
+@highlight We provide a general overview of quantum probability and discuss how it might be incorporated into choice models.
+@highlight We develop models based on a quantum probability framework finding that they can provide better model fit than traditional models on three travel behaviour datasets.
+@highlight We demonstrate that models with a quantum framework can incorporate efficient transformations for adjustments in the choice context resulting in effective models for capturing the different sensitivities to attributes in best compared to worst choice as well as capturing ordering effects in a typical route choice dataset.

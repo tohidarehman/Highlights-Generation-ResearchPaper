@@ -1,0 +1,7 @@
+ The tourism industry was one of the world s greatest markets until the world met a pandemic in the 21st century COVID 19 . This study aims to present the reactions of travelers during the pandemic trends outlined by adopting text mining techniques . Between December 30 2019March 15 2020 approximately 75 000 comments are retrieved from the TripAdvisor forums and 23 515 cases from the US Europe and Asia forums are employed for analyses .
+
+@highlight The dataset began to be recorded since the first COVID 19 case was recorded in Wuhan .
+@highlight The travelers cancel or delay their trips on the same day with the spread of the news.
+@highlight Flexibility and agility are two critical features needed in the tourism industry.
+@highlight Travel insurance has become a hot topic in all forums especially in Europe and Asia.
+@highlight Travel insurance and refund policy update are required for reliability and flexibility.

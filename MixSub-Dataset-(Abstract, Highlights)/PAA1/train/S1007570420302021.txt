@@ -1,0 +1,5 @@
+ In this paper we investigate the mechanism of rotating waves in a ring of unidirectionally coupled Lorenz systems . Rotating waves in our Lorenz systems are special cases of rotating periodic solutions in nonlinear systems . Rotating periodic solutions as a generalization of periodic solutions have the form
+
+@highlight The aim is to establish the Hopf bifurcation theorem of rotating periodic solutions in odd dimensional systems or systems coupled by multiple odd dimensional subsystems.
+@highlight Hopf bifurcation theorem of rotating periodic solutions can be used to analyze the mechanism of rotating waves in systems such as the unidirectionally coupled Lorenz systems.
+@highlight The rotating waves can be periodic quasi periodic or other types.

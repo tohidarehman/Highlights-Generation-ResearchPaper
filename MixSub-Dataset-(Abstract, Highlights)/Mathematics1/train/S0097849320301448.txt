@@ -1,0 +1,6 @@
+ Surface splatting has proven to be a good approach to render point based models . The technique keeps the simplicity of point based models with a high quality rendering due to local filtering between the samples . However silhouettes and sharp features are noticed as high frequency variations on image space . Thus filtering can not hide artifacts to appear next to these areas without an explicit approach mainly on bad sampling conditions as low density of samples . In this paper we present a new curved splat approach called here
+
+@highlight Removal of artifacts on silhouettes in splat based models.
+@highlight Efficient silhouette detection of splat based models on object space.
+@highlight Silhouette detection can be used for non photorealistic renderings.
+@highlight Good trade off between quality and efficiency of splat based rendering.

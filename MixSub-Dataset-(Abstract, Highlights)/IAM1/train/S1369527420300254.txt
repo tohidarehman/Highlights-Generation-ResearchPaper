@@ -1,0 +1,6 @@
+ Infections caused by antibiotic resistant bacteria are a major threat to public health . The pathogens causing these infections can acquire antibiotic resistance genes in a process termed horizontal gene transfer . HGT is a common event in the human gut microbiome that is the microbial ecosystem of the human intestinal tract . HGT in the gut microbiome can occur via different mechanisms of which transduction and conjugation have been best characterised . Novel bioinformatic tools and experimental approaches have been developed to determine the association of antibiotic resistance genes with their microbial hosts and to quantify the extent of HGT in the gut microbiome . Insights from studies into HGT in the gut microbiome may lead to the development of novel interventions to minimise the spread of antibiotic resistance genes among commensals and opportunistic pathogens .
+
+@highlight The human gut microbiome harbours antibiotic resistance genes the resistome .
+@highlight Antibiotic resistance genes can spread in the gut microbiome through horizontal gene transfer HGT .
+@highlight The best characterised mechanisms of HGT in the human gut microbiome are transduction and conjugation.
+@highlight Novel bioinformatic and experimental approaches have been developed to study HGT in the gut.

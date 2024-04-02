@@ -1,0 +1,6 @@
+ In this paper a combined use of CFD techniques and Design of Experiments is proposed in order to study the significance of different variables on the heat transfer coefficient in a gas solid fluidized bed heat exchanger . Initially a computational model was developed using Ansys Fluent and validated in order to represent the system under study . Then this model was used to complete the runs of a 2
+
+@highlight A gas solid fluidized bed heat exchanger was simulated.
+@highlight The effect of five different independent variables was tested.
+@highlight The heat transfer coefficient was analyzed dependent variable.
+@highlight CFD and DoE were combined to evaluate the effect of different parameters.

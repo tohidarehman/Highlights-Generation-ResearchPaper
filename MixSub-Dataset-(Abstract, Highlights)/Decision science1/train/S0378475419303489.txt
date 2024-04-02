@@ -1,0 +1,6 @@
+ In this study two servers namely server1 and server2 with working vacations are considered where one server is exclusively used for high priority customers and another for low priority customers . The modified working vacation is considered for server1 and delayed working vacation for server2 which is a main feature of this model . A high priority customer demands both item and service whereas a low priority customer demands only service . Items are replenished under
+
+@highlight This paper deals with two independent queues each with one server server1 and server2. Server1 sells inventory with basic service M M 1 N Queueing Inventory model and another server is used to provide only service M M 1 N Queueing model .
+@highlight Modified working vacation is introduced to server1 and delayed working vacation is introduced to server2.
+@highlight Waiting time distribution of each queue is analyzed by Laplace Stieltjes transforms.
+@highlight In numerical studies we obtain 1 The advantages of working vacation policy of two servers compared to simply vacation. 2 The advantages of modified working vacation in inventory queuing system. 3 Sensitivities of various parameters on fraction of time of each server on working vacation.

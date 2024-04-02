@@ -1,0 +1,7 @@
+ Vavilov Cherenkov emission and transition radiation are the well known phenomena and find a broad application for different scientific communities . In the case of simultaneous generation of both types of radiation there is a possibility of interference between radiation fields . Thus the emitted radiation could possess both transition radiation and Vavilov Cherenkov radiation properties that is why it should be considered as hybrid radiation . In this paper we present the results of the theoretical investigation of X ray hybrid radiation . Using the polarization current approach and the atomic scattering factor formalism to account anomalous dispersion of the complex permittivity we study spectral angular distributions and polarization states of X ray hybrid radiation when a charge obliquely falls on a foil . The theoretical results greatly contribute to understanding of X ray Vavilov Cherenkov radiation as well as the development of the X ray narrow band radiation sources based on Vavilov Cherenkov effect .
+
+@highlight Interference of transition and Cherenkov radiation fields causes hybrid radiation.
+@highlight Interference sets the range of the angular distribution with monochromatic X rays.
+@highlight Monochromaticity of Cherenkov X rays is limited by transition radiation influence.
+@highlight We predict a spectral asymmetry of hybrid radiation in the soft X ray range.
+@highlight Considered radiation geometry allows controlling X rays spectrum and polarization.

@@ -1,0 +1,6 @@
+ This paper establishes a modeling framework that incorporates channel costs as a decision variable when smart supply chain technology can be invested in . A traditional manufacturer retailer supply chain is studied and the conditions under which the technology should be invested are identified . Issues of supply chain efficiency and coordination are addressed . A platform supply chain is also investigated and it is found that a platform may invest in reducing the channel cost even if it does not bear any part of this cost . In this case the percentage fee is found to be an important parameter .
+
+@highlight Conditions under which SSC technology should be invested in are identified.
+@highlight Channel coordination becomes a more serious issue with SSC technology investment.
+@highlight Percentage fee is an important influencing parameter for platform supply chain.
+@highlight Platform may have incentive to invest in SSC technology to reduce channel cost.

@@ -1,0 +1,7 @@
+ In this article a chaos analysis is performed for the viscoelastic nonlinear coupled dynamics of perfectly straight nanotubes conveying pulsatile fluid for the first time . A size dependent advanced elasticity model is developed with consideration of stress nonlocality as well as the gradient of strain components . After presenting the nonlinear motion equations using Hamilton s approach they are numerically solved via application of a time integration technique for a system with a large number of degrees of freedom . Chaos analysis is performed for the nanotube at both subcritical and supercritical flow regimes . Both mean fluid velocity and the amplitude of velocity pulsation are varied as the bifurcation parameter . The proposed size dependent continuum modelling and numerical results would be useful in order to tailor the system parameters to avoid chaos in nanoelectromechanical devices using fluid conveying nanotubes .
+
+@highlight The chaotic behaviour of nanotubes conveying pulsatile nanofluid is studied.
+@highlight A scale dependent model considering geometrical nonlinearity is developed.
+@highlight The continuum model contains two distinct scale parameters.
+@highlight Both transverse and axial inertial effects are taken into consideration.
+@highlight The chaotic behaviour is greatly influenced by flow pulsation.

@@ -1,0 +1,7 @@
+ We herein report the design synthesis and functional impact of an okadaic acid small analogue ITH12680 which restores the activity of phosphoprotein phosphatase 2A whose deficient activity has been implicated in nicotine mediated tumor progression and chemoresistance in non small cell lung cancer . For its design we paid attention to the structure of the PP2AOA complex where the C16C38 OA fragment confers PP2A affinity and selectivity but it is not involved in the inhibitory effect . Confirming this hypothesis PP2A activity was not inhibited by ITH12680 . By contrast the compound partially restored OA exerted PP2A inhibition
+
+@highlight Lung cancer patients who continue smoking presents high chemoresistance rates.
+@highlight Nicotine activates antiapoptotic Akt and ERK1 2 and inhibits the proapoptotic Bax.
+@highlight The phosphatase PP2A inhibits Akt and ERK1 2 and activates Bax.
+@highlight PP2A is impaired in several types of cancer so we describe a compound that avoids PP2A inhibition.
+@highlight This compound resensitizes nicotine exposed NSCLC cells to cisplatin.

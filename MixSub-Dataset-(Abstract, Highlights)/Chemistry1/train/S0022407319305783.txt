@@ -1,0 +1,11 @@
+ Measuring the size distribution of dust particles is of interest in many scientific and technological contexts . One of the most widely used techniques is laser light scattering which provides the distribution of surface equivalent spheres that fits the observed angular dependence of light scattered by a sample . We have revisited the problem of the uncertain lower size limit of this method by simulating laboratory measurements of the light intensity scattered by polydisperse spheres and irregular particles from which the original distributions are retrieved by regularized inversion with Mie and Fraunhofer phase functions . For the usual combination of blue
+
+@highlight A computational study of the inversion of the average phase function of particle clouds sheds light into the uncertain lower size limit of the widely used laser light scattering LLS particle sizing method.
+@highlight For spheres retrieved size ditributions are sensitive to uncertainty in the complex refractive index due primarily to the dependence of the scattering efficiency curve on this parameter for
+@highlight  3 m.
+@highlight The scattering efficiencies of irregular and porous model particles are lower and smoother than for spheres and these differences are imposed on the retrieved size distributions.
+@highlight If the real part of the refractive index
+@highlight is uncertain it is safer to assume a value of
+@highlight at the higher end of the uncertainty range.
+@highlight LLS size distributions of irregular and porous particles may be inaccurate for
+@highlight  1

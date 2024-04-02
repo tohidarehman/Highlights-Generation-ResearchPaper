@@ -1,0 +1,6 @@
+ In this paper we discuss a diffusive predator prey model with nonlocality and delay . Stability and bifurcation analysis suggest that the joint impacts of the nonlocal term and delay result in instability of the positive constant steady state . Moreover steady state Hopf and steady state Hopf bifurcations and interactions of these bifurcations may occur under certain conditions . Normal forms of steady state Hopf and steady state Hopf bifurcations for a general reaction diffusion model with nonlocal effects and delay are derived . In numerical simulations spatially inhomogeneous steady states and periodic solutions and heteroclinic connections between these solutions are obtained .
+
+@highlight Effect of spatial average and delay on the predator prey model is investigated.
+@highlight Conditions for stability steady state bifurcation and Hopf bifurcation are obtained.
+@highlight Algorithm of normal form of steady state Hopf bifurcation for system with spatial average and delay is derived.
+@highlight Spatiotemporal dynamical classification near the steady state Hopf bifurcation point is studied.

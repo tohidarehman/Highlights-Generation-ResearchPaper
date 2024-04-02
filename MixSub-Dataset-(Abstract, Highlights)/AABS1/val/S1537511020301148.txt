@@ -1,0 +1,7 @@
+ Non destructive estimates information on the desired properties of fruit without damaging them . The objective of this work is to present an algorithm for the automatic and non destructive estimation of four maturity stages of Fuji apples
+
+@highlight Maturation stages estimated by computer vision validated over several video frames.
+@highlight Hardware used includes camera spectrometer and colorimeter.
+@highlight Results include accuracy under four different apple maturation stage classes.
+@highlight System could potentially be embeded in automatic fruit harvesting robots.
+@highlight System could potentially be adapted to industry environmental conditions.

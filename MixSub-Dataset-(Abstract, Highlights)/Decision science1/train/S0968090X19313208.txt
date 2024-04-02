@@ -1,0 +1,6 @@
+ This study addresses the location problem of electric vehicle charging stations considering drivers range anxiety and path deviation . The problem is to determine the optimal locations of EV charging stations in a network under a limited budget that minimize the accumulated range anxiety of concerned travelers over the entire trips . A compact mixed integer nonlinear programming model is first developed for the problem without resorting to the path and detailed charging pattern pre generation . After examining the convexity of the model we propose an efficient outer approximation method to obtain the optimal solution to the model . The model is then extended to incorporate the charging impedance e.g . the charging time and cost . Numerical experiments in a 25 node benchmark network and a real life Texas highway network demonstrate the efficacy of the proposed models and solution method and analyze the impact of the battery capacity path deviation tolerance budget and the subset of OD pairs on the optimal solution and the performance of the system .
+
+@highlight A compact mixed integer programming model is developed.
+@highlight Path deviation and drivers range anxiety are considered.
+@highlight An outer approximation method is proposed to solve the model.
+@highlight Numerical experiments in a real life Texas highway network are conducted.

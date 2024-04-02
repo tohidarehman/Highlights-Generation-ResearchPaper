@@ -1,0 +1,7 @@
+ The extraction of energy from wastewater organic matter by microbial electrolysis cells is a promising idea . However different challenges have to be overcome before this technology can be used in a practical application . One of the most important is the development of reactor configurations that can be able to produce higher external current and thereby a larger amount of energy carriers without significant deterioration of cell performance . Thus a comprehensive 3D model developed in this work aims to investigate distributions of current potential and concentrations inside a MEC reactor and their effect on overpotential distribution over the surface of electrodes to evaluate the reactor performance . The model is applied to simulate a flow reactor designed with 147.6m
+
+@highlight Bioelectrochemical and transport processes were coupled in a comprehensive model.
+@highlight 3D simulation of MEC reactor packed with small blocks as bioanodes was performed.
+@highlight The flow pattern and potential distribution determine the local current distribution.
+@highlight Simulation shows the crucial role of geometric design on local performance of MEC.
+@highlight Modeling current density and hydrogen production agree closely with experimental data.

@@ -1,0 +1,6 @@
+ This paper develops the laden and empty container supply chain model based on three scenarios that differ with regard to tardiness in the return of empty containers and the decision process for the imposition of detention charges with the goal of determining optimal devanning times . The effectiveness of each type of policy centralized versus decentralized is determined through computational experiments that produce key performance measures including the on time return ratio . Useful managerial insights on the implementation of these polices are derived from the results of sensitivity analyses .
+
+@highlight The laden and empty container supply chain based on three scenarios was developed.
+@highlight The impact of detention tariffs are investigated in the perspective of container return.
+@highlight The implication of centralized and decentralized policies is given to manage the return.
+@highlight Managerial insights are obtained for devanning processes in views of stakeholders.

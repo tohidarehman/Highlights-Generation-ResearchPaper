@@ -1,0 +1,8 @@
+ In food industry atomization is an essential process as a large range of products are manufactured by spray drying of concentrated solutions . The pressure drop inside the nozzle and its relation with the flowrate is of prime importance to size an efficient continuous process . This work thus aims at both studying liquid atomization using pressure nozzles with throttle inserts and proposing a ready to use pressure flowrate correlation from a series of experimental data . Beside the process parameters and fluid parameters of prime importance the geometrical parameters of the nozzle were also accounted for to obtain a generic correlation . Using Newtonian maltodextrin aqueous solutions with viscosity ranging from 1 to 70.10
+
+@highlight Atomization using pressure nozzles with throttle inserts is studied.
+@highlight Dimensionless pressure drop data gather on a unique master curve
+@highlight vs.
+@highlight Conventional atomization regimes are identified on the single curve.
+@highlight Dimensional analysis performed including product process and nozzle parameters.
+@highlight Pressure flowrate correlations are established over a wide range of conditions.

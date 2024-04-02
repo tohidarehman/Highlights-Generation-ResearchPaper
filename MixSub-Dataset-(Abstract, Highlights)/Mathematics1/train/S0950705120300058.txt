@@ -1,0 +1,7 @@
+ The class of decision making problems focuses on the optimization of single or multiple design objectives and the classical decision making procedures require the full scope of the system information . However the system dynamics consist of unknown time varying parameters within a specific range of dynamic decision making problems which can not be handled by the classical procedures . To solve these problems this paper proposes a machine learning based decision making algorithm . It uses the technique of machine learning to estimate the real time unknown parameters using the recorded system data and makes appropriate decisions using model predictive control method to optimize some desired key performance indicators . The effective performance of the proposed algorithm is further evaluated using a simulation based case study .
+
+@highlight A dynamic decision making problem is formulated for time varying systems.
+@highlight A machine learning method estimates unknown parameters using recorded data.
+@highlight A MPC method predicts the optimal decision using estimated parameters.
+@highlight A machine learning based MPC algorithm is proposed for decision making problems.
+@highlight The effective performance of the algorithm is evaluated in a case study.

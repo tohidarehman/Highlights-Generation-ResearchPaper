@@ -1,0 +1,6 @@
+ Portfolio optimization with cardinality constraints turns out to be a mixed integer quadratic programming problem which is proven to be NP Complete that limits the efficiency of exact solution approaches often because of the long running times . Therefore particular attention has been given to approximate approaches such as metaheuristics which do not guarantee optimality yet may expeditiously provide near optimal solutions . The purpose of this study is to present an efficient hybrid metaheuristic algorithm that combines critical components from continuous ant colony optimization artificial bee colony optimization and genetic algorithms for solving cardinality constrained portfolio optimization problem . Computational results on seven publicly available benchmark problems confirm the effectiveness of the hybrid integration mechanism . Moreover comparisons against other methods results in the literature reveal that the proposed solution approach is competitive with state of the art algorithms .
+
+@highlight An efficient hybrid metaheuristic algorithm is proposed.
+@highlight Continuous ant colony optimization artificial bee colony and genetic algorithms are integrated.
+@highlight The proposed approach is applied to cardinality constrained portfolio optimization.
+@highlight Competitive performance with the state of the art algorithms in the field.

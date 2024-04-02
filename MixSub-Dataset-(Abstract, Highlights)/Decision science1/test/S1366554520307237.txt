@@ -1,0 +1,7 @@
+ We consider a firm producing and selling experience products over two periods with private quality information . Consumers strategically decide their purchasing timing driven by the imitation effect and the firm chooses pricing policy and equilibrium type . Results imply that the firm prefers preannounced pricing but consumers prefer dynamic pricing . Under both pricing schemes the first period price decreases but the second period price increases with the imitation effect . A pooling pooling equilibrium is always preferred unless the firm is farsighted and the imitation effect is weak under dynamic pricing .
+
+@highlight A quality signaling game is modeled to study firms pricing issue over two periods.
+@highlight Social learning and imitation effect are considered to reflect consumer behavior.
+@highlight Both the firm and consumers benefit from imitation effect.
+@highlight Preannounced pricing is always beneficial to the firm regardless of its type.
+@highlight Consumers always benefit from dynamic pricing.

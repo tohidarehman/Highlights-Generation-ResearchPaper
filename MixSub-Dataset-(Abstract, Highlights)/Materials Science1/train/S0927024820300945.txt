@@ -1,0 +1,5 @@
+ To enhance the reliability of the thin film solar cell technologies it is required to analyze and understand the moisture induced degradation . In this study the moisture induced degradation of glass to glass CIGS module are comprehensively analyzed . CIGS modules are fabricated and tested under damp heat conditions with periodical measurement of the electrical characteristics . Individual layers of the module are also investigated experimentally and the moisture induced degradation is discussed . A modified method to extract the diode model parameters from degraded
+
+@highlight The degradation rates of the diode model parameters of CIGS module are modelled using damp heat test results and compared.
+@highlight The degradation of CIGS module under damp heat is more affected by the degradation of absorber layer than metal layers.
+@highlight A modified method to extract the diode model parameters from the degraded photovolatic IV curve is proposed and confirmed.

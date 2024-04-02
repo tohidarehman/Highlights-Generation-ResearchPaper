@@ -1,0 +1,7 @@
+ Thalassaemia is an inherited blood disorder with serious complications . Combining the unique advantages of DNA and magnetoelastic materials an ME DNA biosensor was proposed that can wirelessly detect a target DNA sequence that is a 4 bp deletion in codon 41 42 in the globin gene causing thalassaemia . The thiolated capture probe was covalently immobilized on the surface of the gold plated ME chip and then hybridized to tDNA and AuNPs modified with thiolated signal probe DNA serve as the signal amplifier and the direct signal indicator enabling label free detection . The specific hybridization process of sDNA AuNPs to tDNA increased the surface load mass and decreased the resonance frequency of the DNA biosensor . The resonance frequency shift of the DNA biosensor was linear to the logarithmic concentration of tDNA in the range of 1.010
+
+@highlight An ME DNA biosensor was developed to detect a common mutated DNA causing thalassaemia.
+@highlight sDNA AuNPs serve as the signal amplifier.
+@highlight The sandwich type structure enables label free detection.
+@highlight A low detection limit of 0.571pM and high sensitivity of 72.7Hz nM were obtained.
+@highlight The DNA biosensor exhibits excellent sensitivity selectivity and stability.

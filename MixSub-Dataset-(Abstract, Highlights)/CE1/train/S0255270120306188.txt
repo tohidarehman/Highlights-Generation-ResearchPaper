@@ -1,0 +1,8 @@
+ Solvent extraction system for removal of Cr from acidic aqueous solutions with trioctylamine in toluene was developed in a microreactor operating in slug flow regime to eliminate some disadvantages of conventional contactors . The microreactor consisted of a T junction followed by a 0.7 or 1.0mm circular microchannel . Excellent extraction efficiency and prompt two phase separation at the outlet was successfully achieved even at a total flow rate of 0.3L h. The equilibrium was attained in less than 19s which is one order of magnitude shorter than that reported for batch extraction in the literature . This can lead to significantly smaller contactor volume in favor of the plants suffering from space limitations . Cross shaped junction was also employed for slug generation and the results were compared to those of T junction revealing that cross shaped junction slightly improved the extraction efficiency . Thus T junctions can be preferred for a simpler manufacturing of distributors . In a nutshell slug flow microreactors have a great potential to intensify solvent extraction of pollutants from wastewaters .
+
+@highlight High Cr
+@highlight removal was obtained with no emulsion formation even at a flow of 0.3L h.
+@highlight Equilibrium was achieved inside microreactor in less than 19s.
+@highlight There is an A O ratio leading to a maximum Cr
+@highlight removal that has to be determined.
+@highlight Changing T junction to cross shaped junction slightly improved removal efficiency.

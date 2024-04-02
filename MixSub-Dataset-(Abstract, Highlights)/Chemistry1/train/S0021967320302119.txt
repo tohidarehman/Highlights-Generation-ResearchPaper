@@ -1,0 +1,7 @@
+ The prediction of the performance of a Centrifugal Partition Chromatography is a difficult but desirable task . The partitioning of the sample as well as the fluid dynamical phenomena dispersion coalescence and stationary phase retention have to be individually understood . Therefore the phase settling behavior of different aqueous organic solvent systems and with this the dependency of the stationary phase retention in CPC was investigated in this study . On the one hand batch settling experiments were performed and the settling velocity of aqueous organic solvent systems was investigated . With this it was possible to correlate the stationary phase retention in CPC in both operating modes . For descending mode operation a high settling velocity of the lower phase and for ascending mode a high settling velocity of the upper phase is needed for a stable operation and a high stationary phase retention .
+
+@highlight Settling velocity and stationary phase retention of aqueous organic solvent systems.
+@highlight Determination of phase inversion point of a dispersion in settling experiments.
+@highlight Correlating settling velocity and stationary phase retention in CPC.
+@highlight Description of all interactions using the Capillary number and the Morton number.
+@highlight Correlations in accordance with influences described in literature.

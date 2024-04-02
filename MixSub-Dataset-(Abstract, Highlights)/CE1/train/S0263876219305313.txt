@@ -1,0 +1,6 @@
+ The transportation of heavy oil surrounded by water annular can significantly reduce the resistance and reduce energy consumption . In the process of conveying high viscosity oil it will inevitably pass through elbow components . In the present study the stability in the development of core annular flow by the influence of the elbow was investigated by computational fluid dynamics . The simulated data matched well with the previous experimental data and empirical correlation which indicates the reliability and practicability of the model . The effects of inlet water fraction the oil water property and the geometric parameters on hydrodynamic performance eccentricity and oil transportation efficiency were analyzed and the results could provide a reference for the design of 90 elbow structures and the optimization of flow parameters .
+
+@highlight CFD models are developed for core annular flow through 90 elbow.
+@highlight The simulation model has been verified by experimental and empirical values.
+@highlight The effects of inlet water fraction the oil water property and the geometrical parameters on hydrodynamic performance are predicted.
+@highlight The results could provide a reference for the design of 90 elbow structures and the optimization of flow parameters.

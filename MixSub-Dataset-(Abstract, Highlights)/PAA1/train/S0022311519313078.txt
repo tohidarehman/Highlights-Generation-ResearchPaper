@@ -1,0 +1,5 @@
+ Large scale molecular dynamics calculations have been carried out to investigate the properties of nanometric helium bubbles in silicon carbide as a function of helium density and temperature . A dedicated interatomic potential has been developed to describe the interactions between helium and SiC atoms . The simulations revealed that the helium density can not exceed a certain threshold value which depends on temperature because of the plastic deformation of the SiC matrix . Both local amorphization at low temperatures and nucleation and propagation of dislocations at high temperatures have been identified as activated plasticity mechanisms . This work also predicts that very high pressure up to 60GPa could be reached in helium bubbles in silicon carbide .
+
+@highlight He bubble pressure in SiC is limited by plastic yielding.
+@highlight Plasticity mechanisms are amorphization and nucleation migration of dislocations.
+@highlight High He pressures up to 60GPa are possible in these bubbles.

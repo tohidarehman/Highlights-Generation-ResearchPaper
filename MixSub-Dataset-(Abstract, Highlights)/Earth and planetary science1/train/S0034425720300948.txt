@@ -1,0 +1,14 @@
+ The Geostationary Trace gas and Aerosol Sensor Optimization instrument is an airborne hyperspectral spectrometer measuring backscattered solar radiation in the ultraviolet and visible wavelength regions . This paper presents high resolution sulfur dioxide SO
+
+@highlight SO
+@highlight columns are retrieved from airborne remote sensing by an algorithm based on PCA.
+@highlight Retrieved SO
+@highlight columns successfully detect SO
+@highlight sources in the Korean Peninsula.
+@highlight Distributions of SO
+@highlight columns are consistent with those of known SO
+@highlight point sources.
+@highlight Comparisons with spaceborne SO
+@highlight data highlight the significance of high resolution.
+@highlight Upscaled airborne SO
+@highlight retrievals allow assessing future geostationary observations.

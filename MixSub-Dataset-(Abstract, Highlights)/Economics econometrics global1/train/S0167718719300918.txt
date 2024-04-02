@@ -1,0 +1,7 @@
+ This paper analyses a model of competition where the firms set not only prices but also the complexity levels of their prices . Unlike previous work in this model the firms confusion technology may be non linear in the aggregate complexity level . The equilibrium probability of using high complexity increases in the number of firms but decreases in the convexity of the confusion technology . In large markets the firms use high complexity almost surely . However the industry profit converges to the highest level with concave technologies and to the lowest level with convex technologies . An increase in consumer sophistication which benefits the consumers may not reduce market complexity .
+
+@highlight Model of price complexity where the confusion technology may be concave or convex.
+@highlight Distinction between the effects of convexity and consumer sophistication.
+@highlight An increase in convexity decreases the equilibrium probability of high complexity.
+@highlight An increase in consumer sophistication may not reduce market complexity.
+@highlight Different policy implications depending on the confusion technologys curvature.

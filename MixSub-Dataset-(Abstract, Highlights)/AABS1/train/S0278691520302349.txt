@@ -1,0 +1,6 @@
+ Toxic stimuli exposure limits are typically based on single toxic stimuli experiments but are presently used for both toxic stimuli in isolation and in combination with other toxic stimuli . In the combination case typically less of each constituent of the combination is required to cause damage compared to the amount determined from single stressor experiments . Thus exposure limits based on single toxic stimulus experiments are inadequate for setting limits for stressor combinations .
+
+@highlight Presumable safe exposure limits based on single toxic stimulus experiments are inadequate for stressors combinations.
+@highlight A simplified approach to improving regulatory exposure limits for toxic stimuli combinations is presented.
+@highlight The approach proposes conversion of exposures to TRVs fraction and division of single TRVs by the sum of these fractions.
+@highlight Practical considerations for the application of this approach are presented.

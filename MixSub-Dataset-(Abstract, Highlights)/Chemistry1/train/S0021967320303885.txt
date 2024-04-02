@@ -1,0 +1,6 @@
+ The variation patterns of transcription factors provide direct information for the states of cell populations which is of significance for biomedical research and clinical diagnostics . Herein we show that through multi channeled isothermal amplification it is feasible to connect DNA based signal transduction with chromatography for multiplexed detection of TFs . The described system is referred to as PAC which includes three major steps
+
+@highlight DNA based signal processing and chromatography is connected.
+@highlight Multi channeled isothermal amplification is realized.
+@highlight Multiplexed detection of p50 p53 AP 1 MITF and c Myc is realized.
+@highlight Profiling of TFs in cells tumors and blood samples is implementable.

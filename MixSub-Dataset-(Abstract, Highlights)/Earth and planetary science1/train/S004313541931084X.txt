@@ -1,0 +1,6 @@
+ Electrodeionization is membrane based desalination utilizing ion exchange membranes and ion exchange resins . By combining Electrodialysis and Ion exchanger EDI can produce ultrapure water in a continuous flow manner . Although its theoretical mechanisms are well documented there is no experimental platform that can provide microscopic details inside of the system . In this paper we present microscale EDI that can visualize
+
+@highlight ion concentration fluid flow and pH visualization in microscale EDI.
+@highlight Distinct ion transport dynamics at Ohmic limiting overlimiting current regimes.
+@highlight Simultaneous observation of water splitting and electroconvection at overlimiting regime.
+@highlight Energy and current efficiency improvement of EDI with electroconvection.

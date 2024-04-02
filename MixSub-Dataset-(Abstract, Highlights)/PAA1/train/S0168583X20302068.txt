@@ -1,0 +1,7 @@
+ Molecular dynamics simulations were conducted to investigate the influence of temperature on primary radiation damage in tungsten . By investigating on the number of surviving defects it was suggested that the increment of temperature improved the radiation resistance of the W which was further improved with the existence of grain boundaries . Second the maximum average kinetic energy of all of the atoms in the GB comprehensively reflected the influences of the temperature the primary knock on atom energy and the distance between the PKA and GB on the overlap of the cascade center and the GB . Thus it could be regarded as a quantitative factor that explained the GB influence on the evolution of the interstitials . Finally the size distribution of the interstitial clusters exhibited negative correlation with the temperature . In contrast when the temperature rose above 900K the size of the vacancy cluster increased with temperature .
+
+@highlight GBs improve the radiation resistance of materials.
+@highlight The radiation resistance of W increases with temperature.
+@highlight 900K is the critical temperature of vacancy mobility.
+@highlight A single factor is established to evaluate the GB influence on defects annihilation.
+@highlight Sizes of interstitial and vacancy clusters show discrepant temperature dependence.

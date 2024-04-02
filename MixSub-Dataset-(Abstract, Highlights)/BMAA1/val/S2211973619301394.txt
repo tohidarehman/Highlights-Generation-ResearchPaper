@@ -1,0 +1,6 @@
+ Research on collaboration relationships among researchers assists in understanding scientific information dissemination . Network analysis has been used in many studies on collaboration . However understanding the co authoring communities in collaboration networks and identifying their key researchers generally remain unexplored although these insights can lead to an improved comprehension of collaboration relationships . The current study discovers and analyzes co authoring communities in the collaboration networks of researchers in tourism research . Results indicate that productivities within co authoring communities are high because of dense collaboration relationships . We also observe that location may be one of the formation reasons of co authoring communities . Key researchers who are globally and locally important can be further identified by introducing the community centrality measure . The network robustness test demonstrates the effectiveness of this measure .
+
+@highlight Collaboration relationships in tourism research are studied using network analysis.
+@highlight Co authoring communities are discovered with structural community detection method.
+@highlight The community centrality measure is introduced to identify key researchers.
+@highlight Network robustness test demonstrates the effectiveness of community centrality.

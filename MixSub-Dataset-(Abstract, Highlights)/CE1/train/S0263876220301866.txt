@@ -1,0 +1,6 @@
+ Gasliquidliquid threephase co current flow commonly occurs in the oil gas production pipelines . The dynamics of three phase flow are more complex than single and two phase flow . High pressure drop and liquid holdup are common flow assurance problems in the upstream oil and gas production pipelines . These problems increase the energy consumption of the flow system especially in the process of enhanced oil recovery . Three phase flow behavior is highly dependent on the flow patterns . For an economical and energy efficient production process the flow pattern with less pressure drop and liquid holdup needs to be identified . In this article three phase flow patterns classification and structures are critically reviewed and discussed in detail . Flow regime transition with the change in volumetric fractions and superficial velocities of phases are also elaborated . The prediction models for flow regime transition and stability pressure drop liquid holdup and three phase flow characteristics are presented .
+
+@highlight Classification and structure of the three phase flow patterns.
+@highlight Three phase flow regime transition maps.
+@highlight Pressure drop and liquid holdup during three phase flow.
+@highlight Modeling and simulation of three phase flow characteristics.

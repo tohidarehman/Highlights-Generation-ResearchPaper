@@ -1,0 +1,8 @@
+ In this study the condensation of methanol and water in unoccupied layers near the coolant tubes of the gas cooled reactor in mega methanol plants are investigated . In the Lurgi mega methanol plants named conventional configuration water cooled reactors are in series with the gas cooled reactor . These reactors are composed of only two sections shell and tubes . In the novel configuration the gas cooled reactor is modified and consists of three sections including shell tubes and mesh . A perforated plate named mesh is surrounding each tube by 5mm from the outer wall of the tube . In the aforementioned space which has no catalyst condensation occurs . The coolant temperature in the inlet of the tube of gas cooled reactor in NC is 20K smaller than that of CC . The temperature reduction leads to more gas condensation and as a result the methanol production of NC increases by 20 compared with CC . A one dimensional modeling is applied to compare the performances of NC and CC . The results of CC are validated with industrial data .
+
+@highlight Methanol production increases about 20 in the novel configuration.
+@highlight CO
+@highlight emission in the novel configuration is 11.5 lower than CC.
+@highlight Methanol is produced in the shell side and it condense in to the mesh side.
+@highlight Some methanol is separated from the reactant gaseous phase.
+@highlight The elimination of gaseous methanol leads to more methanol production.

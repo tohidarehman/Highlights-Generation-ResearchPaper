@@ -1,0 +1,6 @@
+ Heat stress is usually assessed using thermal comfort indices that calculate integrated values of temperature humidity wind speed and solar radiation . However the negative effect of heat stress is related not only to the intensity but also the duration of heat stress endured as well as the accumulated influence from previous time periods . This study was conducted to develop adjusted TCIs which could simultaneously quantify the intensity and duration of heat stress . The data for this study came from production and climate data collected on a robotically milked dairy farm . Thresholds of heat stress under diurnal pattern and lag pattern for different TCIs were identified to be related to a significant decrease of daily milk yields . An intensity duration index was proposed to evaluate daily short term heat stress and heat stress relief by multiplying the percentage difference between TCIs and their threshold values by the duration . Thresholds of HIDI and RIDI as well as their sum i.e . IDI
+
+@highlight Intensity and duration index for assessing daily heat stress was developed.
+@highlight Heat stress and relief of heat stress were evaluated with thresholds identified.
+@highlight Adjustments of TCIs were created for quantifying lag and cumulative effect.
+@highlight Using temperature and THI to quantify time related heat stress were compared.

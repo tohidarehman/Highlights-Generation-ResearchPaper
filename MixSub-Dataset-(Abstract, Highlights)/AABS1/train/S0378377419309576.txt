@@ -1,0 +1,7 @@
+ This study describes the processes of calibration and validation of AquaCrop and MOPECO for the simulation of a barley crop . We compare the complexity of implementing this process in the two models and the accuracy of the results . A 3 year field experiment conducted during the period from 2011 to 2013 in a semi arid region located in southeast Spain was used for this purpose . Six irrigation treatments were applied combining different levels of water deficit depending on the phenological stage . Both models were suitable for the simulation of yield and soil moisture evolution . In addition AquaCrop correctly simulated the harvest index the evolution of canopy cover and aboveground biomass . The comparison between the two models showed that AquaCrop is a better model for assessing the effect of a particular irrigation schedule on a crop than MOPECO . Nevertheless if the objective is to estimate yield depending on the irrigation schedule applied MOPECO is easier to calibrate and furnishes results as valid as those provided by AquaCrop .
+
+@highlight AquaCrop and MOPECO models were parameterized for a barley crop cv. Cierzo .
+@highlight Yield and soil moisture evolution were properly simulated by both models.
+@highlight Aquacrop offers a higher number of crop simulated variables than MOPECO.
+@highlight If the aim is just to simulate yield MOPECO is also valid and easier to parameterize.
+@highlight Both models are suitable to analyze the effects of deficit irrigation strategies.

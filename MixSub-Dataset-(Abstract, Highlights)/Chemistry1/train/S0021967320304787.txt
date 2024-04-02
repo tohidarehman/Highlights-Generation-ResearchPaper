@@ -1,0 +1,7 @@
+ A method for the preparation of an on column ESI emitter used as the sheathless interface for coupling capillary electrophoresis with mass spectrometry was developed . The emitter was directly fabricated at the outlet end of the separation capillary which was etched with HF solution to a symmetrical tip . The tip was covered with a small piece of gold foil which was fixed by epoxy resin glue for electrical contact . Such a prepared ESI emitter can produce a stable ESI signal over the wide range of flow rate from 50nL min to 800nL min . The performance of the CE MS with the sheathless interface was evaluated by using the separation of four alkaloids . It was found that the strong electroosmotic flow produced by the multiple polyelectrolyte coating on the capillary is necessary for maintaining a stable MS signal . Effect of the running buffer composition concentration and the CE separation voltages on the ESI signal strength were investigated . The absolute detection limits for the alkaloids was determined as fmol level . Moreover the CE MS was applied for the analyses of trypsin digestion of cytochrome
+
+@highlight A simple but robust sheathless interface for coupling CE MS has been developed.
+@highlight The symmetrical tip obtained by HF etching was cover by a piece of gold foil.
+@highlight It can produce a stable MS signal over the flow rate range 50 to 800nL min.
+@highlight It can continuously work for at least 180h.
+@highlight The LOD for the alkaloids was determined as fmol level.

@@ -1,0 +1,11 @@
+ The relativistic hyperfine constants of the heavy inert gas element xenon 131 isotope have been calculated . The calculations executed through the Multiconfiguration Dirac Hartree Fock method yield the hyperfine constants of 128 levels belonging to the n
+
+@highlight The interaction between the nucleus of xenon 131 isotop and the orbit electrons is studied.
+@highlight As a result of this study the hyperfine constants of 128 levels belonging to the n
+@highlight  n 6 7 8 9 
+@highlight  n 4 5 6 n
+@highlight  n 5 6 7 8 n
+@highlight  n 6 7 8 and 5g 
+@highlight intermediate Rydberg series are provided.
+@highlight The magnetic and electric field gradients at the nucleus site are extracted by combining the previous results with experimental values of the nuclear magnetic dipole and electric quadrupole moments of the atom under consideration.
+@highlight The Multiconfiguration Dirac Hartree Fock MCDHF method is employed.

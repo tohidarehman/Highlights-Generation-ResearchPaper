@@ -1,0 +1,5 @@
+ Laser Doppler velocimeter can be used to provide the true velocity over ground of a vehicle . In order to eliminate the influence of vehicle pitch on vehicle based LDV this paper designs a pitch independent vehicle based laser Doppler velocimeter . The velocimeter emits two beams with an angle between them . The velocimeter can calculate the true velocity by using the two Doppler frequency and the included angle between the two beams . The results of the conveyor test show that the velocimeter can eliminate the influence of the vehicle pitch .
+
+@highlight This manuscript proposed the pitch independent vehicle based laser Doppler velocimeter.
+@highlight The measurement of the proposed velocimeter is not influenced by the vehicle pitch.
+@highlight The proposed velocimeter is almost as simple as the 1D vehicle based laser Doppler velocimeter.

@@ -1,0 +1,6 @@
+ Various applications in different fields such as gene expression analysis or computer vision suffer from data sets with high dimensional low sample size which has posed significant challenges for standard statistical and modern machine learning methods . In this paper we propose a novel linear binary classifier denoted by Data Maximum Dispersion classifier which is applicable to general data especially HDLSS such as genetic microarrays image and so on . DMDC maximize data dispersion in projection space to find the hyperplane for classification . Our proposed model has several advantages compared to those widely used approaches . First it works well on HDLSS . Second it is not sensitive to the intercept term
+
+@highlight DMDC works well on HDLSS.
+@highlight DMDC is not sensitive to the intercept term.
+@highlight It is easy to implement through Quadratic Programming.
+@highlight It is robust to the model specification making it useful for various real applications.

@@ -1,0 +1,7 @@
+ An appositeness of recently developed multireference perturbation theory coupled with an improved virtual orbitals complete active space configuration interaction reference function has been examined here against strongly correlated molecular systems emerging from isomerization of diphosphene and diphosphinylidene . The IVO SSMRPT is an interesting alternative to the widely used MRPT methods which avoid some of the objections of the conventional MRPTs . IVO BWMRPT furnish a reliable description of near degeneracy between occupied and unoccupied orbitals at the twisted geometry where the wave function receives biradical character . Overall the IVO SSMRPT results are in good agreement with the more expensive
+
+@highlight IVO SSMRPT is used to treat the geometrical and structural isomerization pathway.
+@highlight The method is effective to treat the states with varying degeneracies.
+@highlight Method is a reliable tool to provide barrier heights geometries frequencies.
+@highlight It offers a very good compromise between accuracy and computational cost.
+@highlight Excellent agreement between IVO SSMRPT and reference data is obtained.

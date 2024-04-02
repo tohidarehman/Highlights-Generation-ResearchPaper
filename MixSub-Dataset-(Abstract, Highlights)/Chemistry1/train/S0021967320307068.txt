@@ -1,0 +1,10 @@
+ There is a huge still increasing market for synthetic and therapeutic peptides . Their quality control is commonly based on a generic reversed phase liquid chromatography method with C18 stationary phase and acetonitrile gradient with 0.1 trifluoroacetic acid in the mobile phase . It performs exceptionally well for a wide variety of impurities yet structurally closely related impurities with similar sequences not resolved in preparative RPLC may easily coelute in the corresponding QC run as well . To address this problem an advanced generic 2D LC impurity profiling method was developed in this work . It employs a selective comprehensive RPRP 2D LC separation using a 1002.1mm ID column with the common acidic generic gradient in the first dimension while RPLC under basic pH on a short 303mm ID column is used in the second dimension . Recording data with a UV detector at 215nm after
+
+@highlight Selective comprehensive 2D liquid chromatography for peptide quality control.
+@highlight Main peptide peak from
+@highlight D RPLC comprehensively sampled into
+@highlight D for more reliable QC.
+@highlight D RPLC at pH 9 exhibits complementary selectivity to
+@highlight D RPLC with trifluoroacetic acid.
+@highlight sRPRP 2D LC coupled to multiple detectors UV charged aerosol detector QTOF .
+@highlight Advanced generic sRPRP 2D LC peptide QC employed to Oxytocin analysis using SWATH.

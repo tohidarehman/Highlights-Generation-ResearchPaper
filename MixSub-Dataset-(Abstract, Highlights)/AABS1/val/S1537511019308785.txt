@@ -1,0 +1,7 @@
+ Thermal comfort indices have been developed to assess heat stress and model the relationship between thermal parameters and animal responses . The published models typically include temperature humidity index black globe humidity index environmental stress index equivalent temperature index heat load index respiration rate index and comprehensive climate index . This study was conducted to compare the performance of these published TCIs using data collected from a robotic farm situated in a subtropical climate region . The comparison also included models formulated between basic thermal parameters and animal responses . The statistical analyses found dry bulb temperature can provide a similar level of performance to other TCIs in assessing heat stress . The spatial variability between on farm measurements and the local weather station can be neglected when modelling with TCIs and MT . For cows with an average DMY of 31kg cow
+
+@highlight Performance evaluation of published TCIs and basic thermal indicators.
+@highlight Test the consistency of using on farm microclimate and regional climate data.
+@highlight THI 64 was found as the start of heat stress for cows with 31kgcow
+@highlight DMY.
+@highlight Importance of night time cooling to relief heat stress was demonstrated.

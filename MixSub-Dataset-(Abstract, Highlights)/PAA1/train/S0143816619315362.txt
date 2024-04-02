@@ -1,0 +1,7 @@
+ The metrology of mechanical parts using non contact systems often requires complex post processing operations to evaluate shape defects of the studied surface . For large parts the geometric complexity combined with the amount of acquired data make such treatments long and tedious . To overcome this challenge a shape defect measurement system based on global stereocorrelation is developed . This approach integrates a self calibration step using the CAD model of the studied part that allows the measurement results to be directly expressed in the numerically defined frame of the part . The defects will be measured in a predefined modal basis thereby introducing registrations with a limited number of degrees of freedom and allowing for easier analyses of the measured defects .
+
+@highlight Development of a shape defect measurement technique using stereocorrelation.
+@highlight Shape correction based on a modal basis to reduce the number of unknowns.
+@highlight Application on a test part and comparison with an industrial measurement system.
+@highlight Study of the repeatability of the method.
+@highlight Sensitivity analysis of the measurement method based on the Hessian matrix analysis.

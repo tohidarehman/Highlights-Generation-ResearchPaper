@@ -1,0 +1,6 @@
+ This study aims to explore the moderating effect of the number of images and videos on the relationship between text length in crowdfunding campaign descriptions and crowdfunding outcomes . We use data from 13 622 technology campaigns on the Kickstarter website to test our hypotheses . The findings indicate that an increased number of images and videos improves fundraising performance but weakens the positive effect of description length on the fundraising performance of technology campaigns . In other words on the Kickstarter website we find an overshadowing effect between multimedia . The term overshadowing effect proposed in this paper suggests that redundant media can obscure the effect of other media in working memory . This study is among the first to explore the interaction between multimedia types from the theoretical perspective of cognitive load .
+
+@highlight Exploring the interaction between multimedia types from the theoretical perspective of cognitive load.
+@highlight Images and videos weaken the positive effect of text length on funding performance.
+@highlight The marginal effect of the amount of each modality is diminished when multimedia information is presented.
+@highlight Overshadowing effect suggests that redundant media can obscure the effect of other media in working memory.

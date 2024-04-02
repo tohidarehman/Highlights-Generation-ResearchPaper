@@ -1,0 +1,6 @@
+ The detection of hexanal vapor in ppb concentration is an unresolved and indispensable issue . Here we report a polydopamine polyethyleneimine copolymer film with rich imino groups to sense 50ppb hexanal vapor through the formation of the reversible hydrogen bonds with hexanal . We found that the water resistance could be further improved by attaching superhydrophobic n octadecylsiloxane onto the surface of PDA PEI film . The chemical adsorption mode and the core role of imino group for the hexanal detection have been validated by combining experiment methods with theory calculations . A quartz crystal microbalance platform modified with this film was employed as a hexanal vapor sensor under ambient conditions which possessed several advantages including the high response of 34.8Hz to 250ppb hexanal low detection limit of 50ppb hexanal at 25C and good water resistance .
+
+@highlight Detection of ppb level hexanal was first realized based on QCM.
+@highlight The sensor detected hexanal vapor stably in high humidity environment.
+@highlight The false alarm of humidity can be ignored.
+@highlight The core sensing site was found out by simulation calculation.

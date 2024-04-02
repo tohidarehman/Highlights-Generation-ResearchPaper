@@ -1,0 +1,5 @@
+ In this paper we study optimal retirement in a two dimensional incomplete market caused by borrowing constraints and forced unemployment risk . We show that the two aspects jointly affect an individuals optimal consumption investment and retirement strategies . In contrast to the complete market case the endogenously determined wealth threshold for retirement is significantly affected by the two dimensional market incompleteness resulting in a lower wealth threshold . We also discuss a possible unemployment insurance scheme for the borrowing constrained individual to respond to the shocks of forced unemployment .
+
+@highlight We develop a new framework for solving an optimal retirement model in a two dimensional incomplete market.
+@highlight We show that the two dimensional market incompleteness alters the quantitative predictions given by standard literature.
+@highlight We provide verification theorems including the existence and uniqueness of a solution to the incomplete market problem.

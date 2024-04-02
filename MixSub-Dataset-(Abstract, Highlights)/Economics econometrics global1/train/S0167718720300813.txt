@@ -1,0 +1,6 @@
+ We analyze the effects of future liquidity constraints on contestants investment in a dynamic contest model . Contestants invest in two consecutive contests to win a prize in each period . The loser of the first period contest can be liquidity constrained in the second period due to too little remaining wealth . The winner of the first contest can reinvest the prize in the second contest . We show that future liquidity constraints mainly affect the imbalance of the contest in the future but not today . Surprisingly larger contest prizes decrease contestants future investments and amplify the imbalance of future contests . However the contest organizer can reduce this imbalance by increasing the share of the prize money in the second contest .
+
+@highlight The winner of the first period contest can reinvest the prize in the second period contest.
+@highlight In a subgame perfect equilibrium only the loser of the first period contest can be liquidity constrained in the second period contest.
+@highlight Larger contest prizes surprisingly decrease contestants future investments and amplify the imbalance of future contests.
+@highlight The contest organizer can reduce the imbalance by increasing the share of the prize money in the second period contest.

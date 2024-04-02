@@ -1,0 +1,7 @@
+ Screening of a large number of chemicals of emerging concern is highly desirable for the control of crops irrigated with reclaimed water since it is considered an alternative water source of great value . This study describes a high resolution mass spectrometry approach for developing methods for quantification in lettuce leaves of 48 different wastewater borne pollutants frequently found in water resources . In this respect a simple and fast QuEChERS based method for the determination of contaminants in lettuce has been developed . During extraction the use of formic acid was adopted to further improve the results of some problematic compounds . High resolution multiple reaction monitoring MRM
+
+@highlight Comparison of high resolution multiple reaction monitoring and SWATH acquisition MS modes.
+@highlight Development of a modified quechers based method for the determination of 48 phacs in lettuce.
+@highlight Efficient analyte recoveries and low matrix effects using two step cleanup.
+@highlight 46 out of 48 analytes show satisfactory method performance in SWATH mode.
+@highlight 14 out of 48 studied compounds were detected in field samples.

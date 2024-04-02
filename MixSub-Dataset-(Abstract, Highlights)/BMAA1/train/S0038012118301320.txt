@@ -1,0 +1,5 @@
+ The shortage of water resources has become a burning issue constraining China s sustained development with significant differences in water intensity among regions and provinces . Quantifying the driving effect of spatial differences in the country s water intensity is very important to the dual implementation actions of water resources and intensity in each region . Spatial analysis reveals the variations among regions identifies contributing factors and helps us to better understand the scope for improvement compared to temporal analysis . This paper constructs a Spatial Index Decomposition Analysis model based on the conventional IDA model referenced in the literature and divides China into six regions according to
+
+@highlight Spatial difference of water intensity in the six regions are decomposed into intensity effect and structure effect.
+@highlight Three industrial differences of the intensity effect and the structure effect in the six regions in China are measured.
+@highlight Spatial differences of water intensity for provinces in China are decomposed into intensity effect and structure effect.

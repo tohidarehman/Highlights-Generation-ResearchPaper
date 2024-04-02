@@ -1,0 +1,7 @@
+ We consider the time consistent management of a defined benefit stochastic pension plan where the participants have different rates of time preference and the fund manager collects this heterogeneity when discounting the future . The main objective is to select the amortization rate and the investment strategy minimizing both the contribution rate risk and the solvency risk . The problem is formulated as a stochastic control problem with non constant rate of discount and is solved analytically by means of the dynamic programming approach and the technical interest rate is selected in order to keep stable the fund evolution within prescribed targets . A numerical illustration shows a comparative of the stability of the fund assets and the rate of contribution for a convex combination of exponential functions as discount function and for the constant discount case .
+
+@highlight The optimal management of a DB pension plan with non constant discounting is studied.
+@highlight The model is justified by means of the participants impatience.
+@highlight The time consistent contribution and investments are explicitly obtained.
+@highlight The stability of the fund is proved previous selection of the technical interest rate.
+@highlight An illustration shows the non constant discounting effect on the plan evolution.

@@ -1,0 +1,8 @@
+ Solar desalination is one of the most sustainable and effective techniques to solve the long standing challenge of fresh water supply . However most of the current solar evaporators are designed with the light absorbing surface in parallel with the water evaporating surface which causes significant salt accumulation and stability issues . Herein a facile but scalable approach is reported to build tree inspired cone shaped 3D Janus evaporators by spatially isolating absorption surface and evaporation surface which exhibit self regenerating behavior and significantly extended durability . Such evaporators employ hydrophobic polymer based inner cones as the light absorbing surface which were fabricated
+
+@highlight A 3D cone evaporator spatially isolates absorbing surface and evaporating surface.
+@highlight The 3D cone evaporator has significant absorbance of 99.80 across 200 2500nm.
+@highlight The evaporator features rapid photothermal response within 200s .
+@highlight The evaporator is also an environmental energy enhanced one.
+@highlight An evaporation rate 1.723kgm
+@highlight  and efficiency 107.80 are accomplished.

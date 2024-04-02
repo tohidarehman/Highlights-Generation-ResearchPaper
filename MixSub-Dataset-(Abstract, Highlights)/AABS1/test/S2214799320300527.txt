@@ -1,0 +1,7 @@
+ All aqueous emulsions are conventionally formed at bulk scale by mild shaking of aqueous two phase systems . They can be used to carry out reactions both in droplets and on droplet surfaces in conditions free of synthetic surfactants and organic solvents . The use of all aqueous emulsions for extractive bioconversion is a routine application however these emulsions hold many more promises . A renowned rapidly evolving application is bio microgel synthesis through biopolymer crosslinking within the emulsion internal phase . When polyelectrolyte crosslinking is achieved at the interface rather than in droplets microcapsules can be formed and when
+
+@highlight Aqueous two phase systems can be miniaturized to all aqueous emulsions.
+@highlight They can be used to accomplish numerous reactions within droplets and on droplets.
+@highlight In droplet reactions include extractive bioconversion and microgel synthesis.
+@highlight On droplet reactions include microcapsule formation and interfacial catalysis.
+@highlight Microfluidics enables control over formation and exploitation of the emulsions.

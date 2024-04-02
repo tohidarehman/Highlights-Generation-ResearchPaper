@@ -1,0 +1,6 @@
+ The development of efficient photovoltaic devices utilizing durable and cost effective materials such as CZTS and similar ones represents a big challenge . Here the comparison of thermodynamic calculations and electrochemical experiments reveals detrimental degradation of CZTS regardless of pH values and potentials applied . Cathodic polarization yields to the full decomposition of CZTS while anodic polarization stabilizes partly CZTS by passivation of its surface with less active phases . The presence of water in general provokes the decomposition of CZTS to various undesired phases which most likely affect the device parameters . The possible mechanism for the degradation of CZTS is proposed considering its electronic structure . Certain similarities on unfavorable processes occurring with analogous materials are expected .
+
+@highlight The instability of CZTS under illumination and regardless of pH values and potentials applied.
+@highlight Anodic polarization yields the formation of a passivating layer on CZTS surface.
+@highlight Cathodic polarization leads to full decomposition of CZTS.
+@highlight Moisture could limit the performance of devices and durability.

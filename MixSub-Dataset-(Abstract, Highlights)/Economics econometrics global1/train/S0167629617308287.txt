@@ -1,0 +1,7 @@
+ This paper examines the extensive margin of selection into employer sponsored health insurance using data from the Medical Expenditures Panel Survey 20012010 and 20142016 and the National Longitudinal Survey of Youth97 in 2010 . Controlling for a large set of firm and job characteristics I find that before the implementation of the Affordable Care Act in 2014 workers aged 2540 who declined ESHI and remained privately uninsured had significantly higher health risk than those who enrolled . No correlation between health and insurance take up is found in the 4164 age group . These results are partly explained by differences in income and Medicaid crowding out ESHI for high risk workers . The paper sheds light on the characteristics of uninsured workers their incentives for declining insurance and the interaction between private and public health insurance . The allocation of ESHI remained unchanged after the ACA was introduced due to the provisions counteracting effects .
+
+@highlight I examine the extensive margin of selection in employer sponsored health insurance.
+@highlight Workers aged 2540 are ex ante advantageously selected.
+@highlight Education income and Medicaid crowd out contribute significantly to selection.
+@highlight Medical spending is higher among those insured consistent with moral hazard.
+@highlight The allocation of employer insurance was unchanged by the Affordable Care Act.

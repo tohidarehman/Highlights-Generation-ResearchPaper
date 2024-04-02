@@ -1,0 +1,7 @@
+ The plasma facing unit of ITER divertor is repeatedly exposed to high heat flux and a reliable heat removal capability is crucial for its adequate performance . The cyclic high heat flux test that has been conducted to evaluate the reliability of PFU reveals that the surface modification and macro crack formation in W monoblock which is the plasma facing material may hinder the operation of fusion reactors . Therefore optimization of both manufacturing technology and material development is necessary for reliable operation . In this study we investigate the dependence of material properties on the surface modification and macro crack formation in W monoblocks . W monoblocks manufactured by two different suppliers were examined and the results of cyclic HHFT revealed that the heat removal capability was not degraded in all the examined W monoblocks . Further it was observed that the W monoblock exhibiting characteristic grain structure and tensile property suffered less surface modification without macro crack formation due to cyclic heat loading .
+
+@highlight Effect of cyclic heat load and material properties on W monoblock is examined.
+@highlight W monoblocks manufactured by two different suppliers ALMT and NSCM are compared.
+@highlight The heat removal capability was not degraded in all the examined monoblocks.
+@highlight ALMT W exhibited relatively smooth surface and higher resistance to cyclic heat loading.
+@highlight NSCM W exhibited severe surface modification and macro crack formation.

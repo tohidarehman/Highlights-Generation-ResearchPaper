@@ -1,0 +1,6 @@
+ Data envelopment analysis model has been widely applied for constructing composite indicator and finding development degree of areas . With the increasing number of indicators the distinguish power of DEA model is decreased . In this paper in order to increase distinguish power in DEA model and find out the fair weights in cross efficiency DEA context the game theory approach is applied . The DEA Game theory approach is used to rank cities in West Azarbaijan province of Iran . First 68 suitable indicators are determined and then the indicators are classified in 10 sectors . Finally the actual data for year 2013 is gathered and DEA Game theory model is applied . To verify and validate the DEA Game theory approach simple additive weighting and TOPSIS methods are used and the results are compared . The Spearman correlation between DEA Game SAW and TOPSIS models shows that the DEA Game theory model is suitable for constructing the composite indicators .
+
+@highlight The paper uses Game theory and DEA for constructing a composite indicator.
+@highlight The DEA Game model increases distinguish power in DEA.
+@highlight The DEA Game model is applied for estimating development degree of cities.
+@highlight The model is used for 13 cities in West Azerbaijan province of Iran.

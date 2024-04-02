@@ -1,0 +1,6 @@
+ Modeling crop water use as a useful decision tool for agricultural policy decision makers to improve water use efficiency has been increasing . This study aimed to estimate forecast and model the green and blue water footprints WF
+
+@highlight Modeling green and blue water footprint of maize based on limited meteorological data.
+@highlight Estimation of blue water evapotranspiration using Penman Monteith method
+@highlight Climate change affects the structural design of the ANN topology for each region
+@highlight Superior ANNs generated a low deviation between actual and predicted green and blue WFs

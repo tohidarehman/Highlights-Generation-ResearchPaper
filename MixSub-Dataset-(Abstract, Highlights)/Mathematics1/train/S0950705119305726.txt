@@ -1,0 +1,5 @@
+ Both rough sets and concept lattices which are two complementary tools in data analysis are analyzed based on binary relations . The relations between rough sets and concept lattices are important research topic . In this paper the methods of union reduction and intersection reduction in covering approximation spaces based on concept lattice are discussed and the relations between union reduction of covering approximation spaces and concept lattices reduction are investigated . We also discuss the relations of element characteristics between covering approximation spaces and the concept lattices . Meanwhile the connections between reduction of a covering approximation space and that of its compliment space are revealed . The research results establish a bridge between the rough sets and concept lattices and help one to gain much more insights into the two theories .
+
+@highlight Union reduction methods of CA space based on concept lattice are presented.
+@highlight The relations of element characteristics between CA space and concept lattices are discussed.
+@highlight The relations between reduction of a CA space and that of its compliment space are revealed.

@@ -1,0 +1,7 @@
+ The rapid growth in the sales of electric and electronic devices over recent decades is generating worldwide concern about the management of Waste Electrical and Electronic Equipment . New methodologies to extend the useful life of products have long been sought accelerating the shift from a linear to a Circular Economy . When products reach the End of Life stage the Reverse Supply Chain is responsible for managing operations with greater efforts being needed to improve the associated information infrastructure . In fact this has become increasingly feasible due to the emergence of a new digital revolution led by the Internet of Things . To shed light on this matter we propose the
+
+@highlight Circular Supply Chain CSC framework for Electric Vehicle Battery EoL management.
+@highlight Assessment of information requirements in the CSC domain.
+@highlight Definition of hierarchical communication levels for Reverse Logistics.
+@highlight Study selection and allocation of IoT communication standards at each level.
+@highlight Heterogeneous IoT communications network deployment in the CSC for WEEE recovery.

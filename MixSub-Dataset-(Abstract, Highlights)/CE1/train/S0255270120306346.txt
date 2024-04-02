@@ -1,0 +1,8 @@
+ Downstream separation in the oxidative coupling of methane is a major technical challenge limiting the industrial implementation of ethylene production from natural gas . This work focuses on the assessment of different thermally coupled cryogenic distillation schemes for the separation of OCM effluent gases . The composition of the feed gas was defined according to an experimentally validated OCM effluent stream previously treated for H
+
+@highlight Thermally coupled cryogenic distillations in oxidative coupling of methane OCM .
+@highlight OCM Effluent stream contained N
+@highlight  H
+@highlight  CO methane ethane and ethylene.
+@highlight Direct indirect side rectifier side stripper dividing wall and Kaibel schemes.
+@highlight Optimization of total annual cost TAC linking Python with Aspen Plus.

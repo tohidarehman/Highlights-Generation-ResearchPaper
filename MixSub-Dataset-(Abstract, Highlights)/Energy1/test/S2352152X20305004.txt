@@ -1,0 +1,8 @@
+ Lead acid batteries and Ultrabatteries suffer from hard sulfation due to the high rate partial state of charge cycling that occurs in practical applications . In this work we use low cost and highly abundant coke as the coating material on Pb negative electrodes in ultracells . The effects of the surface treatments of the coke prior to coating are investigated in terms of the electrochemical properties of the resulting cells . The coke is subjected to KOH activation followed by surface treatments of either mild oxidation or H
+
+@highlight A low cost abundant coke is coated on Pb negative electrodes in Ultrabatteries.
+@highlight The cokes are surface treated by KOH activation mild oxidation and H
+@highlight treatment.
+@highlight The HER and sulfation are suppressed with the surface treated coke coating.
+@highlight The coating of an optimized coke enhances the charge acceptance.
+@highlight The coating of an optimized coke improves the HRPSoC cycling stability.

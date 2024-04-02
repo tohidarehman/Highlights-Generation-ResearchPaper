@@ -1,0 +1,7 @@
+ Mixtures of substances to which humans are exposed may lead to cumulative exposure and health effects . To study their effects it is first necessary to identify a cumulative assessment group of substances for risk assessment or hazard testing . Excluding substances from consideration before there is sufficient evidence may underestimate the risk . Conversely including everything and treating the inevitable uncertainties using conservative assumptions is inefficient and may overestimate the risk with an unknown level of protection . An efficient transparent strategy is described to
+
+@highlight The EuroMix project has developed strategies for selecting substances in a cumulative assessment group CAG .
+@highlight Probability of CAG membership of each substance can be calculated using QSAR data or using expert opinion.
+@highlight A tiered approach and uncertainty quantification allows efficient identification of potentially important substances.
+@highlight Uncertainties in CAG membership missing hazard data and other aspects can be quantified in a retain and refine strategy.
+@highlight Updating hazard data on a single substance reduced exposure uncertainty substantially in a test example with 100 substances.

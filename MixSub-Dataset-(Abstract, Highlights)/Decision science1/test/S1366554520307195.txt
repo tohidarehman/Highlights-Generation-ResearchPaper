@@ -1,0 +1,6 @@
+ Network theory has provided key insights into the overall resilience of air transportation systems . We expand upon these insights by using Mahalanobis distance to quantify delay abnormalities complex network metrics for high level insights and a hybrid method that combines data driven and network approaches . We apply these methods to public data and discuss trends in resilience among four US airlines . We find that our data driven methods enable more detailed insights into airline resilience than traditional network methods . We also find that simultaneously considering all three approaches provides a more comprehensive understanding of resilience than the consideration of any one in isolation .
+
+@highlight Statistical methods can support quantification of delay abnormalities in airline networks.
+@highlight Network metrics can supplement but not replace data driven methods.
+@highlight Hybrid data driven network metrics can identify impacts of major events.
+@highlight Individual airline resilience is important to analyze in addition to the overall system.

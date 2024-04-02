@@ -1,0 +1,5 @@
+ This paper reports on research to design an ensemble deep learning framework that integrates fine tuned three stream hybrid deep neural network
+
+@highlight Automated detection of pain from facial expressions is a challenge in medical care.
+@highlight A new ensemble deep neural network algorithm designed to improve automatic pain detection.
+@highlight The performance of the new proposed ensemble deep learning algorithm for detecting pain in 5 level is high.

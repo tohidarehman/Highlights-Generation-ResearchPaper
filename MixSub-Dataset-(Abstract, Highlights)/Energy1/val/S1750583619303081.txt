@@ -1,0 +1,8 @@
+ Reduced order models are a widely used and powerful approach to reducing the complexity of predictive physics based numerical simulations for a wide range of applications including electronics and fluid mechanics such as geologic CO
+
+@highlight Reduced order models ROMs are a powerful approach to reducing the complexity of physics based numerical simulations.
+@highlight We show that a traditional ROM can display excellent overall statistics and yet have poor predictive power.
+@highlight We introduce a novel approach where a set of sub ROMs are generated to overcome potential pitfalls in traditional ROMs.
+@highlight The effectiveness of the new approachthe ROMster frameworkis demonstrated using injection rates for CO
+@highlight sequestration.
+@highlight In our case study the ROMster framework reduces average CO2 injection prediction errors from 200 to only 4 .

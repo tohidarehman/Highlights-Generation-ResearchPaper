@@ -1,0 +1,5 @@
+ Ramsey model is a neoclassical model of economic growth . It describes the time evolution of capital and consumption in a closed economy with the exponential growth of the population . In this work the Ramsey model for the general time evolution of the population is formulated and solved . Asymptotic behavior of solutions for different types of population development is investigated . In particular the model with a population formed by a predator from an independent predatorprey system is solved numerically .
+
+@highlight We formulate a variant of Ramsey model with arbitrary evolution of population.
+@highlight In this model it is possible that the utility diverges yet it is not typical.
+@highlight We investigate behavior for several types of population evolution.

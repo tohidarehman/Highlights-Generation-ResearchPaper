@@ -1,0 +1,8 @@
+ The enantiomers of a chiral building block to be used in pre clinical manufacturing were separated using supercritical fluid chromatography . Despite an extensive evaluation of different columns and solvent combinations followed by a careful optimization of the chromatographic method the preparative separation suffered from low throughput and high solvent consumption . Consequently additional improvements were necessary . By utilizing stacked injections the chromatographic run time was almost halved and the high solvent consumption was reduced by recycling of the two mobile phase components carbon dioxide and methanol . The carbon dioxide was reprocessed by the SFC instrument whereas methanol was evaporated and recycled from the fractions collected . Hence the originally inefficient separation method was turned into a more sustainable one and the desired enantiopure intermediate was delivered to be used in the following synthesis of the selected candidate drug . Unfortunately when the intermediate was used in the subsequent amide coupling a surprisingly poor yield was obtained . This was caused by an unexpected formation of a stable carbonate salt of the intermediate under the chromatographic conditions used . By removal of the carbonate prior to the amide coupling reaction the manufacturing campaign could be saved and the candidate drug was successfully delivered in time .
+
+@highlight Resolution of enantiomers by supercritical fluid chromatography.
+@highlight Turning an inefficient chromatographic method to a sustainable one.
+@highlight Recycling of mobile phase components.
+@highlight Awareness of equilibria in a CO
+@highlight  based mobile phase.
+@highlight Formation of carbonate salt due to increased apparent pH in the mobile phase.

@@ -1,0 +1,7 @@
+ This paper studies a multi customer joint replenishment problem with districting consideration which is of particular importance to a company that outsources its transportation and delivery operations to a third party logistics service provider . To solve the problem we first propose an innovative search algorithm for solving the traditional multi customer joint replenishment problem in a given zone . Then we design a GA based framework to handle the corresponding districting problem based on the performance of each district evaluated by using the proposed search algorithm . The proposed methodologies are demonstrated by using an example of solving MJRPDC for a bank .
+
+@highlight Districting consideration is successfully integrated with the multi customer JRP.
+@highlight This study is vital to a company outsourcing logistics to a 3PL service provider.
+@highlight Our numerical experiments are based on a real life example in a bank system.
+@highlight An effective GA based algorithm is proposed for solving the problem.
+@highlight Managerial insights provide baseline information before contract negotiation.

@@ -1,0 +1,7 @@
+ This review article describes the use of immune cells as potential candidates to deliver anti cancer drugs deep within the tumor microenvironment . First the rationale of using drug carriers to target tumors and potentially decrease drug related side effects is discussed . We further explain some of the current limitations when using nanoparticles for this purpose . Next a comprehensive step by step description of the migration cascade of immune cells is provided as well as arguments on why immune cells can be used to address some of the limitations associated with nanoparticle mediated drug delivery . We then describe the benefits and drawbacks of using red blood cells platelets granulocytes monocytes macrophages myeloid derived suppressor cells T cells and NK cells for tumor targeted drug delivery . An additional section discusses the versatility of nanoparticles to load anti cancer drugs into immune cells . Lastly we propose increasing the circulatory half life and development of conditional release strategies as the two main future pillars to improve the efficacy of immune cell mediated drug delivery to tumors .
+
+@highlight Off target effects of anti cancer drugs cause side effects.
+@highlight Anti cancer drugs can be loaded onto or into immune cells.
+@highlight Immune cells continuously migrate deep within the tumor.
+@highlight Each immune cell type has benefits and drawbacks.
+@highlight Immune cell circulatory half life and conditional drug release strategies are key.

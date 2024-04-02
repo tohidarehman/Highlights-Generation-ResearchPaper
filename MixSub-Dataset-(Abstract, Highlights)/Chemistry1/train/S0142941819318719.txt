@@ -1,0 +1,10 @@
+ In this study biodegradable polylactic acid and PLA nanocomposite scaffolds reinforced with magnetic and conductive fillers were processed via fused filament fabrication additive manufacturing and their bioactivity and biodegradation characteristics were examined . Porous 3D architectures with 50 bulk porosity were 3D printed and their physicochemical properties were evaluated . Thermal analysis confirmed the presence of 18wt of carbon nanostructures and 37wt of magnetic iron oxide Fe
+
+@highlight PLA nanocomposites scaffolds filled with carbon structures CNF and iron oxide Fe
+@highlight  particles were fabricated by FFF.
+@highlight In vitro bioactivity study of scaffolds indicate enhancement from 2.9 PLA to 5.32 PLA CNF and 3.12 PLA Fe
+@highlight  .
+@highlight Both the fillers improve the wettability and thus bioactivity water absorbtion capacity and biodegradation response.
+@highlight Stiffness obtained from the compression tests showed decrease from 680 MPa PLA to 533 PLA CNF and 425 PLA Fe
+@highlight  MPa.
+@highlight While PLA CNF shows promise in terms of improved bioactivity further work is needed to address printing challenges.

@@ -1,0 +1,7 @@
+ The novel semi autonomous vehicles are becoming a reality in our roads being a very important technological advance with promising operational and safety improvements . However road infrastructure must be ready to host them . The technologies of these driving automation systems require certain road conditions that are not always fulfilled causing the systems to fail . These failures generally transfer negotiation control to drivers which may induce a crash if they were not aware of road and traffic conditions .
+
+@highlight AV disengagements are highly related to road horizontal geometry.
+@highlight Automated speed is defined as the maximum speed that an AV can attain at a curve.
+@highlight A framework is proposed to analyse how AVs perform in function of road geometry.
+@highlight AV consistency is defined as the difference between automated and operating speeds.
+@highlight A new Level of Service for Automated Driving is introduced.

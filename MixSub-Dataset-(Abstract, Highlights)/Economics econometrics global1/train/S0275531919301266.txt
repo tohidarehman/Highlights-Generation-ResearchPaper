@@ -1,0 +1,8 @@
+ Investors risk perceptions have significant implications for international stock markets . This paper estimates the time varying impact of the VIX index a widely used measure of investors risk perceptions on the dynamic correlation across international stock markets . Results show that risk perceptions significantly impact the dynamic correlation between the U.S. market and the leading stock markets of the world . Further in 17 out of 20 international stock markets risk perceptions Granger cause dynamic correlations . The impact of VIX is positive on the correlation of the U.S. market with European and Latin American markets . In contrast the relationship of the U.S. market with all the Asian markets weakens as the VIX index rises . In all cases the time varying parameter model shows that the impact of VIX on these correlations varies significantly across time .
+
+@highlight This paper estimates the impact of investors risk perceptions VIX on the dynamic correlation among international stock markets.
+@highlight Results show that VIX significantly impacts dynamic correlation of the U.S. with other international markets.
+@highlight VIX Granger causes the dynamic correlation between the U.S. market and 17 out of 20 international stock markets.
+@highlight The impact of VIX is positive on the correlation of the U.S. with European and Latin American markets.
+@highlight The relationship of the U.S. with all the Asian markets weakens strengthens as the VIX index rises falls .
+@highlight The time varying parameter model shows that the impact of VIX on dynamic correlations varies significantly across time.

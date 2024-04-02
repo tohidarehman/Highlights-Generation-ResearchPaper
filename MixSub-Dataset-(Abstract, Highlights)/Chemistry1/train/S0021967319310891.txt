@@ -1,0 +1,6 @@
+ This research focuses on retention mechanisms in a LC column with C18 stationary phase when novel eluent additives are used . The retention factors between novel eluent additives and conventional ones like ammonium acetate and ammonium bicarbonate at different eluent pH values were compared . A simple set of drug like molecules widely spread over different logP values containing protonated and deprotonated acids and bases was selected for this investigation . HFIP HFTB NFTB and PP demonstrated strong influence on basic polar analytes in basic medium . These additives drastically increased retention . A decrease in retention was observed for acidic analytes when novel eluent additives were used . Additionally for the first time the absolute pH pH
+
+@highlight Introduction of 5 novel volatile compounds as eluent additives.
+@highlight Insights to retention mechanisms with ion pairing fluorinated eluent additives.
+@highlight Fluorinated eluent additives aid the retention of bases but reduce it for acids.
+@highlight Promising perspective for drug analysis using LC MS.

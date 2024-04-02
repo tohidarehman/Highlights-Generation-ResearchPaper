@@ -1,0 +1,6 @@
+ The structural and dynamical properties of nimodipine confined in silica matrix were studied by means of molecular dynamics simulations as a function of pore filling . Nimodipine molecules are connected with the silica surface via different types of hydrogen bonds which have different average lifetimes . The interaction with the silica surface inhibits the translational diffusion while for molecules situated in the center of the channel translational diffusion is clearly observed even if slow . The silica surface and the presence of additional layers of molecules in the pore also influence significantly the internal mobility as determined by the reorientation of the methyl groups and the molecular chains . As the different degree of pore filling can not be easily explored experimentally molecular dynamics simulations gave unique access to the analysis of how the structure and dynamics of confined nimodipine depend on this parameter .
+
+@highlight Molecular dynamics simulations of nimodipine confined in silica matrix as a function of pore filling.
+@highlight The investigation of intermolecular drug drug and drug silica surface interactions.
+@highlight The characterization of the structural and dynamical behavior of confined nimodipine.
+@highlight The influence of silica surface and layers of nimodipine molecules on their mobility.

@@ -1,0 +1,8 @@
+ The inorganic carrier transport layers are robust and stable to the environment compared to the organic hole transport layer . Here we report on the fabrication of the halide perovskite solar cells employing CuI deposited with ammoniated aqueous solution ink as HTL and explored the material properties and device characteristics . The film morphology of CuI is found to have an influence on the HaP film growth and hence effects on the device parameters . The HaPSC with CuI has demonstrated the power conversion efficiency of 14.21 with high reproducibility . The capacitance spectra analysis shows that the deep trap states are induced in the perovskite absorber layer . The results obtained from the temperature dependent open circuit voltage implicates that the recombination activities in the perovskite bulk are dominant . Furthermore the HaPSC with CuI has revealed better air stability compared to the device with PEDOT PSS . This work suggests that the CuI processed with aqueous precursor is a promising alternative HTL to PEDOT PSS for efficient and stable perovskite solar cells as well as in a tandem device .
+
+@highlight The CuI films were prepared by aqueous precursor solution under ambient condition.
+@highlight The perovskite film quality is affected by morphology of the CuI film.
+@highlight The MAPbI
+@highlight based device with aqueous processed CuI as HTL demonstrate best efficiency of 14.21 .
+@highlight The capacitance analysis revealed deep defect states induced in perovskite bulk layer.
+@highlight The device with CuI found to be stable than the device with PEDOT PSS.

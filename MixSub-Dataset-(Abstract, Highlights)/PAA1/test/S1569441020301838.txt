@@ -1,0 +1,6 @@
+ In this work we introduce a four green light wavelength splitter device based on six slot waveguide structures . Silica and gallium nitride materials were chosen for confining the green light inside the slot waveguide area in a transverse magnetic field mode . The device functioned as a 1 4 demultiplexer which demultiplexes wavelengths in the green light band with wavelength range of 500530 nm with an accurate spacing of 10 nm . The coupling between the six slot waveguide units was analyzed using the classical mode theory and the full vectorial beam propagation method . Simulation results showed that the four wavelengths could be demultiplexed after a short coupling length of 106.5 m with low losses around 0.1080.127 dB full width at half maximum around 8.999.39 nm and excellent crosstalk around 21.13 to 24.1 dB . The device has the potential to increase data bitrate by utilizing the wavelength division multiplexing technique in visible light communication systems .
+
+@highlight A green light wavelength demultiplexer is based on six slot waveguide units.
+@highlight Green light wavelengths can be demultiplexed after light propagation of 106.5 m.
+@highlight Excellent crosstalk of 21.13 to 24.1 dB and low losses of 0.1080.127 dB.
+@highlight The device can be very useful to improve the performance of WDM VLC systems.

@@ -1,0 +1,10 @@
+ Experimental works have shown that decoration of noble metals on the metal oxides significantly increases their sensitivity toward different gases . In this work density functional theory calculations were used to explore the effect of Pd decoration on the sensitivity of a ZnO nanotube toward formaldehyde gas . We showed that the pristine ZnO nanotube physically adsorbs the HCHO gas with adsorption energy of 8.0kcal mol with no impact on the conductivity of ZnO . The response of pristine ZnO nanotube to HCHO gas was calculated to be 0.04 which it was increased to 102.55 by the Pd decoration . The Pd atom catalyzes the following reaction O2 HCHO CO2 H2O by facilitating the OO bond dissociation and passing through an energy barrier of 5.1kcal mol at 298K . This reaction is the origin of the resistivity change of PdZnO nanotube because of the electron donation and back donation processes between the reactants and the ZnO surface . Also a short recovery time of 12ms was predicted for PdZnO nanotube based sensor . The results indicate that the PdZnO nanotube is a promising material for application in the HCHO gas sensors .
+
+@highlight ZnO nanotube physically adsorbs the HCHO gas with adsorption energy of 8.0kcal mol.
+@highlight The response of pristine ZnO nanotube to HCHO gas was calculated to be 0.04.
+@highlight The Pd atom catalyzes the following reaction O
+@highlight  HCHO . CO
+@highlight  H
+@highlight O.
+@highlight A short recovery time of 12ms was predicted for PdZnO nanotube based sensor.
+@highlight PdZnO nanotube is a promising material for application in the HCHO gas sensors.

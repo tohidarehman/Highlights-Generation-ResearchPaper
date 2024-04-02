@@ -1,0 +1,7 @@
+ This paper quantifies the causal impact of differential pricing on the trip scheduling of regular commuters using the Mass Transit Railway in Hong Kong . It does so by applying a difference in difference method to large scale smart card data before and after the introduction of the Early Bird Discount pricing intervention . We find statistically significant but small effects of the EBD in the form of earlier departure times . Leveraging the granularity of the data we also allow for the treatment effect to vary over observed travel characteristics . Our empirical results suggest that fares and crowding are the key determinants of commuter responsiveness to the EBD policy .
+
+@highlight Estimated the causal economic impact of an off peak fare discount in Hong Kong.
+@highlight Applied the difference in difference method to control for confounding bias.
+@highlight Found the aggregate effect to be small but statistically significant and heterogeneous.
+@highlight Responsiveness was governed by travel costs and crowding.
+@highlight Produced novel causal estimates of trip rescheduling elasticities.

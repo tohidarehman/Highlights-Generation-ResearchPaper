@@ -1,0 +1,6 @@
+ Renewable energy sources primarily employ power electronic converters to deliver their energy to the grid . These converter based distributed generators have a fault behaviour different from conventional generators capable of compromising the reliability of traditional protection schemes . This paper investigates the fault behaviour of CBDGs by presenting both an analytical steady state model and a numerical transient simulation model developed in MATLAB Simulink . Using these models the impact of grid code requirements regarding reactive current injection during faults is analyzed . The results underline that different modelling techniques can support the design of grid codes .
+
+@highlight Transient and steady state power electronic converter models are proposed.
+@highlight Fault current contribution of converters is analysed with the proposed models.
+@highlight Influence of grid code requirements on the converters fault behaviour is assessed.
+@highlight Negative sequence requirements have a major influence on the fault behaviour.

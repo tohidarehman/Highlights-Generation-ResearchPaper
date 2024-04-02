@@ -1,0 +1,7 @@
+ This paper investigates the dynamic causal relationship between revenue diversification and bank market power using a broad sample of commercial banks from 17 Middle Eastern and North African countries over the period 19932014 . To do so we employ the panel vector autoregression approach in a generalized method of moments framework . Moreover we use the impulse response functions tool to better understand the reaction of bank market power aftershocks on revenue diversification and vice versa . Finally we supplement our analysis by the forecast error variance decompositions of our variables . Overall the results show that the level of bank market power declines in response to positive revenue diversification shocks . Conversely banks with a higher level of market power get more involved in non traditional activities .
+
+@highlight The dynamic interaction between revenue diversification and bank market power is examined.
+@highlight A sample of commercial banks from MENA countries over the period 19932014 is used.
+@highlight The panel vector autoregression PVAR model in a Generalized Method of Moments GMM framework is employed.
+@highlight There is a bidirectional causality between revenue diversification and bank market power.
+@highlight New insights on the bank market power revenue diversification nexus are detailed.

@@ -1,0 +1,6 @@
+ This study evaluates the applicability of a method based on the direct injection of a large volume of water samples to identify and quantify 34 priority and emerging substances most of them discussed in Directive 2013 39 EU on priority substances in the field of water policy and Decision 2018 840 EU . The method directly injects 500L of filtered water sample and so does not use a pre concentration step . The method was satisfactorily validated for influent and effluent water from a drinking water treatment plant at three concentrations 1 10 and 100ngL
+
+@highlight The method developed is based on direct injection of 500 L of sample without pre treatment of the sample.
+@highlight Signal suppression due to matrix effects was observed for most of target analytes.
+@highlight The use of matrix matched calibration curves allowed an accurate and precise quantification of target analytes in samples.
+@highlight MDLs obtained with LVDI comply with the MDLs stipulated in Directive 2013 39 EU except for E1 E2 and EE2.

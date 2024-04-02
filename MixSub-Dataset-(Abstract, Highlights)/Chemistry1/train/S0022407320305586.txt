@@ -1,0 +1,6 @@
+ Estimates of atmospheric carbon dioxide concentration from satellites now span multiple years and are providing information on key processes in the carbon cycle . Methodology for retrieving CO
+
+@highlight Uncertainties in trace gas spectroscopy impact bias and variance of satellite retrievals of carbon dioxide.
+@highlight Linear error analysis propagates parameter uncertainty to error estimates for retrieved quantities.
+@highlight Spectroscopic model choices for O2 and CO2 result in XCO2 error estimates that vary in space and time.
+@highlight Errors in laboratory conditions result in nearly constant XCO2 error estimates.

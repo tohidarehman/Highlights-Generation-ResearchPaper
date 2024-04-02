@@ -1,0 +1,6 @@
+ We reviewed the tools of quantum physics used in modeling of quantum coherence effects in different systems including biological systems which behave as quantum objects in some of their degrees of freedom . In particular we considered the usage of the effective Hamiltonian Greens function and density matrix methods in the analysis of QC focusing on QC in biological systems . We discussed the two main mechanisms of loss of quantum state coherence
+
+@highlight Theoretical methods for quantum coherence dynamics in biology reviewed.
+@highlight Namely effective Hamiltonian EH Greens function and density matrix methods.
+@highlight Quantum coherence dynamics in photosynthesis brain and vision discussed.
+@highlight The EH method recommended for interpreting quantum coherence effects in biology.

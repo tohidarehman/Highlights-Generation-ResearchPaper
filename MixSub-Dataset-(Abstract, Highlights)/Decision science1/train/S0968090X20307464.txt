@@ -1,0 +1,7 @@
+ Automation and electrification are inevitable trends in the development of intelligent vehicles . It is envisioned that automated electric taxis will play an important role in future transportation systems for serving personalized travel demands . To tackle the operational challenges caused by the high spatiotemporal heterogeneity of customer demands entails novel online strategy to intelligently manage AET fleet . This study proposes an
+
+@highlight Automated electric taxis.
+@highlight Online operations.
+@highlight High spatiotemporal heterogeneity of customer demands.
+@highlight A two step reinforcement learning framework.
+@highlight A combinational optimization.

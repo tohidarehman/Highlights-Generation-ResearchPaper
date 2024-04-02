@@ -1,0 +1,6 @@
+ Fibre reinforced polymeric composites bonded with epoxy adhesives often fail ungraciously manifesting fibre tear failure due to the edge peel stresses . This research work proposes phenol formaldehyde based hyperelastic adhesive as a compliant adhesive for tailoring the single lap joints consisting of GFRP adherends and well toughened epoxy adhesive joints . The failure strength of the AF3109 and EA9696 adhesive joints is increased by 51.64 and 24.25 respectively by having 20 volume of compliant adhesive in the bond line . Finite element simulations with Exponential Drucker Prager and Marlow strain energy models are carried out to simulate the experimental load displacement response . Different failure mechanisms and the influence of adhesive intermingling are revealed by the failure analysis . Finally a failure mode map for the tailored adhesive joints is proposed in terms of normalised strength ratio and the normalised volume of the compliant adhesive .
+
+@highlight Hyperelastic adhesive HA used for tailoring GFRP composite epoxy adhesive joints.
+@highlight Joints were experimentally tested simulated using EDP Marlow models in FE.
+@highlight First ply failure of composite changed to cohesive failure due to tailoring.
+@highlight A failure mode map in terms of normalised joint strength with HA vol is proposed.

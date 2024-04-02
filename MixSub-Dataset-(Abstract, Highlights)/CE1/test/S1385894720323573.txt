@@ -1,0 +1,6 @@
+ Tars are one of the main barriers for the implementation of biomass gasification at industrial scale . Among the considerable number of models to predict gas composition there is a lack of models predicting tar generation in gasification processes as tar concentration data is far more difficult to collect and analyze . This study makes use of artificial neural networks to predict tar generation in gasification processes carried out in lab scale bubbling fluidized bed reactors operating with silica sand and woody biomass . An exhaustive review of the existing literature and the different tar collection and analysis methods is conducted to create a consistent database for the ANNs to train on . The model integrates different tar data coming from different sampling protocols and analysis methods . The predicted results show good accuracy R
+
+@highlight ANNs are used to predict tar generation in biomass gasification processes in BFBs.
+@highlight Different tar sampling methods are considered.
+@highlight A large number of experimental data are used for the network training and validation.
+@highlight ANNs differentiates between the different sampling techniques predicting tar content accurately.

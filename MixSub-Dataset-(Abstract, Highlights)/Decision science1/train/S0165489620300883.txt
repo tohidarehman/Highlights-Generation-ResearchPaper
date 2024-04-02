@@ -1,0 +1,7 @@
+ In this paper we study the solution concept of value in transferable utility games with asymmetric information . In our model contingent contracts are required to be incentive compatible and thus utility might not be not fully transferable . Our approach differs from the standard methodology of TU games with complete information which summarizes the cooperative possibilities through the characteristic function . Instead we consider a model in which monetary transfers are modeled as additional sidepayments in a non transferable utility game . Our main result states that
+
+@highlight We study the Shapley value of transferable utility games with asymmetric information.
+@highlight Monetary transfers are modeled as additional sidepayments in an NTU game.
+@highlight In our model contracts are required to be incentive compatible.
+@highlight Monetary transfers may be bounded because of incentive compatibility.
+@highlight The value cannot be described by a simple formula as under complete information.

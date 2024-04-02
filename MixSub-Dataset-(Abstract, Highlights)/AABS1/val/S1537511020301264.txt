@@ -1,0 +1,7 @@
+ In precision agriculture autonomous ground and aerial vehicles can lead to favourable improvements in field operations extending crop scouting to large fields and performing field tasks in a timely and effective way . However automated navigation and operations within a complex scenarios require specific and robust path planning and navigation control . Thus in addition to proper knowledge of their instantaneous position robotic vehicles and machines require an accurate spatial description of their environment . An innovative modelling framework is presented to semantically interpret 3D point clouds of vineyards and to generate low complexity 3D mesh models of vine rows . The proposed methodology based on a combination of convex hull filtration and minimum area
+
+@highlight Semantic interpretation of 3D point clouds of vineyards.
+@highlight Generation of low complexity 3D mesh models of vine rows from raw 3D point clouds.
+@highlight Modelling framework drastically reduced data without losing crop shape information.
+@highlight Data reduction crucial for rapid communication between in field actors.
+@highlight Real time operation vital for cooperating machines and robots.

@@ -1,0 +1,6 @@
+ Modern day Connected and Autonomous Vehicles with more than 100 million code lines running up to a hundred Electronic Control Units will create and exchange digital information with other vehicles and intelligent transport networks . Consequently ubiquitous internal and external communication within all CAV related nodes is inevitably the gatekeeper for the smooth operation . Therefore it is a primary vulnerable area for cyber attacks that entails stringent and efficient measures in the form of cybersecurity . There is a lack of systematic and comprehensive review of the literature on cyber attacks on the CAVs respective mitigation strategies anticipated readiness and research directions for the future .
+
+@highlight Critical areas identified for Connected Autonomous Vehicles CAVs in combating cyber attacks.
+@highlight Integrated CAVs communication framework is developed for potential cyber attacks.
+@highlight Consolidated details of the cyber attacks on the CAVs in the Intelligent Transport System are presented.
+@highlight Mitigation strategies for CAVs cyber attacks along with future directions are discussed.

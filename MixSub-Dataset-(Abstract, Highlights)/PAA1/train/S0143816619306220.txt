@@ -1,0 +1,7 @@
+ Achieving clear imaging through fire is a highly pursued goal and various active field portable devices have been recently proposed to improve the capabilities of existing thermographic cameras . Here we combine an Infrared active imaging sensor and artificial intelligence to obtain automatic detection of people hidden behind flames . We show the successful use of a pre trained Convolutional Neural Network in recognizing a static or moving person through fire when this is imaged by the proposed system . Remarkably the network is able to detect the person even in the case the imaging system we propose can not reject the flame disturbance in full thus improving its robustness . These results pave the way to the development of automatic surveillance systems able to generate alerts in the case a fire spreads and persons are detected inside rooms invaded by flames without relying on the subjective human interpretation of the videos .
+
+@highlight Portable active Infrared imaging sensor can spot static or moving targets through smoke and flames.
+@highlight Deep learning architecture is used to automatically identify the presence of people through fire.
+@highlight Field portability real time imaging and unassisted image analysis are demonstrated.
+@highlight The device could be employed by first responders on the fire scene.
+@highlight The device could be a new video surveillance system providing enhanced vision through obscurants.

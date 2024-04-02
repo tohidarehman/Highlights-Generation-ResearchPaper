@@ -1,0 +1,7 @@
+ Currently breast cancer diagnosis is an extensively researched topic . An effective method to diagnose breast cancer is to use histopathological images . However extracting features from these images is a challenging task . Thus we propose a method that uses phylogenetic diversity indexes to characterize images for creating a model to classify histopathological breast images into four classes invasive carcinoma in situ carcinoma normal tissue and benign lesion . The classifiers used were the most robust ones according to the existing literature XGBoost random forest multilayer perceptron and support vector machine . Moreover we performed content based image retrieval to confirm the classification results and suggest a ranking for sets of images that were not labeled . The results obtained were considerably robust and proved to be effective for the composition of a CADx system to help specialists at large medical centers .
+
+@highlight This work proposes a method using texture features to diagnose breast cancer.
+@highlight The images are from a public database containing 400 images labeled by experts.
+@highlight Phylogenetic indexes are unprecedented form of representation of histopathological images.
+@highlight For images not labeled we use CBIR to rank the image classes.
+@highlight The method achieved an accuracy of 95.0 in 4 classes which outperform the literature.

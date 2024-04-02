@@ -1,0 +1,5 @@
+ The influences of Gene expression levels in rectum adenocarcinoma and adjacent tissues were analyzed by differential analysis . Weighted gene correlation network analysis was employed to investigate rectal adenocarcinoma hub genes . MCODE was performed to screen the modules of proteinprotein interaction network in Cytoscape software . Database for Annotation Visualization and Integrated Discovery online tool is considered to be the most effective tool in gene ontology enrichment and Kyoto Gene and Genomics Encyclopedia pathway analysis . Survival analysis was performed using READ patient information from TCGA READ project database . Quantitative Real time Polymerase Chain Reaction and western blot were employed Higher expression levels of promoted proliferation migration and invasion but inhibited apoptosis of rectal adenocarcinoma cells while
+
+@highlight MZB1 inhibited rectum adenocarcinoma cell development on the contrary.
+@highlight promoted the development of rectum adenocarcinoma.
+@highlight The study might provide a new therapeutic target for rectum adenocarcinoma.

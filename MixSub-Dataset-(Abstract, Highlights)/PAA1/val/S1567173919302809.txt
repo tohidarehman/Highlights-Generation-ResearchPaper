@@ -1,0 +1,5 @@
+ A proof of concept method for measuring cardiac tissue contraction force using an in house developed piezoelectric cantilever sensor system is demonstrated . Contracting forces of 7.216.6N were measured from a human cardiac tissue construct . Beating cardiac tissue constructs were monitored in situ under a microscope during the contraction force measurements . Development of the measurement method allows very low forces such as the ones that appear in biological small scale systems to be determined .
+
+@highlight Direct measurement of contraction force of cardiac tissue construct.
+@highlight Contracting forces of 7.216.6N measured from human cardiac tissue construct.
+@highlight In house developed piezoelectric cantilever sensor based measurement method.

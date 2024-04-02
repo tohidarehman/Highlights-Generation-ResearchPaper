@@ -1,0 +1,9 @@
+ Octopamine is a neurotransmitter in invertebrates and a phenol analog of norepinephrine . The crystallographic and spectral characteristics of octopamine were investigated experimentally and theoretically by applying appropriate level of theory B3LYP D3BJ 6 311 G which reproduced well the experimental bond lengths and angles . The intramolecular interactions governing the stability of conformers were described by NBO and QTAIM analyses . The antiradical potencies of octopamine and norepinephrine towards DPPH
+
+@highlight A suitable level of theory for the description of octopamine is B3LYP D3BJ 6311G d p .
+@highlight Additional OH group influences the scavenging reaction rates and thermodynamics.
+@highlight The dominant mechanism of DPPH
+@highlight and ABTS
+@highlight scavenging is SPLET.
+@highlight Additional bonds are present in 1 2 adrenergic receptors norepinephrine complex.
+@highlight Protein complexes have similar flexibility interatomic distances and compactness.

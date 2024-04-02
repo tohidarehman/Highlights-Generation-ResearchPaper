@@ -1,0 +1,5 @@
+ In this study a device design of single gated feedback field effect transistors is proposed to achieve latch up behaviors with high current gains . The latch up mechanism is examined by conducting an equivalent circuit analysis and the band diagram
+
+@highlight A design method of single gated FBFETs is proposed.
+@highlight The latch up mechanism is examined by conducting an equivalent circuit analysis.
+@highlight The superior device characteristics open the promising possibility of FBFETs.

@@ -1,0 +1,7 @@
+ Corneal opacities affect vision for millions of individuals worldwide . Fibrotic scar tissues accumulate in reaction to inflammatory responses and remain permanently in corneal stroma and conventionally correctable only by donor corneal transplantation . Numerous studies have explored innovative approaches to reverse corneal scarring through non surgical means however existing mouse models limit these studies due to the lack of visibility of scar tissue in mouse corneas with steep curvature . Here we reported that corneal scarring was modelled using a transgenic mouse line TgDJ124Gsat in which enhanced green fluorescence protein reporter expression was driven by the promoter of collagen 3a1
+
+@highlight Corneal scarring of Tg Col3a1 EGFP DJ124Gsat mice was similar as wildtype mice.
+@highlight EGFP expression was aligned with
+@highlight upregulation after corneal injuries.
+@highlight EGFP expressing cells and fluorescent intensity were correlated to corneal scarring.
+@highlight Tg COL3a1 EGFP DJ124Gsat mice allow real time assessment of corneal scarring.

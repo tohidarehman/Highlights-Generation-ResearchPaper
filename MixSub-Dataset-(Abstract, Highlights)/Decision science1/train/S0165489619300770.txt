@@ -1,0 +1,6 @@
+ This paper deals with rules that specify the collective acceptance or rejection of a proposal with several dimensions . We introduce the notions of separability and weightedness in this context . We provide a partial characterization of separable rules and show the independence between separability and weightedness .
+
+@highlight The decision structures aggregate the opinions of voters on several dimensions.
+@highlight Characterization of weighted multi dimensional rules is provided.
+@highlight Some multi dimensional rules are represented by a combination of single dimension rules.
+@highlight Links to the referendum paradox and the Ostrogorski paradox are made.

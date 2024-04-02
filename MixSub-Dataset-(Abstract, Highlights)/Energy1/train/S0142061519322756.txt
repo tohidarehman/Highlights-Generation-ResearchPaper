@@ -1,0 +1,7 @@
+ The couplings between different types of energy networks are receiving increasing attention especially in distribution networks . One of the fundamental topics of interest is the dynamic coupling between power grids and gas networks . To study dynamics in gas pipelines and the interaction between gas networks and electric power grids dynamic modeling of gas networks gives the foundation . Commercial software is available and mature but has flaws time consuming simulation and complex implementation and the interface to electric power grids is not friendly . In this paper transfer functions are used to model a single pipeline . To model a gas network with multiple pipelines a universal networking method is proposed . The accuracy of transfer function models are thoroughly examined under step and sinusoidal excitations and the influence factors of accuracy is investigated . The adaptability of TF models is then quantitated by reference curves . Finally the proposed modeling approach is applied in analyzing a gas electricity system to test its capabilities .
+
+@highlight A flexible dynamic model and a universal networking method of gas networks.
+@highlight Fully and quantitatively discussions on model accuracy and its influence factors.
+@highlight Simple application evaluation by a practical energy internet case.
+@highlight The model is easy to implement and can greatly enhance simulation speed.
+@highlight The model is particularly fit for studies of gas electricity coupling.

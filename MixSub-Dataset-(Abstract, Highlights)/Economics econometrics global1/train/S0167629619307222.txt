@@ -1,0 +1,7 @@
+ We elicit time and risk preferences for kidney transplantation from the entire population of patients of the largest Italian transplant centre using a discrete choice experiment . We measure patients willingness to wait for receiving a kidney with one year longer expected graft survival or a low risk of complication . Using a mixed logit in WTW space model we find heterogeneity in patients preferences . Our model allows WTW to vary with patients age and duration of dialysis . The results suggest that WTW correlates with age and duration of dialysis and that accounting for patients preferences in the design of kidney allocation protocols could increase their welfare . The implication for transplant practice is that eliciting patients preferences could help in the allocation of non ideal kidneys .
+
+@highlight Kidney transplant KT offers advantages over dialysis in end stage renal disease.
+@highlight Patients preferences are largely ignored in kidney allocation algorithms.
+@highlight We elicit patients preferences for KT in Italys largest transplant centre.
+@highlight We find evidence of heterogeneity in patients time and risk preferences.
+@highlight Willingness to wait depends on patients age and duration of dialysis treatment.

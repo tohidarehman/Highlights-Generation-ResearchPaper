@@ -1,0 +1,6 @@
+ The high spread of Internet and social networks have completely changed the way that Group Decision Making methods are designed developed and implemented . Experts now operate in environments where a large amount of information is available and new ideas and participants can appear at any time this results in a dynamically changing decision environment . In this paper a novel group decision making method for dynamic contexts with a high number of decision alternatives is presented . As the main component of the proposal a perceptual computing scheme is used in order to extract information from the experts . In the process sentiment analysis is used when analyzing the debate texts in order to obtain information for selecting the best alternatives on each round . Moreover interval type 2 hesitant Fuzzy Ontologies are used in order to store the information related to alternatives . By combining interval type 2 and hesitant fuzzy sets imprecise information can be represented in a comfortable and intuitive way within the ontology .
+
+@highlight A novel Group Decision Making model for high number of alternatives.
+@highlight Sentiment analysis is used for extracting information directly from debate.
+@highlight A novel fuzzy ontology model is presented.
+@highlight Interval type 2 fuzzy sets are used for increasing flexibility in representation.

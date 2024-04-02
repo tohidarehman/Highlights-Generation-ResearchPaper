@@ -1,0 +1,5 @@
+ The effect of temperature on the liquid metal embrittlement susceptibility of an Fe10Cr4Al ferritic alloy exposed to stagnant oxygen depleted lead bismuth eutectic was investigated using slow strain rate tensile tests . The results show that the total elongation to rupture of the specimens tested in LBE decreases with increasing temperature from 150 to 350C while an upward trend is observed in the temperature range of 350500C . Such a strong temperature dependence is called a ductility trough . This phenomenon is not observed in the specimens tested in Ar reference environment . Fractographic examinations reveal that LME occurs at 150 up to 450C and ductility fully recovers only at 500C . In addition transgranular cleavage and intergranular cracking are the major fracture modes on the fracture surfaces affected by LME .
+
+@highlight A ductility trough is found and the alloy is embrittled at 150450C.
+@highlight Ductility recovers only at 500C.
+@highlight Cleavage and intergranular cracking are the major LME failure modes.

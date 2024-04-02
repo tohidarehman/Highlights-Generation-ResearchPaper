@@ -1,0 +1,7 @@
+ We consider a model of optimal price regulation in markets where demand is sluggish and asymmetric providers compete on quality . Using a spatial model which is suitable to investigate the health care and education sector we analyse within a dynamic set up the scope for price premiums or penalties on volume . Under the assumption of symmetric cost information we show that the socially optimal time path of quality provision off the steady state can be replicated by a simple dynamic pricing rule where the dynamic part of the rule is
+
+@highlight We study price regulation in markets with quality competition and sluggish demand.
+@highlight Prime examples are markets for health care or education.
+@highlight Socially optimal quality provision can be induced with a simple dynamic price rule.
+@highlight Under high production cost convexity the optimal price penalises higher volume.
+@highlight Under low production cost convexity the optimal price rewards higher volume.

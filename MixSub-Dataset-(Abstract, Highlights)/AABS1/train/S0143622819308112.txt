@@ -1,0 +1,6 @@
+ Humanwildlife conflict is a growing concern for local communities living in the vicinity of protected areas . These conflicts commonly take place as attack by wild animals and crop raiding events among other forms . We studied crop raiding patterns by non human primates in forestagricultural landscape mosaic in the Taita Hills southeast Kenya . The study applies both qualitative and quantitative methods . Semi structured questionnaire was used in the primary data collection from the households and statistical tests were performed . We used applied geospatial methods to reveal spatial patterns of crop raiding by primates and preventive actions by farmers . The results indicate most of the farms experienced crop raiding on a weekly basis . Blue monkey
+
+@highlight We analyse households vulnerability to crop raiding by primates using GIS and household surveys.
+@highlight We used applied geospatial methods to reveal spatial patterns of crop raiding by primates and preventive actions by farmers.
+@highlight Thiessen polygons showed primate crop raiding spatial patterns.
+@highlight Additional work is needed to analyse primate crop raiding spatial patterns with multiple geospatial modelling techniques.

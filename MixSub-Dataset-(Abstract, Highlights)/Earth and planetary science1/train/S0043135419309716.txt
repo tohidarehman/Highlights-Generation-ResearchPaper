@@ -1,0 +1,9 @@
+ Bacterial contamination of drinking water is a considerable concern for public health . Tryptophan like fluorescence has been widely suggested to enable fast and inexpensive monitoring and quantification of bacterial contamination of water . Typically TLF is determined at a certain excitation emission wavelengths pair . The aim of this study was to assess fluorescence spectroscopy supported with partial least squares algorithms as a tool for a rapid evaluation of the microbial quality of water by comparing the use of a single ex em wavelengths pair of the spectrum of emission obtained at a single excitation wavelength to that of whole excitation emission matrices . For that laboratory grown
+
+@highlight PLS guided EEMs improve prediction of bacterial concentrations in water.
+@highlight Detection threshold as low as 10CFU ml was reached.
+@highlight and
+@highlight are differentiated at 10
+@highlight CFU ml.
+@highlight Variable water compositions may increase the threshold of bacterial detection.
+@highlight Large sets of excitation emission wavelengths are superior for bacterial detection.

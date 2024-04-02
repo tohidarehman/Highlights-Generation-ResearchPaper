@@ -1,0 +1,10 @@
+ The Jarvis canopy resistance sub model is commonly used in transpiration modelling although its optimal structure is rarely studied . It is still not fully clear that to what extent transpiration modeling may differ if using different constraint function forms for key environmental variable in Jarvis sub model . In this study various Jarvis canopy resistance sub model configurations were embedded in the Penman Monteith model to compare their ability to model daily transpiration of rain fed jujube
+
+@highlight Various constraint functions of environmental factors were used in Jarvis model.
+@highlight Their ability to model daily transpiration of jujube orchard 
+@highlight  was compared.
+@highlight Bayesian approach rather than traditional method was used for model comparison.
+@highlight Different constraint functions of soil water achieved different
+@highlight model performance.
+@highlight Including soil water in Jarvis model was not always improved
+@highlight model performance.

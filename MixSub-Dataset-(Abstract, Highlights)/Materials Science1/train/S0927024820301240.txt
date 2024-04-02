@@ -1,0 +1,7 @@
+ The control of defect multiplication in the upper part of seed assisted multicrystalline silicon also called as high performance multi crystalline silicon has become crucial for the further improvement of multicrystalline silicon crystal quality . This work investigates the impact of the temperature gradient at solid liquid interface on the defect multiplication and solar cell performance . To get the in time temperature gradient at solid liquid interface an equation and an experiment method were developed . It is found that the multiplication rate at the upper ingot is strongly relevant to the temperature gradient at solid liquid interface . After modifying the temperature gradient the defect density in the upper part of ingot is reduced about 40 and the solar cell efficiency increases averagely about 0.07 . Finally the mechanism and control of defect multiplication were discussed .
+
+@highlight A model evaluating thermal gradient at S L interface was given.
+@highlight Industrial mc Si ingots were grown with different thermal gradients.
+@highlight The quality of mc Si was improved through modifications at upper parts.
+@highlight Defect propagation velocity shows a linear relationship with thermal gradient.
+@highlight The model and experimental results are applicable for industrial growth.

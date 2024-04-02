@@ -1,0 +1,7 @@
+ This paper focuses on two fundamental issues in traffic flow modelling string stability of car following and oscillation of traffic flow . Its aim is to explore the complementary use of CF instability analysis and oscillation analysis to compress and ease traffic congestion in a connected environment . Each of these topics has been extensively investigated in the literature . However each topic has been investigated separately and despite the inherent conceptual and empirical closeness of the two concepts little effort has been devoted to untangling their relationship .
+
+@highlight Established the relationship between car following instability and traffic oscillation.
+@highlight Categorized oscillation into four types.
+@highlight Developed oscillation criteria by modifying the stability criteria.
+@highlight Demonstrated the impact of the stability profile of connected and automated vehicles CAVs on oscillation.
+@highlight Found promising CAV parameters for improving stability and smoothing oscillation.

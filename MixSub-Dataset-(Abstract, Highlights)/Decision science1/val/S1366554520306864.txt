@@ -1,0 +1,6 @@
+ This paper analyses a multi period single item repairable inventory system with stochastic new and warranty demands . We assume that newly procured items are indistinguishable from items repaired from repairable warranty returns and new demand has higher priority than warranty demand within a period . Our model also captures the repair loss in repairing returns in each period . We formulate the problem by a dynamic programme and prove that the optimal policy is completely defined by three period dependent thresholds the purchase up to level the repair up to level and the scrap down to level . Numerical results demonstrate the effectiveness of the optimal policy and show that our optimal strategy outperforms the repair all strategy and no repair strategy . Managerial insights are also generated .
+
+@highlight A multi period single item repairable inventory system with stochastic new and warranty demands is studied.
+@highlight The problem is formulated by a dynamic programme.
+@highlight The optimal policy is completely defined by three period dependent thresholds.
+@highlight Computation results show that our optimal strategy outperforms the repair all strategy and no repair strategy.

@@ -1,0 +1,7 @@
+ Oxygen limitation under submerged condition induces hypoxic stress and causes a metabolic shift from aerobic respiration to anaerobic fermentation . Submergence stress often limits plant growth and causes substantial yield loss . The present small RNA transcriptome study aims to identify and characterise submergence responsive miRNAs to delineate the response mechanisms of maize seedlings to complete submergence . In this study we constructed two sRNA libraries from control and submerged maize roots . Deep sequencing revealed 524 known and 48 novel miRNAs from two libraries . Out of 188 commonly expressed known miRNAs 45 miRNAs were found to be differentially expressed in maize roots upon submergence . Submergence responsive miRNAs were found to be associated with diverse biological processes such as plant growth and development hormone signalling pathways redox homeostasis miRNA biogenesis chromatin remodeling and protein transport . Moreover dynamic correlations between selected miRNAs and their target genes were validated by qRT PCR . The miR172a mediated upregulation of
+
+@highlight Study highlights the roles of miRNAs in submergence response mechanism in maize.
+@highlight Deep sequencing revealed 524 known and 48 novel miRNAs from two sRNA libraries.
+@highlight We identified 43 down and 2 up regulated known miRNAs from submerged roots.
+@highlight Dynamic correlations between miRNAs and their targets were validated by qRT PCR.
+@highlight Submergence stress induced modulation of antioxidant defense system was studied.

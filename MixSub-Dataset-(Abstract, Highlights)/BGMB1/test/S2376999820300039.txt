@@ -1,0 +1,6 @@
+ The accurate measurement of androstenedione in human serum and plasma is required for steroid profiling to assure the appropriate diagnosis and differential diagnosis of hyperandrogenism . In this work we introduce an isotope dilution liquid chromatographytandem mass spectrometry candidate reference measurement procedure for the quantification of androstenedione in human serum and plasma . The performance of the procedure enables its use in the evaluation and standardization of routine assays and for the evaluation of patient samples to ensure the traceability of individual patient results . As the primary standard a certified reference material from NMIA was used . Additionally a quantitative nuclear magnetic resonance method was developed for the value assignment of the primary reference material which ensures the direct traceability to SI units as well as the independence from the availability of reference materials .
+
+@highlight LC MS MS based candidate reference method for the quantification of androstenedione.
+@highlight Certified reference material from NMIA with additional qNMR characterization.
+@highlight Uncertainty evaluation according to the GUM 1995.
+@highlight Inter laboratory comparison study and comparison to a routine LC MS MS assay.

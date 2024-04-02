@@ -1,0 +1,9 @@
+ A detailed computational fluid dynamics model has been developed in this study for the water gas shift of untreated biogas reformate in both fixed bed and membrane reactors to gain insights into the interaction of 3Ni5Cu Ce
+
+@highlight Water gas shift of untreated biogas reformate gas in fixed bed and membrane reactors.
+@highlight CFD results are in agreement with experimental findings with an AAD of less than 10 .
+@highlight Steam to carbon ratio of 3.4 boosted CO conversion and reduced reactor temperature.
+@highlight Membrane reactor enabled equilibrium conversion at 2.95
+@highlight None
+@highlight gcat.h mol CO weight time.
+@highlight Equilibrium conversion attained at lower weight time and high steam to carbon ratio.

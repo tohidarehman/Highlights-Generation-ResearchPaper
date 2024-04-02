@@ -1,0 +1,8 @@
+ Si is a promising candidate for next generation anode materials in lithium rechargeable batteries as it has a high theoretical specific capacity . However mechanical damage due to volume changes during electrochemical cycling and low electrical conductivity are critical limitations for practical anode applications . Herein a novel microscale 2D active material with alternating layers of Si and silicon oxide is developed and its energy storage properties are investigated by fabricating a composite anode with conventional graphite . The composite anode shows improved specific capacity by the introduction of veneer shaped Si microparticles and 88 capacity retention after 200 chargedischarge cycles . The adequate thickness of the layers and the repeating buffering layer existence in the high aspect ratio microscale particles that mimic a 2D nanostructure minimized the volume changes of the Si based electrode during cycling while achieving high electrical conductivity . This strategy can provide fundamental breakthroughs in overcoming the existing limitations of Si based materials for the development of high energy density active materials for Li batteries .
+
+@highlight Fabrication of alternating Si and SiO
+@highlight veneer type particles for the first time using PECVD.
+@highlight Si with SiO
+@highlight buffer layer enable prevention of pulverization due to severe volume change during charge discharge cycles.
+@highlight Synergistic effect of P doping and 2D structure significantly increase conductivity and Li
+@highlight diffusion.

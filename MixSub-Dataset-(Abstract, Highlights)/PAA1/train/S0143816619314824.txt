@@ -1,0 +1,7 @@
+ As one of the most popular techniques for non contact three dimensional sensing imaging fringe projection profilometry has been growing rapidly over the past decades partially because of the improved speed of computing devices and reduced cost of hardware . 3D optical sensing has started being an integral part of our daily lives such as Face ID enabled by 3D sensors on smart phones . The impact of such techniques can be even greater with the ever growing artificial intelligent machine learning smart manufacturing robotics as well as other fields . However there are still fundamental challenges to be tackled to make such advanced optical sensing techniques ubiquitous . This paper presents the current status of FPP techniques the major challenges still facing in the field and our perspectives on the future of FPP techniques .
+
+@highlight Explained the basic principles of structured light technologies.
+@highlight Reviewed the various aspects of fringe projection techniques for 3D imaging.
+@highlight Showed successes of applying fringe projection based 3D imaging for scientific industrial and societal applications.
+@highlight Presented challenging aspects through some concrete examples.
+@highlight Casted our own view on the future of this field.

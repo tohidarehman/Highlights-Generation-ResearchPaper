@@ -1,0 +1,9 @@
+ Unmanned aerial vehicle borne hyperspectral systems can acquire hyperspectral imagery with a high spatial resolution which we refer to here as H
+
+@highlight AV borne datasets with high spectral and spatial resolution H
+@highlight  is acquired.
+@highlight A deep convolutional neural network with CRF classifier CNNCRF is proposed.
+@highlight UAV H
+@highlight datasets is classified by CNNCRF for precise crop identification.
+@highlight Wuhan UAV borne hyperspectral image WHU Hi has been built as the benchmark.
+@highlight Effective results were achieved from the accuracy and visualization performance.

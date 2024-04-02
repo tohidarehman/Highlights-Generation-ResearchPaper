@@ -1,0 +1,7 @@
+ This paper introduces a novel bistable nonvolatile locally active memristor model based on Chua s unfolding theorem to explore the influence of the local activity on the complexity of nonlinear systems . It is shown that the memristor has two asymptotically stable equilibrium points in its power off plot with a negative memductance and a positive memductance namely it is nonvolatile . It is then shown that the fast switching between the two stable equilibrium points can be implemented by applying an appropriate voltage pulse . It is found that the memristor possesses four locally active regions in its DC
+
+@highlight The proposed memristor has two stable equilibrium points and four locally active regions.
+@highlight Fast switching between two stable points can be implemented by applying a voltage pulse.
+@highlight A small signal equivalent circuit and the edge of chaos for the memristor are obtained.
+@highlight The memristor when connected in parallel with a capacitor can generate periodic oscillation around a locally active operating point via Hopf bifurcation.
+@highlight The periodic oscillation can be transformed into a chaotic oscillation by adding a linear inductor into the periodic oscillator.

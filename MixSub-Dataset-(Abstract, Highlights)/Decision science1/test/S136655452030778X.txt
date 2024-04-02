@@ -1,0 +1,5 @@
+ This paper studies an integrated network planning and operation problem of sustainable closed loop supply chain under demand uncertainty with particularly interest in the configuration of retail network . The problem is modeled as a two stage stochastic program which is further extended to evaluate the impact of various carbon polices on planning and operation decisions of the CLSC . A branch and bound based integer L shaped algorithm has been proposed to solve these models . Extensive numerical experiments are conducted and impacts of carbon policies are analyzed . Sensitivity analysis is carried out and several managerial insights are drawn .
+
+@highlight Consider an integrated network planning and operation problem of sustainable closed loop supply chain with retail network configuration.
+@highlight Model the problem and its extension under various carbon policies into a two stage stochastic program.
+@highlight Propose a branch and bound based integer L shaped algorithm to solve these models.

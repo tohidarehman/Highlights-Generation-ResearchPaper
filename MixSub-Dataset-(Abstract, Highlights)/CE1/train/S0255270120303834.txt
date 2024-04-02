@@ -1,0 +1,9 @@
+ Use of toxic diluent is harmful for producing caproic acid from fermentation unit . It led to consider green and non toxic diluents sunflower and soybean oils in the current study along with tributyl phosphate as the reactive extractant . Important performance indicator parameters were estimated over the temperature range of 298 K318 K. The changed of enthalpy and entropy because of mass transfer of caproic acid from aqueous phase to the interfaces complexation reaction and overall acid transfer from aqueous phase to organic phase were estimated and analyzed . Best model among considered different acid concentration dependent distribution co efficient models was identified following a newly developed method . Sunflower oil is identified as more efficient diluent than soybean oil . The new method has successfully determined the equilibrium complexation reaction stoichiometry . Further concentrations of complex free acid and dimer in the organic phase were determined which never were estimated previously . In spite of low loading ratio less than 0.5 in the current experimental study the estimated
+
+@highlight Caproic acid reactive extraction was performed in 298318K temperature range by using actual acid concentration at the exit of the fermenter.
+@highlight Microorganism friendly non reactive diluents like sunflower and soyabin were identified as equally capable to or better than the toxic diluents.
+@highlight New algorithm has been developed to select the best predictive model for the distribution coefficient.
+@highlight The developed new algorithm was applied to determine the complexation free acid and dimer concentrations in the organic phase.
+@highlight Thermodynamic analysis was performed to find new parameters like 
+@highlight and 
+@highlight to understand the nature of caproic acid mass transport.

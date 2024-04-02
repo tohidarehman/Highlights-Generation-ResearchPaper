@@ -1,0 +1,7 @@
+ The interface between magnetic particles and polymer matrix is a key factor for the structural and actuation properties of magneto composites . Herein we present a functionalisation method for carbonyl iron particles using epoxy silane . Experimental results from mechanical and electromagnetic tests reveal that this functionalisation increases the stiffness fracture toughness and induction heating rates compared to composites with unfunctionalised particles . It was found that these performance improvements stem from the increase in interface bond strength by the silane functionalisation which enables the polymer composites to sustain thermal loading without disbonding . The improved bonding between the magnetic particles and the matrix substantially enhances the actuation performance of the magneto composites . To demonstrate the potential of the magneto polymer composites a novel thermal bimorph actuator was designed manufactured and characterised for reaction load and deflection control .
+
+@highlight An epoxy silane functionalisation method for carbonyl iron particles is presented.
+@highlight Functionalised particles exhibited improved induction heating rates.
+@highlight Improved matrix particle bonding enhanced magneto composite stiffness and toughness.
+@highlight A novel thermal bimorph actuator was designed manufactured and characterised.
+@highlight Functionalisation substantially enhanced performance of actuator.

@@ -1,0 +1,7 @@
+ Land surface temperature is among the most important variables in monitoring land surface processes . LST is often retrieved from thermal infrared remote sensing data which have a tradeoff between the spatial and temporal resolutions and are spatially incomplete due to cloud contamination . Land surface model output can reflect LST under all weather conditions but the spatial resolution is relatively coarse . In this study a two step LST data fusion framework was proposed for generating MODIS like LST at a 1km spatial resolution under all weather conditions . First MODIS LST on clear days for a given study region and China Land Data Assimilation System LST at a spatial resolution of 7km7km were fused using the Enhanced Spatial and Temporal Adaptive Reflectance Fusion Model . Second systematic biases of the fused LST estimates were corrected by MODIS LST for clear pixels on cloudy days . Results indicate that the fused LST after bias correction fused LST
+
+@highlight A new data fusion scheme is developed to generate LST by blending multisource data.
+@highlight LST from land surface models on all days and MODIS LST on clear sky days are used.
+@highlight The fused LST estimates feature spatial completeness under all weather conditions.
+@highlight The fused LST estimates are validated with in situ measurements at multiple sites.
+@highlight The accuracy of the LST estimates is generally better than that of published studies.

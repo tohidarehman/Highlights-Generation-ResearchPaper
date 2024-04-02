@@ -1,0 +1,8 @@
+ Surface floating macroalgae microalgae and other marine and freshwater organisms have been reported in many specific regions around the globe . However it is technically challenging to identify similar occurrences or other types of floating organisms or materials within the vast global oceans and lakes . In this study we address this challenge through combining global scale 375 m resolution false colored Red Green Blue imagery from the Visible Infrared Imaging Radiometer Suite in NOAA s online Ocean Color Viewer for visual inspection and data from several other satellite sensors for spectral diagnostics . In the FRGB imagery the near infrared band is used as the green channel which is sensitive to floating algae and organisms materials on the water surface . Visual inspection of the daily FRGB VIIRS imagery from January 2018 to October 2019 reveals the appearance of various slicks with different colors in many ocean regions and lakes . Combined with spectral diagnostics of the quasi concurrent Sentinel 3A 3B Ocean and Land Colour Instrument and other higher spatial resolution satellite data as well as knowledge of local oceanography limnology most of these elongated or diffuse image features can be identified as
+
+@highlight An approach is demonstrated to search for floating algae and other organisms.
+@highlight Floating algae and other organisms in global oceans and lakes are identified.
+@highlight Some floating algae e.g. 
+@highlight  appear to have expanded geographically.
+@highlight Several unknown types of floating organisms are also discovered.
+@highlight Two of these might be inferred to be sea jellies and shrimp eggs respectively.

@@ -1,0 +1,7 @@
+ Damage models are fundamental elements within probabilistic frameworks such as Performance Based Earthquake Engineering for the seismic assessment of RC structures . For bridges in specific there are not many available experimental results for the characterization of damage in the RC columns hence the numerical counterpart acquires particular relevance . In this paper via Monte Carlo simulation and comparison with complementary experimental results a damage model consisting of a library of median and logarithmic dispersion values for curvature ductility displacement ductility and drift describing the probability of reaching a particular damage limit state are generated as a function of key parameters of circular RC bridge columns . Four damage limit states are considered slight moderate extensive and complete . Simplified relationships based on the full datasets are proposed for easier implementation . The proposed damage models can be used for threshold identification and economic loss assessment in performance based earthquake engineering of RC bridges .
+
+@highlight Damage models for circular section RC cantilever columns are developed.
+@highlight Three different Engineering Demand Parameters are considered.
+@highlight Simplified relationships for implementation in large scale assessment are proposed.
+@highlight Damage models for the limit state of shear failure are also generated.
+@highlight Critical discussion on the applicability of proposed damage models is presented.

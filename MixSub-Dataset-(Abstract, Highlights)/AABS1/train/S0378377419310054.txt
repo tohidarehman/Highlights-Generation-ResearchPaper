@@ -1,0 +1,5 @@
+ Smart farming has played a significant role in decision support system to maximize the yield with minimum consumption of water in the field of agriculture . The main objective of this paper is to design and develop an innovative multilevel model ensembling for accurate estimation of crop coefficient K
+
+@highlight We proposed Fuzzy Genetic and Regularization Random Forest models for modeling the agriculture application.
+@highlight A novel multi layer ensemble model is proposed for predicting the Kc and ETc of Ludhiana station.
+@highlight Our model results show the developed method have high precision.

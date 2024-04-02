@@ -1,0 +1,6 @@
+ In a hybrid energy system composed of photovoltaic diesel generator and pumped hydro storage to attain minimum fuel consumption system operation should be optimized . This paper focuses on optimizing operation of a PV diesel PHS hybrid energy system by a modified crow search algorithm . For this aim fuel consumption during the considered period is defined as the objective function . At deficit conditions percent of deficit power which should be supplied by PHS is considered as decision variable . To effectively solve this difficult optimization problem CSA with an adaptive chaotic awareness probability CSA
+
+@highlight Utilization of pumped hydro storage PHS as storage device in hybrid system.
+@highlight Development of crow search algorithm with an adaptive chaotic awareness probability.
+@highlight Optimization of operation with respect to various solar radiations.
+@highlight Optimal sharing of deficit power between PHS and diesel generator.

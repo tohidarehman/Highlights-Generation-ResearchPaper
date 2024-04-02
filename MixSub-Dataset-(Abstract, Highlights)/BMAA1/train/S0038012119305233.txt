@@ -1,0 +1,6 @@
+ In the real estate literature numerous studies have applied hedonic models to estimate the implicit value of the characteristics that influence housing prices . However few studies have quantified the weight of location in the price of residential properties and still fewer have quantified the premium or discount used to weigh the price of a home . In this paper the regression kriging method is applied to address the two previous objectives in the city of Granada Spain . This method is also adapted interpreted and made accessible to real estate appraisers with a view to providing these professionals with an objective sophisticated and powerful tool in accordance with their know how . This method can also be useful for investors urban planners public administrators and revenue departments among others as it can determine the value distribution of the location .
+
+@highlight A hedonic regression model is used to quantify the premium and discount of housing prices and their location value.
+@highlight The regression kriging method is applied to estimate the hedonic model.
+@highlight This method is adapted interpreted and made accessible to real estate appraisers.
+@highlight Isovalue maps of location values are presented for the city of Granada Spain .

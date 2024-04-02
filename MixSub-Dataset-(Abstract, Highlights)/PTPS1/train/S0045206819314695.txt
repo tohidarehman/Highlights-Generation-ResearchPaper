@@ -1,0 +1,7 @@
+ Three new and complementary approaches to S arylation of 2 thiohydantoins have been developed copper catalyzed cross coupling with either arylboronic acids or aryl iodides under mild conditions or direct nucleophilic substitution in activated aryl halides . For 38 diverse compounds reaction yields for all three methods have been determined . Selected by molecular docking they have been tested on androgen receptor activation and p53 Mdm2 regulation and A549 MCF7 VA13 HEK293T PC3 LnCAP cell lines for cytotoxicity Two of them turned out to be promising as androgen receptor activators and another one is shown to activate the p53 cascade . It is hoped that 2 thiohydantoin S arylidenes are worth further studies as biologically active compounds .
+
+@highlight Three suggested methods of synthesis are mutually complementing.
+@highlight Two hits caused activation of androgen receptor but not P53.
+@highlight Allosteric regulation of the androgen receptor by the hits has been concluded.
+@highlight One hit to significant activation of the P53 cascade but not AR.
+@highlight P53 activation due to hit interaction with MDM2 has been concluded.

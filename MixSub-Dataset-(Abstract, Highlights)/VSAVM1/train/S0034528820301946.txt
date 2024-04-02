@@ -1,0 +1,5 @@
+ Herein we review broad issues that affect test performance for agents that produce persistent infections . Using PRRSV as an example the relationship between disease transition stages and diagnostic transition stages is discussed using meta analyses of diagnostic data
+
+@highlight PRRSV infection is characterized by changes in its tissue distribution over time.
+@highlight Therefore the rate of PRRSV detection varies over time by specimen assay selection.
+@highlight The choice of specimen assay must be tailored to specific PRRSV testing objectives.

@@ -1,0 +1,6 @@
+ Metal air batteries have drawn great attention in the past decade due to their high energy density and low cost . However several challenges remain in the development of such promising devices including slow kinetics of the cathodic reaction and undesirable deposition of metal oxide on air cathode . Herein as a proof of concept we show single atom scale metal vacancy engineering in heteroatom doped carbon cathode to enable high performance zinc air battery with reduced overpotential . Density functional theory calculations indicate that metal vacancy induced pyridinic N can tailor the electronic structure and thus facilitate the catalytic reaction . The single atom dispersed FeNC catalyst with optimized Fe vacancies shows improved reactivity and the facilitated chemisorption of oxygen intermediates in the actual battery operation is directly observed by
+
+@highlight Single atom scale metal vacancy engineering facilitates the catalytic reaction.
+@highlight Vacancy induced pyridinic N enables non deposition of zinc oxide on air cathode.
+@highlight Rechargeable zinc air battery shows high reversibility and stability.
+@highlight All solid state battery demonstrates robust durability and excellent flexibility.

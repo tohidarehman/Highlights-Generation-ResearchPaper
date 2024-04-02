@@ -1,0 +1,6 @@
+ This paper solves the event triggered passivity problem for multiple weighted coupled delayed reaction diffusion memristive neural networks with fixed and switching topologies . On the one side by designing appropriate event triggered controllers several passivity criteria for MWCDRDMNNs with fixed topology are derived based on the Lyapunov functional method and some inequality techniques . Moreover some adequate conditions for ensuring asymptotical stability of the event triggered passive network are presented . On the other side we take the switching topology in network model into consideration and investigate the event triggered passivity and passivity based synchronization for MWCDRDMNNs with switching topology . Finally two examples with numerical simulation results are provided to illustrate the effectiveness of the obtained theoretical results .
+
+@highlight Several event triggered passivity criteria for MWCDRDMNNs with fixed topology are proposed.
+@highlight Some conditions are obtained for ensuring passivity based synchronization of the MWCDRDMNNs.
+@highlight The event triggered passivity for switched MWCDRDMNNs are discussed.
+@highlight The obtained theoretical results are illustrated by two numerical examples.

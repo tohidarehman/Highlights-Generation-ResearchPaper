@@ -1,0 +1,6 @@
+ In high gas bearing conditions the oil phasein the form of droplets often enters the reciprocating multiphase pump via the valves . Understanding the droplet carrying characteristics of the gas flow is important for determining the transport capacity and stability of multiphase pump valves . In this paper the turbulent gas flow and droplet movement behaviors in three typical valves of the reciprocating multiphase pumps were studied mainly by the theoretical analysis the numerical simulation of computational fluid dynamics and the verification test of particle image velocimetry . The steady and transient droplet trajectories concentration distributions and passing capacities were comprehensively studied with different valve openings Reynolds numbers and two phase slip conditions . The results show that the ball valve performs steadily during the transport of the small to large droplets while the cone valve and the disk valve perform well when transporting the small droplets with
+
+@highlight Droplet trajectories inside the valves change with the gas flow fields
+@highlight Ball disk and cone valves are suitable for transporting droplets of different size
+@highlight Transient droplet pass rates of the valves decrease with a maximum error of 36 
+@highlight Correlations of mean diameter of droplets passing through the valves are proposed

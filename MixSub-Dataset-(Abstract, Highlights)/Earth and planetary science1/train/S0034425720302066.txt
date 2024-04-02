@@ -1,0 +1,7 @@
+ Terrestrial Laser Scanning has been used during the past decade to capture the complexity of 3D forest canopy structures especially Leaf or Plant Area Density . TLS data i.e . point cloud can be divided into voxels to estimate the three dimensional distribution of LAD PAD . However the combination effects of vegetation occlusion and shooting pattern of TLS scanners lead to a highly heterogeneous sampling which limits the reliability of some local estimates since several voxels are either not explored or poorly explored by laser beams . In practice recommendations vary regarding the minimum number of beams crossing voxels or the minimum path lengths required to provide reliable predictions . In addition assigning a value to non explored and poorly explored voxels is still an open question .
+
+@highlight A new method for LAD estimation from T LiDAR in occluded areas is developed.
+@highlight This method use kriging on LAD estimator LAD Kriging and relies on TLS data only.
+@highlight LAD Kriging can be applied to all voxels whatever their reliability.
+@highlight LAD Kriging retrieves reliable estimates in not explored and poorly sampled voxels.
+@highlight This method can be fitted to other unbiased estimators extracting metrics in point clouds.

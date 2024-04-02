@@ -1,0 +1,7 @@
+ Clustering is a task used to group data from variegated sources including Big Data the Internet of Things and social media . Density peaks clustering has become a popular clustering technique for its simplicity and quality . However DPC requires a proper subset of input data points to be selected as centers using a plot called decision graph . This manual specification adds subjectivity and instability besides breaking the continuous flow of the algorithm . Automatic center detection approaches struggle with obtaining good results while avoiding to add parameters and complexity to the algorithm . We propose an approach to automatically determine cluster centers by detecting gaps between data points in a one dimensional version of the decision graph we detect these gaps heuristically by comparing the distance between pairs of consecutive points in terms of their gamma score . We tested our approach on synthetic and UCI data sets . Results show that the number of clusters is accurately predicted in comparison to other state of the art methods using F score and Adjusted Rand Index .
+
+@highlight In density peaks clustering a subset of input data points is set as cluster centers.
+@highlight The cluster centers are selected from a decision graph.
+@highlight We propose automated center detection by finding gaps in the decision graph.
+@highlight The gaps are detected heuristically by measuring point distance.
+@highlight The threshold point is based on the last distance greater than the average distance.

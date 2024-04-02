@@ -1,0 +1,10 @@
+ In a plant factory improper design of the indoor ventilation system may cause tip burn on lettuce plants due to the existence of stagnant air in the leaf boundary layer and low transpiration rates . In this study three types of air ducts with different pore numbers and diameters were designed to generate a constant horizontal airflow on the surface of plant canopy . A three dimensional computational fluid dynamics model was established to analyse the airflow pattern on the crop canopy under different ventilation modes in a single cultivation bed . For this simulation model the lettuce leaves were treated as a porous medium and the drag coefficient C
+
+@highlight The viscous and inertial resistance were 50 m
+@highlight and 2 m
+@highlight  respectively.
+@highlight The LED lamp with a constant heat generation of 297525 W m
+@highlight The percentage of air velocity at the lettuce canopy surface between 0.28 m s
+@highlight and 1.04 m s
+@highlight was 70.3 .
+@highlight A tube of 12 pores each with a diameter of 15 mm is recommended for ventilation.

@@ -1,0 +1,6 @@
+ Miniaturized stirred tank bioreactor systems provide a scalable platform for high throughput bioprocess development . Online measurement of process variables is a major demand to enable efficient process monitoring and control in parallel operated bioreactors . One miniaturized laser light source and two photodiodes were placed around a cylindrical disposable bioreactor made of polystyrene for individual and contact free measurement of optical density . One photodiode was positioned at an angle of 28 to the laser for measuring the scattered light a second photodiode was positioned face to face with the laser for measuring the transmitted light . Miniaturized lasers with wavelengths of 650 nm 780 nm and 850 nm were evaluated . The best results were achieved with a laser emitting at 850 nm . Both signals were influenced by the stirrer speed and the microorganisms under study . After individual calibration online OD monitoring of pH controlled fed batch processes was successfully shown with
+
+@highlight Contact free measurement of optical density OD in mL scale stirred tank bioreactors.
+@highlight Miniaturized laser light source and photodiodes placed around a disposable bioreactor.
+@highlight Online infrared OD monitoring of pH controlled fed batch processes.
+@highlight Online OD monitoring up to cell dry weight concentrations of 46 g L

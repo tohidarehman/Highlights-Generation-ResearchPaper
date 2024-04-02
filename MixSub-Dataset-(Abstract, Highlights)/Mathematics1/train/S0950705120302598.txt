@@ -1,0 +1,6 @@
+ Decision tree algorithms have been proved to be a powerful and popular approach in classification tasks . However they do not have reasonable classification performance in multi class scenarios . In the present study decision tree algorithms are combined with the one vs all binarization technique to improve the generalization capabilities of the scheme . However unlike previous literature that has focused on aggregation strategies the present study is focused on the process of building base classifiers over the OVA scheme . A novel split criterion entitled by the splitting point correction matrix is proposed in this regards which can effectively deal with the unbalance problem caused by the OVA scheme .
+
+@highlight This is the first paper to deal with the class imbalanced problem caused by OVA strategy.
+@highlight A novel split criterion is proposed to tackle the imbalanced problem caused by OVA strategy.
+@highlight The proposed method selects the optimal splitting point from multi angle.
+@highlight The proposed method significantly reduces the depth of decision tree.

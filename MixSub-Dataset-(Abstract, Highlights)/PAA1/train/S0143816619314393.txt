@@ -1,0 +1,7 @@
+ High performance optics puts stringent requirements on the defect control of transparent optical components . In order to accurately and reliably detect the surface and internal defects of TOCs this paper proposes a three dimensional defect distribution detection method based on coaxial transmission dark field microscopy . The illumination and imaging light paths are coaxial and a high pass filter in front of the microscope objective is applied to remove the illuminated background light on the defect images and improve the imaging contrast . Based on the finite depth of focus of the microscope objective the focal plane position of defects can be determined by axial light intensity analysis and the 3D defect distribution reconstruction is performed . Simulations and experiments show that the method can realize high contrast defect imaging and has the ability to detect the 3D distribution of surface and internal defects of TOCs .
+
+@highlight A high contrast imaging method CTDF is proposed to measure defect of TOC.
+@highlight CTDF uses a high pass spectrum filter to remove background light.
+@highlight Scattering core region is extracted and pruned to quickly locate defects.
+@highlight Axial light intensity analysis is used to accurately positioning the focal plane of defects.
+@highlight Our method can effectively reconstruct 3D defect distribution of TOC.

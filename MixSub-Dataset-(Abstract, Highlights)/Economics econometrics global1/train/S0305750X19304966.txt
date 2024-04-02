@@ -1,0 +1,7 @@
+ This paper examines whether technology transfer through international linkages influences skilled labor wage shares in Indonesian plants . Using a variety of specifications estimators and robustness checks approach we find that the import of intermediate inputs and foreign direct investment likely facilitate the transfer of technologies from advanced nations which then results in skill biased technological change and increased relative skilled labor wage share . These results indicate that contrary to standard trade theory predictions international linkages can lead to increased demand for skilled labor and a potential widening of the skilled unskilled labor wage gap in Indonesia . Our findings support the theoretical explanation provided by Acemoglu . Since firms in developing countries like Indonesia mainly rely on technologies from advanced nations trade is likely to increase the skilled wage premium .
+
+@highlight In most developing countries like Indonesia there are limited in house R D efforts.
+@highlight International linkages are the main causes of skill biased technological change.
+@highlight Technology transfer through international linkages effects the skilled wage premium.
+@highlight We use correlated RE Probit an IV estimate and FE quantile regression.
+@highlight Importing and foreign direct investments lead to increased skilled wage premium.

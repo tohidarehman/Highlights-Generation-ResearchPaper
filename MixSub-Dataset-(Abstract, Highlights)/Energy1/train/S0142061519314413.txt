@@ -1,0 +1,6 @@
+ Providing additional required flexibility as a consequence of variable wind generation is an essential challenge in future power grids . Demand Response is a relatively economic tool which can create considerable flexibility by motivating the customers to change their typical consumption patterns . This paper aims at quantitative evaluation of flexibility level of a comprehensive set of DR programs in power grid with significant amounts of wind generation through an applicable metric
+
+@highlight This paper proposes a quantitative metric in order to determine the flexibility of different DR programs.
+@highlight A comprehensive portfolio of DR programs have been modeled.
+@highlight Flexibility of DR programs are calculated based on technical flexibility characteristics of conventional units.
+@highlight The obtained results are applicable for system operators to implement an appropriate DR program.

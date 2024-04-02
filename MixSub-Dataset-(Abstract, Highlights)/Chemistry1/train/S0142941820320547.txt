@@ -1,0 +1,7 @@
+ While an increasing requirement from both fundamental and application a direct tensile testing of freestanding polymer thin films in the air remains a challenge mainly due to their extreme fragility . This study aims to establish a facile and reliable testing system and investigate the effect of specimen geometry on the testing . First a thin film transfer and adhesive guide frame gripping technique is introduced . With low length to width ratio specimens tensile testing of rectangle non standard polystyrene films with thickness down to 45nm is achieved on a commercial universal testing machine . By changing specimen width and gauge length individually a scale law between system compliance and specimen width is then verified . After corrected by compliance a constant modulus of 3.15GPa for 454319nm thick polystyrene films can be obtained . This study provides a potential strategy to overcome operational difficulties in performing tensile testing of freestanding polymer thin films .
+
+@highlight Thin film transfer and gripping with adhesive guide frame technique is introduced.
+@highlight Tensile testing of freestanding 45nmPS films is achieved on a commercial machine.
+@highlight System compliance is measured and its dependence on specimen width is verified.
+@highlight After correction a constant modulus for 454319nm thick PS films is obtained.
+@highlight Strategy by combining non standard geometries and compliance correction is proposed.

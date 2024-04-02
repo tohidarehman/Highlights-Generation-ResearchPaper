@@ -1,0 +1,8 @@
+ In the present study the flow behaviour through different micro herringbone channels configurations have been numerically analysed as a mean of intensifying mass transfer to a reactive boundary . Results showed that the mass transfer coefficients were higher for the 12 alternated herringbone structure than those with either 1 peak or 2 peak structures . Moreover the flow inversion structure mass transfer coefficients were double those obtained for the staggered herringbone channel . The alternated herringbone channel combines a different set of herringbone structures that are efficient at removing the boundary layer at different parts of the channel . The combination of these structures provide an enhanced mass transfer performance as compared to a standard herringbone channel . The obtained results showed that a 2D simplified model which uses hydrodynamic data from CFD simulations is a reasonable substitute for full 3D particle tracking simulations in terms of the mass transfer behavior of the 1PSHC with a 97.5 of accuracy related to the asymptotic Sherwood number . The mixing capacity of the herringbones was accounted for by an apparent effective diffusion coefficient . The agreement between the 3D and 2D simulation was reasonable .
+
+@highlight Mass transfer to a reactive wall was studied for several herringbone channels HC .
+@highlight Flow inverter is more efficient at removing the boundary layer than the 1PSHC.
+@highlight 1 2PeakHC obtained the highest conversion 56 compared to other HC configurations.
+@highlight 1 2PeakHC performance 
+@highlight  is related to a constant boundary layer renewal.
+@highlight 1PeakHC 3D model may be simplified to 2D with virtual eddy diffusivity coefficient.

@@ -1,0 +1,7 @@
+ Theoretical calculations are contributing a significantly higher proportion of data to contemporary spectroscopic databases which have traditionally relied on experimental observations and semi empirical models . It is now a common procedure to extend calculated line lists to include ro vibrational transitions between all bound states of the ground electronic state up to the dissociation limit . Advanced
+
+@highlight Overtone vibrational transitions in water ozone and carbon dioxide obey the Normal Intensity Distribution NID earlier established for diatomic molecules.
+@highlight The NID has proved to be a useful tool for validating the intensities of overtone transitions.
+@highlight Manifestation of the NID implies that the intensities of overtone transitions depend on the repulsive branch of the potential energy far from equilibrium.
+@highlight In order to reach high accuracy in the calculations the effect of the repulsive wall must be taken into account even for spectroscopically important transitions.
+@highlight calculations of the potential and dipole moment must extend to regions far from equilibrium.

@@ -1,0 +1,7 @@
+ Long term stabilization of soil organic matter plays an important role in the carbon cycle . Hence understanding biogeochemical mechanisms of soil C sequestration is crucial to control its release to the atmosphere . This study aims at investigating the biogeochemical mechanisms of soil C sequestration . An exploratory assessment was carried out on the information about the soil C levels provided by the molecular composition of humic acids analyzed by electrospray ionization Fourier transform ion cyclotron resonance mass spectrometry . Significant PLS forecasting model for total soil C was obtained using as descriptors the 131 compounds in common in all the HAs detected by FTICR MS and its variable importance for projection was plotted in the space defined by their atomic ratios using van Krevelen diagrams . The results indicated that significant relationship exists between the HAs molecular composition and the soil organic C levels . The VIP values for the different groups of compounds illustrate how HA contains information about the amounts of C stored in the soil the HAs in the soils with high levels of organic C have significantly
+
+@highlight A relationship exists between SOC content and the composition of soil HAs.
+@highlight Unsaturated lipid and lignin structures prevail in high SOC content scenarios.
+@highlight Saturated lipid prevails in low SOC content scenarios.
+@highlight Humic acid structure keeps information on soil properties as SOC content.
+@highlight The SOC can be predicted from the molecular composition of HAs.

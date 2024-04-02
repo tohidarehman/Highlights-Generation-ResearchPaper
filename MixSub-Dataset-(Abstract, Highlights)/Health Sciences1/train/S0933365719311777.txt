@@ -1,0 +1,5 @@
+ The prevalence of metabolic disorders has increased rapidly as such they become a major health issue recently . Despite the definition of genetic associations with obesity and cardiovascular diseases they constitute only a small part of the incidence of disease . Environmental and physiological effects such as stress behavioral and metabolic disturbances infections and nutritional deficiencies have now revealed as contributing factors to develop metabolic diseases . This study presents a multivariate methodology for the modeling of stress on metabolic syndrome patients . We have developed a supporting system to cope with MES patients anxiety and stress by means of several biosignals such as ECG GSR body temperature SpO
+
+@highlight A wearable device powered with an e health solution has been developed to assess anxiety and stress levels.
+@highlight A multivariate methodology for the modeling of stress via proposed neural network based affective state detection algorithm.
+@highlight With the unique clinical dataset prediction accuracy of 92 for MES patients stress level.

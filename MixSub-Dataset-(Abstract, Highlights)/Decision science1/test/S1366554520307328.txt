@@ -1,0 +1,6 @@
+ This paper compares the efficiency of two relocation methods in a one way station based electric car sharing system . First an operator based model is considered where relocations are managed by a dedicated crew . This is compared to a user based model where price incentives are used to balance demand and supply . Two types of pricing schemes are investigated A trip based and a station based scheme . The
+
+@highlight Analyze operator based and user based relocation models for one way carsharing.
+@highlight Study two flexible pricing strategies trip based and station based method.
+@highlight Demonstrate the applicability of continuous SOC distribution model in the electric carsharing relocation problem.
+@highlight Establish two customized algorithms to address the non linear optimization problem.

@@ -1,0 +1,13 @@
+ Ectonucleotidases are a broad family of ectoenzymes that play a crucial role in purinergic cell signaling . Ecto nucleotide pyrophosphatases phosphodiesterases belong to this group and are important drug targets . In particular NPP1 and NPP3 are known to be druggable targets for treatment of impaired calcification disorders and cancer respectively . In this study we investigated a series of sulfonate and sulfamate derivatives of benzofuran and benzothiophene as potent and selective inhibitors of NPP1 and NPP3 . Compounds
+
+@highlight 20 target compounds were investigated as inhibitors of human NPP1 and 3.
+@highlight IC
+@highlight value of compound
+@highlight against NPP1 is 0.12M.
+@highlight IC
+@highlight value of compound
+@highlight against NPP3 is 0.12M.
+@highlight IC
+@highlight value of compound
+@highlight against MCF 7 cell line is 0.19M 11.7 times selectivity towards MCF 7 than WI 38 normal cells.
+@highlight Docking and enzyme kinetics studies were carried out to investigate the binding modes.

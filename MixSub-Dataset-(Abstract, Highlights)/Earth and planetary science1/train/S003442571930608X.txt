@@ -1,0 +1,7 @@
+ Sea Surface Temperature is an essential variable for understanding key physical and biological processes . Blended and interpolated L4 SST products offer major advantages over alternative SST data sources due to their spatial and temporal completeness yet their ability to discriminate upwelling induced steep temperature transitions in coastal waters remains largely unassessed . Here we analysed the performance of eleven L4 GHRSST compliant products in estimating
+
+@highlight L4 GHRSST products give good estimates of coastal SSTs in areas without upwelling.
+@highlight At the coast the best performing L4 GHRSST products are G1SST and OSTIA.
+@highlight All L4 GHRSST products overestimate coastal temperatures during upwelling.
+@highlight With strong upwelling average bias may exceed 2C.
+@highlight L3 data perform well near the coast but have temporal and spatial gaps.

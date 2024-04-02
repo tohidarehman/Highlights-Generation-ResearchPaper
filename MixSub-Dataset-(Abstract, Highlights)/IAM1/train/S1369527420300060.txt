@@ -1,0 +1,6 @@
+ Gene duplication facilitates the evolution of biological complexity as one copy of a gene retains its original function while a duplicate copy can acquire mutations that would otherwise diminish fitness . Duplication has played a particularly important role in the evolution of regulatory networks by permitting novel regulatory interactions and responses to stimuli . The diverse MarR family of transcription factors illustrate this concept ranging from highly specific repressors of single operons to pleiotropic global regulators controlling hundreds of genes . MFTFs are often genetically and functionally linked to antimicrobial efflux systems . However the SlyA MFTF lineage in the
+
+@highlight MarR family transcription factors MFTFs are ancient regulatory proteins predating the divergence of Archaea and Bacteria.
+@highlight Gene duplication has accommodated the adaptation of MFTFs to multiple regulatory functions.
+@highlight Allosteric inhibition by small aromatic molecules confers MFTF responsiveness to environmental and physiological stimuli.
+@highlight Variation in DNA binding domains and promoters contributes to MFTF specificity.

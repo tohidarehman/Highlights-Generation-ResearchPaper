@@ -1,0 +1,7 @@
+ An ensemble of time series algorithms improves land change monitoring . The methodology combines the Continuous Change Detection and Classification and Cumulative Sum of Residuals algorithms for break detection and the Chow Test for removing false positives . The algorithms included are based on fundamentally different approaches to change detection and therefore offer unique advantages . The ensemble or the combination of the three algorithms was applied to 3 Landsat scenes in the United States and the results were assessed based on their ability to correctly discern structural breaks from stable time periods . The CUSUM test was shown to detect significant breaks 84.18 of the time and the Chow Test correctly removed breaks in 87.4 of the breaks analyzed . The ensemble produced results with lower frequency of errors of omission and commission than a single algorithm approach . These results indicate that using a combination of break detection algorithms can be an improvement over typical approaches that utilize only one algorithm .
+
+@highlight Multiple approaches for detecting breaks in a time series are combined sequentially.
+@highlight The algorithms are applied in the context of land change monitoring.
+@highlight The break detection algorithms are CCDC CUSUM and the Chow Test.
+@highlight Two tests are used to detect breaks and one is used to identify false positives.
+@highlight Break detection is improved in over 84 of break locations tested.

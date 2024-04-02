@@ -1,0 +1,6 @@
+ Modelling the retention behaviour of solutes in liquid chromatography based on the composition of the mobile phase is a common task in the chromatographic practice . Along the development of liquid chromatography several models have been proposed to help in understanding the retention mechanisms and especially allow the prediction of retention times with optimisation purposes . Particular models are used for different LC modes such as normal phase reversed phase hydrophilic interaction and micellar . In this work a general equation is proposed that includes a parameter the elution degree
+
+@highlight An extension of the linear solvent strength model is proposed.
+@highlight A parameter that describes the changes in elution strength is included.
+@highlight A general equation to calculate the compression factor in gradient elution is given.
+@highlight Data obtained from several chromatographic modes are fitted to the model.

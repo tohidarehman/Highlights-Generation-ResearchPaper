@@ -1,0 +1,8 @@
+ The study of consumption in poor households usually focuses on the costs of the consumption basket rather than its composition . In contrast we investigate the variety in consumption using unique data on a set of remote villages in northwestern Ethiopia . We examine the loss in variety in household consumption in remote locations relying on a purpose designed longitudinal survey over two years where villages differ only in distance to the market and are homogeneous otherwise . In addition we exploit a change in policy which resulted in a crackdown on informal unlicensed traders in the second year and affected only the more remote set of villages . Variety in household consumption of manufactures falls with distance and time to travel to the main market town . The crackdown on informal traders as a quasi experiment resulting in an increase in travel costs also leads to a relative decrease in variety consumed of manufactured goods for households served by the unlicensed traders .
+
+@highlight We study the causal effect of transport costs on variety in household consumption.
+@highlight Sampled households differ in distance from market and are homogeneous otherwise.
+@highlight We use two quasi experiments to derive the impact of transport costs on variety.
+@highlight A 1 increase in travel time decreases variety by0.07 in the baseline.
+@highlight We consolidate the results using asudden crackdown on unlicensed traders in 2014.
+@highlight The variety in manufactured goods consumed is sharply affected by remoteness.

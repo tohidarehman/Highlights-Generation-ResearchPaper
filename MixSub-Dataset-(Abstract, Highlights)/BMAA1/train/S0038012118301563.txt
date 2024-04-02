@@ -1,0 +1,6 @@
+ Models for the distribution of relief supplies often assume immediate availability of relief items upon the occurrence of a natural disaster . However such an assumption does not always apply in realistic settings . In some cases at least it is necessary to assemble relief items into kits before distributing them among the affected population . This paper presents a rolling horizon methodology that considers dynamic parameters such as demand capacities and demand priorities for the problem of distributing relief supplies after the occurrence of a natural disaster by including such assembling activities before the delivery .
+
+@highlight Model for assembly of relief kits and their distribution.
+@highlight Pre distribution and distribution plan to be applied by means of a rolling horizon approach.
+@highlight Heuristic methodology for solving large instances of the problem.
+@highlight Policy implication of methodologies.

@@ -1,0 +1,7 @@
+ A multi scale model linking microstructure and macro electric properties of ferroelectric field effect transistor is established based on the phase field method and Maxwell s total current law . The simulation results confirm that the channel current of FeFET is modulated by local interface ferroelectric domains which are easily affected by the microstructure . Using the developed transistor model we investigate the effects of location of dislocation sites on hysteresis behavior of ferroelectric film and electric behavior of FeFET . Interfacial dislocations have strong effects on hysteresis behavior than internal dislocations since the former can induce imprint behavior while the latter only reduce the coercive field . However due to the
+
+@highlight A model linking microstructure and macro properties of FeFET is established.
+@highlight Channel current of FeFET is highly dependent on local domains near the interface.
+@highlight Effects of the same dislocations on P E curve and channel current are opposite.
+@highlight Internal dislocations have little effect on P E curve but induce FeFET failure.
+@highlight Interfacial ones induce imprint failure on P E curve but little effect on FeFET.

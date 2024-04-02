@@ -1,0 +1,6 @@
+ Urban composition can be analyzed through spectral unmixing of images from airborne imaging spectrometers . Unmixing given a spectral library can be accomplished by set based methods or distribution based methods . For computational efficiency and optimal accuracy set based methods employ a library reduction procedure when applied to large spectral libraries . On the other hand distribution based methods model the library by only a few parameters hence innately accept large libraries . A natural question arises that can distribution based methods with the original large spectral library achieve comparable performance to set based methods in urban imagery .
+
+@highlight Distribution based unmixing methods can directly utilize a large spectral library.
+@highlight We apply distribution based methods GMM NCM BCM on urban imagery.
+@highlight The unmixing accuracy from GMM is on par with MESMA in 16m imagery.
+@highlight GMM has potential in applications with a universal spectral library.

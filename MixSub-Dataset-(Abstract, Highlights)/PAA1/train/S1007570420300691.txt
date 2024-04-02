@@ -1,0 +1,6 @@
+ In this work we revisit a classical problem of traveling waves in a damped FrenkelKontorova lattice driven by a constant external force . We compute these solutions as fixed points of a nonlinear map and obtain the corresponding kinetic relation between the driving force and the velocity of the wave for different values of the damping coefficient . We show that the kinetic curve can become
+
+@highlight Traveling waves in a damped driven FrenkelKontorova lattice are computed.
+@highlight Force velocity kinetic relation can be non monotone and multivalued.
+@highlight Stability of the obtained solutions is investigated via Floquet analysis.
+@highlight Decreasing portions of the kinetic curve always bear an unstable eigendirection.

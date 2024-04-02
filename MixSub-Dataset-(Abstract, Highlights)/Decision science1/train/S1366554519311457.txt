@@ -1,0 +1,7 @@
+ We consider a luxury supply chain in which one Stackelberg manufacturer sells products to consumers through a retailer . Driven by exclusivity or conformity consumers are classified as either snobs or conformists with uncertain preferences about the product . The manufacturer can obtain a private signal on this preference while the retailer can not . Results show that the manufacturer makes different market targeting schedules in response to different signals . Interestingly the manufacturer may benefit from either a no information a private information or an information sharing policy depending on its market targeting strategy . Not sharing the manufacturers information however is preferred by the retailer .
+
+@highlight Social influence on market targeting strategies for a luxury supply chain is examined.
+@highlight Manufacturer is more informative than retailer on consumers valuation on product.
+@highlight Manufacturers market targeting strategies are examined under asymmetric information.
+@highlight Manufacturer may be worse off by sharing its information with retailer.
+@highlight Private information policy is always preferred by retailer.

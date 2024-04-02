@@ -1,0 +1,6 @@
+ The adsorption of the F and Si atoms as well as the SiF molecule on the Si p surface is studied using first principle calculations . Our results show that the fluorine atom saturates the dangling bond of the surface while the silicon adatom forms two bonds with the surface atoms . For the adsorption of the SiF molecule we obtained one dissociative state which is the most stable one and seven non dissociative states . The minimum energy paths for F diffusion and SiF decomposition on the silicon surface are explored using the nudged elastic band method . Our study reveals that it is energetically favorable for the fluorine atom to diffuse from the SiF molecule to a surface site than the diffusion from surface site to another one .
+
+@highlight Fluorine silicon atoms and SiF molecule adsorption process on Si 001 p 22 surface have been studied.
+@highlight The minimum energy paths for F diffusion and SiF decomposition on the silicon surface are explored using the nudged elastic band NEB method.
+@highlight Our results show that the dissociative adsorption of the SiF molecule is energetically the most favorable.
+@highlight We have found that it is energetically easier for the fluorine atom to diffuse from the SiF molecule towards the surface than the diffusion from a surface site to another.

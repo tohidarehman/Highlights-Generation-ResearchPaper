@@ -1,0 +1,8 @@
+ Carbon capture and sequestration is known to be energy intensive and will result in 2030 reduction in net output of a power plant . However a simple thermodynamic tool is currently unavailable for assessing the work of CO
+
+@highlight Equivalent work required for CO
+@highlight capture is better than heat of reaction to measure power lost due to capture.
+@highlight Minimum work of separation using sorption is simply evaluated from room temperature isotherm data.
+@highlight It is independent of the heat of reaction and for most liquid sorbents independent of the amines used.
+@highlight Solid gas reactions require a higher minimum work.
+@highlight For TSA high sorbent capacity and heat recovery are most important and yield good estimates of overall work requirements.

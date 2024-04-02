@@ -1,0 +1,6 @@
+ This paper presents a methodological framework for constructing a non parametric index of corporate governance for banks . The index is constructed by aggregating six distinct dimensional indices capturing different dimensions of corporate governance namely board effectiveness audit function risk management remuneration shareholder rights and information and disclosure and transparency . For aggregation a tailored version of data envelopment analysis approach which is popularly known as constrained Benefit of the Doubt model is employed . This approach is unique and distinctive in the sense that it requires no
+
+@highlight The paper presents the methodological framework to construct a corporate governance index for banks using DEA based benefit of the doubt approach.
+@highlight This paper provides a comprehensive multi dimensional framework for assessing the corporate governance of a bank.
+@highlight An illustration is made using a data set of 40 Indian banks operating in the year 2017.
+@highlight The constrained BoD model used assigns endogenous weights to individual dimensions of bank governance.

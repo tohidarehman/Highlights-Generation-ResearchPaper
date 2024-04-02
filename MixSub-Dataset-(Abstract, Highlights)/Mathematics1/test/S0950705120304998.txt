@@ -1,0 +1,7 @@
+ Linear discriminant analysis is among the most popular supervised dimensionality reduction algorithms which has been largely followed in the fields of pattern recognition and data mining . However LDA has three major drawbacks . One is the challenge brought by small sample size problem second makes it sensitive to outliers due to the use of squared
+
+@highlight To alleviate the deviation caused by outliers we re formulate the weighted MMC with
+@highlight  norm and update the trusted global and intra class centroids adaptively during the iterative solving process.
+@highlight The
+@highlight  norm sparsity is introduced into the newly formulated MMC for jointly feature selection and sparse subspace learning which significantly reduces complexity and improves generalization for the model.
+@highlight A simple and efficient iterative algorithm is derived and its convergence is proved creatively and theoretically. Besides comparative experiments demonstrate the effectiveness of the proposed method.

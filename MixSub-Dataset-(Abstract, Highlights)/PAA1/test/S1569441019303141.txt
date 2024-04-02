@@ -1,0 +1,5 @@
+ We theoretically report that asymmetric transmission phenomenon of linearly polarized light enables an ultrasensitive and background free metamaterial sensor with a sensitivity of 47.5 THz RIU in the optical range . The asymmetric transmission in the metamaterial arises from the twist arrangement of two cascaded ring apertures and its asymmetric factor can reach 0.47 . Importantly by detecting the direction dependent polarization conversion the metamaterial is capable of sensing refractive index of surrounding medium . The sensing principle dictated by cross polarization makes the sensor background free since co polarization background noise is easily removed . The proposed metamaterial may open up opportunities to develop novel sensors and polarization modulators in the optical regime .
+
+@highlight Ultrasensitive and background free metamaterial sensor with 47.5 THz RIU sensitivity based on asymmetric transmission.
+@highlight Broadband asymmetric transmission and circular dichroism effects in chiral metamaterial.
+@highlight Promising scheme for practical applications of asymmetric transmission of linearly polarized wave.

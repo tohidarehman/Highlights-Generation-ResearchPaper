@@ -1,0 +1,5 @@
+ In this paper we present a multiscale model with application to the plasma etch process on a three dimensions substrate lattice with uniform thickness using the inductive coupled plasma . Specifically we focus on a etch process on silicon with patterned resistive mask . And a multiscale model is developed to simulate both the gas phase reactions and transportation phenomena in Cl
+
+@highlight A multiscale model with macroscopic fluid model and microscopic kMC model has been developed to simulate the plasma etch process.
+@highlight A neural network model has been used to approximate the microscopic dynamics to reduce computational complexity.
+@highlight A predictive optimizer based supervisory control scheme has been proposed to optimize low level control loops of the plasma etch process based on microscopic predictions from the neural network.

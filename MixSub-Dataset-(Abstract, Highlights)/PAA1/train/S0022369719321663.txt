@@ -1,0 +1,7 @@
+ In this study we use the operator projection method and descriptions of the FuchsKliewer Ridley and HuangZhu confined phonon models to investigate the influence of confined optical phonons on the magneto optical properties in parabolic quantum wells by calculating the expression for the absorption power . The full width at half maximum is obtained for the cyclotron resonance peak by using a computational method . The FWHM is defined as functions of the confinement frequency temperature and magnetic field for both the bulk phonon and confined phonon models . The results are discussed and compared with those for square quantum wells . The results show that the FWHM has a larger value in the parabolic quantum wells and it varies more rapidly than that in the square quantum wells for both the bulk phonon and confined phonon models . Thus phonon confinement has an important role and it should be considered when investigating the FWHM for parabolic quantum wells .
+
+@highlight Cyclotron resonance of the full width at half maximum CRFWHM calculated.
+@highlight CRFWHM increases with magnetic field temperature and confinement frequency.
+@highlight CRFWHM value larger for confined phonon than bulk phonon.
+@highlight CRFWHM values smallest for Ridley model but largest for Huang Zhu model.
+@highlight CRFWHM value larger for parabolic quantum wells than square quantum wells.

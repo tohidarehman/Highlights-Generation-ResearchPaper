@@ -1,0 +1,6 @@
+ Infusion of chimeric antigen receptor genetically modified T cells have led to remarkable clinical responses and cancer remission in patients suffering from relapsed or refractory B cell malignancies . This is a new form of adoptive T cell therapy whereby the artificial CAR enables the redirection of T cells endogenous antitumor activity towards a predefined tumor associated antigen leading to the elimination of a specific tumor . The early success in blood cancers has prompted the US Food and Drug Administration to approve the first CAR T cell therapies for the treatment of CD19 positive leukemias and lymphomas in 2017 . Despite the emergence of CAR T cells as one of the latest breakthroughs of cancer immunotherapies their wider application has been hampered by specific life threatening toxicities and a substantial lack of efficacy in the treatment of solid tumors owing to the strong immunosuppressive tumor microenvironment and the paucity of reliable tumor specific targets .
+
+@highlight CRS and neurotoxicity are the most common life threatening CAR mediated toxicities 
+@highlight Novel safety devices are emerging to tune CAR T cells activity and reduce toxicity 
+@highlight CAR T cells efficacy in solid tumors is hindered by the immunosuppressive TME 
+@highlight Strategies to inhibit the PD 1 CTLA4 axis allow CAR T cells to modulate the TME.

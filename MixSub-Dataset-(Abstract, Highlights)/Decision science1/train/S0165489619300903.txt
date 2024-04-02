@@ -1,0 +1,9 @@
+ Privacy in the sense of control over access to ones personal information is a central concern in the context of online decision making both in general and in relation to online platforms in particular . For at least some agents a belief that one online platform jeopardizes users privacy more than another may tip the scales in favor of the latter . Thus understanding how privacy considerations come into play is central for any economic or social analysis . To this end we study how agents rank online platforms from a privacy perspective . We propose a very simple model of privacy jeopardizing mechanisms along with a normative methodology for understanding how these mechanisms are ranked . Similarly to classic work in decision theory we postulate several axioms that we believe a privacy order should satisfy and then characterize the set of orders that comply with these axioms . These orders turn out to be related to the notion of
+
+@highlight We identify properties that characterize the concept of privacy loss.
+@highlight Then we identify a family of functions that represents these properties.
+@highlight The family of functions is
+@highlight  divergence where the function
+@highlight is monotonic.
+@highlight The result suggests application for comparing mechanisms in the context of privacy.
+@highlight We demonstrate the usefulness of this result by analyzing data provided by Microsoft Research.

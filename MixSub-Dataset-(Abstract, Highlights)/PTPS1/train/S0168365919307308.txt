@@ -1,0 +1,6 @@
+ Glioma is one of the most common aggressive brain malignancies but the treatment of glioma is still far from satisfying . The efficiency of chemotherapy the major choice of glioma treatment is severely limited by low chemotherapeutic agents delivery across blood brain barrier and low tumor retention . Therefore a safe and effective drug delivery system to help chemotherapy agents traverse the BBB and accumulate at tumor sites is urgently needed . Paclitaxel is one of the most common and effective chemotherapy agent however it suffers from extremely low solubility and BBB penetration ability . Herein we developed endogenous human ferritin heavy chain nanocage as PTX carrier which could specifically bind to widely overexpressed transferrin receptor 1 on BBB and glioma cells . We propose that this binding may help PTX cross the BBB and enhance its tumor accumulation . PTX loaded HFn was prepared and exhibited satisfactory targeting effect in Bend.3 and C6 cells
+
+@highlight Designing and Fabricating a heavy chain ferritin HFn with innate hollow center.
+@highlight PTX was loaded in the HFn HFn PTX through reversible dissemble assemble process.
+@highlight HFn PTX could traverse the BBB and enter the glioma cells through receptor mediated endocytosis.
+@highlight HFn PTX showed great antitumor effect and low side effect.

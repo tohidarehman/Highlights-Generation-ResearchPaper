@@ -1,0 +1,5 @@
+ A single SLM based full color holographic three dimensional display system using off axis color multiplexed hologram is proposed . In the proposed display system a specially designed optical element which consists of two prisms a transparent glass and RGB color filters is used to filter and refract the illuminated white light source into three primary colors with different directions . Such a process can enhance the separation angle of those color dispersed images . Thus the affiliated images caused by color dispersion will separate away from the master images . Finally a full color image can be reconstructed from a single SLM without any intrusion of affiliated images . Optical analysis and experiments with 3D color objects confirm the feasibility of the proposed system in the practical application .
+
+@highlight A simply structured full color holographic 3D display system using a single SLM.
+@highlight Taking full use of color dispersion for color holographic display on single SLM.
+@highlight Enlarge the separation of color dispersion using specially designed optical element.

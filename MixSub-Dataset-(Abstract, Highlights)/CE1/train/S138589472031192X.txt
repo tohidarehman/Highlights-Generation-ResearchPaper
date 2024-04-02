@@ -1,0 +1,7 @@
+ This work pursues the validation of a new reactor for the evaluation of char gasification kinetics . This novel reactor allows continuous gas flow through the fixed bed sample and accurately monitoring the mass loss throughout the reaction . Accordingly this thermogravimetric flow reactor has a great potential for the analysis of different thermochemical processes such as pyrolysis and gasification of solid feedstocks . In this paper the gasification of pine sawdust char was carried out and the effect carbon dioxide concentration and temperature have on char gasification kinetics was assessed . The experimental results were fitted to five different kinetic equations i.e . homogeneous model shrinking core model
+
+@highlight A thermogravimetric flow reactor was developed for analyzing gasification kinetics.
+@highlight The effect of CO
+@highlight concentration and temperature on char gasification was studied.
+@highlight Five different models were tested for the fitting of experimental results.
+@highlight The modified random pore model is the one of best fit to the experimental data.

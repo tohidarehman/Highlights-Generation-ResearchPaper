@@ -1,0 +1,7 @@
+ This paper presents the method implementation and validation of a borescope probe design tool devised for the challenges of optical fluid measurement techniques . The design tool is capable of predicting the path and power distribution of the laser beam through the probe and into the region interest ensuring a cost and time efficient design process that removes the need for experimental trials . The associated code is available as supplementary material .
+
+@highlight A new design tool was successfully employed for predicting the performance of a borescope.
+@highlight The advantage in using a high index of refraction material for a 90 reflection prism was shown.
+@highlight The advantage in using high LDT materials was demonstrated.
+@highlight A borescope was successfully employed for volumetric velocimetry measurements.
+@highlight Results were compared with previous measurements with good agreement.

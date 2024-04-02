@@ -1,0 +1,7 @@
+ The results of theoretical calculations for the ground and excited levels of the iridium neutral atom and its negative ion are presented and the corresponding photodetachment energies . Calculations were carried out with the four component multiconfiguration Dirac Hartree Fock method and with the spin free relativistic second and eight order Douglas Kroll Hess method and the infinite order two component method and high level correlated methods . The spin orbit coupling is introduced via the restricted active space state interaction method with the use of the atomic mean field SO integrals . The results are compared and interpreted in comparison with the experimental results . The theoretical analysis suggest different assignment and interpretation of atomic and anionic levels and existence of several anionic bound states . A comparative analysis of the accuracy of two component methods is also presented .
+
+@highlight Theoretical description of the energy levels of neutral iridium and its negative ion.
+@highlight Four component multiconfiguration Dirac Hartree Fock method.
+@highlight The spin free relativistic second and eight order Douglas Kroll Hess method.
+@highlight The infinite order two component method and high level correlated methods.
+@highlight Different theoretical assignment and interpretation of atomic and anionic states.

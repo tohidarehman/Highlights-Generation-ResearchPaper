@@ -1,0 +1,6 @@
+ The problem addressed in this paper seeks for an optimal routing of freight orders through an intermodal transportation network . We consider the case of environmentally aware customers that request to ship orders with no more than a specified amount of greenhouse gases which establishes so called emission limits . In order to ensure that a routing plan complies with each orders emission limit it is necessary to estimate emissions caused by the used transport services and to allocate these emissions to the orders . We model this problem under cost emission and service objectives and apply it to an intermodal rail road network in Europe .
+
+@highlight Orders with given emission limits are routed through an intermodal network.
+@highlight Emission limits impact the selection of allocation schemes and the orders routing.
+@highlight Emissions allocated to an order can increase if other orders have tight limits.
+@highlight Emission minimizing solutions often use a mix of allocation schemes in the network.

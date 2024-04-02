@@ -1,0 +1,5 @@
+ Satellite radar altimetry observations of water surface elevation have become an important data source to supplement river gauge records . Sentinel 3 is the first radar altimetry mission operating with a synthetic aperture radar altimeter at global scale and with a new on board tracking system which has great potential in terms of delivering reliable observations of inland water bodies for the next two decades . In this context it is very important to investigate the data quality at an early stage . In this study a comprehensive evaluation of Sentinel 3A is conducted at 50 virtual stations located on a wide range of rivers in China .
+
+@highlight Exhaustive evaluation of Sentinel 3 water surface elevation over 50 virtual stations across diverse river systems in China
+@highlight The Open Loop Tracking Command version 5 OLTC v5 has significantly improved the data quality over mountain rivers.
+@highlight A new retracker is proposed to retrack multi peak waveforms.

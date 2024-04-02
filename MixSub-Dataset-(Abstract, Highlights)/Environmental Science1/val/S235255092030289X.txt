@@ -1,0 +1,7 @@
+ In this study selection of sustainable suppliers and order allocation problem is generalized by considering multi product multi supplier and multi period scenarios with quantity discounts lost sales and varying supplier availabilities . The study is designed in four phases . In the first phase suppliers are ranked by using integrated the Fuzzy Analytic Hierarchy Process and fuzzy Preference Ranking Organization Method for Enrichment Evaluation considering social and environmental factors as well as economic factors . The output of the first phase is used in the second phase of the method . In the second phase a fuzzy multi objective optimization model is proposed to find quantities to be purchased from suppliers . In the third phase both the Augmented constraint method and LP metrics are used to obtain the Pareto front of the problem . Finally in the fourth phase a solution is selected by the Technique for Order of Preference by Similarity to Ideal Solution from the non dominated solutions . The effectiveness of the proposed method is shown on real data from a firm selling medical devices .
+
+@highlight Selection of sustainable suppliers and order allocation problem is addressed.
+@highlight More pareto solutions were found with the proposed method.
+@highlight An integrated method has been proposed for the problem.
+@highlight A fuzzy multi objective optimization model is proposed for the problem.
+@highlight Companies can develop procurement strategy using the proposed method.

@@ -1,0 +1,5 @@
+ In an anti Hermitian linear system all energy eigenvalues are purely imaginary and the corresponding eigenvectors are orthogonal . This implies that no stationary state is available in such systems . We consider an anti Hermitian lattice with cubic nonlinearity and explore novel nonlinear stationary modes . We discuss that relative population is conserved in a nonreciprocal tight binding lattice with periodical boundary conditions as opposed to parity time symmetric lattices . We study nonlinear nonrecipocal dimer triple and quadrimer models and construct stationary nonlinear modes .
+
+@highlight We find that nonlinear stationary modes are available in nonlinear nonreciprocal lattices.
+@highlight We discuss that relative population is conserved in a nonlinear nonreciprocal dimer.
+@highlight We explore stability of modes for nonlinear extension of anti Hermitian lattices.

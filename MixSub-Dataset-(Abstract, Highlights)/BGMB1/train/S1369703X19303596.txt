@@ -1,0 +1,7 @@
+ An optimization workflow is introduced which integrates multi objective optimization of lignocellulolytic enzyme cocktail ingredients with a bioethanol production process where the enzymes are utilized . The workflow integrates data collection via exploratory experiments modeling via Kriging Pareto based multi objective optimization and process simulation . The critical links in the integration are calculation of enzyme cocktail performance and cost . This allows the identification of the best Pareto optimal result depending on process simulation results . The workflow is demonstrated on a case study involving the production of lignocellulolytic enzymes laccase glucosidase and carboxymethyl cellulase by a white rot fungus
+
+@highlight growth conditions are optimized for Lac Bet and Cmc activities.
+@highlight A novel workflow integrating experiments and process simulations is offered.
+@highlight Kriging is used to model time profile data from activity measurements.
+@highlight The workflow is demonstrated on a bioethanol production process case study.
+@highlight Significance of Bet activity favors yeast extract dominated optimal growth medium.

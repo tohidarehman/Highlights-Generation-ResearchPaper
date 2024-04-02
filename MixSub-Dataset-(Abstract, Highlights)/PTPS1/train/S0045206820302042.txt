@@ -1,0 +1,7 @@
+ Gemcitabine a cytostatic drug from the pyrimidine antimetabolite group exhibits limited storage stability and numerous side effects during therapy . One of the strategies to improve the effectiveness of therapy with such drugs is the use of supramolecular nano containers including dendrimers and macrocyclic compounds . The ability of gemcitabine to attach a proton in an aqueous environment necessitates the search for a carrier that is well tolerated by an organism and capable of supramolecular binding of a ligand in a cationic form . In the current study a promising strategy was tested for using cucurbituril Q7 to bind gemcitabine cations for its efficient intracellular delivery on three selected cancer cell lines . Based on physicochemical studies equilibrium dialysis UV and
+
+@highlight Dialysis 
+@highlight H NMR and DOSY NMR show formation of gemcitabine and Q7 complex.
+@highlight Inclusion of Gem by Q7 is thermodynamically spontaneous.
+@highlight Complexed Gem crosses membranes of cells with blocked hENT1 in vitro.
+@highlight Gem Q7 penetrates into cancer cells MOLT4 THP 1 and U937 in hENT1 independent way.

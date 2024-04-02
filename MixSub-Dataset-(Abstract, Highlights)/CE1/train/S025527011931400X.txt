@@ -1,0 +1,6 @@
+ This work investigates a novel synthesis route of n Propyl Propionate using a Simulated Moving Bed Reactor packed with Amberlyst 46 resin . Simultaneously it is presented a novel method for SMBR units design and optimization . The results demonstrate that the unit is capable of producing the n Propyl Propionate with high purity and conversion over 99 . Furthermore the productivity associated with its low consumption of eluent and its operation at significantly lower temperature provides evidence that the SMBR may be an efficient and competitive route to produce n Propyl Propionate . Moreover the swarm optimization method here used showed to be a powerful optimization tool while simultaneously providing deep information about the SMBR process feasible operating region .
+
+@highlight A novel route of synthesis of n Propyl Propionate using a True Moving Bed Reactor is proposed.
+@highlight A novel method to design and optimize a True Moving Bed Reactor unit is presented.
+@highlight The results demonstrate that the unit can produce the n Propyl Propionate with purity and conversion over 99 .
+@highlight The Simulated Moving Bed Reactor can be an efficient and competitive route to produce n Propyl Propionate.

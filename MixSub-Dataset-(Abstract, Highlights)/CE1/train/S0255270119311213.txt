@@ -1,0 +1,6 @@
+ The performance of a dual helical ribbon impeller in a gassed stirred tank reactor filled with a shear thinning polymer has been investigated experimentally in this study . Sodium carboxymethyl cellulose with different concentrations were applied to change the viscosity and rheological behaviour of working fluid . Titration reaction between HCl and NaOH then took place inside the reactor under controlled pH evaluating the influence of a dual helical ribbon impeller on the performance of a two phase agitated reactor . The impact of impeller rotational speed gas flow rate viscosity and clearance to the bottom on power uptake and mixing time are explored . The results thus reveal that the presence of bubbles reduces both required power uptake and mixing time to reach an endpoint reaction . Contrary to expectations this study indicates that increasing the impeller s speed beyond a certain level not only fails to further reduction in mixing time whilst the power uptake increases exponentially .
+
+@highlight The performance of a helical ribbon agitator in a two phase reactor was evaluated.
+@highlight Presence of bubbles leads to a reduction in mixing time and power uptake.
+@highlight Reynolds and power numbers are correlated practically for helical ribbon agitator.
+@highlight Influential parameters on mixing performance were optimized using RSM method.

@@ -1,0 +1,6 @@
+ Capillary electrophoresis tandem mass spectrometry is an interesting tool for proteomic analysis as the separation principle is orthogonal to liquid chromatography tandem mass spectrometry . The combination of both techniques can bring complementary information to enlarge proteome coverage .
+
+@highlight Two sample preconcentration approaches were optimized to improve sensitivity.
+@highlight DPJ provided better results than t ITP in terms of peak width and peak height.
+@highlight Triple tube and EMASS interfaces for CEMS were compared.
+@highlight The number of identified peptides and proteins was compared using both interfaces.

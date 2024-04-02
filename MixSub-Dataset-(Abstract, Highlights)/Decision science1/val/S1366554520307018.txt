@@ -1,0 +1,6 @@
+ This paper proposes an origin based air travel demand model that assumes saturation at the origin level and explicitly accounts for substitutability between destinations . We simultaneously integrate demand generation and allocation by means of a multilevel aggregate nested logit formulation that covers the choices of whether or not to travel by air where to travel and how to travel . Two specifications are proposed to reflect systematic differences between lengths of haul and the bootstrap is applied to jointly address endogeneity issues and data missingness . The validity of the proposed approach is tested over the entire network of outbound air trips from Italy in 2018 .
+
+@highlight Integrated demand generation and allocation model assuming demand saturation at origin level.
+@highlight Separate modeling by travel lengths highlights different sensitivities to air travel determinants.
+@highlight Air transport supply found to significantly affect destination choice and air trip making.
+@highlight Assessment of newly generated demand and passengers allocation on itineraries and destinations.

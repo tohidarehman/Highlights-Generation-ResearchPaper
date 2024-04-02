@@ -1,0 +1,7 @@
+ Transportation is one of the logistical drivers in supply chains . Transportation disruption is costly in supply chains . This paper aims to assess transportation disruption risks using a Bayesian Belief Network . First the disruption risk factors and their sub factors were identified from the relevant articles and experts opinions . The BBN based model is developed to calculate the marginal probabilities of the risk factors and their sub factors to determine the most sensitive factors sub factors . The framework was demonstrated using an example case of the pharmaceutical industry in Bangladesh . The findings reveal the usefulness of BBN in examining transportation disruptions in supply chains . BBN captured the interdependencies between the disruption risk factors sub factors effectively . The proposed model will be useful to managers for predicting transportation disruptions and to build resilient strategies to tackle them .
+
+@highlight BBN model to examine transportation disruption risk.
+@highlight Captures probabilistic relationships or dependencies of variables from cause effect characteristics.
+@highlight Knowledge based BBN model to assess the transportation disruption risk for different scenarios.
+@highlight Capable to perform predictive analysis diagnostic analysis and sensitivity analysis.
+@highlight Capable of updating information and reduce uncertainty.

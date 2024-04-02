@@ -1,0 +1,7 @@
+ Magnetic resonance spectroscopy is an advanced biochemical technique used to identify metabolic compounds in living tissue . While its sensitivity and specificity to chemical imbalances render it a valuable tool in clinical assessment the results from this modality are abstract and difficult to interpret . With this design study we characterized and explored the tasks and requirements for evaluating these data from the perspective of a MRS research specialist . Our resulting tool SpectraMosaic links with upstream spectroscopy quantification software to provide a means for precise interactive visual analysis of metabolites with both single and multi peak spectral signatures . Using a layered visual approach SpectraMosaic allows researchers to analyze any permutation of metabolites in ratio form for an entire cohort or by sample region individual acquisition date or brain activity status at the time of acquisition . A case study with three MRS researchers demonstrates the utility of our approach in rapid and iterative spectral data analysis .
+
+@highlight SpectraMosaic allows for interactive visual analysis of MRS single voxel ratios.
+@highlight With our tool experts may analyze complete complex metabolite signatures.
+@highlight A tiered visual encoding system provides a prioritized layered analysis approach.
+@highlight The first analysis level compares user defined metabolite groupings.
+@highlight A second analysis level compares region individual time point and brain state.

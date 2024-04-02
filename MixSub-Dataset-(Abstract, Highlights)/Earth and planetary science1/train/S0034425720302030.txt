@@ -1,0 +1,6 @@
+ Satellite interferometric synthetic aperture radar is emerging as a viable low cost alternative method to airborne laser scanning for forest inventory though little research has examined its efficacy for plantation forests located in temperate regions on steep terrain . InSAR and ALS data were collected from Geraldine Forest which is located on rolling to very steep topography in the southeast of New Zealand . These data were combined with an extensive set of plot measurements from which mean top height
+
+@highlight Models using InSAR data provided a reasonable level of precision for H and TSV.
+@highlight CHM derived from InSAR DSM and ALS DTM significantly improved the predictions.
+@highlight InSAR DSM and DTM errors were within the WorldDEM target but increased with slope.
+@highlight CHM errors increased with slope but the final InSAR models were invariant to slope.

@@ -1,0 +1,5 @@
+ In this research the removal of trihalomethanes contaminations from aqueous solution was investigated by molecular dynamics simulation method . Three graphene oxide membranes which functionalized by F OH and H functional groups were used . For the removal of THMs from water the external hydrostatic pressure was applied to the simulation box in the range of 5100MPa . The results of simulations indicated that the GO nanosheets as a membrane with various functionalized pores were impermeable to THM molecules while water molecules could permeate through the pore of the GO membrane with high permeability . The molecular simulations results were confirmed by some analyzes such as the potential of mean force water flux hydrogen bonds density profile etc .
+
+@highlight The removal of THMs using graphene oxide was investigated by MD simulation.
+@highlight The permeation of species dependents on the chemical functions and pore size.
+@highlight The PMF calculations were consistent with the results of the MD simulations.

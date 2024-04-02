@@ -1,0 +1,15 @@
+ Poly polymerase 1 a widely explored anticancer drug target plays an important role in single strand DNA break repair processes . High throughput virtual screening of a Maybridge small molecule library using the PARP1 benzimidazole 4 carboxamide co crystal structure and pharmacophore model led to the identification of eleven compounds . These compounds were evaluated using recombinant PARP1 enzyme assay that resulted in the acquisition of three PARP1 inhibitors
+
+@highlight Virtual screening hit
+@highlight was identified PARP1 IC
+@highlight  5.8
+@highlight M .
+@highlight Compound
+@highlight was optimized via analogue synthesis and scaffold hopping.
+@highlight Series of regioisomeric pairs were assigned using HMBC NMR technique.
+@highlight Compound
+@highlight  IC
+@highlight  0.082
+@highlight M was identified as the most potent inhibitor.
+@highlight Docking model of
+@highlight  PARP1 complex will facilitate future optimization.

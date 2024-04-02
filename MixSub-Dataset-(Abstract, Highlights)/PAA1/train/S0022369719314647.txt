@@ -1,0 +1,6 @@
+ Two dimensional layered materials like graphene phosphorene and silicene are promising materials for use as anodes in Li and Na ion batteries . However during synthesis of these materials point defects single vacancy divacancy or StoneWales type are quite likely to form and to change the performance as an anode material . In this study the influences of these defects on Na adsorption performance in black phosphorene are investigated . We conclude that these defects could affect performance of phosphorene as an anode material negatively in the case of DV 2 SV and SW 2 defects but positively for DV 1 and SW 1 defects . This impact on the performance is greatest in both paths for SW 2 defects with the diffusion coefficient almost zero . However the SW 1 and DV 1 defects could improve Na diffusion in phosphorene making these desirable for phosphorene as anode material for Na ion batteries .
+
+@highlight Influence of Na atom on point defect phosphorene is investigated.
+@highlight First principles calculations within the DFT formalism are used.
+@highlight Electronic structure of defected phosphorenes in presence of Na are investigated.
+@highlight Diffusion of Na atoms in point defect phosphorene is investigated.

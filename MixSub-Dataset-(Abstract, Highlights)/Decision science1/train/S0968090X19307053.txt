@@ -1,0 +1,7 @@
+ Origin Destination matrix is a tableau of travel demand distributed between different zonal pairs . Essentially OD matrix provides two types of information the individual cell value represents travel demand between a specific OD pair and group of OD pairs provides insights into structural information in terms of distribution pattern of OD flows . Comparison of OD matrices should account both types of information . Limited studies in the past developed structural similarity measures and most studies still depend on traditional measures for OD matrices comparison . Traditional performance measures are based on cell by cell comparison and often neglect OD matrix structural information within their formulations .
+
+@highlight OD matrix structure is defined as its skeletal framework.
+@highlight The OD flows corresponding to the skeleton is termed as mass.
+@highlight A holistic comparison of OD matrices should include its structure and mass.
+@highlight Normalised Levenshtein distance for OD matrices NLOD is proposed for the structural comparison.
+@highlight NLOD satisfies the mathematical properties of a distance measure.

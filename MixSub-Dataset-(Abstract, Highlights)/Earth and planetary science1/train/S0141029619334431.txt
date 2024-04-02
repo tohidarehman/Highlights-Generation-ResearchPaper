@@ -1,0 +1,5 @@
+ A phenomenological hysteretic model is developed for corroded RC columns in this study . To this end the test data of 77 corroded rectangular RC columns and 26 uncorroded ones under repeated cyclic loads are collected to establish a database . A polygonal hysteretic model that can well incorporate the degradation of stiffness and strength is adopted to describe the hysteretic behavior of corroded columns . The hysteretic model parameters related to monotonic backbone i.e . yield moment
+
+@highlight A phenomenological hysteretic model for corroded RC columns was developed.
+@highlight The parameters of the phenomenological hysteretic model were calibrated based on test data.
+@highlight Empirical prediction equations were generated for the parameters of the developed hysteretic model.

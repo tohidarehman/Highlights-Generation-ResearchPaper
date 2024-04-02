@@ -1,0 +1,6 @@
+ A camouflaged encryption method based on ghost imaging is proposed . During the encryption process a light source illuminates a camouflaged image with specific modulated patterns and a generated sequence of intensity is transmitted to the receiver as a ciphertext . The ciphertext is captured by authorized receivers and potential eavesdroppers . Only authorized receivers with keys can obtain the secret image while eavesdroppers can obtain camouflaged images only even if they steal the ciphertext and keys . The secret image is hidden by the camouflaged image which protects the security of the secret image by confusing the eavesdropper . The feasibility and safety of this method in practical applications were verified by a series of simulations and experiments .
+
+@highlight This method realizes double encryption and improves security.
+@highlight Construct special light fields to achieve the same ciphertext decrypted by different keys will have different results.
+@highlight The existence of camouflaged image guarantees the security of secret image.
+@highlight This method has strong resistance to statistical analysis and iterative attacks and it has strong robustness.

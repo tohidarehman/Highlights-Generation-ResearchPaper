@@ -1,0 +1,10 @@
+ In flotation the fluidization can enhance the coarse particle recovery which is dependent on the quiescent flow condition and is also affected by the liquidsolid interphase drag force . In this study the liquid and particle flow behaviours are investigated by using the Eulerian Eulerian two fluid model combining the kinetic theory of granular flow coupled with the RNG
+
+@highlight Spherical and aspherical drag models are examined in liquidsolid fluidized bed.
+@highlight Drag models based on irregular particle show best results than spherical drag.
+@highlight Restitution and specularity coefficient 
+@highlight  are quantified.
+@highlight Location of strong circulation in fluidized bed is identified and discussed.
+@highlight Nearly inelastic collision or no slip case shows less effect on granular temperature.
+@highlight Liquid velocity and
+@highlight affect significantly on solid pressure for nearly no slip case.

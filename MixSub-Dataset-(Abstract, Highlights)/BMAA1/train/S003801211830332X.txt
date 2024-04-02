@@ -1,0 +1,7 @@
+ In data envelopment analysis and with a variable returns to scale production technology we apply Banker s approach to determine the relationship between technically and cost efficient industry structures featuring reallocation of outputs and a variable number of firms . The interpretation based on the most productive and optimal scale size notions allows us to both establish an inequality relationship between the corresponding industry efficiency measures and provide adequate information on optimal solutions . At the applicative level we introduce an exact algorithm to solve related non linear programming problems thus providing the decision maker with an accurate method for computing and comparing the input and output mixes and the optimal number of units obtained in the two allocations . Empirical illustration given with reference to the Italian local public transit sector and employing a multiple inputs and outputs technology reveals striking differences with regard to the managerial and regulatory implications of the two centralized allocations .
+
+@highlight Apply Banker s 1984 approach to efficient centralized allocations.
+@highlight Determine the relationship between technical and cost efficiency industry measures.
+@highlight Propose a new exact algorithm for computing optimal allocations.
+@highlight Compare our algorithm with that of mixed integer programming.
+@highlight Show differences between technically and cost optimal centralized allocations.

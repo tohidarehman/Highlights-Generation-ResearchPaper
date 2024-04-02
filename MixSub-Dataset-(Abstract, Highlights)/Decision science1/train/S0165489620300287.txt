@@ -1,0 +1,7 @@
+ The paper uses the most general version of a DixitStiglitz economy and the concept of oligopolistic equilibrium defined in previous work with firms maximizing profits in prices and quantities under a market share and a market size constraint . The purpose here is to take even more advantage of separability so as to partition the oligopolistic sector into groups . Weak separability simplifies quantity conjectures and homothetic separability simplifies price conjectures . Oligopolistic equilibria can in addition be approximated by introducing group expenditure conjectures . Finally the way different groups interact within the same industry is illustrated within the same framework .
+
+@highlight We apply our concept of oligopolistic equilibrium to a DixitStiglitz economy.
+@highlight Preference separability is used to partition the oligopolistic sector into groups.
+@highlight Weak resp. homothetic separability simplifies quantity resp. price conjectures.
+@highlight Oligopolistic equilibria are approximated by assuming group spending conjectures.
+@highlight We also illustrate the way different groups interact within the same industry.

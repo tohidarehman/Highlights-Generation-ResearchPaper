@@ -1,0 +1,5 @@
+ Food insecurity in Ethiopia is a persistent development challenge . In this paper we investigate the effects of rural outmigration on indicators of household food security in Ethiopia . The empirical data come from a two year panel data collected from three regions of the country . To control for the potential endogeneity of migration and migration selection bias our estimation uses a combination of a difference in difference model and an inverse probability of treatment weighting approach . We find that on average rural outmigration has significantly improved the amount of daily calories consumed per adult equivalent by around 22 . Our estimation results also show that outmigration has significantly reduced food poverty gap and severity of food poverty by seven and four percentage points respectively .
+
+@highlight Rural outmigration continues to be an important phenomenon in Ethiopia.
+@highlight We examine impacts on household food security outcomes of rural outmigration.
+@highlight Our estimation results show rural outmigration has significantly improved household food security outcomes.

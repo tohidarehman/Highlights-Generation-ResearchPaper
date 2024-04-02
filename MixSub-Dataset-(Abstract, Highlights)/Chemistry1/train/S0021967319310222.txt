@@ -1,0 +1,7 @@
+ Nintedanib is a tyrosine kinase inhibitor recently approved for the treatment of idiopathic pulmonary fibrosis . As a new drug no monograph is available so far in official compendia . A liquid chromatography tandem mass spectrometry method is presented for the simultaneous determination of NIN and its seven potential impurities . The risk based approach of Analytical Quality by Design was applied in method development . The critical method parameters were the type of organic solvent in the mobile phase formic acid percentage column flow rate oven temperature gradient slope of organic eluent . The critical method attributes were selected as analysis time and selectivity between the main compound NIN and the adjacent peaks . Design of Experiments methodology was effectively employed for establishing the relationship between the CMPs and the CMAs . In the scouting step a Restek Ultra AQ C18 core shell column was selected and then the effects of different levels of the five CMPs on the CMAs were evaluated by means of a 3
+
+@highlight A LC MS MS method for the assay of nintedanib and its impurities was developed.
+@highlight Method development was carried out by Analytical Quality by Design approach.
+@highlight A 35 16 symmetric matrix was used in the screening phase.
+@highlight Box Behnken Design allowed the contour plots to be obtained.
+@highlight Method operable design region was defined by drawing probability map.

@@ -1,0 +1,7 @@
+ Micelles as a class of drug delivery systems are underrepresented among United States Food and Drug Administration approved drugs . A lack of clinical translation of these systems may be due to in part to a lack of understanding of micelle interactions with biologic fluids following injection . Despite the limited clinical translation micelles remain an active area of research focus and pre clinical development . The goal of the present study was to examine the stability of amphiphilic block copolymer micelles in biologic fluids to identify the properties and components of biologic fluids that influence micelle stability . Micelle stability measured via Frster resonance energy transfer based fluorescent spectrometry was complemented with density ultracentrifugation to reveal the colocalized or dissociated state of the dye cargo after exposure to human biologic fluids . Polymeric micelles composed of poly ethylene glycol
+
+@highlight Human serum is one of the most destabilizing biologic fluids for polymer micelles.
+@highlight Polymer micelles appear stable in human cerebrospinal fluid.
+@highlight Biologic fluid total protein lipid do not predict micelle instability.
+@highlight Typical micelle parameters do not predict with destabilization in biologic fluids.
+@highlight Gradient ultracentrifugation complements other micelle characterization methods.

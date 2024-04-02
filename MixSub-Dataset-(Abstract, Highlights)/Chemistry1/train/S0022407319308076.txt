@@ -1,0 +1,7 @@
+ Metallic nanoparticles scatter sun light efficiently at resonance wavelength where the scattering and absorption in the nanoparticles are highly influenced by shape size material composition host medium and volume fraction of the nanoparticles in the host medium . We present transfer matrix method and Mie theory based a modified analytical model to optimize the scattering property of nanoparticles and to simulate power transfer from the metallic nanoparticles layer into an absorber layer
+
+@highlight Light scattering and absorption in metallic nanoparticles are studied with Mie theory.
+@highlight A TMM based analytical model for power transfer from nanoparticle layer into a solar cell absorber is developed.
+@highlight Metal nanoparticles with an absorber layer is studied.
+@highlight Al nanoparticles based proposed structure demonstrates higher power transfer than Ag Au and Cu nanoparticles.
+@highlight Au and Cu nanoparticles show high backscattering in visible region.

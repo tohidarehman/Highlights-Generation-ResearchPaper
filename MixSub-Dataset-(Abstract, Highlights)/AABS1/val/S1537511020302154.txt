@@ -1,0 +1,9 @@
+ The drying of biomass particles is an important industrial process where heat and mass transfer simultaneously occur . Following on from our previous work on convective heat transfer here we report experimental results obtained by analysing the mass transfer between the gas and the surface of the wood particles during drying in a mechanically stirred fluidised bed . It is assumed that during the constant drying rate period the moisture concentration of the gas on the surface of the particle is constant . The results have allowed us to obtain a correlation between the Sherwood number and the Reynolds number in the range of
+
+@highlight Experimental results on mass transfer between the gas and wood particles.
+@highlight Convective mass transfer coefficient for the drying of forest biomass particles.
+@highlight The experiences were carried out in a in a mechanically stirred fluidised bed dryer.
+@highlight Mass transfer coefficient varied between 610
+@highlight and 2010
+@highlight ms
+@highlight A correlation between the Sherwood number and the Reynolds number is proposed.

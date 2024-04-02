@@ -1,0 +1,7 @@
+ Research has been focusing increasingly on measuring students prior economic knowledge in higher education . However in German speaking countries valid instruments are rare . A diagnostic study investigated the validity and fairness of an internationally established economic knowledge test with a representative sample of 7664 students from 46 universities across Germany . Previous findings with the dataset
+
+@highlight Exploring language and gender specific biases on missing value patterns.
+@highlight Test fairness of a knowledge test for business and economics in higher education.
+@highlight Approach to methodically overcoming biases after completed test development.
+@highlight Imputation strategies to counteract this kind of distortions of test fairness.
+@highlight Recommendation of a reflected use of testing instruments in educational practice.

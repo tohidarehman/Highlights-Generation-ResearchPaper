@@ -1,0 +1,7 @@
+ Estimations of the facility footprint and fixed capital investment of cell therapy facilities need to consider the unique features of the single use technologies selected for CT manufacture and the product nature that impacts scale out versus scale up approaches . A novel detailed factorial methodology is proposed for estimating FCI and footprint for bespoke stick built cell therapy facilities that accounts for technology specific factors for key cell culture technologies as well as the implications of SUTs open versus closed operations and the commercialisation scenario selected . This was used to derive benchmark values for short cut cost and area factors for typical cell therapy facilities according to the technologies selected . The results provide project specific ratios for equipment purchase costs to facility footprint and for FCI to total equipment purchase costs . Area factors m
+
+@highlight Factorial methodology for fixed capital investment FCI of cell therapy facilities.
+@highlight Considers impact of single use technologies SUTs on facility design.
+@highlight Considers the product nature that impacts scale out versus scale up approaches.
+@highlight Benchmark values provided for cost and area factors for cell therapy facilities.
+@highlight Autologous versus allogeneic facility footprints and FCI values compared.

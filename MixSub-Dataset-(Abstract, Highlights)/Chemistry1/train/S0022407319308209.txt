@@ -1,0 +1,7 @@
+ Heritage atmospheric correction and ocean inherent optical property retrieval algorithms such as those implemented in NASAs SeaDAS platform often produce questionable results in complex environments such as in turbid coastal and inland waters and for heavy aerosol loadings . We present new AC and ocean IOP retrieval algorithms for the Medium Resolution Spectral Imager II onboard the FengYun 3D satellite that solve these problems . The algorithm development is based on extensive radiative transfer simulations for a coupled atmosphere ocean system in conjunction with machine learning techniques to retrieve ocean color products from MERSI II sensor data . The final ocean color products include spectral remote sensing reflectances
+
+@highlight New AC and ocean IOP algorithms developed for YF 3D MERSI II sensor.
+@highlight First ocean color products from FY 3D MERSI II sensor are demonstrated.
+@highlight Algorithm based on machine learning method driven by coupled atmosphere ocean RT simulations.
+@highlight Completely resolved negative water leaving signal issue plagues heritage algorithms.
+@highlight Algorithm is globally applicable reliable robust and efficient.

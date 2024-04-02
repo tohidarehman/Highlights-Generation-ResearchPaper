@@ -1,0 +1,6 @@
+ Metabolomics is a rapidly expanding technology that finds increasing application in a variety of fields form metabolic disorders to cancer from nutrition and wellness to design and optimization of cell factories . The integration of metabolic snapshots with metabolic fluxes physiological readouts metabolic models and knowledge informed Artificial Intelligence tools is required to obtain a system level understanding of metabolism . The emerging power of multi omic approaches and the development of integrated experimental and computational tools able to dissect metabolic features at cellular and subcellular resolution provide unprecedented opportunities for understanding design principles of metabolic regulation and for the development of precision therapies in multifactorial diseases such as cancer and neurodegenerative diseases .
+
+@highlight High content and physiological readouts allow precise definition of the system level metabolic state of cells or tissues.
+@highlight Constraint based metabolic models provide a knowledge based opportunity to integrate bulk single cell and multi omic data.
+@highlight Systems metabolomics combines a wide array of techniques to obtain detailed pictures of the dynamic state of metabolism.
+@highlight Routine clinical application requires appropriate proxy readouts designed upon identification of design principles.

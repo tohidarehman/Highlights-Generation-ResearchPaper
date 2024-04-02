@@ -1,0 +1,6 @@
+ Scenario based testing is crucial for considering the intended functional safety of automated driving vehicles . For the first time pre crash scenario mining research was conducted using worldwide accident data obtained from the Initiative for the Global Harmonization of Accident Data . First data from the IGLAD database were analyzed and divided into four categories based on differences in traffic environments among countries and regions . Second according to actual accident characteristics fields and methods of clustering were selected and 21 typical pre crash scenarios were obtained using clustering and analysis . Finally the typical scenarios were analyzed and compared in detail .
+
+@highlight Countries in 3 G are an ideal data source for the international scenario research.
+@highlight Scenarios mined in this paper highly consistent with Euro NCAP 2025 Roadmap.
+@highlight Some critical scenario elements are missing in Euro NCAP 2025 Roadmap.
+@highlight Some critical information is missing in IGLAD database.

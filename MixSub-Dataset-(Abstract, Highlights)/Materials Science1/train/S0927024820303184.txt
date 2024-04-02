@@ -1,0 +1,6 @@
+ Absorber coatings in concentrating solar power convert focused solar radiation into heat . Competitive and reliable CSP technologies require absorber coatings to be stable at high temperatures for many years of operation and thus accelerated ageing tests are essential to evaluate and further develop these coatings . However the ageing mechanisms are largely unknown with previous studies mainly focusing on isothermal annealing or rapid cycling thermal tests not the more realistic cycle and hold thermal cycling caused by cloud shading . This investigation reports the effects of IT CH and RC on degradation of Pyromark 2500 on Inconel 625 . CH thermal cycling was a combination of IT equivalent heating time at
+
+@highlight Degradation mechanisms of Pyromark 2500 on Inconel 625 due to isothermal and cycling ageing were investigated.
+@highlight Thermal cycling promoted sintering of silica binder between well formed spinel crystal grains improving light trapping.
+@highlight Sintering seems to have produced wider cracks due to coating shrinkage.
+@highlight Stand alone isothermal and rapid cycling ageing may not reproduce realistic coating degradation due to nonlinear effects.

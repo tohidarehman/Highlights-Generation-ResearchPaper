@@ -1,0 +1,7 @@
+ This paper reviews and systematically classifies the existing literature of bicycle sharing service planning problems at strategic tactical and operational decision levels with the reference to the novel bicycle sharing service planning process introduced herein . The current research gaps are identified and discussed . The future research directions of the three decision level problems are proposed according to four main categories namely new diversity realism integrality and technology . This review also points out important future research directions for multi level BSPPs and the integration of bicycle sharing systems with existing multi modal transportation systems .
+
+@highlight We provide a comprehensive survey of bicycle sharing service planning problem studies.
+@highlight We offer a systematic classification of the problems.
+@highlight We introduce a novel planning process for bicycle sharing services.
+@highlight We identify potential research gaps.
+@highlight We provide future research directions.

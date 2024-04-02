@@ -1,0 +1,6 @@
+ In recent years large amount of high spatial resolution remote sensing images are available for land cover mapping . However due to the complex information brought by the increased spatial resolution and the data disturbances caused by different conditions of image acquisition it is often difficult to find an efficient method for achieving accurate land cover classification with high resolution and heterogeneous remote sensing images . In this paper we propose a scheme to apply deep model obtained from labeled land cover dataset to classify unlabeled HRRS images . The main idea is to rely on deep neural networks for presenting the contextual information contained in different types of land covers and propose a pseudo labeling and sample selection scheme for improving the transferability of deep models . More precisely a deep Convolutional Neural Networks is first pre trained with a well annotated land cover dataset referred to as the
+
+@highlight A method to learn transferable deep model for 5 class land cover LC classification.
+@highlight A labeled dataset consisting of 150 Gaofen 2 images for LC classification.
+@highlight It improves LC classification performance about 20 using multi source RS images.
+@highlight The method shows good transferability on different sensors and geolocations.

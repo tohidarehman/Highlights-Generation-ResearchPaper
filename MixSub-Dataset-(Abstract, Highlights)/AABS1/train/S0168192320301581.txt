@@ -1,0 +1,7 @@
+ Evapotranspiration is an important component of the water cycle and surface energy balance system . Accurate measurements and estimations of ET can be used to manage and allocate regional water resources and in agricultural water management under climate change . Satellite based ET models extrapolate site ET values to regional scales but there are uncertainties in their simulations . In this study the use of satellite based ET models including the ShuttleworthWallaceHu Surface Energy Balance Algorithm for Land and the moderate resolution imaging spectroradiometer ET product was validated and their applicability in Northwest China were compared . In addition the sensitivity of these models to driving data and the correlation between the models were analyzed . Results showed that the SWH model provided superior applicability in Northwest China followed by SEBAL and MOD16 . The correlation coefficient mean relative error root mean square error and index of agreement of the ET simulated by SWH compared with the eddy flux of the Haibei station were 0.90 0.39 mmd
+
+@highlight SWH SEBAL and MOD16 models are used to estimate ET in Northwest China.
+@highlight SWH model provides superior applicability in Northwest China.
+@highlight Model simulation effects are discussed with respect to the simulation mechanism.
+@highlight SWH model has higher sensitivity to driving data.
+@highlight Correlations between the models are high during the vegetation growth period.

@@ -1,0 +1,7 @@
+ Remote sensing assessments of land use and land cover change are critical to improve understanding of socio economic institutional and ecological processes that lead to and stem from land use change . This is particularly crucial in the emerging frontiers of Southern Africa where there is a paucity of LULCC studies relative to the humid tropics . This study focuses on Guru District 5606km
+
+@highlight Pixel based compositing impacts classification results.
+@highlight Median compositing performed best for disaggregating cropland by field size.
+@highlight Collect Earth data can be used to train and test classification algorithms.
+@highlight Textural features facilitate the separation of small and large scale cropland.
+@highlight Mapping cropland scale dynamics can improve understanding of land and food systems.

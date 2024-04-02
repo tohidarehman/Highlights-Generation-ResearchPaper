@@ -1,0 +1,8 @@
+ The binding energy of atoms in substances exceeds the energy of the harmonic vibrator owing to the anharmonicity . Experiments show reduction of the anharmonic component of binding energy in solids under high pressures . These data allow us to determine values of pressures when the coefficients of thermal expansions become equal to zero i.e . when the harmonic phase transition occurs .
+
+@highlight Atomic vibratio energies in solid elements 
+@highlight  are determined from force constants and vibration amplitudes.
+@highlight Formation enthalpies of elements at room temperature and 0K differ by more than
+@highlight due to anharmonicity. .
+@highlight High pressures reduce anharmonicity of atomic vibrations and ultimately make them harmonic harmonic phase transition .
+@highlight For 41 metallic elements we determined the pressures of such transitions.

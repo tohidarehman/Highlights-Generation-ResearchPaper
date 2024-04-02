@@ -1,0 +1,7 @@
+ Mobility as a Service is expected to significantly change mobility patterns yet it is still not clear who will embrace this new mobility paradigm and how MaaS will impact passengers transportation . In the paper we identify factors relevant for MaaS adoption based on a survey comprised of over thousand respondents in the Netherlands . We find five clusters in relation to individuals inclinations to adopt MaaS in the context of urban mobility . We characterize each of the clusters allowing for the examining of different customer segments regarding MaaS . The cluster with the highest inclination for future MaaS adoption is also the largest cluster . Individuals in this cluster have multimodal weekly mobility patterns . On the contrary current unimodal car users are the least likely to adopt MaaS . We identify high ownership need and low technology adoption as the main barriers that can hinder MaaS adoption . Policies that directly address these two barriers can stimulate MaaS adoption .
+
+@highlight Five distinct latent clusters identified regarding attitudes towards MaaS.
+@highlight Methodologies used exploratory factor analysis and latent class cluster analysis.
+@highlight Largest cluster 32 of the sample MaaS ready individuals.
+@highlight Relation found between current mobility patterns and MaaS adoption potential.
+@highlight  Car ownership need and technological capabilities main barriers for MaaS adoption.

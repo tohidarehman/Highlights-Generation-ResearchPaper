@@ -1,0 +1,5 @@
+ Single neurons in an autaptic culture exhibit various types of firing pattern with different firing durations and rhythms . However a neuron with autapses has often been modeled as an oscillator providing a monotonic firing pattern with a constant periodicity because of the lack of a mathematical model . In the work described in this study we use computational simulation and whole cell patch clamp recording to elucidate and model the mechanism by which such neurons generate various firing pattens . In the computational simulation three types of spontaneous firing pattern i.e . short long lasting and periodic burst firing patterns are realized by changing the combination ratio of
+
+@highlight A mathematical model for single neurons in an autaptic culture is proposed.
+@highlight The model provides three types of firing pattern depending on the combination ratio of AMPA and NMDA conductance.
+@highlight The simulated spontaneous firing patterns agree with the results from physiological experiments.

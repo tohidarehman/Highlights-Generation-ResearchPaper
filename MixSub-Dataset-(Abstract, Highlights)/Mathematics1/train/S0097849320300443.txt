@@ -1,0 +1,7 @@
+ We propose ReviewerNet an online interactive visualization system aimed to improve the reviewer selection process in the academic domain . Given a paper submitted for publication we assume that good candidate reviewers can be chosen among the authors of a small set of pertinent papers ReviewerNet supports the construction of such set of papers by visualizing and exploring a literature citation network . The system helps journal editors and Program Committee members to select reviewers that do not have any conflict of interest and are representative of different research groups by visualising the careers and co authorship relations of candidate reviewers . The system is publicly available and is demonstrated in the field of Computer Graphics .
+
+@highlight An integrated visualization of scholarly data can support the academic reviewer search process.
+@highlight The visualization of scholarly data helps to avoid conflicts of interest and to build a fairly distributed pool of reviewers.
+@highlight A well combined visualization of citations and co authorship relations only can reduce the need for complicated content analysis techniques.
+@highlight The platform evaluation with members from the Computer Graphics community demonstrated the improvement on the traditional process for searching reviewers.
+@highlight The evaluation confirmed that users were able to get acquainted with the system with a very limited training.

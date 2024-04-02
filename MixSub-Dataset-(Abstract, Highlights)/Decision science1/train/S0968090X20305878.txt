@@ -1,0 +1,7 @@
+ High quality reliable data and robust models are central to the development and appraisal of transportation planning and policy . Although conventional data may offer good content it is widely observed that it lacks context i.e . who and why people are travelling . Transportation modelling has developed within these boundaries with implications for the planning design and management of transportation systems and policy making . This paper establishes the potential of passively collected GPS based Track Trace datasets of individual mobility profiles towards enhancing transportation modelling and policy making . T T is a type of New and Emerging Data Form lying within the broader Big Data paradigm and is typically collected using mobile phone sensors and related technologies . These capture highly grained
+
+@highlight First definition of mobile phone Track Trace T T personal mobility data.
+@highlight Limitations of conventional data and models within transportation are summarised.
+@highlight Mobility content and individual context ceonceptualise New and Emerging Data Forms.
+@highlight The unique potential and challenges of GPS based T T data are characterised.
+@highlight We propose that T T data can be integrated into existing planning and policy methods.

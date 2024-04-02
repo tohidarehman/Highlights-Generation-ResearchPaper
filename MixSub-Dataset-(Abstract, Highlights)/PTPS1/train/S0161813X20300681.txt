@@ -1,0 +1,6 @@
+ Xenobiotic electrophiles can form covalent adducts that may impair protein function damage DNA and may lead a range of adverse effects . Cumulative neurotoxicity is one adverse effect that has been linked to covalent protein binding as a Molecular Initiating Event . This paper describes a mechanistic
+
+@highlight Environmental chemicals were ranked using their electrophilic index.
+@highlight The positive prediction rate was 8290 a 90 specificity but only 47 sensitivity.
+@highlight When considering only the positive control chemicals the sensitivity was 88 .
+@highlight We show an in silico method that may help identify one type of neurotoxic chemicals.

@@ -1,0 +1,8 @@
+ This paper analyzes the effects of the 9 min pan India voluntary lights off policy that was planned and executed by the Government of India in April 2020 on the National Grid and the steps that were taken to maintain grid stability during the event . The policy was a symbolic gesture of public solidarity with frontline healthcare and emergency workers in the nation s war against the COVID 19 pandemic . The event entailed nationwide switching off of electric lights and lighting of earthen lamps or switching on of torch lights . This 9 min event posed a significant challenge to the country s power systems engineers in managing grid stability during the large scale load reduction and meticulous planning and implementation of protective measures were carried out . In this article the strategy implemented by the Indian power sector to manage the grid during the nine minute event is described . The variations of grid parameters such as frequency voltage and load at all dispatch centers before during and after the nine minutes are analyzed and the generation schedule that was followed is also presented along with real time results . This case study provides an overview of power systems management that involves strategic scheduling of generators throughout the country to tackle sudden and mass reductions of load on the power system .
+
+@highlight Covid 19 and its impact on the world
+@highlight History of blackouts and brownouts brownouts in a power system.
+@highlight Overview of the India power system and national power grid development.
+@highlight Pan India lights off policy on 5
+@highlight April 2020
+@highlight Power system operation and control during an emergency

@@ -1,0 +1,7 @@
+ The new era of sharing information and big data has raised our expectations to make mobility more predictable and controllable through a better utilization of data and existing resources . The realization of these opportunities requires going beyond the existing traditional ways of collecting traffic data that are based either on fixed location sensors or GPS devices with low spatial coverage or penetration rates and significant measurement errors especially in congested urban areas . Unmanned Aerial Systems or simply drones have been proposed as a pioneering tool of the Intelligent Transportation Systems infrastructure due to their unique characteristics but various challenges have kept these efforts only at a small size . This paper describes the system architecture and preliminary results of a first of its kind experiment nicknamed
+
+@highlight Designing one of a kind experiment to monitor urban congestion with a swarm of drones.
+@highlight Creating the most complete urban multimodal dataset nicknamed
+@highlight  to study congestion.
+@highlight Investigating traffic phenomena at different scales of modeling.
+@highlight Developing an open science initiative with almost half a million trajectories for transportation oriented research.

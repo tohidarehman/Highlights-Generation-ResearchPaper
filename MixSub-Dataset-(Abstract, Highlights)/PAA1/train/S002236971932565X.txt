@@ -1,0 +1,6 @@
+ According to the mass law low frequency sound attenuation is very difficult in engineering because the mass and space of structures are usually limited . In this paper we propose a plate type acoustic metamaterial with good sound insulation in low frequency ranges . By attaching multilayered rubber and metal cylinders on a thin plate multiple flexural wave band gaps at low frequency ranges are obtained . The band structures and eigenmodes are elucidated by finite element calculations . Both the flexural wave transmission spectra and the sound transmission loss are investigated . The results show that the obtained multiple band gaps lead to more than one sound insulation peak at low frequencies . The geometrical parameter effects on the band gap frequencies are discussed . By combining cells with different geometrical parameters the formed supercell can improve the low frequency sound insulation efficiency and introduce much more variety . The results in this paper will be useful for sound and vibration control in engineering applications .
+
+@highlight Plate type acoustic metamaterial with multiple resonators are investigated.
+@highlight Multiple flexural band gaps appear at low frequency.
+@highlight The multiple band gaps lead to large sound insulation peaks.
+@highlight Sound transmission loss can be improved by designing the cell geometrical parameters.

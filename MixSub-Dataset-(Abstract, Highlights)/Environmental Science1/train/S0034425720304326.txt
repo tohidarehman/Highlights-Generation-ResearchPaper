@@ -1,0 +1,7 @@
+ Soil moisture and gross primary productivity estimates from the Soil Moisture Active Passive and solar induced chlorophyll fluorescence from the Orbiting Carbon Observatory 2 provide new opportunities for understanding the relationship between soil moisture and terrestrial photosynthesis over large regions . Here we explored the potential of the synergistic use of SMAP and OCO 2 based data for monitoring the responses of ecosystem productivity to drought . We used complementary observational information on root zone soil moisture and GPP from SMAP and fine resolution SIF 0.05
+
+@highlight We combine SMAP and OCO 2 derived products to examine impacts of the 2018US drought.
+@highlight SMAP GPP and GOSIF data can capture ecosystem responses to soil moisture anomalies.
+@highlight SMAP GPP and GOSIF can well characterize drought impacts on tower GPP and crop yield.
+@highlight GOSIF has a higher performance than SMAP GPP and other products MODIS GPP and EVI .
+@highlight Synergistic use of SMAP and OCO 2 data reveals how drought impacts plant productivity.

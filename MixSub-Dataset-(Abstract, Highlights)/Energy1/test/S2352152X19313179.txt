@@ -1,0 +1,6 @@
+ A novel shape of cavity filled by Fe3O4 water nanofluids and porous media associated with natural convection under a constant inclined magnetic field has been studied . A novel model for viscosity named magnetic field dependent viscosity is applied . The effects of Darcy Hartmann and Rayleigh numbers inclination angle and the cavity aspect ratio on heat and flow fields characteristics have been examined . The results represent that more the heat transfer rate has been constrained with any increment in the Hartmann number and therefore the magnetic field can be utilized as an excellent controller of the heat transfer . Further it is inferred that more values of the aspect ratio give always a greater average Nusselt number at a given Ra .
+
+@highlight A novel shape of cavity filled by Fe3O4 water nanofluid and porous media associated with natural convection under a constant inclined magnetic field are analyzed.
+@highlight A novel model for viscosity named magnetic field dependent MFD viscosity is applied.
+@highlight The finite element method FEM is applied to discretize the governing equations
+@highlight It is found that the benefit of implementing the porous media more porosity and more permeability is restricted when a magnetic field is applied.

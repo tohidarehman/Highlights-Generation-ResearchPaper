@@ -1,0 +1,8 @@
+ A workshop held at the 2018 Sensometrics conference in Montevideo aimed at a data based comparison between three temporal methods namely Temporal Check All That Apply Temporal Dominance of Sensations and Temporal Dominance of Sensations by Modality . Data on 8 yoghurts designed following a full factorial design have been evaluated using the three protocols . In this paper we compare the data obtained with regard to discriminative power and highlight potential pitfalls when making significance based comparisons . TCATA is found to provide overall highest discrimination while for special purposes the other methods may have advantages . We further compare the dominance and selection rates from the methods addressing the arbitrariness of necessary standardizations . Finally we compare results from correspondence analyses with trajectories showing noteworthy differences between the protocols . In the discussion it is argued that a reasonable comparison between the methods might not be possible or even reasonable as they address quite different concepts . Rather than being considered as alternatives for the same objective they should better be considered as complimentary addressing different project needs .
+
+@highlight TDS TCATA and MTDS TDS by modality are compared on yoghurt data.
+@highlight TCATA on average most discriminative though not for all purposes.
+@highlight TDS mostly discriminates on texture while MTDS highlights flavor differences.
+@highlight Evaluation of standardization for number of attributes approaches.
+@highlight Issues in comparing dominance vs. selection rates showcased.
+@highlight TDS and TCATA conceptually different so might be beyond comparison.

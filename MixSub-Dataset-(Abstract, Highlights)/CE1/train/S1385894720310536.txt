@@ -1,0 +1,6 @@
+ In the fine chemical and pharmaceutical industries plants are normally operated on a discontinuous multipurpose logic according to which the same reactor is used for different products on a campaign basis . Moreover when dealing with relatively fast and exothermic processes the reaction is preferably performed in indirectly cooled semibatch reactors where the conversion rate and the heat release can be better controlled . In these cases if a constant product quality has to be achieved under safer and more efficient conditions the shift to a continuous plant operation should be considered this because of more reproducible operating conditions an effective minimization of dead times and lower reactor volumes for the same production output . In this work a general and easy to use experimental procedure is presented allowing for selecting the continuous process parameters at the industrial scale through semibatch laboratory experiments without a kinetic characterization of the system .
+
+@highlight Continuous processes provide advantages in terms of productivity and safety.
+@highlight A new approach the Multiple Feed Semibatch Reactor MSBR is proposed.
+@highlight MSBR allows for a kinetic free definition of the continuous plant parameters.
+@highlight MBSR can be used to make continuous many multipurpose plants.

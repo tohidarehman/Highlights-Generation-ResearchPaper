@@ -1,0 +1,8 @@
+ Numerical analysis of the analytic model of an experimental procedure to determine the crack length the compliance and the energy release rate has been developed . As a first step bending tests at different spans have been numerically simulated with the purpose of obtaining the flexural and out of plane shear moduli of the material . Then the crack length has been determined from the numerical compliance considering the material properties previously obtained . The critical energy release rate has also been determined analytically and numerically . There is agreement between the numerical results and those obtained from the analytic model of the experimental procedure .
+
+@highlight Comparison between numerical and analytical methods to determine flexural and shear modulus in 3 point bending tests.
+@highlight To include local deformation effects related to point loads in FEM.
+@highlight Determination of mode I crack length from the numerical compliance.
+@highlight Determination of G
+@highlight from numerical data using different procedures.
+@highlight Comparison between analytic and numerical load distributions near the crack tip.

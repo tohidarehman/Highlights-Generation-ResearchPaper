@@ -1,0 +1,5 @@
+ Exponential dispersion models are well used and studied in quantitative risk management and actuarial science . One of the main interests is the risk measurement analysis of such models when facing extreme loss events . In this paper we propose two multivariate risk measures based on conditional expectation and derive the explicit formulae for exponential dispersion models . In particular our multivariate risk measures could facilitate a systemic risk measure with explicit expressions for exponential dispersion models subject to any pre specified systemic event.We provide two numerical examples based on practical data to show the advantages of our approach in the context of exponential dispersion models .
+
+@highlight We propose multivariate risk measures based on multivariate conditional expectations.
+@highlight We work out explicit formulae of the multivariate risk measures for Exponential Dispersion Models.
+@highlight We present numerical examples to illustrate the explicit formulae.

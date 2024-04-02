@@ -1,0 +1,6 @@
+ The face centered cubic grid is a space filling grid one of the alternatives to the traditional cubic one . We show that there are five Hamiltonian cycles connecting the faces of a voxel in the FCC grid . Each of the five cycles can be used to trace the boundary of a class of objects in the grid constructed by iteratively attaching voxels so that each new voxel shares exactly one face with the set of already attached voxels .
+
+@highlight The face centered cubic FCC grid is a space filling grid an alternative to the traditional cubic one.
+@highlight There are five Hamiltonian cycles connecting the faces of a voxel in the FCC grid.
+@highlight Each of the five cycles can be used to trace the boundary of tree like objects in the FCC grid.
+@highlight This has applications in mesh visualization compression and transmission.

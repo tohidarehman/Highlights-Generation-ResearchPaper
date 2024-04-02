@@ -1,0 +1,6 @@
+ Operated since the end of 2009 the European Space Agency Soil Moisture and Ocean Salinity satellite mission is the first orbiting radiometer that collects regular and global observations from space of two Essential Climate Variables of the Global Climate Observing System Sea Surface Salinity and Soil Moisture . The National Aeronautics and Space Administration Aquarius mission with the primary objective to provide global SSS measurements from space operated from mid 2011 to mid 2015 . NASA s Soil Moisture Active Passive mission primarily dedicated to soil moisture measurements but also monitoring SSS has been operating since early 2015 . The primary sensors onboard these three missions are passive microwave radiometers operating at 1.4GHz . SSS is retrieved from radiometer measurements of the sea surface brightness temperature T
+
+@highlight Historical review of sea surface salinity estimates with passive L band radiometry
+@highlight SMOS Aquarius and SMAP sensor characteristics and algorithms are presented.
+@highlight Quality assessment of latest satellite SSS products is provided.
+@highlight The major scientific achievements of the first decade of satellite SSS are reviewed.

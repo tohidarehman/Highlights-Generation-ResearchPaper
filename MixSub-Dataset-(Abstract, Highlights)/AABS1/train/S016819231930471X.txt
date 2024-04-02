@@ -1,0 +1,9 @@
+ Croplands are important sources of atmospheric nitric oxide . However high frequency measurements of NO fluxes over croplands using the eddy covariance technique are still scarce mainly due to instrumental limitation . In this study a closed path NO analyzer based on a quantum cascade laser absorption spectrometer was employed for EC flux measurements over a subtropical vegetable field during a two month summer period with the lowest NO emission intensity of the year . The purpose was to investigate the detection limit of the EC system based on this NO analyzer and evaluate its applicability for measuring the turbulent fluxes of NO under field conditions . The performance of the analyzer was stable showing an average precision of 0.338nmol mol
+
+@highlight An EC system with a QCL based closed path analyzer was used to measure NO fluxes.
+@highlight Detection limit for half hourly fluxes was 5.6g n m
+@highlight None
+@highlight None
+@highlight  95 confidence interval .
+@highlight The system was qualified for obtaining daily fluxes during low emission period.
+@highlight The QCL based analyzer is an effective option for measuring turbulent NO fluxes.

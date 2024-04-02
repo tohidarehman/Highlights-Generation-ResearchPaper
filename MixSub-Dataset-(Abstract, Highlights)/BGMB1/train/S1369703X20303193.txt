@@ -1,0 +1,6 @@
+ Continuous mashing provides advantages compared to conventional batch wise mashing in terms of space time yield . The majority of fermentable sugars are generated during the so called
+
+@highlight FS content prediction during continuous mashing is crucial for industrial use.
+@highlight FS formation kinetics from batch experiments are combined with the RTD of a CSTR.
+@highlight A novel semi empirical model allows for the determination of FS formation kinetics.
+@highlight FS prediction during continuous mash production was achieved with high precision.

@@ -1,0 +1,6 @@
+ The aim of this paper is to explore a facile rapid and scalable method for the exfoliation and reduction of graphene oxide . In this work the GO was reduced within 30 min using Red Al as a reductant in a high gravity rotating packed bed reactor . As a result of the process intensication by high gravity technology the reduced graphene oxide obtained by RPB has a better exfoliation degree and higher C O than that obtained in stirred tank reactor . The RPB RGO can be dispersed in organic solvent especially in ACN THF EtOH and IPA and remained stable for a week . Furthermore using the RPB RGO as electrode material in a supercapacitor cell specic capacitance value as high as 78 F g has been demonstrated as compared to 69 F g of STR RGO . This work puts forward a novel method for fast and scalable production of graphene for supercapacitor application .
+
+@highlight We reported a scalable method to exfoliate and reduce GO in a RPB.
+@highlight RPB RGO has a better exfoliation degree and higher C O than STR RGO.
+@highlight RPB RGO can be steadily dispersed in ACN THF EtOH and IPA.
+@highlight RPB RGO has a higher specic capacitance than STR RGO.

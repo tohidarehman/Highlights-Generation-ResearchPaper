@@ -1,0 +1,7 @@
+ Ionizing radiation is increasingly used for diagnostics and therapy of severe brain diseases . However IR also has adverse effects on the healthy brain tissue particularly on the neuronal network . This is true for adults but even more pronounced in the developing brain of unborn and pediatric patients . Epidemiological studies on children receiving radiotherapy showed an increased risk for cognitive decline ranging from mild deficits in academic functioning to severe late effects in intellectual ability and language as a consequence of altered neuronal development and connectivity .
+
+@highlight We developed an assay for functional analysis of neuronal networks.
+@highlight Human embryonic stem cell hESC derived 3D neurospheres NS were grown on microelectrode array chips.
+@highlight Functionality of NS derived from irradiated and non irradiated hESC was compared.
+@highlight Analyses revealed radiation sequela that were not detected with biomolecular methods.
+@highlight This assay can complement classical radiobiological studies to obtain more comprehensive results.

@@ -1,0 +1,7 @@
+ In this paper the forced convective heat transfer of viscoelastic fluid flow around a circular cylinder at a low Reynolds number is studied numerically . The effect of viscous dissipation on the problem is modeld which is the main innovative aspect of present study . The PhanThienTanner model is used as the nonlinear constitutive equation . To avoid divergence and stabilize the numerical process in high elastic cases the log conformation approach is used . The results indicated that the Nusselt number monotonically increases with increasing elasticity number retardation ratio Prandtl number and Brinkman number in a wide range . Both drag reduction and drag enhancement were seen in the numerical results . In high elastic flow regime due to the increased storing nature of viscoelastic fluid compared to the dissipative nature drag coefficient
+
+@highlight The non linear PTT model describes the viscoelastic behavior of fluid 
+@highlight Effect of temperature dependency of fluid properties are studied 
+@highlight Effects of El Pr and Br on flow and heat transfer are studied 
+@highlight Heat transfer enhancement and drag reduction are seen with elastic effects 
+@highlight Two correlations are proposed for drag coefficient and Nusselt number.

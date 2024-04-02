@@ -1,0 +1,6 @@
+ In this paper a dimensional Hirota Satsuma Ito like equation is introduced based on the dimensional Hirota Satsuma Ito equation . Bcklund transformation and corresponding exponential function solutions are deduced by virtue of the Hirota bilinear form . The lump solutions are constructed and the interaction phenomena between a lump wave and multi kink waves are discussed . The lump wave may turn up in different positions and can be swallowed by multi kink waves which means that the collision is non elastic . Finally the dynamical behavior of the interaction phenomena is numerically simulated .
+
+@highlight A 3 1 dimensional Hirota Satsuma Ito like equation is proposed which can describe the wave motion in fluid dynamics and shallow water.
+@highlight Bcklund transformation and corresponding exponential function solutions are de duced via the Hirota bilinear form.
+@highlight Interaction phenomena between a lump wave and multi kink waves are discussed and numerically simulated which show the collisions are non elastic.
+@highlight The lump wave may turn in different positions and can be swallowed by multi kink waves.

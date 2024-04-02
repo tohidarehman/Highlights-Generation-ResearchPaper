@@ -1,0 +1,7 @@
+ This work analyses the deactivation of activated carbon supported Rh and Ru catalysts in the hydrodechlorination of dichloromethane and chloroform . The deactivation can be mainly attributed to the coverage of active metal centres by organometallic species resulting from the chemisorption of reaction products such as olefins at the electro deficient metal sites . With DCM the activity of Ru C decreased by more than 80 after 90h on stream at 250C and with a space time of 1.7kghmol
+
+@highlight Rh C and Ru C are active in the HDC of chloromethanes but they deactivate strongly.
+@highlight The severe deactivation is attributed to the formation of organometallic complexes.
+@highlight Regeneration treatment with air at 250C allows recovery the catalytic activity.
+@highlight After each deactivation regeneration cycle the selectivity to olefins increases.
+@highlight Selectivity to olefins is related to the presence of C O groups in the catalyst.

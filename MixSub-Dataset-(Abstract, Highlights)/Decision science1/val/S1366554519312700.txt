@@ -1,0 +1,7 @@
+ This paper investigates the efficiency of buyer lending in a supply chain with a retailer and a capital constrained supplier subject to spectral risk measures . We show that the retailer should always charge the supplier the lowest possible interest rate under the buyer lending scheme . The retailer is better off in the buyer lending scheme than in the bank lending scheme if he is risk neutral or risk seeking regardless of the suppliers risk attitude internal capital and bankruptcy costs . However the retailers preference switches to bank lending as his risk aversion increases to a certain level . A comprehensive comparative statics analysis is provided .
+
+@highlight We conduct a comparative study on the performances of buyer lending and bank lending in a bilateral supply chain.
+@highlight The risk attitudes of the supplier and retailer are reflected by spectral risk measures.
+@highlight The retailer should charge the supplier the lowest possible interest rate for the buyer loan.
+@highlight The retailer is better off in buyer lending than in bank lending if he is risk neutral or risk seeking.
+@highlight The supplier prefers buyer lending if her internal capital is high and prefers bank lending if her internal capital is low.

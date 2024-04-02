@@ -1,0 +1,6 @@
+ A simple yet effective method based on hot pressing a free standing carbon film onto adjacent hole transport layer is used to fabricate carbon electrode for planar perovskite solar cells . Due to the thermoplasticity of as prepared carbon film the conductivity of the carbon electrode is enhanced by over ten fold and the adhesion to adjacent layer is dramatically strengthened via this hot pressing process . By optimizing the pressing temperature 15.3 of power conversion efficiency is obtained for CuSCN based CPSCs which is 70 high than the device without heating at the same pressing pressure . The device demonstrates 93 performance retention after being stored in a humid environment without encapsulation over 80 days . This facile fabrication process of PSCs paves a way to facilitate commercialization of the new PV technology .
+
+@highlight Carbon electrode made by hot pressing method demonstrated high conductivity and strong adhesion in planar PSCs.
+@highlight The effect of applied temperature in hop pressing method on device performance was investigated systematically.
+@highlight Over 15 of PCE for the devices with eliminated hysteresis and outstanding reproducibility were obtained.
+@highlight The prepared solar cells showed excellent stability against humidity.

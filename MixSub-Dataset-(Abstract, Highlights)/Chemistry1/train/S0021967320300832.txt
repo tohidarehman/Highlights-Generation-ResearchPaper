@@ -1,0 +1,7 @@
+ The aim of our work was to develop an analytical strategy to quantify naphthalene acenaphthylene acenaphthene fluorene phenanthrene and anthracene in fish products by on line dynamic headspace extraction followed by thermodesorption injection and gas chromatography analysis coupled with tandem mass spectrometry using electron ionization mode . The developed protocol used 1g of freeze dried or oil sample supplemented with perdeuterated light PAHs . The sample was heated at the headspace of the sample was swept by nitrogen and the trapping of the PAHs was carried out on a Tenax type adsorbent placed at 25C . Analytes were thermodesorbed at 300C from the dried adsorbant and then cryofocused on a cooled injection system at 25C before injection 12Cs
+
+@highlight A DHS TDU GC MS MS method was developed to quantify light PAHs in seafood.
+@highlight Two methods are now available one is more accurate and the second more robust.
+@highlight Validation was performed to determine measurement uncertainties at 120 ngg
+@highlight dw.
+@highlight A first occurrence level was measured in around 200 seafood samples.

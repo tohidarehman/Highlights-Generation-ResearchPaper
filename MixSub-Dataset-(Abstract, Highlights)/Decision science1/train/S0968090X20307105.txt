@@ -1,0 +1,6 @@
+ While activity based travel demand generation has improved over the last few decades the behavioural richness and intuitive interpretation remain challenging . This paper argues that it is essential to understand why people travel the way they do and not only be able to predict the overall activity patterns accurately . If one can not understand the why then a models ability to evaluate the impact of future interventions is severely diminished . Bayesian networks provide the ability to investigate causality and is showing value in recent literature to generate synthetic populations . This paper is novel in extending the application of BNs to daily activity tours . Results show that BNs can synthesise both activity and trip chain structures accurately . It outperforms a frequentist approach and can cater for infrequently observed activity patterns and patterns unobserved in small sample data . It can also account for temporal variables like activity duration .
+
+@highlight Bayesian network approach to synthesise daily activity and trip chains.
+@highlight Network structure includes demographic travel and temporal variables.
+@highlight Rigorous and disaggregate regime to test accuracy.
+@highlight Bayesian networks is both behaviourally rich and intuitively interpretable.

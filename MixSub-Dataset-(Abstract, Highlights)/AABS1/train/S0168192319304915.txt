@@ -1,0 +1,7 @@
+ This study evaluated the accuracy of four satellite remote sensing based products in predicting rainfall over Kenya between 1998 and 2013 . The four SRS products used include two satellite products and Tropical Rainfall Measuring Mission Multi satellite Precipitation Analysis 3B42 version 7 one gauge interpolated product and one re analysis product . The monthly precipitation data were evaluated for completeness converted to individual raster files projected to the World Geodetic System 1984 Universal Transverse Mercator zone 37N ensuring a similar processing extent rescaled to a common resolution and reclassified following defined uniform intervals for ease of comparison . Thereafter they were subjected to five different metrics based on eight agro ecological zones of Kenya in reference to observed rainfall data obtained from Kenya meteorological department . Results show that all SRS products both overestimated or underestimated rainfall amounts on a pixel to pixel comparison . Based on point to point proportion of variance evaluation
+
+@highlight We evaluated accuracy of four satellite remote sensing SRS based products.
+@highlight TRMM product was best suited for agricultural advisories services.
+@highlight MERRA product was best suited for high elevation and drought related studies.
+@highlight GPCC and CHIRPS 2.0 were best suited for ASALs and drought related studies.
+@highlight We demonstrate the potential of SRS product to complement unreliable rainfall data.

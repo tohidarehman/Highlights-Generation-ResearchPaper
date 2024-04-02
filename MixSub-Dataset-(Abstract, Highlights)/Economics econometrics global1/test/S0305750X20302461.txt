@@ -1,0 +1,5 @@
+ Illegal economic activities are not only associated with higher levels of violent crime they may also increase unforeseen risks and cause other negative unintended consequences for populations . This paper investigates the causal effects of illegal gold mining on malaria incidence . For this purpose I employ unique Colombian satellite data with the location of illegal gold mines matched to municipal governmental health reports on the number of malaria cases . To identify causal effects I use preexisting geochemical gold anomalies as an instrumental variable for illegal gold production . I find positive and large effects of illegal gold mining on malaria incidence . My estimates suggest that when an area containing illegal gold mines increases by 1hectare the annual parasite index for malaria increases by 1.04 cases per 100 000 inhabitants .
+
+@highlight Illegal gold mining increases malaria incidence.
+@highlight When gold mining increases by 1 ha malaria incidence increases by 1.04 cases per 100 000 indv.
+@highlight The results suggest an urgent need to prevent and control malaria around gold mines.

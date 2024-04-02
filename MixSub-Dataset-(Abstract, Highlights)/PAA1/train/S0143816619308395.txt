@@ -1,0 +1,6 @@
+ This paper compares the performance of optical Multicore Fibres with inscribed Fibre Bragg Gratings used as curvature and shape sensors in relation to strain sensor length . Two fibre optic shape sensors consisting of FBGs written in standard optical multicore fibre were assembled in the Institute for Telecommunications and Multimedia Applications of the
+
+@highlight Optical MCF shape sensors are assembled and tested.
+@highlight All the necessary steps for shape reconstruction are traced.
+@highlight Long FBGs can significantly enhance the accuracy in shape tracking.
+@highlight The results lay the basis for the design of new and more efficient shape sensors.

@@ -1,0 +1,6 @@
+ X ray computed tomography has been demonstrated to be capable of imaging 1mL chromatography packed beds under compression visualising the 3D structure and measuring changes to geometry of the packing . 1mL pre packed columns did not exhibit any structural changes at vendor specified flow rate limits however cellulose beds did compress at higher flow rates that were imaged before during and after flow . This was used to visualise and quantitate changes to porosity tortuosity and permeability based on simulation of flow through the packed bed structure using the imaging data . When using a high flow rate it was found that a decrease in porosity could be measured during compression before reverting after flow had ceased with corresponding changes to tortuosity and permeability also occurring .
+
+@highlight 1mL pre packed beds imaged under compression using X ray CT.
+@highlight Digital erosion dilation approached compares porosity tortuosity relationship.
+@highlight Cellulose and ceramic materials investigated at both scales.
+@highlight Porosity tortuosity permeability and diffusivity quantified using 3D structure.

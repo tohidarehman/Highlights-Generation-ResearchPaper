@@ -1,0 +1,5 @@
+ The trifluoromethane and difluoromethane are widely used in refrigeration and chemical industry . The isothermal vapor plus liquid equilibrium data for the R23 plus R32 system were determined experimentally at six temperatures from 223.150K to 273.150K . Two models were employed to regress the experimental VLE data PengRobinson equation of state with the one parameter van der Waals mixing rule PengRobinson equation of state combined non random two liquid activity coefficient model with the modified Huron Vidal two order mixing rule . The maximum average absolute relative deviation of pressure AARD
+
+@highlight The vapor liquid equilibrium for trifluoromethane R23 difluoromethane R32 system was studied.
+@highlight Measurements were based on vapor phase single recirculation method.
+@highlight The PR vdW and PR MHV2 NRTL model were employed to regress the experimental VLE data.

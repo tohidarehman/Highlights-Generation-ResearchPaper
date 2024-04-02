@@ -1,0 +1,7 @@
+ Road accident fatalities and accident severity costs have become top priorities and concerns for Chinese policymakers . Understanding the principal factors that explain accident severity is considered to be the first step towards the adequate design of an accident prevention strategy . In this paper we examine the contribution of various types of factors in explaining accident severity in China . Unlike previous studies the analysis gives a particular focus on fatal accidents . Using a large sample of 405 177 observations for 4 wheeled vehicles in the year 2017 and various statistical and econometrics approaches the results show that the factors explaining the severity of accidents differs significantly between normal and extreme severity accidents e.g . across quantiles . Interestingly we find that the gender factor is only significant for fatal accidents . In particular the analysis shows that male drivers have an increased likelihood of extreme risk taking . On the basis of these empirical findings a new ratemaking approach that aims to improve road safety and prevention is discussed and proposed .
+
+@highlight Factors affecting accident severity were investigated.
+@highlight Quantile regression and extreme value theory approach are employed.
+@highlight The factors affecting accident severity vary among quantiles.
+@highlight The gender is an atypical accident factor which significant only for the higher quantiles.
+@highlight A new prevention framework to improve road safety and prevention is proposed.

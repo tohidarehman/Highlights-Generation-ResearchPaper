@@ -1,0 +1,6 @@
+ Text clustering is a well known method for information retrieval and numerous methods for classifying words documents or both together have been proposed . Frequently textual data are encoded using vector models so the corpus is transformed in to a matrix of terms by documents using this representation text clustering generates groups of similar objects on the basis of the presence absence of the words in the documents . An alternative way to work on texts is to represent them as a network where nodes are entities connected by the presence and distribution of the words in the documents . In this work after summarising the state of the art of text clustering we will present a new network approach to textual data . We undertake text co clustering using methods developed for social network analysis . Several experimental results will be presented to demonstrate the validity of the approach and the advantages of this technique compared to existing methods .
+
+@highlight We propose a new procedure for text co clustering.
+@highlight We implement on textual data models developed for social network analysis.
+@highlight We test the procedure on several corpora.
+@highlight We highlight the implications in adopting this procedure focusing on business sector.

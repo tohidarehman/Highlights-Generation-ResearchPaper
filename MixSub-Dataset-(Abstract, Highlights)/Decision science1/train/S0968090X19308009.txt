@@ -1,0 +1,6 @@
+ Recently deep learning models have shown promising performances in many research areas including traffic states prediction due to their ability to model complex nonlinear relationships . However deep learning models also have drawbacks that make them less preferable for certain short term traffic prediction applications . For example they require a large amount of data for model training which is also computationally expensive . Moreover deep learning models lack interpretability of the results . This paper develops a short term traffic states forecasting algorithm based on partial least square to help enhance real time decision making and build better insights into traffic data . The proposed model is capable of predicting short term traffic states accurately and efficiently by capturing dominant spatiotemporal features and day to day variations from collinear and correlated traffic data . Three case studies are developed to demonstrate the proposed model in short term traffic prediction applications .
+
+@highlight A PLS based model is proposed for short term traffic state prediction.
+@highlight PLS can produce comparable results to deep learning models in a more efficient manner.
+@highlight PLS model can learn day to day variations and spatial dependencies of traffic states.
+@highlight PLS model is validated by real world traffic data.

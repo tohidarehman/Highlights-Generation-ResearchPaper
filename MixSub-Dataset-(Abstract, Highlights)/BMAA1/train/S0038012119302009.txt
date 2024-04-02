@@ -1,0 +1,6 @@
+ This paper deals with the problem of allocating additional resources in a public university system . Instead of a solution imposed from above the proposed bargaining approach lets the universities voluntarily agree on a solution that benefits them all . To be realistic the allocation assumes that the universities will keep their current technical efficiency . A bargaining problem is formulated defining the corresponding feasible set and disagreement point . Four different bargaining solutions namely Nash Kalai Smorodinsky Egalitarian and Utilitarian are considered and discussed . The proposed approach is applied to a real world dataset involving the nine public universities of the Andalusian region . The results of the different bargaining solutions are very consistent as regards the output and utility improvements to be achieved by each university .
+
+@highlight The problem of allocating additional resources in a public university system is studied.
+@highlight An original procedure based on centralized DEA and Bargaining solutions is developed.
+@highlight The proposal concludes with a decision which emerges bottom up as an agreement between the parties concerned.
+@highlight A case study is included with the data of the course 20162017 in the Universities of Andalusia Spain.

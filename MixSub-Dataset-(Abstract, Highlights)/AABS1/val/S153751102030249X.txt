@@ -1,0 +1,7 @@
+ The fatigue load spectrum is one of the most important parts in accelerated durability testing of agricultural machinery however the traditional editing approach just focuses on influence of load amplitude on mechanical components which is not suitable for the agricultural machinery the loads of which are broad in frequency bandwidth and time varying in stress amplitude . Therefore considering the comprehensive influence of load amplitude and frequency on the fatigue life of materials a power density based fatigue load spectrum editing approach for accelerated durability testing is proposed ensuring that fatigue load spectrum for accelerated durability testing of tractor components can reproduce operation load characteristics of components . The concept of power density is introduced and a fatigue analysis method based on power density and short time Fourier transform is discussed . For the approach of this study STFT and stress life
+
+@highlight Accumulative power density utilised to identify high fatigue damage segments.
+@highlight An approach combining power density and short time Fourier transform was derived.
+@highlight A load spectrum editing approach for accelerated durability tests.
+@highlight Effects of load amplitude and frequency on fatigue life of materials were studied.
+@highlight Fatigue damage retention was 96.88 on shortening edited load spectrum by 52.7 .

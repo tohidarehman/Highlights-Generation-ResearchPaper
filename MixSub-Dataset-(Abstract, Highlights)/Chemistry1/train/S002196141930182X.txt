@@ -1,0 +1,7 @@
+ The isobaric vaporliquid equilibrium for the binary mixtures of 2Butanol nHeptane and 2Butanol 2 2 4Trimethylpentane at 1.5MPa and 2.0MPa were obtained experimentally using a stainless steel ebulliometer . The experimental data have been verified thermodynamically . The data were fitted by using a polinomial zetas equation to perform the data reduction . The approach was applied using the Perturbed ChainStatistical Associating Fluid Theory and the PengRobinsonStryjekVera equation of state using both quadratic and WongSandler mixing rules . It has been verified that composition of the azeotropic points in both mixtures is modified by increasing the pressure . The trend of the azeotropic data was studied using bibliographic data from each mixture .
+
+@highlight The measurement of vapor pressures for 2Butanol nHeptane and 2 2 4Trimethylpentane were carried out.
+@highlight Density and refractive index of the mixtures of 2Butanol nHeptane and 2Butanol 2 2 4Trimethylpentane were measured.
+@highlight VLE data of the systems 2Butanol nHeptane and 2Butanol 2 2 4Trimethylpentane both at 1.5 and 2.0MPa were obtained.
+@highlight Performance of two thermodynamic models the PCSAFT and the PREOS are assessed.
+@highlight The four adjustable parameters in PRSVWSEOS show better agreement than the one adjustable parameter in PCSAFT model.

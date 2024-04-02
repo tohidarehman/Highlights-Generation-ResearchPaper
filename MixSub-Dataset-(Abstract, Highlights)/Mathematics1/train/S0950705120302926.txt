@@ -1,0 +1,6 @@
+ Adverse drugdrug interaction is an important issue in drug developments and clinical applications which causes a significant burden in the healthcare system and leads to serious morbidity and mortality in patients . Many methods are proposed for ADDI prediction due to the accumulation of healthcare data in a massive scale . However these methods are insufficient in exploring the potential adverse mechanisms among drugs and incapable of revealing the leading factors of ADDIs . In this paper we propose a Multi Task Multi Attribute learning model for ADDI prediction . In MTMA two drug attributes molecular structure and side effect are adopted to model the adverse interactions among drugs and two interpretable tensors adverse molecular structuremolecular structure interaction tensor and adverse side effect side effect interaction tensor are designed to uncover the adverse mechanisms among drugs . Meanwhile we impose
+
+@highlight A novel learning model MTMA is proposed for ADDI prediction.
+@highlight Two interpretable tensors are designed to uncover the adverse mechanisms among drugs.
+@highlight  norm regularization is adopted to explore the leading factors of ADDIs.
+@highlight Experimental results demonstrate the effectiveness of MTMA in ADDI prediction.

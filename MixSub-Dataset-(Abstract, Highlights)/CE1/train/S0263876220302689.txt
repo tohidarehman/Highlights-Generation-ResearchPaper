@@ -1,0 +1,6 @@
+ The micro mechanics of particle interface collision is fundamental for revealing the separation mechanism of gas borne particles in the bubble column . This study further investigates the particle penetration time under different concentrations of anionic and nonionic surfactant solutions at low impact velocities
+
+@highlight The influence of surfactant on the penetration process of microparticles is studied.
+@highlight The penetration time has a power function to particle size at low impact velocities.
+@highlight The distribution of interfacial surfactant is the key factor influencing the cavity.
+@highlight A penetration time model is proposed with considering the surfactant properties.

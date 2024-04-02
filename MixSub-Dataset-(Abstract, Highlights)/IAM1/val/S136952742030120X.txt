@@ -1,0 +1,7 @@
+ Microbes have developed complex strategies to respond to their environment and escape the immune system by individualizing their behavior . While single cell RNA sequencing has become instrumental for studying mammalian cells its use with fungi protozoa and bacteria is still in its infancy . In this review we highlight the major progress towards mapping the molecular states of microbes at the single cell level using genome wide transcriptomics and describe how these technologies can be extended to probe thousands of species at high throughput . We envision that mammalian and microbial single cell profiling could soon be integrated for the study of microbial communities in health and disease .
+
+@highlight Many new methods for performing single microbe transcriptomics have been developed.
+@highlight A new generation of microfluidics is streamlining microbial culture manipulation and sorting.
+@highlight Smart seq YscRNA seq and SCRB seq allow multiplexed single cell analysis of protozoa and yeast.
+@highlight MATQ seq CEL seq2 PETRI seq and microSPLiT PatH Cap are emerging technologies for performing single bacteria RNA seq.
+@highlight Single microbe genomics paves the way to designing precise antimicrobial treatments.

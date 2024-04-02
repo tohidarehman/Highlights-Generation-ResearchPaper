@@ -1,0 +1,7 @@
+ As an emerging polymer COC has been commonly used to make microfluidic chips by microinjection molding and in this process COC melt flows in a trans scale cavity in which macro and micro scales coexist . Thus in such a circumstance understanding viscosity property of COC melt would be helpful to mold design parameter determination of injection molding and prediction of molding quality . In this paper viscosity properties of COC melt flowing in three dies with different diameters were investigated at three different temperatures by a capillary rheometer . The results showed that viscosity of COC melt flowing in different micro dies can be reduced significantly by increasing temperature and visco temperature property of COC melt could be described by Vogel equation in a considerable accuracy . It was found that temperature sensitivity of viscosity of COC melt varies with shear rate . Besides as die diameter decreased viscosity of COC melt was also reduced greatly . Moreover in 500m die viscosity of COC decreased constantly with shear rate however in 200m and 100m dies viscosity witnessed an increase within a certain shear rate range . It implies that behavior of COC molecular chains might varies in different micro scales .
+
+@highlight An emerging polymer COC was investigated.
+@highlight Extremely micro dies were used in this study.
+@highlight Vogel equation was applied in the study on visco temperature property.
+@highlight A never seen viscosity property of COC was shown.
+@highlight Flow curve was used for rheology analysis.

@@ -1,0 +1,6 @@
+ The effect of impurities on spectral absorption coefficient of snow snow absorptance and albedo is modeled and analyzed for the practically important case of soot particles . A combination of physical processes of snow formation in the atmosphere and periodic partial melting of snow cover can lead to various morphologies of contaminated snow . Therefore both the internal mixing of soot in ice grains and the external mixing when soot is between the grains are considered . The geometrical optics approximation for large semi transparent particles the Rayleigh theory for small soot particles the Maxwell Garnett theory for the effective optical constants of ice containing soot and the Mie theory generalized for absorption and scattering of light by two layered spherical particles are employed . Calculations showed that a possible uneven distribution of soot in ice grains can lead to significant differences in the values of the absorption coefficient of snow cover in the visible region of the spectrum .
+
+@highlight The spectral absorption coefficient of polluted snow is calculated.
+@highlight The external and nonuniform internal mixing of soot are considered.
+@highlight The maximum effect of a central pollution of ice grains is obtained.
+@highlight The spectral absorptance and albedo of polluted snow are calculated.

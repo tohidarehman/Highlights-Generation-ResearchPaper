@@ -1,0 +1,7 @@
+ The main objective of the paper is to develop a model capable of evaluating the societal impact of rail infrastructure investment in Argentina using a Multiple Discrete Extreme Value Model estimated on Stated and Revealed preference data . The decision modelled is the mode and port choice at a planning level where multiple alternatives can be chosen simultaneously . The relevant variables were the
+
+@highlight Application of MDCEV model to regional freight.
+@highlight Destination port and transport mode choice model.
+@highlight Use of consignment bills RP and SP data for modelling.
+@highlight Rail infrastructure improvement evaluation.
+@highlight Non deterministic willingness to pay and cost benefit analysis.

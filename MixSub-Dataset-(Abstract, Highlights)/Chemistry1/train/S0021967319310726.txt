@@ -1,0 +1,7 @@
+ The applicability of models to describe peptide retention in hydrophilic interaction liquid chromatography was investigated . A tryptic digest of bovine serum albumin was used as a test sample . Several different models were considered including adsorption mixed mode exponential quadratic and NeueKuss models . Gradient separations were performed on three different HILIC stationary phases under three different mobile phase conditions to obtain model parameters . Methods to track peaks for specific peptides across different chromatograms are shown to be essential . The optimal mobile phase additive for the separation of BSA digest on each of the three columns was selected by considering the retention window peak width and peak intensity with mass spectrometric detection . The performance of the models was investigated using the Akaike information criterion to measure the goodness of fit and evaluated using prediction errors . The
+
+@highlight Five models were studied and compared for modelling retention of peptides in HILIC.
+@highlight Most suitable additives were established for three different types of HILIC columns.
+@highlight Models were compared using AIC values with the adsorption model performing best.
+@highlight The significance of model terms was studied using the F test for regression.
+@highlight Retention times for a BSA digest could be predicted within 2 . 

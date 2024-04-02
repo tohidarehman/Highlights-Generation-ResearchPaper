@@ -1,0 +1,7 @@
+ In this paper we investigate the inverse scattering transforms and soliton solutions of both focusing and defocusing Hirota equations with non zero boundary conditions . The inverse problems are solved via the study of the matrix Riemann Hilbert problems . As a consequence we present the general solutions for the potentials and explicit expressions for the reflectionless potentials . Moreover the trace formulae and theta conditions are also given . Particularly we discuss the simple pole and double pole solutions for the focusing case and the simple pole solutions for the defocusing case . Moreover the results of the focusing case with NZBCs can reduce to ones of the focusing case with zero boundary condition . These obtained solutions are useful to explain the related nonlinear wave phenomena .
+
+@highlight The inverse scattering transforms of both focusing and defocusing Hirota equations with non zero boundary conditions NZBCs are found 
+@highlight The inverse problems are solved via the study of the matrix Riemann Hilbert problems 
+@highlight We present the general solutions of the potentials and explicit expressions for the reflectionless potentials 
+@highlight The trace formulae and theta conditions are given 
+@highlight The simple pole and double pole solutions for the focusing case and the simple pole solutions for the defocusing case are found.

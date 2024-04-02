@@ -1,0 +1,8 @@
+ Dynamic contrast enhanced magnetic resonance imaging plays an important role in diagnosis and grading of brain tumors . Although manual DCE biomarker extraction algorithms boost the diagnostic yield of DCE MRI by providing quantitative information on tumor prognosis and prediction they are time consuming and prone to human errors . In this paper we propose a fully automated end to end system for DCE MRI analysis of brain tumors . Our deep learning powered technique does not require any user interaction it yields reproducible results and it is rigorously validated against benchmark and clinical data . Also we introduce a cubic model of the vascular input function used for pharmacokinetic modeling which significantly decreases the fitting error when compared with the state of the art alongside a real time algorithm for determination of the vascular input region . An extensive experimental study backed up with statistical tests showed that our system delivers state of the art results while requiring less than 3min to process an entire input DCE MRI study using a single GPU .
+
+@highlight We introduce the first fully automated system for DCE MRI analysis of brain tumors.
+@highlight We introduce the algorithms for tumor and vascular input region segmentation.
+@highlight We introduce a cubic model of the vascular input function for pharmacokinetic modeling.
+@highlight We thoroughly validate our method using benchmark and clinical data.
+@highlight We show that our method obtains state of the art and reproducible results.
+@highlight Our system requires less than 3min for the end to end processing using one GPU.

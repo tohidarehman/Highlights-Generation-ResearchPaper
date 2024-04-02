@@ -1,0 +1,6 @@
+ Decompression failure in high pressure gas exposed rubbers has almost only been studied at a global scale so far . In the present study in hydrogen exposed EPDM the growth kinetics of cavities was visualized and quantified at the cavity scale using 3D in situ X ray micro tomography with an emphasis on interaction effects and boundary conditions . The volume evolution of cavities was processed and the inflation rate and maximum volume were calculated . The boundary conditions of selected cavities was analysed in terms of distance to the free surface as well as distance to other cavities . Proximity to the free surface was found to be a driving force for evolution of cavities up to a certain range beyond which the growth kinetics are more driven by other factors such as time of nucleation . Within the range made accessible by the current spatial resolution no clear interaction effect was pointed out between close cavities .
+
+@highlight Cavity evolution is quantified from post processing of in situ tomography images.
+@highlight Growth kinetics of cavities is highly influenced by proximity to the free surface.
+@highlight Nucleation is a local process cavity deflation is driven by global desorption.
+@highlight Interaction between cavities does not influence their growth kinetics.

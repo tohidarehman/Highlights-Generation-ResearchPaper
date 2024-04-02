@@ -1,0 +1,6 @@
+ Widespread application of islet transplantation as a cure for type 1 Diabetes Mellitus patients is limited mainly due to the need for life long immunosuppression associated with serious side effects . Immunoisolation by encapsulation of islets in semi permeable membranes may overcome this issue as it allows for transplantation potentially obviating the need for immunosuppressive drug therapy .
+
+@highlight Computational model of insulin mass transfer and secretion kinetics developed.
+@highlight Model validated for a membrane based encapsulation device of pancreatic islets.
+@highlight Microwell system provides appropriate and timely release of insulin.
+@highlight Simulation tool applied for geometry optimization of the microwell device.

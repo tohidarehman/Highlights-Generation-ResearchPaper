@@ -1,0 +1,9 @@
+ The comparison of simulated data with experimental results is needed for the accuracy and reliability of the transport codes . In this work we performed a comparative study of simulated results of projectile fragmentation cross sections for three different models . The obtained results also compared with published experimental data . For simulation purposes the GEANT4 simulation toolkit based on the Monte Carlo codes is used . The models in Geant4 employed to compute the PFXS are the Binary Cascade the Quantum Molecular Dynamics and the Intranuclear cascade . In the present study we reported the interaction of
+
+@highlight Fragmentation cross section of
+@highlight Si ions is calculated using GEANT4 toolkit.
+@highlight Validation of Geant4 models for computational study of fragmentation cross section is performed.
+@highlight C Al Cu Pb and Sn are used as target materials for high energy range of incident
+@highlight Si ion beam.
+@highlight The BIC the QMD and the INCL models are used for fragmentation cross section studies and comparison with experimental data.
+@highlight The good agreement is observed between computational and experimental results.

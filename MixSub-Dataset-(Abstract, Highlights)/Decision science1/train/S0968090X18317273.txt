@@ -1,0 +1,7 @@
+ This study develops and analyses the centralised and decentralised solution procedures for urban network traffic management through an optimal control framework . The optimal control is formulated based upon the Hamilton Jacobi formulation of kinematic wave model . Following the problem decomposition under the decentralised scheme we introduce the use of semi analytical performance derivatives when developing the decentralised solution algorithm . The proposed control strategies are applied to a set of test scenarios constructed from a real road network in Central London in the UK . Specific interests in the investigation include comparison of the performance gain and computational effort of the two strategies under different circumstances . We also investigate effect of network decomposition strategies on the performance of the solution algorithm . This study generates insight on urban traffic management with use of traffic flow theory decentralised optimisation and network decomposition techniques .
+
+@highlight Centralised and decentralised algorithms with optimal control formulation.
+@highlight Sensitivity based decentralised signal optimisation algorithms.
+@highlight Comparison with distributed backpressure control policy.
+@highlight Investigation of different network decomposition schemes.
+@highlight Case study of optimisation algorithms on Central London networks.

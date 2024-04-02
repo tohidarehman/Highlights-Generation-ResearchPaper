@@ -1,0 +1,8 @@
+ The experimental investigation presented in this study focused on the static strengths and load deformation behaviour of cold formed high strength steel tubular X joints made up of S900 and S960 steel grades . The X joints include brace members made up of square rectangular and circular hollow sections while chord members were made up of square and rectangular hollow sections . The nominal yield strengths of square and rectangular tubular members were 900 and 960MPa while the nominal yield strength of circular tubular members was 900MPa . Two configurations of tubular X joints were fabricated first where both brace and chord members were made up of square and rectangular hollow sections and second where circular hollow section braces were welded to square and rectangular hollow section chord members . The welds were laid using semi automatic gas metal arc welding process . A total of 34 tests was conducted where an axial compression was applied through the brace members without any chord preload . The ratio of brace to chord width
+
+@highlight 34 cold formed high strength steel X joints were tested for their static strengths.
+@highlight Chord face chord side wall and combination of these two failure modes were observed.
+@highlight Static strengths were compared with the predictions of EC3 and CIDECT.
+@highlight Existing design provisions of EC3 and CIDECT are generally not accurate and reliable.
+@highlight Reduction factor is required for X joints with small
+@highlight values only.

@@ -1,0 +1,6 @@
+ Connectomics has demonstrated that synaptic networks and their topologies are precise and directly correlate with physiology and behavior . The next extension of connectomics is pathoconnectomics to map neural network synaptology and circuit topologies corrupted by neurological disease in order to identify robust targets for therapeutics . In this report we characterize a pathoconnectome of early retinal degeneration . This pathoconnectome was generated using serial section transmission electron microscopy to achieve an ultrastructural connectome with 2.18nm px resolution for accurate identification of all chemical and gap junctional synapses . We observe aberrant connectivity in the rod network pathway and novel synaptic connections deriving from neurite sprouting . These observations reveal principles of neuron responses to the loss of network components and can be extended to other neurodegenerative diseases .
+
+@highlight The first ultrastructural pathoconnectome of a degenerating neural network.
+@highlight Rewiring of retinal networks occurs prior to complete loss of afferent input.
+@highlight Neurites extended by retinal neurons synapse with expected and novel partners.
+@highlight Novel gap junctions are formed by rod bipolar cells early retinal degeneration.

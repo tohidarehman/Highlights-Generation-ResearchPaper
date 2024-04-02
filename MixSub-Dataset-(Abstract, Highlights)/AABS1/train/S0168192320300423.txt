@@ -1,0 +1,5 @@
+ The choice of coordinate system to calculate eddy covariance fluxes becomes particularly relevant at complex measurement sites . The traditional way is to perform double rotation of the coordinate system i.e . to calculate turbulent fluxes in a coordinate system that is aligned with the flow streamlines within the flux averaging period e.g .
+
+@highlight Non zero vertical wind speeds at complex sites depend on wind direction stability and time of day.
+@highlight The planar fitted coordinate system for flux calculation is preferred over double rotation method.
+@highlight Continuous planar fitting method can reduce the uncertainty in obtaining the long term averaged coordinate frame.

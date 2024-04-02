@@ -1,0 +1,7 @@
+ Concerning Central European conditions the mitigation of daytime heat stress for pedestrians by evenly positioned plane trees on both sidewalks of a shallow and a deep E W street canyon is quantified by scenario simulations . Using the ENVI met model v4.0 BETA they were performed for a previous heat wave day in Freiburg . Related to both sidewalks the simulations are focused on the impact of the spacing between two adjacent tree crowns which in turn depends on the size and number of trees . It determines the coverage of both sidewalks by tree crowns . The simulation results each averaged over 1016 CET also refer to the aspect ratios of both street canyons and two values of the inflow speed into the simulation domain . Human thermal comfort is determined by the mean radiant temperature T
+
+@highlight The impact of spacing between the crowns of plane trees on the reduction of daytime human heat stress is simulated.
+@highlight The scenario simulations are focused on pedestrians on both tree lined sidewalks of a shallow and a deep E W street canyon.
+@highlight Trees are the most effective at mitigating human heat stress on the S facing sidewalk of a shallow E W street canyon.
+@highlight The mitigation of human heat stress increases with crown coverage i.e. as the crown spacing decreases.
+@highlight On the N facing sidewalk shading by the S bordering building masks the mitigation of human heat stress by tree crowns.

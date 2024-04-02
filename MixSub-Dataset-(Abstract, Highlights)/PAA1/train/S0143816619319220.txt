@@ -1,0 +1,7 @@
+ We propose a configuration of Fourier ptychographic microscopy to modulate the focus to a large extent . FPM is widely used to obtain high resolution images in a wide field of view . A conjugation mirror with an axially scannable mirror is introduced to conventional FPM to extend the focus range . The proposed FPM provides a wider field of view with higher resolution compared to general microscopy using the same numerical aperture . In addition it can measure a wider focus range . Therefore it is expected to be applied to volumetric samples more easily compared to FPM . The proposed technique is validated by measuring resolution while moving the United States Air Force resolution chart up to 2mm in the axial direction and experimentally verified by measuring a volumetric sample with a depth of 4mm created using bead with 1m of diameter .
+
+@highlight Configuration of Fourier ptychographic microscopy with extended focus range is proposed.
+@highlight Conjugation mirror is introduced to extend focus range.
+@highlight Proposed method provides a wide field of view with high resolution and extended focus range.
+@highlight It is validated by measuring the change in resolution over a focus range of 2mm using the United States Air Force chart.
+@highlight It is experimentally verified by measuring a volumetric sample.

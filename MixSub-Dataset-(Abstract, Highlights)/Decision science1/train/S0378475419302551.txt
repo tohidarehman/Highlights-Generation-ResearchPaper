@@ -1,0 +1,8 @@
+ The performance of different classic or more recent finite element formulations for Stokes coupled StokesDarcy and Brinkman problems is discussed . Discontinuous
+
+@highlight Approximations for Stokes flow compared in a unified framework.
+@highlight Study of stabilization parameters for symmetric and non symmetric formulations.
+@highlight Strongly conservative
+@highlight spaces for StokesDarcy.
+@highlight A homogenization by a Darcys law domain for a Stokes flow around obstacles.
+@highlight A comparative study for the Brinkman problem verifying Darcy and Stokes limits.

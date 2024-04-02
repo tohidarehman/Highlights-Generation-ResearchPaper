@@ -1,0 +1,5 @@
+ New governing equation is obtained for nonlinear modeling of dynamics of hydrogen concentration in alloys . An influence of the nonlinear terms on the dynamics of hydrogen concentration is studied . A particular case is found when the governing equation admits exact kink shaped traveling wave solution . Numerical simualtion reveals different influence of the nonlinear terms arising in the equation due to different physical reasons . Qualitatively different effects such as arising of the tail behind the localized wave and formation of the counterpart wave are found . An influence of the polarity of the input on behavior of the localized wave of concentration is described .
+
+@highlight New governing equation for the hydrogen concentration dynamics in alloys.
+@highlight Role of nonlinearities of different nature on the concentration wave.
+@highlight Polarity of the input affects the localized wave of concentration.

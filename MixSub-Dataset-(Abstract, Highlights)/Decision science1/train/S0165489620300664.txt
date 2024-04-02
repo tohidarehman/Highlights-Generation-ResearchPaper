@@ -1,0 +1,6 @@
+ The class of rules that we propose and characterize can be viewed as a variant of the standard model in the literature on cost and surplus sharing . It basically has two reference points an equal share of the loss and a weighted difference between an agents endowment or claim and the average endowment of the individuals concerned . Our class of rules comprises some prominent sharing rules such as equal split and the proportionality principle .
+
+@highlight We introduce and characterize a new model of loss sharing.
+@highlight The model represents a class of rules.
+@highlight Equal split and the proportionality principle are subcases.
+@highlight Independence of rank and mean preserving changes as a central axiom.

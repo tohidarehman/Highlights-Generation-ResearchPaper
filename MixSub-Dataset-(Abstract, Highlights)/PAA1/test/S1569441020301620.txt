@@ -1,0 +1,7 @@
+ We propose a novel analytical model for anisotropic multi layer cylindrical structures containing graphene layers . The general structure is formed by the aperiodic repetition of a three layer sub structure where a graphene layer with isotropic surface conductivity of is sandwiched between two adjacent magnetic materials . Each anisotropic material has permittivity and permeability tensors of
+
+@highlight Model of anisotropic multi layer cylindrical structures containing graphene layers.
+@highlight General structure supports tunable plasmons.
+@highlight Modal features adjusted by varying chemical potential and external magnetic bias.
+@highlight Two examples studied to illustrate the richness of the proposed general structure.
+@highlight Novel graphene based cylindrical structure with gyro electric substrate introduced.

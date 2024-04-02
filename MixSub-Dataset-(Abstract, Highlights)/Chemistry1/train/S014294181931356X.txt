@@ -1,0 +1,7 @@
+ It is proposed to transfer the capabilities of a high sensitivity photothermal technique developed by the group and widely used in the study of thermal properties of ceramics metals and glass to the study of polymer composites . The technique uses a sensing beam for the measurement of the thermal response of the sample due to local effects induced by heating with a modulated pump laser . With a simple spatial sweep of the beams on the sample surface information on a micrometric scale of the thermal diffusivity of the material distribution of phases and pores is obtained . Post process analysis allows calculating average values of relevant properties such as thermal diffusivity degree of crystallinity and distribution of aggregates . These measurements are performed at low laser powers avoiding the damage of the studied samples and turning this technique into a powerful tool of non destructive characterization .
+
+@highlight Polymers composites are characterized by a high sensitivity photothermal technique.
+@highlight Thermal diffusivity maps at the microscopic level are obtained.
+@highlight Histograms of the thermal diffusivity distribution quantify the homogeneity.
+@highlight Cluster distribution of quartz is achieved.
+@highlight Degree of crystallinity of a PP sample is calculated by Post process analysis.

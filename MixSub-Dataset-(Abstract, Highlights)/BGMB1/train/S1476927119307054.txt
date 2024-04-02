@@ -1,0 +1,7 @@
+ Protein kinases are enzymes acting as a source of phosphate through ATP to regulate protein biological activities by phosphorylating groups of specific amino acids . For that reason inhibiting protein kinases with an active small molecule plays a significant role in cancer treatment . To achieve this aim computational drug design especially QSAR model is one of the best economical approaches to reduce time and save in costs . In this respect active inhibitors are attempted to be distinguished from inactive ones using hybrid QSAR model . Therefore genetic algorithm and K Nearest Neighbor method were suggested as a dimensional reduction and classification model respectively . Finally to evaluate the proposed models performance support vector machine and Nave Bayesian algorithm were examined . The outputs of the proposed model demonstrated significant superiority to other QSAR models .
+
+@highlight Protein kinases are enzymes acting as a source of phosphate through ATP to regulate protein biological activities.
+@highlight Inhibiting protein kinases with an active small molecule plays a significant role in cancer treatment.
+@highlight To achieve this aim QSAR model is one of the best economical approaches to reduce time and save in costs.
+@highlight Genetic algorithm and K Nearest Neighbor method were suggested as QSAR model.
+@highlight The outputs of the proposed model demonstrated significant superiority to the SVM and Nave Bayesian algorithms.

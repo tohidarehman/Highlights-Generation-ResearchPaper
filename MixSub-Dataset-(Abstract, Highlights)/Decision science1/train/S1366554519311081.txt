@@ -1,0 +1,7 @@
+ To the best of our knowledge this is the first paper to utilise a novel dynamic factor model to investigate the economic relationships between 65 commodity maritime transportation and financial markets under three different frequencies in a single methodological framework . The paper overcomes a limitation of the previous literature that uses pairwise models and as such informational cross market relationships which may have been ignored or not captured are uncovered for the first time . Results indicate strong economic relationships from commodity to freight markets with crude oil prices serving as the leading indicator among all the investigated markets but also between different sub markets . The results are important to international investors and traders but also provide essential insights to policymakers and regulators in terms of commercial strategies asset positioning network supply chain modelling asset investment allocation budgeting and risk management .
+
+@highlight First time use of dynamic factor model investigating economic spillover effects.
+@highlight Crude oil prices are the leading economic indicator for commodity and freight rates.
+@highlight Commodities react faster to new market information and transmit it to freight markets.
+@highlight Freight rates react differently to corresponding commodity price movements.
+@highlight Lead lag economic relationships can enhance trading and risk management strategies.

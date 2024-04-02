@@ -1,0 +1,6 @@
+ A novel compact photonic crystal ring resonator is designed based on phase change material to realize reconfigurable directional coupler switching for the two wavelengths of coarse wavelength division multiplexing system at 1530 nm and 1550 nm . The working mechanism of this PCM based device is analyzed from the perspective of the coupled optical field in the inner and outer resonator rings during the phase transition of selected photonic crystal rods . This kind of PCM based directional coupler switches will play a strong role in the reconfigurable lattice mesh based integrated intelligent photonic system .
+
+@highlight A phase change material based photonic crystal ring resonator was proposed.
+@highlight Reconfigurable directional coupler switching for two CWDM wavelengths was realized.
+@highlight The working mechanism was discussed with the coupled field analysis.
+@highlight This switch will be useful in the integrated intelligent photonic system.

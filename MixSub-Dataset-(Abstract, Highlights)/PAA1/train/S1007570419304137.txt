@@ -1,0 +1,6 @@
+ The identification of the minimal set of nodes that maximizes the propagation of information is one of the most relevant problems in network science . In this paper we introduce a new method to find the set of initial spreaders to maximize the information propagation in complex networks . We evaluate this method in assortative networks and verify that degree degree correlation plays a fundamental role in the spreading dynamics . Simulation results show that our algorithm is statistically similar regarding the average size of outbreaks to the greedy approach in real world networks . However our method is much less time consuming than the greedy algorithm .
+
+@highlight Network assortativity impacts on the results of the influence maximization methods.
+@highlight More spreaders may not provide additional informed nodes at the end of the dynamic.
+@highlight Selecting the best spreaders by communities performs similarly to the Greedy approach.
+@highlight It is more suitable and less time consuming the selection of spreaders by communities.

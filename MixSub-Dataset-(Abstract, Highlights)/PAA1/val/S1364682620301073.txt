@@ -1,0 +1,7 @@
+ This paper is a continuation of research in which the relationship of substorm indices both with the rate of storm development and electric field of the solar wind during the main phase of magnetic storms induced by CIR and ICME events for the 1979 to 2000 period was considered . In this paper on the basis of OMNI data for 19792017 the correlations between substorm indices and Dst variations as well as with parameters of the interplanetary medium during the main phase of magnetic storms induced by CIR and ICME events is analyzed . The obtained results confirm the dependence of substorm index variations on the type of interplanetary source and high efficiency of the SW electric field .
+
+@highlight The increase of the set of data events confirm the results obtained in Boroyev and Vasiliev 2018 .
+@highlight The growth of development rate of the magnetic storm the increase of Kp index is observed for the CIR and ICME events.
+@highlight The value of Kp index correlates with the minimum value of Dst index and as well as with the SW electric field.
+@highlight The correlation coefficient between Kp and southward IMF Bz modulus is higher in the ICME events than in the CIR ones.
+@highlight The analysis of substorm indices allows us to estimate the location of auroral currents for the CIR and ICME events.

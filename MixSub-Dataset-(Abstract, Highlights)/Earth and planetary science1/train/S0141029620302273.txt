@@ -1,0 +1,7 @@
+ Inflated membrane tubes are popularly used as supporting members in civil engineering and aerospace engineering . The stiffness and bearing capacity of the tube originate from the tensile stress of the membrane induced by the inner air pressure . Deformation of the tube under load results in a change in this pressure and hence influences the tensile stress of the enveloping membrane and the stiffness of the tube . The latter would affect the deformation again . Such an interaction between the deformation of the enveloping membrane and the inner air pressure plays an important role in the mechanical behavior of the tube and yet it has not received any attention according to the literature .
+
+@highlight Air membrane interaction has an important effect on the behavior of inflated tubes.
+@highlight Air membrane interaction decreases with the initial pressure and slenderness ratio.
+@highlight Degree of constraints can reduce the air membrane interaction.
+@highlight Air membrane interaction varies non monotonically with the axial compression.
+@highlight Influence of air membrane interaction changes non monotonically with the factors.

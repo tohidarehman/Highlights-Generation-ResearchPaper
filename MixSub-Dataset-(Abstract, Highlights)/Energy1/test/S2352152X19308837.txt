@@ -1,0 +1,7 @@
+ This paper presents an economic model that aims to evaluate from the regulatory perspective the behavior of an aggregator capable of exploiting business opportunities of electric vehicles in the context of a wholesale electricity market . As a key contribution we investigate the market equilibrium point when only one firm acts as an EV aggregator taking advantage of the management of the storage assets . To do so a Stackelberg game is stated as a bi level optimization problem where the maximization of the EV aggregator profit is regarded as the leaders optimization problem and the set of hourly economic dispatches and the corresponding locational marginal prices are determined by a benevolent system operator . The model was applied in the IEEE RTS test system and the Colombian electricity market . The best solution for the EV aggregator does not require a significant share of the existing storage capacity . However despite the loss of efficiency observed in the short term energy market the oligopolistic solution leads to flattening load curves and therefore a better use of the transmission and distribution infrastructure in the long term .
+
+@highlight A model for an EV aggregator and the competitive market is presented.
+@highlight The bi level optimization is applied to get the Stackelberg equilibrium.
+@highlight The model was applied in a two test systems.
+@highlight Best solution for the aggregator does not require a significant capacity.
+@highlight Solution leads to flattening load curves and better use of the system.

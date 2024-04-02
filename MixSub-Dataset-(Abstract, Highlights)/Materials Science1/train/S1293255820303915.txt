@@ -1,0 +1,6 @@
+ SiC is a two dimensional semiconductor with a direct band gap . Many authors studied its electric and magnetic properties in sheet and ribbon shapes . The previous papers have shown that SiC sheet and full saturated armchair ribbons are non magnetic semiconductor while zigzag ribbons are ferromagnetic semiconductor . In this paper we saturate only C and Si atoms of armchair ribbon by hydrogen and study its electric and magnetic properties by density functional theory . Our results show that CH saturated carbon atoms in armchair ribbon can show both FM and antiferromagnetic semiconductor states while SiH saturated silicon atoms in armchair ribbon can show both FM half metal and AFM metallic states . We found that the total magnetic moment of the unit cell is about 2B . Our results confirm that armchair ribbons can show many different magnetic states only by hydrogen saturation .
+
+@highlight SiC sheet and full saturated armchair ribbons are non magnetic semiconductor materials.
+@highlight Saturated only C CH can show both ferromagnetic FM and antiferromagnetic AFM semiconductor states.
+@highlight Saturated only Si SiH can show both FM half metal and AFM metallic states.
+@highlight In FM states the total magnetic moment of unit cell is about 2B.

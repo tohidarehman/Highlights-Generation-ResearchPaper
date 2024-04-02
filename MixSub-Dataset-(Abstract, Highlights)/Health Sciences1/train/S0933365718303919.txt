@@ -1,0 +1,6 @@
+ The representation of knowledge based on first order logic captures the richness of natural language and supports multiple probabilistic inference models . Although symbolic representation enables quantitative reasoning with statistical probability it is difficult to utilize with machine learning models as they perform numerical operations . In contrast knowledge embedding
+
+@highlight Topological structure of Huffman tree for representing first order logic knowledge.
+@highlight A recursive neural knowledge network RNKN is proposed for multi disease diagnosis.
+@highlight Discriminative weight learning method of RNKN based on back propagation mechanism.
+@highlight Our study results confirmed the interpretability of knowledge embedding.

@@ -1,0 +1,8 @@
+ Column miniaturization of liquid chromatography is a major trend in separation sciences with the advent of single cell proteomics and metabolomics . Nanochannel chromatography is one of the promising tools for single cell analyses because it provides ultra small sample volume and high separation efficiency . However non fluorescent molecular detection in such small channels is still quite difficult due to fLaL sample volume which hinders further miniaturization of nanochannels . In this study we overcame the size limitation of nanochannel chromatography by our label free molecular detection method photothermal optical diffraction which utilizes the photothermal effect of analytes and optical diffraction by nanochannel . The combination of the nanochannel chromatography and the POD enables 1.8 fL sample separation and label free molecule detection in nanochannels with 800 nm width and 300 nm depth at the optimized experimental conditions . The limit of detection is 5.4 zmol approximately 50 times lower than the conventional label free detection method . Furthermore the theoretical plate number is calculated to be 10
+
+@highlight Photothermal optical diffraction is a label free molecule detection method for nanochannels.
+@highlight Femtoliter normal phase chromatographic separation was realized in10
+@highlight nm channel.
+@highlight Separated samples were detected by photothermal optical diffraction with LOD of 5.4 zeptomol.
+@highlight Nanochannel chromatography showed high theoretical plate number 10
+@highlight plates m .

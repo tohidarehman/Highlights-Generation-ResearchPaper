@@ -1,0 +1,6 @@
+ In this work we utilized basic and acidic analytes to investigate the ionic interaction participation in retention behavior of selected reversed phase and polar columns . The test analytes included nitrate benzenesulfonate and trimethylphenylammonium ions . The fully aqueous mobile phase comprising 10mM dichloroacetic acid buffered with ammonia solution to desirable pH was used for retention experiments . Developed method was utilized to study the ionic interactions of stationary phases in pH range between 2.5 and 9.0 . We demonstrate that selected sorbents used for reversed phase and hydrophilic interaction chromatography separations exhibit cation or anion exchange interactions . We compare the results to novel Atlantis PREMIER BEH C18 AX mixed mode column that combines reversed phase and anion exchange interaction modes . We evaluated the relative retention strength of selected columns for anionic and cationic analytes .
+
+@highlight We propose method for evaluation of ionic interactions of liquid chromatography.
+@highlight Permanently ionized organic and inorganic ions were utilized as test analytes.
+@highlight Aqueous ammonium dichloroacetate mobile phases are used in range pH 2.59.0.
+@highlight The method is applicable for characterization of mixed mode columns.

@@ -1,0 +1,7 @@
+ We highlight the existence of a topological horseshoe arising from an apriori stable model of the binary asteroid dynamics . The inspection is numerical and uses correctly aligned windows as described in a recent paper by A. Gierzkiewicz and P. Zgliczyski combined with a recent analysis of an associated secular problem .
+
+@highlight The secular motions of binary asteroid system interacting with a planet are analysed.
+@highlight The perihelia of the ellipses of the asteroids afford stable unperturbed motions.
+@highlight A planet orbiting outside and coming close to the asteroids has a perturbing effect.
+@highlight The flow is reduced to a discrete map. Its phasespace is depicted.
+@highlight A topological horseshoe is constructed providing the existence of symbolic dynamics.

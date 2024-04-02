@@ -1,0 +1,11 @@
+ Lithium ion capacitors lately evolved energy storage devices which integrate the merits of both lithium ion batteries and supercapacitors for high energy and power densities have attracted substantial research attention in recent years . Here a Prussian blue analogue nanocube templating process was developed to produce N doped carbon nanoboxes as high performance anode materials for lithium ion based energy storage . The N CNB exhibited high specific capacities and excellent rate capability and cycling performances as an anode . If paired with glucose derived carbon nanospheres cathodes the N CNB GCNS LIC delivered a high energy density of 77.5 Wh kg
+
+@highlight N doped carbon nanobox is developed as anode material for lithium ion capacitor.
+@highlight Nanobox serves as nano reservoir for lithium ions for fast lithiation delithiation.
+@highlight Glucose derived carbon nanospheres of 1768m
+@highlight are developed as cathodes.
+@highlight Li ion capacitor delivers 78 Wh kg
+@highlight at 0.31kWkg
+@highlight and 40 Wh kg
+@highlight at 112kWkg
+@highlight Li ion capacitor retains 138 capacity after 40 000 cycles at 10 A g

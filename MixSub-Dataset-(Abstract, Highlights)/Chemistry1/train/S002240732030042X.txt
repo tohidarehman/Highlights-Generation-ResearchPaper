@@ -1,0 +1,5 @@
+ After Arthur Ashkins pioneering work in optical levitation and manipulation the study of optical forces exerted by laser beams on particles has become an active field of research . The present paper is a contribution to this issue . The interest of Bessel beams is that their intensity does not have any longitudinal gradient along the direction of propagation leading to a trivial separation between gradient and scattering forces . Beside the classical gradient and scattering forces we shall however exhibit a new kind of optical forces associated with the existence of non zero axicon angles .
+
+@highlight Longitudinal optical forces exerted by off axis Bessel beams over a Rayleig particle are investigated.
+@highlight The framework used is the one of generalized Lorenz Mie theory.
+@highlight Beside usual gradient and scattering forces axicon forces associated with the occurrence of an axicon angle are exhibited.

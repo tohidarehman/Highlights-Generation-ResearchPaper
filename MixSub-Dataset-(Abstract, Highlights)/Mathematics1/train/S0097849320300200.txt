@@ -1,0 +1,5 @@
+ We introduce a novel tool for designing a swarming behavior model for a set of virtual agents to automatically capture an initially unknown indoor architectural environment . Our key idea is to use an output driven optimization to create targeted swarming behavior . The input to our model is a simple rectangular proxy of the target area and desired acquisition indicator values . The final outputs are the parameters for a swarming behavior model that is autonomous and decentralized uses only local exploration and is robust to agent failure . We show and compare the swarming performance in several simulated environments of up to several hundred square meters 100 agents and under various conditions .
+
+@highlight A novel swarming behavior model suitable for robust acquisition of architectural spaces.
+@highlight An inverse modeling approach for determining swarming behavior model parameters. and
+@highlight A practical design tool for predicting the suitability of a set of mobile sensors in a target environment.

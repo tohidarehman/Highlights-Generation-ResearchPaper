@@ -1,0 +1,6 @@
+ In todays era of mega ships rail is increasingly being recognized as an important and sustainable mode to transport containers in and out of congested marine terminals . However rails potential impact on terminal and road congestion is highly dependent on the ability to fully utilize the available train space . This paper contributes to the literature by presenting an optimization model that can create high utilization loading plans for double stack trains at marine terminals . To facilitate the solution of the model it will be shown how the initial binary nonlinear model can be linearized . Model properties will also be derived and discussed . To illustrate the usefulness of the proposed model in a practical setting a realistic case study is conducted . The results demonstrate that the model is able to find optimal loading plans for double stack trains in realistic settings .
+
+@highlight Rail is critical in reducing marine terminal congestion and emission reduction.
+@highlight Optimization model proposed for loading double stack trains.
+@highlight Model based on real world setting at U.S. marine terminal.
+@highlight Model properties are rigorously analyzed.

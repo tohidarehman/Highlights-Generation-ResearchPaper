@@ -1,0 +1,5 @@
+ Optical addition and subtraction are very crucial functions required in all optical computations and processing . In this article we propose an all optical circuit that can implement these functions simultaneously . The proposed device can be realized by combining optical XOR gates with a 2 bit full adder . Four nonlinear ring resonators are used to realize the proposed structure .
+
+@highlight An all optical adder subtractor based on photonic crystals is proposed.
+@highlight The proposed structure can perform addition or subtraction tasks on 2 bit numbers.
+@highlight The maximum delay time of the proposed structure is 3 ps.

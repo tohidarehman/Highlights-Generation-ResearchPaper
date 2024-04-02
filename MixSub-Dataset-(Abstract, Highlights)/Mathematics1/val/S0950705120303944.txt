@@ -1,0 +1,7 @@
+ In the era of big data feature selection is indispensable as a dimensional reduction technique to lower data complexity and enhance machine learning performances . However traditional feature selection methods mainly focus on classification performances while they exclude the impact of associated feature costs e.g . price risk and computational complexity for feature acquisition . In this research we extend the
+
+@highlight To develop a cost effective feature selection model that can achieve acceptable classification accuracy with a significantly reduced cost.
+@highlight To formulate a robust counterpart of the cost effective feature selection model that can address the uncertainty of feature costs.
+@highlight To develop a heuristic algorithm to improve computational efficiency by tightening the bound of an integer budget constraint.
+@highlight To validate the effectiveness of the proposed models and heuristic algorithm on a variety of benchmark and synthetic datasets.
+@highlight To technically review recent cost based feature selection methods and compare the performances with our proposed cost effective model.

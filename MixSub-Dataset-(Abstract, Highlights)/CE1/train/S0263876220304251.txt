@@ -1,0 +1,6 @@
+ Droplet microfluidics allows a higher degree of control over the crystallization conditions than conventional methodologies . To extend this approach this work explores the synergistic effect of low frequency pulsed ultrasound on lysozyme crystallization in microdroplets . Pulsed actuation allows control of the crystallization temperature while the ultrasound effect significantly reduces the induction time and crystal size . Therefore protein nucleation is enhanced by pulsed sonication without causing precipitation resulting in uniform crystal size . Finally the initial supersaturation ratio has a crucial contribution to the crystal size for silent experiments while a threshold for induction time is observed in ultrasonic crystallization .
+
+@highlight Promoting protein nucleation in microdroplets through low frequency pulsed sonication.
+@highlight Parametric study supported by literature to quantify the influence of the applied ultrasound energy on the induction time in an extended range of supersaturation ratios.
+@highlight Controlling nucleation rate by means of alternating the supersaturation ratio and sonication pulse time.
+@highlight Protein crystal production with a uniform size distribution without causing precipitation.

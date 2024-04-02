@@ -1,0 +1,7 @@
+ Temporal and spatial continuity of remote sensing data is flawed due to cloudiness sensor malfunction or atmospheric pollution . Different methods have been presented to estimate missing values in remote sensing data
+
+@highlight Comprehensive evaluation of a spatio temporal gap filling method.
+@highlight Contrary to precipitation LST and ET gaps were filled accurately.
+@highlight There were unexpected errors in the seasonal assessment of LST estimations.
+@highlight Accuracy of the algorithm was not a function of the studied gap sizes.
+@highlight The algorithm was sensitive to land cover changes. .

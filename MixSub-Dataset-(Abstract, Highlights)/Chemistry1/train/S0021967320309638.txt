@@ -1,0 +1,6 @@
+ Artificially weathered crude oil spill samples were matched to unweathered suspect source oils through a three tiered approach as follows Tier 1 gas chromatography flame ionization detection Tier 2 gas chromatography mass spectrometry diagnostic ratios and Tier 3 multivariate statistics . This study served as proof of concept for a promising and new method of crude oil forensics that applies principal component analysis and partial least squares discriminant analysis in tandem with traditional forensic oil fingerprinting tools to confer additional confidence in challenging oil spill cases . In this study weathering resulted in physical and chemical changes to the spilled oils thereby decreasing the reliability of GC FID and GC MS diagnostic ratios in source attribution . The shortcomings of these traditional methods were overcome by applying multivariate statistical tools that enabled accurate characterization of the crude oil spill samples in an efficient and defensible manner .
+
+@highlight A practical statistical application to overcome limitations of traditional techniques.
+@highlight A three tiered approach to solve a challenging weathered crude oil case.
+@highlight A highly automated statistical workflow for increased efficiency and objectivity.
+@highlight PCA scatterplots to differentiate oils in a highly intuitive visual clustering.

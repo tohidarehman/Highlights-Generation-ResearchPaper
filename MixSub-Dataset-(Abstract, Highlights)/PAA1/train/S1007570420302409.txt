@@ -1,0 +1,7 @@
+ In this paper a periodic Chikungunya model with temperature and rainfall effects is proposed and studied which incorporates time dependent extrinsic incubation period time dependent maturation delay asymptomatic and symptomatic infectious humans . Two threshold parameters for the extinction and persistence of mosquitos and the virus are derived respectively the mosquito reproduction number
+
+@highlight A periodic Chikungunya model with temperature and rainfall effects is studied.
+@highlight Time dependent maturation delay and extrinsic incubation period are incorporated.
+@highlight Infected humans are divided into symptomatic and asymptomatic compartments.
+@highlight Neglecting rainfall seasonality and asymptomatic compartment infection may be overestimated.
+@highlight Numerical simulations are done with data of the largest outbreak of Brazil in 2017.

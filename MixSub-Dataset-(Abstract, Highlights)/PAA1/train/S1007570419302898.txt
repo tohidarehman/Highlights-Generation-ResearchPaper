@@ -1,0 +1,5 @@
+ Hysteresis is a special type of behavior ubiquitous in science and engineering it consists in that slow inputs produce a loop in the steady state part of the graph output versus input .
+
+@highlight Mathematical textbooks on hysteresis use rate independence to define hysteresis processes.
+@highlight Experimental evidence shows that rate independence is but an approximation of real hysteresis systems.
+@highlight We propose a mathematical framework in which we can study a class of hysteresis systems that are not rate independent.

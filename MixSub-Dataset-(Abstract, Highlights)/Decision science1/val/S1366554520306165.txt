@@ -1,0 +1,7 @@
+ Maritime piracy poses various risks that can cause disruptions economic problems injuries of crew members and damages to ships . This paper proposes an analytical model based on Bayesian network to estimate the possibility of the ship being attacked or hijacked in Southeast Asia . The BN can capture the causal relationships between piracy and influencing factors which facilitates the probability prediction process . The characteristic of ships environment and anti piracy measures are incorporated in the model . Available data from IMO together with expert knowledge is applied to validate the model . The results can provide stakeholders with insights to make decisions under uncertainties .
+
+@highlight Develop a BN to estimate the possibility of the ship being attacked or hijacked.
+@highlight Analyse the characteristics of maritime piracy in Southeast Asia.
+@highlight Identify the major factors influencing the pirate attacks.
+@highlight Provide a transparent decision making tool for maritime piracy control.
+@highlight Use a case study and sensitivity analysis to validate the proposed framework.

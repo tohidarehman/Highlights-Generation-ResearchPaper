@@ -1,0 +1,5 @@
+ Freeform surfaces are widely used in advanced optical systems . In order to accurately measure freeform surfaces an adaptive interferometer with deformable mirror has been developed for the freeform surface metrology . To ensure the efficiency a stochastic parallel gradient descent and Newton iteration mixed algorithm to drive the DM has been proposed it can achieve the minimum value of the optimization and is suitable for the different interferograms . The simulation and experimental results verify the correctness and feasibility of the proposed DM driving algorithm .
+
+@highlight A stochastic parallel gradient descent and Newton iteration mixed algorithm used in freeform surface metrology is presented.
+@highlight New algorithm can achieve the minimum value of the optimization.
+@highlight New algorithm is suitable for the different interferograms.

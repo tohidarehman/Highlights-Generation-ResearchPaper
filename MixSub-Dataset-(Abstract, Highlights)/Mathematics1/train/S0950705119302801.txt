@@ -1,0 +1,7 @@
+ Missing data imputation is a very important data cleaning task for machine learning and data mining with incomplete data . This paper proposes two novel methods for missing data imputation named kEMI and kEMI
+
+@highlight Two novel missing data imputation techniques are proposed.
+@highlight These novel imputation techniques handle both numerical and categorical features.
+@highlight Experimental comparison based on eleven publicly datasets two evaluation criteria.
+@highlight Missing scores are estimated by learning local and global similarities.
+@highlight Top estimations are fused to obtain the final estimation.

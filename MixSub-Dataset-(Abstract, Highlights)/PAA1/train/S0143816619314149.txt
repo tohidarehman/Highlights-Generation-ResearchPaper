@@ -1,0 +1,7 @@
+ We propose a computational ghost imaging system based on the Hadamard patterns . A 4 connected region based method is proposed to optimize the Hadamard pattern sequence and a differential decomposition method is developed to construct a sequence that can be shown on the light modulation devices with the optimized pattern sequence . Finally the image is reconstructed by the second order correlation algorithm . Both numerical model and experimental setup are established and a series of experiments are implemented . The imaging performance of the proposed method is validated by comparing with the results from the default order of the Hadamard pattern sequence Russian dolls ordering and fast Walsh Hadamard transform . The proposed system can realize high quality imaging with a low sampling ratio and it requires much less measurement numbers for imaging .
+
+@highlight A compact computational ghost imaging system is proposed.
+@highlight A 4 connected region based Hadamard pattern sequence optimization method is proposed.
+@highlight The system can achieve image reconstructions with a low sampling rate.
+@highlight The proposed method possesses excellent imaging performance.
+@highlight The proposed system and method have wide potential applications.

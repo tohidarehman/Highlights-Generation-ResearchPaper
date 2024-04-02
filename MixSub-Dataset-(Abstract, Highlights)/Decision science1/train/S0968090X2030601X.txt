@@ -1,0 +1,6 @@
+ This paper builds an economic model to investigate the interactions between baggage fee and airport congestion . With checked bag fees we find that the socially optimal numbers of passengers and checked bags will not be achieved if the marginal congestion cost from carry ons is larger than that from checked bags . However it is possible with bundle pricing . Furthermore we use numerical experiments to illustrate that checked bag pricing may underperform bundle pricing in terms of social welfare .
+
+@highlight We investigate airline baggage fees impacts on airport congestion.
+@highlight Both checked bags and carry ons could cause airport congestion.
+@highlight Airline competition may not be able to induce social optimum.
+@highlight Shifting from bundle pricing to checked bag pricing may lower social welfare.

@@ -1,0 +1,7 @@
+ This paper proposes a novel Power Flow method based on Composite Newton Cotes formula . The proposed method aims to be robust and efficient enough to properly manage ill conditioned power systems . Self adapted mechanisms for tuning the parameters of proposed PF method are provided . The proposed method is tested on several ill conditioned systems ranging from 3012 to 27 318 buses at loadbase and heavy loading conditions . Moreover its ability to handle the generators reactive limits is also tested . The obtained results prove that the proposed method is remarkably robust and more efficient than other well known Power Flow techniques .
+
+@highlight A novel Load Flow method based on the well known Composite Newton Cotes formula.
+@highlight It is tested on ill conditioned systems in loadbase and heavy loading conditions.
+@highlight Ability to properly handle generators reactive limits is also tested.
+@highlight Results proved that the proposed method is remarkably robust.
+@highlight More efficient than other well known Load Flow techniques.

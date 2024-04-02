@@ -1,0 +1,5 @@
+ A Symbolic Monte Carlo method is applied to the identification of radiative properties of a heterogeneous semitransparent insulating material from measurements of directional hemispherical transmittance and reflectance at room temperature . The polynomials obtained with SMC allow the development of a complete inverse analysis which determines if the inverse problem solution exists is unique and stable . Moreover the numerical efficiency of the absorption and scattering coefficients identification is improved since the radiative transfer equation is only solved once in the overall inverse iterative procedure .
+
+@highlight Symbolic Monte Carlo method is applied for the identification of radiative properties of an insulating material.
+@highlight An inverse analysis based on SMC polynomials determines if the inverse problem is well or ill posed.
+@highlight SMC polynomials allows to decrease significantly the computational cost of the inverse method.

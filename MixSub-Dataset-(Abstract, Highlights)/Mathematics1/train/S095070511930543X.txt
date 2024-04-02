@@ -1,0 +1,8 @@
+ This work proposes a robust loss function based on expectile penalty which includes and generalizes the existing loss functions . Then some important properties of RE loss are demonstrated such as asymmetry nonconvexity smoothness boundedness and asymptotic approximation behaviors . From the viewpoints of correntropy we analyze that the proposed RE loss can be viewed as a correntropy induced loss by a reproducing piecewise kernel . Furthermore a sparse version of RE loss is developed to improve sparsity by introducing a
+
+@highlight Propose an analogous to correntropy induced loss RE loss .
+@highlight RE loss is an exponential expectile penalty.
+@highlight A sparse version of RE loss is built with a
+@highlight  insensitive version.
+@highlight Demonstrate important properties of RE loss function.
+@highlight RE loss includes and extends the existing loss functions.

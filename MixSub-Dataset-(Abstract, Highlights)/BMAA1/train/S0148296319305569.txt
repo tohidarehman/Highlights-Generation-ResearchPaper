@@ -1,0 +1,6 @@
+ This paper examines the role of financial statement comparability in shaping trading volume prior to earnings announcements . We find that the degree of delayed trading volume prior to earnings announcements is less pronounced for firms with more comparable financial statements . In addition the effect of financial statement comparability on pre announcement trading volume is stronger in more opaque information environments . Our findings are incrementally significant after controlling for a comprehensive set of within firm earnings attributes and robust to various research design choices including alternative comparability models with differing peer group selection . Collectively our results show that financial statement comparability serves an integral mechanism facilitating a firms pre existing information environment . In sum this paper constitutes the first volume based evidence which lends support to the usefulness of financial statement comparability in investors trading activity .
+
+@highlight Comparability mitigates delayed trading volume before earnings announcements.
+@highlight Results are robust to alternative industry aggregation levels and model choices.
+@highlight Results are stronger when the opacity of a firms information environment is high.
+@highlight Results are robust to controlling for various within firm earnings quality proxies.

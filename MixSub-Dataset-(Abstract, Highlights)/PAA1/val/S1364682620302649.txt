@@ -1,0 +1,7 @@
+ Ionospheric scintillation is quite a common phenomenon over the low latitude regions and in East Africa it is often monitored using measurements from the SCIntillation Network Decision Aid receivers . The SCINDA receivers over East Africa are characterized by long base lines and data paucity thus offering a huge challenge in the long term scintillation characterization over the region . To alleviate this challenge we implemented the use of data from the dual frequency GPS receivers of the IGS network in combination with data from the SCINDA receiver at Nairobi Kenya to model amplitude scintillation . The data from the SCINDA geographic coordinates 36.808
+
+@highlight No single number can be universally used to scale ROTI to match S4.
+@highlight Scintillation over Nairobi peak during the equinoxes.
+@highlight There is equinoctial asymmetry in the probability of amplitude scintillation occurrence over Nairobi.
+@highlight The local time peak in the occurrence of scintillation over Nairobi is between 20 00 LT and 23 00 LT.
+@highlight The model reproduced quite well the observed probability of occurrence of scintillation over Nairobi.

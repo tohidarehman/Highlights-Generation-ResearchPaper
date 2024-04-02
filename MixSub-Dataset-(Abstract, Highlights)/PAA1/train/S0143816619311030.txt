@@ -1,0 +1,13 @@
+ The ablation of thin metal films using ultrafast laser radiation represents a standard processing procedure in laser technology . However looking closer to the resulting structures the arising topology deviates strongly from the expected one . Ablation of thin gold films using ultrafast laser radiation with a Gaussian shaped spatial intensity distribution results in flat topologies . By synergistically combining space and time resolved reflectometry with expanded two temperature hydrodynamic modeling we explain the formation of bulging and rupture of the thin film surface by the expansion of strongly stretched liquid material due to the induced rarefaction wave propagating towards the substrate . Also the formation of a flat ablation structure is described by the interplay of two rarefaction waves one propagating towards the substrate and the other one propagating towards the vacuum boundary within the completely molten film . The simulated topology agrees excellent with the experimentally observed ablation structure . Besides all simulated stages of excitation of the gold film namely electron phonon non equilibrium hydrodynamic expansion and rupture are confirmed by space and time resolved pump probe reflectometry .
+
+@highlight A 150 nm thick thin film of gold deposited on 5 mm fused silica substrate which was covered by an adhesion layer of about 20 nm chromium was irradiated with single pulsed ultrafast laser radiation in the gentle ablation regime wavelength
+@highlight  800 nm pulse duration
+@highlight  40 fs peak fluence
+@highlight  1.4 J cm
+@highlight The resulting ablation structure features a flat topology with a constant ablation depth of approximately 70 nm in the center surrounded by a lamella like structure with an irregular morphology
+@highlight The optical response of the excited gold thin film was measured by ultrafast imaging reflectometry up to a delay time of 3.8 ns between the pump and the probe radiation wavelength
+@highlight  440 nm pulse duration
+@highlight  60 fs angle of incidence
+@highlight The constant ablation depth is explained by quasi two dimensional two temperature hydrodynamic modeling by the interference of two rarefaction waves
+@highlight Excellent agreement between the simulated and experimentally determined topology of the ablation structure
+@highlight The optical response reveals five stages of excitation being completely explainable by modeling

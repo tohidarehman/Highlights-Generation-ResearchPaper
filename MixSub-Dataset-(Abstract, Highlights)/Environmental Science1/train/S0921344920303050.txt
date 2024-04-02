@@ -1,0 +1,7 @@
+ This paper compares the environmental performance of different municipal waste pre collection and collection transport systems using the life cycle assessment methodology . The scenarios compared consider conventional containerisation systems underground containerisation and pneumatic collection transport systems .
+
+@highlight LCA to evaluate the environmental impact of MSW collection transport systems.
+@highlight In general conventional systems generate less impact than pneumatic ones.
+@highlight Surface containerization systems generate less impact than underground systems.
+@highlight Pneumatic systems have a better performance in impacts related to the NOx emissions.
+@highlight Pneumatic system pipelines electricity consumption have the greatest contribution.

@@ -1,0 +1,6 @@
+ This paper presents a comprehensive energy management system based centralized control for a smart greenhouse integrating a microgrid with the aim to optimize and control the global internal environment and the crop growth . The objective is to develop an advanced and comprehensive energy management platform based model predictive control considering intermittent behaviour of renewable energy production energy and water storage dynamics as well as uncertainties related to climate conditions . A multi objective integrated optimization framework is proposed to manipulate the whole operation of the smart greenhouse that considers both forecasts and updated data collected from the available wireless sensor network . The MPC based scheduling is verified via a case study where its numerical results are depicted and discussed .
+
+@highlight A comprehensive energy management based centralized control for a smart greenhouse integrating a microgrid is presented.
+@highlight An advanced energy management platform based MPC scheme to optimize and control the indoor microclimate is developed.
+@highlight A multi objective integrated optimization framework is proposed to manipulate the whole operation of the smart greenhouse.
+@highlight The MPC based scheduling is verified via a case study where its numerical results are depicted and discussed.

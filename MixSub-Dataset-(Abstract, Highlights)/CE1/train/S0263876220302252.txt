@@ -1,0 +1,8 @@
+ The dynamic characteristics of the gas flow field in a reverse cyclone were investigated experimentally in this study by measuring instantaneous tangential velocity with hot wire anemometry . The instantaneous tangential velocity was found to continuously fluctuate by both low and high frequencies with time . Further analyses of measured data regarding time and frequency domains by standard deviation and spectral analysis revealed that the fluctuation intensities were stronger in the center region than that near the wall and stronger still near the dust outlet . One dominant frequency
+
+@highlight The dynamic characteristics are described by the tangential velocity fluctuations.
+@highlight Low frequency velocity fluctuation has transfer behavior on frequency domain.
+@highlight PSD of the velocity fluctuation frequency has attenuation characteristics.
+@highlight The hopper leads to a second dominant frequency emerged in the local region.
+@highlight Dominant frequencies increase as
+@highlight increased.

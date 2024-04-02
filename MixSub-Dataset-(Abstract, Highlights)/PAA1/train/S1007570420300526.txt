@@ -1,0 +1,6 @@
+ We analyze the diffusion of a system on a backbone structure by considering the presence of reaction terms . We start our analysis by considering an irreversible reaction process where the particles are removed from the system . After we consider the diffusion subjected to a reversible reaction process . The behavior for the system in this scenario depends on the relative rates of diffusion and reaction . For these cases we obtain exact solutions in terms of the Green function approach and show a rich class of behavior which can be related to anomalous diffusion .
+
+@highlight Diffusion on a backbone structure with reaction.
+@highlight Irreversible and reversible reaction processes and comb model.
+@highlight Solutions for a reaction processes in a comb model.
+@highlight Anomalous diffusion and reaction processes on backbone structure.

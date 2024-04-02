@@ -1,0 +1,6 @@
+ We study a variant of the multi period vehicle routing problem in which a service provider offers a discount to customers in exchange for delivery flexibility . We establish theoretical properties and empirical insights regarding the intricate and complex relation between the benefit from additional delivery flexibility the discounts offered to customers to gain additional delivery flexibility and the likelihood of acceptance of discount offers by customers . Computational experiments using an exact dynamic programming algorithm show that depending on the setting cost savings exceeding 30 can be achieved .
+
+@highlight Theoretical properties and empirical insights about pricing for delivery time flexibility are presented.
+@highlight The relations between the benefit from additional delivery flexibility and the discount offers to customers are explored.
+@highlight Novel algorithms producing high quality solutions for realistic size instances are developed.
+@highlight Experiments show cost savings exceeding 30 can be achieved by offering discounts for delivery time flexibility.

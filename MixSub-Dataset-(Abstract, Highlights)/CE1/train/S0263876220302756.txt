@@ -1,0 +1,7 @@
+ The main purpose of this study is the optimization of the operating mode for cryogenic distillation columns that provide an isotopic enrichment in stable isotopes . The analysis is based on an experimental cycle for
+
+@highlight This paper deals with enrichment of
+@highlight CO by carbon monoxide cryogenic distillation.
+@highlight An experimental run is simulated using a commercial simulation software.
+@highlight An optimized semi batch distillation is proposed varying the feed flowrate.
+@highlight The proposed cycle allows reaching the desired specification in one third the time.

@@ -1,0 +1,7 @@
+ Design parameters of a pellet mill die for pellet production are essential for running optimal pellet production in terms of energy consumption and quality of the pellets . In this study the effects of the countersink angle and depth are investigated through experimental tests and Computational Fluid Dynamics simulations . Inlet die designs with angles 0
+
+@highlight Visualisation and qualitative analysis of layer profiles of pellets.
+@highlight New die design parameter AR used to correlate die performance.
+@highlight CFD model used for simulation of feedstock flow in die designs.
+@highlight Correlation between kurtosis of layer profiles AR and the pellet durability.
+@highlight Lowest energy 60 countersink inlet highest pellet durability with AR of 0.6 0.8.

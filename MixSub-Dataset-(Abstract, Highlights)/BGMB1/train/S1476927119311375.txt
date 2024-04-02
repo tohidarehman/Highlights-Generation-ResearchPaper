@@ -1,0 +1,6 @@
+ Genomic sequence data are not only massive but also increasing rapidly every day therefore it is essential to compress such data for sharing . Though there are some specific compressors they lack interoperability . In this study a SAMtools bgzip variant named 7bgzf has been developed incorporating several compression and deflation algorithms other than the widely used zlib algorithm . An extensive benchmarking study has been carried out with available data compression software . On both x64 and ARM machines igzip performed very rapidly . For high compression using libdeflate on the x64 platform achieved high compression with tolerable speed loss . Based on appropriate algorithm selection the proposed compression method performed better than the original bgzip method while maintaining interoperability with existing software . Therefore this software is useful for both distribution of genomic sequence archives and real time compression in mobile computing .
+
+@highlight A suite of DEFLATE algorithms called 7bgzf was developed.
+@highlight Wide range of options to compress sequence data while preserving interoperability.
+@highlight Direct htslib integration viable by replacing bgzf compress via LD PRELOAD scheme.
+@highlight VCF conversion of bcftools into BCF varied in compression ratio and speed.

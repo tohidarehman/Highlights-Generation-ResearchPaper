@@ -1,0 +1,5 @@
+ The present review addresses the need for microdevices presents the basic microfluidic equations and describes the relevant numerical and experimental approaches . Various types and designs of passive and active micromixers are presented . In addition the relevant effective dimensionless or dimensional parameters and the fabrication technology for different micromixer types are introduced . Different general configurations of lamination obstacle convergence divergence and curved channel are discussed for passive micromixers . The active micromixers are categorized and described as pressure field driven acoustic field driven magnetic field driven electric field driven and thermal field driven .
+
+@highlight The present review with 205 refs. addresses the need for microdevices and presents the basic microfluidic equations.
+@highlight The review describes the relevant numerical and experimental approaches.
+@highlight Various types and designs of passive and active micromixers are discussed.

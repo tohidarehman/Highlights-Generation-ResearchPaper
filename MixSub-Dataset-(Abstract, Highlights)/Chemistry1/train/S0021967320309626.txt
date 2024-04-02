@@ -1,0 +1,6 @@
+ A fast method for assessing the stability of monoclonal antibodies adsorbed on ion exchange resins has been developed . The method exploited a real time polymerase chain reaction equipment to determine the temperature of protein phase transition i.e . the so called melting temperature based on differential scanning fluorimetry .
+
+@highlight DSF based method for determining stability of mAbs on IEX resins was developed.
+@highlight RT PCR was used to measure the melting temperature of the adsorbed protein.
+@highlight Two different mAbs bound to various types of strong cation exchangers were tested.
+@highlight Critical melting temperature was identified that indicated protein destabilization.

@@ -1,0 +1,6 @@
+ Early fault prognosis of bearing is a very meaningful yet challenging task to improve the security of rotating machinery . For this purpose a novel method based on enhanced deep gated recurrent unit and complex wavelet packet energy moment entropy is proposed in this paper . First complex wavelet packet energy moment entropy is defined as a new monitoring index to characterize bearing performance degradation . Second deep gated recurrent unit network is constructed to capture the nonlinear mapping relationship hidden in the defined monitoring index . Finally a modified training algorithm based on learning rate decay strategy is developed to enhance the prognosis capability of the constructed deep model . The proposed method is applied to analyze the simulated and experimental signals of bearing . The results demonstrate that the proposed method is more superior in sensibility and accuracy to the existing methods .
+
+@highlight Complex wavelet packet energy moment entropy is defined as the new monitoring index.
+@highlight A deep gated recurrent unit network is constructed to model nonlinear time series.
+@highlight A modified training algorithm is developed to further enhance the capability.
+@highlight Several cases are used to verify the effectiveness of the proposed method.

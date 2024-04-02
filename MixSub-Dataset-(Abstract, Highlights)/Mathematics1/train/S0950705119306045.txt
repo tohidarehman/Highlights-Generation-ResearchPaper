@@ -1,0 +1,7 @@
+ Epileptic seizure detection is traditionally performed by visual observation of Electroencephalogram signals . Owing to its onerous and time consuming nature seizure detection based on visual inspection hinders epilepsy diagnosis monitoring and large scale data analysis in epilepsy research . So there is a dire need of an automatic seizure detection scheme .
+
+@highlight An automated epileptic seizure detection algorithm for EEG signals is proposed.
+@highlight A novel signal processing technique namely CEEMDAN is employed.
+@highlight We introduce adaptive boosting for computerized seizure diagnosis.
+@highlight Efficacy of the method is confirmed by statistical and graphical analyses.
+@highlight The performance of the proposed scheme compared to the existing ones is promising.

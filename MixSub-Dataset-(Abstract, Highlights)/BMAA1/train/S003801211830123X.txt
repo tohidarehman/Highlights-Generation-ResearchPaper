@@ -1,0 +1,7 @@
+ Brazilian educational indicators have shown virtually no improvement since 2000 according to national and international evaluations . However there are large disparities among schools even in the poorest regions . This work evaluates efficiency of primary education in Brazilian schools using a dynamic DEA model taking into account school differences in the socioeconomic levels of its students . Dynamic modelling is made possible by the inclusion of an infrastructure index as a carry over between periods . Results are based on three model specifications that differ on their treatment of the socioeconomic variable . Efficiency distributions of these models are not statistically equal but the general conclusions are convergent . They show almost no evolution on school efficiency between 2007 and 2015 but indicate possible efficiency improvements by investments in school infrastructure .
+
+@highlight We investigate the efficiency of Brazilian primary education with a dynamic DEA model.
+@highlight School infrastructure provides a long term investment carry over variable to the model.
+@highlight Socioeconomic levels are treated both as discretionary and non discretionary variables in 3 dynamic DEA models and their results are compared.
+@highlight Results of these three dynamic models are not statistically equal but the general conclusions are convergent.
+@highlight Resultsshow no efficiency changes between 2007 2015 but the model sugest investment in school infrastructure to improve it.

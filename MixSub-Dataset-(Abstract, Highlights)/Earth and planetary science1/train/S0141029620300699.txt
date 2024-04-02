@@ -1,0 +1,7 @@
+ This paper presents a numerical study of the influence of various parameters on the seismic response of the CAREM 25 nuclear power plant located in Argentina . The influence of soil stiffness structure soil structure interaction and infill soil stiffness are studied . Considering the available analysis capabilities a full 3D methodology was adopted . Two soil profiles were used in order to quantify the influence of the soil on the structural response . An engineered rockfill was also used in order to study the influence of infill soil stiffness . Three artificial records with three components each were used as free field input . These records were obtained from the site design spectra . The turbo group building was approximately modelled in order to consider 3SI . Finally all live loads as well as the water in pools were included in the model . Design guides for this type of problem are given for all the elements of the model .
+
+@highlight Soil structure interaction of CAREM 25 NPP is studied.
+@highlight Full 3D coupled numerical model was developed.
+@highlight Influence of soil stiffness 3SI and infill soil are studied.
+@highlight Modeling guidelines for SSI and 3SI of NPP are recommended.
+@highlight Important reductions of accelerations for flexible soil are obtained.

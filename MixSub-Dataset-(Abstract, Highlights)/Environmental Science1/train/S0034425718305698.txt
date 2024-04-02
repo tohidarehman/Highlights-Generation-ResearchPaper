@@ -1,0 +1,7 @@
+ Over the last 20years substantial amounts of grassland have been converted to other land uses in the Northern Great Plains . Most of land cover land use assessments in this region have been based on the U.S. Department of Agriculture Cropland Data Layer which may be inconsistent . Here we demonstrate an approach to map land cover utilizing multi temporal Earth Observation data from Landsat and MODIS . We first built an annual time series of accumulated growing degree days from MODIS 8 day composites of land surface temperatures . Using the Enhanced Vegetation Index derived from Landsat Collection 1 s surface reflectance we then fit at each pixel a downward convex quadratic model to each year s progression of AGDD
+
+@highlight Land surface phenology LSP modeled using Landsat EVI and MODIS LST
+@highlight Land cover from random forest classification RFC using only phenometrics as input
+@highlight Combinations of reference data augmented by CDL used for training validation
+@highlight LSP RFC accurately identified major crops compared to the Cropland Data Layer CDL .
+@highlight Caveat alternative RFC training designs yielded widely varying area estimates.

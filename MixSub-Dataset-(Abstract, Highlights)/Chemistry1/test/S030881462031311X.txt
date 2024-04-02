@@ -1,0 +1,6 @@
+ The demand for the development of fast easy to use and low cost analytical methods for food adulteration analysis has being increasing in the last years . Although infrared spectroscopic techniques offer these advantages the validation of screening methods requiring the application of multivariate data treatment is less frequently described in literature thus limiting their use as routine tools in control laboratories for food fraud monitoring . In this paper an EU validation procedure for screening methods was successfully applied to a multivariate FT NIR spectroscopic method for the screening of durum wheat pasta samples adulterated with common wheat at the screening target concentration of 3 . Good results in terms of the cut off value and false suspect rates demonstrated that the present validation approach would be a proof of strategy to be used for multivariate infrared methods applied for screening purposes .
+
+@highlight An FT NIR method for the screening of durum wheat pasta adulteration was proposed.
+@highlight A validation tool was applied according to EU legislation for screening methods.
+@highlight Screening target concentration set at the Italian legal limit of 3 common wheat.
+@highlight Fit for purposes of the method was evaluated in terms of false suspect rates.

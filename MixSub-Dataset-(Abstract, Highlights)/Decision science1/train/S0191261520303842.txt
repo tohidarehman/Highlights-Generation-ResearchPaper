@@ -1,0 +1,7 @@
+ This paper explores the potential of a special instance of the Combination of Random Utility Models termed Combination of Nested Logit as kernel model in conjunction with several types of mixing distributions of tastes . Various model formulations are illustrated with their mathematical properties and several alternative kernel models are identified for comparison . An estimation exercise is presented on a real mode choice dataset from a stated preference survey on the intercity corridor between Naples and Milan in Italy . Results in terms of both in sample and out of sample goodness of fit on a 10 fold cross validation show that models with the proposed CoNL kernel outperform contrasted models .
+
+@highlight Testing the Combination of Nested Logit CoNL with stochastic tastes distributions.
+@highlight Various model formulations illustrated with their mathematical properties.
+@highlight Several alternative models identified for comparison.
+@highlight Cross validation exercise on a real SP mode choice dataset Naples Milan corridor.
+@highlight Proposed models outperform existing ones in terms of in sample out of sample GOF.

@@ -1,0 +1,9 @@
+ The influence of the armchair and zigzag direction strains on the transport properties through an oscillating silicene electrostatic barrier is theoretically investigated . Our results show that the transmission probability strongly depends on the amplitude of the time oscillating potential and the order of the sidebands . We found that with increasing the amplitude of the time oscillating potential the transmission probability shows an oscillatory evolution and the oscillation amplitude decreases as the amplitude of the time oscillating potential is enhanced . Also the oscillation period decreases monotonically if the strain strength is increased . Due to the evanescent wave the transmission has a gap with respect to the barrier height which widens with an increment in the strain strength . Moreover we calculated the effects of the strain strength on the conductance and found that the conductance shows a strain dependence for both the sidebands and the central band . Finally the possibility of controlling and switching off the currents in silicene using time dependent and site dependent staggered electrostatic potentials are investigated .
+
+@highlight We study transport properties in an oscillating silicene barrier under strain.
+@highlight The transmission with respect to the barrier height has a gap.
+@highlight The transmission probability is sensitive to the sign of the
+@highlight for the
+@highlight th sideband.
+@highlight The conductance strongly depends on the strength strain.
+@highlight The conductance exhibits an on off switch effect.

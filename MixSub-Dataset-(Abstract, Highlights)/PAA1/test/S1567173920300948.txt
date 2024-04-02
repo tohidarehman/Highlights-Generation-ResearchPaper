@@ -1,0 +1,7 @@
+ We explore graphene as interface modifier for electrodes in optoelectronic organic devices by measuring the electrical properties of ITO graphene and ITO Cr graphene . For this purpose exfoliated graphene was electrochemically synthesized and deposited by spray pyrolysis . The built in voltage values were 450mV for the ITO CuPc Al reference 750mV for ITO Cr graphene CuPc Al and 1000mV for ITO graphene CuPc Al device structures . From these results we estimate the work functions as 3.20eV 3.45eV and 4.75eV for ITO EG ITO Cr EG and ITO . To understand how the work function changes we carried out first principles calculations based on density functional theory where Cr work function is not modified by the deposition of pristine graphene however there is a substantial increase upon deposition of graphene oxide resulting from a complete transfer of O atoms from the GO sheet to the Cr surface forming a thin layer of chromium oxide .
+
+@highlight Graphene can be used as an interface modifier through the built in voltage Vbi modulation.
+@highlight Increasing graphene layer thickness induces a resistance increasing as well.
+@highlight Vbi did not present any dependence with the graphene thickness in the investigated thickness range.
+@highlight There is a decreasing in ITO graphene electrode resistance when a 10nm Cr layer is added.
+@highlight A complete transfer of the oxygen atoms from the GO sheet to the Cr surface was observed by DFT calculations.

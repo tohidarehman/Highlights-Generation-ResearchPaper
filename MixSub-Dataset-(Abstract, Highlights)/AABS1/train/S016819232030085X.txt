@@ -1,0 +1,6 @@
+ The accurate estimation of temporally continuous gross primary production is important for a mechanistic understanding of the global carbon budget as well as the carbon exchange between land and atmosphere . Ground based PhenoCams can provide near surface observations of plant phenology with high temporal resolution and possess great potential for use in modeling the seasonal dynamics of GPP . However due to the site level empirical approaches for estimating the fraction of absorbed photosynthetically active radiation a broad application of PhenoCams in GPP modeling has been restricted . In this study the stage of vegetation phenology P
+
+@highlight An index of the stage of vegetation phenology P
+@highlight  was derived from PhenoCams.
+@highlight A daily GPP model was developed for semi arid grasslands.
+@highlight Our daily GPP product can track vegetation responses to short term disturbances.

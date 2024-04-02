@@ -1,0 +1,5 @@
+ Information on the state of the ionosphere is of great importance for organizing communications in the short wave range . One of the main methods for estimating the ionosphere parameters is the use of modeling . Most existing ionosphere models rely on the algorithms presented in the recommendations of the Radiocommunication Sector of the International Telecommunications Union . This work shows one of the algorithm modifications for predicting the critical frequency of the ionospheric layer F2 using a modern approach based on artificial neural networks and data obtained from existing ionosondes . Accuracy estimation of determining the critical frequency of the F2 layer showed the advantage of the proposed technique and the possibility of its distribution to the estimation of the remaining parameters of the ionosphere during its modeling .
+
+@highlight A new algorithm of the F2 layer critical frequency forecasting is offered.
+@highlight The CCIR coefficients are used as weights for neural network.
+@highlight The model with corrected CCIR coefficients provides higher forecasting accuracy.

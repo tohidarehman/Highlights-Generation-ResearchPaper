@@ -1,0 +1,7 @@
+ The dissolved carbon dioxide effect on succinic acid production by A. succinogenes has been investigated and a double substrate mechanistic model has been developed to describe the bioconversion of glycerol under CO
+
+@highlight We develop a new experimentally validated double substrate succinic acid fermentation model.
+@highlight The model accounts for multi phase mass transfer phenomena in the fermentation medium.
+@highlight Mass transfer effects of solid MgCO3 on the fermentation system are quantified.
+@highlight System dynamics including liquid and gaseous substrates are successfully predicted.
+@highlight Model can be used to design batch continuous and scale up fermentation systems.

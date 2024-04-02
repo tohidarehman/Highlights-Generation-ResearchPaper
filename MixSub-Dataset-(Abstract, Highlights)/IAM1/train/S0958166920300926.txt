@@ -1,0 +1,6 @@
+ When engineering microbes to overproduce a target molecule engineers face multiple layers of trade offs to allocate limited cellular resources between the target pathway and native cellular systems . These trade offs arise from limited free ribosomes during translation competition for metabolic precursors as well as the negative relationship between production and growth rate . To achieve high production performance microbes need to spontaneously make decisions in the dynamic and heterogeneous fermentation environment . In this review we discuss recent advances in microbial control strategies that are used to manage these trade offs and to improve microbial production . This review focuses on design principles and compares different implementations with the hope to provide guidelines to future microbial engineering .
+
+@highlight Feedback control can mitigate the impact of the ribosomal cost.
+@highlight Feedback control alleviates metabolic burden caused by engineered metabolic pathways.
+@highlight Metabolic switch resolves conflict between cell growth and engineered pathways.
+@highlight Population quality control can increase the titer and the metabolic stability.

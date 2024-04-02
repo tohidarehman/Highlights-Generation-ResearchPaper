@@ -1,0 +1,5 @@
+ The energy levels of the quantum dots are evaluated by using Quantum Genetic Algorithm procedure and Hartree Fock Roothaan method . Based on the calculated energies and wave functions static dipole polarizability oscillator strength and electric field gradient of helium helium like quantum dots are calculated as a perturbative calculation . It is worth to note that impurity charge and dot radius have a strong effect on the dipole polarizability the oscillator strength and the electric field gradient . In small dot radii since the spatial confinement effect is dominant the polarizability of system is very weak . The polarizability increases monotonically with the increase of dot radius and then reaches a saturation value in large dot radii . On the other hand the electric field gradient increases as dot radius decreases .
+
+@highlight Static dipole polarizability of helium helium like quantum dots is investigated.
+@highlight Electric field gradient of quantum dots is carried out.
+@highlight Energy states and wave functions of quantum dots are obtained from the Quantum Genetic Algorithm and Hartree Fock Roothaan method.

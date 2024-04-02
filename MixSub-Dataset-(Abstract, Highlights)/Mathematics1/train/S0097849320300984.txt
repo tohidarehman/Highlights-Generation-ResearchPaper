@@ -1,0 +1,5 @@
+ We propose a system that allows graphic artists to generate reference images of folds by creating realistic folded surfaces from simple curves directly drawn on the surface of a 3D clothing model . A graphic artist can quickly obtain a one shot image from a simulation of a simple realistic fold with our system even for someone who has little or no knowledge of the physical properties of the fabric . Our system consists of a simulation method that allows users to make preliminary adjustments to their clothing models interactive reconstruction method to design the folded surface and sewing lines through sketching on the surface and refinement method to modify the shape of the folded surface .
+
+@highlight New method of interactively sketch based folded surface modeling.
+@highlight Triangular mesh based model reconstruction and physical simulation.
+@highlight Folded surface refinement method.

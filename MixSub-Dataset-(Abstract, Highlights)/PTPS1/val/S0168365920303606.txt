@@ -1,0 +1,5 @@
+ Radiotherapy is a major modality for cancer treatment along with surgery and chemotherapy . Despite its therapeutic effect the recurrence and metastasis of tumors due to the acquired resistance of cancer cells to RT remain significant clinical problems . Therefore it is imperative to overcome radioresistance and improve radiosensitivity in cancer patients . Here we synthesized hydroxychloroquine loaded hollow mesoporous silica nanoparticles to enable effective inhibition of radiation induced cytoprotective autophagy and enhance the therapeutic efficacy of RT . HCQ HMSN treated HCT116 colon cancer cells showed a 200 fold higher intracellular uptake of HCQ than that of free HCQ treated cells thereby effectively inhibiting the radiation induced autophagy of cancer cells .
+
+@highlight Hydroxychloroquine HCQ loaded hollow mesoporous silica nanoparticles HMSNs were prepared.
+@highlight HCQ HMSNs were preferentially accumulated in tumor tissues.
+@highlight HCQ HMSNs enhanced the outcome of radiotherapy by blocking radiation induced autophagy.

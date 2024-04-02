@@ -1,0 +1,6 @@
+ We consider a freight transportation network model in which we can send goods with or without bundling . When we choose the bundling option we can send multiple goods after grouping into a bundle at the cost of one unit good however bundling and unbundling also incur costs . The model was originally developed to solve the problem of relocating empty containers in hinterland transportation but it also has an application in multimodal freight transportation . We investigate the complexity of the problem and develop an efficient heuristic that uses a network flow algorithm .
+
+@highlight Analyze the computational complexity of the FTNPB on an arbitrary network.
+@highlight Develop an efficient heuristic for solving the FTNPB on an arbitrary network.
+@highlight Carry out intensive computing experiments to test our heuristic.
+@highlight Extend the model to the case where arbitrary number of flows can be bundled up to a given limit.

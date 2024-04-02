@@ -1,0 +1,6 @@
+ Learning from outliers and imbalanced data remains one of the major difficulties for machine learning classifiers . Among the numerous techniques dedicated to tackle this problem data preprocessing solutions are known to be efficient and easy to implement . In this paper we propose a selective data preprocessing approach that embeds knowledge of the outlier instances into artificially generated subset to achieve an even distribution . The Synthetic Minority Oversampling TEchnique was used to balance the training data by introducing artificial minority instances . However this was not before the outliers were identified and oversampled . The aim is to balance the training dataset while controlling the effect of outliers . The experiments prove that such selective oversampling empowers SMOTE ultimately leading to improved classification performance .
+
+@highlight A two step method that mitigates training data imperfections for diabetes prediction.
+@highlight The method detects outliers using the interquartile range algorithm.
+@highlight The Synthetic Minority Oversampling Technique is used to generate artificial data.
+@highlight Controlling outliers and class imbalance reduces learning bias.

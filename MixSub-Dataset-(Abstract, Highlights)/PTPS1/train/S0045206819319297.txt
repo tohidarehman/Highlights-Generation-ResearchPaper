@@ -1,0 +1,8 @@
+ Histone deacetylase 6 has been demonstrated to play a major role in cell motility and aggresome formation and HDAC6 inhibition is therefore considered as a promising epigenetic strategy for cancer treatment . At present only a minority of compounds have been reported as HDAC6 inhibitors so specific HDAC6 inhibitors with safety profile need to be discovered urgently . In this paper HDAC6 inhibitors with diverse structures were used to generate the pharmacophore model by ligand based method which contained two hydrogen bond acceptors and two hydrophobic groups . A combined virtual screening based on pharmacophore model and molecular docking was adopted to screen potential HDAC6 inhibitors . Subsequently the HDAC6 inhibitory activity of the hit compounds were evaluated using an
+
+@highlight HDAC6 inhibitors with diverse scaffolds were used to generate pharmacophore model.
+@highlight Virtual screening combined with pharmacophore was used to identify HDAC6 inhibitor.
+@highlight The screened compounds were docked with crystal structure to improve the hit rate.
+@highlight The biological activity of the hit compound was evaluated by
+@highlight experiments.
+@highlight This study provided a practical method for finding HDAC6 inhibitors.

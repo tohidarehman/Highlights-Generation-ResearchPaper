@@ -1,0 +1,7 @@
+ Previous studies in blood supply chain network design often follow a commonly used approach in protecting the chain against disruptions considering the effects of disruptions on the designing phase . However in many real world situations disruptions can not be adequately measured in advance . Moreover using disruptions in the designing phase through the common two stage stochastic programming models impose high costs on the network since they can not be updated based on unpredicted disruptions . This paper proposes an updatable two phase approach which deals with disruptions in the operational phase not in the strategic design phase . In the first step called the
+
+@highlight Proposing a novel mathematical formulation to design a platelet network.
+@highlight Considering lateral transshipment strategy between hospitals.
+@highlight Devising a reactive phase in order to update the planning of the platelet network.
+@highlight Coping with the hybrid risk by utilizing a fuzzy stochastic programming approach.
+@highlight Applying a real case to evaluate the practicality of the proposed model.

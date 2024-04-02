@@ -1,0 +1,7 @@
+ Continuous reinforced concrete beams may develop significant plastic rotations to enable the redistribution of bending moments . These rotations occur at plastic hinges which are subject to high shear forces . The influence of rotations on the shear strength for statically determined beams without shear reinforcement failing in shear after yielding of the flexural reinforcement has already been experimentally verified . However this influence has not been studied in continuous members with shear reinforcement . An innovative tests system has been specially designed to develop shear failures before and after yielding of the flexural reinforcement in both statically determinate and indeterminate structures .
+
+@highlight Development of an innovative tests system with statically indeterminate structures.
+@highlight Digital Image Correlation techniques used to measure bending rotation.
+@highlight Crack rotation detected by a different rotation of bodies over and below the CSC.
+@highlight Concrete shear strength decreases with bending rotation and crack width.
+@highlight Codes do not properly capture the shear strength reduction due to bending rotation.

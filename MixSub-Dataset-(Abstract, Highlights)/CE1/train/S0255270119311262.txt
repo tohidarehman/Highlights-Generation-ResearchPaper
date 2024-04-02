@@ -1,0 +1,10 @@
+ The study was dedicated to the mathematical modeling of the catalytic autothermal reforming of diesel fuel effective method for hydrogen production . The structured wire mesh Rh Ce
+
+@highlight Catalytic autothermal reforming ATR of diesel fuel is considered.
+@highlight Rh Ce
+@highlight Zr
+@highlight  Al
+@highlight  FeCrAl wire mesh structured cartridge is applied.
+@highlight Process modelling carried out using COMSOL Multiphysics in 2D axisymmetric geometry.
+@highlight 6 reactions kinetic scheme proposed for description of chemical transformations.
+@highlight Defined kinetic parameters provide good description of experimental data.

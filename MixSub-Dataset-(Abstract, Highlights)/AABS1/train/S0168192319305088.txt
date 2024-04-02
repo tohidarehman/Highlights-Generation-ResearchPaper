@@ -1,0 +1,6 @@
+ By averaging in time and or space models predict less variable light patterns under tree canopies than in reality . We measured light every minute in 24 positions in a grid under different chestnut orchards for several clear and overcast days . We also modelled this light with a purposely created 3D spatially explicit ray tracing light interception model where canopy porosity was calibrated to match measured daily light . Finally we used both the measured and modeled light patterns transmitted under the tree canopies to estimate the daily net photosynthesis
+
+@highlight Assuming uniform canopy porosity is not adequate to model light patterns under trees.
+@highlight It results in overestimation of photosynthesis and RUE of understory crops.
+@highlight The overestimation with uniform porosity is greater than averaging light hourly.
+@highlight In chestnut orchards the overestimation of photosynthesis and RUE reached 49 and 38 .

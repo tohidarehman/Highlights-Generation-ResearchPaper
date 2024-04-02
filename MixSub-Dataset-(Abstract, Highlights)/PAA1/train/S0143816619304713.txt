@@ -1,0 +1,5 @@
+ In coherent diffraction imaging systems the results of phase retrieval could be deteriorated by the inevitable experimental noise . To address the problem a noise robust algorithm is designed with weighted feedback and adjustable frequency filtering . The frequency filter serves as the smoothness constraint and has an adaptive parameter during iterations to suppress the noise as well as avoid the convergence stagnancy of iterative phase retrieval . Numerical simulations and experimental results demonstrate that the proposed algorithm is superior in reconstruction quality under noisy conditions and increases the convergence speed . Furthermore the minimum acceptable number of measurements of diffracting images is reduced . This work is beneficial to data synthesis in CDI systems .
+
+@highlight A robust noise reduction algorithm of phase retrieval is designed with weighted feedback and adjustable frequency filtering.
+@highlight Measurement load and iteration calculation can be decreased for noisy images.
+@highlight This work promotes the application of iterative phase retrieval in noisy conditions.

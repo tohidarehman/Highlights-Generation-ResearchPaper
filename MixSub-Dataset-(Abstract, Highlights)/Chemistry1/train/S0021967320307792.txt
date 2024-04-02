@@ -1,0 +1,5 @@
+ A modified method for the Craig scheme solution applied for a chromatographic column has been proposed and the corresponding implicit code is presented . The new approach improves the mass conservation problem frequently reported during the numerical solution of the Equilibrium Dispersive model with Craig scheme . The modified code has been successfully verified in gradient chromatography conditions by comparison with the reliable solutions of the Equilibrium Dispersive model by the Orthogonal Collocation on Finite Elements . The errors obtained with the modified Craig method are less than about 1 in the case of retention times and less than about 11 in the case of apparent number of theoretical plates comparing to the OCFE solutions .
+
+@highlight Mass conservation problem using original Craig scheme solution.
+@highlight Modified method for the Craig scheme solution was proposed.
+@highlight Modified code successfully verified in gradient chromatography conditions.

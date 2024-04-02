@@ -1,0 +1,6 @@
+ The aim of this study is to model describe and predict the mass transfer of IgG as a function of the agarose concentration in the protein A stationary phase taking into account the influence of adsorption on the pore size . Therefore particle size distribution bed and bead porosities were examined by light microscopy pressure flow behavior and iSEC . Three agarose protein A stationary phases were investigated . The pore size decreased from 116nm for 2wt to 54nm for 6wt and the porosity for the target molecule IgG was reduced by 25 . A shrinking core model approach was used to assess the influence of IgG adsorption on the pore size of the stationary phase and the diffusivity of IgG . Due to IgG adsorption the pore diameter reduced by 24nm which is approximately two times its hydrodynamic diameter . Effective pore diffusivities of IgG were obtained by fitting the general rate model to breakthrough curves . They were in the range between 3.96
+
+@highlight Adsorption in affinity chromatography stationary phases reduces the pore diameter.
+@highlight Accessibility and effective pore diffusion are depending on the pore diameter.
+@highlight Diffusivity is obtained by fitting the general rate model to breakthrough curves.
+@highlight A modified Ogston model describes pore diameter dependent diffusion coefficient.

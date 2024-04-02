@@ -1,0 +1,8 @@
+ Pyrin is an inflammasome sensor in phagocytes that is activated in response to bacterial toxins and effectors that modify RhoA . Pathogen effector triggered pyrin activation is analogous to an indirect guard mechanism in plants . Pyrin activation appears to be triggered when RhoA GTPases in a host cell are prevented from binding downstream signaling proteins . RhoA transducers that control this response include PRK kinases which negatively regulate pyrin by phosphorylation and binding of 14 3 3 proteins . Microtubules regulate pyrin at different levels and may serve as a platform for inflammasome nucleation . Pyrin increases inflammation in the lung gut or systemically during infection or intoxication in mouse models and protects against systemic infection by decreasing bacterial loads . Pathogenic
+
+@highlight The pyrin inflammasome is triggered in response to RhoA inactivation.
+@highlight Bacterial effectors and toxins that inactivate RhoA vary in mechanism.
+@highlight Pyrin induced inflammation protects against systemic bacterial infection.
+@highlight Familial Mediterranean Fever is caused by mutations in the pyrin gene
+@highlight Selective pressure by plague may have driven gain of function
+@highlight mutations.

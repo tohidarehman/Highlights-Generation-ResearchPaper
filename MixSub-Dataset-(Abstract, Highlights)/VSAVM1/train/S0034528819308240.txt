@@ -1,0 +1,5 @@
+ Bovine viral diarrhea virus infects different cell types including antigen presenting cells such as macrophages . The infection induces pro inflammatory cytokines like interleukin 1 beta which is necessary to trigger a successful inflammatory response against infections . Several authors have reported differences between IL 1 gene expression and protein detection in BVDV infected macrophages . These patterns may be related to inflammasome assembly which promote the formation of active caspase 1 in order to produce mature IL 1 molecules . Our goal was to assess BVDV ability to induce the release of IL through a caspase 1 dependent pathway in bovine macrophages . We infected peripheral blood monocyte derived macrophages using BVDV NADL strain at 0.001 0.1 2 and 10 multiplicities of infection and we measured IL 1 at different times 2 6 12 24 48 72h .
+
+@highlight BVDV 1 NADL strain induced IL 1 secretion in bovine macrophages.
+@highlight IL1 release is caspase 1 dependent in BVDV 1 NADL strain infected macrophages.
+@highlight Inhibition of caspase 1 is related with NADL replication.

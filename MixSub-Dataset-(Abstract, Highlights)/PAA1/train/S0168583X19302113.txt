@@ -1,0 +1,6 @@
+ The Resonance Ionization Laser Ion Source has become an essential feature of many radioactive ion beam facilities worldwide since it offers an unmatched combination of efficiency and selectivity in the production of ion beams of many different chemical elements . In 2019 the laser ion source setup MELISSA is going to be established at the CERN MEDICIS facility based on the experience of the workgroup LARISSA of the University Mainz and CERN ISOLDE RILIS team . The purpose is to enhance the capability of the radioactive ion beam supply for end users by optimizing the yield and the purity of the final product . In this article the blueprint of the laser ion source as well as the key aspects of its development and operation are presented .
+
+@highlight The MEDICIS Laser Ion Source named MELISSA is presented for the first time.
+@highlight The concept of the dedicated laser laboratory is considered.
+@highlight The automated grating tuned Ti Sapphire laser with intra cavity SHG is discussed.
+@highlight The production goals of the MEDICIS radioactive ion beam facility are introduced.

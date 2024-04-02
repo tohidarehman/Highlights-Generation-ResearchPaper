@@ -1,0 +1,6 @@
+ In this work we present an Observer based Economic Model Predictive Control scheme for Direct Contact Membrane Distillation . To compute control actions via MPC strategy full knowledge of the system states is necessary to predict the future evolution of the system . However the full state measurement for DMCD is either difficult or costly . In this work an integrated framework of an observer design and EMPC paradigm is proposed for the DMCD process . Numerical simulations are presented to illustrate the performance of the proposed observer design . Closed loop simulations show that the proposed OEMPC scheme was able to operate the process economically while satisfying process and input constraints .
+
+@highlight Observer based Economic MPC OEMPC is developed for a desalination plant.
+@highlight A nonlinear observer is designed to estimate unmeasurable system states.
+@highlight The water production is maximized with a minimal feed flow rate value.
+@highlight Numerical simulations illustrate the good performance of the OEMPC strategy.

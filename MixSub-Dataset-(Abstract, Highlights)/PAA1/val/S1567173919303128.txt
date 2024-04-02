@@ -1,0 +1,6 @@
+ Radiotherapy for cancer patients requires accurate measurement of the absorbed dose of radiation in a treatment planning step . Various types of radiation detectors are currently utilized for dose measurement . Among them calorimeters are known to be the most precise detector for measuring absorbed dose but their on site application is limited by the large size of the equipment . We developed a miniaturized chip calorimeter for application as a radiation detector . The calorimetric radiation detector was built using micro nano fabrication techniques and consists of an SU 8 photoresist absorber and high sensitivity vanadium oxide VO
+
+@highlight For the first time the feasibility of a chip calorimeter as a radiation detector was demonstrated.
+@highlight Microscale radiation absorber of SU 8 was constructed on top of high sensitivity VO
+@highlight thermistors.
+@highlight The calorimetric detector enabled precise measurements of X ray dose rate.

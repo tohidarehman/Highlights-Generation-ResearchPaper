@@ -1,0 +1,7 @@
+ Laser induced graphene from polymers has aroused considerable attentions for its low cost and high efficiency fabrication and prospect applications in flexible micro energy storage devices . However its electrochemical performance has been constrained by its purity and macropore dominated structures . Herein a one step facile approach is reported for synchronous induction and activation of 3D porous graphene from KOH coated polyimide film by direct laser writing in ambient air . To explore the activation mechanism the effects of two physical forms of KOH with various concentrations are investigated . Studies reveal that medium concentrations of KOH are able to improve the quality heteroatoms doping and wettability of porous graphene in comparison with lower KOH . Additionally high concentrations of KOH contribute to the formation of carbon atomic defects and mesoporous structures with increased content of nitrogen . Benefiting from the improvement of activation the laser induced and activated graphene based in plane micro supercapacitors present an areal capacitance of 32.00mF cm
+
+@highlight Synchronous induction activation of porous graphene on flexible substrate in air.
+@highlight The activation mechanism of porous graphene via direct laser writing is demonstrated.
+@highlight The effects of KOH on morphology composition and wettability are studied.
+@highlight Medium concentration of KOH can improve the quality and wettability of graphene.
+@highlight IMSCs provide 10 times higher energy density than that without activation.

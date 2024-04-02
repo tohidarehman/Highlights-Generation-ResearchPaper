@@ -1,0 +1,5 @@
+ The paper focuses on how to improve academic output of a granted fund when the adding of new members changes principal investigators network position . This objective is refined by exploring how new members affect the relationship between principal investigators network position and the academic output of granted funds and whether this effect is similar in high output and low output collaboration networks . New members are divided into two groups namely international collaboration and inbound mobility . Using negative binomial regression on research funds supported by the
+
+@highlight A third factor is considered to analyze its influence on the relationship between network position and academic output.
+@highlight We discuss the role of new members in high output and low output collaboration networks.
+@highlight This work constructs a comprehensive collaboration network.

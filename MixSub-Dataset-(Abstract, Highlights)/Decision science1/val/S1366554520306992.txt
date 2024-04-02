@@ -1,0 +1,6 @@
+ This study investigates how the spillover effect of retail service investment affects timing preference of quantity decision in a dual channel supply chain under asymmetric demand information . The manufacturer quantity leader game and retailer quantity leader game are considered . Applying a signaling game theoretic approach we show that for the chain members whether to occupy the quantity decision leadership or not is conditional on the spillover intensity and the demand information value . We also identify certain conditions where the chain members can achieve a consensus on the quantity decision timing .
+
+@highlight Quantity decision timing preference under spillover effect and asymmetric information is studied.
+@highlight Signaling game based approach is employed to derive the equilibria.
+@highlight Chain members preferences are jointly determined by spillover effect and asymmetric information.
+@highlight Certain conditions are identified where chain members achieve consensus on the decision timing.

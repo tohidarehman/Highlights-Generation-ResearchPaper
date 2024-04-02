@@ -1,0 +1,6 @@
+ Food process modeling has matured with the development of multiscale multiphase and multi physics approaches . More comprehensive numerical tools and software platforms for improving insights and optimizing designs and processes have emerged . In the context of industrial digitalization and the advent of the Internet of Things the concept of the digital twin has recently emerged as a means for more versatile process operational management . The digital twin is defined as a virtual replica of the real process operation which is connected to the real world by sensor data and advanced big data analytical tools . While all elements are available for implementing digital twins with the different types of models playing a central role it will require a multidisciplinary approach for successful implementation and operation . The first agrofood applications still need to be demonstrated . This paper mainly focusses on the role more physics based models can play in addition to data driven and hybrid models .
+
+@highlight Digital twins have emerged recently as digital replicas of industrial processes.
+@highlight Physics based food processinduce comprehensive mechanistic twins.
+@highlight Digital twins will give augmented insight and more versatile operational management.
+@highlight First applications of digital twins in agrofood sector have been proposed.

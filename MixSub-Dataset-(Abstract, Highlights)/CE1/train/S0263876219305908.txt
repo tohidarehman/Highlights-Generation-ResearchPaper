@@ -1,0 +1,7 @@
+ Evaporators are integral parts of many separation processes across production industries and they need to be well understood in order to be operated well thereby enabling high resource efficiency and productivity . In a previous investigation the effects of disturbing oscillations in a two stage evaporator system were quantified . In the current study these oscillations were reduced through trajectory optimization using steam consumption as a temporally discretized decision variable taking advantage of a dynamic process flowsheet model in Aspen Plus Dynamics employed as if it were a black box model . The optimization was performed utilizing a Python APD toolchain with the SciPy implementation of COBYLA . The optimal trajectory was able to successfully reduce the objective function value to slightly less than 0.3 of that of the nominal case in which a time invariant steam consumption was employed . This in turn grants opportunities to increase throughput of the process leading to significant financial gains .
+
+@highlight A model based dynamic optimization of an industrial evaporator system is presented
+@highlight Optimization performed with Python toolchain system modeled in Aspen Plus Dynamics
+@highlight The SciPy implementation of deterministic derivative free algorithm COBYLA utilized
+@highlight Steam consumption trajectory found to minimize oscillations of evaporator system
+@highlight Variance of oscillations reduced by 99.7 including bang bang penalty 

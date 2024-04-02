@@ -1,0 +1,7 @@
+ It has been long desired but challenging to forward the advanced treatment of wastewater from empirical trials towards scientific design due to the lack of molecular insight into the pollutants of concern . Herein we first established a systematic methodology to identify the ligands of Ni complexes in an electroless nickel plating effluent . The presence of N containing groups in the ligands of most Ni complexes was verified by time aligned ICP MS and ESI HRMS implying the suitability of autocatalytic ozonation for efficient decomplexation . Thereby a combined process was proposed on the basis of ozonation to achieve over 83 decomplexation of Ni followed by selective Ni sequestration for resource recovery . Combinational LC MS systems revealed the ozonation induced fragmentation or elimination of most Ni complexes as well as the structural change of the residual complexed molecules . The released free Ni was further sequestrated by a nanocomposite of hydrated Zr oxide confined in a polymeric cation exchanger
+
+@highlight Combined mass spectrometry MS methods were established to identify Ni complexes.
+@highlight Rational advanced treatment scheme was designed based on identification of ligands.
+@highlight MS revealed N bearing ligands indicated the suitability of autocatalytic ozonation.
+@highlight Ozonation induced 83 decomplexation of Ni from electroless plating effluent.
+@highlight Hydrated zirconia composite completely removed the decomplexed Ni via adsorption.

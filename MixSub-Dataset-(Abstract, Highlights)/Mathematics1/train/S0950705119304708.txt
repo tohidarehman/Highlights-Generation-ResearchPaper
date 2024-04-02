@@ -1,0 +1,7 @@
+ These days meta heuristic algorithms are gaining lot of popularity . The performance of the meta heuristics depends upon the suitable selection of user dependent parameters . Finding the most suitable values for the parameters is a challenging problem . This paper proposes a generalized strategy to find the most suitable value of any parameter for a meta heuristic algorithm . The approach is based on the relation between algorithms performance and functional landscape . The proposed approach is evaluated by applying it to a recent meta heuristic algorithm Gravitational Search Algorithm . The parameter
+
+@highlight A generic parameter tuning methodology for meta heuristic algorithms is proposed.
+@highlight It is based on the topological characteristics of the given optimization problem.
+@highlight The proposed approach is demonstrated by tuning the parameter
+@highlight of G in GSA.
+@highlight The approach can be used to tune the parameter s of other meta heuristics.

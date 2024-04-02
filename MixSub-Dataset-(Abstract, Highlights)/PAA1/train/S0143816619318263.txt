@@ -1,0 +1,6 @@
+ We present a novel method for calibrating a four axis Mueller matrix polarimeter . This method is valid even for non ideal optical elements as it models all polarization elements having both diattenuation and retardance . The method is divided in seven experimental steps where all the optical elements are calibrated each at a time plus a numerical fitting process . The fitting method is flexible allowing to choose between accuracy and speed . The error obtained after the fitting is lower than 0.5 for all steps and the final error in the determined Mueller matrix elements can be reduced to
+
+@highlight Mueller matrix polarimeter calibration method valid for non ideal optical elements.
+@highlight Error in the determined Mueller matrix elements down to
+@highlight Error is one order of magnitude lower than using different methods.
+@highlight Flexible fitting method to choose between accuracy and speed.

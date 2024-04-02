@@ -1,0 +1,7 @@
+ In patients with depression the use of 5 HT reuptake inhibitors can improve the condition . Machine learning methods can be used in ligand based activity prediction processes . In order to predict SERT inhibitors the SERT inhibitor data from the ChEMBL database was screened and pre processed . Then 4 machine learning methods and 4 molecular fingerprints were used to build 16 prediction models . The top 5 models of accuracy in the cross validation of training set were used to build three different ensemble learning models . In the test1 set the VOT CLF3 model had the largest SP Q AUC and MCC . In the unbalanced test2 set VOT CLF3 had the largest SE SP Q and MCC . VOT CLF3 was recommended for the virtual screening process of SERT inhibitors . In addition 12 molecular structural alerts that frequently appear in SERT inhibitors were found
+
+@highlight The use of 5 HT reuptake inhibitors can improve the condition of depression.
+@highlight SERT inhibitor data from ChEMBL and DrugBank databases are collected and screened.
+@highlight 16 inhibitor classification prediction models are established.
+@highlight 3 different ensemble learning models are established and VOT CLF3 performs best.
+@highlight We find 12 molecular structural alerts for inhibitors.

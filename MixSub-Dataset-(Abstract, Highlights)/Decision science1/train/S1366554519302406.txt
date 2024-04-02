@@ -1,0 +1,6 @@
+ The joint optimisation of investments in capacity and repair capability of production and logistics systems at risk of being damaged is an important aspect of supply chain resilience that is not sufficiently addressed by state of the art modelling approaches . Furthermore logistical issues of procuring repair resources impact speed of recovery but are not considered in most existing models . This paper presents a novel multi stage stochastic programming model that optimizes pre disruption investment decisions as well as post disruption dynamic adjustment of supply chain operations and allocation of repair resources . A case study demonstrates how the method can quantify the effects of pooling repair resources .
+
+@highlight Joint optimisation of supply chain capacities repair capabilities supply chain operations and repair resource logistics.
+@highlight Scenario tree generation method considering the risk of failure propagation.
+@highlight Multi stage stochastic programming model for initial network capacities and dynamic network flows.
+@highlight Case study quantifying the costs and benefits of pooling repair resource procurement.

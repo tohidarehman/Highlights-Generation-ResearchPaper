@@ -1,0 +1,7 @@
+ Surrogate measures of safety attract revived interest thanks to the advancements in traffic observations techniques and the growing need for rapid safety evaluation . A new method of safety analysis based on failure caused traffic conflicts and the Lomax distribution was recently proposed to estimate crash frequency more efficiently than with crash data . This paper has two objectives demonstrate the method applicability to near departure data collected in a driving simulator and provide initial evidence of the method validity .
+
+@highlight Road departures are analyzed in a driving simulator with failure caused near departures.
+@highlight The method connects drivers behavior with the risk of road departure.
+@highlight The results exhibit the patterns prompted by the theory.
+@highlight The tested method provides insight into the research subject.
+@highlight The experiment time is reduced because departures do not have to be observed.

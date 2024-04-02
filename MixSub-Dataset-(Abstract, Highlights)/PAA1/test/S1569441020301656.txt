@@ -1,0 +1,6 @@
+ A new photonic crystal based 21 multiplexer which composed of a Kerr nonlinear Fano resonance based switching module and an adder module is presented . In the proposed device using a pump light power it is possible to control the transmissions of the input signals into the output port . The performance of the proposed device is examined using the finite difference time domain method . The numerical simulation results show that using a pump light power of 0.48
+
+@highlight The device is based on an adder module and a Kerr nonlinear Fano resonance based switching module
+@highlight The device has micro level size fast response time high extinction ratio and requiring low level pump light power
+@highlight The device has little dependence on the power of the pump source
+@highlight The power of pump source is isolated from input signal ports and output port

@@ -1,0 +1,6 @@
+ This paper presents the results of an analysis that explores how Typical Meteorological Year informed power system models perform when exposed to atypical variability . A simplified power system planning model is tested for two case studies in Guinea Bissau and Turkey . A TMY proxy is compared against 24 year timeseries datasets containing hourly resolution solar PV and wind capacity factor data . Results show that unforeseen shortages in VRE generation and additional expenses are approximately 36GWh and 10 million USD for Guinea Bissau and 92GWh and 232 000 million TL for Turkey . Moreover Turkey faces unmet demand of up to 50TWh . For Turkey unmet demand is penalized at 5000 TL MWh explaining the high cost increase . The underperformance of the TMY based simulated system also is responsible for 45.77 million kg of unforeseen CO
+
+@highlight TMY based power systems underperform when exposed to atypical variability leading to unforeseen costs in both case studies.
+@highlight In the case of Turkey the TMY based power system cannot meet demand when exposed to full variability.
+@highlight In the case of Guinea Bissau the underperformance of the TMY based power system leads to additional CO
+@highlight emissions.

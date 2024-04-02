@@ -1,0 +1,9 @@
+ Sinusoidal obstruction syndrome is a well recognized and potentially life threatening complication of hematopoietic stem cell transplantation . SOS arises from endothelial cell damage and hepatocellular injury mostly due to the transplantation conditioning regimens but also to other patient disease and treatment related factors . Understanding risk factors associated with the development of SOS is critical for early initiation of treatment or prophylaxis . The knowledge about genetic contribution is limited few studies investigated so far selected a set of genes . To get more comprehensive insight in the genetic component we performed an exome wide association study using genetic variants derived from whole exome sequencing . The analyses were performed in a discovery cohort composed of 87 pediatric patients undergoing HSCT following a busulfan containing conditioning regimen . Eight lead single nucleotide polymorphisms were identified after correction for multiple testing and subsequently analyzed in a validation cohort . Three SNPs were successfully replicated including rs17146905
+
+@highlight Sinusoidal obstruction syndrome SOS is a complication of hematopoietic stem cell transplantation.
+@highlight Whole exome sequencing was performed to identify the genetic contribution to SOS.
+@highlight Exome wide association study identified 8 lead signals in the discovery cohort.
+@highlight Three loci 
+@highlight  and
+@highlight  were validated in the replication group.
+@highlight The finding can be useful for designing personalized prophylactic strategies.

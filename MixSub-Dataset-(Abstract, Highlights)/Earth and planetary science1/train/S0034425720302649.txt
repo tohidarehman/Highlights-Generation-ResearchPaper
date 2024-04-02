@@ -1,0 +1,7 @@
+ The fine mode aerosols generally generated from anthropogenic sources play an essential role in global radiation balance climate change atmospheric environment and human health . However the FMA retrieval remains a challenge . An improved high resolution FMA retrieval algorithm based on the Spectral Neutrality of Surface Polarized Reflectance was developed using polarized satellite data . SNOSPR utilizes a lookup table approach to simultaneously retrieve high spatial resolution FMA parameters such as FMA optical depth AOD
+
+@highlight A new algorithm retrieving FMA parameters and SPR simultaneously based on satellite polarized data was developed.
+@highlight Spectrally neutrality and spatial invariance of SPR were first incorporated to choose the best retrievals.
+@highlight The derived fine mode AOD has a high spatial resolution and wide coverage.
+@highlight Comparison and validation with POLDER and AERONET products show a good agreement and a high accuracy.
+@highlight Fine mode AOD retrieved from DPC proves the applicability of this algorithm.

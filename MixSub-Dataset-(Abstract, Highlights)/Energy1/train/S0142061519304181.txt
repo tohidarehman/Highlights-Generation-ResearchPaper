@@ -1,0 +1,7 @@
+ Estimation of low frequency oscillation modes is important for taking remedial actions to ensure the small signal stability of the power system . This paper proposes three approaches to estimate the model order of low frequency oscillations using ringdown data from Phasor Measurement Units . The first approach uses a sequential cumulative sum test on the eigenvalues of the autocorrelation matrix of the signal data to estimate the model order . The second approach estimates the model order based on the eigenvalue contribution in the trace of the autocorrelation matrix . The third algorithm uses sum of squares of the eigenvalues to estimate the model order . All the methods are compared to ascertain their efficacy in estimating the model . The algorithms are tested on oscillation data obtained for WSCC 9 bus system simulated on RTDS and the field data from a generating station in India .
+
+@highlight Model order estimation methods are proposed for low frequency oscillations.
+@highlight The methods detect the change in magnitude of eigenvalues of autocorrelation matrix.
+@highlight A model order validation condition is proposed.
+@highlight The proposed methodologies are tested on synthetic data and the field data.
+@highlight The methods are compared with the existing techniques available for model order estimation.

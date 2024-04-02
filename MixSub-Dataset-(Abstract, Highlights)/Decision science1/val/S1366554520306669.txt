@@ -1,0 +1,7 @@
+ Disasters such as fires earthquakes and floods cause severe casualties and enormous economic losses . One effective method to reduce these losses is to construct a disaster relief network to deliver disaster supplies as quickly as possible . This method requires solutions to the following problems . 1 Given the established distribution centers which center should be open after a disaster 2 Given a set of vehicles how should these vehicles be assigned to each open distribution center 3 How can the vehicles be routed from the open distribution center to demand points as efficiently as possible 4 How many supplies can be delivered to each demand point on the condition that the relief allocation plan is made a priority before the actual demands are realized This study proposes a model for risk averse optimization of disaster relief facility location and vehicle routing under stochastic demand that solves the four problems simultaneously .
+
+@highlight Develop a bi objective model for the disaster relief location routing problem LRP with stochastic demand.
+@highlight Propose two risk averse measures based on the conditional value at risk with regret CVaR R .
+@highlight Propose to adopt the Nash bargaining solution to capture the decision makers interests between the two risk averse measures.
+@highlight Devise a hybrid metaheuristic algorithm to solve the model.
+@highlight Demonstrate the impact of confidence level and distance parameter on the solution.

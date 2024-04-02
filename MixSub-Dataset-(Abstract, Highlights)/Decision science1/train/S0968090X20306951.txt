@@ -1,0 +1,7 @@
+ Car following behavior modeling is of great importance for traffic simulation and analysis . Considering the multi steps decision making process in human driving we propose a sequence to sequence learning based car following model incorporating not only memory effect but also reaction delay . Since the seq2seq architecture has the advantage of handling variable lengths of input and output sequences in this paper it is applied to car following behavior modeling to memorize historical information and make multi step predictions . We further compare the seq2seq model with a classical car following model and a deep learning car following model . The evaluation results indicate that the proposed model outperforms others for reproducing trajectory and capturing heterogeneous driving behaviors . Moreover the platoon simulation demonstrates that the proposed model can well reproduce different levels of hysteresis phenomenon . The proposed model is further extended with spatial anticipation which improves platoon simulation accuracy and traffic flow stability .
+
+@highlight A car following model based on sequence to sequence seq2seq learning is proposed.
+@highlight The model makes multi step predictions with the consideration of reaction delay.
+@highlight The model outperforms other models in simulating trajectory and capturing heterogeneous driving behaviors.
+@highlight The model well reproduces different levels of hysteresis phenomenon.
+@highlight The model extended with spatial anticipation improves platoon simulation accuracy and traffic flow stability.

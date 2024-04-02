@@ -1,0 +1,6 @@
+ This paper presents a new approach to differential protection of power transformers with use of the integral principle . The required criteria signals are calculated directly from the operational and restraining currents in particular phases . Additional support of the second harmonic is also used . The proposed integral principle is simple and exhibits superior performance against other commonly applied algorithms . The theoretical investigations are followed by testing with simulation runs as well as recorded signals .
+
+@highlight Analysis of the transformer differential protection operation is presented.
+@highlight Special attention is paid to protection reliability for transformer magnetizing inrush and external events.
+@highlight New approach for improvement of the protection stabilization based on integral principle is proposed.
+@highlight The new protection scheme and algorithms are validated with EMTP generated data as well as field recordings.

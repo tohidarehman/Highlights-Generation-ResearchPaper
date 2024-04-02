@@ -1,0 +1,7 @@
+ Overtaking cyclists is challenging for drivers because it requires a well timed safe interaction between the driver the cyclist and the oncoming traffic . Previous research has investigated this manoeuvre in different experimental environments including naturalistic driving naturalistic cycling and simulator studies . These studies highlight the significance of oncoming trafficbut did not extensively examine the influence of the cyclists position within the lane .
+
+@highlight 18 drivers overtook a robot cyclist on a test track with an oncoming robot vehicle.
+@highlight We varied time gap to the oncoming traffic and position of cyclist within the lane.
+@highlight Safety margins to the cyclist decreased as the situation became more critical.
+@highlight Drivers risk compensation may explain safety margins during the whole manoeuvre.
+@highlight We created Bayesian models that may improve acceptance of active safety systems.

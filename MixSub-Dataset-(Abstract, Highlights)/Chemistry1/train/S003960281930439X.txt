@@ -1,0 +1,7 @@
+ An extended elastic eigenvector approach had earlier been developed to interpret ab initio calculations of adatom interactions . It shows oscillating interactions as well as trio and quarto terms within clusters . It is now applied to the interaction of Fe adatoms on Cu .
+
+@highlight Elastic adsorbate interactions at the mesoscale Longo etal. interpreted by Elastic Eigenvector model.
+@highlight Fe adatoms on Cu 111 interact with an oscillating s
+@highlight potential.
+@highlight Fe dimers show significant multisite interactions.
+@highlight Three parameter fit to EE model shows reasonable consistency with the ab initio calculations of Longo etal.

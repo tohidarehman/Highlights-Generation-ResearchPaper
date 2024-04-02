@@ -1,0 +1,5 @@
+ Accurate weed mapping in early growing season is an essential step in the site specific weed management system . This study focuses on validating the potential application of high resolution multispectral and thermal UAS images in classification of weed species and glyphosate resistant weeds at early phenological stages . A field experiment was conducted to evaluate supervised classification methods to identify three weed species including waterhemp
+
+@highlight Glyphosate resistant weeds were identified using UAS thermal infrared imagery.
+@highlight Supervised object based algorithm improved weed classification accuracy.
+@highlight SVM exhibited the highest overall accuracy in weed species classification.

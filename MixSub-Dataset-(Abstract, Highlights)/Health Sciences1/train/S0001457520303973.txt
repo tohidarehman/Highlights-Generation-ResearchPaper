@@ -1,0 +1,6 @@
+ Time to collision index has been extensively utilized to evaluate rear end collision risks but few studies have focused on the special transition process that vehicles change from a safe to a dangerous situation . This study conducts an in depth analysis of the transition condition of rear end collisions . Realistic vehicle trajectory data were extracted from the Federal Highway Administrations Next Generation Simulation datasets . The TTC index was utilized to pinpoint dangerous and transition conditions . A total of 13 types of transition conditions were categorized and a novel indicator the derivative of TTC is proposed to evaluate changing rate of TTCs . Three types of TTCDs corresponding to different time point or interval were further analyzed based on developed regression models . The results indicate that although theoretically there are a total of 13 types of transition conditions three types are dominant in practice the
+
+@highlight Transition conditions are analyzed for rear end collisions using time to collision index.
+@highlight Three types of transition conditions dominate among all 13 types in practice.
+@highlight Time to collision derivative index is proposed to evaluate the risk change rate.
+@highlight Time to collision value has the quickest reduction at the transition start point.

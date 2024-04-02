@@ -1,0 +1,6 @@
+ The latest version of the International Reference Ionosphere is evaluated for ionospheric total electron content over China during a high solar activity phase of 2014 . TEC is derived from observations by the GNSS receiver network of Crustal Movement Observation Network of China . IRI 2016 uses the NeQuick option for the topside electron density profile . The comparisons shows that IRI 2016 underestimates GPS TEC slightly in spring and winter but overestimates slightly in summer and autumn at the mid latitudes of 35
+
+@highlight There is an obvious winter anomaly for GPS TEC in 2014 while it is not for IRI 2016.
+@highlight IRI 2016 has a good description of the ionosphere at mid latitudes of 35o45oN where the RMS of TEC is about 5 TECU.
+@highlight For the ionosphere of 15o35oN IRI 2016 estimates GPS TEC inaccurately in spring and winter and the RMS of TEC can be large as 33 TECU and 26 TECU respectively.
+@highlight The description of nighttime enhancement of ionosphere by IRI 2016 is inaccurate in 2014.

@@ -1,0 +1,6 @@
+ The gas solid fluidization and coal gasification reactions in a newly designed dual circulating fluidized bed plant were analyzed by full loop numerical simulation to provide support for industrial applications . The generalized drag model QC EMMS was used in the Eulerian Eulerian approach to model the entire coal gasification process in a 60m high dual CFB pilot plant with a capacity of 100 tons coal per day . The predicted pressures temperatures and syngas compositions are more consistent with field test data compared with the results predicted by using the conventional Gidaspow drag model . The unmeasured solid mass circulation rates were accurately predicted by the QC EMMS model . The characteristics of gas solid fluidization and coal gasification were estimated by analyzing the flow and reaction details in the plant . These results show that the QC EMMS drag model has advantages in simulating the complicated gas solid flows and reactions in large scale CFB plants .
+
+@highlight The QC EMMS drag model is used to simulate coal gasification in a new dual CFB plant.
+@highlight The QC EMMS model shows higher accuracy than the conventional Gidaspow drag model.
+@highlight Unmeasured solid mass circulation rates of the plant are predicted.
+@highlight Fluidization states and reaction mechanisms in the dual CFB plant are analyzed.

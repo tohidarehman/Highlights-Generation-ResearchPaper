@@ -1,0 +1,11 @@
+ Extraction of keratin from keratinous waste materials such as chicken feathers has been identified as the favourable approach in beneficiation of this biomass . The chemical extractions of keratin by reducing agents are usually preferred because the process is much faster than its counterpart oxidation extraction . One such reduction extraction is the use of a mixture of sodium bisulphite sodium dodecyl sulphate and urea . There are at least five factors that may affect the keratin extraction process and its final properties when using this extraction . Even though this extraction method is often used the effects of its independent variables have not been studied as a result the effects of independent variables can not be fully linked to the extraction process and final keratin properties . Therefore this study aimed to optimise the extraction of keratin from waste chicken feathers using sodium bisulphite sodium dodecyl sulphate and urea . The optimisation was statistically performed using Response Surface Methodology linked with Box Behnken Design . After screening the independent variable using one factor at a time method the concentration of sodium bisulphite concentration of sodium dodecyl sulphate reaction temperature and reaction time were chosen for the study . Twenty nine experiments were statistically designed and executed and their results were used to analyse the effects of all the independent variables in order to optimise the extraction process . The reaction temperature was found to be the most significant factor while the concentration of sodium dodecyl sulphate was the most insignificant factor of this extraction process . Independent variables significance order was reaction temperature reaction time concentration of NaHSO
+
+@highlight Chicken feathers keratin can be extracted from waste chicken feathers using NaHSO
+@highlight  NaC
+@highlight SO
+@highlight and Urea and adding reaction time and temperature as extraction independent variables.
+@highlight The extraction process was optimised using Response Surface Methodology RSM Box Behnken Design.
+@highlight The independent variables significance in a descending order is reaction temperature reaction time concentration of NaHSO
+@highlight  concentration of NaC
+@highlight SO
+@highlight Model equation predicts the keratin yield from the extraction process.

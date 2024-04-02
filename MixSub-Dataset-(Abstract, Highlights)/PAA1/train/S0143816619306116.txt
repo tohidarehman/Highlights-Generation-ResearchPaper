@@ -1,0 +1,6 @@
+ We introduce an optical 3D sensor that can measure the shape of objects with rough surface . The proposed sensor is based on white light interferometry but it does not require a mechanical movement of the measured object relative to the measuring device . The output of a fiber optical interferometer is used as the light source for the measuring interferometer . The built in fiber stretcher changes the optical path difference and replaces the mechanical movement . A focus tunable lens is a part of the imaging system . This lens secures that the measured part of the surface is imaged sharply onto the camera during the measurement process .
+
+@highlight White light interferometer measures without moving object or interferometer.
+@highlight The reference plane moves instead of the object.
+@highlight The movement of the reference plane is provided by fiber stretcher.
+@highlight A tunable lens secures that the measured part of the object is imaged sharply.

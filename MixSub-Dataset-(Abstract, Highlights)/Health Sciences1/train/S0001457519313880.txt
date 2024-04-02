@@ -1,0 +1,7 @@
+ Observed accidents have been the main resource for road safety analysis over the past decades . Although such reliance seems quite straightforward the rare nature of these events has made safety difficult to assess especially for new and innovative traffic treatments . Surrogate measures of safety have allowed to step away from traditional safety performance functions and analyze safety performance without relying on accident records . In recent years the use of extreme value theory models in combination with surrogate safety measures to estimate accident probabilities has gained popularity within the safety community .
+
+@highlight Surrogate safety measures allow to analyze safety without relying on accidents.
+@highlight Using Extreme Value theory accident probabilities can be predicted.
+@highlight We extend existing efforts with bivariate EV models for the joint probability esimtation of two related accident events.
+@highlight Driver characteristics and road design significantly impact accident probabilities.
+@highlight We apply our proposed method to the safety analysis of passing maneuvers.

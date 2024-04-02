@@ -1,0 +1,7 @@
+ Future demographic projections indicate that long term care demand will put significant pressures on the long term sustainability of public finances . Efficiency gains could potentially compensate for increasing LTC expenditures . Nevertheless among the factors that drive LTC expenditures efficiency or productivity discussions have received little attention . This paper provides the first analysis of the efficiency levels of LTC for a subset of OECD countries . In doing so the study adopts a non parametric approach and performs a Data Envelopment Analysis . The results of the DEA show that average efficiency scores have a slight tendency to increase . There was a 0.1 increase in productivity in the provision of LTC between 2009 and 2014 which mainly resulted from an increase in technological change . However the slight increase in efficiency is insufficient to offset fiscal pressures led by the increasing number of LTC beneficiaries and amount spent on LTC . The second stage Tobit analysis results further indicate that the productivity of LTC provision does not differ across countries with different public LTC financing arrangements .
+
+@highlight We analyze the efficiency levels of LTC for a subset of OECD countries.
+@highlight We perform a Data Envelopment Analysis DEA .
+@highlight Average efficiency scores have a slight tendency to increase 0.1 between 2009 and 2014.
+@highlight The slight increase in efficiency is insufficient to offset fiscal pressures.
+@highlight The productivity does not change with different public LTC financing arrangements.

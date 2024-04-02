@@ -1,0 +1,7 @@
+ This study focuses on the design and implementation of a performance measurement system for industrial collaboration . This article provides insights from two case studies of industrial collaboration . The research aims to study the crucial characteristics of PMS design and implementation in industrial collaboration in which multiple tiers extending beyond the buyer supplier dyad are considered . Prerequisites and challenges are crucial characteristics that should be examined in the design and implementation of a PMS . The results indicate three main characteristics affect the design and implementation of a PMS in an industrial collaboration 1 the importance of collaboration 2 the importance of coordination and integrated information systems within the system implementation and 3 the importance of acknowledging the impact of varied customer needs .
+
+@highlight Focus is on the design and implementation of a PMS for industrial collaboration.
+@highlight Collaboration with multiple tiers beyond the buyer supplier dyad is considered.
+@highlight PMS design and implementation need a relationship beyond the buyer supplier dyad.
+@highlight PMS requires a rigorous coordination of processes and integrations of ICT systems.
+@highlight A collaborative PMS requires acknowledging the impact of various customer needs.

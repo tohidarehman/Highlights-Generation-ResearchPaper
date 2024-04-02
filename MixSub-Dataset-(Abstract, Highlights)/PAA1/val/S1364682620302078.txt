@@ -1,0 +1,6 @@
+ The response of the atmosphere to solar irradiance and geomagnetic activity is analyzed in experiments with the Whole Atmosphere Community Climate Model under idealized forcings . Four experiments are carried out combining high and low solar radiative forcing with high and low geomagnetic activity H7 H3 L7 and L3 . The comparison between these experiment is used to assess the effects of solar radiative forcing and geomagnetic activity mainly on the stratosphere . A two step Monte Carlo based statistical test which defines an impact score is used to assess statistically significant impacts on regional scales on pressure levels for a few key model variables like NOx ozone and temperature .
+
+@highlight Solar irradiance have significant impact on stratospheric ozone and temperature preconditioning geomagnetic activity impact.
+@highlight Under solar minimum conditions geomagnetic activity has large impact on NOx but limited impact on ozone and temperature.
+@highlight Under solar maximum conditions geomagnetic activity can result in important effects in the stratosphere.
+@highlight Geomagnetic variability can thus modulate the climate impact of high solar activity without overwhelming it.

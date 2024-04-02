@@ -1,0 +1,6 @@
+ A general theoretical framework for investigating the rheological behavior of powder undergoing electric current assisted consolidation is proposed in this work . The most relevant phenomena occurring during ECAS process are taken into account . Consolidating powders are assumed to behave as a viscous fluid . Specifically powder viscosity is expressed by the BirdCarreauYasudas model which includes the power law creep description typically adopted in the ECAS modeling literature . The proposed stress strain constitutive law allows one avoiding
+
+@highlight A novel mathematical model of Electric Current Assisted Sintering ECAS is developed.
+@highlight A generalized description of powder viscosity is introduced.
+@highlight The effect of representative model parameters on powder consolidation are investigated.
+@highlight Different rheological regimes taking place during powder consolidation are identified.

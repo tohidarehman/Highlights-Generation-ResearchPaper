@@ -1,0 +1,12 @@
+ Connected and Automated Vehicle technology although in the development stage is quickly expanding throughout the vehicle market . However full market penetration will most likely require considerable planning as key stakeholders manufacturers consumers and governing agencies work together to determine optimal deployment strategies . Specifically road safety is a critical challenge to the widespread deployment and adoption of this disruptive technology . During the transition period fleets will be composed of a combination of CAVs and conventional vehicles and therefore it is imperative to investigate the repercussions of CAVs on traffic safety at different penetration rates . Since crash severity and frequency in conjunction reflect traffic safety this study attempts to investigate the effect of CAVs on both crash severity and frequency through a microsimulation modelling exercise . VISSM microsimulation platform is used to simulate a case study of the M1 Geelong Ring Road network in Victoria Australia . Network performance is evaluated using performance metrics and kinematic variables . Surrogate safety measures are examined to inspect the safety in the network . The results indicate that the introduction of CAVs does not achieve the expected decrease in crash severity and rates involving manual vehicles despite the improvement in network performance given the demand and the set of parameters used in our operational CAV algorithm are intact . Additionally the study identifies that the safety benefits of CAVs are not proportional to CAV penetration and full scale benefits of CAVs can only be achieved at 100 CAV penetration . Further considering network efficiency as a performance metric and total crash rate involving conventional vehicles as a safety metric a Pareto frontier is extracted for varying CAV operational behaviour . The results presented in this study provide insights into the impacts of CAVs on traffic safety valuable for insurance companies and other industry participants enabling safety related services and more enterprising business models .
+
+@highlight The distribution of speed suggests speed
+@highlight with increasing CAV penetration.
+@highlight Robustness of the driving behaviour increases with increased CAV penetration.
+@highlight Increased CAV penetration leads to
+@highlight of critical crash events conflicts but a
+@highlight in crash severity.
+@highlight The
+@highlight of CAVs can only be achieved at
+@highlight CAV penetration.
+@highlight Pareto optimality is identified under multi criterion evaluation.

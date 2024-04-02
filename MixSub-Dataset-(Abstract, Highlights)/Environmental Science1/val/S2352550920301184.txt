@@ -1,0 +1,10 @@
+ A lot of recent studies have concluded that hydrogen could gradually become a much more significant component of the European energy mix for mobility and stationary fuel cell system applications . Yet the challenge of developing a future commercial hydrogen economy still remains through the deployment of a viable hydrogen supply chain and an increasing fuel cell vehicle market share which allows to narrow the existing cost difference regarding the conventional fossil fuel vehicle market . In this paper the market penetration of hydrogen fuel cell vehicles as substitutes for internal combustion engine vehicles has been evaluated from a social and a subsidy policy perspective from 2020 to 2050 . For this purpose the best compromise hydrogen supply chain network configuration after the sequential application of an optimization strategy and a multi criteria decision making tool has been assessed through a Social Cost Benefit Analysis to determine whether the hydrogen mobility deployment increases enough the social welfare . The scientific objective of this work is essentially based on the development of a methodological framework to quantify potential societal benefits of hydrogen fuel cell vehicles . The case study of the Occitania Region in France supports the analysis . The externality costs involve the abatement cost of CO
+
+@highlight The market penetration of hydrogen fuel cell vehicles FCV is investigated.
+@highlight An optimization framework for hydrogen supply chains has been first developed.
+@highlight It has been coupled with a social cost benefit analysis SCBAs .
+@highlight The externality costs involve the abatement cost of CO
+@highlight  noise and local pollution as well as platinum depletion.
+@highlight A subsidy policy scenario has also been implemented.
+@highlight The case study of the Occitania Region in France supports the analysis.
+@highlight The payback time is 2043 socio economic scenario with externalities 2042 subsidy policy scenario with externalitied or 2046 baseline economic scenario .

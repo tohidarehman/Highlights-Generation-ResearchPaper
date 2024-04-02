@@ -1,0 +1,6 @@
+ Proteins are natural modular objects usually composed of several domains each domain bearing a specific function that is mediated through its surface which is accessible to vicinal molecules . This draws attention to an understudied characteristic of protein structures surface that is mostly unexploited by protein structure comparison methods . In the present work we evaluated the performance of six shape comparison methods among which three are based on machine learning to distinguish between 588 multi domain proteins and to recreate the evolutionary relationships at the
+
+@highlight Proteins are 3D molecular shapes of outmost importance
+@highlight Methods to compare protein shape need to be evaluated on a benchmark dataset.
+@highlight This Shape Retrieval Contest aims to assess performances of shape comparison methods.
+@highlight The trade off between performance and computational cost is evaluated.

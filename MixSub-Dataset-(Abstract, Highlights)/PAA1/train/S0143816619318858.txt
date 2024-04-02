@@ -1,0 +1,6 @@
+ A distributed fiber optic vibration sensing system with high frequency response and multi points accurate location is proposed and demonstrated by combining a feedback loop based interferometer and a phase sensitive optical time domain reflectometer . The FLI and the OTDR are merged together based on a wavelength division multiplexing scheme . Assisted by the feedback loop the interferometer structure can achieve a high frequency detection using a single fiber only . Meanwhile the vibration position is obtained by the OTDR which shares the same fiber with the FLI . Experimental results demonstrate that the frequency response of the merged system reaches up to 300kHz and the spatial resolution is 15m at the sensing length of 4km . Compared with previous reported systems the structure of our proposed system is simpler only one fiber is used to detect the frequency and the position of the vibration . In addition the single end sensing has also been achieved in the proposed system .
+
+@highlight An integrated vibration measurement scheme is proposed.
+@highlight The spatial resolution is 15m at the sensing length of 4km.
+@highlight The frequency response reaches up to 300kHz.
+@highlight Only one fiber is used to detect the frequency and the position of the vibration.

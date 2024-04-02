@@ -1,0 +1,7 @@
+ In solid particle separation process cyclone separators are commonly used due to their simplicity and low cost manufacture . A reference design S1 and two novel designs C4 N4 of four inlet cyclone separator have been investigated computationally using the Reynolds Stress Model for turbulent flow and the Discrete Phase Model for tracking the particles . The numerical model has been validated and confirmed to be a reasonable good candidate for the investigation . The results show that the design S1 provides the lowest average Euler number and the design C4 provides the smallest average cut off diameter 1.399
+
+@highlight An innovative cyclone design with stair positioning inlet channels was developed.
+@highlight Numerical investigation of two novel designs of four inlet cyclone separator.
+@highlight Discrete Random Walk model is used to track the particles.
+@highlight The most appropriate design N4 has been found by using weighted sum method.
+@highlight Four inlet cyclone separator provides better performance than single inlet one.

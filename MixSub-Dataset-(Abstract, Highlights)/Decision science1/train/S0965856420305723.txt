@@ -1,0 +1,7 @@
+ This paper develops and compares four multidimensional resource allocation models aimed to prioritize freight improvement projects for regional state and local transportation agencies such that return on investment is maximized . The proposed models are based on economic competitiveness with and without mutual exclusiveness in location and equity in opportunity and outcome . Multiple dimensions of the models include the transportation mode performance measures improvement type geographic regions policy criteria and time . Results from a case study in the State of Tennessee show that project selection based on equity in outcome provides the optimal balance between benefits and their distribution among counties while project selection based on equity in opportunity results in the lowest total return on investment .
+
+@highlight Maximize present worth of total benefits subjected to budget and policy constraints.
+@highlight Economic competitiveness only and economic competitiveness with equity models.
+@highlight Difference between manual and scientific resource allocation.
+@highlight Distribution of benefits among multiple dimensions of freight transportation.
+@highlight Variation of benefits with budgets and equity parameters.

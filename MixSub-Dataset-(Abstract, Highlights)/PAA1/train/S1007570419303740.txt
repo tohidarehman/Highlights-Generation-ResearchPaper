@@ -1,0 +1,5 @@
+ Solitons breathers and rogue waves of the coupled Hirota system are investigated . To obtain these solutions we construct the 44 Lax pair and Darboux transformation . With zero backgrounds we derive the one and two peak solitons . With non zero and mixed backgrounds we produce a family of the breather solutions and rational solutions for the purpose of describing the rogue waves . The second order rogue wave solutions on the mixed backgrounds are obtained . The existence and properties of bright dark breathers and rogue waves are discussed . By adjusting the parameters in DT we show the conversions between the bright breathers rogue waves and the dark breathers rogue waves in the course of evolution . We note that for such system if there is the modulation instability it is of baseband type only .
+
+@highlight Soliton breather and rogue wave solutions are obtained via Darboux transformation.
+@highlight Modulation instability of the coupled Hirota system is discussed.
+@highlight Dynamics of bright dark rogue waves breathers are investigated.

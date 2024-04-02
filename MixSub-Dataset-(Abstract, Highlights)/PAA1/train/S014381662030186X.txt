@@ -1,0 +1,5 @@
+ For terahertz frequency domain spectrometers the effects of Fabry Perot interference and system dispersion are inevitable thus the typical data analysis methods normally result in large errors in the measurement of the THz transmission spectrum and refractive index of samples . By using the phase relationship between two groups of acquired THz FDS data with different optical paths we present a new method to eliminate the system dispersion and reduce the impact of FP interference on the refractive index measurement with a relative error decreased from 6.8 to 2.5 .
+
+@highlight We presented a novel method to extract the information of material properties which is insensitive to the difference of samples and the fringe spacing.
+@highlight By using the proposed method not only the noise of transmission spectrum and refractive index can be suppressed effectively but also the resolution of the processed data can be maintained.
+@highlight The FP effect which will determine the extraction accuracy of the refractive index can be reduced by the proposed algorithm.

@@ -1,0 +1,7 @@
+ The loading ratio of a solvent extraction process is the ratio of moles of metal extracted to moles of extractant fed . Since the efficiency has several limitations it is recommended to quantify a metal extraction system in terms of its loading ratio in addition to its efficiency or extraction rate coefficient . In this study the loading ratio was compared to the efficiency and equations relating the two metrics were derived . It was shown that due to competing effects of the extractant concentration on the loading ratio an optimum extractant concentration exists for nearly all metal extraction systems . This optimum is dependent solely on the equilibrium data and the phase ratio . A method to predict the optimum extractant concentration and the loading ratio at any extractant concentration was presented . The method was validated by comparing the predicted loading ratios to the observed loading ratios for previous metal extraction studies . The advantages of quantifying a process by its loading ratio and targeting the optimum extractant concentration to maximize the loading ratio were discussed .
+
+@highlight Extraction systems have a maximum loading ratio and optimum extractant concentration.
+@highlight Optimum concentration depends solely on extraction equilibria and phase ratio.
+@highlight Predictive equations for loading ratio and optimum concentration are derived.
+@highlight Loading ratio is proportional to efficiency.
+@highlight It is economically beneficial to operate at the optimum extractant concentration.

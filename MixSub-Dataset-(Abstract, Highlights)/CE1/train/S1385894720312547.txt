@@ -1,0 +1,6 @@
+ Modeling of microwave heating of multiphase systems requires resolving the electromagnetic field from the single particle to the entire cavity . We introduce a multiscale methodology for computationally affordable simulations of microwave heating of multiphase systems consisting of one phase dispersed in a continuum phase . The methodology homogenizes the original multiphase system by taking advantage of the large separation of length scales to calculate the effective permittivity effective thermal conductivity and volumetric power absorbed in each phase . The methodology is rigorously assessed against particle resolved detailed numerical simulations of model systems . We demonstrate a significant reduction in computational cost while retaining the accuracy of detailed simulations . The present methodology enables high throughput exploration of novel multiphase system designs utilizing microwave heating .
+
+@highlight Development of a novel multiscale methodology for microwave heating of multiphase systems.
+@highlight Verification of the methodology against detailed particle resolved simulations.
+@highlight Application of the methodology in optimizing the structure of multiphase systems.
+@highlight Significant reduction in the requirement of mesh elements and compute time.

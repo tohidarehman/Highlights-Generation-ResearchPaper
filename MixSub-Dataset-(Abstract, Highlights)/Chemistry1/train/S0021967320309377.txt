@@ -1,0 +1,6 @@
+ Buffer preparation and storage requires a significant facility footprint in large scale bioprocessing and together with the costs of supply chain management can have a substantial economic impact . In line buffer mixing in chromatography is commonly performed by blending different buffer solutions using at least two pumps and a static or dynamic mixer . We developed a device for an in line gradient delivery of buffering agents directly from solids to be applied for chromatographic separation processes . A solid feeding device with a screw conveyor and a hold tank for the solids was designed and a miniaturized system was 3D printed . The coefficient of variation for the precision of the solid feeding of 5 different buffering agents was below 5 even for very small solid flow rates necessary for lab scale chromatography . Stability was demonstrated by a constant linear solid feed at a very low dosing rate of 0.05 g.min
+
+@highlight A radical new way to prepare aqueous buffers for column chromatography
+@highlight The solid compounds is directly dosed to the aqueous solution
+@highlight Buffers can be prepared on demand
+@highlight The method is suited for linear and step gradients

@@ -1,0 +1,5 @@
+ The optical depth at 45 and 90GHz have been obtained from calibration data of two solar radio telescopes located in El Leoncito Astronomical Complex during the years 20122013 . The observed period and the temporal resolution of the measurements is sufficient to show seasonal patterns . Using the precipitable water vapor content obtained with a Sun photometer for aerosols measurements it was found a good correlation of PWV with the optical depth in both frequencies . With the water vapor content and data from a meteorological station the atmosphere over CASLEO was modeled using ATM 2009 an Earths atmospheric model . The results of the model allows to evaluate the range of optical depth measurements and to predict the contributions from H
+
+@highlight Atmospheric absorption at 45 90 GHz correlates with precipitable water vapor.
+@highlight Atmospheric models used to predict the contributions of water vapor and oxygen.
+@highlight Refinement of atmospheric models using instruments operating in several frequencies.

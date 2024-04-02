@@ -1,0 +1,7 @@
+ Commutation failure which occurs frequently in HVDC systems may lead to the instability of HVDC system . This paper proposes the anomalous commutation failure of multi infeed HVDC transmission systems based on a thorough analysis . Two types of distortion models are put forward to explain the phenomenon of anomalous commutation failure on the level of theory . The distortion caused by DC component and low order harmonic components is shown to be the cause of anomalous commutation failure . The impact of total waveform distortion on commutation failure is given based on the commutation failure mechanism and grid parameters . The total distortion reference is proposed to assess the risk of commutation failure . Two types of multi infeed system models are simulated and the validity of the total distortion reference criterion is verified . It is also found that the decrease of coupling impedance can weaken the anomalous commutation failure . Finally a fault division strategy based on fault current limiter is proposed and proved to be an effective way to solve the problem of anomalous commutation failure .
+
+@highlight The methods to assess and solve commutation failure are provided.
+@highlight The total distortion reference to assess anomalous commutation failure is proposed.
+@highlight Fault division method for solving commutation failure is provided.
+@highlight The total distortion reference for commutation failure is derived.
+@highlight The compensation effect of fault current limiters is proved by some formula.

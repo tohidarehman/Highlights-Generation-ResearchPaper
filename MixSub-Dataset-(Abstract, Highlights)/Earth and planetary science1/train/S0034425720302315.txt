@@ -1,0 +1,7 @@
+ The characteristics of urban land surfaces contribute to the urban heat island and in turn can exacerbate the severity of heat wave impacts . However the mechanisms and complex interactions in urban areas underlying land surface temperature are still being understood . Understanding these mechanisms is necessary to design strategies that mitigate land temperatures in our cities . Using the recently available night time moderate resolution thermal satellite imagery and employing advanced nonlinear statistical models we seek to answer the question
+
+@highlight The first study for LST and urban factors using Landsat nighttime temperatures
+@highlight A comparative analysis of surface temperature for four USA cities
+@highlight Advanced statistical techniques for geospatial data capture nonlinear behavior
+@highlight Increased perviousness and vegetation lower nighttime urban surface temperature
+@highlight Data model and spatial resolution uncertainty quantified

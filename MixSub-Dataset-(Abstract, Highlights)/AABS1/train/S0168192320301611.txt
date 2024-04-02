@@ -1,0 +1,8 @@
+ Understanding the drivers of net ecosystem exchange of carbon between forests and the atmosphere is crucial for the prediction of future global carbon dynamics . We therefore analyzed the long term ecosystem carbon fluxes of a mixed coniferous deciduous forest in the Campine ecoregion of Belgium . The carbon uptake of this forest increased over the 16 year study period . By consecutively performing time series decomposition and the statistical technique of random forests the correlative strength between multiple meteorological drivers tropospheric pollutants and biotic indices with NEE was quantified at different time scales i.e . long term seasonal and weekly and separately for day and nighttime NEE fluxes . The drivers that were most correlated with the trend in carbon sink capacity were the increasing atmospheric CO
+
+@highlight Daytime C sink capacity of the Brasschaat forest increased between 1999 and 2014.
+@highlight Daytime NEE was most strongly correlated to atmospheric CO
+@highlight levels and soil solution pH.
+@highlight Long term trend in night respiration was strongly correlated to ground water level.
+@highlight Random variation in day night NEE were linked to cloudiness air temperature.
+@highlight Time series decomposition plus random forest analysis useful to study NEE drivers.

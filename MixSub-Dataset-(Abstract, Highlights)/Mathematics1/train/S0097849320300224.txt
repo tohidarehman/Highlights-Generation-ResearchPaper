@@ -1,0 +1,6 @@
+ Point clouds are unstructured and unordered data as opposed to images . Thus most machine learning approach developed for image can not be directly transferred to point clouds . In this paper we propose a generalization of discrete convolutional neural networks in order to deal with point clouds by replacing discrete kernels by continuous ones . This formulation is simple allows arbitrary point cloud sizes and can easily be used for designing neural networks similarly to 2D CNNs . We present experimental results with various architectures highlighting the flexibility of the proposed approach . We obtain competitive results compared to the state of the art on shape classification part segmentation and semantic segmentation for large scale point clouds .
+
+@highlight The framework is a flexible generalization of the neural networks to point cloud.
+@highlight ConvPoint is flexible and allows the design of various task oriented architectures.
+@highlight It is competitive with state of the art for classification and semantic segmentation.
+@highlight It is fast and memory allowing deployment to a large range of processing units.

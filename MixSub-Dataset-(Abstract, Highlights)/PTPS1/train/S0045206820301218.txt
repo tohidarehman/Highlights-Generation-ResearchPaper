@@ -1,0 +1,7 @@
+ Cancer constitutes a group of diseases linked to abnormal cell growth that can potentially spread to other parts of the body and is one of the most common causes of death . The molecular motors DNA topoisomerases that enable topological changes of the DNA molecule are one of the most established targets of cancer therapies . Due to known limitations of established topo II poisons such as cardiotoxicity induction of secondary malignancies and recognized cancer cell resistance an emerging group of catalytic topo II inhibitors attempts to circumvent these challenges . Currently this approach comprises several subgroups of mechanistically diverse inhibitors one of which are compounds that act by binding to their ATPase domain .
+
+@highlight Structure guided design and synthesis of 3 5 substituted 1 2 4 oxadiazoles.
+@highlight Catalytic mode of inhibition of human DNA topoisomerase II.
+@highlight Confirmed binding to the isolated ATPase domain of human topo II.
+@highlight Cytotoxicity against MCF 7 breast cancer cell line.
+@highlight No induction of double strand breaks DSB of MCF 7 cancer cell line.

@@ -1,0 +1,9 @@
+ Potential induced degradation test results of modules fabricated from the rear and front emitter silicon heterojunction solar cells were compared to clarify the influence of the emitter position of SHJ photovoltaic cell modules on their PID behaviors . The PID tests were performed by applying a bias of 2000 V to the shorted interconnector ribbons from the front surface of the cover glass at 85C . In the initial stage both modules showed the same degradation characterized by a reduction in the short circuit current density
+
+@highlight Potential induced degradation behaviors were compared of rear and front emitter silicon heterojunction PV modules.
+@highlight Both modules showed the first stage degradation with the same behavior characterized by a
+@highlight reduction.
+@highlight The rear emitter modules showed the second stage degradation characterized by significant reductions in
+@highlight and
+@highlight The front emitter ones on the other hand showed degradation in FF together with moderate reductions in
+@highlight and

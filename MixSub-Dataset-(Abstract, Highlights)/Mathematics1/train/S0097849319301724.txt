@@ -1,0 +1,7 @@
+ Three methods developed for determining surface curvature in volumetric data are described including one convolution based method one fitting based method and one method that uses normal estimates to directly determine curvature . Additionally a study of the accuracy and computational performance of these methods and prior methods is presented . The study considers synthetic data noise added synthetic data and real data . Sample volume renderings using curvature based transfer functions where curvatures were determined with the methods are also exhibited .
+
+@highlight Methods using convolution or fitting are often the most accurate.
+@highlight The existing TE method is fast and accurate on noise free data.
+@highlight The OP method is faster than existing similarly accurate methods on real data.
+@highlight Even modest errors in curvature notably impact curvature based renderings.
+@highlight On real data GSTH GSTI and OP produce the best curvature based renderings.

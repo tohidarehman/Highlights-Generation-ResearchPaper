@@ -1,0 +1,7 @@
+ In the present research a novel dynamic constitutive micromechanical model was developed to predict the strain rate dependent mechanical behavior of laminated glass epoxy composites . The present model is an integration of the generalized strain rate dependent constitutive model as a constitutive model for the neat polymer the plasticity model of Huang as a micromechanical model and dynamic progressive failure criteria . This model is able to predict the longitudinal and transverse tensile and in plane shear behaviors of unidirectional glass epoxy composites with arbitrary fiber volume fractions at arbitrary strain rates . The present model can also predict the stress strain behavior of laminated composites with different layups and fiber volume fractions at arbitrary strain rates . A comparison between the results predicted by the present model and the available experimental data showed that the model predicts the strain rate dependent mechanical behavior of glass epoxy composites with very good accuracy .
+
+@highlight A model for the dynamic mechanical behavior of laminated composites was presented.
+@highlight The present model uses the plasticity model and dynamic progressive failure criteria.
+@highlight The accuracy of the present model was evaluated by the available experimental data.
+@highlight The present model is able to consider the effect of layups and fiber volume fraction.
+@highlight Different failure modes in each ply of the laminated composite were identified.

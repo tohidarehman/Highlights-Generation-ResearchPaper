@@ -1,0 +1,5 @@
+ The objective of this paper was to develop an injury risk model relating real world injury outcomes in near side crashes with U.S. New Car Assessment Program test performance crash and occupant properties . The study was motivated by the longer term goal of predicting injury outcomes in a future fleet in which all vehicles are expected to have passive safety performance equivalent to a 5 star NCAP rating level .
+
+@highlight We analyzed 143 near side crash occupants in the United States from 20102015.
+@highlight Poor performance in US side impact crash tests was linked to poor injury outcomes.
+@highlight Delta V age sex BMI and side impact crash test performance all affect injury.

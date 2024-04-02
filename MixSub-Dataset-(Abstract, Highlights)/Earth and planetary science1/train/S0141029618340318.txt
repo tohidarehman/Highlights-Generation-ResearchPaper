@@ -1,0 +1,7 @@
+ The present study involves flexural strengthening of reinforced concrete beams by prestressed fiber reinforced polymers and iron based shape memory alloys using the near surface mounted technique . ANSYS nonlinear finite element analysis software was employed to model RC beams which were validated using the data from an existing experimental study in the literature . Parameters considered were rod length and NSM rod material type under three prestressing levels 20 30 and 40 . The influence of these parameters on the beams load carrying capacity midspan displacement ductility index and failure mode were determined . The results showed that at higher levels of rod prestressing cracking yielding and ultimate load capacities of the beam were improved . However the displacement was decreased and consequently the ductility index reduced as prestressing level increased . Furthermore the Fe SMA material was able to provide significant ductility . The optimum prestressing level could be identified based on the primary RC beams design criteria to either improve load or displacement capacity or both .
+
+@highlight In terms of load 30 prestressing level was optimum for CFRP strengthened beams.
+@highlight In terms of load 40 prestressing level was optimum for Fe SMA strengthened beams.
+@highlight 80 increase in ductility with the use of Fe SMA strengthened beams.
+@highlight For strengthening RC beams shorter Fe SMA rod had higher load capacity.
+@highlight All coupled CFRP Fe SMA beams maintained high ductility index.

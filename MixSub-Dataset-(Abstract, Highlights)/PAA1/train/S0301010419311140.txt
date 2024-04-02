@@ -1,0 +1,5 @@
+ Collective coupling between vibrations of molecules participating in reaction and the vacuum field of a microfluidic optical cavity is now sometimes considered to be one of the novel potential unconventional ways of influencing the reaction rate . Herein this effect is theoretically analyzed focusing on adiabatic reactions occurring via the ground electronic state with a saddle point located between reactants and products . The key conclusion is that for cavities with a relatively large number of reactants
+
+@highlight Focus is on coupling between molecular vibrations and vacuum field in a microfluidic cavity.
+@highlight This effect is theoretically analyzed in the context of adiabatic reactions.
+@highlight The scale of the corresponding corrections of the Arrhenius parameters is demonstrated to be nearly negligible.

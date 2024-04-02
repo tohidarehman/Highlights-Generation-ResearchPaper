@@ -1,0 +1,6 @@
+ This study has proposed four different liquefaction models consisting of both reversible and irreversible reaction steps with three lumped parameters asphaltenes preasphaltenes and oils for the liquefaction of Turkish lignite Beypazar
+
+@highlight Four different liquefaction mechanisms have been suggested for Beypazar lignite.
+@highlight Effects of reversible and irreversible reactions on liquefaction have been identified.
+@highlight Reaction rates of proposed liquefaction models are determined using Kalman filter.
+@highlight Validity of the proposed liquefaction models is tested using experimental results.

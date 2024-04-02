@@ -1,0 +1,8 @@
+ In micellar liquid chromatography the addition of a surfactant to the mobile phase in excess is accompanied by an alteration of its solubilising capacity and a change in the stationary phase s properties . As an implication the prediction of the analytes retention in MLC mode becomes a challenging task . Mixed Quantitative Structure Retention Relationships modelling represents a powerful tool for estimating the analytes retention .
+
+@highlight Predictive ability of 48 mixed QSRR models was compared in terms of
+@highlight and
+@highlight Change in the set of input variables had a minor impact on the models performance.
+@highlight Mixed models built by non linear Gradient Boosted Trees showed the highest accuracy.
+@highlight Contribution of steric and dipole dipole interactions to MLC retention was stressed.
+@highlight Fine tuning of molecular geometry is recommended to increase accuracy of final model.

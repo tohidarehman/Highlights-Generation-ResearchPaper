@@ -1,0 +1,8 @@
+ Electricity production heat and cooling requirements are one of the main problems for energy distribution network businesses . Different energy grids like gas and electricity run concurrently as a particular solution for overcoming the issue . Energy Hub is a vague approach for an energy center composed of electricity gas heat and at times cooling networks . Energy hub systems can be considered as a powerful alternative to improve the use of existing energy resources . This paper proposes a novel technique for optimum operation and configuration of multiple energy hubs . The proposed EH contains different types of energy sources and generation with multi type energy storage devices to feed electrical heating and gas demands . The EH contains renewable energy resources combined heat and power cogeneration power to gas units and gas fired generator to provide interdependencies of infrastructures for these energy sources . Uncertainties of both wind and PV energy resources are considered in this study . A multi objective optimization problem is formulated to maximize social welfare and minimize CO
+
+@highlight A novel multi energy sources optimal configuration and operation model is proposed.
+@highlight Uncertainties of both wind and PV energy resources are taken into consideration.
+@highlight Newton Raphson method is used to solve the problem of power heat and gas flow.
+@highlight The effect and role of RES SDs and P2G in cost and stability of EH are included.
+@highlight The objective function is maximising the social welfare and minimize CO
+@highlight emissions.

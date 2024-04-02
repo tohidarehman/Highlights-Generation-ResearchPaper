@@ -1,0 +1,5 @@
+ Quantification of analysis results for the suspect and non targeted screening is essential for obtaining meaningful insight from the measurements . Ionization efficiency predictions is a possible approach to enable quantitation without standard substances . This is however especially challenging for the analysis carried out by combining the full scan mode either with fragmentation experiments in data dependent or data independent acquisition mode .
+
+@highlight Standard free quantitation is possible via previously measured ionization efficiencies.
+@highlight Measured ionization efficiency values could be transferred to targeted screening.
+@highlight Fragmentation patters for different derivatization reagents are presented.

@@ -1,0 +1,7 @@
+ We report the preparation of high performance sputtered polydimethylsiloxane coated solid phase microextraction fibers that show negligible carry over and phase bleed . This process involves sputtering silicon onto silica fibers and functionalizing the resulting porous nanostructures with ultrathin films of vapor deposited PDMS . Different thicknesses of silicon and PDMS were produced and their extraction efficiencies evaluated . The deposition of PDMS was confirmed by time of fight secondary ion mass spectrometry X ray photoelectron spectroscopy spectroscopic ellipsometry and contact angle goniometry on model planar silicon substrates . These fibers were investigated using direct immersion SPME coupled with gas chromatography mass spectrometry analysis of a series of polycyclic aromatic hydrocarbons which are carcinogenic pollutants . The 1.8m thick silicon coating with 16nm of PDMS PDMS produced the best response among the combinations tested . Conditions for the extraction of PAHs with this fiber were optimized and its extraction performance was compared to that of a commercial 7m PDMS fiber . The linearity 1110gL
+
+@highlight A porous silicon layer was sputtered onto a silica fiber and coated with a PDMS stationary phase for SPME.
+@highlight PAHs were analyzed by these fibers and commercial 7 micron PDMS fibers.
+@highlight About 20 times less carry over was observed with the new fibers.
+@highlight About 10 times less phase bleeding was observed with the new fibers.
+@highlight The effect of coating thickness on extraction efficiency was evaluated.

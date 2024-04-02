@@ -1,0 +1,7 @@
+ Forward collision warning and autonomous emergency braking systems are increasingly available and prevent or mitigate collisions by alerting the driver or autonomously braking the vehicle . Threat assessment and decision making algorithms for FCW and AEB aim to find the best compromise for safety by intervening at the right time neither too early potentially upsetting the driver nor too late possibly missing opportunities to avoid the collision .
+
+@highlight 94 drivers negotiated an intersection with a pedestrian in a driving simulator.
+@highlight A fractional factorial design tested the effect of 8 factors on driver response.
+@highlight Driver response mainly depended on pedestrian time to arrival and visibility.
+@highlight OpenDS may enable crowdsourcing and favor repeatability across studies.
+@highlight The results help Euro NCAP and design of collision warnings and emergency braking.

@@ -1,0 +1,6 @@
+ How crashes translate into physical injuries remains controversial . Previous studies recommended a predictor Delta V to describe the crash consequences in terms of mass and impact speed of vehicles in crashes . This study adopts a new factor energy loss based vehicular injury severity to explain the effects of the energy absorption of two vehicles in a collision . This calibrated variable which is fitted with regression based and machine learning models is compared with the widely used Delta V predictor . A multivariate ordered logistic regression with multiple classes is then estimated . The results align with the observation that heavy vehicles are more likely to have inherent protection and rigid structures especially in the side direction and so suffer less impact .
+
+@highlight An in depth analysis of the severity of crashes is needed to mitigate traffic crashes.
+@highlight Regression models are to analyze the relationship between injury and crash mechanisms.
+@highlight Occupants receive less impact from collisions by protective structures and high stiffness.
+@highlight The mass ratio of vehicles affects energy absorption especially in lateral structures.

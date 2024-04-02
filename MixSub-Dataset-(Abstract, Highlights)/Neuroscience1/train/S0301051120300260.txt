@@ -1,0 +1,7 @@
+ The strength of research conclusions must follow from the strength of evidence . In this commentary I raise several issues with a recent paper Brain structure changes induced by attention bias modification training . I follow the papers five highlights to discuss the absence of discussion of negative ABM results the low power of the study itself . Centrally I raise the concern that the conclusions rest all their weight on a single statistically significant group x time interaction form brain wide analysis . Most importantly this test is not internally consistent following statcheck . The reported result requires checking and potentially a correction that would shift the results entirely .
+
+@highlight Abend et al. 2019 conclude that ABM induces structural brain changes.
+@highlight These conclusions rest on a single significant interaction from brain wide analyses.
+@highlight The statistic contains a statcheck error requiring check and possible correction.
+@highlight Low power and selective discussion of prior research are also discussed.
+@highlight The strength of conclusions should follow from the strength of evidence.

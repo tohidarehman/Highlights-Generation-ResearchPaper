@@ -1,0 +1,5 @@
+ With the main goal of identifying the process factors associated with school effectiveness in secondary education this work presents an innovative methodological proposal . Based on secondary data from the Spanish sample of PISA 2015 high and low effectiveness schools were selected by analysing the residuals of the school level in multilevel models . Subsequently decision trees were used to identify the process variables with a greater predictive power for the identification of high and low effectiveness schools . While the hierarchical linear models obtained show inter school variance scores greater than 10 decision trees achieve a precision greater than 90 . We conclude by analysing the suitability of using decision trees in data originating from large scale assessments and examining the obtained factors associated with school effectiveness .
+
+@highlight Decision trees enable the detection of factors that predict school effectiveness.
+@highlight The predictive model is more accurate for low effectiveness schools.
+@highlight A single negative factor at school escalates the risk of low effectiveness.

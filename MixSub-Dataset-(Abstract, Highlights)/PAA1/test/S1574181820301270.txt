@@ -1,0 +1,6 @@
+ We evaluated the reconstruction quality from a conventional compressed ultrafast photography system and demonstrated a multi directional high speed imaging system based on the CUP system . We evaluated the defect rate as a function of the reconstruction quality . The results showed that the dependence of the defect rate on the reconstruction quality is similar to that from numerical experiments used to evaluate the mean square error . The results indicate that the shapes of two images could be reconstructed from one swept image .
+
+@highlight Reconstruction quality of images was evaluated using compressed ultrafast photography CUP system.
+@highlight Reconstruction quality depends on defect rates.
+@highlight A multi directional high speed imaging system based on CUP system was demonstrated.
+@highlight The system reconstructed the shape of two images from one swept image.

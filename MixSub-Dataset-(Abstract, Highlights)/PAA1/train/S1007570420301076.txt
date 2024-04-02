@@ -1,0 +1,7 @@
+ In this paper a stability analysis for a Cournot duopoly model with tax evasion and time delay in a continuous time framework is presented . The mathematical model under consideration follows a gradient dynamics approach is nonlinear and four dimensional with state variables given by the production and declared revenue of each competitor . We prove that both the marginal cost rate and time delay play roles as bifurcation parameters . More precisely if the marginal cost rate lies in certain closed interval then the equilibrium point is delay independent stable otherwise it is delay dependent stable and a Hopf bifurcation necessarily occurs . Some numerical simulations are presented in order to confirm the proposed theoretical results and illustrate the effect of the bifurcation parameters on model stability .
+
+@highlight A stability analysis for a Cournot duopoly model with tax evasion and time delay is presented.
+@highlight The mathematical model under consideration follows a gradient dynamics approach is non linear and four dimensional.
+@highlight The marginal cost rate belongs to a closed interval if and only if the system is delay independent stable.
+@highlight When the system is delay dependent stable a Hopf bifurcation occurs.
+@highlight Simulations and graphs to illustrate the theoretical results are presented.

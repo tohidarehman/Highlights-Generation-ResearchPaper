@@ -1,0 +1,5 @@
+ We propose a difference in differences approach to estimating the impact of incentives on cost reduction in the context of German electricity networks . When subject to a lower powered regulation mechanism relatively more efficient operators pile up more costs in the year used to determine future prices . This pattern is consistent with the idea that incentives matter higher powered incentives lead to cost reduction . The results are also consistent with an equilibrium where more efficient firms pool with less efficient ones under the threat of ratcheting .
+
+@highlight We propose a difference in differences approach to estimating the impact of incentives on cost reduction.
+@highlight We use data from German electricity networks.
+@highlight We provide evidence that higher powered mechanisms result in greater cost reduction.

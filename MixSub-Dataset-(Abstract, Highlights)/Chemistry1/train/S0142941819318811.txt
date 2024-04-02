@@ -1,0 +1,6 @@
+ This work aims at characterizing the mechanical behaviour of polymethyl methacrylate under high velocity impact conditions over a wide range of testing temperatures . To this end the mechanical response at uniaxial compression is studied for both quasi static and dynamic conditions covering testing temperatures below at and above glass transition . A pseudo brittle to ductile transition in the failure of PMMA is observed at a threshold that depends on testing temperature and strain rate . This analysis allows for the interpretation of the perforation impact tests and to explain the principal deformation and failure mechanisms . To complete the study the Richeton model to predict yielding is revisited . Finally we provide a new constitutive model for finite deformations to further identify the deformation mechanisms governing the mechanical behaviour of PMMA and the influence of temperature and strain rate on them .
+
+@highlight Polymer behavior from low to high temperatures at high strain rate.
+@highlight Impact tests and perforation for different initial temperatures.
+@highlight Polymer behavior above the glass transition temperature.
+@highlight Constitutive relation for polymer.

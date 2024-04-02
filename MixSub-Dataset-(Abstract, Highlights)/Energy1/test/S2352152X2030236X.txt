@@ -1,0 +1,7 @@
+ Achieving high cell potential supercapacitors in aqueous based electrolytes is an essential step to the development of safe energy storage devices with high energy density . It is well known that the extension of cell potentials is due to the chemisorption of hydrogen in the micropores of activated carbon electrodes in neutral aqueous electrolytes . In this work we have found that the structural feature electronic property and functional group of carbon electrodes do also play important roles to the cell potentials and performances of carbon based supercapacitors . We employed four different carbons i.e . carbon fiber paper functionalized carbon fiber paper
+
+@highlight The extension of potential of carbons is studied in pH neutral aqueous electrolyte.
+@highlight Hydrogen storage and electronic property of carbon extends cell potential of EDLC.
+@highlight gas analysis using DEMS confirms the gas evolution at 1.6V.
+@highlight Aging test show capacitance retention of 88 and 90 for rGO and AC after 200h.
+@highlight Self discharge test show the contribution of irreversible Faradaic redox process.

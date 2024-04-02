@@ -1,0 +1,8 @@
+ The pangenome provides genomic variations in the cultivated gene pool for a given species . However as the crops gene pool comprises many species especially wild relatives with diverse genetic stock here we suggest using accessions from all available species of a given genus for the development of a more comprehensive and complete pangenome which we refer to as a super pangenome . The super pangenome provides a complete genomic variation repertoire of a genus and offers unprecedented opportunities for crop improvement . This opinion article focuses on recent developments in crop pangenomics the need for a super pangenome that should include wild species and its application for crop improvement .
+
+@highlight Pangenome studies conducted so far have been limited mainly to one species and mostly cultivated accessions.
+@highlight The challenge with the current pangenomes is lack of representation of genomic diversity at the genus level.
+@highlight Crop wild relatives possess unearthed genetic diversity that has been lost during domestication and breeding.
+@highlight Pangenomics of crop wild relatives is the way forward to catalogue the complete gene repertoire of a genus.
+@highlight The super pangenome is the approach of developing a pangenome of the pangenomes of different species for a given genus.
+@highlight Currently available methods and tools to develop pangenomes are mainly restricted to bacterial prokaryotic genomes. It is important now to develop novel effective and user friendly tools for the development of super pangenomes for crop eukaryotic genomes.

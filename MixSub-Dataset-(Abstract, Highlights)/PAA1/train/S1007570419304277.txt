@@ -1,0 +1,6 @@
+ In this paper we investigate time fractional variable coefficient coupled Burgers equations for admissible form of variable coefficients under the condition of invariance . The reduced form of systems is obtained by using symmetries and ErdlyiKober fractional differential operators . Then the exact solutions of the reduced systems are obtained . Besides this using generalized Noethers theorem conservation laws are derived for corresponding fractional system .
+
+@highlight Time fractional variable coefficient coupled Burgers equations for admissible form of variable coefficients under the condition of invariance is investigated.
+@highlight The reduced form of systems is obtained by using symmetries.
+@highlight the exact solutions of the reduced systems are obtained.
+@highlight Using generalized Noethers theorem conservation laws are derived.

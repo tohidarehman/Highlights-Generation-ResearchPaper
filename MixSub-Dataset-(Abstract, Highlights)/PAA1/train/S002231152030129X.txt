@@ -1,0 +1,5 @@
+ of plasma facing components for DEMO divertor unravels new challenges to be met by the in vessel materials . Embrittlement induced by 14MeV neutrons in the baseline first wall material tungsten endangers structural integrity of PFCs . Chromium and or CrW alloy is currently considered as a candidate material in the design of mid heat flux PFCs as structural body of the monoblock . Cr has the superior mechanical properties in the low temperature range where the commercial tungsten products are brittle . However the fabrication of Cr requires high level purity control and is therefore challenging for mass production .
+
+@highlight Vacuum Arc Melter VAM is applied to produce pure Cr and Cr10W solid solution.
+@highlight VAM produced Cr exhibits the transition temperature for ductility being close to room temperature.
+@highlight Solid solution with 10 W significantly increases yield strength and work hardening at elevated temperature.

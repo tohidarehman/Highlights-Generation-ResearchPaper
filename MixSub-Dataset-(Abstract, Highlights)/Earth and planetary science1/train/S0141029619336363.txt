@@ -1,0 +1,8 @@
+ Steel cantilevers are very different from the simply supported beams under uniform bending which provide the basis for designing steel members against lateral buckling . Cantilevers have different end restraint conditions while the most critical loading condition for cantilevers is one of concentrated end load leading to a linear moment distribution . Thus the elastic lateral buckling formulations for uniform bending of simply supported beams used more generally for design are inappropriate for cantilevers .
+
+@highlight Cantilevers are very different from simply supported beams.
+@highlight Cantilevers have different restraints and moment and yielding patterns.
+@highlight Yielding in steel cantilevers varies with moment distribution and residual stresses.
+@highlight Yielding reduces out of plane section rigidities.
+@highlight Lateral buckling resistance is affected by moment distribution and reduced rigidities.
+@highlight Beam buckling design rules are inappropriate for cantilevers.

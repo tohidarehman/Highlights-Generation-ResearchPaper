@@ -1,0 +1,7 @@
+ In this study slow crack growth resistances of defective and normal high density polyethylene pipes were measured using the stiff constant K specimen where the stress intensity factor was maintained at a constant value within a certain crack length range . A significantly reduced SCG resistance was observed in the defective pipe a detailed procedure for evaluating SCG kinetics using the SCK specimen has been provided herein . The results of a fracture surface analysis indicate that the white window patterns resulting from poor carbon black dispersion are the main reason for poor SCG performance . In addition a crack layer model was derived for the SCK specimen geometry and was compared with experimental results . It was observed that the crack and process zone growth resistance parameters were significantly lower in the case of the defected pipe than those in the case of the normal pipe .
+
+@highlight New SCK specimen is used to investigate SCG resistance of a defective PE pipe.
+@highlight The use of SCK specimen enables the reliable SCG characterization statistically.
+@highlight Poor carbon black dispersion might affect the SCG characteristics of a defective PE pipe.
+@highlight Fracture surfaces of a defective PE pipe are investigated by SEM and EDS mapping.
+@highlight Crack layer model was developed newly for SCK specimen geometry.

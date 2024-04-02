@@ -1,0 +1,6 @@
+ When considering the design of electricity intensive industrial processes a challenge is that future electricity prices are highly uncertain . Design decisions made before construction can affect operations decades into the future . We thus explore whether including electricity price uncertainty into the design process affects design decisions .
+
+@highlight Stochastic design and operations of electricity intensive chemical processes.
+@highlight Fuel cell and hydrogen storage provide flexibility for the chlor alkali process.
+@highlight Including electricity price uncertainty improves design decisions.
+@highlight Scenario reduction can introduce structural errors in design decisions.

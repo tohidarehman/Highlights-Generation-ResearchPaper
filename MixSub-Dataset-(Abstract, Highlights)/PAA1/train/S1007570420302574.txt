@@ -1,0 +1,6 @@
+ In this paper periodic orbits in the nonlinear dynamical system with a fixed point vortex in a periodic flow are investigated . Under the influence of periodic perturbations in the phase space an infinite number of nonlinear resonances with elliptic and hyperbolic periodic orbits arise . It is shown that these orbits exist even with completely destroyed resonant islands . In the perturbed system all periodic orbits with periods up to
+
+@highlight Analysis of nonlinear resonances of the KAM and non KAM nature genetic relationship between different orbits.
+@highlight Using the example of a Hamiltonian system with 3 2 degrees of freedom it is shown that all elliptic orbits are destroyed by the universal cascade of period doubling bifurcations.
+@highlight The complex interaction of the hyperbolic orbits of the secondary resonances with the elliptic orbit of the primary resonance is demonstrated.
+@highlight It is shown that other bifurcation scenarios can be common to different orbits in addition to the universal period doubling cascade.

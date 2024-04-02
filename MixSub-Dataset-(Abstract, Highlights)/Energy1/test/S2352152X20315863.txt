@@ -1,0 +1,7 @@
+ Concentrated Solar Power technology captures solar radiation and converts it into heat for electricity production . It has received an increasing attention because integrated thermal energy storage systems can largely enhancing the reliability and the dispatchability . Over the last decade low cost single storage tank based on the thermocline technology becomes an alternative to commonly used two tank TES system . However the improper inlet outlet manifolds may cause the strong mixing of hot and cold fluids and disturb the temperature stratification resulting in reduced thermal performances of the storage tank .
+
+@highlight Optimized flow distribution in a single tank thermocline TES system applied to CSP.
+@highlight Structured inlet outlet manifolds by insertion of optimized perforated baffles.
+@highlight Highest temperature stratification by flat thermal front thermally piston flow .
+@highlight Optimal orifices sizes determined by equalizing passage times of the thermal front.
+@highlight Tail factor proposed to characterize the slope of the outlet HTF temperature curve.

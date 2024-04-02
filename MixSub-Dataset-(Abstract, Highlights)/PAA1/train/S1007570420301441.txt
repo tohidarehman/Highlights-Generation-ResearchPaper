@@ -1,0 +1,6 @@
+ In this study we present a general formulation for the optimal control problem to a class of fuzzy fractional differential systems relating to SIR and SEIR epidemic models . In particular we investigate these epidemic models in the uncertain environment of fuzzy numbers with the rate of change expressed by granular Caputo fuzzy fractional derivatives of order
+
+@highlight Optimal control problem governed by fuzzy fractional differential systems.
+@highlight Granular SIR and SEIR epidemic models are introduced.
+@highlight A Numerical Scheme to Solve Fractional Optimal Control Problems.
+@highlight An application of real data extracted from COVID 19 pandemic.

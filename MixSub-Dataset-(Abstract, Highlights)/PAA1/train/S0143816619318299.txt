@@ -1,0 +1,6 @@
+ This paper presents a method that can determine the optimal exposure time for high quality three dimensional shape measurement with digital fringe projection technique . The proposed method only requires capture fringe image with one exposure time to automatically determine the global optimal exposure time for high quality 3D shape measurement and we further propose to automatically achieve high dynamic range 3D shape measurement by capture image with the optimized global single exposure . Experimental results demonstrated the proposed method can successful work on a static complex scene and can also be applicable for real time applications .
+
+@highlight Developed a rapid auto exposure technique for 3D shape measurement.
+@highlight Expanded the auto exposure technique for high dynamic range HDR .
+@highlight Experimentally demonstrated the success of the proposed method.
+@highlight Proved that the proposed method is applicable for real time 3D shape measurement applications.

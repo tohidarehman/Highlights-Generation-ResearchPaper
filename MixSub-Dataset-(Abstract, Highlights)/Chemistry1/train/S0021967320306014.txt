@@ -1,0 +1,6 @@
+ An overarching theory of chromatography capable of modeling all analyte stationary phase interactions would enable predictive design of pharmaceutically relevant separations . The stochastic theory of chromatography has been postulated as a suitable basis to achieve this goal . Here we implement Dondi and Cavazzini s Monte Carlo framework that utilizes experimentally accessible single molecule kinetics and use it to correlate heterogenous adsorption statistics at the stationary phase to shifts in asymmetry . The contributions can not be captured or modeled through ensemble chemometrics . Simulations reveal that peak asymmetry scales non linearly with longer analyte stationary phase interactions and migrates towards symmetry across the column length even without column overloading .
+
+@highlight The asymmetry factor fails to correlate with mixed mode adsorption and analyte loss.
+@highlight Monte Carlo simulations illustrate when chemometrics correlate to surface chemistry.
+@highlight Stochastic theory simulations provide new ways to design stationary phases.
+@highlight Kinetic tailing reduces analyte recovery when the ratio of desorption times is 100.

@@ -1,0 +1,9 @@
+ We perform the first principles calculation based on density functional theory to study the structural electronic and mechanical properties of two MgSiO
+
+@highlight Discover the transition pressure of monoclinic MgSiO
+@highlight and trigonal MgSiO
+@highlight according to the enthalpy values.
+@highlight For the first time offer a comparison of the band gaps of MgSiO
+@highlight under pressure within GGA PBE and HSE06.
+@highlight Carry out a study under higher pressure up to 150 GPa for trigonal MgSiO
+@highlight and 100 GPa for monoclinic MgSiO

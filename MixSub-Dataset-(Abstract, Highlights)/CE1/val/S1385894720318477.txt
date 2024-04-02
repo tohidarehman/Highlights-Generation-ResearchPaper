@@ -1,0 +1,7 @@
+ Rural and isolated communities of low income countries suffer the lack of access to safe drinking water . Harvested rainwater is becoming an alternative source of freshwater in many areas of the world . Nevertheless its quality usually doesnt meet drinking water standards posing a health risk for human consumption . Solar water disinfection SODIS is a low cost household intervention used to disinfect water . In this work we investigate a new solar photoreactor based on V trough mirrors as alternative to the most used Compound Parabolic Collector geometry at pilot scale with the aim of reducing costs and reactor surfaces footprint . An experimental assessment of two key parameters as water recirculation and mirror geometry was carried out . For this study several water pathogens commonly found in HRW were used
+
+@highlight A new mirror configuration design V trough was tested and set against common CPC.
+@highlight V trough reactor is better suited to solar inactivation than CPC reactor.
+@highlight An increment of treated water over 100 L per day was accomplished.
+@highlight Four bacteria commonly found in HRW were photo inactivated simultaneously.
+@highlight Solar resistance decreased as

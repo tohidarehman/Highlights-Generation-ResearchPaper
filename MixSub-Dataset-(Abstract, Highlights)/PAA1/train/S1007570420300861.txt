@@ -1,0 +1,6 @@
+ This paper proposes the concept of Razumikhin type functional differential inequalities and points out that certain quantitative properties can be established for the Razumikhin type functional differential inequalities . By virtue of certain auxiliary functions some fundamental results on the quantitative bounds for the Razumikhin type functional differential inequalities are systemically established in the paper and these bounds are applied to deduce the basic Razumikhin type stability theorems including those for It
+
+@highlight Explicitly propose the concept of Razumikhin type functional differential inequalities RFDIs for the first time.
+@highlight Propose a more relaxed condition for studying quantitative bounds for the RFDIs.
+@highlight Establish general and uniform bounds for general Razumikhin type differential inequalities.
+@highlight Present new more direct approach to deduce some basic Razumikhin type stability results than the classical ones.

@@ -1,0 +1,7 @@
+ We develop game theoretic models to examine the manufacturers vertical integration strategies in a three tier supply chain with two suppliers one manufacturer and two retailers . The supply chain sells two quality differentiated products . We find that when quality is exogenous regardless of the existing supply chain structure the manufacturers choice of forward or backward integration strategy depends on the relative efficiencies of two products . When quality is endogenous however the existing supply chain structure does affect the manufacturers integration strategy decision . Although backward integration hurts the unintegrated supplier forward integration can lead to a win win outcome for the manufacturer and unintegrated retailer .
+
+@highlight We consider a three tier supply chain selling two quality differentiated products 
+@highlight The supply chain consists of a manufacturer two retailers and two suppliers.
+@highlight The manufacturers either forward or backward integration strategy is examined 
+@highlight Endogenous quality positioning changes the manufacturers integration strategy 
+@highlight We discuss effects of up down stream supply chain structure on integration strategy.

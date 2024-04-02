@@ -1,0 +1,6 @@
+ The area based heterogeneous traffic has significant differences from the lane based homogeneous traffic . In area based traffic drivers generally ignore the lane markings and perceive the entire road space while progressing longitudinally . The traditional car following and lane changing models are not directly applicable to model such driving behaviour .
+
+@highlight A novel microscopic modelling framework for area based non lane based heterogeneous traffic flow.
+@highlight MNL model for the area selection of the vehicle movement.
+@highlight Modified IDM model for the movement of the vehicle.
+@highlight Model is throughly tested and applied on real trajectory data from India.

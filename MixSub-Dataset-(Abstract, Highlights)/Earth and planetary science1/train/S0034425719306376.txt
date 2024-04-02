@@ -1,0 +1,5 @@
+ Antarctic pack ice seals a group of four species of true seals play a pivotal role in the Southern Ocean foodweb as wide ranging predators of Antarctic krill
+
+@highlight First automated system for surveying seals using satellite imagery
+@highlight Finds 30 of seals while only generating less than 2 false positives per correct detection
+@highlight Over 10 faster than an experienced human observer using a single GPU

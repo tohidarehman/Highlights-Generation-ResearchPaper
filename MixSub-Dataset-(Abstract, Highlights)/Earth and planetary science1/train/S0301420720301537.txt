@@ -1,0 +1,7 @@
+ A combination of open pit and underground mining methods may be applied for extraction of large scale orebodies . Although the optimization of production scheduling of each of these methods has been addressed separately the simultaneous optimization of the whole mining operations has less been studied . However such overall optimization strategy may enhance the net present value
+
+@highlight The transition problem is the case of many large scale open pit mines in which a considerable amount of mineral reserves remain beneath the pit bottom.
+@highlight An innovative view toward the long term production scheduling of block caving mines was introduced and applied to solve the transition problem between Open pit OP and block caving BC mining methods.
+@highlight A reverse format of the OP optimization model was skillfully adapted for optimization of the BC portion.
+@highlight The more accurate definition of transition zone was presented for the first time.
+@highlight The transition capability TC was introduced as a new extra criterion for making the best transition decisions.

@@ -1,0 +1,7 @@
+ Isomers derived from natural products are promising candidates for drug discovery . However characterization of isomers by mass spectrometry especially stereoisomers and positional isomers remains a large challenge due to insufficient reference standards and isomers highly similar fragmentation pathways or nondistinctive ion abundances . Herein this report presents the first proposal of a method combining multiple diagnostic ion neutral loss postanalysis and especially untargeted fingerprint analysis of all fragment ions by means of a home made program and chemometrics to profile chemical components and recognize their isomers derived from medicinal plants . As a proof of concept the chemical profiling of phenylethanoid glycosides and their isomers which showed remarkable neuroprotective anti inflammatory and immunomodulatory effects was performed . Using DINL to extract PhGs and FAAFI to distinguish their stereoisomers and positional isomers as many as 87 PhGs including 14 isomers were tentatively identified from
+
+@highlight A new strategy was developed to screen metabolites and discriminate isomers.
+@highlight Phenylethanoid glycosides and their isomers from
+@highlight were elucidated.
+@highlight Fingerprint analysis coupled chemometrics was used for isomers discrimination.
+@highlight 101 compounds including 14 isomers were identified or putatively characterized.

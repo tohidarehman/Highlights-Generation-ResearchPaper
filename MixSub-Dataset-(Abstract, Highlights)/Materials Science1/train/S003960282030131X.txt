@@ -1,0 +1,5 @@
+ The electron relating energy transfer on the interface between a gas and metal and its contribution to the energy accommodation coefficient is discussed . The semi empirical approach is utilized to highlight effects that are responsible for the EAC . The Coulomb blockage of a free electron motion due to the particle charging by the thermionic emission is suggested as a mechanism which leads to the EAC drop at high temperatures . The numerical estimate shows that the EAC decrease by a couple of orders of magnitude is possible .
+
+@highlight Electron relating contribution to heat transfer on interface
+@highlight Coulomb blockage of free motion of electrons
+@highlight Decrease of energy accommodation coefficient at high temperatures

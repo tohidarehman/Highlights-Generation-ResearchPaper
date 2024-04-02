@@ -1,0 +1,8 @@
+ High utility itemsets are sets of items that have a high utility in a transaction database . Discovering high utility itemsets has many important applications in real life such as market basket analysis . Nonetheless mining these patterns is a time consuming process due to the huge search space and the high cost of utility computation . Most of previous work is devoted to search space pruning but pay little attention to utility computation . Factually not only search space pruning but also high utility itemset identification have to resort to the computation of various utilities . This paper proposes a novel algorithm named REX which extends the classic d
+
+@highlight An extended structure can reduce the time complexity of utility computation compared with d
+@highlight HUP.
+@highlight A k item utility machine can quickly identify high utility itemsets from the extension set of an itemset.
+@highlight A switch strategy is superior to the strategy used in the d
+@highlight HUP algorithm.
+@highlight The Rex algorithm incorporating the proposed structure machine and strategy significantly outperforms state of the art algorithms.

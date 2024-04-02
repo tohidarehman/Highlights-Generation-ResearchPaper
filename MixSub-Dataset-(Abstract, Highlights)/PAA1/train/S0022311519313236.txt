@@ -1,0 +1,5 @@
+ Fracture toughness is one important mechanical property of reduced activation ferritic martensitic steels which are primary candidate structural materials applied to fusion reactors . Temperature effect on fracture toughness of the Chinese low activation ferritic martensitic steel was investigated in the range of 25550C with miniature three point bend specimens using the digital image correlation method to measure load line displacement . Results show that the fracture toughness J
+
+@highlight The fracture toughness J0.2 B of CLF 1 steel decreases from 25C to 450C and increases from 450C to 550C.
+@highlight The load line displacement of miniature 3PB specimens was measured by a 3D DIC method.
+@highlight Few typical dimples observed at 450C indicated quasi cleavage like features.

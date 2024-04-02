@@ -1,0 +1,7 @@
+ The purpose of this study is to prepare an environmentally friendly composite dust suppressant that can be used to wet the dust deposited in underground mine roadways where it can effectively prevent the occurrence of dust . The dust suppressant is prepared by using starch as the raw material and methyl methacrylate and acrylamide as monomers followed by mixing with a surfactant . FTIR XRD and SEM are employed to compare the changes in the functional groups crystal structure and microstructure of starch and the dust suppressant . Through the experimental effect of suppressant on dust the effect and mechanism of the dust suppressant are determined . Through a wind resistance experiment and coagulum pressure testing it is concluded that the dust suppressant has very good wind resistance and hardness . Finally the structure and binding relationships between coal molecules water molecules the dust suppressant and the surfactant are verified by molecular dynamics simulations .
+
+@highlight Dust control in underground mine roadways.
+@highlight Starch is grafted with methyl methacrylate and acrylamide.
+@highlight Contact mode and contact mechanism between dust suppressor and dust layer.
+@highlight Molecular dynamics simulation verified the relationship between pulverized coal water dust suppressor and surfactant.
+@highlight Method for combination of dust suppressor and coal is discussed from the viewpoint of molecular structure force.

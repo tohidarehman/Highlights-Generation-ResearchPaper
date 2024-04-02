@@ -1,0 +1,6 @@
+ Headed studs are key components of structures which facilitate composite behavior between steel and concrete elements . In steel building structures reinforced concrete infill walls surrounded by a stiff steel frame is a common example of a composite structure used to resist horizontal loads such as those produced by earthquakes or wind . To this end these types of concrete walls need to be anchored to the steel frame with headed studs which must withstand shear and tensile forces . To properly design headed stud anchors in concrete walls it is first necessary to understand their behavior when subjected to monotonic shear forces considering edge conditions and reinforcing details that may influence the stud strength .
+
+@highlight New test on headed steel anchors in reinforced concrete walls is presented.
+@highlight 17 tests on headed studs with group effects and edge conditions on SFRCIW.
+@highlight Monotonic shear strength of slender headed steel anchors in SFRCIW is provided.
+@highlight EC 4 AISC360 and ACI318 provisions are compared with the test results.

@@ -1,0 +1,7 @@
+ The drift and noise of acetonitrile water gradient baselines in reversed phase liquid chromatography are recorded at a wavelength of 215 nm using 0.1 trifluoroacetic acid as the mobile phase additive a 4.6 mm 150 mm 5
+
+@highlight Drift and noise of RPLC gradient baselines using eluent additive are recorded.
+@highlight They are predicted by solving mass balances of the strong solvent and additive.
+@highlight Drift reduced by proper pick of wavelength gradient steepness and additive retention.
+@highlight Noise reduced by reducing pump stroke volume and increasing flow rate.
+@highlight Open roads toward development of next generation pumps and mixers.

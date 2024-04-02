@@ -1,0 +1,7 @@
+ The present study is concerned with the seismic analysis and design of light frame timber shear walls with focus on the energy dissipation ensured by sheathing to framing connections under in plane lateral loads . In this perspective a suitable parametric finite element model for light frame timber shear walls is first developed using the software OpenSees . By means of such model the equivalent viscous damping of the wall is assessed numerically together with the damping factor adopted within the capacity spectrum method . Furthermore the optimal layouts of slender 1.2m
+
+@highlight Dissipation under seismic loads of light frame timber shear walls is investigated.
+@highlight An original parametric finite element model of the wall is developed in OpenSees.
+@highlight Equivalent viscous damping and damping factor are assessed numerically.
+@highlight Racking capacity and cost are optimized through a multi objective design problem.
+@highlight The backbone curve is predicted analytically by way of a new simplified procedure.

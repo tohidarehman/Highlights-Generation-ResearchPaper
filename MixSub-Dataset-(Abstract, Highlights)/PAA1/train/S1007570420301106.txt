@@ -1,0 +1,5 @@
+ The dimensional incompressible and barotropic magnetohydrodynamic flow is studied combined with qualitative and quantitative analysis . The conservation of the energy of this system and the global existence of the solution
+
+@highlight The qualitative and quantitative analysis of MHD equations that possessing strong physical background is presented.
+@highlight The global existence of the solution Lie symmetry analysis and the conservation law of MHD equations are obtained.
+@highlight The study provides a macroscopic grasp as well as specific analysis of the form and behavior of the nonlinear MHD system.

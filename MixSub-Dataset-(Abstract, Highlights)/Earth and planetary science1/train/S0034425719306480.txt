@@ -1,0 +1,7 @@
+ The Landsat program since its commencement in 1972 has acquired millions of images of our planet . Those images are one of the most valuable Earth Observation resources for local regional and global land surface monitoring and study due to their moderate spatial resolution and rich spectral information . However their applications are impeded largely by their relatively low revisit frequency and cloud contamination on images . In order to improve their usability a number of studies have been conducted to blend Landsat images with Moderate Resolution Imaging Spectroradiometer images to take merits of the two sensors . All blending models reported that they can predict synthetic Landsat images with various degrees of accuracy . However only a couple of models reported that they can explicitly estimate uncertainty for their blended images .
+
+@highlight An image fusion model based on a Kalman Filter algorithm KFRFM is developed.
+@highlight KFRFM can incorporate data uncertainty for image fusion and uncertainty estimate.
+@highlight KFRFM can smooth its predicted images according to their uncertainty estimate.
+@highlight KFRFM can predict synthetic images with high quality and uncertainty estimate.
+@highlight Time series synthetic images from KFRFM can fill temporal gap of earth observations.

@@ -1,0 +1,6 @@
+ We consider a combined fleet deployment and inventory management problem in Roll on Roll off shipping . Along given trade routes there are ports with inventories that should be kept within their limits . Current planning practice is to visit all ports every time a trade route is serviced . We instead aim at determining the sailing routes of each voyage along the trade route where some ports can be skipped on certain voyages . A novel mixed integer programming model is proposed and tested on realistic instances . The results indicate that substantial gains can be achieved from this more flexible way of planning .
+
+@highlight A new combined fleet deployment and inventory management problem in Ro Ro shipping.
+@highlight A novel MIP model for this problem.
+@highlight Solve realistic but partly randomly generate test instances.
+@highlight Substantial savings can be achieved.

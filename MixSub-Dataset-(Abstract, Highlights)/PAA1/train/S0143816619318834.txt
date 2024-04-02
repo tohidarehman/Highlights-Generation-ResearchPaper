@@ -1,0 +1,7 @@
+ Because light field and polarization information contain much information of scenes light field and polarization imaging systems can be used e.g . for target detection material classification and biological analysis . However most conventional systems rely on scanning or camera arrays which tend to make the system both bulky and unstable . Here we investigate a novel approach snapshot polarimetricvolumetric imaging which introduces micro polarization elements into the paradigmatic focused light field imaging system . SPVI can simultaneously capture and reconstruct the light field and polarization information of a scene using a single detector . The validity and accuracy of SPVI are determined via Stoke parameter measurements and depth measurements . Compared to conventional polarimetric light field imagers SPVI excels with respect to compactness robustness and low cost . Moreover this tool might enable new possibilities for polarimetric 3D analysis .
+
+@highlight SPVI can simultaneously capture and reconstruct the light field and polarization information of a scene using a single detector.
+@highlight To highlight the SPVI s single shot multi dimensional imaging capability we visualized two dynamic scenes.
+@highlight The RMS errors between the measured data and the theoretical values are 0.0239 0.0198 and 0.0113 for the normalized Stokes parameters
+@highlight  respectively.
+@highlight The RMS error between the measured depth and the theoretical values was found to be 8.6mm.

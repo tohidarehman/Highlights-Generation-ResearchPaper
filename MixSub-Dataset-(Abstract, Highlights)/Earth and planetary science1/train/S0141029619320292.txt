@@ -1,0 +1,6 @@
+ Several engineering structures used in civil aeronautical and mainly naval and offshore industries consist of steel stiffened panels formed by beams welded into thin plates . These beams are called stiffeners being arranged longitudinally and or transversely aiming to increase the mechanical strength of the plate . So it is desirable to obtain an optimal geometric configuration for these structures which maximizes its ultimate buckling stress . In this context it has been used the Constructal Design Method associated with the Exhaustive Search technique and the Finite Element Method in a geometric optimization study of plates with stiffeners subjected to elasto plastic buckling . Initially it was adopted a simply supported thin plate without stiffeners using its ultimate buckling stress as a reference value for the study . After that part of its volume has been transformed into stiffeners which were incorporated into the plate . For this the volume fraction
+
+@highlight Optimized stiffened plate is 88.50 more resistant to buckling than reference plate.
+@highlight Constructal Design is effective to improve the stiffened plate s mechanical behavior.
+@highlight The best geometry has more plate regions submitted to material yield stress.
+@highlight The Constructal principle of optimal distribution of imperfections has been verified.

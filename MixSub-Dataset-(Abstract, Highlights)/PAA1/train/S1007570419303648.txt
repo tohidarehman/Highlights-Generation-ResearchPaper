@@ -1,0 +1,6 @@
+ We investigate the effects of spin orbit coupling and Zeeman splitting on the coupled density spin dynamics and collapse of the BoseEinstein condensate driven by the quintic self attraction in the same and cross spin channels . The characteristic feature of the collapse is the decrease in the width as given by the participation ratio of the density rather than by the expectation values of the coordinate . Qualitative arguments and numerical simulations reveal the existence of a critical spin orbit coupling strength which either prohibits or leads to the collapse and its dependence on other parameters such as the condensates norm spin dependent nonlinear coupling and the Zeeman splitting . The entire nonlinear dynamics critically depends on the initial spin sate .
+
+@highlight The collapse of BEC is characterized by the participation ratio of density.
+@highlight Effects of the SOC and ZS depend on the form of the quintic nonlinearity.
+@highlight 1D collapse is controlled by the interplay of self attraction and splitting.
+@highlight The initial spin state critically influences the collapse dynamics.

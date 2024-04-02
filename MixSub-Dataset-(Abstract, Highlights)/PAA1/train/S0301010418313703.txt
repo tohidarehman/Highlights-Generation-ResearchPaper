@@ -1,0 +1,7 @@
+ The modified fundamental measure theory is employed to investigate the effects of wall curvature and wall fluid interactions on the structure tangential and normal pressure of fluids confined in bispherical nanopores . Results show that the values for density and tangential pressure at the concave wall of hard bispherical pores are larger than those at the convex wall . Opposite results are obtained when a strong attraction potential is applied to the convex wall while the concave wall is a hard one . It is possible to get symmetrical profiles of density and tangential pressures with respect to two walls of a pore by varying the curvature and wall fluid interactions . Although these two factors drastically affect the local density pressures and their average values the behavior of the average values of their thermodynamic properties does not depend on them . This indicates that certain well established bulk regularities are valid for fluids confined in bispherical pores .
+
+@highlight Local pressure components in bispherical pores have been obtained via MFMT.
+@highlight Tangential pressure at hard convex wall will be less than that at hard concave wall.
+@highlight Strong attraction of convex wall can change the behavior which dictated by curvature.
+@highlight Confined fluid in bispherical pores shows some well established bulk regularities.
+@highlight These regularities remain valid for different curvatures and wall fluid interactions.

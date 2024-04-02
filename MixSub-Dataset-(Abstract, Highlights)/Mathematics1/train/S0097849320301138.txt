@@ -1,0 +1,7 @@
+ This paper presents the methods that have participated in the SHREC20 contest on retrieval of surface patches with similar geometric reliefs and the analysis of their performance over the benchmark created for this challenge . The goal of the context is to verify the possibility of retrieving 3D models only based on the reliefs that are present on their surface and to compare methods that are suitable for this task . This problem is related to many real world applications such as the classification of cultural heritage goods or the analysis of different materials . To address this challenge it is necessary to characterize the local geometric pattern information possibly forgetting model size and bending . Seven groups participated in this contest and twenty runs were submitted for evaluation . The performances of the methods reveal that good results are achieved with a number of techniques that use different approaches .
+
+@highlight 3D models are retrieved with respect to the reliefs impressed on their surface.
+@highlight A new benchmark of 3D models with geometric reliefs derived from 11 real textures.
+@highlight Analysis of the retrieval performance of methods that participated to SHREC2020.
+@highlight An extensive comparison of eight methods and twenty runs.
+@highlight These methods are based on features or transfer learning.

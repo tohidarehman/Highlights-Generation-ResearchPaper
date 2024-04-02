@@ -1,0 +1,7 @@
+ Modern central heating systems with logwood boilers are comprised of the boiler a buffer storage and solar thermal collectors . Conventional control strategies for these heating systems do not coordinate the utilization of all components . This can lead to a sub optimal operation of the entire heating system resulting in a loss of efficiency and increased pollutant emissions . This contribution presents a control strategy which considers all components of the heating system including the user and forecasts for the solar yield and heat demand . It determines and carries out an optimal operating strategy that improves the user utility and maximizes the heating system efficiency while also ensuring a clean and efficient combustion . The control strategy continuously learns the user behavior and instructs the user when to refill the logwood boiler and how much fuel to use . The new control strategy was verified through test runs performed at an experimental setup consisting of a commercially available logwood boiler with a nominal capacity of
+
+@highlight Verified control strategy for logwood boiler solar collector and buffer storage.
+@highlight Control doesn t require physical changes of the plant.
+@highlight Supervisory control learns user behaviour adapts to different fuel properties.
+@highlight Overall efficiency is increased less fuel consumed pollutant emissions reduced.
+@highlight User utility is improved in terms of heat supplied and operational effort.

@@ -1,0 +1,6 @@
+ Nonlocal reactiondiffusion model is an important area to study the dynamics of the individuals which compete for resources . In this paper we consider a predatorprey model with herd behavior and nonlocal prey competition . We investigate the effects of nonlocal competition on dynamics of the system in the bounded region when the kernel function takes
+
+@highlight The dynamics of the nonlocal predatorprey system is studied.
+@highlight The conditions for Hopf and Turing bifurcations are derived.
+@highlight Effect of the nonlocal competition term on the stability is analytically investigated.
+@highlight Effect of the kernel function on the stability is numerically investigated.

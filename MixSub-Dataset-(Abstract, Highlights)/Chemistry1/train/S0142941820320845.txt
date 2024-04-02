@@ -1,0 +1,7 @@
+ Embelin is a natural agent with antimicrobial antifungal and analgesic activities . This work presents a mechanistic model for the release of embelin from a polycaprolactone matrix . Based on the results of embelin release experiments and Raman microscopy measurements the model assumes a dual dispersion of the embelin agglomerated and dispersed . Embelin release mechanism combines the effects of the liquid migration into the matrix the drug diffusion and the drug dissolution within the wetted matrix . The model is formulated in terms of four partial differential equations that account for the mass balances of dispersed agglomerated and dissolved embelin and aqueous solution . Model predictions show that the release mechanism involves three stages a burst stage in which dispersed embelin is rapidly released a transition stage in which dispersed and agglomerated embelin are simultaneously released and once the dispersed embelin depletion a stable release stage until the agglomerated embelin exhausts .
+
+@highlight Embelin is released after being dissolved by the solution entering the sample.
+@highlight The solution diffusion coefficient is the critical parameter for the model tuning.
+@highlight Disperse embelin is liberated during the rapid initial release stage.
+@highlight Superficial agglomerated embelin is liberated during the long lasting stable stage.
+@highlight Raman microscopy validates the model set up and results.

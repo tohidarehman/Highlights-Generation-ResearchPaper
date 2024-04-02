@@ -1,0 +1,7 @@
+ There is considerable variation in the average cost of operations across urban rail transport systems . Since metros are typically owned and operated by public authorities there is a public interest case in understanding the key drivers of their operational costs . This paper estimates short run cost functions for metro operations using a unique panel dataset from twenty four metro systems around the world . We use a flexible translog specification and apply dynamic panel generalised method of moments estimation to control for confounding from observed and unobserved characteristics of metro operations . Our empirical results show that metro systems with a high density of usage are the most cost efficient . We also find that operational costs fall as metro size increases . These results have important implications for the economic appraisal of metro systems .
+
+@highlight Estimated a short run cost function for urban rail transport i.e. metro operations
+@highlight Used a unique panel dataset of 24 metro operations from across the globe.
+@highlight Addressed various endogeneity challenges in such empirical analysis.
+@highlight Found metro systems with high density of usage to be the most cost efficient.
+@highlight Provided new insights into existence of economies of scale in metro operations.

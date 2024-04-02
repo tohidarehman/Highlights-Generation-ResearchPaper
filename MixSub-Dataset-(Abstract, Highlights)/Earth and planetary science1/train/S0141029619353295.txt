@@ -1,0 +1,5 @@
+ This study experimentally investigates punching shear capacities of composite slab column connections consisting of reinforced concrete flat slab and concrete filled steel tube column . A total of six specimens were tested under monotonically increased load . Two specimens designed with RC slab and RC column were used as the bases for comparison . The rest of the specimens featured composite slab column connections and designed with different detailing around the column for shear enhancement . Test results showed that composite slab column connections with the same critical section perimeters as those of the conventional RC slab column connections exhibited comparable punching shear strengths and failure modes . Shear enhancement around the CFT column had effectively shifted the failure plane away from the column and hence increased the punching shear capacity of the connection .
+
+@highlight RC and composite slab column connections had comparable punching shear strengths.
+@highlight Shear enhancement schemes investigated in this research were effective.
+@highlight Punching strength per ACI 318 19 is applicable to composite slab column connection.

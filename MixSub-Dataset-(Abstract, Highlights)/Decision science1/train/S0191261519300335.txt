@@ -1,0 +1,6 @@
+ Transit systems are designed in which access and egress can occur via a shared bike service . Patrons may walk to shared bike docking stations nearest their origins and then cycle to their nearest transit stations where they deposit the bikes . The travel pattern is reversed when patrons cycle from their final transit stations on to their destinations . Patrons choose between this option and that of solely walking to or from transit stations . Shared bikes are priced to achieve the system optimal assignment of the two feeder options .
+
+@highlight Formulated parsimonious continuous model for optimizing the design of hybrid transit networks fed by shared bikes.
+@highlight Significant cost savings were found in some cases over transit networks accessed on foot only and those accessed by feeder buses.
+@highlight Jointly optimized transit and shared bike systems can reduce costs for both patrons and the transit agency.
+@highlight Revenue accrued from system optimal pricing for shared bikes can often cover their cost with or without subsidy.

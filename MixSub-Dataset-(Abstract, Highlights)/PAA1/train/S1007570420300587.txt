@@ -1,0 +1,7 @@
+ There are several theoretically well posed models for the AllenCahn equation under mass conservation . The conservative property is a gift from the additional nonlocal term playing a role of a Lagrange multiplier . However the same term destroys the boundedness property that the original AllenCahn equation presents The solution is bounded by 1 with an initial datum bounded by 1 . In this paper we propose a novel mass conserving AllenCahn equation and prove the existence and uniqueness of a classical solution in the context of the theory of analytic semigroups as well as the boundedness property of the solution . From the numerical point of view we investigate a linear unconditionally energy stable splitting scheme of the proposed model for the boundedness of numerical solutions . Various numerical experiments are presented to demonstrate the validity of the proposed method and to make distinctions from a few closely related methods .
+
+@highlight A novel mass conserving Allen Cahn equation with a periodic boundary condition is proposed and analyzed.
+@highlight We prove the existence and uniqueness of a solution for the proposed mass conserving equation.
+@highlight The proposed equation confirms the boundedness of solutions as well.
+@highlight Various numerical experiments are presented to demonstrate the validity of the proposed method.
+@highlight Comparison experiments make clear distinctions from a few closely related methods.

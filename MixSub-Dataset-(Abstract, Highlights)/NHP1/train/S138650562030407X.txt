@@ -1,0 +1,6 @@
+ In the last years multidisciplinary post discharge treatment programs such as telemonitoring have been promoted as a strategy for Heart Failure management . However the distinctive requirements that a telemonitoring system should have have not been clearly identified . To this aim the most relevant requirements for telemonitoring of HF patients are derived from evidence based Clinical Practice Guidelines for HF management . The main objective of this work is to present a prototype of a telemonitoring system for HF patients named SiTe iC that has been developed based on the identified requirements highlighting its design and evaluation .
+
+@highlight A telemonitoring system SiTe iC based on Clinical Practice Guidelines for Heart Failure management.
+@highlight The SiTe iC system is efficient to follow up heart failure patients.
+@highlight The SiTe iC system improves self care patients.
+@highlight The SiTe iC system has the potential to prevent rehospitalizations.

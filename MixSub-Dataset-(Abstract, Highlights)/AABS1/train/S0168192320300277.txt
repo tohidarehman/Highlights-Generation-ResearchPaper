@@ -1,0 +1,5 @@
+ Climate change is predicted to affect tree growth due to increased frequency and intensity of extreme events such as ice storms droughts and heatwaves . Yet there is still a lot of uncertainty on how trees respond to an increase in frequency of extreme events . Use of both ground based wood increment and remotely sensed data can be used to scale up ground measurements where there is a link between the two but this has only been demonstrated in a few studies . We used tree ring data together with crown features derived from the Moderate Resolution Imaging Spectroradiometer to assess the effect of extreme climate events on the growth of beech
+
+@highlight RWI is negatively impacted by drought and high temperatures.
+@highlight EVI data can only capture drought heat stress when physical canopy damage is caused.
+@highlight EVI based trend analysis has the potential to assess areas suitable for beech.

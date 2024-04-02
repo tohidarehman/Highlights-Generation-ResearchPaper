@@ -1,0 +1,7 @@
+ Sensitive methods are required for in situ monitoring of volatile organic compounds . Herein carbon nanotube sponges were investigated as a new type of adsorbent for enriching trace aromatic VOCs . A square pillar configuration of a CNT sponge was enclosed in a glass tube . After accumulating the sample vapor a direct current pulse through the CNT sponge allowed narrow desorption bandwidths of 0.480.84s and 1.2s and high desorption efficiency . Gas chromatographic analysis of a nine component VOC mixture gave enrichment factors of 88 to 323 toluene and
+
+@highlight A porous carbon nanotube sponge was developed as a preconcentrator.
+@highlight The sponge showed a high adsorption capacity and rapid thermal desorption.
+@highlight Good enrichment enabled trace detection ppb of aromatic volatile organic compounds.
+@highlight Breakthrough curves for multicomponent mixtures showed displacement effects.
+@highlight Adsorption kinetic and isotherm models were fitted to the experimental data.

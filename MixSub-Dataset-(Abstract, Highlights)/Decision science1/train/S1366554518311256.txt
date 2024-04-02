@@ -1,0 +1,7 @@
+ Navigation via the Northern Sea Route requires specific vessels in comparison with the Suez Canal Route . We develop a profit decision model that defines the best option mixing the shipping lane and the ice class of the vessel for oil producers operating in the Russian Arctic zone . The effects of the Brent barrel price bunker cost and ice thickness are analyzed . The best option depends in fact on the strategy implemented by the shipper . For instance the solutions of a profit focused strategy or of a cost oriented strategy are different
+
+@highlight Sailing though the NSR versus the SCR saves distance but not always time.
+@highlight OW 1A and 1AS ice class vessels do not have the same level of revenue.
+@highlight Ice thickness impacts directly the navigability of the NSR.
+@highlight Brent value and bunker cost impact the choice of the vessel.
+@highlight The best option depends on the strategy based on climate and economic factors.

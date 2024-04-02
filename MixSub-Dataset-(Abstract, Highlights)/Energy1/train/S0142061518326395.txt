@@ -1,0 +1,5 @@
+ This papers deal with a new Adaptive Direct Power Control for Doubly Fed Induction Generator of 1.5MW . The main feature of the proposed strategy is based on the replacement of the fixed switching table by an adaptive one . The online update of the adaptive switching table depends on the reactive power variation and past switching sequences . The proposed adaptive direct power control is compared with Vector Control and Classical Direct Power Control . The robustness of the proposed control scheme against parameter load and wind speed variations have done with success . The main performance of the Adaptive Direct Power Control strategy is the reduction of powers ripples thus reduce of torque ripple on the shaft of the turbine .
+
+@highlight A new Adaptive Direct Power Control for DFIG of 1.5MW.
+@highlight The transient responses and steady state are insensitive to uncertainty parametric variation of the DFIG.
+@highlight Different methods of DPC have been studied and realized.

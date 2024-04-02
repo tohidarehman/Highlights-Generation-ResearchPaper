@@ -1,0 +1,6 @@
+ The presence of the oxide coatings on conducting metal particles is often ignored in the calculations of microwave absorption . However we find that the optical properties of the coatings play a significant role in enhancing or suppressing the absorption of electromagnetic energy . Here we solve the Mie scattering equations numerically to separate and quantify the role of electric and magnetic field absorption from microwaves at 2.45GHz by small metal spheres coated with dielectric or semi conducting materials . The range of size and conductivities of the metal particles and the optical properties of the coatings are chosen for their practical importance . We also provide simple approximate expressions for the absorption per unit volume by coated spheres in the small particle limit which agrees very well with the exact Mie solution . We have demonstrated that for highly conducting particles coated with a material of low conductivity the electric field absorption depends
+
+@highlight High loss coatings significantly enhance microwave absorption in metal particles.
+@highlight Only a very thin layer of coating is required to maximize absorption.
+@highlight Coatings are dominant absorbers of the electric field.
+@highlight Magnetic field absorption depends only on the properties of the core.

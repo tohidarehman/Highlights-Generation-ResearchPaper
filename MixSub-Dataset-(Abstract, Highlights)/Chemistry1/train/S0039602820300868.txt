@@ -1,0 +1,5 @@
+ In the nonrelativistic approximation of fluctuation electrodynamics using the specular reflection model and the nonlocal dielectric permittivity of a metal we obtained simple analytical expressions for the friction forces in the particle plate and plate plate systems upon relative motion of the bodies with constant velocity . It is shown that at separations of about 110
+
+@highlight Van der waals friction and quantum friction in particle plate and plate plate configurations with normal metals are enhanced by 2 to 4 orders of magnitude due to spatial dispersion effects at separations of 110nm.
+@highlight Using analytical nonlocal dielectric permittivity of metals enables obtaining simple formulas for van der waals friction forces and quantum friction forces.
+@highlight Within nonretarded approximation the formulas for van der waals and quantum friction forces formally coincide with the formulas in local approximation except the form of the surface response function.

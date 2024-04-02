@@ -1,0 +1,6 @@
+ Optical modeling of aluminum back surface field and passivated emitter and rear contact silicon wafer solar cells are extended into the infrared wavelength range . The model incorporates ray tracing to account for pyramidal texture of the front silicon surface free carrier absorption in the front emitter bulk silicon wafer BSF and Lambertian scattering at the silicon back contact . Total reflectance of pyramidal textured cells with different contact geometries with and without encapsulation are simulated . Simulated reflectance and short circuit current density match well with experimental values . These physics based optical models serve as input for evaluating optical and thermal management strategies for silicon wafer solar cells .
+
+@highlight Optical model from 300 to 2500nm wavelengths developed for PERC Si PV.
+@highlight Simulation combines ray tracing coherent reflections and Lambertian scattering.
+@highlight Simulated total reflectance and QE matches experiment for PERC and Al BSF Si PV.
+@highlight Infrared extended model can be used to develop thermal management strategies.

@@ -1,0 +1,8 @@
+ The punching strength of flat slabs and footings without and with high amounts of shear reinforcement on the level of maximum punching shear capacity has been investigated extensively by various researchers over the last decades . The existing investigations suggest that the punching strength of RC slabs with shear reinforcement can be described by means of a contribution of concrete and a contribution of the shear reinforcement . However a systematic evaluation of concrete and steel contribution depending on the amount of shear reinforcement has not yet been adequately possible since only few test series with low and medium amounts of shear reinforcement and a failure within the shear reinforced zone have been available .
+
+@highlight Evaluation of systematic punching tests on shear reinforced flat slabs with closed stirrups.
+@highlight Constant concrete contribution independent of the shear reinforcement ratio according to EC2.
+@highlight Presentation of two methods to determine the shear reinforcement contribution in flat slabs.
+@highlight Evaluation of experimental results reveals a high degree of activation of the shear reinforcement.
+@highlight Continuous decrease of concrete contribution with increasing shear reinforcement ratios.
+@highlight Suggestion of a design approach based on a suspension strut and tie model.

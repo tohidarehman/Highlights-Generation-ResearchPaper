@@ -1,0 +1,7 @@
+ Estimating correspondence between two shapes continues to be a challenging problem in geometry processing . Most current methods assume deformation to be near isometric however this is often not the case . For this paper a collection of shapes of different animals has been curated where parts of the animals correspond yet are naturally non isometric . Ground truth correspondences were established by asking three specialists to independently label corresponding points on each of the models with respect to a previously labelled reference model . We employ an algorithmic strategy to select a single point for each correspondence that is representative of the proposed labels . A novel technique that characterises the sparsity and distribution of correspondences is employed to measure the performance of ten shape correspondence methods .
+
+@highlight A dataset of four legged animals exhibiting non isometric deformation is described.
+@highlight Sparse ground truths are established with the assistance of three specialists.
+@highlight A novel measure of coverage provides a new tool for determining method performance.
+@highlight Ten methods are evaluated using the benchmark dataset.
+@highlight An error measure is used along with the coverage measure to gain valuable insights.

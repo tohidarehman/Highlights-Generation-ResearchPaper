@@ -1,0 +1,7 @@
+ Various methods have been put forward to perform automatic social based event detection and description . Yet most of them do not capture the semantic meaning embedded in online social media data which are usually highly heterogeneous and unstructured and do not identify event relationships e.g . car accident temporally occurs
+
+@highlight Performs semantic aware event detection description and linkage from social media data.
+@highlight Represents heterogeneous data in generic model made of temporal spatial semantic dimensions.
+@highlight Evaluates data similarity using combined temporal spatial and semantic similarity measures.
+@highlight Detects events from similar social media objects using adapted unsupervised learning algorithm.
+@highlight Describes events in generic model and identifies their directional metric topologic relations.

@@ -1,0 +1,6 @@
+ This study was conducted to investigate the impact of different seasons in 2018 on the fate transport and ecological risk of antibiotics drained from pig farms along the Bang Pakong River Thailand . Twenty one residual antibiotics were detected in pig farm effluents drainages and the river in both seasons . Amoxicillin tetracycline chlortetracycline and tiamulin were found dominantly in the pig farm effluents showing high detection frequencies of 83100 in the total number of the effluent samples . Maximum concentrations of these four dominant antibiotics in the drainage and the river were 0.125.20 g L
+
+@highlight Removal processes of veterinary antibiotics during transport into the river were investigated and modeled.
+@highlight Random forest RF model showed the best fit to the dynamics of actual antibiotic concentrations.
+@highlight Physicochemical properties of antibiotics determined their fate and transport.
+@highlight RF can describe from farm to river the ecological risks of antibiotics.

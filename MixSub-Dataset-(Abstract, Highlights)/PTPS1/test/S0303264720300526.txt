@@ -1,0 +1,5 @@
+ The SBML standard is used in a number of online repositories for storing systems biology models yet there is currently no Web capable JavaScript library that can read and write the SBML format . This is a severe limitation since the Web has become a universal means of software distribution and the graphical capabilities of modern web browsers offer a powerful means for building rich interactive applications . Also there is a growing developer population specialized in web technologies that is poised to take advantage of the universality of the web to build the next generation of tools in systems biology and other fields . However current solutions require
+
+@highlight This article describes a feature complete SBML library for client side web applications.
+@highlight Extensive documentation tests are provided to allow others to build SBML supporting web applications.
+@highlight An online demo featuring the ability to browse the BioModel and BiGG Models repositories validate SBML and run simulations is described in order to demonstrate technology readiness.

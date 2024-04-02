@@ -1,0 +1,7 @@
+ A heterogeneous respirometer was coupled for the first time to a microelectrode monitoring system specifically designed for dissolved oxygen measuring within the biofilm . Monitoring of the oxygen concentration in the gas and liquid phases was complemented with pioneer monitoring of DO performed simultaneously and continuously at multiple biofilm depths in a linear array of eleven gold disk electrodes of 50m diameter . A set of respirometric tests performed at neutral pH and with initial gas phase concentrations of H
+
+@highlight An innovative heterogeneous respirometric setup has been applied for biofilms characterization.
+@highlight A DO MEA developed for biofilm profiling has been effectively coupled to the novel respirometer.
+@highlight The activity of a heterogeneous S oxidizing biofilm has been successfully monitored and modeled.
+@highlight Biomass density and its active fraction distribution within the biofilm has been included in the mathematical model.
+@highlight DO profiles within the biofilm could be completely described by including its heterogeneous nature.

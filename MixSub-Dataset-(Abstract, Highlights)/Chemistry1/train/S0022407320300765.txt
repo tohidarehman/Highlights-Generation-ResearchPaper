@@ -1,0 +1,7 @@
+ The mechanisms of coupling between the lattice modes of a two dimensional array consisting of Al nanoparticles and the localized modes of individual Al nanoparticles have been studied in detail . The results were obtained employing the finite difference time domain method and the generalized Mie theory . It was shown that interactions of single particles with 2D lattice modes significantly change the extinction spectra depending on the particle radius and the lattice period . The Rayleigh anomalies of higher orders contribute to formation of hybrid modes resulting in increase of the extinction efficiency in short wavelength range of the spectrum . It was shown that high intensity magnetic modes are excited in aluminum nanoparticles arrays . The patterns of spatial electromagnetic field distribution at the frequencies of hybrid modes have been studied . We note that comprehensive understanding the mode coupling mechanisms in arrays paves the way for engineering different types of modern photonic devices with controllable optical properties .
+
+@highlight The spectral properties of hybrid modes in Al NPs arrays are investigated.
+@highlight Al NPs arrays demonstrate high intensity of magnetic modes resonances.
+@highlight The influence of the particles size on Al NPs arrays are shown.
+@highlight The hybrid modes are the result of eigenmodes and Rayleigh anomalies coupling.
+@highlight The high Q response of Al NPs array can be achieved in all UVvis nearIR range.

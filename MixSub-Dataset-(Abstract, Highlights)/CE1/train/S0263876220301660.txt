@@ -1,0 +1,7 @@
+ Enhancing the efficiency of reverse osmosis applications through the design and modification of spacer geometries for spiral wound membrane modules remains a challenging task . In this work four 3D feed spacer geometries with different degrees of floating characteristics are studied using computational fluid dynamics simulations to investigate the mechanisms that result in shear stress and mass transfer enhancement . The modelled data reveal that the floating ratio
+
+@highlight Effect of different degrees of floating characteristics of spacer are simulated.
+@highlight Mass transfer is more sensitive to change in structure for 2 layer than for 3 layer.
+@highlight is not a determining factor that drives SWM mass transfer enhancement.
+@highlight Middle spacer disrupts the formation of large streamwise vortex at larger
+@highlight Middle spacer significantly increase wall shear than for including woven structure.

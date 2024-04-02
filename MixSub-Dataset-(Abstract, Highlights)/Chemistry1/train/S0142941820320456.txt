@@ -1,0 +1,7 @@
+ Rheological characterization through capillary viscometry of molten polymers that slip at solid walls is quite a challenging task . In fact it is based on an indirect measurement that introduces remarkable error amplifications mainly because of the Mooney procedure . Sometimes these are so large that unphysical results are obtained . In this paper we study these issues analytically using a particular power law fluid as a test model . Interestingly it is found that there is dependence on the fluid characteristics such as the shear thinning behavior . Two software programs are provided in the Mendeley Data Repository . One quantifies the error amplification the other one can be used by interested researchers for properly designing the testing setup . In order to use the programs though the material constants of the fluid that is intended to be characterized must be known at least approximately .
+
+@highlight Error amplification in capillary viscometers can be very significant.
+@highlight These depend on geometrical and material parameters e.g. shear thinning behavior.
+@highlight Two software programs are provided.
+@highlight The first one quantifies the error amplification.
+@highlight The second one can be used for properly designing the testing setup.

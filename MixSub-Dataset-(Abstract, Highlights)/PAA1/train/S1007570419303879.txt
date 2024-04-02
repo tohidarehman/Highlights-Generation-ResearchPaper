@@ -1,0 +1,5 @@
+ This study provides basic instantaneous source functions for different source reservoir geometries in infinite fractal reservoirs and infinite slab FRs . The concept of fractal geometry has already been adopted to analyse and model well reservoir systems with complex structures . All these complexities have been modelled through a partial differential equation called fractal diffusivity equation . In this paper by use of the source Greens function technique we analytically solve the FDE for different boundary conditions i.e . different source reservoir geometries . The wellbore pressure response for horizontal wells in an infinite slab FR is derived and analysed to illustrate the applications of the provided analytical source solutions and how to use these solutions .
+
+@highlight Utilizing the fractal geometry to develop instantaneous source function.
+@highlight Analyzing the infinite reservoir and infinite slab reservoirs using the introduced source functions.
+@highlight Developing novel models for complex real reservoirs with complex structures via different types of mathematical dimensions.

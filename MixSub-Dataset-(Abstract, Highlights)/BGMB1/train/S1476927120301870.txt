@@ -1,0 +1,6 @@
+ The present work undertakes the structural and electronic properties of 3 thiophene acetic acid monomer and dimer . DFT calculations were performed using B3LYP functional in combination with the aug cc pVTZ basis set . The optimized structural parameters were found to be in a good agreement with experimental molecular geometry . The stability of the crystal packing was ensured by O
+
+@highlight The optimized was computed using DFT method.
+@highlight DFT and TDDFT calculations have been incorporated for detailed analysis.
+@highlight The intermolecular interactions were analyzed by AIM NBO RDG and Hirshfeld surfaces.
+@highlight Inhibitor activity of 3 TAA with human MOA A and B is analyzed via molecular docking.

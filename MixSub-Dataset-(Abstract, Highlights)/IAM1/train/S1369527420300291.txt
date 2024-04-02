@@ -1,0 +1,7 @@
+ Since the initial discovery of bacterial nucleotide second messengers we have made huge progress towards understanding these complex signalling networks . Many NSM networks contain dozens of metabolic enzymes and binding targets whose activity is tightly controlled at every regulatory level . They function as global regulators and in specific signalling circuits controlling multiple aspects of bacterial behaviour and development . Despite these advances there is much still to discover with current research focussing on the molecular mechanisms of signalling circuits the role of the environment in controlling NSM pathways and attempts to understand signalling at the whole cell community level . Here we examine recent developments in the NSM signalling field and discuss their implications for understanding this important driver of microbial behaviour .
+
+@highlight Structural analysis of NSM regulators reveals new mechanisms of NSM signalling.
+@highlight NSM proteins binding multiple ligands support crosstalk between signalling networks.
+@highlight NSM networks control structure and heterogeneity in complex microbial communities.
+@highlight The diversity of bacterial NSM regulators is far higher than previously thought.
+@highlight The p ppApp toxin suggests non signalling roles exist for bacterial NSMs.

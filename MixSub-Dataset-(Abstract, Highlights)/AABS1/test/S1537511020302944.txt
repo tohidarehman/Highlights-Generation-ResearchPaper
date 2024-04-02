@@ -1,0 +1,7 @@
+ The 3D characterisation of individual vine canopies with a LiDAR sensor requires point cloud classification . A Bayesian point cloud classification algorithm is proposed that combines an automatic filtering method and a classification method based on clustering to process LiDAR data . Data were collected on several grape varieties with two different modes of training . To evaluate the quality of the BPCC algorithm and its influence on the estimation of canopy parameters it was compared to an expert manual method and to an established semi automatic research method requiring interactive pre treatment . The results showed that the AFM filtering was similar to the expert manual method and retained on average 9 more points than the PROTOLIDAR method over the whole growing season . Estimates of vegetation height and width that were obtained from classification of the AFM filtered LiDAR data were strongly correlated with estimates made by the PROTOLIDAR method R
+
+@highlight An automatic LiDAR Bayesian point cloud classification method BPCC was developed.
+@highlight BPCC combines a filtering and a partitioning algorithm to process a LiDAR point cloud.
+@highlight BPCC estimates canopy dimensions at the scale of an individual vine.
+@highlight BPCC canopy estimates were highly correlated with non automated reference methods.
+@highlight This method could help the real time use of LiDAR in commercial viticulture operations.

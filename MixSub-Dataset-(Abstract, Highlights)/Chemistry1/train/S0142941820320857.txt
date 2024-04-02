@@ -1,0 +1,7 @@
+ This study is focused on numerical investigation on fracture behaviors of carbon black and silica filled elastomeric composites . Finite element analysis in compliance with multi specimen method is used to calculate J integral and geometry factor of the rubber composites up to a displacement of 20mm for single edge notch in tension and double edge notch in tension specimens . An empirical relationship between crack tip opening displacement and crack advancement is established depending on notch to width ratio
+
+@highlight Non linear fracture analysis of SENT and DENT geometries is performed.
+@highlight Factor of safety based mechanical characterization is performed.
+@highlight Stress contours across notches is presented.
+@highlight Reinforcing efficacy of CB filled hybrid elastomeric systems is discussed.
+@highlight FEA is used to characterize fracture of elastomeric composites.

@@ -1,0 +1,7 @@
+ The Lifshitz theory of van der Waals forces is utilized for the systematic calculation of the non retarded room temperature Hamaker constants between 26 identical isotropic elemental metals that are embedded in vacuum or in pure water . The full spectral method complemented with a Drude like low frequency extrapolation is employed for the elemental metals benefitting from the availability of extended in frequency reliable dielectric data . The simple spectral method is employed for pure water and three dielectric representations are explored . Numerical truncation and low frequency extrapolation effects are shown to be negligible . The accuracy of common Lifshitz approximations is quantified . The Hamaker constants for 100 metal combinations are reported the geometric mixing rule is revealed to be highly accurate in vacuum water .
+
+@highlight Non retarded Hamaker constant calculations of unprecedented accuracy.
+@highlight Exact non retarded Lifshitz calculations for 26 elemental metals as well as 100 metal combinations in vacuum and water.
+@highlight Computations for different dielectric representations of water and low frequency extrapolations of the metallic response.
+@highlight Quantification of the accuracy of standard Lifshitz theory approximations in the case of identical materials.
+@highlight Quantification of the accuracy of standard mixing rules in case of material combinations.

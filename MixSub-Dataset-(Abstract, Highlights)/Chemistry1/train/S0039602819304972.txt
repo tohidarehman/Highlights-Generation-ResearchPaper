@@ -1,0 +1,7 @@
+ A strategy to estimate the composition profile in the top few atom layers of a binary metal alloy nanoparticle is presented . The method is based on a combination of the X ray Photoelectron Spectroscopy and Monte Carlo simulations . Au Ag NPs were synthesized via solution phase co reduction followed by reduction in gas phase at 400
+
+@highlight Layer by layer composition profile in synthesized Au Ag nanoparticles is obtained using a combination of XPS simulated XPS intensities and Monte Carlo simulations.
+@highlight Monte Carlo simulations using state of the art Au Ag interatomic potentials provide important insights for simulating XPS intensities.
+@highlight Several layer by layer au ag composition profiles at the surface are consistent with the measured experimental XPS intensities.
+@highlight Comparison to Monte Carlo simulations can provide most likely layer by layer composition profile.
+@highlight Layer by layer composition profile in synthesized nanoparticles is similar to ones obtained from model surfaces at ultrahigh vacuum conditions.

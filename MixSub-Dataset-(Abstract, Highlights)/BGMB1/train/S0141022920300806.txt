@@ -1,0 +1,7 @@
+ The hydrodynamic environment in bioreactors affects the oxygen transfer rate and the shear conditions during microbial cultivations . Therefore assessment of the effect of the hydrodynamic environment on cellular morphology can contribute to favoring the production of metabolites of interest . The aim of this work was to use image analysis in order to quantify the fragmentation of
+
+@highlight Shear conditions are important since they influence cell morphology and production.
+@highlight Kinetic model using pellet fragmentation was proposed to quantify shear conditions.
+@highlight  Glucosidase and endoglucanase had linear dependence with the kinetic parameter.
+@highlight  Glucosidase production was higher under high shear conditions.
+@highlight Endoglucanase production was favored under low shear conditions.

@@ -1,0 +1,6 @@
+ Clinical Decision Support Systems provide assistance to physicians in clinical decision making . Based on patient specific evidence items triggering the inferencing process such as examination findings and expert modeled or machine learned clinical knowledge these systems provide recommendations in finding the right diagnosis or the optimal therapy . The acceptance of and the trust in a CDSS are highly dependent on the transparency of the recommendations generation . Physicians must know both the key influences leading to a specific recommendation and the contradictory facts . They must also be aware of the certainty of a recommendation and its potential alternatives .
+
+@highlight Visual approach for explainable clinical decision support inspired by decision making within clinical routine.
+@highlight Scoring function for computing the relevance of an evidence item for the recommendation.
+@highlight Classification of evidence items into supportive contradictory and recommendation changers.
+@highlight Capabilities to modify evidence items with a comparative glyph based visualization of anterior and posterior results.

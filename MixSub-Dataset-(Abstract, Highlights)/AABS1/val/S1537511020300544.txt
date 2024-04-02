@@ -1,0 +1,6 @@
+ Monitoring crop development and accurately estimating crop yield are important to improve field management and crop production . This study aimed to evaluate the performance of an unmanned aerial vehicle based remote sensing system in cotton yield estimation . A UAV system equipped with an RGB camera a multispectral camera and an infrared thermal camera was used to acquire images of a cotton field at two growth stages . Sequential images from the three cameras were processed to generate orthomosaic images and a digital surface model which were registered to the georeferenced yield data acquired by a yield monitor mounted on a harvester . Eight image features were extracted including normalised difference vegetation index
+
+@highlight Site specific cotton yield estimation was conducted.
+@highlight The performance of multiple image sensors were evaluated.
+@highlight Data were registered based on image features.
+@highlight Methods were potentially used for precision crop management.

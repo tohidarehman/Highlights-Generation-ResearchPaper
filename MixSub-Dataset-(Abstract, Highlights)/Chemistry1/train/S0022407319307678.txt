@@ -1,0 +1,7 @@
+ A new model to account for turbulence radiation interaction on the radiation emission in the framework of Reynolds Averaged Navier Stokes simulations is proposed and tested . The models development is based on Reynolds decompositions of the temperature
+
+@highlight A new model for turbulence radiation interaction TRI is developed.
+@highlight The development is based on transient data numerically generated for pool fires.
+@highlight The model allows for the consideration of emission TRI in RANS simulations.
+@highlight An approximation for the mean Planck mean absorption coefficient is also proposed.
+@highlight Errors of the model are significantly smaller than those of existing models.

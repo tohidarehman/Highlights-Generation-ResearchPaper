@@ -1,0 +1,7 @@
+ Quantifying the vertical distribution of atmospheric aerosols is crucial for estimating their impact on the Earth s energy budget and climate improving forecast of air pollution in cities and reducing biases in the retrieval of greenhouse gases from space . However to date passive remote sensing measurements have provided limited information about aerosol extinction profiles . In this study we propose the use of a spectral sorting approach to constrain the aerosol vertical structure using spectra of reflected sunlight absorption within the molecular oxygen O
+
+@highlight A spectral sorting approach is proposed for constraining aerosol profile from space.
+@highlight The approach is successfully applied to OCO 2 O
+@highlight A band measurements.
+@highlight Retrieved profile parameters show good agreement with CALIPSO measurements.
+@highlight The approach can be used to map the aerosol vertical distribution on a global scale.

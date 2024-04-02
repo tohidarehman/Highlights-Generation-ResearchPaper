@@ -1,0 +1,11 @@
+ To accurately simulate the effects of aerosols on the atmospheric radiation budget we here establish an aerosol optical parameterization scheme with high spectral resolution for radiative transfer model this scheme includes sulfate black carbon organic carbon dust and sea salt aerosols . The results of the 974 band scheme are compared with those obtained using a low resolution 17 band scheme . Our results show the 974 band scheme more accurate in its representation of the aerosols optical properties . The largest relative differences in the volume extinction coefficient K
+
+@highlight Establishment of an aerosol optical parameterization scheme with high spectral resolution 974 band .
+@highlight The new optical parameterization scheme 974 band with five types of aerosols are more accurate than those of 17 band especially at the wavelength of 1.91m 2.7m etc.
+@highlight The 974 band and 17 band schemes show daily mean direct radiative forcings due to all aerosols of
+@highlight and
+@highlight W m
+@highlight at the surface and
+@highlight and
+@highlight W m
+@highlight at the top of the atmosphere respectively.

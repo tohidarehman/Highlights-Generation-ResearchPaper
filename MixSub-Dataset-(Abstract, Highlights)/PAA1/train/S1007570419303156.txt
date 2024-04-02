@@ -1,0 +1,5 @@
+ Explicit formulas for complexity and unique invariant measure of the period doubling subshift can be derived from those for the Thue Morse subshift obtained by Brlek De Luca and Varricchio and Dekking . In this note we give direct proofs based on combinatorial properties of the period doubling sequence . We also derive explicit formulas for correlation integral and two basic characteristics of recurrence quantification analysis of the period doubling subshift recurrence rate and determinism . As a corollary we obtain that RQA determinism of this subshift converges to 1 as the threshold distance approaches0 .
+
+@highlight Direct proofs of formulas for complexity and unique invariant measure of the period doubling sequence based on its combinatorial properties are given.
+@highlight Explicit formulas for correlation integrals are derived together with two of the basic measures of recurrence quantification analysis recurrence rate and determinism.
+@highlight The determinism of the period doubling subshift converges to 1 as the threshold distance approaches 0.

@@ -1,0 +1,7 @@
+ In this paper we present the results of a detector response function modeling using a new version of PHITS Particle and Heavy Ion Transport Code with an advanced feature for asymmetrical peak broadening . Tests are performed on a room temperature medium resolution 500mm
+
+@highlight Asymmetrical peaks of CZT detectors are a challenge in spectra simulation tasks.
+@highlight A novel built in option of asymmetrical peak broadening is proposed in PHITS code.
+@highlight Parameterization is achieved via central Gaussian parameters and Tailing parameters.
+@highlight Study is made on CZT measured point source spectra in 59 to 1332keV energy range.
+@highlight Asymmetrical broadening allows to model CZT peak shapes at high energies.

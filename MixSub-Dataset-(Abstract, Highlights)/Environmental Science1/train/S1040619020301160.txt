@@ -1,0 +1,6 @@
+ Exploiting the implementation of a Prepaid Electricity Program in the region of Antioquia we estimate the impact that switching to a prepaid program has on users energy consumption behavior . In particular we focus the analysis on those that are more vulnerable from a socio economic perspective . The results show that the new metering scheme and the information provision is associated with a decline in electricity consumption.This scheme allow users to improve their consumption paths while their access to public electricity services is guaranteed minimizing disconnection risks and the associated costs .
+
+@highlight We analyze the impact that switching to a prepaid electricity program has on users energy consumption behaviour.
+@highlight Prepaid electricity consumption schemes supported by AMI can be used as an alternative demand response mechanism.
+@highlight This scheme gives the most vulnerable households a chance to self manage their consumption and demand electricity according to their income flow.
+@highlight Switched users improve their consumption paths while their access to public electricity service is guaranteed.

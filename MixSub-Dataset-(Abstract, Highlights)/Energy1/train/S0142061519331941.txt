@@ -1,0 +1,6 @@
+ This paper discusses the impact of the sub hourly unit commitment problem on power system dynamics . Such an impact is evaluated by means of a co simulation platform that embeds a sub hourly stochastic mixed integer linear programming security constrained unit commitment into a time domain simulator as well as includes a rolling planning horizon that accounts for forecast updates . The paper considers different sub hourly sSCUC resolutions and different wind penetration levels . The focus is on the transient response of the system and on frequency variations following different sSCUC strategies and different sSCUC wind power uncertainty and volatility . The case study consists of a comprehensive set of Monte Carlo simulations based on the 39 bus system .
+
+@highlight Co simulation platform to study the impact of stochastic UC on power system dynamics.
+@highlight Monte Carlo time domain simulations of stochastic differential algebraic equations.
+@highlight Study of the impact of different levels of wind power uncertainty and volatility.
+@highlight Comparison of the impact of sub hourly stochastic and deterministic UC models.

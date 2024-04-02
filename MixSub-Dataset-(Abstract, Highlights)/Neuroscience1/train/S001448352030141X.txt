@@ -1,0 +1,7 @@
+ Expression patterns of voltage gated ion channels determine the spatio temporal dynamics of ion currents that supply excitable neurons in developing tissue with proper electrophysiological properties . The purpose of the study was to identify fast cationic inward currents in mouse retinal horizontal cells and describe their biophysical properties at different developmental stages . We also aimed to reveal their physiological role in shaping light responses in adult HCs . HCs were recorded in horizontal slices of wild type mouse retina at postnatal stages ranging from p8 through p60 . Voltage dependent inward currents were isolated with appropriate voltage protocols and blockers specific for sodium and T type calcium channels . LRs were evoked with full field flashes 130W cm
+
+@highlight Mouse retinal horizontal cells express T type calcium and sodium channels.
+@highlight Sodium and calcium currents are downregulated during development.
+@highlight Activation and inactivation kinetics of sodium and calcium channels remain similar during development.
+@highlight T type calcium channels contribute to the dark resting membrane potential.
+@highlight Fast ionic currents influence horizontal cell light responses.

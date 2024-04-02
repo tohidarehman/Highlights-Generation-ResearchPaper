@@ -1,0 +1,5 @@
+ This paper considers the problem of inferring statewide traffic patterns by scaling massive GPS trajectory data which capture about 3 of the overall traffic in Utah . It proposes a least absolute deviations model with controlled overfitting to scale 2.3 million trajectories such that resulting data best fit vehicle counts measured by 296 traffic sensors across the state . The proposed model improves on an often cited approach from the literature and achieves 45 lower error for locations not seen in model training obtaining 18 median hourly error across all test locations .
+
+@highlight A model for scaling mobility data to match a population of trips.
+@highlight A model that doesnt require data other than mobility data for a region and vehicle passage counts for few locations on the road network.
+@highlight Visual tools which can be used to verify model predictions for this model and others.

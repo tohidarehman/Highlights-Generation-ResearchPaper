@@ -1,0 +1,7 @@
+ The paper considers a new type of solutions for shunting inhibitory cellular neural networks strongly unpredictable oscillations . The conditions for the existence uniqueness and stability of the solutions are determined . Numerical examples are given to show the feasibility of the obtained results .
+
+@highlight Shunting inhibitory cellular neural networks are under investigation.
+@highlight The models with strongly unpredictable inputs are considered.
+@highlight The line of periodic and almost periodic motions is continued with unpredictable oscillations.
+@highlight Existence and uniqueness of asymptotically stable strongly unpredictable solutions are proved.
+@highlight Illustrative examples and simulations to prove the feasibility of the results are provided.

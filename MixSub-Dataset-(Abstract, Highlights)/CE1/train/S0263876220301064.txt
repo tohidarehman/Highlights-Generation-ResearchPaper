@@ -1,0 +1,23 @@
+ In this paper we firstly report on the different scenarios of the process integration to produce jet fuel intermediates from biomass . Rigorous process simulation optimization techno economical evaluation and carbon emission calculation are performed . We start from the aldol condensation process converting furfural and acetone to the jet fuel intermediate . COSMO SAC model and the PR COSMOSAC equation of state are firstly incorporated to estimate the missing physical properties of both pure component and the mixture . In this part three process schemes assisted process and the solvent less process are investigated and the total annual cost are compared . Comparing with the distillation only process the optimization results indicate a more favorable condition in the solvent less process than the MEE assisted process . Moreover different strategies of integrating the aldol condensation process with the front end furfural production process are discussed . They are presented in five scenarios . YUMC and ER are calculated to quantify the economic performance and CO
+
+@highlight Five process integration scenarios to produce jet fuel intermediates are discussed.
+@highlight COSMO based modeling is used to estimate the missed property parameters.
+@highlight The solvent less aldol condensation process outperforms the MEE assisted one.
+@highlight Scenario 4 YUMC
+@highlight None
+@highlight None
+@highlight 0.716
+@highlight None
+@highlight USD kg ER
+@highlight None
+@highlight None
+@highlight 1.65 shows the greatest potential to use CO
+@highlight Scenario 2 YUMC
+@highlight None
+@highlight None
+@highlight 0.698
+@highlight None
+@highlight USD kg ER
+@highlight None
+@highlight None
+@highlight 0.28 could be the nearest solution currently.

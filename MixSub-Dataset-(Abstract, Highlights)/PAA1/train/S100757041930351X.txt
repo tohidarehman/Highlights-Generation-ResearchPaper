@@ -1,0 +1,6 @@
+ The first order term in the geometric optics approximation to the solution of an hyperbolic differential system is known to satisfy a transport equation along rays which is analogous to the Burgers equation . As such it usually develops shocks . The second order term satisfies a linear transport equation whose coefficients depend on the first order solution these coefficients are detailed for the case of fast magnetosonic waves in a simple equilibrium state . The problem is that the solutions to this second order equation will blow up as soon as the first order term develops a shock . This fact is analyzed and its relevance to the validity of the asymptotic approximation discussed .
+
+@highlight The second order term in the geometric optics approximation is studied for magnetosonic waves.
+@highlight The transport equation is detailed.
+@highlight The equation is integrated along characteristics.
+@highlight The second order term undergoes a blow up the moment the first order one becomes a shock wave.

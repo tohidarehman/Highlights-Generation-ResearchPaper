@@ -1,0 +1,6 @@
+ Quantitive infrared thermography like active thermography is a non destructive testing technique that is used to inspect surfaces of components for defects . A problem with infrared based defect detection is that misclassifications based on geometrically dependent measurement characteristics can occur . This problem becomes more problematic with the inspection of complex 3D shapes . In this paper a new infrared quality control procedure using a quality map is proposed that models the geometrically dependent measurement characteristics based on available CAD data and CAD matching techniques . Misclassifications are reduced by using this quality map in combination with a modified version of principal component thermography post processing . We applied our proposed methodology on a prototype bicycle part and a plaster cast angel figurine . In these experiments the procedure using quality maps is able to prevent false defect detection .
+
+@highlight A thermal camera setup is used to detect defects in materials.
+@highlight A CAD matching procedure is used to map a 2D infrared image to a 3D cad file.
+@highlight With the 3D alignment a quality metric of the measurement is calculated.
+@highlight With this metric misclassifications are reduced.

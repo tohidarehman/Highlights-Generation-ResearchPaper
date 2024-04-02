@@ -1,0 +1,6 @@
+ Traffic state estimation is a fundamental task of Intelligent Transportation Systems . Recent advances in sensor technology and emerging computer and vehicular communications paradigms have brought the task of estimating traffic state parameters in
+
+@highlight Density estimation based on connected vehicles using capabilities of present day vehicles.
+@highlight The method utilizes mobile observers without the need of additional infrastructure.
+@highlight Estimation sensitivity analysis is provided based on exchange distance and penetration rate.
+@highlight Method is verified analytically as well empirically using NGSIM and generated traffic.

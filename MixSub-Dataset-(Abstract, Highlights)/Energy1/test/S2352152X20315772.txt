@@ -1,0 +1,6 @@
+ Determining battery ageing is a key issue in predicting the available charge in battery operated systems . Beyond the common use of voltage or current measurements which have proved unsuccessful as general methods we aim to determine battery ageing in terms of irreversible entropy production . On the one hand entropy describes transformations such as ageing and on the other hand entropy combines the benefits of voltage current and temperature effects in a single magnitude . We develop a thermoelectrochemical model based on phenomenological equations to compute entropy generation rates as a function of internal parameters such as concentration electrode porosity and conduction in NiMH batteries . We simulate ageing by changing internal parameters during battery cycling and we found a threshold in the entropy generation rate of 0.12 mW K
+
+@highlight Thermoelectrochemical model for entropy determination.
+@highlight Relationship between irreversible entropy production and battery SoH.
+@highlight Relationship between irreversible entropy and degradation mechanisms.
+@highlight Determination of local entropy and global entropy during battery cycling.

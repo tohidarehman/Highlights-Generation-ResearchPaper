@@ -1,0 +1,8 @@
+ We propose that the recently defined persistent homology dimensions are a practical tool for fractal dimension estimation of point samples . We implement an algorithm to estimate the persistent homology dimension and compare its performance to classical methods to compute the correlation and box counting dimensions in examples of self similar fractals chaotic attractors and an empirical dataset . The performance of the 0 dimensional persistent homology dimension is comparable to that of the correlation dimension and better than box counting .
+
+@highlight We propose that the recently defined persistent homology 
+@highlight  dimensions are a practical tool for dimension estimation.
+@highlight We implement an algorithm to compute the
+@highlight dimensions and apply it to a variety of examples including self similar fractals chaotic attractors and earthquake hypocenters.
+@highlight The accuracy and speed of the
+@highlight dimension estimation algorithm is comparable to that of the correlation dimension and better than the box counting dimension.

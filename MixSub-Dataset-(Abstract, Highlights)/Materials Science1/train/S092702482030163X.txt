@@ -1,0 +1,5 @@
+ The paper proposes an experimental approach to determine the external quantum efficiency of multijunction solar cells with pronounced optical coupling . A new technique based on the cascade mechanism of coupling has been elaborated to separate the influence of the induced luminescent flux from the external illumination and to establish the absolute values of photosensitivity without negative impact of optical interaction between subcells . The novelty of this work lies in the method extended to multijunction devices with N number of subcells .
+
+@highlight Cascade optical coupling is a feature of multi junction solar cells.
+@highlight Optical coupling negatively impacts on quantum efficiency measurements.
+@highlight Method describes how to avoid influence of optical coupling on experimental data.

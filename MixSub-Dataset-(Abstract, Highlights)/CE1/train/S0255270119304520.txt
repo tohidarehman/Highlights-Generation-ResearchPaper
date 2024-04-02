@@ -1,0 +1,6 @@
+ Emulsification process in high efficiency vortex mixer is studied numerically . The two phase flow is modelled using a multi phase Eulerian approach while the droplets size distribution is calculated by our recently developed adaptive multiple size group method . The CFD allows for a more detailed analysis of the emulsification process the baffles installed at the mixer s walls generate large scale longitudinal vortices enhancing mixing in the transversal plane most of the breakup occurs near the wall while the vortices ensure transport of the disperse phase to and out of the wall . Intensity of the turbulence and the droplets size distribution were found to be in good agreement with the experimental data .
+
+@highlight A novel type of static mixer is analysed numerically.
+@highlight The adaptive multiple size group method is used to model the emulsification process.
+@highlight The droplets are broken near the wall while transported by the baffle generated vortices.
+@highlight Intensity of the turbulence and the droplets size distribution were found to be in good agreement with the experimental data.

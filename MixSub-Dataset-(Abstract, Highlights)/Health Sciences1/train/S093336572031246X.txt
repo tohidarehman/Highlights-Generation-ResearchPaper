@@ -1,0 +1,5 @@
+ Studies from the literature show that the prevalence of sleep disorder in children is far higher than that in adults . Although much research effort has been made on sleep stage classification for adults children have significantly different characteristics of sleep stages . Therefore there is an urgent need for sleep stage classification targeting children in particular . Our method focuses on two issues The first is timestamp based segmentation to deal with the fine grained annotation of sleep stage labels for each timestamp . Compared to this popular sliding window approaches unnecessarily aggregate such labels into coarse grained ones . We utilize
+
+@highlight Our sleep stage classification targets can be used for sleep disorders detection and therapy for child patients compared to many existing works that target adult patients.
+@highlight Our method using a DeConvolutional Neural Network DCNN can predict sleep stage labels on the timestamp level.
+@highlight The utilization of multiple channels of Polysomnography PSG recordings can improve the performance of sleep stage classification.

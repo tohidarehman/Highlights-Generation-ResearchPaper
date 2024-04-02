@@ -1,0 +1,6 @@
+ Through passively emitting excess heat to the outer space radiative cooling has been demonstrated as an efficient way for energy saving applications . Instead of well designed photonic structures we rediscovered the potential of a bulk material as a selective emitter for sub ambient daytime radiative cooling . The proposed cooler consisting of a 1 mm thick lithium fluoride crystal coated with silver backing exhibits a low solar absorptance of 4.7 and nearly ideal infrared selectivity with high emission exactly within the atmospheric transmission band . Potentially the cooler could achieve an ultra low stagnation temperature up to 57C below the ambient . Sub ambient daytime cooling performance was also demonstrated in an outdoor test with cooler stagnation temperature below the ambient one by 5C under solar irradiance above 900W m
+
+@highlight The bulk LiF emitter occupies nearly ideal selective emission for radiative cooling.
+@highlight The emitter could potentially achieve a temperature of 57K below the ambient.
+@highlight Sub ambient daytime cooling effect is demonstrated with the emitter.
+@highlight This research could provide guidance to radiatively cool optical systems.

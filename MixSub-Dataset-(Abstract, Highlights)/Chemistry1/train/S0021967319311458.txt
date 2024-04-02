@@ -1,0 +1,7 @@
+ Mineral oil hydrocarbons are used in the consumer goods sector for the elaboration of a wide range of foods and cosmetics . Traditional methods for determining their levels and composition are time consuming and laborious besides requiring complex instrumentation . Here a simple and fast method was developed that uses columns packed with silver modified silica in supercritical fluid chromatography with flame ionization and UV detection for the determination of mineral oil saturated hydrocarbons and mineral oil aromatic hydrocarbons in purified mineral oil samples . The method requires no sample preparation apart from dilution . Direct quantification of MOSH and MOAH was possible for samples with MOSH MOAH ratios around one . For other samples deconvolution of the MOSH and MOAH humps in the FID chromatogram using the UV signal was needed since baseline separation of the two fractions could not be obtained . Validation of the method performance showed an excellent linearity
+
+@highlight Direct MOSH MOAH quantification can be done by SFC FID UV.
+@highlight MOAH detection limits were better than 0.36 . 
+@highlight SFC FID UV has an excellent linearity and a better repeatability than the standard methods.
+@highlight SFC FID UV is suitable for samples with viscosities and molecular weights below 56mm
+@highlight and 450gmol

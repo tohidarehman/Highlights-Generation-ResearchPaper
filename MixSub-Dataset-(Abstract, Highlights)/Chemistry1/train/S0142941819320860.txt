@@ -1,0 +1,7 @@
+ This study is focused on multiscale characterization and constitutive parameters identification of selectively laser sintered PA12 specimens . The process parameters and change in crystallinity due to 3D printing were identified via differential scanning calorimetry . Tension compression shear flexural and fracture tests performed on samples fabricated both in 0 and 90 directions reveal that the tensile toughness of samples printed in 0 orientation outperform samples printed in 90 orientation by an average of 24 . Cryogenically fractured samples were analyzed via SEM and micro computed tomography to analyze 2D 3D defects and correlate the microstructure with macroscopic properties . The constitutive parameters for a strain rate and temperature dependent Three Network material model were identified using the measured mechanical properties . Furthermore mechanical response of micro architected Kelvin lattice structure was analyzed by Finite Element Method employing the TN constitutive model and the predictions were corroborated with measurements .
+
+@highlight Multiscale characterization of PA12 processed via SLS additive manufacturing.
+@highlight Tensile compression flexural shear and fracture behaviors were investigated.
+@highlight Tensile toughness of samples printed in 0 outperformed 90 samples by 24 .
+@highlight Three Network material model was calibrated using measured tensile compression data.
+@highlight Measured compressive response of lattices is adequately captured by TN FE model.

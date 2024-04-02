@@ -1,0 +1,6 @@
+ The identification and quantification of post translational modifications is a crucial step required during the development of therapeutic proteins . In particular the characterization of charge variants separated by cation exchange chromatography is a tedious process commonly performed with an off line manual fraction collection followed by peptide mapping . To improve the efficiency of this time consuming approach a generic on line multi dimensional LC MS approach was developed for the characterization of various monoclonal antibody isotypes and a bi specific antibody . Fractions collected from
+
+@highlight Thorough optimization of a multi dimensional LC MS setup to identify charge variants.
+@highlight Similar levels of most protein PTMs reported by off line and on line approaches.
+@highlight Faster turnaround time achieved by on line vs. off line peptide mapping.
+@highlight Ultra fast on column tryptic digestion can limit artificial deamidation.

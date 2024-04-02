@@ -1,0 +1,7 @@
+ This study proposes a cooperative rich vehicle routing problem among three typical logistics providers in the last mile logistics industry in rural areas . The problem is formulated based on the information fusion system and the ordering interface system and it is solved by a proposed branch price and cut algorithm . Based on the optimized cooperation scheme the core and Shapley value are used to fairly allocate the cost savings . The numerical results show that a long term grand coalition will be beneficial to all the participators . The proposed information merging and algorithm driven cooperative optimization model will be practicable for intelligent logistics systems .
+
+@highlight A cooperative rich VRP in the last mile logistics industry in rural areas is proposed.
+@highlight The problem is formulated under different information sharing modes among players.
+@highlight A branch price and cut algorithm is proposed to solve the problem.
+@highlight The core and Shapley value are used to allocate the cost saving due to cooperation.
+@highlight A horizontal and vertical value chain perspective of the cooperation is provided.

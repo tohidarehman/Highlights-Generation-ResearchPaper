@@ -1,0 +1,9 @@
+ Previous studies on the risk assessment of chemicals with respect to human health have focused mainly on the safety of individual substances . Recently public health policy emphasizes the combined effects of mixtures . An overall risk probability based method long with the combined toxicity factor
+
+@highlight We developed IORP model based on an overall risk probability ORP which can be used to evaluate the combined toxicity of chemical mixtures from the environment and foods on human health by dietary pathway.
+@highlight IORP is developed by introducing variable time
+@highlight and the
+@highlight  which can be analyzed quantitatively by using simultaneous equations with least squares regression.
+@highlight IORP method enables to estimate the combined toxicity pattern synergistic and or antagonistic effects of arbitrary binary compounds in the chemical mixture systems.
+@highlight IORP can further analyze the differences of
+@highlight with arbitrary binary chemicals due to the differences in the dose and reaction times.

@@ -1,0 +1,7 @@
+ The early detection of Alzheimers disease can potentially make eventual treatments more effective . This work presents a deep learning model to detect early symptoms of Alzheimers disease using synchronization measures obtained with magnetoencephalography . The proposed model is a novel deep learning architecture based on an ensemble of randomized blocks formed by a sequence of 2D convolutional batch normalization and pooling layers . An important challenge is to avoid overfitting as the number of features is very high compared to the number of samples . To address this issue the model uses an ensemble of identical sub models all sharing weights with a final stage that performs an average across sub models . To facilitate the exploration of the feature space each sub model receives a random permutation of features . The features correspond to magnetic signals reflecting neural activity and are arranged in a matrix structure interpreted as a 2D image that is processed by 2D convolutional networks .
+
+@highlight Novel method based on a 2D CNN randomized ensemble model.
+@highlight State of the art results for the early detection of Alzheimer s disease.
+@highlight Better detection results than classic machine learning methods.
+@highlight The proposed model handles noisy and scarce training data.
+@highlight Application of a 2D CNN to time series of MEG activity.

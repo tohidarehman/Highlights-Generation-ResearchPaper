@@ -1,0 +1,9 @@
+ Anaerobic co digestion of corn silage and waste activated sludge co substrates compared with anaerobic digestion of mono substrate WAS was simulated under mesophilic conditions with the adapted IWA Anaerobic Digestion Model No . 1 and a rule based PID control system for control of the AcoD of CS and WAS through control of their ratios in the feed was developed implemented with the model as a test platform . Tests on AcoD of co substrates were conducted at the COD mass based feeding ratios of CS to WAS 1 2.5 1 2.0 and 1 1.2 . The maximal biogas production was 0.94m
+
+@highlight Rule based PID control with adapted ADM1 built for anaerobic co digestion AcoD .
+@highlight Maximal biogas production was 0.94m
+@highlight  kgVSd at feeding ratio of CS to WAS 1 1.2.
+@highlight Adapted ADM1 after calibration could precisely simulate AcoD of WAS and CS.
+@highlight Control strategy was in cascade structure with additional rule based expert system.
+@highlight Control system improved resistance to AcoD disturbances and maximised CH
+@highlight production.

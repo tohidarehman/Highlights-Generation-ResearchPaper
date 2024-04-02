@@ -1,0 +1,6 @@
+ The problem of stop detection is at the base of many current and upcoming smartphone based travel survey technologies and directly impacts the quality of many downstream operations . The inference of departure arrival time mode and purpose of a trip for example rely on the stop motion patterns represented by smartphone sensor data . As users handle smartphones for various purposes and their preferences determine different device positions while traveling accelerometer and gyroscope for instance often present ambiguities that prevent accurate stop detection .
+
+@highlight We investigate the stop detection problem in smartphone based travel surveys based on 1.4 million GPS observations.
+@highlight We propose a novel GPS GIS data fusion represented as a multi dimension tensor.
+@highlight We design optimise and benchmark a number of ANN classifiers for alternative fusion representations.
+@highlight We show that CNN RNN applied to the preposed fusion representation is the best performer especially with noisy GPS.

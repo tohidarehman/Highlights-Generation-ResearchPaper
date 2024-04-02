@@ -1,0 +1,10 @@
+ Registration is a critical and essential procedure in any multi sensor dimensional measuring systems . Most of the traditional registration methods are achieved by measuring a common standard by multiple sensors however it is difficult to ensure that heterogeneous sensors measure the same feature points . In this study a new multi sensor registration method based on a composite standard artefact is proposed . The base of the standard artefact is equipped with a standard sphere and a standard chrome circle for registering the visual sensor and the tactile probe sensor on a multi sensor dimensional measuring machine . The VS and TPS measure the standard chrome circle and the standard sphere respectively . The coordinate system conversion parameters between the two sensors were solved based on the constant distance between the standard chrome circle centre and the standard sphere centre . Both the simulations and experiments demonstrate higher precision and stability of the proposed method for the registration of multiple heterogeneous sensors in high precision dimensional measurement systems . The root mean square errors of the registration experiments in
+
+@highlight The method is stable and reliable. The RMSEs of the registration experiments in
+@highlight and
+@highlight  directions are 6
+@highlight m and 4
+@highlight m respectively. And the combined standard uncertainties are
+@highlight and
+@highlight Compared with the traditional methods using the same feature it is able to avoid the situation that different sensors may not measure the same feature points.
+@highlight Compared with other methods the process is greatly simplified and the accuracy is improved.

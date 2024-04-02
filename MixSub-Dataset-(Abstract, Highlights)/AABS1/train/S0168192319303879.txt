@@ -1,0 +1,7 @@
+ The accurate quantification of gross primary productivity has been a major challenge in global climate change research . Satellite data driven models have been universally used as scientific tools for investigating the carbon cycle including vegetation index based models light use efficiency models and process based models . However inconsistencies and uncertainties have been found in the GPP estimations from various models . The understanding of model behaviors under different climatic conditions remains unclear . In this study three typical satellite data driven models namely Moderate Resolution Imaging Spectroradiometer GPP model Temperature and Greenness model and Boreal Ecosystem Productivity Simulator respectively were compared to better understand discrepancies and uncertainties in GPP estimations at 119 northern eddy covariance sites . Due to the variations in climatic drivers of GPP temperature precipitation and incoming solar radiation were selected to describe climatic conditions . The results showed that BEPS and MOD17 exhibited similar performance in simulating GPP with root mean square error values of 2.50g C m
+
+@highlight A LUE a VI based and a process based model were compared at 119 EC sites.
+@highlight Performance of models varied substantially across vegetation types.
+@highlight Remotely sensed data had significant impacts on the GPP estimations.
+@highlight It is necessary to improve models characterization of water stress during drought.
+@highlight It is essential to improve model sensitivity when leaf phenology is subtle.

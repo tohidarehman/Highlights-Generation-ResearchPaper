@@ -1,0 +1,9 @@
+ Satellite observations are used to detect surface waters but uncertainties such as instrument noise or retrieval errors can introduce noise or missing data in the resulting water maps especially for datasets at the global scale . In this study spatial filters based on several
+
+@highlight Sources of
+@highlight surface water are introduced to improve satellite water maps.
+@highlight Topography floodability index spatial and
+@highlight constraints are considered.
+@highlight A determinist data filling technique is proposed for missing data.
+@highlight A determinist noise filtering is introduced too.
+@highlight These 2 methods are tested over synthetic Sentinel 1 SAR and Sentinel 2 Visible data.

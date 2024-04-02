@@ -1,0 +1,9 @@
+ In the past few years a hot topic in both research and industrialization of p type multi crystalline silicon solar cells is to investigate the mechanism measurement and mitigation of the light and elevated temperature induced degradation which has been found to be a bulk sensitive degradation behavior and is dependent on the degradation condition . In this paper we study the influence of silicon bulk property on LeTID from five representative positions along a relative low resistivity p type mc Si brick . The evolution of degradation and regeneration under different laser illumination conditions are investigated . Identical defect capture cross section ratio
+
+@highlight Identical defect capture cross section ratio k values of 35 along low resistivity p type mc Si brick height are found.
+@highlight The activation energy for degradation E
+@highlight  shows no difference with regeneration E
+@highlight  in the same wafer position.
+@highlight The activation energy shows a tendency of larger values towards the brick bottom.
+@highlight A laser illumination of 45 kW m
+@highlight at 142 C for 100 s could be used as a universal and fast LeTID test condition.

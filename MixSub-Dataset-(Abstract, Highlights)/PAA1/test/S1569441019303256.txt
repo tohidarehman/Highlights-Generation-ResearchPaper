@@ -1,0 +1,5 @@
+ We performed numerical simulations of plasmonic near field enhancement in Si based structures in near infrared region . Gold films perforated with periodic two dimensional subwavelength hole arrays were used as the plasmonic couplers . The array periodicity was adjusted to excite the surface plasmon modes at the telecom wavelengths . The field intensity enhancement factor and its spectral position as a function of hole diameter demonstrate the maximum at which the Bloch plasmon polariton waves propagating along the AuSi interface change by a localized surface plasmon mode . The maximum peak wavelength and field intensity enhancement are reached at
+
+@highlight The near infrared photodetection in Si based heterostructures is enhanced by metallic nanohole arrays.
+@highlight The maximum plasmonic enhancement is reached when the aperture size equal to half the array period.
+@highlight The anticrossing of localized and propagating plasmon modes occurs when the aperture size becomes comparable with the array period.

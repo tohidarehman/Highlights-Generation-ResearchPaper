@@ -1,0 +1,7 @@
+ The aim of this study is to test the capability of the anaerobic digestion model n1 to reproduce data from full scale digesters operated in a wastewater resource recovery facility where both thermal hydrolysis and codigestion with industrial waste are carried out . Furthermore the potential uses of the model in a WRRF are also described with particular relevance for plant engineers operators . The model capability was calibrated and validated with data from full scale digesters from the Mapocho Trebal WRRF
+
+@highlight The ADM1 model was tested in a WRRF with thermal hydrolysis and codigestion.
+@highlight Full scale data over 68 months period was used for model calibration and validation.
+@highlight A prediction success rate of 6065 for biogas production was attained in both cases.
+@highlight The lowest prediction success rate values were obtained for the VFA in the digestate.
+@highlight A description of the potential model applications as a decision making tool is given.

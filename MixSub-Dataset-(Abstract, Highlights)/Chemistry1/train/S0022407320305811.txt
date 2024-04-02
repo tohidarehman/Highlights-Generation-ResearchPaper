@@ -1,0 +1,7 @@
+ In the analysis of light scattering by small particles the Generalized Lorenz Mie Theory describes the incident beam with a set of Beam Shape Coefficients that can be calculated with three different approaches viz . quadratures finite series and localized approximations . Choosing between them may not be self evident . A Bessel Gauss beam is a finite energy physically realizable wave field resulting from the apodization of a Bessel beam by a Gaussian function . This paper provides a comparison between the aforementioned techniques for the evaluation of the BSCs of scalar BGBs with distinct axicon angles and confinement parameters including field reconstructions . All three methods agree quite well in the paraxial regime although as the axicon angle or the topological charge increases differences in the BSCs for each method become more and more evident .
+
+@highlight Scalar Bessel Gauss beams are described in the generalized Lorenz Mie theory GLMT .
+@highlight Beam shape coefficients are calculated using three remodeling techniques.
+@highlight Quadratures finite series and localized approximations are compared for distinct topological charges and axicon angles.
+@highlight Examples of calculations of beam shape coefficients and remodeling of radial electric field component are presented.
+@highlight This work is an important contribution to the field and may also bring greater interest to the use of the finite series method to compute beam shape coefficients.

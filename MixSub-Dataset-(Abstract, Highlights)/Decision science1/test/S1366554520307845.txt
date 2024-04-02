@@ -1,0 +1,5 @@
+ Forward reserve strategy is commonly applied when processing a large number of small orders . This paper considers robotic forward reserve warehouses where pick locations are brought to workers by mobile robots in the forward area . We treat the critical problem of unsatisfactory efficiency in the robotic forward area . A picking replenishment synchronization mechanism is thereby proposed which optimally attains a balance between replenishment efforts and picking efficiency . The resulting problem is formulated and solved by a tailored variable neighborhood search procedure integrated with a divide and conquer paradigm . Numerical results reveal remarkable benefits of PRSM over the conventional random schemes under different scenarios .
+
+@highlight A novel picking replenishment synchronization mechanism is proposed for the robotic forward warehouse.
+@highlight The model attains a balance between picking efficiency and replenishment efforts.
+@highlight The proposed synchronization approach is superior to the conventional random schemes stably under various parameter settings.

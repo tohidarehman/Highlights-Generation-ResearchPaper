@@ -1,0 +1,7 @@
+ In this paper we present a noncooperative sequential bargaining game with transferable utility . Instead of assuming exogenous protocol or random proposer recognition we provide a mechanism in which the protocol is generated endogenously . Besides a partial breakdown probability is considered rather than a discount factor when the proposal is rejected by some player . We show that for each partial breakdown probability stationary subgame perfect equilibria exist if the characteristic function game is totally balanced . Moreover the outcomes of stationary subgame perfect equilibria in our model coincide with the core allocations .
+
+@highlight We introduce a bargaining game with endogenous protocol and partial breakdown.
+@highlight Our mechanism implements the core in stationary subgame perfect equilibria.
+@highlight Our mechanism can also be extended to implement the coalition structure core.
+@highlight The existence of no delay stationary subgame perfect equilibria for general cases is discussed.
+@highlight Some related studies and comparisons are involved.

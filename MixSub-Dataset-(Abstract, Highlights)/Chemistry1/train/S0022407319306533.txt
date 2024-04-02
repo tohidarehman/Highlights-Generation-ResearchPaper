@@ -1,0 +1,5 @@
+ This work is an expanded study of one previously published on retrievals of aerosol microphysical properties from space borne multiwavelength lidar measurements . The earlier studies and this one were done in the framework of the NASA Aerosol Clouds Ecosystems NASA mission . The focus here is on the capabilities of a simulated spaceborne multiwavelength lidar system for retrieving aerosol complex refractive index m m
+
+@highlight Space borne simulated lidar systems.
+@highlight Space borne retrievals of vertical profiles of aerosol single scattering albedo.
+@highlight Error sensitivity of space lidar systems.

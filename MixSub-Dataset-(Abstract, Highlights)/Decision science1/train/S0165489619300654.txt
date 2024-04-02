@@ -1,0 +1,7 @@
+ I study kidney exchange with strict ordinal preferences and with constraints on the lengths of the exchange cycles . Efficient deterministic mechanisms have poor fairness properties in this environment . Instead I propose an individually rational ordinally efficient and anonymous random mechanism for two way kidney exchange based on Bogomolnaia and Moulins Probabilistic Serial mechanism . Individual rationality incentivizes patientdonor pairs who are compatible with each other to participate in the exchange thus increasing the overall transplantation rate . Finally individual rationality ex post efficiency and weak strategyproofness are incompatible for any mechanism .
+
+@highlight Efficient non random mechanisms do not treat kidney exchange participants equitably.
+@highlight There exists a random mechanism that is efficient fair and individually rational.
+@highlight The mechanism can honor patient priorities and be equitable within priority classes.
+@highlight There is no mechanism that is efficient individually rational and strategyproof.
+@highlight The model with social endowment kidneys generalizes known object assignment problem.

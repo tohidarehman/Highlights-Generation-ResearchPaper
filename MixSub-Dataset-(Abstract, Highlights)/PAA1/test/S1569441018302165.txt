@@ -1,0 +1,6 @@
+ Using the transfer matrix method we study the transmission properties in Octonacci one dimensional linear graded photonic crystals compressing a dielectric material and a magnetized cold plasma material . We found that the frequency and the quality factor of filters can be easily manipulated by tuning the external magnetic field
+
+@highlight The transmission properties in 1D linear graded magnetized cold plasma Octonacci photonic crystals are analyzed.
+@highlight The filters performance can be strongly dependent on the number of periods and the applied magnetic field.
+@highlight The linear gradation of the thickness provides a possible mechanism to optimize the filters performance.
+@highlight The influences which come from the incident angle for both polarizations are presented.

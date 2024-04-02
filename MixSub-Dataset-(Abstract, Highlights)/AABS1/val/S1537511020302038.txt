@@ -1,0 +1,6 @@
+ Visible and near infrared spectral imaging is a key non destructive technique for rapid assessment of biophysical traits of plants . A major challenge with close range spectral imaging of plants is spectral variation arising from illumination effects which may mask the signals due to physiochemical differences . In the present work we describe a new scatter correction technique called variable sorting for normalisation and compare its efficiency with that of the commonly used standard normal variate technique for the removal of unwanted illumination effects . Spectral images of potato plants were used for testing the correction . The results showed that the VSN outperformed SNV in removing illumination effects from the images of plants . The results show that the VSN approach to illumination correction can support high throughput plant phenotyping where spectral imaging is used as a continuous monitoring tool .
+
+@highlight Illumination correction in spectral imaging of plants.
+@highlight Variable sorting for normalisation VSN is demonstrated.
+@highlight After correction plants part segmentation was enhanced.
+@highlight VSN proved to be an easy approach to removing illumination effects.

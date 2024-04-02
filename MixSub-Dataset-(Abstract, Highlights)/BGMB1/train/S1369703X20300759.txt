@@ -1,0 +1,6 @@
+ In this study mathematical models are developed for a Microbial Fuel Cell with a fermenter Electrochemically Active Bacteria type two species biofilm governed by Mediator Based Extracellular Electron Transfer or Direct Conduction Based Extracellular Electron Transfer and operating under a batch or continuous mode . Numerical simulations have been carried out to test the impact of a range of physical and biochemical parameters on biofilm composition and current generation .
+
+@highlight Modelling two species biofilm with different EET mechanisms and operating modes.
+@highlight Detailed analysis of the responses of biofilm composition to various factors.
+@highlight Revealing complex trade offs between multiple impacts.
+@highlight Predicting the optimal values for several parameters.

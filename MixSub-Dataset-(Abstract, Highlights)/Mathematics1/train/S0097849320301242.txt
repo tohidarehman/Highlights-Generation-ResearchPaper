@@ -1,0 +1,5 @@
+ Mid air imaging technology enables computer graphics images to move around in the real world . However the big form factor of large format mid air displays makes them bulky and limits their applicability . To reduce the size of such displays we propose an optical design that realizes mid air image movement by rotating the reflecting surface and the light source with motors and thus moving the virtual image of the light source . We made a prototype based on the calculation of the mirror and display angles and the distance between them and evaluated the luminance sharpness and position of the mid air image of this prototype . We confirmed that the size of the prototype was smaller than that produced by the previous method which will allow a smaller form factor for creating mid air images for different applications .
+
+@highlight Mid air image movement in depth direction through rotating source and mirror.
+@highlight Proposed mid air imaging system is smaller than conventional systems.
+@highlight Evaluation of mid air imaging system using simulations and prototype.

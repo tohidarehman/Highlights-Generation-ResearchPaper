@@ -1,0 +1,7 @@
+ This work studies the conceptual design of a Reactive Distillation process for isobutyl acetate production by esterification of acetic acid and isobutanol . Static and reactive residue curve map analyses were used to assess RD feasibility and to identify suitable operating conditions for industrial implementation . The maps were obtained using validated phase equilibria and reaction kinetic models by coupling Aspen plus V.10 and Python . Afterwards conceptual design outputs were used for a rigorous simulation and optimization of the process . The obtained results indicate that pure isobutyl acetate can not be obtained as pure product from the RD column as it is a saddle node . However isobutyl acetate can be obtained as bottom product at enough purity to fulfil urethane grade specifications . A final reactive distillation configuration was developed enabling to obtain almost complete reactants conversion with a molar composition of isobutyl acetate 99 wt . at the bottoms of the column . According to the optimal operating conditions isobutyl acetate via RD can be produced under an energy intensity of 0.77 kW kg
+
+@highlight A conceptual design of a reactive distillation process for isobutyl acetate synthesis.
+@highlight Esterification of acetic acid and isobutanol using Amberlyst 15 as catalysts.
+@highlight Static and reactive residue curve maps analyses were used.
+@highlight Rigorous simulation and optimization was carried out.
+@highlight Urethane grade isobutyl acetate can be obtained as bottoms product.

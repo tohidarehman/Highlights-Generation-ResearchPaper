@@ -1,0 +1,6 @@
+ Here we report the simple and flexible nanogenerator based on ZnO nanosheet networks . ZnO nanosheets are synthesized by simple cost effective and single step hydrothermal method on flexible conducting Aluminum substrates at a low growth temperature of 80C . Nanogenerator is fabricated using ZnO nanosheet networks as an active piezoelectric element with necessary electrodes . Fabricated nanogenerator tested under real time mechanical forces such as finger tapping muscle stretching foot pressure and mechanical bending . Nanogenerator output was verified by switching polarity and superposition tests and tests confirmed piezoelectric voltage . Fabricated nanogenerators produced open circuit voltage above 100mV for the single device and 400mV for four devices connected in series . The simplicity of this method and the reasonable output voltage of the cascaded nanogenerators are useful in practical energy harvesting for future needs .
+
+@highlight Single step growth of ZnO nanosheets with simple apparatus at low temperature.
+@highlight Fabrication of Nanogenerator based ZnO nanosheets with simple steps.
+@highlight Fabricated Nanogenerator produced reproducible output 400mV in response mechanical stress.
+@highlight Nanogenerator output is tested against bending muscle stretching foot pressure.

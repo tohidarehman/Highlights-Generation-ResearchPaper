@@ -1,0 +1,6 @@
+ Satellite vegetation index time series data provide a feasible option for monitoring crop phenology at a large scale . However there are limited researches that investigated the accuracy of different methods for crop phenology detection with various VIs over a large scale region . In this study we used four VIs i.e . Normalized Difference Vegetation Index Enhanced Vegetation Index Two band Enhanced Vegetation Index and Normalized Difference Phenology Index derived from the Moderate Resolution Imaging Spectroradiometer data combined with six methods i.e . relative threshold at 10 20 or 50 of the VI s amplitude maxima of the curvature change rate of the fitted logistic curve CCR
+
+@highlight Four vegetation indexes and six methods were compared for winter wheat green up date GUD detection.
+@highlight Normalized difference phenology index outperforms the other vegetation indices.
+@highlight The relative threshold of the southern region is higher than that of the northern region.
+@highlight All methods may induce spatial incoherence of residuals for GUD detection.

@@ -1,0 +1,15 @@
+ Binary defocusing technique has been widely used in fringe projection profilometry for high speed measurement . This technique projects designed binary patterns with a defocused projector to generate fringes for wrapped phase calculation and
+
+@highlight Investigate
+@highlight  ary simple and gray codes 
+@highlight SC and
+@highlight GC for phase unwrapping.
+@highlight Propose an identification binary classification IBC method for
+@highlight SC error removal.
+@highlight Compare
+@highlight SC and
+@highlight GC methods by simulations and experiments comprehensively.
+@highlight Prove the superiority of
+@highlight SC IBC AMF and
+@highlight GC AMF AMF adaptive median filter .
+@highlight Provide recommendations towards high accuracy and high speed phase unwrapping.

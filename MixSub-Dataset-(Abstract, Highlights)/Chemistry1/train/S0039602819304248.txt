@@ -1,0 +1,6 @@
+ The electrolyte semiconductor interface is widely spread in physical chemical and biological systems which makes the task of refining the physical interface model relevant for the development of studies of living and nonliving systems . When studying the properties of the solid liquid interface traditionally the main attention is paid to the most structurally mobile part of the system namely the liquid under the assumption that the ion structure of the near surface region of the solid remains unchanged . This article presents the results of numerical simulation of the electronic properties of the interface depending on the course of the potential in the subsurface layer of a semiconductor in the presence of mobile ions inside it . In this case the properties of the classical and dimensionally quantized space charge region of the semiconductor are also compared . It is shown that the transport time of hydrogen ions in the subsurface region of
+
+@highlight The charge structure of the interface is balanced by the ion and electron subsystems.
+@highlight Protons move in the electric field of the space charge region of a semiconductor.
+@highlight The motion of protons compensates for the action of a penetrating electric field.
+@highlight The ion transport rate is comparable to the rate of change of the electrode potential.

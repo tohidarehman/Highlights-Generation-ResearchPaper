@@ -1,0 +1,6 @@
+ This paper considers an insurance surplus process modeled by a spectrally negative Lvy process . Instead of the time of ruin in the traditional setting we apply the time of drawdown as the risk indicator in this paper . We study the joint distribution of the time of drawdown the running maximum at drawdown the last minimum before drawdown the surplus before drawdown and the surplus at drawdown which generalizes the known results on the classical expected discounted penalty function in Gerber and Shiu . The results have semi explicit expressions in terms of the
+
+@highlight We extend the classical discounted penalty function from ruin time to general draw down time.
+@highlight We consider a general draw down function.
+@highlight The surplus is modeled by a spectrally negative Lvy process.
+@highlight The technique of excursion theory is applied.

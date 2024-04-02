@@ -1,0 +1,7 @@
+ This study investigates whether deposit insurance affects bank payout policy . To overcome identification concerns we use the US Emergency Economic Stabilization Act of 2008 which increased the maximum limit of deposit insurance coverage leading to significant changes in the proportion of insured deposits to assets of some banks while leaving others relatively unaffected . In line with the view that dividends convey information regarding financial health we find that banks which experience a substantial increase in insured deposits reduce dividends relative to others with a smaller increase in insured deposits . An extensive battery of further tests confirm that our results are not driven by events that took place around the time of the increase in the maximum limit of deposit insurance coverage . Overall the results of our empirical analysis suggest that banks holding fewer uninsured deposits pay less dividends .
+
+@highlight We investigate whether deposit insurance affects bank dividend policy.
+@highlight We use a change in deposit insurance coverage to overcome identification concerns.
+@highlight This change was sudden and did not affect all banks equally.
+@highlight Banks reduce dividends following an increase in deposit insurance coverage.
+@highlight This is more pronounced for banks with a greater reliance on deposit funding.

@@ -1,0 +1,7 @@
+ Over the past decade sequential laser scanning has become increasingly routine for geomorphic monitoring in steep mountainous environments . Laser scans represent a permanent record of the terrain topology at a given point in time . Comparison of multitemporal datasets facilitates the identification of changes occurring in the terrain over time . Vegetation points in laser scans can inhibit the alignment of sequential scans .
+
+@highlight Raster based tree extraction is hindered when applied in mountainous terrain
+@highlight Multi scale geometric operators are used to classify vegetation in 3D point clouds
+@highlight Voxel based region growing is used to delineate individual trees
+@highlight Delineated trees are directly incorporated into rockfall runout modelling
+@highlight Overclassification of trees overestimates the protective capacity of the forest

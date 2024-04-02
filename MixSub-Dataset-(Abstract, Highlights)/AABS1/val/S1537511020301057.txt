@@ -1,0 +1,7 @@
+ A geostatistical methodology is presented to optimise the dosage of plant protection products in vineyards with spatial variability . Sprayers are commonly used in viticulture to apply a constant volume rate per unit ground area l ha
+
+@highlight LAI probability maps to optimise spatially variable PPP application in vineyards.
+@highlight Method defines reference LAI and allows corresponding volume rate to be set.
+@highlight Risk of overdosed underdosed areas within the plot needs to be balanced.
+@highlight 65th 80th percentile of original LAI values reference used for dose expressions.
+@highlight This method can minimise the risk of underdosing.

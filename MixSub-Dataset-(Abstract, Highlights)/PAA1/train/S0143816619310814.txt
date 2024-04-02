@@ -1,0 +1,5 @@
+ A laser ablation study was carried out by focusing optical energy via a photon sieve planar diffractive lens and the results are compared with traditional refractive lenses . It was found that the materials processed by the photon sieve show a significant reduction in the lateral spread and thickness of the oxidized surface when compared to the refractive lens . This oxide layer is primarily attributed to the heat affected zone and recast layer in the silicon substrate . This difference is attributed to the pinhole diffraction of the photon sieve which produces a reduced 1 e
+
+@highlight Photon sieves focus to a smaller spot size for a given NA compared to refractive lenses without sacrificing depth of focus.
+@highlight Increased resolution results in reduced oxidation heat affected zone and recast layer in laser materials processing.
+@highlight Thermal confinement has important implications for biomedical materials processing and spectroscopy applications.

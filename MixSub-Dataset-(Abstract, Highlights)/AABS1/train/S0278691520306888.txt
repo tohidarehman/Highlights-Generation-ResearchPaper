@@ -1,0 +1,7 @@
+ Liver steatosis has been associated with various etiological factors . How those factors work together to induce steatosis progression is still scarcely evaluated . Here we tested whether phthalates could potentiate death of steatotic hepatocytes when combined with ethanol . Pre steatotic WIF B9 hepatocytes were co exposed to mono phthalate or DEHP and ethanol for 5 days . An increased apoptotic death was detected involving a DNA damage response . Using 4 Methypyrazole to inhibit ethanol metabolism and CH 223191 to antagonize the AhR receptor we found that an AhR dependent increase in alcohol dehydrogenase activity was essential for cell death upon MEHP ethanol co exposure . Toxicity was also prevented by HET0016 to inhibit the cytochrome P450 4A . Using the antioxidant thiourea a role for oxidative stress was uncovered notably triggering DNA damage . Finally co exposing the
+
+@highlight MEHP EtOH co exposure leads to death of steatotic hepatocytes
+@highlight oxidative DNA damage.
+@highlight MEHP activated AhR would enhance ethanol metabolism by ADH in steatotic cells.
+@highlight The toxicity by MEHP EtOH co exposure would rely on CYP4A activity in steatotic cells.
+@highlight Co exposure to DEHP EtOH of HFD zebrafish larva induces progression of liver steatosis.

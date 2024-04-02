@@ -1,0 +1,7 @@
+ In this paper we propose a discrete model to investigate reliable location design with round trip transportation under imperfect information . The unique feature of this problem is that under each disruption scenario a customers outbound and inbound trips are different when she travels to obtain a service . The discrete model is formulated as a compact non linear integer programming problem and solved efficiently by a customized Lagrangian relaxation algorithm . Numerical experiments find that the discrete model performs well for small and medium scale problem instances . Sensitivity analyses reveal the impacts of several parameters on both the cost components and the optimal facility layouts .
+
+@highlight Consider round trip transportation and the optimal try and error visiting strategy in reliable location design.
+@highlight Formulate a compact model for reliable location design with round trip transportation and under imperfect information.
+@highlight Propose an efficient customized solution approach based on Lagrangian relaxation.
+@highlight Compare the proposed customized algorithm and commercial solver.
+@highlight Reveal the effect of influence factors on optimal location design and cost components.

@@ -1,0 +1,6 @@
+ Statistical time series models are increasingly being used to fit medium resolution time series provided by satellite sensors such as Landsat for terrestrial monitoring . Cloud and shadows combined with low satellite repeat cycles reduce surface observation availability . In addition only a single year of data can be used where there is high inter annual variation for example over many croplands . These factors reduce the ability to fit time series models and reduce model fitting accuracy . In solution we propose a novel fill and fit
+
+@highlight Accurate prediction of daily gap free Landsat 30m reflectance data
+@highlight Within year satellite time series
+@highlight Alternative similar pixel gap filling followed by harmonic model fitting
+@highlight Evaluated over agricultural Landsat ARD tiles including cloudy regions

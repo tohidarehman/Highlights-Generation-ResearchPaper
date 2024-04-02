@@ -1,0 +1,7 @@
+ The objective of this paper is to develop a micro economic modeling approach for car following behaviors that may capture different risk taking tendencies when dealing with different traffic conditions . The proposed framework allows for the consideration of perception subjectivity and judgement errors that may lead to unsafe acceleration driving maneuvers with the possibility of real end collisions . The modeling approach relies on a generalized utility based formulation with three specific types of subjective utility functions Prospect Utility subjective utility function Constant Relative Risk Aversion subjective utility function and an Exponential Constant Relative Risk Aversion subjective utility function . The formulation is assessed in terms of its homogeneous macroscopic properties and its non homogeneous microscopic properties .
+
+@highlight A generalized utility based formulation of a car following is offered.
+@highlight This includes Prospect Utility and two variants of Constant Relative Risk Aversion.
+@highlight The macroscopic and microscopic properties of the different functions are derived.
+@highlight The model was calibrated and validated using 1000 individual trajectory sets.
+@highlight The model s characteristics are analyzed via simulation and sensitivity analysis.

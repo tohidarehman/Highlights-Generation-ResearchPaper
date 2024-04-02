@@ -1,0 +1,5 @@
+ This paper employs the tri variate Markov regime switching copula model to investigate the dynamic dependence between the shipping freight and stock markets . Stronger contemporaneous and bidirectional lead lag relationships between the two markets are detected in the contagion regime which however are weaker in the normal regime . Compared with the Chinese stock market the US stock market can affect and be affected by the shipping freight market in a more sensitive manner . Additionally contagion risk between the two markets increases in most cases due to a decrease in the volume of the US China trade . The results have important implications for market prediction and risk management .
+
+@highlight The dynamic tri variate Markov regime switching MRS copula model is applied to examine contagion risk.
+@highlight A vector autoregressive VAR model is used to investigate the impact of the volume of the US China trade.
+@highlight A stronger dependence in the contagion regime is confirmed by the contemporaneous and lead lag relationships.

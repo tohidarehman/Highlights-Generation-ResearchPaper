@@ -1,0 +1,6 @@
+ Green roof can mitigate urban stormwater and improve environmental economic and social conditions . Various modeling approaches have been effectively employed to implement a green roof but previous models employed simplifications to simulate water movement in green roof systems . To address this issue we developed a new modeling tool by coupling the stormwater management and HYDRUS 1D models to improve simulations of hydrological processes . We selected green roof systems to evaluate the coupled model . Rainfall runoff experiments were conducted for a pilot scale green roof and urban subbasin . Soil moisture in the green roof and runoff volume in the subbasin were simulated more accurately by using SWMM H instead of SWMM . The scenario analysis showed that SWMM H selected sandy loam for controlling runoff whereas SWMM recommended sand . In conclusion SWMM H could be a useful tool for accurately understanding hydrological processes in green roofs .
+
+@highlight A new green roof modeling tool is developed by coupling the SWMM and HYDRUS models.
+@highlight Rainfall runoff event data are used to evaluate performance of the proposed model.
+@highlight The proposed model outperformed in green roof simulation than SWMM.
+@highlight The scenario analysis showed that new model is logical in reflecting hydrology.

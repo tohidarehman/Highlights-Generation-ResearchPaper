@@ -1,0 +1,7 @@
+ Temporal Dominance of Sensations and Temporal Check all that Apply from three different case studies are compared by means of canonical correlation analysis orthogonalization and principal component analysis of the vertically unfolded data . The multivariate analyses decompose the datasets into common and distinct components . The results showed that the major part of the variation is common between the two methods for the cases investigated but that there were subtle differences showing better discrimination for TCATA than TDS . TDS showed a more complex data structure and more unique variation . The unique variation in TDS is however difficult to interpret . The methods are more different towards the end of the mastication this can be explained both by the difficulty of assessors to agree on the dominant attributes at the bolus stage for TDS and that assessors may forget to unclick attributes in TCATA . This work builds on recent methodological studies on temporal methods that aim to better understand differences among methodologies and ultimately to identify what methods could be better for answering different objectives .
+
+@highlight TDS and TCATA are compared by common and distinct components.
+@highlight Common components are identified by canonical correlation analysis.
+@highlight Distinct components are found after orthogonalization.
+@highlight Results indicate only subtle differences between the methods.
+@highlight TCATA give better discrimination of samples in all case studies.

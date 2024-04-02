@@ -1,0 +1,6 @@
+ Forest top of canopy reflectance observed by remote sensing instruments is driven by a wide range of parameters including optical properties of leaves being the major driver understory and bark together with structural properties of the forest spatial distribution of leaves and branches in the canopy contributing also to variable extent . In addition the instantaneous observation geometry largely influences the observed TOC reflectance due to the changes in shadow fraction in the canopies . As a result forest TOC reflectance is highly dynamic following the seasonal patterns of optical and structural properties of vegetation .
+
+@highlight Trends in dorsiventral leaf reflectance are driven by leaf structure.
+@highlight Biggest differences in studied leaf traits were observed in early spring and autumn.
+@highlight Seasonal leaf reflectance asymmetry upscaled in complex radiative transfer model.
+@highlight Neglecting lower side reflectance may underestimate relative reflectance by 20 .

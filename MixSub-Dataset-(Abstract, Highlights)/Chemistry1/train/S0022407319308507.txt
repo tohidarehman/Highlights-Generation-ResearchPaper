@@ -1,0 +1,7 @@
+ Laser spectroscopy methods were used in investigations of the Zeeman hf structure of 17 lines of atomic vanadium in the visible green red region 568.3 648.1 nm . We used two methods of laser spectroscopy the laser induced fluorescence and fluorescence depletion spectroscopy . A hollow cathode discharge tube was the source of vanadium atoms . Zeeman structure measurements were carried out using a permanent neodymium magnet generating a field of approximately 800 G. We determined
+
+@highlight Laser spectroscopy methods LIF and FDS were used in measurements of the Zeeman hf structure of atomic vanadium.
+@highlight New experimental gJ factors have been determined for 10 energy levels of V I.
+@highlight New experimental hfs constants were determined for 7 levels of V I.
+@highlight Hfs and gJ data for many other levels of V I have been tested and verified.
+@highlight In the computer analysis of the spectra the saturation effect was taken into account.

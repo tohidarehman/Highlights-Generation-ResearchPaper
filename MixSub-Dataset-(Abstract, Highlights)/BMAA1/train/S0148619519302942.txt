@@ -1,0 +1,7 @@
+ I show how currency denomination and the ATM influence consumers choice of whether to pay cash for in person purchases . I identify transaction values above which consumers switch from paying cash to paying with cards . The sharpest changes in the share of cash payments occur at 20 and 40 which coincide with the observation that most ATMs in the US dispense multiples of 20 bills . Other thresholds prevail at multiples of 5 and 10 . The above thresholds generate asymmetries in consumer behavior where the share of cash payments increases for payments values just below the thresholds and decreases just above them .
+
+@highlight Currency and ATM bill denominations influence consumers choice of paying cash.
+@highlight The sharpest changes in the share of cash payments occur at 20 and 40.
+@highlight Which coincides with the observation that most ATMs dispense multiples of 20 bills.
+@highlight Other changes in the share of cash payments occur at multiples of 5 and 10.
+@highlight I propose algebraic formulations of consumer preferences that support this behavior.

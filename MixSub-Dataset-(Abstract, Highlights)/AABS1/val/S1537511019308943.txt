@@ -1,0 +1,5 @@
+ This research was devoted to establishing a dimensionless model for estimating mixture friction factor based on the Buckingham Theorem . An experimental test rig with conveying pipeline of 40mm I.D was designed assembled and used to collect the data needed to model the mixture friction factor . Experiments were carried out in four levels of slot depths three levels of air pressure and three pipeline lengths . Conveying tests with three particulate materials of mung bean corn and polyethylene pellets were completed using three replications . Static air pressure across the conveyor mass flow rate of discharge solids and inlet air mass flow rate were measured during the tests .
+
+@highlight A novel test rig for conveying of granular materials in dense phase was designed.
+@highlight The general equation for mixture friction factor has been developed.
+@highlight The validation process proved that the model was acceptable.

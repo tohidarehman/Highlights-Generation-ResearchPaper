@@ -1,0 +1,7 @@
+ Convolutional neural network is widely applied to different areas due to good recognition performance . However convolution operation is a complex computation and consumes the bulk of processing time for CNN . It is still a hot problem how to develop a novel model with good recognition performance for deep learning . Here we propose a novel model namely two dimensional perceptron to get direct input of two dimensional data for further processing . A TDP has a new network architecture and an innovative computation process of hidden neurons . In cases with the same number of hidden neurons compared with multilayer perceptron TDP achieves good recognition performance with 1
+
+@highlight A TDP has a new network architecture and an innovative computation process of hidden neurons.
+@highlight It has an independent global network structure without using the convolutional layer.
+@highlight It has local connections rather than full connections.
+@highlight It uses matrix multiplication instead of convolution operation.
+@highlight It gets direct input of two dimensional data for further processing.

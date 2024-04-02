@@ -1,0 +1,6 @@
+ Formation of the amyloid beta peptide aggregations represents an indispensable role in appearing and progression of Alzheimer disease . sheet breaker peptides can be designed and modified with different amino acids in order to improve biological properties and binding affinity to the amyloid beta peptide . In the present study three peptide sequences were designed based on the hopeful results of LIAIMA peptide and molecular docking studies were carried out onto the monomer and fibril structure of amyloid beta peptide using AutoDock Vina software . According to the obtained interactions and binding energy from docking the best designed peptide
+
+@highlight The molecular interactions of designed peptides against A peptide were evaluated by the molecular docking.
+@highlight Targeting peptide synthesis of the A aggregation was successfully synthesized.
+@highlight inhibition activity studies were performed on A aggregation.
+@highlight The prepared peptide could be a potential therapeutic agent for inhibition of the formation and growth of A aggregations in AD.

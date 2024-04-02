@@ -1,0 +1,7 @@
+ Fiber optic surface plasmon resonance sensor utilizing silver and Ag graphene oxide is designed and developed for the detection of adulteration of glucose and fructose in pure honey . The concentration range of the two adulterants in pure honey is varied from 4 to 20 with a step change of 4 . The experiments were performed with two different fiber optic probes viz . Probe 1 and Probe 2 . Probe 1 is fabricated by coating 50nm Ag film on unclad optical fiber portion and Probe 2 is fabricated by modifying Ag film with GO for sensitivity improvement . The study confirms that using GO modified fiber optic probe the sensitivity is enhanced to 24 and 37 for glucose and fructose adulterated honey samples respectively . The technique presented in this study is easy rapid label free and shows high prospective for the detection of adulterants in pure honey .
+
+@highlight SPR based fiber optic sensor for adulteration detection in pure honey is presented.
+@highlight Probes have been fabricated by utilizing silver and Ag graphene oxide GO thin films.
+@highlight GO modified probe enhances sensitivity to 24 and 37 for glucose and fructose adulterated honey.
+@highlight Repeatability Limit of Detection and Limit of Quantification has also been assessed.
+@highlight Easy rapid label free technique for the detection of glucose fructose in pure honey.

@@ -1,0 +1,6 @@
+ Radiative transfer calculations in complex three dimensional domains are plagued by computational bottlenecks due to the combined cost of resolving spectral angular and spatial dependence . The current work presents a systematic study into the efficacy of three commonly used reduced order wide band models Planck averaging and statistics based
+
+@highlight Radiative transfer calculations expensive due to combined cost of resolving spectral angular and spatial dependence.
+@highlight Wide band models such as Planck averaging k distribution and theory of homogenization allow reduced order representation of spectral variation.
+@highlight Conventional wide band models strictly derived for local thermodynamic equilibrium conditions which limits their accuracy when simulating non equilibrium radiation.
+@highlight New generalized grouping strategy developed for defining larger groups of individual frequencies to predict both total quantities of interest and their detailed frequency distributions.

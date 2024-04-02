@@ -1,0 +1,6 @@
+ Compared to Seasonal Line Rating Dynamic Line Rating allows for higher power flows on overhead transmission lines depending on the actual weather conditions . Nevertheless the potential of DLR has to be traded off against the additional uncertainty associated with varying ratings . This paper proposes a DC Optimal Power Flow algorithm that accounts for DLR uncertainty by means of Chance Constraints . The goal is to determine the optimal day ahead dispatch taking the cost of reserve procurement into account . The key contribution of this paper consists in considering both non parametric predictive distributions of DLR and the combined wind power uncertainty in the optimization problem . Our results highlight the benefits of DLR in wind dominated power systems assuming typical risk aversion levels in the line rating estimation .
+
+@highlight A chance constrained DCOPF with non parametric correlated probabilistic forecasts of DLR and wind power.
+@highlight The model co optimizes energy and reserves with typical risk aversion levels of TSOs.
+@highlight Assuming a normal distribution overestimates the probabilistic forecasts of DLR.
+@highlight DLR reduces wind power curtailment and dispatch costs in highly congested networks.

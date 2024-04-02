@@ -1,0 +1,6 @@
+ This study examines the application of the daytime mean and insolation weighted mean solar zenith angles to calculate the diurnally averaged aerosol direct radiative effect
+
+@highlight Mean solar zenith angle for diurnal mean aerosol direct radiative effect DRE 
+@highlight Aerosol DREs using the daytime mean solar zenith angle are too strong
+@highlight Aerosol DREs using the insolation weighted mean solar zenith angle are too weak
+@highlight An adjusted insolation weighted mean solar zenith angle is introduced

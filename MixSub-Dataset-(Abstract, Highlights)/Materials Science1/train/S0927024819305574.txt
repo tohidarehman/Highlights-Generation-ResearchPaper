@@ -1,0 +1,7 @@
+ With a 22.1 efficiency record and the successful results in terms of production yield CdTe based thin film solar cells are today a competing technology with traditional silicon solar cells . Despite different copper free back contacts have been applied Cu is present in all the most performing CdTe devices . On the other hand it is well known that Cu is a fast diffuser in CdTe and it heavily influences the devices degradation thus controlling its concentration is very important . In this paper a study of the influence of copper quantity on the performance of the devices and stability at the back contact is presented . CdTe cells fabricated with a 0.1nm thick Cu layer are compared to devices fabricated with 2.0 1.0 and 0.5nm thick Cu layers . The amount of copper affects the performance and aging of the samples . Moreover an inversion of the bias dependency during the aging occurs in samples containing a copper layer below a certain thickness suggesting that another degradation mechanism predominates .
+
+@highlight For first time ultrathin Cu layer 0.1nm is studied on CdTe superstrate solar cell.
+@highlight Two different cell degradation behaviours are identified depending on Cu thickness.
+@highlight Carrier concentration does not drop with the reduction of Cu amount.
+@highlight Excess of Cu brings to the formation of donor defects that compensate the doping.
+@highlight A very limited amount of Cu is sufficient to reach the maximum possible doping with Cu.

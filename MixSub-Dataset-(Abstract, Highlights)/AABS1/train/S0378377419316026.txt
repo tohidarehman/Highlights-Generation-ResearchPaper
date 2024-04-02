@@ -1,0 +1,7 @@
+ Soil parameters related to soil water holding capacity could play an important role in simulating winter wheat growth under severe soil water stress which could heavily influence the simulated soil water contents and then biomass and final yield . In this study a field experiment of winter wheat
+
+@highlight Different scenarios of soil water stress remarkably influenced the plant height and aboveground biomass of winter wheat.
+@highlight The returning green stage was a critical stage for winter wheat irrigation.
+@highlight The current CERES Wheat model had large simulation errors under soil water stress at early vegetative stages.
+@highlight The current CERES Wheat model was unable to simulate the phenology discrepancy caused by soil water stress.
+@highlight The uncertainties in permanent wilting point could introduce large simulation errors under severe stress conditions.

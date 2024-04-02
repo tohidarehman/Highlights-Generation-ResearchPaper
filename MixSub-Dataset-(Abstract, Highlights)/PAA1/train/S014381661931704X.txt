@@ -1,0 +1,6 @@
+ Fringe analysis has been at the forefront of research due to its ubiquity in many optical measurement techniques such as electronic speckle interferometry shearography and digital holographic interferometry . The first step of most of the fringe analysis procedures is the denoising of fringe images . Therefore the performance of denoising algorithms is critical in deciding the accuracy of phase and in turn associated measurement of physical parameters . This paper discusses state of art fringe denoising algorithms and recent developments . Simulation and experimental examples of selected denoising algorithms are provided for the purpose of demonstration .
+
+@highlight State of the art fringe pattern denoising algorithms are discussed.
+@highlight State of the art wrapped phase pattern denoising algorithms are discussed.
+@highlight Some of the denoising algorithm performance matrics are discussed.
+@highlight Simulation and experiments are provided for fringe and phase pattern denoising.

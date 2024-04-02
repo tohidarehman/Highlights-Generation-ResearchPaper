@@ -1,0 +1,7 @@
+ Rice yield responses forecast is a very useful decision support tool in climate adaptation in Sahel where crops are purely rainfed climate stressors sensitive . This study aims to construct upland rice yield responses forecasting algebraic formulation code referred as YIELDCAST by using gene expression programming based on observed rainfall and temperatures data and forcing with global climate model downscaled outputs under CO
+
+@highlight We used gene expression programming GEP with weather data to develop YIELDCAST tool.
+@highlight YIELDCAST was forced with GCMs downscaled outputs to forecast upland rice yields.
+@highlight GEP is capable to downscale climate variables and forecast rice yield in Sahel region.
+@highlight Increase in temperatures and decrease in rains will hinder yields to increase.
+@highlight Yield forecasts suggested no major yield increase unless measures are taken.

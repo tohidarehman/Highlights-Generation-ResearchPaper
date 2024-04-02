@@ -1,0 +1,7 @@
+ In this work we propose JacobiFourier phase masks for wavefront coding based imaging systems . The optical properties of the phase mask is study in detail and numerical simulation are shown . Pixel size and noise are taken into account for the deconvolution of images . Numerical simulations indicate that overall performance is better than of the well known and commonly used trefoil phase .
+
+@highlight This paper provides a novel family of phase mask based on JacobiFourier polynomials for wavefront coding systems.
+@highlight We have found that the JacobiFourier polynomials are a generic new mathematical tool for wavefront coding and can be used to generate multiple phase masks including the typical cubic and trefoil phase masks among others.
+@highlight The modulation transfer function MTF of the JacobiFourier phase masks shows a better contrast response for high frequencies in respect to the trefoil phase mask.
+@highlight Numerical simulations where noise and pixel size is taken into account provide better insight of the performance of the experimental results.
+@highlight The phase mask based on JacobiFourier polynomials has the advantage that is highly robust when noisy conditions are presented during the digital image processing.

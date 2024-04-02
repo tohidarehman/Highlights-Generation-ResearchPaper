@@ -1,0 +1,6 @@
+ Protein Protein Interaction Network analysis unveils molecular level mechanisms involved in disease condition . To explore the complex regulatory mechanisms behind epilepsy and to address the clinical and biological issues of epilepsy
+
+@highlight The result revealed eight pivotal genes like DNM1 CCND1 ITPR1 HRAS SRC BRAF CREBBP SPTAN1 present in epilepsy.
+@highlight This study identified pathways like PI3 kinase VEGF CCKR Ras PDGF Integrin Wnt TGF beta EGF receptor signaling etc.
+@highlight Functional enrichment analysis discloses critical tasks during neuron excitation as a dominating function in epileptic state.
+@highlight Validation of key epileptic genes linked up pathways are investigated using clinical level results and Gene Ontology GO .

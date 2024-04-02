@@ -1,0 +1,7 @@
+ Bottom up i.e . molecule to medicine strategy for the discovery of new drugs takes enormous time and cost . In most of the cases inherent toxicity and undesired side effects of the developed drug hinder its way beyond the early stages of development . In this regard the systems pharmacology can play an excellent role by reducing the cost and time of drug development through rationalization and or repurposing of traditional drugs with known side effects . In the present study our aim was to develop an integrated systems biology method for the prediction of active ingredients of a traditional medicine and their potential targets inside the body . Further we evaluated the predictive capacity of the developed method in a preclinical animal model .
+
+@highlight A combined computational and experimental approach for rationalization and repurposing of traditional medicine.
+@highlight The method accurately predicts active ingredients of a polyherbal extract or extract from other biological sources .
+@highlight It also computes the molecular mechanism of action of the active ingredients.
+@highlight The results are verified with animal studies.
+@highlight This unique method can reduce the time and cost of the conventional drug discovery process.

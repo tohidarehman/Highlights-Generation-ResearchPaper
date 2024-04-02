@@ -1,0 +1,6 @@
+ Recently anisotropic polymer ceramic composites have attracted great attention because of their high thermal conductivity for the extensive usage in microelectronic devices . However further enhancement of their thermal conductivity is a great challenge due to the presence of interface thermal resistance and lack of efficient heat conduction pathways . Herein epoxy aluminum nitride honeycomb composites were fabricated through a two step method including freeze casting of the AlNH reinforcements and EP infiltration . The results showed that the vertically aligned and interconnected thermal conductive networks contributed to the enhanced thermal conductivity and thermal stability of the composites with the increase in AlN loading . The composites exhibited maximal thermal conductivity values of 9.48Wm
+
+@highlight Anisotropic epoxy aluminum nitride honeycomb composites were successfully fabricated by freeze casting and EP infiltration.
+@highlight Vertically aligned thermal conductive networks significantly enhanced the thermal conductivity of the composites.
+@highlight The microstructure and thermal properties of the composites are controlled by the solid loading of freezed slurries.
+@highlight The composites exhibited excellent heat dissipation performance for CPU.
