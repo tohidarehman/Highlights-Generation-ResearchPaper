@@ -1,0 +1,7 @@
+ The Capacitated Vehicle Routing Problem is a much-studied (and strongly -hard) combinatorial optimization problem, for which many integer programming formulations have been proposed. We present two new multi-commodity flow (MCF) formulations, and show that they dominate all of the existing ones, in the sense that their continuous relaxations yield stronger lower bounds. Moreover, we show that the relaxations can be strengthened, in pseudo-polynomial time, in such a way that all of the so-called knapsack large multistar (KLM) inequalities are satisfied. The only other relaxation known to satisfy the KLM inequalities, based on set partitioning, is strongly -hard to solve. Computational results demonstrate that the new MCF relaxations are significantly stronger than the previously known ones.
+
+@highlight We present several new formulations for the classical “Capacitated Vehicle Routing Problem”.
+@highlight We survey other previous flow-based formulations.
+@highlight We show that our new formulations have desired properties.
+@highlight We prove that the linear programming relaxations of the new formulations give better bounds.
+@highlight We analyse computational results to compare the known and new formulations.

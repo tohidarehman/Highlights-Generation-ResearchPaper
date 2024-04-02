@@ -1,0 +1,6 @@
+ The US National Institutes of Health (NIH) has developed the Biomedical Translational Research Information System (BTRIS) to support researchers’ access to translational and clinical data. BTRIS includes a data repository, a set of programs for loading data from NIH electronic health records and research data management systems, an ontology for coding the disparate data with a single terminology, and a set of user interface tools that provide access to identified data from individual research studies and data across all studies from which individually identifiable data have been removed. This paper reports on unique design elements of the system, progress to date and user experience after five years of development and operation.
+
+@highlight The NIH has created a repository for clinical and translational research data.
+@highlight The repository includes data from over 19 systems.
+@highlight Data are indexed with a single controlled unified terminology.
+@highlight Self-service user interfaces support retrieval of identified and de-identified data.

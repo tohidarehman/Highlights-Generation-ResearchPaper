@@ -1,0 +1,6 @@
+ ï»¿Since 2005, human and computer performance has been systematically compared as part of face recognition competitions, with results being reported for both still and video imagery. The key results from these competitions are reviewed. To analyze performance across studies, the cross-modal performance analysis (CMPA) framework is introduced. The CMPA framework is applied to experiments that were part of face a recognition competition. The analysis shows that for matching frontal faces in still images, algorithms are consistently superior to humans. For video and difficult still face pairs, humans are superior. Finally, based on the CMPA framework and a face performance index, we outline a challenge problem for developing algorithms that are superior to humans for the general face recognition problem.
+
+@highlight We review experiments comparing humans and machines in NIST face recognition tests.
+@highlight We introduce the cross-modal performance analysis (CMPA) framework.
+@highlight We apply the CMPA framework to the human–machine experiments in the NIST tests.
+@highlight We propose a challenge problem to develop algorithms with human level performance.

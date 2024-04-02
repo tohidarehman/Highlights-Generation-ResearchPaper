@@ -1,0 +1,7 @@
+ As a bioterrorist anthrax attack has serious consequences, an emergency management plan that can reduce the number of casualties should be studied. However, the papers studying this area are still few. This paper proposes a model which links the disease progression, the related medical intervention actions and the logistics deployment together to help crisis managers to extract crucial insights on emergency logistics management from a strategic level standpoint. This model is a multi-period one with the consideration of the period when the patients transfer into the different disease stages, the period when the medical intervention begins and the change of the recovery rate because of the time lag between the two aforementioned periods. Our model can support the decision making process in case of a real anthrax attack and evaluate the important factors, which can have a great impact on the number of casualties.
+
+@highlight A logistics response model to a bioterrorist anthrax attack is proposed.
+@highlight It combines disease progress, medical responses, and logistic deployment choices.
+@highlight It takes into account the main factors which may impact the number of deaths.
+@highlight Crisis managers could estimate the number of individuals in different stages.
+@highlight The model is flexible and can be adapted to various situations.

@@ -1,0 +1,7 @@
+ We present a simple method for C-shaped Hermite interpolation by a rational cubic Bézier curve with conic precision. For the interpolating rational cubic Bézier curve, we derive its control points according to two conic Bézier curves, both matching the Hermite data and one end curvature of the given Hermite data, and the weights are obtained by the two given end curvatures. The conic precision property is based on the fact that the two conic Bézier curves are the same when the given Hermite data are sampled from a conic. Both the control points and weights of the resulting rational cubic Bézier curve are expressed in explicit form.
+
+@highlight The method reproduces a conic arc if the input data come from such a conic curve.
+@highlight The method can reproduce a ‘whole’ conic curve even if it has singularities.
+@highlight The Bézier control points have well understood geometrical meaning.
+@highlight The final rational Bézier control points and weights are given in explicit form.
+@highlight Each of the tangential angles of the given tangent vectors can be arbitrary up to π.

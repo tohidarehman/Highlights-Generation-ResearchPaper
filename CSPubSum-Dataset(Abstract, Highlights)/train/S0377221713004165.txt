@@ -1,0 +1,7 @@
+ Cross-efficiency in data envelopment analysis (DEA) models is an effective way to rank decision-making units (DMUs). The common methods to aggregate cross-efficiency do not consider the preference structure of the decision maker (DM). When a DM’s preference structure does not satisfy the “additive independence” condition, a new aggregation method must be proposed. This paper uses the evidential-reasoning (ER) approach to aggregate the cross-efficiencies obtained from cross-evaluation through the transformation of the cross-efficiency matrix to pieces of evidence. This paper provides a new method for cross-efficiency aggregation and a new way for DEA models to reflect a DM’s preference or value judgments. Additionally, this paper presents examples that demonstrate the features of cross-efficiency aggregation using the ER approach, including an empirical example of the evaluation practice of 16 basic research institutes in Chinese Academy of Sciences (CAS) in 2010 that illustrates how the ER approach can be used to aggregate the cross-efficiency matrix produced from DEA models.
+
+@highlight The common cross-efficiency methods ignores the DM’s preference structure.
+@highlight New method must be proposed when additive independence condition is not satisfied.
+@highlight The cross-efficiency matrix is transformed into pieces of evidence.
+@highlight The ER approach is used to aggregate the cross-efficiencies (pieces of evidence).
+@highlight This method provides a new way to reflect DM’s preference or value judgments.

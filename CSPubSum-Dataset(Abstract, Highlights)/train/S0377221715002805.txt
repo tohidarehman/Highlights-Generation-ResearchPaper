@@ -1,0 +1,7 @@
+ Surgical scheduling is a challenging problem faced by hospital managers. It is subject to a wide range of constraints depending upon the particular situation within any given hospital. We deal with the simultaneous employment of specialised human resources, which must be assigned to surgeries according to their skills as well as the time windows of the staff. A particular feature is that they can be assigned to two surgeries simultaneously if the rooms are compatible. The objective is to maximise the use of the operating rooms. We propose an integer model and integer programming based heuristics to address the problem. Computational experiments were conducted on a number of scenarios inspired by real data to cover different practical problem solving situations. Numerical results show that relaxations provide tight upper bounds, and relax-and-fix heuristics are successful in finding optimal or near optimal solutions.
+
+@highlight We address surgery scheduling and resources assignment in an operating theatre.
+@highlight We detail the treatment of specialised human resources in a practical case.
+@highlight An individual of a speciality can perform more than one surgery simultaneously.
+@highlight We give a formulation of the problem and develop integer programming heuristics.
+@highlight We report numerical results on a number of scenarios inspired by real data.

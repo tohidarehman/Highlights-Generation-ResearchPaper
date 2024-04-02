@@ -1,0 +1,6 @@
+ Regulatory interactions among target genes and regulatory factors occur instantaneously or with time-delay. In this paper, we propose a novel approach namely TDSDMI based on time-delayed S-system model (TDSS) model and delayed mutual information (DMI) to infer time-delay gene regulatory network (TDGRN). Firstly DMI is proposed to delete redundant regulator factors for each target gene. Secondly restricted gene expression programming (RGEP) is proposed as a new representation of the TDSS model to identify instantaneous and time-delayed interactions. To verify the effectiveness of the proposed method, TDSDMI is applied to both simulated and real biological datasets. Experimental results reveal that TDSDMI performs better than the recent reconstruction methods.
+
+@highlight Delayed mutual information is proposed to delete redundant regulator factors.
+@highlight Restricted GEP is proposed as a new representation of time-delayed S-system model.
+@highlight A hybrid particle swarm optimization is used to optimize the parameters of TDSS .
+@highlight Two step method TDSDMI is proposed to infer time-delayed gene regulatory network.

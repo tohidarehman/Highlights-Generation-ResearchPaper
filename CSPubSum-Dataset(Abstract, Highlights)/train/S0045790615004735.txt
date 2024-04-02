@@ -1,0 +1,6 @@
+ This paper proposes two architectures, including an Opportunistic Large Array Concentric Routing Algorithm with Geographic Relay Nodes (OLACRA-GRN) architecture, and an Opportunistic Large Array Concentric Routing Algorithm with Relay Nodes (OLACRA-RN) architecture. First, the OLACRA-GRN architecture with the geographic information of relay nodes reduces node energy consumption and finds the optimum number of relay nodes to forward the data; an analysis of the characteristics of the energy model is also presented. Besides, the OLACRA-RN architecture without the geographic information of relay nodes is proposed, which can find the number layer of concentric circles in the sensing field. The optimal number layer of concentric circles is calculated according to the distance between the sink and field boundary. Simulation results show that our proposed OLACRA-GRN and OLACRA-RN architectures can effectively reduce node energy consumption more than Opportunistic Large Array Concentric Routing Algorithm (OLACRA) architecture.
+
+@highlight The optimal number layer of concentric circles is calculated by the distance.
+@highlight We calculate the optimum number of relay nodes to forward the data.
+@highlight Analysis of the characteristics of the energy model.
+@highlight Our proposed architectures can effectively reduce energy consumption of nodes.

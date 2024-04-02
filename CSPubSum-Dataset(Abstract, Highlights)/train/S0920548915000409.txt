@@ -1,0 +1,7 @@
+ Power line communication (PLC) seems to be one of the best trade-off between cost and benefit for implementing Smart Grids in industrial context. Unfortunately, industrial environment may compromise the reliability of PLC technologies due to noisy communication channel and interfering/competing PLC systems. In this work, a multi-protocol instrument for PLC performance estimation is presented. The proposed solution is able to characterize and to decode several PLC systems with different physical modulations using a software-defined architecture. A working prototype of the proposed instrument has been characterized and used in a real industrial plant in order to study potential issues affecting PLC.
+
+@highlight Application of power line communication (PLC) in industrial environment
+@highlight Design of instrument architecture for performance evaluation of PLC standards
+@highlight Implementation of instrument using software defined radio technology
+@highlight Experimental characterization of the instrument
+@highlight Analyses of the performance of PLC in a real industrial environment

@@ -1,0 +1,5 @@
+ Background subtraction (BS) is a crucial step in many computer vision systems, as it is first applied to detect moving objects within a video stream. Many algorithms have been designed to segment the foreground objects from the background of a sequence. In this article, we propose to use the BMC (Background Models Challenge) dataset, and to compare the 29 methods implemented in the BGSLibrary. From this large set of various BG methods, we have conducted a relevant experimental analysis to evaluate both their robustness and their practical performance in terms of processor/memory requirements.
+
+@highlight We propose a wide review of background subtraction (BS) algorithms.
+@highlight We have tested them thanks to the BGSLibrary and the BMC benchmark.
+@highlight This study leads to a global discussion about the comparison of BS algorithms, and the way to test them.

@@ -1,0 +1,7 @@
+ Accurate interval forecasting of agricultural commodity futures prices over future horizons is challenging and of great interests to governments and investors, by providing a range of values rather than a point estimate. Following the well-established “linear and nonlinear” modeling framework, this study extends it to forecast interval-valued agricultural commodity futures prices with vector error correction model (VECM) and multi-output support vector regression (MSVR) (abbreviated as VECM–MSVR), which is capable of capturing the linear and nonlinear patterns exhibited in agricultural commodity futures prices. Two agricultural commodity futures prices from Chinese futures market are used to justify the performance of the proposed VECM–MSVR method against selected competitors. The quantitative and comprehensive assessments are performed and the results indicate that the proposed VECM–MSVR method is a promising alternative for forecasting interval-valued agricultural commodity futures prices.
+
+@highlight Proposing an interval forecasting method for agricultural commodity futures prices.
+@highlight Extending the “linear and nonlinear” modeling framework for ITS forecasting.
+@highlight VECM and MSVR are integrated (abbreviated as VECM–MSVR).
+@highlight The experimental analysis is based on one-step-ahead and multi-step-ahead forecasts.
+@highlight VECM–MSVR is a promising method for interval forecasting in future markets.

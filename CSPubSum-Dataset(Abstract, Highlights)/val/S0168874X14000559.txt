@@ -1,0 +1,6 @@
+ A nodal variable ESO (BESO) method is proposed for topology optimization of continuum structures in this paper. The initial discrete-valued topology optimization problem is established as an optimization problem based on continuous design variables by employing a material density field into the design domain. The density field, with the Shepard family of interpolation, is mapped on the design space defined by a finite number of nodal density variables. The employed interpolation scheme has an explicit form and satisfies non-negative and range-restricted properties required by a physically significant density interpolation. It has the ability to deal with more complex spatial distribution of the material density within an individual element, as compared with the conventional elementwise design variable methods. Numerical examples demonstrate the validity and effectiveness of the improved method.
+
+@highlight A nodal variable ESO (BESO) method is founded for topology optimization.
+@highlight The Shepard function is used to construct a material density approximation.
+@highlight Nodal design variables can be defined as design variables.
+@highlight Numerical instabilities can be improved.

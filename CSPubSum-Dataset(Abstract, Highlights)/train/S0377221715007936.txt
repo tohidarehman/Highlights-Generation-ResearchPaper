@@ -1,0 +1,7 @@
+ We propose a new Stochastic Dominance (SD) criterion based on standard risk aversion, which assumes decreasing absolute risk aversion and decreasing absolute prudence. To implement the proposed criterion, we develop linear systems of optimality conditions for a given prospect relative to a discrete or polyhedral choice opportunity set in a general state-space model. An empirical application to historical stock market data shows that small-loser stocks are more appealing to standard risk averters than the existing mean-variance (MV) and higher-order SD criteria suggest, due to their upside potential. Depending on the assumed trading strategy and evaluation horizon, accounting for standardness increases the estimated abnormal returns of these stocks by about 50 to 200 basis points per annum relative to MV and higher-order SD criteria. An analysis of the MV tangency portfolio shows that the opportunity cost of the MV approximation to direct utility maximization can be substantial.
+
+@highlight We propose a Stochastic Dominance criterion based on ‘standard risk aversion’.
+@highlight We develop linear systems of optimality conditions to implement ‘StSD’.
+@highlight Our analysis covers both discrete and polyhedral choice sets.
+@highlight We apply the method to various empirical asset pricing data sets.
+@highlight Accounting for standardness affects the abnormal returns of small-loser stocks.

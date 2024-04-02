@@ -1,0 +1,5 @@
+ In this paper we consider the Cumulative Capacitated Vehicle Routing Problem (CCVRP), which is a variation of the well-known Capacitated Vehicle Routing Problem (CVRP). In this problem, the traditional objective of minimizing total distance or time traveled by the vehicles is replaced by minimizing the sum of arrival times at the customers. We propose a branch-and-cut-and-price algorithm for obtaining optimal solutions to the problem. To the best of our knowledge, this is the first published exact algorithm for the CCVRP. We present computational results based on a set of standard CVRP benchmarks and investigate the effect of modifying the number of vehicles available.
+
+@highlight We present a model for minimizing customers’ arrival times in vehicle routing.
+@highlight We propose an exact algorithm which is able to solve several test instances.
+@highlight Our work is a step towards modeling sustainability issues in transportation.

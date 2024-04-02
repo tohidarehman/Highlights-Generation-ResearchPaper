@@ -1,0 +1,7 @@
+ In this paper we develop a hybrid metaheuristic for approaching the Pareto front of the bi-objective ring star problem. This problem consists of finding a simple cycle (ring) through a subset of nodes of a network. The aim is to minimize both the cost of connecting the nodes in the ring and the cost of allocating the nodes not in the ring to nodes in the ring. The algorithm preserves the general characteristics of a multiobjective evolutionary algorithm and embeds a local search procedure which deals with multiple objectives. The encoding scheme utilized leads to solving a Traveling Salesman Problem in order to compute the ring associated with the chromosome. This allows the algorithm to implicitly discard feasible solutions which are not efficient. The algorithm also includes an ad-hoc initial population construction which contributes to diversification. Extensive computational experiments using benchmark problems show the performance of the algorithm and reveal the noteworthy contribution of the local search procedure.
+
+@highlight An efficient hybrid evolutionary algorithm for the Biobjective RSP.
+@highlight An embedded local search procedure which deals with multiple objectives.
+@highlight The chromosome encoding allows us to discard dominated solutions.
+@highlight Initial population construction encourages diversification.
+@highlight Experiments display the valuable contribution of the algorithm.

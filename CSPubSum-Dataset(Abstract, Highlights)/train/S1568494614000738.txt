@@ -1,0 +1,6 @@
+ The multistage hybrid flow shop (HFS) scheduling problems are considered in this paper. Hybrid flowshop scheduling problems were proved to be NP-hard. A recently developed cuckoo search (CS) metaheuristic algorithm is presented in this paper to minimize the makespan for the HFS scheduling problems. A constructive heuristic called NEH heuristic is incorporated with the initial solutions to obtain the optimal or near optimal solutions rapidly in the improved cuckoo search (ICS) algorithm. The proposed algorithm is validated with the data from a leading furniture manufacturing company. Computational results show that the ICS algorithm outperforms many other metaheuristics.
+
+@highlight We presented an improved cuckoo search algorithm for real-industrial hybrid flow shop scheduling problems.
+@highlight To the best of our knowledge this is the first attempt to apply the cuckoo search algorithm to a real-industrial scheduling problem.
+@highlight Computational experiments are conducted to validate the proposed algorithm.
+@highlight Computational results show that the improved cuckoo search algorithm outperforms with many other metaheuristics in the literature.

@@ -1,0 +1,6 @@
+ In this paper a total Lagrangian weak form quadrature element formulation of spatial shear-rigid beams undergoing large displacements and rotations is presented. A geometrically exact beam model with zero transverse shear deformation is adopted. Quaternion representation of finite rotations of spatial beams is used to avoid possible singularity in parameterization of rotation. The formulation reduces the number of degrees of freedom within the element as well as satisfies the demand of strain-objectivity. Several numerical examples are presented to illustrate the feasibility of the formulation.
+
+@highlight A quadrature element formulation for nonlinear analysis of spatial beams is presented.
+@highlight A shear-rigid geometrically exact beam model is adopted.
+@highlight The demand of strain-objectivity is satisfied in the formulation.
+@highlight Computational feasibility is shown.

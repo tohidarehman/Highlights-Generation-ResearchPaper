@@ -1,0 +1,6 @@
+ This paper examines the strategic investment timing decision in a triopoly market comprising firms with asymmetric cost structures. We present three novel results. First, in the case where there are relatively small cost asymmetries between firms and a relatively small first-mover advantage, the firm with the lowest cost structure is not always the first investor. In other cases, the firm with the lowest cost structure is the first investor. Second, an increase in volatility increases the possibility that a firm without the lowest cost structure is the first investor. Finally, even in the three-asymmetric-firm model, we show that the first investor threshold is larger in a triopoly than in a duopoly, although it is smaller in a duopoly than in a monopoly.
+
+@highlight We examine strategic entry in the three-asymmetric-firm model.
+@highlight The lowest-cost firm does not always enter first.
+@highlight We derive the market environment of a firm without lowest cost that enters first.
+@highlight High volatility increases the chance that a firm without lowest cost enters first.

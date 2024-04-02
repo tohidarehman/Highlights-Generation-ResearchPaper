@@ -1,0 +1,7 @@
+ The paper investigates in a dynamic context the effect of Chief Executive Officer (CEO) bonus and salary payments on banks’ technical efficiency levels. Our methodological framework incorporates the latest developments on the probabilistic approach of efficiency measurement as introduced by Bădin et al. . We apply time-dependent conditional efficiency estimates to analyse a sample of 37 US banks for the period from 2003 to 2012. The empirical evidence reveals a non-linear relationship between CEO bonus and salary payments and banks’ efficiency levels. More specifically it is reported that salary and bonus payments affect differently banks’ technological change and technological catch-up levels. Finally, the empirical evidence suggests that higher salary and bonus payments are not always aligned with higher technical efficiency levels.
+
+@highlight We examine the effect of CEO compensation on banks’ efficiency levels.
+@highlight We apply time-dependent conditional efficiency measures.
+@highlight The empirical results reveal a non-linear relationship.
+@highlight CEO bonus and salary payments affect differently bank performance levels.
+@highlight Higher CEO payments are not always aligned with higher technical efficiency gains.

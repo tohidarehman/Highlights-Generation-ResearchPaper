@@ -1,0 +1,6 @@
+ for solving the two person zero-sum matrix games with pay-offs of triangular fuzzy numbers (TFNs) and propose a new methodology for solving such games. proposed a method which always assures that the max player gain-floor and min player loss-ceiling have a common TFN value.. not explaining the meaning of solution of game under consideration. The present paper attempts to provide certain appropriate modifications in Li’s model to take care of this serious omission. These modifications in conjunction with the results of Clemente, Fernandez, lead to an algorithm to solve matrix games with pay-offs of general piecewise linear fuzzy numbers.
+
+@highlight This paper reports on a recent publication in EJOR on matrix games with payoffs of triangular fuzzy numbers.
+@highlight It is concluded that the value of the game for each player will not be a common triangular fuzzy number.
+@highlight To solve the game, players need to solve their respective multi-objective linear programming problem.
+@highlight These modifications lead to an algorithm to solve matrix games with payoffs of general piecewise linear fuzzy numbers.

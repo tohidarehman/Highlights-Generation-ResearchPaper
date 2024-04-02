@@ -1,0 +1,6 @@
+ This paper presents a new pixel circuit with all-p-type TFTs for AMOLED displays. The proposed pixel circuit can effectively compensate for the threshold-voltage shift of the driving TFT, the degradation of OLED and the parasitic resistance of the power supply line. And thus, the brightness uniformity of AMOLED displays can be enhanced. It is shown that the nonuniformity of the OLED current with an average value of 7.3% can be achieved by the proposed pixel circuit, while that of the conventional 2T1C pixel circuit is 73%. Moreover, a high contrast ratio can be also obtained by the proposed pixel circuit since there is no light emitting except for the emission period.
+
+@highlight The proposed pixel circuit is realized by all-p-type TFTs.
+@highlight The brightness uniformity of AMOLED display will be enhanced.
+@highlight The effect of the parasitic parameters is sufficiently analyzed.
+@highlight A high contrast ratio can be achieved by the proposed pixel circuit.

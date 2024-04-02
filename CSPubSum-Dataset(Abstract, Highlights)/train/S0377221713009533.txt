@@ -1,0 +1,7 @@
+ A connected dominating set (CDS) is commonly used to model a virtual backbone of a wireless network. To bound the distance that information must travel through the network, we explicitly restrict the diameter of a CDS to be no more than s leading to the concept of a dominating s-club. We prove that for any fixed positive integer s it is NP-complete to determine if a graph has a dominating s-club, even when the graph has diameter . As a special case it is NP-complete to determine if a graph of diameter two has a dominating clique. We then propose a compact integer programming formulation for the related minimization problem, enhance the approach with variable fixing rules and valid inequalities, and present computational results.
+
+@highlight Minimum dominating s-club problem is introduced and studied.
+@highlight The complexity of checking the existence of a solution is analyzed in detail.
+@highlight The inapproximability of the problem, even when a solution exists, is noted.
+@highlight Bounds, IP formulation, valid inequalities, and variable fixing rules are given.
+@highlight Results of numerical experiments with the IP approach are reported.

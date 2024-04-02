@@ -1,0 +1,6 @@
+ We consider the flowshop problem on two machines with sequence-independent setup times to minimize total completion time. Large scale network flow formulations of the problem are suggested together with strong Lagrangian bounds based on these formulations. To cope with their size, filtering procedures are developed. To solve the problem to optimality, we embed the Lagrangian bounds into two branch-and-bound algorithms. The best algorithm is able to solve all 100-job instances of our testbed with setup times and all 140-job instances without setup times, thus significantly outperforming the best algorithms in the literature.
+
+@highlight We study the two-machine flowshop problem with sequence-independent setup times to minimize total completion time.
+@highlight Strong Lagrangian bounds are proposed based on large scale network flow formulations.
+@highlight To cope with their size, filtering procedures are developed.
+@highlight Numerical experiments assess the efficiency of branch-and-bound algorithms.

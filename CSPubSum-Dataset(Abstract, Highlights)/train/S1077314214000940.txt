@@ -1,0 +1,7 @@
+ Thanks to compact data representations and fast similarity computation, many binary code embedding techniques have been proposed for large-scale similarity search used in many computer vision applications including image retrieval. Most prior techniques have centered around optimizing a set of projections for accurate embedding. In spite of active research efforts, existing solutions suffer from diminishing marginal efficiency and high quantization errors as more code bits are used. To reduce both quantization error and diminishing efficiency we propose a novel binary code embedding scheme, Quadra-Embedding, that assigns two bits for each projection to define four quantization regions, and a binary code distance function tailored to our method. Our method is directly applicable to most binary code embedding methods. Our scheme combined with four state-of-the-art embedding methods has been evaluated and achieves meaningful accuracy improvement in most experimental configurations.
+
+@highlight Novel binary code embedding method reducing quantization error is proposed.
+@highlight We assign two bits for each projection to reduce errors near its boundary.
+@highlight A distance function and a partitioning criteria are tailored to our method.
+@highlight We obtain higher accuracy in nearest neighbor search.
+@highlight It can be easily applicable to most of binary hashing methods.

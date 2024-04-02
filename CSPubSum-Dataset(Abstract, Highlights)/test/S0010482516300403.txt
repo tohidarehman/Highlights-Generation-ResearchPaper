@@ -1,0 +1,6 @@
+ Unsharp masking techniques are a prominent approach in contrast enhancement. Generalized masking formulation has static scale value selection, which limits the gain of contrast. In this paper, we propose an Optimum Wavelet Based Masking (OWBM) using Enhanced Cuckoo Search Algorithm (ECSA) for the contrast improvement of medical images. The ECSA can automatically adjust the ratio of nest rebuilding, using genetic operators such as adaptive crossover and mutation. First, the proposed contrast enhancement approach is validated quantitatively using Brain Web and MIAS database images. Later, the conventional nest rebuilding of cuckoo search optimization is modified using Adaptive Rebuilding of Worst Nests (ARWN). Experimental results are analyzed using various performance matrices, and our OWBM shows improved results as compared with other reported literature.
+
+@highlight An Optimum Wavelet Based Masking (OWBM) algorithm for medical image enhancement.
+@highlight Hybrid algorithm with cuckoo search and adaptive genetic operators is proposed.
+@highlight Dynamic nest rebuilding of the cuckoo search is performed.
+@highlight The proposed algorithm performed better results compared to the reported medical enhancement techniques.

@@ -1,0 +1,6 @@
+ We consider a single-echelon continuous review inventory system for spare parts with two parallel locations. Each location faces independent Poisson demand and backorders are allowed. In this paper we consider the possibility of lateral transshipments between the locations. The transshipment leadtime is positive and deterministic, and there is an additional cost for making a transshipment. We suggest a transshipment policy which is based on the timing of all outstanding orders, and develop and solve a heuristic model by using theory and concepts from doubly stochastic Poisson processes and also partial differential equations. A simulation study indicates that our heuristic works very well, and that the relative cost increase of disregarding the transshipment leadtime may be quite high. Our results also indicate that it is, in general, worth the effort of reducing the transshipment leadtime, even if it is already relatively short.
+
+@highlight We suggest a transshipment policy based on the timing of all outstanding orders.
+@highlight We relax the common assumption of exponential leadtimes.
+@highlight We incorporate positive transshipment leadtimes.
+@highlight This paper extends the model considered in Moinzadeh (1989).

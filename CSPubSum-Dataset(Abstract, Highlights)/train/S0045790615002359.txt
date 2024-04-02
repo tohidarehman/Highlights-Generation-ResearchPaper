@@ -1,0 +1,7 @@
+ To enhance confidentiality and reduce the number of arrayed-waveguide grating (AWG) routers, a dynamic scrambling scheme is proposed in which cyclic and free spectral range (FSR) properties of AWG routers are employed to use a maximal-length sequence (M-sequence) code as the signature address code. In this paper, a changing codeword mechanism is presented in which a flexible dynamic scrambling algorithm is embedded in the encoding and decoding codebook to control the state of both the wavelength and spatial optical (or electrical) switch matrices. Hence, the code family and code changing flexibility of the proposed scheme increases substantially because of the multiple effects of the wavelength and spatial switch matrices. Compared with the existing dynamic reconfigurable AWG-based schemes without multiple changing codewords in the FSR groups and spatial domains, the confidentiality of the proposed scheme is approximately 104 times higher than that of schemes without scrambling codeword mechanisms.
+
+@highlight Scrambling cryptography with 2-D wavelength/spatial scheme in physical layer.
+@highlight Increasing cardinality with cyclic and FSR property of shared AWG router.
+@highlight Evaluating the power assumption to prove feasible wavelength/spatial network.
+@highlight Larger cardinality and dynamic scrambling improve significantly FTTx security.
+@highlight Dynamic scrambling is superior to traditional scheme using confidential analysis.

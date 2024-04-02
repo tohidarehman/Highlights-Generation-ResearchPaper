@@ -1,0 +1,5 @@
+ Two of the main ingredients of topological persistence for shape comparison are persistence diagrams and the matching distance. Persistence diagrams are signatures capturing meaningful properties of shapes, while the matching distance can be used to stably compare them. From the application viewpoint, one drawback of these tools is the computational cost for evaluating the matching distance. In this paper we introduce a new framework for the matching distance estimation: It preserves the reliability of the entire approach in comparing shapes, extremely reducing the computational cost. Theoretical results are supported by experiments on 3D-models.
+
+@highlight This paper deals with the concepts of persistence diagram and matching distance.
+@highlight We present multi-scale approaches to approximate the matching distance.
+@highlight Experiments show the capability of the proposed methodologies for shape retrieval.

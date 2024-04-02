@@ -1,0 +1,6 @@
+ Automobile final assembly operators must be highly skilled to succeed in a low automation environment where multiple variants must be assembled in quick succession. This paper presents formal user studies conducted at OPEL and VOLVO Group to identify assembly training needs and a subset of requirements; and to explore potential features of a hypothetical game-based virtual training system. Stakeholder analysis, timeline analysis, link analysis, Hierarchical Task Analysis and thematic content analysis were used to analyse the results of interviews with various stakeholders (17 and 28 participants at OPEL and VOLVO, respectively). The results show that there is a strong case for the implementation of virtual training for assembly tasks. However, it was also revealed that stakeholders would prefer to use a virtual training to complement, rather than replace, training on pre-series vehicles.
+
+@highlight We performed user studies of assembly training for automotive assembly lines.
+@highlight We conducted interviews and observations at two automotive industries.
+@highlight There is a strong case for virtual training implementation.
+@highlight Virtual training is viewed as a complement of current training.

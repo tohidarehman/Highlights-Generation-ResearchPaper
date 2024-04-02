@@ -1,0 +1,7 @@
+ A method relying on the convex combination of two normalized filtered-s least mean square algorithms (CNFSLMS) is presented for nonlinear active noise control (ANC) systems with a linear secondary path (LSP) and nonlinear secondary path (NSP) in this paper. The proposed CNFSLMS algorithm-based functional link artificial neural network (FLANN) filter, aiming to overcome the compromise between convergence speed and steady state mean square error of the NFSLMS algorithm, offers both fast convergence rate and low steady state error. Furthermore, by replacing the sigmoid function with the modified Versorial function, the modified CNFSLMS (MCNFSLMS) algorithm with low computational complexity is also presented. Experimental results illustrate that the combination scheme can behave as well as the best component and even better. Moreover, the MCNFSLMS algorithm requires less computational complexity than the CNFSLMS while keeping the same filtering performance.
+
+@highlight The combination scheme based on adaptive FLANN filter is designed for nonlinear ANC systems.
+@highlight The CNFSLMS algorithm in the filter bank form is derived to obtain an improved convergence behavior.
+@highlight To reduce the computational complexity, the modified CNFSLMS algorithm is proposed by replacing the sigmoid function with a Versorial function.
+@highlight The analysis of the computational complexity is discussed.
+@highlight The steady state performance is analyzed.

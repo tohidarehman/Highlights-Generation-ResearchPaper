@@ -1,0 +1,5 @@
+ Elevated fuel loads are contributing to an increase in the occurrence of, and area burned by, severe wildfires in many regions across the globe. In an attempt to reverse this trend, fire and land management agencies are investing in extensive fuel management programs. However, the planning of fuel treatment activities poses complicated decision-making problems with spatial and temporal dimensions. Here, we present a mixed integer programming model for spatially explicit multi-period scheduling of fuel treatments. The model provides a flexible framework that allows for landscape heterogeneity and a range of ecological and operational considerations and constraints. The model’s functionality is demonstrated on a series of hypothetical test landscapes and a number of implementation issues are discussed.
+
+@highlight We present an integer programming model for multi-period fuel treatment planning.
+@highlight The model schedules treatments to generate fire-resistant spatial fuel patterns.
+@highlight The model provides a flexible framework for managing heterogeneous landscapes.

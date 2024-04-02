@@ -1,0 +1,5 @@
+ We present a general construction that allows to extend a given subcopula to a copula in such a way that the extension is affine on some specific segments of the copula domain. This construction is hence applied to provide convergence theorems for approximating a copula in strong convergence and in D 1-metric (related to the Markov kernel representation of a copula).
+
+@highlight A general extension from a subcopula to a copula is presented.
+@highlight Convergence results for approximations of copulas are given.
+@highlight Connections with other constructions (like checkerboard copulas) are outlined.

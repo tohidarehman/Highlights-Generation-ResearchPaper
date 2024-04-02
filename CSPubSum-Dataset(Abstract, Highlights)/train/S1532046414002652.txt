@@ -1,0 +1,6 @@
+ Missing data arise in clinical research datasets for reasons ranging from incomplete electronic health records to incorrect trial data collection. This has an adverse effect on analysis performed with the data, but it can also affect the management of a clinical trial itself. We propose two graphical visualization schemes to aid in managing the completeness of a clinical research dataset: the binary completeness grid (BCG) for single patient observation, and the gradient completeness grid (GCG) for an entire dataset. We use these tools to manage three clinical trials. Two are ongoing observational trials, while the other is a cohort study that is complete. The completeness grids revealed unexpected patterns in our data and enabled us to identify records that should have been purged and identify missing follow-up data from sets of observations thought to be complete. Binary and gradient completeness grids provide a rapid, convenient way to visualize missing data in clinical datasets.
+
+@highlight We develop two visualizations for managing missing data in clinical trial data.
+@highlight Binary completeness grid shows a visual depiction of a patient data record.
+@highlight Gradient completeness grid shows a visual depiction of an entire dataset.
+@highlight Three datasets were visualized and studied to improve clinical trial management.

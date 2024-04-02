@@ -1,0 +1,5 @@
+ Designers at the conceptual phase of products such as headphones, stress the importance of comfort, e.g. executing comfort studies and the need for a reliable user panel. This paper proposes a methodology to issue a reliable user panel to represent large populations and validates the proposed framework to predict comfort factors, such as physical fit. Data of 200 heads was analyzed by forming clusters, 9 archetypal people were identified out of a 200 people's ear database. The archetypes were validated by comparing the archetypes' responses on physical fit against those of 20 participants interacting with 6 headsets. This paper suggests a new method of selecting representative user samples for prototype testing compared to costly and time consuming methods which relied on the analysis of human geometry of large populations.
+
+@highlight 9 Clusters and archetype persons to represent the clusters' ear characteristics are generated out of 200 participants.
+@highlight The cluster people are validated through a usability study.
+@highlight A methodological framework to develop a representative user panel is presented.

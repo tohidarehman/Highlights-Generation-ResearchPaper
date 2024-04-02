@@ -1,0 +1,7 @@
+ This paper presents a general, non-procedural, algebraic approach to graphical analysis of structures. Using graph theoretical properties of reciprocal graphs, the geometrical relation between the form and force diagrams used in graphic statics is written algebraically. These formulations have been found to be equivalent to the equilibrium equations used in matrix analysis of planar, self-stressed structural systems. The significance and uses of this general approach are demonstrated through several examples and it is shown that it provides a robust back-end for a real-time, interactive and flexible computational implementation of traditional graphic statics.
+
+@highlight General, non-procedural approach to graphical analysis of two-dimensional structures.
+@highlight Equilibrium equations derived from reciprocal relation between form and force graphs.
+@highlight States of stress of structural systems from analysis of equivalent unloaded networks.
+@highlight Construction of planar straight-line drawings of planar form graphs.
+@highlight Computational back-end for interactive graphic statics software.

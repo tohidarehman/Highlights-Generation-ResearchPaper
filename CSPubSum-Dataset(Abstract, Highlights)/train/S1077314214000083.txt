@@ -1,0 +1,6 @@
+ This article presents a novel method for estimating the dense three-dimensional motion of a scene from multiple cameras. Our method employs an interconnected patch model of the scene surfaces. The interconnected nature of the model means that we can incorporate prior knowledge about neighbouring scene motions through the use of a Markov Random Field, whilst the patch-based nature of the model allows the use of efficient techniques for estimating the local motion at each patch. An important aspect of our work is that the method takes account of the fact that local surface texture strongly dictates the accuracy of the motion that can be estimated at each patch. Even with simple squared-error cost functions, it produces results that are either equivalent to or better than results from a method based upon a state-of-the-art optical flow technique, which uses well-developed robust cost functions and energy minimisation techniques.
+
+@highlight An interconnected surface model for estimating the 3D motion of a scene is proposed.
+@highlight A novel uncertainty measure for the motion estimation is incorporated.
+@highlight The proposed method is compared against a modern optical flow based method.
+@highlight Either equivalent or better results are achieved using the proposed method.

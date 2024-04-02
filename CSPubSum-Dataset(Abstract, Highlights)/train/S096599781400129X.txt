@@ -1,0 +1,6 @@
+ Colliding Bodies Optimization (CBO) is a new multi-agent algorithm inspired by a collision between two objects in one-dimension. Each agent is modeled as a body with a specified mass and velocity. A collision occurs between pairs of objects and the new positions of the colliding bodies are updated based on the collision laws. In this paper, Enhanced Colliding Bodies Optimization (ECBO) which uses memory to save some best solutions is developed. In addition, a mechanism is utilized to escape from local optima. The performance of the proposed algorithm is compared to those of standard CBO and some optimization techniques on some benchmark mathematical functions and three standard discrete and continuous structural design problems. Optimization results confirm the validity of the proposed approach.
+
+@highlight A new multi-agent algorithm inspired by a collision between two objects in one-dimension is presented.
+@highlight An enhanced colliding bodies optimization which uses memory to save some best solutions is developed.
+@highlight A mechanism is utilized to escape from local optima.
+@highlight Performance of the proposed algorithm is compared to those of standard CBO and some optimization techniques.

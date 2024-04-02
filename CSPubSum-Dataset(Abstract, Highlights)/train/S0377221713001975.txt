@@ -1,0 +1,6 @@
+ This study proposes an efficient exact algorithm for the precedence-constrained single-machine scheduling problem to minimize total job completion cost where machine idle time is forbidden. The proposed algorithm is based on the SSDP (Successive Sublimation Dynamic Programming) method and is an extension of the authors’ previous algorithms for the problem without precedence constraints. In this method, a lower bound is computed by solving a Lagrangian relaxation of the original problem via dynamic programming and then it is improved successively by adding constraints to the relaxation until the gap between the lower and upper bounds vanishes. Numerical experiments will show that the algorithm can solve all instances with up to 50 jobs of the precedence-constrained total weighted tardiness and total weighted earliness–tardiness problems, and most instances with 100 jobs of the former problem.
+
+@highlight The precedence-constrained single-machine scheduling problem is considered.
+@highlight An efficient exact algorithm is proposed based on our previous studies.
+@highlight The SSDP (Successive Sublimation Dynamic Programming) method is employed.
+@highlight Instances of the total weighted tardiness problem with up to 100 jobs are solved.

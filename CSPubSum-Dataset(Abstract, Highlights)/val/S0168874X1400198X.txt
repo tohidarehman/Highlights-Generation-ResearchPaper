@@ -1,0 +1,7 @@
+ A new structure-preserving algorithm for simulating the nonlinear dynamics of geometrically exact rods is developed. The method is based on the simultaneous discretization in space and time of Hamilton׳s variational principle. The resulting variational integrator is explicit, second-order accurate and can be identified with a Lie-group symplectic partitioned Runge–Kutta method for finite element discretizations of rods involving large rotations and displacements. Numerical examples allow to verify that the algorithm presents an excellent long term energy behavior along with the exact conservation of the momenta associated to the symmetries of the system.
+
+@highlight Author-Highlights
+@highlight An explicit variational integrator for the dynamics of rods is developed.
+@highlight The method is explicit, symplectic and momentum conserving.
+@highlight The method is second-order accurate with the time step and the mesh size.
+@highlight The energy drift remains bounded over exponentially long times.

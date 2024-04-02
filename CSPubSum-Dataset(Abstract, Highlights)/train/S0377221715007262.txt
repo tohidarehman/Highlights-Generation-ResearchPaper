@@ -1,0 +1,6 @@
+ This paper seeks to determine how the double marginalization phenomenon affects the tradeoff between polluting emissions and abatement activities related to pollution accumulation in a supply chain composed of one manufacturer and one retailer. The environmental consequence of this inefficiency, which emerges in a non-cooperative vertical setting governed by a single-parameter contract, is overlooked in the literature on pollution control. In the setup of a two-stage game, we investigate the impact of double marginalization for non-cooperative equilibrium. To check whether there are differences between dynamic and strategic effects of double marginalization on pollution accumulation, both the open-loop and feedback Nash equilibria are derived over a finite time horizon, with the cooperative solution as a benchmark.
+
+@highlight This paper assesses the impact of decentralized decision-making on pollution accumulation.
+@highlight The cooperative supply chain emits more pollution than a decentralized supply chain.
+@highlight Double marginalization reduces polluting emissions and heightens abatement efforts.
+@highlight Supply chain coordination generates more eco-friendly social welfare under specific conditions.

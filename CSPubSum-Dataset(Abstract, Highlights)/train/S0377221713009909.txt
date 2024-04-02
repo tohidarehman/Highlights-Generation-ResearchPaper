@@ -1,0 +1,6 @@
+ The Multi-Handler Knapsack Problem under Uncertainty is a new stochastic knapsack problem where, given a set of items, characterized by volume and random profit, and a set of potential handlers, we want to find a subset of items which maximizes the expected total profit. The item profit is given by the sum of a deterministic profit plus a stochastic profit due to the random handling costs of the handlers. On the contrary of other stochastic problems in the literature, the probability distribution of the stochastic profit is unknown. By using the asymptotic theory of extreme values, a deterministic approximation for the stochastic problem is derived. The accuracy of such a deterministic approximation is tested against the two-stage with fixed recourse formulation of the problem. Very promising results are obtained on a large set of instances in negligible computing time.
+
+@highlight We introduce a new stochastic multi-handler knapsack problem.
+@highlight The item profit is a random variable with unknown probability distribution.
+@highlight We derive a deterministic approximation by using the asymptotic theory of extremes.
+@highlight Good results are obtained on a large set of instances in negligible computing time.

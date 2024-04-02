@@ -1,0 +1,6 @@
+ Loss of gastrointestinal motility is a significant medical setback for patients who experience abdominal surgery and contributes to the most common reason for prolonged hospital stays. Recent clinical studies suggest that initiating feeding early after abdominal surgery is beneficial. Early feeding is possible when the patients demonstrate bowel motility in the form of bowel sounds (BS). This work provides a data collection, processing and analysis methodology for detection of recovery of gastrointestinal track motility by observing BSs in auscultation recordings. The approach is suitable for real-time long-term continuous monitoring in clinical environments. The system was developed using a Naive Bayesian algorithm for pattern classification, and Minimum Statistics and spectral subtraction for noise attenuation. The solution was tested on 59h of recordings and 94.15% recognition accuracy was observed.
+
+@highlight A method for detection of recovery of gastrointestinal track motility was proposed.
+@highlight Bowel activity statistics were obtained for patients who underwent abdominal surgery.
+@highlight Total burst duration and power in 100–200Hz band showed high predictive power.
+@highlight Tested on 59h of recordings and 94.15% recognition accuracy was observed.

@@ -1,0 +1,6 @@
+ It is a challenging task to improve the visual comfort of a stereoscopic 3D (S3D) image with satisfactory viewing experience. In this paper, we propose a visual comfort improvement scheme by adjusting zero-disparity plane (ZDP) for projection. The degree of visual discomfort is predicted by considering three factors: spatial frequency, disparity response, and visual attention. Then, the selection of an optimal ZDP is guided by the predicted visual discomfort map. Finally, the disparity ranges of the crossed and uncrossed disparities are automatically adjusted according to the ZDP as requirements. Experiment results show that the proposed scheme is effective in improving visual comfort while preserving the unchanged depth sensation.
+
+@highlight Factors from spatial frequency, disparity energy and visual attention are considered.
+@highlight An optimal ZDP from the derived visual discomfort map is established.
+@highlight We adjust the convergence plane first based on the depth value of the ZDP.
+@highlight We reproject the disparity ranges of the crossed and uncrossed disparities.

@@ -1,0 +1,6 @@
+ In this article we present an algorithm to compute the maximum size of an object, in three dimensions, that can move collision-free along a fixed trajectory through a virtual environment. This can be seen as a restricted version of the general problem of computing the maximum size of an object to move collision-free from a start position to a goal position. We compute the maximum size by dividing the object into numerous small boxes and computing which ones collide with the virtual environment during the movement along the given trajectory. The algorithm presented is optimized for multi-threaded computer architectures and also uses data structures that leave a small memory footprint making it suitable for use with large virtual environments (defined by, e.g., millions or billions of points or triangles).
+
+@highlight Introduce a novel algorithm to compute largest volume to pass along a path.
+@highlight Introduce also a multi-threaded version of the algorithm.
+@highlight Novel use of the existing data structures that scale linearly with the problem size.
+@highlight Abstracts away the geometry so it can be used with any combination of geometries.

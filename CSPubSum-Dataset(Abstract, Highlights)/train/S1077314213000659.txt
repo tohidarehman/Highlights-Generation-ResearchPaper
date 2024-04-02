@@ -1,0 +1,7 @@
+ This paper presents an improved Euclidean Ricci flow method for spherical parameterization. We subsequently invent a scale space processing built upon Ricci energy to extract robust surface features for accurate surface registration. Since our method is based on the proposed Euclidean Ricci flow, it inherits the properties of Ricci flow such as conformality, robustness and intrinsicalness, facilitating efficient and effective surface mapping. Compared with other surface registration methods using curvature or sulci pattern, our method demonstrates a significant improvement for surface registration. In addition, Ricci energy can capture local differences for surface analysis as shown in the experiments and applications.
+
+@highlight An Euclidean Ricci flow for efficient and effective spherical parameterization.
+@highlight A scale space with Ricci energy, which offers robust scale dependent surface features.
+@highlight Combining local features and global Ricci energy for accurate surface registration.
+@highlight The brain surface registration demonstrate the accuracy of the method.
+@highlight The proposed framework shows the efficacy for hippocampus surface analysis.

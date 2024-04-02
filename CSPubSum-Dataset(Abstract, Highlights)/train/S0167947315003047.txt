@@ -1,0 +1,7 @@
+ A common problem in modern genetic research is that of comparing the mean vectors of two populations–typically in settings in which the data dimension is larger than the sample size–where Hotelling’s test cannot be applied. Recently, a test using random subspaces was proposed, in which the data are randomly projected into several lower-dimensional subspaces, and Hotelling’s test is well defined. Superior performance with competing tests was demonstrated when the variables were correlated. Following the research of random subspaces, a modified test was proposed that might make more efficient use of covariance structure at high dimension. Hierarchical clustering is performed first such that highly correlated variables are clustered together. Next, Hotelling’s statistics are computed for every cluster-subspace and summed as the new test statistic. High performance was demonstrated via simulations and real data analysis.
+
+@highlight A two-sample test using hierarchical clustering was proposed.
+@highlight Hotelling’s statistics are computed in cluster-subspaces and summed as the statistic.
+@highlight Highly correlated variables take priority for being processed.
+@highlight A cutoff distance is used to restrain the effect of statistical fluctuations.
+@highlight High performance was demonstrated in simulations and real data analysis.

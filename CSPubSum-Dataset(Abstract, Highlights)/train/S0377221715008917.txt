@@ -1,0 +1,6 @@
+ In this paper, we address a truck dock assignment problem with operational time constraint which has to be faced in the management of cross docks. More specifically, this problem is the subproblem of more involved problems with additional constraints and criteria. We propose a new integer programming model for this problem. The dimension of the polytope associated with the proposed model is identified by introducing a systematic way of generating linearly independent feasible solutions. Several classes of valid inequalities are also introduced. Some of them are proved to be facet-defining. Then, exact separation algorithms are described for separating cuts for classes with exponential number of constraints, and an efficient branch-and-cut algorithm solving real-life size instances in a reasonable time is provided. In most cases, the optimal solution is identified at the root node without requiring any branching.
+
+@highlight We propose a new model and motivate our choices.
+@highlight Several classes of valid inequalities have been identified.
+@highlight The dimension of associated polytope and some classes of facet-defining inequalities have been identified.
+@highlight A branch-and-cut algorithm has been developed.

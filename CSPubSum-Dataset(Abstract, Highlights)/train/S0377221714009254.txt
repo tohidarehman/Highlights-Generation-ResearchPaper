@@ -1,0 +1,6 @@
+ The goal of this paper is to quantify the impact of Inventory Record Inaccuracy on the dynamics of collaborative supply chains, both in terms of operational performance (i.e. order and inventory stability), and customer service level. To do so, we model an Information Exchange Supply Chain under shrinkage errors in the inventory item recording activity of their nodes, present the mathematical formulation of such supply chain model, and conduct a numerical simulation assuming different levels of errors. Results clearly show that Inventory Record Inaccuracy strongly compromises supply chain stability, particularly when moving upwards in the supply chain. Important managerial insights can be extracted from this analysis, such as the role of ‘benefit-sharing’ strategies in order to guarantee the advantage of investments in connectivity technologies.
+
+@highlight The inventory inaccuracy nullifies the benefit provided by the Information Exchange Supply Chain.
+@highlight In a collaborative supply chain, even very small inventory inaccuracy may lead to significant unnecessary costs.
+@highlight The detrimental effect of inaccuracy in upstream supply chain partners is higher than in downstream partners.
+@highlight Countermeasures should be firstly promoted by the upstream stages, i.e. the Manufacturer

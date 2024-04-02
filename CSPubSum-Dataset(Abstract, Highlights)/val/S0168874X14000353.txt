@@ -1,0 +1,6 @@
+ We present a finite element scheme for spatially resolved simulations of fluid flow and mass transfer in chromatography columns. Packed bed chromatography is an important unit operation for the purification of product molecules in biopharmaceutical industry. The problem combines different challenges arising from advection dominance, stiffness due to the presence of reaction terms, and from the size of the resulting linear equation systems. We show that our stabilized space–time finite element method can handle these difficulties adequately and solve test problems efficiently.
+
+@highlight A space–time finite element method has been tailored to multidomain mass transfer problems.
+@highlight Packed bed chromatography is simulated in full spatial resolution.
+@highlight Different binding models and boundary conditions are implemented.
+@highlight The solver is parallelized to solve realistic problems on high performance computers.

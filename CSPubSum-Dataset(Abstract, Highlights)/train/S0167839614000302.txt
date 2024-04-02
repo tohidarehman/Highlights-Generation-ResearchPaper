@@ -1,0 +1,5 @@
+ New bounds on the magnitudes of the first- and second-order partial derivatives of rational triangular Bézier surfaces are presented. Theoretical analysis shows that the proposed bounds are tighter than the existing ones. The superiority of the proposed new bounds is also illustrated by numerical tests.
+
+@highlight We present new bounds on the magnitudes of the lower derivatives of rational triangular Bezier surfaces.
+@highlight We theoretically prove that the proposed bounds are tighter than the existing ones.
+@highlight The superiority of the proposed new bounds is also illustrated by two types of numerical tests.

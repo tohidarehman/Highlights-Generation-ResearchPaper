@@ -1,0 +1,5 @@
+ The traditional design method for digital audio graphic equalizer using infinite impulse response filters usually has some deficiencies, including center frequency shift, narrower bandwidth at high frequency and inaccurate gain. In this paper, an improved method based on the modified bilinear transformation is proposed to design a digital audio graphic equalizer. The new bilinear mapping can compensate the center frequency shift, and pre-distorting the quality factors and optimizing the gains can correct the bandwidth and gain of each sub-band respectively. Experimental results reveal that both center frequency and bandwidth of the proposed digital graphic equalizer are strictly equal to the desired ones, and the average gain error decreases at least 2 dB.
+
+@highlight By new bilinear mapping, we give a modified design method for digital graphic EQ.
+@highlight The pre-distortion technique is used to obtain the accurate bandwidths.
+@highlight We calculate the best gain of each band based on an optimization technique.

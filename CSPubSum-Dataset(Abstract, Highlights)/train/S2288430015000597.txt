@@ -1,0 +1,7 @@
+ The automated part quality inspection poses many challenges to the engineers, especially when the part features to be inspected become complicated. A large quantity of part inspection at a faster rate should be relied upon computerized, automated inspection methods, which requires advanced quality control approaches. In this context, this work uses innovative methods in remote part tracking and quality control with the aid of the modern equipment and application of support vector machine (SVM) learning approach to predict the outcome of the quality control process. The classifier equations are built on the data obtained from the experiments and analyzed with different kernel functions. From the analysis, detailed outcome is presented for six different cases. The results indicate the robustness of support vector classification for the experimental data with two output classes.
+
+@highlight This work uses innovative methods in e-quality with the application of SVM.
+@highlight Many potential benefits of e-quality control have been presented and instantiated.
+@highlight The classifier equations are built on the data obtained from the experiments.
+@highlight A detailed analysis is presented for six different case studies.
+@highlight The results indicate the robustness of proposed SVM classification.

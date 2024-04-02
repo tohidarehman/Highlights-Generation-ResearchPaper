@@ -1,0 +1,7 @@
+ This work presents two 4-node, 12-DOF quadrilateral displacement-based finite elements for analysis of the Mindlin–Reissner plate. Derived from the fundamental analytical solutions of the displacement function F, the deflection and rotation fields of the proposed elements satisfy a priori all related governing equations. The unknown coefficients are determined through the generalized conforming element method, a relaxed and rational conforming approach. The resulting elements perform like nonconforming elements on a coarse mesh, and with mesh refinement they converge as conforming elements. Numerical benchmarks demonstrate that the new elements are insensitive to mesh distortion and free of shear locking, and can provide satisfactory results for most cases.
+
+@highlight Two novel generalized conforming plate elements are constructed.
+@highlight The displacement function F is used to derive the trial functions of the elements.
+@highlight The displacement fields can a priori satisfy all related governing equations.
+@highlight The elements are quite insensitive to mesh distortions and free of shear-locking.
+@highlight The displacement-based elements can provide high-precision results for resultants.

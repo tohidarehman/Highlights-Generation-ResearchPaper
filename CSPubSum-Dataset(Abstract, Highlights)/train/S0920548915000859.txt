@@ -1,0 +1,7 @@
+ In this paper we propose a novel Application Programming Interface (API) design pattern for inter-communication between Remote Laboratory Management Systems (RLMSs) accommodating different levels of functional support and thereby allowing more efficient sharing of laboratory resources regardless of their hosting RLMS. Afterwards, we present initial results and demonstrate the feasibility and effectiveness of this pattern by developing an API for two common RLMSs, Sahara and the iLab shared Architecture (ISA). As a result, users logging into a Sahara server managed to access and manipulate a radio-activity experiment hosted on an ISA server.
+
+@highlight We address the benefits of remote laboratories and Remote Laboratory Management Systems (RLMSs).
+@highlight We shed light on a major obstacle in RLMSs development.
+@highlight We address this issue and propose a novel Application Programming Interface (API) design pattern.
+@highlight We explain the capabilities of the proposed pattern using an illustrative case study scenario.
+@highlight We adopt the proposed standard to create an API for inter-communicating the two common RLMSs SAHARA and ISA.

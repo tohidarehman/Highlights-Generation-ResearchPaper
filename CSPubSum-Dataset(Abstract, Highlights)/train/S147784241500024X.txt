@@ -1,0 +1,5 @@
+ The Trapezoid Step Functions (TSF) domain is introduced in order to approximate continuous functions by a finite sequence of trapezoids, adopting linear functions to abstract the upper and the lower bounds of a continuous variable in each time slot. The lattice structure of TSF is studied, showing how to build and compute a sound abstraction of a given continuous function. Experimental results underline the effectiveness of the approach in terms of both precision and efficiency with respect to the domain of Interval Valued Step Functions (IVSF).
+
+@highlight The domain of Trapezoid Step Functions is introduced for the static analysis on continuous functions׳ values.
+@highlight The domain is a (proper) refinement of the Interval Valued Step Function Domain.
+@highlight A constructive abstraction procedure is provided that deals with floating point precision issues.

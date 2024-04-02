@@ -1,0 +1,6 @@
+ Metrics to track seasonal transitions are needed for a wide variety of ecological and climatological applications. Here a MATLAB©toolkit for calculating spring indices is documented. The spring indices have been widely used in earlier studies to model phenological variability and change through time across a wide range of spatial scales. These indices require only daily minimum and maximum temperature observations (e.g., from meteorological records) as input along with latitude, and produce a day of year value corresponding to the simulated average timing of first leaf and first bloom events among three plant cultivars. Core functions to calculate the spring indices require no external dependencies, and data for running several illustrative test cases are included. Instructions and routines for conducing more sophisticated monitoring and modeling studies using the spring indices are also supplied and documented.
+
+@highlight Spring indices can be used to characterize spring onset across a wide range of spatial scales.
+@highlight These indices are based on phenological models, but can be computed from meteorological data.
+@highlight We present software and documentation for calculating spring indices.
+@highlight Some basic examples of the potential uses and extensions of the spring indices are also shown.

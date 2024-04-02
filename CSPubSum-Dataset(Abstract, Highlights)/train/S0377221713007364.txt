@@ -1,0 +1,5 @@
+ The mixed integer quadratic programming (MIQP) reformulation by Zheng, Sun, Li, for probabilistically constrained quadratic programs (PCQP) recently published in EJOR significantly dominates the standard MIQP formulation  which has been widely adopted in the literature. Stimulated by the dimensionality problem which Zheng et al.  acknowledge themselves for their reformulations, we study further the characteristics of PCQP and develop new MIQP reformulations for PCQP with fewer variables and constraints. The results from numerical tests demonstrate that our reformulations clearly outperform the state-of-the-art MIQP in Zheng et al. .
+
+@highlight Consider MIQP reformulations for probabilistically constrained quadratic programming (PCQP).
+@highlight Develop better MIQP reformulations for PCQP with size smaller than Zheng et al. (EJOR 2012).
+@highlight Our reformulations numerically outperform the state-of-the-art MIQP in Zheng et al. (2012).

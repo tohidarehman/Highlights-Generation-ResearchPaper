@@ -1,0 +1,7 @@
+ Planning sub terrestrial inner-city-railway-tracks is an interdisciplinary and highly complex task, which involves plenty of different stakeholders. Currently, the different planners work more or less separated in an asynchronous manner. To facilitate a collaborative planning process between these different stakeholders we developed a collaboration platform. Clearly, the integration of geographical information and geoprocessing results into the planning process and the different modelling tools will improve this process in a significant way. In this paper, we show how to describe the needed geographical information by so-called Geospatial Web Service Context Documents in a suitable way and how to integrate these pieces of information into the different planning tools via the collaboration platform in a unified, dynamic, and generic way.
+
+@highlight We describe the geographical context for planning inner-city-railway-tracks.
+@highlight We show how collaborative work with geographical information can be improved.
+@highlight We integrate the geographical context into a collaborative planning process.
+@highlight Combined and collaborative use of geo-information in planning tools is demonstrated.
+@highlight Results are validated using an actual real world scenario.

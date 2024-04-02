@@ -1,0 +1,6 @@
+ This paper presents an optimized fabrication method for developing a freestanding bridge for RF MEMS switches. In this method, the sacrificial layer is patterned and hard baked a 220°C for 3min, after filling the gap between the slots of the coplanar waveguide. Measurement results by AFM and SEM demonstrate that this technique significantly improves the planarity of the sacrificial layer, reducing the uneven surface to less than 20nm, and the homogeneity of the Aluminum thickness across the bridge. Moreover, a mixture of O2, Ar and CF4 was used and optimized for dry releasing of the bridge. A large membrane (200×100μm2) was released without any surface bending. Therefore, this method not only simplifies the fabrication process, but also improves the surface flatness and edge smoothness of the bridge. This fabrication method is fully compatible with standard silicon IC technology.
+
+@highlight We significantly improved the planarity of the sacrificial layer.
+@highlight We improve the planarity of the membrane.
+@highlight We analyse the effect of different etchant gases for releasing the bridge.
+@highlight We released a large membrane without any surface bending.

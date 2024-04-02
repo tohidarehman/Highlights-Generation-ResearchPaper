@@ -1,0 +1,7 @@
+ Recently a transformation approach for noncoherent radar detector design has been introduced, where the classical constant false alarm rate detectors for Exponentially distributed clutter are modified to operate in any clutter intensity model of interest. Recent applications of this approach have introduced new decision rules for target detection in Pareto and Weibull distributed clutter. These transformed detectors tended to lose the constant false alarm rate property with respect to one of the clutter parameters. A closer examination of this transformation process yields conditions under which the constant false alarm rate property can be retained. Based upon this, a new model for X-band maritime radar returns is investigated, and corresponding detectors are developed. The relative merits of this new development are investigated with synthetic and real X-band data.
+
+@highlight CFAR property for transformed detectors established.
+@highlight Generic clutter model proposed that yields CFAR detectors.
+@highlight New detectors proposed for X-band radar application.
+@highlight Better performance achieved than that with a Pareto clutter model assumption.
+@highlight Application to real X-band clutter with synthetic target considered, and shows improvements on previous applications.

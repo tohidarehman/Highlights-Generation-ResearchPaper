@@ -1,0 +1,6 @@
+ In this study, we propose a mixed integer linear programming based methodology for selecting the location of temporary shelter sites. The mathematical model maximizes the minimum weight of open shelter areas while deciding on the location of shelter areas, the assigned population points to each open shelter area and controls the utilization of open shelter areas. We validate the mathematical model by generating a base case scenario using real data for Kartal, Istanbul, Turkey. Also, we perform a sensitivity analysis on the parameters of the mentioned mathematical model and discuss our findings. Lastly, we perform a case study using the data from the 2011 Van earthquake.
+
+@highlight In this research, the shelter area selection problem is addressed.
+@highlight To address the problem, a mixed integer linear program is formulated.
+@highlight To validate the model, a sensitivity analysis is performed.
+@highlight The proposed methodology is compared with the current methodology.

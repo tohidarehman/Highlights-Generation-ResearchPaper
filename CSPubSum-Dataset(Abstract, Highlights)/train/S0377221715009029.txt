@@ -1,0 +1,7 @@
+ Production plans often span a whole week or month, even when independent production lots are completed every day and service performance is tallied daily. Such policies are said to use staggered deliveries, meaning that the production rate for multiple days are determined at a single point in time. Assuming autocorrelated demand, and linear inventory holding and backlog costs, we identify the optimal replenishment policy for order cycles of length P. With the addition of a once-per-cycle audit cost, we optimize the order cycle length P * via an inverse-function approach. In addition, we characterize periodic inventory costs, availability, and fill rate. As a consequence of staggering deliveries, the inventory level becomes cyclically heteroskedastic. This manifests itself as ripples in the expected cost and service levels. Nevertheless, the cost-optimal replenishment policy achieves a constant availability by using time-varying safety stocks; this is not the case with suboptimal constant safety stock policies, where the availability fluctuates over the cycle.
+
+@highlight It is common to plan once per week or month, but to receive deliveries every day.
+@highlight This causes fill rate, availability, and inventory costs to change cyclically.
+@highlight We provide the inventory-optimal ordering policy and safety stock setting.
+@highlight Autocorrelation, lead time, and long order cycles can degrade inventory performance.
+@highlight We also identify the optimal order cycle length when an audit cost is present.

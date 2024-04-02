@@ -1,0 +1,6 @@
+ This work presents the possibility of the hollow core nanoparticles to improve luminance in an organic light emitting diode device. The finite difference time domain simulation estimates the effect of the hollow core nanoparticles on the external quantum efficiency of the organic light emitting diode device. The efficiency depends on the size and the volume fraction of the hollow core nanoparticles in the polymer layer, together with the refractive index and the thickness of the polymer layer. It is shown that the hollow core nanoparticles dispersed in a polymer layer can enhance the external quantum efficiency by a factor of 2.5. This work also introduces a continuous production method of the hollow core nanoparticles by using the microfluidic self-assembly of amphiphilic polymers and the layer formation dispersed with them for the rigorous light scattering.
+
+@highlight The hollow core nanoparticles can improve the luminance of OLED.
+@highlight The HCNPs can enhance the external quantum efficiency by a factor of 2.5.
+@highlight The HCNPs have been produced continuously by using the microfluidic self-assembly.
+@highlight The HCNPs-dispersed polymer layer has been also demonstrated successfully.

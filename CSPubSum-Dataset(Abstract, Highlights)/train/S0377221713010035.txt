@@ -1,0 +1,7 @@
+ Given a double round-robin tournament, the traveling umpire problem (TUP) consists of determining which games will be handled by each one of several umpire crews during the tournament. The objective is to minimize the total distance traveled by the umpires, while respecting constraints that include visiting every team at home, and not seeing a team or venue too often. We strengthen a known integer programming formulation for the TUP and use it to implement a relax-and-fix heuristic that improves the quality of 24 out of 25 best-known feasible solutions to instances in the TUP benchmark. We also improve all best-known lower bounds for those instances and, for the first time, provide lower bounds for instances with more than 16 teams.
+
+@highlight We study the Traveling Umpire Problem (TUP) and strengthen a known IP formulation.
+@highlight We use the stronger formulation to implement a relax-and-fix heuristic.
+@highlight The heuristic improves 24 out of 25 best-known solutions in the TUP benchmark.
+@highlight We also improve all best-known lower bounds for those instances.
+@highlight We are the first to provide lower bounds for instances with more than 16 teams.

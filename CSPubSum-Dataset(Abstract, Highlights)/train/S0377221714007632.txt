@@ -1,0 +1,6 @@
+ In this paper we consider characterizations of the robust uncertainty sets associated with coherent and distortion risk measures. In this context we show that if we are willing to enforce the coherent or distortion axioms only on random variables that are affine or linear functions of the vector of random parameters, we may consider some new variants of the uncertainty sets determined by the classical characterizations. We also show that in the finite probability case these variants are simple transformations of the classical sets. Finally we present results of computational experiments that suggest that the risk measures associated with these new uncertainty sets can help mitigate estimation errors of the Conditional Value-at-Risk.
+
+@highlight We study uncertainty sets associated to coherent and distortion risk measures.
+@highlight By focusing on linear and affine random variables we justify the use of new uncertainty sets.
+@highlight These new sets are expansions of classical sets and are related to the expectation correction of a risk measure.
+@highlight These new sets can be used to mitigate estimation errors of the Conditional Value at Risk.

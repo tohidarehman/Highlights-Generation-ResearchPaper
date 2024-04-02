@@ -1,0 +1,6 @@
+ One of the difficulties encountered in thermal modelling of welding processes is the determination of the input parameters and in particular the thermal boundary conditions. This paper describes a novel method of determining these values using an artificial neural network to solve the Inverse Heat Conduction Problem using the thermal history as input data. The method has been successfully applied to models that represent the heat transfer to the backing bar with a contact gap conductance heat transfer. Both constant and temperature dependent values of the contact gap conductance heat transfer coefficient have been used. The ANN was able to find the contact gap conductance heat transfer successfully in both cases, however the error was significantly lower for the constant value. The key to successful implementation is the ANN topology (e.g. generalized feedforward), and the development of effective methods of abstracting the thermal data.
+
+@highlight Using artificial neural network (ANN) to find the thermal boundary condition in welding model.
+@highlight Correlated on the ANN model components with quality of prediction on the thermal boundary.
+@highlight A second stage modeling method was proposed for improving the results.
+@highlight The accuracy of the prediction was validated and found to be relevant largely to the ANN topology.

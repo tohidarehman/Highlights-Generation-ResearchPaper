@@ -1,0 +1,7 @@
+ For many years, providing an algorithm to generate hexahedral meshes that fulfill minimal geometric criteria (boundary-alignment, minimum of singularity vertices) and that is not limited to a category of geometries has been an open issue. In the past couple of years, techniques using 3D frame fields have emerged to design such meshes . Those methods are based on a two-step process where a 3D frame field is built by assigning a frame to each cell of a tetrahedral mesh, then a parametrization algorithm is applied to generate a hexahedral mesh. In this work, we propose a novel algorithm to generate block-structured hexahedral meshes for any CAD domain . This work differs from previous ones in many points:  the proposed approach does not need to start from a pre-meshed quad boundary;  The frame field initialization does not put singularity lines around the medial object of ;  Conceptually, frames are assigned to the vertices and not to the cells of the tetrahedral mesh;  The parametrization process is replaced by a constructive algorithm that generates a block structure, which partitions in meshable regions.
+
+@highlight We propose a novel algorithm to generate block-structured hexahedral meshes for any CAD domain.
+@highlight The proposed approach does not require a pre-meshed boundary.
+@highlight The frame field is built so that singularities are better positioned.
+@highlight A skeleton is built using the frame field.
+@highlight Each part defined by the skeleton can be meshed with a structured mesh.

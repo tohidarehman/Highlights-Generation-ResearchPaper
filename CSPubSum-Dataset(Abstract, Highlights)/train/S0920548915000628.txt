@@ -1,0 +1,6 @@
+ Among key design practices which contribute to the development of inclusive ICT products and services is user testing with people with disabilities. Traditionally, this involves partial or minimal user testing through the usage of standard heuristics, employing external assisting devices, and the direct feedback of impaired users. However, efficiency could be improved if designers could readily analyse the needs of their target audience. The VERITAS framework simulates and systematically analyses how users with various impairments interact with the use of ICT products and services. Findings show that the VERITAS framework is useful to designers, offering an intuitive approach to inclusive design.
+
+@highlight The VERITAS framework enables designers to include accessibility requirements at the outset of software and product design
+@highlight VERITAS framework simulates how various impairments interact with the use of ICT products and services
+@highlight Findings highlight that the VERITAS framework offer an intuitive approach to inclusive design We report qualitative insights into the use of the framework by 72 evaluators
+@highlight Evaluators were drawn from 5 application areas: infotainment-games; workplace design; smart living spaces; healthcare; and automotive

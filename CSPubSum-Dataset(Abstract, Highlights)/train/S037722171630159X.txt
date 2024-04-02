@@ -1,0 +1,6 @@
+ In this paper we consider the Asymmetric Quadratic Traveling Salesman Problem (AQTSP). Given a directed graph and a function that maps every pair of consecutive arcs to a cost, the problem consists in finding a cycle that visits every vertex exactly once and such that the sum of the costs is minimal. We propose an extended Linear Programming formulation that has a variable for each cycle in the graph. Since the number of cycles is exponential in the graph size, we propose a column generation approach. Moreover, we apply a particular reformulation-linearization technique on a compact representation of the problem, and compute lower bounds based on Lagrangian relaxation. We compare our new bounds with those obtained by some linearization models proposed in the literature. Computational results on some set of benchmarks used in the literature show that our lower bounding procedures are very promising.
+
+@highlight Present different reformulations for the quadratic traveling salesman problem.
+@highlight Develop new bound based on reformulation-linearization technique.
+@highlight Propose a cycle based model and solve it by column generation approach.
+@highlight Develop a stabilized column generation.

@@ -1,0 +1,7 @@
+ This paper considers the issue of performing testing inference in fixed effects panel data models under heteroskedasticity of unknown form. We use numerical integration to compute the exact null distributions of different quasi-t test statistics and compare them to their limiting counterpart. The test statistics use different heteroskedasticity-consistent standard errors.. The quality of the approximation is greatly increased when the standard error is obtained using other heteroskedasticity-consistent estimators, most notably the CHC4 estimator. Our results also reveal that the performance of Arellano’s test improves considerably when standard errors are computed using restricted residuals.
+
+@highlight We wrote the test statistics as ratios of Gaussian quadratic forms.
+@highlight We used numerical integration to compute their exact null distributions.
+@highlight We compare the limiting null distribution with the exact null distributions.
+@highlight Most accurate asymptotic approximations are obtained with CHC4 and CHCR0 tests.
+@highlight We recommend that inference in FE models be based such quasi-t test statistics.

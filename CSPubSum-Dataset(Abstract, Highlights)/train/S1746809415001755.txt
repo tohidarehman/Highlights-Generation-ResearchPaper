@@ -1,0 +1,7 @@
+ One crucial part of an image registration algorithm is utilization of an appropriate similarity metric. For common similarity metrics such as CC or MI, it is assumed that the intensities of image pixels are independent from each other and stationary. Accepting these assumptions, one will have difficulty doing image registration in the presence of spatially varying intensity distortion. In Myronenko et al.  a solution based on minimization of residual complexity is introduced to solve this problem. In this work, the weakness of RC method is investigated for more complex spatially varying intensity distortions and a modification of this method is presented to improve its performance in such conditions. The proposed method reduces the error respect to the other methods. Experimental results on synthetic and real-world data sets demonstrate the effectiveness of the proposed method for image registration tasks.
+
+@highlight In this paper, we propose a method to improve geometric registration of image pairs when there exits locally varying intensity distortion.
+@highlight The proposed method is a modification of Myronenko et al. method called RC.
+@highlight We used weighted residual instead of simple residual.
+@highlight The weight is estimated during the registration iterations.
+@highlight Using weighted subtraction instead of simple subtraction improve the accuracy in the presence of complex intensity distortion.

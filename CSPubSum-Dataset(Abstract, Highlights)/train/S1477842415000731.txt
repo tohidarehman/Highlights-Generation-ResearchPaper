@@ -1,0 +1,6 @@
+ Duplicated code detection has been an active research field for several decades. Although many algorithms have been proposed, only a few researches have focussed on the comprehensive presentation of the detected clones. During the evaluation of clone detectors developed by the authors, it was observed that the results of the clone detectors were hard to comprehend. Therefore, in this paper a broadly suitable grouping method with which clone pairs can be easily grouped together to provide a more compact result is presented. The grouping algorithm is examined and a more precise revised algorithm is proposed to present all of the candidates to the user.
+
+@highlight Based on the examination of our initial finding we introduce a revised algorithm to group clone pairs.
+@highlight The proposed technique is a two-dimensional maximisation to group clone pairs.
+@highlight The algorithm is broadly usable, language independent with weak constraints.
+@highlight We present the experiment used to evaluate the proposed algorithm.

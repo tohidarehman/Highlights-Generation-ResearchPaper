@@ -1,0 +1,7 @@
+ Many classification problems, especially in the field of bioinformatics, are associated with more than one class, known as multi-label classification problems. In this study, we propose a new adaptation for the Binary Relevance algorithm taking into account possible relations among labels, focusing on the interpretability of the model, not only on its performance. Experiments were conducted to compare the performance of our approach against others commonly found in the literature and applied to functional genomic datasets. The experimental results show that our proposal has a performance comparable to that of other methods and that, at the same time, it provides an interpretable model from the multi-label problem.
+
+@highlight We propose an adaptation for the Binary Relevance (BR) algorithm.
+@highlight It may decrease the number of classifiers to be analyzed by human experts.
+@highlight When all the labels are related, our approach finds a single classifier.
+@highlight When all the labels are uncorrelated our approach will be equal to BR.
+@highlight Performance comparable to other algorithms, with good F-measure results.

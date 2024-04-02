@@ -1,0 +1,7 @@
+ In this paper we discuss the application of two-dimensional linear cellular automata (CA) rules with the help of fuzzy heuristic membership function to the problems of edge detection in image processing applications. We proposed an efficient and simple thresholding technique of edge detection based on fuzzy cellular automata transition rules optimized by Particle Swarm Optimization method (PSO). Finally, we present some results of the proposed linear rules for edge detection to the selected 22 images from the Berkeley Segmentation Dataset (BSDS) and compare with some classical Sobel and Canny results. Also, Baddeley Delta Metric (BDM) is used for the performance index to compare the results.
+
+@highlight This study is the application of 2D linear cellular automata (CA) rules with the help of fuzzy membership function to the problems of edge detection.
+@highlight An efficient and simple thresholding technique of edge detection based on CA transition rules optimized by Particle Swarm Optimization method (PSO) is proposed.
+@highlight Results of the proposed to the selected 22 images from the Berkeley Segmentation Dataset (BSDS) are presented.
+@highlight Comparison with some classical Sobel and Canny results is included.
+@highlight Baddeley Delta Metric (BDM) is used for the performance index to compare the results.

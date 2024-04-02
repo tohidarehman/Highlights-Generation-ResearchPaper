@@ -1,0 +1,5 @@
+ We consider the problem of allocating indivisible goods to agents who have preferences over the goods. In such a setting, a central task is to maximize social welfare. In this paper, we assume the preferences to be additive and measure social welfare by means of the Nash product. We focus on the computational complexity involved in maximizing Nash product social welfare when scores inherent in classical voting procedures such as approval or Borda voting are used to associate utilities with the agents’ preferences. In particular, we show that the maximum Nash product social welfare can be computed efficiently when approval scores are used, while for Borda and lexicographic scores the corresponding decision problem becomes NP -complete.
+
+@highlight Indivisible goods are allocated to agents.
+@highlight The goal is to maximize Nash product social welfare w.r.t. classical scores.
+@highlight Complexity results are given for approval, Borda, and lexicographic scores.

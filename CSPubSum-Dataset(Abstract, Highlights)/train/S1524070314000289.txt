@@ -1,0 +1,6 @@
+ A quaternion rational surface is a surface generated from two rational space curves by quaternion multiplication. The goal of this paper is to demonstrate how to apply syzygies to analyze quaternion rational surfaces. We show that we can easily construct three special syzygies for a quaternion rational surface from a μ-basis for one of the generating rational space curves. The implicit equation of any quaternion rational surface can be computed from these three special syzygies and inversion formulas for the non-singular points on quaternion rational surfaces can be constructed. Quaternion rational ruled surfaces are generated from the quaternion product of a straight line and a rational space curve. We investigate special μ-bases for quaternion rational ruled surfaces and use these special μ-bases to provide implicitization and inversion formulas for quaternion rational ruled surfaces. Finally, we show how to determine if a real rational surface is also a quaternion rational surface.
+
+@highlight Constructing quaternion rational surfaces by quaternion multiplication.
+@highlight Computing three special syzygies for quaternion rational surfaces.
+@highlight Implicitizing quaternion rational surfaces and calculating their singularities.
+@highlight Finding a μ-basis for quaternion rational ruled surfaces.

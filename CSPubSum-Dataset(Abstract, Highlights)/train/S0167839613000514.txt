@@ -1,0 +1,5 @@
+ This paper is devoted to introducing a new approach for computing the topology of a real algebraic plane curve presented either parametrically or defined by its implicit equation when the corresponding polynomials which describe the curve are known only “by values”. This approach is based on the replacement of the usual algebraic manipulation of the polynomials (and their roots) appearing in the topology determination of the given curve with the computation of numerical matrices (and their eigenvalues). Such numerical matrices arise from a typical construction in Elimination Theory known as the Bézout matrix which in our case is specified by the values of the defining polynomial equations on several sample points.
+
+@highlight The topology of the curve is obtained directly from Lagrange interpolation data.
+@highlight Roots of polynomial matrix determinants are obtained as generalized eigenvalues.
+@highlight The algorithm is very useful when the explicit polynomial expressions are huge.

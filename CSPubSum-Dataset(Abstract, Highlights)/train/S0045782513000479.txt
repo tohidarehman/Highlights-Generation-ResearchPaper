@@ -1,0 +1,5 @@
+ This article presents a novel approach to collision detection based on distance fields. A novel interpolation ensures stability of the distances in the vicinity of complex geometries. An assumed gradient formulation is introduced leading to a -continuous distance function. The gap function is re-expressed allowing penalty and Lagrange multiplier formulations. The article introduces a node-to-element integration for first order elements, but also discusses signed distances, partial updates, intermediate surfaces, mortar methods and higher order elements. The algorithm is fast, simple and robust for complex geometries and self contact. The computed tractions conserve linear and angular momentum even in infeasible contact. Numerical examples illustrate the new algorithm in three dimensions.
+
+@highlight Presents asynchronous variational integrators in the context of finite elements with continuous strain fields.
+@highlight Illustrates an enhanced interpretation of the current space–time front.
+@highlight Provides a strategy for estimating the critical time step size using CAG elements, nodal integration or SFEM.

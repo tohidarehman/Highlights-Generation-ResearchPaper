@@ -1,0 +1,6 @@
+ Representation and reasoning about context information is a main research area in Ambient Intelligence (AmI). Context modeling in such applications is facing openness and heterogeneity. To tackle such problems, we argue that usage of semantic web technologies is a promising direction. We introduce CONSERT, an approach for context meta-modeling offering a consistent and uniform means for working with domain knowledge, as well as constraints and meta-properties thereof. We provide a formalization of the model and detail its innovative implementation using techniques from the semantic web community such as ontology modeling and SPARQL. A stepwise example of modeling a commonly encountered AmI scenario showcases the expressiveness of our approach. Finally, the architecture of the representation and reasoning engine for CONSERT is presented and evaluated in terms of performance.
+
+@highlight We formally define an ontology-based context meta-model.
+@highlight Approach offers uniform modeling of context content, annotation and dependencies.
+@highlight Reasoning cycle performs automatic computation of temporal continuity of situations.
+@highlight OSGi-compatible reasoning engine exploits the context meta-model in customizable way.

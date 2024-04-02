@@ -1,0 +1,7 @@
+ Decision makers benefit from the utilization of decision-support models in several applications. Obtaining managerial insights is essential to better inform the decision-process. This work offers an in-depth investigation into the structural properties of decision-support models. We show that the input–output mapping in influence diagrams, decision trees and decision networks is piecewise multilinear. The conditions under which sensitivity information cannot be extracted through differentiation are examined in detail. By complementing high-order derivatives with finite change sensitivity indices, we obtain a systematic approach that allows analysts to gain a wide range of managerial insights. A well-known case study in the medical sector illustrates the findings.
+
+@highlight We study the sensitivity of decision-support models.
+@highlight We introduce the notion of decision-network polynomials.
+@highlight The absence of differentiability at indifference points is investigated in detail.
+@highlight We utilize finite change sensitivity indices for providing managerial insights.
+@highlight The representation of certainty equivalents is discussed.

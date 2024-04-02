@@ -1,0 +1,6 @@
+ The displacement based finite element models for hyperelastic materials are considered, and it is shown that—based on the invariance of the discretized strain energy to translations and rigid body rotations of the elements—the magnitude of the nodal forces can be written purely in terms of the strains along the edges composing the elements, while their directions are along the unit vectors corresponding to the edges. In other words, the nodal forces are “truss like” with one major difference: the magnitude of the forces depends upon the extensional strains of neighboring edges. In order to motivate the ideas, we first explicitly demonstrate this result for triangular finite element formulation of plane elasticity problems and then show that the result is valid for any finite element formulation of hyperelasticity.
+
+@highlight Established the result that the magnitude of forces at the nodes of a constant strain triangular element depends only upon the extensional strains along the edges of elements connected at the node.
+@highlight Further showed that the result is not specific to constant strain triangles, but is true of all finite element formulations of elasticity problems.
+@highlight A mathematical proof of the result is presented.
+@highlight An illustrative example involving the CST is presented.

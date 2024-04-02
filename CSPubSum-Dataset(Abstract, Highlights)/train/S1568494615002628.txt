@@ -1,0 +1,7 @@
+ Searching homogenous groups of individuals is one of the important steps in activity based travel demand modeling development. This study proposes an Integration of Classification tree And Sequence alignment method (ICAS) as a new classification method. The main advantage is the ability to explore all sources of lifestyle variations that have various data types including: sequential data, continuous variables, and discrete variables. These data are, for example, activity sequential patterns, socio-economic characteristics, and socio-demographic characteristics. Results from ICAS can also be used as both an activity classifier and an activity generator in an activity based travel demand modeling system. The proposed ICAS concept was evaluated with real world data, using the 2004 Bangkok time use data from Thailand's National Statistical Office (NSO).
+
+@highlight This study proposes a method of classifying homogenous groups of population in the time use database.
+@highlight The model utilizes activity sequence patterns and socio-economic data in the time use data.
+@highlight An Integration of Classification tree And Sequence alignment method is proposed.
+@highlight The advantage is the ability to handle sequential, continuous, and discrete variables.
+@highlight The model was applied with real world data, using the 2004 Bangkok time use data from Thailand.

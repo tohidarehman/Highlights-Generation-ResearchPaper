@@ -1,0 +1,7 @@
+ Travel distance to medical care has been assessed using a variety of geographic methods. Network analyses are less common, but may generate more accurate estimates of travel costs. We compared straight-line distances and driving distance, as well as average drive time and travel time on a public transit network for 1789 persons diagnosed with HIV between 2010 and 2012 to identify differences overall, and by distinct geographic areas of Philadelphia. Paired t-tests were used to assess differences across methods, and analysis of variance was used to assess between-group differences. Driving distances were significantly longer than straight-line distances (p <0.001) and transit times were significantly longer than driving times (p <0.001). Persons living in the northeast section of the city traveled greater distances, and at greater cost of time and effort, than persons in all other areas of the city (p <0.001). Persons living in the northwest section of the city traveled farther and longer than all other areas except the northeast . Network analyses that include public transit will likely produce a more realistic estimate of the travel costs, and may improve models to predict medical care outcomes.
+
+@highlight We compared four methods of analyzing travel patterns.
+@highlight We utilized new analytic tools to measure transit ‘costs’.
+@highlight Significant differences were observed in both distance and cost measures.
+@highlight Travel costs varied significantly by geographic area.
+@highlight Transit network data add an important metric in urban areas.

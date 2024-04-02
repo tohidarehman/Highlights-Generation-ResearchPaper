@@ -1,0 +1,6 @@
+ Detection of QRS complexes in ECG signals is required to determine heart rate, and it is an important step in the study of cardiac disorders. ECG signals are usually affected by noise of low and high frequency. To improve the accuracy of QRS detectors several methods have been proposed to filter out the noise and detect the characteristic pattern of QRS complex. Most of the existing methods are at a disadvantage from relatively high computational complexity or high resource needs making them less optimized for its implementation on portable embedded systems, wearable devices or ultra-low power chips. We present a new method to detect the QRS signal in a simple way with minimal computational cost and resource needs using a novel non-linear filter.
+
+@highlight The MaMeMi non-linear filter can remove baseline wander with minimum resource needs.
+@highlight A high quality ECG detector (0.88% detection error rate) is based on the filter.
+@highlight Low resource needs make it ideal for portable and battery opperated devices.
+@highlight Resource count can still be halved while achieving a 0.95% detection error rate.

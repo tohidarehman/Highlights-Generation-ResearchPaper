@@ -1,0 +1,7 @@
+ The momentum term has long been used in machine learning algorithms, especially back-propagation, to improve their speed of convergence. In this paper, we derive an expression to prove the convergence rate of the online gradient method, with momentum type updates, when the individual gradients are constrained by a growth condition. We then apply these type of updates to video background modelling by using it in the update equations of the Region-based Mixture of Gaussians algorithm. Extensive evaluations are performed on both simulated data, as well as challenging real world scenarios with dynamic backgrounds, to show that these regularised updates help the mixtures converge faster than the conventional approach and consequently improve the algorithm’s performance.
+
+@highlight Derivation of O(1/k
+@highlight 2) rate of convergence for online gradient method with momentum.
+@highlight Novel foreground detection algorithm for dynamic background modelling.
+@highlight Fast convergence of mixtures demonstrated on various sets of simulated data.
+@highlight Superior performance compared to other state-of-the-art algorithms on real videos.

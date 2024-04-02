@@ -1,0 +1,7 @@
+ Gender is one of the intrinsic properties of identity, with performance enhancement reducing the cluster when a search is performed. Teeth have durable and resistant structure, and as such are important sources of identification in disasters (accident, fire, etc.). In this study, gender determination is accomplished by maxillary tooth plaster models of 40 people (20 males and 20 females). The images of tooth plaster models are taken with a lighting mechanism set-up. A gray level co-occurrence matrix of the image with segmentation is formed and classified via a Random Forest (RF) algorithm by extracting pertinent features of the matrix. Automatic gender determination has a 90% success rate, with an applicable system to determine gender from maxillary tooth plaster images.
+
+@highlight In this study, GLCM and RF based gender determination has been performed.
+@highlight Maxillary tooth plaster model images have been used to determine gender.
+@highlight Automatic segmentation was carried out by using image processing methods.
+@highlight The features were extracted automatically without requiring any manual measurement.
+@highlight This study is a multi-disciplinary study.

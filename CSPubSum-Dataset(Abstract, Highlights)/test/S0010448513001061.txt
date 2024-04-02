@@ -1,0 +1,7 @@
+ Surface development is used in many manufacturing planning operations, e.g., for garments, ships and automobiles. However, most freeform surfaces used in design are not developable, and therefore the developed patterns are not isometric to the original design surface. In some domains, the CAD model is created by interpolating two given space curves. In this paper, we propose a method to obtain a G2 quasi-developable Bezier surface interpolating two arbitrary space curves. The given curves are first split into a number of piecewise Bezier curves and elemental Bezier patches each of which passes through four splitting points are constructed. All neighboring elemental patches are G2 connected and they are assembled optimally in terms of the degree of developability (the integral Gaussian curvature). Experiments show that the final composite Bezier surface is superior to a lofted one which is defined regardless of the final surface developability.
+
+@highlight We model a quasi-developable surface interpolating two arbitrary space curves.
+@highlight The surface is represented by an aggregate of four-sided Bezier patches.
+@highlight These patches can be optimally assembled in terms of developability degree.
+@highlight The resultant surface can obtain
+@highlight continuity.

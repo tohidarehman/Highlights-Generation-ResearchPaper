@@ -1,0 +1,7 @@
+ A methodology based on adaptive likelihood ratios (ALRs) for the detection of emerging disease clusters is presented. The martingale structure of the regular likelihood ratio is preserved by the ALR. The upper limit for the false alarm rate of the proposed method depends only on the quantity of evaluated cluster candidates. Thus Monte Carlo simulations are not required to validate the procedures’ statistical significance, allowing the construction of a fast computational algorithm to detect clusters. The number of evaluated clusters is also significantly reduced, through the use of an adaptive approach to prune many unpromising clusters. This further increases the computational speed. Performance is evaluated through simulations to measure the average detection delay and the probability of correct cluster detection. We present applications for thyroid cancer in New Mexico and hanseniasis in children in the Brazilian Amazon.
+
+@highlight Fast computational algorithm to detect space–time clusters.
+@highlight Methodology based on adaptive likelihood ratio.
+@highlight Utilizes an adaptive estimator in the configuration space of spatial clusters.
+@highlight The method has a low delay to detect space–time clusters.
+@highlight Allows flexibility in the cluster shape.

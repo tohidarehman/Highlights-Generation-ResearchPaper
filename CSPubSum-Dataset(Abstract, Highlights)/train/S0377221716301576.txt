@@ -1,0 +1,6 @@
+ The paper suggests a differential game of advertising competition among three symmetric firms, played over an infinite horizon. The objective of the research is to see if a cooperative agreement among the firms can be sustained over time. For this purpose the paper determines the characteristic functions (value functions) of individual players and all possible coalitions. We identify an imputation that belongs to the core. Using this imputation guarantees that, in any subgame starting out on the cooperative state trajectory, no coalition has an incentive to deviate from what was prescribed by the solution of the grand coalition’s optimization problem.
+
+@highlight The paper studies a three-player differential game with an infinite time horizon.
+@highlight We identify the characteristic functions of all feasible coalitions.
+@highlight We show how cooperation in the grand coalition can be sustained over time.
+@highlight The paper applies the concept of the core to a dynamic game.

@@ -1,0 +1,7 @@
+ Cloud service is a new and distinctive business model for service providers. Access control is an emerging and challenging issue in supporting cloud service business. This work proposes a new access control mechanism called cloud service access control (CSAC). The CSAC mechanism considers payment status and service level as the two essential characteristics of cloud service. Ontology is a theoretical foundation for the CSAC mechanism. Inconsistent access control policies are detected by a set of proposed policy conflict analysis rules. Inappropriate user accesses are inhibited by access control policies according the proposed access denying rules. System architecture is designed to support the CSAC mechanism. A case study is provided to demonstrate how CSAC works. Finally, an evaluation is conducted to measure the concept explosion issue in CSAC.
+
+@highlight The proposed system supports cloud features: payment status and service level.
+@highlight The system uses rules and ontologies to detect policy conflicts and block accesses.
+@highlight The system architecture and database design are proposed.
+@highlight A case study shows how the system detects conflicts and denies illegal accesses.
+@highlight In the evaluation result, the proposed system has less concept explosion than RBAC.

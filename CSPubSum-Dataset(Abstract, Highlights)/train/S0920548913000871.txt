@@ -1,0 +1,6 @@
+ In the near future, home networks are expected to become an important part of the user's ubiquitous environment. However, how to provide service discovery and multimedia services in such networks becomes a great challenge. In the paper, we propose an extension header, referred to as the “MediaService” header, into the Session Initiation Protocol to provide video streaming service. The streaming control and session mobility functions are also considered in the MediaService header. We also propose a peer to peer Service Location Protocol architecture for users to search for location of services across domains. We added a Substitute Request Message and cache policy into the Service Location Protocol to search for location of services across domains. A prototype implementation shows the performance of our prototype.
+
+@highlight We propose a digital multimedia home environment based on SIP, RTP and SLP.
+@highlight We design the MediaService extension header in SIP to provide a streaming service.
+@highlight The SLP UA and SIP UA are integrated to discover and initiate a streaming service.
+@highlight The Substitute Request is introduced to provide service discovery across domains.

@@ -1,0 +1,7 @@
+ In this paper, we describe several approaches to language-independent spoken term detection and compare their performance on a common task, namely “Spoken Web Search”. The goal of this part of the MediaEval initiative is to perform low-resource language-independent audio search using audio as input. The data was taken from “spoken web” material collected over mobile phone connections by IBM India as well as from the LWAZI corpus of African languages. As part of the 2011 and 2012 MediaEval benchmark campaigns, a number of diverse systems were implemented by independent teams, and submitted to the “Spoken Web Search” task. This paper presents the 2011 and 2012 results, and compares the relative merits and weaknesses of approaches developed by participants, providing analysis and directions for future research, in order to improve voice access to spoken information in low resource settings.
+
+@highlight “Spoken Web Search” allows users to access an audio database with voice queries independent of the language used.
+@highlight It is a novel application of speech technology to specifically help under-developed communities.
+@highlight Low-resource “query by example” techniques are becoming popular again, and are well suited to solving this problem.
+@highlight Rival and complementary techniques include multi-lingual LVCSR and articulatory feature based modeling.
+@highlight We present a comparative analysis of these techniques as submitted to the MediaEval evaluation series.

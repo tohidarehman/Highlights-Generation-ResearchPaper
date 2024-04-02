@@ -1,0 +1,6 @@
+ It is well known that he influence relation orders the voters the same way as the classical Banzhaf and Shapley–Shubik indices do when they are extended to the voting games with abstention (VGA) in the class of complete games. Moreover, all hierarchies for the influence relation are achievable in the class of complete VGA. The aim of this paper is twofold. Firstly, we show that all hierarchies are achievable in a subclass of weighted VGA, the class of weighted games for which a single weight is assigned to voters. Secondly, we conduct a partial study of achievable hierarchies within the subclass of H-complete games, that is, complete games under stronger versions of influence relation.
+
+@highlight We focus on two main notions of influence in voting rules with abstention.
+@highlight We do a study of the achievable hierarchies for these two notions of influence.
+@highlight Our results clarify which hierarchies are achievable in the context of abstention.
+@highlight Our results contribute to the design of voting rules with abstention.

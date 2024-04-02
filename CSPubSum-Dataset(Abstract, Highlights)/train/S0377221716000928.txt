@@ -1,0 +1,7 @@
+ The Obnoxious p-Median problem consists in selecting a subset of p facilities from a given set of possible locations, in such a way that the sum of the distances between each customer and its nearest facility is maximized. The problem is NP -hard and can be formulated as an integer linear program. It was introduced in the 1990s, and a branch and cut method coupled with a tabu search has been recently proposed. In this paper, we propose a heuristic method – based on the Greedy Randomized Adaptive Search Procedure, GRASP, methodology – for finding approximate solutions to this optimization problem. In particular, we consider an advanced GRASP design in which a filtering mechanism avoids applying the local search method to low quality constructed solutions. Empirical results indicate that the proposed implementation compares favorably to previous methods. This fact is confirmed with non-parametric statistical tests.
+
+@highlight GRASP is proposed with two constructive and two local search procedures.
+@highlight A memory structure is presented to allow incremental calculation of solutions.
+@highlight A mechanism to discard low quality solutions before the local search is proposed.
+@highlight A complete experimental experience is provided that studies the parameter values.
+@highlight The proposal is tested against the state of the art for the current problem.

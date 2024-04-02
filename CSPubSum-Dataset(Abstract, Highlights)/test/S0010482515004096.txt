@@ -1,0 +1,7 @@
+ Biological sequences carry a lot of important genetic information of organisms. Furthermore, there is an inheritance law related to protein function and structure which is useful for applications such as disease prediction. Frequent sequence mining is a core technique for association rule discovery, but existing algorithms suffer from low efficiency or poor error rate because biological sequences differ from general sequences with more characteristics. In this paper, an algorithm for mining Frequent Biological Sequence based on Bitmap, FBSB, is proposed. FBSB uses bitmaps as the simple data structure and transforms each row into a quicksort list QS-list for sequence growth. For the continuity and accuracy requirement of biological sequence mining, tested sequences used during the mining process of FBSB are real ones instead of generated candidates, and all the frequent sequences can be mined without any errors. Comparing with other algorithms, the experimental results show that FBSB can achieve a better performance on both run time and scalability.
+
+@highlight Frequent sequence mining is used to discover genetic laws from biological sequence.
+@highlight Less memory is required because bitmap is used for sequence record and joining.
+@highlight Quicksort list makes the tested sequence real ones instead of excessive candidates.
+@highlight Joining operation is simplified by subtraction and efficient for runtime saving.
+@highlight All frequent sequences can be mined without any loss, so the error rate is 0.

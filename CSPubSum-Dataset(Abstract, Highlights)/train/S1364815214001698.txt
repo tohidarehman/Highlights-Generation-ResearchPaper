@@ -1,0 +1,7 @@
+ Surrogate modeling uses cheap “surrogates” to represent the response surface of simulation models. It involves several steps, including initial sampling, regression and adaptive sampling. This study evaluates an adaptive surrogate modeling based optimization (ASMO) method on two benchmark problems: the Hartman function and calibration of the SAC-SMA hydrologic model. Our results show that: 1) Gaussian Processes are the best surrogate model construction method. A minimum Interpolation Surface method is the best adaptive sampling method. Low discrepancy Quasi Monte Carlo methods are the most suitable initial sampling designs. Some 15–20 times the dimension of the problem may be the proper initial sample size; 2) The ASMO method is much more efficient than the widely used Shuffled Complex Evolution global optimization method. However, ASMO can provide only approximate optimal solutions, whose precision is limited by surrogate modeling methods and problem-specific features; and 3) The identifiability of model parameters is correlated with parameter sensitivity.
+
+@highlight Adaptive Surrogate Modeling based Optimization (ASMO) is an effective and efficient method.
+@highlight Gaussian Process (GP) method is the best surrogate model construction method for ASMO.
+@highlight Minimum Interpolation Surface (MIS) method is the best adaptive sampling method for ASMO.
+@highlight Low discrepancy Quasi Monte Carlo (QMC) method is the most suitable DoE method for ASMO.
+@highlight The identifiability of model parameters is correlated with parameter sensitivity.

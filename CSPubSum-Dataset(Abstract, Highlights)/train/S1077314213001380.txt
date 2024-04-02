@@ -1,0 +1,6 @@
+ This paper discusses the problem of segmenting foreground objects precisely in surveillance video images when foreground moving objects and the still backgrounds have the similar color parts. Motivated by the studies in color constancy, the notion of color invariants is introduced to realize integrated segmentation in color similar situations. Color invariants, which are derived from a physical model, are used as descriptors of image. Then a simple background subtraction method using the color invariants is performed to examine the effectiveness of color invariants in color similar situations. The experimental results demonstrated that the color invariants based method performed well in various situations of color similarity and also was robust to environmental illumination change. Moreover, the color invariants based method achieved higher accuracy and efficiency of background subtraction compared with other existing algorithms in practical real-time surveillance video images of indoor environments.
+
+@highlight We discuss the problem of integrated segmentation in color similar situation.
+@highlight The color invariants derived from a physical model are adopted to describe the colors.
+@highlight Realize the background–foreground segmentation in color similar situations.
+@highlight The proposed method is robust to abrupt illumination change.

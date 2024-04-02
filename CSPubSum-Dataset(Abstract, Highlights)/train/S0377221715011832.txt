@@ -1,0 +1,6 @@
+ We consider a self-storage warehouse, facing storage orders for homogeneous or heterogeneous storage units over a certain time horizon. The warehouse operations manager needs to decide which storage orders to accept and schedule them across different storage units to maximize revenue. We model warehouse operations as scheduling n independent multiprocessor tasks with given start and end times, with an objective to maximize revenue. With operational constraints like the maximal upscaling level, precedence order constraints, and maximal idle time, the established mixed-integer program cannot be efficiently solved by commercial softwares. We therefore propose a column generation approach and a branch-and-price method to find an optimal schedule. Computational experiments show that, compared with current methods in self-storage warehouses, our method can significantly increase the revenue.
+
+@highlight We consider order acceptance for self-storage warehouses to maximize revenue.
+@highlight We model warehouse operations as scheduling n independent multiprocessor tasks.
+@highlight We propose a column generation and a branch-and-price method.
+@highlight Our algorithm can significantly increase the revenue of self-storage warehouses.

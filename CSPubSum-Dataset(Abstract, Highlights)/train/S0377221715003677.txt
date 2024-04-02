@@ -1,0 +1,7 @@
+ This paper analyzes the bullwhip effect in multi-echelon supply chains under a general class of nonlinear ordering policies. A describing-function approach from control theory is used to derive closed-form formulas to predict amplification of order fluctuations along the supply chain. It is proven that with consideration of nonlinearity in the ordering policy, the magnitude of the bullwhip effect will eventually become bounded after growing through the first few stages of the supply chain. It is also proven that the average customer demand as well as the demand fluctuation frequency would directly affect the bounded magnitude, while the suppliers’ demand forecasting method has no effect at all. For illustration, analytical results for a class of order-up-to policies are derived and verified by numerical simulations. The proposed modeling framework holds the promise to not only explain empirical observations, but also serve as the basis for developing counteracting strategies against the bullwhip effect.
+
+@highlight The growth of the bullwhip effect under nonlinear ordering policies is analyzed.
+@highlight Closed-form formulas are derived based on a describing-function approach.
+@highlight Nonlinearity in ordering policies is proven to cause bounded bullwhip effect growth.
+@highlight Impacts of mean demand, ordering periodicity, and forecasting method are derived.
+@highlight Various managerial insights hold the promise to help develop counteracting strategies.

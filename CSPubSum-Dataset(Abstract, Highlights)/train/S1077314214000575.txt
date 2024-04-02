@@ -1,0 +1,7 @@
+ The detection of image detail variation due to changes in illumination direction is a key issue in 3D shape and texture analysis. In this paper two approaches for estimating the optimal illumination direction for maximum enhancement of image detail and maximum suppression of shadows and highlights are presented. The methods are applicable both to single image/single illumination direction imaging and to photometric stereo imaging. This paper uses class-specific prior knowledge, where the distribution of the normals of the class of surfaces is used in the optimisation. Both the Lambertian and the Phong models are considered and the theoretical development is demonstrated with experimental results for both models. For each method experiments were performed using artificial images with isotropic and anisotropic distributions of normals, followed by experiments with real faces but synthesised images. Finally, results are presented using real objects and faces with and without ground-truth.
+
+@highlight A distribution of normals is used, e.g. all faces have similar distribution.
+@highlight Three parameters were optimized, surface details-gradients, shadows and highlights.
+@highlight Isophotes were used increasing their density based on the normals distribution.
+@highlight Both, Lambertian and Phong models were considered.
+@highlight Experiments were performed with real and synthetic data to verify the outcomes.

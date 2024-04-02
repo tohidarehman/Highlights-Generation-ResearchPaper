@@ -1,0 +1,7 @@
+ While the study of privacy preserving data publishing has drawn a lot of interest, some recent work has shown that existing mechanisms do not limit all inferences about individuals. This paper is a positive note in response to this finding. We point out that not all inference attacks should be countered, in contrast to all existing works known to us, and based on this we propose a model called SPLU. This model protects sensitive information, by which we refer to answers for aggregate queries with small sums, while queries with large sums are answered with higher accuracy. Using SPLU, we introduce a sanitization algorithm to protect data while maintaining high data utility for queries with large sums. Empirical results show that our method behaves as desired.
+
+@highlight We identify the dilemma allowing inference attacks on privacy preserving publishing.
+@highlight We show that utility and privacy guarantees can co-exist.
+@highlight We propose a mechanism, called SPLU-Gen, for offering small count privacy and large count utility.
+@highlight We introduce a sophisticated reconstruction method for enhanced utility.
+@highlight We provide a comprehensive set of experiments on two real datasets.

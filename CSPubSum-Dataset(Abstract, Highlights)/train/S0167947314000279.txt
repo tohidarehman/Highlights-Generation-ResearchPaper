@@ -1,0 +1,5 @@
+ In non-parametric regression analysis the advantage of frames with respect to classical orthonormal bases is that they can furnish an efficient representation of a more broad class of functions. For example, fast oscillating functions as audio, speech, sonar, radar, EEG and stock market are much more well represented by a frame, with similar oscillating characteristic, than by a classical orthonormal basis. In this respect, a new frame based shrinkage estimator is derived as the Empirical Regularized version of the optimal Shrinkage estimator generalized to the frame operator. An analytic expression of it is furnished leading to an efficient implementation. Results on standard and real test functions are shown.
+
+@highlight Totally automatic procedure for denoising fast oscillating functions.
+@highlight The procedure is valid for any frame operator.
+@highlight The procedure is a generalization of the empirical Wiener filter.

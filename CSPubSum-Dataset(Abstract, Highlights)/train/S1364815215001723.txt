@@ -1,0 +1,7 @@
+ This paper explores how meta-studies can support the development of process-based land change models (LCMs) that can be applied across locations and scales. We describe a multi-step framework for model development and provide descriptions and examples of how meta-studies can be used in each step. We conclude that meta-studies best support the conceptualization and experimentation phases of the model development cycle, but cannot typically provide full model parameterizations. Moreover, meta-studies are particularly useful for developing agent-based LCMs that can be applied across a wide range of contexts, locations, and/or scales, because meta-studies provide both quantitative and qualitative data needed to derive agent behaviors more readily than from case study or aggregate data sources alone. Recent land change synthesis studies provide sufficient topical breadth and depth to support the development of broadly applicable process-based LCMs, as well as the potential to accelerate the production of generalized knowledge through model-driven synthesis.
+
+@highlight Meta-studies can support the development of process-based land change models.
+@highlight Meta-studies can inform each phase of the model development cycle.
+@highlight Meta-studies best support model conceptualization and experimentation phases.
+@highlight Deriving agent behavior from meta-studies for modeling can be particularly useful.
+@highlight Models developed with meta-studies can be applied across contexts and/or scales.

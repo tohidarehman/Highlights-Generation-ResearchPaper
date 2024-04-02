@@ -1,0 +1,6 @@
+ The paper presents an approach for the identification of elasto-static parameters of a robotic manipulator using the virtual experiments in a CAD environment. It is based on the numerical processing of the data extracted from the finite element analysis results, which are obtained for isolated manipulator links. This approach allows to obtain the desired stiffness matrices taking into account the complex shape of the links, couplings between rotational/translational deflections and particularities of the joints connecting adjacent links. These matrices are integral parts of the manipulator lumped stiffness model that are widely used in robotics due to its high computational efficiency. To improve the identification accuracy, recommendations for optimal settings of the virtual experiments are given, as well as relevant statistical processing techniques are proposed. Efficiency of the developed approach is confirmed by a simulation study that shows that the accuracy in evaluating the stiffness matrix elements is about 0.1%.
+
+@highlight FEA-based methodology for stiffness matrix identification.
+@highlight Numerical technique for computing the stiffness matrix from the deflection field.
+@highlight Analytical expressions for accuracy evaluation.
+@highlight Technique for statistical processing of the experimental data matrix.

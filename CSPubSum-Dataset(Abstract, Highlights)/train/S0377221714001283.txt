@@ -1,0 +1,5 @@
+ We consider project scheduling where the project manager’s objective is to minimize the time from when an adversary discovers the project until the completion of the project. We analyze the complexity of the problem identifying both polynomially solvable and NP-hard versions of the problem. The complexity of the problem is seen to be dependent on the nature of renewable resource constraints, precedence constraints, and the ability to crash activities in the project.
+
+@highlight Minimizing exposed time with unlimited renewable resources is shown to be NP-hard.
+@highlight Minimizing exposed time with a single renewable resource is shown to be NP-hard.
+@highlight Polynomial time algorithms are provided with restrictions on the costs.

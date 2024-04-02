@@ -1,0 +1,7 @@
+ In this study, we focus on the quality of Condorcet and Approval Voting winners using Median and Maximum Coverage problems as benchmarks. We assess the quality of solutions by democratic processes assuming many dimensions for evaluating candidates. We use different norms to map multidimensional preferences into single values. We perform extensive numerical experiments. The Condorcet winner, when he/she exists, may have very high quality measured by the Median objective function, but poor quality measured by the Maximum Coverage problem. We show that the Approval Voting winner is optimal when the quality is measured by the Maximum Coverage objective and fairs well when the Median objective is employed. The analyses further indicate that the number of voters and the distance norm may increase, while the number of candidates and dimensions may decrease the quality of democratic methods.
+
+@highlight Linking Approval Voting to the coverage problem.
+@highlight Condorcet and Simpson solutions compared to optimal solutions.
+@highlight Effect of lp
+@highlight -norms on quality of solutions.
+@highlight Multi-criteria voting decisions and their qualities.

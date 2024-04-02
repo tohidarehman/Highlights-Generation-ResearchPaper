@@ -1,0 +1,7 @@
+ Customization design is a trend for developing a bicycle in recent years. Thus, the comfort of riding a bike is an important factor that should be paid much attention to while developing a bicycle. From the viewpoint of ergonomics, the concept of “fitting object to the human body” is designed into the bicycle frame in this study. Firstly, the important feature points of riding posture were automatically detected by the image processing method. In the measurement process, the best riding posture was identified experimentally, thus the positions of feature points and joint angles of human body were obtained. Afterwards, according to the measurement data, three key points: the handlebar, the saddle and the crank center, were identified and applied to the frame design of various bicycle types. Lastly, this study further proposed a frame size table for common bicycle types, which is helpful for the designer to design a bicycle.
+
+@highlight The concept of “fitting object to the body” is designed in the bicycle.
+@highlight The important feature points of riding posture can be detected automatically.
+@highlight The dimensions of bicycle frame can be captured from the measurement data.
+@highlight The frame size table for common bicycle types is further proposed.
+@highlight The result of this study can be applied to bicycle design and development.

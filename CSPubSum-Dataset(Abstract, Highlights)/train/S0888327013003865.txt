@@ -1,0 +1,5 @@
+ To meet the main requirements of output displacement, bandwidth frequency and accuracy in noncircular turning, a fast tool servo (FTS) system based on piezoelectric (PZT) voltage feedback is developed. A flexure hinge structure is designed to amplify the output of PZT actuator and topology optimization is done to reduce the mass and compliance of the structure so that the output displacement and response frequency of FTS can be improved. A compound controller, into which repetitive techniques, PI and feed-forward control, are introduced, and the method that PZT voltage of the actuator is treated as feedback are put forward. The feasibility and reliability of this system are proved well by turning experiments.
+
+@highlight New flexure structure is designed and topology optimization is done.
+@highlight A compound controller is put forward.
+@highlight Piezoelectric voltage, but not a displacement sensor signal, is treated as feedback.

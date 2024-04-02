@@ -1,0 +1,6 @@
+ In this paper we study the periodic maintenance problem: given a set of m machines and a horizon of T periods, find indefinitely repeating itself maintenance schedule such that at most one machine can be serviced at each period. In addition, all the machines must be serviced at least once for any cycle. In each period the machine i generates a servicing cost bi or an operating cost which depends on the last period in which i was serviced. The operating cost of each machine i in a period equals ai times the number of periods since the last servicing of that machine. The main objective is to find a cyclic maintenance schedule of a periodicity T that minimizes total cost. To solve this problem we propose a new Mixed Integer programming formulation and a new heuristic method based on general Variable neighborhood search called Nested general variable neighborhood search. The performance of this heuristic is shown through an extensive experimentation on a diverse set of problem instances.
+
+@highlight It is proposed new variant of VNS heuristic called Nested General VNS (NGVNS).
+@highlight Proposed new mathematical programming formulation of periodic maintenance problem (PMP).
+@highlight New NGVNS heuristic solves exactly all 110 instances from the literature.
+@highlight Comparative study of 4 exact solution methods of PMP is conducted.

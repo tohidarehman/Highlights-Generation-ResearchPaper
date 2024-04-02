@@ -1,0 +1,7 @@
+ Botnets continue to be used by attackers to perform various malicious activities on the Internet. Over the past years, many botnet detection techniques have been proposed; however, most of them cannot detect botnets in an early stage of their lifecycle, or they often depend on a specific command and control protocol. In this paper, we propose BotGrab, a general botnet detection system that considers both malicious activities and the history of coordinated group activities in the network to identify bot-infected hosts. BotGrab tracks suspected hosts participating in some coordinated group activities and calculates a negative reputation score for each of them based on the history of their participation in these activities. A suspected host will be identified as being bot-infected if it has a high negative reputation score or performs some malicious activities while having a low negative reputation score. We demonstrate the effectiveness of BotGrab to detect various botnets including HTTP-, IRC-, and P2P-based botnets using a testbed network consisting of some bot-infected hosts.
+
+@highlight A novel negative reputation system is proposed to detect bot-infected hosts.
+@highlight It considers both malicious activities and history of coordinated group activities.
+@highlight A proposed online incremental clustering technique facilitates the online learning.
+@highlight The negative reputation threshold can adjust the sensitivity of the system.
+@highlight It can successfully detect various botnets with a high DR and a low FAR.

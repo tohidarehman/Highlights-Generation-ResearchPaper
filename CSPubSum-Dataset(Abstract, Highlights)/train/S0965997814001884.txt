@@ -1,0 +1,7 @@
+ The paper describes the application of the latest Information Technologies in business processes such as design and manufacturing. More specifically it examines the use of cloud computing in the mechanical drawing and design process of an enterprise. It proposes a specific architecture with different servers, for the implementation of a collaborative cloud based Design system. Finally as an application example, it compares the operating cost of an industry’s design department before and after the use of the proposed system. This example uses a private cloud deployment model so that the comparison of the operating cost would be feasible. While public cloud may offer more functionality and economy, private cloud is best suitable to make conclusions and comparison between on-premise and cloud operation, because all of the cost is handled by the organization that uses it.
+
+@highlight The application of latest technology (cloud computing) in computer aided design.
+@highlight The proposed system has increased functionality and reduced operating cost.
+@highlight The proposed system has better application availability and security.
+@highlight Less frequent software updates and requirement for powerful workstations.
+@highlight The potential it offers in terms of collaborative design.

@@ -1,0 +1,6 @@
+ The analysis of regular texture images is cast in a model comparison framework. Texel lattice hypotheses are used to define statistical models which are compared in terms of their ability to explain the images. This approach is used to estimate lattice geometry from patterns that exhibit translational symmetry (regular textures). It is also used to determine whether images consist of such regular textures. A method based on this approach is described in which lattice hypotheses are generated using analysis of peaks in the image autocorrelation function, statistical models are based on Gaussian or Gaussian mixture clusters, and model comparison is performed using the marginal likelihood as approximated by the Bayes Information Criterion (BIC). Experiments on public domain images and a commercial textile image archive demonstrate substantially improved accuracy compared to several alternative methods.
+
+@highlight Regular texture patterns exhibiting translational symmetry were modelled.
+@highlight Model comparison was implemented using Bayes Information Criterion.
+@highlight Texel lattice geometry was estimated from e.g., images from a textile archive.
+@highlight Accuracy was better than other methods with which it was compared.

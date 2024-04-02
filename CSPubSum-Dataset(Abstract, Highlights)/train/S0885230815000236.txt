@@ -1,0 +1,6 @@
+ This paper attempts to provide a state-of-the-art of sound source localization in robotics. Noticeably, this context raises original constraints—e.g. embeddability, real time, broadband environments, noise and reverberation—which are seldom simultaneously taken into account in acoustics or signal processing. A comprehensive review is proposed of recent robotics achievements, be they binaural or rooted in array processing techniques. The connections are highlighted with the underlying theory as well as with elements of physiology and neurology of human hearing.
+
+@highlight We provide a comprehensive state-of-the-art in sound source localization in robotics.
+@highlight Binaural approaches are first reviewed, with their applications in robotics.
+@highlight Array processing techniques for localization in robot audition are then presented.
+@highlight Active variations of methods, soft. frameworks and recent projects are highlighted.

@@ -1,0 +1,8 @@
+ In this paper, we approach the Examination-Timetabling Problem (ETP) from a student-centric point of view. We allow for multiple versions of an exam to be scheduled to increase the spreading of exams for students. We propose two Column Generation (CG) algorithms. In the first approach, a column is defined as an exam schedule for every unique student group, and a Pricing Problem (PPs) is developed to generate these columns. The Master Program (MP) then selects an exam schedule for every unique student group. Instead of using branch-and-price, we heuristically select columns. In the second approach, a column consists of a mask schedule for every unique student group, and a PP is developed to generate the masks. The MP then selects the masks and schedules exams in the mask slots. We compare both models and perform a computational experiment. We solve the ETP at KU Leuven campus Brussels (Belgium) for the business engineering degree program and apply the models to two existing datasets from the literature.
+
+@highlight We present a student-centric ETP with improve exam spread by dynamically allowing more versions of exams.
+@highlight We propose two column generation algorithms to solve exam-timetabling problems.
+@highlight Both models include dynamic spreading of exams by using spreading costs.
+@highlight Second model has post-processing: either by heuristic or integer program(IP).
+@highlight Model 2 performs marginally better than Model 1, but is less scalable.
+@highlight Student spreading costs for existing data sets were improved at the cost of more exam versions.

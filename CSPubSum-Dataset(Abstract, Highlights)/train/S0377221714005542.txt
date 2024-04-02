@@ -1,0 +1,13 @@
+ We investigate two scheduling problems. The first is scheduling with agreements (SWA) that consists in scheduling a set of jobs non-preemptively on identical machines in a minimum time, subject to constraints that only some specific jobs can be scheduled concurrently. These constraints are represented by an agreement graph. We extend the NP-hardness of SWA with three distinct values of processing times to only two values and this definitely closes the complexity status of SWA on two machines with two fixed processing times. The second problem is the so-called resource-constrained scheduling. We prove that SWA is polynomially equivalent to a special case of the resource-constrained scheduling and deduce new complexity results of the latter.
+
+@highlight The complexity of SWA is closed for m
+@highlight =2 and at most two values of processing times.
+@highlight Resource-constrained scheduling is sNP-hard for m
+@highlight =2 and
+@highlight with b
+@highlight ≠0 and
+@highlight Resource-constrained scheduling: two machines,
+@highlight is polynomial.
+@highlight Another polynomial case for resource-constrained scheduling is presented.
+@highlight Resource-constrained scheduling: two machines,
+@highlight is strongly NP-hard.

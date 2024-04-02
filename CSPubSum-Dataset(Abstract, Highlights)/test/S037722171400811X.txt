@@ -1,0 +1,7 @@
+ In this paper, we study the finite-time ruin probability in a reasonably generalized dual risk model, where we assume any non-negative non-decreasing cumulative operational cost function and arbitrary capital gains arrival process. Establishing an enlightening link between this dual risk model and its corresponding insurance risk model, explicit expressions for the finite-time survival probability in the dual risk model are obtained under various general assumptions for the distribution of the capital gains. In order to make the model more realistic and general, different dependence structures among capital gains and inter-arrival times and between both are also introduced and corresponding ruin probability expressions are also given. The concept of alarm time,, is applied to the dual risk model within the context of risk capital allocation. Extensive numerical illustrations are provided.
+
+@highlight A ruin-probabilistic duality between insurance and dual risk models is established.
+@highlight Assumptions on the inter-arrival times and/or the capital gains allow dependence.
+@highlight Closed-form expressions for the probability of non-ruin in both models are obtained.
+@highlight The ruin probability results are used to determine alarm time(s) and risk capital.
+@highlight All results are thoroughly numerically tested and illustrated.

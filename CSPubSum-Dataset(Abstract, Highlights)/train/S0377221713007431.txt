@@ -1,0 +1,5 @@
+ Convergence speed and diversity of nondominated solutions are two important performance indicators for Multi-Objective Evolutionary Algorithms (MOEAs). In this paper, we propose a Resource Allocation (RA) model based on Game Theory to accelerate the convergence speed of MOEAs, and a novel Double-Sphere Crowding Distance (DSCD) measure to improve the diversity of nondominated solutions. The mechanism of RA model is that the individuals in each group cooperate with each other to get maximum benefits for their group, and then individuals in the same group compete for private interests. The DSCD measure uses hyper-spheres consisting of nearest neighbors to estimate the crowding degree. Experimental results on convergence speed and diversity of nondominated solutions for benchmark problems and a real-world problem show the efficiency of these two proposed techniques.
+
+@highlight We propose a resource allocation model for evolutionary multiobjective optimization.
+@highlight We propose a double-sphere crowding distance for evolutionary multiobjective optimization.
+@highlight Experiments are performed on twelve benchmark problems and one real-world problem.

@@ -1,0 +1,6 @@
+ In this paper, we propose a visual tracking algorithm by incorporating the appearance information gathered from two collaborative feature sets and exploiting its geometric structures. A structured visual dictionary (SVD) can be learned from both appearance and geometric structure, thereby enhancing its discriminative strength between the foreground object and the background. Experimental results show that the proposed tracking algorithm using SVD (SVDTrack) performs favorably against the state-of-the-art methods.
+
+@highlight A tracking algorithm which exploits both appearance and geometric information
+@highlight Two complementary features are adopted in building the appearance dictionary.
+@highlight A shape context approach to capture the stable geometric patterns of keypoints
+@highlight The proposed tracking algorithm performs well in challenging conditions.

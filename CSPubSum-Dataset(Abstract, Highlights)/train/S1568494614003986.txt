@@ -1,0 +1,6 @@
+ This paper deals with generalized traveling salesman problems. In this problem, all nodes are partitioned into some clusters and each cluster must be visited exactly once in a tour. We present an effective metaheuristic method hybridized with a local search procedure to solve this problem. The proposed algorithm is based on the imperialist competitive algorithm (ICA), which is a new socio-politically motivated global search strategy. ICA is enhanced by a novel encoding scheme, assimilation policy procedure, destruction/construction operator and imperialist development plans. Various parameters of the algorithm are analyzed to calibrate the algorithm by means of the Taguchi method. For the evaluation of the proposed algorithm, it is compared against two effective existing algorithms through a set of available instances. The results demonstrate the superiority of our algorithm in both solution quality and robustness of the solution.
+
+@highlight A hybrid imperialist competitive algorithm is presented.
+@highlight It uses assimilation, destruction/construction and imperialist development schemes.
+@highlight The algorithm is calibrated using Taguchi method.
+@highlight For evaluation, it is compared against two effective existing algorithms.

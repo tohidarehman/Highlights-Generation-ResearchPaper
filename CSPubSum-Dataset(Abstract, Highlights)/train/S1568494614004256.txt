@@ -1,0 +1,7 @@
+ This research proposes a new model for constructing decision trees using interval-valued fuzzy membership values. Most existing fuzzy decision trees do not consider the uncertainty associated with their membership values, however, precise values of fuzzy membership values are not always possible. In this paper, we represent fuzzy membership values as intervals to model uncertainty and employ the look-ahead based fuzzy decision tree induction method to construct decision trees. We also investigate the significance of different neighbourhood values and define a new parameter insensitive to specific data sets using fuzzy sets. Some examples are provided to demonstrate the effectiveness of the approach.
+
+@highlight A novel concept of interval-valued fuzzy decision trees is proposed.
+@highlight A mechanism to determine the order of interval-valued membership values in fuzzy decision trees is formulated.
+@highlight A stable α parameter is proposed to determine the neighbourhood of instances in LAFDT.
+@highlight A procedure to establish interval-valued fuzzy decision trees is presented.
+@highlight A real world application case is demonstrated to show the feasibility of the proposed model.

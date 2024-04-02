@@ -1,0 +1,6 @@
+ An analysis of the open queueing network MAP is presented in this paper. The MAP network implements Markov routing, general service time distribution, and an infinite number of servers at each node. Analysis is performed under the condition of a growing fundamental rate for the Markovian arrival process. It is shown that the stationary probability distribution of the number of customers at the nodes can be approximated by multi-dimensional Gaussian distribution. Parameters of this distribution are presented in the paper. Numerical results validate the applicability of the obtained approximations under relevant conditions. The results of the approximations are applied to estimate the optimal number of servers for a network with finite-server nodes. In addition, an approximation of higher-order accuracy is derived.
+
+@highlight Infinite-server queueing network with Markovian arrival process is under study.
+@highlight High rate of arrivals is used as asymptotic condition to solve the problem.
+@highlight Two approximations are obtained for customers’ number distribution.
+@highlight Optimal number of servers in the finite-server network is calculated.

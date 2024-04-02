@@ -1,0 +1,5 @@
+ Pumped-hydro storage plants are increasingly considered as a complement to intermittent renewable energy sources, hence a profound understanding of their underlying economics gains in importance. To this end, we derive efficient operation programs for storage plants which operate in an environment with time-varying but deterministic power prices. Optimal control theory thereby provides a consistent framework for analysis in continuous time, taking into account the different specifics of pumped-hydro setups with large (not restricting) and small (restricting) reservoirs. An empirical illustration discusses storage operation in the German market, showing that the profit potential for storage plants decreased significantly between 2008 and 2011, affecting both large- and small-reservoir plants.
+
+@highlight Efficient operation programs for storage plants in competitive markets are derived in a novel way.
+@highlight Optimal control theory provides consistent framework for plants with large and small reservoirs.
+@highlight Application shows that profit potential for German storage plants decreased 2008–2011.

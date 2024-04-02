@@ -1,0 +1,5 @@
+ The purpose of this article is the construction of a normalized basis for a quadratic condensed Powell–Sabin-12 macro-element space introduced by Alfeld et al. . The basis functions have a local support, they are nonnegative, and they form a partition of unity. and Speleers (2010a), and is based on the determination of a set of triangles that must contain a specific set of points. The proposed basis can only be constructed on triangulations with a maximal angle less than
+
+@highlight B-spline basis of the quadratic condensed Powell–Sabin-12 spline space.
+@highlight Determination of control points.
+@highlight Discrete and differentiable quasi-interpolants.

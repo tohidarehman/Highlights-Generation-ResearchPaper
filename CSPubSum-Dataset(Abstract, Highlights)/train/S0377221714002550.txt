@@ -1,0 +1,6 @@
+ We consider parallel machine scheduling problems where the processing of the jobs on the machines involves two types of objectives. The first type is one of two classical objective functions in scheduling theory: either the total completion time or the makespan. The second type involves an actual cost associated with the processing of a specific job on a given machine; each job-machine combination may have a different cost. Two bi-criteria scheduling problems are considered:  minimize the maximum machine cost subject to the total completion time being at its minimum, and  minimize the total machine cost subject to the makespan being at its minimum. Since both problems are strongly NP-hard, we propose fast heuristics and establish their worst-case performance bounds. : an approximation ratio for the parallel machine scheduling problem to minimize the makespan.
+
+@highlight A framework allowing for trade-offs between time-related and cost-related objectives.
+@highlight Analysis of bi-criteria scheduling problems that involve timings as well as costs.
+@highlight Prioritization schemes providing intuition and insights into schedules generated.
+@highlight Tight worst case ratios of proposed heuristics.

@@ -1,0 +1,7 @@
+ Many of the methods which deal with the reduction of dimensionality in matrices of data are based on mathematical techniques such as distance-based algorithms or matrix decomposition and eigenvalues. Recently a group of likelihood-based finite mixture models for a data matrix with binary or count data, using basic Bernoulli or Poisson building blocks has been developed. This is extended and establishes likelihood-based multivariate methods for a data matrix with ordinal data which applies fuzzy clustering via finite mixtures to the ordered stereotype model. Model-fitting is performed using the expectation–maximization (EM) algorithm, and a fuzzy allocation of rows, columns, and rows and columns simultaneously to corresponding clusters is obtained. A simulation study is presented which includes a variety of scenarios in order to test the reliability of the proposed model. Finally, the results of the application of the model in two real data sets are shown.
+
+@highlight New methodology for clustering rows and columns from a matrix of ordinal data.
+@highlight Establishes likelihood-based methods via finite mixtures with the stereotype model.
+@highlight Tests the reliability of this methodology through a simulation study.
+@highlight Illustrates this new approach with two examples.
+@highlight Reviews and compares the performance several model choice measures.

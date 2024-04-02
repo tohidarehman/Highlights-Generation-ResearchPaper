@@ -1,0 +1,6 @@
+ Subgroup additivity requires that a rule assigns the same expected ‘relative’ utility to each agent whether an agent’s expected relative utility is calculated from the problem involving all agents or from its sub-problems with a smaller number of agents. In this paper, we investigate its implications for the queueing problem. As a result, we present characterizations of five important rules: the minimal transfer rule, the maximal transfer rule, the pivotal rule, the reward based pivotal rule, and the symmetrically balanced VCG rule. In addition to some basic axioms and subgroup additivity, the characterization results can be obtained by additionally imposing either a strategic axiom or an equity axiom.
+
+@highlight Introduce ‘subgroup additivity’ property for the queueing problem.
+@highlight Subgroup additivity acts as an analysis simplification device.
+@highlight Characterize five important rules using subgroup additivity.
+@highlight Strategic and equity axioms are substitutes for these characterizations.

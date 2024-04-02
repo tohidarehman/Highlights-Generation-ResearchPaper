@@ -1,0 +1,6 @@
+ The present paper is concerned with the study of manifold-valued multiscale transforms with a focus on the Stiefel manifold. For this specific geometry we derive several formulas and algorithms for the computation of geometric means which will later enable us to construct multiscale transforms of wavelet type. As an application we study compression of piecewise smooth families of low-rank matrices both for synthetic data and also real-world data arising in hyperspectral imaging. As a main theoretical contribution we show that the manifold-valued wavelet transforms can achieve an optimal N-term approximation rate for piecewise smooth functions with possible discontinuities. This latter result is valid for arbitrary manifolds.
+
+@highlight We show that for any manifold our transform achieves an optimal N-term approximation rate for piecewise smooth curves.
+@highlight We introduce a general method to define weighted averages in manifolds, based on the notion of retraction pairs introduced in the paper.
+@highlight We describe several algorithms taylored to the geometry of the Stiefel manifold and provide numerical examples.
+@highlight An application in the compression of hyperspectral image data concludes the article.

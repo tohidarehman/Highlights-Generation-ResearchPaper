@@ -1,0 +1,5 @@
+ Prior experimental research shows that, in aggregate, decision makers acting as suppliers to a newsvendor do not set the wholesale price to maximize supplier profits. However, these deviations from optimal have rarely been examined at an individual level. In this study, presented with scenarios that differ in terms of how profit is shared between retailer and supplier, suppliers set wholesale price contracts which deviate from profit-maximization in ways that are either generous or spiteful. On an individual basis, these deviations were found to be consistent with how the profit-maximizing contract compares to the subject's idea of a fair contract. Suppliers moved nearer to self-reported ideal allocations when they indicated a high degree of concern for fairness, consistent with previously proposed fairness models, and were found to be more likely to act upon generous inclinations than spiteful ones.
+
+@highlight Heterogeneous individual supplier behavior is consistent with fairness preferences.
+@highlight Subjects are more inclined to generous than spiteful behavior.
+@highlight Fairness can help or hurt the supply chain.

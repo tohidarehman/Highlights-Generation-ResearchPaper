@@ -1,0 +1,5 @@
+ Based on the recent research concerning the PageRank Algorithm used in the famous search engine Google , a new Inverse-PageRank-Particle Swarm Optimizer (I-PR-PSO) is presented in order to improve the performances of classic PSO. The resulted algorithm uses a stochastic Markov chain model to define an intelligent topological structure of the swarm’s population, in which the better particles have an important influence on the others. In the presented experiments, calculations on some benchmark functions classically used to test optimization methods are performed, and the results are compared to different versions of the standard PSO, that is using different topological structures of the population. The experimental results show that I-PR-PSO can converge quicker on the tested functions, and can find better results in the solution domain than its tested peers.
+
+@highlight Development of a new hybrid PSO algorithm.
+@highlight Parallelism with a Markov chain model.
+@highlight Testing of the newly developed algorithm on classic benchmark functions.

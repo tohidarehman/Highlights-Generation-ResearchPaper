@@ -1,0 +1,6 @@
+ Multistage dynamic networks with random arc capacities (MDNRAC) have been successfully used for modeling various resource allocation problems in the transportation area. However, solving these problems is generally computationally intensive, and there is still a need to develop more efficient solution approaches. In this paper, we propose a new heuristic approach that solves the MDNRAC problem by decomposing the network at each stage into a series of subproblems with tree structures. Each subproblem can be solved efficiently. The main advantage is that this approach provides an efficient computational device to handle the large-scale problem instances with fairly good solution quality. We show that the objective value obtained from this decomposition approach is an upper bound for that of the MDNRAC problem. Numerical results demonstrate that our proposed approach works very well.
+
+@highlight Deal with the multistage dynamic stochastic networks with random arc capacities.
+@highlight Provide a new approximating method.
+@highlight Can handle the large-scale problem instances with fairly good solution quality.
+@highlight Provide a tight upper bound of the multistage stochastic dynamic networks.

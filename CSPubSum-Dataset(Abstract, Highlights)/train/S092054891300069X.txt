@@ -1,0 +1,6 @@
+ Living Labs are innovation infrastructures where software companies and research organizations collaborate with lead users to design and develop new products and services. There is not any reference model related to the processes or practices to manage a living lab. This article presents a reference model to manage effectively the synergies of software companies with the other stakeholders participating in a living lab. The article describes the approach used to create the reference model through the analysis of a multiple case study considering six living labs and discusses the lessons learned during the creation of the process reference model.
+
+@highlight ISO/IEC 15504 philosophy helps to formalize effective practices to manage living labs.
+@highlight The PRM covers the absence of a formalized approach to guide living lab management.
+@highlight The reference model contributes to facilitating benchmarking among living labs.
+@highlight The maturity levels provide a feasible path to create and evolve a living lab.

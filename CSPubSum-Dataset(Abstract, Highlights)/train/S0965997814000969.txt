@@ -1,0 +1,7 @@
+ The present study applies the numerical manifold method (NMM) as a tool to investigate the rockfall hazard in underground engineering. The crack evolution technique with crack initiation and propagation criterion, which has been successfully applied to handle cracking problems in rocks, is used in this study. A rockbolt element is introduced, which is first validated by a simple case. The mechanism of the rockbolt in reinforcing a layered rock mass is then investigated through a four-layered rock beam example. The developed NMM is then used to investigate the rockfall instability caused by either natural joints or mining induced fractures in an underground power station house or a tunnel. The results illustrate that the developed NMM can not only capture the entire dynamic process of the rockfall but also locate the keyblock successfully. As such, corresponding reinforcement methods can be chosen reasonably.
+
+@highlight Cracking evolution technique is introduced into NMM.
+@highlight A rockbolt element is incorporated.
+@highlight Efficiency of the rockblot in reinforcing rock structures is investigated.
+@highlight Stability of rock blocks due to mining-induced fractures is assessed.
+@highlight Effects of rockbolt reinforcement on mitigating rockfall hazard are studied.

@@ -1,0 +1,7 @@
+ This paper presents a literature survey on the fleet size and mix problem in maritime transportation. Fluctuations in the shipping market and frequent mismatches between fleet capacities and demands highlight the relevance of the problem and call for more accurate decision support. After analyzing the available scientific literature on the problem and its variants and extensions, we summarize the state of the art and highlight the main contributions of past research. Furthermore, by identifying important real life aspects of the problem which past research has failed to capture, we uncover the main areas where more research will be needed.
+
+@highlight We examine the scientific literature on the maritime fleet size and mix problem.
+@highlight We summarize the past contributions of operational research to the problem.
+@highlight We uncover areas where further research is needed.
+@highlight Past research has particularly focused on the initial composition of the fleet.
+@highlight Important elements (e.g. uncertainty and fleet renewal) need more research.

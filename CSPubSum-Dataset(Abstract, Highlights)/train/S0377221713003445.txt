@@ -1,0 +1,7 @@
+ We present a novel mathematical model and a mathematical programming based approach to deliver superior quality solutions for the single machine capacitated lot sizing and scheduling problem with sequence-dependent setup times and costs. The formulation explores the idea of scheduling products based on the selection of known production sequences. The model is the basis of a matheuristic, which embeds pricing principles within construction and improvement MIP-based heuristics. A partial exploration of distinct neighborhood structures avoids local entrapment and is conducted on a rule-based neighbor selection principle. We compare the performance of this approach to other heuristics proposed in the literature. The computational study carried out on different sets of benchmark instances shows the ability of the matheuristic to cope with several model extensions while maintaining a very effective search. Although the techniques described were developed in the context of the problem studied, the method is applicable to other lot sizing problems or even to problems outside this domain.
+
+@highlight New models are formulated for the CLSD with non-triangular sequence dependent setups.
+@highlight Based on the models we have developed an innovative matheuristic to solve the CSLD.
+@highlight We matheuristic merges column generation and MIP-based approaches.
+@highlight The matheuristic outperformed the previous solution approaches in the literature.
+@highlight The method is applicable to other lotsizing problems or even outside this domain.

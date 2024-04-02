@@ -1,0 +1,7 @@
+ We examine the 2D strip packing problems with guillotine-cut constraint, where the objective is to pack all rectangles into a strip with fixed width and minimize the total height of the strip. We combine three most successful ideas for the orthogonal rectangular packing problems into a single coherent algorithm:  packing a block of rectangles instead of a single rectangle in each step;  dividing the strip into layers and pack layer by layer; and  unrolling and repacking the top portion of the solutions where usually wasted space occurs. Computational experiments on benchmark test sets suggest that our approach rivals existing approaches.
+
+@highlight We apply three successful ideas for the 2D strip packing with guillotine-cut.
+@highlight We pack a block of rectangles instead of a single rectangle in each step.
+@highlight We divide the strip into horizontal layers and pack layer by layer.
+@highlight We unload and repack the last portion of a solution repeated to improve it.
+@highlight We outperform all existing approaches on standard benchmark instances.

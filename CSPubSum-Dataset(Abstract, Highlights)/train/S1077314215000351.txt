@@ -1,0 +1,5 @@
+ We propose the application of a phase-field framework for three-dimensional volume reconstruction using slice data. The proposed method is based on the Allen–Cahn and Cahn–Hilliard equations, and the algorithm consists of two steps. First, we perform image segmentation on the given raw data using a modified Allen–Cahn equation. Second, we reconstruct a three-dimensional volume using a modified Cahn–Hilliard equation. In the modified Cahn–Hilliard equation, a fidelity term is introduced to keep the solution close to the slice data. The numerical methods use a hybrid method and an unconditionally stable nonlinear splitting scheme. The resulting discrete equations are solved using a multigrid method. The experiments on synthetic and real medical images are performed to demonstrate the accuracy and efficiency of the proposed method.
+
+@highlight Three-dimensional PDE-based volume reconstruction from slice data is proposed.
+@highlight The Allen–Cahn and Cahn–Hilliard equations are used in the model.
+@highlight The algorithm can automatically reconstruct 3D geometries using slice data.

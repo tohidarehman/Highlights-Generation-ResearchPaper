@@ -1,0 +1,7 @@
+ This paper investigated the extent to which observers rated clearly visible postures on video differently from partly visible postures, and whether visibility affected full-shift posture summaries. Trunk and upper arm postures were observed from 10,413 video frames representing 80 shifts of baggage handling; observers reported postures as fully or only partly visible. Postures were summarized for each shift into several standard metrics using all available data, only fully visible frames, or only partly visible frames. 78% of trunk and 70% of upper arm postural observations were inferred. When based on all data, mean and 90th percentile trunk postures were 1.8° and 5.6° lower, respectively, than when based only on fully visible situations. For the arm; differences in mean and 90th percentile were 0.7° and 8.2°. Daily posture summaries were significantly influenced by whether partly visible postures are included or not.
+
+@highlight We compared observation of fully and partly visible working postures from video.
+@highlight Postures were rated to differ between fully and partly visible video frames.
+@highlight Postural angles tended to be lower for fully visible frames than partly visible.
+@highlight Findings were consistent for both trunk and arm postures.
+@highlight Including partly visible postures resulted in different daily exposure summaries.

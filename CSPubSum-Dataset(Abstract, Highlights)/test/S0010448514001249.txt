@@ -1,0 +1,7 @@
+ There has been considerable work on scaffold design based on triply periodic minimal surfaces (TPMS). Current methods used to adjust the parameters in one type of TPMS model are insufficiently flexible for designing architectures comprising multiple porous structures. In this paper, we propose two CAD methods that combine different TPMS-based structures with given transition boundaries. One method is a sigmoid function (SF) method that can be effectively applied to simple transition boundary cases. The second method is a Gaussian radial basis function (GRBF) method that can be applied to more general cases. These methods provide for placing given TPMS-based substructures on given 3D subspaces with perfect transitions to their adjacent substructures within a scaffold domain. We present various examples of functionally graded porous structures with desired internal porous structures and external geometries to demonstrate the effectiveness of these two methods. The resulting models can be exported as STL-files and be fabricated using an additive manufacturing process.
+
+@highlight We proposed two CAD methods for heterogeneous scaffold designs.
+@highlight The SF method was an improvement on transfinite interpolation.
+@highlight The GRBF method could handle the pixel or voxel cases.
+@highlight Bio-mimetic structures could be achieved.
+@highlight The proposed CAD method was suitable for an additive manufacturing process.

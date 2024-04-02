@@ -1,0 +1,6 @@
+ In this paper, we present a new approach for generic 3D shape retrieval based on a mesh partitioning scheme. Our method combines a mesh global description and mesh partition descriptions to represent a 3D shape. The partitioning is useful because it helps us to extract additional information in a more local sense. Thus, part descriptions can mitigate the semantic gap imposed by global description methods. We propose to find spatial agglomerations of local features to generate mesh partitions. Hence, the definition of a distance function is stated as an optimization problem to find the best match between two shape representations. We show that mesh partitions are representative and therefore it helps to improve the effectiveness in retrieval tasks. We present exhaustive experimentation using the SHREC'09 Generic Shape Retrieval Benchmark.
+
+@highlight We propose a simple and effective partitioning algorithm for 3D meshes.
+@highlight The use of part descriptions enhances the use of global descriptors.
+@highlight We define a distance as an optimization problem, including both linear and quadratic constraints.
+@highlight Our experiments show that the partitioning algorithm has a great influence in the final effectiveness of retrieval tasks.

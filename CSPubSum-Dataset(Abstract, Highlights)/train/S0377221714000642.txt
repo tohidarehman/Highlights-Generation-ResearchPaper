@@ -1,0 +1,5 @@
+ The internal estimates of Loss Given Default (LGD) must reflect economic downturn conditions, thus estimating the “downturn LGD”, as the new Basel Capital Accord Basel II establishes. We suggest a methodology to estimate the downturn LGD distribution to overcome the arbitrariness of the methods suggested by Basel II. We assume that LGD is a mixture of an expansion and recession distribution. In this work, we propose an accurate parametric model for LGD and we estimate its parameters by the EM algorithm. Finally, we apply the proposed model to empirical data on Italian bank loans.
+
+@highlight We suggest an accurate parametric model for downturn LGD.
+@highlight We propose a method to estimate the downturn LGD distribution.
+@highlight Italian bank loans data show our proposal overcomes the downturn LGD underestimation.

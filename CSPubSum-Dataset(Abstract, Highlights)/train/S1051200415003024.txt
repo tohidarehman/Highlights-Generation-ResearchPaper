@@ -1,0 +1,7 @@
+ This paper proposes a novel diffusion subband adaptive filtering algorithm for distributed networks. To achieve a fast convergence rate and small steady-state errors, a variable step size and a new combination method is developed. For the adaptation step, the upper bound of the mean-square deviation (MSD) of the algorithm is derived and the step size is adaptive by minimizing it in order to attain the fastest convergence rate on every iteration. Furthermore, for a combination step realized by a convex combination of the neighbor-node estimates, the proposed algorithm uses the MSD, which contains information on the reliability of the estimates, to determine combination coefficients. Simulation results show that the proposed algorithm outperforms the existing algorithms in terms of the convergence rate and the steady-state errors.
+
+@highlight A subband adaptive filtering algorithm is adopted for distributed estimation.
+@highlight The upper bound of the intermediate MSD and its recursion with local MSD are investigated.
+@highlight The MSD-optimal step size achieves the fastest convergence rate on every iteration.
+@highlight The combination coefficients are assigned using the intermediate MSD.
+@highlight The algorithm achieves fast convergence rate and small steady-state errors.

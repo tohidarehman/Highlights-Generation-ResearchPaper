@@ -1,0 +1,7 @@
+ The Time-Dependent Travelling Salesman Problem (TDTSP) is a generalization of the traditional TSP where the travel cost between two cities depends on the moment of the day the arc is travelled. In this paper, we focus on the case where the travel time between two cities depends not only on the distance between them, but also on the position of the arc in the tour. We consider two formulations proposed in the literature, we analyze the relationship between them and derive several families of valid inequalities and facets. In addition to their theoretical properties, they prove to be very effective in the context of a Branch and Cut algorithm.
+
+@highlight We study theoretical properties of two formulations for the Time-Dependent TSP.
+@highlight We derive five families of facets and five other families of valid inequalities.
+@highlight The theoretical framework presented can be used to derive more families of facets.
+@highlight The polyhedral study significantly reduced the computing times of a B&C algorithm.
+@highlight The TDTSP stands as a very challenging problem to be solved by exact algorithms.

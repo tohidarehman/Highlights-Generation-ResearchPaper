@@ -1,0 +1,6 @@
+ Mesh compression is an important task in geometry processing. It exploits geometric coherence of the data to reduce the amount of space needed to store a surface mesh. Most techniques perform compression employing a uniform data quantization over the whole surface. Research in shape perception, however, suggests that there are parts of the mesh that are visually more relevant than others. We present a novel technique that performs an adaptive compression of a static mesh, using the largest part of the bit budget on the relevant vertices while saving space on encoding the less significant ones. Our technique can be easily adapted to work with any perception-based error metric. The experiments show that our adaptive approach is at least comparable with other state-of-the-art techniques, while in some cases it provides a significant reduction of the bitrate of up to 15%. Additionally, our approach provides much faster decoding times than comparable perception-motivated compression algorithms.
+
+@highlight New adaptive compression method based on shape perception.
+@highlight Suitable for both single rate and progressive encoding.
+@highlight Works with any kind of perceptual error metric.
+@highlight Improvement with respect to most commonly used approaches.

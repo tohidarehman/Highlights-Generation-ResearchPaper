@@ -1,0 +1,7 @@
+ Inspired by the development of the matrix completion theories and algorithms, a low-rank based motion capture (mocap) data refinement method has been developed, which has achieved encouraging results. However, it does not guarantee a stable outcome if we only consider the low-rank property of the motion data. To solve this problem, we propose to exploit the temporal stability of human motion and convert the mocap data refinement problem into a robust matrix completion problem, where both the low-rank structure and temporal stability properties of the mocap data as well as the noise effect are considered. An efficient optimization method derived from the augmented Lagrange multiplier algorithm is presented to solve the proposed model. Besides, a trust data detection method is also introduced to improve the degree of automation for processing the entire set of the data and boost the performance. Extensive experiments and comparisons with other methods demonstrate the effectiveness of our approaches on both predicting missing data and de-noising.
+
+@highlight We propose a temporally stable and noise robust matrix completion model.
+@highlight A trust data detection method will boost the automation and performance of our method.
+@highlight The optimization method for solving the proposed model is efficient and robust.
+@highlight The parameters of our model are insensitive for a large range of values.
+@highlight The outputs of our method are much more stable than the other methods.

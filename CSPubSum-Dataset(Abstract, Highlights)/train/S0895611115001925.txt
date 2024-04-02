@@ -1,0 +1,7 @@
+ In this paper, a level set model without the need of generating initial contour and setting controlling parameters manually is proposed for medical image segmentation. The contribution of this paper is mainly manifested in three points. First, we propose a novel adaptive mean shift clustering method based on global image information to guide the evolution of level set. By simple threshold processing, the results of mean shift clustering can automatically and speedily generate an initial contour of level set evolution. Second, we devise several new functions to estimate the controlling parameters of the level set evolution based on the clustering results and image characteristics. Third, the reaction diffusion method is adopted to supersede the distance regularization term of RSF-level set model, which can improve the accuracy and speed of segmentation effectively with less manual intervention. Experimental results demonstrate the performance and efficiency of the proposed model for medical image segmentation.
+
+@highlight Only one parameter needs to be changed manually for different images in our model.
+@highlight We propose a novel adaptive mean shift clustering method to guide the evolution of level set.
+@highlight The results of clustering can automatically generate an initial contour of level set evolution.
+@highlight The controlling parameters of level set evolution can be automatically estimated.
+@highlight We use reaction diffusion method in our model to avoid re-initialization.

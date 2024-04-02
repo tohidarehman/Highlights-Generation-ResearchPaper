@@ -1,0 +1,5 @@
+ Ouyang et al.  consider an economic order quantity (EOQ) model for deteriorating items with a partially permissible delay in payments linked to order quantity. Basically, their inventory model is practical, but there are some defects from the logical viewpoints of mathematics. In this paper, the functional behaviors of the annual total relevant costs are explored by rigorous methods of mathematics. A complete solution procedure is also developed to make up for the shortcomings of Ouyang et al. . In numerical examples, it is proved that the new solution procedure could avoid making wrong decisions and causing cost penalties.
+
+@highlight This paper develops a solution procedure for Ouyang et al. [EJOR 194 (2009) 418–431].
+@highlight The solution procedure is established by the rigorous method of mathematics.
+@highlight This paper indicates that some equations in Ouyang et al. (2009) are wrong.

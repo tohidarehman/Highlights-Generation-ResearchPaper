@@ -1,0 +1,6 @@
+ Automatically detecting events in crowded scenes is a challenging task in Computer Vision. A number of offline approaches have been proposed for solving the problem of crowd behavior detection, however the offline assumption limits their application in real-world video surveillance systems. In this paper, we propose an online and real-time method for detecting events in crowded video sequences. The proposed approach is based on the combination of visual feature extraction and image segmentation and it works without the need of a training phase. A quantitative experimental evaluation has been carried out on multiple publicly available video sequences, containing data from various crowd scenarios and different types of events, to demonstrate the effectiveness of the approach.
+
+@highlight We propose an online real-time crowd behavior detection method.
+@highlight Our solution is suitable for real automatic surveillance applications.
+@highlight Three publicly available data sets are used for computing the results.
+@highlight Our method is quantitatively compared with similar approaches.

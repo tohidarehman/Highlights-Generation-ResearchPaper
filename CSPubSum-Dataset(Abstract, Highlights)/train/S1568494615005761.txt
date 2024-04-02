@@ -1,0 +1,7 @@
+ One of the most powerful, popular and accurate classification techniques is support vector machines (SVMs). In this work, we want to evaluate whether the accuracy of SVMs can be further improved using training set selection (TSS), where only a subset of training instances is used to build the SVM model. By contrast to existing approaches, we focus on wrapper TSS techniques, where candidate subsets of training instances are evaluated using the SVM training accuracy. We consider five wrapper TSS strategies and show that those based on evolutionary approaches can significantly improve the accuracy of SVMs.
+
+@highlight Support vector machines (SVMs) are popular and accurate classifiers.
+@highlight We study if SVMs can be further improved using training set selection (TSS).
+@highlight We adjust wrapper TSS techniques for SVMs.
+@highlight Experimental evaluation shows that filter TSS techniques cannot improve the accuracy of SVMs.
+@highlight Experimental evaluation shows that evolutionary based wrapper TSS techniques significantly improve SVMs.

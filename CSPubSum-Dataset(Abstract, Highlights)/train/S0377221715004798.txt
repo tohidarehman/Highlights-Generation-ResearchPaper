@@ -1,0 +1,6 @@
+ This paper shows how the maximum covering and patrol routing problem (MCPRP) can be modeled as a minimum cost network flow problem (MCNFP). Based on the MCNFP model, all available benchmark instances of the MCPRP can be solved to optimality in less than 0.4s per instance. It is furthermore shown that several practical additions to the MCPRP, such as different start and end locations of patrol cars and overlapping shift durations can be modeled by a multi-commodity minimum cost network flow model and solved to optimality in acceptable computational times given the sizes of practical instances.
+
+@highlight Maximum Covering and Patrol Routing Problem modeled as a MCNFP.
+@highlight Benchmark instances solved two orders of magnitude faster than existing heuristics.
+@highlight Proof that the MCPRP is not NP-hard.
+@highlight Practical extensions can be modeled by a Multi-Commodity MCNFP.

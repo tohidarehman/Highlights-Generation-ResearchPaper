@@ -1,0 +1,5 @@
+ The cure fraction models have been widely used to analyze survival data in which a proportion of the individuals is not susceptible to the event of interest. In this article, we introduce a bivariate model for survival data with a cure fraction based on the three-parameter generalized Lindley distribution. The joint distribution of the survival times is obtained by using copula functions. We consider three types of copula function models, the Farlie–Gumbel–Morgenstern (FGM), Clayton and Gumbel–Barnett copulas. The model is implemented under a Bayesian framework, where the parameter estimation is based on Markov Chain Monte Carlo (MCMC) techniques. To illustrate the utility of the model, we consider an application to a real data set related to an invasive cervical cancer study.
+
+@highlight We introduce a cure fraction model based on the generalized Lindley distribution.
+@highlight The joint distribution of the survival times was obtained by using copula functions.
+@highlight Parameters were estimated by Bayesian inference, using MCMC simulation.

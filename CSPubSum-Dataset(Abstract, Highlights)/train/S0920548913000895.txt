@@ -1,0 +1,5 @@
+ Recently, Voice over Internet Protocol (VoIP) has been one of the more popular applications in Internet technology. For VoIP and other IP applications, issues surrounding Session Initiation Protocol (SIP) have received significant attention. SIP is a widely used signaling protocol and is capable of operating on Internet Telephony, typically using Hyper Text Transport Protocol (HTTP) digest authentication protocol. Authentication is becoming increasingly crucial because it accesses the server when a user asks to use SIP services. In this paper, we concentrate on the security flaws in the current SIP authentication procedure. We propose a secure ECC-based authentication mechanism to conquer many forms of attacks in previous schemes. By a sophisticated analysis of the security of the ECC-based protocol, we show that it is suitable for applications with higher security requirements.
+
+@highlight We concentrate on the security flaws in the current SIP authentication procedure.
+@highlight We propose a secure ECC-based authentication mechanism to conquer many attacks.
+@highlight Our proposed protocol inherits the merits of ECC-based mechanism.

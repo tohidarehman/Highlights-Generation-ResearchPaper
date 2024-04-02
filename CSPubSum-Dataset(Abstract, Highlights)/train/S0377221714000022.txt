@@ -1,0 +1,7 @@
+ A queueing analysis is presented for base-stock controlled multi-stage production-inventory systems with capacity constraints. The exact queueing model is approximated by replacing some state-dependent conditional probabilities (that are used to express the transition rates) by constants. Two recursive algorithms (each with several variants) are developed for analysis of the steady-state performance. It is analytically shown that one of these algorithms is equivalent to the existing approximations given in the literature. The system studied here is more general than the systems studied in the literature. The numerical investigation for three-stage systems shows that the proposed approximations work well to estimate the relevant performance measures.
+
+@highlight A queueing analysis is presented for capacitated multi-stage inventory systems.
+@highlight The exact model is modified by replacing state-dependent probabilities by constants.
+@highlight Two recursive algorithms are developed to analyze the steady-state behavior.
+@highlight The systems studied are more general than the ones studied so far in the literature.
+@highlight Proposed and existing algorithms are compared analytically and numerically.

@@ -1,0 +1,7 @@
+ Simulating realistic crowd behaviors is a challenging problem in computer graphics. Yet, several satisfying simulation models exhibiting natural pedestrians or group emerging behaviors exist. Choosing among these model generally depends on the considered crowd density or the topology of the environment. Conversely, achieving a user-desired kinematic or dynamic pattern at a given instant of the simulation reveals to be much more tedious. In this paper, a novel generic control methodology is proposed to solve this crowd editing issue. Our method relies on an adjoint formulation of the underlying optimization procedure. It is independent to a certain extent of the choice of the simulation model, and is designed to handle several forms of constraints. A variety of examples attesting the benefits of our approach are proposed, along with quantitative performance measures.
+
+@highlight An original crowd scene editing method is proposed.
+@highlight Our approach is based on optimal control theory and adjoint methods.
+@highlight We use a dynamic crowd model and user input constraints.
+@highlight The method applies to any differentiable crowd model.
+@highlight The method applies to any crowd’s state related constraints.

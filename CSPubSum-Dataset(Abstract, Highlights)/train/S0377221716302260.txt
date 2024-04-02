@@ -1,0 +1,7 @@
+ The transportation of biomedical samples is a key component of healthcare supply chains. The samples are collected, consolidated into cooler boxes, and then transported to be analyzed in a specialized laboratory. Since many hospitals and samples’ collection points are assigned to the same laboratory, it is important to manage the flow of samples arriving to the laboratory to avoid congestion. In other words, it is preferable to try to desynchronize the samples’ arrivals by managing the vehicles’ departure times and the routes ordering. We propose a mathematical model and a multi-start heuristic to minimize the route duration times and the maximum number of samples’ boxes arriving at the laboratory within a given time period. Based on real data, we demonstrated that both the model and the heuristic are very efficient in solving real size instances.
+
+@highlight We solved a routing problem arising in the transportation of biomedical samples.
+@highlight The problem is approached as a multi-trip VRP with time windows.
+@highlight Real data were provided by the Quebec's Ministry of Health and Social Services.
+@highlight Desynchronization of arrivals to depot, an important issue in practice, is introduced.
+@highlight A model and a very efficient heuristic which produces very low gap solutions were proposed.

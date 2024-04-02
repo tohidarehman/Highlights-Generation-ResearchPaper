@@ -1,0 +1,6 @@
+ The elastic contact problem, as implemented in some commercial software such as ANSYS, depends on the user choice of some parameters such as normal contact stiffness, penetration limit and contact algorithms. This work investigates the artificial neural networks (ANN) potential to predict the value of some parameters, avoiding the trial-and-error procedure to determine these values. Contact problems based on simple problems are used to train the neural network, so it can predict the normal contact stiffness for more complex problems. Some contact examples are evaluated, including the small end connecting rod contact problem, of great importance in automobile industry.
+
+@highlight ANN were applied to obtain the normal contact stiffness parameter instead of the traditional trial-and-error approach.
+@highlight Simplified 2D contact models were used to capture the main features of the original 3D contact problem.
+@highlight A correction factor is deduced to correctly correlate the 2D–3D contact solutions.
+@highlight Good agreement is obtained from the normal contact stiffness estimated from 2D models with the original 3D parameter.

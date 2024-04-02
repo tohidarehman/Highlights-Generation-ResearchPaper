@@ -1,0 +1,6 @@
+ There is overwhelming evidence that performance ratings and evaluations are context dependent. A special case of such context effects is the decoy effect, which implies that the inclusion of a dominated alternative can influence the preference for non-dominated alternatives. Adapting the well-known experimental setting from the area of consumer behavior to the performance evaluation context of Data Envelopment Analysis (DEA), an experiment was conducted. The results show that adding a dominated decision making unit (DMU) to the set of DMUs augments the attractiveness of certain dominating DMUs and that DEA efficiency scores discriminating between efficient and inefficient DMUs serve as an appropriate debiasing procedure. The mention of the existence of slacks for distinguishing between strong and weak efficient DMUs also contributes to reducing the decoy effect, but it is also associated to other unexpected effects.
+
+@highlight We investigate the decoy effect in the context of Data Envelopment Analysis (DEA).
+@highlight It is shown that relative performance evaluation is prone to this kind of bias.
+@highlight Adding DEA scores to the choice set proves to be an effective debiasing procedure.
+@highlight Adding information about slacks also reduces the decoy effect in the experiment.

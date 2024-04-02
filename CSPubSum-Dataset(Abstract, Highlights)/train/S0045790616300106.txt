@@ -1,0 +1,6 @@
+ In this paper, an improved particle swarm optimization guidance (IPSOG) is proposed. The particle swarm optimization guidance (PSOG) is presented to solve nonlinear and dynamic missile guidance problems. However, the miss distance (MD) tends to be large. The objective function of the relative distance in the PSOG leads the missile to the current position of a target. Therefore, the PSOG is similar to pursuit guidance. In the IPSOG, a new objective function for the PSOG is introduced to improve the guidance performance. The line-of-sight (LOS) rate is taken as the objective function. The fitness function is then evaluated according to the defined objective function. Numerical simulation results show that the guidance performance of the IPSOG is better than the PSOG.
+
+@highlight The proposed is an improved PSO guidance law, which is called IPSOG, for a missile.
+@highlight The principle of IPSOG is based on PSO algorithm and parallel navigation.
+@highlight Both Pbest and Gbest that are evaluated by LOS rate should close to zero in IPSOG.
+@highlight Compared the IPSOG with the PSOG, the IPSOG has better guidance performance.

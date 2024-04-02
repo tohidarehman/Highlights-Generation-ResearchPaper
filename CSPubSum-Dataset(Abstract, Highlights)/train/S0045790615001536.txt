@@ -1,0 +1,7 @@
+ Cooperative spectrum sensing is a process of achieving spatial diversity gain to make global decision for cognitive radio networks. However, accuracy of global decision effects owing to the presence of malicious users/nodes during cooperative sensing. In this work, an extended generalized extreme studentized deviate (EGESD) method is proposed to eliminate malicious nodes such as random nodes and selfish nodes in the network. The random nodes are carried off based on sample covariance of each node decisions on different frames. Then, the algorithm checks the normality of updated soft data using Shapiro–Wilk test and estimates the expected number of malicious users in cooperative sensing. These are the two essential input parameters required for classical GESD test to eliminate significant selfish nodes accurately. Simulation results reveal that the proposed algorithm can eliminate both random and frequent spectrum sensing data falsification (SSDF) attacks in cooperative sensing and outperforms the existing algorithms.
+
+@highlight Cooperative sensing with most frequent data falsification (SSDF) attacks.
+@highlight Proposed an extended generalized extreme studentized deviate (EGESD) method.
+@highlight It can eliminate both random and selfish attacks in cooperative sensing.
+@highlight It estimates two important input parameters required for GESD test.
+@highlight It is reliable and has low misdetection probability compared to existing algorithms.

@@ -1,0 +1,7 @@
+ A novel signal compression and reconstruction procedure suitable for guided wave based structural health monitoring (SHM) applications is presented. The proposed approach combines the wavelet packet transform and frequency warping to generate a sparse decomposition of the acquired dispersive signal. The sparsity of the signal in the considered representation is exploited to develop data compression strategy based on the Best-Basis Compressive sensing (CS) theory. The proposed data compression strategy has been compared with the transform encoder based on the Embedded Zerotree (EZT), a well known data compression algorithm. These approaches are tested on experimental Lamb wave signals obtained by acquiring acoustic emissions in a aluminum plate with conventional piezoelectric sensors. The performances of the two methods are analyzed by varying the compression ratio in the range 40–80%, and measuring the discrepancy between the original and the reconstructed signal. Results show the improvement in signal reconstruction with the use of the modified CS framework with respect to transform-encoders such as the EZT algorithm with Huffman coding.
+
+@highlight Compressive Sensing based on wavelet analysis and frequency warping operator.
+@highlight Frequency warping Wavelet analysis.
+@highlight Compression of Ultrasonic Lamb Waves.
+@highlight Acoustic emission localization in plates with dispersion and reverberation.
+@highlight Procedure is tested with a passive network of three piezo-sensors.

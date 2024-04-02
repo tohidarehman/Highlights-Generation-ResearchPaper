@@ -1,0 +1,6 @@
+ Vague sets were first proposed by Gau and Buehrer  as an extension of fuzzy sets which encompass fuzzy sets, inter-valued fuzzy sets, as special cases. Vague sets consist of two parts, that is, the membership function and nonmembership function. Therefore, in accordance with practical demand these sets are more flexible than the existing fuzzy sets and provide much more information about the situation. In this paper, a new approach for the ranking of trapezoidal vague sets is introduced. Shortcomings in some existing ranking approaches have been pointed out. Validation of the proposed ranking method has been established through the reasonable properties of the fuzzy quantities. Further, the proposed ranking approach is applied to develop a new method for dealing with vague risk analysis problems to find the probability of failure, of each component of compressor system, which could be used for managerial decision making and future system maintenance strategy. Also, the proposed method provides a useful way for handling vague risk analysis problems.
+
+@highlight Ranking function.
+@highlight Vague sets.
+@highlight Fuzzy number.
+@highlight Vague risk analysis.

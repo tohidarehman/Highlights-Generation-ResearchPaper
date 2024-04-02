@@ -1,0 +1,7 @@
+ Through an additive efficiency decomposition (AED) approach in data envelopment analysis (DEA), we evaluate the management and investment efficiencies of Investment Trust Corporations (ITCs) in Taiwan for the period 2007–2011. Furthermore, the AED-DEA and a network-based ranking approach in DEA are jointly used to rank and identify ITCs that can be treated as benchmarks. Frontier projections for ITCs are also highlighted. In general, our results demonstrate that the sample ITCs have higher investment efficiency than the management efficiency. Foreign ITCs appear to be the most efficient ones as compared to local ITCs and financial-holding ITCs. Finally, we construct a competitive map to help mutual fund managers improve their operating performance, resource allocation, and investment strategy formulation.
+
+@highlight We utilize an additive efficiency decomposition (AED) data envelopment analysis (DEA).
+@highlight We assess the management and investment efficiencies of ITCs in Taiwan over the sample period 2007–2011.
+@highlight We use the AED DEA and network-based approach to distinguish and rank ITCs that can be treated as benchmarks.
+@highlight We include frontier projections of ITCs for the purpose of resource allocation.
+@highlight We construct a competitive map to provide information on investment strategy formulation.

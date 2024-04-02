@@ -1,0 +1,6 @@
+ Optical coherence tomography (OCT) has continually evolved and expanded as one of the most valuable routine tests in ophthalmology. However, noise (speckle) in the acquired images causes quality degradation of OCT images and makes it difficult to analyze the acquired images. In this paper, an iterative approach based on bilateral filtering is proposed for speckle reduction in multiframe OCT data. Gamma noise model is assumed for the observed OCT image. First, the adaptive version of the conventional bilateral filter is applied to enhance the multiframe OCT data and then the bias due to noise is reduced from each of the filtered frames. These unbiased filtered frames are then refined using an iterative approach. Finally, these refined frames are averaged to produce the denoised OCT image. Experimental results on phantom images and real OCT retinal images demonstrate the effectiveness of the proposed filter.
+
+@highlight A new speckle filters based on Gamma statistics is proposed for the enhancement of OCT images.
+@highlight With AUB filter, bias is estimated with a local ML estimator and removed from the adaptive bilateral filter output.
+@highlight With IAUB filter, an iterative approach further refines the AUB filter output.
+@highlight Experiments show that the proposed frameworks provide better performance compared to the state-of-the-art methods.

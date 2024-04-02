@@ -1,0 +1,5 @@
+ This work extends the previous two-dimensional compact scheme for the Cahn–Hilliard equation  to three-dimensional space. The proposed scheme, derived by combining a compact formula and a linearly stabilized splitting scheme, has second-order accuracy in time and fourth-order accuracy in space. The discrete system is conservative and practically stable. We also implement the compact scheme in a three-dimensional adaptive mesh refinement framework. The resulting system of discrete equations is solved by using a multigrid. We demonstrate the performance of our proposed algorithm by several numerical experiments.
+
+@highlight We present a three-dimensional compact scheme for the Cahn–Hilliard equation.
+@highlight The scheme has second-order accuracy in time and fourth-order accuracy in space.
+@highlight We implement the compact scheme in an adaptive mesh refinement framework.

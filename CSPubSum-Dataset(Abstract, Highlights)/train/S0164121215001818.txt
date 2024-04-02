@@ -1,0 +1,7 @@
+ Coping with evolution in automated production systems implies a cross-disciplinary challenge along the system's life-cycle for variant-rich systems of high complexity. The authors from computer science and automation provide an interdisciplinary survey on challenges and state of the art in evolution of automated production systems. Selected challenges are illustrated on the case of a simple pick and place unit. In the first part of the paper, we discuss the development process of automated production systems as well as the different type of evolutions during the system's life-cycle on the case of a pick and place unit. In the second part, we survey the challenges associated with evolution in the different development phases and a couple of cross-cutting areas and review existing approaches addressing the challenges. We close with summarizing future research directions to address the challenges of evolution in automated production systems.
+
+@highlight Automated Production Systems (aPS) impose specific requirements regarding evolution.
+@highlight We present a classification of how Automated Production Systems evolve.
+@highlight We discuss the state of art and research needs for the development phases of aPS.
+@highlight Model-driven engineering and Variability Management are key issues.
+@highlight Cross-discipline analysis of (non)-functional requirements must be improved.

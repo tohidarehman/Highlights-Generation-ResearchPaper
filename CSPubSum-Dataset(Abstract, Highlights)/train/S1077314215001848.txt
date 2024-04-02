@@ -1,0 +1,6 @@
+ Scene parsing is the task of labeling every pixel in an image with its semantic category. We present CollageParsing, a nonparametric scene parsing algorithm that performs label transfer by matching content-adaptive windows. Content-adaptive windows provide a higher level of perceptual organization than superpixels, and unlike superpixels are designed to preserve entire objects instead of fragmenting them. Performing label transfer using content-adaptive windows enables the construction of a more effective Markov random field unary potential than previous approaches. On a standard benchmark consisting of outdoor scenes from the LabelMe database, CollageParsing obtains state-of-the-art performance with 15–19% higher average per-class accuracy than recent nonparametric scene parsing algorithms.
+
+@highlight CollageParsing is a scene parsing algorithm that matches content-adaptive windows.
+@highlight Unlike superpixels, content-adaptive windows are designed to preserve objects.
+@highlight A powerful MRF unary is constructed by performing label transfer using the windows.
+@highlight Gains of 15–19% average per-class accuracy are obtained on a standard benchmark.

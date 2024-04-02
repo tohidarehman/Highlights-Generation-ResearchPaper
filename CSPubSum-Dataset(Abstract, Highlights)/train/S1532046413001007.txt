@@ -1,0 +1,7 @@
+ Since the completion of the Human Genome project at the turn of the Century, there has been an unprecedented proliferation of genomic sequence data. A consequence of this is that the medical discoveries of the future will largely depend on our ability to process and analyse large genomic data sets, which continue to expand as the cost of sequencing decreases. Herein, we provide an overview of cloud computing and big data technologies, and discuss how such expertise can be used to deal with biology’s big data sets. In particular, big data technologies such as the Apache Hadoop project, which provides distributed and parallelised data processing and analysis of petabyte (PB) scale data sets will be discussed, together with an overview of the current usage of Hadoop within the bioinformatics community.
+
+@highlight Ever improving next generation sequencing technologies has led to an unprecedented proliferation of sequence data.
+@highlight Biology is now one of the fastest growing fields of big data science.
+@highlight Cloud computing and big data technologies can be used to deal with biology’s big data sets.
+@highlight The Apache Hadoop project, which provides distributed and parallelised data processing are presented.
+@highlight Challenges associated with cloud computing and big data technologies in biology are discussed.

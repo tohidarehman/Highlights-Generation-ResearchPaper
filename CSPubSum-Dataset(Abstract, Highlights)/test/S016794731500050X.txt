@@ -1,0 +1,7 @@
+ Acyclic probabilistic finite automata (APFA) constitute a rich family of models for discrete longitudinal data. An APFA may be represented as a directed multigraph, and embodies a set of context-specific conditional independence relations that may be read off the graph. A model selection algorithm to minimize a penalized likelihood criterion such as AIC or BIC is described. This algorithm is compared to one implemented in Beagle, a widely used program for processing genomic data, both in terms of rate of convergence to the true model as the sample size increases, and a goodness-of-fit measure assessed using cross-validation. The comparisons are based on three data sets, two from molecular genetics and one from social science. The proposed algorithm performs at least as well as the algorithm in Beagle in both respects.
+
+@highlight We introduce APFA as graphical models for discrete longitudinal data.
+@highlight We propose a novel model selection algorithm based on penalized likelihood.
+@highlight We compare its rate of convergence and goodness-of-fit to Beagle.
+@highlight We use data from molecular genetics and social science in the comparisons.
+@highlight Our algorithm performs as least as well or better than the algorithm in Beagle.

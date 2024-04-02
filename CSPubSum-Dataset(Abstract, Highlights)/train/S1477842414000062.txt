@@ -1,0 +1,6 @@
+ The XSLT language is key technology to develop software which manipulates data encoded in XML, a versatile formalism widely adopted for information description and exchange. This motivates the adoption of formal techniques to certify the correctness (with respect to the expected output) and robustness (e.g., tolerance to malformed inputs) of the XSLT code. Unfortunately, such code cannot be validated using only static approaches (i.e., without executing it), due to the complexity of the XSLT formalism. In this paper we show how a software verification technology, namely the model checking, can be adapted to obtain an effective and easy to use XSLT validation framework. The core of the presented methodology is the XSLToMurphi algorithm, which is able to build a formal model of an XSLT transformation, suitable to be verified through the CMurphi tool.
+
+@highlight We develop a framework to model XSL transformations and XML Schema constraints.
+@highlight We use model checking to verify the correctness of XSL transformations.
+@highlight We provide a tool for XSL verification, including an advanced error reporting.
+@highlight We show how to interactively check and fix XSL transformations in our framework.

@@ -1,0 +1,5 @@
+ For an arbitrary degree Bézier curve , we first establish sufficient conditions for its control polygon to become homeomorphic to via subdivision. This is extended to show a subdivided control polygon that is ambient isotopic to . We provide closed-form formulas to compute the corresponding number of iterations for equivalence under homeomorphism and ambient isotopy. The development of these a priori values was motivated by application to high performance computing (HPC), where providing estimates of total run time is important for scheduling.
+
+@highlight We establish ambiently isotopic control polygons for Bézier curves via subdivision.
+@highlight We provide closed-form formulas for the required number of subdivision iterations.
+@highlight The results are being applied in computer animation.

@@ -1,0 +1,7 @@
+ The aim of the present study was to formulate the relationship between the perceived discomfort and the joint moment ratio for twelve joint motion directions of the upper limb by considering the between-subject variability, and to investigate the effect of joint motion direction. Three approximation models (i.e., linear, exponential, and logistic function models) were compared in terms of the accuracy of predicting the perceived discomfort, and the logistic function was selected because its average error was lowest. The concept of L-R fuzzy number was used to consider the individual variability of perceived discomfort, and a simplified distribution of perceived discomfort was represented. Cluster analysis showed that the twelve discomfort functions formed two clusters: one for elbow flexion and a second for the remaining joint motions. The data show that elbow flexion is more sensitive than other joint motions to increases in the joint moment ratio.
+
+@highlight We formulate the relationship between perceived discomfort and joint moment ratio for the upper limb.
+@highlight The relationships for twelve joint motion directions are formulated by considering between-subject variability.
+@highlight The L-R fuzzy number was applied to deal with the variability of perceived discomfort among subjects.
+@highlight We compare three approximation models (linear, exponential, and logistic function models) in terms of their accuracy.
+@highlight The logistic function model provides the best fit to the history of perceived discomfort among the three models.

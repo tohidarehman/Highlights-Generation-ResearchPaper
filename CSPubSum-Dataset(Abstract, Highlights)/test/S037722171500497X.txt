@@ -1,0 +1,7 @@
+ The behaviour of poker players and sports gamblers has been shown to change after winning or losing a significant amount of money on a single hand. In this paper, we explore whether there are changes in experts’ behaviour when performing judgmental adjustments to statistical forecasts and, in particular, examine the impact of ‘big losses’. We define a big loss as a judgmental adjustment that significantly decreases the forecasting accuracy compared to the baseline statistical forecast. In essence, big losses are directly linked with wrong direction or highly overshooting judgmental overrides. Using relevant behavioural theories, we empirically examine the effect of such big losses on subsequent judgmental adjustments exploiting a large multinational data set containing statistical forecasts of demand for pharmaceutical products, expert adjustments and actual sales. We then discuss the implications of our findings for the effective design of forecasting support systems, focusing on the aspects of guidance and restrictiveness.
+
+@highlight Forecasters’ behaviour changes after performing adjustments that lead to big losses.
+@highlight A big loss is more likely to be followed by another big loss: mistakes perpetuate.
+@highlight Forecasters tend to adjust in the direction opposite to that of the previous error.
+@highlight Simple correction strategies can substantially improve forecasting performance.
+@highlight A new measure for understanding the quality of judgmental adjustments is introduced.

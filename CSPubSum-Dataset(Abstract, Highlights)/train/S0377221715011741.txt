@@ -1,0 +1,7 @@
+ In the recent past, the global public has been alarmed by several natural disasters with tremendous consequences. The OR/MS community has reacted by developing quantitative methods to support humanitarian aid, which have become well-established in the areas of disaster operations management and humanitarian logistics. An especially rapidly growing strand of literature in these areas uses multicriteria optimization methods, which is natural in view of the ubiquity of multiple objectives in disaster operations. The article reviews recent literature on the application of multicriteria optimization to the management of natural disasters, epidemics or other forms of humanitarian crises. Different optimization criteria as well as multicriteria decision making approaches applied in this field are discussed and examined. The available literature is classified according to several attributes, and each paper is presented in some detail. Possible future research directions are outlined.
+
+@highlight We review the literature on multicriteria optimization in humanitarian aid.
+@highlight Application area: all phases of disaster management.
+@highlight Objective functions are classified and discussed, as well as solution methods.
+@highlight Available articles are presented and classified.
+@highlight We conclude with an outline of future research directions.

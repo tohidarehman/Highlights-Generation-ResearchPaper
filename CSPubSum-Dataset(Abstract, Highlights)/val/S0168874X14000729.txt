@@ -1,0 +1,6 @@
+ A finite element spot weld is proposed. The model is only weakly sensitive to element size, in contrast to some existing models, for which predictions of the static and dynamic responses can be strongly sensitive to the size of the elements in the substructures to which the spot weld is connected, to such an extent that numerical results may not converge. The proposed model comprises a number of multipoint constraint connections to the attached substructures, so that they may have incompatible meshes. It involves stiffness elements distributed around the perimeter of the spot weld. The case of two plates connected by three spot welds is considered. Numerical results are presented and compared with those of CWELD models and with experimental measurements. The results from the proposed spot weld model show good accuracy, low sensitivity to the element dimensions and good convergence properties.
+
+@highlight A finite element spot weld which is not sensitive to the element size is proposed.
+@highlight The new model imposes a surface-to-surface link, coincident meshes are not required.
+@highlight The new model reduces the sensitivity to the element size.
+@highlight The new model improves convergence with mesh size.

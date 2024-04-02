@@ -1,0 +1,5 @@
+ Not all frames are equal – selecting a subset of discriminative frames from a video can improve performance at detecting and recognizing human interactions. In this paper we present models for categorizing a video into one of a number of predefined interactions or for detecting these interactions in a long video sequence. The models represent the interaction by a set of key temporal moments and the spatial structures they entail. For instance: two people approaching each other, then extending their hands before engaging in a “handshaking” interaction. Learning the model parameters requires only weak supervision in the form of an overall label for the interaction. Experimental results on the UT-Interaction and VIRAT datasets verify the efficacy of these structured models for human interactions.
+
+@highlight We present key-component models for selecting important temporal instants or human poses from video sequences.
+@highlight Human interaction key-component models are learned from weakly supervised data.
+@highlight We demonstrate empirical results on the VIRAT and UT-Interaction datasets.

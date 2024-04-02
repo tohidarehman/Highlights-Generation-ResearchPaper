@@ -1,0 +1,7 @@
+ Past and recent events have shown that railway infrastructure systems are particularly vulnerable to natural catastrophes, unintentional accidents and terrorist attacks. Protection investments are instrumental in reducing economic losses and preserving public safety. A systematic approach to plan security investments is paramount to guarantee that limited protection resources are utilized in the most efficient manner. In this paper, we present an optimization model to identify the railway assets which should be protected to minimize the impact of worst case disruptions on passenger flows. We consider a dynamic investment problem where protection resources become available over a planning horizon. The problem is formulated as a bilevel mixed-integer model and solved using two different decomposition approaches. Random instances of different sizes are generated to compare the solution algorithms. The model is then tested on the Kent railway network to demonstrate how the results can be used to support efficient protection decisions.
+
+@highlight A bilevel model for optimizing security investments in railway systems is proposed.
+@highlight Two different decomposition approaches are used to solve the model.
+@highlight The dynamic security investment model is tested on the Kent, UK, railway network.
+@highlight Significant system flow loss reductions can be achieved with modest investments.
+@highlight The robustness of the approach to different disruption scenarios is analyzed.

@@ -1,0 +1,7 @@
+ Open pit mine design optimization under uncertainty is one of the most critical and challenging tasks in the mine planning process. This paper describes the implementation of a minimum cut network flow algorithm for the optimal production phase and ultimate pit limit design under commodity price or market uncertainty. A new smoothing splines algorithm with sequential Gaussian simulation generates multiple commodity price scenarios, and a computationally efficient stochastic framework accommodates the joint representation and processing of the mining block economic values that result from these commodity price scenarios. A case study at an existing iron mining operation demonstrates the performance of the proposed method, and a comparison with conventional deterministic approach shows a higher cumulative metal production coupled with a 48% increase in the net present value (NPV) of the operation.
+
+@highlight An innovative application of OR in open pit mine planning and design is proposed.
+@highlight It implements minimum cut algorithm for pit design considering price uncertainty.
+@highlight A new smoothing splines algorithm models the price uncertainty.
+@highlight A case study demonstrates the application of the proposed stochastic framework.
+@highlight A comparison with existing methods confirms improved economic value.

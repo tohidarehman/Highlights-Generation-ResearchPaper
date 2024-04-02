@@ -1,0 +1,7 @@
+ In this paper we model the multi-level uncapacitated facility location problem as two different combinatorial optimization problems. The first model is the classical representation of the problem which uses a set of vertices as combinatorial objects to represent solutions whereas in the second model we propose the use of a set of paths. An interesting observation is that the real-valued set function associated with the first combinatorial problem does not satisfy the submodular property, whereas the set function associated with the second problem does satisfy this property. This illustrates the fact that submodularity is not a property intrinsic to an optimization problem but rather to its mathematical representation.
+
+@highlight We study the multi-level uncapacitated facility location problem.
+@highlight We model it as two different combinatorial optimization problems.
+@highlight The set function associated with the first problem is not submodular.
+@highlight The set function associated with the second problem is submodular.
+@highlight Submodularity is not a property intrinsic to a problem but rather to its representation.

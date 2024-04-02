@@ -1,0 +1,9 @@
+ Supervisory control and data acquisition (SCADA) systems currently use the polling technique for monitoring electric utility networks. Unfortunately, conventional SCADA systems do not suit the needs of smart grids in terms of the required data rate. Polling-based wireless networks can extend the capabilities of SCADA systems as they provide low cost transceivers and bounded packet delay. However, the harsh environment of power stations negatively impacts the performance of wireless links. This paper introduces a field measurement-based study that focuses on the effect of power system noise and transients on packet delivery reliability of Zigbee and WiFi polling-based wireless networks. Extensive experiments show that the electromagnetic interference emitted from high voltage substations, during normal operation conditions, do not significantly affect wireless communication in the gigahertz range. Moreover, we analytically and experimentally demonstrate that abnormal operation conditions of power systems may negatively impact the reliability of packet delivery in polling-based wireless networks. Furthermore, we show that this negative impact can be mitigated by following some proposed technical considerations regarding the wireless standard, the operating frequency, the location, and the number of wireless transceivers used.
+
+@highlight We measure and model the path loss for wireless links in low voltage substations.
+@highlight No effect of EMI on Zigbee links is normally observed in high voltage substations.
+@highlight The probability of unsuccessful polling transactions P
+@highlight ut
+@highlight is analytically studied.
+@highlight Sending multiple copies of data by WiFi-5GHz transmitters achieves near zero P
+@highlight ut

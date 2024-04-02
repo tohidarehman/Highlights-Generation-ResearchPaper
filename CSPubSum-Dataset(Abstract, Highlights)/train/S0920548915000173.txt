@@ -1,0 +1,5 @@
+ Processing of high-resolution time series satellite images typically requires a large amount of computational resources and time. We introduce here a scientific gateway for computing the Normalized Difference Vegetation Index (NDVI) time series data. Based on a distributed workflow using the Web Processing Service (WPS) standard, the gateway aims to be completely interoperable with other standardized tools. The availability of this gateway may help researchers to acquire knowledge of land cover changes more efficiently over very large spatial and temporal extents, which is especially important in the context of Armenia for which timely decision-making is needed.
+
+@highlight A scientific gateway for computing the NDVI time series data based on a distributed workflow using the WPS standard.
+@highlight An optimal NDVI times series geoprocessing services based on cloud infrastructures.
+@highlight Experimental results in the study area that include some part of the territory of Armenia.

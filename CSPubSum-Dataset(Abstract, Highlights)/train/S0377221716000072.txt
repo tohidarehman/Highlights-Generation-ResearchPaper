@@ -1,0 +1,7 @@
+ This paper presents an evolutionary algorithm for the fixed-charge multicommodity network design problem (MCNDP), which concerns routing multiple commodities from origins to destinations by designing a network through selecting arcs, with an objective of minimizing the fixed costs of the selected arcs plus the variable costs of the flows on each arc. The proposed algorithm evolves a pool of solutions using principles of scatter search, interlinked with an iterated local search as an improvement method. New cycle-based neighborhood operators are presented which enable complete or partial re-routing of multiple commodities. An efficient perturbation strategy, inspired by ejection chains, is introduced to perform local compound cycle-based moves to explore different parts of the solution space. The algorithm also allows infeasible solutions violating arc capacities while performing the “ejection cycles”, and subsequently restores feasibility by systematically applying correction moves. Computational experiments on benchmark MCNDP instances show that the proposed solution method consistently produces high-quality solutions in reasonable computational times.
+
+@highlight Hightlights
+@highlight New and enhanced cycle-based neighborhood operators.
+@highlight An innovative perturbation strategy based on ejection chains, namely the Ejection Cycles.
+@highlight An efficient scatter search that considers the search history and “solvency-based” measures to produce offspring.
+@highlight Competitive results produced for well known benchmarks of literature.

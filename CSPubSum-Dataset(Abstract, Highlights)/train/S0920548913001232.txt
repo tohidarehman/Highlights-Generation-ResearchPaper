@@ -1,0 +1,5 @@
+ This paper presents a novel partition-based fuzzy median filter for noise removal from corrupted digital images. The proposed filter is obtained as the weighted sum of the current pixel value and the output of the median filter, where the weight is set by using fuzzy rules concerning the state of the input signal sequence to indicate to what extent the pixel is considered to be noise. Based on the adaptive resonance theory, the authors developed a neural network model and created a new weight function where the neural network model is employed to partition the observation vector. In this framework, each observation vector is mapped to one of the M blocks that form the observation vector space. The least mean square (LMS) algorithm is applied to obtain the optimal weight for each block. Experiment results have confirmed the high performance of the proposed filter in efficiently removing impulsive noise and Gaussian noise.
+
+@highlight This paper presents a novel partition-based fuzzy median filter.
+@highlight The proposed neural network model based on ART is developed.
+@highlight Experimental results confirm the efficient removal of impulse noise.

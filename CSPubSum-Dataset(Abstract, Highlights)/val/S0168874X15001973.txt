@@ -1,0 +1,7 @@
+ A method for blending three-dimensional Non-Uniform Rational B-Splines (NURBS) elements and Lagrangian elements is proposed. In the blended element, selected boundary facets of a NURBS patch are presented in Lagrangian form, enabling the patch to be directly connected to standard Lagrangian elements. The transformation from NURBS to Lagrangian preserves the original geometry and thus retains the geometric exactness. The transformation is utilized to develop blended models wherein a part of the domain is described in NURBS while the remaining domain is in traditional finite elements. A simply supported beam is used as the benchmark example to test the convergence of the 3D blended element model. The utility of the blended model is also demonstrated with an example of a gear with intricate geometry. The stress solutions are compared with those of the pure finite element model and the validity of the blended analysis is demonstrated.
+
+@highlight A method is proposed to blend NURBS and finite elements in 3D isogeometric analysis.
+@highlight The interfacing facets of a NURBS patch are transformed to Lagrangian form.
+@highlight Transformation from NURBS to Lagrangian can preserve the original geometry.
+@highlight Connection between higher order NURBS and lower order finite elements is discussed.
+@highlight A blended model of an intricate geometric gear is built and analyzed.

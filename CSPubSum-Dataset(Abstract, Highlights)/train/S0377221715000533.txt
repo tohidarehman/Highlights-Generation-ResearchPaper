@@ -1,0 +1,7 @@
+ Small and Medium-sized Enterprises (SMEs) face many obstacles when they try to access the credit market. These obstacles increase if the SMEs are innovative. In this case, financial data are insufficient or even unreliable. Thus, building a judgmental rating model, mainly based on qualitative criteria (soft information), is very important to finance SMEs’ activities. Till now, there has not been a multicriteria credit risk model based on soft information for innovative SMEs. In this paper, we try to fill this gap by presenting a multicriteria credit risk model named ELECTRE-TRI. A SMAA-TRI analysis is also implemented to obtain robust SMEs’ assignments to the risk classes. SMAA-TRI incorporates ELECTRE-TRI by considering different sets of preference parameters and uncertainty in the data via Monte Carlo simulations. Finally, we carry out a real case study with the aim of illustrating the multicriteria credit risk model.
+
+@highlight Innovative SMEs face many obstacles to access the credit market.
+@highlight We propose a multicriteria credit rating model to the aim of financing innovative SMEs.
+@highlight The multicriteria method is ELECTRE-TRI, outperformed within a SMAA-TRI analysis.
+@highlight Soft information is emphasized in the model proposed.
+@highlight We carry out a real case study to illustrate the multicriteria model proposed.

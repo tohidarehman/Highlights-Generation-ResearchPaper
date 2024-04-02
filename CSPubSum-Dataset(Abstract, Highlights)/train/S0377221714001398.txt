@@ -1,0 +1,6 @@
+ This paper presents a general and numerically accurate lattice methodology to price risky corporate bonds. It can handle complex default boundaries, discrete payments, various asset sales assumptions, and early redemption provisions for which closed-form solutions are unavailable. Furthermore, it can price a portfolio of bonds that accounts for their complex interaction, whereas traditional approaches can only price each bond individually or a small portfolio of highly simplistic bonds. Because of the generality and accuracy of our method, it is used to investigate how credit spreads are influenced by the bond provisions and the change in a firm’s liability structure due to bond repayments.
+
+@highlight We propose a lattice to price risky bonds with complicated liability structures.
+@highlight The lattice can deal with common bond provisions that are analytically intractable.
+@highlight We explore how credit spreads are influenced by changes in liability structures.
+@highlight The impacts of different bond provisions on credit spreads are analyzed.

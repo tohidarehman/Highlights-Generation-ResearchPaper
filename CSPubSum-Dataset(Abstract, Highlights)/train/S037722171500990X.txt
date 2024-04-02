@@ -1,0 +1,7 @@
+ The existence of positive and negative externalities ought to be considered in a productivity analysis in order to obtain unbiased measures of efficiency. In this research we present an additive style, data envelopment analysis model that considers the production of both negative and positive externalities and permits a limited increase in input utilisation where relevant. The directional economic environmental distance (DEED) function is a unified approach based on a linear program that evaluates the relative inefficiency of the units under examination with respect to a unique reference technology. We discuss the impact of disposability assumptions in depth and demonstrate how different versions of the DEED model improve on models presented in the literature to date.
+
+@highlight Positive and negative externalities ought to be modelled to obtain unbiased measures of productivity.
+@highlight We develop an additive style data envelopment analysis model that accounts for both externalities.
+@highlight We model limited increases in input utilisation in order to further reduce negative externalities.
+@highlight The directional economic environmental distance (DEED) function is a unified approach.
+@highlight DEED draws from a unique reference technology enabling reasonable productivity measure comparisons.

@@ -1,0 +1,7 @@
+ In this paper we present a novel approach for firm default probability estimation. The methodology is based on multivariate contingent claim analysis and pair copula constructions. For each considered firm, balance sheet data are used to assess the asset value, and to compute its default probability. The asset pricing function is expressed via a pair copula construction, and it is approximated via Monte Carlo simulations. The methodology is illustrated through an application to the analysis of both operative and defaulted firms.
+
+@highlight We provide a methodology to accurately evaluate firm default probability.
+@highlight Multivariate contingent claim model on balance sheet data for firm asset value.
+@highlight Use of Bayesian parametric mixture models for vine-marginal modelling.
+@highlight Asset and liability dependence structure is modelled via pair copula constructions.
+@highlight Our approach allows us to correctly estimate the PD of defaulted as well as of sound firms.

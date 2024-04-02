@@ -1,0 +1,7 @@
+ This work presents a contribution on the numerical modelling capabilities for the simulation of fluid flow and heat transfer in cellular solids – in particular we focus on open cell aluminium foams. Rather than applying one of the classical academical or commercial numerical finite volume (FV), finite difference (FD) or finite element (FE) interface tracking methods, we base our models on an interface capturing phase field method . A coupled diffuse interface lattice Boltzmann fluid flow solver  and a diffuse interface heat transfer approach  are combined in view of dealing with even more convoluted geometries, incorporating the dynamics of interfaces and complex multiphysics applications. Numerical results for the combined fluid flow and heat transfer simulations in open cell metal foams are in very good agreement with experimental data .
+
+@highlight Diffuse interface method for heat and mass transfer simulation of cellular solids.
+@highlight Method for realistic modelling of complex microscale structures of cellular solids.
+@highlight Novel tensorial mobility approach is employed for diffuse interface heat transfer.
+@highlight Pore scale level CFD simulation using diffuse interface lattice Boltzmann method.
+@highlight Validation on complex engineering type geometries show excellent agreement.

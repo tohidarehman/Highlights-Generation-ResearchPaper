@@ -1,0 +1,5 @@
+ Jiang et al. proposed an algorithm to solve the inverse minimum cost flow problems under the bottleneck-type weighted Hamming distance [Y. Jiang, L. Liu, B. Wuc, E. Yao, Inverse minimum cost flow problems under the weighted Hamming distance, European Journal of Operational Research 207  50–54]. In this note, it is shown that their proposed algorithm does not solve correctly the inverse problem in the general case due to some incorrect results in that article. Then, a new algorithm is proposed to solve the inverse problem in strongly polynomial time. The algorithm uses the linear search technique and solves a shortest path problem in each iteration.
+
+@highlight The inverse minimum cost flow problem under the Hamming distance is considered.
+@highlight A counter example shows that algorithm proposed by Jiang et al. is not correct.
+@highlight A strongly polynomial-time algorithm is proposed to solve the inverse problem.

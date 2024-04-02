@@ -1,0 +1,7 @@
+ The variable returns to scale data envelopment analysis (DEA) model is developed with a maintained hypothesis of convexity in input–output space. This hypothesis is not consistent with standard microeconomic production theory that posits an S-shape for the production frontier, i.e. for production technologies that obey the Regular Ultra Passum Law. Consequently, measures of technical efficiency assuming convexity are biased downward. In this paper, we provide a more general DEA model that allows the S-shape.
+
+@highlight We discuss limitations of the maintained assumption of convexity in DEA.
+@highlight BCC measure of efficiency is inconsistent with the Regular Ultra Passum Law.
+@highlight We relax the assumption of convexity in DEA.
+@highlight We develop a non-parametric piecewise linear estimator of S-shape production.
+@highlight Using simulated data, we show that our new method overcomes BCC biases.

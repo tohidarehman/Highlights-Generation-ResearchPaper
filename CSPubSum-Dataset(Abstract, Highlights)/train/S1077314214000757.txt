@@ -1,0 +1,6 @@
+ In this paper we empirically analyze the importance of sparsifying representations for classification purposes. We focus on those obtained by convolving images with linear filters, which can be either hand designed or learned, and perform extensive experiments on two important Computer Vision problems, image categorization and pixel classification. To this end, we adopt a simple modular architecture that encompasses many recently proposed models. The key outcome of our investigations is that enforcing sparsity constraints on features extracted in a convolutional architecture does not improve classification performance, whereas it does so when redundancy is artificially introduced. This is very relevant for practical purposes, since it implies that the expensive run-time optimization required to sparsify the representation is not always justified, and therefore that computational costs can be drastically reduced.
+
+@highlight We investigate the role of sparsity in unsupervised filter learning.
+@highlight We consider the image categorization and pixel classication tasks.
+@highlight We show that sparsity constraints are not needed at run-time.
+@highlight This significantly reduces the time required to compute an image descriptor.

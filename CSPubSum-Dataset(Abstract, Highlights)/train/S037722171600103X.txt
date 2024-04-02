@@ -1,0 +1,7 @@
+ We consider a Cournot duopoly under general demand and cost functions, where an incumbent patentee has a cost reducing technology that it can license to its rival by using combinations of royalties and upfront fees (two-part tariffs). We show that for drastic technologies: (a) licensing occurs and both firms stay active if the cost function is superadditive and (b) licensing does not occur and the patentee monopolizes the market if the cost function is additive or subadditive. For non drastic technologies, licensing takes place provided the average efficiency gain from the cost reducing technology is higher than the marginal gain computed at the licensee’s reservation output. Optimal licensing policies have both royalties and fees for significantly superior technologies if the cost function is superadditive. By contrast, for additive and certain subadditive cost functions, optimal licensing policies have only royalties and no fees.
+
+@highlight We analyze the licensing of a cost-reducing innovation in a Cournot duopoly.
+@highlight We focus on two-part tariff policies for both drastic and non-drastic innovations.
+@highlight A drastic innovation is licensed (not licensed) if cost is super-additive (sub-additive).
+@highlight A non drastic innovation is licensed if technology’s average gain exceeds marginal gain.
+@highlight Royalties are positive; fees could be zero.

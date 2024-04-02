@@ -1,0 +1,5 @@
+ This paper addresses the strategic level of Hybrid Make-To-Stock (MTS)/Make-To-Order (MTO) production contexts using Fuzzy Analytic Network Process (FANP). The decisions which are involved in this level are family formation and order partitioning. First, a family formation procedure is developed; then, a fuzzy analytic network process is proposed to tackle partitioning decision. Since strategic decisions usually deal with the uncertainty and ambiguity of data as well as experts’ and managers’ linguistic opinions, the proposed model is equipped with fuzzy sets theory. An important attribute of the model is its generality due to diverse decision factors which are both elicited from the literature and developed by the authors themselves. Finally, the model is validated by applying it to a real industrial case study.
+
+@highlight This paper addressed order partitioning in hybrid MTS/MTO contexts using fuzzy ANP.
+@highlight A comprehensive list of decision criteria is introduced to the field of order partitioning.
+@highlight A family formation procedure is proposed to reduce complexity of the model.

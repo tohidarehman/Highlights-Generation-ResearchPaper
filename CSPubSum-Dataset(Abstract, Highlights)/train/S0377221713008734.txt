@@ -1,0 +1,7 @@
+ This paper addresses the Patient Admission Scheduling (PAS) problem. The PAS problem entails assigning elective patients to beds, while satisfying a number of hard constraints and as many soft constraints as is possible, and arises at all planning levels for hospital management. There exist a few, different variants of this problem. In this paper we consider one such variant and propose an optimization-based heuristic building on branch-and-bound, column generation, and dynamic constraint aggregation to solve it. We achieve tighter lower bounds than previously reported in the literature and, in addition, we are able to produce new best known solutions for five out of twelve instances from a publicly available repository.
+
+@highlight We develop a new model for the patient admission scheduling problem.
+@highlight We apply column generation and dynamic constraint aggregation to solve the problem.
+@highlight A new dual disaggregation strategy is presented.
+@highlight An aggressive variable fixing routine is presented.
+@highlight We improve lower and upper bounds on existing benchmark instances.

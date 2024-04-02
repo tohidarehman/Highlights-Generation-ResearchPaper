@@ -1,0 +1,7 @@
+ This paper proposes an architecture and associated methodology to separate front end UI concerns from back end coding concerns to improve the platform flexibility, shorten the development time, and increase the productivity of developers. Typical UI development is heavily dependent upon the underlying platform, framework, or tool used to create it, which results in a number of problems. We took a separation-based UI architecture and modified it with a domain specific language to support the independence of UI creation thereby resolving some of the aforementioned problems. A methodology incorporating this architecture into the development process is proposed. A climate science application was created to verify the validity of the methodology using modern practices of UX, DSLs, code generation, and model-driven engineering. Analyzing related work provides an overview of other methods similar to our method. Subsequently we evaluate the climate science application, conclude, and detail future work.
+
+@highlight We propose a new DSL and separation-based architecture and development methodology.
+@highlight The approach separates front-end UI concerns from back-end implementation concerns.
+@highlight A climate science application illustrates the approach and verifies its validity.
+@highlight Evaluation of the approach includes comparative analysis and usability studies.
+@highlight The approach increases developer productivity and enhances UI design flexibility.

@@ -1,0 +1,7 @@
+ Some social networks, such as LinkedIn and ResearchGate, allow user endorsements for specific skills. In this way, for each skill we get a directed graph where the nodes correspond to users’ profiles and the arcs represent endorsement relations. From the number and quality of the endorsements received, an authority score can be assigned to each profile. In this paper we propose an authority score computation method that takes into account the relations existing among different skills. Our method is based on enriching the information contained in the digraph of endorsements corresponding to a specific skill, and then applying a ranking method admitting weighted digraphs, such as PageRank. We describe the method, and test it on a synthetic network of 1493 nodes, fitted with endorsements.
+
+@highlight For expertise retrieval purposes we can rely on the endorsements received by members of a social network, with respect to some skill.
+@highlight Skills are correlated, which may affect individual rankings.
+@highlight An endorsement deduction method is proposed, which improves data consistency and completeness.
+@highlight Endorsement deduction makes use of the known correlation among skills.
+@highlight The method is validated in a synthetic network resembling LinkedIn.

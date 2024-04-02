@@ -1,0 +1,7 @@
+ Micro-array data are typically characterized by high dimensional features with a small number of samples. Several problems in identifying genes causing diseases from micro-array data can be transformed into the problem of classifying the features extracted from gene expression in micro-array data. However, too many features can cause low prediction accuracy as well as high computational complexity. Dimensional reduction is a method to eliminate irrelevant features to improve the prediction accuracy. Typically, the eigenvalues or dimensional data variance from principal component analysis are used as criteria to select relevant features. This approach is simple but not efficient since it does not concern the degree of data overlap in each dimension in the feature space. A new method to select relevant features based on degree of dimensional data overlap with proper feature selection was introduced. Furthermore, our study concentrated on small sized data sets which usually occur in reality. The experimental results signified that this new approach can achieve substantially higher prediction accuracy when compared with other methods.
+
+@highlight A feature selection based on degree of class overlap is proposed.
+@highlight Sorting the degrees of overlap for selecting the candidate dimensions.
+@highlight The minimum degree of overlap must be used as the relevant features.
+@highlight Using forward feature selection with SVM classification.
+@highlight The PMDO method selected fewer candidate features.

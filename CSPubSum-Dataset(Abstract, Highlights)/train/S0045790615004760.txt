@@ -1,0 +1,5 @@
+ The joint multipath routing and Network Coding (NC) method has been shown to improve the reliability and energy efficiency of multi-hop-relay wireless sensor networks (WSNs). However, NC is a kind of “all-or-nothing” code: the destination node cannot decode any information unless it successfully receives as many NC coded packets as the raw ones. Observed that WSNs often measure physical signals which show a high degree of correlation, in this paper, we propose a more deliberated scheme combined with Compressed Sensing (CS). Depending on the proposed measurement and recovery method, we prove that the original data can be recovered progressively while preserving the advantage of NC-based scheme. Detailed mathematical analysis of the performance of our proposed scheme along with other existing schemes is given. The experimental results also show the efficiency and robustness of the proposed scheme.
+
+@highlight A scheme of reliable data transmissions for the WSNs is presented.
+@highlight The encoding–decoding method is proposed and its effectiveness is proved.
+@highlight Performances of the proposed and other existing schemes are also analyzed.

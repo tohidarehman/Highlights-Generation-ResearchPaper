@@ -1,0 +1,7 @@
+ In this paper, a thermal–structural coupled finite element analysis method for wear prediction of seal is proposed. The methodology is built with iterative wear prediction procedure in which the geometry of the contact interface is progressively changed according to the wear model. To perform finite element simulation of wear process, a novel mesh reconstruction strategy to reflect the evolution of geometry caused by the wear is presented. Considering that friction heat in the sealing area normally has important effects on wear process, thermal behavior of wear process analysis is carried out and the friction heat flux density is calculated as one of the boundary conditions in each wear simulation circle. Two kinds of seals, namely O-shape seal (O-ring) and rectangular-section seal (R-ring), are investigated in this paper. As the sealing force is important for seals to evaluate the sealing capability, the effect of wear is reflected through the change of sealing force. The numerical results supply a suggestion for the applications of both seals.
+
+@highlight A thermal–structural coupled finite element method for wear prediction of seal.
+@highlight A mesh reconstruction strategy for reflecting the evolution of geometry of seal caused by wear.
+@highlight Thermal behavior coupled with structural analysis in comprehensive FE model.
+@highlight Sealing force is chosen as the criterion to evaluate the performance of seal.
+@highlight O-seals are more suitable for low-fluid-pressure and high-speed environment than R-seals.

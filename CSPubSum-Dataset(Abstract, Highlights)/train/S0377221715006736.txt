@@ -1,0 +1,5 @@
+ This paper addresses the problem of finding multiple near-optimal, spatially-dissimilar paths that can be considered as alternatives in the decision making process, for finding optimal corridors in which to construct a new road. We further consider combinations of techniques for reducing the costs associated with the computation and increasing the accuracy of the cost formulation. Numerical results for five algorithms to solve the dissimilar multipath problem show that a “bidirectional approach” yields the fastest running times and the most robust algorithm. Further modifications of the algorithms to reduce the running time were tested and it is shown that running time can be reduced by an average of 56 percent without compromising the quality of the results.
+
+@highlight Multiple dissimilar paths are computed within time and quality constraints.
+@highlight 56 percent speed improvement without quality reduction.
+@highlight Bidirectional search using A* and simple height restriction outperforms other approaches.

@@ -1,0 +1,6 @@
+ In the context of scientific computing, the mesh is used as a discrete support for the considered numerical methods. As a consequence, the mesh greatly impacts the efficiency, the stability and the accuracy of numerical methods. The goal of anisotropic mesh adaptation is to generate a mesh which fits the application and the numerical scheme in order to achieve the best possible solution. It is thus an active field of research which is progressing continuously. This review article proposes a synthesis of the research activity of the INRIA Gamma3 team in the field of anisotropic mesh adaptation applied to inviscid flows in computational fluid dynamics since 2000. It shows the evolution of the theoretical and numerical results during this period. Finally, challenges for the next decade are discussed.
+
+@highlight Steady and unsteady error estimates.
+@highlight Adaptive mesh adaptation techniques.
+@highlight Adjoint-based error estimates for Euler equations.
+@highlight Remaining potential challenges for mesh generation.

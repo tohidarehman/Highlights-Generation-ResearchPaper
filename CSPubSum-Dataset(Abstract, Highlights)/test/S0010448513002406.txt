@@ -1,0 +1,6 @@
+ In this paper we present a novel algorithm for the multi-degree reduction of Bézier curves with geometric constraints. Based on the given constraints, we construct an objective function which is abstracted from the approximation error in -norm. Two types of geometric constraints are tackled. With the constraints of -continuity at one endpoint and -continuity (or -continuity) at the other endpoint, we derive the optimal degree-reduced curves in explicit form. With the constraints of -continuity at two endpoints, the problem of degree reduction is equivalent to minimizing a bivariate polynomial function of degree 4. Compared with the traditional methods, we derive the optimal degree-reduced curves more effectively. Finally, evaluation results demonstrate the effectiveness of our method.
+
+@highlight Optimal degree reduction of Bézier curves with various geometric constraints is presented.
+@highlight The degree-reduced curves are explicitly derived with some geometric constraints.
+@highlight With
+@highlight -continuity at two endpoints, our method is optimal and efficient.

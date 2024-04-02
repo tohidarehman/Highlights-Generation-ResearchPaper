@@ -1,0 +1,5 @@
+ Mutual exclusion is a fundamental process synchronization problem in concurrent systems. In this paper, we propose a unified framework for mutual exclusion, k-mutual exclusion, mutual inclusion, ℓ-mutual inclusion and such, what we call critical section problem. Then, we show that critical section problem is characterized by a pair of integers.
+
+@highlight A unified framework is proposed for mutual exclusion, mutual inclusion and such what we call critical section problem.
+@highlight Critical section problem is characterized by a pair of integers.
+@highlight The family of critical section problems is closed under complement operation.

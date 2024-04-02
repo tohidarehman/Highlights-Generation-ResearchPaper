@@ -1,0 +1,7 @@
+ Malicious code can propagate rapidly via software vulnerabilities. In order to prevent the explosion of malicious codes on the Internet, a distributed patching mechanism is proposed in which the patch can tend to hub nodes automatically based on social computing in social networks. A server in social network generates automatic patches and then selects those nodes with maximum degree to push automatic patches to. Those hub nodes then send the patch to their buddies according to their degree in social network. Automatic patches propagate rapidly through hub nodes and patch nodes in social network, which will improve the security of the whole social network. Those receivers accept the patch according to trust value to the sender, which can avoid some malicious codes exploit our scheme to propagate themselves. Experiments show this mechanism is more efficient than other patching mechanisms.
+
+@highlight A distributed patching scheme which can improve the security of the Internet
+@highlight The patch can tend to hub nodes automatically.
+@highlight A sender pushes the patch to its buddies according to their degree in social network.
+@highlight The receivers accept the patch according to trust value to the sender.
+@highlight Automatic patches propagate rapidly in social network and patch nodes.

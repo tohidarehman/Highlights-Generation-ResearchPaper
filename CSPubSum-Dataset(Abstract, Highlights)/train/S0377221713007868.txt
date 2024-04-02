@@ -1,0 +1,6 @@
+ A budget-constrained buyer wants to purchase items from a shortlisted set. Items are differentiated by observable quality and sellers have private reserve prices for their items. The buyer’s problem is to select a subset of maximal quality. Money does not enter the buyer’s objective function, but only his constraints. Sellers quote prices strategically, inducing a knapsack game. We report the Bayesian optimal mechanism for the buyer’s problem. We find that simultaneous take-it-or-leave-it offers are interim optimal.
+
+@highlight We study a binary knapsack problem where the weight is chosen by strategic players.
+@highlight There has recently been interest in the OR and computer science literature.
+@highlight We derive a Bayesian optimal mechanism.
+@highlight Individual take-it-or-leave-it offers are optimal. Ex post competition is not needed.

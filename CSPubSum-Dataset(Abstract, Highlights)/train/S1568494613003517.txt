@@ -1,0 +1,7 @@
+ We demonstrate the use of Ant Colony System (ACS) to solve the capacitated vehicle routing problem associated with collection of recycling waste from households, treated as nodes in a spatial network. For networks where the nodes are concentrated in separate clusters, the use of k-means clustering can greatly improve the efficiency of the solution. The ACS algorithm is extended to model the use of multi-compartment vehicles with kerbside sorting of waste into separate compartments for glass, paper, etc. The algorithm produces high-quality solutions for two-compartment test problems.
+
+@highlight Ant Colony System is used to solve benchmark capacitated vehicle routing problems efficiently.
+@highlight Pre-processing by k-means clustering can greatly reduce computation time, and produces improved routings when the network nodes form aggregations.
+@highlight The ACS algorithm is extended to model multi-compartment CVRPs where the nodal demands are split among different categories of product, and the collection vehicle has separate compartments for each category.
+@highlight The extended algorithm has produced high-quality solutions for test problems involving two compartments.
+@highlight The program can be used to optimize routes for recycling waste collection from households using multi-compartment trucks and kerbside sorting.

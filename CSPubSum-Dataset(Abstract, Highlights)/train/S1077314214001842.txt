@@ -1,0 +1,7 @@
+ This article presents a new method for analysing mosaics based on the mathematical principles of Symmetry Groups. This method has been developed to get the understanding present in patterns by extracting the objects that form them, their lattice, and the Wallpaper Group. The main novelty of this method resides in the creation of a higher level of knowledge based on objects, which makes it possible to classify the objects, to extract their main features (Point Group, principal axes, etc.), and the relationships between them. In order to validate the method, several tests were carried out on a set of Islamic Geometric Patterns from different sources, for which the Wallpaper Group has been successfully obtained in 85% of the cases. This method can be applied to any kind of pattern that presents a Wallpaper Group. Possible applications of this computational method include pattern classification, cataloguing of ceramic coatings, creating databases of decorative patterns, creating pattern designs, pattern comparison between different cultures, tile cataloguing, and so on.
+
+@highlight New method to analyse mosaics based on the mathematical principles of Symmetry Groups.
+@highlight The method includes a higher level of knowledge based on objects.
+@highlight Extraction of objects and their main features of patterns with a Wallpaper Group (WG).
+@highlight Classification of objects according to their shape and obtaining their isometries.
+@highlight The extraction of the WG of the pattern using the relationships between objects.

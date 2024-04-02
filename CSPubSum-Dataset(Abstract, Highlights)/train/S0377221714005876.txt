@@ -1,0 +1,6 @@
+ We investigate a single-leg airline revenue management problem where an airline has limited demand information and uncensored no-show information. To use such hybrid information for simultaneous overbooking and booking control decisions, we combine expected overbooking cost with revenue. Then we take a robust optimization approach with a regret-based criterion. While the criterion is defined on a myriad of possible demand scenarios, we show that only a small number of them are necessary to compute the objective. We also prove that nested booking control policies are optimal among all deterministic ones. We further develop an effective computational method to find the optimal policy and compare our policy to others proposed in the literature.
+
+@highlight We propose a robust revenue management model with hybrid information.
+@highlight We show that nested policies are optimal among all deterministic policies in our model.
+@highlight We apply model-based methods to solve the problem numerically.
+@highlight We conduct numerical experiments to show the benefits of our method.

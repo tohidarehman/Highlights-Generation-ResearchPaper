@@ -1,0 +1,6 @@
+ Making decisions by learning preferences requires to consider semantical aspects dealing with the meaning and use of the preference concept. Examining recent developments on bipolarity, where concepts are measured/verified regarding a pair of opposite poles, we focus on the dialectic process by which the meaning of concepts emerges. Our proposal is based on the neutrality in between the opposite poles, such that a basic type of structure is used to characterize in logical terms the concepts and the knowledge that they generate. In this paper we model the meaning of concepts by paired structures, and apply these structures for learning and building the different meanings of preference for decision making.
+
+@highlight We propose paired structures to represent the meaning/use of preference.
+@highlight Preference models are logically and semantically characterized by paired structures.
+@highlight The semantics of reciprocal preferences reduces to strict preference.
+@highlight The P–A is the only preference model distinguishing between need and desire.

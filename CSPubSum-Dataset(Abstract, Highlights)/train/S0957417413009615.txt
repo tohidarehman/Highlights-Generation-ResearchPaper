@@ -1,0 +1,7 @@
+ This study improves the recognition accuracy and execution time of facial expression recognition system. Various techniques were utilized to achieve this. The face detection component is implemented by the adoption of Viola–Jones descriptor. The detected face is down-sampled by Bessel transform to reduce the feature extraction space to improve processing time then. Gabor feature extraction techniques were employed to extract thousands of facial features which represent various facial deformation patterns. An AdaBoost-based hypothesis is formulated to select a few hundreds of the numerous extracted features to speed up classification. The selected features were fed into a well designed 3-layer neural network classifier that is trained by a back-propagation algorithm. The system is trained and tested with datasets from JAFFE and Yale facial expression databases. An average recognition rate of 96.83% and 92.22% are registered in JAFFE and Yale databases, respectively. The execution time for a 100×100 pixel size is 14.5ms. The general results of the proposed techniques are very encouraging when compared with others.
+
+@highlight The study improves expression recognition rate and execution time.
+@highlight Average recognition rates in JAFFE and Yale databases are 96.83% and 92.22%, respectively.
+@highlight The execution time for processing 100×100 pixel size is 14.5ms.
+@highlight Best recognitions are happy, surprise, and disgust and the poorest is neutral.
+@highlight The general results are very encouraging when compared with others.

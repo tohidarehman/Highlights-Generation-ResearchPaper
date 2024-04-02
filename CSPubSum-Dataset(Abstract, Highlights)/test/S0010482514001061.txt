@@ -1,0 +1,7 @@
+ We propose a wearable hybrid interface where eye movements and mental concentration directly influence the control of a quadcopter in three-dimensional space. This noninvasive and low-cost interface addresses limitations of previous work by supporting users to complete their complicated tasks in a constrained environment in which only visual feedback is provided. The combination of the two inputs augments the number of control commands to enable the flying robot to travel in eight different directions within the physical environment. Five human subjects participated in the experiments to test the feasibility of the hybrid interface. A front view camera on the hull of the quadcopter provided the only visual feedback to each remote subject on a laptop display. Based on the visual feedback, the subjects used the interface to navigate along pre-set target locations in the air. The flight performance was evaluated by comparing with a keyboard-based interface. We demonstrate the applicability of the hybrid interface to explore and interact with a three-dimensional physical space through a flying robot.
+
+@highlight We present a noninvasive and wearable interface to control a quadcopter in 3D space.
+@highlight The hybrid system is low cost and easily wearable.
+@highlight The system hybridizes eye tracking and EEG-based classification.
+@highlight The system allows users to complete their tasks easily with various commands.
+@highlight People can control their flight naturally in everyday life.

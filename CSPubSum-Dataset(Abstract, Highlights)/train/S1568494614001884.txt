@@ -1,0 +1,5 @@
+ Entropy is used as a quantitative measurement of the information deficiency. In uncertain set theory, logarithm entropy for uncertain set has been proposed. However, it fails to measure the degree of uncertainty associated with some uncertain sets. Thus this paper will propose sine entropy for uncertain set as a supplement, and investigate its properties such as translation invariance and positive linearity. Besides, it proposes sine relative entropy for uncertain set, and gives its applications in portfolio selection and clustering.
+
+@highlight Proposing the concept of sine entropy for uncertain set.
+@highlight Investigating the properties of sine entropy such as translation invariance and positive linearity.
+@highlight Applications of entropy in portfolio selection and clustering.

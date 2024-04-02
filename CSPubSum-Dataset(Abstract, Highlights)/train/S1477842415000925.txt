@@ -1,0 +1,6 @@
+ This paper studies sound proof rules for checking positive invariance of algebraic and semi-algebraic sets, that is, sets satisfying polynomial equalities and those satisfying finite boolean combinations of polynomial equalities and inequalities, under the flow of polynomial ordinary differential equations. Problems of this nature arise in formal verification of continuous and hybrid dynamical systems, where there is an increasing need for methods to expedite formal proofs. We study the trade-off between proof rule generality and practical performance and evaluate our theoretical observations on a set of benchmarks. The relationship between increased deductive power and running time performance of the proof rules is far from obvious; we discuss and illustrate certain classes of problems where this relationship is interesting.
+
+@highlight We investigate proof rules to check positive invariance of semialgebraic sets.
+@highlight We introduce a sufficient condition we term nonsmooth Strict Barrier Certificate.
+@highlight We explore the effect of square-free decomposition.
+@highlight We assess the practical proof rule performance on a set of benchmarks.

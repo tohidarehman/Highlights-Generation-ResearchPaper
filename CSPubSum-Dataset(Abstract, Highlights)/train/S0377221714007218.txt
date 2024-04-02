@@ -1,0 +1,7 @@
+ In this paper the notion of restricted dissimilarity function is discussed and some general results are shown. The relation between the concepts of restricted dissimilarity function and penalty function is presented. A specific model of construction of penalty functions by means of a wide class of restricted dissimilarity functions based upon automorphisms of the unit interval is studied. A characterization theorem of the automorphisms which give rise to two-dimensional penalty functions is proposed. A generalization of the previous theorem to any dimension n > 2 is also provided. Finally, a not convex example of generator of penalty functions of arbitrary dimension is illustrated.
+
+@highlight General results about the class of restricted dissimilarity functions.
+@highlight A subclass of restricted dissimilarity functions based on automorphisms.
+@highlight A model of generation of penalty functions by means of automorphisms.
+@highlight A characterization theorem of the generators of penalty functions of any dimension.
+@highlight The existence of not convex generators is shown.

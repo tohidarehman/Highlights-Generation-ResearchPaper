@@ -1,0 +1,7 @@
+ We discuss the use of low-dimensional physical models of the voice source for speech coding and processing applications. A class of waveform-adaptive dynamic glottal models and parameter identification procedures are illustrated. The model and the identification procedures are assessed by addressing signal transformations on recorded speech, achievable by fitting the model to the data, and then acting on the physically oriented parameters of the voice source. The class of models proposed provides in principle a tool for both the estimation of glottal source signals, and the encoding of the speech signal for transformation purposes. The application of this model to time stretching and to fundamental frequency control (pitch shifting) is also illustrated. The experiments show that copy synthesis is perceptually very similar to the target, and that time stretching and “pitch extrapolation” effects can be obtained by simple control strategies.
+
+@highlight We model the speech signal by a speaker adapted glottal source and a vocal tract filter.
+@highlight The source model used is a physically based dynamical model representing vocal fold oscillation.
+@highlight The model is fitted to different speaker voice samples.
+@highlight Transformations are operated effectively through control of the glottal model.
+@highlight Experimental evidence of the effectiveness of the model is provided through objective and subjective assessment.

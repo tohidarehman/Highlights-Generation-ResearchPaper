@@ -1,0 +1,5 @@
+ In this paper we discuss the polyhedral structure of the integer single node flow set with two possible values for the upper bounds on the arc flows. Such mixed integer sets arise as substructures in complex mixed integer programs for real application problems. This work builds on results for the integer single node flow polytope with two arcs given by Agra and Constantino, 2006a. Valid inequalities are extended to a new family, the lifted Euclidean inequalities, and a complete description of the convex hull is given. All the coefficients of the facet-defining inequalities can be computed in polynomial time. We report on some computational experimentations for three problems: an inventory distribution problem, a facility location problem and a multi-item production planning model.
+
+@highlight We introduce the family of lifted Euclidean inequalities for an integer single node flow set
+@highlight We provide a polyhedral description of the convex hull of the feasible set
+@highlight We test the effectiveness of these inequalities in three mixed integer problems

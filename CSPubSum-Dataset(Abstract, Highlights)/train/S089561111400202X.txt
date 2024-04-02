@@ -1,0 +1,7 @@
+ The automatization of the analysis of Indirect Immunofluorescence (IIF) images is of paramount importance for the diagnosis of autoimmune diseases. This paper proposes a solution to one of the most challenging steps of this process, the segmentation of HEp-2 cells, through an adaptive marker-controlled watershed approach. Our algorithm automatically conforms the marker selection pipeline to the peculiar characteristics of the input image, hence it is able to cope with different fluorescent intensities and staining patterns without any a priori knowledge. Furthermore, it shows a reduced sensitivity to over-segmentation errors and uneven illumination, that are typical issues of IIF imaging.
+
+@highlight We propose automated segmentation of HEp-2 cells in immunofluorescence imaging.
+@highlight We apply the same pipeline to images with different fluorescent pattern and intensity.
+@highlight Our segmentation approach is based on adaptive marker-controlled watershed.
+@highlight We assess the accuracy of our approach on a public dataset.
+@highlight We compare our performance with significant works from literature.

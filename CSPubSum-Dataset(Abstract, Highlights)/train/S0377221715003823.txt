@@ -1,0 +1,7 @@
+ Simulation optimization has gained popularity over the decades because of its ability to solve many practical problems that involve profound randomness. The methodology development of simulation optimization, however, is largely concerned with problems whose objective function is mean-based performance metric. In this paper, we propose a direct search method to solve the unconstrained simulation optimization problems with quantile-based objective functions. Because the proposed method does not require gradient estimation in the search process, it can be applied to solve many practical problems where the gradient of objective function does not exist or is difficult to estimate. We prove that the proposed method possesses desirable convergence guarantee, i.e., the algorithm can converge to the true global optima with probability one. An extensive numerical study shows that the performance of the proposed method is promising. Two illustrative examples are provided in the end to demonstrate the viability of the proposed method in real settings.
+
+@highlight A direct search method is developed for unconstrained quantile-based simulation optimization.
+@highlight Effective quantile estimation techniques and a sample size schedule are developed.
+@highlight Without requiring gradient estimation, SNM-Q can handle many practical problems.
+@highlight We prove that SNM-Q possesses global convergence guarantee.
+@highlight Numerical experiments show that the performance of SNM-Q is promising.

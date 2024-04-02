@@ -1,0 +1,6 @@
+ We consider a two-period closed-loop supply chain (CLSC) game where a remanufacturer appropriates of the returns’ residual value and decides whether to exclusively manage the end-of-use product collection or to outsource it to either a retailer or a third-service provider (3P). We determine that the manufacturer outsources the product collection only when an outsourcee performs environmentally and operationally better. On the outsourcees side there is always an economic convenience in managing the product returns process exclusively, independently of returns rewards and operational performance. When outsourcing is convenient, a manufacturer always chooses a retailer if the outsourcees show equal performance. Overall, the manufacturer is more sensitive to environmental performance than to operational perfomance. Finally, there exists only a small region inside which outsouring the collection process contributes to the triple bottom line.
+
+@highlight Manufacturer and consumer prefer that manufacturer collects used products.
+@highlight This leads to a higher environmental quality.
+@highlight Retailer and external service provider prefer to close themselves the loop.
+@highlight Results in our dynamic setting differ from their static counterparts.

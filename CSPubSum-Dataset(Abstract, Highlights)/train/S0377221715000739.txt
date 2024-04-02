@@ -1,0 +1,6 @@
+ Combinatorial auctions allow allocation of bundles of items to the bidders who value them the most. The NP -hardness of the winner determination problem (WDP) has imposed serious computational challenges when designing efficient solution algorithms. This paper analytically studies the Lagrangian relaxation of WDP and expounds a novel technique for efficiently solving the relaxation problem. Moreover, we introduce a heuristic algorithm that adjusts any infeasibilities from the Lagrangian optimal solution to reach an optimal or a near optimal solution. Extensive numerical experiments illustrate the class of problems on which application of this technique provides near optimal solutions in much less time, as little as a fraction of a thousand, as compared to the CPLEX solver.
+
+@highlight Investigate a winner determination problem of a multi-unit combinatorial auction.
+@highlight We develop an efficient Lagrangian-based solution approach.
+@highlight We establish the equivalency between Lagrangian and linear programming relaxation.
+@highlight We carry extensive computations using an adaptation of the combinatorial auction test suite.

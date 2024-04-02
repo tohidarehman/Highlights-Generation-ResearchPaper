@@ -1,0 +1,7 @@
+ In this paper, a local weighted interpolation method for intra-field deinterlacing is proposed as an improved version of the DCS (deinterlacing with awareness of closeness and similarity) algorithm. The original DCS method is derived from bilateral filter which takes the local spatial closeness and pixel similarity into account when calculating the weight of interpolation. The proposed algorithm achieves three improvements: 1) instead of the line average, a more accurate interpolation filter is used to estimate the center missing pixel; 2) the center-independent interpolation method is proposed to replace the center-dependent interpolation strategy; 3) the adaptive weighted interpolation method is used to improve the accuracy of interpolation. Experimental results show that the proposed algorithm provides superior performance in terms of both objective and subjective image qualities when compared with other conventional benchmarks, including DCS algorithms with low complexity.
+
+@highlight We study local weighted interpolation method for intra-field deinterlacing (AWI).
+@highlight In AWI, a more accurate interpolation filter is used to estimate the center missing pixel.
+@highlight A center-independent interpolation method is proposed to replace the center-dependent interpolation strategy.
+@highlight An adaptive weighted interpolation method is used to improve the accuracy of interpolation.
+@highlight AWI provides good reconstruction performance and requires a low computational cost.

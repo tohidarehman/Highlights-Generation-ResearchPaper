@@ -1,0 +1,6 @@
+ We study various methods of aggregating individual judgments and individual priorities in group decision making with the AHP. The focus is on the empirical properties of the various methods, mainly on the extent to which the various aggregation methods represent an accurate approximation of the priority vector of interest. We identify five main classes of aggregation procedures which provide identical or very similar empirical expressions for the vectors of interest. We also propose a method to decompose in the AHP response matrix distortions due to random errors and perturbations caused by cognitive biases predicted by the mathematical psychology literature. We test the decomposition with experimental data and find that perturbations in group decision making caused by cognitive distortions are more important than those caused by random errors. We propose methods to correct the systematic distortions.
+
+@highlight Aggregation methods used in the AHP are classified on the basis of algebraic properties.
+@highlight Matrix differential analysis shows that different methods have similar empirical properties.
+@highlight Cognitive distortions in group decision-making AHP are more important than random errors.
+@highlight Theoretical results are supported by experimental evidence.

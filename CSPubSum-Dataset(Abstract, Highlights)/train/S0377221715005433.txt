@@ -1,0 +1,6 @@
+ We consider an online matching problem with concave returns. This problem is a generalization of the traditional online matching problem and has vast applications in online advertising. In this work, we propose a dynamic learning algorithm that achieves near-optimal performance for this problem when the inputs arrive in a random order and satisfy certain conditions. The key idea of our algorithm is to learn the input data pattern dynamically: we solve a sequence of carefully chosen partial allocation problems and use their optimal solutions to assist with the future decisions. Our analysis belongs to the primal-dual paradigm; however, the absence of linearity of the objective function and the dynamic feature of the algorithm makes our analysis quite unique. We also show through numerical experiments that our algorithm performs well for test data.
+
+@highlight We consider the online matching problem with concave returns. It is the core model for ad allocation.
+@highlight We propose a dynamic learning algorithm that achieves near-optimal performance for this problem.
+@highlight Our approach is primal-dual based. We overcome the difficulty that arises due to the nonlinearity.
+@highlight We test our algorithm using experimental data and show that it outperforms a myopic approach.

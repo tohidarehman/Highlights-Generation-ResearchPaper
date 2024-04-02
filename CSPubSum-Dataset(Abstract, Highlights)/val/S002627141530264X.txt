@@ -1,0 +1,6 @@
+ Active thermal control for power modules can potentially extend the lifetime of the converter. This paper investigates the trade-off between the lifetime extension or de-rating and its cost due to the efficiency reduction. A short review on the existing approaches using control to reduce thermal stress of power modules is presented. Based on a given junction temperature profile, a method to evaluate the active thermal control's trade-off is presented. The concept is validated on a laboratory setup, where active thermal control is implemented by adapting the switching frequency. A discussion of the possible lifetime extension at the efficiency's expense is finally given.
+
+@highlight A review on active thermal control for power electronic modules is given.
+@highlight Potential estimation for active thermal control is shown based on a mission profile.
+@highlight Active thermal control is implemented on a laboratory setup.
+@highlight The lifetime extension or de-rating of active thermal control is compared with the reduced efficiency.

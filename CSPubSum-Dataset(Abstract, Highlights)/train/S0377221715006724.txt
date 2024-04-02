@@ -1,0 +1,6 @@
+ Continuous positive airway pressure therapy (CPAP) is known to be the most efficacious treatment for obstructive sleep apnoea (OSA). Unfortunately, poor adherence behaviour in using CPAP reduces its effectiveness and thereby also limits beneficial outcomes. In this paper, we model the dynamics and patterns of patient adherence behaviour as a basis for designing effective and economical interventions. Specifically, we define patient CPAP usage behaviour as a state and develop Markov models for diverse patient cohorts in order to examine the stochastic dynamics of CPAP usage behaviours. We also examine the impact of behavioural intervention scenarios using a Markov decision process (MDP), and suggest a guideline for designing interventions to improve CPAP adherence behaviour. Behavioural intervention policy that addresses economic aspects of treatment is imperative for translation to clinical practice, particularly in resource-constrained environments that are clinically engaged in the chronic care of OSA.
+
+@highlight Treatment adherence behaviours are modelled using Markov models.
+@highlight Poor adherence behaviour is less likely to be improved.
+@highlight High adherence behaviour is highly likely to be maintained.
+@highlight MDP results illustrate different cost-effectiveness across various interventions.

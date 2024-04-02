@@ -1,0 +1,6 @@
+ Watershed based modification of intelligent scissors has been developed. This approach requires a preprocessing phase with anisotropic diffusion to reduce subtle edges. Then, the watershed transform enhances the corridors. Finally, a roaming procedure, developed in this study, delineates the edge selected by a user. Due to a very restrictive set of pixels, subjected to the analysis, this approach significantly reduces the computational complexity. Moreover, the accuracy of the algorithm performance makes often one click point to be sufficient for one edge delineation. The method has been evaluated on structures as different in shape and appearance as the retina layers in OCT exams, chest and abdomen in CT and knee in MR studies. The accuracy is comparable with the traditional Life-Wire approach, whereas the analysis time decreases due to the reduction of the user interaction and number of pixels processed by the method.
+
+@highlight New watershed based intelligent scissors approach has been developed.
+@highlight Numerical complexity has been reduced while preserving segmentation accuracy.
+@highlight Robustness of performance reduces a user interaction to 1 or 2 click points per edge.
+@highlight New approach has been evaluated on various multimodal medical images.

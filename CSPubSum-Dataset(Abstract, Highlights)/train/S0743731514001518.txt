@@ -1,0 +1,7 @@
+ Sequence homology detection is central to a number of bioinformatics applications including genome sequencing and protein family characterization. Given millions of sequences, the goal is to identify all pairs of sequences that are highly similar (or “homologous”) on the basis of alignment criteria. While there are optimal alignment algorithms to compute pairwise homology, their deployment for large-scale is currently not feasible; instead, heuristic methods are used at the expense of quality. Here, we present the design and evaluation of a parallel implementation for conducting optimal homology detection on distributed memory supercomputers. Our approach uses a combination of techniques from asynchronous load balancing (viz. work stealing, dynamic task counters), data replication, and exact-matching filters to achieve homology detection at scale. Results for 2.56 M sequences on up to 8K cores show parallel efficiencies of 75 100 , a time-to-solution of 33 s, and a rate of 2.0 alignments per second.
+
+@highlight Comprehensive solution to scalable optimal homology detection.
+@highlight First implementation of suffix tree construction using distributed work stealing.
+@highlight Evaluation of many dynamic load balancing strategies for optimal homology detection.
+@highlight Parallel efficiency of 75%–100% for 2.56 M sequences on 8 K cores in 33 s.
+@highlight Peak rate of protein sequence alignments per second (PSAPS) of 2 M.

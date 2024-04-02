@@ -1,0 +1,7 @@
+ This paper extends the results of a particular capacitated vehicle routing problem with pickups and deliveries  to the case in which the demands for a material that is delivered to N customers and the demands for a material that is collected from the customers are continuous random variables instead of discrete ones. The customers are served according to a particular order. The optimal policy that serves all customers has a specific threshold-type structure and it is computed by a suitable efficient dynamic programming algorithm that operates over all policies having this structure. The structural result is illustrated by a numerical example.
+
+@highlight We study a specific vehicle routing problem with deliveries and pickups.
+@highlight The customers are served according to a particular sequence.
+@highlight The demands of each customer are continuous random variables.
+@highlight The optimal routing strategy can be found by a dynamic programming algorithm.
+@highlight The optimal strategy has a specific threshold structure.

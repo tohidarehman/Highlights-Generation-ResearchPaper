@@ -1,0 +1,7 @@
+ The EverVIEW Data Viewer is a cross-platform desktop application that combines and builds upon multiple open source libraries to help users to explore spatially-explicit gridded data stored in Network Common Data Form (NetCDF). Datasets are displayed across multiple side-by-side geographic or tabular displays, showing colorized overlays on an Earth globe or grid cell values, respectively. Time-series datasets can be animated to see how water surface elevation changes through time or how habitat suitability for a particular species might change over time under a given scenario. Initially targeted toward Florida's Everglades restoration planning, EverVIEW has been flexible enough to address the varied needs of large-scale planning beyond Florida, and is currently being used in biological planning efforts nationally and internationally.
+
+@highlight Standards-compliant viewer for NetCDF and WMS.
+@highlight Explore and animate time-series data as tabular grids or colorized Earth overlays.
+@highlight Intuitive, spatially driven user interface for comparing datasets.
+@highlight Model-View-Presenter software design pattern offers flexibility and extensibility.
+@highlight Custom tools leverage the platform for large-scale ecological planning.

@@ -1,0 +1,5 @@
+ We introduce a system to reconstruct large scale LEGO models from multiple two dimensional images of objects taken from different views. We employ a unit voxel with an edge length ratio of 5:5:6 for the shape from silhouette method that reconstructs an octree voxel-based three dimensional model with color information from images. We then convert the resulting voxel model with color information into a LEGO sculpture. In order to minimize the number of LEGO bricks, we use a stochastic global optimization method, simulated annealing, to hollow the model as much as possible but keep its strength for portability. Several real complex LEGO models are provided to demonstrate the effectiveness of the proposed method.
+
+@highlight Even beginners are able to build realistic complex LEGO models.
+@highlight Our system allows reconstruction of portable large scale models with color information.
+@highlight Easy adjustment of the trade-off between model strength and the total number of bricks is possible.

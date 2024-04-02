@@ -1,0 +1,7 @@
+ The literature reveals contradiction between theoretical results (superiority of uniform policy under a concave advertising response function) and empirical results (concavity of the advertising response function and the superiority of a pulsation policy). To reconcile the above difference, this paper offers a resolution based on  the concavity of the advertising response function;  the convexity of the firm's cost function; and  over-advertising. The resolution is reached upon maximizing the net profit per unit time over the infinite planning horizon subject to an exogenous advertising budget constraint. Theoretical results for monopolistic markets are found mostly generalized to competitive markets. A numerical example is introduced to gain more insight into the theoretical findings and an approach is introduced and implemented to empirically assess the shape of a firm's cost function and the advertising policy to be employed.
+
+@highlight Contradiction in the literature on how to allocate advertising budgets over time.
+@highlight Article offers a reconciliation mechanism for monopolistic and competitive markets.
+@highlight Concave advertising-firm cost functions interaction is studied.
+@highlight Derivation of rules promoting the superiority of advertising pulsation.
+@highlight Empirical assessment of the shape of the firm's cost function is presented.

@@ -1,0 +1,7 @@
+ Many recent image retrieval methods are based on the “bag-of-words” (BoW) model with some additional spatial consistency checking. This paper proposes a more accurate similarity measurement that takes into account spatial layout of visual words in an offline manner. The similarity measurement is embedded in the standard pipeline of the BoW model, and improves two features of the model: i) latent visual words are added to a query based on spatial co-occurrence, to improve query recall; and ii) weights of reliable visual words are increased to improve the precision. The combination of these methods leads to a more accurate measurement of image similarity. This is similar in concept to the combination of query expansion and spatial verification, but does not require query time processing, which is too expensive to apply to full list of ranked results. Experimental results demonstrate the effectiveness of our proposed method on three public datasets.
+
+@highlight We propose a more accurate similarity measurement for object retrieval.
+@highlight Our method improves two features of the BoW model.
+@highlight Spatial expansion can incorporate more latent visual words into a query.
+@highlight Visual word re-weighting can increase weights of reliable visual words.
+@highlight The combination of them can improve both precision and recall.

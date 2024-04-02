@@ -1,0 +1,5 @@
+ This paper proposes a novel query expansion method to improve accuracy of text retrieval systems. Our method makes use of a minimal relevance feedback to expand the initial query with a structured representation composed of weighted pairs of words. Such a structure is obtained from the relevance feedback through a method for pairs of words selection based on the Probabilistic Topic Model. We compared our method with other baseline query expansion schemes and methods. Evaluations performed on TREC-8 demonstrated the effectiveness of the proposed method with respect to the baseline.
+
+@highlight A graph of terms can be effectively used for query expansion.
+@highlight Such a graph is extracted from documents thanks to a LDA based methodology.
+@highlight Proposed method achieves good performances on standard datasets.

@@ -1,0 +1,7 @@
+ Soft set theory is a new mathematical tool to deal with uncertain information. This paper studies soft coverings and their parameter reductions. Firstly, we define a soft set on the power set of an initial universe and discuss its properties. Secondly, we introduce soft coverings and obtain the lattice structure of soft sets induced by them. Thirdly, we investigate parameter reductions of a soft covering by means of attribute reductions in a covering information system and present their algorithm. Finally, we give an application to show the usefulness of parameter reductions of a soft covering.
+
+@highlight We introduce soft coverings.
+@highlight We obtain the lattice structure of soft sets induced by soft coverings.
+@highlight We investigate the parameter reduction of soft coverings by means of knowledge on the attribute reduction for covering information systems.
+@highlight We present an algorithm to compute all the parameter reductions of soft coverings.
+@highlight We give an application on the evaluation problems to show the usefulness of the parameter reduction of soft coverings.

@@ -1,0 +1,6 @@
+ In this paper the interpolation of two data points and two tangent directions with spatial cubic rational PH curves is considered. It is shown that interpolants exist for any true spatial data configuration. The equations that determine the interpolants are derived by combining a closed form representation of a ten parametric family of rational PH cubics given in Kozak et al. , and the Gram matrix approach. The existence of a solution is proven by using a homotopy analysis, and numerical method to compute solutions is proposed. In contrast to polynomial PH cubics for which the range of data admitting the existence of interpolants is limited, a switch to rationals provides an interpolation scheme with no restrictions.
+
+@highlight interpolation scheme with spatial rational PH cubics is presented.
+@highlight The existence of the interpolant is proven for any true spatial data configurations.
+@highlight Homotopy analysis and a Gram matrix approach are used.
+@highlight Numerical method to compute the solutions is proposed.

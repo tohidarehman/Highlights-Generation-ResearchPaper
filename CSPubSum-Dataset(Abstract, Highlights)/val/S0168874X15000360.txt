@@ -1,0 +1,7 @@
+ This paper presents a new simple four-node quadrilateral shell element with 24-dof which can be used to analyze thick and thin shell problems. This element which is developed from DKMQ plate element using the Naghdi/Mindlin/Reissner shell theory can take into account warping effects and coupling bending-membrane energy. This element, called DKMQ24, passed patch tests for membrane, bending and shear problems. It has also successfully passed benchmark tests in the case of thick and thin shells without shear locking. Moreover, the numerical results obtained with DKMQ24 converge toward the reference solution.
+
+@highlight We develop the new quadrilateral shell element constituted of 4 nodes and 6 degrees of freedom per node.
+@highlight We extended DKMQ plate element to DKMQ24 element for analyzing thick and thin shell problems.
+@highlight DKMQ24 takes into account the coupling between membrane and bending deformations.
+@highlight We will present the convergence test results of this element compared with Q4γ24 element.
+@highlight DKMQ24 element gives better results than Q4γ24 element due to the quadratic interpolation functions for the rotation used in DKMQ24, while Q4γ24 element used linear interpolation functions.

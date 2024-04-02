@@ -1,0 +1,5 @@
+ PROMETHEE methods are widely used in Multiple Criteria Decision Aiding (MCDA) to deal with real world decision making problems. In this paper, we propose to apply the Stochastic Multicriteria Acceptability Analysis (SMAA) to the family of PROMETHEE methods in order to explore the whole set of parameters compatible with some preference information provided by the Decision Maker (DM). The application of the presented methodology is described in a didactic example.
+
+@highlight We apply the Stochastic Multiobjective Acceptability Analysis (SMAA) to the PROMETHEE methods.
+@highlight SMAA gives frequency of preferences in the space of parameters compatible with preference information.
+@highlight The new SMAA-PROMETHEE method can be applied to several real world decision making problems.

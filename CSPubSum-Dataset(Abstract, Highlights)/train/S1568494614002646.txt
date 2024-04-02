@@ -1,0 +1,7 @@
+ A technique for forming information granules is shown in this paper. Based on the theory of uncertainty-based information, an approach toward a general base is given which forms information granules. Two implementations are proposed which form Interval Type-2 Fuzzy information granules, both with Takagi–Sugeno–Kang consequents optimized with Cuckoo search algorithm. These approaches capture multiple evaluations of uncertainty from taken samples and use these models to measure the uncertainty from the difference between them. The proposed approaches are tested with classification and curve identification datasets.
+
+@highlight A technique for forming information granules is presented in this paper.
+@highlight Based on the theory of uncertainty-based information, an approach which forms information granules is presented.
+@highlight Two implementations are proposed which form Interval Type-2 Fuzzy information granules.
+@highlight These approaches capture multiple evaluations of uncertainty from different samples and use these models to measure the uncertainty from the difference among them.
+@highlight The proposed approaches are tested with classification and curve identification benchmark datasets with very good results.

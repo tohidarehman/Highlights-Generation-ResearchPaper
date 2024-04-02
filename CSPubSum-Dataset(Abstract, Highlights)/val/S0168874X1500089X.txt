@@ -1,0 +1,7 @@
+ Triaxial compression of elastoplastic particles was studied with numerical and analytical methods in order to develop a mechanistic model for their interactions at high relative densities. The introduction of an equivalent particle radius that accounted for the elastic volumetric deformation enabled an almost perfect reduction of the results obtained for elastoplastic particles to those obtained for rigid, perfectly plastic ones. This, in turn, made possible a simplified yet mechanistic analytical analysis of the particle response in terms of the contact area, pressure and force. The developed model exhibited a good agreement with the numerical results, especially for intermediate and large strains, and hence laid the foundations for the development of mechanistic contact models suitable for simulations of granular materials at high relative densities with the Discrete Element Method (DEM).
+
+@highlight Hydrostatic compression of elastoplastic particles was studied.
+@highlight A combination of numerical and analytical methods was used.
+@highlight The elastoplastic response could be reduced to a rigid, perfectly plastic one.
+@highlight A mechanistic model was derived that adequately captured the numerical results.
+@highlight The model can be generalised to other loading conditions.

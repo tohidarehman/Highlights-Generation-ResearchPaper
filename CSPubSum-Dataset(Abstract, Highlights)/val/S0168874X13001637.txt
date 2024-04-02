@@ -1,0 +1,9 @@
+ This paper presents a novel Timoshenko beam element based on the framework of strain gradient elasticity theory for the analysis of the static bending, free vibration and buckling behaviors of Timoshenko microbeams. The element proposed is a two-node element which has 6-DOF (degrees of freedom) at each node considering both bending and stretching deformations, and 4-DOF considering only bending deformation. Unlike the classical Timoshenko beam element, the current element satisfies the C 0 continuity and C 1 weak continuity and contains three material length scale parameters to capture the size effect. Finite element formulations are derived by utilizing the corresponding weak form equations. Convergence, shear locking and comparison studies are carried out to examine the reliability and accuracy of the numerical solutions. The shear locking study shows that the present beam element is free of shear locking. Besides, it is established that there is a good agreement between the present results with the results in existing literature. To further illustrate the applicability and accuracy of the new Timoshenko beam element, the static bending, free vibration and buckling problems of microbeams with various boundary conditions are covered by the analysis. The results show that such small size effects are significant when the beam thickness is small, but become negligible with increasing beam thickness. Some results are believed to be the first known in the open literature and can be used as a benchmark for further studies.
+
+@highlight A new Timoshenko beam element is proposed.
+@highlight The current element satisfies the C
+@highlight 0 and C
+@highlight 1 weak continuities.
+@highlight Three material length scale parameters are contained in a stiffness matrix.
+@highlight This element is free of shear locking.
+@highlight Excellent agreement is achieved between the present results and literature.

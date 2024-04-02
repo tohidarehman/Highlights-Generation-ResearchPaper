@@ -1,0 +1,7 @@
+ We define the Average Curve (AC) of a compatible set of two or more smooth and planar, Jordan curves. It is independent of their order and representation. We compare two variants: the valley AC (vAC), defined in terms of the valley of the field that sums the squared distances to the input curves, and the zero AC (zAC), defined as the zero set of the field that sums the signed distances to the input curves. Our formulation provides an orthogonal projection homeomorphism from the AC to each input curve. We use it to define compatibility. We propose a fast tracing algorithm for computing a polygonal approximation (PAC) of the AC and for testing compatibility. We provide a linear-cost implementation for tracing the PAC of polygonal approximations of smooth input curves. We also define the inflation of the AC and use it to visualize the local variability in the set of input curves. We argue that the AC and its inflation form a natural extension of the Medial Axis Transform to an arbitrary number of curves. We propose extensions to open curves and to weighted averages of curves, which can be used to design animations.
+
+@highlight We define the Average Curve (AC) of any compatible set of
+@highlight smooth Jordan curves.
+@highlight We define the inflation of the AC that conveys local variability.
+@highlight We present a linear-cost algorithm for computing a polygonal approximation of the AC.
+@highlight The AC and the inflation form a natural extension of the Medial Axis Transform.

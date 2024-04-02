@@ -1,0 +1,6 @@
+ In this paper, we propose a graph-based clustering algorithm called “probability propagation,” which is able to identify clusters having spherical shapes as well as clusters having non-spherical shapes. Given a set of objects, the proposed algorithm uses local densities calculated from a kernel function and a bandwidth to initialize the probability of one object choosing another object as its attractor and then propagates the probabilities until the set of attractors become stable. Experiments on both synthetic data and real data show that the proposed method performs very well as expected.
+
+@highlight We study the problem of data clustering.
+@highlight We propose a clustering algorithm by propagating probabilities between data points.
+@highlight We use local densities of the data points to initialize the probabilities.
+@highlight Experiments on synthetic and real data show that the proposed clustering algorithm performs well.

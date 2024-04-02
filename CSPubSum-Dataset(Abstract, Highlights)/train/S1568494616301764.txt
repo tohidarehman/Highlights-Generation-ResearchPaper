@@ -1,0 +1,5 @@
+ In this paper, the problem of relaxed observer design of discrete-time nonlinear systems is studied by developing a novel ranking-based switching mechanism. To do this, the useful ranking information of the normalized fuzzy weighting functions is utilized in order to give a denser subdivision of the normalized fuzzy weighting function space and therefore essentially yields the proposed ranking-based switching mechanism. Based on the obtained switching mechanism, a family of switching observers can be developed for the purpose of guaranteeing the estimation error system to be asymptotically stable with less conservatism than the existing results available in the references. Finally, two numerical examples are presented to illustrate the advantages of the proposed method.
+
+@highlight A novel ranking-based switching mechanism is proposed.
+@highlight The useful ranking information is utilized in order to give a denser subdivision of the normalized space.
+@highlight The obtained observer design conditions are less conservative.

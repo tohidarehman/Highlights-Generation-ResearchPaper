@@ -1,0 +1,7 @@
+ Consider a general coherent system with independent or dependent components, and assume that the components are randomly chosen from two different stocks, with the components of the first stock having better reliability than the others. Then here we provide sufficient conditions on the component’s lifetimes and on the random numbers of components chosen from the two stocks in order to improve the reliability of the whole system according to different stochastic orders. We also discuss several examples in which such conditions are satisfied and an application to the study of the optimal random allocation of components in series and parallel systems. As a novelty, our study includes the case of coherent systems with dependent components by using basic mathematical tools (and copula theory).
+
+@highlight New procedures to compare systems with two kinds of units.
+@highlight The systems have a random number of good units.
+@highlight The units are placed randomly using Bernoulli trials.
+@highlight The components can be dependent and the results are distribution-free.
+@highlight Specific results for Archimedean copulas.

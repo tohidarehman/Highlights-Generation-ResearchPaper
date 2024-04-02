@@ -1,0 +1,7 @@
+ The induction of decision tree searches for relevant characteristics in the data which would allow it to precisely model a certain concept, but it also worries about the comprehensibility of the generated model, helping human specialists to discover new knowledge, something very important in the medical and biological areas. On the other hand, such inducers present some instability. The main problem handled here refers to the behavior of those inducers when it comes to high-dimensional data, more specifically to gene expression data: irrelevant attributes may harm the learning process and many models with similar performance may be generated. In order to treat those problems, we have explored and revised windowing: pruning of the trees generated during intermediary steps of the algorithm; the use of the estimated error instead of the training error; the use of the error weighted according to the size of the current window; and the use of the classification confidence as the window update criterion. The results show that the proposed algorithm outperform the classical one, especially considering measures of complexity and comprehensibility of the induced models.
+
+@highlight We propose several improvements for the windowing algorithm.
+@highlight We evaluated model performance, interpretability, and stability.
+@highlight Our methodology focuses on the interpretability of the model.
+@highlight Our approach shows differences in terms of interpretability, without harming performance.
+@highlight Our approach may yield better classification models.

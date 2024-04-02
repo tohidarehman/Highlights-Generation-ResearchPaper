@@ -1,0 +1,7 @@
+ Electrowetting display (EWD) is a reflective display technology in which fluidic pixels can response and switch quickly by electronic control, showing the capability for video-speed reflective display applications. In this paper, a new driver system is proposed and realized for video playing function of active matrix electrowetting display (AM-EWD). The hardware system is designed based on Field-Programmable-Gate-Array (FPGA) and the existing electrophoretic display (EPD) driving integrated chips (IC). A driving logic circuit and FPGA software is introduced for providing the EWD system with driving and timing control. And a set of specific driving waveforms, which is loaded to a lookup table of the FPGA in advance, is designed to display grayscale on EWDs. 4-level gray scale videos have been successfully performed by applying the driving waveforms. To our knowledge, such work has not been reported before.
+
+@highlight A driver is designed for video playing in active matrix electrowetting displays.
+@highlight The hardware system is designed based on commercial driver integrated chips.
+@highlight A timing controller is designed in a FPGA according to the system characteristics.
+@highlight We design new driving waveforms for playing videos in electrowetting displays.
+@highlight The driving system could work very well for playing 4 gray scale video.

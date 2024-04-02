@@ -1,0 +1,7 @@
+ A hybrid framework integrating conjoint analysis (CA) with quality function deployment (QFD) is presented to incorporate customer preferences into the process of product development. In particular, the proposed framework constitutes two sequential phases, namely, concept generation based on CA and prototype evaluation based on QFD. In addition, product features are characterized by customer requirements (CRs) and functional attributes (FAs). By means of DEMATEL (Decision Making and Trial Laboratory), the impacts of FAs on CRs are systematically identified to visualize their causalities. Instead of utilizing FAs, the TOPSIS (Technique for Order Preference by Similarity to Ideal Solution) is employed to assess potential prototypes in terms of CRs.
+
+@highlight A novel framework is proposed to construct an intelligent system for concept generation and prototype evaluation.
+@highlight Conjoint analysis is employed to extract customer utilities for generating design concepts in a customer-driven approach.
+@highlight The causal impacts of functional attributes on customer requirements are systematically identified.
+@highlight Quality function deployment is used for assessing potential prototypes in a market-oriented manner.
+@highlight It offers a product launch pad for disclosing new ideas of next-generation ultrabooks.

@@ -1,0 +1,5 @@
+ In this paper the combined fleet-design, ship-scheduling and cargo-routing problem with limited availability of ships in liner shipping is considered. A composite solution approach is proposed in which the ports are first aggregated into port clusters to reduce the problem size. When the cargo flows are disaggregated, a feeder service network is introduced to ship the cargo within a port cluster. The solution method is tested on a problem instance containing 58 ports on the Asia–Europe trade lane of Maersk. The best obtained profit gives an improvement of more than 10% compared to the reference network based on the Maersk network.
+
+@highlight Liner shipping networks should be designed in an integrated way.
+@highlight Integrated network design entails fleet design, ship scheduling and cargo routing.
+@highlight Integrated shipping network design can yield substantial cost savings.

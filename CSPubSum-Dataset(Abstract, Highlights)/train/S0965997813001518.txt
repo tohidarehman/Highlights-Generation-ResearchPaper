@@ -1,0 +1,7 @@
+ Simulating fast transient phenomena involving fluids and structures in interaction for safety purposes requires both accurate and robust algorithms, and parallel computing to reduce the calculation time for industrial models. Managing kinematic constraints linking fluid and structural entities is thus a key issue and this contribution promotes a dual approach over the classical penalty approach, introducing arbitrary coefficients in the solution. This choice however severely increases the complexity of the problem, mainly due to non-permanent kinematic constraints. An innovative parallel strategy is therefore described, whose performances are demonstrated on significant examples exhibiting the full complexity of the target industrial simulations. local density for structures and fluid structural displacement structural Cauchy stress tensor structural Almansi–Euler strain tensor fluid velocity fluid pressure fluid total energy structural body forces fluid body forces
+
+@highlight We provide a robust and accurate parallel solver for coupled fast transient dynamics.
+@highlight Kinematic constraints are handled through a dual method with no arbitrary parameters.
+@highlight This choice is original in the community of fast transient dynamics.
+@highlight The complex linear system at each step is solved using a new distributed solver.
+@highlight The performances of the strategy are demonstrated on complex industrial examples.

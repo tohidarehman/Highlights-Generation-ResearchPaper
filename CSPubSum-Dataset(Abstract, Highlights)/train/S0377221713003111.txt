@@ -1,0 +1,6 @@
+ One of the most important issues for aggregating preferences rankings is the determination of the weights associated with the different ranking places. To avoid the subjectivity in determining the weights,  suggested evaluating each candidate with the most favorable scoring vector for him/her. With this purpose, various models based on Data Envelopment Analysis have appeared in the literature. Although these methods do not require predetermine the weights subjectively, some of them have a serious drawback: the relative order between two candidates may be altered when the number of first, second, …, kth ranks obtained by other candidates changes, although there is not any variation in the number of first, second, …, kth ranks obtained by both candidates. In this paper we propose a model that allows each candidate to be evaluated with the most favorable weighting vector for him/her and avoids the previous drawback. Moreover, in some cases, we give a closed expression for the score assigned with our model to each candidate.
+
+@highlight A new model based on scoring rules is proposed for ranking candidates.
+@highlight It allows to assess each candidate with the most favorable vector for him/her.
+@highlight It avoids some problems that other models have.
+@highlight Closed expressions for the scores of candidates are given in some cases.

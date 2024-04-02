@@ -1,0 +1,7 @@
+ This paper reviews classification theory sources to develop five research questions concerning factors associated with incident coding system development and use and how these factors affect coding reliability. Firstly, a method was developed to enable the comparison of reliability results obtained using different methods. Second, a statistical and qualitative review of reliability studies was conducted to investigate the influence of the identified factors on the reliability of incident coding systems. As a result several factors were found to have a statistically significant effect on reliability. Four recommendations for system development and use are provided to assist researchers in improving the reliability of incident coding systems in high hazard industries.
+
+@highlight Factors affecting incident coding system reliability are tested and analysed.
+@highlight Domain-specific coding systems are more reliable than generic, multi-domain systems.
+@highlight Systems with abstract and/or loaded terms affected coding reliability negatively.
+@highlight Coder profession, rather than training provided, influenced coding reliability.
+@highlight System improvement and design recommendations are provided based on these results.

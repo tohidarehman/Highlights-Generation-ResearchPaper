@@ -1,0 +1,6 @@
+ The paper presents an application of two domain repartitioning methods to solving hopper discharge problem simulated by the discrete element method. Quantitative comparison of parallel speed-up obtained by using the multilevel k-way graph partitioning method and the recursive coordinate bisection method is presented. The detailed investigation of load balance, interprocessor communication and repartitioning is performed. Speed-up of the parallel computations based on the dynamic domain decomposition is investigated by a series of benchmark tests simulating the granular visco-elastic frictional media in hoppers containing 0.3×106 and 5.1×106 spherical particles. A soft-particle approach is adopted, when the simulation is performed by small time increments and the contact forces between the particles are calculated using the contact law. The parallel efficiency of 0.87 was achieved on 2048 cores, modelling the hopper filled with 5.1×106 particles.
+
+@highlight Two methods are employed for dynamic domain decomposition of hopper discharge.
+@highlight Implementation of the k-way graph partitioning method in DEM codes is more complex.
+@highlight A higher speed-up is measured, applying the recursive coordinate bisection method.
+@highlight Parallel efficiency of 0.87 is attained simulating 5.1×106 particles on 2048 cores.

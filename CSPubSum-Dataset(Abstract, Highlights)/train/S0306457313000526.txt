@@ -1,0 +1,7 @@
+ In this work, we elaborate on the meaning of metadata quality by surveying efforts and experiences matured in the digital library domain. In particular, an overview of the frameworks developed to characterize such a multi-faceted concept is presented. Moreover, the most common quality-related problems affecting metadata both during the creation and the aggregation phase are discussed together with the approaches, technologies and tools developed to mitigate them. This survey on digital library developments is expected to contribute to the ongoing discussion on data and metadata quality occurring in the emerging yet more general framework of data infrastructures.
+
+@highlight A characterization of metadata quality.
+@highlight A discussion on the role of metadata quality in data infrastructures.
+@highlight A survey of metadata quality frameworks to assess metadata quality.
+@highlight An array of solutions to mitigate the effects of metadata quality issues.
+@highlight Directions for future works related to metadata quality in data infrastructures.

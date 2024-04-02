@@ -1,0 +1,5 @@
+ We develop methods to estimate and exactly calculate the expected cost of a priori policies for the multi-compartment vehicle routing problem with stochastic demands, an extension of the classical vehicle routing problem where customer demands are uncertain and products must be transported in separate partitions. We incorporate our estimation procedure into a cyclic-order-based simulated annealing algorithm, significantly improving the best-known solution values for a set of benchmark problems. We also extend the updating procedure for a cyclic order’s candidate route set to duration-constrained a priori policies.
+
+@highlight Estimate and exactly calculate the expected cost of an a priori MCVRPSD policy.
+@highlight Cyclic-order-based simulated annealing procedure for the MCVRPSD.
+@highlight Significantly improve best-known solution values for benchmark problem instances.

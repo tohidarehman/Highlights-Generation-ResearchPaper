@@ -1,0 +1,7 @@
+ The purposes of this study were to develop a latent human error analysis process, to explore the factors of latent human error in aviation maintenance tasks, and to provide an efficient improvement strategy for addressing those errors. First, we used HFACS and RCA to define the error factors related to aviation maintenance tasks. Fuzzy TOPSIS with four criteria was applied to evaluate the error factors. Results show that 1) adverse physiological states, 2) physical/mental limitations, and 3) coordination, communication, and planning are the factors related to airline maintenance tasks that could be addressed easily and efficiently. This research establishes a new analytic process for investigating latent human error and provides a strategy for analyzing human error using fuzzy TOPSIS. Our analysis process complements shortages in existing methodologies by incorporating improvement efficiency, and it enhances the depth and broadness of human error analysis methodology.
+
+@highlight The systematic method of HEI analysis and MCDM was provided in this research.
+@highlight HFACS and RCA were applied to analyze latent human errors.
+@highlight Fuzzy TOPSIS was utilized to assess the improvement strategy of latent human errors.
+@highlight Sensitivity analysis was used to inspect the robustness of the results of Fuzzy TOPSIS.
+@highlight This is the first study to assess human errors by HFACS and Fuzzy TOPSIS.

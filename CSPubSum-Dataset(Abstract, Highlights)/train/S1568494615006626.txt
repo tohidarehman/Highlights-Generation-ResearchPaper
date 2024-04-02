@@ -1,0 +1,6 @@
+ Parameter estimation is a cornerstone of most fundamental problems of statistical research and practice. In particular, finite mixture models have long been heavily relied on deterministic approaches such as expectation maximization (EM). Despite their successful utilization in wide spectrum of areas, they have inclined to converge to local solutions. An alternative approach is the adoption of Bayesian inference that naturally addresses data uncertainty while ensuring good generalization. To this end, in this paper we propose a fully Bayesian approach for Langevin mixture model estimation and selection via MCMC algorithm based on Gibbs sampler, Metropolis–Hastings and Bayes factors. We demonstrate the effectiveness and the merits of the proposed learning framework through synthetic data and challenging applications involving topic detection and tracking and image categorization.
+
+@highlight An algorithm for Bayesian learning of finite Langevin mixtures is proposed.
+@highlight The proposed approach is based on Markov Chain Monte Carlo (MCMC) techniques.
+@highlight An approach for model selection using Bayes factors is adopted.
+@highlight The model is applied to the challenging problems of visual scenes categorization and topic detection and tracking.

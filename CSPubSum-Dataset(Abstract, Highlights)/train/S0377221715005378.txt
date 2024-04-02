@@ -1,0 +1,6 @@
+ An extended version of the flexible job shop problem is tackled in this work. The considered extension to the classical flexible job shop problem allows the precedences between the operations to be given by an arbitrary directed acyclic graph instead of a linear order. Therefore, the problem consists of allocating the operations to the machines and sequencing them in compliance with the given precedences. The goal in the present work is the minimization of the makespan. A list scheduling algorithm is introduced and its natural extension to a beam search method is proposed. Numerical experiments assess the efficiency of the proposed approaches.
+
+@highlight Heuristic methods for the flexible job shop with sequencing flexibility are introduced.
+@highlight The problem has important practical applications in, e.g. the printing industry.
+@highlight Introduced methods are fully described and their implementations publicly available.
+@highlight Complete description of the results makes possible its usage for benchmarking.

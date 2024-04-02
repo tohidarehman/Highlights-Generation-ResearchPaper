@@ -1,0 +1,7 @@
+ In this paper we propose a novel method for color image segmentation. This method uses only hue and intensity components (which are chosen rationally) of image and combines those by adaptive tuned weights in a specially defined fuzzy c-means cost function. The tuned weights indicate how informative every color component (hue and intensity) is. Obtaining tuned weights begins with finding peaks of hue and intensity's histograms and continues by obtaining the table of the frequencies of hue and intensity values and computing entropy and contrast of every color component. Also this method specifies proper initial values for cluster centers with the aim of reducing the overall number of iterations and avoiding converging of FCM to wrong centroids. Experimental results demonstrate that our algorithm achieves better segmentation performance and also runs faster than similar methods.
+
+@highlight Two more important image color components used to avoid redundant computation.
+@highlight The impact of each color component is controlled by tuned weights.
+@highlight Pixel statistics used in initialization to produce proper initial cluster centers.
+@highlight Tuned weights and proper initialization provide better FCM convergence.
+@highlight Our method leads to improved and more rapid performance compared with others.

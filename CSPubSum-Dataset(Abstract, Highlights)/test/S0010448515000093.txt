@@ -1,0 +1,6 @@
+ This paper studies the recovery of the height field function of an object from its surface normal vectors in terms of uniform bi-quadratic B-spline surfaces. The study is motivated by two modern technological needs namely, the recovery of the height field function of an object from its surface normal vectors obtained by photometric stereo techniques, and the introduction of new design methodology of streamlined aesthetic surfaces through the direct editing of normal vectors. Our mathematical formulation for explicit surface reconstruction is based on differential geometry and geometric modeling techniques. Complex examples are provided to demonstrate the effectiveness of the proposed method.
+
+@highlight The mathematical formulation of our method is simple.
+@highlight The computation is not only accurate but also fast.
+@highlight Less memory is required to store the data.
+@highlight Aesthetic surfaces are generated via direct editing of normal vectors.

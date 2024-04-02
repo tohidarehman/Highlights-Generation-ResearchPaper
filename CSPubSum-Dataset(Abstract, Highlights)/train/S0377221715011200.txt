@@ -1,0 +1,6 @@
+ We study infinite-horizon, optimal switching problems for underlying processes that exhibiting “fast” mean-reverting stochastic volatility. We obtain closed-form analytic approximations of the solution for the resulting quasi-variational inequalities, that provide quantitative and qualitative results for the effects of multi-scale variability of the underlying process on the optimal switching rule. The proposed methodology is applicable to a number of operations research problems involving switching flexibility.
+
+@highlight Study optimal switching problems under “fast” mean-reverting stochastic volatility.
+@highlight Derive closed-form approximations of the full problem via homogenization theory.
+@highlight Apply our general solution to well-known switching problems and volatility models.
+@highlight Proposed method is of interest to applied problems involving switching flexibility.

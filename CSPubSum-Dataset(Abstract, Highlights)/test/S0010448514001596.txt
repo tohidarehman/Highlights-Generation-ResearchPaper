@@ -1,0 +1,5 @@
+ Space Archimedean spiral is defined firstly in this paper. Thereafter, a new spiral tool path generation based on space Archimedean spiral is proposed for diamond turning optical freeform surfaces of quasi-revolution, which is defined as a surface close to some surface of revolution. By projecting the space Archimedean spiral onto the freeform surface along the normal direction of the base surface instead of a fixed direction like traditional method, a quasi-uniform spiral tool path on the freeform surface can be obtained. This method can be used on diamond turning optical freeform surfaces. Finally, two examples are presented to prove its effectiveness and adaptability.
+
+@highlight Space Archimedean spiral is defined.
+@highlight A new spiral tool path generation based on space Archimedean spiral is proposed to machining freeform surfaces with big slope.
+@highlight The proposed method can be used for 3-axis and 4-axis ultraprecision diamond turning optical freeform surfaces of quasi-revolution.

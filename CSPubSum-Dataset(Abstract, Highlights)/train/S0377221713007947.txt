@@ -1,0 +1,6 @@
+ In this paper, we use a biform-game approach for analyzing the impact of surplus division in supply chains on investment incentives. In the first stage of the game, firms decide non-cooperatively on investments. In the second stage, the surplus is shared according to the Shapley value. We find that all firms have inefficiently low investment incentives which, however, depend on their position in the supply chain. Cross-subsidies for investment costs can mitigate, but not eliminate the underinvestment problem. Vertical integration between at least some firms.yields efficient investments, but may nevertheless reduce the aggregated payoff of the firms. We show how the size of our effects depends on the structure of the supply chain and the efficiency of the investment technology. Various extensions demonstrate that our results are qualitatively robust.
+
+@highlight We model a four stage supply chain with respect to profit allocation by analyzing a biform-game.
+@highlight The resulting underinvestment problem is addressed and approaches to deal with it are investigated.
+@highlight By subsidies the underinvestment problem can be mitigated but not solved entirely.
+@highlight Vertical integration as alternative approach for solving the underinvestment problem is investigated.

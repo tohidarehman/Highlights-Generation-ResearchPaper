@@ -1,0 +1,6 @@
+ Road freight transportation is a major contributor to carbon dioxide equivalent emissions. Reducing these emissions in transportation route planning requires an understanding of vehicle emission models and their inclusion into the existing optimization methods. This paper provides a review of recent research on green road freight transportation.
+
+@highlight An extensive analysis of factors affecting fuel consumption is provided.
+@highlight Freight transportation vehicle emission models are reviewed.
+@highlight Routing problems with fuel consumption components are investigated.
+@highlight A systematic review of 58 publications on green logistics is carried out.

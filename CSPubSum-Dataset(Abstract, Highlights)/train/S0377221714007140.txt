@@ -1,0 +1,11 @@
+ In this paper, we address the impact of uncertainty introduced when the experts complete pairwise comparison matrices, in the context of multi-criteria decision making. We first discuss how uncertainty can be quantified and modeled and then show how the probability of rank reversal scales with the number of experts. We consider the impact of various aspects which may affect the estimation of probability of rank reversal in the context of pairwise comparisons, such as the uncertainty level, alternative preference scales and different weight estimation methods. We also consider the case where the comparisons are carried out in a fuzzy manner. It is shown that in most circumstances, augmenting the size of the expert group beyond 15 produces a small change in the probability of rank reversal. We next address the issue of how this probability can be estimated in practice, from information gathered simply from the comparison matrices of a single expert group. We propose and validate a scheme which yields an estimate for the probability of rank reversal and test the applicability of this scheme under various conditions. The framework discussed in the paper can allow decision makers to correctly choose the number of experts participating in a pairwise comparison and obtain an estimate of the credibility of the outcome.
+
+@highlight We address the impact of uncertainty when the experts complete the pairwise comparison matrices.
+@highlight We show how the probability of rank reversal (P
+@highlight RR) is reduced by augmenting the number of experts.
+@highlight It is shown that there is not much to be gained by increasing the number of experts beyond 15.
+@highlight The issue of how P
+@highlight RR can be estimated in practice by a single expert group is also addressed.
+@highlight We propose and validate a numerical procedure which yields a reasonable estimate for the P
+@highlight RR.
+@highlight We consider the impact of various aspects which may affect the estimation of probability of rank reversal in the context of pairwise comparisons, such as uncertainty level, alternative preference scales and different weight estimation methods. We also consider the case where the comparisons are carried out in a fuzzy manner. It is revealed that the results hold regardless the aforementioned aspects considered.

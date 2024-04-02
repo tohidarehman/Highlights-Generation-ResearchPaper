@@ -1,0 +1,5 @@
+ Research on the planning and control of combined make-to-order/make-to-stock or hybrid production systems often takes a typical MTO or MTS perspective. We examine the benefits of a hybrid planning approach without priority for either MTO or MTS. We develop a Markov Decision Process model for a two-product hybrid system to determine when to manufacture MTS and MTO products. Contrary to earlier studies with this approach, this study includes a positive lead time for MTO products. We characterize optimal policies and show how decisions should be based on both inventory level and backlog state of MTO products. Especially discriminating between states with and states without backlog of MTO orders is shown to be important in determining whether to increase MTS stock. Savings of up to 65 percent are achieved compared to policies that prioritize MTS or MTO.
+
+@highlight In hybrid production, the MTS order-up-to-level should depend on the MTO state.
+@highlight More MTS inventory should be produced when there are no MTO orders.
+@highlight A dedicated planning approach for hybrid production leads to savings of up to 65 percent.

@@ -1,0 +1,7 @@
+ This study proposes a differential-evolution-based symbiotic cultural algorithm (DESCA) for the implementation of neuro-fuzzy systems (NFS) to solve nonlinear control system problems. DESCA adopts symbiotic evolution to decompose a fuzzy system into multiple fuzzy rules as multiple subpopulations. In addition, DESCA randomly selects fuzzy rules from different subpopulations that combine into a complete solution whose performance is be evaluated. Moreover, DESCA uses various mutation strategies of differential evolution as five knowledge sources in the belief space. These knowledge sources influence the population space in the cultural algorithm and can be used as models to guide the feasible search space. Finally, the proposed algorithm is applied to various simulations. The results demonstrate the effectiveness of this approach.
+
+@highlight These should been changed into A differential-evolution-based symbiotic cultural algorithm to neuro-fuzzy systems.
+@highlight Using symbiotic evolution to decompose a fuzzy system into multiple subpopulations.
+@highlight Randomly selects fuzzy rules from subpopulations that combine to be evaluated.
+@highlight Using various mutation strategies of DE as five knowledge sources in belief space.
+@highlight The knowledge sources influence the population space to guide the feasible search space.

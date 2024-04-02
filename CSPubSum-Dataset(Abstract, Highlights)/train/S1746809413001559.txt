@@ -1,0 +1,7 @@
+ Analysis of respiratory sounds can help the recognition of various respiratory diseases. Due to acoustic noise in hospital environments, the recorded sounds are polluted. The noise can destroy the analysis and should therefore be removed. Because of the chaotic nature of respiratory sounds, traditional noise reduction methods may not be efficient. Thus taking advantage of algorithms especially devised for noise reduction from chaotic signals can lead to better results. In this paper, a new method based on an original local projection algorithm is presented to reduce the noise in respiratory sounds.
+
+@highlight Due to acoustic noise in hospital environments, the respiratory sounds are polluted.
+@highlight Respiratory sounds are chaotic signals.
+@highlight A new noise reduction method is proposed for noise reduction in respiratory sounds.
+@highlight This method uses the geometrical properties of chaotic signals.
+@highlight This method can be considered as a kind of adaptive local projection method.

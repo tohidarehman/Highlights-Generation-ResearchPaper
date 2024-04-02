@@ -1,0 +1,6 @@
+ The efficient search and retrieval of the increasing volume of stereo videos drives the need for the semantic description of its content. The analysis and description of the disparity (depth) data available on such videos, offers extra information, either for developing better video content search algorithms, or for improving the 3D viewing experience. Taking the above into account, the purpose of this paper is twofold. First, to provide a mathematical analysis of the relation of object motion between world and display space and on how disparity changes affect the 3D viewing experience. Second, to propose algorithms for semantically characterizing the motion of an object or object ensembles along any of the X, Y, Z axis. Experimental results of the proposed algorithms for semantic motion description in stereo video content are given.
+
+@highlight We study object motion in stereo video content by providing a novel mathematical analysis.
+@highlight The relationship between the viewers angular eye velocity and object motion is studied.
+@highlight We elaborate on how disparity modifications affect the perceived position of the object in the theater space.
+@highlight Novel algorithms for the semantic description/characterization of object motion in stereo video content are provided.

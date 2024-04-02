@@ -1,0 +1,7 @@
+ This paper investigates the anchor points in nonconvex Data Envelopment Analysis (DEA), called Free Disposal Hull (FDH), technologies. We develop the concept of anchor points under various returns to scale assumptions in FDH models. A necessary and sufficient condition for characterizing the anchor points is provided. Since the set of anchor points is a subset of the set of extreme units, a definition of extreme units in non-convex technologies as well as a new method for obtaining these units are given. Finally, a polynomial-time algorithm for identification of the anchor points in FDH models is provided. Obtaining both extreme units and anchor points is done via calculating only some ratios, without solving any mathematical programming problem.
+
+@highlight Developing the concept of anchor points in FDH models.
+@highlight Characterizing the anchor points in FDH models.
+@highlight Defining extreme units in non-convex technologies.
+@highlight Giving a polynomial-time algorithm for obtaining the extreme units in FDH models.
+@highlight Giving a polynomial-time algorithm for obtaining the anchor points in FDH models.

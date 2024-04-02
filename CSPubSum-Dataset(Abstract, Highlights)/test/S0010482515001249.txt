@@ -1,0 +1,8 @@
+ Wireless Capsule Endoscopy (WCE) provides a new perspective of the small intestine, since it enables, for the first time, visualization of the entire organ. However, the long visual video analysis time, due to the large number of data in a single WCE study, was an important factor impeding the widespread use of the capsule as a tool for intestinal abnormalities detection. Therefore, the introduction of WCE triggered a new field for the application of computational methods, and in particular, of computer vision. In this paper, we follow the computational approach and come up with a new perspective on the small intestine motility problem. Our approach consists of three steps: first, we review a tool for the visualization of the motility information contained in WCE video; second, we propose algorithms for the characterization of two motility building-blocks: contraction detector and lumen size estimation; finally, we introduce an approach to detect segments of stable motility behavior. Our claims are supported by an evaluation performed with 10 WCE videos, suggesting that our methods ably capture the intestinal motility information.
+
+@highlight Author-Highlights
+@highlight We propose computer vision tools for the analysis of the motility bar image [1].
+@highlight A method for contraction analysis is proposed.
+@highlight A method for lumen perimeter change characterization is introduced.
+@highlight An algorithm for stable motility segments detection is described.
+@highlight Quick analysis time with good qualitative and quantitative results.

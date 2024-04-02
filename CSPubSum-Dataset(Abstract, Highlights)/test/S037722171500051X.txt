@@ -1,0 +1,7 @@
+ Utility functions have been used widely to support multi-objective decision-making. Expansion of a general additive utility function around the ideal results in a composite linear-quadratic metric of a compromise programming problem. Determining the unknown parameters of the composite linear-quadratic metric requires substantial interaction with the decision maker who might not always be available or capable to participate in such a process. We propose a non-interactive method that uses information on observed attribute levels to obtain the unknown parameters of the composite linear-quadratic metric and enables forecasting and scenario analysis. The method is illustrated with a small scale numerical example.
+
+@highlight We calibrate a generic utility based metric for compromise programming.
+@highlight The proposed method guarantees exact calibration to observed decisions.
+@highlight The obtained parameters represent preferences and aversion to extreme solutions.
+@highlight Our method is non-interactive i.e. does not require involvement of the decision maker.
+@highlight We demonstrate the method graphically with a small scale numerical example.

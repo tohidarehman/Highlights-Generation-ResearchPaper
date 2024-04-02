@@ -1,0 +1,6 @@
+ The amount of online transactions is growing these days to a large number. A big portion of these transactions contains credit card transactions. The growth of online fraud, on the other hand, is notable, which is generally a result of ease of access to edge technology for everyone. There has been research done on many models and methods for credit card fraud prevention and detection. Artificial Immune Systems is one of them. However, organizations need accuracy along with speed in the fraud detection systems, which is not completely gained yet. In this paper we address credit card fraud detection using Artificial Immune Systems (AIS), and introduce a new model called AIS-based Fraud Detection Model (AFDM). We will use an immune system inspired algorithm (AIRS) and improve it for fraud detection. We increase the accuracy up to 25%, reduce the cost up to 85%, and decrease system response time up to 40% compared to the base algorithm.
+
+@highlight We added Negative Selection, update and dataset analysis to base AIRS algorithm.
+@highlight Antigen affinity is calculated using a novel method.
+@highlight The model uses a cloud computing solution in order to perform the training phase parallel.
+@highlight We used scoring for flagged records which shows how risky a fraud-flagged record might be.

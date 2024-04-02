@@ -1,0 +1,5 @@
+ To correctly evaluate semantic technologies and to obtain results that can be easily integrated, we need to put evaluations under the scope of a unique software quality model. This paper presents SemQuaRE, a quality model for semantic technologies. SemQuaRE is based on the SQuaRE standard and describes a set of quality characteristics specific to semantic technologies and the quality measures that can be used for their measurement. It also provides detailed formulas for the calculation of such measures. The paper shows that SemQuaRE is complete with respect to current evaluation trends and that it has been successfully applied in practice.
+
+@highlight We define a quality model for semantic technologies by extending SQuaRE quality model.
+@highlight The model specifies a hierarchy of quality characteristics and measures with formulas.
+@highlight We show that the quality model is complete and successfully applied in practice.

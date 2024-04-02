@@ -1,0 +1,7 @@
+ This study aimed to test the validity and reliability of pressure-measurement insoles (medilogic® insoles) when measuring vertical ground reaction forces in field situations. Various weights were applied to and removed from the insoles in static mechanical tests. The force values measured simultaneously by the insoles and force plates were compared for 15 subjects simulating work activities. Reliability testing during the static mechanical tests yielded an average interclass correlation coefficient of 0.998. Static loads led to a creeping pattern of the output force signal. An individual load response could be observed for each insole. The average root mean square error between the insoles and force plates ranged from 6.6% to 17.7% in standing, walking, lifting and catching trials and was 142.3% in kneeling trials. The results show that the use of insoles may be an acceptable method for measuring vertical ground reaction forces in field studies, except for kneeling positions.
+
+@highlight Validity and reliability of medilogic® insoles for force measurements were tested.
+@highlight Static tests showed a high reliability, but also a creeping of output force signal.
+@highlight RMSE's in field situations were in average from 6.6% to 17.7% (besides kneeling).
+@highlight Strongly bending of medilogic® insoles (r < 20 mm) leads to high measurement errors.
+@highlight Frequent calibration and correction algorithms are necessary for high validity.

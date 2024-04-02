@@ -1,0 +1,5 @@
+ This paper reviews several optical connecting devices that are based on microelectromechanical systems (MEMS) components. In this paper, we divide optical connecting devices into two categories. The first category includes MEMS-based optical switches developed for optical fiber communication, which perform optical switching, wavelength division multiplexing (WDM) routing, and/or optical cross connection. The other category consists of MEMS-based optical interconnects that have been constructed primarily for use in rack-to-rack, board-to-board, chip-to-chip, card-to-card and/or intra-chip interface connections. Working principles of these MEMS optical connecting devices will also be discussed in this paper.
+
+@highlight This paper reviews several optical connecting devices that are based on microelectromechanical systems (MEMS) components.
+@highlight The reviewed MEMS-based optical connecting devices are divided into two categories: optical switches and optical interconnects.
+@highlight Working principles of these optical connecting devices are discussed.

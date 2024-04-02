@@ -1,0 +1,6 @@
+ The design of multi-material compliant mechanisms by means of a multi Sequential Element Rejection and Admission (SERA) method is presented in this work. The SERA procedure was successfully applied to the design of single-material compliant mechanisms. The main feature is that the method allows material to flow between different material models. Separate criteria for the rejection and admission of elements allow material to redistribute between the predefined material models and efficiently achieve the optimum design. These features differentiate it to other bi-directional discrete methods, making the SERA method very suitable for the design of multi-material compliant mechanisms. Numerous examples are presented to show the validity of the multi SERA procedure to design multi-material compliant mechanisms.
+
+@highlight A generalized formulation to design multi-material compliant mechanisms.
+@highlight The SERA method used for the optimization considers separate material models.
+@highlight Separate criteria to move material between the different material models are used to achieve the optimum topology.
+@highlight Numerous examples prove the validity of the proposed formation to design complex compliant mechanisms.

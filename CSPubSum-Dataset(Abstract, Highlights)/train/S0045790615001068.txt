@@ -1,0 +1,7 @@
+ Modalities other than GPS need to be employed to localize mobile sensor-node-enabled subjects in indoor conditions. The location of some mobile nodes needs to be computed precisely while this may not be essential for the remaining nodes. We have proposed the concept of graded precision localization which allows mobile nodes to localize themselves to heterogeneous precision levels in a common framework. With graded precision localization, we define a modular node for the subjects, specify deployment strategies customizable for each site, and propose a framework for evaluating site-specific localization performance. We comprehensively evaluate graded precision localization with experiments and simulation for indoor conditions, and highlight its advantages over similar systems.
+
+@highlight Graded precision localization (GPL) offers a range of localization precision levels.
+@highlight GPL for user modules is achieved with an infrastructure of hotspots and radio nodes.
+@highlight A user module prototype is built with a laptop, a Cricket node and a mobile phone.
+@highlight Performance of GPL for indoor spaces is discussed with simulation and experiments.
+@highlight An analytical Markov model for evaluating GPL for constrained spaces is proposed.

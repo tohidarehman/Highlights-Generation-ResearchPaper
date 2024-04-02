@@ -1,0 +1,6 @@
+ Pesticides are widely used by crop producers in developed countries to combat risk associated with pests and diseases. However, their indiscriminate use can lead to various environmental spillovers that may alter the agricultural production environment thus contributing to production risk. This study utilises a data envelopment analysis (DEA) approach to measure performance of arable farms, incorporating pesticides’ environmental spillovers and output variance as undesirable outputs in the efficiency analysis and taking explicitly into account the effect of pesticides and other inputs on production risk. The application focuses on panel data from Dutch arable farms over the period 2003–2007. A moment approach is used to compute output variance, providing empirical representations of the risk-increasing or -decreasing nature of the used inputs. Finally, shadow values of risk-adjusted inputs are computed. We find that pesticides are overused in Dutch arable farming and there is a considerable evidence of the need for decreasing pesticides’ environmental spillovers.
+
+@highlight Fungicides and herbicides are risk-reducing inputs.
+@highlight Other pesticides and other inputs are risk-increasing inputs.
+@highlight Dutch farmers have considerable levels of pesticide environmental inefficiency.
+@highlight Fertilizer and all types of pesticides are overused.

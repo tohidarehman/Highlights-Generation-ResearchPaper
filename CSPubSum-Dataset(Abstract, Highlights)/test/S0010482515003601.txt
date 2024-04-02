@@ -1,0 +1,6 @@
+ Digital design technologies have been applied extensively in dental medicine, especially in the field of dental restoration. The all-ceramic crown is an important restoration type of dental CAD systems. This paper presents a robust tooth surface reconstruction algorithm for all-ceramic crown design. The algorithm involves three necessary steps: standard tooth initial positioning and division; salient feature point extraction using Morse theory; and standard tooth deformation using iterative Laplacian Surface Editing and mesh stitching. This algorithm can retain the morphological features of the tooth surface well. It is robust and suitable for almost all types of teeth, including incisor, canine, premolar, and molar. Moreover, it allows dental technicians to use their own preferred library teeth for reconstruction. The algorithm has been successfully integrated in our Dental CAD system, more than 1000 clinical cases have been tested to demonstrate the robustness and effectiveness of the proposed algorithm.
+
+@highlight The salient feature point extraction method can preserve morphological features.
+@highlight Different parts are set different deformation weights which help to get nice results.
+@highlight Iterative constrained deformation can avoid self-intersection and distortion.
+@highlight Robust and satisfactory adaptability in clinical application.

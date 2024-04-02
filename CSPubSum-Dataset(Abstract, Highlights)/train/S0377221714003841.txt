@@ -1,0 +1,6 @@
+ A nonstandard probabilistic setting for modeling of the risk of catastrophic events is presented. It allows random variables to take on infinitely large negative values with non-zero probability, which correspond to catastrophic consequences unmeasurable in monetary terms, e.g. loss of human lives. Thanks to this extension, the safety-first principle is proved to be consistent with traditional axioms on a preference relation, such as monotonicity, continuity, and risk aversion. Also, a robust preference relation is introduced, and an example of a monotone robust preference relation,, is provided. The suggested setting is demonstrated in evaluating nuclear power plant projects when the probability of a catastrophe is itself a random variable.
+
+@highlight A new approach to modeling of the risk of catastrophic events is presented.
+@highlight In this approach, the safety-first principle agrees with axioms of rational behavior.
+@highlight A robust preference relation is introduced.
+@highlight The approach is demonstrated in evaluating nuclear power plant projects.

@@ -1,0 +1,8 @@
+ For critical systems, providing services with minimal interruption is essential. Availability Management Framework (AMF), defined by SA Forum for managing highly-available applications, requires configurations of applications consisting of various entities organized according to AMF-specific rules and constraints. Creating such configurations is difficult due to the numerous constrained entities involved. This paper presents UACL (UML-based AMF Configuration Language) and a supporting implementation that models the AMF domain, providing designers with tools needed to design, edit, and analyze AMF configurations. UACL is an extension of UML through its profiling mechanism and has been designed to represent AMF concepts, their relations, and constraints.
+
+@highlight We present a UML-based domain specific modeling language (DSML) that models the SA Forum Availability Management Framework (AMF) domain model.
+@highlight Our DSML provides designers with the tools needed for designing, editing, and potentially analyzing AMF configurations.
+@highlight Our DSML has been carefully designed to represent AMF concepts, their relations, and constraints.
+@highlight Our DSML has been implemented using IBM Rational Software Architect.
+@highlight We show the effectiveness of our DSML in designing AMF configurations through a case study.
+@highlight We report on our experience in designing this language and the challenges encountered during this process.

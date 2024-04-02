@@ -1,0 +1,6 @@
+ To obtain the probability density functions and the cumulative distribution functions of static responses of stochastic structures, a hybrid stochastic method named as the transformed perturbation stochastic finite element method (TPSFEM) is proposed. In TPSFEM, the static responses of stochastic structures are approximated as the linear functions of random variables by using the first order perturbation technique. According to the approximated linear relationships between static responses and random variables, the probability density functions of static responses are obtained by the change-of-variable technique. The cumulative distribution functions of static responses are calculated by the numerical integration method. The numerical examples on a thin plate, a six-bar truss structure, a Mindlin plate and a shell structure verify the effectiveness and accuracy of the proposed method. Hence, the proposed method can be considered as an alternative engineering method for the static response analysis of stochastic structures.
+
+@highlight TPSFEM for static response analysis of stochastic structures is proposed.
+@highlight Probability density function of static response is calculated.
+@highlight Cumulative distribution function of static response is calculated.
+@highlight The effectiveness of TPSFEM is investigated.

@@ -1,0 +1,5 @@
+ This paper presents an adaptive spatial information-theoretic fuzzy clustering algorithm to improve the robustness of the conventional fuzzy c-means (FCM) clustering algorithms for image segmentation. This is achieved through the incorporation of information-theoretic framework into the FCM-type algorithms. By combining these two concepts and modifying the objective function of the FCM algorithm, we are able to solve the problems of sensitivity to noisy data and the lack of spatial information, and improve the image segmentation results. The experimental results have shown that this robust clustering algorithm is useful for MRI brain image segmentation and it yields better segmentation results when compared to the conventional FCM approach.
+
+@highlight We incorporate the spatial context to the conventional fuzzy c-means (FCM) algorithm for image segmentation.
+@highlight We incorporate the information-theoretic framework into the FCM algorithm to improve its robustness.
+@highlight The new clustering algorithm can effectively improve the image segmentation results and is useful for brain image analysis.

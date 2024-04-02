@@ -1,0 +1,7 @@
+ In wireless communication systems users compete for communication opportunities through a medium access control protocol. Previous research has shown that selfish behavior in medium access games could lead to inefficient and unfair resource allocation. We introduce a new notion of reciprocity in a medium access game and derive the corresponding Nash equilibrium. Further, using mechanism design we show that this type of reciprocity can remove unfair/inefficient equilibrium solutions. The best response learning method for the reciprocity game framework is studied. It demonstrates that the game converges to the unique and stable Nash equilibrium if the nodes have low collision costs or high psychological sensitivity. For symmetric games the converged Nash equilibrium turns out to be the fair strategy.
+
+@highlight A new notion of reciprocity in a medium access game is introduced and the corresponding Nash equilibrium is derived.
+@highlight It has been shown that this type of reciprocity can remove unfair/inefficient equilibrium solutions.
+@highlight The best response learning method for the reciprocity game framework is studied and simulated.
+@highlight The game converges to the unique Nash equilibrium if the nodes have low collision costs or high psychological sensitivity.
+@highlight For symmetric games the converged Nash equilibrium turns out to be the fair strategy.

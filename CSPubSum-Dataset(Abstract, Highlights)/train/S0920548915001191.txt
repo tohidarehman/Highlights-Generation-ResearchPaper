@@ -1,0 +1,5 @@
+ The complexity of electronic systems embedded in modern vehicles has led to the adoption of distributed implementations where different communication protocols are used. Although literature addressing vehicular networks presents several methods for the timing analysis of automotive systems, there is not a reference model for the holistic time analysis of heterogeneous systems where FlexRay/CAN protocols are used. In this work we propose a reference model for timing and schedulability analysis of heterogeneous FlexRay/CAN networks. The proposed reference model can be used to compute end-to-end response times and to analyze local components, such as response times in a specific network segment.
+
+@highlight We present a reference model for scheduling analysis of heterogeneous FlexRay/CAN networks.
+@highlight The proposed reference model can be used to analyze temporal characteristics of systems and their local components.
+@highlight The use of the proposed reference model is illustrated with a complete example.

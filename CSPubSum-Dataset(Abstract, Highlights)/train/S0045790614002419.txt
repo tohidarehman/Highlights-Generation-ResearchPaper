@@ -1,0 +1,6 @@
+ Independent fine-grain web services can be integrated to a value-added coarse-grain service through service composition technologies in Service Oriented Architecture. With the advent of cloud computing, more and more web services in cloud may provide the same function but differ in performance. In addition, the development of cloud computing presents a geographically distributed manner, which elevates the impact of the network on the QoS of composited web services. Therefore, a significant research problem in service composition is how to select the best candidate service from a set of functionally equivalent services in terms of a service level agreement (SLA). In this paper, we propose a composition model that takes both QoS of services and cloud network environment into consideration. We also propose a web service composition approach based on genetic algorithm for geo-distributed cloud and service providers who want to minimize the SLA violations.
+
+@highlight A service composition model in geo-distributed cloud environment is proposed.
+@highlight The composition approach considers both QoS of Web services and QoS of network.
+@highlight We propose a genetic algorithm to solve the composition problem.
+@highlight The notion of skyline is used to generate the initial population.

@@ -1,0 +1,7 @@
+ Fully electric vehicles with multiple drivetrains allow a significant variation of the steady-state and transient cornering responses through the individual control of the electric motor drives. As a consequence, alternative driving modes can be created that provide the driver the option to select the preferred dynamic vehicle behavior. This article presents a torque-vectoring control structure based on the combination of feedforward and feedback contributions for the continuous control of vehicle yaw rate. The controller is specifically developed to be easily implementable on real-world vehicles. A novel model-based procedure for the definition of the control objectives is described in detail, together with the automated tuning process of the algorithm. The implemented control functions are demonstrated with experimental vehicle tests. The results show the possibilities of torque-vectoring control in designing the vehicle understeer characteristic.
+
+@highlight Driving modes for designing the cornering response of fully electric vehicles.
+@highlight Off-line optimization for designing the non-linear feedforward yaw moment contribution.
+@highlight Automated tuning procedure of the feedback controller.
+@highlight Experimental assessment of vehicle performance in different driving modes.
+@highlight Experimental assessment of the effect of the understeer gradient on power consumption.

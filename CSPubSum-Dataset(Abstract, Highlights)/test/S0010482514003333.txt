@@ -1,0 +1,5 @@
+ A proper internal validation is necessary for the development of a reliable and reproducible prognostic model for external validation. Variable selection is an important step for building prognostic models. However, not many existing approaches couple the ability to specify the number of covariates in the model with a cross-validation algorithm. We describe a user-friendly SAS macro that implements a score selection method and a leave-one-out cross-validation approach. We discuss the method and applications behind this algorithm, as well as details of the SAS macro.
+
+@highlight A cross-validated model selection macro is proposed for prognostic survival data using Cox Proportional Hazards (PH) model.
+@highlight User-friendly with controls included for maximum size of model and prevalence of variable.
+@highlight Checks proportional PH assumption graphically and statistically.

@@ -1,0 +1,6 @@
+ In this paper, we present an approach for parallelizing computation and implementation time for problems where the objective is to complete the solution as soon after receiving the problem instance as possible. We demonstrate the approach on the TSP. We define the TSP race problem, present a computation-implementation parallelized (CIP) approach for solving it, and demonstrate CIP’s effectiveness on TSP Race instances. We also demonstrate a method for determining a priori when CIP will be effective. Although in this paper we focus on TSP, our general CIP approach can be effective on other problems and applications with similar time sensitivity.
+
+@highlight Minimizing time from receipt to complete implementation is often the real goal.
+@highlight Parallelizing implementation with computation can significantly speed completion.
+@highlight Break-even speed ratios can be well-estimated.
+@highlight Simple heuristics used with CIP can beat direct application of complex heuristics.

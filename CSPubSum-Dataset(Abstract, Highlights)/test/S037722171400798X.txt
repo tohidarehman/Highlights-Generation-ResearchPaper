@@ -1,0 +1,8 @@
+ Traditional bankruptcy prediction models, designed using classification or regression techniques, achieve short-term performances (1 year) that are fairly good, but that often worsen when the prediction horizon exceeds 1 year. We show how to improve the performance of such models beyond 1 year using models that take into account the evolution of firm’s financial health over a short period of time. For this purpose, we design models that fit the underlying failure process of different groups of firms. Our results demonstrate that such models lead to better prediction accuracy at a 3-year horizon than that achieved with common models.
+
+@highlight We design traditional failure models using different classification methods.
+@highlight We estimate a set of failure processes.
+@highlight We design financial failure models that fit each process.
+@highlight We examine model accuracy using these two methods of designing models.
+@highlight Model performance is assessed using different samples and over different time horizons.
+@highlight Failure process-based models achieved better mid-term forecasts than traditional models.

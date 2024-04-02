@@ -1,0 +1,7 @@
+ Non-profit organizations like the Meals On Wheels (MOW) association of America prepare and deliver meals, typically daily, to approximately one million homebound individuals in the United States alone. However, many MOW agencies are facing a steadily increasing number of clients requesting meal service without an increase in resources (either financial or human). One strategy for accommodating these requests is to deliver multiple (frozen) meals at a time and thus make fewer deliveries. However, many of the stakeholders (funders, volunteers, meal recipients) value the relationships that are developed by having a client receive daily deliveries from the same volunteer. Further, meal recipients may be concerned with the quality of food delivered in a frozen meal. In this paper, we develop a method for introducing consolidation into home meal delivery while minimizing operational disruptions and maintaining client satisfaction. With an extensive computational study, the savings associated with various levels and types of disruptions are detailed. The question of whether delivering frozen meals will enable an agency to both save money and deliver meals to a larger client base is also studied.
+
+@highlight highlights
+@highlight Consolidation introduced into home meal delivery minimizing operational disruptions.
+@highlight Client order and driver assignment do not have to be altered to gain benefit.
+@highlight Benefit found even at highest levels of customer service.
+@highlight Consolidation can also allow for previously unserved clients to receive meals.

@@ -1,0 +1,6 @@
+ In the present paper, an attempt was made to find waveform-derived variables that would be useful for a more precise diagnosis of hypovolemia. In attempting this, arterial blood pressure graphs of 18 hypovolemic postoperative patients were analysed using a discrete Fourier transform. Using a paired samples t-test, the amplitude of the first harmonic (A1) is shown to be significantly higher in normovolemic cases than in hypovolemic ones (p<0.001). Based on the values of A1, a preliminary study was performed in which an additional group of 14 hypovolemic and 14 normovolemic patients were categorized into hypovolemic and normovolemic groups using logistic regression. The method proved to be successful in identifying hypovolemic patients: the prediction was correct in 80% and wrong only in 20%, indicating that A1 is potentially a useful parameter in detecting hypovolemia.
+
+@highlight Arterial blood pressure graphs of hypovolemic patients were analysed using a discrete Fourier transform.
+@highlight The amplitude of the first harmonic was significantly higher in normovolemic cases than in hypovolemic ones.
+@highlight Using this variable, additional patients were categorized into hypovolemic and normovolemic groups using logistic regression.
+@highlight The prediction was correct in 80% for hypovolemic patients and wrong in 20%.

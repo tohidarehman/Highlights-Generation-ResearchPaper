@@ -1,0 +1,6 @@
+ In the Team Orienteering Arc Routing Problem (TOARP) the potential customers are located on the arcs of a directed graph and are to be chosen on the basis of an associated profit. A limited fleet of vehicles is available to serve the chosen customers. Each vehicle has to satisfy a maximum route duration constraint. The goal is to maximize the profit of the served customers. We propose a matheuristic for the TOARP and test it on a set of benchmark instances for which the optimal solution or an upper bound is known. The matheuristic finds the optimal solutions on all, except one, instances of one of the four classes of tested instances (with up to 27 vertices and 296 arcs). The average error on all instances for which the optimal solution is available is 0.67 percent.
+
+@highlight We study the Team Orienteering Arc Routing Problem (TOARP).
+@highlight We propose a matheuristic algorithm to solve the problem.
+@highlight We make an extensive computational study on a large set of instances.
+@highlight We compare the results of the matheuristic with the optimal solutions.

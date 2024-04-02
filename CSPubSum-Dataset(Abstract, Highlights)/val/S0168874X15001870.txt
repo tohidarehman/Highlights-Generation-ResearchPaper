@@ -1,0 +1,6 @@
+ In the phase-field description of brittle fracture, the fracture-surface area can be expressed as a functional of the phase field (or damage field). In this work we study the applicability of this explicit expression as a (non-linear) path-following constraint to robustly track the equilibrium path in quasi-static fracture propagation simulations, which can include snap-back phenomena. Moreover, we derive a fracture-controlled staggered solution procedure by systematic decoupling of the path-following controlled elasticity and phase-field problems. The fracture-controlled monolithic and staggered solution procedures are studied for a series of numerical test cases. The numerical results demonstrate the robustness of the new approach, and provide insight in the advantages and disadvantages of the monolithic and staggered procedures.
+
+@highlight The phase-field fracture-surface area is used as a path-following control equation.
+@highlight A staggered path-following algorithm is derived from the monolithic formulation.
+@highlight A detailed comparison of the monolithic and staggered schemes is presented.
+@highlight The influence of phase-field tip enrichment on snap-back behavior is demonstrated.

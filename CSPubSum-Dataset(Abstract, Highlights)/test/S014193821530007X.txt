@@ -1,0 +1,6 @@
+ We present the iterative design and evolution of a web-based screen management middleware developed for a network of interactive multipurpose public displays deployed in a city center since 2009. The middleware provides three principal user interface abstractions to content producers, application developers and display owners: the classical passive digital signage, a portal of interactive applications and a finite state machine based interaction model description. With these abstractions passive and interactive content can be spatiotemporally multiplexed onto the screen according to the given interaction model. We reflect on the evolution of the application development process and the real world usage of the middleware. We conclude with a discussion on our impressions on the web as an application development platform and the presented screen management middleware for interactive multipurpose public displays.
+
+@highlight Web-based toolkit for multipurpose public displays and multi-device interfaces.
+@highlight Spatiotemporal multiplexing of digital signage with interactive applications.
+@highlight Finite state machine for realizing stateful interaction models.
+@highlight Evolution of the toolkit in 5-years long deployment of displays in a city center.

@@ -1,0 +1,7 @@
+ Food product contamination has potentially devastating effects on companies and supply chains. However, the impact of contamination has still not been thoroughly studied from a supply chain planning perspective. This paper models a contamination event in a generic food supply chain consisting of suppliers, processing centers, and retailers. Contamination is detected through either company or government agency sampling tests or through reports of a food borne illness. In this research, we analyze the impact of origin and choice of sampling strategies, and product and supply chain attributes on a contamination event. We also simulate a real-world tomato contamination case to gain further insights.
+
+@highlight Presents a simplified supply chain model to study a food contamination event.
+@highlight Analyzes the impact of sampling strategies, product, and supply chain attributes.
+@highlight Retailer sampling detects contamination later than reports of food borne illness.
+@highlight Few(many) suppliers and long(short) lead times create less(more) dispersion.
+@highlight Few(many) suppliers and long(short) lead times shift contamination up(downstream).

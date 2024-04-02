@@ -1,0 +1,6 @@
+ In an era of growing data complexity and volume and the advent of big data, feature selection has a key role to play in helping reduce high-dimensionality in machine learning problems. We discuss the origins and importance of feature selection and outline recent contributions in a range of applications, from DNA microarray analysis to face recognition. Recent years have witnessed the creation of vast datasets and it seems clear that these will only continue to grow in size and number. This new big data scenario offers both opportunities and challenges to feature selection researchers, as there is a growing need for scalable yet efficient feature selection methods, given that existing methods are likely to prove inadequate.
+
+@highlight The explosion of big data has posed important challenges to researchers.
+@highlight Feature selection is paramount when dealing with high-dimensional datasets.
+@highlight We review the state-of-the-art and recent contributions in feature selection.
+@highlight The emerging challenges in feature selection are identified and discussed.

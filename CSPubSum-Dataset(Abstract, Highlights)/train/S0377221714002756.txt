@@ -1,0 +1,5 @@
+ We introduce a new distance measure between two preorders that captures indifference, strict preference, weak preference and incomparability relations. This measure is the first to capture weak preference relations. We illustrate how this distance measure affords decision makers greater modeling power to capture their preferences, or uncertainty and ambiguity around them, by using our proposed distance measure in a multiple criteria aggregation procedure for mixed evaluations.
+
+@highlight A new measure of distance between preorders including the weak preference relation.
+@highlight Multiple criteria aggregation procedure for mixed evaluations with weak preference relation.
+@highlight Stochastic dominance concepts extended to “distributional dominance”.

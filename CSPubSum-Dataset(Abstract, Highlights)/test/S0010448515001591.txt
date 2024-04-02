@@ -1,0 +1,6 @@
+ Several known methods for direct evaluation of NURBS curves and surfaces are described. Runtime performance and simplicity of vectorization are discussed. An evaluation method, which uses basis functions precomputed in shifted power basis, is shown to be promising. This method for surfaces is vectorized with SSE2 intrinsics, yielding 3 times performance improvement over the non-vectorized version. Branchless vectorized linear search is proposed for span search, being most efficient for small number of knots. Binary search ending with a small linear search is shown to be most efficient for large number of knots, and good for general case. Performance comparison of the evaluation method and its equivalents from available geometric kernels is included.
+
+@highlight Direct evaluation of NURBS curves and surfaces.
+@highlight Basis functions precomputed in shifted power basis.
+@highlight Branchless vectorized linear search to compute span index.
+@highlight Vectorized evaluation of NURBS surface: x 3 speedup.

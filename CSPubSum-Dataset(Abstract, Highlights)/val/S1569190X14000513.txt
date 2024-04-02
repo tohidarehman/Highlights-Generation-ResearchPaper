@@ -1,0 +1,7 @@
+ A web-based, general-purpose simulation and modeling tool is presented in this paper. The tool, Insight Maker, has been designed to make modeling and simulation accessible to a wider audience of users. Insight Maker integrates three general modeling approaches – System Dynamics, Agent-Based Modeling, and imperative programming – in a unified modeling framework. The environment provides a graphical model construction interface that is implemented purely in client-side code that runs on users’ machines. Advanced features, such as model scripting and an optimization tool, are also described. Insight Maker, under development for several years, has gained significant adoption with currently more than 20,000 registered users. In addition to detailing the tool and its guiding philosophy, this first paper on Insight Maker describes lessons learned from the development of a complex web-based simulation and modeling tool.
+
+@highlight A general-purpose web-based simulation and modeling tool is developed.
+@highlight The tool provides a unified, multi-paradigm modeling environment.
+@highlight A “drag and drop”, accessible modeling interface is developed in client-side code.
+@highlight Pure, client-side simulation code and a domain specific language are developed.
+@highlight The tool meets a need for a web-based, general-purpose, modeling environment.

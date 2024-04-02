@@ -1,0 +1,7 @@
+ This paper deals with the problem of estimating the human upper body orientation. We propose a framework which integrates estimation of the human upper body orientation and the human movements. Our human orientation estimator utilizes a novel approach which hierarchically employs partial least squares-based models of the gradient and texture features, coupled with the random forest classifier. The movement predictions are done by projecting detected persons into 3D coordinates and running an Unscented Kalman Filter-based tracker. The body orientation results are then fused with the movement predictions to build a more robust estimation of the human upper body orientation. We carry out comprehensive experiments and provide comparison results to show the advantages of our system over the other existing methods.
+
+@highlight We propose a method for estimating the human upper body orientation.
+@highlight Our algorithm uses partial least squares-based gradient and texture feature models.
+@highlight Integration with an UKF-based movement prediction increases the performance.
+@highlight Comparison with the state-of-the-art shows the benefit of our algorithm.
+@highlight Experiment results using image, video, and camera are provided.

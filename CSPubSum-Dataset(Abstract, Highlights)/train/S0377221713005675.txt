@@ -1,0 +1,7 @@
+ Container terminals pay more and more attention to the service quality of inland transport modes such as tucks, trains and barges. Truck appointment systems are a common approach to reduce truck turnaround times. This paper provides a tool to use the truck appointment system to increase not only the service quality of trucks, but also of trains, barges and vessels. We propose a mixed integer linear programming model to determine the number of appointments to offer with regard to the overall workload and the available handling capacity. The model is based on a network flow representation of the terminal and aims to minimize overall delays at the terminal. It simultaneously determines the number of truck appointments to offer and allocates straddle carriers to different transport modes. Numerical experiments, conducted on actual data, quantify the benefits of this combined solution approach. Discrete-event simulation validates the results obtained by the optimization model in a stochastic environment.
+
+@highlight Use truck appointment system to reduce delays of trucks, trains, barges and vessels.
+@highlight Combine sizing of a truck appointment system and the allocation of straddle carriers.
+@highlight Mixed integer programming model to address both problems simultaneously.
+@highlight Experiments conducted on real-life instances.
+@highlight Validation of deterministic results via discrete-event simulation.

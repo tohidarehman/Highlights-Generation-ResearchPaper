@@ -1,0 +1,6 @@
+ A new approach for numerically solving flow in Discrete Fracture Networks (DFN) is developed in this work by means of the Virtual Element Method (VEM). Taking advantage of the features of the VEM, we obtain global conformity of all fracture meshes while preserving a fracture-independent meshing process. This new approach is based on a generalization of globally conforming Finite Elements for polygonal meshes that avoids complications arising from the meshing process. The approach is robust enough to treat many DFNs with a large number of fractures with arbitrary positions and orientations, as shown by the simulations. Higher order Virtual Element spaces are also included in the implementation with the corresponding convergence results and accuracy aspects.
+
+@highlight The Virtual Element method allows for meshes made up by arbitrary polygonal elements.
+@highlight Guaranteed local and global conformity with no alteration of the geometry of the DFN.
+@highlight Unconstrained fracture-independent meshing.
+@highlight Application of domain decomposition preconditioners.

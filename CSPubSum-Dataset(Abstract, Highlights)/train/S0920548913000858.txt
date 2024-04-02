@@ -1,0 +1,6 @@
+ Collecting metrics and indicators to assess objectively the different products resulting during the lifecycle of a software project is a research area that encompasses many different aspects, apart from being highly demanded by companies and software development teams. Focusing on software products, one of the most used methods by development teams for measuring Internal Quality is the static analysis of the source code. This paper works in this line and presents a study of the state-of-the-art open source software tools that automate the collection of these metrics, particularly for developments in Java. These tools have been compared according to certain criteria defined in this study.
+
+@highlight Automatic measure of metrics with suitable tools is very relevant in development.
+@highlight This paper presents a survey of open source software tools.
+@highlight These tools automate the collection of metrics, particularly for Java code.
+@highlight The paper is based on a Systematic Literature Review Process.

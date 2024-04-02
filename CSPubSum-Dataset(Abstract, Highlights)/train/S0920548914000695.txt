@@ -1,0 +1,7 @@
+ This paper presents context development and requirement validation to overcome maintenance problems in Enterprise Resource Planning (ERP) systems. Using ERP data of a local petroleum firm, we employ knowledge integration to dynamically validate users' requirements, and to gather, analyze, and represent context through knowledge models. We also employ context-awareness to model the ERP context, along with a user requirement model. We employ context affinity to determine impact of these models on requirements' validation. We apply fault-tolerance on these models by using data mining to pre-identify delays in delivery of petroleum products, and to predict faulty contextual ERP product configuration.
+
+@highlight Context-aware classification methodology for Enterprise Resource Planning (ERP)
+@highlight Semantics for ERP interactions regarding requirements of different stakeholders
+@highlight Contextual requirement validity by comparing requirement model of the users with ERP
+@highlight Decision trees to predict successful consignment deliveries for a local oil company
+@highlight Decision trees to predict conflict-free feature models for configuring oil products

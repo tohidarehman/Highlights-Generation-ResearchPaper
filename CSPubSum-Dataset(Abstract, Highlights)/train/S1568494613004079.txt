@@ -1,0 +1,6 @@
+ The conventional unconstrained binary quadratic programming (UBQP) problem is known to be a unified modeling and solution framework for many combinatorial optimization problems. This paper extends the single-objective UBQP to the multiobjective case (mUBQP) where multiple objectives are to be optimized simultaneously. We propose a hybrid metaheuristic which combines an elitist evolutionary multiobjective optimization algorithm and a state-of-the-art single-objective tabu search procedure by using an achievement scalarizing function. Finally, we define a formal model to generate mUBQP instances and validate the performance of the proposed approach in obtaining competitive results on large-size mUBQP instances with two and three objectives.
+
+@highlight We extend conventional single-objective unconstrained binary quadratic programming (UBQP) to the multiobjective case.
+@highlight We define a flexible model to generate multiobjective UBQP problem instances with complementary features.
+@highlight We propose a hybrid metaheuristic to identify an approximation of the Pareto set.
+@highlight We experiment the performance of our algorithm on large-size multiobjective UBQP problem instances with two and three objectives.

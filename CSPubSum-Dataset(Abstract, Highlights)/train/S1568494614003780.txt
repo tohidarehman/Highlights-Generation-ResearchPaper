@@ -1,0 +1,7 @@
+ Particle swarm optimization (PSO) has shown its competitive performance for solving benchmark and real-world optimization problems. Nevertheless, it requires better control of exploration/exploitation searches to prevent the premature convergence of swarms. Thus, this paper proposes a new PSO variant called PSO with adaptive time-varying topology connectivity (PSO-ATVTC) that employs an ATVTC module and a new learning framework. The proposed ATVTC module specifically aims to balance the algorithm's exploration/exploitation searches by varying the particle's topology connectivity with time according to its searching performance. The proposed learning framework consists of a new velocity update mechanism and a new neighborhood search operator to improve the algorithm's performance. A comprehensive study was conducted on 24 benchmark functions and one real-world problem. Compared with nine well-established PSO variants and six other cutting-edge metaheuristic search algorithms, the searching performance of PSO-ATVTC was proven to be more prominent in majority of the tested problems.
+
+@highlight A PSO variant, abbreviated as PSO-ATVTC is developed.
+@highlight An ATVTC module is developed to achieve better balance of global/local searches.
+@highlight A new learning framework is proposed to improve algorithm's searching performance.
+@highlight PSO-ATVTC has competitive searching accuracy and convergence speed in optimization.
+@highlight Results show that PSO-ATVTC outperforms other PSO variants and MS algorithms.

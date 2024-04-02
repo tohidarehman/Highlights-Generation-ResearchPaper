@@ -1,0 +1,7 @@
+ Recently, there has been a growing interest in the sparse representation of signals over learned and overcomplete dictionaries. Instead of using fixed transforms such as the wavelets and its variants, an alternative way is to train a redundant dictionary from the image itself. This paper presents a novel de-speckling scheme for medical ultrasound and speckle corrupted photographic images using the sparse representations over a learned overcomplete dictionary. It is shown that the proposed algorithm can be used effectively for the removal of speckle by combining an existing pre-processing stage before an adaptive dictionary could be learned for sparse representation. Extensive simulations are carried out to show the effectiveness of the proposed filter for the removal of speckle noise both visually and quantitatively.
+
+@highlight Developed a novel framework to apply sparse and overcomplete representations for the removal of speckle noise in real ultrasound images.
+@highlight Proposed a simple method for the estimation of the multiplicative noise present in real ultrasound images.
+@highlight The proposed de-speckling model is validated by using both the subjective and objective evaluation criteria.
+@highlight Results are compared with some of the state-of-the-art de-speckling methods.
+@highlight Results show that the proposed method outperforms some of the very efficient methods which have been also used for de-speckling for many years.

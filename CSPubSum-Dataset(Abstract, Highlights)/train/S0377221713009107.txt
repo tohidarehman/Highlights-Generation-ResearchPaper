@@ -1,0 +1,6 @@
+ In this work we consider scheduling problems where a sequence of assignments from products to machines – or from tasks to operators, or from workers to resources – has to be determined, with the goal of minimizing the costs (=money, manpower, and/or time) that are incurred by the interplay between those assignments. To account for the different practical requirements (e.g. few changes between different products/tasks on the same machine/operator, few production disruptions, or few changes of the same worker between different resources), we employ different objective functions that are all based on elementary combinatorial properties of the schedule matrix. We propose simple and efficient algorithms to solve the corresponding optimization problems, and provide hardness results where such algorithms most likely do not exist.
+
+@highlight We consider scheduling problems where a sequence of assignments has to be determined.
+@highlight The goal is to minimize the costs incurred by the interplay between the assignments.
+@highlight We propose simple and efficient algorithms to solve those optimization problems.
+@highlight We also provide hardness results where such algorithms most likely do not exist.

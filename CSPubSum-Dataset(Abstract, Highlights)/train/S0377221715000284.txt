@@ -1,0 +1,5 @@
+ The redundancy allocation problem is the problem of finding an optimal allocation of redundant components subject to a set of resource constraints. The problem studied in this paper refers to a series-parallel system configuration and allows for component mixing. We propose a new modeling/solution approach, in which the problem is transformed into a multiple choice knapsack problem and solved to optimality via a branch and cut algorithm. The algorithm is tested on well-known sets of benchmark instances. All instances have been solved to optimality in milliseconds or very few seconds on a normal workstation.
+
+@highlight New exact algorithm for the redundancy allocation problem.
+@highlight Applying a two-step problem transformation to the multiple choice knapsack problem.
+@highlight Considerable improvements in running time and solution quality over earlier methods.

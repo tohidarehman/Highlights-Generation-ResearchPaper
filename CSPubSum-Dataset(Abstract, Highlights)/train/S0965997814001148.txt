@@ -1,0 +1,5 @@
+ This paper examines issues regarding computational modeling of multipurpose passenger amphibian aircraft Be-200 cabin interior. Here different concepts of cabin layout are introduced: economy variant; comfortable layout; with coupe-type seating; corporate variant with berths. Objects interior is designed on the basis of ergonomic principles. For cabin computational modeling the 3ds Max graphic system is used. Objects modeling is carried out by means of Spline Extrude, Polygon Extrude methods. In course of scenes shading, the materials assignment is performed at the level of subobjects. Scenes of realistic rendering of various aircraft cabin layouts are introduced.
+
+@highlight This paper examines issues regarding computational modeling of multipurpose passenger amphibian aircraft Be-200 cabin interior.
+@highlight Objects interior is designed on the basis of ergonomic principles.
+@highlight For cabin of different variant, the scenes of realistic rendering are introduced.

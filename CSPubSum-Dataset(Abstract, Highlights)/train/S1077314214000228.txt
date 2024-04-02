@@ -1,0 +1,6 @@
+ This paper presents a neuroscience inspired information theoretic approach to motion segmentation. Robust motion segmentation represents a fundamental first stage in many surveillance tasks. As an alternative to widely adopted individual segmentation approaches, which are challenged in different ways by imagery exhibiting a wide range of environmental variation and irrelevant motion, this paper presents a new biologically-inspired approach which computes the multivariate mutual information between multiple complementary motion segmentation outputs. Performance evaluation across a range of datasets and against competing segmentation methods demonstrates robust performance.
+
+@highlight Presents novel neuroscience inspired information theoretic approach to motion segmentation based on mutual information.
+@highlight New model of current findings in biological vision is presented and link established to existing motion segmentation algorithms.
+@highlight Comparative performance evaluation across four challenging datasets.
+@highlight Comparative performance evaluation against competing segmentation methods.

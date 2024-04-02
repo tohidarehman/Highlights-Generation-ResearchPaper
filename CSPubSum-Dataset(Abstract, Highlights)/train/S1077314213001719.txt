@@ -1,0 +1,7 @@
+ In many robust model fitting methods, obtaining promising hypotheses is critical to the fitting process. However the sampling process unavoidably generates many irrelevant hypotheses, which can be an obstacle for accurate model fitting. In particular, the mode seeking based fitting methods are very sensitive to the proportion of good/bad hypotheses for fitting multi-structure data. To improve hypothesis generation for the mode seeking based fitting methods, we propose a novel sample-and-filter strategy to  identify and filter out bad hypotheses on-the-fly, and  use the remaining good hypotheses to guide the sampling to further expand the set of good hypotheses. The outcome is a small set of hypotheses with a high concentration of good hypotheses. Compared to other sampling methods, our method yields a significantly large proportion of good hypotheses, which greatly improves the accuracy of the mode seeking-based fitting methods.
+
+@highlight Proportion of good/bad hypotheses is critical to fitting process.
+@highlight A sample-and-filter strategy for robust multi-structure model fitting.
+@highlight Simultaneously guides the sampling and removes irrelevant hypotheses.
+@highlight Output a small hypothesis set with a high concentration of good hypotheses.
+@highlight Improve the accuracy of mode seeking-based fitting methods.

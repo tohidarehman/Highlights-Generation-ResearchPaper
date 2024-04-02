@@ -1,0 +1,6 @@
+ With reference to a network consisting of sensor nodes connected by wireless links, we approach the problem of the distribution of the cryptographic keys. We present a solution based on communication channels connecting sequences of adjacent nodes. All the nodes in a channel share the same key. This result is obtained by propagating the key connecting the first two nodes to all the other nodes in the channel. The key propagation mechanism is also used for key replacement, as is required, for instance, in group communication to support forms of forward and backward secrecy, when a node leaves a group or a new node is added to an existing group.
+
+@highlight In a sensor network, communication channels connecting sequences of adjacent nodes are created by key propagation.
+@highlight All the nodes in a communication channel share the same key.
+@highlight The key connecting the start node and the first subsequent node is propagated to all the other nodes in the channel.
+@highlight Communication channels are bidirectional, they can be used to transmit a message from/to any node in the channel.

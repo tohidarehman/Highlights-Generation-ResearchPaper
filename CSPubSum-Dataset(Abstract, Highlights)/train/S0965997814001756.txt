@@ -1,0 +1,5 @@
+ This article describes implementation details of a graphical editor which is intended for efficient 3D visualization of finite element meshes. The purpose of this program is to prepare the input data for the finite element method – a widely known method for numerical solutions of scientific and engineering problems described by partial differential equations. Nowadays, increasing demand on accuracy of the calculation through the boom of parallel computing involves the use of finer and more detailed finite element meshes. However, the meshes with a very large number of elements and nodes cause problems with visualization in commonly used programs that are very slow, unresponsive and for some operations often unusable. Therefore, efficient data structures and algorithms were designed and implemented to enable fast work with very large finite element meshes.
+
+@highlight Efficient visualization of large finite element meshes is described.
+@highlight The mesh editor is based on improved winged-edge data structure.
+@highlight Comparison with GiD, ParaView and VisIt is provided.

@@ -1,0 +1,7 @@
+ Cluster analysis using multiple representations of data is known as multi-view clustering and has attracted much attention in recent years. The major drawback of existing multi-view algorithms is that their clustering performance depends heavily on hyperparameters which are difficult to set. In this paper, we propose the Multi-View Normalized Cuts (MVNC) approach, a two-step algorithm for multi-view clustering. In the first step, an initial partitioning is performed using a spectral technique. In the second step, a local search procedure is used to refine the initial clustering. MVNC has been evaluated and compared to state-of-the-art multi-view clustering approaches using three real-world datasets. Experimental results have shown that MVNC significantly outperforms existing algorithms in terms of clustering quality and computational efficiency. In addition to its superior performance, MVNC is parameter-free which makes it easy to use.
+
+@highlight A new multi-view clustering algorithm is proposed.
+@highlight The proposed MVNC algorithm uses spectral partitioning and local refinement.
+@highlight MVNC is compared to state-of-the-art algorithms using three real-world datasets.
+@highlight MVNC significantly outperforms the other algorithms.
+@highlight MVNC is parameter-free unlike existing multi-view clustering algorithms.

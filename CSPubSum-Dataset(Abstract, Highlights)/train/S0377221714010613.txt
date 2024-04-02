@@ -1,0 +1,5 @@
+ This paper offers insights into how the bullwhip effect in two parallel supply chains with interacting price-sensitive demands is affected in contrast to the situation of a single product in a serial supply chain. In particular, this research studies two parallel supply chains, each consisting of a manufacturer and a retailer, and the external demand for a single product depends on its price and the other's price in a situation in which each price follows a first-order autoregressive process. In this paper, we propose an analytical framework that incorporates two parallel supply chains, and we explore their interactions to determine the bullwhip effect. We identify the conditions under which the bullwhip effect is amplified or lessened with interacting price-sensitive demands relative to the situation without interaction.
+
+@highlight Analytical framework for BWE in two-parallel supply chains is proposed.
+@highlight We explore two-parallel supply chains’ interactions to determine BWE.
+@highlight We derive the conditions under which the BWE is amplified or lessened.

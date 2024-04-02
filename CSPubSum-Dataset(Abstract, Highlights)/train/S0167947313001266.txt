@@ -1,0 +1,5 @@
+ A new algorithm is proposed for OLS estimation of linear models with multiple high-dimensional category variables. It is a generalization of the within transformation to arbitrary number of category variables. The approach, unlike other fast methods for solving such problems, provides a covariance matrix for the remaining coefficients. The article also sets out a method for solving the resulting sparse system, and the new scheme is shown, by some examples, to be comparable in computational efficiency to other fast methods. The method is also useful for transforming away groups of pure control dummies. A parallelized implementation of the proposed method has been made available as an R-package lfe on CRAN.
+
+@highlight We generalize the linear within-estimator to two or more category variables.
+@highlight We describe a general procedure for projecting out dummy-encoded category variables.
+@highlight Parameters for dummy variables can optionally be estimated.

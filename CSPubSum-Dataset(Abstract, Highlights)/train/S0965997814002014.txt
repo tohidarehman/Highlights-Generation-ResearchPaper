@@ -1,0 +1,9 @@
+ Spatial discretization of high-dimensional partial differential equations requires data representations that are of low overhead in terms of memory and complexity. Uniform discretization of computational domains quickly grows out of reach due to an exponential increase in problem size with dimensionality. Even with spatial adaptivity, the number of mesh data points can be unnecessarily large if care is not taken as to where refinement is done. This paper proposes an adaptive scheme that generates the mesh by recursive bisection, allowing mesh blocks to be arbitrarily anisotropic to allow for fine structures in some directions without over-refining in those directions that suffice with less refinement. Within this framework, the mesh blocks are organized in a linear kd-tree with an explicit node index map corresponding to the hierarchical splitting of internal nodes. Algorithms for refinement, coarsening and 2:1 balancing of a mesh hierarchy are derived. To demonstrate the capabilities of the framework, examples of generated meshes are presented and the algorithmic scalability is evaluated on a suite of test problems. In conclusion, although the worst-case complexity of sorting the nodes and building the node map index is , the average runtime scaling in the studied examples is no worse than log
+
+@highlight Structured anisotropic refinement of high-dimensional domains.
+@highlight Recursive bisection of hyperrectangular mesh elements.
+@highlight Linearized kd-tree for storage of the hierarchical mesh decomposition.
+@highlight Examples and scalability studies of meshes in up to 6 dimensions.
+@highlight Complete scheme scales better than
+@highlight log
+@highlight , although worst case is

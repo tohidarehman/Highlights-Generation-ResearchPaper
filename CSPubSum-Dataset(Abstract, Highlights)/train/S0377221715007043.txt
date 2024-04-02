@@ -1,0 +1,5 @@
+ The literature on data envelopment analysis (DEA) often employs multiplier models that incorporate very small (theoretically infinitesimal) lower bounds on the input and output weights. Computational problems arising from the solution of such programs are well known. In this paper we identify an additional theoretical problem that may arise if such bounds are used in a multiplier model with weight restrictions. Namely, we show that the use of small lower bounds may lead to the identification of an efficient target with negative inputs. We suggest a corrected model that overcomes this problem.
+
+@highlight We examine single-stage DEA models with weight restrictions that include a very small lower bound on weights.
+@highlight The use of a small lower bound on weights may lead to negative inputs in efficient targets.
+@highlight We suggest a modified single-stage model that overcomes the noted drawback.

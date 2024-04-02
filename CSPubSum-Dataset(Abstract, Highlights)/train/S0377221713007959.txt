@@ -1,0 +1,5 @@
+ formulated the portfolio selection problem, many researchers have developed models aggregating simultaneously several conflicting attributes such as: the return on investment, risk and liquidity. The portfolio manager generally seeks the best combination of stocks/assets that meets his/her investment objectives. The Goal Programming (GP) model is widely applied to finance and portfolio management. The aim of this paper is to present the different variants of the GP model that have been applied to the financial portfolio selection problem from the 1970s to nowadays.
+
+@highlight We examine different goal programming variants applied to the portfolio selection.
+@highlight Classification of the goal programming model within the portfolio selection.
+@highlight The perspectives of the goal programming for the portfolio selection.

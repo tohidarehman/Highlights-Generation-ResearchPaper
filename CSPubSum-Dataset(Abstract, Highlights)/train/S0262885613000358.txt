@@ -1,0 +1,6 @@
+ We propose a novel symmetry-driven Bayesian framework to incorporate structural shape into conventional geometrical shape descriptor of an image indexing and retrieval. We use rotation and reflection symmetries for structural shape description. Symmetry detection on each shape image provides a qualitative and a quantitative categorization of the types and the degrees of symmetry level. The posterior shape similarity enhances the shape matching performance based on the symmetry structural discrimination. Experimental results show statistically significant improvement on retrieval accuracy over the state of the art methods on MPEG-7 data set.
+
+@highlight We use rotation and reflection symmetries for structural shape description.
+@highlight The posterior shape similarity enhances the shape matching performance.
+@highlight Test results on public dataset show increased retrieval accuracy.
+@highlight Any other previous or future shape representation can be combined with our method.

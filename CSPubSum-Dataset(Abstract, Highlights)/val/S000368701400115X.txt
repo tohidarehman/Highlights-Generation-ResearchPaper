@@ -1,0 +1,6 @@
+ Past efforts have been made to design single-user workstations to accommodate users' anthropometric and preference distributions. However, there is a lack of methods for designing workstations for group interaction. This paper introduces a method for sizing workstations to allow for a personal work area for each user and a shared space for adjacent users. We first create a virtual population with the same anthropometric and preference distributions as an intended demographic of college-aged students. Members of the virtual population are randomly paired to test if their extended reaches overlap but their normal reaches do not. This process is repeated in a Monte Carlo simulation to estimate the total percentage of groups in the population that will be accommodated for a workstation size. We apply our method to two test cases: in the first, we size polygonal workstations for two populations and, in the second, we dimension circular workstations for different group sizes.
+
+@highlight A method for sizing workstations with both personal and shared spaces is presented.
+@highlight The accommodation of pairs (not simply individuals) is considered.
+@highlight The method incorporates the anthropometric distributions of a target population.
+@highlight The method is applied to examples for sizing polygonal and circular workstations.

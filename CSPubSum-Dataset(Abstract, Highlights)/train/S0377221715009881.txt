@@ -1,0 +1,6 @@
+ In this paper we consider the problem of packing unequal circles in a fixed size circular container, where the objective is to maximise the value of the circles packed. We consider two different objectives: maximise the number of circles packed; maximise the area of the circles packed. For the particular case when the objective is to maximise the number of circles packed we prove that the optimal solution is of a particular form. We present a heuristic for the problem based upon formulation space search. Computational results are given for a number of publicly available test problems involving the packing of up to 40 circles. We also present computational results, for test problems taken from the literature, relating to packing both equal and unequal circles.
+
+@highlight First paper to consider packing unequal circles in a fixed size circular container,
+@highlight Proves the optimal solution has a particular form when maximising number packed,
+@highlight Uses formulation space search, a new and merging metaheuristic,
+@highlight Computational results for publicly available test instances with up to 40 circles.

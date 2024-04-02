@@ -1,0 +1,6 @@
+ The Internet of Things (IoT) refers to a world-wide network of interconnected physical things using standardized communication protocols. Recent advancements in IoT protocol stack unveil a possibility for the future IoT based on the stable and scalable Internet Protocol (IP). Then, how can data and events introduced by IP networked things be efficiently exchanged and aggregated in various application domains? The problem, known as service composition, is essential to support the rapid creation of new ubiquitous applications. This article explains the practicability of the future full-IP IoT with realtime Web protocols and discusses the research challenges of service composition.
+
+@highlight Identify future full-IP IoT with IP smart object using realtime Web protocol
+@highlight State the problem of service composition problem in the future IoT
+@highlight Review the state of the art of service composition in the future IoT
+@highlight Provide research challenges of service composition in the future IoT

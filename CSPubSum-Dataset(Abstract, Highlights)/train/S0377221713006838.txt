@@ -1,0 +1,7 @@
+ In opaque selling certain characteristics of the product or service are hidden from the consumer until after purchase, transforming a differentiated good into somewhat of a commodity. Opaque selling has become popular in service pricing as it allows firms to sell their differentiated products at higher prices to regular brand loyal customers while simultaneously selling to non-loyal customers at discounted prices. We develop a stylized model of consumer choice that illustrates the role of opaque selling in market segmentation. We model a firm selling a product via three selling channels: a regular full information channel, an opaque posted price channel and an opaque bidding channel where consumers specify the price they are willing to pay. We illustrate the segmentation created by opaque selling as well as compare optimal revenues and prices for sellers using regular full information channels with those using opaque selling mechanisms in conjunction with regular channels. We also study the segmentation and policy changes induced by capacity constraints.
+
+@highlight We develop a model of endogenous channel choice for online selling.
+@highlight Illustrate the natural segmentation created by opaque selling.
+@highlight Determine optimal prices and bidding thresholds.
+@highlight Show impact of capacity constraints on optimal policies.
+@highlight Illustrate revenue gains from opaque selling.

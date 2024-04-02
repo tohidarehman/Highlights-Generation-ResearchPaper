@@ -1,0 +1,6 @@
+ In this paper, we present an algorithm for efficient encoding of triangle meshes. The algorithm preserves the local relations between vertices by encoding their Laplacian coordinates, while at the same time, it uses a hierarchy of additional vertex constraints that provides global rigidity and low absolute error, even for large meshes. Our scheme outperforms traversal based as well as Laplacian-based compression schemes in terms of both absolute and perceived distortion at a given data rate.
+
+@highlight Efficient compression algorithm for triangle meshes is presented.
+@highlight Performance is demonstrated, in particular with respect to perceptual metrics.
+@highlight Hierarchical extension of mesh Laplacian is presented.
+@highlight Prediction of higher order residuals improves performance.

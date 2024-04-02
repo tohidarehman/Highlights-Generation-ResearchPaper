@@ -1,0 +1,7 @@
+ A computationally efficient method is proposed to construct complicated boundary conditions based on the substructural boundary assumption, which can simplify the complex multilayered composite beam and plate to a reducible structure dimensionally. Moreover, the proposed method can construct various boundary conditions flexibly by the transformation matrix, especially the rational higher-order displacement functions, which can be easily extended into the dynamic analysis by the time integration algorithm. The proposed method shows the consistency with the extended multiscale finite element method (EMsFEM) of the linear boundary condition . Finally, some static and dynamic numerical examples are discussed including multilayered beams and the composite lattice structure, which reveal the high accuracy and efficiency of the method.
+
+@highlight A new two-level method is proposed to construct complicated boundary conditions.
+@highlight The multilayered composite plate is reduced dimensionally by the transformation matrix.
+@highlight The method is easily extended into dynamic analysis by time integration algorithm.
+@highlight The method shows the consistency with extended multiscale finite element method.
+@highlight Some static and dynamic examples reveal the high accuracy and efficiency.

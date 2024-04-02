@@ -1,0 +1,7 @@
+ Intensity inhomogeneity in images makes automated segmentation of these images difficult. As intensity inhomogeneity is often caused by inhomogeneous light reflection, the Retinex theory can be used to reduce inhomogeneity. We introduce the Retinex theory into the active contour model, which is commonly used for image segmentation. The segmentation procedure is then guided by the image intensity and light reflection. In order to solve the proposed model efficiently, we develop a new fast Split Bregman algorithm. Experimental results on a variety of real images with inhomogeneity validate the performance of the proposed methods.
+
+@highlight We propose a global convex segmentation model for images with inhomogeneity.
+@highlight We incorporate the Retinex theory into the active contour model.
+@highlight The segmentating procedure is led by the image intensity and the light reflection.
+@highlight We give the fast and easy Split-Bregman method for the proposed model.
+@highlight Experiments demonstrate the outstanding performance for texture segmentation.

@@ -1,0 +1,7 @@
+ We develop a three-dimensional (3D) shipping information system as a case study for the integration of a dynamic flow field and a 3D virtual geographical environment. A 2D hydrodynamic model is formulated to calculate the waterway depth and velocity distribution by using real-time hydrologic monitoring data. The parallel OpenMP computations take 4min on a 20-core computer. The image-based flow visualization method is used to produce a 2D dynamic flow field on a curved surface, and the integration of dynamic flow fields with a 3D virtual geographical environment was achieved with the OpenSceneGraph rendering engine. Compared with a traditional 2D navigation map, the combination of a flow simulation and a visualization module can integrate flow velocity magnitude and distribution, and enhance ship navigation safety. This functionality will aid the display of integrated scientific information, and will have potential applications within 3D information systems in many domains.
+
+@highlight We studied the flow visualization module in a 3D shipping information system.
+@highlight The surface-based flow visualization and 3D geographical environment were integrated.
+@highlight 2D hydrodynamic model was used to simulate flow conditions with current inflow.
+@highlight Real-time flow conditions and ship attributes were considered for safe navigation.
+@highlight The system can provide early warnings based on GPS and inland navigational standards.

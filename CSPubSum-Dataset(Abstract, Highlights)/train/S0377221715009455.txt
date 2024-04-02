@@ -1,0 +1,7 @@
+ In this paper, we propose a semiparametric version of the zero-inefficiency stochastic frontier model of Kumbhakar, Parmeter, by allowing for the proportion of firms that are fully efficient to depend on a set of covariates via unknown smooth function. We propose a (iterative) backfitting local maximum likelihood estimation procedure that achieves the optimal convergence rates of both frontier parameters and the nonparametric function of the probability of being efficient. We derive the asymptotic bias and variance of the proposed estimator and establish its asymptotic normality. In addition, we discuss how to test for parametric specification of the proportion of firms that are fully efficient as well as how to test for the presence of fully inefficient firms, based on the sieve likelihood ratio statistics. The finite sample behaviors of the proposed estimation procedure and tests are examined using Monte Carlo simulations. An empirical application is further presented to demonstrate the usefulness of the proposed methodology.
+
+@highlight We propose a semiparametric zero-inefficiency stochastic frontier model.
+@highlight We develop a backfitting local maximum likelihood estimation procedure.
+@highlight The proposed estimator is shown to be consistent and asymptotically normal.
+@highlight Monte Carlo results show that the proposed estimator performs well in finite sample.
+@highlight We examine the effects of total assets on the proportion of US banks being efficient.

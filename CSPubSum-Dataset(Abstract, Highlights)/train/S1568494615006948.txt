@@ -1,0 +1,7 @@
+ In this paper, we present a clustering method called clustering by sorting influence power, which incorporates the concept of influence power as measurement among points. In our method, clustering is performed in an efficient tree-growing fashion exploiting both the hypothetical influence powers of data points and the distances among data points. Since influence powers among data points evolve over time, we adopt a PageRank-like algorithm to calculate them iteratively to avoid the issue of improper initial exemplar preference. The experimental results show that our proposed method outperforms four well-known clustering methods across seven complex and non-isotropic datasets. Moreover, our simple clustering method can be easily applied to several practical clustering problems. We evaluate the effectiveness of our algorithm on two real-world datasets, i.e. an open dataset of Alzheimers disease protein–protein interaction network and a dataset for race walking recognition collected by ourselves, and we find our method outperforms other methods reported in the literature.
+
+@highlight Influence power is introduced to measure points’ relation in and between clusters.
+@highlight PageRank-like algorithm is adopted to estimate influence power evolving over time.
+@highlight Clustering is performed in a tree-growing fashion based on influence power.
+@highlight The proposed method outperforms on seven complex and non-isotropic datasets.
+@highlight Alzheimers disease and race walking recognition datasets validates the applicability.

@@ -1,0 +1,6 @@
+ Branch and Fix Coordination is an algorithm intended to solve large scale multi-stage stochastic mixed integer problems, based on the particular structure of such problems, so that they can be broken down into smaller subproblems. With this in mind, it is possible to use distributed computation techniques to solve the several subproblems in a parallel way, almost independently. To guarantee non-anticipativity in the global solution, the values of the integer variables in the subproblems are coordinated by a master thread. Scenario ‘clusters’ lend themselves particularly well to parallelisation, allowing us to solve some problems noticeably faster. Thanks to the decomposition into smaller subproblems, we can also attempt to solve otherwise intractable instances. In this work, we present details on the computational implementation of the Branch and Fix Coordination algorithm.
+
+@highlight Large-scale stochastic mixed-integer programming (SMIP) instances are hard to solve.
+@highlight Branch and Fix Coordination (BFC) algorithm can solve such SMIP instances.
+@highlight The decomposition appears to play an important role.
+@highlight Parallelizing BFC obtains solutions in instances than commercial solvers do not.

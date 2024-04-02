@@ -1,0 +1,7 @@
+ For small resource-rich developing economies, specialization in raw exports is usually considered to be detrimental to growth and Resource-Based Industrialization (RBI) is often advocated to promote export diversification. This paper develops a new methodology to assess the performance of these RBI policies. We first formulate an adapted mean-variance portfolio model that explicitly takes into consideration: (i) a technology-based representation of the set of feasible export combinations and (ii) the cost structure of the resource processing industries. Second, we provide a computationally tractable reformulation of the resulting mixed-integer nonlinear optimization problem. Finally, we present an application to the case of natural gas, comparing current and efficient export-oriented industrialization strategies of nine gas-rich developing countries.
+
+@highlight We model the resource-based export diversification policies of a developing country.
+@highlight We formulate an adapted mean-variance portfolio model to select the optimal strategy.
+@highlight We provide a computationally tractable reformulation of that MINLP.
+@highlight We analyze the industrialization strategies implemented in nine gas-rich countries.
+@highlight We compute non-parametric measures of the efficiency of their current export strategies.

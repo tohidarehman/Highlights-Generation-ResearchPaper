@@ -1,0 +1,7 @@
+ Intensity inhomogeneity (bias field) is a common artefact in magnetic resonance (MR) images, which hinders successful automatic segmentation. In this work, a novel algorithm for simultaneous segmentation and bias field correction is presented. The proposed energy functional allows for explicit regularization of the bias field term, making the model more flexible, which is crucial in presence of strong inhomogeneities. An efficient minimization procedure, attempting to find the global minimum, is applied to the energy functional. The algorithm is evaluated qualitatively and quantitatively using a synthetic example and real MR images of different organs. Comparisons with several state-of-the-art methods demonstrate the superior performance of the proposed technique. Desirable results are obtained even for images with strong and complicated inhomogeneity fields and sparse tissue structures.
+
+@highlight We propose a novel method for simultaneous intensity inhomogeneity correction and segmentation.
+@highlight Energy functional includes total variation regularization for bias field and level set function.
+@highlight The minimization procedure searches the global minimum and does not depend on initialization.
+@highlight The method was tested on synthetic and real images and evaluated qualitatively and quantitatively.
+@highlight The approach produces results, similar or superior in quality compared to other techniques.

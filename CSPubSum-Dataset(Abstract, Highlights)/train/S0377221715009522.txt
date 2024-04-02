@@ -1,0 +1,6 @@
+ We design and implement a dynamic program for valuing corporate securities, seen as derivatives on a firm’s assets, and computing the term structure of yield spreads and default probabilities. Our setting is flexible for it accommodates an extended balance-sheet equality, arbitrary corporate debts, multiple seniority classes, and a reorganization process. This flexibility comes at the expense of a minor loss of efficiency. The analytical approach proposed in the literature is exchanged here for a quasi-analytical approach based on dynamic programming coupled with finite elements. To assess our construction, which shows flexibility and efficiency, we carry out a numerical investigation along with a complete sensitivity analysis.
+
+@highlight We design and implement a dynamic program for valuing corporate securities.
+@highlight Our setting accommodates arbitrary junior and senior corporate debts.
+@highlight We consider an extended balance-sheet equality and a reorganization process.
+@highlight We compute the term structure of yield spreads and default probabilities.

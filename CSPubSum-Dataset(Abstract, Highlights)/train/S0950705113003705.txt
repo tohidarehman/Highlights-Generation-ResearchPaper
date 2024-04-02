@@ -1,0 +1,5 @@
+ One of the most challenging tasks in the development of recommender systems is the design of techniques that can infer the preferences of users through the observation of their actions. Those preferences are essential to obtain a satisfactory accuracy in the recommendations. Preference learning is especially difficult when attributes of different kinds (numeric or linguistic) intervene in the problem, and even more when they take multiple possible values. This paper presents an approach to learn user preferences over numeric and multi-valued linguistic attributes through the analysis of the user selections. The learning algorithm has been tested with real data on restaurants, showing a very good performance.
+
+@highlight Learning preferences implicitly is a challenging task in the design of recommenders.
+@highlight Our approach infers preferences by analyzing choices without any explicit feedback.
+@highlight Choices considered are defined by numerical and multi-valued categorical criteria.

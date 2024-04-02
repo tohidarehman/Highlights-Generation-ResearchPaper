@@ -1,0 +1,5 @@
+ A pre-correction multiscale strategy is developed for the nonlinear thermoelastic analysis of heterogeneous multiphase materials with temperature-dependent properties. In this strategy, based on the multiscale finite element formulation, the numerical base functions (NBFs) are constructed in order to bring the microscopic heterogeneous properties to the macroscopic response. By constructing the microscopic perturbed pre-correction the inaccuracy of the NBFs due to the temperature-dependent properties is better considered, as well as the influence of the microscopic loads. Then the pre-correction multiscale strategy is implemented for the nonlinear heat conduction and thermoelastic analysis. Finally several representative numerical examples are presented and the results indicate that the proposed strategy is efficient and accurate for modeling heterogeneous multiphase materials.
+
+@highlight The microscopic perturbed pre-correction is constructed.
+@highlight Microscopic loads and inaccuracy of the NBFs are better considered.
+@highlight The accuracies of micro- and macro-responses are all improved.

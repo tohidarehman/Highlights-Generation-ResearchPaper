@@ -1,0 +1,6 @@
+ This paper proposes a novel interest rate model that presents simple analytical pricing formulas for interest rate-based derivatives, including swaps, futures, swaptions, caps and floors. Exploring the regime-switching feature of Markov chains, the proposed model focuses on discrete changes in the central bank policy rates – the main driver of short-term rate fluctuations. An empirical analysis shows that the proposed model generally outperforms other standard short-term rate models in fitting cross-sections of options prices. Moreover, the explicit nature of policy rates, to some extent, enables the model to infer risk-neutral probabilities of the central-bank rate decisions.
+
+@highlight This paper introduces a novel framework that allows for a simple pricing of various fixed-income instruments.
+@highlight Analytical formulas are provided for swaps, futures, swaptions, caps and floors.
+@highlight The model is consistent with the fact that the short-end of the yield curve is mainly driven by central-bank decisions.
+@highlight An application shows how the model can be exploited to infer risk-neutral probabilities of central-bank rate decisions.

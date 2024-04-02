@@ -1,0 +1,7 @@
+ This paper proposes a domain-independent statistical methodology to develop dialog managers for spoken dialog systems. Our methodology employs a data-driven classification procedure to generate abstract representations of system turns taking into account the previous history of the dialog. A statistical framework is also introduced for the development and evaluation of dialog systems created using the methodology, which is based on a dialog simulation technique. The benefits and flexibility of the proposed methodology have been validated by developing statistical dialog managers for four spoken dialog systems of different complexity, designed for different languages (English, Italian, and Spanish) and application domains (from transactional to problem-solving tasks). The evaluation results show that the proposed methodology allows rapid development of new dialog managers as well as to explore new dialog strategies, which permit developing new enhanced versions of already existing systems.
+
+@highlight Dialog systems (DS) allow intuitive interaction through natural language.
+@highlight Dialog managers are usually implemented ad hoc and difficult to adapt to new domains.
+@highlight A statistical methodology is proposed to reduce the effort required to develop and adapt dialog managers.
+@highlight User simulation is also proposed to facilitate the acquisition of the required dialog corpus.
+@highlight A complete implementation of our proposal for different dialog systems and its evaluation are also detailed.

@@ -1,0 +1,7 @@
+ Ensemble techniques such as bagging or boosting, which are based on combinations of classifiers, make it possible to design models that are often more accurate than those that are made up of a unique prediction rule. However, the performance of an ensemble solely relies on the diversity of its different components and, ultimately, on the algorithm that is used to create this diversity. It means that such models, when they are designed to forecast corporate bankruptcy, do not incorporate or use any explicit knowledge about this phenomenon that might supplement or enrich the information they are likely to capture. This is the reason why we propose a method that is precisely based on some knowledge that governs bankruptcy, using the concept of “financial profiles”, and we show how the complementarity between this technique and ensemble techniques can improve forecasts.
+
+@highlight We design single and ensemble-based models to forecast bankruptcy.
+@highlight We estimate a set of financial profiles that represent several archetypal situations.
+@highlight We build bankruptcy prediction models that fit each financial profile.
+@highlight We compare model performance using these two ways of designing models.
+@highlight Profile-based models perform better than single and ensemble-based models.

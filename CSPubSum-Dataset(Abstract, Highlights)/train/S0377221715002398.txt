@@ -1,0 +1,6 @@
+ This paper deals with the blocks relocation problem (also called container relocation problem). First, it corrects the binary linear programming model BRP-II presented in Caserta et al. . Second, it improves the initial model formulation by removing superfluous variables, tightening some constraints, introducing a new upper bound and applying a pre-processing step to fix several variables. Computational results show the efficiency of the improved model for small and medium sized instances.
+
+@highlight Corrects the linear programming model BRP-II.
+@highlight Introduces an alternative model BRP-II-A.
+@highlight Presents a novel pre-processing approach.
+@highlight Improves computational results for small and medium-sized instances.

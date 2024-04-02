@@ -1,0 +1,5 @@
+ In this article, the novel (G′/G)-expansion method is used to construct exact travelling wave solutions of the coupled nonlinear evolution equation. This technique is uncomplicated and simple to use, and gives more new general solutions than the other existing methods. Also, it is shown that the novel (G′/G)-expansion method, with the help of symbolic computation, provides a straightforward and vital mathematical tool for solving nonlinear evolution equations. For illustrating its effectiveness, we apply the novel (G′/G)-expansion method for finding the exact solutions of the (2 + 1)-dimensional coupled integrable nonlinear Maccari system.
+
+@highlight The novel (G′/G)-expansion method is applied to solve the Meccari system in mathematical physics.
+@highlight The novel (G′/G)-expansion method gives more new solutions than the other existing method.
+@highlight Solitary wave solutions, periodic wave solutions and multiple explicit solutions are obtained.

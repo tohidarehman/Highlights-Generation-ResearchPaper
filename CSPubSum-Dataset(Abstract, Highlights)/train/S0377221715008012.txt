@@ -1,0 +1,6 @@
+ The reliability of the power plants and transmission lines in the electricity industry is crucial for meeting demand. Consequently, timely maintenance plays a major role reducing breakdowns and avoiding expensive production shutdowns. By now, the literature contains a sound body of work focused on improving decision making in generating units and transmission lines maintenance scheduling. The purpose of this paper is to review that literature. We update previous surveys and provide a more global view of the problem: we study both regulated and deregulated power systems and explore some important features such as network considerations, fuel management, and data uncertainty.
+
+@highlight We review the literature on maintenance scheduling in the electricity industry.
+@highlight We study regulated and deregulated power systems.
+@highlight We discuss on network considerations, fuel management and data uncertainty.
+@highlight We provide a multidimensional classification of references (problem, system, method).

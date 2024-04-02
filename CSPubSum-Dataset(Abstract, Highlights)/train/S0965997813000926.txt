@@ -1,0 +1,7 @@
+ Cellular automata can be applied to solve several problems in a variety of areas, such as biology, chemistry, medicine, physics, astronomy, economics, and urban planning. The automata are defined by simple rules that give rise to behavior of great complexity running on very large matrices. 2D applications may require more than 106 ×106 matrix cells, which are usually beyond the computational capacity of local clusters of computers. This paper presents a solution for traditional cellular automata simulations. We propose a scalable software framework, based on cloud computing technology, which is capable of dealing with very large matrices. The use of the framework facilitates the instrumentation of simulation experiments by non-computer experts, as it removes the burden related to the configuration of MapReduce jobs, so that researchers need only be concerned with their simulation algorithms.
+
+@highlight A solution for traditional cellular automata simulation based on cloud computing.
+@highlight We create a framework capable of dealing with very large matrices.
+@highlight We build an API for high scalability, and simple to use by non-experts.
+@highlight Researchers need only to be concerned with their simulation algorithm.
+@highlight The solution can use 3D cellular automata for special simulations.

@@ -1,0 +1,7 @@
+ The container relocation problem (CRP) is one of the most crucial issues for container terminals. In a single bay, containers belonging to multiple groups should be retrieved by an equipped yard crane in accordance with their retrieval priorities. An operation of the crane can either relocate a container from the top of a stack to another within the bay, or remove a container with the highest retrieval priority among all remaining containers. The objective of the CRP is to find an optimized operation plan for the crane with the fewest number of container relocations. This paper proposes an improved greedy look-ahead heuristic for the CRP and conducts experiments on four existing data sets. The experimental results show that the proposed approach is able to provide better solutions for large-scale instances in shorter runtime, compared to the up-to-date approaches in the recent literature.
+
+@highlight Investigate the container relocation problem, which is a classic problem in container operations in terminals.
+@highlight Develop a greedy look-ahead heuristic to solve the problem.
+@highlight Combine a greedy-based framework with a tree search procedure.
+@highlight Limit the look-ahead tree by the depth and width parameters.
+@highlight Provide high-quality solutions in a short runtime, especially for large-scale instances.

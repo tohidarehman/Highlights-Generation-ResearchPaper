@@ -1,0 +1,5 @@
+ In order to retrieve an image from a large image database, the descriptor should be invariant to geometric transformations (e.g., rotation, scaling, and translation). It must also have enough discriminating power and immunity to noise for retrieval from a large image database. The Exponent moments (EMs) descriptor has many desirable properties such as expression efficiency, robustness to noise, geometric invariance, fast computation, and multi-level representation. In this paper, we analyze the rotation, scaling, and translation (RST) invariant property of EMs, and propose a content-based image retrieval approach using invariant EMs. Experimental results show that the EMs can be used as an effective descriptor of global image content, and the proposed retrieval approach yields higher retrieval accuracy than some current state-of-the-art retrieval methods.
+
+@highlight A new image descriptor, namely Exponent moments (EMs), is introduced.
+@highlight The geometric invariant property of EMs is derived and analyzed.
+@highlight A EMs magnitudes based color image retrieval scheme is presented.

@@ -1,0 +1,5 @@
+ We propose a large neighborhood search (LNS) algorithm to solve the periodic location routing problem (PLRP). The PLRP combines location and routing decisions over a planning horizon in which customers require visits according to a given frequency and the specific visit days can be chosen. We use parallelization strategies that can exploit the availability of multiple processors. The computational results show that the algorithms obtain better results than previous solution methods on a set of standard benchmark instances from the literature.
+
+@highlight We develop different sequential and parallel metaheuristics for the periodic location routing problem.
+@highlight Computational results show that our algorithms outperform previous methods.
+@highlight We also suggest a simple and effective parallelization strategy.

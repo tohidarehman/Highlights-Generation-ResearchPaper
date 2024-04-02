@@ -1,0 +1,7 @@
+ This paper introduces a version of the classical traveling salesman problem with time-dependent service times. In our setting, the duration required to provide service to any customer is not fixed but defined as a function of the time at which service starts at that location. The objective is to minimize the total route duration, which consists of the total travel time plus the total service time. The proposed model can handle several types of service time functions, e.g., linear and quadratic functions. We describe basic properties for certain classes of service time functions, followed by the computation of valid lower and upper bounds. We apply several classes of subtour elimination constraints and measure their effect on the performance of our model. Numerical results obtained by implementing different linear and quadratic service time functions on several test instances are presented.
+
+@highlight We introduce and model the traveling salesman problem with time-dependent service times.
+@highlight The proposed model can handle several types of service time functions, such as linear and quadratic.
+@highlight We describe properties of the service time function and compute valid lower and upper bounds.
+@highlight We propose and compare several mathematical programming formulations for the problem.
+@highlight Comparative computational results indicate that a flow based formulation is superior the other three.

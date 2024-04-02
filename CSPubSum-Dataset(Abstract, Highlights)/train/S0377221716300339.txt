@@ -1,0 +1,7 @@
+ In this paper we analyze a particular aspect of capacity planning that is concerned with the active trading of production facilities. For a homogenous product market we provide a theoretical rationale for the valuation and trading of these assets based on a metric of strategic slack. We show that trading production assets with non-additive portfolio profitability involves complex coordination with multiple equilibria and that these equilibria depend on the foresight in the planning horizon. Using the concept of strategic slack we have analyzed the dynamics of market structure, the impact of asset trading on the level of production of the industry, and to derive boundaries on the value of the traded assets. Moreover, through computational learning, the formulation is applied to a large oligopolistic electricity market, showing that plant trading tends to lead to increased market concentration, high prices, lower production and a decrease in consumer surplus.
+
+@highlight Formal analysis of why companies may trade production facilities.
+@highlight Computational learning algorithm for trading production facilities.
+@highlight Trading production facilities increases market concentration.
+@highlight The degree of foresight influences the choice of equilibrium.
+@highlight Realistic application to the GB electricity market evolution.

@@ -1,0 +1,6 @@
+ This paper is concerned with the Online Quota Traveling Salesman Problem. Depending on the symmetry of the metric and the requirement for the salesman to return to the origin, four variants are analyzed. We present optimal deterministic algorithms for each variant defined on a general space, a real line, or a half-line. As a byproduct, an improved lower bound for a variant of Online TSP on a half-line is also obtained.
+
+@highlight We examine various variants of the Online Quota Traveling Salesman Problem.
+@highlight The best lower bounds and algorithms for the variants are obtained.
+@highlight We get a nearly complete map of the optimal algorithms for variants of Online QTSP.
+@highlight A best lower bound for a variant of Online TSP on a half-line is also obtained.

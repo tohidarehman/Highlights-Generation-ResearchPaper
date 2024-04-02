@@ -1,0 +1,6 @@
+ Based on the computation of a superset of the implicit support, implicitization of a parametrically given hypersurface is reduced to computing the nullspace of a numeric matrix. Our approach predicts the Newton polytope of the implicit equation by exploiting the sparseness of the given parametric equations and of the implicit polynomial, without being affected by the presence of any base points. In this work, we study how this interpolation matrix expresses the implicit equation as a matrix determinant, which is useful for certain operations such as ray shooting, and how it can be used to reduce some key geometric predicates on the hypersurface, namely membership and sidedness for given query points, to simple numerical operations on the matrix, without need to develop the implicit equation. We illustrate our results with examples based on our Maple implementation.
+
+@highlight The method applies to curves and (hyper) surfaces that may contain base point.
+@highlight We exploit sparseness of the parameterization and of the implicit equation.
+@highlight The interpolation matrix suffices for membership and sidedness predicates.
+@highlight Our Maple code implements exact as well as approximate computation.

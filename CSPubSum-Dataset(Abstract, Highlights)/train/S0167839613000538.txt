@@ -1,0 +1,5 @@
+ Spiral segments are useful in the design of fair curves. They are important in CAD/CAM applications, the design of highway and railway routes, trajectories of mobile robots and other similar applications. The quintic Pythagorean-hodograph (PH) curve discussed in this article is polynomial; it has the attractive properties that its arc-length is a polynomial of its parameter, and the formula for its offset is a rational algebraic expression. This paper generalises earlier results on planar PH quintic spiral segments and examines techniques for designing fair curves using the new results.
+
+@highlight Earlier characterisations of PH quintic spirals are generalised to avoid an endpoint of zero curvature.
+@highlight The analysis allows the design of C-shaped PH quintic curves without flatspots.
+@highlight Techniques for designing fair curves using these new spiral segments are presented.

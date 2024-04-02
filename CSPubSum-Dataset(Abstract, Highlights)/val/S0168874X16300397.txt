@@ -1,0 +1,7 @@
+ We present a new approach to compute the mass matrix of solid finite elements which allows a significant reduction in the number of integration points. The method is based on exploiting information regarding the mathematical form of the integrand. This enables higher degree of precision for the same number of integration points compared to standard quadrature use. The approach is general and can be applied to both consistent and lumped matrices of all element types. Here, we focus on the consistent mass matrix of the widely used 10-node tetrahedral element, and demonstrate the superiority of the new approach over conventional quadrature use. For example, we show that the new integration scheme enables a degree of precision 4 with 1 integration point compared to 11 points with conventional numerical integration. Also, our 4-points integration rule is practically equivalent to conventional numerical integration with 15 points.
+
+@highlight We present a new approach to compute the mass matrix of solid finite elements.
+@highlight The number of integration points is significantly reduced for the same accuracy.
+@highlight Numerical examples focus on consistent mass matrix of 10-node tetrahedral element.
+@highlight The new integration scheme enables a degree of precision 4 with 1 integration point.
+@highlight In comparison, conventional schemes require 11 points for degree of precision 4.

@@ -1,0 +1,6 @@
+ Because sustainable scheduling is attracting increasing amounts of attention from many manufacturing companies and energy is a central concern regarding sustainability, the purpose of this paper is to develop a research framework for “energy-efficient scheduling” (EES). EES approaches are scheduling approaches that have the objective of improving energy efficiency. Based on an iterative methodology, we review, analyze, and synthesize the current state of the literature and propose a completely new research framework to structure the research field. In doing so, the three dimensions “energetic coverage”, “energy supply”, and “energy demand” are introduced and used to classify the literature. Each of these dimensions contains categories and attributes to specify energy-related characteristics that are relevant for EES. We further provide an empirical analysis of the reviewed literature and emphasize the benefits that can be achieved by EES in practice.
+
+@highlight A new research framework for energy-efficient scheduling (EES).
+@highlight Energetic coverage, energy supply and energy demand are main EES categories.
+@highlight We categorize the current state of literature into the developed framework.
+@highlight Numerical benefits of EES approaches with real-world case studies are presented.

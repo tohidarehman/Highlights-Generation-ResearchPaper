@@ -1,0 +1,5 @@
+ Textual entailment is a task for which the application of supervised learning mechanisms has received considerable attention as driven by successive Recognizing Data Entailment data challenges. We developed a linguistic analysis framework in which a number of similarity/dissimilarity features are extracted for each entailment pair in a data set and various classifier methods are evaluated based on the instance data derived from the extracted features. The focus of the paper is to compare and contrast the performance of single and ensemble based learning algorithms for a number of data sets. We showed that there is some benefit to the use of ensemble approaches but, based on the extracted features, Naïve Bayes proved to be the strongest learning mechanism. Only one ensemble approach demonstrated a slight improvement over the technique of Naïve Bayes.
+
+@highlight Feature extraction for the processing of supervised entailment classification.
+@highlight Comparison of various ensemble methods to single learning approaches.
+@highlight Consideration of a novel heterogeneous/homogeneous ensemble combination for the problem area.

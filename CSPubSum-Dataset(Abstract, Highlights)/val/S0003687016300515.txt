@@ -1,0 +1,7 @@
+ Nowadays, working in an office environment is ubiquitous. At the same time, progressively more people suffer from occupational musculoskeletal disorders. Therefore, the aim of this pilot study was to analyse the influence of back pain on sitting behaviour in the office environment. A textile pressure mat (64-sensor-matrix) placed on the seat pan was used to identify the adopted sitting positions of 20 office workers by means of random forest classification. Additionally, two standardised questionnaires (Korff, BPI) were used to assess short and long-term back pain in order to divide the subjects into two groups (with and without back pain). Independent t-test indicated that subjects who registered back pain within the last 24 h showed a clear trend towards a more static sitting behaviour. Therefore, the developed sensor system has successfully been introduced to characterise and compare sitting behaviour of subjects with and without back pain.
+
+@highlight A new Sitting Categorisation Technology (SIT-CAT) was successfully introduced.
+@highlight SIT-CAT allows classification of sitting posture with an accuracy >80%.
+@highlight Occupational sitting behaviour was quantified in 20 subjects.
+@highlight Individuals with back pain exhibited a more static sitting behaviour.
+@highlight SIT-CAT shows potential for monitoring sitting behaviour in the office environment.

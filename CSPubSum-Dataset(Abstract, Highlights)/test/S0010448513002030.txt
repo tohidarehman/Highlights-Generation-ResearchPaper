@@ -1,0 +1,8 @@
+ In this paper, we propose a high capacity reversible data hiding method for 2D vector maps based on virtual coordinates. In the scheme, we calculate two virtual coordinates for each eligible coordinate, and embed ) secret bits by modifying the state value of the interval which is created by the two corresponding virtual coordinates. Since nearly every coordinate can carry bits, the data capacity in bits achieves nearly times the number of vertices in the vector map. In addition, to resist content preserving operations, the vertex traversing order is defined. Experimental results and analysis show that the proposed method provides good reversibility, invisibility and computational complexity and is robust against the feature rearrangement and vertex reversing attacks for polylines and polygons.
+
+@highlight We develop a high capacity reversible data hiding method for 2D vector maps.
+@highlight Virtual coordinates are exploited to expand the capacity.
+@highlight The data capacity achieves nearly
+@highlight bits/vertex.
+@highlight The reversibility, invisibility, and computational complexity are good.
+@highlight For polylines and polygons, content preserving operations can be resisted.

@@ -1,0 +1,5 @@
+ Stack smashing is one of the most popular techniques for hijacking program controls. Various techniques have been proposed, but most techniques need to alter compilers or require hardware support, and only few of them are developed for Windows. In this paper, we design a Secure Return Address Stack to defeat stack smashing attacks on Windows. Our approach does not need source code and hardware support. We also extend our approach to instrument a DLL, a multi-thread application, and DLLs used by multi-thread applications. Benchmark GnuWin32 shows that the relative performance overhead of our approach is only between 3.47% and 8.59%.
+
+@highlight Design a method to protect the return address stack from stack smashing attacks.
+@highlight Our approach does not need source code and hardware support.
+@highlight Relative performance overhead is only between 3.47% and 8.59%.

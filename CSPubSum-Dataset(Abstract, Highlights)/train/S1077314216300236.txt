@@ -1,0 +1,7 @@
+ Extracting 3D information from a moving camera is traditionally based on interest point detection and matching. This is especially challenging in urban indoor- and outdoor environments, where the number of distinctive interest points is naturally limited. While common Structure-from-Motion (SfM) approaches usually manage to obtain the correct camera poses, the number of accurate 3D points is very small due to the low number of matchable features. Subsequent Multi-view Stereo approaches may help to overcome this problem, but suffer from a high computational complexity. We propose a novel approach for the task of 3D scene abstraction, which uses straight line segments as underlying features. We use purely geometric constraints to match 2D line segments from different images, and formulate the reconstruction procedure as a graph-clustering problem. We show that our method generates accurate 3D models with low computational costs, which makes it especially useful for large-scale urban datasets.
+
+@highlight A robust and efficient line-based Multi-v iew Stereo algorithm is introduced.
+@highlight It uses geometric line-matching, which makes it invariant to illumination changes.
+@highlight 3D lines are reconstructed via an efficient graph-clustering of 2D line segments.
+@highlight The algorithm can process large-scale datasets within less than a sec./image.
+@highlight The source code is publicly available for download under the GPL license.

@@ -1,0 +1,8 @@
+ In this paper we propose a general methodology for solving a broad class of continuous, multifacility location problems, in any dimension and with ℓ -norms proposing two different methodologies:  by a new second order cone mixed integer programming formulation and  by formulating a sequence of semidefinite programs that converges to the solution of the problem; each of these relaxed problems solvable with SDP solvers in polynomial time.
+
+@highlight New models for continuous multifacility location with any ℓ
+@highlight norm are presented.
+@highlight For multiple allocation problems we provide SOCP formulations.
+@highlight For single allocation problem, the formulation becomes a MISOCO problem.
+@highlight Alternatively, a hierarchy of SDP problems converging to the optimal solution is given.
+@highlight Some computational results with the presented models are reported.

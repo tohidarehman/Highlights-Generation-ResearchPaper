@@ -1,0 +1,7 @@
+ All manufactured products have geometrical variations which may impact their functional behavior. Tolerance analysis aims at analyzing the influence of these variations on product behavior, the goal being to evaluate the quality level of the product during its design stage. Analysis methods must verify whether specified tolerances enable the assembly and functional requirements. This paper first focuses on a literature overview of tolerance analysis methods which need to deal with a linearized model of the mechanical behavior. Secondly, the paper shows that the linearization impacts the computed quality level and thus may mislead the conclusion about the analysis. Different linearization strategies are considered, it is shown on an over-constrained mechanism in 3D that the strategy must be carefully chosen in order to not over-estimate the quality level. Finally, combining several strategies allows to define a confidence interval containing the true quality level.
+
+@highlight A tolerance analysis approaches overview is proposed.
+@highlight A linearization procedure of the behavior model is required for both approaches.
+@highlight Some linearization strategies provide conservative probability of failure results.
+@highlight A confidence interval is obtained using two different linearization strategies.
+@highlight The order of magnitude of the probability has an effect on the convergence speed.

@@ -1,0 +1,7 @@
+ In this paper, we propose a method to extend the multi-phase piecewise-constant segmentation method of Mumford and Shah to the multi-channel case. To this effect, we show that it is crucial to find an agreement between the syntactic constraint of obtaining regions that form a partition of the image space and the semantic constraint that attributes a formal meaning to the segmented regions. We elaborate from the work of Sandberg et al. that addresses the same problem in the binary (2-phase) case and we show that the agreement principle presented there, based on De Morgan’s law, cannot be generalized to the multi-phase case. Therefore, we base the agreement between syntactic and semantic constraints on another mathematical principle, namely the fundamental theorem of equivalence relation. After we give some details regarding the implementation of the method, we show results on brain MR T1-weighted and T2-weighted images, which illustrate the good behavior of our method, leading to robust joint segmentation of brain structures and tumors.
+
+@highlight Problem: how to obtain a meaningful multi-phase and multi-channel segmentation?
+@highlight Syntactic constraints: related to the form. Ex. regions form a partition of the image.
+@highlight Semantic constraints: attribute a certain interpretation to regions.
+@highlight Provide principles to avoid conflicts between the two types of constraints.
+@highlight Our segmentation model guarantees meaningful segmentation.

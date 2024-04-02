@@ -1,0 +1,5 @@
+ In the last decade several papers appeared on facility location problems that incorporate customer demand by the multinomial logit model. Three linear reformulations of the original non-linear model have been proposed so far. In this paper, we discuss these models in terms of solvability. We present empirical findings based on synthetic data.
+
+@highlight Comparison of linear reformulations.
+@highlight Unified notation.
+@highlight Evaluation in terms of solvability.

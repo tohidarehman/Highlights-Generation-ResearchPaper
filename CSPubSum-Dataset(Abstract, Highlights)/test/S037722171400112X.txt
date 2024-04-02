@@ -1,0 +1,6 @@
+ This paper treats an M/G/1 retrial queue with non-persistent customers, where the server is subject to failure due to the negative arrivals. After a completion of a service or a repair, the server searches for the customers in the orbit or remains idle. By using embedded Markov chain technique and the supplementary variable method, we present the necessary and sufficient condition for the system to be stable and the joint queue length distribution in steady state. The waiting process is also given. Some main reliability measures, such as the availability, failure frequency, and the reliability function of the server, are obtained. Finally, some numerical examples and cost optimization analysis are presented.
+
+@highlight We introduce orbital search and impatient customers into a repairable M/G/1-G retrial queue.
+@highlight We present the stationary condition of the system and steady-state analysis.
+@highlight We present the analysis of the distribution of the waiting time.
+@highlight Some main reliability measures are provided.

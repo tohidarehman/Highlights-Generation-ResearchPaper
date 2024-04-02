@@ -1,0 +1,8 @@
+ In this paper, we propose an efficient technique for linearizing facility location problems with site-dependent failure probabilities, focusing on the unreliable p-median problem. Our approach is based on the use of a specialized flow network, which we refer to as a probability chain, to evaluate compound probability terms. The resulting linear model is compact in size. The method can be employed in a straightforward way to linearize similarly structured problems, such as the maximum expected covering problem. We further discuss how probability chains can be extended to problems with co-location and other, more general problem classes. Additional lower bounds as well as valid inequalities for use within a branch and cut algorithm are introduced to significantly speed up overall solution time. Computational results are presented for several test problems showing the efficiency of our linear model in comparison to existing problem formulations.
+
+@highlight An exact linearization technique based on the idea of probability chains is presented for modeling reliability in facility location.
+@highlight A well known model is considered in detail: the unreliable p-median problem.
+@highlight The method can be employed in a straightforward way to linearize other similarly structured problems containing compound probability terms.
+@highlight Extensions to problems with co-location and other, more general problem classes are discussed.
+@highlight Additional lower bounds as well as valid inequalities are proposed to significantly speed up overall solution time.
+@highlight Results demonstrate the efficiency of our linear model in comparison to existing problem formulations.

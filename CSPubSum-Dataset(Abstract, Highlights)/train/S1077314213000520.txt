@@ -1,0 +1,7 @@
+ For the purpose of content-based image retrieval (CBIR), image classification is important to help improve the retrieval accuracy and speed of the retrieval process. However, the CBIR systems that employ image classification suffer from the problem of hidden classes. The queries associated with hidden classes cannot be accurately answered using a traditional CBIR system. To address this problem, a robust CBIR scheme is proposed that incorporates a novel query detection technique and a self-adaptive retrieval strategy. A number of experiments carried out on the two popular image datasets demonstrate the effectiveness of the proposed scheme.
+
+@highlight We address a new robust problem, named hidden classes, in content-based image retrieval (CBIR).
+@highlight We propose a new robust CBIR scheme using multi-image queries to tackle the difficule problem.
+@highlight We develop a novel query detection technique to separate queries as common or novel according to their underlying classes.
+@highlight We apply a self-adaptive retrieval strategy to handle different types of queries automatically.
+@highlight We design and carry out a number of experiments to demonstrate the effectiveness of our scheme.

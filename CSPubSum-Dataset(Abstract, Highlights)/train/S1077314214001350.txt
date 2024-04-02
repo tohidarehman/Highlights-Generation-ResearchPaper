@@ -1,0 +1,7 @@
+ Catadioptric systems consist of the combination of lenses and mirrors. From them, central panoramic systems stand out because they provide a unique effective viewpoint, leading to the well-known unifying theory for central catadioptric systems. This paper considers catadioptric systems consisting of a conical mirror and a perspective camera. Although a system with conical mirror does not possess a single projection point, it has some advantages as the cone is a very simple shape to produce, it has higher resolution in the peripheral, and adds less optical distortion to the images. The contributions of this work are the model of this non-central system by means of projective mappings from a torus to a plane, the procedure to calibrate this system, and the definition of the conical fundamental matrix with a role similar to that of perspective cameras. Additionally, a procedure to compute the relative motion between two views from the conical fundamental matrix is presented. The proposal is illustrated with simulations and real experiments.
+
+@highlight We propose a new model for conical mirror based catadioptric systems.
+@highlight Definition of the unitary torus to model this non-central system.
+@highlight Definition of the conical fundamental matrix.
+@highlight Motion computation across two views from the conical fundamental matrix.
+@highlight The proposal is illustrated with simulations and real experiments.

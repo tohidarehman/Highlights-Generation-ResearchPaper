@@ -1,0 +1,7 @@
+ Operatives' training is crucial in emergency management. Traditional exercises to improve procedures interoperability and harmonization between agencies are complex and expensive. Research on command and control systems specifically designed for emergency management and on virtual reality use leads towards enhancing real world applications' capabilities, facilitating management and optimizing resource usage. This paper proposes a new architecture for a training system based on the interconnection between real and virtual worlds extending the MPEG-V standard; allowing real and virtual units' simultaneous and real-time training using commercial off-the-shelf equipment, and including a novel subsystem for video management from both real and virtual sources.
+
+@highlight An architecture for joint real/virtual training in emergency management is proposed.
+@highlight Deployment of a middleware using MPEG-V where different applications interoperate.
+@highlight Deployment and integration of a subsystem for video management
+@highlight The proposed system improves the ways of actuation and response in crisis events.
+@highlight The system has a satisfactory performance and that the use of resources is adequate.

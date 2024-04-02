@@ -1,0 +1,6 @@
+ The shape sensitivity analysis using the direct differentiation method is developed for the case of axisymmetry with superposed torsion in the framework of finite strains and elastic material behavior. The accuracy of this method is compared to results obtained by the finite difference method in two simple examples.
+
+@highlight We present a sensitivity analysis for axisymmetry including torsion using the direct differentiation method.
+@highlight The sensitivity analysis is performed in the framework of finite strains.
+@highlight The accuracy is assessed by comparison with finite difference results.
+@highlight The sensitivity analysis permits the use of gradient-based methods in shape optimization in axisymmetry with torsional loads.

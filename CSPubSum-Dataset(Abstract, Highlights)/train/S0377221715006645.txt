@@ -1,0 +1,6 @@
+ We study a passenger–taxi problem in this paper. The objective to maximize the social welfare and optimize the allocation of taxi market resources. We analyze the strategic behavior of passengers who decide whether to join the system or balk in both observable and unobservable cases. In observable case, we obtain the optimal selfish threshold that maximizes their individual revenues and give the conditions of the existence of the optimal selfless threshold that maximize the social welfare. In unobservable case, we discuss the equilibrium strategies for the selfish passengers and derive the optimal arrival rate for the socially concerned passengers. Further, we analyze how the government controls the number of taxis by subsidizing taxis or levying a tax on taxis.
+
+@highlight To study the optimization of a passenger–taxi matching system.
+@highlight To analyze the behavior of socially concerned and selfish passengers.
+@highlight To derive the optimal taxi buffer size by maximizing the social welfare.
+@highlight To provide a policy to balance the benefit between passengers and taxi.

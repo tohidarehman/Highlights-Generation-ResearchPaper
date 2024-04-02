@@ -1,0 +1,5 @@
+ We study the strategic behavior of two countries facing transboundary CO2 pollution under a differential game setting. In our model, the reduction of CO2 concentration occurs through the carbon capture and storage process, rather than through the adoption of cleaner technologies. Furthermore, we first provide the explicit short-run dynamics for this dynamic game with symmetric open-loop and a special Markovian Nash strategy. Then, we compare these strategies at the games’ steady states and along some balanced growth paths. Our results show that if the initial level of CO2 is relatively high, state dependent emissions reductions can lead to higher overall environmental quality, hence, feedback strategy leads to less social waste.
+
+@highlight Theoretical study of Carbon capture and storage from economic point of view.
+@highlight Differential game is applied to study impact of open-loop and some Markovian strategies.
+@highlight Feedback strategy may lead to less social waste.

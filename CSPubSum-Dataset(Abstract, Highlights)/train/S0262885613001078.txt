@@ -1,0 +1,5 @@
+ This paper addresses the general problem of robust parametric model estimation from data that has both an unknown (and possibly majority) fraction of outliers as well as an unknown scale of measurement noise. We focus on computer vision applications from image correspondences, such as camera resectioning, estimation of the fundamental matrix or relative pose for 3D reconstruction, and estimation of 2D homographies for image registration and motion segmentation, although there are many other applications. In practice, these methods typically rely on a predefined inlier thresholds because automatic scale detection is usually too unreliable or too slow. We propose a new method for robust estimation with automatic scale detection that is faster, more precise and more robust than previous alternatives, and show that it can be practically applied to these problems.
+
+@highlight robust scale estimation without a breakdown point
+@highlight insensitive to inlier noise distribution
+@highlight efficient and practical application to many computer vision problems

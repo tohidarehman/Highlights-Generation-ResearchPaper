@@ -1,0 +1,7 @@
+ Distribution companies that serve a very large number of customers, courier companies for example, often partition the geographical region served by a depot into zones. Each zone is assigned to a single vehicle and each vehicle serves a single zone. An alternative approach is to partition the distribution region into smaller microzones that are assigned to a preferred vehicle in a so-called tactical plan. The moment the workload in each microzone is known, the microzones can be reassigned to vehicles in such a way that the total distance traveled is minimized, the workload of the different vehicles is balanced, and as many microzones as possible are assigned to their preferred vehicle. In this paper we model the resulting microzone-based vehicle routing problem as a multi-objective optimization problem and develop a simple yet effective algorithm to solve it. We analyze this algorithm and discuss the results it obtains.
+
+@highlight The zone based vehicle routing problem is modeled as a multi-objective problem.
+@highlight A tactical plan is used as a starting point for creating an operational plan.
+@highlight The order in which microzones are placed in the start solution is less important.
+@highlight Combining microzones has a positive influence on the workload imbalance.
+@highlight Exchanging microzones between drivers reduces the workload imbalance.

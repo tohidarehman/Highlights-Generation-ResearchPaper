@@ -1,0 +1,6 @@
+ This paper presents multi-quantized local binary patterns for facial gender classification. For encoding the gray level difference (GLD) between a reference pixel and its neighbors, local binary pattern employs a binary quantization which retains the sign of GLD but discards the magnitude information. To improve the discrimination capability, the proposed method utilizes both the sign and magnitude components by performing multi-level vector quantization of GLD. Each quantized level is then separately encoded to generate multiple local binary patterns. The proposed method is evaluated on four publicly available datasets (FERET, PAL, CASIA and FEI) through extensive experiments. Comparison of performance with various existing methods clearly demonstrated that the proposed method has advantages such as higher discrimination power, improved noise robustness and better generalization capability.
+
+@highlight Multi-level quantization scheme is proposed to enhance discrimination power of LBP.
+@highlight The proposed method utilizes both the sign and magnitude components from GLD.
+@highlight The results of the experiments validate the robustness of the proposed method.
+@highlight Thorough evaluation of four popular features (LBP, CLBP, ELBP and LTP) is presented.

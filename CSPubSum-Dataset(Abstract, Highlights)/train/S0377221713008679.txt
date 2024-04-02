@@ -1,0 +1,5 @@
+ The minimum cost path problem in a time-varying road network is a complicated problem. The paper proposes two heuristic methods to solve the minimum cost path problem between a pair of nodes with a time-varying road network and a congestion charge. The heuristic methods are compared with an alternative exact method using real traffic information. Also, the heuristic methods are tested in a benchmark dataset and a London road network dataset. The heuristic methods can achieve good solutions in a reasonable running time.
+
+@highlight The paper introduces two new heuristics for finding the least cost path in a time-varying road network.
+@highlight The performances of the heuristics are compared with a previously published algorithm.
+@highlight The heuristics are tested using real-world traffic data and road networks where a congestion charge scheme is in operation.

@@ -1,0 +1,7 @@
+ This paper extends possibilities for analyzing incomplete ordinal information about the parameters of an additive value function. Such information is modeled through preference statements which associate sets of alternatives or attributes with corresponding sets of rankings. These preference statements can be particularly helpful in developing a joint preference representation for a group of decision-makers who may find difficulties in agreeing on numerical parameter values. Because these statements can lead to a non-convex set of feasible parameters, a mixed integer linear formulation is developed to establish a linear model for the computation of decision recommendations. This makes it possible to complete incomplete ordinal information with other forms of incomplete information.
+
+@highlight Ordinal preference statements are arguably more reliable than numerical evaluations.
+@highlight We develop a framework which admits incomplete ordinal preference statements.
+@highlight We develop a model to compute decision recommendations in this framework.
+@highlight The model allows use of other forms of incomplete preference information.
+@highlight Incomplete ordinal information can be useful in building a group’s preference model.

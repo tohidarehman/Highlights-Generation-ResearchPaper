@@ -1,0 +1,7 @@
+ This paper introduces a successive perturbation-based method for multiscale stochastic analysis of heterogeneous materials such as composite materials. Microscopic random variations sometimes have a significant influence on homogenized material properties and microscopic stress fields. Therefore, multiscale stochastic problems should be analyzed to evaluate the reliability of composite structures. Further, in order to assess the result of numerical analysis of a composite structure, this type of uncertainty propagation should be taken into account. For this purpose, the successive perturbation based approach is proposed. As a numerical example, the stochastic homogenization and multiscale stochastic stress analysis problem of composite materials are solved considering microscopic random variations. From the numerical results, the proposed approach gives a more accurate estimation than the conventional perturbation approach. Also, our proposed method works well for both smooth nonlinear response functions and non-smooth response functions.
+
+@highlight We propose the successive perturbation approach for the multiscale stochastic problems.
+@highlight The method can be applied to both nonlinear and non-smooth responses.
+@highlight Accuracy of the proposed method is investigated compared with the MC simulation.
+@highlight The cost for the analysis can be reduced by employing the method.
+@highlight The method enables to estimate the probabilistic properties of the maximum stress.

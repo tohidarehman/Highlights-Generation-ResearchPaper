@@ -1,0 +1,6 @@
+ Hand detection has many important applications in Human-Computer Interactions, yet it is a challenging problem because the appearance of hands can vary greatly in images. In this paper, we present a new approach that exploits the inherent contextual information from structured hand labelling for pixel-level hand detection and hand part labelling. By using a random forest framework, our method can predict hand mask and hand part labels in an efficient and robust manner. Through experiments, we demonstrate that our method can outperform other state-of-the-art pixel-level detection methods in ego-centric videos, and further be able to parse hand parts in details.
+
+@highlight Introduce structured learning to pixel-level hand labelling task.
+@highlight Robust & efficient for binary hand detection and multi-class hand part labelling.
+@highlight Novel structured split criterion.
+@highlight Superior performance due to better utilizing training data.

@@ -1,0 +1,5 @@
+ Non-specific lipid transfer proteins (ns-LTPs), ubiquitously found in various types of plants, have been well-known to transfer amphiphilic lipids and promote the lipid exchange between mitochondria and microbody. In this study, an in silico analysis was proposed to study ns-LTP in Peganum harmala L., which may belong to ns-LTP1 family, aiming at constructing its three-dimensional structure. Moreover, we adopted MEGA to analyze ns-LTPs and other species phylogenetically, which brought out an initial sequence alignment of ns-LTPs. In addition, we used molecular docking and molecular dynamics simulations to further investigate the affinities and stabilities of ns-LTP with several ligands complexes. Taken together, our results about ns-LTPs and their ligand-binding activities can provide a better understanding of the lipid–protein interactions, indicating some future applications of ns-LTP-mediated transport.
+
+@highlight PHL-nsLTP belongs to ns-LTP1 family.
+@highlight PHL-nsLTP could accommodate fatty acids ranging from C10 to C18 in size.
+@highlight The hydrophobic cavity of PHL-nsLTP presents important role in its binding activity.

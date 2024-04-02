@@ -1,0 +1,6 @@
+ Principal Component Analysis (PCA) is the most common nonparametric method for estimating the volatility structure of Gaussian interest rate models. One major difficulty in the estimation of these models is the fact that forward rate curves are not directly observable from the market so that non-trivial observational errors arise in any statistical analysis. In this work, we point out that the classical PCA analysis is not suitable for estimating factors of forward rate curves due to the presence of measurement errors induced by market microstructure effects and numerical interpolation. Our analysis indicates that the PCA based on the long-run covariance matrix is capable to extract the true covariance structure of the forward rate curves in the presence of observational errors. Moreover, it provides a significant reduction in the pricing errors due to noisy data typically found in forward rate curves.
+
+@highlight PCA analysis is not suitable for estimating forward rate factors due to noisy data.
+@highlight Robust Principal Component Analysis estimation of term structure models.
+@highlight Consistent estimation of number of factors in forward curves.
+@highlight Implications for pricing interest rate derivatives are also discussed.

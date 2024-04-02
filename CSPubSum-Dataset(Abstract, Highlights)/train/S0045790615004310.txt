@@ -1,0 +1,6 @@
+ In this paper, a distributed base station cooperation-based handover management method is proposed for WiMAX Point-to-Multi-Point networks to provide quality of service to handover nodes. Moreover, a delay reduction method is proposed to reduce the packet delivery delays during handover. A Call Admission Control (CAC) algorithm is proposed to handle handover calls of various service classes fairly, according to their priorities. A bandwidth borrowing scheme is proposed to reduce the handover call dropping probabilities of various service classes while not starving the ongoing calls of lower priority service classes. A Markov model is developed to analyze the proposed CAC method and to obtain the approximate handover call dropping probabilities of various service classes. Simulation experiments are conducted to establish the performance advantages of the proposed handover management and CAC methods.
+
+@highlight A distributed base station cooperation method for WiMAX PMP networks is proposed.
+@highlight A delay reduction method to support delay requirements during handover is proposed.
+@highlight A fair and starvation preventing call admission control method is proposed.
+@highlight Analytical dropping probabilities of various service classes are obtained.

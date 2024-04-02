@@ -1,0 +1,7 @@
+ We propose a method for bank efficiency assessment, based on weight restricted DEA, that limits banks’ abilities to use extreme weights, corresponding to extreme judgements of the risk adjusted prices on funding sources and assets. Based on a data set comprising the largest European banks during the financial crisis, we illustrate the impact of the proposed weight restrictions in two different efficiency models; one related to banks’ funding mix and one related to their asset mix. The results show that using a more balanced set of weights tend to reduce the estimated efficiency scores more for those banks which were bailed out during the crisis, which confirms the potential bias within standard DEA that does not control for extreme weights applied by highly risky banks. We discuss the use of the proposed method as a regulatory tool to constrain discretion when complying with regulatory capital benchmarks such as the Basel regulatory capital ratios.
+
+@highlight Extreme input/output mixes result in extreme weights in DEA.
+@highlight We propose using weight restricted DEA models to limit banks’ abilities to use such extreme weights.
+@highlight Very topical in light of the recent financial crisis.
+@highlight We empirically examine differences between bailed-out and non-bailed-out banks in Europe.
+@highlight The approach improves efficiency measurement and has potential use in regulation.

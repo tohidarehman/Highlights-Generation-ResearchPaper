@@ -1,0 +1,5 @@
+ The annual dairy transportation problem involves designing the routes that collect milk from farms and deliver it to processing plants. The demands of these plants can change from one week to the next, but the collection is fixed by contract and must remain the same throughout the year. While the routes are currently designed using the historical average demand from the plants, we show that including the information about plants demands leads to significant savings. We propose a two-stage method based on an adaptive large neighborhood search (ALNS). The first phase solves the transportation problem and the second phase ensures that the optimization of plant assignment is performed. An additional analysis based on period clustering is conducted to speed up the resolution.
+
+@highlight We propose a simple two-stage solution method to solve the ADTP.
+@highlight We improve the state of the art method on the related DTP.
+@highlight On some cases solving the ADTP instead of the DTP can lead to significant savings.

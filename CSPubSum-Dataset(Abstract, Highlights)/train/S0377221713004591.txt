@@ -1,0 +1,7 @@
+ Two-staged patterns are often used in manufacturing industries to divide stock plates into rectangular items. A heuristic algorithm is presented to solve the rectangular two-dimensional single stock size cutting stock problem with two-staged patterns. It uses the column-generation method to solve the residual problems repeatedly, until the demands of all items are satisfied. Each pattern is generated using a procedure for the constrained single large object placement problem to guarantee the convergence of the algorithm. The computational results of benchmark and practical instances indicate the following:  the algorithm can solve most instances to optimality, with the gap to optimality being at most one plate for those solutions whose optimality is not proven and  for the instances tested, the algorithm is more efficient (on average) in reducing the number of plates used than a published algorithm and a commercial stock cutting software package.
+
+@highlight We propose a recursion for packing rectangular items into strips.
+@highlight We propose a recursion for placing strips on the plate.
+@highlight The cutting plan is obtained from solving a sequence of residual problems.
+@highlight Solve more than 75% of the benchmark instances to optimality.
+@highlight Achieve better solution quality than a commercial stock cutting software package.

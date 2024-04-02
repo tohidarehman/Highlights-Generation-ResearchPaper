@@ -1,0 +1,6 @@
+ This paper presents a multiscale method to detect neovascularization in the optic disc (NVD) using fundus images. Our method is applied to a manually selected region of interest (ROI) containing the optic disc. All the vessels in the ROI are segmented by adaptively combining contrast enhancement methods with a vessel segmentation technique. Textural features extracted using multiscale amplitude-modulation frequency-modulation, morphological granulometry, and fractal dimension are used. A linear SVM is used to perform the classification, which is tested by means of 10-fold cross-validation. The performance is evaluated using 300 images achieving an AUC of 0.93 with maximum accuracy of 88%.
+
+@highlight We propose an adaptive vessel segmentation approach to characterize vasculature.
+@highlight We apply AM-FM along with this vessel segmentation method to better capture NVD.
+@highlight We characterize the entire vasculature in the optic disc to detect NVD.
+@highlight This approach is validated on a large dataset and achieves good results.

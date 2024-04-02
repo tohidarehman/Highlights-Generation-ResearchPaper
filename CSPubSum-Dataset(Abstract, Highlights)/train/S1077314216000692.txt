@@ -1,0 +1,5 @@
+ Current and near-term implantable prosthetic vision systems offer the potential to restore some visual function, but suffer from limited resolution and dynamic range of induced visual percepts. This can make navigating complex environments difficult for users. We introduce semantic labeling as a technique to improve navigation outcomes for prosthetic vision users. We produce a novel egocentric vision dataset to demonstrate how semantic labeling can be applied to this problem. We also improve the speed of semantic labeling with sparse computation of unary potentials, enabling its use in real-time wearable assistive devices. We use simulated prosthetic vision to demonstrate the results of our technique. Our approach allows a prosthetic vision system to selectively highlight specific classes of objects in the user’s field of view, improving the user’s situational awareness.
+
+@highlight Semantic labeling is applied to improving navigation for prosthetic vision users.
+@highlight A new semantic labeling dataset using head-mounted camera images is introduced.
+@highlight An improved sparse approach increases accuracy for real-time semantic labeling.

@@ -1,0 +1,6 @@
+ The Mixed Capacitated General Routing Problem (MCGRP) is defined over a mixed graph, for which some vertices must be visited and some links must be traversed at least once. The problem consists of determining a set of least-cost vehicle routes that satisfy this requirement and respect the vehicle capacity. Few papers have been devoted to the MCGRP, in spite of interesting real-world applications, prevalent in school bus routing, mail delivery, and waste collection. This paper presents a new mathematical model for the MCGRP based on two-index variables. The approach proposed for the solution is a two-phase branch-and-cut algorithm, which uses an aggregate formulation to develop an effective lower bounding procedure. This procedure also provides strong valid inequalities for the two-index model. Extensive computational experiments over benchmark instances are presented.
+
+@highlight We deal with the Mixed Capacitated General Routing Problem (MCGRP).
+@highlight We propose an exact two-phase branch-and-cut algorithm to solve the problem.
+@highlight The algorithm is based on a new formulation using two-index variables.
+@highlight Extensive computational experiments prove the effectiveness of our approach.

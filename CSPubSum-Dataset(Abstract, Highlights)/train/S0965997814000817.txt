@@ -1,0 +1,7 @@
+ A new algorithm for hanging node elimination in octree structures is developed. The proposed algorithm utilizes hanging node elimination by refinement templates and a new mesh conditioning technique based on decoupling templates. Refinement templates insert transition elements to eliminate hanging nodes. Decoupling templates insert circular loops in the dual mesh without introducing or removing hanging nodes. Decoupling templates are introduced to avoid full refinement in the cases that do not match any of the available refinement templates. The proposed algorithm eliminates hanging nodes for concavely refined regions without excessive refinement. Another advantage of the proposed algorithm lies in eliminating narrow gaps of coarse meshes between refined regions. This step has a positive effect on the mesh quality as it avoids introducing non-regular templates with a limited penalty of uniform refinement. The presented algorithm produces good quality meshes and provides a consistent and complete method for producing conformally refined octree structures.
+
+@highlight Practical hanging node elimination in octree structures is proposed.
+@highlight New mesh conditioning technique is introduced based on decoupling templates.
+@highlight Decoupling templates insert circular loops in mesh dual to avoid full refinement.
+@highlight Hanging nodes are eliminated in concave regions without excessive refinement.
+@highlight The method is consistent and complete for producing quality conformal octaves.

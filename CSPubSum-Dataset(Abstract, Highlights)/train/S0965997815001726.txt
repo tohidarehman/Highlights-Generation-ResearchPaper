@@ -1,0 +1,5 @@
+ An innovative procedure for characterizing thermo-mechanical behavior of superalloy using the Eigenfunction Virtual Fields Method (EVFM) was proposed. First, the principle of EVFM for thermo-mechanical constants identification was developed based on the principal components analysis. Then, the strain fields were extracted from finite element (FE) simulation of a superalloy plate with a circular hole under uniaxial tension and uniform temperature increment. In addition, the virtual fields were constructed using the eigenvectors of augmented strain matrix. Finally, the thermo-mechanical constants were inversed from the strain fields, and the effect of mesh size and noise on the inversion results was analyzed. The results show that the thermo-mechanical constants of superalloy inversed from EVFM using these eigenvectors as virtual fields are in excellent agreement with the true values.
+
+@highlight EVFM was extended to characterize thermo-mechanical behavior of superalloy.
+@highlight Virtual fields were constructed using the eigenvectors of augmented strain matrix.
+@highlight Effect of mesh size and noise on the identification results was analyzed.

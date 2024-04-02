@@ -1,0 +1,7 @@
+ We propose resource allocation models for wireless multi-cell orthogonal frequency division multiple access (OFDMA) networks. The models maximize signal to interference noise ratio (SINR) and capacity with SINR produced in an OFDMA network subject to user power and subcarrier assignment constraints. We derive mixed integer programming formulations for the case when maximizing SINR and piecewise linear approximations for the capacity objective. A variable neighborhood search (VNS) metaheuristic is proposed to compute near optimal solutions. Our numerical results indicate that VNS provides near optimal solutions and better feasible solutions than CPLEX and DICOPT solvers in significantly less computational cost.
+
+@highlight We propose deterministic and stochastic models for wireless OFDMA networks.
+@highlight We maximize signal to interference noise ratio and total capacity of the system.
+@highlight We derive equivalent mixed integer programs and piecewise linear approximations.
+@highlight We propose a meta-heuristic procedure to obtain near optimal solutions.
+@highlight The numerical results are obtained in significantly less computational cost.

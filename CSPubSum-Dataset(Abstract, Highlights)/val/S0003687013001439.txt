@@ -1,0 +1,6 @@
+ This study investigated whether rural workers who have higher workplace satisfaction are less likely to report quad bike loss of control events (LCEs). Two independent samples of farmers completed a survey regarding LCEs and workplace satisfaction. In the first sample (n = 130) analysis revealed no relationship (p = 0.74) between workplace satisfaction and LCEs but lower rates of LCEs were reported by employees (IRR 0.52, 95%CI 0.31–0.86) compared to self-employed participants. In the second sample (n = 112), workplace satisfaction was weakly related to LCEs (IRR 1.04, 95%CI 1.00, to 1.09) with participants who found their job more psychologically demanding more likely to have had an LCE (IRR 1.14, 95%CI 1.05–1.23). Exploring the role of psychological demands on safety behaviour with respect to quad bike use, may help to address this important safety issue.
+
+@highlight Two independent samples of farmers surveyed.
+@highlight Count data regression techniques used.
+@highlight Aspects of workplace satisfaction related to quad bike loss-of-control events.
+@highlight Psychological demand, employment status and sex linked with quad bike LCEs.

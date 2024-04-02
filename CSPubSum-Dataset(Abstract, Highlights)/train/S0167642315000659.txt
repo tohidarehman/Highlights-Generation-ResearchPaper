@@ -1,0 +1,6 @@
+ A hierarchical approach for modelling the adaptability features of complex systems is introduced. It is based on a structural level S, describing the adaptation dynamics of the system, and a behavioural level B accounting for the description of the admissible dynamics of the system. Moreover, a unified system, called , is defined by coupling S and B. The adaptation semantics is such that the S level imposes structural constraints on the B level, which has to adapt whenever it no longer can satisfy them. In this context, we introduce weak and strong adaptability, i.e. the ability of a system to adapt for some evolution paths or for all possible evolutions, respectively. We provide a relational characterisation for these two notions and we show that adaptability checking, i.e. deciding if a system is weakly or strongly adaptable, can be reduced to a CTL model checking problem. We apply the model and the theoretical results to the case study of a motion controller of autonomous transport vehicles.
+
+@highlight Hierarchical model for multi-level adaptive systems.
+@highlight Relational characterisation of strong and weak adaptability.
+@highlight Adaptability checking is reduced to a CTL model checking problem.
+@highlight Application to the case study of ATVs motion control.

@@ -1,0 +1,6 @@
+ In this paper, we demonstrate how to model a discrete-time dynamic process on a non-periodic time domain with applications to operations research. We introduce a discrete-time model of inventory with deterioration on domains where time points may be unevenly spaced over a time interval. We formalize the average cost function composed of storage, depreciation and back-ordering costs. The optimal condition is given to locate the optimal point that minimizes the average cost function. Finally, we present simulations to demonstrate how a manager can use this model to make inventory decisions.
+
+@highlight We introduce a discrete-time inventory model on complex time domains.
+@highlight Our model generalizes traditional discrete-time inventory models.
+@highlight Our model allows more realistic treatment of timing of inventory flow.
+@highlight Our model can be applied to decision-making under uncertainty.

@@ -1,0 +1,6 @@
+ This paper presents finite element implementations for the solution of gradient elasticity problems using the FEniCS project. The FEniCS Project provides a novel tool for the automated solution of partial differential equations by the finite element method. In particular, it offers a significant flexibility with regards to modelling and numerical discretization choices. The weak form of the gradient elasticity problem is derived from the Principal of Virtual Work. An equivalent mixed-type finite element formulation for the strain gradient elasticity problem is implemented in order to avoid the use of C 1 continuous elements. The complete methodology and source codes (python scripts) are provided. Numerical results are presented and compared with well-known benchmark examples, demonstrating the applicability of FEniCS for such applications.
+
+@highlight Solving mixed finite element formulation for strain gradient elasticity problems.
+@highlight Demonstrating FEniCS capabilities enabled easy implementation of the variational problems considered.
+@highlight FEniCS allows complex functionals to be quickly formulated and computed.
+@highlight Showing that the higher the degree of the discretization the better the solution agreement.

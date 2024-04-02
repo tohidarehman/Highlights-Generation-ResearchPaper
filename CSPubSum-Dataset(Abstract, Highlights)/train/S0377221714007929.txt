@@ -1,0 +1,6 @@
+ In this paper we present complexity results for flow shop problems with synchronous movement which are a variant of a non-preemptive permutation flow shop. Jobs have to be moved from one machine to the next by an unpaced synchronous transportation system, which implies that the processing is organized in synchronized cycles. This means that in each cycle the current jobs start at the same time on the corresponding machines and after processing have to wait until the last job is finished. Afterwards, all jobs are moved to the next machine simultaneously. Besides the general situation we also investigate special cases involving machine dominance which means that the processing times of all jobs on a dominating machine are at least as large as the processing times of all jobs on the other machines. Especially, we study flow shops with synchronous movement for a small number of dominating machines (one or two) and different objective functions.
+
+@highlight A corrected NP-hardness proof for the three machine synchronous flow shop.
+@highlight Investigation of machine dominance for synchronous flow shops.
+@highlight NP-hardness proofs and polynomial algorithms for special cases.
+@highlight A concise summary of known complexity results for synchronous flow shops.

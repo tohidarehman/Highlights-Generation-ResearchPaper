@@ -1,0 +1,5 @@
+ In this paper, we propose a steganographic scheme based on the varieties of coefficients of discrete cosine transformation of an image. The major problem of hiding data in the high-frequency coefficients of discrete cosine transformation is that rounding errors will be added into the spatial-domain image, and thus cannot be transformed back to the correct modified coefficients of the discrete cosine transformation. To solve this problem, we use integer mapping to implement our discrete cosine transformation. Thus, the image recovered from the modified coefficients can be transformed again to the correct data hidden coefficients.
+
+@highlight Hiding data in DCT coefficients and solving rounding errors when extracting the data
+@highlight Use an integer mapping to keep the modified DCT coefficients remain as integers.
+@highlight DCT based method has potential in competition with the pixel-value based method.

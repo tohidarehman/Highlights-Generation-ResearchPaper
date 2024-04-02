@@ -1,0 +1,6 @@
+ A resolution of the Fisher effect puzzle in terms of statistical inference is attempted. Motivation stems from empirical evidence of time-varying coefficients in the data generating process of both the interest rates and inflation rates for 19 OECD countries. These time-varying dynamics crucially affect the behaviour of all the co-integration estimators considered, especially in small samples. When employing simulated critical values instead of asymptotic ones, the results provide ample evidence supporting the existence of a long-run Fisher effect in which interest rates move one-to-one with inflation rates in all countries under scrutiny except for Ireland and Switzerland.
+
+@highlight We introduce a time-varying Data Generating Process for the Fisher Effect.
+@highlight We examine the effect of time-variation on the behaviour of cointegration estimators.
+@highlight We argue that inference should be based on simulated critical values.
+@highlight We provide evidence that support the validity of the Fisher hypothesis.

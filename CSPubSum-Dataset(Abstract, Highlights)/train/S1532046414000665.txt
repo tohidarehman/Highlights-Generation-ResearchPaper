@@ -1,0 +1,5 @@
+ Identifying new drug target (DT) proteins is important in pharmaceutical and biomedical research. General machine learning method (GMLM) classifiers perform fairly well at prediction if the training dataset is well prepared. However, a common problem in preparing the training dataset is the lack of a negative dataset. To address this problem, we proposed two methods that can help GMLM better select the negative training dataset from the test dataset. The prediction accuracy was improved with the training dataset from the proposed strategies. The classifier identified 1797 and 227 potential DT proteins, some of which were mentioned in previous research, which added correlative weight to the new method. Practically, these two sets of potential DT proteins or their homologues are worth considering.
+
+@highlight Two strategies enhanced the drug target (DT) proteins prediction power of SVM classifier.
+@highlight 39 DT protein chemo-physical features were collected based on sequence information.
+@highlight 1797 and 227 potential DT proteins were identified.

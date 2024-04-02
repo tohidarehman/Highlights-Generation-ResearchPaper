@@ -1,0 +1,6 @@
+ One of the key issues of knowledge discovery and data mining is knowledge reduction. Attribute reduction of formal contexts based on the granules and dominance relation are first reviewed in this paper. Relations between granular reduts and dominance reducts are investigated with the aim to establish a bridge between the two reduction approaches. We obtain meaningful results showing that granule-based and dominance-relation-based attribute reducts and attribute characteristics are identical. Utilizing dominance reducts and attribute characteristics, we can obtain all granular reducts and attribute characteristics by the proposed approach. In addition, we establish relations between dominance classes and irreducible elements, and present some judgment theorems with respect to the irreducible elements.
+
+@highlight We showed that granule-based reducts and dominance-based reducts are identical.
+@highlight We showed that the proposed two kinds attribute characteristics are identical.
+@highlight We established relations between dominance classes and irreducible elements.
+@highlight We presented some judgment theorems with respect to the irreducible elements.

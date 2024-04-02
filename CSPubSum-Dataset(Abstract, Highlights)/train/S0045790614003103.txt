@@ -1,0 +1,6 @@
+ In this paper, a locality aware NoC communication architecture is proposed. The architecture may reduce the energy consumption and latency in MultiProcessor Systems on Chips (MPSoCs). It consists of two network layers which one layer is dedicated to the packets transmitted to near destinations and the other layer is used for the packets transmitted to far destinations. The actual physical channel width connecting the cores is divided between the two layers. The locality is defined based on the number of hops between the nodes. The relative significances of the two types of communications determine the optimum ratio for the channel width division. To assess the efficiency of the proposed method, we compare its communication latency with that of conventional one for different channel widths, communication traffic profiles, and mesh sizes.
+
+@highlight We propose two-layer network on chip to separate local and non-local traffics.
+@highlight For each locality rate, we obtain the best division ratio for the bitwidth of channels.
+@highlight We define locality based on the number of hops between source and destination nodes.
+@highlight For each traffic, locality is defined to include 50 percent of all communication.

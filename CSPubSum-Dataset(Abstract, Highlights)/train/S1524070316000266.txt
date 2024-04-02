@@ -1,0 +1,5 @@
+ This paper describes a new efficient algorithm for the rapid computation of exact shortest distances between a point cloud and another object (e.g. triangulated, point-based, etc.) in three dimensions. where only approximate distances were computed on a simplification of a massive point cloud. Here, the fast computation of the exact shortest distance is achieved by pruning large subsets of the point cloud known not to be closest to the other object. The approach works for massive point clouds even with a small amount of RAM and is able to provide real time performance. Given a standard PC with only 8GB of RAM, this resulted in real-time shortest distance computations of 15 frames per second for a point cloud having 1 billion points in three dimensions.
+
+@highlight Fast exact shortest distance computation for massive point clouds.
+@highlight Theoretical proofs of correctness.
+@highlight Practical tests to investigate performance.

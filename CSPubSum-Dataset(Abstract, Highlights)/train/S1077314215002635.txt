@@ -1,0 +1,6 @@
+ In this paper, we present a photometric stereo algorithm for estimating surface height. We follow recent work that uses photometric ratios to obtain a linear formulation relating surface gradients and image intensity. Using smoothed finite difference approximations for the surface gradient, we are able to express surface height recovery as a linear least squares problem that is large but sparse. In order to make the method practically useful, we combine it with a model-based approach that excludes observations which deviate from the assumptions made by the image formation model. Despite its simplicity, we show that our algorithm provides surface height estimates of a high quality even for objects with highly non-Lambertian appearance. We evaluate the method on both synthetic images with ground truth and challenging real images that contain strong specular reflections and cast shadows.
+
+@highlight New photometric stereo method that recovers surface height directly.
+@highlight Propose a model-based approach to selecting and removing noisy observations.
+@highlight Exploit photometric ratios to express height recovery as a large sparse linear system of equations.
+@highlight Evaluate quantitatively and qualitatively on wide range of objects including shadows and specularities.

@@ -1,0 +1,7 @@
+ Key distribution is required to secure e-health applications in the context of Internet of Things (IoT). However, resources constraints in IoT make these applications unable to run existing key management protocols. In this paper, we propose a new lightweight key management protocol. This protocol is based on collaboration to establish a secure end-to-end communication channel between a highly resource constrained node and a remote entity. The secure channel allows the constrained node to transmit captured data while ensuring confidentiality and authentication. To achieve this goal, we propose offloading highly consuming cryptographic primitives to third parties. As a result, the constrained node obtains assistance from powerful entities. To assess our protocol, we conduct a formal validation regarding security properties. In addition, we evaluate both communication and computational costs to highlight energy savings. The results show that our protocol provides a considerable gain in energy while its security properties are ensured.
+
+@highlight We introduce an energy-aware key management protocol for e-health applications.
+@highlight The protocol guarantees the end-to-end principle.
+@highlight Constrained nodes offload asymmetric cryptographic operations to third parties.
+@highlight We conduct a formal validation regarding the security properties of our protocol.
+@highlight Analysis results highlight energy gains on constrained nodes.

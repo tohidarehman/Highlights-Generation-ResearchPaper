@@ -1,0 +1,6 @@
+ This research examines the feasibility of coding urgency into tactile patterns. Four tactile patterns were presented at either, 12 or 23.5 dB above mean threshold, with an ISI of either 0 (no interval) or 500 msec. Measures included pattern identification and urgency rating on a scale of 1 (least urgent) to 10 (most urgent). Two studies were conducted, a laboratory study and a field study. In the laboratory study, participants received the tactile patterns while seated in front of a computer. For the field study, participants performed dismounted Soldier maneuvers while receiving the tactile patterns. Higher identification rates were found for the 23.5 dB intensity. Patterns presented at the 23.5 dB intensity and no ISI were rated most urgent. No differences in urgency ratings were found for 12 dB based on ISI. Findings support the notion of coding urgency into tactile patterns as a way of augmenting tactile communication.
+
+@highlight The feasibility of coding urgency into tactile patterns was examined.
+@highlight A stationary laboratory study and a dynamic field study were conducted.
+@highlight Patterns at the high 23.5 dB intensity had higher urgency and identification rates.
+@highlight Varying ISI at the high 23.5 dB intensity is suitable for providing urgency.

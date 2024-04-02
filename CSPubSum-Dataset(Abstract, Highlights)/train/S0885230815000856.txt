@@ -1,0 +1,6 @@
+ Many under-resourced languages such as Arabic diglossia or Hindi sub-dialects do not have sufficient in-domain text to build strong language models for use with automatic speech recognition (ASR). Semi-supervised language modeling uses a speech-to-text system to produce automatic transcripts from a large amount of in-domain audio typically to augment a small amount of manual transcripts. In contrast to the success of semi-supervised acoustic modeling, conventional language modeling techniques have provided only modest gains. This paper first explains the limitations of back-off language models due to their dependence on long-span n-grams, which are difficult to accurately estimate from automatic transcripts. From this analysis, we motivate a more robust use of the automatic counts as a prior over the estimated parameters of a log-linear language model. We demonstrate consistent gains for semi-supervised language models across a range of low-resource conditions.
+
+@highlight We analyze why semi-supervised backoff language modeling performs poorly.
+@highlight We motivate MAP adaptation of a log-linear language model.
+@highlight We use automatic transcripts as a prior for language model estimation.
+@highlight We show consistent reduction in WER across a range of low-resource conditions.

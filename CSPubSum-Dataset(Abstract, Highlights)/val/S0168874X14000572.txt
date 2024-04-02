@@ -1,0 +1,7 @@
+ This paper proposes a three-node triangular flat shell element based on the assumed natural deviatoric strain (ANDES) formulation. The free parameters included in the ANDES formulation are presented for better use of the proposed element in curved shell geometries. In order to further enhance the element behavior, a strain smoothing technique is applied to the derivation of the membrane stiffness of the proposed element. Furthermore, in order to avoid the drill rotation locking that is typically induced by the drilling degrees of freedom, a simple modification factor is introduced. Various benchmark examples are tested in order to verify the performance of the proposed element.
+
+@highlight Our objective is to improve the performance of the 18DOF triangular shell element.
+@highlight The ANDES formulation is adopted for membrane component.
+@highlight In order to enhance the element behavior further, a strain smoothing technique is applied.
+@highlight To avoid the drill rotation locking, a simple modification factor is introduced.
+@highlight The proposed element is validated using various benchmark problems.

@@ -1,0 +1,6 @@
+ To extract expert clinic information from the Deep Web, there are two challenges to face. The first one is to make a judgment on forms. A novel method based on a domain model, which is a tree structure constructed by the attributes of query interfaces is proposed. With this model, query interfaces can be classified to a domain and filled in with domain keywords. Another challenge is to extract information from response Web pages indexed by query interfaces. To filter the noisy information on a Web page, a block importance model is proposed, both content and spatial features are taken into account in this model. The experimental results indicate that the domain model yields a precision 4.89% higher than that of the rule-based method, whereas the block importance model yields an F1 measure 10.5% higher than that of the XPath method.
+
+@highlight Clinic expert information provides references for residents who need hospital care.
+@highlight A domain model was defined to identify Web Query Interfaces.
+@highlight A virtual cluster was established for improving the performance of the domain model.
+@highlight A block importance model was proposed to filter noisy information in a Web page.

@@ -1,0 +1,7 @@
+ New techniques are presented for using the medial axis to generate decompositions on which high quality block-structured meshes with well-placed mesh singularities can be generated. Established medial-axis-based meshing algorithms are effective for some geometries, but in general, they do not produce the most favourable decompositions, particularly when there are geometric concavities. This new approach uses both the topological and geometric information in the medial axis to establish a valid and effective arrangement of mesh singularities for any 2-D surface. It deals with concavities effectively and finds solutions that are most appropriate to the geometric shapes. Resulting meshes are shown for a number of example models.
+
+@highlight A novel method is described for using the medial axis for block-structured meshing.
+@highlight The hitherto neglected angular information in the medial axis is shown to be useful.
+@highlight Geometry concavities are dealt with effectively.
+@highlight The surface is decomposed into m-sided and submappable subregions.
+@highlight The final meshes are of high quality for all types of 2-D geometry.

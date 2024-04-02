@@ -1,0 +1,7 @@
+ A Physical Demands Description (PDD) is a resource that describes the physical demands of a job in a systematic way. PDD data are commonly used to make legal, medical, and monetary decisions related to work. Despite the fundamental importance of a PDD, data are often gathered by novice or early career ergonomists, where we have limited knowledge regarding their proficiency in performing PDDs. The purpose of this pilot study was to evaluate novices' proficiency in identifying and quantifying physical demands elements embedded within three job simulations, following a formal PDD education session. The education session was based on the revised Occupational Health Clinics for Ontario Workers  PDD Handbook. Participants were able to identify physical demands elements with an average success rate of 80%, but were often unable to accurately quantify measures related to each element within a prescribed error threshold of 10%. These data suggest that practitioners should exercise caution when sending novice ergonomists out on their own to complete PDDs.
+
+@highlight Students attended a 3-h introductory workshop on physical demands description.
+@highlight Participants were asked to identify and quantify physical demands in three case examples.
+@highlight Participants identified 80% of the physically demanding elements.
+@highlight Participants quantified key measures with more the 10% error from the criterion.
+@highlight Novices' have some limitations in their ability to accurately conduct PDDs.

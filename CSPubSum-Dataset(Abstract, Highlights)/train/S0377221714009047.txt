@@ -1,0 +1,5 @@
+ The buffer allocation problem consists of a dynamical description of the underlying production process combined with stochastic processing times. The aim is to find optimal buffer sizes averaged over several samples. Starting from a time-discrete recursion we derive a time-continuous model supplemented with a stochastic process. The new model is used for simulation and optimization purposes as well. Numerical experiments show the efficiency of our approach compared to other optimization techniques.
+
+@highlight Rigorous derivation of a continuous model for the buffer allocation problem based on a discrete time recursion.
+@highlight An adjoint approach is used to efficiently compute sensitivity/gradient information for the presented model.
+@highlight Moderate increase of the computing times for optimization tasks with respect to the number of pieces and processors.

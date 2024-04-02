@@ -1,0 +1,7 @@
+ Large scale simulations require considerable amounts of computing power and often cloud services are utilized to perform them. In such settings the execution costs can be significantly decreased through the use of the Amazon spot price market. Its downside is that Amazon can interrupt the user’s computations when her bid price is too low. This poses a problem in finding an on-line bidding algorithm that balances the computation cost and the simulation experiment completion time. We identify key drivers governing the spot prices on Amazon EC2 and using these insights propose an adaptive bidding strategy that simultaneously minimizes the computation cost and the delays due to computation termination. We show that bidding close to a spot price and dynamically switching between instances is a strategy that is efficient and simple to implement in practice. In the paper we present a simulator of the EC2 spot pricing mechanism. The simulator can be easily used to develop and test other bidding strategies on Amazon spot price market.
+
+@highlight Cost of simulation in the cloud can be reduced by the use of the Amazon spot market.
+@highlight The difficulty in spot market is to balance the simulation cost and execution time.
+@highlight An analysis of key drivers governing spot prices on Amazon EC2 has been carried out.
+@highlight A bidding algorithm allowing efficient running of simulations on Amazon is proposed.
+@highlight A simulator of Amazon market that allows testing of bidding strategies is presented.

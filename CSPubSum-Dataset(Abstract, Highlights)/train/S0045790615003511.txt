@@ -1,0 +1,6 @@
+ Spectrum allocation scheme in cognitive radio networks (CRNs) becomes complex when multiple CR users concomitantly need to be allocated new and suitable bands once the primary user returns. Most existing schemes focus on the gain of individual users, ignoring the effect of an allocation on other users and rely on the ‘periodic sensing and transmission’ cycle which reduces spectrum utilization. This paper introduces a scheme that exploits collaboration among users to detect PU’s return which relieves active CR users from the sensing task, and thereby improves spectrum utilization. It defines a Capacity of Service (CoS) metric based on the optimal sensing parameters which measures the suitability of a band for each contending user and takes into consideration the impact of allocating a particular band on other band seeking users. The proposed scheme significantly improves capacity of service, reduces interference loss and collision, and hence, enhances dynamic spectrum access capabilities.
+
+@highlight A scheme is proposed to allocate bands among multiple cognitive radio users.
+@highlight Suitability-Throughput Gain defines the suitability of a band for contending users.
+@highlight The scheme takes into account the impact of allocating a band to a user on others.
+@highlight It offers higher user satisfaction, less collision and better spectrum utilization.

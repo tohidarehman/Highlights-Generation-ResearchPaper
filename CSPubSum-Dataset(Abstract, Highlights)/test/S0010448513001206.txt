@@ -1,0 +1,8 @@
+ Fashion Design is an industry closely connected to our daily life. Computer-aided fashion design can enhance the efficiency of product development, in which a 3D mannequin links the development and application of the entire design system, thus rendering the 3D mannequin data required for fashion design very important. This study proposed a systematic method for surface reconstruction of 3D mannequins based on feature curves. First of all, the study applied reverse engineering methods to scan a mannequin model commonly used in the fashion design profession by extracting grid points that represent the shape features from the scanned data after the segmentation of the mannequin model through feature surfaces. Then, the shape of the entire 3D mannequin is reconstructed using B-spline surfaces. Simultaneously, the continuity among the connected B-spline surfaces is adjusted with tangent vector adjustment methods based on the minimum energy required for improving the quality of the shaped surfaces. Finally, the 3D mannequin is applied to the computer-aided fashion design system being developed to achieve product development using synchronous design methods.
+
+@highlight A feature curve based method for 3D mannequin surface reconstruction is proposed.
+@highlight The 3D mannequin is shaped by
+@highlight -spline surfaces.
+@highlight A minimum energy method is used to improve the constructed mannequins’ quality.
+@highlight 3D mannequin forms for different human factors can be morphologically generated.
+@highlight The feasibility of computer-aided fashion design and manufacturing is improved.

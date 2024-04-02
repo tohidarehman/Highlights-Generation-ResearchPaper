@@ -1,0 +1,7 @@
+ One of the primary objectives of Wireless Sensor Network (WSN) is to provide full coverage of a sensing field as long as possible. The deployment strategy of sensor nodes in the sensor field is the most critical factor related to the network coverage. However, the traditional deployment methods can cause coverage holes in the sensing field. Therefore, this paper proposes a new deployment method based on Multi-objective Immune Algorithm (MIA) and binary sensing model to alleviate these coverage holes. MIA is adopted here to maximize the coverage area of WSN by rearranging the mobile sensors based on limiting their mobility within their communication range to preserve the connectivity among them. The performance of the proposed algorithm is compared with the previous algorithms using Matlab simulation for different network environments with and without obstacles. Simulation results show that the proposed algorithm improves the coverage area and the mobility cost of WSN.
+
+@highlight A new deployment approach for WSNs based on the multi-objective immune algorithm is proposed.
+@highlight The approach rearranges sensors to remit the coverage holes and improves the network coverage.
+@highlight The approach is energy efficient and ensures the connectivity by limiting the mobility cost of sensors.
+@highlight Simulation experiments were completed in MATLAB correctly.
+@highlight The approach has many advantages comparing with other algorithms.

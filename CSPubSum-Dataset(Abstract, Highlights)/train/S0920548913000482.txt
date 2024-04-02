@@ -1,0 +1,5 @@
+ The present work analyzes and compares two popular standards for data transmission over power line networks: PRIME and G3. A complete and detailed description of both standards is presented together with simulation results of their performance in a power line environment. In order to create an accurate analogy of the transmission channel, background and asynchronous impulsive noises are included using previous results from literature. Simulation results show how PRIME and G3 behave in several noisy environments. Finally, with respect to PRIME, a proposal is made to increase its performance in a hardly impulsive noise channel.
+
+@highlight Performance evaluation of PLC Standards: PRIME and G3
+@highlight Improvements proposed for PRIME
+@highlight Evaluate G3 and PRIME in different noise environments

@@ -1,0 +1,8 @@
+ An efficient approach is presented for optimal domain decomposition of finite element meshes in conjunction with k-median method and a meta-heuristic algorithm. A clique graph is used for transforming the connectivity of a finite element model (FEM) into that of the corresponding graph. Subsequently, to decompose the nodes of a graph or the meshes of a finite element model to k subdomains, k-median approach is employed. Then, for finding k medians of graph, a recently developed meta-heuristic algorithm, so-called Colliding Bodies Optimization (CBO), and standard Particle Swarm Optimization (PSO) are utilized. The performance of these methods is investigated through four FEMs to minimize the cost of k-median problem. A comparison of the numerical results using the CBO and PSO algorithms indicates that the CBO is capable of performing better decomposition using smaller or equal computational efforts.
+
+@highlight An efficient approach is presented for optimal domain decomposition of FEMs.
+@highlight A clique graph is used for transforming the connectivity of a finite element model into that of the graph.
+@highlight To decompose the nodes of a finite element model to k subdomains, k-median approach is employed.
+@highlight For optimal subdomain decomposition, a recently developed meta-heuristic algorithm, CBO, and PSO are utilized.
+@highlight The performance of the methods is investigated through four FEMs.
+@highlight A comparison of the results of CBO and PSO algorithms is performed.

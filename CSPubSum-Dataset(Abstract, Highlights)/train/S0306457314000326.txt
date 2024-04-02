@@ -1,0 +1,7 @@
+ A trie is one of the data structures for keyword matching. It is used in natural language processing, IP address routing, and so on. It is represented by the matrix form, the link form, the double array, and LOUDS. The double array representation combines retrieval speed of the matrix form with compactness of the list form. LOUDS is a succinct data structure using bit-string. Retrieval speed of LOUDS is not faster than that of the double array, but its space usage is smaller. This paper proposes a compressed version of the double array by dividing the trie into multiple levels and removing the BASE array from the double array. Moreover, a retrieval algorithm and a construction algorithm are proposed. According to the presented experimental results for pseudo and real data sets, the retrieval speed of the presented method is almost the same as the double array, and its space usage is compressed to 66% comparing with LOUDS for a large set of keywords with fixed length.
+
+@highlight A new compression method of the double array is proposed.
+@highlight The BASE array is removed from the double array.
+@highlight The retrieval and construction algorithms are proposed.
+@highlight The space usage of our method is more compact than that of the double array.
+@highlight The retrieval speed of our method is almost the same as the double array.

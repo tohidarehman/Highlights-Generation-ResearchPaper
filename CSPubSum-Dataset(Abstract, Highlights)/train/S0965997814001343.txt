@@ -1,0 +1,7 @@
+ This paper proposes a new approach for the design of a composite structure. This approach is formulated as an optimization problem where the weight of the structure is minimized such that a reserve factor is higher than a threshold. The thickness of each region of the structure is optimized together with its stacking sequence and the ply drop-offs. The novelty of this approach is that, unlike in common practice, the optimization problem is not simplified and split into two steps, one for finding the thicknesses and one for the stacking sequence. The optimization problem is solved without any simplification assumption. It is formulated as a bilevel integer programming and it uses the backtracking procedure to satisfy the blending and the manufacturing rules. Some numerical experiments are performed to show the efficiency of the proposed optimization method over complex cases which cannot be solved with the existing methods.
+
+@highlight A new optimization algorithm is presented for manufacturable composite structures.
+@highlight The structure weight is optimized taking the stacking sequences as design variables.
+@highlight The constraints are the mechanical behavior of structure and the manufacturing rules.
+@highlight The manufacturing rules are taken into account using a backtracking procedure.
+@highlight A bilevel integer programming method is proposed to solve this problem.

@@ -1,0 +1,7 @@
+ The study aimed at investigating how drivers use Adaptive Cruise Control and its functions in distinct road environments and to verify if changes occur over time. Fifteen participants were invited to drive a vehicle equipped with a Stop & Go Adaptive Cruise Control system on nine occasions. The course remained the same for each test run and included roads on urban and motorway environments. Results showed significant effect of experience for ACC usage percentage, and selection of the shortest time headway value in the urban road environment. This indicates that getting to know a system is not a homogenous process, as mastering the use of all the system's functions can take differing lengths of time in distinct road environments. Results can be used not only for the development of the new generation of systems that integrate ACC functionalities but also for determining the length of training required to operate an ACC system.
+
+@highlight Mastering each ACC system function was a process completed in a few trials.
+@highlight Changes registered over time were dependent on the road environment.
+@highlight Usage rate discrepancy between road environments faded away significantly with time.
+@highlight Shortest time headway significantly more used over time on the urban road.
+@highlight Existence of distinct overriding strategy pattern for each road environment.

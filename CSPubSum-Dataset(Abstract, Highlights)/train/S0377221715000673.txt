@@ -1,0 +1,7 @@
+ In order to stimulate or subdue the economy, banking regulators have sought to impose caps or floors on individual bank's lending to certain types of borrowers. This paper shows that the resultant decision problem for a bank of which potential borrower to accept is a variant of the marriage/secretary problem where one can accept several applicants. The paper solves the decision problem using dynamic programming. We give results on the form of the optimal lending problem and counter examples to further “reasonable” conjectures which do not hold in the general case. By solving numerical examples we show the potential loss of profit and the inconsistency in the lending decision that are caused by introducing floors and caps on lending. The paper also describes some other situations where the same decision occurs.
+
+@highlight We introduce a set of Markov Decision Process (MDP) models to address lending problems with capital constraints.
+@highlight We show that the problem setting has a flavour of multiple choice secretarial problems.
+@highlight It addresses whom banks lend to when regulators have put caps and floors on the amount to be lent.
+@highlight We prove properties of the optimal policy and give counter examples to some conjectures.
+@highlight We give examples of when this problem arises in other situations.

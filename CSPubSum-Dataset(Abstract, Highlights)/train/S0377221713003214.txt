@@ -1,0 +1,6 @@
+ Surrogate constraint relaxation was proposed in the 1960s as an alternative to the Lagrangian relaxation for solving difficult optimization problems. The duality gap in the surrogate relaxation is always as good as the duality gap in the Lagrangian relaxation. Over the years researchers have proposed procedures to reduce the gap in the surrogate constraint. Our aim is to review models that close the surrogate duality gap. Five research streams that provide procedures with zero duality gap are identified and discussed. In each research stream, we will review major results, discuss limitations, and suggest possible future research opportunities. In addition, relationships between models if they exist, are also discussed.
+
+@highlight The paper is a review of different models that close surrogate duality gaps.
+@highlight We identified five research streams that close surrogate duality gaps. Then we gave a review of each model.
+@highlight Relationship between these models when exist discussed.
+@highlight Future research directions are identified and suggested.

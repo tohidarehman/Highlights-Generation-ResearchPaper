@@ -1,0 +1,6 @@
+ Retailers, from fashion stores to grocery stores, have to decide what range of products to offer, i.e., their product assortment. Frequent introduction of new products, a recent business trend, makes predicting demand more difficult, which in turn complicates assortment planning. We propose and study a stochastic dynamic programming model for simultaneously making assortment and pricing decisions which incorporates demand learning using Bayesian updates. We show analytically that it is profitable for the retailer to use price reductions early in the sales season to accelerate demand learning. A computational study demonstrates the benefits of such a policy and provides managerial insights that may help improve a retailer’s profitability.
+
+@highlight We illustrate that parametric Bayesian updates based on observed sales data can be used effectively for demand learning.
+@highlight We demonstrate that product assortment and prices need to be dynamically revised with demand learning.
+@highlight We show it is profitable for retailers to give price reduction early in the sales season to accelerate demand learning.
+@highlight We demonstrate that a retailer’s profitability can be improved by balancing exploration and exploitation of the market.

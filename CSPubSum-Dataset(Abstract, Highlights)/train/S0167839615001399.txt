@@ -1,0 +1,3 @@
+ This expository paper exhibits the power and versatility of the Bernstein–Bézier form of a polynomial, and the role that it has played in the analysis of multivariate spline spaces. Several particular applications are discussed in some detail. The purpose of the paper is to provide the reader with a working facility with the Bernstein–Bézier form.
+
+@highlight This is a survey of the Bernstein–Bézier form of a multivariate polynomial.

@@ -1,0 +1,5 @@
+ In our previous work published in this journal, we showed how the Hit-And-Run (HAR) procedure enables efficient sampling of criteria weights from a space formed by restricting a simplex with arbitrary linear inequality constraints. In this short communication, we note that the method for generating a basis of the sampling space can be generalized to also handle arbitrary linear equality constraints. This enables the application of HAR to sampling spaces that do not coincide with the simplex, thereby allowing the combined use of imprecise and precise preference statements. In addition, it has come to our attention that one of the methods we proposed for generating a starting point for the Markov chain was flawed. To correct this, we provide an alternative method that is guaranteed to produce a starting point that lies within the interior of the sampling space.
+
+@highlight Hit-And-Run enables efficient sampling of weights with linear inequality constraints.
+@highlight A generalized change-of-basis can extend the method to handling equality constraints.
+@highlight A flawed seedpoint generating method should be replaced by a linear program.
