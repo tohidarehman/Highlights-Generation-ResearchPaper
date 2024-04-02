@@ -1,8 +1,0 @@
- ï»¿Dense disparity map is required by many great 3D applications. In this paper, a novel stereo matching algorithm is presented. The main contributions of this work are three-fold. Firstly, a new cost-volume filtering method is proposed. A novel concept named â€œtwo-level local adaptationâ€ is introduced to guide the proposed filtering approach. Secondly, a novel post-processing method is proposed to handle both occlusions and textureless regions. Thirdly, a parallel algorithm is proposed to efficiently calculate an integral image on GPU, and it accelerates the whole cost-volume filtering process. The overall stereo matching algorithm generates the state-of-the-art results. At the time of submission, it ranks the 10th among about 152 algorithms on the Middlebury stereo evaluation benchmark, and takes the 1st place in all local methods. By implementing the entire algorithm on the NVIDIA Tesla C2050 GPU, it can achieve over 30 million disparity estimates per second (MDE/s).
-
-@highlight Hghlights
-@highlight A novel local stereo matching algorithm with linear complexity is proposed.
-@highlight The overall algorithm generates the state-of-the-art results.
-@highlight “Two-level local adaptation” is introduced to guide the adaptive guided filtering.
-@highlight The novel post-processing method handles both occlusions and textureless regions.
-@highlight A parallel algorithm is proposed to speed up the algorithm on GPU.

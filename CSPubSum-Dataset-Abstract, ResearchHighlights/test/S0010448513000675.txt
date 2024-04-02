@@ -1,6 +1,0 @@
- The paper presents an integrated and therefore novel approach of tool path generation and simulation for milling in the field of dental technology. Both the geometry of the dental implants and the characteristics of the cutter, machine and raw material have an immediate influence on the stability of the milling process and the quality of the result. Regarding this issue, the paper focuses on the construction of tool path segments on a triangulated surface using an isoparametric and isogeodesic approach. The segments are subsequently chained and simulated in order to provide an optimized tool path in terms of path length and feed rate. The simulation particularly evaluates a tool load to guide feed rate selection and the distance error of the machined surface. Implicit representations of surfaces and solids by means of level sets are applied where appropriate in order to increase robustness and universality of tool path construction.
-
-@highlight Integrated approach of tool path generation and simulation for milling in the field of dental technology.
-@highlight Implicit representations of surfaces and solids by means of level-sets.
-@highlight Isoplanar/isoparametric and isogeodesic sampling for finishing milling.
-@highlight GPU-based implementation of predictive feed rate optimization and tool path evaluation.

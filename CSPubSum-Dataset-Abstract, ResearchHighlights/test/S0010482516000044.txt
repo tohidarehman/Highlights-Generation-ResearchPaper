@@ -1,6 +1,0 @@
- Measurement of the deformation of the lower limbs in the current standard full-limb X-rays images presents significant challenges to radiologists and orthopedists. The precision of these measurements is deteriorated because of inexact positioning of the leg during image acquisition, problems with selecting reliable anatomical landmarks in projective X-ray images, and inevitable errors of manual measurements. The influence of the random errors resulting from the last two factors on the precision of the measurement can be reduced if an automated measurement method is used instead of a manual one. In the paper a framework for an automated measurement of various metric and angular quantities used in the description of the lower extremity deformation in full-limb frontal X-ray images is described. The results of automated measurements are compared with manual measurements. These results demonstrate that an automated method can be a valuable alternative to the manual measurements.
-
-@highlight A CAD system was developed for assessment of the deformities of lower extremities.
-@highlight Measurements of the quantities related to the deformities are fully automatic.
-@highlight Measurements are based on detection of characteristic points, axes and tangents.
-@highlight There is a very good correlation between manual and automated measurements.

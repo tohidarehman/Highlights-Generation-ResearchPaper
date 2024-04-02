@@ -1,7 +1,0 @@
- The lack of abstraction in a growing semantic, virtual and abstract world poses new challenges for assessing security and QoS tradeoffs. For example, in Future Internet scenarios, where Unified Communications (UC) will take place, being able to predict the final devices that will form the network is not always possible. Without this information the analysis of the security and QoS tradeoff can only be based on partial information to be completed when more information about the environment is available. In this paper, we extend the description of context-based parametric relationship model, providing a tool for assessing the security and QoS tradeoff (SQT) based on interchangeable contexts. Our approach is able to use the heterogeneous information produced by scenarios where UC is present.
-
-@highlight We explain the motivation for using CPRM in UC.
-@highlight We extend the definition of CPRM.
-@highlight We define the requirements for a CPRM-based compliant tool.
-@highlight We implement the Security and QoS Tradeoff (SQT) tool.
-@highlight We test our approach with a use case based on WSN.

@@ -1,5 +1,0 @@
- A significant number of recommender systems utilize the k-nearest neighbor (kNN) algorithm as the collaborative filtering core. This algorithm is simple; it utilizes updated data and facilitates the explanations of recommendations. Its greatest inconveniences are the amount of execution time that is required and the non-scalable nature of the algorithm. The algorithm is based on the repetitive execution of the selected similarity metric. In this paper, an innovative similarity metric is presented: HwSimilarity. This metric attains high-quality recommendations that are similar to those provided by the best existing metrics and can be processed by employing low-cost hardware circuits. This paper examines the key design concepts and recommendation-quality results of the metric. The hardware design, cost of implementation, and improvements achieved during execution are also explored.
-
-@highlight kNN algorithm performance.
-@highlight Collaborative filtering hardware similarity measure.
-@highlight Low-cost recommender systems hardware circuits.

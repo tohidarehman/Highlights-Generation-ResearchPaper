@@ -1,5 +1,0 @@
- We show that a weighted least squares approximation of Bézier coefficients with factored Hahn weights provides the best constrained polynomial degree reduction with respect to the Jacobi -norm. This result affords generalizations to many previous findings in the field of polynomial degree reduction. A solution method to the constrained multi-degree reduction with respect to the Jacobi -norm is presented.
-
-@highlight We study the problem of constrained degree reduction with respect to Jacobi norms.
-@highlight Our results generalize several previous findings on polynomial degree reduction.
-@highlight We explore the space of Jacobi parameters on the reduced polynomial approximation.

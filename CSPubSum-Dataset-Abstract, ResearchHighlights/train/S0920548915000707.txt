@@ -1,7 +1,0 @@
- In this paper, we surveyed technical elements of video surveillance systems and proposed several countermeasures to effectively manage a number of keys for image encryption, privacy protection and user authentication. In addition, we proposed several solutions for potential problems that could arise when the system adopts a privacy masking policy for each user. The proposed solutions selectively implement a Kerberos approach, a round keys approach and a double hash chain approach. For secure video surveillance systems, protecting privacy and providing accessibility through strong user authentication and prioritized authorization is expected.
-
-@highlight This paper proposes a key distribution scheme for distributed video surveillance servers.
-@highlight The scheme introduces security protocols to authenticate multiple privileged users.
-@highlight The scheme also includes privacy masking and restoration strategies used in case of crimes.
-@highlight Hierarchical restoration of the privacy masks with different privileges is possible using the proposed scheme.
-@highlight Security evaluation on the proposed protocols is included in a new section.

@@ -1,7 +1,0 @@
- In this paper two types of tensor product finite macro-elements are contrasted, the former being the well known Lagrange type and the latter the Bézier (Bernstein) type elements. Although they have a different mathematical origin and seemingly are irrelevant, they both are based on complete polynomials thus sharing the same functional space, i.e. the classes and . Therefore, from the theoretical point of view it is anticipated that they should lead to numerically identical results in both static and dynamic analysis. For both types of elements details are provided concerning the main computer programming steps, while selective parts of a typical MATLAB® code are presented. Numerical application includes static (Laplace, Poisson), eigenvalue (acoustics) and transient (heat conduction) problems of rectangular, circular and elliptic shapes, which were treated as a single macroelement. In agreement to the theory, in all six examples the results obtained using Bézier and Lagrange polynomials were found to be identical and of exceptional accuracy.
-
-@highlight We show that the usual Lagrangian type finite elements are equivalent with Bézierian type ones.
-@highlight Both formulations are applied to the solution of elliptic, hyperbolic and parabolic problems.
-@highlight For both macro-elements we present in house MATLAB software.
-@highlight Extension to linear elastic analysis is straightforward.
-@highlight Extension to 3D problems is also straightforward.

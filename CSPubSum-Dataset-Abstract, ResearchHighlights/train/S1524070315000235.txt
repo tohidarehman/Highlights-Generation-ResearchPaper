@@ -1,8 +1,0 @@
- Smooth surface approximation is an important problem in many applications. We consider an implicit surface description which has many well known properties, such as being well suited to perform collision detection. We describe a method to smooth a triangle mesh by constructing an implicit convolution-based surface. Both the convolution kernel and the implicitization of the mesh are linearized. We employ the straight skeleton to linearize the latter. The resulting implicit function is globally C 2 continuous, even for non-surface points, and can be explicitly analytically evaluated. This allows the function to be used in simulation systems requiring C 2 continuity, for which we give an example from industrial simulation, in contrast to methods which only locally smooth the surface itself.
-
-@highlight Smoothing a triangle mesh by constructing an implicit convolution-based surface.
-@highlight Both the convolution kernel and the implicitization of the mesh are linearized.
-@highlight The straight skeleton is used to linearize the mesh.
-@highlight The resulting distance function is globally C
-@highlight 2 continuous.
-@highlight It can be explicitly analytically evaluated.

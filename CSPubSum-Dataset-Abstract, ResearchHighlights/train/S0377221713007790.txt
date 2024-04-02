@@ -1,7 +1,0 @@
- The assumption of a homothetic production function is often maintained in production economics. In this paper we explore the possibility of maintaining homotheticity within a nonparametric DEA framework. to define a homothetic reference technology. We focus on the largest subset of data points that is consistent with such a homothetic production function. We use the HR-approach to define a piecewise linear homothetic convex reference technology. We propose this reference technology with the purpose of adding structure to the flexible non-parametric BCC DEA estimator. Motivation for why such additional structure sometimes is warranted is provided. An estimation procedure derived from the BCC-model and from a maintained assumption of homotheticity is proposed. The performance of the estimator is analyzed using simulation.
-
-@highlight We can maintain homotheticity within a nonparametric DEA framework.
-@highlight We define a piecewise linear homothetic reference technology.
-@highlight Comparison of the BCC and the homothetic reference technology.
-@highlight One purpose of the new technology is to add structure to the BCC technology.
-@highlight Motivation for why such additional structure sometimes is warranted is provided.

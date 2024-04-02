@@ -1,6 +1,0 @@
- Segmentation and identification of muscle cells robustly and efficiently is of considerable importance in determining the muscle’s physiological conditions. It is challenging due to frequently occurring artifacts, indistinct boundary between adjacent cells, the arbitrary shape and large number of cells. Currently, the widely used segmentation and quantification tools are usually manual or semi-automatic, which is time-consuming and labor intensive. In this paper, a semi-automatic method is proposed to segment the muscle cells robustly and efficiently. The proposed approach utilizes and evolves three fundamental image processing techniques, threshold selection, morphological ultimate erosion and morphological dilation. Experimental results verified the effectiveness of the proposed method.
-
-@highlight We evolve the threshold selection method.
-@highlight We decompose the histogram distribution into different layers by Fourier transform.
-@highlight We select the optimal threshold based on the practical needs.
-@highlight We evolve the ultimate erosion theorem to achieve high accuracy.

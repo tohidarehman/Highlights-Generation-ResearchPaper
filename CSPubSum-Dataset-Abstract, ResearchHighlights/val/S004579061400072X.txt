@@ -1,6 +1,0 @@
- This work provides a novel dynamic ring-based routing scheme for correlation data aggregation named Ring-Based Correlation Data Routing (RBCDR) scheme. In this scheme, first, nodal data is routed to rings which have abundant energy in minimum hops, and then all data aggregation is processed along the ring, after that, the aggregated data is routed to the sink with shortest route. Compared with current research, RBCDR scheme has higher network lifetime. RBCDR scheme processes data aggregation in non-hotspots regions which have abundant energy and then routes all aggregated data to the sink, achieving less data sent to the sink and thus decreasing the energy consumption in hotspots near the sink, therefore, it significantly improves the network lifetime. Through theoretical analysis and simulation results, our scheme is proved to improve network lifetime by 200–340%, compared with sink-centered baseline version data aggregation scheme.
-
-@highlight A solution to correlation data aggregation in WSNs is addressed in this paper.
-@highlight Data aggregation is processed along the ring to mitigate hotspots problem.
-@highlight The proposed scheme is proved to improve network lifetime by 200% or more.
-@highlight Our scheme is more practicality which allows low complexity implementation.

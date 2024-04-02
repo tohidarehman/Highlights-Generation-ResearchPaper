@@ -1,5 +1,0 @@
- Robust portfolios reduce the uncertainty in portfolio performance. In particular, the worst-case optimization approach is based on the Markowitz model and form portfolios that are more robust compared to mean–variance portfolios. However, since the robust formulation finds a different portfolio from the optimal mean–variance portfolio, the two portfolios may have dissimilar levels of factor exposure. In most cases, investors need a portfolio that is not only robust but also has a desired level of dependency on factor movement for managing the total portfolio risk. Therefore, we introduce new robust formulations that allow investors to control the factor exposure of portfolios. Empirical analysis shows that the robust portfolios from the proposed formulations are more robust than the classical mean–variance approach with comparable levels of exposure on fundamental factors.
-
-@highlight We introduce the robustness measure and its properties.
-@highlight We propose new robust formulations that allow investors to control the factor exposure of portfolios.
-@highlight The optimal portfolio of our model is not only robust but also has a desired factor exposure.

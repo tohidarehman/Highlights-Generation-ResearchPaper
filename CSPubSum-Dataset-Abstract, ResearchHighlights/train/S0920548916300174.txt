@@ -1,7 +1,0 @@
- Analyzing conflicts in non-functional requirements is a major task in large software systems development projects. Many of the non-functional requirements that accumulate vary over time. Systems analysts often maintain non-functional requirements incrementally. Requirement information overload and employee turnover problems may complicate conflict detection in the non-functional requirement evolution process. This work proposes a conflict detector in non-functional requirement evolution (CDNFRE) system that uses ontologies as a theoretical foundation for automatically detecting conflicts. Requirement metadata and conflict detection rules and their associated requirement generation and conflict detection processes are proposed for the CDNFRE mechanism. A prototype is developed. A case study of electronic commerce in a television station company demonstrates the feasibility and effectiveness of the proposed CDNFRE system.
-
-@highlight Proposing the software architecture of CDNFRE tool for detecting conflicts in non-functional requirements
-@highlight The ontological conflict detection method is represented as a set of rules for automatic conflict detection.
-@highlight Proposing the non-functional requirement metadata and processes about derived requirement generation and conflict detection
-@highlight Implementing prototype for demonstrating how the CDNFRE software architecture works
-@highlight Providing a case study to validate the effectiveness of the proposed conflict detection rules

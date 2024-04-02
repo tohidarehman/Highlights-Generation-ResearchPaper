@@ -1,7 +1,0 @@
- The inventory routing problem (IRP) is a very challenging optimization task that couples two of the most important components of supply chain management, i.e., inventory control and transportation. Routes of vehicles are to be determined to repeatedly resupply multiple customers with constant demand rates from a single depot. We alter this basic IRP setting by two aspects: (i) only cyclic tours are allowed, i.e., each vehicle continuously tours its dedicated route, and (ii) all customers are located along a line. Both characteristics occur, for instance, in liner shipping (when feeder ships service inland ports along a stream) and in facility logistics (when tow trains deliver part bins to the stations of an assembly line). We formalize the resulting problem setting, identify NP-hard as well as polynomially solvable cases, and develop suited solution procedures.
-
-@highlight We formalize the cyclic inventory routing problem in a line-shaped network.
-@highlight The problem is relevant, e.g., to routing feeder ships and tow trains.
-@highlight A complexity analysis identifies cases solvable in polynomial time.
-@highlight For the NP-hard cases, a dynamic programming procedure is developed.
-@highlight The computational study identifies costly routing policies.

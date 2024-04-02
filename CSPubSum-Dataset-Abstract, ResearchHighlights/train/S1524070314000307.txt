@@ -1,6 +1,0 @@
- We present a novel approach for non-rigid registration of partially overlapping surfaces acquired from a deforming object. To allow for large and general deformations our method employs a nonlinear physics-inspired deformation model, which has been designed with a particular focus on robustness and performance. We discretize the surface into a set of overlapping patches, for each of which an optimal rigid motion is found and interpolated faithfully using dual quaternion blending. Using this discretization we can formulate the two components of our objective function—a fitting and a regularization term—as a combined global shape matching problem, which can be solved through a very robust numerical approach. Interleaving the optimization with successive patch refinement results in an efficient hierarchical coarse-to-fine optimization. Compared to other approaches our as-rigid-as-possible deformation model is faster, causes less distortion, and gives more accurate fitting results.
-
-@highlight A robust and efficient non-rigid registration method has been developed.
-@highlight Large deformations are enabled by a nonlinear elastic energy.
-@highlight Our hierarchical optimization with successive refinement guarantees efficiency.
-@highlight Several examples with real-world scans are provided.

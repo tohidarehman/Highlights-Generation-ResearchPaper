@@ -1,6 +1,0 @@
- In this work we present a parameter-dependent Refine-and-Smooth (RS) subdivision algorithm where the refine stage R consists in the application of a perturbation of Chaikin's/Doo–Sabin's vertex split, while each smoothing stage S performs averages of adjacent vertices like in the Lane–Riesenfeld algorithm . This constructive approach provides a unifying framework for univariate/bivariate primal and dual subdivision schemes with tension parameter and allows us to show that several existing subdivision algorithms, proposed in the literature via isolated constructions, can be obtained as specific instances of the proposed strategy. Moreover, this novel approach provides an intuitive theoretical tool for the derivation of new non-tensor product subdivision schemes that in the regular regions satisfy the property of reproducing bivariate cubic polynomials,.
-
-@highlight A parameter-dependent Refine-and-Smooth subdivision algorithm.
-@highlight A unifying framework for primal/dual univariate and bivariate subdivision schemes with tension parameter.
-@highlight A generalization to quadrilateral meshes of the univariate family of subdivision schemes with cubic precision.
-@highlight A non-tensor product extension of the interpolatory 4-point and the dual approximating 4-point subdivision schemes.

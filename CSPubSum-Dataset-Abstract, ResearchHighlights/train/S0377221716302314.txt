@@ -1,7 +1,0 @@
- In this work we consider dynamic pricing for the case of continuous replenishment. An essential ingredient in such a formulation is the use of time normalized revenue or profit function, in other words revenue or profit per unit time. This provides the incentive to sell many items in the shortest time (and of course at a high price). Moreover, for most firms what matters most is how much revenue or profit is achieved in a certain time frame, for example per year. This changes the problem qualitatively and methodologically. We develop a new dynamic pricing model for this formulation. We derive an analytical solution to the pricing problem in the form of a simple-to-solve ordinary differential equation (ODE) equation. The trajectory of this ODE gives the optimal pricing curve. Unlike many of the models existing in the literature that rely on computationally demanding dynamic programming type solutions, our model is relatively simple to solve. Also, we apply the derived equation to two commonly used price-demand functions (the exponential and the power functions), and derive closed-form pricing curves for these functions.
-
-@highlight We consider revenue or profit normalized per unit time.
-@highlight This is more relevant to products where immediate replenishment is applied.
-@highlight We propose a dynamic pricing model for this novel objective function.
-@highlight We derive the optimal price in the form of an ordinary differential equation.
-@highlight For exponential and power demand function we derive closed-form solutions.

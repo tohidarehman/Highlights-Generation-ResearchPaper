@@ -1,6 +1,0 @@
- When modeling optimal product mix under emission restrictions produces a solution with unacceptable level of profit, analyst is moved to investigate the cause(s). Interior analysis (IA) is proposed for this purpose. With IA, analyst can investigate the impact of accommodating emission controls in step-by-step one-at-a-time manner and in doing so track how profit and other important features of product mix degrade and to which emission control enforcements its diminution may be attributed. In this way, analyst can assist manager in identifying implementation strategies. Although IA is presented within context of a linear programming formulation of the green product mix problem, its methodology may be applied to other modeling frameworks. Quantity dependent penalty rates and transformations of emissions to forms with or without economic value are included in the modeling and illustrations of IA.
-
-@highlight Interior analysis (IA) attributes cause/effect to loss in profit due to emission controls.
-@highlight IA identifies least detrimental step-by-step one-at-a-time accommodation of controls.
-@highlight IA reveals aspects of the product mix solution set that are not otherwise evident.
-@highlight IA results assist the framing of implementation strategies for restricting emissions.

@@ -1,6 +1,0 @@
- Phosphorescent white organic light-emitting diodes (WOLEDs) based on single doped platinum(II)  chloride (Pt-4) emission layers were investigated in this paper. The devices exhibited electroluminescence spectra composed of bluish (λ max =480nm) and reddish (λ max =660nm) emission bands, which corresponding to monomer and excimer emission originated from Pt-4 dopants. With optimized device structures, a maximum current efficiency of 11.5cd/A was obtained and remained above 10cd/A even the brightness was over 6000cd/m2. Furthermore, by integrating the fac-tris(2-phenylpyridine) iridium(III) as a complementary emitter and an additional 2,2′,2″-(1,3,5-phenylene)-tris(1-phenyl-1H-benzimidazole) space layer, the device efficiency was further improved, which exhibited a maximum current efficiency of 20.4cd/A at the luminance of 100cd/m2, and maintained the mild efficiency roll-off that similar to its single Pt-4 doped counterpart.
-
-@highlight White light emission achieved using the monomer and excimer emission from single Pt-4 dopant.
-@highlight Extremely low efficiency roll-off even at luminance exceeding 6000cd/m2.
-@highlight Device efficiency has been improved by at least two times with further doping of Ir(ppy)3.
-@highlight By utilization of TPBi as space layer, the device performance was further improved.

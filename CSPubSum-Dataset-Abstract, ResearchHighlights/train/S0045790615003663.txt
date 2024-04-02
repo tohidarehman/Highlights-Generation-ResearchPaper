@@ -1,6 +1,0 @@
- This paper proposes a novel unambiguous correlation function for composite binary offset carrier (CBOC) signal tracking based on partial correlations. In the proposed scheme, first, we partition sub-carriers of the CBOC signal into partial sub-carriers, and subsequently, we obtain partial correlations by correlating the partial sub-carriers with the received CBOC signal. Finally, a novel unambiguous correlation function with no side-peak is constructed by combining the partial correlations in a specially designed way. Unlike the conventional schemes, the proposed scheme does not require any auxiliary signal and from numerical results, it is found to offer a better tracking performance than those of the conventional schemes in terms of the tracking error standard deviation (TESD) and multipath error envelope (MEE).
-
-@highlight An unambiguous tracking scheme is proposed for CBOC(6,1,1/11) signal.
-@highlight The proposed scheme combines the partial correlations in a specially designed way.
-@highlight The autocorrelation side-peaks are completely removed by the proposed scheme.
-@highlight Better TESD and MEE performances are achieved over those of the conventional schemes.

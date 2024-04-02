@@ -1,7 +1,0 @@
- We develop and implement linear formulations of general Nth order stochastic dominance criteria for discrete probability distributions. Our approach is based on a piece-wise polynomial representation of utility and its derivatives and can be implemented by solving a relatively small system of linear inequalities. This approach allows for comparing a given prospect with a discrete set of alternative prospects as well as for comparison with a polyhedral set of linear combinations of prospects. We also derive a linear dual formulation in terms of lower partial moments and co-lower partial moments. An empirical application to historical stock market data suggests that the passive stock market portfolio is highly inefficient relative to actively managed portfolios for all investment horizons and for nearly all investors. The results also illustrate that the mean–variance rule and second-order stochastic dominance rule may not detect market portfolio inefficiency because of non-trivial violations of non-satiation and prudence.
-
-@highlight We develop linear formulations of general Nth order stochastic dominance criteria.
-@highlight Our primal formulations use a piece-wise polynomial representation of utility.
-@highlight Our dual formulations use lower partial moments and co-lower partial moments.
-@highlight An empirical application analyses the passive US stock market portfolio.
-@highlight The passive portfolio seems dominated by actively managed alternatives.

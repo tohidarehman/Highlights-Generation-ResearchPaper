@@ -1,7 +1,0 @@
- In this paper, a MATLAB-based graphical user interface (GUI) software tool for general biomedical signal processing and analysis of functional neuroimaging data is introduced. Specifically, electroencephalography (EEG) and electrocardiography (ECG) signals can be processed and analyzed by the developed tool, which incorporates commonly used temporal and frequency analysis methods. In addition to common methods, the tool also provides non-linear chaos analysis with Lyapunov exponents and entropies; multivariate analysis with principal and independent component analyses; and pattern classification with discriminant analysis. This tool can also be utilized for training in biomedical engineering education. This easy-to-use and easy-to-learn, intuitive tool is described in detail in this paper.
-
-@highlight Design of a MATLAB-based GUI tool for general biomedical signal processing and analysis.
-@highlight EEG and ECG signals can be processed and analyzed by the designed tool.
-@highlight The easy-to-use and easy-to-learn, intuitive tool provides non-linear chaos analysis.
-@highlight The tool provides entropy, multivariate analysis with PCA and ICA, pattern classification.
-@highlight The tool can also be utilized for training in biomedical engineering education.

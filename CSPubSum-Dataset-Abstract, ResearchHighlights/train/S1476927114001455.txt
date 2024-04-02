@@ -1,5 +1,0 @@
- Presence of polyalanine (polyA) stretches in some proteins is found to be associated with their aggregation, which causes disorders in various developmental processes. In this work, inherent propensities towards aggregation of some residues, which are not part of the polyA stretches, have been identified by using the primary sequences of seven polyA proteins with the help of Betascan, PASTA and Tango programs and explored unambiguously. This provides a basis for proposing molecular mechanism of this type of aggregation. Reported suppression of aggregation of polyA proteins by chaperones like HSP40 and HSP70 is substantiated through molecular docking. The hydrophobic residues of identified aggregating region are found to be interacting with hydrophobic surface of chaperones. This suggests a crucial clue for possible way to inhibit the aggregation of such proteins.
-
-@highlight Aggregating residues in polyA proteins.
-@highlight NonpolyA residues.
-@highlight Hydrophobic interaction.

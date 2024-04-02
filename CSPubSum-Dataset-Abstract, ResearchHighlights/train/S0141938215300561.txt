@@ -1,7 +1,0 @@
- This paper presents an optimized color characterization model based on Radial Basis Functions (RBFs). The performance of the proposed model was tested on a number of different mobile devices and compared with the performance of other state of the art color characterization models. We compared the accuracy of models using the CIELAB color difference. Four different models were discussed in detail: Piecewise Linear Model Assuming Variation in Chromaticity, Polynomial regression, Artificial Neural Network, and proposed Radial Basis Function model. For training and evaluation of the models we measured a large number of color samples on various mobile device displays. Results have shown that our optimized RBF model has superior accuracy over other models with median color difference of 0.39. In addition, it has particularly good accuracy for colors on the boundary of device’s gamut with maximum color difference of 0.87, where other models shown unacceptably high (>10) color difference.
-
-@highlight A novel method for characterization of a mobile device display based on Radial Basis Functions is presented.
-@highlight An overview of other state of the art methods for color characterization is given.
-@highlight Compared methods are tested on a number of various mobile devices.
-@highlight It is found that proposed method for color calibration is flexible and very accurate.
-@highlight Future research perspective for further optimization of the model is given.

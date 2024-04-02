@@ -1,6 +1,0 @@
- The paper addresses structural decomposition of images by using a family of non-linear and non-convex objective functions. These functions rely on ℓ quasi-norm estimation costs in a piecewise constant regularization framework. These objectives make image decomposition into constant cartoon levels and rich textural patterns possible. The paper shows that these regularizing objectives yield image texture-versus-cartoon decompositions that cannot be reached by using standard penalized least square regularizations associated with smooth and convex objectives.
-
-@highlight The paper provides a family of non-smooth and non-convex regularizing objectives.
-@highlight These objectives operate image structural cartoon-versus-texture image differencing.
-@highlight These objectives reach high level cartooning with piecewise constant edge transitions.
-@highlight From these objectives, segmentation can be seen as instance of image regularization.

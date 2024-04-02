@@ -1,6 +1,0 @@
- In the stochastic variant of the vehicle routing problem with time windows, known as the SVRPTW, travel times are assumed to be stochastic. In our chance-constrained approach to the problem, restrictions are placed on the probability that individual time window constraints are violated, while the objective remains based on traditional routing costs. In this paper, we propose a way to offer this probability, or service level, for all customers. Our approach carefully considers how to compute the start-service time and arrival time distributions for each customer. These distributions are used to create a feasibility check that can be “plugged” into any algorithm for the VRPTW and thus be used to solve large problems fairly quickly. Our computational experiments show how the solutions change for some well-known data sets across different levels of customer service, two travel time distributions, and several parameter settings.
-
-@highlight Guarantee feasibility of time windows in the environment of stochastic routing.
-@highlight A chance-constrained approach ensures a given service level for all customers.
-@highlight We show an enhanced feasibility check that can be “plugged” into any VRPTW algorithm.
-@highlight Experiments analyze the trade-off between service level and delivery costs.

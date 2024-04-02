@@ -1,6 +1,0 @@
- For summary readers, coherence is no less important than informativeness and is ultimately measured in human terms. Taking a human cognitive perspective, this paper is aimed to generate coherent summaries of narrative text by developing a cognitive model. To model coherence with a cognitive background, we simulate the long-term human memory by building a semantic network from a large corpus like Wiki and design algorithms to account for the information flow among different compartments of human memory. Proposition is the basic processing unit for the model. After processing a whole narrative in a cyclic way, our model supplies information to be used for extractive summarization on the proposition level. Experimental results on two kinds of narrative text, newswire articles and fairy tales, show the superiority of our proposed model to several representative and popular methods.
-
-@highlight Borrowing theories from cognitive psychology, we propose a computational model of human cognition.
-@highlight Using the cognitive model, we generate coherent narrative summaries.
-@highlight We propose a novel method of proposition-level extractive summarization.
-@highlight We verify the cognitive model and summarization method with narrative text data.

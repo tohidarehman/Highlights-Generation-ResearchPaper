@@ -1,7 +1,0 @@
- In this paper, we show how Data Envelopment Analysis (DEA) may be used to measure and decompose revenue inefficiency, taking into account all sources of technical waste in the context of an application to assess the Spanish quality wine sector, in particular Designation of Origin (DO) wines. We try to go beyond the standard approaches, which use Shephard distance functions or directional distance functions, to provide decomposition that incorporates slacks as a source of technical inefficiency. To accomplish this, we will base our analysis on a recent approach introduced in Cooper et al. (2011a). In particular, we show how an output-oriented version of the Weighted Additive model can be used to properly identify revenue, technical, and allocative inefficiencies in Spanish DOs. In the application, we conclude that the main source of revenue inefficiency in this sector is technical waste, and that Cava can be highlighted as the DO that performs as a benchmark for more numbers of units.
-
-@highlight We measure revenue inefficiency through an output-oriented Weighted Additive model.
-@highlight We decompose revenue inefficiency into technical and allocative inefficiency.
-@highlight Our technical component takes into consideration output slacks.
-@highlight We base our analysis on a recent approach introduced in Cooper et al. (2011a, EJOR).
-@highlight We apply the new approach to the Spanish quality wine sector.

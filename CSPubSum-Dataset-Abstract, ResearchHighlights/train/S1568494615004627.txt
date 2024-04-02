@@ -1,7 +1,0 @@
- The management of hesitant fuzzy information is a topic of special interest in fuzzy decision making. In this paper, we focus on the use and properties of the fuzzy linguistic modelling based on discrete fuzzy numbers to manage hesitant fuzzy linguistic information. Among these properties, we can highlight the existence of aggregation functions with no need of transformations or the possibility of a greater flexibilization of the opinions of the experts, even using different linguistic chains (multigranularity). Furthermore, based on these properties we perform a comparison between this model and the one based on hesitant fuzzy linguistic term sets, showing the advantages of the former with respect to the latter. Finally, a fuzzy decision making model based on discrete fuzzy numbers is proposed.
-
-@highlight Properties of the fuzzy linguistic model based on discrete fuzzy numbers are analysed.
-@highlight This model is used to handle hesitant fuzzy linguistic information.
-@highlight This model includes the hesitant fuzzy linguistic term sets model.
-@highlight Some advantages of the model based on discrete fuzzy numbers are pointed out.
-@highlight A fuzzy decision making model based on discrete fuzzy numbers is proposed.

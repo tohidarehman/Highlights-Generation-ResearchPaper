@@ -1,5 +1,0 @@
- This paper describes a limited-memory quasi-Newton method in which the initial inverse Hessian approximation is constructed based on the concept of equilibration of the inverse Hessian matrix. Curvature information about the objective function is stored in the form of a diagonal matrix, and plays the dual role of providing an initial matrix and of equilibrating for limited memory BFGS (LBFGS) iterations. An extensive numerical testing has been performed showing that the diagonal scaling strategy proposed is very effective.
-
-@highlight Updates of the well known LBFGS method are approximately equilibrated.
-@highlight The initial diagonal matrix is modified to equilibrate and to approximate the Hessian.
-@highlight Numerical results indicate that the proposed scaling strategy is very effective.

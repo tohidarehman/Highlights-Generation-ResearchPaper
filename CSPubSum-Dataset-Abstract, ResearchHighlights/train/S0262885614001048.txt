@@ -1,7 +1,0 @@
- Locally affine transformation with globally elastic interpolation is a common strategy for non-rigid registration. Current techniques improve the registration accuracy by only processing the sub-images that contain well-defined structures quantified by Moran's spatial correlation. As an indicator, Moran's metric successfully excludes noisy structures that result in misleading global optimum in terms of similarity. However, some well-defined structures with intensity only varying in one direction may also cause mis-registration. In this paper, we propose a new metric based on the response of a similarity function to quantify the ability of being correctly registered for each sub-image. Using receiver operating characteristic analysis, we show that the proposed metric more accurately reflects such ability than Moran's metric. Incorporating the proposed metric into a hierarchical non-rigid registration scheme, we show that registration accuracy is improved relative to Moran's metric.
-
-@highlight For non-rigid registration, a hierarchical piece-wise affine transform is examined.
-@highlight We propose a metric to quantify the ability of being correctly registered.
-@highlight We examine ROC analysis on the proposed metric and Moran's spatial correlation.
-@highlight Proposed metric reflects the ability of being registered better than Moran's.
-@highlight Registration error is reduced by using the proposed metric as a sub-image indicator.

@@ -1,6 +1,0 @@
- In the present work, we develop a multi-class multi-server queuing model with heterogeneous servers under the accumulating priority queuing discipline, where customers accumulate priority credits as a linear function of their waiting time in the queue, at rates which are distinct to the class to which they belong. At a service completion instant, the customer with the greatest accumulated priority commences service. When the system has more than one idle server, the so-called r-dispatch policy is implemented to determine which of the idle servers is to be selected to serve a newly-arriving customer. We establish the waiting time distribution for each class of customers. We also present a conservation law for the mean waiting time in M/Mi /c systems, and study a cost function in relation to the conservation law to optimize the level of heterogeneity among the service times in M/Mi /2 systems. Numerical investigations through simulation are carried out to validate our model.
-
-@highlight The first to obtain waiting time distributions for the heterogeneous server queue.
-@highlight Results are for head-of-line, non-preemptive & accumulating priority disciplines.
-@highlight We derive a conservation law for average waiting times for multi-server systems.
-@highlight Contrary to intuition, the degree of heterogeneity in the system can be optimized.

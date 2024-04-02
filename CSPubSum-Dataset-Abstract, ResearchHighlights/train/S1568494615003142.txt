@@ -1,8 +1,0 @@
- Uneven energy consumption is an inherent problem in wireless sensor networks characterized by multi-hop routing and many-to-one traffic pattern. Such unbalanced energy dissipation can significantly reduce network lifetime. In this paper, we study the problem of prolonging network lifetime in large-scale wireless sensor networks where a mobile sink gathers data periodically along the predefined path and each sensor node uploads its data to the mobile sink over a multi-hop communication path. By using greedy policy and dynamic programming, we propose a heuristic topology control algorithm with time complexity O(n(m log n)), where n and m are the number of nodes and edges in the network, respectively, and further discuss how to refine our algorithm to satisfy practical requirements such as distributed computing and transmission timeliness. Theoretical analysis and experimental results show that our algorithm is superior to several earlier algorithms for extending network lifetime.
-
-@highlight We formulate the problem of Maximizing the Minimum Lifetime in WSNs with Mobile Sink (MML-MS).
-@highlight We propose a tree-based heuristic topology control algorithm to address the MML-MS problem.
-@highlight Our distributed algorithm can only use local information to mitigate the imbalance of the loads.
-@highlight We save the transmission power of nodes by reducing the amount of their relaying data.
-@highlight Comparing with existing algorithms, our algorithm can prolong more than 15% network lifetime.
-@highlight Our algorithm has a lower computation complexity by getting rid of the redundant computation.

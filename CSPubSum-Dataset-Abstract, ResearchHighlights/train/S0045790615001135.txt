@@ -1,7 +1,0 @@
- This research proposes a framework for a real time implementation of a Brain Computer Interface (BCI). This interface is designed with a future objective of providing a testing platform as an interactive and intelligent Image Search and Retrieval tool that allows users, disabled or otherwise, to browse and search for images using non-invasive electroencephalography (EEG) signals. As a proof of concept, a prototype system was designed and implemented to test real time data collection and navigation through the interface by detection and classification of event-related potentials (ERPs). A comparison of different feature extraction methods and classifiers for the detection of ERPs is performed on a standard data set to determine the best fit for the real time implementation of the BCI. The preliminary results of the real time implementation of the prototype BCI system are quantified by the success rate of the user/subject in navigating through the interface and spelling a search keyword using the mental-typewriter Hex-O-Speller.
-
-@highlight A framework for a real time implementation of a Brain Computer Interface.
-@highlight Implementation & comparison of different feature extraction methods and classifiers.
-@highlight Accuracy & processing time comparison for detection of event related potentials-ERP.
-@highlight An implementation of a prototype system using the proposed BCI framework.
-@highlight Real time EEG data collection and classification of ERPs using Hex-O-Speller.

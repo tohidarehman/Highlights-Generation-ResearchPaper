@@ -1,6 +1,0 @@
- To safeguard analytical tractability and the concavity of objective functions, the vast majority of models belonging to oligopoly theory relies on the restrictive assumption of linear demand functions. Here we lay out the analytical solution of a differential Cournot game with hyperbolic inverse demand, where firms accumulate capacity over time à la Ramsey. The subgame perfect equilibrium is characterized via the Hamilton–Jacobi–Bellman equations solved in closed form both on infinite and on finite horizon setups. To illustrate the applicability of our model and its implications, we analyze the feasibility of horizontal mergers in both static and dynamic settings, and find appropriate conditions for their profitability under both circumstances. Static profitability of a merger implies dynamic profitability of the same merger. It appears that such a demand structure makes mergers more likely to occur than they would on the basis of the standard linear inverse demand.
-
-@highlight We characterize a differential market game with hyperbolic inverse demand function.
-@highlight The HBJ equations are solved in closed form both on infinite and finite horizon.
-@highlight Static profitability implies dynamic profitability of the same horizontal merger.
-@highlight Mergers are more likely to occur than they would in the standard demand structure.

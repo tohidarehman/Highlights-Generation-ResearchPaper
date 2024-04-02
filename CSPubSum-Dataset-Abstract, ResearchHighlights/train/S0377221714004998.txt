@@ -1,7 +1,0 @@
- In defined benefit pension plans, allowances are independent from the financial performance of the fund. And the sponsoring firm pays regularly contributions to limit deviations of fund assets from the mathematical reserve, necessary for covering the promised liabilities. This research paper proposes a method to optimize the timing and size of contributions, in a regime switching economy. The model takes into consideration important market frictions, like transactions costs, late payments and illiquidity. The problem is solved numerically using dynamic programming and impulse control techniques. Our approach is based on parallel grids, with trinomial links, discretizing the asset return in each economic regime.
-
-@highlight Research question: when is it optimal to contribute to a pension plan?
-@highlight Return of assets managed by the fund depends on economic regimes.
-@highlight Market frictions, as transaction costs, illiquidity, late payments are considered.
-@highlight An optimal strategy is found numerically based on impulse control technique.
-@highlight Contributions are paid only if assets deviate too much from liabilities.

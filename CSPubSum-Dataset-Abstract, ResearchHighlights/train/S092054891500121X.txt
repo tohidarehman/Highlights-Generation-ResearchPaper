@@ -1,6 +1,0 @@
- The driving force behind software development of the Electronic Medical Record (EMR) has been gradually changing. Heterogeneous software requirements have emerged, so how to correctly carry out development project has become a complex task. This paper adopts the knowledge engineering and management mechanism, i.e., CommonKADS, and software quality engineering to improve existing strategic information management (SIM) plan as a design methodology to help software implementation for medical institutes. We evaluate the adopting performance by a real case that examines the maturity level of the architecture alignment between the target solution in the proposed SIM plan and the built medical system.
-
-@highlight This proposed methodology can be used to improve the SIM plan.
-@highlight With the proposed SIM plan, software development process is improved.
-@highlight The related software architecture is examined in different models.
-@highlight A real case with the working scenario to verify this proposed SIM plan.

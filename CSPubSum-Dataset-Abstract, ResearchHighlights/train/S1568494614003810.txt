@@ -1,6 +1,0 @@
- Recently much more attention has been paid to the applications of lattice theory in different fields. Fuzzy lattice reasoning (FLR) was described lately as a lattice data domain extension of fuzzy-ARTMAP based on a lattice inclusion measure function. In this work, we develop a fuzzy lattice reasoning classifier using various distance metrics. As a consequence, the new algorithm named FLRC-MD shows better classification results and more generalization and it will lead to generate fewer induced rules. To assess the effectiveness of the proposed model, twenty benchmark data sets are tested. The results are compared favorably with those from a number of state-of-the-art machine learning techniques published in the literature. Results obtained confirm the effectiveness of the proposed method.
-
-@highlight In this work, we develop a fuzzy lattice reasoning classifier using various metric distances.
-@highlight As a consequence, the new algorithm named FLRC-MD shows better classification results and more generalization.
-@highlight Also, the proposed method generates fewer induced rules.
-@highlight A comprehensive experimental results is performed to assess the effectiveness of the proposed model, results obtained confirm the effectiveness of the proposed method.

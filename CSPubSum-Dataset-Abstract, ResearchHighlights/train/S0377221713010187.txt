@@ -1,5 +1,0 @@
- Recent research on robust decision aiding has focused on identifying a range of recommendations from preferential information and the selection of representative models compatible with preferential constraints. This study presents an experimental analysis on the relationship between the results of a single decision model (additive value function) and the ones from the full set of compatible models in classification problems. Different optimization formulations for selecting a representative model are tested on artificially generated data sets with varying characteristics.
-
-@highlight We examine the robustness of inferring multicriteria classification models.
-@highlight Analysis of the relationship between robustness and the quality of the models.
-@highlight Introduction of a new model inference procedure based on the Chebyshev center.

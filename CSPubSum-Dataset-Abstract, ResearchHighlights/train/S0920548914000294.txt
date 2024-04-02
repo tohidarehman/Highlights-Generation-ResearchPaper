@@ -1,7 +1,0 @@
- The intended purpose of a device is a key reference when regulators decide whether or not to regulate it as a medical device. However, when coming into consumer health domain, it is sometimes difficult to decide whether a device (or system) has a general purpose or not. The authors discussed the regulatory policy around health device connectivity, operating system and software market, and proposed to regulate them with enough granularity.
-
-@highlight Interoperability standard is a key to the global personal health services industry.
-@highlight Medical device regulation policy is behind the development of interoperability.
-@highlight We analyze the pros and cons of using intended purpose for regulation.
-@highlight We analyze the ‘over-regulation’ and ‘no-regulation’ scenarios.
-@highlight We conclude that a balanced regulation policy framework is immediately needed.

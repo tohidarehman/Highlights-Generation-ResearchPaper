@@ -1,7 +1,0 @@
- Drastic changes in consumer markets over the last decades have increased the pressure and challenges for the trade exhibition industry. Exhibiting organizations demand higher levels of justification for involvement and expect returns on trade show investments. This study proposes an RFID-enabled track and traceability framework to improve information visibility at the trade site. The identification information can potentially create detailed, accurate, and complete visibility of attendees’ movements and purchasing behaviors and consequently lead to considerable analytical benefits. Leveraging the wealth of information made available by RFID is challenging; thus, the objective of this study is to outline how to incorporate RFID data into existing enterprise data to deliver analytical solutions to the trade show and exhibition industry. The results show that the exhibitor can use RFID to gather visitor intelligence and the key findings of this study provide valuable feedback to business analysts to promote follow-up marketing strategies.
-
-@highlight An RFID-enabled traceability framework is proposed to improve information visibility at the exhibition.
-@highlight RFID allows exhibitors to track attendees’ movements and activities for their entire exhibition visit.
-@highlight This study outlines how to utilize RFID data for analytics processes.
-@highlight The results show that the exhibitor can use RFID to gather visitor intelligence.
-@highlight The key findings provide feedback to business analysts to promote follow-up marketing strategies.

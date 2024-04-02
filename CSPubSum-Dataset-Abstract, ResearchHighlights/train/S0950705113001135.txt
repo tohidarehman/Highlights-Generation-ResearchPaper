@@ -1,7 +1,0 @@
- Information fusion is a known technique in enlightening features, patterns, and multiple criteria decision making. However, the decomposed information of the fusion has always been unknown, making its applications limited. This research proposes a fuzzy integral combined with a fitness fusion (named as the fuzzy integral fusion, FIF) to induce features and consequently reveal the decomposed information empirically illustrating the dominance benchmark and the fusion effect for approximations. For illustration, the proposed fuzzy integral fusion is applied on World Competitiveness Yearbook 2010 to analyze the European crisis nations (Greece, Italy, Portugal, Spain) and the European welfare nations (Denmark, Finland, Norway, Sweden). The results showed that the European crisis nations should improve their institution framework to effectively raise their business finance efficiency.
-
-@highlight Applying information fusion and approximation decomposition to analysis.
-@highlight Aggregating criteria values to generate features in a fitness model.
-@highlight Illustrating dominance features with benchmark and fused effects.
-@highlight A case study about European crisis and welfare patterns.
-@highlight The European crisis nations could survive by improving their institution framework.

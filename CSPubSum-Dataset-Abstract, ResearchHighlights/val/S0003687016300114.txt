@@ -1,7 +1,0 @@
- The aim of study is to suggest a job rotation schedule by developing a mathematical model in order to reduce cumulative workload from the successive use of the same body region. Workload assessment using rapid entire body assessment (REBA) was performed for the model in three automotive assembly lines of chassis, trim, and finishing to identify which body part exposed to relatively high workloads at workstations. The workloads were incorporated to the model to develop a job rotation schedule. The proposed schedules prevent the exposure to high workloads successively on the same body region and minimized between-worker variance in cumulative daily workload. Whereas some of workers were successively assigned to high workload workstation under no job rotation and serial job rotation. This model would help to reduce the potential for work-related musculoskeletal disorders (WMSDs) without additional cost for engineering work, although it may need more computational time and relative complex job rotation sequences.
-
-@highlight Job rotation schedule was proposed to reduce cumulative workload from the successive use of the same body region.
-@highlight Workloads on automotive assembly lines were assessed with REBA.
-@highlight Workstations on assembly line were classified into high and low workload workstations with the median score of body parts.
-@highlight Mathematical job rotation model was developed and solved with CPLEX.
-@highlight Job rotation schedule was designed to prevent workers from working at high workload stations sequentially.

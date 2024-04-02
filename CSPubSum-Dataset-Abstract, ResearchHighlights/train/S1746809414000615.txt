@@ -1,5 +1,0 @@
- This work addresses the problem of reconstructing EEG signals from lower dimensional projections. Unlike previous studies, we propose to reconstruct the EEG signal using an analysis prior formulation. Moreover we use the inter-channel correlation while reconstruction which leads to a row-sparse analysis prior multiple measurement vector (MMV) recovery problem. To improve the reconstruction, we formulate the recovery as a non-convex optimization problem. Such a non-convex row-sparse MMV recovery problem had not been encountered before; this work derives an efficient algorithm to solve it. The proposed reconstruction technique is compared with state-of-the-art methods and we find that our technique yields significant improvement over others.
-
-@highlight We address the problem of Compressed Sensing based EEG transmission over WBAN.
-@highlight We propose a joint-sparse analysis prior framework for recovering the signals.
-@highlight The results show significant improvements over state-of-the-art methods.

@@ -1,6 +1,0 @@
- Cherchye, De Rock, Dierynck, Roodhooft, introduced a DEA methodology that is specially tailored for multi-output efficiency measurement. The methodology accounts for jointly used inputs and incorporates information on how inputs are allocated to outputs. In this paper, we present extensions that render the methodology useful to deal with undesirable (or “bad”) outputs in addition to desirable (or “good”) outputs. Interestingly, these extensions deal in a natural way with several limitations of existing DEA approaches to treat undesirable outputs. We also demonstrate the practical usefulness of our methodological extensions through an application to US electric utilities.
-
-@highlight Efficiency analysis for multi-output production.
-@highlight Modeling undesired (or bad) outputs in the production process.
-@highlight Including output objectives in Data Envelopment Analysis.
-@highlight Electric utilities.

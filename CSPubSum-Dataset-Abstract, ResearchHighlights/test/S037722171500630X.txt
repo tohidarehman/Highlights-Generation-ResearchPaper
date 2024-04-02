@@ -1,6 +1,0 @@
- We provide a new reduction-based approach for proving the NP-hardness of optimization problems and establish that it includes the “classical” approach as a special case. We apply our alternative approach to prove the NP-hardness of a problem for which the classical approach is not applicable. Besides, we construct a special case of the problem with the property that finding an optimal element takes polynomial time despite that computing the objective function values is NP-hard.
-
-@highlight A new approach for proving the NP-hardness of optimization problems is proposed.
-@highlight The new approach includes the “classical” approach as a special case.
-@highlight NP-hardness of a problem is proved, for which the classical approach is not applicable.
-@highlight Polynomially solvable problem with NP-hard computable objective is formulated.

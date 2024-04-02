@@ -1,7 +1,0 @@
- Mechatronic systems are characterized by the synergic interaction between their components from different technological domains. These interactions enable the system to achieve more functionalities than the sum of the functionalities of its components considered independently. Traditional design approaches are no longer adequate and there is a need for new synergic and multidisciplinary design approaches with close cooperation between specialists from different disciplines. SysML is a general purpose multi-view language for systems modeling and is identified as a support to this work. In this paper, a SysML-based methodology is proposed. This methodology consists of two phases: a black box analysis with an external point of view that provides a comprehensive and consistent set requirements, and a white box analysis that progressively leads to the internal architecture and behavior of the system.
-
-@highlight We propose a methodology for the architectural design of mechatronic systems.
-@highlight This methodology is based on the SysML language.
-@highlight A black-box phase leads to a comprehensive and consistent set of requirements.
-@highlight A white-box phase progressively leads to system architecture.
-@highlight A case study is provided to test the methodology.

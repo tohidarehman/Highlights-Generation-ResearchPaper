@@ -1,7 +1,0 @@
- The lifetime of subjects in reliability and survival analysis in the presence of several causes of failure (i.e., competing risks) has attracted attention in the literature. Most studies have simplified the computations by assuming that the causes are independent, though this does not hold. Dependent competing risks under progressively hybrid censoring condition using a Marshall–Olkin bivariate Weibull distribution is investigated. Maximum likelihood and approximated maximum likelihood estimators are developed for estimating the unknown parameters. Asymptotic distributions of the maximum likelihood estimators are used to construct approximate confidence intervals using the observed Fisher information matrix. Based on a simulation and real applications, it is illustrated that when a parametric distributional assumption is nearly true, a close approximation could be achieved by deliberately censoring the number of subjects and the study duration using Type-II progressively hybrid censoring, which might help to save time and money in research studies.
-
-@highlight Dependent competing risks are investigated.
-@highlight Type-II progressively hybrid censoring is considered to save time and costs.
-@highlight Marshall–Olkin bivariate Weibull distribution is applied.
-@highlight Simulation study has shown the performances of estimators under the Type-II PHCS.
-@highlight Two illustrative examples based on real datasets are provided.

@@ -1,7 +1,0 @@
- In this paper, in order to optimize neural network architecture and generalization, after analyzing the reasons of overfitting and poor generalization of the neural networks, we presented a class of constructive decay RBF neural networks to repair the singular value of a continuous function with finite number of jumping discontinuity points. We proved that a function with m jumping discontinuity points can be approximated by a simplest neural network and a decay RBF neural network in by each ɛ error, and a function with m jumping discontinuity point can be constructively approximated by a decay RBF neural network in by each error. Then the whole networks will have less hidden neurons and well generalization in the same of the first part. A real world problem about stock closing price with jumping discontinuity have been presented and verified the correctness of the theory.
-
-@highlight Some noise data are considered as singular values of a continuous function.
-@highlight RBF neural networks are constructed to fit the singular value with every ɛ error.
-@highlight A theorem about a function with m jumping discontinuity points has been proved.
-@highlight The constructive part has no generalization influence to the learning system.
-@highlight A real world problem has been presented to verify the correctness of the theory.

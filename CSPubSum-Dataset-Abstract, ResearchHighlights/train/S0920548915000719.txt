@@ -1,5 +1,0 @@
- How to securely transmit data is an important problem in Internet of Things (IoT). Fuzzy identity-based encryption (FIBE) is a good candidate for resolving this problem. However, existing FIBE schemes suffer from the following disadvantages: rely on random oracle models, merely secure in selective-ID model, long public parameters, and loose security reduction. In this paper, we propose a new FIBE scheme. Our scheme is secure in the full model without random oracles, and at the same time has a tight security reduction and short public parameters. This means that our scheme is quite suitable for secure transmitting data in IOT.
-
-@highlight We proposed a new fuzzy identity-based encryption (FIBE) scheme.
-@highlight We prove that our new FIBE scheme is secure in the full model without random oracles.
-@highlight Our proposed FIBE scheme is more efficient than previous schemes.

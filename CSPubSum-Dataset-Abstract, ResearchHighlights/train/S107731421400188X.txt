@@ -1,7 +1,0 @@
- With the advent of the digital camera, a common popular imaging processing is high dynamic range (HDR) that aims to overcome the technological limitations of the irradiance sensor dynamic range. In this paper, we will present a new method to combine low dynamic range images (LDR) for HDR processing. This method is based on the theory of evidence. Without a prior knowledge of the sensor intrinsic parameters and no extra data, it allows to locally maximizing the signal to noise ratio over the entire acquisition dynamic. In addition, our method is less sensitive to object or people in motion into the scene that are causing ghost-like artifacts with the conventional methods. This technique require that the camera be absolutely still between exposures or need a translational alignment. Simulation and experimental results are presented to demonstrate both the accuracy and efficiency of our algorithm.
-
-@highlight We propose a new unbiased method for HDR reconstruction based on evidence theory.
-@highlight Our method allows to locally minimizing the acquisition noise in the HDR image.
-@highlight Our method is adapted for very high dynamic range acquisition.
-@highlight For average user, no setting and no additional information are needed.
-@highlight Our method is less sensitive to object or people in motion into the scene.

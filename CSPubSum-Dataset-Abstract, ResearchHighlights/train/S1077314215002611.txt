@@ -1,7 +1,0 @@
- Independent mobility involves a number of challenges for people with visual impairment or blindness. In particular, in many countries the majority of traffic lights are still not equipped with acoustic signals. Recognizing traffic lights through the analysis of images acquired by a mobile device camera is a viable solution already experimented in scientific literature. However, there is a major issue: the recognition techniques should be robust under different illumination conditions. This contribution addresses the above problem with an effective solution: besides image processing and recognition, it proposes a robust setup for image capture that makes it possible to acquire clearly visible traffic light images regardless of daylight variability due to time and weather. The proposed recognition technique that adopts this approach is reliable (full precision and high recall), robust (works in different illumination conditions) and efficient (it can run several times a second on commercial smartphones). The experimental evaluation conducted with visual impaired subjects shows that the technique is also practical in supporting road crossing.
-
-@highlight TL–recognizer detects traffic lights from a mobile device camera.
-@highlight Robust method for unsupervised image acquisition and segmentation.
-@highlight Robust solution: traffic lights are clearly visible in different light conditions.
-@highlight Solution is reliable: precision 1 and recall 0.8 in different light conditions.
-@highlight Solution is efficient: computation time ∼100 ms on a Nexus 5.

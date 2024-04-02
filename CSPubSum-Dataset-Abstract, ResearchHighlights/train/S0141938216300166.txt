@@ -1,7 +1,0 @@
- Three-dimensional (3-D) images are perceived as images that float in front of the screens of 3-D displays. Users should be able to interact with these images instantaneously and accurately in applications where their bodies actually seen by them interact with the images. However, conventional techniques using just binocular disparity are too slow and inaccurate. Therefore, we propose a new technique where the visually perceived positions of images are obtained from the body movements of users. The feasibility of this technique was evaluated in an experiment using the positions obtained from users as they reached out to touch the images. These positions were closer to the visually perceived positions of the images than those calculated from binocular disparity. These findings demonstrate the feasibility of the proposed technique for 3-D interactive applications.
-
-@highlight This paper presents a new technique for interactive applications of 3-D displays.
-@highlight The positions of 3-D images were obtained from the body movements of users.
-@highlight Interactions occurred when the users’ bodies were at the obtained positions.
-@highlight The accuracy and precision of the obtained positions were evaluated.
-@highlight The evaluation results demonstrate the feasibility of the proposed technique.

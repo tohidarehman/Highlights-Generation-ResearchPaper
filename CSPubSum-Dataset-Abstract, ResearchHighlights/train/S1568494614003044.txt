@@ -1,6 +1,0 @@
- This study provides a general introduction to the principles, algorithms and practice of Computational Intelligence (CI) and elaborates on their use to signal processing and time series. In this setting, we discuss the main technologies of Computational Intelligence (namely, neural networks, fuzzy sets or Granular Computing, and evolutionary optimization), identify their focal points and stress an overall synergistic character, which ultimately gives rise to the highly synergistic CI environment. Furthermore, the main advantages and limitations of the CI technologies are discussed. In the sequel, we present CI-oriented constructs in signal modeling, classification, and interpretation.
-
-@highlight We discuss a general framework of Computational Intelligence for signal processing and time series analysis.
-@highlight Synergistic functionalities of Computational Intelligence are elaborated on.
-@highlight An overall architecture of processing of time series is discussed.
-@highlight Interpretability issues and transparency of models are addressed.

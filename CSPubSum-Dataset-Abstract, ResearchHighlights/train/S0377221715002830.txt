@@ -1,5 +1,0 @@
- The Minimum Number of Branch Vertices Spanning Tree Problem is to minimize the number of vertices of degree greater than two in a spanning tree. We present a branch-and-cut algorithm based on an enforced Integer Programming formulation, which can solve many more instances than previous methods. Since the problem is NP-hard, very large instances cannot be solved exactly. For such cases, a new heuristic two-stage method that gives very good approximate solutions is developed.
-
-@highlight A branch-and-cut algorithm is designed for the Minimum Number of Branches Spanning Tree Problem.
-@highlight Large instances can be exactly solved for the first time in the literature.
-@highlight A heuristic procedure is also developed for larger instances which produces good approximate solutions.

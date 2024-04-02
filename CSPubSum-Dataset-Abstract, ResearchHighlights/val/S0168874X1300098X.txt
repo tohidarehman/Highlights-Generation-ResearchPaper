@@ -1,7 +1,0 @@
- When creating simplified models of the vehicle structure, 1D beam elements are normally used to obtain a small-sized and parametric representation of all beam-like parts. Despite its undoubted advantages, such an approach can introduce certain modeling errors. They are influenced by various factors such as cross-section deformations, spot welds, flanges, discontinuities and beam cross-section geometry. The aim of this paper is to perform a systematic study of these error factors and their potential impact on the model accuracy. Consequently, guidelines are given on good practices for overcoming the intrinsic limitations of 1D beam concept modeling techniques. For this purpose six different beam structures with idealized geometry are studied. Furthermore, three beam-like parts of a vehicle body are also investigated. The derived good modeling practices are applied to a couple of industrial case-studies, both at car body level. By giving a better insight of the potential pitfalls and their possible solutions, 1D beam concept modeling can become more accurate and reliable.
-
-@highlight Systematic study of the error factors in 1D beam concept modeling for the vehicle structure.
-@highlight Research on beam spot welds, flanges and discontinuities, cross-section geometry and deformations.
-@highlight Introduction of a novel cross-section deformation measure.
-@highlight Derivation of guidelines on good modeling practices to improve the concept stage.
-@highlight Successful application of the methodology to a couple of industrial case-studies.

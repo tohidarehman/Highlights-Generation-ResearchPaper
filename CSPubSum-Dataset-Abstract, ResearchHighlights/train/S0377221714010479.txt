@@ -1,7 +1,0 @@
- This paper approaches a pickup and delivery problem with multiple vehicles in which LIFO conditions are imposed when performing loading and unloading operations and the route durations cannot exceed a given limit. We propose two mixed integer formulations of this problem and a heuristic procedure that uses tabu search in a multi-start framework. The first formulation is a compact one, that is, the number of variables and constraints is polynomial in the number of requests, while the second one contains an exponential number of constraints and is used as the basis of a branch-and-cut algorithm. The performances of the proposed solution methods are evaluated through an extensive computational study using instances of different types that were created by adapting existing benchmark instances. The proposed exact methods are able to optimally solve instances with up to 60 nodes.
-
-@highlight Approach a new pickup and delivery problem with LIFO and time constraints.
-@highlight Propose two formulations for the problem, together with several set of valid inequalities to improve them.
-@highlight Design an efficient branch and cut solution method to solve the problem to optimality.
-@highlight Develop a fast tabu search heuristic to find feasible solutions within short running times.
-@highlight Evaluate the performance of the proposed solution methods through a comprehensive computational study.

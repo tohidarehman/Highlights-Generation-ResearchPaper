@@ -1,7 +1,0 @@
- Traditionally, both researchers and practitioners rely on standard Erlang queueing models to analyze call center operations. Going beyond such simple models has strong implications, as is evidenced by theoretical advances in the recent literature. However, there is very little empirical research to support that body of theoretical work. In this paper, we carry out a large-scale data-based investigation of service times in a call center with many heterogeneous agents and multiple call types. We observe that, for a given call type: (a) the service-time distribution depends strongly on the individual agent, (b) that it changes with time, and (c) that average service times are correlated across successive days or weeks. We develop stochastic models that account for these facts. We compare our models to simpler ones, commonly used in practice, and find that our proposed models have a better goodness-of-fit, both in-sample and out-of-sample. We also perform simulation experiments to show that the choice of model can have a significant impact on the estimates of common measures of quality of service in the call center.
-
-@highlight We conduct a data-based study of service times in a large call center.
-@highlight We show the prevalence of novel features of service times in the data.
-@highlight We develop new models for service times which incorporate these empirical features.
-@highlight We test the goodness-of-fit and the predictive power of our models.
-@highlight We test the operational impact of our models via simulation.

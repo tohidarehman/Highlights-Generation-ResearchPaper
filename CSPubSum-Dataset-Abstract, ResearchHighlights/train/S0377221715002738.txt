@@ -1,7 +1,0 @@
- We propose in this work a new multistage risk averse strategy based on Time Stochastic Dominance (TSD) along a given horizon. It can be considered as a mixture of the two risk averse measures based on first- and second-order stochastic dominance constraints induced by mixed integer-linear recourse, respectively. Given the dimensions of medium-sized problems augmented by the new variables and constraints required by this new risk measure, it is unrealistic to solve the problem up to optimality by plain use of MIP solvers in a reasonable computing time, at least. Instead of it, decomposition algorithms of some type should be used. We present an extension of our Branch-and-Fix Coordination algorithm, so named BFC-TSD, where a special treatment is given to cross scenario group constraints that link variables from different scenario groups. A broad computational experience is presented by comparing the risk neutral approach and the tested risk averse strategies. The performance of the new version of the BFC algorithm versus the plain use of a state-of-the-art MIP solver is also reported.
-
-@highlight Extension to the multistage case of two risk measures defined for two-stage problems.
-@highlight Time stochastic dominance (TSD) policy. A new risk averse strategy.
-@highlight Extension of our Branch-and-Fix Coordination (BFC) algorithm to deal with TSD policy.
-@highlight Computational comparison between risk neutral approach and some risk averse strategies.
-@highlight Broad analysis of the performance of BFC-TSD algorithm versus plain use of CPLEX.

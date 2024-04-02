@@ -1,6 +1,0 @@
- Participatory budgets are becoming increasingly popular in many municipalities all over the world. The underlying idea is to allow citizens to participate in the allocation of a fraction of the municipal budget. There are many variants of such processes. However, in most cases they assume a fixed budget based upon a maximum amount of money to be spent. This approach seems lacking, especially in times of crisis when public funding suffers high volatility and widespread cuts. In this paper, we propose a model for participatory budgeting under uncertainty based on stochastic programming.
-
-@highlight We propose a model for participatory budgeting under uncertainty.
-@highlight We adapt group decision making schemes to the presence of stochastic elements.
-@highlight We extend participatory budgeting to economic contexts under uncertainty.
-@highlight We illustrate our approach with a simple example.

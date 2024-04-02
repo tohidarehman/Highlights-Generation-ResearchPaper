@@ -1,5 +1,0 @@
- We consider a risk-averse entrepreneur who invests in a project with idiosyncratic risk. In contrast to the literature, we assume the entrepreneur is unable to get a loan from a bank directly because of the low creditability of the entrepreneur and so an innovative financial contract, named equity-for-guarantee swap, is signed among a bank, an insurer, and the entrepreneur. It is shown that the new swap leads to higher leverage, which brings more diversification and tax benefits. The new swap not only solves the problems of financing constraints, but also significantly improves the welfare level of the entrepreneur. The growth of welfare level increases dramatically with risk aversion index and the volatility of idiosyncratic risk.
-
-@highlight The paper builds dynamic incomplete models investigating the effects of an equity-for-guarantee swap on consumption, portfolio, financing and exit choices.
-@highlight The new swap can overcome financing constraints and improve welfare level.
-@highlight The growth of welfare level increases dramatically with risk-aversion index and the volatility of idiosyncratic risk.

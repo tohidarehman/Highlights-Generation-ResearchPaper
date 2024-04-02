@@ -1,6 +1,0 @@
- We provide explicit representations of three moving planes that form a μ-basis for a standard Dupin cyclide. We also show how to compute μ-bases for Dupin cyclides in general position and orientation from their implicit equations. In addition, we describe the role of moving planes and moving spheres in bridging between the implicit and rational parametric representations of these cyclides.
-
-@highlight Explicit Representations of three μ-basis elements for a standard cyclide.
-@highlight An algorithm of determining the key information of a cyclide from its implicit equation.
-@highlight An algorithm of computing a μ-basis for a cyclide.
-@highlight The role of moving planes and moving spheres played in cyclide.

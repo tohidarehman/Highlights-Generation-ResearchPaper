@@ -1,7 +1,0 @@
- In this paper we define a new problem, the aim of which is to find a set of k dissimilar solutions for a vehicle routing problem (VRP) on a single instance. This problem has several practical applications in the cash-in-transit sector and in the transportation of hazardous materials. A min–max mathematical formulation is proposed which requires a maximum similarity threshold between VRP solutions, and the number k of dissimilar VRP solutions that need to be generated. An index to measure similarities between VRP solutions is defined based on the edges shared between pairs of alternative solutions. An iterative metaheuristic to generate k dissimilar alternative solutions is also presented. The solution approach is tested using large and medium size benchmark instances for the capacitated vehicle routing problem.
-
-@highlight A new NP-hard combinatorial optimization problem is proposed and named kd-VRP.
-@highlight The goal of the kd-VRP is to generate a set of k dissimilar VRP solutions.
-@highlight A similarity index is designed based on the literature on dissimilar shortest-paths.
-@highlight A mathematical formulation for the kd-VRP is proposed.
-@highlight An iterative metaheuristic to solve the kd-VRP is described, implemented and tested.

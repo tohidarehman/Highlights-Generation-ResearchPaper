@@ -1,6 +1,0 @@
- Cloud computing has gained mass popularity in the business environment. However, this technology also imposes some risk concerns, such as weak protection to security and privacy. Since its nature of distant and remote connectivity, the auditing process to this technology becomes challengeable. This paper focuses on issues related to cloud computing risk and audit tasks.
-
-@highlight Identify the risk of cloud computing operations.
-@highlight Identify the risk audit of cloud computing operations.
-@highlight Identify the audit standards of cloud computing operations.
-@highlight Integrating the risk and audit process of cloud computing practice.

@@ -1,7 +1,0 @@
- We present a framework to optimize the conditional value-at-risk (CVaR) of a loss distribution under uncertainty. Our model assumes that the loss distribution is dependent on the state of some system and the fraction of time spent in each state is uncertain. We develop and compare two robust-CVaR formulations that take into account this type of uncertainty. We motivate and demonstrate our approach using radiation therapy treatment planning of breast cancer, where the uncertainty is in the patient’s breathing motion and the states of the system are the phases of the patient’s breathing cycle. We use a CVaR representation of the tails of the dose distribution to the points in the body and account for uncertainty in the patient’s breathing pattern that affects the overall dose distribution.
-
-@highlight We develop two formulations for the tails of a loss distribution under uncertainty.
-@highlight Our robust-CVaR framework generalizes existing CVaR methods in the literature.
-@highlight Our models are less conservative than the worst-case methods in the literature.
-@highlight We apply our model to radiation therapy treatment planning of breast cancer.
-@highlight Our method achieves improved performance over the standard treatment planning methods.

@@ -1,7 +1,0 @@
- A substantial number of local feature extraction and description methodologies have been proposed as image recognition algorithms. However, these algorithms do not exhibit adequate performance with regard to repeatability, accuracy, and time consumption for both affine transformation and monotonic intensity change. In this paper, we propose a new descriptor, named Resistant to Affine Transformation and Monotonic Intensity Change (RATMIC). Unlike traditional descriptors, we utilize an adaptive division strategy and intensity order to construct the new descriptor, which is actually resistant to affine transformation and monotonic intensity change. Extensive experiments demonstrate the effectiveness and efficiency of the new descriptor compared to existing state-of-the-art descriptors.
-
-@highlight Perform a thorough analysis of the disadvantages of SIFT-based descriptors.
-@highlight Apply an adaptive strategy for the subregion division.
-@highlight Utilize intensity order to construct the descriptor.
-@highlight Explain how the new method is resistant to affine transformation and monotonic intensity change.
-@highlight Demonstrate the effectiveness and efficiency of the new method through extensive experiments.

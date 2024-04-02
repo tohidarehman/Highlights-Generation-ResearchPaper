@@ -1,6 +1,0 @@
- In this paper, we propose a novel unsupervised algorithm for automatically segmenting a single 3D shape or co-segmenting a family of 3D shapes using deep learning. The algorithm consists of three stages. In the first stage, we pre-decompose each 3D shape of interest into primitive patches to generate over-segmentation and compute various signatures as low-level shape features. In the second stage, high-level features are learned, in an unsupervised style, from the low-level ones based on deep learning. Finally, either segmentation or co-segmentation results can be quickly reported by patch clustering in the high-level feature space. The experimental results on the Princeton Segmentation Benchmark and the Shape COSEG Dataset exhibit superior segmentation performance of the proposed method over the previous state-of-the-art approaches.
-
-@highlight We propose a novel segmentation and co-segmentation approach for 3D shapes.
-@highlight We introduce deep learning into 3D shape segmentation and co-segmentation.
-@highlight Our method is data-driven but does not need a tedious labeling process.
-@highlight Our algorithm achieves better or comparable performance when compared with the state-of-the-art methods.

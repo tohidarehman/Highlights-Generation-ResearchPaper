@@ -1,7 +1,0 @@
- The work reported in this paper addresses the problem of transmission expansion planning under uncertainty in an electric energy system. We consider different sources of uncertainty, including future demand growth and the availability of generation facilities, which are characterized for different regions within the electric energy system. An adaptive robust optimization model is used to derive the investment decisions that minimizes the system’s total costs by anticipating the worst case realization of the uncertain parameters within an uncertainty set. The proposed formulation materializes on a mixed-integer three-level optimization problem whose lower-level problem can be replaced by its KKT optimality conditions. The resulting mixed-integer bilevel model is efficiently solved by decomposition using a cutting plane algorithm. A realistic case study is used to illustrate the working of the proposed technique, and to analyze the relationship between the optimal transmission investment plans, the investment budget and the level of supply security at the different regions of the network.
-
-@highlight We derive optimal transmission expansion plans for an electric energy system.
-@highlight Uncertainty is accounted for by a two-stage adaptive robust optimization problem.
-@highlight The resulting three-level model is solved by a cutting-plane decomposition method.
-@highlight The transmission plan is very conditioned by the budget and the uncertainty level.
-@highlight The new strategic lines to be built do not follow an incremental order.

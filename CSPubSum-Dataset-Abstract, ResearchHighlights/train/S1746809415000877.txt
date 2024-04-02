@@ -1,7 +1,0 @@
- Brain–computer interface (BCI) systems based on electroencephalography have been increasingly used in different contexts, engendering applications from entertainment to rehabilitation in a non-invasive framework. In this study, we perform a comparative analysis of different signal processing techniques for each BCI system stage concerning steady state visually evoked potentials (SSVEP), which includes:  feature extraction performed by different spectral methods (bank of filters, Welch's method and the magnitude of the short-time Fourier transform);  feature selection by means of an incremental wrapper, a filter using Pearson's method and a cluster measure based on the Davies–Bouldin index, in addition to a scenario with no selection strategy;  classification schemes using linear discriminant analysis (LDA), support vector machines (SVM) and extreme learning machines (ELM). The combination of such methodologies leads to a representative and helpful comparative overview of robustness and efficiency of classical strategies, in addition to the characterization of a relatively new classification approach (defined by ELM) applied to the BCI-SSVEP systems.
-
-@highlight We apply 36 scenarios of signal processing techniques for a same database of EEG-SSVEP.
-@highlight Linear and nonlinear classifiers are analyzed, as LDA, SVM and ELM.
-@highlight Analysis of different spectral features extraction techniques.
-@highlight Comparison of distinct features selection strategies.
-@highlight Statistical considerations about electrodes location.

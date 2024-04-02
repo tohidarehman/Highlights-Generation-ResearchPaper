@@ -1,7 +1,0 @@
- Standard wildfire smoke detection systems detect fires using remote cameras located at observation posts. Images from the cameras are analyzed using standard computer vision techniques, and human intervention is required only in situations in which the system raises an alarm. The number of alarms depends largely on manually set detection sensitivity parameters. One of the primary drawbacks of this approach is the false alarm rate, which impairs the usability of the system. In this paper, we present a novel approach using GIS and augmented reality to include the spatial and fire risk data of the observed scene. This information is used to improve the reliability of the existing systems through automatic parameter adjustment. For evaluation, three smoke detection methods were improved using this approach and compared to the standard versions. The results demonstrated significant improvement in different smoke detection aspects, including detection range, rate of correct detections and decrease in the false alarm rate.
-
-@highlight The improvement of existing vision-based smoke detection methods is proposed.
-@highlight The quality of smoke detection depends on detection parameters.
-@highlight Automatic parameter adjustments are based on spatial and fire-risk data.
-@highlight The data is calculated using GIS-based augmented reality and computer vision.
-@highlight The overall quality of smoke detection is improved including the detection range.

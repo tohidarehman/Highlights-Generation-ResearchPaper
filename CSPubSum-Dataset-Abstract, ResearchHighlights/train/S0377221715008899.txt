@@ -1,6 +1,0 @@
- Distribution planning is crucial for most companies since goods are rarely produced and consumed at the same place. Distribution costs, in addition, can be an important component of the final cost of the products. In this paper, we study a VRP variant inspired on a real case of a large distribution company. In particular, we consider a VRP with a heterogeneous fleet of vehicles that are allowed to perform multiple trips. The problem also includes docking constraints in which some vehicles are unable to serve some particular customers, and a realistic objective function with vehicles’ fixed and distance-based costs and a cost per customer visited. We design a trajectory search heuristic called GILS-VND that combines Iterated Local Search (ILS), Greedy Randomized Adaptive Search Procedure (GRASP) and Variable Neighborhood Descent (VND) procedures. This method obtains competitive solutions and improves the company solutions leading to significant savings in transportation costs.
-
-@highlight Framework using a trajectory search based algorithm applied to a large scale VRP.
-@highlight Real-world VRP application saving up to $110,000 through optimization.
-@highlight Smart and efficient neighborhood structures composed by Auxiliary Data Structures.
-@highlight TTT-Plots supporting algorithms efficiency test and calibration.

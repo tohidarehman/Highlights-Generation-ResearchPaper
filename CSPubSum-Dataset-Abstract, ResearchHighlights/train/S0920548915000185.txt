@@ -1,5 +1,0 @@
- The block cipher Crypton is a 128-bit block cipher was proposed by Lim as a candidate for the Advanced Encryption Standard (AES) competition. So far, a variety of cryptanalytic methods have been used to mount attacks on reduced-round versions of Crypton. Biclique attack is one of the most recent cryptanalytic techniques which brings new tools from the area of hash functions to the area of block cipher cryptanalysis. In this paper, using non-isomorphic biclique cryptanalysis, we propose a method to construct independent bicliques, up to five rounds, for cryptanalysis of full-round Crypton.
-
-@highlight The first cryptanalytic results on full-round Crypton as an AES candidate
-@highlight Using a technique called non-isomorphic biclique cryptanalysis for this purpose
-@highlight Introducing independent bicliques up to 5 rounds of Crypton

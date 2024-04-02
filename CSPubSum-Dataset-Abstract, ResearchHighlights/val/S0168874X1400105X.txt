@@ -1,6 +1,0 @@
- The objectives of this paper are to examine the use of volumetric strain rate and pressure enhancement strategies for low order finite elements, and to present a stable matrix-free algorithm for solving steady-state flow problems. Algorithms based on the method of successive approximation and low order finite elements are examined for determining the steady-state flow field of a boundary-valued problem consisting of an incompressible material. It is shown that both volumetric strain rate and pressure enhancement are required to mitigate pathological locking and nonphysical pressure variations. Care must however be taken when introducing pressure enhancement, which helps mitigate the pressure from drifting, as the stress field is perturbed from equilibrium. An algorithm based on dynamic relaxation and radial return stress calculations is presented for matrix free calculations dealing with stress-dependent creep.
-
-@highlight Modelling of ice creep with low order elements.
-@highlight Use of volumetric strain rate and pressure enhancement strategies for low order finite elements.
-@highlight Application of the method of successive approximation.
-@highlight Stable matrix-free algorithm for solving steady-state flow problems.

@@ -1,6 +1,0 @@
- Conventionally, cross-layer designs with same timescale updates can work well; however, there is a difference in layers’ timescales and each layer normally operates at its corresponding timescale when implemented in real systems. To respect this issue, in this article, we introduce a multi-timescale cross-layer design along with three sets of constraints: congestion control, link delay, and power control and with the objective of maximizing the overall utility and minimizing the total link delay and power consumption. The proposed procedure can be implemented in a distributed fashion, which not only guarantees truly optimal solutions to the underlying problem, but also adheres to the natural timescale difference among layers. Finally, the numerical results further solidify the efficacies of our proposal compared to the current frameworks.
-
-@highlight We model a cross-layer problem of congestion control, link delay, and power control.
-@highlight Subproblems are successively solved by the Lagrange duality techniques.
-@highlight The design can be implemented distributedly and adheres to the timescale difference.
-@highlight We conduct simulations on MTSRENUM and compare it to the current frameworks.

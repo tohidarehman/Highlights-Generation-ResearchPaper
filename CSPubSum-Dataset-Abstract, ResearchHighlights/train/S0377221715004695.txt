@@ -1,7 +1,0 @@
- Container ships in a string may not have the same capacity. Therefore, the sequence of ships affects the number of containers that are delayed at export ports due to demand uncertainty, for instance, “a large ship, followed by a small ship, then another large ship, and finally another small ship” is better than “a large ship, followed by another large ship, then a small ship, and finally another small ship”. We hence aim to determine the sequence of the ships in a string to minimize the delay of containers, without requiring the probability distribution functions for the future demand. We propose three rules to identify an optimal or near-optimal string. The rules have been proved to be effective based on extensive numerical experiments. A rough estimation indicates that over 6 million dollars/year could be saved for all liner services in the world by optimizing the sequences of ships.
-
-@highlight Sequence of ships in a string affects the delay of containers.
-@highlight Model for calculating the performance of a given sequence.
-@highlight Theoretical bounds on the best and worst permutations of ships.
-@highlight Rules for identifying near-optimal sequences without demand information.
-@highlight Significant practical importance for container shipping lines.

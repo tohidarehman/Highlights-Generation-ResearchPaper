@@ -1,5 +1,0 @@
- This paper presents a novel 3D shape descriptor which explicitly captures the local geometry and encodes it using an efficient representation. Our method consists of multiple evolving fronts which are realized by a set of growing spheres on the surface. At the core of this method is a simple intersection operator between the spheres and the shape's surface. Intersection curves yield a discrete sampling of the surface at different positions and scales. Our key idea is to define a shape descriptor that captures the continuous local geometry of the surface in an efficient and consistent representation by intersecting the surface with multiple spheres and transforming the intersection curve to frequency domain. To evaluate our descriptor, we define shape similarity metric and perform shape matching on the SHREC11 non-rigid benchmark and other classes.
-
-@highlight Descriptive and compact feature descriptor based on sphere intersection operator.
-@highlight Fast and meaningful feature detector based on the descriptor.
-@highlight Shape retrieval framework for evaluation against state-of-the-art benchmarks.

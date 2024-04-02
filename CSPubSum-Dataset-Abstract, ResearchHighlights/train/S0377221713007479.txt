@@ -1,6 +1,0 @@
- This paper examines the relationship between seasonality, idiosyncratic risk and mutual fund returns using multifactor models. We use a large sample containing the return histories of 728 UK mutual funds over a 23-year period to measure fund performance. We present evidence that idiosyncratic risk cannot be eliminated, we also find evidence of seasonality in all fund categories. Specifically, we find a close relation between the seasonality and the end of the tax-year. We document that the idiosyncratic risk puzzle cannot explain seasonality in fund performance in the UK. Although, we do find that idiosyncratic risk can account for the seasonality in the month of April. Thus, the results show a link between the tax-loss selling hypothesis in April and idiosyncratic risk in that month. Finally, we report evidence that idiosyncratic risk is negatively related to expected returns for most fund classes.
-
-@highlight Seasonal pattern in January, February, April and May.
-@highlight No significant relation between fund returns and idiosyncratic risk.
-@highlight Idiosyncratic risk cannot be eliminated for most funds.
-@highlight Idiosyncratic risk can explain seasonality in the month of April.

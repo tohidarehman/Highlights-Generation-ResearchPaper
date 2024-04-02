@@ -1,4 +1,0 @@
- In the paper two new approaches for construction of parametric polynomial approximants of a unit circle are presented. The obtained approximants have better approximation properties than those given by other methods, i.e., smaller radial error, symmetry, and exponential error decay.
-
-@highlight Two new approaches for construction of parametric polynomial approximants of a unit circle are presented.
-@highlight The approximants have good approximation properties: small radial error, symmetry, exponential error decay.

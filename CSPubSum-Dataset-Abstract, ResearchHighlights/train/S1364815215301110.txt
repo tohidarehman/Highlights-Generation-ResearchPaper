@@ -1,7 +1,0 @@
- In order to fully capture the benefits of rising CO2 in adapting agriculture to climate change, we first need to understand how CO2 affects crop growth. Several recent studies reported unexpected increases in sugarcane (C4) yields under elevated CO2, but it is difficult to distinguish direct leaf-level effects of rising CO2 on photosynthesis from indirect water-related responses. A simulation model of CO2 effects, based purely on changes in stomatal conductance (indirect mechanism), showed transpiration was reduced by 30% (initially) to 10% (closed canopy) and yield increased by 3% even in a well-irrigated crop. The model incorporated the results of a field experiment, and a glasshouse experiment designed to disentangle the mechanisms of CO2 response: whole-plant transpiration and stomatal conductance were both 28% lower for plants growing with high-frequency demand-based watering at 720 vs 390 ppm CO2, but there was no increase in biomass, indicating that indirect mechanisms dominate CO2 responses in sugarcane.
-
-@highlight Novel glasshouse method separates direct and indirect effects of CO2 on crop growth.
-@highlight Novel modelling technique scales CO2 effects from glasshouse to field environments.
-@highlight Reduced transpiration under elevated CO2 accounts for sugarcane responses.
-@highlight Direct effects of elevated CO2 on sugarcane photosynthesis, if any, are small.
-@highlight Effect of CO2 on transpiration of field crops declines as canopy develops.

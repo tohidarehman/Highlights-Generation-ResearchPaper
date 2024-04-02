@@ -1,7 +1,0 @@
- In this paper, an evolutionary approach to solve the mobile robot path planning problem is proposed. The proposed approach combines the artificial bee colony algorithm as a local search procedure and the evolutionary programming algorithm to refine the feasible path found by a set of local procedures. The proposed method is compared to a classical probabilistic roadmap method (PRM) with respect to their planning performances on a set of benchmark problems and it exhibits a better performance. Criteria used to measure planning effectiveness include the path length, the smoothness of planned paths, the computation time and the success rate in planning. Experiments to demonstrate the statistical significance of the improvements achieved by the proposed method are also shown.
-
-@highlight We solve the path planning problem using the combination of two evolutionary methods.
-@highlight First, an artificial bee colony (ABC) finds a feasible path in the free space.
-@highlight Second, evolutionary programming (EP) optimizes the path length and smoothness.
-@highlight The proposed approach was compared to a probabilistic roadmap (PRM) method.
-@highlight The ABC-EP approach outperforms the PRM approach on problems of varying complexity.

@@ -1,6 +1,0 @@
- Feeding is the most important cost in the production of growing pigs and has a direct impact on the marketing decisions, growth and the final quality of the meat. In this paper, we address the sequential decision problem of when to change the feed-mix within a finisher pig pen and when to pick pigs for marketing. We formulate a hierarchical Markov decision process with three levels representing the decision process. The model considers decisions related to feeding and marketing and finds the optimal decision given the current state of the pen. The state of the system is based on information from on-line repeated measurements of pig weights and feeding and is updated using a Bayesian approach. Numerical examples are given to illustrate the features of the proposed optimization model.
-
-@highlight We model feeding and marketing decisions of growing pigs simultaneously.
-@highlight The decision process is formulated using a hierarchical Markov decision process.
-@highlight We use a Bayesian approach to update the system state under repeated measurements.
-@highlight We show the functionality of the model for three pens with different growth rates.

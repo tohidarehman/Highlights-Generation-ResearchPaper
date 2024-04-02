@@ -1,7 +1,0 @@
- In this paper, we analyze the influence of Twitter users in sharing news articles that may affect the readers’ mood. We collected data of more than 2000 Twitter users who shared news articles from Corriere.it, a daily newspaper that provides mood metadata annotated by readers on a voluntary basis. We automatically annotated personality types and communication styles of Twitter users and analyzed the correlations between personality, communication style, Twitter metadata (such as followig and folllowers) and the type of mood associated to the articles they shared. We also run a feature selection task, to find the best predictors of positive and negative mood sharing, and a classification task. We automatically predicted positive and negative mood sharers with 61.7% F1-measure.
-
-@highlight We develop an aligned corpus of Tweets and news articles with gold standard mood.
-@highlight We perform correlation analysis of personality, communication style and mood sharing in Twitter.
-@highlight We find the best attributes for the prediction of positive and negative mood sharers in Twitter.
-@highlight We predict positive and negative mood sharers from personality, communication style and Twitter
-@highlight metadata.

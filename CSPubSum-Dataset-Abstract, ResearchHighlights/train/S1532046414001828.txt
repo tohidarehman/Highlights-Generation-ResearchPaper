@@ -1,5 +1,0 @@
- In this paper we describe an efficient tool based on natural language processing for classifying the detail state of pulmonary embolism (PE) recorded in CT pulmonary angiography reports. The classification tasks include: PE present vs. absent, acute PE vs. others, central PE vs. others, and subsegmental PE vs. others. Statistical learning algorithms were trained with features extracted using the NLP tool and gold standard labels obtained via chart review from two radiologists. The areas under the receiver operating characteristic curves (AUC) for the four tasks were 0.998, 0.945, 0.987, and 0.986, respectively. We compared our classifiers with bag-of-words Naive Bayes classifiers, a standard text mining technology, which gave AUC 0.942, 0.765, 0.766, and 0.712, respectively.
-
-@highlight We use NLP to classify CTPA reports by presence, chronicity, and location of PE.
-@highlight New NLP technology allows proximal extension of PE to be extracted accurately.
-@highlight Our program tremendously surpasses conventional text mining technology in accuracy.

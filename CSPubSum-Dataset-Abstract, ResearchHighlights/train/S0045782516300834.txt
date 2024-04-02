@@ -1,6 +1,0 @@
- This work proposes a stochastic shape optimization method for continuous structures using the level-set method. Such a method aims to minimize the expected compliance and its variance as measures of the structural robustness. The behavior of continuous structures is modeled by linear elasticity equations with uncertain loading and material. This uncertainty can be modeled using random variables with different probability distributions as well as random fields. The proper problem formulation is ensured by the proof of the existence colorrev of solution under certain geometrical constraints on the set of admissible shapes. The proposed method addresses the stochastic linear elasticity problem in its weak form obtaining the explicit expressions for the continuous shape derivatives. Some numerical examples are presented to show the effectiveness of the proposed approach.
-
-@highlight Robust shape optimization considering uncertainty in loads and material is proposed.
-@highlight Stochastic shape derivatives of continuous structures are obtained.
-@highlight The existence of a solution for the robust shape optimization problem is proved.
-@highlight Different probability distributions and random fields are considered in experiments.

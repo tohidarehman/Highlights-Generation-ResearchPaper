@@ -1,5 +1,0 @@
- This paper presents the results of developing a branch and price algorithm and an ejection chain method for nurse rostering problems. The approach is general enough to be able to apply it to a wide range of benchmark nurse rostering instances. The majority of the instances are real world applications. They have been collected from a variety of sources including industrial collaborators, other researchers and various publications. The results of entering these algorithms in the 2010 International Nurse Rostering Competition are also presented and discussed. In addition, incorporated within both algorithms is a dynamic programming method which we present. The algorithm contains a number of heuristics and other features which make it very effective on the broad rostering model introduced.
-
-@highlight New upper and lower bounds for benchmark nurse rostering instances.
-@highlight A general model which can be applied to a wide variety of staff rostering problems.
-@highlight A powerful dynamic programming method used to solve sub-problems.

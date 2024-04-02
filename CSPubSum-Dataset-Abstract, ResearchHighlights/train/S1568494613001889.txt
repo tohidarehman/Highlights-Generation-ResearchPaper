@@ -1,5 +1,0 @@
- Characters in video games usually use a manually-defined topology of the environment to navigate. To evolve in an open, unknown and dynamic world, characters should not have pre-existing representations of their environment. In this paper, characters learn this representation by imitating human players. We here put forward a modified version of the growing neural gas model (GNG) called stable growing neural gas (SGNG). The algorithm is able to learn how to use the environment from one or more teachers (players) by representing it with a graph. Unlike GNG, SGNG learning is in-line, reflecting the dynamic nature of the environment. The evaluation of the quality of the learned representations are detailed.
-
-@highlight Algorithm to learn the topology of the environment to navigate in video games.
-@highlight Learn from one or more human players how to use the environment by representing it with a graph.
-@highlight The SGNG learning is continuous to reflect the dynamicity of the environment.

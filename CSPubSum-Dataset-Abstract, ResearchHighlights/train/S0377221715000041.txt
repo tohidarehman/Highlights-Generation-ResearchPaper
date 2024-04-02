@@ -1,5 +1,0 @@
- We study various two-agent scheduling problems on a single machine with equal job processing times. The equal processing time assumption enables us to design new polynomial-time or faster-than-known optimization algorithms for many problems. We prove, however, that there exists a subset of problems for which the computational complexity remains NP -hard. The set of hard problems includes different variations where the objective functions of the two agents are either minimizing the weighted sum of completion times or the weighted number of tardy jobs. For these problems, we present pseudo-polynomial time algorithms.
-
-@highlight The paper studies two agent scheduling models with unit processing times.
-@highlight We provide comprehensive complexity results for many min-max and min-sum type scheduling objectives.
-@highlight We provide polynomial and pseudo-polynomial time algorithms for the problems under consideration.

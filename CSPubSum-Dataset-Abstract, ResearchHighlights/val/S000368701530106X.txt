@@ -1,7 +1,0 @@
- 404 male offshore workers aged 41.4 ± 10.7 y underwent 3D body scanning and an egress task simulating the smallest helicopter window emergency exit size. The 198 who failed were older (P < 0.01), taller (P < 0.05) and heavier  than the 206 who passed. Using all extracted dimensions from the scans, binary logistic regression identified a model (refined using backward elimination) which predicted egress outcome with 75.2% accuracy. Using only weight, bideltoid breadth and maximum chest depth, the model achieved ∼70% accuracy. When anatomical dimensions categorise individuals for small window egress, 25% or more will be misclassified, with false positives (those predicted to fail, but pass) slightly outnumbering false negatives (those predicted to pass, but fail), highlighting the limitations of a predictive approach which treats the body as a rigid object. Differences in flexibility and technique may explain these observations, which may be important considerations for future research.
-
-@highlight Up to 75% of successful small window egress outcome is size related.
-@highlight Bideltoid breadth, chest depth and weight combined explain ∼70% of egress outcome.
-@highlight 25% or more of egress outcome relates to non-anatomical factors.
-@highlight Predictive testing will inevitably lead to false +ve and –ve results.
-@highlight Flexibility and tissue compressibility may also explain successful egress.

@@ -1,6 +1,0 @@
- We consider a discrete time version of the popular optimal dividend payout problem in risk theory. The novel aspect of our approach is that we allow for a risk averse insurer, i.e., instead of maximising the expected discounted dividends until ruin we maximise the expected utility of discounted dividends until ruin.. The model in a continuous-time Brownian motion setting with the exponential utility function has been analysed in Grandits et al. . Nevertheless, a complete solution has not been provided. In this work, instead we solve the problem in discrete time setup for the exponential and the power utility functions and give the structure of optimal history-dependent dividend policies. We make use of certain ideas studied earlier in Bä, where Markov decision processes with general utility functions were treated. Our analysis, however, includes new aspects, since the reward functions in this case are not bounded.
-
-@highlight We deal with the dividend payout problem with unbounded reward functions.
-@highlight We consider the exponential function and the power function to aggregate the future total discounted rewards.
-@highlight We use the dynamic programming techniques to provide a solution.
-@highlight Making use of the model under consideration we provide the structure and properties of the optimal strategy.

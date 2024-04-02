@@ -1,7 +1,0 @@
- This paper first introduces an original trajectory model using B-splines and a new semi-infinite programming formulation of the separation constraint involved in air traffic conflict problems. A new continuous optimization formulation of the tactical conflict-resolution problem is then proposed. It involves very few optimization variables in that one needs only one optimization variable to determine each aircraft trajectory. Encouraging numerical experiments show that this approach is viable on realistic test problems. Not only does one not need to rely on the traditional, discretized, combinatorial optimization approaches to this problem, but, moreover, local continuous optimization methods, which require relatively fewer iterations and thereby fewer costly function evaluations, are shown to improve the performance of the overall global optimization of this non-convex problem.
-
-@highlight Original compact trajectory model using B-splines.
-@highlight New semi-infinite programming formulation of the separation constraint.
-@highlight New continuous optimization formulation of the tactical conflict-resolution problem.
-@highlight Numerical experiments show viability of the approach on realistic test problems.
-@highlight Local continuous optimization methods are competitive with the traditional, discretized combinatorial approaches to this problem.

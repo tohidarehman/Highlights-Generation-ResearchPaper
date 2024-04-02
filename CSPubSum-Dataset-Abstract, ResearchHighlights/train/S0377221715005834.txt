@@ -1,5 +1,0 @@
- In Chen, Cook, Kao,, it is demonstrated, as a network DEA pitfall, that while the multiplier and envelopment DEA models are dual models and equivalent under the standard DEA, such is not necessarily true for the two types of network DEA models in deriving divisional efficiency scores and frontier projections. As a reaction to this work, we demonstrate that the duality in the standard DEA naturally migrates to the two-stage network DEA. Formulas are developed to obtain frontier projections and divisional efficiency scores using a DEA model's and its dual solutions. The case of Taiwanese non-life insurance companies is revisited using the newly developed approach.
-
-@highlight We show the duality in the standard DEA well migrates to the two-stage network DEA.
-@highlight Formulas are developed to obtain frontier projections and divisional efficiency scores.
-@highlight The case of Taiwanese non-life insurance companies is revisited by the new approach.

@@ -1,7 +1,0 @@
- Advances in computing power and infrastructure, increases in the number and size of ecological and environmental datasets, and the number and type of data collection methods, are revolutionizing the field of Ecology. To integrate these advances, virtual laboratories offer a unique tool to facilitate, expedite, and accelerate research into the impacts of climate change on biodiversity. We introduce the uniquely cloud-based Biodiversity and Climate Change Virtual Laboratory (BCCVL), which provides access to numerous species distribution modelling tools; a large and growing collection of biological, climate, and other environmental datasets; and a variety of experiment types to conduct research into the impact of climate change on biodiversity. Users can upload and share datasets, potentially increasing collaboration, cross-fertilisation of ideas, and innovation among the user community. Feedback confirms that the BCCVL's goals of lowering the technical requirements for species distribution modelling, and reducing time spent on such research, are being met.
-
-@highlight BCCVL facilitates and expedites modelling of climate change's impact on biodiversity.
-@highlight BCCVL integrates numerous species distribution modelling tools and myriad datasets.
-@highlight BCCVL negates the need for advanced programming and modelling expertise.
-@highlight BCCVL allows for increases in productivity and complexity of experimental design.
-@highlight BCCVL facilitates the sharing of data promoting transparency in the research process.

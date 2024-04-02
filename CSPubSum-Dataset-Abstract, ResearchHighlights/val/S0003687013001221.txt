@@ -1,6 +1,0 @@
- This contribution to the Ken D. Eason special issue is an illustration of the value of socio-technical analysis applied at an organizational level. We provide a brief historical overview of socio-technical IS research and review studies investigating the impact of IT on organizational structures in the last five decades, identifying a dominating (new) research theme in each decade. A key overall impact of IT in all decades has been a dramatic decrease in transaction costs making it increasingly easier for organizations to source from external providers. A five level taxonomy of sourcing arrangement is developed together with a framework of organizational activities, and a number of significant cases are offered of how organizations are sourcing practically all types of business processes, including innovation. We argue that future IT will further accelerate the movement towards more sourcing, eventually leading to a new type of organization that we call the Ambient organization.
-
-@highlight Socio-technical research of IT impact over five decades shows major evolution over time.
-@highlight Dramatic lower transaction costs due to IT will make organizations source from outside.
-@highlight Five different models of sourcing are described.
-@highlight This leads to what is called Ambient Organizations.

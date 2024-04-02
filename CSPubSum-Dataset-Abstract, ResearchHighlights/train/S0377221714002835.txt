@@ -1,7 +1,0 @@
- We give an axiomatization of the Aumann–Shapley cost-sharing method in the discrete case by means of monotonicity and no merging or splitting . Monotonicity has not yet been employed to characterize this method in such a case, by contrast with the case in which goods are perfectly divisible, and Young (1985b) characterize the Aumann–Shapley price mechanism.
-
-@highlight Cost-sharing in the discrete case.
-@highlight New characterization of the Aumann–Shapley cost-sharing method.
-@highlight Additivity is not employed.
-@highlight Monotonicity is employed.
-@highlight Only two basic axioms characterize the method.

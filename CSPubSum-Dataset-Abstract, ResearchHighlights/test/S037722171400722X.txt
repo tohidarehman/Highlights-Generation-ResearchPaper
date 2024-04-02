@@ -1,6 +1,0 @@
- Using a large portfolio of credit card loans observed between 2002 and 2011 provided by a major UK bank, we investigate the stability of the parameter estimates of discrete survival models, especially since the start of the credit crisis of 2008. Two survival models are developed for accounts that were accepted before and since the crisis. We find that the two sets of parameter estimates are statistically different from each other. By applying the estimated parameters onto a common test set, we also show that they give different predictions of probabilities of default. The changes in the predicted probability distributions are then investigated. We theorise them to be due to the quality of the cohort accepted under different economic conditions, or due to the drastically different economic conditions that was seen in the UK economy, or a combination of both. We test for each effect.
-
-@highlight Changes in parameter estimates of discrete survival models over time investigated.
-@highlight Decomposed changes in distributions of predicted probability of default.
-@highlight Changes due to cohort of borrowers, macroeconomic conditions and model's parameters.
-@highlight Different debtors are affected differently by same changes in economy.

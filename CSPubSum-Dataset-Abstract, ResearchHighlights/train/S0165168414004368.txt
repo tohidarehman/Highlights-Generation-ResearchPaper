@@ -1,7 +1,0 @@
- In this paper, we propose a novel method for the blind compensation of drift for the asynchronous recording of an ad hoc microphone array. Digital signals simultaneously observed by different recording devices have drift of the time differences between the observation channels because of the sampling frequency mismatch among the devices. On the basis of a model in which the time difference is constant within each short time frame but varies in proportion to the central time of the frame, the effect of the sampling frequency mismatch can be compensated in the short-time Fourier transform (STFT) domain by a linear phase shift. By assuming that the sources are motionless and have stationary amplitudes, the observation is regarded as being stationary when drift does not occur. Thus, we formulate a likelihood to evaluate the stationarity in the STFT domain to evaluate the compensation of drift. The maximum likelihood estimation is obtained effectively by a golden section search. Using the estimated parameters, we compensate the drift by STFT analysis with a noninteger frame shift. The effectiveness of the proposed blind drift compensation method is evaluated in an experiment in which artificial drift is generated.
-
-@highlight Modeling of drift as frame shift.
-@highlight STFT-domain compensation as linear phase shift.
-@highlight Probabilistic model of drift.
-@highlight Maximum likelihood estimation of sampling frequency mismatch.
-@highlight Efficient resampling with modified STFT analysis with noninteger frame shift.

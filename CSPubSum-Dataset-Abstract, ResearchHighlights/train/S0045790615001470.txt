@@ -1,6 +1,0 @@
- With the rapid advancement in very large scale integration (VLSI) technology, it is the utmost necessity to achieve a reliable design with low power consumption. The Quantum dot Cellular Automata (QCA) can be such an architecture at nano-scale and thus emerges as a viable alternative for the current CMOS VLSI. This work targets design of logic module in QCA. It reports a modular design methodology to build the fault tolerant :1 multiplexer with optimized wire-crossings, delay and power consumption. A 2:1 QCA multiplexer is proposed as the basic logic module that in turn is utilized to synthesize 4:1 and 8:1 multiplexers. It shows significant achievement in terms of clock speed (36%), wire-crossing (58%), fault tolerance (77.62%) and power consumption over the existing designs. The effectiveness of proposed multiplexer is further established through synthesis of configurable logic block (CLB) for field programmable gate arrays (FPGAs).
-
-@highlight A modular design methodology around multiplexer is designed.
-@highlight This work make a trade-off between modular design and its reliability associated with fault tolerance and energy consumptions.
-@highlight Cascading lower order multiplexer to synthesize higher order multiplexer mitigating wire crossing and delay.
-@highlight Application of proposed design in CLB is also done.

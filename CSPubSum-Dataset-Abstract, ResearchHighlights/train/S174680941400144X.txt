@@ -1,6 +1,0 @@
- Eye activity has larger electrical potential than the average electroencephalogram (EEG) recording, thus making it one of the major sources of artefacts. Ocular artefacts (OA) must be removed as completely as possible with little or no loss of EEG to obtain a higher quality EEG. Using independent component analysis (ICA), the EEG is separated into independent components (IC) and the contaminated component is removed, thus removing the OA. However, ICA does not separate the sources completely and some of the meaningful EEG is lost. In this paper, a new method combining ICA and wavelet neural networking (WNN) is proposed. In this method, WNN is applied to the contaminated ICs, correcting the OA and thus lowering the data lost. The method was evaluated using simulated and real datasets and the results show that the OA are successfully removed with very little data loss.
-
-@highlight A combination of ICA and WNN is introduced to eliminate EOG artefacts.
-@highlight This method corrects only EOG artefacts within a contaminated component.
-@highlight Minimal low frequency and underlying cerebral activity is lost.
-@highlight EEG quality is increased.

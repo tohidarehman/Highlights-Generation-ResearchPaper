@@ -1,5 +1,0 @@
- Importance measures have been widely studied and applied in reliability and safety engineering. This paper presents a general formulation of moment-independent importance measures and several commonly discussed importance measures are unified based on Minkowski distance (MD). Moment-independent importance measures can be categorized into three classes of MD importance measures, i.e. probability density function based MD importance measure, cumulative distribution function based MD importance measure and quantile based MD importance measure. Some properties of the proposed MD importance measures are investigated. Several new importance measures are also derived as special cases of the generalized MD importance measures and illustrated with some case studies.
-
-@highlight The paper focuses on the moment-independent importance measures in reliability and safety engineering.
-@highlight The paper presents a general formulation of moment-independent importance measures based on Minkowski distance.
-@highlight The properties of the generalized importance measures are studied.

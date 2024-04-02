@@ -1,7 +1,0 @@
- Little is known about the long-term effects of system reliability when operators do not use a system during an extended lay-off period. To examine threats to skill maintenance, 28 participants operated twice a simulation of a complex process control system for 2.5 h, with an 8-month retention interval between sessions. Operators were provided with an adaptable support system, which operated at one of the following reliability levels: 60%, 80% or 100%. Results showed that performance, workload, and trust remained stable at the second testing session, but operators lost self-confidence in their system management abilities. Finally, the effects of system reliability observed at the first testing session were largely found again at the second session. The findings overall suggest that adaptable automation may be a promising means to support operators in maintaining their performance at the second testing session.
-
-@highlight We examined the effects of lay-off period and reliability in adaptable automation.
-@highlight We took measures of trust, automation reliance, performance, and workload.
-@highlight There was no skill decay after the extended lay-off period.
-@highlight Operator trust was influenced by system reliability but not by lay-off period.
-@highlight Automation reliance was unaffected by lay-off period and reliability.

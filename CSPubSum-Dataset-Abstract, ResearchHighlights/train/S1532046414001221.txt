@@ -1,7 +1,0 @@
- Mobile applications have proven to be promising tools for supporting people in adhering to their health goals. Although coaching and reminder apps abound, few of them are based on established theories of behavior change. In the present work, a behavior change support system is presented that uses a computational model based on multiple psychological theories of behavior change. The system determines the user’s reason for non-adherence using a mobile phone app and an online lifestyle diary. The user automatically receives generated messages with persuasive, tailored content. The system was designed to support chronic patients with type 2 diabetes, HIV, and cardiovascular disease, but can be applied to many health and lifestyle domains. The main focus of this work is the development of the model and the underlying reasoning method. Furthermore, the implementation of the system and some preliminary results of its functioning will be discussed.
-
-@highlight We designed a model-based behavior change coaching system for chronic patients.
-@highlight The system integrates a mobile phone, website and an electronic pillbox.
-@highlight The system targets three domains: medication intake, healthy diet and physical exercise.
-@highlight The model-based reasoning algorithm of the system provides intelligent support.
-@highlight Preliminary validation of the cognitive model is performed along with a system use evaluation.

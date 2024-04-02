@@ -1,7 +1,0 @@
- We present an informatics approach to synthesize and classify terminology as defined in standards. Traditional document style standards and dictionary style definitions are very limiting when it comes to getting a holistic picture of the application of standards and regulations. We focus on standards for sustainable manufacturing, but the approach is not limited to this domain. By studying the structure and relationships within those standards we developed a schema for representing and relating standards to each other. We then used that schema as a basis for visualization and querying, which enables interactive and intuitive perusal of the material.
-
-@highlight We develop a framework for categorizing and presenting terminology in standards.
-@highlight We develop a schema for classifying terminology from sustainable manufacturing standards.
-@highlight We develop a visualization and query mechanism for this information.
-@highlight This framework will allow non-experts to easily understand standards content.
-@highlight The interactive interface will allow non-experts to find and use specific information that is harder to find when browsing document standards.

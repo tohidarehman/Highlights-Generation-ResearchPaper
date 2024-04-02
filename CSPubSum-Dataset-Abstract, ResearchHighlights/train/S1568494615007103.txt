@@ -1,7 +1,0 @@
- Boolean functions represent an important primitive in the design of various cryptographic algorithms. There exist several well-known schemes where a Boolean function is used to add nonlinearity to the cipher. Thus, methods to generate Boolean functions that possess good cryptographic properties present an important research goal. Among other techniques, evolutionary computation has proved to be a well-suited approach for this problem. In this paper, we present three different objective functions, where each inspects important cryptographic properties of Boolean functions, and examine four evolutionary algorithms. Our research confirms previous results, but also sheds new insights on the effectiveness and comparison of different evolutionary algorithms for this problem.
-
-@highlight Analysis on the efficiency of EAs when evolving cryptographic Boolean functions.
-@highlight Three fitness functions, four evolutionary algorithms.
-@highlight Wide set of experiments with different algorithm parameter values.
-@highlight The best results are obtained with GP and CGP.
-@highlight We show the problem representation plays a crucial role for reaching top solutions.

@@ -1,6 +1,0 @@
- In this paper, a novel architecture of Vedic multiplier with ‘Urdhava-tiryakbhyam’ methodology for 16 bit multiplier and multiplicand is proposed with the use of compressor adders. Equations for each bit of 32 bit resultant are calculated distinctly and compressor adders are used to implement these equations. They are chosen as they decrease vertical critical delay in comparison to the conventional architectures of compressors implemented using half and full adders only and so make the multiplier fast. The designs are coded in VHDL (Very High-speed Integrated Circuits Hardware Description Language) and synthesized with Xilinx ISE 13.1 using Spartan 3e series of FPGA (Field Programmable Gate Array). The combinational delay calculated for proposed 16 × 16 bit multiplier is 32 ns. Further speed comparisons of compressor adders with traditional ones and proposed multiplier with popular methods for multiplication are shown. Results clearly indicate the better speed performance of our proposed Vedic multiplier.
-
-@highlight A 16 bit Vedic multiplier with Urdhava Tiryakbhyam sutra is proposed.
-@highlight Higher compressor adders with the help of lower Compressor adders are proposed.
-@highlight Proposed compressor adders are used in architecture of Vedic multiplier.
-@highlight Proposed multiplier shows good speed results over Traditional multipliers.

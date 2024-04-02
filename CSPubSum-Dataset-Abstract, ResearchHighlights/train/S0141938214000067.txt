@@ -1,7 +1,0 @@
- This paper proposes a power-efficient drive circuit for plasma display panels (PDPs). The proposed circuit reduces reactive power consumption by varying the inductance for energy recovery and by separating the grounds of the sustain and data drivers. Power consumption due to discharge current is reduced by using two soft-switching inductors for the pull-up switches in the bridge circuit. Power consumption for data addressing is reduced by using a dc voltage source to bias the ground for the sustain driver. The proposed circuit was tested on a 50″ full-HD single-scan PDP which had a sustain discharge gap of 80μm; total power consumption to display the dynamic broadcasting content of IEC 62087 was ∼40W (14.5%) less than that required by the conventional drive circuit, and the EMI level for 2< <9MHz was reduced significantly. The experimental results demonstrate that a high performance power-efficient PDP drive circuit can be built using the proposed method.
-
-@highlight Proposed circuit reduces reactive and discharge power consumption.
-@highlight Reactive power is reduced by decreasing the energy recovery current.
-@highlight Discharge power is reduced by achieving soft-switching of the bridge circuit.
-@highlight Biased scan method was used for reducing power consumption for data address.
-@highlight Total power consumption was decreased by ∼40W (14.5%).

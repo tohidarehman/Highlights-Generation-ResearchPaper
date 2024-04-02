@@ -1,5 +1,0 @@
- A novel negative tone molecular resist molecule featuring a tert-butyloxycarbonyl protected phenol malonate group bonded to a 1,8-Diazabicycloundece-7-ene is presented. The resist shows high-resolution capability in electron beam lithography at a range of beam energies. The resist demonstrated a sensitivity of 18.7 µC/cm2 at 20 kV. Dense features with a line width of 15 nm have been demonstrated at 30 kV, whilst a feature size of 12.5 nm was achieved for dense lines at 100 kV.
-
-@highlight A novel molecular chemically amplified negative tone resist is presented.
-@highlight High resolution features have been patterned at high sensitivity.
-@highlight The performance of the resist at 30, 50 and 100kV is evaluated.

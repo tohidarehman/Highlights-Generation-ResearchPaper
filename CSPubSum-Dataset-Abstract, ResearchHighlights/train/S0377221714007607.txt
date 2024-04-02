@@ -1,6 +1,0 @@
- Studies have widely used stochastic frontier models to assess financial efficiency; however, traditional static approaches do not take dynamic characteristics of financial systems into account. This article develops a dynamic stochastic frontier model to evaluate regional financial efficiency and provides an empirical test of the model by using panel data of 62 Chinese counties during the 2001–2010 period. The model measures the dynamic impact of the input–output variables and environmental variables on financial efficiency, and allows for the separation of technical change from the change in technical efficiency. The results show that the dynamic model provides a better fit to the data than the static model. In addition, a gradient difference emerges in the regional financial efficiency among the six major regions of China. The results offer practical implications for the development of regional financial services in China, as well as other developing countries and emerging economies.
-
-@highlight A dynamic stochastic frontier model to evaluate regional financial efficiency.
-@highlight Dynamic model considers the impact of environmental variables on financial efficiency.
-@highlight An empirical test of the dynamic stochastic frontier model.
-@highlight There exists a gradient difference in the regional financial efficiency of China.

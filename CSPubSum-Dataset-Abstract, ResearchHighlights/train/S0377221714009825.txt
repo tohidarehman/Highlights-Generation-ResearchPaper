@@ -1,6 +1,0 @@
- This paper uses the setting of a volleyball game and an exotic sports betting on the point difference of volleyball games to test whether people correctly understand the probabilities related to outcomes of a process which follows a binomial distribution. We find that people consistently underestimate the probabilities of outcomes that correspond to extreme ends of the distribution. This is consistent with the extremeness aversion bias documented in decision making studies. Whereas previous studies on the extremeness aversion bias find the existence of the bias in a consumer choice setting, we document that this bias also exists in an investment setting. We find evidence of learning behavior over time; however, it is not sufficient to eliminate the bias.
-
-@highlight We use bets on volleyball games to test people's understanding of binomial process.
-@highlight People underestimate probabilities corresponding to extreme ends of the distribution.
-@highlight This extremeness aversion bias causes market inefficiency and generates large return.
-@highlight There is some evidence of learning behavior, but not enough to eliminate the bias.

@@ -1,7 +1,0 @@
- It is argued that the barrier to single pilot operation is not the technology, but the failure to consider the whole socio-technical system. To better understand the socio-technical system we model alternative single pilot operations using Cognitive Work Analysis (CWA) and analyse those models using Social Network Analysis (SNA). Four potential models of single pilot operations were compared to existing two pilot operations. Using SOCA-CAT from CWA, we were able to identify the potential functional loading and interactions between networks of agents. The interactions formed the basis on the SNA. These analyses potentially form the basis for distributed system architecture for the operation of a future aircraft. The findings from the models suggest that distributed crewing option could be at least as resilient, in network architecture terms, as the current dual crewing operations.
-
-@highlight Contrasting different crewing options with CWA and SNA.
-@highlight Identification of functional loadings on agents.
-@highlight Using data from SOCA-CAT as input into SNA.
-@highlight Analysis of networked in interactions between agents.
-@highlight Using network analysis to identify system resilience.

@@ -1,7 +1,0 @@
- Automatic optic disc (OD) detection is an essential step for screening of eye diseases. An OD localization method is proposed in this paper, which aims to locate OD robustly in retinal image with pathological changes. There are mainly three steps in this approach: region-of-interest (ROI) detection, candidate pixel detection, and confidence score calculation. The features of vessel direction, intensity, OD edges, and size of bright regions were extracted and employed in the proposed OD locating approach. Compared with the OD locating method based on vessel direction only, the proposed method could handle the following cases better: OD partially appears in retinal image, retinal vessels are not obvious in retinal image, or there are bright lesions in retinal images. Four public databases with total 340 retinal images were tested to evaluate the performance of our method. The proposed method can achieve an accuracy of 100%, 95.8%, 99.2%, 97.8% for DRIVE database, STARE database, DIARETDB0 database, DIARETDB1 database respectively. Comparison studies showed that the proposed approach is especially robust in the retinal images with diseases.
-
-@highlight An approach to locate OD in retinal image with pathological changes is proposed.
-@highlight Features are vessel direction, intensity, OD edges, and size of bright regions.
-@highlight It can locate OD robustly in both normal and diseased retinal images.
-@highlight Comparison shows it can handle the challenging images better.
-@highlight Total 340 retinal images from four public databases were tested.

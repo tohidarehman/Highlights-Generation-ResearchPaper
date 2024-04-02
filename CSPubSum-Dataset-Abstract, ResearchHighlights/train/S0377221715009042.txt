@@ -1,7 +1,0 @@
- This paper proposes a way to optimally regulate bargaining for risk redistributions. We discuss the strategic interaction between two firms, who trade risk Over-The-Counter in a one-period model. Novel to the literature, we focus on an incomplete set of possible risk redistributions. This keeps the set of feasible contracts simple. We consider catastrophe and longevity risk as two key examples. The reason is that the trading of these risks typically occurs Over-The-Counter, and that there are no given pricing functions. If the set of feasible strategies is unconstrained, we get that all Nash equilibria are such that no firm benefits from trading. A way to avoid this, is to restrict the strategy space a priori. In this way, a Nash equilibrium that is interesting for both firms may exist. The intervention of a regulator is possible by restricting the set of feasible strategies. For instance, a firm has to keep a deductible on its prior risk. We characterize optimal regulation by means of Nash bargaining solutions.
-
-@highlight We study an illiquid market with an incomplete set of possible risk redistributions.
-@highlight We characterize the Nash equilibria in Over-The-Counter bargaining.
-@highlight We propose a way to regulate the market for risk redistributions.
-@highlight A regulator’s intervention might Pareto improve the Nash equilibria.
-@highlight We characterize optimal regulation via the Nash bargaining solution.

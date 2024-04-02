@@ -1,6 +1,0 @@
- As a pivotal domain within envelope protein, fusion peptide (FP) plays a crucial role in pathogenicity and therapeutic intervention. Taken into account the limited FP annotations in NCBI database and absence of FP prediction software, it is urgent and desirable to develop a bioinformatics tool to predict new putative FPs (np-FPs) in retroviruses. In this work, a sequence-based FP model was proposed by combining Hidden Markov Method with similarity comparison. The classification accuracies are 91.97% and 92.31% corresponding to 10-fold and leave-one-out cross-validation. After scanning sequences without FP annotations, this model discovered 53,946 np-FPs. The statistical results on FPs or np-FPs reveal that FP is a conserved and hydrophobic domain. The FP software programmed for windows environment is available at .
-
-@highlight A novel computational model for predicting fusion peptide of retroviruses was proposed.
-@highlight A software tool named FP_predict.exe has been developed.
-@highlight A large number of new putative FPs of five typical retroviruses were predicted.
-@highlight Property, motif and evolutionary relationship about FP were computed and discussed.

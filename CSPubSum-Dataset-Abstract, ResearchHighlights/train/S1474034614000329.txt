@@ -1,7 +1,0 @@
- An important challenge in mechatronic system design is to select a feasible system architecture that satisfies all requirements. This article describes (i) the necessary concepts that a system architect needs to be able to formally and declaratively describe the design space of mechanical design synthesis problems, thereby minimizing accidental complexity; (ii) how a Domain Specific Language based on the SysML modeling language and the Object Constraint Language (OCL) can be used to create this model of the design space; and (iii) an iterative process to come up with a formal model of the design space. This model describes the design space independent of any (knowledge of a) particular solving technology for the Design Space Exploration. Furthermore, the information in the model allows to select the most appropriate solving strategy for a particular design synthesis problem. The different concepts are illustrated on the example of automated synthesis of a gearbox.
-
-@highlight We provide the concepts to formally model the design space of mechanical architectures.
-@highlight We created a Domain Specific Language to support the creation of such models.
-@highlight The approach allows to model scenario-based user requirements.
-@highlight The approach allows to model complex topological constraints.
-@highlight We present a methodology to incrementally create these design space models.

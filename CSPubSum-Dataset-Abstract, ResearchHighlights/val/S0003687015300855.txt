@@ -1,6 +1,0 @@
- In this paper we present a literature review of the evolution of the levels of autonomy from the end of the 1950s up until now. The motivation of this study was primarily to gather and to compare the literature that exists, on taxonomies on levels of automation. Technical developments within both computer hardware and software have made it possible to introduce autonomy into virtually all aspects of human-machine systems. The current study, is focusing on how different authors treat the problem of different levels of automation. The outcome of this study is to present the differences between the proposed levels of automation and the various taxonomies, giving the potential users a number of choices in order to decide which taxonomy satisfies their needs better. In addition, this paper surveys deals with the term adaptive automation, which seems to be a new trend in the literature on autonomy.
-
-@highlight We present a literature review of the evolution of the levels of autonomy.
-@highlight We gather and compare the literature on taxonomies on levels of automation.
-@highlight We present the differences between the proposed taxonomies.
-@highlight We survey the term adaptive automation, a new trend in the literature on autonomy.

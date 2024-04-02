@@ -1,7 +1,0 @@
- This paper presents a new two-scale damage model of the fiber-reinforced polymer (FRP)–concrete bond under high-cycle fatigue. The material behavior is modeled as elastic-plastic coupled with damage for the microscale analysis and as elastic for the mesoscale analysis. A new damage law for the interface joint is described. The two-scale damage model has been implemented as a material model for a three dimensional an eight-node interface element of zero thickness and used to simulate a double shear joint specimen under high cycle fatigue. The numerical calculations were performed with a full incremental cycle solution and a new cycle jump approach.
-
-@highlight Material model of the fiber reinforced polymer–concrete bond under high-cycle fatigue is developed.
-@highlight Implemented two-scale damage model as a material model for a 3D an eight-node interface element.
-@highlight Developed a new cycle jump approach.
-@highlight Comparisons of the results from the (FEM) model with experimental data have been performed.
-@highlight The sensitivity of the model at maximum cycle load to the different parameters has been determined.

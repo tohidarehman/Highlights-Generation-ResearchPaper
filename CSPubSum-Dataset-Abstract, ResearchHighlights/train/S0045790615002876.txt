@@ -1,7 +1,0 @@
- Current Critical Infrastructures (CIs) need intelligent automatic active reaction mechanisms to protect their critical processes against cyber attacks or system anomalies, and avoid the disruptive consequences of cascading failures between interdependent and interconnected systems. In this paper we study the Intrusion Detection, Prevention and Response Systems (IDPRS) that can offer this type of protection mechanisms, their constituting elements and their applicability to critical contexts. We design a methodological framework determining the essential elements present in the IDPRS, while evaluating each of their sub-components in terms of adequacy for critical contexts. We review the different types of active and passive countermeasures available, categorizing them and assessing whether or not they are suitable for Critical Infrastructure Protection (CIP). Through our study we look at different reaction systems and learn from them how to better create IDPRS solutions for CIP.
-
-@highlight We study IDPRS solutions for CIP, considering their components and constraints.
-@highlight We design a methodological framework for IDPRS solutions within critical scenarios.
-@highlight ICS need automated intelligent solutions for early detection and protection.
-@highlight Current IDPRS solutions for CIP lack automatic active reaction mechanisms.
-@highlight We give recommendations for adaptation or development of IDPRS solutions for CIP.

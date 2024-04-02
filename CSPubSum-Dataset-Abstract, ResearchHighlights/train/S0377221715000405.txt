@@ -1,6 +1,0 @@
- In this paper we introduce the discrete time window assignment vehicle routing problem (DTWAVRP) that can be viewed as a two-stage stochastic optimization problem. Given a set of customers that must be visited on the same day regularly within some period of time, the first-stage decisions are to assign to each customer a time window from a set of candidate time windows before demand is known. In the second stage, when demand is revealed for each day of the time period, vehicle routes satisfying vehicle capacity and the assigned time windows are constructed. The objective of the DTWAVRP is to minimize the expected total transportation cost. To solve this problem, we develop an exact branch-price-and-cut algorithm and derive from it five column generation heuristics that allow to solve larger instances than those solved by the exact algorithm. We illustrate the performance of these algorithms by means of computational experiments performed on randomly generated instances.
-
-@highlight We provide a time window assignment model in a VRP setting with demand uncertainty.
-@highlight We develop a state-of-the-art exact branch-price-and-cut method.
-@highlight We develop column generation heuristics for good solutions in large instances.
-@highlight Numerical experiments show that using multiple demand scenarios is better than one.

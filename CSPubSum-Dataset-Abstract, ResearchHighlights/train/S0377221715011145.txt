@@ -1,5 +1,0 @@
- Risk has always been a dominant part of financial decision making in any industry. Recently models, tools and computational techniques have been developed so that we can effectively incorporate risk in optimal decision policies. The focus of this paper is on electricity markets, where much of the inherent risk falls on the retail sector. We introduce a three-stage model of an electricity market where firms can choose to enter the retail market, then enter into retail contracts, and finally purchase electricity in a wholesale market to satisfy their contracts. We explicitly assume that firms are risk-averse in this model. We demonstrate how the behaviour of firms change with risk-aversion, and use the example of an asset-swap policy over a transmission network to demonstrate the importance of modeling risk-aversion in determining policy outcomes.
-
-@highlight We develop a model of retail competition wherein the retailers are risk-averse.
-@highlight Entry into the retail market is endogenously determined within the model.
-@highlight We apply this model to a generation asset transfer policy from the NZEM.

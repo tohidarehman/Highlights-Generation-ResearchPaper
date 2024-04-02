@@ -1,6 +1,0 @@
- In this paper, we deal with the generation of bundles of loads to be submitted by carriers participating in combinatorial auctions in the context of long-haul full truckload transportation services. We develop a probabilistic optimization model that integrates the bid generation and pricing problems together with the routing of the carrier’s fleet. We propose two heuristic procedures that enable us to solve models with up to 400 auctioned loads.
-
-@highlight Consideration of the bundle price as a decision variable.
-@highlight Inclusion into the model of a set of probabilistic constraints.
-@highlight Inclusion of the dynamic aspect of the truck routing by solving a fleet management problem.
-@highlight The study of novel techniques for computing the synergies between each pair of loads.

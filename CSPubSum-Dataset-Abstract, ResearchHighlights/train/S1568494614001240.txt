@@ -1,6 +1,0 @@
- To the best of our knowledge, there is no method in the literature to find the fuzzy optimal solution of fully fuzzy critical path (FFCP) problems i.e., critical path problems in which all the parameters are represented by LR flat fuzzy numbers. In this paper, a new method is proposed for the same. Also, it is shown that it is better to use JMD representation of LR flat fuzzy numbers in the proposed method as compared to the other representation of LR flat fuzzy numbers.
-
-@highlight To propose a new method for finding the fuzzy optimal solution of fully fuzzy critical path problems.
-@highlight To show the validity and the advantages of the propose method over existing methods.
-@highlight To illustrate the proposed method by solving numerical problems.
-@highlight To show the advantages of JMD representation of LR flat fuzzy numbers over the other representation of LR flat fuzzy numbers.

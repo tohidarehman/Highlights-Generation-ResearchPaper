@@ -1,7 +1,0 @@
- In this paper we propose improved variants of the sentence retrieval method TF–ISF (a TF–IDF or Term Frequency–Inverse Document Frequency variant for sentence retrieval). The improvement is achieved by using context consisting of neighboring sentences and at the same time promoting the retrieval of longer sentences. We thoroughly compare new modified TF–ISF methods to the TF–ISF baseline, to an earlier attempt to include context into TF–ISF named tfmix and to a language modeling based method that uses context and promoting retrieval of long sentences named 3MMPDS. Experimental results show that the TF–ISF method can be improved using local context. Results also show that the TF–ISF method can be improved by promoting the retrieval of longer sentences. Finally we show that the best results are achieved when combining both modifications. All new methods (TF–ISF variants) also show statistically significant better results than the other tested methods.
-
-@highlight We extend the TF–ISF method to use local context.
-@highlight We extend the TF–ISF method to promote retrieval of long sentences.
-@highlight Context and promoting retrieval of long sentences both improves sentence retrieval.
-@highlight We also combine using context and promoting retrieval of long sentences.
-@highlight It is useful to use at the same time context and promoting retrieval of long sentences.

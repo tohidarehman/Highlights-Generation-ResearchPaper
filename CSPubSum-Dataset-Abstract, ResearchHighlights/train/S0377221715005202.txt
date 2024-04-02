@@ -1,6 +1,0 @@
- The single-product, single-period newsvendor problem with two decision variables, namely price and stock quantity, is considered. The performance measure, in addition to the expected revenue, includes the variance of the income scaled with a risk parameter. We present conditions for the concavity of this risk-sensitive performance measure and the uniqueness of the optimal solution for both risk-averse and risk-seeking cases under the additive demand model, and compare the results to others previously published. These conditions are introduced in terms of the lost sales rate elasticity. Furthermore, we provide numerical examples that aim to endorse the theoretical results herein explained.
-
-@highlight A model for price-inventory decision under mean-variance criteria is presented.
-@highlight Introduced conditions that guarantee the concavity of the profit function.
-@highlight Analysis of behavior of variables of the problem with respect to different risk settings.
-@highlight Numerical examples that endorse these results.

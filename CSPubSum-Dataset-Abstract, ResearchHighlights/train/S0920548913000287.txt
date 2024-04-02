@@ -1,6 +1,0 @@
- Metadata is an important element for achieving interoperability between Learning Objects systems; it facilitates the process of describing, searching, selecting and recovering of Learning Objects. The IEEE LOMv1.0 is a metadata standard for describing Learning Objects. Recently found evidence shows that the standard does not fulfill all requirements of its users, therefore they have extended it. In order to know the impact that extensions have into the interoperability, we made an international study where the use of the LOMv1.0 standard in forty-four works was analyzed. As a result we found fifteen types of extensions implemented to the standard.
-
-@highlight We analyzed 44 works using the IEEE LOMv1.0 standard and found 15 types of extensions made to it.
-@highlight Due to Mexico interoperability difficulties, we compared its extensions with the rest of the world.
-@highlight We found that local extensions do not help to increase the system's interoperability ability.
-@highlight We found the action most important after implementing extensions is to publish them.

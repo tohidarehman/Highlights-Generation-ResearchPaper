@@ -1,7 +1,0 @@
- Emission trading schemes such as the European Union Emissions Trading System (EUETS) attempt to reconcile economic efficiency with ecological efficiency by creating financial incentives for companies to invest in climate-friendly innovations. Using real options methodology, we demonstrate that under uncertainty, economic and ecological efficiency continue to be mutually exclusive. This problem is even worse if a climate-friendly project depends on investing in of a whole supply chain. We model a sequential bargaining game in a supply chain where the parties negotiate over implementation of a carbon dioxide (CO2) saving investment project. We show that the outcome of their bargaining is not economically efficient and even less ecologically efficient. Furthermore, we show that a supply chain becomes less economically efficient and less ecologically efficient with every additional chain link. Finally, we make recommendations for how managers or politicians can improve the situation and thereby increase economic as well as ecological efficiency and thus also the eco-efficiency of supply chains.
-
-@highlight We analyze the timing decision of a company which can invest in a CO2-saving project.
-@highlight Doing this, we use a real options game-theoretic model.
-@highlight Total emission of the supply chain increases with carbon price uncertainty.
-@highlight Furthermore, inefficiency increases with the length of the supply chain.
-@highlight Cooperation and vertical integration improve ecologic as well as economic efficiency.

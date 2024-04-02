@@ -1,7 +1,0 @@
- Knowledge acquisition and bilingual terminology extraction from multilingual corpora are challenging tasks for cross-language information retrieval. In this study, we propose a novel method for mining high quality translation knowledge from our constructed Persian–English comparable corpus, University of Tehran Persian–English Comparable Corpus (UTPECC). We extract translation knowledge based on Term Association Network (TAN) constructed from term co-occurrences in same language as well as term associations in different languages. We further propose a post-processing step to do term translation validity check by detecting the mistranslated terms as outliers. Evaluation results on two different data sets show that translating queries using UTPECC and using the proposed methods significantly outperform simple dictionary-based methods. Moreover, the experimental results show that our methods are especially effective in translating Out-Of-Vocabulary terms and also expanding query words based on their associated terms.
-
-@highlight We propose novel method for mining high quality translation from comparable corpus.
-@highlight We introduce Term Association Network (TAN) for mining Translation knowledge.
-@highlight We propose a new method for term translation validity using cross outlier detection.
-@highlight Results show that proposed methods significantly outperforms dictionary-based method.
-@highlight Our methods are specially effective in translating OOV terms by expanding query words.

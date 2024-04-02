@@ -1,5 +1,0 @@
- Geometric partial differential equations for curves and surfaces are used in many fields, such as computational geometry, image processing and computer graphics. In this paper, a few differential operators defined on space curves are introduced. Based on these operators, several second-order and fourth-order geometric flows for evolving space curves are constructed. Some properties of the changing rates of the arc-length of the evolved curves and areas swept by the curves are discussed. Short-term and long-term behaviors of the evolved curves are illustrated.
-
-@highlight Several second- and fourth-order geometric partial differential equations for space curves are constructed.
-@highlight Changing rates of the arc-length of the evolved curves and areas swept by the curves are discussed.
-@highlight Short-term and long-term behaviors of the evolved curves are illustrated.

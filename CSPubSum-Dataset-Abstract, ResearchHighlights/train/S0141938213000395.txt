@@ -1,7 +1,0 @@
- Large screen display technology has in recent years become available to industrial control rooms as a supplement to smaller displays. Due to the greater complexity and scale, measured in meters, not inches, it is now a challenge to design for readability and Situation Awareness. Information Rich Design is a design concept for large displays used in many real-life complex processes for almost a decade. The concept simplifies the understanding of large data sets through alignment and Gestalt grouping of process data through a few generic process objects. This paper describes recent design modifications where new functionality is integrated into existing graphical objects, keeping the original simplicity. This paper proposes design principles for large screen displays based on theoretical discussions of Situation Awareness and a user test using crews of certified operators. The user test shows positive results on pattern recognition of process data and a newly developed animation of unacknowledged alarms; however, the concept still suffers from colour and readability issues.
-
-@highlight Large screen displays should be designed from the ground up.
-@highlight We have built an approach that we call Information Rich Design.
-@highlight Use of pattern recognition and animation of new alarms tested well.
-@highlight Grey colour layering was difficult through video projectors.
-@highlight We propose design principles for large screen displays for complex processes.

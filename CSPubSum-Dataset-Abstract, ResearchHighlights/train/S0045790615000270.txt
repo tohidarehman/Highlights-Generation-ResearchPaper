@@ -1,6 +1,0 @@
- The main challenge in image denoising is, how to preserve the information such as edges and textures to get satisfactory visual quality when improving the signal to noise ratio. In this paper, we propose a hybrid filter bank for denoising based on wavelet filter bank and quincunx diamond filter bank. The noisy image is decomposed into different subbands of frequency and orientation using DMeyer wavelet. The quincunx diamond filter bank is designed from finite impulse response (FIR) filters using Kaiser window, which is applied on the detail subband of wavelet filter bank. The directional subband coefficients are modeled with Gaussian scale mixture model (GSM). The Bayes least squares estimator is used to obtain the denoised detail coefficients from the noisy image decomposition. Experimental results show that the new method performs spatial averaging without smoothing edges, and thereby enhances the visual quality and peak signal-to-noise-ratio.
-
-@highlight We propose a new denoising algorithm using wavelet and quincunx diamond filter bank.
-@highlight The subband coefficients are modeled with Gaussian scale mixture model.
-@highlight Bayes least means square is used to obtain the denoised coefficients.
-@highlight The new method does spatial averaging without smoothing the edges.

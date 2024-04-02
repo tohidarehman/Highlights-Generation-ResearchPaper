@@ -1,7 +1,0 @@
- Accurate video-based ball tracking in team sports is important for automated game analysis, and has proven very difficult because the ball is often occluded by the players. In this paper, we propose a novel approach to addressing this issue by formulating the tracking in terms of deciding which player, if any, is in possession of the ball at any given time. This is very different from standard approaches that first attempt to track the ball and only then to assign possession. We will show that our method substantially increases performance when applied to long basketball and soccer sequences.
-
-@highlight We investigate ball tracking in team sports from multiple cameras.
-@highlight We introduce a state space that explicitly accounts for the ball ownership.
-@highlight We utilize the players’ trajectories to achieve dependable ball tracking.
-@highlight We model our loss function as a CRF, and learn the potentials from training data.
-@highlight Our tracker yields significant improvement on long basketball and soccer video sequences.

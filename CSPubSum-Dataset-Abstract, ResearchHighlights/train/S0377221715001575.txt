@@ -1,7 +1,0 @@
- In this paper, we deal with the bi-objective non-convex combined heat and power (CHP) planning problem. A medium and long term planning problem decomposes into thousands of single period (hourly) subproblems and dynamic constraints can usually be ignored in this context. The hourly subproblem can be formulated as a mixed integer linear programming (MILP) model. First, an efficient two phase approach for constructing the Pareto Frontier (PF) of the hourly subproblem is presented. Then a merging algorithm is developed to approximate the PF for the multi-period planning problem. Numerical results with real CHP plants demonstrate the effectiveness and efficiency of the solution approach using the Cplex based ɛ-constraint method as benchmark.
-
-@highlight Consider emission impacts in combined heat and power production planning.
-@highlight A method for constructing non-dominated line segments are presented.
-@highlight A two phase method for constructing the Pareto frontier for the hourly subproblem.
-@highlight A merging algorithm for approximating the Pareto frontier for the problem.
-@highlight The effectiveness of the algorithm is evaluated against the e-constraint method.

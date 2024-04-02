@@ -1,7 +1,0 @@
- Of course, there is not enough memory on a PC with 16GB RAM, and tetrahedra constructed have to be output to leave rooms for the creation of new tetrahedra in the next round of point insertion. A segmental zonal insertion scheme is developed, in which large data sets of more than 100 million points are partitioned into zones, each of which is triangulated in turn by the parallel zonal insertion module. An overlapping zone between two steps of insertion has to be allowed to ensure Delaunay tetrahedra formed at the boundary between two insertion zones. Tetrahedra between zones can be easily eliminated by the minimum vertex allocation method. The collection of all the tetrahedra from each insertion zone/step will produce the required triangulation for the point set. As the work of each typical step for the insertion of an equal number of points is very much similar, the processing time bears roughly a linear relationship with the number of points in the set, at a construction rate of more than 5 million Delaunay tetrahedra per second for the triangulation of 1 billion randomly generated points.
-
-@highlight Segmental zonal insertion scheme to triangulate points zone by zone.
-@highlight Points within a zone are triangulated by a parallel insertion process.
-@highlight There is no limit to the number of points in the triangulation.
-@highlight Triangulation time is roughly linear with respect to the number of points in the set.
-@highlight More than 5 million tetrahedra are constructed per second for a set of 1 billion points.

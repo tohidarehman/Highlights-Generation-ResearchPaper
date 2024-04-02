@@ -1,5 +1,0 @@
- In this paper we describe a process of developing software systems by capturing the conceptual domain knowledge of the problem domain using concept maps. To illustrate the implementation of this process we have used the example of developing Personal Health Information Systems. In addition to the aforementioned development process, the paper also describes an evaluation metric developed using Design Structure Matrix and information entropy to measure the structural properties of the concept map. The determination of entropy is based on the information derived from the hierarchical structure of a concept map. The probability distributions and the information entropy were calculated defining a new metric: node source connectivity strength based on the number of unique paths from a node to another. The results were compared by using a more standard metric, the graph node connectivity.
-
-@highlight Using concept maps to bridge the semantic gap in software development.
-@highlight Using information entropy to measure the strength of the concept map.
-@highlight A new methodology to measure the strength of the semantic gap.

@@ -1,6 +1,0 @@
- 3D CAD systems are used in product design for simultaneous engineering and to improve productivity. CAD tools can substantially enhance design performance. Although 3D CAD is a widely used and highly effective tool in mechanical design, mastery of CAD skills is complex and time-consuming. The concepts of parametric–associative models and systems are powerful tools whose efficiency is proportional to the complexity of their implementation. The availability of a framework for actions that can be taken to improve CAD efficiency can therefore be highly beneficial. Today, a clear and structured approach does not exist in this way for CAD methodology deployment. The novelty of this work is therefore to propose a general strategy for utilizing the advantages of parametric CAD in the automotive industry in the form of a roadmap. The main stages of the roadmap are illustrated by means of industrial use cases. The first results of his research are discussed and suggestions for future work are given.
-
-@highlight We describe the particular constraints of design in the automotive industry.
-@highlight An efficient use of parametric CAD requires a clear strategy.
-@highlight Roadmap for CAD methodologies and KBE approach.
-@highlight It can be used by CAD managers in the automotive industry.

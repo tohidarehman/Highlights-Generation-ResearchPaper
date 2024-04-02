@@ -1,5 +1,0 @@
- IEEE 1599 is an XML-based format standardized in 2008 by the Computer Society of the Institute of Electrical and Electronics Engineers (IEEE). The goal of this standard is to provide a comprehensive description of a music piece, supporting the encoding of heterogeneous aspects (symbolic, formal, graphical, audio, etc.) inside a unique XML document. The format presents advanced features such as a multi-layer information structuring and full synchronization among synchronizable entities. In this work we aim to conduct a critical review of IEEE 1599, not only providing a brief overview of its strength points but above all underlining those aspects that could be improved. The paper will also compare IEEE 1599 with other common formats for representing music information.
-
-@highlight Overview of the international standard called IEEE 1599
-@highlight Critical review based on the case studies and issues experienced in 7years of application of the standard
-@highlight Insight into the current research and future perspectives

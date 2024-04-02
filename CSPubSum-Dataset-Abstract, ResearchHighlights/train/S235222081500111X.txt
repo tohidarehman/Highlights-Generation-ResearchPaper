@@ -1,7 +1,0 @@
- A classical result in algebraic specification states that a total function defined on an initial algebra is a homomorphism if and only if the kernel of that function is a congruence. We expand on the discussion of that result from an earlier paper: extending it from total to partial functions, simplifying the proofs using relational calculus, and generalising the setting to regular categories.
-
-@highlight A total function on an initial algebra is a homomorphism iff its kernel is a congruence.
-@highlight An earlier paper (CMCS 2001) elaborates on that classical result.
-@highlight We extend the result from total to partial functions.
-@highlight We simplify the proofs using the relational calculus.
-@highlight We generalise the setting to regular categories.

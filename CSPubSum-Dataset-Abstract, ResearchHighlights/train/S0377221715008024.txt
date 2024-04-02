@@ -1,6 +1,0 @@
- The fresh fruit supply chain is characterized by long supply lead times combined with significant supply and demand uncertainties, and relatively thin margins. These challenges generate a need for management efficiency and the use of modern decision technology tools. We review some of the literature on operational research models applied to the fresh fruit supply chain. It is an attempt to gain a better understanding of the OR methods used in the revised papers apparently independent and oriented towards problem solving rather than theory developing. We conclude by outlining what we see as some of the significant new problems facing the industry like the lack of holistic approaches for the design and management of fresh FSC. Finally, some future research directions are indicated.
-
-@highlight First review on OR methods in fresh fruit supply chain.
-@highlight Review complemented with papers of other similar supply chains.
-@highlight Use of different criteria to classify the revised papers.
-@highlight Future perspective of OR developments in this field of application.

@@ -1,7 +1,0 @@
- The Single-Vehicle Cyclic Inventory Routing Problem (SV-CIRP) belongs to the class of Inventory Routing Problems (IRP) in which the supplier optimises both the distribution costs and the inventory costs at the customers. The goal of the SV-CIRP is to minimise both kinds of costs and to maximise the collected rewards, by selecting a subset of customers from a given set and determining the quantity to be delivered to each customer and the vehicle routes, while avoiding stockouts. A cyclic distribution plan should be developed for a single vehicle. We present an iterated local search (ILS) metaheuristic that exploits typical characteristics of the problem and opportunities to reduce the computation time. Experimental results on 50 benchmark instances show that our algorithm improves the results of the best available algorithm on average with 16.02%. Furthermore, 32 new best known solutions are obtained. A sensitivity analysis demonstrates that the performance of the algorithm is not influenced by small changes in the parameter settings of the ILS.
-
-@highlight We define and situate the Single-Vehicle Inventory Routing Problem (SV-CIRP).
-@highlight We discuss and exploit some complex characteristics of the SV-CIRP.
-@highlight We design an efficient iterated local search technique for the SV-CIRP.
-@highlight Our approach outperforms the best available algorithm with 16.02% on average.
-@highlight Our approach is significantly faster and 32 new best known solutions are presented.

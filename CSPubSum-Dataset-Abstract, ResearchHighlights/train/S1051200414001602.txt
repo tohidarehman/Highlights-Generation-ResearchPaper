@@ -1,5 +1,0 @@
- This paper presents a cuckoo search algorithm (CSA) based adaptive infinite impulse response (IIR) system identification scheme. The proposed scheme prevents the local minima problem encountered in conventional IIR modeling mechanisms. The performance of the new method has been compared with that obtained by other evolutionary computing algorithms like genetic algorithm (GA) and particle swarm optimization (PSO). The superior system identification capability of the proposed scheme is evident from the results obtained through an exhaustive simulation study.
-
-@highlight Feedback plant identification is formulated as a cuckoo search based optimization problem.
-@highlight Efficiency has been compared against GA and PSO based identification schemes.
-@highlight Simulation study shows enhanced identification accuracy for cuckoo search.

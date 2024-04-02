@@ -1,6 +1,0 @@
- We propose a novel compact surface representation, namely geometry curves, which record the essence of shape geometry and topology. The geometry curves mainly contain two parts: the interior and boundary lines. The interior lines, which correspond to the feature lines, record the geometry information of the 3D shapes; the boundary lines, which correspond to the boundary or fundamental polygons, record the topology information of the 3D shapes. As a vector representation, geometry curves can depict highly complex geometry details. The concept of geometry curves can be utilized in many potential applications, e.g., mesh compression, shape modeling and editing, animation, and level of details. Furthermore, we develop a procedure for automatically constructing geometry curves which obtain an excellent approximation to the original mesh.
-
-@highlight We propose a novel surface representation, called geometry curves.
-@highlight Geometry curves capture the essence of the shape geometry and topology compactly.
-@highlight For the geometry, we extract feature lines of shapes based on the mean curvature.
-@highlight For the topology, we record the fundamental polygons of shapes.

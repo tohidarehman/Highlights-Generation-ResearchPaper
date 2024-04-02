@@ -1,5 +1,0 @@
- This work deals with the continuous time lot-sizing inventory problem when demand and costs are time-dependent. We adapt a cost balancing technique developed for the periodic-review version of our problem to the continuous-review framework. We prove that the solution obtained costs at most twice the cost of an optimal solution. We study the numerical complexity of the algorithm and generalize the policy to several important extensions while preserving its performance guarantee of two. Finally, we propose a modified version of our algorithm for the lot-sizing model with some restricted settings that improves the worst-case bound.
-
-@highlight Continuous-review inventory problem with time-varying parameters.
-@highlight First algorithm with guarantee of performance for this problem.
-@highlight Extensions to backlog situations, deteriorating items, finite production rate and non-linear holding costs.

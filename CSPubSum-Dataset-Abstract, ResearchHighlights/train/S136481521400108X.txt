@@ -1,6 +1,0 @@
- Simulation modelling in ecology is a field that is becoming increasingly compartmentalized. Here we propose a Database Approach To Modelling (DATM) to create unity in dynamical ecosystem modelling with differential equations. In this approach the storage of ecological knowledge is independent of the language and platform in which the model will be run. To create an instance of the model, the information in the database is translated and augmented with the language and platform specifics. This process is automated so that a new instance can be created each time the database is updated. We describe the approach using the simple Lotka–Volterra model and the complex ecosystem model for shallow lakes PCLake, which we automatically implement in the frameworks OSIRIS, GRIND for MATLAB, ACSL, R, DUFLOW and DELWAQ. A clear advantage of working in a database is the overview it provides. The simplicity of the approach only adds to its elegance.
-
-@highlight Scientific and educational experience with the proposed Database Approach To Modelling (DATM) shows the following:
-@highlight It facilitated overview of and insight in the model by developers and users.
-@highlight Allowed for a much more dynamic scientific development of the model.
-@highlight Allowed for a direct implementation of these developments in multiple platforms.

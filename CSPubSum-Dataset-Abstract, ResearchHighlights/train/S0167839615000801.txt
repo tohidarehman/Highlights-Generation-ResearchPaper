@@ -1,6 +1,0 @@
- We describe a construction of LR-spaces whose bases are composed of locally linearly independent B-splines which also form a partition of unity. The construction conforms to given refinement requirements associated to subdomains. In contrast to the original LR-paper  and similarly to the hierarchical B-spline framework  the construction of the mesh is based on a priori choice of a sequence of nested tensor B-spline spaces.
-
-@highlight The paper discusses bivariate LR splines with the non-nested support (N2S) property.
-@highlight Conditions on LR mesh refinement for preserving this property are presented.
-@highlight A hierarchical construction for LR meshes with the N2S property is proposed and analyzed.
-@highlight We prove the completeness of LR splines on the resulting hierarchical meshes.

@@ -1,6 +1,0 @@
- This paper develops primal and dual versions of the dynamic Luenberger productivity growth measures that are based on the dynamic directional distance function and intertemporal cost minimization, respectively. The empirical application focuses on panel data of Dutch dairy farms over the period 1995–2005. Primal dynamic Luenberger productivity growth averages 1.5 percent annually in the period under investigation, with technical change being the main driver of annual change. Dual dynamic Luenberger productivity growth is −0.1 percent in the same period. Improvements in technical inefficiency and technical change are partly counteracted by deteriorations of allocative inefficiency, with large dairy farms presenting a slightly higher productivity growth than small dairy farms.
-
-@highlight Dynamic primal and dual Luenberger productivity indicators are developed.
-@highlight The dynamic indicator accounts for the presence of adjustment costs due to investments in quasi-fixed assets.
-@highlight Primal dynamic Luenberger productivity growth averages 1.6 percent annually for the sample of Dutch dairy farms.
-@highlight Dual dynamic Luenberger productivity declines 0.1 percent annually for the same sample.

@@ -1,6 +1,0 @@
- In projects with a flexible project structure, the activities that must be scheduled are not completely known in advance. Scheduling such projects includes deciding whether to perform particular activities. This decision also affects precedence constraints among the implemented activities. However, established model formulations and solution approaches for the resource-constrained project scheduling problem (RCPSP) assume that the project structure is provided in advance. In this paper, the traditional RCPSP is extended using a highly general model-endogenous decision on this flexible project structure. This extension is illustrated using the example of the aircraft turnaround process at airports. We present a genetic algorithm to solve this type of scheduling problem and evaluate it in an extensive numerical study.
-
-@highlight We present the problem to schedule resource-constrained projects with a flexible project structure.
-@highlight The model for the classical RCPSP is extended to cover the choice on the project structure.
-@highlight We present a genetic algorithm to solve resource-constrained scheduling problems with flexible project structure.
-@highlight In a comprehensive numerical study, the developed algorithm proves to be fast and accurate.

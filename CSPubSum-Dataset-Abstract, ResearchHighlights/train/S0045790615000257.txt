@@ -1,7 +1,0 @@
- The world of home automation is an exciting field that has exploded with new technologies and today is known as an area where “The internet of things” (IoT) vision becomes reality. The primary advantages that stem from this concept include how each device forms a small part of the Internet, by which the advanced system is able to interact and communicate, maximizes safety, security, comfort, convenience and energy-savings. This paper proposes an implementation of Sensor Web node as a part of IoT using a Raspberry Pi – inexpensive, fully customizable and programmable small computer with support for a large number of peripherals and network communication. Using this technology, in an example of monitoring and determining the confidence of fire in building, a full system, based on Sensor Web elements, is created and developed starting from a scratch. The given example confirms the advantage of Raspberry Pi – flexibility and extensive possibility of its usage.
-
-@highlight Implementation of Sensor Web node as a part of Internet of Things using a Raspberry Pi.
-@highlight Ubiquitous solution of Home automation system: appears everywhere and anywhere.
-@highlight Do-It-Yourself approach: user build own solution that meets specific needs.
-@highlight Interdisciplinary approach: electronic, programming, services and soft computing.
-@highlight System for monitoring confidence of fire created and developed starting from a scratch.

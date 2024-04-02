@@ -1,6 +1,0 @@
- In this paper we study two-agent scheduling in a two-machine flowshop. The cost function is the weighted sum of some common regular functions, including the makespan and the total completion time. Specifically, we consider two problems, namely the problem to minimize the weighted sum of both agents’ makespan, and the problem to minimize the weighted sum of one agent’s total completion time and the other agent’s makespan. For the first problem, we give an ordinary NP-hardness proof and a pseudo-polynomial-time algorithm. We also analyze the performance of treating the problem using Johnson’s rule and propose an approximation algorithm based on Johnson’s rule. For the second problem, we propose an approximation algorithm based on linear programming relaxation of the problem. Finally, we show that some simple algorithms can be used to solve special cases of the two problems.
-
-@highlight Address the two-agent flowshop problem to minimize the weighted sum of some criteria.
-@highlight It is shown that the problems under study are intractable.
-@highlight Two approximation algorithms based on Johnsons rule and linear programming.
-@highlight Optimal algorithms for some practical and meaningful special cases.

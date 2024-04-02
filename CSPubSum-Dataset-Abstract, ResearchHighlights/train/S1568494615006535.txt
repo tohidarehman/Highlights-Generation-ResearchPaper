@@ -1,5 +1,0 @@
- To resolve the conflict between our desire for a good smoothing effect and desire to give additional weight to the recent change, a grey accumulating generation operator that can smooth the random interference of data is introduced into the double exponential smoothing method. The results of practical numerical examples have demonstrated that the proposed grey double exponential smoothing method outperforms the traditional double exponential smoothing method in forecasting problems.
-
-@highlight The limit of traditional double exponential smoothing method is discussed.
-@highlight Grey accumulating generation operator is introduced into double exponential smoothing method.
-@highlight The examples demonstrated that GDES performs well in forecasting problems.

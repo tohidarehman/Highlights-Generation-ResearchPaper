@@ -1,7 +1,0 @@
- This paper considers a firm that faces a declining profit stream for its established product. The firm has the option to invest in a new technology with which it can produce an innovative product while having the option to exit at any point in time. In the presence of an exit option, earlier work determined the optimal timing to invest, where it was shown that higher uncertainty might accelerate investment timing. In the present paper the firm also decides on capacity. This extension leads to monotonicity, i.e. higher uncertainty delays investment timing. We also find that higher potential profitability of the innovative product market increases the incentive to invest earlier, where, however, we get the counterintuitive result that the firm invests in smaller capacity. Finally, if quantity has a smaller negative effect on price, the firm wants to acquire a larger capacity at a lower investment threshold.
-
-@highlight We consider a firm facing a declining profit stream for its established product.
-@highlight The firm has the option to either invest in a new technology and/or to exit.
-@highlight Higher potential profitability increases the incentive to invest earlier.
-@highlight Higher potential profitability implies that the firm invests in smaller capacity.
-@highlight Larger capacity investments may lead to investment delay.

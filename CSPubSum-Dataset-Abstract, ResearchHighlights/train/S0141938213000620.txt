@@ -1,6 +1,0 @@
- A main requirement for achieving high efficiency in organic light-emitting diodes (OLEDs) is that all charges and electrically generated excitons should be employed for emission. We fabricated blue phosphorescent OLEDs with four types electron transporting layers, which were doped with lithium quinolate (Liq) from 0% to 10%. A series of blue devices consisted of indium tin oxide (ITO, 180nm)/4,4-bis[N-(naphthyl)-N-phenyl-amino]biphenyl (NPB, 50nm)/N,N′-dicarbazolyl-3,5-benzene (mCP, 10nm)/iridium(III)bis[(4,6-di-fluoropheny)-pyridinato-N,C2] picolinate (FIrpic) doped in mCP (8%, 30nm)/1,3,5-tris(N-phenylbenzimidazole-2-yl)benzene (TPBi, 20nm)/TPBi mixed with Liq (20nm)/Liq (2nm)/aluminum (Al, 100nm). The blue OLED doped with 5% Liq, which demonstrated a maximum luminous efficiency and external quantum efficiency of 17.64cd/A and 8.78%, respectively, were found to be superior to the other blue devices.
-
-@highlight We study on the effect of the Liq in device performances.
-@highlight We use Liq with one of organometallic compound materials.
-@highlight We fabricated an optimal device with double electron transport layer as the Liq concentration increased.
-@highlight We demonstrated efficient carriers’ balance in blue PHOLEDs.

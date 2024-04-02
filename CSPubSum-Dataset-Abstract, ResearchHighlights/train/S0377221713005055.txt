@@ -1,7 +1,0 @@
- We consider a deterministic n-job, single machine scheduling problem with the objective of minimizing the Mean Squared Deviation (MSD) of job completion times about a common due date (d). The MSD measure is non-regular and its value can decrease when one or more completion times increases. MSD problem is connected with the Completion Time Variance (CTV) problem and has been proved to be NP-hard. This problem finds application in situations where uniformity of service is important. We present an exact algorithm of pseudo-polynomial complexity, using ideas from branch and bound and dynamic programming. We propose a dominance rule and also develop a lower bound on MSD. The dominance rule and lower bound are effectively combined and used in the development of the proposed algorithm. The search space is explored using the breadth first branching strategy. The asymptotic space complexity of the algorithm is O(nd). Irrespective of the version of the problem – tightly constrained, constrained or unconstrained – the proposed algorithm provides optimal solutions for problem instances up to 1000 jobs size under different due date settings.
-
-@highlight We present a pseudo-polynomial algorithm for the n-job 1 machine scheduling problem.
-@highlight Mean Squared Deviation of job completion times is considered as the objective.
-@highlight The ideas of Dynamic Programming and Branch and Bound are combined.
-@highlight Breadth first search is adopted in B&B method.
-@highlight Problems up to 1000 jobs size can be solved by this algorithm.

@@ -1,7 +1,0 @@
- The pressure waves propagating through an incompressible inviscid fluid that moves in a circular cylindrical long elastic tube are considered. The reductive perturbation method is used to derive the KdV equation from the hydrodynamic equations of the system. The Euler–Lagrange variational technique described by Agrawal has been applied to formulate the time-fractional KdV equation. The derived time-fractional KdV equation is solved by employing the variational-iteration method represented by He. The effects of the tube and fluid parameters and the time fractional order on the propagation of pressure waves are investigated.
-
-@highlight Incompressible inviscid fluid moves in a circular cylindrical long elastic tube.
-@highlight Reductive perturbation technique is used to derive KdV equation.
-@highlight Time-fractional KdV equation is formulated by applying Euler–Lagrange variational technique.
-@highlight Variational-iteration method is employed to solve the time-fractional KdV equation.
-@highlight Effects of the system parameters on the propagation of pressure waves have been investigated.

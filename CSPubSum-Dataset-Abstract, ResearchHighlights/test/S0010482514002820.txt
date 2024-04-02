@@ -1,7 +1,0 @@
- A shortest path-based algorithm is proposed in this paper to find splitting lines for touching cell nuclei. First, an initial splitting line is obtained through the distance transform of a marker image and the watershed algorithm. The initial splitting line is then separated into different line segments as necessary, and the endpoint positions of these line segments are adjusted to the concave points on the contour. Finally, a shortest path algorithm is used to find the accurate splitting line between the starting-point and the end-point, and the final split can be achieved by the contour of the touching cell nuclei and the splitting lines. Comparisons of experimental results show that the proposed algorithm is effective for segmentation of different types of touching cell nuclei.
-
-@highlight We utilize the ellipse fitting algorithm to obtain the markers of cell nuclei.
-@highlight The splitting line of touching cell nuclei is extracted by EDT.
-@highlight The concave points are adopted to adjust the endpoints of initial splitting line.
-@highlight We calculate the shortest path between the adjusted endpoints to find the accurate splitting line.
-@highlight Our algorithm achieves good experimental results on different types of touching cell nuclei.

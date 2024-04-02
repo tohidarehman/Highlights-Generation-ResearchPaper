@@ -1,7 +1,0 @@
- Mathematical programming has been proposed in the literature as an alternative technique to simulating a special class of Discrete Event Systems. There are several benefits to using mathematical programs for simulation, such as the possibility of performing sensitivity analysis and the ease of better integrating the simulation and optimisation. However, applications are limited by the usually long computational times. This paper proposes a time-based decomposition algorithm that splits the mathematical programming model into a number of submodels that can be solved sequentially to make the mathematical programming approach viable for long running simulations. The number of required submodels is the solution of an optimisation problem that minimises the expected time for solving all of the submodels. In this way, the solution time becomes a linear function of the number of simulated entities.
-
-@highlight We propose a procedure for simulation with mathematical programming.
-@highlight The method decomposes a mathematical model into smaller submodels easier to solve.
-@highlight The decomposed submodels refer to subsets of consecutive simulated entities.
-@highlight The simulation time with the proposed method is linear in the number of entities.
-@highlight The method has been validated on a large set of different cases.

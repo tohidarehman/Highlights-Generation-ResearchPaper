@@ -1,6 +1,0 @@
- We address a generalization of the asymmetric Traveling Salesman Problem where routes have to be constructed to satisfy customer requests, which either involve the pickup or delivery of a single commodity. A vehicle is to be routed such that the demand and the supply of the customers is satisfied under the objective to minimize the total distance traveled. The commodities which are collected from the pickup customers can be used to accommodate the demand of the delivery customers. In this paper, we present three mathematical formulations for this problem class and apply branch-and-cut algorithms to optimally solve the model formulations. For two of the models we derive Benders cuts based on the classical and the generalized Benders decomposition. Finally, we analyze the different mathematical formulations and associated solution approaches on well-known data sets from the literature.
-
-@highlight A pickup and delivery TSP model in intermodal container transportation.
-@highlight An integer nonlinear programming model.
-@highlight A generalized Benders decomposition method.
-@highlight A linearization by the classical Benders approach.

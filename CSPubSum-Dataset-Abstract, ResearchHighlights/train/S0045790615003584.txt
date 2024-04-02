@@ -1,7 +1,0 @@
- We consider turbo coded multi-carrier double space–time transmit diversity (DSTTD) system that employs orthogonal frequency division multiplexing (OFDM) for the transmission of acoustic signals in underwater communication, where acoustic interference and ambient noise are the major channel deficiencies. DSTTD employs two space–time block codes at the transmitter. At each receiver, we implement space–time Block-Nulling detection technique to increase throughput. We consider the iterative decoding algorithm at the receiver to alleviate the effects of ambient noise and acoustic interference. Further, we implement multi-carrier modulation technique to mitigate the effects of multipath propagation. We investigate the effects of eleven tap delay pertaining to shallow water channel model for the DSTTD-OFDM system. Our simulation results reveal that our considered system with Block-Nulling technique provides better bit error rates for lower signal-to-noise ratio when compared to a minimum mean square error detector-based system. Further, it achieves higher throughput with fewer computations at the receivers.
-
-@highlight We consider DSTTD-OFDM system for underwater communication.
-@highlight Non-linear multi-user detection based on Block-Nulling increases throughput.
-@highlight Transmitter uses turbo code as an encoder and the receiver decodes iteratively.
-@highlight Multi-carrier modulation mitigates the effects of multipath propagation.
-@highlight This system provides better bit error rates performance with lower signal-to-noise ratio.

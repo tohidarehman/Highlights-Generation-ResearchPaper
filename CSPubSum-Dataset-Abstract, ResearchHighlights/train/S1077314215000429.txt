@@ -1,5 +1,0 @@
- Optical flow estimation is one of the oldest and still most active research domains in computer vision. In 35years, many methodological concepts have been introduced and have progressively improved performances, while opening the way to new challenges. In the last decade, the growing interest in evaluation benchmarks has stimulated a great amount of work. In this paper, we propose a survey of optical flow estimation classifying the main principles elaborated during this evolution, with a particular concern given to recent developments. It is conceived as a tutorial organizing in a comprehensive framework current approaches and practices. We give insights on the motivations, interests and limitations of modeling and optimization techniques, and we highlight similarities between methods to allow for a clear understanding of their behavior.
-
-@highlight We propose a survey of optical flow estimation focusing on recent developments.
-@highlight We adopt a classification approach organizing methods in a comprehensive framework.
-@highlight The paper is conceived as a tutorial introducing and explaining the main concepts.

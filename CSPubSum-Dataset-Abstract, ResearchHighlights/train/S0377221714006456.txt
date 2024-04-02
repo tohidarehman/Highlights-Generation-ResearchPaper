@@ -1,7 +1,0 @@
- This paper presents a cyclical square-root model for the term structure of interest rates assuming that the spot rate converges to a certain time-dependent long-term level. This model incorporates the fact that the interest rate volatility depends on the interest rate level and specifies the mean reversion level and the interest rate volatility using harmonic oscillators. In this way, we incorporate a good deal of flexibility and provide a high analytical tractability. Under these assumptions, we compute closed-form expressions for the values of different fixed income and interest rate derivatives. Finally, we analyze the empirical performance of the cyclical model versus that proposed in Cox et al.  and show that it outperforms this benchmark, providing a better fitting to market data.
-
-@highlight We propose a cyclical square-root continuous-time model for the term structure of interest rates.
-@highlight This model assumes that interest rates converge to a certain time-dependent long-term level.
-@highlight Mean reversion level and interest rate volatility are driven by harmonic oscillators.
-@highlight We compute closed-form expressions for values of different fixed income derivatives.
-@highlight We incorporate a good deal of flexibility and a better empirical performance than the Cox et al. (1985) model.

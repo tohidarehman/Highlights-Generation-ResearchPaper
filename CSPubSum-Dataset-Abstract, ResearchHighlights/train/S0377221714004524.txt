@@ -1,6 +1,0 @@
- Line-integrated supermarkets constitute a novel in-house parts logistics concept for feeding mixed-model assembly lines. In this context, supermarkets are decentralized logistics areas located directly in each station. Here, parts are withdrawn from their containers by a dedicated logistics worker and sorted just-in-sequence (JIS) into a JIS-bin. From this bin, assembly workers fetch the parts required by the current workpiece and mount them during the respective production cycle. This paper treats the scheduling of the part supply processes within line-integrated supermarkets. The scheduling problem for refilling the JIS-bins is formalized and a complexity analysis is provided. Furthermore, a heuristic decomposition approach is presented and important managerial aspects are investigated.
-
-@highlight The novel part logistics concept of line-integrated supermarkets in order to supply assembly lines is introduced.
-@highlight For this concept, the novel problem of scheduling the part supply of logistics workers is formalized.
-@highlight We introduce efficient solution procedures for solving this problem.
-@highlight Important managerial aspects, e.g., the impact of the heijunka-principle, are investigated in our computational study.

@@ -1,6 +1,0 @@
- Online Social Networks (OSNs) constitute vital communication and information sharing channels. Unfortunately, existing coarse-grained privacy preferences insufficiently protect the shared information. Although cryptographic techniques provide interesting mechanisms to protect privacy, several issues remain problematic, such as, OSN provider acceptance, user adoption, key management and usability. To mitigate these problems, we propose a practical solution that uses Identity-Based Encryption to simplify key management and enforce data confidentiality. Moreover, we devise an Identity-Based outsider anonymous private sharing scheme to disseminate information among multiple users. Furthermore, we demonstrate the viability and tolerable overhead of our solution via an open-source prototype.
-
-@highlight Novel practical solution using Identity based Encryption with multiple untrusted Key Servers (PKGs) to be used on top of current Online Social Networks (OSNs) to protect privacy as con
-@highlight dentiality of the content.
-@highlight An outsider anonymous Identity Based broadcast encryption protocol with a multi-PKG model to support multiple recipients.
-@highlight A prototype implementation as Firefox extension requiring a relatively small overhead.

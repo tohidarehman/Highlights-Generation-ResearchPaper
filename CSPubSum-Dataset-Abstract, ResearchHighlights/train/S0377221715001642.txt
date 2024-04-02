@@ -1,7 +1,0 @@
- The Steiner Travelling Salesman Problem (STSP) is a variant of the TSP that is suitable for instances defined on road networks. We consider an extension of the STSP in which the road traversal costs are both stochastic and correlated. This happens, for example, when vehicles are prone to delays due to rush hours, road works or accidents. Following the work of Markowitz on portfolio selection, we model this problem as a bi-objective mean-variance problem. Then, we show how to approximate the efficient frontier via integer programming. We also show how to exploit certain special structures in the correlation matrices. Computational results indicate that our approach is viable for instances with up to 100 nodes. It turns out that minimum variance tours can look rather different from minimum expected cost tours.
-
-@highlight The Steiner TSP is a variant of the TSP suitable for road networks.
-@highlight We consider an extension with stochastic and correlated costs.
-@highlight This is modelled as a mean-variance optimisation problem.
-@highlight We show how to approximate the efficient frontier via integer programming.
-@highlight Instances with up to 100 nodes can be solved in reasonable times.

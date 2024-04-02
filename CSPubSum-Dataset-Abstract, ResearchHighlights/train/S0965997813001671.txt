@@ -1,7 +1,0 @@
- This paper presents an integrated approach for aerodynamic blade design in an MDO (multidisciplinary design optimization) environment. First, requisite software packages and data sources for flow computations and airfoil modeling are integrated into a single cybernetic environment, which significantly enhances their interoperability. Subsequently, the aerodynamic blade design is implemented in a quasi-3D way, supported by sophisticated means of project management, task decomposition and allotment, process definition and coordination. Major tasks of aerodynamic blade design include 1D meanline analysis, streamsurface computations, generation of 2D sections, approximation of 3D airfoils, and 3D flow analysis. After compendiously depicting all the major design/analysis tasks, this paper emphatically addresses techniques for blade geometric modeling and flow analysis in more detail, with exemplar application illustrations.
-
-@highlight Aerodynamic blade design is supported by application and Information integration.
-@highlight Coordination of engineering processes is enabled by project and workflow management.
-@highlight Blade airfoils are presented by tailored geometric modeling techniques.
-@highlight 3D flow analysis is conducted to assess blade’s aerodynamic performance.
-@highlight Design integration, collaboration and optimization are addressed in parallel.

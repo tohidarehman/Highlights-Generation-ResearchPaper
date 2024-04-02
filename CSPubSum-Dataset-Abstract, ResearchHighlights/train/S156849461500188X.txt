@@ -1,8 +1,0 @@
- In this study, a dynamic screening strategy is proposed to discriminate subjects with autistic spectrum disorder (ASD) from healthy controls. The ASD is defined as a neurodevelopmental disorder that disrupts normal patterns of connectivity between the brain regions. Therefore, the potential use of such abnormality for autism screening is investigated. The connectivity patterns are estimated from electroencephalogram (EEG) data collected from 8 brain regions under various mental states. The EEG data of 12 healthy controls and 6 autistic children (age matched in 7–10) were collected during eyes-open and eyes-close resting states as well as when subjects were exposed to affective faces (happy, sad and calm). Subsequently, the subjects were classified as autistic or healthy groups based on their brain connectivity patterns using pattern recognition techniques. Performance of the proposed system in each mental state is separately evaluated. The results present higher recognition rates using functional connectivity features when compared against other existing feature extraction methods.
-
-@highlight A dynamic strategy for screening of ASD is proposed based on patterns of information flow between 8 brain regions.
-@highlight The EEG data is collected from 12 healthy and 6 autistic children in the age of 7 to10 years old.
-@highlight The subjects are then classified as autistic or healthy based on the connectivity features.
-@highlight The connectivity features are also compared with other established methods.
-@highlight The promising recognition rates of ≥93% were achieved in this study.
-@highlight This study shows that patterns of functional and effective connectivity in ASD subjects are different from healthy subjects.

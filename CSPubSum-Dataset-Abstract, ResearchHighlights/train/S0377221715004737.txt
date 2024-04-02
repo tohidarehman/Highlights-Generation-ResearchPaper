@@ -1,7 +1,0 @@
- In the context of Justus von Liebig's Law of the Minimum, this study assesses the impacts that trade barriers have on trade resistance between United States (U.S.) manufacturing industries and their trade partners. An undesirable trade resistance model is presented, where trade barriers are (undesirable) inputs into the production of the (undesirable) output, trade resistance. It is then presented how Johansen's notion of Capacity is utilized to assess trade barriers’ impacts. Estimation takes place by employing Data Envelopment Analysis (DEA). Results suggest that U.S. trade partners’ port logistics are the most limiting trade barrier for the U.S. manufacturing industries, followed by the distance between the U.S. and its trade partners, the tariff imposed by the U.S., and the tariff imposed by the trading partner.
-
-@highlight Unique application of Data Envelopment Analysis to International Trade.
-@highlight Trade resistance and trade barriers modeled as an undesirable production process.
-@highlight Trade barriers ranked via Data Envelopment Analysis.
-@highlight Results suggest Port Logistics, then Distance, as the most limiting trade barriers.
-@highlight Results suggest Tariffs as the least limiting trade barriers.

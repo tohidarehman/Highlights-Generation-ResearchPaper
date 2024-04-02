@@ -1,5 +1,0 @@
- In this paper, a hybrid particle swarm optimization with crossover operator (denoted as C-PSO) is proposed, in which a crossover operator is adopted for enhancing the information exchange between particles to prevent premature convergence of the swarm. The C-PSO algorithm is employed for solving high dimensional bilevel multiobjective programming problem (HDBLMPP) in this study, which performs better than the existing method with respect to the generational distance and has almost the same performance with respect to the spacing. Finally, we use four test problems and a practical application to measure and evaluate the proposed algorithm. Our results indicate that the proposed algorithm is highly competitive with respect to the algorithm representative of the state-of-the-art in high dimensional bilevel multiobjective optimization.
-
-@highlight A crossover operator can enhance the information exchange between particles.
-@highlight The algorithm directly simulates the decision process of bilevel programming.
-@highlight The proposed algorithm is a feasible and efficient algorithm for solving HDBLMPPs.

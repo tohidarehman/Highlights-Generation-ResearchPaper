@@ -1,6 +1,0 @@
- This paper investigates the contributions of digital infrastructure policies of provincial governments in Canada to the development of broadband networks. Using measurements of broadband network speeds between 2007 and 2011, the paper analyzes potential causes for observed differences in network performance growth across the provinces, including geography, Internet use intensity, platform competition, and provincial broadband policies. The analysis suggests provincial policies that employed public sector procurement power to open access to essential facilities and channeled public investments in Internet backbone infrastructure were associated with the emergence of relatively high quality broadband networks. However, a weak essential facilities regime and regulatory barriers to entry at the national level limit the scope for decentralized policy solutions.
-
-@highlight The impact of multilevel broadband policies on network development in Canada.
-@highlight Analyzes variations in the levels and patterns of network performance growth.
-@highlight Federal regulations limited the scope for policy decentralization.
-@highlight Higher rate of progress in provinces that promoted access to essential facilities.

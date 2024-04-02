@@ -1,7 +1,0 @@
- Spare parts are known to be associated with intermittent demand patterns and such patterns cause considerable problems with regards to forecasting and stock control due to their compound nature that renders the normality assumption invalid. Compound distributions have been used to model intermittent demand patterns; there is however a lack of theoretical analysis and little relevant empirical evidence in support of these distributions. In this paper, we conduct a detailed empirical investigation on the goodness of fit of various compound Poisson distributions and we develop a distribution-based demand classification scheme the validity of which is also assessed in empirical terms. Our empirical investigation provides evidence in support of certain demand distributions and the work described in this paper should facilitate the task of selecting such distributions in a real world spare parts inventory context. An extensive discussion on parameter estimation related difficulties in this area is also provided.
-
-@highlight We investigate the issue of demand classification for spare parts inventories.
-@highlight We empirically assess the goodness-of-fit of various compound Poisson distributions.
-@highlight We identify a number of challenges involved in the estimation of the parameters.
-@highlight A proposed classification based on distributional patterns is empirically evaluated.
-@highlight We propose a set of criteria for use in selecting distributions for modeling demand.

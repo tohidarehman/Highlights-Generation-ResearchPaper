@@ -1,7 +1,0 @@
- This paper is concerned with an algorithmic solution to the split common fixed point problem in Hilbert spaces. Our method can be regarded as a variant of the “viscosity approximation method”. Under very classical assumptions, we establish a strong convergence theorem with regard to involved operators belonging to the wide class of quasi-nonexpansive operators. In contrast with other related processes, our algorithm does not require any estimate of some spectral radius. The technique of analysis developed in this work is new and can be applied to many other fixed point iterations. Numerical experiments are also performed with regard to an inverse heat problem.
-
-@highlight A new algorithm is proposed for solving the split common fixed point problem.
-@highlight A strong convergence theorem is established for quasi-nonexpansive mappings.
-@highlight Our result does not require the knowledge of some spectral radius.
-@highlight An application is given relatively to the split feasibility problem.
-@highlight Numerical experiments are performed relative to an inverse heat problem.

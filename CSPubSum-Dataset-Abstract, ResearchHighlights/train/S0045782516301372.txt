@@ -1,7 +1,0 @@
- This paper presents a novel topology optimization method for designing structures with multiphase embedded components under minimum distance constraints in the level set framework. By using the level set representation for both the component layout and the host structure topology, the shapes of the components can be easily preserved, and optimal structural topologies with smooth boundary/material interface can be obtained. With the purpose of preventing the components moving too close to each other, a minimum distance constraint based on virtual boundary offset is proposed. Different from existing distance detection methods relying on explicit topology representation, the proposed constraint is imposed as a unified integral form, for which the design sensitivity can be readily obtained. Moreover, this constraint is effective for detecting the distance between any complex-shaped components. Several numerical examples are presented to demonstrate the validity and effectiveness of the proposed method.
-
-@highlight We present topology optimization with distance control of embedded components.
-@highlight Both structural topology and multi-component layout are represented by level set.
-@highlight Specified geometries of component can be well preserved thanks to level set model.
-@highlight A unified level set-based distance constraint for arbitrary components is proposed.
-@highlight Explicit integral form of the distance constraint facilitates sensitivity analysis.

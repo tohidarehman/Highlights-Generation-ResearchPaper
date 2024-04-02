@@ -1,6 +1,0 @@
- With the increasing availability of genomic sequence data, numerous methods have been proposed for finding DNA motifs. The discovery of DNA motifs serves a critical step in many biological applications. However, the privacy implication of DNA analysis is normally neglected in the existing methods. In this work, we propose a private DNA motif finding algorithm in which a DNA owner’s privacy is protected by a rigorous privacy model, known as -differential privacy. It provides provable privacy guarantees that are independent of adversaries’ background knowledge. Our algorithm makes use of the -gram model and is optimized for processing large-scale DNA sequences. We evaluate the performance of our algorithm over real-life genomic data and demonstrate the promise of integrating privacy into DNA motif finding.
-
-@highlight We propose the first solution to differentially private DNA motif finding.
-@highlight Our solution is based on the n-gram model and is optimized for DNA motif finding.
-@highlight We provide a theoretical utility analysis of our solution.
-@highlight We experimentally show the promise of integrating privacy into DNA motif finding.

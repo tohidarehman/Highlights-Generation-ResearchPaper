@@ -1,6 +1,0 @@
- The phase behaviors of a blue-phase (BP) liquid crystal in a planar-aligned cell were investigated by means of temperature-dependent dielectric spectroscopy. With auxiliary observations of optical transmission spectra and birefringent textures, we found that the transition temperatures of two adjacent mesophases, including the cholesteric-to-BPI, the BPI-to-BPII, and the BPII-to-isotropic, can clearly be distinguished by the first and second derivatives of the real-part dielectric permittivity function to the temperature at a specific frequency. Furthermore, an attempt to evaluate the device performance of a polymer-stabilized BP, derived from the photopolymerization of two monomers (RM257 and TMPTA), was achieved with a new circuital design for the voltage-holding-ratio (VHR) measurement. Preliminary results of the VHRs of samples at 180Hz and their temperature dependence were obtained accordingly.
-
-@highlight Phase behaviors of BP are studied by temperature-dependent dielectric spectroscopy.
-@highlight Phase transition temperatures are identified with derivatives of the permittivity.
-@highlight A circuit design with 30-V data-line voltage is proposed to evaluate VHR of a PSBP.
-@highlight The VHR of a PSBP cell is primarily determined by the nematic host used.

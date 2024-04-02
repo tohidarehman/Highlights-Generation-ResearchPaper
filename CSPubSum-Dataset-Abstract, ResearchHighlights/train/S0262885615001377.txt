@@ -1,7 +1,0 @@
- A trustworthy protocol is essential to evaluate a text detection algorithm in order to, first measure its efficiency and adjust its parameters and, second to compare its performances with those of other algorithms. However, current protocols do not give precise enough evaluations because they use coarse evaluation metrics, and deal with inconsistent matchings between the output of detection algorithms and the ground truth, both often limited to rectangular shapes. In this paper, we propose a new evaluation protocol, named EvaLTex, that solves some of the current problems associated with classical metrics and matching strategies. Our system deals with different kinds of annotations and detection shapes. It also considers different kinds of granularity between detections and ground truth objects and hence provides more realistic and accurate evaluation measures. We use this protocol to evaluate text detection algorithms and highlight some key examples that show that the provided scores are more relevant than those of currently used evaluation protocols.
-
-@highlight We propose a two-level annotation evaluation protocol for text detection algorithms.
-@highlight Algorithms with different granularity outputs are equitably compared.
-@highlight All matching strategies between the ground truth and the detections are handled.
-@highlight Quantity and quality scores are given to describe a detector's behavior.
-@highlight The protocol can manage any irregular text representation.

@@ -1,6 +1,0 @@
- Pathway-based analysis approaches provide additional insights into the pathogenesis of complex diseases. Copy number variations (CNVs) play an important role in gene expression regulation. Joint pathway analysis of CNVs and gene expression data should provide more useful information for revealing the molecular mechanism of complex diseases. To implement trans-omics pathway analysis of genome-wide CNVs and mRNA expression profiles data, we extended the gene set enrichment analysis algorithm and developed a flexible trans-omics pathway analysis tool CPAS. CPAS was developed by C to interface with R for efficient data analysis. CNV-gene and pathway-gene annotation files derived from public database were included in CPAS. We hope that CPAS could help to identify disease-relevant biological pathways that were undetectable using traditional single-omic analysis approaches.
-
-@highlight We extended GSEA algorithm to trans-omics pathway analysis of CNVs and mRNA data.
-@highlight We developed a flexible trans-omics pathway analysis tool CPAS.
-@highlight CPAS can identify disease pathways that are undetectable by single-omic approaches.
-@highlight Real data analysis illustrate the performance of CPAS for detecting disease pathway.

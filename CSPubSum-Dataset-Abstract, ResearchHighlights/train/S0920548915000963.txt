@@ -1,6 +1,0 @@
- We adress in this paper the security issues that arise when outsourcing business processes in the BPaaS (Business Process as a Service). In particular when sharing and reusing process fragments coming from different organizations for faster and easier development of process-based applications (PBA). The goal is twofold, to preserve the process fragment provenance, i.e., the companies's business activities which provide the reused fragments in order to avoid the competition, and to guarantee the end-to-end availability of PBA to fragment's consumers. We formally define the problem, and offer an efficient anonymization-based protocol. Experiments have been conducted to show the effectiveness of the proposed solution.
-
-@highlight We address the security issues that arise when outsourcing business processes in the cloud as BPaaS (Business Process as a Service).
-@highlight We formally define the concept of sharing and reusing process fragments for faster and easier development of process-based applications.
-@highlight We provide an efficient anonymization-based protocol to preserve the process fragment provenance, and to guarantee the end-to-end availability of process-based applications.
-@highlight We evaluate the performance of the proposed approach on real datasets.

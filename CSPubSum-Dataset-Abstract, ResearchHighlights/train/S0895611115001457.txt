@@ -1,7 +1,0 @@
- Several transrectal ultrasound (TRUS)-based techniques aiming at accurate localization of prostate cancer are emerging to improve diagnostics or to assist with focal therapy. However, precise validation prior to introduction into clinical practice is required. Histopathology after radical prostatectomy provides an excellent ground truth, but needs accurate registration with imaging. In this work, a 3D, surface-based, elastic registration method was developed to fuse TRUS images with histopathologic results. To maximize the applicability in clinical practice, no auxiliary sensors or dedicated hardware were used for the registration. The mean registration errors, measured in vitro and in vivo, were 1.5±0.2 and 2.1±0.5mm, respectively.
-
-@highlight We developed a 3D, surface-based, elastic registration algorithm for histology and TRUS imaging.
-@highlight To maximize clinical applicability, no auxiliary sensors or dedicated tools were used.
-@highlight Several registration techniques were tested during different steps of the algorithm.
-@highlight The algorithm was validated in vitro in two gelatin phantoms and in vivo in 7 patients.
-@highlight The resulting target registration errors were 1.5±0.2 and 2.1±0.5mm, respectively.

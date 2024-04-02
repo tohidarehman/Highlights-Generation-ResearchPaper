@@ -1,6 +1,0 @@
- Robust Portfolio Modeling (RPM) supports multi-attribute project portfolio selection with uncertain project scores and decision maker preferences. By determining non-dominated portfolios for all possible realizations of uncertain parameters, decision recommendations produced by RPM may prove too conservative for real-life decision problems. We develop a methodology to reduce the set of possible realizations by limiting the number of project scores that may simultaneously deviate from their most likely value. By adjusting this limit, decision makers can choose desired levels of conservatism. Our approach also allows to capture dependencies among project scores as well as uncertainty in portfolio constraints.
-
-@highlight We consider a linear-additive portfolio value function with uncertain parameters.
-@highlight Our approach identifies robust portfolios with adjustable level of conservatism.
-@highlight Our approach accounts for dependencies among project scores and uncertainty in portfolio constraints.
-@highlight We apply our approach to supply chain management in the semiconductor industry.

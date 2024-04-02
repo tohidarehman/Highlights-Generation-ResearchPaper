@@ -1,5 +1,0 @@
- This paper proposes a novel method for shape design of a Bézier surface with given boundary curves. The surface is defined as the minimizer of an extended membrane functional or an extended thin plate functional under the guidance of a specified normal field together with an initial prescribed surface. For given boundary curves and the guiding normal field, the free coefficients of a Bézier surface are obtained by solving a linear system. Unlike previous PDE based surface modeling techniques which construct surfaces just from boundaries, our proposed method can be used to generate smooth and fair surfaces that even follow a specified normal field. Several interesting examples are given to demonstrate the applications of the proposed method in geometric modeling.
-
-@highlight Two extended energy functionals are proposed for variational surface modeling.
-@highlight The guiding normal field can be used to control the shapes of the variational surfaces efficiently.
-@highlight The proposed technique can be used for various modeling purposes like editing, hole filling or transition surface design.

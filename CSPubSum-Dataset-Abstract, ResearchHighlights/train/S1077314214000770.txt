@@ -1,7 +1,0 @@
- The segmentation of objects has been an area of interest in numerous fields. The use of texture has been explored to improve convergence in the presence of cluttered backgrounds or objects with distinct textures, where intensity variations are insufficient. Additionally, saliency and feature maps have been applied for contour initialization. However, taking advantage of texture to improve initialization and convergence has not been extensively explored. To address this, we propose a hybrid structural and texture distinctiveness vector field convolution (STVFC) approach, where both the structural characteristics and the concept of texture distinctiveness are incorporated into a multi-functional vector field convolution (VFC) model. In this novel approach, texture distinctiveness is used to enable automatic initialization and is incorporated with intensity variation to improve and accelerate convergence towards the object boundary. Experiments using three datasets, containing natural images and Brodatz textures, demonstrated that STVFC achieved better or comparable segmentation accuracy.
-
-@highlight A hybrid structural and texture distinctiveness active contour method is proposed.
-@highlight We combine texture distinctiveness and intensity variation into multifunctional VFC.
-@highlight We used texture distinctiveness to enable automatic active contour initialization.
-@highlight Our approach improves and accelerates convergence.
-@highlight Experiments using 3 datasets showed better or comparable segmentation accuracy.

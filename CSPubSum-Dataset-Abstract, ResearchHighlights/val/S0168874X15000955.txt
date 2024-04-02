@@ -1,7 +1,0 @@
- In this paper, the electrical–structural modeling and control electronics of spinning smart beams with distributed piezoelectric sensor and actuator layers are considered. The governing equations of beams with asymmetric cross sections have been formulated incorporating the warping effect and the influence of spinning. For the purpose of verification of the model established, numerical results are compared with those given in relevant literature. Effects of spinning on natural frequencies and mode shapes are investigated for the boom in solar array of Hubble Space Telescope. In order to control the vibration of the spinning beam whose natural characteristics are changed with respect to spinning velocity, the positive position feedback (PPF) compensator is applied. Numerical results showed that the PPF approach is effective in vibration suppression of spinning smart beams.
-
-@highlight Spinning beams with asymmetric cross sections are formulated.
-@highlight Smart materials are considered in the formulation of the system.
-@highlight Transverse deflections in two orthogonal directions are coupled.
-@highlight Amplitude of the speed has obvious influence on the coupling coefficient.
-@highlight The PPF is applied to control of the beam with changed frequency.

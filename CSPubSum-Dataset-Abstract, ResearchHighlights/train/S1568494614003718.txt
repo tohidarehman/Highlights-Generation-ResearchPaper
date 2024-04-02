@@ -1,6 +1,0 @@
- In this paper, optimal control for stochastic linear quadratic singular neuro Takagi–Sugeno (T-S) fuzzy system with singular cost is obtained using genetic programming(GP). To obtain the optimal control, the solution of matrix Riccati differential equation (MRDE) is computed by solving differential algebraic equation (DAE) using a novel and nontraditional GP approach. The obtained solution in this method is equivalent or very close to the exact solution of the problem. Accuracy of the solution computed by GP approach to the problem is qualitatively better. The solution of this novel method is compared with the traditional Runge–Kutta (RK) method. A numerical example is presented to illustrate the proposed method.
-
-@highlight Takagi-Sugeno fuzzy model.
-@highlight Neuro-fuzzy system.
-@highlight Nontraditional genetic programming approach.
-@highlight Optimal control for Stochastic linear singular Takagi–Sugeno fuzzy singular system.

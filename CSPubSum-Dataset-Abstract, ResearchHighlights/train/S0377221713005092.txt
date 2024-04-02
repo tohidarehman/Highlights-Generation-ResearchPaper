@@ -1,7 +1,0 @@
- This paper proposes an integer linear programming formulation for a simultaneous lot sizing and scheduling problem in a job shop environment. Among others, one of our realistic assumptions is dealing with flexible machines which enable the production manager to change their working speeds. Then, a number of valid inequalities are developed based on problem structures. As the valid inequalities can help in reducing the non-optimal parts of the solution space, they are dealt with as some cutting planes. The proposed cutting planes are used to solve the problem in (i) cut-and-branch, and (ii) branch-and-cut approaches. The performance of each cutting plane is investigated with CPLEX 12.2 on a set of randomly-generated test data. Then, some performance criteria are identified and the proposed cutting planes are ranked by TOPSIS method.
-
-@highlight Simultaneous lot sizing and scheduling problem is formulated in a job shop.
-@highlight Machines are flexible to change their working speeds.
-@highlight Some valid inequalities are developed based on problem structures.
-@highlight The cuts are used in cut-and-branch and branch-and-cut approaches on a set of test data.
-@highlight The cuts are ranked by TOPSIS method by defining a set of performance indexes.

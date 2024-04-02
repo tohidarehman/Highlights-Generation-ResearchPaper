@@ -1,7 +1,0 @@
- A precursor question to increase the capacity of an airspace is to determine the minimum distance separation required to make this airspace safe. A methodology to answer this question is proposed in this paper. The methodology takes sector volume, number of crossings and crossing angles of routes, and the number of aircraft as input, and generate air traffic scenarios which satisfy the input values. A stochastic multi-objective optimization algorithm is then used to optimize separation values. The algorithm outputs the set of non-dominated solutions representing the trade-off between separation values and the best attainable target level of safety. The results show that the proposed methodology is successful in determining the minimum distance separation values required to make an air traffic scenario safe from a collision risk perspective, and in illustrating how minimum separation values are affected by different sector/traffic characteristics.
-
-@highlight We propose a methodology to determine minimum distance separation for safe airspace.
-@highlight Algorithms for sector/traffic design and applying separation values are proposed.
-@highlight Multiobjective optimization is used to find the minimum separation values.
-@highlight We show the trade-off between separation values and aircraft pairs violating safety.
-@highlight We illustrate how sector/traffic properties affect the minimum separation values.

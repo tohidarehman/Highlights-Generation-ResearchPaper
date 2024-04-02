@@ -1,5 +1,0 @@
- In 2014, Wang et al.  to incorporate the credit period dependent demand and default risk for deteriorating items with maximum lifetime. However, the rates of demand, default risk and deterioration in the model of Wang et al.  are assumed to be specific functions of credit period which limits the contributions. In this note, we first generalize the theoretical results of Wang et al.  under some certain conditions. Furthermore, we also present some structural results instead of a numerical analysis on variation of optimal replenishment and trade credit strategies with respect to key parameters.
-
-@highlight This paper generalizes Wang et al. (2014) under some mild conditions.
-@highlight Both optimal trade credit and cycle time not only exist but also are unique.
-@highlight Sensitivity analysis as regards key parameters is performed in rigorous discussions.

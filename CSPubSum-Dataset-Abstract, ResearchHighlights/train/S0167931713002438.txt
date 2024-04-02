@@ -1,5 +1,0 @@
- Using ab initio calculations we demonstrate that extra electrons in pure amorphous SiO2 can be trapped in deep band gap states. Classical potentials were used to generate amorphous silica models and density functional theory to characterise the geometrical and electronic structures of trapped electrons. Extra electrons can trap spontaneously on pre-existing structural precursors in amorphous SiO2 and produce 3.2eV deep states in the band gap. These precursors comprise wide ( 130 ) O–Si–O angles and elongated Si–O bonds at the tails of corresponding distributions. The electron trapping in amorphous silica structure results in an opening of the O–Si–O angle (up to almost 180 ). We estimate the concentration of these electron trapping sites to be 10 19 cm
-
-@highlight Wide O–Si–O angles in bulk amorphous silica are shown to trap electrons.
-@highlight Trapped electron levels appear 3.2eV below the bottom of the silica conduction band.
-@highlight Estimated concentration of electron trapping sites is 5×1019.

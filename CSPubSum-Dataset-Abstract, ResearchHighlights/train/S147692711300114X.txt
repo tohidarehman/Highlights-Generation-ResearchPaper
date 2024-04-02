@@ -1,5 +1,0 @@
- Cse1p and Xpot are two karyopherin proteins that transport the corresponding cargos during the nucleocytoplasmic transport. We utilized Elastic Network Model (ENM) and Finite Element Analysis (FEA) to study their conformational dynamics. These dynamics were interpreted by their intrinsic modes that played key roles in the flexibility of karyopherins, which further affected the binding affinities. The findings included that it was the karyopherin's versatile conformations composed of the same superhelices of HEAT repeats that produced different degrees of functional flexibilities. We presented evidence that these coarse-grained methods could help to elucidate the biological function behind the structures of the two karyopherins.
-
-@highlight The intrinsic dynamics of exportins were inherent from their cargo-bound and cargo-free conformations.
-@highlight Dominant modes were found to be relevant to the functional flexibilities and the binding affinities.
-@highlight ENM and FEA were complementary methods to study conformational dynamics of proteins.

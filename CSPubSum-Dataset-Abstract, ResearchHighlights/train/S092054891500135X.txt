@@ -1,6 +1,0 @@
- Controller Area Network (CAN) is very popular in networked embedded systems. On the other hand, intranets are now ubiquitous in office, home, and factory environments. Namely, the Internet Protocol (IP) is the glue that permits any kind of information to be exchanged between devices in heterogeneous systems. In this paper, a network architecture to seamlessly integrate CAN busses in intranets is described. Flexibility and scalability were the key design requirements to conceive a comprehensive solution that suits both inexpensive and very complex applications. A prototype implementation has been tested to confirm architecture feasibility and assess the performance it can achieve.
-
-@highlight An architecture to integrate Controller Area Network (CAN) in intranets is proposed.
-@highlight Key design requirements were flexibility and scalability.
-@highlight The proposed architecture suits both inexpensive and very complex applications.
-@highlight A prototype implementation has been tested to assess feasibility and performance.

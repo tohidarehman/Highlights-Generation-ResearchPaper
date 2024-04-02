@@ -1,7 +1,0 @@
- In the field of Context-Aware Recommendation Systems (CARS), only static contextual information is usually considered. However, the dynamic contextual information would very helpful in mobile computing scenarios. Despite this interest, the design and implementation of flexible and generic frameworks to support an easy development of context-aware mobile recommendation systems have been relatively unexplored. In this paper, we describe a framework that facilitates the development of CARS for mobile environments. We mainly focus on the development of the elements needed to support pull-based recommendations and the experimental evaluation of the proposed system.
-
-@highlight We have designed a framework to support mobile context-aware recommendations.
-@highlight We have described in detail the pull-based recommendation module.
-@highlight We have performed an extensive study of the state of the art.
-@highlight We have performed an experimental evaluation that compares different paradigms.
-@highlight The proposed architecture is generic, extensible, and adaptable to the requirements.

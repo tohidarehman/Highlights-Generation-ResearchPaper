@@ -1,7 +1,0 @@
- We propose a new moment-matching method to build scenario trees that rule out arbitrage opportunities when describing the dynamics of financial assets. The proposed scenario generator is based on the monomial method, a technique to solve systems of algebraic equations. Extensive numerical experiments show the accuracy and efficiency of the proposed moment-matching method when solving financial problems in complete and incomplete markets.
-
-@highlight The monomial method is applied to build a scenario generator for financial assets.
-@highlight The scenario generator belongs to the class of the moment-matching methods.
-@highlight The marginal moments up to the fourth order and correlations are matched.
-@highlight The generated scenarios satisfy the no-arbitrage condition.
-@highlight Accuracy and efficiency analysis is carried out when solving financial problems.

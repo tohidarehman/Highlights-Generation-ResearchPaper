@@ -1,6 +1,0 @@
- This paper presents an algorithm for decomposing complex line drawings which depict connected 3D manifolds into multiple simpler drawings of individual manifolds. The decomposition process has three stages: decomposition at non-manifold vertices, along non-manifold edges and across internal faces. Once non-manifold vertices and/or edges are found, the decomposition can be performed straightforwardly. Thus the major task in this paper is decomposition across internal faces. This has two steps: basic decomposition and repair of incomplete parts. The decomposition process is performed before face identification which is computationally expensive. After decomposition, the time for face finding is much reduced and this, in turn, greatly improves the process for 3D reconstruction, which is the ultimate goal.
-
-@highlight Decomposes a complex drawing into its constituting simple manifolds.
-@highlight Does not require face information to achieve the task.
-@highlight Basic two stage strategy: basic decomposition and subsequent repair.
-@highlight Reduces the time for subsequent face finding and 3D reconstruction greatly.

@@ -1,5 +1,0 @@
- The attributes of vehicle routing problems are additional characteristics or constraints that aim to better take into account the specificities of real applications. The variants thus formed are supported by a well-developed literature, including a large variety of heuristics. This article first reviews the main classes of attributes, providing a survey of heuristics and meta-heuristics for Multi-Attribute Vehicle Routing Problems (MAVRP). It then takes a closer look at the concepts of 64 remarkable meta-heuristics, selected objectively for their outstanding performance on 15 classic MAVRP with different attributes. This cross-analysis leads to the identification of “winning strategies” in designing effective heuristics for MAVRP. This is an important step in the development of general and efficient solution methods for dealing with the large range of vehicle routing variants.
-
-@highlight We identify, classify, and analyze 15 multi-attribute vehicle routing problems.
-@highlight We analyze in detail 64 of the most efficient heuristics for these problems.
-@highlight We identify winning strategies for designing effective heuristics for MAVRP’s.

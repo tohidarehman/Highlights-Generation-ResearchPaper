@@ -1,7 +1,0 @@
- We present an approach to finding the implicit equation of a planar rational parametric cubic curve, by defining a new basis for the representation. The basis, which contains only four cubic bivariate polynomials, is defined in terms of the Bézier control points of the curve. An explicit formula for the coefficients of the implicit curve is given. Moreover, these coefficients lead to simple expressions which describe aspects of the geometric behaviour of the curve. In particular, we present an explicit barycentric formula for the position of the double point, in terms of the Bézier control points of the curve. We also give conditions for when an unwanted singularity occurs in the region of interest. Special cases in which the method fails, such as when three of the control points are collinear, or when two points coincide, will be discussed separately.
-
-@highlight We construct a basis for the implicit representation of planar rational cubic Bézier curves.
-@highlight We present an explicit formulation of the implicit polynomial coefficients.
-@highlight Barycentric formulas for the double point of the cubic curve are derived.
-@highlight A simple test for when unwanted branches occur is formulated.
-@highlight Conditions for the degeneration of cubics to conics are presented.

@@ -1,9 +1,0 @@
- Data centers use dynamic virtual machine consolidation to reduce power consumption. Existing consolidation mechanisms are not efficient in cloud data centers, which have heterogeneous hardware infrastructure, huge scale, and highly variable non-stationary workloads. We use game theory to develop a novel distributed mechanism for both heterogeneous and homogeneous data centers of cloud computing. Our mathematical analysis shows that our mechanism converges after a finite number of migrations. In addition, we show that our worst case power consumption is only 23% more than the theoretical minimum. In order to validate our claim, we preform simulation in CloudSim with real workload traces from Google data centers.
-
-@highlight We propose a game for reducing power consumption in data centers.
-@highlight We show that the game always converges to a pure Nash equilibrium.
-@highlight We establish upper bounds on the convergence time of the game.
-@highlight We prove that PoA
-@highlight =1.23.
-@highlight We show that PoS
-@highlight >1.

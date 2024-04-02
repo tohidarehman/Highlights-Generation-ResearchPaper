@@ -1,7 +1,0 @@
- One of the primary elements of a sustainable manufacturing initiative is that of energy efficiency. Line balancing can be used to design efficient manufacturing systems for paced assembly lines when the operation times are known, but may provide inefficient assignments with variable task times. Thus, we propose the use of unpaced synchronous lines as an alternative to paced lines when there is considerable variability in task times. While a great deal of research has been conducted on the line-balancing problem for paced synchronous production lines as well as for unpaced asynchronous lines, relatively little has focused on the unpaced synchronous configuration, despite its practical relevance. This research addresses this type of production line, with stochastic task completion times, by formulating an appropriate model and developing and evaluating a variety of solution methodologies utilizing extreme value theory as well as simulation. Computational results are presented to gain insight into the design and operation of unpaced synchronous systems.
-
-@highlight Designing energy-efficient production systems has become a high-priority issue.
-@highlight Traditional paced assembly lines are not energy-efficient with variable task times.
-@highlight Unpaced synchronous production lines are proposed for these situations.
-@highlight Solution methodologies are developed using extreme-value theory and simulation.
-@highlight Computational results illustrate the superiority of the proposed approach.

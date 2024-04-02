@@ -1,6 +1,0 @@
- In order to robustly perform segmentation for industrial design objects measured by a 3-D scanning device, we propose a new method for high-quality vertex clustering on a noisy mesh. Using Student- mixture model with the variational Bayes approximation, we develop a vertex clustering algorithm in the 9-D space composed of three kinds of principal curvature measures along with vertex position and normal component. The normal component is added, because it well describes the surface-features and is less influenced by noise, and the positional component suppresses redundant clusters due to the normal one. Furthermore, in order to enhance the robustness for noisy data, considering mesh topology as a spatial constraint and letting the vertices in its surroundings belong to the same cluster by diffusion process, we protect generating many small fragments due to noise. We demonstrate effectiveness of our method by applying it to the real-world scanned data.
-
-@highlight We propose a method for high-quality vertex clustering using Student-
-@highlight mixture model.
-@highlight Less redundant clusters, which have no small isolated fragments, have been obtained.
-@highlight High-quality clusters have been obtained which correspond to the underlying surfaces.

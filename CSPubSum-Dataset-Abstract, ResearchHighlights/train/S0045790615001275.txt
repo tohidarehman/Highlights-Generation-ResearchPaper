@@ -1,7 +1,0 @@
- Advances in wireless ad-hoc network techniques have spurred the development of new approaches to increase network efficiency. One of the more popular approaches is swarm intelligence. Swarm intelligence imitates the collective behavior of biological species to solve network routing problems. Meanwhile, weakly connected dominating sets (WCDS) can serve as auxiliary structures for clustering nodes in the network. This paper uses the clustering concept of WCDS to propose an improved ant-based on-demand clustering routing (AOCR) protocol for wireless ad-hoc networks. Network states’ information is obtained from the Forward_Ant, and is only broadcast by the head of every cluster, thus decreasing the overhead required to transmit ant packets. To increase network efficiency, the pseudo-random-proportional-selection strategy is used to evaluate the best path from the source node to the destination node by the Backward_Ant.
-
-@highlight We propose a novel WCDS-assisted ACO based routing protocol.
-@highlight The on-demand feature of AODV is used to improve the ACO scheme.
-@highlight WCDS works as an auxiliary structure to broadcast the Forward_Ant message.
-@highlight A LCC strategy is used to maintain the WCDS architecture.
-@highlight The pseudo-random-proportional-selection scheme selects the efficient route.

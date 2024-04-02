@@ -1,7 +1,0 @@
- In this paper, we explore the impact of different forms of model abstraction and the role of discreteness on the dynamical behaviour of a simple model of gene regulation where a transcriptional repressor negatively regulates its own expression. We first investigate the relation between a minimal set of parameters and the system dynamics in a purely discrete stochastic framework, with the twofold purpose of providing an intuitive explanation of the different behavioural patterns exhibited and of identifying the main sources of noise. Then, we explore the effect of combining hybrid approaches and quasi-steady state approximations on model behaviour (and simulation time), to understand to what extent dynamics and quantitative features such as noise intensity can be preserved.
-
-@highlight In living cells gene expression is thoroughly regulated.
-@highlight Computational models help in understanding the mechanisms underlying gene regulation.
-@highlight Hybrid approaches balance model accuracy and computational efficiency.
-@highlight We identify the key sources of stochastic noise in a simple gene expression pathway.
-@highlight We propose a wise method for building hybrid models without ignoring key parameters.

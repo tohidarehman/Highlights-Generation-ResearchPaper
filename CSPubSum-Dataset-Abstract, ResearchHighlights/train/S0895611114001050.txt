@@ -1,7 +1,0 @@
- This paper presents novel pre-processing image enhancement algorithms for retinal optical coherence tomography (OCT). These images contain a large amount of speckle causing them to be grainy and of very low contrast. To make these images valuable for clinical interpretation, we propose a novel method to remove speckle, while preserving useful information contained in each retinal layer. The process starts with multi-scale despeckling based on a dual-tree complex wavelet transform (DT-CWT). We further enhance the OCT image through a smoothing process that uses a novel adaptive-weighted bilateral filter (AWBF). This offers the desirable property of preserving texture within the OCT image layers. The enhanced OCT image is then segmented to extract inner retinal layers that contain useful information for eye research. Our layer segmentation technique is also performed in the DT-CWT domain. Finally we describe an OCT/fundus image registration algorithm which is helpful when two modalities are used together for diagnosis and for information fusion.
-
-@highlight An integrated image processing toolbox for retinal image analysis is proposed.
-@highlight The system considers in a unified framework both fundal images and optical coherence tomography.
-@highlight An adaptive-weighted bilateral filtering (AWBF) is proposed to reduce speckles.
-@highlight The dual-tree complex wavelet transform is employed to improved OCT layer segmentation.
-@highlight A novel technique for multimodal retinal image registration is proposed.

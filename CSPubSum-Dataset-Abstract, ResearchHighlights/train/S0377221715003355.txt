@@ -1,6 +1,0 @@
- This work addresses the early phases of the elicitation of multiattribute value functions proposing a practical method for assessing interactions and monotonicity. We exploit the link between multiattribute value functions and the theory of high dimensional model representations. The resulting elicitation method does not state any a-priori assumption on an individual’s preference structure. We test the approach via an experiment in a riskless context in which subjects are asked to evaluate mobile phone packages that differ on three attributes.
-
-@highlight We provide an assumption free method for eliciting multiattribute value functions.
-@highlight The methodology is grounded in the high dimensional model representation theory.
-@highlight The approach is tested via an experiment in which subjects evaluate mobile phone packages.
-@highlight The method allows a practical assessment of interactions and monotonicity.

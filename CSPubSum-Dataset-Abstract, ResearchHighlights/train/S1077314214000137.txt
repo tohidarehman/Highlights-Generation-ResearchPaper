@@ -1,7 +1,0 @@
- Face reconstruction from images has been a core topic for the last decades, and is now involved in many applications such as identity verification or human–computer interaction. The 3D Morphable Model introduced by Blanz and Vetter has been widely used to this end, because its specific 3D modeling offers robustness to pose variation and adaptability to the specificities of each face. To overcome the limitations of methods using a single image, and since video has become more and more affordable, we propose a new method which exploits video sequences to consolidate the 3D head shape estimation using successive frames. Based on particle filtering, our algorithm updates the model estimation at each instant and it is robust to noisy observations. A comparison with the Levenberg–Marquardt global optimization approach on various sets of data shows visual improvements both on pose and shape estimation. Biometric performances confirm this trend with a mean reduction of 10% in terms of False Rejection Rate.
-
-@highlight A particle filter method is proposed to estimate pose and shape of faces in videos.
-@highlight Noisy or outlier points are handled using multi-hypotheses sampling in the filter.
-@highlight The approach is evaluated on synthetic data to validate the method.
-@highlight Comparison with the Levenberg–Marquardt optimization is performed.
-@highlight Visual and biometric results on real videos confirm the efficiency of our method.

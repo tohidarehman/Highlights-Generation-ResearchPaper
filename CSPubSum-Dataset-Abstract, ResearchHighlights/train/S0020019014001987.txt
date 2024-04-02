@@ -1,9 +1,0 @@
- We study the characteristics of straight skeletons of monotone polygonal chains and use them to devise an algorithm for computing positively weighted straight skeletons of monotone polygons. Our algorithm runs in log time and space, where n denotes the number of vertices of the polygon.
-
-@highlight We study the characteristics of the straight skeleton (SK) of monotone polygons.
-@highlight We devise an algorithm to compute the SK of monotone polygons in
-@highlight log
-@highlight time.
-@highlight This algorithm can also compute the positively weighted SK in
-@highlight log
-@highlight time.

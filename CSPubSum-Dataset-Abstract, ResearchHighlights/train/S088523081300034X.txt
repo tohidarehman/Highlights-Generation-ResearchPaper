@@ -1,6 +1,0 @@
- In this paper, we suggest a list of high-level features and study their applicability in detection of cyberpedophiles. We used a corpus of chats downloaded from  and two negative datasets of different nature: cybersex logs available online, and the NPS chat corpus. The classification results show that the NPS data and the pedophiles’ conversations can be accurately discriminated from each other with character n-grams, while in the more complicated case of cybersex logs there is need for high-level features to reach good accuracy levels. In this latter setting our results show that features that model behaviour and emotion significantly outperform the low-level ones, and achieve a 97% accuracy.
-
-@highlight High-level features for cyberpedophilia detection are proposed.
-@highlight The fixated discourse model is suggested.
-@highlight Experiments on distinguishing between pedophiles’ and non-pedophiles’ chats are performed.
-@highlight Feature analysis is presented.

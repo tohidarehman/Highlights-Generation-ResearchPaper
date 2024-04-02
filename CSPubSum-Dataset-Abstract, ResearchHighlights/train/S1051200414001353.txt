@@ -1,7 +1,0 @@
- This paper presents a method based on graph behaviour analysis for the evaluation of descriptor graphs (applied to image/video datasets) for descriptor performance analysis and ranking. Starting from the Erdős–Rényi model on uniform random graphs, the paper presents results of investigating random geometric graph behaviour in relation with the appearance of the giant component as a basis for ranking descriptors based on their clustering properties. We analyse the phase transition and the evolution of components in such graphs, and based on their behaviour, the corresponding descriptors are compared, ranked, and validated in retrieval tests. The goal is to build an evaluation framework where descriptors can be analysed for automatic feature selection.
-
-@highlight We show that image/video datasets and descriptor performance can be efficiently represented by random geometric graph models.
-@highlight We show that analysing the phase transition of such graph models can be used for descriptor ranking.
-@highlight We present a ranking function for graph analysis that can be used for automatic feature selection and descriptor evaluation.
-@highlight Although the presented scheme is descriptor-independent, we evaluate and validate the approach on image/video datasets.
-@highlight The goal is to build an evaluation framework where descriptors can be analysed for automatic feature selection.

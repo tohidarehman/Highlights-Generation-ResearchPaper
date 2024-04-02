@@ -1,7 +1,0 @@
- Application of techniques for modelling of boundary value problems implies two conflicting requirements: obtaining high accuracy of the results and speed of the solution. Accurate results can be obtained only by using appropriate models and algorithms. In the previous papers the authors applied the parametric integral equations system (PIES) in modelling and solving boundary value problems. The first requirement was satisfied – the results were obtained with very high accuracy. This paper fulfils the second requirement by novel approach to accelerate PIES. Graphics cards (GPUs) programming for numerical calculations in general purpose applications (GPGPU) using NVIDIA CUDA is used for this purpose. The speed of calculations increased up to 80 times whereas high accuracy of the solutions was maintained. Examples included in this paper concern solving elasticity problems which are modelled by three-dimensional Navier–Lamé equations.
-
-@highlight A novel (parallel) approach of numerical implementation of PIES (named GPU-accelerated PIES) is proposed.
-@highlight Processing power of GPU is used to accelerate computations.
-@highlight The accuracy of the solutions obtained using GPU-accelerated PIES was examined.
-@highlight Computational time of GPU-accelerated PIES was examined.
-@highlight The effectiveness of the serial version of PIES program and GPU-accelerated PIES was compared.

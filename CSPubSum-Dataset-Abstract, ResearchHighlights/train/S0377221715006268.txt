@@ -1,7 +1,0 @@
- In this paper we address the computation of indifference regions in the weight space for multiobjective integer and mixed-integer linear programming problems and the graphical exploration of this type of information for three-objective problems. We present a procedure to compute a subset of the indifference region associated with a supported nondominated solution obtained by the weighted-sum scalarization. Based on the properties of these regions and their graphical representation for problems with up to three objective functions, we propose an algorithm to compute all extreme supported nondominated solutions adjacent to a given solution and another one to compute all extreme supported nondominated solutions to a three-objective problem. The latter is suitable to characterize solutions in delimited nondominated areas or to be used as a final exploration phase. A computer implementation is also presented.
-
-@highlight We explore the weight space in multiobjective mixed-integer linear programming.
-@highlight Subsets of indifference regions in the weight space are computed for MOMILP problems.
-@highlight Adjacent extreme nondominated solutions are explored for two and three-objective problems.
-@highlight All extreme nondominated solutions can be computed.
-@highlight We present a graphics-based computer implementation.

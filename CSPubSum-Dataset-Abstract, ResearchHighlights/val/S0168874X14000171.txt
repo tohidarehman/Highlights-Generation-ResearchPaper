@@ -1,7 +1,0 @@
- This paper deals with the problem of contact at the interface of steel–concrete composite beams. The F.E. model “Pontmixte”, able to study continuous composite beams at real scale, was based on a finite element of composite beam which considers only 4 degrees of freedom per node: both longitudinal displacements of the slab and the steel beam and common vertical displacement and rotation of the whole composite cross-section. This assumption did not allow any uplift at the interface between both materials. A “new” finite element is proposed in this work with 6 degrees of freedom per node in the aim to include a contact algorithm in the model. The originality of the method is to use the Augmented Lagrangian Method to solve the contact problem at the steel–concrete interface including a new concept so-called: “Flying Node Concept”. This concept solves the problem of “continuous” contact at the interface that could sometimes occur along the beam especially in the case of distributed loads. The influence on the loading capacity of the beam and also the influence on some design variables are highlighted.
-
-@highlight Steel–concrete composite beam at real scale.
-@highlight 2D beam F.E. model.
-@highlight The contact at the interface between the profile flange and the concrete slab is considered.
-@highlight Augmented Lagrangian Method is used to solve contact problem.
-@highlight A new concept so called “Flying Node Concept” is proposed to take into account the continuous contact.

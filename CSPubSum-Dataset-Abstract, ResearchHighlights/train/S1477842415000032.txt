@@ -1,7 +1,0 @@
- Adaptable Parsing Expression Grammar (APEG) is a formal method for defining the syntax of programming languages. It provides an on-the-fly mechanism to perform modifications of the syntax of the language during parsing time. The primary goal of this dynamic mechanism is the formal specification and the automatic parser generation for extensible languages. In this paper, we show how APEG can be used for the definition of the extensible languages SugarJ and Fortress, clarifying many aspects of the syntax of these languages. We also show that the mechanism for on-the-fly modification of syntax rules can be useful for defining grammars in a modular way, implementing almost all types of language composition in the context of specification of extensible languages.
-
-@highlight We evaluate an adaptable model based on Parsing Expressions Grammars, called APEG.
-@highlight we define the syntax of SugarJ and Fortress using APEG.
-@highlight We analyze the flexible mechanism of APEG to change the grammar on-the-fly.
-@highlight The flexibility to modify grammars allows APEG to reuse other grammars definitions.
-@highlight The mechanism of on-the-fly modification of grammars allows composing languages.

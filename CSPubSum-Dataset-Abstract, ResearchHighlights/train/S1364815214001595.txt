@@ -1,7 +1,0 @@
- Exploring adaptation pathways is an emerging approach for supporting decision making under uncertain changing conditions. An adaptation pathway is a sequence of policy actions to reach specified objectives. To develop adaptation pathways, interactions between environment and policy response need to be analysed over time for an ensemble of plausible futures. A fast, integrated model can facilitate this. Here, we describe the development and evaluation of such a model, an Integrated Assessment Metamodel (IAMM), to explore adaptation pathways in the Rhine delta for a decision problem currently faced by the Dutch Government. The theory-motivated metamodel is a simplified physically based model. Closed questions reflecting the required accuracy were used to evaluate the model's fitness. The results show that such a model fits the purpose of screening and ranking of policy options and pathways to support the strategic decision making. A complex model can subsequently be used to obtain more detailed information.
-
-@highlight We developed a fast, integrated assessment metamodel for exploring adaptation pathways in the Rhine delta.
-@highlight Closed questions were used to evaluate the fitness of the simplified physically-based model.
-@highlight In addition to traditional metrics (observations) other evaluation metrics were used.
-@highlight These metrics include the ability to simulate scenarios, policy actions, and calculation speed.
-@highlight The model fits the purpose of screening and ranking of policy options and pathways.

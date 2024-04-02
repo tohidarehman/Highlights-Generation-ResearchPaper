@@ -1,6 +1,0 @@
- The accommodative ability of the natural eye lens is lost when it is replaced by an artificial intraocular lens in cataract surgery. While monofocal intraocular lenses are usually intended for distance vision, multifocal lenses allow for good vision at various distances, thus enabling the patient to live without glasses. In this work, several innovative multifocal intraocular lens design concepts are analyzed in terms of vision quality. Results from simulations of these lenses in different human eye models are compared to results from in-vitro measurements. We further demonstrate how the choice of the eye model impacts intraocular lens design and we show how biometric parameters that are usually not considered in intraocular lens power calculation may influence vision quality.
-
-@highlight We compare wave optical simulations of multifocal intraocular lenses in different eye models.
-@highlight Prototypes of bifocal and trifocal intraocular lenses were manufactured and characterized.
-@highlight Field tracing will become an important tool for future intraocular lens development.
-@highlight Vision quality depends on the eye model applied for intraocular lens design.

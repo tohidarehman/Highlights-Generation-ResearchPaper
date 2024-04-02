@@ -1,6 +1,0 @@
- The paper proposes a new data-flow based approach for the identification of backbones in infinite clusters on 2-D percolation site lattices of dimension L × L. The infinite cluster is identified first, then a multi step algorithm is applied for the reduction of the infinite cluster to its backbone. Algorithm performances are evaluated theoretically and experimentally. The algorithm is local and can therefore be efficiently implemented on data-flow parallel platforms in Θ(L) time if applied on percolation lattices near the critical percolation probability or in Θ(L 2) in the worst case. The proposed methodology could resolve the problem of stack overflow at large systems that can appear with classical graph based algorithms, and has potential for a higher execution speed-up on parallel architectures.
-
-@highlight The application of the backbone effect in the transport throughput capacity of materials is considered.
-@highlight A novel parallel implementation of the backbone algorithm is proposed for percolation lattices.
-@highlight The theoretical algorithm complexity is estimated for data-flow implementation.
-@highlight The results are analyzed regarding the classical graph-based approaches and the execution efficiency.

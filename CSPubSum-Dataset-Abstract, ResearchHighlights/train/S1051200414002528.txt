@@ -1,5 +1,0 @@
- Real-world signals are often not band-limited, and in many cases of practical interest sampling points are not always measured regularly. The purpose of this paper is to propose an irregular sampling theorem for the fractional Fourier transform (FRFT), which places no restrictions on the input signal. First, we construct frames for function spaces associated with the FRFT. Then, we introduce a unified framework for sampling and reconstruction in the function spaces. Based upon the proposed framework, an FRFT-based irregular sampling theorem without band-limiting constraints is established. The theoretical derivations are validated via numerical results.
-
-@highlight A unified framework for sampling and reconstruction using the FRFT is proposed.
-@highlight An irregular sampling strategy in function spaces for the FRFT is derived.
-@highlight The algorithm for signal recovery from irregular samples is presented.

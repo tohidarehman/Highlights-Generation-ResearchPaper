@@ -1,7 +1,0 @@
- We analyze the role of quality, which we define as an attribute of a product that increases consumers’ willingness to buy, as a competitive tool in a quality-price setting. We consider an incumbent’s entry-deterrence strategies using quality as a deterrent when faced by a potential entrant. We investigate settings motivating the incumbent to blockade the entrant (i.e., prevent entry without extra effort), deter the entrant (i.e., prevent entry with extra effort), or accommodate the entrant (i.e., allow the entry to take place). We identify conditions under which the incumbent may actually over-invest in quality to deter entrance. More interestingly, we also identify conditions under which the incumbent may decrease his quality investment to make it easier for the entrant to penetrate the market. Our model sheds light on entry scenarios of particular platform product markets such as the entry of Xbox to the video game console market.
-
-@highlight We model the use of quality by a monopolist facing a potential entry threat.
-@highlight If entry occurs, firms compete on quality and price.
-@highlight The incumbent may over-invest to deter or under-invest to accommodate.
-@highlight Quality cost, entry cost, and market characteristics drive the incumbent’s strategy.
-@highlight Our quality definition extends beyond the traditional quality/service dynamics.

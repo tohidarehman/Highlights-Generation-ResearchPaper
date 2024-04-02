@@ -1,6 +1,0 @@
- Quad meshes can be interpreted as tensor-product spline control meshes as long as they form a regular grid, locally. We present a new option for complementing bi-3 splines by bi-4 splines near irregularities in the mesh layout, where less or more than four quadrilaterals join. These new generalized surface and IGA (isogeometric analysis) elements have as their degrees of freedom the vertices of the irregular quad mesh. From a geometric design point of view, the new construction distinguishes itself from earlier work by a notably better distribution of highlight lines. From the IGA point of view, increased smoothness and reproduction at the irregular point yield fast convergence.
-
-@highlight Bi-3 tensor-product splines are complemented by bi-4 splines near irregular points.
-@highlight The vertices of the irregular quad mesh serve as spline-like control points.
-@highlight The resulting surfaces have a good distribution of highlight lines.
-@highlight The resulting surfaces have a increased smoothness and reproduction at irregular points.

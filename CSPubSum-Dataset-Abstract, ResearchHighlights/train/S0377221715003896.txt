@@ -1,7 +1,0 @@
- The three main measures of competition (HHI, Lerner index, and H-statistic) are uncorrelated for U.S. banks. We investigate why this occurs, propose a frontier measure of competition, and apply it to five major bank service lines. Fee-based banking services comprise 35 percent of bank revenues so assessing competition by service line is preferred to using a single measure for traditional activities extended to the entire bank. As the Lerner index and the H-statistic together explain only 1 percent of HHI variation and the HHI is similarly unrelated to the frontier method developed here, current merger/acquisition guidelines should be adjusted as banking concentration seems unrelated to likely more accurate competition measures.
-
-@highlight Traditional measures of competition are unrelated to each other.
-@highlight We develop a frontier-based measure of banking competition.
-@highlight Competition can be assessed by service line, even if output and price data are missing.
-@highlight Business loans and securities are competitive; consumer loans, payments, and other activities are not.
-@highlight The Herfindahl–Hirschman (HHI) measure does a poor job and should be supplemented with other measures.

@@ -1,7 +1,0 @@
- Investigating new ways to deliver care, such as the use of self-service kiosks to collect and monitor signs of wellness, supports healthcare efficiency and inclusivity. Self-service kiosks offer this potential, but there is a need for solutions to meet acceptable standards, e.g. provision of accurate measurements. This study investigates the design and optimization of a prototype healthcare kiosk to collect vital signs measures. The design problem was decomposed, formalized, focused and used to generate multiple solutions. Systematic implementation and evaluation allowed for the optimization of measurement accuracy, first for individuals and then for a population. The optimized solution was tested independently to check the suitability of the methods, and quality of the solution. The process resulted in a reduction of measurement noise and an optimal fit, in terms of the positioning of measurement devices. This guaranteed the accuracy of the solution and provides a general methodology for similar design problems.
-
-@highlight We outline the development of an interactive self-service healthcare kiosk.
-@highlight We apply a formal methodology to guarantee the measurement accuracy.
-@highlight The formal, generalizable and rigorous approach shows its practical efficiency.
-@highlight We know of no other studies that apply such methods in designing interaction.
-@highlight There is globally an increasing need for the health technologies outlined herein.

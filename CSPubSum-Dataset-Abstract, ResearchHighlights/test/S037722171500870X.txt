@@ -1,7 +1,0 @@
- This study considers a mean-variance (MV) framework for managing disruption risk in a two-echelon supply chain with a risk-averse buyer and multiple unreliable suppliers under newsvendor (NV) setting. An MV objective function is designed to maximize the buyer's expected profit while minimizing its variance. Study of the structural property of the problem proves the existence of a global maxima and a set of efficient portfolios consisting of dominating mean-variance pairs. We demonstrate the effect of model parameters through comparative statics analysis. An algorithm is developed to overcome the computational complexity of the higher dimensional problem. Numerical studies on model behavior show that the proposed algorithm gives the exact optimal solution while being tractable.
-
-@highlight Identification of situations with medium-probability and moderate-impact disruptive event.
-@highlight Application of mean-variance (MV) approach to manage such disruptive events under newsvendor setting.
-@highlight Studying the structural property of the problem and identifying existence of global maxima, even if the MV function is complex.
-@highlight Perform comparative statics analysis to study the behavior of objective functions with respect to few parameters.
-@highlight Develop an algorithm for MV objective that can handle higher dimensional problem.

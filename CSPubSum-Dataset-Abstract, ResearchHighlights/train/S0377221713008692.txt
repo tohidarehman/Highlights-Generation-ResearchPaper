@@ -1,7 +1,0 @@
- The paper presents a generalized regression technique centered on a superquantile (also called conditional value-at-risk) that is consistent with that coherent measure of risk and yields more conservatively fitted curves than classical least-squares and quantile regression. In contrast to other generalized regression techniques that approximate conditional superquantiles by various combinations of conditional quantiles, we directly and in perfect analog to classical regression obtain superquantile regression functions as optimal solutions of certain error minimization problems. We show the existence and possible uniqueness of regression functions, discuss the stability of regression functions under perturbations and approximation of the underlying data, and propose an extension of the coefficient of determination R-squared for assessing the goodness of fit. The paper presents two numerical methods for solving the error minimization problems and illustrates the methodology in several numerical examples in the areas of uncertainty quantification, reliability engineering, and financial risk management.
-
-@highlight We present a generalized regression technique centered on a superquantile (also called conditional value-at-risk).
-@highlight It yields more conservatively fitted curves than classical least-squares and quantile regressions.
-@highlight We show the existence and possible uniqueness of regression functions.
-@highlight We discuss the stability of regression functions under perturbations.
-@highlight We propose a goodness-of-fit criterion.

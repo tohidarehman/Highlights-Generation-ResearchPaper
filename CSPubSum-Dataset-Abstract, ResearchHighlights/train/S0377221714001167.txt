@@ -1,6 +1,0 @@
- To analyze the input/output behavior of simulation models with multiple responses, we may apply either univariate or multivariate Kriging (Gaussian process) metamodels. In multivariate Kriging we face a major problem: the covariance matrix of all responses should remain positive-definite; we therefore use the recently proposed “nonseparable dependence” model. To evaluate the performance of univariate and multivariate Kriging, we perform several Monte Carlo experiments that simulate Gaussian processes. These Monte Carlo results suggest that the simpler univariate Kriging gives smaller mean square error.
-
-@highlight Applying nonseparable dependence models ensures positive-definite covariance matrix.
-@highlight We develop a Monte Carlo laboratory that satisfies all Kriging assumptions.
-@highlight We find that simple univariate Kriging has smaller MSE, so it is more practical.
-@highlight With known parameters, multivariate Kriging is not better than univariate Kriging.

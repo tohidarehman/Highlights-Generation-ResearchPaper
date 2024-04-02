@@ -1,5 +1,0 @@
- In this paper, the gHRV software tool is presented. It is a simple, free and portable tool developed in python for analysing heart rate variability. It includes a graphical user interface and it can import files in multiple formats, analyse time intervals in the signal, test statistical significance and export the results. This paper also contains, as an example of use, a clinical analysis performed with the gHRV tool, namely to determine whether the heart rate variability indexes change across different stages of sleep. Results from tests completed by researchers who have tried gHRV are also explained: in general the application was positively valued and results reflect a high level of satisfaction. gHRV is in continuous development and new versions will include suggestions made by testers.
-
-@highlight gHRV is an open source tool for HRV analysis.
-@highlight gHRV is implemented in python and binaries are available for Linux, Windows and Apple OS X.
-@highlight It imports and exports files in several formats and creates high quality plots that can be exported to file.

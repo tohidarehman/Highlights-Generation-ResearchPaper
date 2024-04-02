@@ -1,6 +1,0 @@
- Objectives This review provided a conceptual framework of sample size calculations in the studies of diagnostic test accuracy in various conditions and test outcomes. Methods The formulae of sample size calculations for estimation of adequate sensitivity/specificity, likelihood ratio and AUC as an overall index of accuracy and also for testing in single modality and comparing two diagnostic tasks have been presented for desired confidence interval. Results The required sample sizes were calculated and tabulated with different levels of accuracies and marginal errors with 95% confidence level for estimating and for various effect sizes with 80% power for purpose of testing as well. The results show how sample size is varied with accuracy index and effect size of interest. Conclusion This would help the clinicians when designing diagnostic test studies that an adequate sample size is chosen based on statistical principles in order to guarantee the reliability of study.
-
-@highlight Sample size calculation in diagnostic studies.
-@highlight Tables of required sample size in different scenarios.
-@highlight How sample size varies with accuracy index and effect size.
-@highlight Help to the clinician when designing ROC diagnostic studies.

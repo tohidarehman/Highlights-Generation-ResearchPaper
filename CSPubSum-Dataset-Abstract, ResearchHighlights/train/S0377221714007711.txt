@@ -1,7 +1,0 @@
- Working environment affects human health condition and performance. Human Factors (HF) scholars aim to elaborate this effect. However, HF studies mostly focus on employee occupational health and safety elements and their consequences on employee health conditions. They do not take into account Work-related Ill Health (WIH) risk factor effects at the system level. In contrast, operations research studies usually assume that operators involved in a system have identical performances and rarely consider WIH risk factor effects in optimizing system performance. This paper proposes a 2-state Markov chain model to quantify WIH risk factor effects and thereby estimate their economic impacts in optimizing a serial assembly line’s performance. Results of this research demonstrate between 0.52 percent and 8 percent increase for the total cost of the system as WIH risk levels change. This paper opens a new window to understand economic consequences of WIH effects, and to enhance systems performance by investigating working conditions.
-
-@highlight Working environment affects operators’ health condition and the system performance.
-@highlight However, OR studies rarely consider working environment effects in system performance.
-@highlight Work-related ill health (WIH) risk factors are considered to model health states of the operators.
-@highlight Heath states are modeled using a 2-state Markov chain in the system optimization model.
-@highlight We found that between 0.52 percent and 8 percent increase in the total cost as WIH risk levels change.

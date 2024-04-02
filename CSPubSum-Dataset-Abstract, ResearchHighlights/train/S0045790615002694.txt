@@ -1,6 +1,0 @@
- In this paper we use and extend a parallel optoelectronic processor for image preprocessing and implement software tools for testing and evaluating the presented algorithms. After briefly introducing the processor and showing how images can be stored in it, we adapt a number of local image preprocessing algorithms for smoothing, edge detection, and corner detection, such that they can be executed on the processor in parallel. These algorithms are performed on all pixels of the input image in parallel and, as a result, in steps independent of its dimensions. We also develop a compiler and a simulator for evaluating and verifying the correctness of our implementations.
-
-@highlight We use a parallel optoelectronic processor for image preprocessing.
-@highlight We extend the processor to improve its parallelism and to make it more compact.
-@highlight We adapt several preprocessing operators for the processor.
-@highlight We write a compiler and simulator for evaluating the presented algorithms.

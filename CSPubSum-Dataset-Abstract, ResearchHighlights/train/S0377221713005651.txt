@@ -1,7 +1,0 @@
- Geometric branch-and-bound techniques are well-known solution algorithms for non-convex continuous global optimization problems with box constraints. Several approaches can be found in the literature differing mainly in the bounds used. The aim of this paper is to extend geometric branch-and-bound methods to mixed integer optimization problems, i.e. to objective functions with some continuous and some integer variables. Mixed-integer non-linear and non-convex optimization problems are extremely hard, containing several classes of NP-hard problems as special cases. We identify for which type of mixed integer non-linear problems our method can be applied efficiently, derive several bounding operations and analyze their rates of convergence theoretically. Moreover, we show that the accuracy of any algorithm for solving the problem with fixed integer variables can be transferred to the mixed integer case. Our results are demonstrated theoretically and experimentally using the truncated Weber problem and the p-median problem. For both problems we succeed in finding exact optimal solutions.
-
-@highlight We suggest a new method for solving nonlinear mixed-integer programs.
-@highlight We prove convergence of our method.
-@highlight We identify a special case in which the new method finds an exact global optimum in a finite number of iterations.
-@highlight We identify cases in which our method works efficiently.
-@highlight We evaluate the method numerically show that it outperforms standard solvers.

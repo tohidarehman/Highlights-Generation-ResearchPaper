@@ -1,7 +1,0 @@
- In practice the maximum usage of container space arises in many applications which is one of the crucial economical requirements that have a wide impact on good transportation. A huge amount of monetary infrastructure is spent by companies on packing and transportation. This study recommends that there exists a scope for further optimization which if implemented can lead to huge saving. In this paper, we propose a new hyper heuristic approach which automates the design process for packing of two dimensional rectangular blocks. The paper contributes to the literature by introducing a new search technique where genetic algorithm is coupled with the hyper heuristic to get the optimal or sub optimal solution at an acceptable rate. The results obtained show the benefits of hyper-heuristic over traditional one when compared statistically on large benchmark dataset at the 5% level of significance. Improvements on the solution quality with high filling rate up to 99% are observed on benchmark instances.
-
-@highlight New robust flexible to change system used to model different packing problem.
-@highlight Novel integrated approach with hyper-heuristic search technique coupled with GA.
-@highlight All possible cases for placement: rectangle items with and without rotation.
-@highlight Novel fitness function to evaluate the strength of the overall design layout.
-@highlight Reduce computation time significantly achieve high filling rate upto 99%.

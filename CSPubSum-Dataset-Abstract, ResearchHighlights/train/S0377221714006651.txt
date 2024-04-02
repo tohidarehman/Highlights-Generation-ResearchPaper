@@ -1,5 +1,0 @@
- This is a review of the literature on variants and extensions of the standard location-routing problem published since the last survey, by Nagy and Salhi, appeared in 2006. We propose a classification of problem variants, provide concise paper excerpts that convey the central ideas of each work, discuss recent developments in the field, and list promising topics for further research.
-
-@highlight We survey recent literature on variants and extensions of location-routing problems.
-@highlight We propose a classification of problem variants.
-@highlight We provide concise paper excerpts that convey the central ideas of each work.

@@ -1,6 +1,0 @@
- Controller Area Networks (CAN) adopt bit stuffing at the physical layer, thus introducing a frame length variability that may adversely affect sensing and actuation jitter. One way to mitigate this issue is to encode the payload by means of a suitable run length limited code, before transmission. In this paper, a family of these codes is defined and thoroughly analyzed from the theoretical point of view, showing its optimality within a set of performance and footprint-related constraints typical of contemporary embedded systems. Experimental results confirm that the proposed technique is amenable to an efficient and deterministic software-based implementation.
-
-@highlight A family of codes to prevent jitter in Controller Area Networks is proposed.
-@highlight It was proved that the codes are optimal under typical embedded system constraints.
-@highlight A software implementation of the encoder and decoder modules has been carried out.
-@highlight The implementation is portable, compact, fast, and fully deterministic.

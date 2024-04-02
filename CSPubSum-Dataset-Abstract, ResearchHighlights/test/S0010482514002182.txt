@@ -1,5 +1,0 @@
- Projection reconstruction nuclear magnetic resonance (PR-NMR) is a technique for generating multidimensional NMR spectra. A small number of projections from lower-dimensional NMR spectra are used to reconstruct the multidimensional NMR spectra. In our previous work , it was shown that multidimensional NMR spectra are efficiently reconstructed using peak-by-peak based reversible jump Markov chain Monte Carlo (RJMCMC) algorithm. We propose an extended and generalized RJMCMC algorithm replacing a simple linear model with a linear mixed model to reconstruct close NMR spectra into true spectra. This statistical method generates samples in a Bayesian scheme. Our proposed algorithm is tested on a set of six projections derived from the three-dimensional 700MHz HNCO spectrum of a protein HasA.
-
-@highlight We design a mathematical model for reconstructing multidimensional NMR spectra.
-@highlight We compare the performance of several statistical algorithms for PR-NMR.
-@highlight A generalized Monte Carlo algorithm is applied to restore the NMR spectra.

@@ -1,7 +1,0 @@
- Research has suggested that interaction with an in-vehicle software agent can improve a driver's psychological state and increase road safety. The present study explored the possibility of using an in-vehicle software agent to mitigate effects of driver anger on driving behavior. After either anger or neutral mood induction, 60 undergraduates drove in a simulator with two types of agent intervention. Results showed that both speech-based agents not only enhance driver situation awareness and driving performance, but also reduce their anger level and perceived workload. Regression models show that a driver's anger influences driving performance measures, mediated by situation awareness. The practical implications include design guidelines for the design of social interaction with in-vehicle software agents.
-
-@highlight An in-vehicle agent can improve a driver's psychological state and road safety.
-@highlight Participants drove in a simulator with induced anger or neutral affect.
-@highlight Speech-based agents enhanced driver situation awareness and driving performance.
-@highlight Speech-based agents reduced participants' anger level and perceived workload.
-@highlight A driver's situation awareness mediated anger effects on driving performance.

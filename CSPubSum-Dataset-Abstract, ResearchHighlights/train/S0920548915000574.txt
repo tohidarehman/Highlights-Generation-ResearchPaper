@@ -1,6 +1,0 @@
- In 2010 SEMAT launched a call for action to refound Software Engineering. Later, the Object Management Group endorsed it as a request for proposals to deal with SEMAT concerns. The KUALI-KAANS Research Group responded to the request as a submitter by creating the KUALI-BEH proposal. The objective of this paper is to present the roadmap KUALI-BEH followed throughout the OMG standardization process: its origins, fusion with the ESSENCE proposal and eventual appearance as a standard. The subsequent lessons learned highlight the lack of aligned definitions among IT standards and the standardization process shortcomings, to which improvements are suggested.
-
-@highlight We describe the experience of developing a Software Engineering standard using the OMG standardization process.
-@highlight There are several similarly-focused IT standards with misaligned definitions.
-@highlight Standardization efforts are barely appreciated in the research curricula.
-@highlight We suggest some improvements to make the most of OMG standardization process.

@@ -1,6 +1,0 @@
- We develop a flexible discrete-time hedging methodology that minimizes the expected value of any desired penalty function of the hedging error within a general regime-switching framework. A numerical algorithm based on backward recursion allows for the sequential construction of an optimal hedging strategy. Numerical experiments comparing this and other methodologies show a relative expected penalty reduction ranging between 0.9 and 12.6 with respect to the best benchmark.
-
-@highlight A flexible discrete-time hedging approach for a general regime-switching framework.
-@highlight Minimization of the expected value of any desired penalty function of the hedging error.
-@highlight Backward recursion allows for the sequential construction of an optimal strategy.
-@highlight Efficient numerical implementation is described.

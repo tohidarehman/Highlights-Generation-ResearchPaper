@@ -1,7 +1,0 @@
- A novel self-adaptive geometric primitive for functional geometric shape synthesis is presented. This novel geometric primitive, for CAD use, is specifically designed to reproduce geometric shapes with functional requirements, such as the aerodynamic and hydrodynamic ones, once the functional parameters are furnished. It produces a typical CAD representation of a functional profile: a set of Bézier curves. The proposed primitive follows a generate-and-test approach and takes advantage of the use of a properly designed artificial neural network (BNN). It combines the properties of a geometric primitive and the capability to manage the engineering knowledge in a specific field of application. The proposed evolutionary primitive is applied to a real engineering application: the automatic synthesis of airfoils. Some examples are simulated in order to test the effectiveness of the proposed method. The results obtained by an original prototypal software are presented and critically discussed.
-
-@highlight This paper presents a new 2D auto-adaptive geometric primitive.
-@highlight This primitive encloses the knowledge concerning the engineering problem.
-@highlight It is based on a specifically designed neural network whose output is Bézier curves.
-@highlight In airfoils design it shows higher generative capability then typical used methods.
-@highlight It is applicable in fields where functional constraints qualify the geometric shape.

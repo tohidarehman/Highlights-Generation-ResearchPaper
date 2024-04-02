@@ -1,6 +1,0 @@
- In this paper, a novel solving method for speech signal chaotic time series prediction model was proposed. A phase space was reconstructed based on speech signal's chaotic characteristics and the genetic programming (GP) algorithm was introduced for solving the speech chaotic time series prediction models on the phase space with the embedding dimension m and time delay τ. And then, the speech signal's chaotic time series models were built. By standardized processing of these models and optimizing parameters, a speech signal's coding model of chaotic time series with certain generalization ability was obtained. At last, the experimental results showed that the proposed method can get the speech signal chaotic time series prediction models much more effectively, and had a better coding accuracy than linear predictive coding (LPC) algorithms and neural network model.
-
-@highlight We get a speech signal model on a reconstructed phase space by chaotic time series.
-@highlight We use GP algorithm and model standardization for speech signal preprocessing.
-@highlight We get a set of explicit expression models for model analysis and classification.
-@highlight A standard nonlinear model for the selected samples has been obtained.

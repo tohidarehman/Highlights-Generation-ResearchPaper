@@ -1,7 +1,0 @@
- Openflow, a novel Software Defined Network (SDN) technology, is developing rapidly and has already been utilized in many fields. It facilitates decoupling between the control and forwarding plane, enabling users to code the network functions easily and replace the traditional high-cost network functions devices. The FlowTable of Openflow, its base of operating the network packets, consists of many flow entries and is stored in the Ternary Content Addressable Memories (TCAMs) of the Openflow switch. When the FlowTable occupies the entire storage space of the Openflow switch and more flow entries are added, the delete operation on the TCAMs increases, and the latency and loss of packets deteriorates – this is the primary issue. In order to solve this problem, this paper proposes a distributed storage framework which stores the FlowTable in multiple Openflow switches, equipped with small TCAMs. To conclude, this paper simulates the algorithms used in the framework and builds a testbed. The experimental results prove the framework’s feasibility and successful performance.
-
-@highlight SDN-enabled network functions are limited by the switch TCAM capacity.
-@highlight We propose a distributed storage framework of FlowTable.
-@highlight Our framework can achieve high availability and failure resilience.
-@highlight There is a tradeoff between cost and high availability/failure resilience.
-@highlight We achieve the storage capacity without inviting large communication overhead.

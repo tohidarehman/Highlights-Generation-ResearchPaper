@@ -1,7 +1,0 @@
- Recently Georgiev, Luc,, [Robust aspects of solutions in deterministic multiple objective linear programming, European Journal of Operational Research, 229, 29–36] introduced the notion of robust efficient solutions for linear multi-objective optimization problems. In this paper, we extend this notion to nonlinear case. It is shown that, under the compactness of the feasible set or convexity, each robust efficient solution is a proper efficient solution. Some necessary and sufficient conditions for robustness, with respect to the tangent cone and the non-ascent directions, are proved. An optimization problem for calculating a robustness radius followed by a comparison between the newly-defined robustness notion and two existing ones is presented. Moreover, some alterations of objective functions preserving weak/proper/robust efficiency are studied.
-
-@highlight Defining robust efficiency for nonlinear multi-objective optimization problems.
-@highlight Showing that, robust efficient solutions are proper solutions (under some assumptions).
-@highlight Providing a problem for calculating a robustness radius.
-@highlight Comparing the newly-defined robustness notion with two existing ones.
-@highlight Characterizing robust solutions and studying alterations of objectives.

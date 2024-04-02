@@ -1,6 +1,0 @@
- The effects of age in usability testing were examined in an experiment. Sixty users from two age groups (M = 23.0 yrs, M = 58.1 yrs) operated two technical devices (keyboard-based and touchscreen-based smartphones). In addition to various performance measures (e.g. task completion time, task completion rate), several subjective measures were taken (e.g. perceived usability, affect, and workload). The results showed better performance scores for younger adults than older adults for task completion time. For older adult users there was a mismatch between usability ratings and task completion time but not between usability ratings and task completion rate. Age-related differences in the importance of speed and accuracy in task completion point to the need to consider more strongly the factor user age in usability research and practice.
-
-@highlight There is a need to consider age more strongly in usability testing.
-@highlight Older adult users (52–79 yrs) showed no decrement in effectiveness compared to younger adults (19–29 yrs).
-@highlight Older adult users showed deteriorations in task efficiency compared to younger adults.
-@highlight It may be necessary to distinguish between speed and accuracy in performance.

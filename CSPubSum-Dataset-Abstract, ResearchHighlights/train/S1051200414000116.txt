@@ -1,6 +1,0 @@
- In this paper we propose to solve a range of computational imaging problems under a unified perspective of a regularized weighted least-squares (RWLS) framework. These problems include data smoothing and completion, edge-preserving filtering, gradient-vector flow estimation, and image registration. Although originally very different, they are special cases of the RWLS model using different data weightings and regularization penalties. Numerically, we propose a preconditioned conjugate gradient scheme which is particularly efficient in solving RWLS problems. We provide a detailed analysis of the system conditioning justifying our choice of the preconditioner that improves the convergence. This numerical solver, which is simple, scalable and parallelizable, is found to outperform most of the existing schemes for these imaging problems in terms of convergence rate.
-
-@highlight Regularized weighted least-squares framework.
-@highlight Conditioning estimation and improvement.
-@highlight Fast solver for image interpolation, filtering and registration.
-@highlight Fast solver for gradient-vector flow estimation.

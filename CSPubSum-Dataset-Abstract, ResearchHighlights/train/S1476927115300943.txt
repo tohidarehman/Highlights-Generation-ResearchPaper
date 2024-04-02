@@ -1,6 +1,0 @@
- Detection of protein complexes is very important to understand the principles of cellular organization and function. Recently, large protein–protein interactions (PPIs) networks have become available using high-throughput experimental techniques. These networks make it possible to develop computational methods for protein complex detection. Most of the current methods rely on the assumption that protein complex as a module has dense structure. However complexes have core-attachment structure and proteins in a complex core share a high degree of functional similarity, so it expects that a core has high weighted density. In this paper we present a Core-Attachment based method for protein complex detection from Weighted PPI Interactions using clustering coefficient and weighted density. Experimental results show that the proposed method, CAMWI improves the accuracy of protein complex detection.
-
-@highlight A method for detecting protein complex in a core-attachment structure is proposed
-@highlight It uses effectively protein–protein interaction’s weight
-@highlight Weighted clustering coefficients is used to find protein complex’s seed
-@highlight It finds the protein complexes with high weighted density in their cores

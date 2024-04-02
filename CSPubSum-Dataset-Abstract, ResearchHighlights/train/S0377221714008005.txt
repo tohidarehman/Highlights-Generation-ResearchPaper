@@ -1,7 +1,0 @@
- against two heuristics proposed by Choi et al. . A numerical study with 81,000 instances concludes that the lower bound always holds for the Choi et al.  heuristic, but does not hold for 45 heuristic. In these 45 percent, the average deviation from the lower bound is 4 percent with a maximum deviation of 14.9 percent. The main difference between the two analyzed heuristics is that the Choi et al. heuristic applies equally sized manufacturing and remanufacturing batches (which is also assumed to hold in the proposed lower bound), while Schulz and Voigt present a heuristic in which the respective remanufacturing batch sizes may vary., we conclude that management should be cautious to use too simple policy structures when obtaining a solution for a static remanufacturing system with product returns.
-
-@highlight Performance bounds proposed by Feng and Viswanathan (2014) are not accurate.
-@highlight Bound does not hold in 45 percent of 81,000 tested instances.
-@highlight Average deviation: 4 percent.
-@highlight Maximum deviation: 14.9 percent.
-@highlight Critical assumption: equally sized remanufacturing batches .

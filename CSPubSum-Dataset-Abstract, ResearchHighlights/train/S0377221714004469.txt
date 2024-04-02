@@ -1,5 +1,0 @@
- We consider the ranking of decision alternatives in decision analysis problems under uncertainty, under very weak assumptions about the type of utility function and information about the probabilities of the states of nature. Namely, the following two assumptions are required for the suggested method: the utility function is in the class of increasing continuous functions, and the probabilities of the states of nature are rank-ordered. We develop a simple analytical method for the partial ranking of decision alternatives under the stated assumptions. This method does not require solving optimization programs and is free of the rounding errors.
-
-@highlight We consider decision analysis problems with an unknown utility function.
-@highlight The probabilities of the states of nature are assumed to be rank-ordered.
-@highlight We develop an analytical method for the comparison of decision alternative.

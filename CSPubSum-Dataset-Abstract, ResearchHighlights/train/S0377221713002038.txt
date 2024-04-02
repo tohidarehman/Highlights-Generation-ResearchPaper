@@ -1,6 +1,0 @@
- We consider single-item (r, q) and (s, T) inventory systems with integer-valued demand processes. While most of the inventory literature studies continuous approximations of these models and establishes joint convexity properties of the policy parameters in the continuous space, we show that these properties no longer hold in the discrete space, in the sense of linear interpolation extension and L ♮-convexity. This nonconvexity can lead to failure of optimization techniques based on local optimality to obtain the optimal inventory policies. It can also make certain comparative properties established previously using continuous variables invalid. We revise these properties in the discrete space.
-
-@highlight First paper to focus on discrete (r, q) and (s, T) inventory systems.
-@highlight Some well-known properties of the continuous systems no longer hold.
-@highlight Show exactly where joint convexity breaks down and establish other useful properties.
-@highlight Revise comparative properties of the continuous model for the discrete model.

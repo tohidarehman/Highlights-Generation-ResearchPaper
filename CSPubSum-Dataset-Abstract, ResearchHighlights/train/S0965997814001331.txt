@@ -1,7 +1,0 @@
- This work is related with the implementation of a finite volume method to solve the 2D Shallow Water Equations on Graphic Processing Units (GPU). The strategy is fully oriented to work efficiently with unstructured meshes which are widely used in many fields of Engineering. Due to the design of the GPU cards, structured meshes are better suited to work with than unstructured meshes. In order to overcome this situation, some strategies are proposed and analyzed in terms of computational gain, by means of introducing certain ordering on the unstructured meshes. The necessity of performing the simulations using unstructured instead of structured meshes is also justified by means of some test cases with analytical solution.
-
-@highlight A GPU implementation of a FV method for the 2D Shallow Water Equations is presented.
-@highlight Structured and unstructured meshes allow different implementations.
-@highlight NVIDIA C2070 GPU is compared against Intel Core 2 Quad Processor.
-@highlight The basic GPU implementation obtains between 20× and 30× of speed-up.
-@highlight Some strategies on the mesh order allow to double the performance, reaching 50×.

@@ -1,7 +1,0 @@
- In this paper we present a deferred method for evaluating a complete CSG tree based on triangulated solids. It allows the exact evaluation of the surface of the entire model in a single step, using regularized Boolean classifications. The overall performance with this approach is better than with the classical method, which incrementally evaluates a CSG tree with single Boolean operations. The deferred algorithm does not use any intermediate result for the nodes of the CSG tree. It uses a very simple data structure and an octree that speeds up spatial queries for the entire CSG tree. The algorithm intensively uses multitasking and is ready for working with very complex CSG expressions, including the application of an out-of-core based approach.
-
-@highlight Robust and accurate method for evaluating CSG evaluations of complex models.
-@highlight The evaluation of the CSG expression is performed in one step.
-@highlight This method allows us to calculate any partial result with no extra computation time.
-@highlight It generates better triangulations for the result than the classic method.
-@highlight High-performance, uses multithreading, and can be used with an out-of-core approach.

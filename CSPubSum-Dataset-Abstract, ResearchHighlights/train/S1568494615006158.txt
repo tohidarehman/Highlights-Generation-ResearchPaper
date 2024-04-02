@@ -1,7 +1,0 @@
- Meta-heuristic algorithms have been successfully applied to solve the redundancy allocation problem in recent years. Among these algorithms, the electromagnetism-like mechanism (EM) is a powerful population-based algorithm designed for continuous decision spaces. This paper presents an efficient memory-based electromagnetism-like mechanism called MBEM to solve the redundancy allocation problem. The proposed algorithm employs a memory matrix in local search to save the features of good solutions and feed it back to the algorithm. This would make the search process more efficient. To verify the good performance of MBEM, various test problems, especially the 33 well-known benchmark instances in the literature, are examined. The experimental results show that not only optimal solutions of all benchmark instances are obtained within a reasonable computer execution time, but also MBEM outperforms EM in terms of the quality of the solutions obtained, even for large-size problems.
-
-@highlight An efficient MBEM is proposed to solve the redundancy allocation problem.
-@highlight MBEM employs a memory matrix in local search to save the features of good solutions.
-@highlight Various test problems and benchmarks are used to evaluate the performance of MBEM.
-@highlight Experimental results show that optimal solutions of all benchmark instances are obtained.
-@highlight The computer execution times of the algorithm on all large-scale instances are reasonable.

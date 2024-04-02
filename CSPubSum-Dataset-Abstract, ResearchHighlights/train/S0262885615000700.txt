@@ -1,6 +1,0 @@
- Pose estimation is a key concern in 3D urban surveying, mapping, and navigation. Although Global Positioning System (GPS) technologies can be used to estimate a robot's or vehicle's pose, there are many urban environments in which GPS functions poorly or not at all. For these situations, we offer a novel approach based on a careful fusion of panoramic camera data and 2D laser scanner input. First, a Constrained Bundle Adjustment (CBA) is introduced to handle scale and loop closure constraints. The fusion of a panoramic image series and laser data then enables an accurate scale to be estimated and loop closures detected. Finally, the two geometric constraints are enforced on the global CBA solution, which in turn produces a robust pose estimate. Experiments show that the proposed method is practicable and more accurate than vision-only methods, with an average error of just 0.2m in the horizontal plane over a 580m trajectory.
-
-@highlight Accurate scale is estimated with laser data and features extracted from camera.
-@highlight Many more loop closures are detected by sensor than that of camera-only methods.
-@highlight Scale and loop closure geometric constraints are enforced on Constrained Bundle Adjustment, which produces a robust pose estimate.
-@highlight Experiments show that the proposed method is practicable and more accurate than vision-only methods.

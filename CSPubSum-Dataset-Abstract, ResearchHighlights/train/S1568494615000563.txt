@@ -1,7 +1,0 @@
- The aim of this work is to develop an unsupervised approach based on Probabilistic Neural Network (PNN) for land use classification. A time series of high spatial resolution acquired by LANDSAT and SPOT images has been used to firstly generate the profiles of Normalized Difference Vegetation Index (NDVI) and then used for the classification procedure. The proposed method allows the implementation of cluster validity technique in PNN using Ward's method to get clusters. This procedure is completely automatic with no parameter adjusting and instantaneous training, has high ability in producing a good cluster number estimates and provides a new point of view to use PNN as unsupervised classifier. The obtained results showed that this approach gives an accurate classification with about 3.44% of error through a comparison with the real land use and provides a better performance when comparing to usual unsupervised classification methods (fuzzy c-means (FCM) and K-means).
-
-@highlight Using of Probabilistic Neural Network (PNN) to multichannel image classification.
-@highlight Automatic process to transform the supervised PNN classification to unsupervised.
-@highlight Combination of PNN, hierarchical clustering and cluster validity Index.
-@highlight Land use classification gives a precision with about 3.44% of error.
-@highlight Can be used to large surfaces where the information on soil and crops is limited.

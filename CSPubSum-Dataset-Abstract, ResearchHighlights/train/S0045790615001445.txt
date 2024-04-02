@@ -1,7 +1,0 @@
- Cloud computing provides an effective approach to deliver multimedia services to end users with the desired user quality of experience (QoE). However, cloud-based multimedia applications require many of servers and consume huge energy. To reduce energy consumption, a multimedia service provider (MSP) should balance the energy and QoE. In this paper, a theoretic model is developed to explore the trade-off between energy consumption and QoE for multimedia cloud. Based on objective factor, a QoE quantifying model is proposed. Employing Lyapunov Optimization techniques, an optimal control framework is designed and analyzed to make energy and QoE decisions in MSPs. An approximate online algorithm (EUE-RP) is proposed with the explicitly provable performance upper bound. Extensive experiments have been conducted to verify the effectiveness of EUE-RP algorithm in the practical settings. The algorithm can guarantee desired QoE and reduce energy consumption, even without any information about the future fluctuation of user demands.
-
-@highlight We investigate the trade-off of QoE and energy in multimedia cloud.
-@highlight A QoE quantifying model is proposed based on objective factor.
-@highlight We develop a theoretic model by applying Lyapunov optimization method.
-@highlight An approximate online algorithm (EUE-RP) is proposed with the explicitly provable performance upper bound.
-@highlight The proposed method flexibly manages the trade-off between QoE and energy for cloud-based multimedia services.

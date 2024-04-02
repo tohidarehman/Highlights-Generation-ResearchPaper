@@ -1,9 +1,0 @@
- The objective of this study is to design an efficient artificial neural network (ANN) architecture in order to predict the crack growth direction in multiple crack geometry. Nonlinear logistic (sigmoid and tangent hyperbolic) and linear activation functions have been used through the one- and two-hidden layer ANN. 85 tests were conducted on aluminium alloys under different crack positions, defined by crack tip distance, crack offset distance, crack size, and crack inclination with loading axis. The experimental data set as first degree or second degree were used to train 22 proposed ANN models to predict the output for new data sets (not included in the training sets). The model results were then compared with the experimental data. It was observed that ANN model with combinations of activation functions and two hidden layers predict the crack initiation direction with good accuracy when higher order input variables are presented to the network. crack length correlation coefficient student t distribution crack offset distance crack tip distance first non-singular stress term, T stress mode I stress intensity factor mode II stress intensity factor crack inclination angle learning parameter crack initiation angle Poisson's ratio
-
-@highlight The crack growth under multiple cracks is highly influenced by neighbouring cracks.
-@highlight No mathematical relation is available to predict the crack initiation direction.
-@highlight ANN has been used to predict crack growth direction in multiple crack geometry.
-@highlight The effect of degree of input variables and hybrid combination of activation functions is studied.
-@highlight Nonlinear and linear activation functions are used through the one and two-hidden layer ANN.
-@highlight The experimental dataset as first or second degree were used.
-@highlight Higher order input variables are found to be more suitable.

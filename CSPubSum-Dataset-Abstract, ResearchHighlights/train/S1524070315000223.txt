@@ -1,7 +1,0 @@
- We introduce a novel approach to solve the stationary Stokes equations on very large voxel geometries. One main idea is to coarsen a voxel geometry in areas where velocity does not vary much while keeping the original resolution near the solid surfaces. For spatial partitioning a simplified LIR-tree is used which is a generalization of the Octree and KD-tree. The other main idea is to arrange variables in a way such that each cell is able to satisfy the Stokes equations independently. Pressure and velocity are discretized on staggered grids. But instead of using one velocity variable on the cell surface we introduce two variables. The discretization of momentum and mass conservation yields a small linear system (block) per cell that allows to use the block Gauss–Seidel algorithm as iterative solver. We compare our method to other solvers and conclude superior performance in runtime and memory for high porosity geometries.
-
-@highlight We present an efficient approach to numerically solve the Stokes equations.
-@highlight The LIR-tree is used as adaptive data structure for spatial partitioning.
-@highlight We introduce a conservative cellular structure to discretize the Stokes equations.
-@highlight The method is compared to other state of the art solvers to verify the results.
-@highlight The method has very low memory requirements and is very fast.

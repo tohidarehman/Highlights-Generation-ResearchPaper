@@ -1,6 +1,0 @@
- Recent research on English word sense subjectivity has shown that the subjective aspect of an entity is a characteristic that is better delineated at the sense level, instead of the traditional word level. In this paper, we seek to explore whether senses aligned across languages exhibit this trait consistently, and if this is the case, we investigate how this property can be leveraged in an automatic fashion. We first conduct a manual annotation study to gauge whether the subjectivity trait of a sense can be robustly transferred across language boundaries. An automatic framework is then introduced that is able to predict subjectivity labeling for unseen senses using either cross-lingual or multilingual training enhanced with bootstrapping. We show that the multilingual model consistently outperforms the cross-lingual one, with an accuracy of over 73% across all iterations.
-
-@highlight A manual annotation study shows that approximately 90% of the senses retain their subjectivity across languages.
-@highlight Subjectivity labeling discrepancy is caused by differences between languages in sense usage and lexicon granularity.
-@highlight Subjectivity information from multiple languages can be employed jointly to label new senses in a given language.
-@highlight Bootstrapping multilingual sense level subjectivity labeling outperforms monolingual learning.

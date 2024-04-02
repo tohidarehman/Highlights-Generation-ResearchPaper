@@ -1,7 +1,0 @@
- Legged exoskeletons supplement human intelligence with the strength and endurance of a pair of wearable mechanical legs that support heavy loads. The exoskeleton-type system is a nonlinear system with uncertainty of parameters, which is not easy to be identified with traditional mathematical model. This paper presents co-simulations of a novel exoskeleton-human robot system on humanoid gaits with fuzzy-PID/PID algorithms, which do not need the precise model. The lower extremity exoskeleton model with series–parallel topology was briefly described and the gait characteristics were analyzed. The co-simulation method integrates ADAMS and MATLAB/SIMULINK with fuzzy-PID/PID algorithms, which were used to develop the control schematic of the exoskeleton-human robot system. Finally, co-simulations of humanoid gaits and movements, which include level walking, stair ascent, stair descent, side kick, squatting down and standing up, were provided to confirm the performances and effectiveness of the proposed control approach.
-
-@highlight A novel lower extremity exoskeleton with series–parallel topology is presented.
-@highlight The humanoid gait characteristics decide that the control algorithm should be intelligent.
-@highlight A switch-typed and parameter self-tuning fuzzy-PID/PID controller is presented.
-@highlight Level walking, stair ascent, stair descent, side kick, squatting down and standing up co-simulations are presented.
-@highlight Simulation results show that the fuzzy-PID/PID controllers have great control performances.

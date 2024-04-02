@@ -1,7 +1,0 @@
- In this work, a spatial equilibrium problem is formulated for analyzing the impact of the application of the EU-ETS on the steel industry that has historically seen Europe as one of its major producers. The developed model allows us to simultaneously represent the interactions of several market players, to endogenously determine output and steel prices and to analyze the investment in the Carbon Capture and Storage (CCS) technology. In addition, the proposed model supports the evaluation of the CO2 emission costs on the basis of Directive 2009/29/EC, the “20-20-20” targets, and the Energy Roadmap 2050. In this light, two main processes for steelmaking have to be considered: integrated mills (BOF) and Electric Arc Furnace (EAF) in minimills.
-
-@highlight We evaluate the EU-ETS impacts on steel market.
-@highlight We adopt a technological representation of the sector.
-@highlight We consider two main processes for steelmaking: integrated mills and Electric Arc Furnace in minimills.
-@highlight We analyze the investment in the electricity autoproduction and Carbon Capture and Storage (CCS) technologies.
-@highlight We model different permit price scenarios under the EU-ETS regulation with and without considering CCS technology.

@@ -1,7 +1,0 @@
- Batching customer orders in a warehouse can result in considerable savings in order pickers’ travel distances. Many picker-to-parts warehouses have precedence constraints in picking a customer order. In this paper a joint order-batching and picker routing method is introduced to solve this combined precedence-constrained routing and order-batching problem. It consists of two sub-algorithms: an optimal A ∗-algorithm for the routing; and a simulated annealing algorithm for the batching which estimates the savings gained from batching more than two customer orders to avoid unnecessary routing. For batches of three customer orders, the introduced algorithm produces results with an error of less than 1.2% compared to the optimal solution. It also compares well to other heuristics from literature. A data set from a large Finnish order picking warehouse is rerouted and rebatched resulting in savings of over 5000kilometres or 16% in travel distance in 3months compared to the current method.
-
-@highlight We solve the combined precedence-constrained routing and batching problem.
-@highlight Our method compares very well to heuristics from literature and optimal solutions.
-@highlight We save 5000kilometers in travel distance in our sample warehouse over a 3month period.
-@highlight The method is general and not constrained by the warehouse layout.
-@highlight A∗ is used for the routing, and simulated annealing for batching.

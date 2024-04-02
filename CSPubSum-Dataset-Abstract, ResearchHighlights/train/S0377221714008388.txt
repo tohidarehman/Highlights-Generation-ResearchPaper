@@ -1,7 +1,0 @@
- The construction of composite indicators (CI) is useful to synthesize complex social and economic phenomena, but some underlying assumptions in “classical methods”, as in particular the compensability among indicators, are very strictly. The aim of this paper is to propose an original approach that enhance non-compensatory issue by introducing “directional” penalties in a Benefit of the Doubt model in order to consider the preference structure among simple indicators. Principal component analysis on simple indicators hyperplane allows to estimate both the direction and the intensity of the average rates of substitution. Under an empirical point of view, our method has been tested on both simulated data and on infrastructural endowment data in European regions.
-
-@highlight We analyze the weighting phase of composite indicators construction process.
-@highlight We focus on the presence of an unbalanced preference structure among simple indicators.
-@highlight The preference structure is determined from the variability of each indicator projected onto principal components.
-@highlight Our penalty criteria, to incorporate in a BoD model, is based on the directional distance functions.
-@highlight We test our approach on both simulated data and on infrastructural endowment data in European regions.

@@ -1,7 +1,0 @@
- Multi-cell thin-walled structures have proven fairly effective in energy absorption and have been extensively used in vehicle engineering. However, the effects of multi-cell configurations and oblique loads on the crashworthiness performance have been under studied. This paper aims to investigate the crash behaviors of different multi-cell hexagonal cross-sectional columns under axial and oblique loads comprehensively. The modeling results are first validated by comparing with the theoretical and experimental data. It is found that for the same cell number, the number of corners plays a significant role in enhancing energy absorption. Second, a multicriteria decision-making method, namely complex proportional assessment (COPRAS), is used to select the best possible sectional configuration under multiple loading angles. Finally, the Kriging modeling technique and multiobjective particle optimization (MOPSO) algorithm are employed to optimize the dimensions of such a cross-sectional configuration. The results exhibit that an optimized multi-cell sectional tube is more competent in crashworthiness for multiple load cases (MLC).
-
-@highlight Different cross-sectional configurations of multi-cell hexagonal tubes are compared.
-@highlight The multi-cell configurations are subjected to both axial and oblique loads.
-@highlight COPRAS
-@highlight is used to select the best configuration considering multiple loading angles.
-@highlight Multi-objective optimization is conducted considering multiple loading cases.

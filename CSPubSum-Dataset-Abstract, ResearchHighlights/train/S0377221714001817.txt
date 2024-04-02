@@ -1,5 +1,0 @@
- In this paper, the anchor points in DEA, as an important subset of the set of extreme efficient points of the production possibility set (PPS), are studied. A basic definition, utilizing the multiplier DEA models, is given. Then, two theorems are proved which provide necessary and sufficient conditions for characterization of these points. The main results of the paper lead to a new interesting connection between DEA and sensitivity analysis in linear programming theory. By utilizing the established theoretical results, a successful procedure for identification of the anchor points is presented.
-
-@highlight Characterizing the anchor points utilizing the multiplier DEA models.
-@highlight Characterizing the anchor points utilizing sensitivity analysis.
-@highlight Providing a procedure for identification of the anchor points.

@@ -1,7 +1,0 @@
- Performance analysis has become a vital part of the management practices in the banking industry. There are numerous applications using DEA models to estimate efficiency in banking, and most of them assume that inputs and outputs are known with absolute precision. Here, we propose new Fuzzy-DEA α-level models to assess underlying uncertainty. Further, bootstrap truncated regressions with fixed factors are used to measure the impact of each model on the efficiency scores and to identify the most relevant contextual variables on efficiency. The proposed models have been demonstrated using an application in Mozambican banks to handle the underlying uncertainty. Findings reveal that fuzziness is predominant over randomness in interpreting the results. In addition, fuzziness can be used by decision-makers to identify missing variables to help in interpreting the results. Price of labor, price of capital, and market-share were found to be the significant factors in measuring bank efficiency. Managerial implications are addressed.
-
-@highlight We propose new Fuzzy-DEA α-level models to assess data uncertainty.
-@highlight Bootstrap truncated regressions are used to identify relevant variables on efficiency.
-@highlight Proposed models have been demonstrated using an application in Mozambican banks.
-@highlight Findings reveal that fuzziness is predominant over randomness in the results.
-@highlight Price of labor, price of capital, and market-share were found to be significant factors.

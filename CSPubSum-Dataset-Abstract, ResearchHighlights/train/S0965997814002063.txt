@@ -1,7 +1,0 @@
- This paper discusses the cloud computing based approach for parallelization of large displacement stability analysis of orthotropic prismatic shell structures with simply supported boundary conditions along the diaphragm-supported edges. We review the harmonic coupled finite strip method (HCFSM), and describe a software system for nonlinear analysis of reinforced concrete (RC) structures. We combine different parallelization models – MPI and OpenMP – in order to cope with the increased computational complexity, which originates from coupling of all series terms in the HCFSM formulation. We discuss the effects of parallelization from the perspective of a cloud environment. Our results show that rational usage of cloud resources can lead to significant performance improvements and monetary savings. In certain cases, the achieved performance can be very close to the maximum one.
-
-@highlight Application of hybrid parallelization model coupling MPI with OpenMP.
-@highlight Rational usage of cloud computer resources in hybrid parallelization.
-@highlight Analysis of impact of cluster nodes and CPU cores number to parallelization effects.
-@highlight Harmonic coupled finite strip method application on shell structures.
-@highlight Method demonstrated on reinforced concrete prismatic shell structure.

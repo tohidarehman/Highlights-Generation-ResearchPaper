@@ -1,7 +1,0 @@
- Deception is an inevitable component of human interaction. Researchers and practitioners are developing information systems to aid in the detection of deceptive communication. Information systems are typically adopted by end users to aid in completing a goal or objective (e.g., increasing the efficiency of a business process). However, end-user interactions with deception detection systems (adversarial systems) are unique because the goals of the system and the user are orthogonal. Prior work investigating systems-based deception detection has focused on the identification of reliable deception indicators. This research extends extant work by looking at how users of deception detection systems alter their behavior in response to the presence of guilty knowledge, relevant stimuli, and system knowledge. An analysis of data collected during two laboratory experiments reveals that guilty knowledge, relevant stimuli, and system knowledge all lead to increased use of countermeasures. The implications and limitations of this research are discussed and avenues for future research are outlined.
-
-@highlight We present adversarial systems as a novel/growing area of IS research.
-@highlight Knowledge of a deception system's operations increases countermeasure use.
-@highlight Presenting deceivers with relevant stimuli increases countermeasure use.
-@highlight Truth tellers use countermeasures when aware of the system's functionality.
-@highlight An extensive set of novel countermeasures is identified.

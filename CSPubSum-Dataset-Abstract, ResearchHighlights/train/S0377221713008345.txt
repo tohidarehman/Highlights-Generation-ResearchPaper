@@ -1,6 +1,0 @@
- Expertons and uncertain aggregation operators are tools for dealing with imprecise information that can be assessed with interval numbers. This paper introduces the uncertain generalized probabilistic weighted averaging (UGPWA) operator. It is an aggregation operator that unifies the probability and the weighted average in the same formulation considering the degree of importance that each concept has in the aggregation. Moreover, it is able to assess uncertain environments that cannot be assessed with exact numbers but it is possible to use interval numbers. Thus, we can analyze imprecise information considering the minimum and the maximum result that may occur. Further extensions to this approach are presented including the quasi-arithmetic uncertain probabilistic weighted averaging operator and the uncertain generalized probabilistic weighted moving average. We analyze the applicability of this new approach in a group decision making problem by using the theory of expertons in strategic management.
-
-@highlight A new group decision making method based on the theory of expertons.
-@highlight A generalization of the PWA by using generalized means and uncertain information.
-@highlight Aggregation operators that combine subjective and objective information.
-@highlight Moving averages in the uncertain generalized probabilistic weighted average.

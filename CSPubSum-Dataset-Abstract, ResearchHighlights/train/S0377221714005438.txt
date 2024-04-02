@@ -1,6 +1,0 @@
- This paper uses a fully nonparametric approach to estimate efficiency measures for primary care units incorporating the effect of (exogenous) environmental factors. This methodology allows us to account for different types of variables (continuous and discrete) describing the main characteristics of patients served by those providers. In addition, we use an extension of this nonparametric approach to deal with the presence of undesirable outputs in data, represented by the rates of hospitalization for ambulatory care sensitive condition (ACSC). The empirical results show that all the exogenous variables considered have a significant and negative effect on efficiency estimates.
-
-@highlight We estimate efficiency measures for a set of primary care units.
-@highlight We consider both (continuous and discrete) exogenous variables.
-@highlight We also deal with the presence of undesirable outputs in data.
-@highlight The characteristics of the population have a significant effect on results.

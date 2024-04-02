@@ -1,7 +1,0 @@
- The Permutation Flow Shop Scheduling Problem (PFSP) is a complex combinatorial optimization problem. PFSP has been widely studied as a static problem using heuristics and metaheuristics. In reality, PFSPs are not usually static, but are rather dynamic, as customer orders are placed at random time intervals. In the dynamic problem, two tasks must be considered: (i) should a new order be accepted? and (ii) if accepted, how can this schedule be ordered, when some orders may be already under process and or be in the queue for processing? For the first task, we propose a simple heuristic based decision process, and for the second task, we developed a Genetic Algorithm (GA) based approach that is applied repeatedly for re-optimization as each new order arrives. The usefulness of the proposed approach has been demonstrated by solving a set of test problems. In addition the proposed approach, along with a simulation model, has been tested for maximizing the revenue of a flow shop production business under different order arrival scenarios. Finally, a case study is presented to show the applicability of the proposed approach in practice.
-
-@highlight Proposed a new Real-Time strategy for solving Flow Shop Scheduling Problems.
-@highlight Designed a set of benchmark to test the performance of the approach.
-@highlight The algorithm is compared with the traditional Right Shifting strategy.
-@highlight Numerical results show that the approach improves financial return.
-@highlight A case study is provided to show the applicability of the proposed approach.

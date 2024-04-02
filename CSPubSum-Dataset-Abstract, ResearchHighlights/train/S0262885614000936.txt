@@ -1,7 +1,0 @@
- This paper presents a matching strategy to improve the discriminative power of histogram-based keypoint descriptors by constraining the range of allowable dominant orientations according to the context of the scene under observation. This can be done when the descriptor uses a circular grid and quantized orientation steps, by computing or providing a global reference orientation based on the feature matches. The proposed matching strategy is compared with the standard approaches used with the SIFT and GLOH descriptors and the recent rotation invariant MROGH and LIOP descriptors. A new evaluation protocol based on an approximated overlap error is presented to provide an effective analysis in the case of non-planar scenes, thus extending the current state-of-the-art results.
-
-@highlight Novel matching strategies for histogram-based descriptors are presented.
-@highlight Global dominant orientation is used by exploiting the image context.
-@highlight A new 3D extensible framework to evaluate feature descriptors is introduced.
-@highlight 2D/3D comparisons with state-of-the-art rotational invariant descriptors are reported.
-@highlight Results show the effectiveness of the proposed matching approaches.

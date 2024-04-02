@@ -1,6 +1,0 @@
- Aeroelastic flutter is a dangerous failure mode, and aircraft structural components are designed under a deterministic flutter margin. Meeting this safety factor may result in overly-conservative structures, however, an alternative approach incorporates uncertainties into the computational models, and imposes a maximum allowable flutter probability during the optimization process. This technique is demonstrated for the variable-thickness design of an elastic panel subjected to supersonic flow. A performance measure approach based on the first-order reliability method incorporates probabilistic flutter constraints during the search for a minimum-mass panel. Optimization results are given for uncertainties in the panel's boundary conditions, and for non-deterministic thickness design variables.
-
-@highlight Structural optimization for aeroelastic flutter is dictated by an eigenvalue migration problem.
-@highlight Uncertain boundary conditions can be included in the design process for aerospace panels.
-@highlight An efficient compromise between safety and structural mass is obtained with RBDO.
-@highlight The optimal topological distribution of material differs for deterministic and uncertain panels.

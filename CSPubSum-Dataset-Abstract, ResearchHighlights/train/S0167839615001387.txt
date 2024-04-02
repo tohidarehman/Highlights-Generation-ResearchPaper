@@ -1,9 +1,0 @@
- This survey paper describes the role of splines in geometry and topology, emphasizing both similarities and differences from the classical treatment of splines. The exposition is non-technical and contains many examples, with references to more thorough treatments of the subject. The goal of this survey paper is to describe how splines arise in geometry and topology. Geometric splines usually appear under the name GKM theory after GoreskyÃ¢ÂÂKottwitzÃ¢ÂÂMacPherson, who developed them to compute what is called the cohomology ring of a geometric object. Geometers and analysts ask many of the same questions about splines: what is their dimension? can we identify a basis? can we find explicit formulas for the elements of the basis? However geometric constraints can change the tone of these questions: the splines may satisfy various symmetries or have a basis satisfying certain conditions. And some questions are specific to geometric splines: geometers particularly care about the multiplication table with respect to a given basis.
-
-@highlight Many varieties X have a graph
-@highlight that describes their essential geometric features.
-@highlight The splines
-@highlight Ã¢ÂÂ
-@highlight form the equivariant cohomology ring and encode key data about X.
-@highlight We describe geometric tools to analyze splines that differ from classical tools.
-@highlight We give an algebraic and combinatorial generalization called generalized splines.

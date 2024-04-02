@@ -1,7 +1,0 @@
- We consider the One Warehouse Multi-Retailer (OWMR) problem with deterministic time-varying demand in the case where shortages are allowed. Demand may be either backlogged or lost. We present a simple combinatorial algorithm to build an approximate solution from a decomposition of the system into single-echelon subproblems. We establish that the algorithm has a performance guarantee of 3 for the OWMR with backlog under mild assumptions on the cost structure. In addition, we improve this guarantee to 2 in the special case of the Joint-Replenishment Problem (JRP) with backlog. As a by-product of our approach, we show that our decomposition provides a new lower bound of the optimal cost. A similar technique also leads to a 2-approximation for the OWMR problem with lost-sales. In all cases, the complexity of the algorithm is linear in the number of retailers and quadratic in the number of time periods, which makes it a valuable tool for practical applications. To the best of our knowledge, these are the first constant approximations for the OWMR with shortages.
-
-@highlight We consider the OWMR problem with deterministic time-varying demand.
-@highlight We propose a combinatorial algorithm based on a decomposition into single-echelon problems.
-@highlight With backlog, the algorithm has a performance guarantee of 3.
-@highlight This guarantee is improved to 2 in the JRP special case.
-@highlight With lost sales, a similar technique leads to a 2-approximation.

@@ -1,7 +1,0 @@
- Background and objective Early childhood caries (ECC) is a potentially severe disease affecting children all over the world. The available findings are mostly based on a logistic regression model, but data mining, in particular association rule mining, could be used to extract more information from the same data set. Methods ECC data was collected in a cross-sectional analytical study of the 10% sample of preschool children in the South Bačka area (Vojvodina, Serbia). Association rules were extracted from the data by association rule mining. Risk factors were extracted from the highly ranked association rules. Results Discovered dominant risk factors include male gender, frequent breastfeeding (with other risk factors), high birth order, language, and low body weight at birth. Low health awareness of parents was significantly associated to ECC only in male children. Conclusions The discovered risk factors are mostly confirmed by the literature, which corroborates the value of the methods.
-
-@highlight We look for an approach to massive risk factor discovery for early childhood caries.
-@highlight Association rule mining with adequate rule pruning and ranking performs well.
-@highlight Literature supports most risk factors identified in associative analysis.
-@highlight When coupled with other risk factors frequent breastfeeding confirmed as a risk.
-@highlight Parent health awareness significant only for boys.

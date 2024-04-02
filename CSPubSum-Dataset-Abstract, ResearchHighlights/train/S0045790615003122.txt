@@ -1,6 +1,0 @@
- Designing a lightweight, secure communication protocol for Wireless Sensor Networks (WSNs) remains a challenging issue since sensor networks are resource limited and are left unattended. Sensor nodes in WSNs are subjected to varying forms of attacks. An adversary may destroy or damage the communications done in multi-hop WSNs by means of packet dropping and modification. Hence it is essential to have an efficient cryptographic scheme to protect the communications done in WSNs. This study introduces a Reliable Anonymous Secure Packet forwarding (RASP) scheme that can prevent not only traffic analysis attack but also the attacks done through compromised forwarding nodes. The mechanisms followed here are effective with low computation and communication overhead. The performance of the proposed scheme is evaluated over NS2 with a series of simulation. The simulated results show that the proposed scheme performs better than other comparable schemes.
-
-@highlight Establishing an optimal communication path for reliable data delivery.
-@highlight Privacy for sensor readings through security service anonymity.
-@highlight Incremental hashing in establishing secure channel.
-@highlight Symmetric key management with key refreshness.

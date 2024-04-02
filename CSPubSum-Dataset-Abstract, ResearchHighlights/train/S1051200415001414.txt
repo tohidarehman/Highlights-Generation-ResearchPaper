@@ -1,5 +1,0 @@
- Conventional Fuzzy C-means (FCM) algorithm uses Euclidean distance to describe the dissimilarity between data and cluster prototypes. Since the Euclidean distance based dissimilarity measure only characterizes the mean information of a cluster, it is sensitive to noise and cluster divergence. In this paper, we propose a novel fuzzy clustering algorithm for image segmentation, in which the Mahalanobis distance is utilized to define the dissimilarity measure. We add a new regularization term to the objective function of the proposed algorithm, reflecting the covariance of the cluster. We experimentally demonstrate the effectiveness of the proposed algorithm on a generated 2D dataset and a subset of Berkeley benchmark images.
-
-@highlight Introduce the Mahalanobis distance which is more efficient than the Euclidean distance to FCM based algorithm.
-@highlight Introduce a regularization term to improve the segmentation results.
-@highlight Combine the Mahalanobis distance and the regularization term with the FCM algorithm based on KL information.

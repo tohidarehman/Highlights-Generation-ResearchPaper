@@ -1,8 +1,0 @@
- Transcendental curves, or in general those resulting from offsetting, do not admit an exact rational or polynomial representation and must hence be approximated in order to incorporate them into most commercial CAD systems. We present a simple, yet general geometric tool for polynomial approximation, based on piecewise Hermite interpolation with quasi arc-length parameterization, a desirable property for robotics or CNC. We take the osculatory Hermite interpolation, prescribing position, tangent direction and curvature at the endpoints, and add quasi arc-length conditions, by imposing unit speed and vanishing tangential acceleration. These new conditions fit naturally into this scheme, yielding a quintic with Bézier points that turn out to display extremely simple geometry. In addition we consider a lower degree alternative to the quintic, namely a cubic B-spline. Finally, we include two examples of applications (the approximations of regular offsets and the clothoid) and compare our results with those from commercial systems or existing methods.
-
-@highlight Transcendental curves and most offsets do not admit exact NURBS representation.
-@highlight We apply Hermite interpolation to achieve
-@highlight quasi arc-length approximation.
-@highlight Two alternative tools are considered: piecewise Bézier quintics and cubic B-splines.
-@highlight The quintic displays simple control points, with locally nonparametric arrangement.
-@highlight We approximate offsets and clothoids and compare our results with existing software.

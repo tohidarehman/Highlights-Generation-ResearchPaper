@@ -1,7 +1,0 @@
- We discuss bi-harmonic fields which approximate signed distance fields. We conclude that the bi-harmonic field approximation can be a powerful tool for mesh completion in general and complex cases. We present an adaptive, multigrid algorithm to extrapolate signed distance fields. By defining a volume mask in a closed region bounding the area that must be repaired, the algorithm computes a signed distance field in well-defined regions and uses it as an over-determined boundary condition constraint for the biharmonic field computation in the remaining regions. The algorithm operates locally, within an expanded bounding box of each hole, and therefore scales well with the number of holes in a single, complex model. We discuss this approximation in practical examples in the case of triangular meshes resulting from laser scan acquisitions which require massive hole repair. We conclude that the proposed algorithm is robust and general, and is able to deal with complex topological cases.
-
-@highlight A volumetric mesh repair algorithm, based on bi-harmonic fields.
-@highlight The pre-computation of a volume mask to over-constrain the boundary conditions.
-@highlight A discrete solution of the bi-harmonic equation based on a quadratic optimization.
-@highlight A fully automatic algorithm for massive hole repair in very large triangle meshes.
-@highlight The ability to handle complex hole topologies having islands and general shapes.

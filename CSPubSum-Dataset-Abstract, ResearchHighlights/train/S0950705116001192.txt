@@ -1,7 +1,0 @@
- Many of our daily life decisions rely on demographic data, which is a good indicator for closeness of people. However, the lack of these data for many online systems let them search for explicit or implicit alternatives. Among many, collaborative filtering is the alternative solutions especially for e-commerce applications where many users are reluctant to disclose their demographic data. This paper explores, discusses and examines many user-profiling approaches for demographic recommender systems (DRSs). These approaches span many alternatives for profiling users in terms of the attribute types, attribute representations, and the profiling way. We present layout, description, and appropriate similarity computation methods for each one of them. A detailed comparison between these different approaches is given using many experiments conducted on a real dataset. The pros and cons of each approach are illustrated for more advantage that may open a window for future work.
-
-@highlight Many DRSs are available in our daily life and many online services will be more personalized if demographic data is taken into account.
-@highlight Unipolar or bipolar similarity measures can be used for categorical attributes profile.
-@highlight Treating age as a fuzzy variable improves the system performance and reflects the real life case.
-@highlight Results of the unified profiling approaches are almost similar with minor differences.
-@highlight Single-attribute profiling approach brings to light the advantage of each attribute of the profile.

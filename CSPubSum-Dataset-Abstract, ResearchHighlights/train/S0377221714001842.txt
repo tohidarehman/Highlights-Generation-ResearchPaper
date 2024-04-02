@@ -1,5 +1,0 @@
- Although splitting shipments across multiple delivery modes typically increases total shipping costs as a result of diseconomies of scale, it may offer certain benefits that can more than offset these costs. These benefits include a reduction in the probability of stockout and in the average inventory costs. We consider a single-stage inventory replenishment model that includes two delivery modes: a cheaper, less reliable mode, and another, more expensive but perfectly reliable mode. The high-reliability mode is only utilized in replenishment intervals in which the lead time of the less-reliable mode exceeds a certain value. This permits substituting the high-reliability mode for safety stock, to some degree. We characterize optimal replenishment decisions with these two modes, as well as the potential benefits of simultaneously using two delivery modes.
-
-@highlight Analysis of an inventory replenishment model with two transportation modes.
-@highlight Demonstrates potential benefits of delivery mode splitting.
-@highlight Strategic use of quick response supplier to reduce inventory cost.

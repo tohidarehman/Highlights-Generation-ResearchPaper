@@ -1,6 +1,0 @@
- This paper presents a new approach to simplify 3D binary images and general orthogonal pseudo-polyhedra (OPP). The method is incremental and produces a level-of-detail sequence of OPP, where any object of this sequence bounds the previous objects and, therefore, is a bounding orthogonal approximation of them. The sequence finishes with the axis-aligned bounding box. OPP are encoded using the Extreme Vertices Model, a complete model that stores a subset of their vertices and performs fast Boolean operations. Simplification is achieved by using a new strategy, which relies on the application of 2D Boolean operations. We also present a technique, based on model continuity, for better shape preservation. Finally, we present a data structure to encode in a progressive and lossless way the generated sequence. Tests with several datasets show that the proposed method produces smaller storage sizes and good quality approximations compared with other methods that also produce bounding objects.
-
-@highlight We present a new approach to simplify binary volumes.
-@highlight The method produces a level-of-detail sequence of orthogonal pseudo-polyhedra.
-@highlight The generated sequence is encoded in a progressive and lossless way.
-@highlight Our method produces smaller storage sizes and good quality approximations compared with similar methods.

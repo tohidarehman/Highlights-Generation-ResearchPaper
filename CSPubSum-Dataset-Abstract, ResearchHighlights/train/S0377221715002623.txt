@@ -1,7 +1,0 @@
- We propose, in this paper, a new method to initialize the simplex algorithm. This approach does not involve any artificial variables. It can detect also the redundant constraints or infeasibility, if any. Generally, the basis found by this approach is not feasible. To achieve feasibility, this algorithm appeals to the nonfeasible basis method (NFB). Furthermore, we propose a new pivoting rule for NFB method, which shows to be beneficial in both numerical and time complexity. When solving a linear program, we develop an efficient criterion to decide in advance which algorithm between NFB and formal nonfeasible basis method seems to be more rapid. Comparative analysis is carried out with a set of standard test problems from Netlib. Our computational results indicate that the proposed algorithm is more advantageous than two-phase and perturbation algorithm in terms of number of iterations, number of involved variables, and also computational time.
-
-@highlight Proposes an algebraic simplex initialization exploring the infeasibility principle.
-@highlight This method does not involve any artificial variables, it is relatively rapid.
-@highlight A new pivoting rule for the NonFeasible Basis Method is proposed.
-@highlight An algorithm (PFNFB) for LP is derived from the formal tableau notion.
-@highlight PFNFB is advantageous in both numerical complexity and running time.

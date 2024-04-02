@@ -1,6 +1,0 @@
- With the ongoing trend of mass-customization and an increasing product variety, just-in-time part logistics more and more becomes one of the greatest challenges in today’s automobile production. Thousands of parts and suppliers, a multitude of different equipments, and hundreds of logistics workers need to be coordinated, so that the final assembly lines never run out of parts. This paper describes the elementary process steps of part logistics in the automotive industry starting with the initial call order to the return of empty part containers. In addition to a detailed process description, important decision problems are specified, existing literature is surveyed, and open research challenges are identified.
-
-@highlight We structure the field of part logistics in the automotive industry.
-@highlight All relevant process steps and belonging decision problems are described.
-@highlight We survey the relevant literature.
-@highlight Important future research needs are identified.

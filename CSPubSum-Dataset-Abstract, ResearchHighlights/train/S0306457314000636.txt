@@ -1,7 +1,0 @@
- Applying text mining techniques to legal issues has been an emerging research topic in recent years. Although a few previous studies focused on assisting professionals in the retrieval of related legal documents, to our knowledge, no previous studies could provide relevant statutes to the general public using problem statements. In this work, we design a text mining based method, the three-phase prediction (TPP) algorithm, which allows the general public to use everyday vocabulary to describe their problems and find pertinent statutes for their cases. The experimental results indicate that our approach can help the general public, who are not familiar with professional legal terms, to acquire relevant statutes more accurately and effectively.
-
-@highlight In the legal domain, this method for statute prediction is a new research topic.
-@highlight We predict relevant statutes for the problem described by everyday vocabulary.
-@highlight The gap between lay terms and legal terms was remedied without using a synopsis.
-@highlight Employing the Normalized Google Distance, SVM and Apriori algorithms into TPP.
-@highlight The result shows the performance of TPP is accurately and effectively.

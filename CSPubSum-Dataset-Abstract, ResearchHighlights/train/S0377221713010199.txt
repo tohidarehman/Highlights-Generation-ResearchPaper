@@ -1,7 +1,0 @@
- We study a class of non-convex optimization problems involving sigmoid functions. We show that sigmoid functions impart a combinatorial element to the optimization variables and make the global optimization computationally hard. We formulate versions of the knapsack problem, the generalized assignment problem and the bin-packing problem with sigmoid utilities. We merge approximation algorithms from discrete optimization with algorithms from continuous optimization to develop approximation algorithms for these NP-hard problems with sigmoid utilities.
-
-@highlight Root cause analysis of hardness of problems with sigmoid utility.
-@highlight Design of hybrid algorithms merging continuous and discrete optimization.
-@highlight Constant factor algorithm for knapsack problem with sigmoid utility.
-@highlight Constant factor algorithm for generalized assignment problem with sigmoid utility.
-@highlight Approximation algorithm for bin-packing problem with sigmoid utility.

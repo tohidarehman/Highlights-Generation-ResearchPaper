@@ -1,7 +1,0 @@
- Sketch-based 3D shape retrieval has become an important research topic in content-based 3D object retrieval. To foster this research area, two Shape Retrieval Contest (SHREC) tracks on this topic have been organized by us in 2012 and 2013 based on a small-scale and large-scale benchmarks, respectively. Six and five (nine in total) distinct sketch-based 3D shape retrieval methods have competed each other in these two contests, respectively. To measure and compare the performance of the top participating and other existing promising sketch-based 3D shape retrieval methods and solicit the state-of-the-art approaches, we perform a more comprehensive comparison of fifteen best (four top participating algorithms and eleven additional state-of-the-art methods) retrieval methods by completing the evaluation of each method on both benchmarks. The benchmarks, results, and evaluation tools for the two tracks are publicly available on our websites .
-
-@highlight Build a small scale and a large scale sketch-based 3D model retrieval benchmark.
-@highlight Evaluate 15 best sketch-based 3D model retrieval algorithms on the two benchmarks.
-@highlight Solicit and identify the state-of-the-art methods and promising related techniques.
-@highlight Incisive analysis on diverse methods w.r.t scalability and efficiency performance.
-@highlight The benchmarks and evaluation tools provide good reference to the related community.

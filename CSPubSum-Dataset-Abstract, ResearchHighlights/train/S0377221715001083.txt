@@ -1,7 +1,0 @@
- In this paper, we take a novel approach to address the dilemma of innovation sharing versus protection among supply chain partners. The paper conducts an exploratory study that introduces factors affecting a firm's optimum supply chain innovation strategy. We go beyond the conventional Prisonersâ€™ Dilemma, with its limiting assumptions of playersâ€™ preferences and symmetry, to explore a larger pool of 2 Ã— 2 games that may effectively model the problem. After classifying firm types according to collaboration motive and relative power, we use simulation to explore the effects of firm type, opponent type, and payoff structure on repeated innovation interactions (or, equivalently, long-term relations) and optimality of â€˜nicenessâ€™. Surprisingly, we find that opponent type is essentially irrelevant in long-term innovation interactions, and focal firm type is only conditionally relevant. The paper contributes further by introducing reciprocation of strategy type (nice versus mean), showing that reciprocation is recommended, while identifying and explaining the exceptions to this conclusion.
-
-@highlight We explore determinants of supply chain innovation strategies.
-@highlight Strategies can generally be mean, if defecting without provocation or nice otherwise.
-@highlight Partner’s preference ordering is irrelevant in long-term innovation interactions.
-@highlight Gain from inducing partner's cooperation determines reciprocation of strategy type.
-@highlight There are four zones of innovation interaction: cooperation, abuse, tolerance and rivalry.

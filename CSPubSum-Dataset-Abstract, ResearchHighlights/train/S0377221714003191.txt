@@ -1,6 +1,0 @@
- We consider multi-stage stochastic fluid models (SFMs), driven by applications in telecommunications and manufacturing in which control of the behavior of the system during congestion may be required. In a two-stage SFM, the process starts from Stage 1 in level 0, and moves to Stage 2 when reaching threshold from below. Stage 1 starts again when reaching threshold from above. While in a particular stage, the process evolves according to a traditional SFM with a unique set of phases, generator and fluid rates. We first consider a two-stage SFM with general, real fluid change rates. Next, we analyze a two-stage SFM with an upper boundary . Finally, we discuss a generalization to multi-stage SFMs. We use matrix-analytic methods and derive efficient methodology for the analysis of this class of models.
-
-@highlight We present multi-stage stochastic fluid models for congestion control.
-@highlight These models are driven by applications in telecommunications and manufacturing.
-@highlight We use elegant matrix-analytic methods and direct analysis methods.
-@highlight We derive efficient methodology for the transient and stationary analysis.

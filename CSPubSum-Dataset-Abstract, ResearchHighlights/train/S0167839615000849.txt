@@ -1,4 +1,0 @@
- We provide a simple, efficient technique for computing μ-bases for quadric surfaces from their rational quadratic parametrizations. Our major innovation is to simplify the computations by using complex parameters, even though all the surfaces we treat have only real coefficients in both their implicit and parametric representations. In addition to the theory, we provide several examples to illustrate our method.
-
-@highlight A simple, efficient technique for computing μ-bases for quadric surfaces from their rational quadratic parametrizations.
-@highlight We use complex parameters, even though all the surfaces we treat have only real coefficients.

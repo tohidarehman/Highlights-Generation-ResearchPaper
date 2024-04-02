@@ -1,6 +1,0 @@
- The -invariant of a rational space curve gives important information about the curve. In this paper, we describe the structure of all parameterizations that have the same -type, what we call a μ-stratum, and as well the closure of strata. Many of our results are based on papers by the second author that appeared in the commutative algebra literature. We also present new results, including an explicit formula for the codimension of the locus of non-proper parametrizations within each -stratum and a decomposition of the smallest -stratum based on which two-dimensional rational normal scroll the curve lies on.
-
-@highlight We compute dimension of each stratum.
-@highlight The closure of each stratum is explicitly given as a union of smaller strata.
-@highlight Non-proper parametrizations are of high codimension in each stratum.
-@highlight The smallest stratum is further stratified by rational normal scrolls.

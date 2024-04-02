@@ -1,6 +1,0 @@
- New technologies are making videoconferencing more ubiquitous than ever. This imposes a big challenge for scaling software MCUs, the traditional videoconferencing servers. We propose, implement and test an architecture for a distributed MCU designed to be deployed in a Cloud Computing environment. The main design idea is to break monolithic MCUs into more simple parts: broadcasters. These broadcasters can be deployed independently on the fly. This achieves a higher deployment granularity and flexibility. We describe the control architecture that allows this distribution and prove the viability of the system with a fully developed implementation.
-
-@highlight We propose a distributed architecture for video conferencing servers (MCUs).
-@highlight The MCU is divided into simple parts that broadcast streams, OneToManys.
-@highlight We describe and evaluate the new control architecture that allows distributed deployment.
-@highlight This solution provides improved scalability and deployment granularity.

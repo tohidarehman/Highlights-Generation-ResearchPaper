@@ -1,6 +1,0 @@
- The Colliding Bodies Optimization (CBO) algorithm is a metaheuristic algorithm inspired by the physics laws of collision in which each candidate solution is modeled as an agent with mass body in proportion to the fitness of the solution. In this paper a modified version of CBO, denoted by MCBO, is utilized to optimize the cost of bridge superstructures. The problem consists of 17 variables and 101 implicit constraints based on AASHTO standard specifications and construction limitations. The optimization is performed for bridges with different span lengths and deck widths, and with various unit costs of concrete. A comparison among the PSO, CBO, and MCBO algorithms is conducted which shows the efficiency and robustness of the MCBO algorithm.
-
-@highlight A modified version of CBO, denoted by MCBO, is utilized to optimize the cost of bridge superstructures.
-@highlight The problem consists of 17 variables and 101 implicit constraints based on AASHTO standard.
-@highlight Optimization is performed for bridges with different span lengths, deck widths, and with various unit costs of concrete.
-@highlight A comparison among the PSO, CBO, and MCBO algorithms is conducted.

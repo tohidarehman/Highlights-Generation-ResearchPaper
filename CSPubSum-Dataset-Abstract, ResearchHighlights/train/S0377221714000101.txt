@@ -1,7 +1,0 @@
- This paper presents an overview of methods for the analysis of data structured in blocks of variables or in groups of individuals. More specifically, regularized generalized canonical correlation analysis (RGCCA), which is a unifying approach for multiblock data analysis, is extended to be also a unifying tool for multigroup data analysis. The versatility and usefulness of our approach is illustrated on two real datasets.
-
-@highlight Multiblock and multigroup data analysis methods are reviewed in the introduction.
-@highlight We propose a new version of the RGCCA algorithm so that it can be used for both multiblock and multigroup data.
-@highlight We remind that many multiblock data analysis methods are special cases of RGCCA.
-@highlight We show how to use RGCCA for multigroup data analysis.
-@highlight We illustrate RGCCA for multiblock and multigroup data on two real datasets.

@@ -1,7 +1,0 @@
- Visually induced motion sickness (VIMS) is a well-known side-effect in virtual environments or simulators. However, effective behavioral countermeasures against VIMS are still sparse. In this study, we tested whether music can reduce the severity of VIMS. Ninety-three volunteers were immersed in an approximately 14-minute-long video taken during a bicycle ride. Participants were randomly assigned to one of four experimental groups, either including relaxing music, neutral music, stressful music, or no music. Sickness scores were collected using the Fast Motion Sickness Scale and the Simulator Sickness Questionnaire. Results showed an overall trend for relaxing music to reduce the severity of VIMS. When factoring in the subjective pleasantness of the music, a significant reduction of VIMS occurred only when the presented music was perceived as pleasant, regardless of the music type. In addition, we found a gender effect with women reporting more sickness than men. We assume that the presentation of pleasant music can be an effective, low-cost, and easy-to-administer method to reduce VIMS.
-
-@highlight Music as a countermeasure against visually induced motion sickness (VIMS) was tested.
-@highlight Different music types (relaxing, neutral, stressful, or no music) were chosen.
-@highlight Relaxing music showed a non-significant trend to reduce VIMS.
-@highlight Music rated as pleasant significantly reduced the severity of VIMS.
-@highlight Pleasant music could act as an effective and low-cost countermeasure against VIMS.

@@ -1,7 +1,0 @@
- The development of connected mobile applications is a complex task due to device diversity. Therefore, device-independent approaches are aimed at hiding the differences among the distinct mobile devices in the market. This work proposes DIMAG, a software framework to generate connected mobile applications for multiple software platforms, following a declarative approach. DIMAG provides transparent data and state synchronization between the server and the client side applications. The proposed platform has been designed making use of existing standards, extending them when a required functionality is not provided.
-
-@highlight The DIMAG framework generates platform-independent connected mobile applications.
-@highlight Existing standards were used and refined in the design and implementation of DIMAG.
-@highlight Client–server applications are specified in a declarative way.
-@highlight Server side of applications is generated for the Java EE platform.
-@highlight It dynamically generates client applications for Android, Java ME and Windows Phone.

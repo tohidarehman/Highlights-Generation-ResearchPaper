@@ -1,6 +1,0 @@
- In distribution problems, and specifically in bankruptcy issues, the Proportional (P) and the Egalitarian (EA) divisions are two of the most popular ways to resolve the conflict. Nonetheless, when using the egalitarian division, agents may receive more than her claim. We propose a compromise between the proportional and the egalitarian approaches by considering the restriction that no one receives more than her claim. We show that the most egalitarian compromise fulfilling this restriction ensures a minimum amount to each agent. We also show that this compromise can be interpreted as a process that works in two steps as follows: first, all agents receive an equal share up to the smallest claim if possible (egalitarian distribution), and then, the remaining estate (if any) is allocated proportionally to the remaining claims (proportional distribution). Finally, we obtain that the recursive application of this process finishes at the Constrained Equal Awards solution (CEA).
-
-@highlight We propose a compromise between the egalitarian and proportional solutions.
-@highlight Our solution ensures to each agent a minimal survival amount.
-@highlight We recover the Constrained Equal Awards solution by a recursive process based on Self-composition.
-@highlight Our solution can be understood as a kind of “Constrained Proportional” solution.

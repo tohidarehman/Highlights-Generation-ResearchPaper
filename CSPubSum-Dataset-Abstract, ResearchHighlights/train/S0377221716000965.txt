@@ -1,7 +1,0 @@
- We present numerical approximations of optimal portfolios in mispriced Lévy markets under asymmetric information for informed and uninformed investors having logarithmic preference. jump-diffusion markets by deriving analytic formulas for the first two derivatives of the underlying portfolio objective function which depend only on the Lévy measure of the jump-generating process. Optimal portfolios are then simulated using the Box–Muller algorithm, Newton’s method and incomplete Beta functions. Convergence dynamics and trajectories of sample paths of optimal portfolios for both investors are presented at different levels of information asymmetry, mispricing, horizon, asymmetry in the Kou density, jump intensity, volatility, mean-reversion speed, and Sharpe ratios. We also apply the proposed Newton’s algorithm to compute optimal portfolios for investors in Variance Gamma markets via instantaneous centralized moments of returns.
-
-@highlight Optimal portfolios in mispriced asymmetric Levy markets are presented.
-@highlight The model is applied to the Kou jump-diffusion and VG markets.
-@highlight Analytic formulas are derived for derivatives of the portfolio objective function.
-@highlight Optimal portfolios are simulated via Newton’s method and incomplete Beta functions.
-@highlight Optimal portfolios are presented with levels of information asymmetry and horizon.

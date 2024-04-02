@@ -1,6 +1,0 @@
- There are some specific features of the non-radial data envelopment analysis (DEA) models which cause some problems for the returns to scale measurement. In the scientific literature on DEA, some methods were suggested to deal with the returns to scale measurement in the non-radial DEA models. These methods are based on using Strong Complementary Slackness Conditions from optimization theory. However, our investigation and computational experiments show that such methods increase computational complexity significantly and may generate as optimal, solutions contradicting optimization theory. In this paper, we propose and substantiate a direct method for the returns to scale measurement in the non-radial DEA models. Our computational experiments documented that the proposed method works reliably and efficiently on the real-life data sets.
-
-@highlight How to find returns to scale in non-radial DEA models is investigated.
-@highlight An empirical example shows that imposing SCSC may not work.
-@highlight A procedure for discovering all units belonging to the minimum face is developed.
-@highlight Theorems and lemmas underpinning the procedure are given.

@@ -1,6 +1,0 @@
- The Biobjective Shortest Path Problem (BSP) is the problem of finding (one-to-one) paths from a start node to an end node, while simultaneously minimizing two (conflicting) objective functions. We present an exact recursive method based on implicit enumeration that aggressively prunes dominated solutions. Our approach compares favorably against a top-performer algorithm on two large testbeds from the literature and efficiently solves the BSP on large-scale networks with up to 1.2 million nodes and 2.8 million arcs. Additionally, we describe how the algorithm can be extended to handle more than two objectives and prove the concept on networks with up to 10 objectives.
-
-@highlight Recursive exact algorithm that implicitly enumerates all solutions.
-@highlight Fast method that works well on graphs of up to 1.2 million nodes and 2.8 million arcs.
-@highlight Consistently outperformed a top-performer benchmark algorithm for real road networks.
-@highlight Easily extensible to the multiobjective shortest path problem with three or more objectives.

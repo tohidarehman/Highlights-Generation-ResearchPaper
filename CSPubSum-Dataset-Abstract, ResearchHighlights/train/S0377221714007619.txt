@@ -1,7 +1,0 @@
- The study addresses a distributor's delivery strategy problem with consideration of carbon emissions, retailers’ time-dependent demands and demand–supply interactions. A mathematical programming model is formulated for solving optimal number and time-window of service cycles. A case study is presented. The results show that the distributor would adopt a frequent delivery strategy if carbon taxes are insufficiently high. Providing the retailers with price discounts does not work out since retailers would value the delays in receiving their ordered products more than the compensations of less frequent delivery given by the distributor in response to carbon taxes. Models with demand–supply interactions can result in larger profit and market share than those without demand–supply interactions. This study sheds new light to the distributors, the retailers, and the regulators in greening the logistics transport.
-
-@highlight Delivery schedule with carbon emissions and demand–supply interactions is explored.
-@highlight We use mathematical programming methods to determine the optimal decisions.
-@highlight Emissions cost has little effect on decisions providing the carbon taxes are small.
-@highlight Price discount is not work for compensating infrequent delivery under inelastic demand.
-@highlight Model with demand–supply interactions has larger profit than that without interaction.

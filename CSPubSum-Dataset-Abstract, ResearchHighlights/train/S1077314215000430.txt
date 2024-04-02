@@ -1,7 +1,0 @@
- Local features, such as scale-invariant feature transform (SIFT) and speeded up robust features (SURF), are widely used for describing an object in the applications of visual object recognition and classification. However, these approaches cannot apply to transparent objects made of glass or plastic, as such objects take on the visual features of background scenes, and the appearance of such objects dramatically varies with changes in the scenes. Indeed, transparent objects have the unique characteristic of distorting the background by refraction. In this paper, we use a single-shot light field image as input and model the distortion of the light field caused by the refractive property of a transparent object. We propose a new feature which is called the light field distortion (LFD) feature. The proposed feature is background-invariant so that it is able to describe a transparent object without knowing the texture of the scene. The proposal incorporates this LFD feature into the bag-of-features approach for classifying transparent objects. We evaluated its performance and analyzed the limitations in various settings.
-
-@highlight We introduce the light field camera for transparent object classification.
-@highlight We model the distortion of the light field caused by a transparent object.
-@highlight Background-invariant light field distortion (LFD) feature is proposed.
-@highlight Classification for a transparent object can be done by a single light field image.
-@highlight Experimental results show our method works well under various conditions.

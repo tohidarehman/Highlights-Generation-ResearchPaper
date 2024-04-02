@@ -1,6 +1,0 @@
- In this work, a novel comparative method for highly brittle materials such as aragonite crystals is proposed, which provides an efficient and accurate in-sight understanding for multi-scale fracture modeling. In particular, physically-motivated molecular dynamics (MD) simulations are performed to model quasi-static brittle crack propagation on the nano-scale and followingly compared to macroscopic modeling of fracture using the phase-field modeling (PFM) technique. A link between the two modeling schemes is later proposed by deriving PFM parameters from the MD atomistic simulations. Thus, in this combined approach, MD simulations provide a more realistic meaning and physical estimation of the PFM parameters. The proposed computational approach, that encompasses mechanics on discrete and continuum levels, can assist multi-scale modeling and easing, for instance, the simulation of biological materials and the design of new materials.
-
-@highlight A link between molecular and continuum models for brittle fracture is proposed.
-@highlight Parameters obtained from the molecular scale are used in the continuum approach.
-@highlight Under this approach, the phase-field parameters acquire an entirely physical meaning.
-@highlight This approach can assist multi-scale modeling of materials.

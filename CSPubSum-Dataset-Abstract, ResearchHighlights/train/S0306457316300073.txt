@@ -1,8 +1,0 @@
- Query suggestion is generally an integrated part of web search engines. In this study, we first redefine and reduce the query suggestion problem as “comparison of queries”. We then propose a general modular framework for query suggestion algorithm development. We also develop new query suggestion algorithms which are used in our proposed framework, exploiting query, session and user features. As a case study, we use query logs of a real educational search engine that targets K-12 students in Turkey. We also exploit educational features (course, grade) in our query suggestion algorithms. We test our framework and algorithms over a set of queries by an experiment and demonstrate a 66–90% statistically significant increase in relevance of query suggestions compared to a baseline method.
-
-@highlight Hightlights
-@highlight Query suggestion (QS) problem is reduced to “comparison of queries” problem.
-@highlight A modular and practical framework is suggested for development of QS algorithms.
-@highlight Breadth First Search graph traversal method is better for query-log traversing.
-@highlight Combining QS algorithms improves the performance.
-@highlight Suggested new QS algorithms achieved 66–90% performance increase.

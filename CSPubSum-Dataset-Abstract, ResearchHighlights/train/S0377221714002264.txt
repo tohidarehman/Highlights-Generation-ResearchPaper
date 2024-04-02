@@ -1,7 +1,0 @@
- Cross-docking is a distribution strategy that enables the consolidation of less-than-truckload shipments into full truckloads without long-term storage. Due to the absence of a storage buffer inside a cross-dock, local and network-wide cross-docking operations need to be carefully synchronized. This paper proposes a framework specifying the interdependencies between different cross-docking problem aspects with the aim to support future research in developing decision models with practical and scientific relevance. The paper also presents a new general classification scheme for cross-docking research based on the inputs and outputs for each problem aspect. After classifying the existing cross-docking research, we conclude that the overwhelming majority of papers fail to consider the synchronization of local and network-wide cross-docking operations. Lastly, to highlight the importance of synchronization in cross-docking networks, two real-life illustrative problems are described that are not yet addressed in the literature.
-
-@highlight Emphasizing the need for synchronization in cross-docking networks.
-@highlight Proposing a framework for developing cross-docking synchronization decision models.
-@highlight Presenting a review and classification of cross-docking literature.
-@highlight Classifying each paper using a new general classification scheme.
-@highlight Identifying avenues for future research.

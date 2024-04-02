@@ -1,5 +1,0 @@
- Most time series forecasting methods assume the series has no missing values. When missing values exist, interpolation methods, while filling in the blanks, may substantially modify the statistical pattern of the data, since critical features such as moments and autocorrelations are not necessarily preserved. In this paper we propose to interpolate missing data in time series by solving a smooth nonconvex optimization problem which aims to preserve moments and autocorrelations. Since the problem may be multimodal, Variable Neighborhood Search is used to trade off quality of the interpolation (in terms of preservation of the statistical pattern) and computing times. Our approach is compared with standard interpolation methods and illustrated on both simulated and real data.
-
-@highlight A new method for inputting values in time series is proposed.
-@highlight Variable Neighborhood Search successfully imputes missing values in time series.
-@highlight Contrary to standard procedures, our method matches targets for moments and autocorrelations.

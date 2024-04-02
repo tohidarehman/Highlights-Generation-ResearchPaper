@@ -1,6 +1,0 @@
- A directed network game of imperfect strategic substitutes with heterogeneous players is analyzed. We consider concave additive separable utility functions that encompass the quasi-linear ones. It is found that pure strategy Nash equilibria verify a non-linear complementarity problem. By requiring appropriate concavity in the utility functions, the existence of an equilibrium point is shown and equilibrium uniqueness is established with a P-matrix. For this reason, it appears that previous findings on network structure and sparsity hold for many more games.
-
-@highlight A network game is analyzed through a complementarity problem.
-@highlight We consider concave additive preferences that encompass the quasi-linear ones.
-@highlight Equilibrium uniqueness is established with a P-matrix.
-@highlight Our results extend previous findings related to network sparsity.

@@ -1,5 +1,0 @@
- The impact of aberration on the speckle suppression efficiency is investigated in a laser projector system containing a moving diffractive optical element (DOE). The results of a qualitative analysis based on the number of diffraction orders passed through the optical system are presented, along with a quantitative analysis built upon the Fresnel approximation and the thin lens model. It is shown that the speckle contrast in the paraxial area of the screen is practically insensitive to aberrations — limited to a few percent at most, due to the change in angle between diffraction orders. However, the speckle contrast in peripheral areas changes stepwise if aberrations change the number of diffraction orders that illuminate the area.
-
-@highlight Model to evaluate the influence of aberrations on speckle suppression efficiency (SS) is worked out.
-@highlight SS is practically insensitive to aberrations in paraxial area of screen.
-@highlight SS at periphery changes stepwise when the aberrations change the number of diffraction orders.

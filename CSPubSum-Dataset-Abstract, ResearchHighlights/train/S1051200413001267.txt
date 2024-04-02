@@ -1,6 +1,0 @@
- We investigate channel equalization problem for time-varying flat fading channels under bounded channel uncertainties. We analyze three robust methods to estimate an unknown signal transmitted through a time-varying flat fading channel. These methods are based on minimizing certain mean-square error criteria that incorporate the channel uncertainties into their problem formulations instead of directly using the inaccurate channel information that is available. We present closed-form solutions to the channel equalization problems for each method and for both zero mean and nonzero mean signals. We illustrate the performances of the equalization methods through simulations.
-
-@highlight Channel equalization for at fading channels.
-@highlight Affine minimax equalization method.
-@highlight Affine minimin equalization method.
-@highlight Affine minimax regret equalization method.

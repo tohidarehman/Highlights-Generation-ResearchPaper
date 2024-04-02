@@ -1,5 +1,0 @@
- The International Classification of Diseases (ICD) is a type of meta-data found in many Electronic Patient Records. Research to explore the utility of these codes in medical Information Retrieval (IR) applications is new, and many areas of investigation remain, including the question of how reliable the assignment of the codes has been. This paper proposes two uses of the ICD codes in two different contexts of search: Pseudo-Relevance Judgments (PRJ) and Pseudo-Relevance Feedback (PRF). We find that our approach to evaluate the TREC challenge runs using simulated relevance judgments has a positive correlation with the TREC official results, and our proposed technique for performing PRF based on the ICD codes significantly outperforms a traditional PRF approach. The results are found to be consistent over the two years of queries from the TREC medical test collection.
-
-@highlight A new approach, using ICD codes to substitute the manual relevance judgements.
-@highlight Improving IR effectiveness by using the proposed ICD based query expansion.
-@highlight A novel method to automatically map clinical queries into ICD codes.

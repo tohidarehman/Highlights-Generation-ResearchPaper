@@ -1,6 +1,0 @@
- Various subsets of self-avoiding walks naturally appear when investigating existing methods designed to predict the 3D conformation of a protein of interest. Two such subsets, namely the folded and the unfoldable self-avoiding walks, are studied computationally in this article. We show that these two sets are equal and correspond to the whole n-step self-avoiding walks for n ≤14, but that they are different for numerous n ≥108, which are common protein lengths. Concrete counterexamples are provided and the computational methods used to discover them are completely detailed. A tool for studying these subsets of walks related to both pivot moves and protein conformations is finally presented.
-
-@highlight We consider the folded and unfolded SAW.
-@highlight We show that these subsets are different for walks larger than 108 steps.
-@highlight We detail the computational methods used to discover examples.
-@highlight We present a tool for studying these subsets.

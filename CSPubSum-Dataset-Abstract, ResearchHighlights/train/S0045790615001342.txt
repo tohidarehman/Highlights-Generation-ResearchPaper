@@ -1,7 +1,0 @@
- Genetic programming (GP) is an evolutionary method that allows computers to solve problems automatically. However, the computational power required for the evaluation of billions of programs imposes a serious limitation on the problem size. This work focuses on accelerating GP to support the synthesis of large problems. This is done by completely exploiting the highly parallel environment of graphics processing units (GPUs). Here, we propose a new quantum-inspired linear GP approach that implements all the GP steps in the GPU and provides the following:  significant performance improvements in the GP steps,  elimination of the overhead of copying the fitness results from the GPU to the CPU, and  incorporation of a new selection mechanism to recognize the programs with the best evaluations. The proposed approach outperforms the previous approach for large-scale synthetic and real-world problems. Further, it provides a remarkable speedup over the CPU execution.
-
-@highlight A new quantum-inspired linear genetic programming system that runs on the GPU.
-@highlight Allows the synthesis of solutions for large-scale real-world problems.
-@highlight Eliminates the overhead of copying the fitness results from the GPU to the CPU.
-@highlight Proposes a new selection mechanism to recognize the programs with best evaluations.
-@highlight Improves performance of the GP execution through exploiting the GPU environment.

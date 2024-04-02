@@ -1,7 +1,0 @@
- This paper presents a thorough study of gender classification methodologies performing on neutral, expressive and partially occluded faces, when they are used in all possible arrangements of training and testing roles. A comprehensive comparison of two representation approaches (global and local), three types of features (grey levels, PCA and LBP), three classifiers (1-NN, PCA+LDA and SVM) and two performance measures (CCR and d′) is provided over single- and cross-database experiments. Experiments revealed some interesting findings, which were supported by three non-parametric statistical tests: when training and test sets contain different types of faces, local models using the 1-NN rule outperform global approaches, even those using SVM classifiers; however, with the same type of faces, even if the acquisition conditions are diverse, the statistical tests could not reject the null hypothesis of equal performance of global SVMs and local 1-NNs.
-
-@highlight Study of gender recognition from neutral, expressive and occluded faces
-@highlight Comparison of global/local approaches, grey level/PCA/LBP features and three classifiers
-@highlight Three statistical tests over two performance measures are employed to support the conclusions.
-@highlight Local models surpass global ones with different types of training and test faces.
-@highlight Global and local models perform equally with the same type of training and test faces.

@@ -1,5 +1,0 @@
- Fiber-optical microendoscopy has recently been an essential medical diagnostic tool for patients in investigating tissues in vivo due to affordable cost, high quality imaging performance, compact size, high-speed imaging, and flexible movement. Microelectromechanical systems (MEMS) scanner technology has been playing a key role in shaping the miniaturization and enabling high-speed imaging of fiber-optical microendoscopy for over 20years. In this article, both review of MEMS based fiber-optical microendoscopy for optical coherence tomography, confocal, and two-photon imaging will be discussed. These advanced optical endoscopic imaging modalities provide cellular and molecular features with deep tissue penetration enabling guided resections and early cancer assessment.
-
-@highlight We summarize state of the art in MEMS based fiber optical microendoscopy for early cancer assessment.
-@highlight MEMS scanner technology is a key enabling element in miniaturization of microendoscope.
-@highlight Electrostatic actuation is the most popular mechanism to drive MEMS scanners.

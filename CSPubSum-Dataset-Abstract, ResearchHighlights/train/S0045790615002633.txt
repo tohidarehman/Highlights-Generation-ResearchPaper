@@ -1,6 +1,0 @@
- The multifaceted nature of cyber-physical systems needs holistic study methods to detect essential aspects and interrelations among physical and cyber components. Like the systems themselves, security threats feature both cyber and physical elements. Although to apply divide et impera approaches helps handling system complexity, to consider just one aspect at a time does not provide adequate risk awareness and hence does not allow to design the most appropriate countermeasures. To support this claim, in this paper we provide a joint application of two model-driven techniques for physical and cyber-security evaluation. We apply two UML profiles, namely SecAM (for cyber-security) and CIP_VAM (for physical security), in combination. In such a way, we demonstrate the synergy between both profiles and the need for their tighter integration in the context of a reference case study from the railway domain.
-
-@highlight Cyber-physical systems need holistic methods to discover relationships between physical and cyber components.
-@highlight Security threats attempt to both physical and cyber elements.
-@highlight Model-driven techniques accounting for joint physical and cyber-security modelling and evaluation are explored.
-@highlight Synergies between physical and cyber security UML profiles remarked in a case study of the railway domain.

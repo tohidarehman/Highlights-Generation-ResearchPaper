@@ -1,7 +1,0 @@
- This paper describes the creation of a comprehensive conceptualization of object models used in medical image simulation, suitable for major imaging modalities and simulators. The goal is to create an application ontology that can be used to annotate the models in a repository integrated in the Virtual Imaging Platform (VIP), to facilitate their sharing and reuse. Annotations make the anatomical, physiological and pathophysiological content of the object models explicit. In such an interdisciplinary context we chose to rely on a common integration framework provided by a foundational ontology, that facilitates the consistent integration of the various modules extracted from several existing ontologies, i.e. FMA, PATO, MPATH, RadLex and ChEBI. Emphasis is put on methodology for achieving this extraction and integration. The most salient aspects of the ontology are presented, especially the organization in model layers, as well as its use to browse and query the model repository.
-
-@highlight We propose an ontology for the annotation of medical image simulation object models.
-@highlight We extract and reuse relevant subsets of existing ontologies.
-@highlight We use this ontology in the implementation of the Virtual Imaging Platform (VIP).
-@highlight Such annotations facilitate the query/retrieval of the models.
-@highlight Should facilitate interoperation with software modeling biological phenomena.

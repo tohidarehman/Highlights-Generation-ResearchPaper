@@ -1,5 +1,0 @@
- In the vertical alignment phase of road design, one minimizes the cost of moving material between different sections of the road while maintaining safety and building code constraints. Existing vertical alignment models consider neither the side-slopes of the road nor the natural blocks like rivers, mountains, etc., in the construction area. The calculated cost without the side-slopes can have significant errors (more than 20 percent), and the earthwork schedule without considering the blocks is unrealistic. In this study, we present a novel mixed integer linear programming model for the vertical alignment problem that considers both of these issues. The numerical results show that the approximation of the side-slopes can generate solutions within an acceptable error margin specified by the user without increasing the time complexity significantly.
-
-@highlight Vertical alignment is computed using a mixed-integer linear program.
-@highlight More than 15 percent error reduction is achieved using side-slopes approximation.
-@highlight Natural blocks are handled without breaking the linearity of the model.

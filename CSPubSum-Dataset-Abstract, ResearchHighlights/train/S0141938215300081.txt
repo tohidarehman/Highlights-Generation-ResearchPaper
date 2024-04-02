@@ -1,7 +1,0 @@
- Anaglyph video (i.e., 3D video) is a recent trend in movies and multimedia; the method has also been recently developed for conversion of such videos from traditional 2D screens or by rendering stereoscopic media into 3D video. There have also been many studies regarding movie playing and other types of entertainment that uses olfactory displays or smell generators. These devices are capable of generating a considerable number of different odors with different intensities yet still have some limitations and are not ready for commercial use. In this study, a complete solution is presented for a user to experience olfactory sensations with a displayed video on a PC with auditory and 3D visual effects using a novel olfactory display device based on a micro-porous piezoelectric film that is capable of digitally producing fine particles of scent material with precision, quantity and speed.
-
-@highlight We implemented an olfactory display based on a novel approach.
-@highlight We developed a novel data hiding technique in 3D video with high robustness.
-@highlight Both novel techniques are combined to provide smell data to the users.
-@highlight A high control over smell data digitization and scene synchronization has been achieved.
-@highlight The system is scalable, efficient and applicable to existing 3D video files.

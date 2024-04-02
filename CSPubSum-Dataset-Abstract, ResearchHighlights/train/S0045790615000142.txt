@@ -1,6 +1,0 @@
- This paper investigates an optimal adaptive rate and power transmission algorithms for Orthogonal Frequency Division Multiplexing (OFDM) – based Cognitive Radio (CR) systems. The aim was to study the problem of maximizing the overall rate achieved by the Secondary User (SU), while keeping the interference powers introduced by the SU on the spectrum band of Primary User’s (PU) below the specified thresholds and considering the total transmit power budget constraints. In addition, the novel suboptimal power allocation algorithm was proposed and consequently the maximum modulation level according to allocated power based on maximizing the overall achievable rate was obtained. The performance of the proposed suboptimal algorithm is compared with the optimal and existing algorithms including uniform loading and water filling algorithms. Numerical results revealed that the proposed suboptimal algorithm had a better performance than the uniform loading and water filling algorithms.
-
-@highlight Investigate adaptive rate and power allocation in OFDM-based Cognitive Radio system.
-@highlight Investigate an optimal adaptive rate and power transmission algorithms.
-@highlight Proposed novel suboptimal algorithm for power allocation.
-@highlight Compare proposed suboptimal algorithm with optimal and conventional algorithms.

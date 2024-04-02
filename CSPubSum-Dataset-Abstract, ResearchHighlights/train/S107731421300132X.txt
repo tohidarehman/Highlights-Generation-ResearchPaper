@@ -1,5 +1,0 @@
- Saliency detection has been researched a lot in recent years. Traditional methods are mostly conducted and evaluated on conventional RGB images. Few work has considered the incorporation of multi-spectral clues. Considering the success of including near-infrared spectrum in applications such as face recognition and scene categorization, this paper presents a multi-spectral dataset and applies it in saliency detection. Experiments demonstrate that the incorporation of near-infrared band is effective in the saliency detection procedure. We also test the combinational models for integrating visible and near-infrared bands. Results show that there is no single model to effect on every saliency detection method. Models should be selected according to the specific employed method.
-
-@highlight A multi-spectral dataset is constructed containing RGB and near-infrared images.
-@highlight The incorporation of near-infrared is proved to be valuable for saliency detection.
-@highlight The best model for integrating RGB and near-infrared clues is analyzed.

@@ -1,6 +1,0 @@
- In the Corridor Allocation Problem, we are given n facilities to be arranged along a corridor. The arrangements on either side of the corridor should start from a common point on the left end of the corridor. In addition, no space is allowed between two adjacent facilities. The problem is motivated by applications such as the arrangement of rooms in office buildings, hospitals, shopping centers or schools. Tabu search and simulated annealing algorithms are presented to minimize the sum of weighted distances between every pair of facilities. The algorithms are evaluated on several instances of different sizes either randomly generated or available in the literature. Both algorithms reached the optimal (when available) or best-known solutions of the instances with n ⩽30. For larger instances with size 42⩽ ⩽70, the simulated annealing implementation obtained smaller objective values, while requiring a smaller number of function evaluations.
-
-@highlight The Corridor Allocation Problem (CAP) is considered.
-@highlight Applications of the CAP include the arrangement of rooms in office buildings, hospitals, shopping centers or schools.
-@highlight Tabu search and simulated annealing algorithms are presented to minimize the total flow cost among facilities.
-@highlight Large CAP instances with up to 70 facilities are tested.

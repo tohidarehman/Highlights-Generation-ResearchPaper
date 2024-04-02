@@ -1,5 +1,0 @@
- Temporal information extraction from clinical narratives is of critical importance to many clinical applications. We participated in the EVENT/TIMEX3 track of the 2012 i2b2 clinical temporal relations challenge, and presented our temporal information extraction system, MedTime. MedTime comprises a cascade of rule-based and machine-learning pattern recognition procedures. It achieved a micro-averaged f-measure of 0.88 in both the recognitions of clinical events and temporal expressions. We proposed and evaluated three time normalization strategies to normalize relative time expressions in clinical texts. The accuracy was 0.68 in normalizing temporal expressions of dates, times, durations, and frequencies. This study demonstrates and evaluates the integration of rule-based and machine-learning-based approaches for high performance temporal information extraction from clinical narratives.
-
-@highlight The hybrid and cascading pipeline of the MedTime system (Fig. 1).
-@highlight Three novel clinical temporal normalization strategies (Section 3.5).
-@highlight Analysis of temporal normalization strategies (Section 5.1).

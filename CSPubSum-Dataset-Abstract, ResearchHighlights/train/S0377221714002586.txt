@@ -1,6 +1,0 @@
- This paper proposes a new nonlinear interval programming method that can be used to handle uncertain optimization problems when there are dependencies among the interval variables. The uncertain domain is modeled using a multidimensional parallelepiped interval model. The model depicts single-variable uncertainty using a marginal interval and depicts the degree of dependencies among the interval variables using correlation angles and correlation coefficients. Based on the order relation of interval and the possibility degree of interval, the uncertain optimization problem is converted to a deterministic two-layer nesting optimization problem. The affine coordinate is then introduced to convert the uncertain domain of a multidimensional parallelepiped interval model to a standard interval uncertain domain. A highly efficient iterative algorithm is formulated to generate an efficient solution for the multi-layer nesting optimization problem after the conversion. Three computational examples are given to verify the effectiveness of the proposed method.
-
-@highlight Proposed a new nonlinear interval programming method.
-@highlight Introduced a multidimensional parallelepiped interval model.
-@highlight The model hand led the dependencies among the interval variables.
-@highlight Formulated an efficient interval iterative method.

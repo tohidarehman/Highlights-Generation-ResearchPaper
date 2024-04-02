@@ -1,6 +1,0 @@
- A new approach for updating an acoustic finite element model using complex acoustic frequency response function is proposed in this paper, which is an iterative parametric updating method based on the response function method proposed by Lin and Ewins in structural dynamics. The updating parameters are the boundary admittance coefficients. Both the real and complex frequency dependent admittance coefficients are considered in this paper. Two examples of 2D models are conducted to validate the effectiveness of the approach. Effects of initial guess, the number of measurement points and background noise level are investigated in detail. It is found that the proposed method is robust and has the capability for identifying admittance with a limited number of measurement points.
-
-@highlight Updating an acoustic finite element model using acoustic frequency response function.
-@highlight Both real and complex frequency dependent admittance coefficients are considered.
-@highlight Effects of various numbers of measurement points are demonstrated.
-@highlight The proposed method is capable for noise case.

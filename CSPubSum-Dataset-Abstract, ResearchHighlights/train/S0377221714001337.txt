@@ -1,7 +1,0 @@
- Empty repositions are a major problem for car rental companies that deal with special types of vehicles whose number of units is small. In order to meet reservation requirements concerning time and location, companies are forced to transfer cars between rental stations, bearing significant costs and increasing the environmental impact of their activity due to the fuel consumption and CO emission. In this paper, this problem is tackled under a vehicle-reservation assignment framework as a network-flow model in which the profit is maximized. The reservations are allocated considering the initial and future availability of each car, interdependencies between rental groups, and different reservation priorities. To solve this model, a relax-and-fix heuristic procedure is proposed, including a constraint based on local branching that enables and controls modifications between iterations. Using real instances, the value of this approach is established and an improvement of 33% was achieved when compared to the company’s current practices.
-
-@highlight The vehicle-reservation problem in the car rental industry is for the first time modeled and solved.
-@highlight An innovative network-flow model is presented.
-@highlight A relax-and-fix with local branching constraints resolution strategy is applied.
-@highlight Significant improvement of the company’s results.
-@highlight A set of real-world instances for future research benchmarking is made available.

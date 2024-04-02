@@ -1,6 +1,0 @@
- This paper presents a global optimization approach for solving signomial geometric programming problems. In most cases nonconvex optimization problems with signomial parts are difficult, NP-hard problems to solve for global optimality. But some transformation and convexification strategies can be used to convert the original signomial geometric programming problem into a series of standard geometric programming problems that can be solved to reach a global solution. The tractability and effectiveness of the proposed successive convexification framework is demonstrated by seven numerical experiments. Some considerations are also presented to investigate the convergence properties of the algorithm and to give a performance comparison of our proposed approach and the current methods in terms of both computational efficiency and solution quality.
-
-@highlight Global optimization of signomial geometric programming (SGP) problems.
-@highlight SGP problems are difficult, NP-hard problems to solve for global optimality.
-@highlight Nonconvex SGP are solved very efficiently by a series of geometric programmings.
-@highlight Compared with other methods, our approach rapidly and successfully solves a SGP.

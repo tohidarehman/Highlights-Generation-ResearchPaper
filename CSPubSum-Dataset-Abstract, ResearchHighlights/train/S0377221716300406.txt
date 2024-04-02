@@ -1,6 +1,0 @@
- Preventive maintenance over the warranty period has a crucial effect on the warranty servicing cost. Numerous papers on the optimal maintenance strategies for warranted items have focused on the case of items from homogeneous populations. However, most of real life populations are heterogeneous. In this paper, we assume that an item is randomly selected from a mixed population composed of two stochastically ordered subpopulations and that the subpopulation, from which the item is chosen, is unknown. As the operational history of an item contains the information on the chosen subpopulation, we utilize this information to develop and justify a new information-based warranty policy. For illustration of the proposed model, we provide and discuss relevant numerical examples.
-
-@highlight This paper proposes a new information-based warranty policy.
-@highlight The proposed policy utilizes the operational history of the item.
-@highlight This paper provides a new ‘general insight/perspective’ on the warranty policy.
-@highlight This work opens new possibilities for further developments toward this direction.

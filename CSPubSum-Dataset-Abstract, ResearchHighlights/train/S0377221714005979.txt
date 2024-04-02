@@ -1,7 +1,0 @@
- We present a method to solve the free-boundary problem that arises in the pricing of classical American options. Such free-boundary problems arise when one attempts to solve optimal-stopping problems set in continuous time. American option pricing is one of the most popular optimal-stopping problems considered in literature. The method presented in this paper primarily shows how one can leverage on a one factor approximation and the moving boundary approach to construct a solution mechanism. The result is an algorithm that has superior runtimes-accuracy balance to other computational methods that are available to solve the free-boundary problems. Exhaustive comparisons to other pricing methods are provided. We also discuss a variant of the proposed algorithm that allows for the computation of only one option price rather than the entire price function, when the requirement is such.
-
-@highlight We tackle the free boundary problem of pricing American options.
-@highlight We use a one factor approximation of the optimal exercise boundary.
-@highlight The approximation allows us to compute option prices quickly.
-@highlight Using an approximation results in an insignificant loss in accuracy.
-@highlight The approximation could be used to compute the price of a single option using the PDE.

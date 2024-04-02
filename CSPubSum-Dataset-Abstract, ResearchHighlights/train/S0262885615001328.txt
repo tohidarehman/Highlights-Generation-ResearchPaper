@@ -1,5 +1,0 @@
- This paper proposed a new method based on spatial filter banks and discrete wavelet transform (DWT) for invariant texture classification. The method used a multi-resolution analysis method like DWT and applied the proposed filter bank on different resolutions. Then, a simple fusion of features on different resolutions was used for invariant texture analysis. A comprehensive study was done to examine the effectiveness of the proposed method. Different datasets with different properties were used in this paper such as Brodatz, Outex, and KTH-TIPS for the evaluation. Local binary pattern (LBP) methods have been one of the powerful methods in recent years for invariant texture classification. A comparative study was performed with some state-of-the-art LBP methods. This comparison indicated promising results for the proposed approach as compared with the LBP methods.
-
-@highlight A novel idea has been presented for invariant texture classification.
-@highlight The idea uses a combination of wavelet analysis and spatial filter bank method.
-@highlight The method has been tested on a variety of texture databases.

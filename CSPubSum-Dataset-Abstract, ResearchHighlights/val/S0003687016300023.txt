@@ -1,7 +1,0 @@
- This study presents an integrated approach for analyzing the impact of macro-ergonomics factors in healthcare supply chain (HCSC) by data envelopment analysis (DEA). The case of this study is the supply chain (SC) of a real hospital. Thus, healthcare standards and macro-ergonomics factors are considered to be modeled by the mathematical programming approach. Over 28 subsidiary SC divisions with parallel missions and objectives are evaluated by analyzing inputs and outputs through DEA. Each division in this HCSC is considered as decision making unit (DMU). This approach can analyze the impact of macro-ergonomics factors on supply chain management (SCM) in healthcare sector. Also, this method ranks the relevant performance efficiencies of each HCSC. In this study by using proposed method, the most effective macro-ergonomics factor on HCSC is identified as “teamwork” issue. Also, this study would help managers to identify the areas of weaknesses in their SCM system and set improvement target plan for the related SCM system in healthcare industry. To the best of our knowledge, this is the first study for macro-ergonomics optimization of HCSC.
-
-@highlight Macro-ergonomics optimization of healthcare supply chain.
-@highlight A unique data envelopment analysis approach is used.
-@highlight This study identifies weights of each factor and preferred alternatives.
-@highlight Results showed that the influential shaping factor is teamwork.
-@highlight First macro-ergonomics study of healthcare supply chain by DEA.

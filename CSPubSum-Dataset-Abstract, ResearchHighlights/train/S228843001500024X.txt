@@ -1,7 +1,0 @@
- In this study, a new methodology in predicting a system output has been investigated by applying a data mining technique and a hybrid type II fuzzy system in CNC turning operations. The purpose was to generate a supplemental control function under the dynamic machining environment, where unforeseeable changes may occur frequently. Two different types of membership functions were developed for the fuzzy logic systems and also by combining the two types, a hybrid system was generated. Genetic algorithm was used for fuzzy adaptation in the control system. Fuzzy rules are automatically modified in the process of genetic algorithm training. The computational results showed that the hybrid system with a genetic adaptation generated a far better accuracy. The hybrid fuzzy system with genetic algorithm training demonstrated more effective prediction capability and a strong potential for the implementation into existing control functions.
-
-@highlight A new methodology in predicting a CNC machining output has been investigated.
-@highlight A data mining technique and a hybrid type II fuzzy system are applied.
-@highlight Two different types of membership functions were created to generate a hybrid system.
-@highlight Fuzzy rules are automatically modified in the process of genetic algorithm training.
-@highlight The results showed that the hybrid system generated a far better accuracy.

@@ -1,6 +1,0 @@
- We extend the well-known spatial competition model  to a continuous time model in which two firms compete in each instance. Our focus is on the entry timing decisions of firms and their optimal locations. We demonstrate that the leader has an incentive to locate closer to the center to delay the follower’s entry, leading to a non-maximum differentiation outcome. We also investigate how exogenous parameters affect the leader’s location and firms’ values and, in particular, numerically show that the profit of the leader changes non-monotonically with an increase in the transport cost parameter.
-
-@highlight We consider a continuous time spatial competition model with endogenous entry timing.
-@highlight The leader locates closer to the center than when the follower’s timing is exogenous.
-@highlight The leader locates closer to the center as the transport cost parameter decreases.
-@highlight The leader’s profit has a non-monotonic relationship to the transport cost parameter.

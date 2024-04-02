@@ -1,6 +1,0 @@
- We present an efficient algorithm for computing a family of trimmed offsets for planar freeform curves under deformation. The algorithm is based on a dynamic bounding volume hierarchy (BVH) for the untrimmed offsets of a given planar curve, which can be generated efficiently using a hierarchy of recursive bisections of the given curve. The proposed algorithm is effective for deformable planar curves. At each time frame, we segment the input curve into monotone spiral pieces , which is the only pre-processing needed for the dynamic BVH construction. To speed up the on-line generation of dynamic BVH, we employ the bounding circular arcs (BCA) that can be computed very efficiently using the position and tangent information at the endpoints of each monotone spiral curve segment. Using several experimental results, we demonstrate the performance improvement of our algorithm over the previous biarc-based algorithm of Kim et al. .
-
-@highlight Offset trimming for planar freeform curves under deformation.
-@highlight Dynamic BVH generation using a hierarchy of recursive bisections.
-@highlight BV generation using the bounding circular arcs (BCA) of Meek and Walton (1995).
-@highlight Performance improvement over the biarc-based algorithm of Kim et al. (2012).

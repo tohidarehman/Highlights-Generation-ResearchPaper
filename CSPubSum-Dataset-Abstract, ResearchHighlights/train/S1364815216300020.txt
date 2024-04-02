@@ -1,7 +1,0 @@
- In climate change research ensembles of climate simulations are produced in an attempt to cover the uncertainty in future projections. Many climate change impact studies face difficulties using the full number of simulations available, and therefore often only subsets are used. Until now such subsets were chosen based on their representation of temperature change or by accessibility of the simulations. By using more specific information about the needs of the impact study as guidance for the clustering of simulations, the subset fits the purpose of climate change impact research more appropriately. Here, the sensitivity of such a procedure is explored, particularly with regard to the use of different climate variables, seasons, and regions in Europe. While temperature dominates the clustering, the resulting selection is influenced by all variables, leading to the conclusion that different subsets fit different impact studies best.
-
-@highlight We present a method to reduce ensembles of climate models.
-@highlight We use hierarchical clustering, SVD, Silhouettes and mean distances.
-@highlight To minimise the information loss the selection is fitted to the data application.
-@highlight The method shows strong sensitivity to the choice of variables/information provided.
-@highlight Strong need for a careful and thoughtful selection process is shown.

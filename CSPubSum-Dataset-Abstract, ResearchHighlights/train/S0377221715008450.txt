@@ -1,6 +1,0 @@
- We consider a dynamic closed-loop supply chain made up of one manufacturer and one retailer, with both players investing in a product recovery program to increase the rate of return of previously purchased products. End-of use product returns have two impacts. First, they lead to a decrease in the production cost, as manufacturing with used parts is cheaper than using virgin materials. Second, returns boost sales through replacement items. We show that the coordinated solution can be implemented by using so-called incentive strategies, which have the property of being best-reply strategies if each player assumes that the other is also implementing her incentive strategies. A numerical example illustrates the theoretical results.
-
-@highlight We propose closed-loop supply chain model with operational and marketing benefits.
-@highlight We introduce the concept of incentive strategies in closed-loop supply chain.
-@highlight We show how the coordinated solution can be implemented as an incentive equilibrium.
-@highlight We provide a numerical example to illustrate the results.

@@ -1,6 +1,0 @@
- The 2-dimension uncertain linguistic variables add a subjective evaluation on the reliability of the evaluation results given by decision makers, so they can better express fuzzy information. At the same time, the power average (PA) operator has the characteristic of capturing the correlations of the aggregated arguments. In this paper, we propose some power aggregation operators, including 2-dimension uncertain linguistic power generalized aggregation operator (2DULPGA) and 2-dimension uncertain linguistic power generalized weighted aggregation operator (2DULPGWA), and discuss some properties and special cases of them. Finally, with respect to the multiple attribute group decision making problems in which the attribute values take the form of the 2-dimension uncertain linguistic information, the method based on some power generalized aggregation operators is proposed, and two examples are given to verify the developed approach and to demonstrate its effectiveness.
-
-@highlight We proposed 2DULPGA operator and 2DULPGWA operator.
-@highlight We investigated some desirable properties of the 2DULPGA and2DULPGWA operators.
-@highlight We studied some special cases of the generalized parameters in these operators.
-@highlight A group decision making method based these operators were proposed.

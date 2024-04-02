@@ -1,8 +1,0 @@
- In this study, we consider the minimax regret 1-sink location problem with accessibility, where all of the weights should always evacuate to the nearest sink point along the shortest path in a dynamic general network with positive edge lengths and uniform edge capacity. Let be an undirected connected simple graph with n vertices and m edges. Each vertex has a weight that is not known exactly but the interval to which it belongs is given. A particular assignment of a weight to each vertex is called a scenario. The problem requires that a point x should be found as the sink on the graph and all the weights evacuate to x such that the maximum regret for all possible scenarios is minimized. We present an O(m 3) time algorithm to solve this problem.
-
-@highlight Considered the minimax regret 1-sink location problem with accessibility in dynamic general networks.
-@highlight Computed the values of T(opt(s), s) in O(m
-@highlight 3) time.
-@highlight Got the minimax regret sink x
-@highlight * in O(mn
-@highlight 4) time after known the values of T(opt(s), s).

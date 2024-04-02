@@ -1,7 +1,0 @@
- Predicting novel drug side-effects, or Adverse Drug Reactions (ADRs), plays an important role in the drug discovery process. Existing methods consider mainly the chemical and biological characteristics of each drug individually, thereby neglecting information hidden in the relationships among drugs. Complementary to the existing individual methods, in this paper, we propose a novel network approach for ADR prediction that is called Augmented Random-WAlk with Restarts (ARWAR). ARWAR, first, applies an existing method to build a network of highly related drugs. Then, it augments the original drug network by adding new nodes and new edges to the network and finally, it applies Random Walks with Restarts to predict novel ADRs. Empirical results show that the ARWAR method presented here outperforms the existing network approach by 20% with respect to average Fmeasure. Furthermore, ARWAR is capable of generating novel hypotheses about drugs with respect to novel and biologically meaningful ADR.
-
-@highlight We apply an existing approach to build a network of highly related drugs.
-@highlight We consider the informative knowledge hidden in the relationships among drugs.
-@highlight We augment the original Human Drug Network by adding new nodes and edges.
-@highlight We apply random walk with restart to relate each drug to its side-effects.
-@highlight Our method outperforms the existing approach significantly.

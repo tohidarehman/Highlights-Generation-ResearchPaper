@@ -1,5 +1,0 @@
- User profiles play an important role in information retrieval system. In this paper, we propose a novel method for the acquisition of ontology-based user profiles. In the method, the ontology-based user profiles can maintain the representations of personal interest. In addition, user ontologies can be automatically constructed. The method can make user profiles strong expressive and less manually interfered.
-
-@highlight The algorithm introduces simulated annealing to hierarchical clustering in the construction of user ontologies.
-@highlight The k-nearest-neighbor query method is combined with branch-and-bound search algorithm in the maintenance of user ontology.
-@highlight The method has less human intervention in creating user profiles and can make user profiles more strong expressive.

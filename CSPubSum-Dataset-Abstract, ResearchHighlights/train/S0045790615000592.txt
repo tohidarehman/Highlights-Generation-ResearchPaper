@@ -1,7 +1,0 @@
- As a part of character recognition, character segmentation (CS) plays an important role in automatic license plate recognition (ALPR) system. In recent years, lots of methods on CS have been proposed and they work well on their own datasets. However, it is still challenging to segment characters from images with frame, declination and quality degradation because of noises and overlapped, connected or fragmented characters. In this paper, we propose a two-stage segmentation method for Chinese license plate. At the first stage, a novel template matching method is presented using a harrow-shaped filter (HSF) bank and minimum response. It finds the locations of the segmenting points between characters roughly. Then, the accurate segmentations between connected or overlapped characters are adjusted by a variant of A∗ path-finding algorithm at the second stage. Experiments on a challenging dataset including 2334 images demonstrate the effectiveness and efficiency of the proposed method.
-
-@highlight Characters on license plate with interferences are cut using a two-stage method.
-@highlight Plate frame is removed and vertical tilt is corrected before segmentation.
-@highlight A harrow-shaped filter with values of 0 and 1 is designed for matching.
-@highlight Boundaries of the remarkable space are located accurately in initial segmentation.
-@highlight A∗ algorithm is used for the precise segmentation of connected characters.

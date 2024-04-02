@@ -1,5 +1,0 @@
- We introduce a new stochastic model for inflow time series that is designed with the requirements of hydropower scheduling problems in mind. The model is an “iterated function system’’: it models inflow as continuous, but the random innovation at each time step has a discrete distribution. With this inflow model, hydro-scheduling problems can be solved by the stochastic dual dynamic programming (SDDP) algorithm exactly as posed, without the additional sampling error introduced by sample average approximations. The model is fitted to univariate inflow time series by quantile regression. We consider various goodness-of-fit metrics for the new model and some alternatives to it, including performance in an actual hydro-scheduling problem. The numerical data used are for inflows to New Zealand hydropower reservoirs.
-
-@highlight We model inflows for hydro-scheduling problems to be solved by the SDDP algorithm.
-@highlight Problems can be solved exactly as posed; no scenario sampling required.
-@highlight The model is fitted to univariate inflow time series by quantile regression.

@@ -1,5 +1,0 @@
- We consider a short sea fuel oil distribution problem where an oil company is responsible for the routing and scheduling of ships between ports such that the demand for various fuel oil products is satisfied during the planning horizon. The inventory management has to be considered at the demand side only, and the consumption rates are given and assumed to be constant within the planning horizon. The objective is to determine distribution policies that minimize the routing and operating costs, while the inventory levels are maintained within their limits. We propose an arc-load flow formulation for the problem which is tightened with valid inequalities. In order to obtain good feasible solutions for planning horizons of several months, we compare different hybridization strategies. Computational results are reported for real small-size instances.
-
-@highlight A mixed integer model is introduced for a real short sea inventory routing problem.
-@highlight Valid inequalities for maritime inventory routing problems are discussed.
-@highlight Hybrid heuristic strategies are combined to provide good feasible solutions.

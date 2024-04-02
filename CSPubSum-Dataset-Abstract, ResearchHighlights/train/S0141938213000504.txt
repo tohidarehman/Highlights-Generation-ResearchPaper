@@ -1,7 +1,0 @@
- In this paper qualitative colours are named by defining intervals on reference systems built on the Hue Saturation and Lightness (HSL) colour space. The new model for Qualitative Colour Description (QCD) distinguishes rainbow colours, pale, light, dark colours and colours in the grey scale. For comparing the qualitative colours described, a similarity measure based on interval distances (SimQCDInt) is introduced. HSL intervals for each colour label have been defined experimentally using data obtained in a user survey. Preliminary experiments have also been conducted in order to check that the proposed approach is consistent with human appreciations of colour similarity and complementarity.
-
-@highlight Colours are named by intervals on reference systems on the HSL colour space.
-@highlight Rainbow colours, pale/light/dark colours and colours in the grey scale appear.
-@highlight A similarity measure based on interval distances (SimQCDInt) is defined.
-@highlight The SimQCDInt is used for comparing the qualitative colours (QCs) defined.
-@highlight The QC system and the SimQCDInt are tested proving their effectiveness.

@@ -1,5 +1,0 @@
- Post-filtering can be used in mobile communications to improve the quality and intelligibility of speech. Energy reallocation with a high-pass type filter has been shown to work effectively in improving the intelligibility of speech in difficult noise conditions. This paper introduces a post-filtering algorithm that adapts to the background noise level as well as to the fundamental frequency of the speaker and models the spectral effects observed in natural Lombard speech. The introduced method and another post-filtering technique were compared to unprocessed telephone speech in subjective listening tests in terms of intelligibility and quality. The results indicate that the proposed method outperforms the reference method in difficult noise conditions.
-
-@highlight Lombard effect is modeled in post-filtering to improve speech intelligibility.
-@highlight The proposed method works with narrowband telephone speech with minimal delay.
-@highlight The proposed method improves intelligibility in difficult noise conditions.

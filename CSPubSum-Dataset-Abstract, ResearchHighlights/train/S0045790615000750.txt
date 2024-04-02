@@ -1,7 +1,0 @@
- Recently, audio steganography has become an important covert communications technology. This technology hides secret data in a cover audio without perceptual modification of the cover audio. Most of the existing audio steganography techniques are unsuitable for real-time communication. Although field programmable logic array (FPGA) technologies offer parallel processing in hardware that can improve the speed of steganographic systems, the research activities in this area are very limited. This paper presents a parallel hardware-architecture for dual-mode audio steganography (DMAS) based FPGA technology. The proposed DMAS reconfigures the same hardware blocks in both hiding and recovery modes to reduce the hardware requirements. It has been successfully implemented on a Xilinx XC6SLX16 FPGA board to occupy only 97 slices. Furthermore, it processes data simultaneously at an operating frequency of up to 58.82MHz and accomplishes full message retrieval at an embedding rate of 25% with an audio quality above 45dB in terms of signal to noise ratio.
-
-@highlight We propose concurrent hardware architecture for real-time audio steganography.
-@highlight We implement and test the proposed hardware on Xilinx XC6SLX16 FPGA board.
-@highlight The implemented hardware requires only 97 slices and consumes less than 148mW.
-@highlight The implemented hardware processes data simultaneously with frequency up to 58.82.
-@highlight Full data retrieval at embedding rate of 25% of the cover audio size.

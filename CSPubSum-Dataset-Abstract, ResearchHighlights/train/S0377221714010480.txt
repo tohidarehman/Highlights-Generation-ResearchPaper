@@ -1,5 +1,0 @@
- This paper surveys recent publications on berth allocation, quay crane assignment, and quay crane scheduling problems in seaport container terminals. that covered the research up to 2009. Since then, there was a strong increase of activity observed in this research field resulting in more than 120 new publications. In this paper, we classify this new literature according to the features of models considered for berth allocation, quay crane scheduling and integrated approaches by using the classification schemes proposed in the preceding survey. Moreover, we identify trends in the field, we take a look at the methods that have been developed for solving new models, we discuss ways for evaluating models and algorithms, and, finally, we light up potential directions for future research.
-
-@highlight Follow-up survey on seaside operations planning in container terminals.
-@highlight More than 120 new approaches classified.
-@highlight Directions for future research identified.

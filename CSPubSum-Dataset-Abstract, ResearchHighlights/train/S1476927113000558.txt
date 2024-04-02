@@ -1,5 +1,0 @@
- In this study we propose a protocol to evaluate membrane-bound cytochrome c oxidase–cytochrome c552 docking candidates. An initial rigid docking algorithm generates docking poses of the cytochrome c oxidase–cytochrome c552, candidates are then aggregated into a 512-DPPC membrane model and solvated in explicit solvent. Molecular dynamic simulations are performed to induce conformational changes to membrane-bound protein complexes. Lastly each protein–protein complex is optimized in terms of its hydrogen bond network, evaluated energetically and ranked. The protocol is directly applicable to other membrane-protein complexes, such as protein–ligand systems.
-
-@highlight Cytochrome c552 surface lysine residues are crucial for protein–protein recognition.
-@highlight Residue TRP121 behaves as the entry site in the electron transfer process.
-@highlight Hydrogen bond network optimizations need to be included in simulation protocols.

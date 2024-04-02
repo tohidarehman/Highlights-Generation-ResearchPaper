@@ -1,6 +1,0 @@
- We introduce a novel methodology for ranking hesitant fuzzy sets. It builds on a recent, theoretically sound contribution in Social Choice. In order to justify the applicability of such analysis, we develop two real implementations: (i) new metarankings of world academic institutions that build on real data from three reputed agencies, and (ii) a new procedure for improving teaching performance assessments which we illustrate with real data collected by ourselves.
-
-@highlight Innovative methodology for ranking hesitant fuzzy sets based on Social Choice.
-@highlight Novel application 1: real problem of ranking universities via metarankings.
-@highlight Novel application 2: procedure for improving teaching performance assessments.
-@highlight New justification of the theoretical model by hesitant fuzzy sets.

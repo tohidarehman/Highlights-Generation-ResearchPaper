@@ -1,6 +1,0 @@
- Many problems in data mining involve datasets with multiple views where the feature space consists of multiple feature groups. Previous studies employed view weighting method to find a shared cluster structure underneath different views. However, most of these studies applied gradient optimization method to optimize the cluster centroids and feature weights iteratively and made the final partition local optimal. In this work, we proposed a novel bi-level weighted multi-view clustering method with emphasizing fuzzy weighting on both view and feature. Furthermore, an efficient global search strategy that combines particle swarm optimization and gradient optimization was proposed to solve the induced non-convex loss function. In the experimental analysis, the performance of the proposed method was compared with five state-of-the-art weighted clustering algorithms on three real-world high-dimensional multi-view datasets.
-
-@highlight We propose a bi-level fuzzy weighting to discriminate view and feature simultaneously.
-@highlight We develop a hybrid optimization based on particle swarm optimization.
-@highlight We propose a representative based method to determine hyper-parameters.
-@highlight Our method is compared with six clustering algorithm on three real-world datasets.

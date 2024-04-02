@@ -1,9 +1,0 @@
- In this paper, an adaptive robust control strategy is developed for the manipulation of drug usage and consequently the tumor volume in cancer chemotherapy. Three nonlinear mathematical cell-kill models including log-kill hypothesis, Norton–Simon hypothesis and max hypothesis are considered in the presence of uncertainties. The Lyapunov stability theorem is used to investigate the global stability and tracking convergence of the process response. For the first time, performance of the uncertain process is investigated and compared for three nonlinear models. In addition, the effects of treatment period, initial value of tumor volume (carrying capacity) and the uncertainty amount on dynamic system behaviour are studied. Through a comprehensive evaluation, results are presented and compared for three cell-kill models. According to the results, for a wide range of model uncertainties, the adaptive controller guarantees the robust performance. However, for a given treatment period, more variation in drug usage is required as the amount of model uncertainty increases. Moreover, for both the nominal and uncertain models, less drug usage is required as the treatment period increases.
-
-@highlight Adaptive robust control of cancer chemotherapy in the presence of uncertainty.
-@highlight Control of three nonlinear cell-kill models: log-kill, Norton–Simon and
-@highlight max
-@highlight hypotheses.
-@highlight Lyapunov stability theorem to investigate global stability and tracking convergence.
-@highlight Studying the effects of treatment period, initial value of tumor volume and uncertainty.
-@highlight For a wide range of uncertainties, controller guarantees the robust performance.

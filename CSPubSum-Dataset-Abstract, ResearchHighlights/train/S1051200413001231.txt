@@ -1,5 +1,0 @@
- For the detection of a weak known signal in additive white noise, a generalized correlation detector is considered. In the case of a large number of measurements, an asymptotic efficacy is analytically computed as a general measure of detection performance. The derivative of the efficacy with respect to the noise level is also analytically computed. Positivity of this derivative is the condition for enhancement of the detection performance by increasing the level of noise. The behavior of this derivative is analyzed in various important situations, especially showing when noise-enhanced detection is feasible and when it is not.
-
-@highlight The condition of noise induced enhancement in a generalized correlation detector.
-@highlight The operational levels of noise that we can employ to improve the weak signal detection.
-@highlight The normalized asymptotic efficacy of the detector constructed by an array of nonlinearities.

@@ -1,6 +1,0 @@
- The theory of aggregation most often deals with measures of central tendency. However, sometimes a very different kind of a numeric vector’s synthesis into a single number is required. In this paper we introduce a class of mathematical functions which aim to measure spread or scatter of one-dimensional quantitative data. The proposed definition serves as a common, abstract framework for measures of absolute spread known from statistics, exploratory data analysis and data mining, e.g. the sample variance, standard deviation, range, interquartile range (IQR), median absolute deviation (MAD), etc. Additionally, we develop new measures of experts’ opinions diversity or consensus in group decision making problems. We investigate some properties of spread measures, show how are they related to aggregation functions, and indicate their new potentially fruitful application areas.
-
-@highlight A set of characteristic properties of measures of absolute spread is proposed.
-@highlight The close relationship between spread measures and aggregation functions is studied.
-@highlight Among spread measures we find many well-known data analysis tools like the sample variance, standard deviation, MAD, range, and IQR.
-@highlight Non-symmetric spread measures may be used e.g. in group decision making.

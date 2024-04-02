@@ -1,6 +1,0 @@
- Inferring transcriptional regulatory interactions between transcription factors (TFs) and their targets has utmost importance for understanding the complex regulatory mechanisms in cellular system. In this paper, we introduced a computational method to predict regulatory interactions in Arabidopsis based on gene expression data and sequence information. Support vector machine (SVM) and Jackknife cross-validation test were employed to perform our method on a collected dataset including 178 positive samples and 1068 negative samples. Results showed that our method achieved an overall accuracy of 98.39% with the sensitivity of 94.88%, and the specificity of 93.82%, which suggested that our method can serve as a potential and cost-effective tool for predicting regulatory interactions in Arabidopsis.
-
-@highlight SVM is explored to predict regulatory interactions in Arabidopsis. Experimentally validated regulatory relationships were collected as the positive samples.
-@highlight Negative training samples were randomly selected TF–target pairs under some strategies.
-@highlight Each gene pair was represented by incorporating the expression data and sequence information.
-@highlight Through the jackknife test, our method reached an overall accuracy of 98.39% with the sensitivity of 94.88%, and the specificity of 93.82%.

@@ -1,6 +1,0 @@
- Query-by-Humming involves retrieving music with a melody that matches the hummed query. An improved Query-by-Humming system for extracting pitch contour information based on a fuzzy inference model is introduced. In addition, an improved content-based music repeating pattern extraction model is introduced. Our bar-indexing method can extract the melody, identify repeating patterns and handle polyphonic MIDI files. To verify the effectiveness of the system, 15 volunteers recorded queries that were fed as input to the system and the longest common subsequence (LCS) was used to identify the most related top N matches. The system achieves 70% accuracy among the top 5 items retrieved.
-
-@highlight Devising a bar-indexing method to reduce the processing time.
-@highlight Providing an effective strategy to deal with MIDI files.
-@highlight Using repeating pattern as a search index not only saves the database storage space and computing cost, but also raises the accuracy of the system.
-@highlight Proposing fuzzy inference system to raise the capability for fault tolerance and raise the system accuracy.

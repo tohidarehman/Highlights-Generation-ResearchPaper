@@ -1,5 +1,0 @@
- We propose a WDM MIMO system that uses a selective mode excitation technique to reduce MIMO DSP over a conventional GI-MMF. We show numerically that we can selectively excite low-order modes with the small DMD of GI-MMF and confirm experimentally that we can obtain a small DMD over a wide wavelength range under selective mode excitation conditions. We realize a C- and L-band WDM coherent optical 2×2 MIMO transmission over a 10-km 50μm-core GI-MMF, which enables us to reduce MIMO DSP complexity over a wide wavelength range.
-
-@highlight We proposed a MIMO system by using a selective mode excitation technique to reduce DSP complexity.
-@highlight We obtained a small DMD over a wide wavelength range under selective mode excitation conditions.
-@highlight We achieved a C+L band WDM coherent optical 2×2 MIMO transmission over a 10-km 50μm-core GI-MMF.

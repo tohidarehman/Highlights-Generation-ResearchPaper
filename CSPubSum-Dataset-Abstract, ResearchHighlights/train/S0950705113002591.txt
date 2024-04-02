@@ -1,7 +1,0 @@
- We present two novel techniques for the imputation of both categorical and numerical missing values. The techniques use decision trees and forests to identify horizontal segments of a data set where the records belonging to a segment have higher similarity and attribute correlations. Using the similarity and correlations, missing values are then imputed. To achieve a higher quality of imputation some segments are merged together using a novel approach. We use nine publicly available data sets to experimentally compare our techniques with a few existing ones in terms of four commonly used evaluation criteria. The experimental results indicate a clear superiority of our techniques based on statistical analyses such as confidence interval.
-
-@highlight Two novel missing value imputation techniques.
-@highlight Justification of the basic concepts of the techniques through some empirical analyses.
-@highlight Experimentation on nine data sets, four evaluation criteria.
-@highlight Comparison with two existing techniques.
-@highlight A complexity analysis of all techniques.

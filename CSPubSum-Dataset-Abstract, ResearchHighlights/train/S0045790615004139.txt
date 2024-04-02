@@ -1,7 +1,0 @@
- A new recurrent wavelet fuzzy neural network (RWFNN) with adaptive learning rates is proposed to control the rotor position on the axial direction of a thrust magnetic bearing (TMB) mechanism in this study. First, the dynamic analysis of the TMB with differential driving mode (DDM) is derived. Because the dynamic characteristics and system parameters of the TMB mechanism are high nonlinear and time-varying, the RWFNN, which integrates wavelet transforms with fuzzy rules, is proposed to achieve precise positioning control of the TMB. For the designed RWFNN controller, the online learning algorithm is derived using back-propagation method. Moreover, since the improper selection of learning rates for the RWFNN will deteriorate the control performance, an improved particle swarm optimization (IPSO) is adopted to adapt the learning rates of the RWFNN on-line. Numerical simulations show the validity of TMB system using the proposed RWFNN controller with IPSO under the occurrence of uncertainties.
-
-@highlight A new recurrent wavelet fuzzy neural network (RWFNN) controller is proposed.
-@highlight RWFNN is adopted to control the rotor position of a thrust magnetic bearing (TMB).
-@highlight The online learning algorithm of RWFNN is derived using back-propagation method.
-@highlight The adaptive learning rates are performed via improved particle swarm optimization.
-@highlight Numerical simulations show the validity of TMB using the RWFNN controller.

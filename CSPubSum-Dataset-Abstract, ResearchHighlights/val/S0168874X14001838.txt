@@ -1,7 +1,0 @@
- Stokes, Darcy and solid mechanics coupling is a matter of interest in many domains of engineering such as soil mechanics, bio-mechanics, and composites. The aim of this paper is to present a robust iterative method to deal with this coupling for low permeability media within the framework of industrial simulation, and especially for composite manufacturing processes. Stokes and Darcy problems are solved using a mixed velocity–pressure finite element using a mini-element formulation, and coupled together by the so-called Beavers–Joseph–Saffman conditions through their interface. This fluid formulation is then coupled to a non-linear solid mechanics formulation in finite deformations using Terzaghi׳s law at the pore level, and an explicit dependence of permeability with respect to porosity that is exactly computed from the solid mechanics kinematics. Then, those formulations are validated with test-cases and by the Method of the Manufactured Exact Solution (MMES) (Knupp and ). Finally, a 3D curved transient example of application is presented.
-
-@highlight Robust method to couple iteratively Stokes, Darcy and solid mechanics.
-@highlight Application to industrial composite manufacturing (finite deformations, thin pure fluid layer, low permeability down to 10−15
-@highlight 2 and complex shapes).
-@highlight Solution for key issues for Stokes Darcy coupling with low permeability (mass conservation).
-@highlight Iterative fluid/solid coupling method based on Terzaghi principle and explicit permeability computation through solid mechanics volume changes.

@@ -1,7 +1,0 @@
- This paper develops an innovative objectives-oriented approach with one evaluation model and three optimization models for managing the implementation of a set of critical success strategies (CSSs) for an enterprise resource planning (ERP) project in an organization. To evaluate the CSSs based on their contribution to the organizational objectives, the evaluation model addresses an important issue of measuring the relationship between objectives in a three-level hierarchy involving the organization, its functional departments, and the ERP project. To determine the optimal management priority for implementing the CSSs from the organization’s perspective, the three optimization models maximize their total implementation value by integrating individual departments’ management preferences. An empirical study is conducted to demonstrate how these models work and how their outcomes can provide practical insights and implications in planning and managing the implementation of the CSSs for an ERP project.
-
-@highlight A model for evaluating critical success strategies of an ERP project with three-level objectives.
-@highlight Three optimization models for setting the optimal management priority for implementing CSSs.
-@highlight Objectives-oriented management of CSSs by integrating individual departments’ preferences.
-@highlight A management matrix as a strategic map for effective management of CSSs.
-@highlight An empirical study with managerial insights and implications.

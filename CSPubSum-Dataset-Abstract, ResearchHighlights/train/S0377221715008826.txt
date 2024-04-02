@@ -1,5 +1,0 @@
- This paper proposes a time-computing model using the Graphical Evaluation and Review Technique (GERT) to analyse concurrent New Product Development (NPD) processes. The research presented here differs from previous work carried out on concurrent engineering. First, we conceptualise a concurrent NPD process using the GERT scheduling technique and derive a method of modelling the information and communication complexities within the process. Second, we extend previous research carried out on concurrent engineering and incorporate it within our model. Finally, we present an alternative method of analysing concurrent NPD process for both researchers and project managers alike. The GERT model developed in this paper was successfully employed at two NPD firms located in Ireland and Iran.
-
-@highlight We conceptualised a concurrent New Product Development (NPD) process using GERT.
-@highlight We derived a method of modelling the information and communication complexities within the process.
-@highlight The GERT model was successfully employed at two NPD firms.

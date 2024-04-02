@@ -1,7 +1,0 @@
- We present a framework for sequential decision making in problems described by graphical models. The setting is given by dependent discrete random variables with associated costs or revenues. In our examples, the dependent variables are the potential outcomes (oil, gas or dry) when drilling a petroleum well. The goal is to develop an optimal selection strategy of wells that incorporates a chosen utility function within an approximated dynamic programming scheme. We propose and compare different approximations, from naive and myopic heuristics to more complex look-ahead schemes, and we discuss their computational properties. We apply these strategies to oil exploration over multiple prospects modeled by a directed acyclic graph, and to a reservoir drilling decision problem modeled by a Markov random field. The results show that the suggested strategies clearly improve the naive or myopic constructions used in petroleum industry today. This is useful for decision makers planning petroleum exploration policies.
-
-@highlight We consider a sequential DP problem for oil and gas exploration.
-@highlight Prospects are correlated through graphical models (BN or MRF).
-@highlight We develop approximated strategies for solving large problems.
-@highlight We use heuristic strategies as benchmark for results comparison.
-@highlight We show the benefits in terms of expected revenues and discuss the results.

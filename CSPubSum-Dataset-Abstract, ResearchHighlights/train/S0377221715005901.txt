@@ -1,7 +1,0 @@
- In this paper we consider a routing problem where uncapacitated vehicles are loaded with goods, requested by the customers, that arrive at the depot over time. The arrival time of a product at the depot is called its release date. We consider two variants of the problem. In the first one a deadline to complete the distribution is given and the total distance traveled is minimized. In the second variant no deadline is given and the total time needed to complete the distribution is minimized. While both variants are in general NP-hard, we show that they can be solved in polynomial time if the underlying graph has a special structure.
-
-@highlight We present the Vehicle Routing Problem with Release dates.
-@highlight We study the problem in case of uncapacitated vehicles.
-@highlight We consider two variants: the case single vehicle and the multiple vehicle case.
-@highlight We study the computational complexity of the problems on the star and the line.
-@highlight We prove that all cases are polynomially solvable.

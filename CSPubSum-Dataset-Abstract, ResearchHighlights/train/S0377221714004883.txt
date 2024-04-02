@@ -1,7 +1,0 @@
- Suppose customers need to choose when to arrive to a congested queue with some desired service at the end, provided by a single server that operates only during a certain time interval. We study a model where the customers incur not only congestion (waiting) costs but also penalties for their index of arrival. Arriving before other customers is desirable when the value of service decreases with every admitted customer. This may be the case for example when arriving at a concert or a bus with unmarked seats or going to lunch in a busy cafeteria. We provide game theoretic analysis of such queueing systems with a given number of customers, specifically we characterize the arrival process which constitutes a symmetric Nash equilibrium.
-
-@highlight Analysis of the arrival process to a queue with order penalties.
-@highlight Equilibrium arrival distribution has an infinite support.
-@highlight Explicit solutions for a two customer game.
-@highlight General model for both index and tardiness costs.
-@highlight Computational technique for finding the equilibrium profile.

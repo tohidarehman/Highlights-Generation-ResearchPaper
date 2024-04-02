@@ -1,7 +1,0 @@
- We investigate the inverse convex ordered 1-median problem on unweighted trees under the cost functions related to the Chebyshev norm and the Hamming distance. By the special structure of the problem under Chebyshev norm, we deduce the so-called maximum modification to modify the edge lengths of the tree. Additionally, the cost function of the problem receives only finite values under the bottleneck Hamming distance. Therefore, we can find the optimal cost of the problem by applying binary search. It is shown that both of the problems, under Chebyshev norm and under the bottleneck Hamming distance, can be solved in O(n 2log n) time in all situations, with or without essential topology changes. Here, n is the number of vertices of the tree. Finally, we prove that the problem under weighted sum Hamming distance is NP-hard.
-
-@highlight We investigate in this paper the inverse convex ordered 1-median problem.
-@highlight We consider this problem on trees and under Chebyshev norm and Hamming distance.
-@highlight We develop exact algorithms (with time complexity O(n
-@highlight 2log (n)) for both cases.
-@highlight We show that the problem is NP-hard under the weighted sum Hamming distance.

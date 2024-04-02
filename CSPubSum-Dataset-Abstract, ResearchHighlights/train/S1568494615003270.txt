@@ -1,7 +1,0 @@
- In this paper hybrid flow shop scheduling problem with two agents is studied and its feasibility model is considered. A two-phase neighborhood search (TNS) algorithm is proposed to minimize objectives of two agents simultaneously under the given upper bounds. TNS is constructed through the combination of multiple variable neighborhood mechanisms and a new perturbation strategy for new current solution. A new replacement principle is also applied to decide if the current solution can be updated. TNS is tested on a number of instances and compared with the existing methods. The computational results show the promising advantage of TNS on the considered problem.
-
-@highlight Two-agent hybrid flow shop scheduling problem is first considered.
-@highlight The feasibility model is considered unlike most of literature on multi-agent scheduling.
-@highlight A two-phase neighborhood search is proposed, which is composed of VNS and ILS.
-@highlight Two variable neighborhood mechanism and an effective perturbation are used.
-@highlight Computational results show the promising advantage of the proposed algorithm.

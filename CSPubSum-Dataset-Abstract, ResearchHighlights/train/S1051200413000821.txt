@@ -1,6 +1,0 @@
- This paper shows a new algorithm to improve the performance of IQ demodulators and frequency converters exhibiting gain and phase imbalances between their branches. This algorithm does not require any input calibration signal and is independent of the input signal level. It exploits the spectral coherence (SC) concept using a monobit kernel to achieve optimization targets with minimum time to convergence, low computational load, and a wide range of input levels. Its effectiveness is shown through a low-IF receiver that improves its image rejection ratio (IRR) from 30 dB to 60 dB.
-
-@highlight I/Q imbalances compensated using spectral coherence.
-@highlight The spectral coherence was implemented using monobit kernel.
-@highlight Fast convergence time with low computational burden.
-@highlight It improves the IRR by 30 dB in practical implementations (limited by noise).

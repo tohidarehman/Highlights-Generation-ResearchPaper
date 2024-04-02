@@ -1,6 +1,0 @@
- This paper presents an extended surface boundary representation (B-rep), where each topology entity can have dual geometric representations to accommodate various defects (e.g., gaps and overlaps) commonly present in CAD models. Keeping a uniform B-rep and the unsuppressed geometry data enables the use of various existing repairing, defeaturing and meshing algorithms to process CAD models with small gaps and overlaps on surface boundaries. The continuous geometry of the input model remains untouched in the repairing, defeaturing and meshing process, and the output mesh is loyal to this geometry. Such feature is often desirable in numerical simulations that require meshes with high geometry fidelity.
-
-@highlight A new data structure that combines the continuous and discrete surface representations is proposed.
-@highlight A sequence of repairing, defeaturing and meshing algorithms that can exploit the strengths of both representations is developed.
-@highlight The repairing algorithm is defined on the discrete model but can output a correct B-rep.
-@highlight The output mesh is loyal to the input continuous model and therefore more geometrically accurate.

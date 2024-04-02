@@ -1,7 +1,0 @@
- Data-Centric Publish–Subscribe (DCPS) is an architectural and communication paradigm where applications exchange data-content through a common data-space using publish-subscribe interactions. Due to its focus on data-content, DCPS is especially suitable for deploying IoT systems. However, some problems must be solved to support large deployments. In this paper we define a novel extension to the IETF REsource LOcation And Discovery (RELOAD) protocol specification for providing content discovery and transfer in big scale IoT deployments. We have conducted a set of experiments over multiple simulated networks of 500 to 10,000 nodes that demonstrate the viability, scalability, and robustness of our proposal.
-
-@highlight We propose a novel extension to the RELOAD protocol specification.
-@highlight This extension adds Data-Centric Publish–Subscribe support to RELOAD.
-@highlight We cover multiple Internet of Things use-cases.
-@highlight We demonstrate our proposal's scalability by using overlays with 500 to 10,000 nodes.
-@highlight We demonstrate our proposal's robustness in scenarios with very high levels of churn.

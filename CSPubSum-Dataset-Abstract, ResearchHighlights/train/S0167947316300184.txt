@@ -1,6 +1,0 @@
- At about the same time , R. Liu introduced the notion of simplicial depth and R. Randles the notion of interdirections. These completely independent and seemingly unrelated initiatives, serving different purposes in nonparametric multivariate analysis, have spawned significant activity within their quite different respective domains. A surprising and fruitful connection between the two notions is shown. Exploiting the connection, statistical procedures based on interdirections can be modified to use simplicial depth instead, at considerable reduction of computational burden in the case of dimensions 2, 3, and 4. Implications regarding multivariate sign test statistics are discussed in detail, and several other potential applications are noted.
-
-@highlight An important connection between Liu’s simplicial depth and Randles’ interdirections.
-@highlight Computational advantage of simplicial depth over interdirections.
-@highlight Basis for profitably modifying statistical procedures based on interdirections.
-@highlight New perspectives on multivariate sign tests.

@@ -1,7 +1,0 @@
- We consider a setting in which a company not only has a fleet of capacitated vehicles and drivers available to make deliveries, but may also use the services of occasional drivers who are willing to make a single delivery using their own vehicle in return for a small compensation if the delivery location is not too far from their own destination. The company seeks to make all the deliveries at minimum total cost, i.e., the cost associated with its own vehicles and drivers plus the compensation paid to the occasional drivers. The option to use occasional drivers to make deliveries gives rise to a new and interesting variant of the classical capacitated vehicle routing problem. We design and implement a multi-start heuristic which produces solutions with small errors when compared with optimal solutions obtained by solving an integer programming formulation with a commercial solver. A comprehensive computational study provides valuable insight into the potential of using occasional drivers to reduce delivery costs, focusing primarily on the number and flexibility of occasional drivers and the compensation scheme employed.
-
-@highlight We present the Vehicle Routing Problem with Occasional Drivers.
-@highlight We present a mathematical formulation of the problem.
-@highlight We propose a multi-start heuristic algorithm.
-@highlight We perform a computational study on instances adapted from VRP benchmark instances.
-@highlight We highlight the benefits that could be achieved by employing occasional drivers.

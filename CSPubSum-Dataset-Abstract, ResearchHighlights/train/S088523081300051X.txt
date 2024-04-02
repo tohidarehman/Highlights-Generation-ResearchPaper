@@ -1,7 +1,0 @@
- This paper describes a noisy-channel approach for the normalization of informal text, such as that found in emails, chat rooms, and SMS messages. In particular, we introduce two character-level methods for the abbreviation modeling aspect of the noisy channel model: a statistical classifier using language-based features to decide whether a character is likely to be removed from a word, and a character-level machine translation model. A two-phase approach is used; in the first stage the possible candidates are generated using the selected abbreviation model and in the second stage we choose the best candidate by decoding using a language model. Overall we find that this approach works well and is on par with current research in the field.
-
-@highlight Normalization of abbreviations in noisy, informal text.
-@highlight Collection, filtering and annotation of Twitter status messages.
-@highlight Comparison of statistical and machine translation approaches.
-@highlight Effects of language model order on accuracy.
-@highlight Combination of methods to achieve best results.

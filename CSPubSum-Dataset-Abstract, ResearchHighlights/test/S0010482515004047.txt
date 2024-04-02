@@ -1,7 +1,0 @@
- Robust Generalised Cross-Validation was proposed recently as a method for determining near optimal regularisation parameters in inverse problems. It was introduced to overcome a problem with the regular Generalised Cross-Validation method in which the function that is minimised to obtain the regularisation parameter often has a broad, flat minimum, resulting in a poor estimate for the parameter. The robust method defines a new function to be minimised which has a narrower minimum, but at the expense of introducing a new parameter called the robustness parameter. In this study, the Robust Generalised Cross-Validation method is applied to the inverse problem of electrocardiology. It is demonstrated that, for realistic situations, the robustness parameter can be set to zero. With this choice of robustness parameter, it is shown that the robust method is able to obtain estimates of the regularisation parameter in the inverse problem of electrocardiology that are comparable to, or better than, many of the standard methods that are applied to this inverse problem.
-
-@highlight Robust Generalised Cross-Validation (RGCV) is introduced to ECG Imaging.
-@highlight RGCV is compared to more common methods for two heart beat scenarios.
-@highlight Zero order Tikhonov regularisation is the basis for the comparison.
-@highlight Various levels of white noise and geometric noise are considered.
-@highlight RGCV produces accurate and consistent epicardial potential distributions.

@@ -1,6 +1,0 @@
- Credit options and side payments are two methods suggested for achieving coordination in a two-echelon supply chain. We examine the credit option coordination mechanism introduced by Chaharsooghi and Heydari [Chaharsooghi, S., & Heydari, J. . Supply chain coordination for the joint determination of order quantity and reorder point using credit option. European Journal of Operational Research, 204, 86–95]. This method assumes that the supplier’s opportunity costs are equal to the reduction in the buyer’s financial holding costs during the credit period. In this note, we show that Chaharsooghi and Heydari’s method is not applicable when buyer and supplier opportunity costs are not equal. We introduce an alternate per order rebate method that reduces supply chain costs to centralized management levels.
-
-@highlight Evaluation of credit options for coordination under continuous review assumptions.
-@highlight Illustration of problems with the credit option approach to coordination.
-@highlight Definition of a per order rebate payment as a coordination incentive.
-@highlight Two-level supply chain under continuous review with uncertain demand.

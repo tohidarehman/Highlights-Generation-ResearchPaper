@@ -1,7 +1,0 @@
- A key issue in applying multi-attribute project portfolio models is specifying the baseline value – a parameter which defines how valuable not implementing a project is relative to the range of possible project values. In this paper we present novel baseline value specification techniques which admit incomplete preference statements and, unlike existing techniques, make it possible to model problems where the decision maker would prefer to implement a project with the least preferred performance level in each attribute. Furthermore, we develop computational methods for identifying the optimal portfolios and the value-to-cost -based project rankings for all baseline values. We also show how these results can be used to (i) analyze how sensitive project and portfolio decision recommendations are to variations in the baseline value and (ii) provide project decision recommendations in a situation where only incomplete information about the baseline value is available.
-
-@highlight We consider the baseline value parameter in multiattribute project portfolio models.
-@highlight We develop novel methods for baseline value specification.
-@highlight We develop tools for conducting baseline value sensitivity analysis.
-@highlight We develop an algorithm to solve all potentially optimal portfolios.
-@highlight We develop an algorithm to identify all value-to-cost orderings of projects.

@@ -1,6 +1,0 @@
- We present models of trucks and shovels in oil sand surface mines. The models are formulated to minimize the number of trucks for a given set of shovels, subject to throughput and ore grade constraints. We quantify and validate the nonlinear relation between a shovel’s idle probability (which determines the shovel’s productivity) and the number of trucks assigned to the shovel via a simple approximation, based on the theory of finite source queues. We use linearization to incorporate this expression into linear integer programs. We assume in our integer programs that each shovel is assigned a single truck size but we outline how one could account for multiple truck sizes per shovel in an approximate fashion. The linearization of shovel idle probabilities allows us to formulate more accurate truck allocation models that are easily solvable for realistic-sized problems.
-
-@highlight Tractable linear integer allocation model in oil sands mining industry using query theory.
-@highlight Capturing the nonlinear relationship between throughput and number of trucks.
-@highlight Model is based on shovel productivity, which is derived from the shovel’s idle probability.
-@highlight Linearization of idle probabilities leads to an accurate, simple allocation model.

@@ -1,5 +1,0 @@
- In this paper, given two real space algebraic curves, not necessarily bounded, whose Hausdorff distance is finite, we provide bounds of their distance. These bounds are related to the distance between the projections of the space curves onto a plane (say, ), and the distance between the z-coordinates of points in the original curves. Therefore, we provide a theoretical result that reduces the estimation and bounding of the Hausdorff distance of algebraic curves from the spatial to the planar case. Using these results we provide an estimation method for bounding the Hausdorff distance between two space curves and we check in applications that the method is accurate and fast.
-
-@highlight Bounds of the Hausdorff distance between two real space algebraic curves are provided.
-@highlight An estimation method for bound of the Hausdorff distance is designed.
-@highlight The method is checked to be accurate and fast through given examples.

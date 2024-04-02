@@ -1,5 +1,0 @@
- Magnetic resonance elastography (MRE) is a promising modality for in vivo quantification and visualization of soft tissue elasticity. It involves three stages of processes for  external excitation,  wave imaging and  elasticity reconstruction. One of the important issues to be addressed in MRE is wave image processing and enhancement. In this study we approach it from three different ways including phase unwrapping, directional filtering and noise suppression. The relevant solutions were addressed briefly. Some of them were implemented and evaluated on both simulated and experimental MRE datasets. The results confirm that wave image enhancement is indispensable before carrying out MRE elasticity reconstruction.
-
-@highlight Addressing wave image processing and enhancement in MRE.
-@highlight Investigating various solutions for phase unwrapping, directional filtering and noise suppression.
-@highlight Carrying out both quantitative and qualitative experiments for performance evaluation and comparison.

@@ -1,7 +1,0 @@
- We live in the Information Age, where most of the personal, business, and administrative data are collected and managed electronically. However, poor data quality may affect the effectiveness of knowledge discovery processes, thus making the development of the data improvement steps a significant concern. In this paper we propose the Multidimensional Robust Data Quality Analysis, a domain-independent technique aimed to improve data quality by evaluating the effectiveness of a black-box cleansing function. Here, the proposed approach has been realized through model checking techniques and then applied on a weakly structured dataset describing the working careers of millions of people. Our experimental outcomes show the effectiveness of our model-based approach for data quality as they provide a fine-grained analysis of both the source dataset and the cleansing procedures, enabling domain experts to identify the most relevant quality issues as well as the action points for improving the cleansing activities. Finally, an anonymized version of the dataset and the analysis results have been made publicly available to the community.
-
-@highlight MRDQA: a model-based approach for supporting the Data Quality task on KDD.
-@highlight Evaluation of quality requirements of weakly-structured data via model-checking.
-@highlight A fine-grained quality analysis of the cleansing procedures effectiveness.
-@highlight Automatic identification of error-patterns and interactive visualisation.
-@highlight Experiments done on a real scenario making data publicly available.

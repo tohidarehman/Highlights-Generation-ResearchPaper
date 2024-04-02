@@ -1,7 +1,0 @@
- The subject of this paper is the problem of finding the optimal replenishment schedule for an inventory, subject to time-dependent demand and deterioration, within a finite time planning horizon. It is shown that taking inflation into account has a profound effect on the solution of the problem. For instance, there is a critical number of replenishment periods, in excess of which the optimal schedule is characterized by the inclusion of token orders at the end of the planning horizon. This and other conclusions, obtained via a careful mathematical analysis of the problem, rectify those of earlier studies.
-
-@highlight The problem of minimizing the cost of holding an inventory within a finite time planning horizon is studied.
-@highlight Taking inflation into account changes the character of the solution.
-@highlight The optimal schedule can include periods of time span zero.
-@highlight The minimal cost is not a strictly convex function of the number of replenishment periods.
-@highlight The analysis rectifies fallacies in the antecedent literature.

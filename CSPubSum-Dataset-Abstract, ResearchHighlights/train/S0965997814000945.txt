@@ -1,7 +1,0 @@
- This paper presents a numerical model developed specifically for ultrasonic shot peening (USP). It allows simulating the shot dynamics (trajectories in the chamber and impacts on the peened sample) in industrial configurations. The model supports complex 3D geometries, rotating parts and employs efficient collision detection algorithms for short computation times. The aim is to improve peening chamber designs and the choice of process parameters. The algorithm and main assumptions are presented. Numerical studies are then conducted to determine the performances of the model, in terms of computation time. Finally, a case study on a spur gear tests the model in an industrial configuration and shows a high correlation between the numerical results and experimental data.
-
-@highlight A model of the shot dynamics in ultrasonic shot peening is presented.
-@highlight Complex geometries and process parameters of industrial interest are supported.
-@highlight The computational performances of the model are studied.
-@highlight A comparison with results from the scientific literature is conducted.
-@highlight A case study on a spur gear is presented with numerical and experimental results.

@@ -1,5 +1,0 @@
- In this paper, we formulate an adaptive Rao-Blackwellized particle filtering method with Gaussian mixture models to cope with significant variations of the target appearance during object tracking. By modeling target appearance as Gaussian mixture models, we introduce an efficient method for computing particle weights. We incrementally update the appearance models using an on-line Expectation–Maximization algorithm. To achieve robustness to outliers caused by tracking error or partial occlusion in updating the appearance models, we divide the target area into sub-regions and estimate the appearance models independently for each of those sub-regions. We demonstrate the robustness of the proposed method for object tracking using a number of publicly available datasets.
-
-@highlight Rao-Blackwellized particle filtering with Gaussian mixture models.
-@highlight Incremental learning approaches to update the appearance models.
-@highlight Evaluations on a number of publicly available datasets for visual tracking.

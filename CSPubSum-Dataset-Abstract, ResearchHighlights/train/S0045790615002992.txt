@@ -1,6 +1,0 @@
- The traditional approach for energy detection (ED) consists in the comparison of the energy received against a fixed detection threshold, estimated according to an expected noise level. However, the noise power is not a static parameter since it varies as a function of the random sources of noise and interference present in the network. This random nature of the noise power originates the so-called noise uncertainty problem which adversely affects the performance of the ED. In this paper, we propose and evaluate by means of computer simulation an adaptive energy detector that incorporates a noise power estimation strategy for adjusting the detection threshold according to the noise power present at each sensing epoch. As it can be proved by simulation results, our strategy helps in reducing the sensing errors and to improve the ED's sensitivity by alleviating the negative effects of the noise uncertainty.
-
-@highlight Noise uncertainty in energy detection is counteracted by adapting detection threshold.
-@highlight Multiple receiver architecture is exploited for maximum likelihood estimation.
-@highlight Threshold adaptation allows maintaining a constant and low false-alarm rate.
-@highlight The probability of detection is improved in the low SNR regime without increasing sensing time.

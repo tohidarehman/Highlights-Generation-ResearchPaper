@@ -1,7 +1,0 @@
- The distribution of products using compartmentalized vehicles involves many decisions such as the allocation of products to vehicle compartments, vehicle routing and inventory control. These decisions often span several periods, yielding a difficult optimization problem. In this paper we define and compare four main categories of the Multi-Compartment Delivery Problem (MCDP). We propose two mixed-integer linear programming formulations for each case, as well as specialized models for particular versions of the problem. Known and new valid inequalities are introduced in all models. We then describe a branch-and-cut algorithm applicable to all variants of the MCDP. We have performed extensive computational experiments on single-period and multi-period cases of the problem. The largest instances that could be solved exactly for these two cases contain 50 and 20 customers, respectively.
-
-@highlight We define and compare four variants of the multi-compartment delivery problem.
-@highlight The problem is solved in a multi-period and in an inventory-routing setting.
-@highlight Several new models are developed and compared.
-@highlight All variants can be solved by a unified branch-and-cut algorithm.
-@highlight Instances involving up to 50 customers are solved optimally.

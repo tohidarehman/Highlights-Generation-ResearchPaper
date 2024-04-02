@@ -1,5 +1,0 @@
- A family of spatial beam finite elements based on the fixed-pole approach is developed and presented in this work. The family consists of three different interpolation options, which arise as a consequence of the fact that the virtual position vector has been interpolated in a non-linear manner, and depends on the actual position vector not only at the nodal points, but also at the integration points. All three formulations turn out to be non-invariant and path-dependent. In two of them, however, this problem may be easily solved by interpolating the total local rotations, which also makes the procedure more robust in handling large load increments.
-
-@highlight We analyse fixed-pole approach in geometrically exact beam theory.
-@highlight We propose a new formulation using standard degrees of freedom.
-@highlight We assess the new formulation with respect to invariance and path dependence.

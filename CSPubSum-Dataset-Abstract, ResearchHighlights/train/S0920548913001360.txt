@@ -1,7 +1,0 @@
- This paper presents a new service for CORBA applications that orchestrates the timely execution of the tasks of a distributed real-time system in a flexible way. It follows the CORBA philosophy of complementing the CORBA standard with additional services that solve specific problems and facilitate using CORBA in complex applications. The service has been designed for highly coupled applications that execute over LANs. It provides a synchronous framework to synchronize distributed applications that is open to accepting and removing components on-line, with reduced impact on the application timing. It also provides the flexibility to use different distributed scheduling policies that can override the local operating systems schedulers. This paper describes the service architecture and implementation as well as its best-case performance on low computing power hardware with the QNX OS and connected to a switched Ethernet network. Finally the usage and of the service is illustrated with one case study: the synchronization of several robots in a welding process.
-
-@highlight CORBA service for orchestrating in a timely and flexible way the tasks of a DRTS
-@highlight Definition of the FTT-CORBA architecture, task model and initial configuration
-@highlight Implementation issues of FTT-CORBA over TAO-CORBA and ACE
-@highlight Performance of FTT-CORBA over low end hardware on different platforms
-@highlight Coordination of automation applications with reconfiguration needs with FTT-CORBA.

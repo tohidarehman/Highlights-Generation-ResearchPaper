@@ -1,6 +1,0 @@
- The integration of educational video games in Virtual Learning Environments (VLEs) is a challenging task in need of standardization to improve interoperability and to safeguard investment. The generalized use of VLEs has fostered the emergence of rich contents, and different standards exist to improve their interoperability and reusability. This work describes a proposal of how existing e-learning standards can be used to improve the integration of educational games in VLEs, while introducing a set of models that take into account the features of the selected standards. A specific implementation of this approach in the eAdventure game platform is also presented.
-
-@highlight Deliver games in Virtual Learning Environments exploiting tracking and adaptation.
-@highlight We analyze the current e-learning standards for content interoperability.
-@highlight We propose 3 game integration models taking as start point the previous analysis.
-@highlight The model implementation in the eAdventure game authoring platform is described.

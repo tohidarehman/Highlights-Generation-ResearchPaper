@@ -1,6 +1,0 @@
- We present a scheme for coordinating decentralized parties that share central resources but hold private information about their decision problems modeled as linear programs. This setting is of particular importance for supply chains, in which the plans of independent, often legally separated, parties have to be synchronized. The scheme is based on an iterative generation and exchange of proposals regarding the parties’ input to or withdrawal from the central resources (i.e. primal information). We prove that the system-wide optimum can be identified in a finite number of steps. A simple numerical example illustrates the information exchange and the models involved when coordinating a two-stage supply chain.
-
-@highlight A new scheme for coordinating LPs of decentralized parties is presented.
-@highlight Parties iteratively exchange proposals, e.g. purchase and supply plans.
-@highlight There is no need to exchange dual values of central resources.
-@highlight The system-wide optimum is identified in a finite number of steps.

@@ -1,7 +1,0 @@
- The field of economics associates capacity planning with economic scale size and finds the characteristics of the production function whereas the operations management community focuses on demand fulfillment to reduce the loss of sales or inventory for profit maximization. However, there is a troublesome capacity trade-off for firms that need to achieve economic scale size and demand fulfillment simultaneously; in particular, a firm's demand is variable and some of the variation is random. This study proposes a multi-objective mathematical program with data envelopment analysis (DEA) constraints to set an efficient target which shows a trade-off between the most-productive-scale-size (MPSS) benchmark and a potential demand fulfillment benchmark. The study also employs the minimax regret (MMR) approach and the stochastic programming (SP) technique to address target variations caused by demand fluctuations. The result shows how capacity planning via the proposed models can help managers address the capacity dilemma.
-
-@highlight We address the capacity dilemma between economic scale size and demand fulfillment.
-@highlight We propose a multi-objective decision analysis with DEA constraints.
-@highlight Three cases are proposed to identify the target regarding different demand levels.
-@highlight Minimax regret and stochastic programming are used to address demand uncertainty.
-@highlight A computational study justifies the robust solution provided by proposed model.

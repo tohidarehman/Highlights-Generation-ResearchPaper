@@ -1,7 +1,0 @@
- A batch of expensive items, such as IC chips, is often inspected multiple times in a sequential manner to further discover more conforming items. After several rounds of screening, we need to estimate the number of conforming items that still remain in the batch. We propose in this paper an empirical Bayes estimation method and compare its performance with that of the traditional maximum likelihood method. In the repetitive screening procedure, another important decision problem is when to stop the screening process and salvage the remaining items. We propose various types of stopping rules and illustrate their procedures with a simulated inspection data. Finally, we explore various extensions to our empirical Bayes estimation method in multiple inspection plans.
-
-@highlight A batch of complex items is inspected more than once to discover conforming items in repetitive screening.
-@highlight The number of conforming items still remaining in the batch is often estimated by the maximum likelihood method.
-@highlight We propose an empirical Bayes estimation method which considers the heterogeneity in batch quality.
-@highlight We also deal with the problem of when to stop the screening process and salvage the remaining items.
-@highlight In numerical study, we show that the empirical Bayes method is superior to the traditional estimation method.

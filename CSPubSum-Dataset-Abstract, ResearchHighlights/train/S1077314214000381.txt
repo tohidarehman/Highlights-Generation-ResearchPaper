@@ -1,7 +1,0 @@
- A hierarchical vision system, inspired by the functional architecture of the cortical motion pathway, to provide motion interpretation and to guide real-time actions in the real-world, is proposed. Such a neuromimetic architecture exploits (i) log-polar mapping for data reduction, (ii) a population of motion energy neurons to compute the optic flow, and (iii) a population of adaptive templates in the cortical domain to gain the flow’s affine description. The time-to-contact and the surface orientations of points of interest in the real-world are computed by directly combining the linear description of the cortical flow. The approach is validated through quantitative tests in synthetic environments, and in real-world automotive and robotics situations.
-
-@highlight A bio-inspired vision system for motion interpretation in cortical domain.
-@highlight A population of motion energy neurons for the computation of optic flow.
-@highlight Relationships between the log-polar and Cartesian affine description of optic flow.
-@highlight An architecture that exploits multi-core CPU and GPU for real-time processing.
-@highlight Benchmarking on synthetic and real-world sequences.

@@ -1,7 +1,0 @@
- Multicuts enable to conveniently represent discrete graphical models for unsupervised and supervised image segmentation, in the case of local energy functions that exhibit symmetries. The basic Potts model and natural extensions thereof to higher-order models provide a prominent class of such objectives, that cover a broad range of segmentation problems relevant to image analysis and computer vision. We exhibit a way to systematically take into account such higher-order terms for computational inference. Furthermore, we present results of a comprehensive and competitive numerical evaluation of a variety of dedicated cutting-plane algorithms. Our approach enables the globally optimal evaluation of a significant subset of these models, without compromising runtime. Polynomially solvable relaxations are studied as well, along with advanced rounding schemes for post-processing.
-
-@highlight We propose a novel and general formulation for hyper-graph correlation clustering.
-@highlight Any permutation invariant function can be included into a multicut problem.
-@highlight We provide a comparison of LP and ILP cutting plane methods and rounding procedures for the multicut problem.
-@highlight Many sparse Potts models can be solved to global optimality very efficient by the proposed method.
-@highlight The C++ implementations used in this manuscript is freely available online.

@@ -1,7 +1,0 @@
- Muscle fibre contractions is induced by action potentials which are generated at the innervation zone (IZ), propagate along the muscle fibres and extinguish at the tendon endings. Surface EMG reflects this bioelectrical activity of the muscle fibres. This paper proposes an innovative method which fits 2D high density surface EMG to a model describing production and flow, estimating the generation/extinction and propagation of action potentials. Two representative examples of applications are shown in . The method is real time, opening new possible applications: it investigates automatically muscle anatomy and activity, supporting the study of dynamic contractions, the control of prosthesis or the development of a biofeedback; moreover, it can support the automatic selection the optimal locations of the electrodes (far from IZ and tendons) from which EMG indexes can be reliably estimated.
-
-@highlight New algorithm to estimate generation, propagation and extinction of muscle fibre action potentials from EMG.
-@highlight Application 1: investigation of muscle anatomy (orientation of fibres and position of innervation zone and tendons).
-@highlight Application 2: investigation of muscle activity (conduction velocity of the action potentials along the fibres).
-@highlight Application 3: selection of optimal locations of the channels from which to extract reliable EMG indexes.
-@highlight The method is real time, opening potential applications in prosthesis control and in biofeedback.

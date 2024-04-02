@@ -1,5 +1,0 @@
- In this study, we discuss linear orders of intuitionistic fuzzy values (IFVs). Then we introduce an intuitionistic fuzzy weighted arithmetic average operator. Some fundamental properties of this operator are investigated. Based on the introduced operator, we propose a new model for intuitionistic fuzzy multi-attributes decision making. The proposed model deals with the degree of membership and degree of nonmembership separately. It is resistant to extreme data.
-
-@highlight It gives another form of the lexicographical order for intuitionistic fuzzy values.
-@highlight We introduce the intuitionistic fuzzy weighted arithmetic average operator w.r.t. two weight vectors.
-@highlight We propose a new model for intuitionistic fuzzy multiattributes decision making.

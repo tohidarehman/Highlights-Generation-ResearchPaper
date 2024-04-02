@@ -1,5 +1,0 @@
- In a recent paper, Soni and Shah [Soni, H., Shah, N. H. . Optimal ordering policy for stock-dependent demand under progressive payment scheme. European Journal of Operational Research 184, 91–100] developed a model to find the optimal ordering policy for a retailer with stock-dependent demand and a supplier offering a progressive payment scheme to the retailer. This note corrects some errors in the formulation of the model of Soni and Shah. It also extends their work by assuming that the credit interest rate of the retailer may exceed the interest rate charged by the supplier. Numerical examples illustrate the benefits of these modifications.
-
-@highlight We correct errors in a recent model of Soni and Shah.
-@highlight We extend the model to account for different ratios of interest rates.
-@highlight We illustrate the benefit of the model in numerical examples.

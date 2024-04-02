@@ -1,6 +1,0 @@
- Synchronous context-free grammars (SCFGs) can be learned from parallel texts that are annotated with target-side syntax, and can produce translations by building target-side syntactic trees from source strings. Ideally, producing syntactic trees would entail that the translation is grammatically well-formed, but in reality, this is often not the case. Focusing on translation into German, we discuss various ways in which string-to-tree translation models over- or undergeneralise. We show how these problems can be addressed by choosing a suitable parser and modifying its output, by introducing linguistic constraints that enforce morphological agreement and constrain subcategorisation, and by modelling the productive generation of German compounds.
-
-@highlight String-to-tree SMT systems aim to produce grammatically well-formed translation.
-@highlight Modelling assumptions of synchronous grammars can result in ungrammatical output.
-@highlight Grammar overgeneralisations can be reduced by parser choice and modifications.
-@highlight Overgeneralisation errors can be prevented with rule-based lingustic constraints.

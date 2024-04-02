@@ -1,6 +1,0 @@
- The core factors governing the performance of active vehicle suspension systems (AVSS) are the inherent trade-offs involving suspension travel, ride comfort, road holding and power consumption. In addition to this, robustness to parameter variations is an essential issue that affects the effectiveness of highly nonlinear electrohydraulic AVSS. Therefore, this paper proposes a nonlinear control approach using dynamic neural network (DNN)-based input–output feedback linearization (FBL) for a quarter-car AVSS. The gains of the proposed controllers and the weights of the DNNs are selected using particle swarm optimization (PSO) algorithm while addressing simultaneously the AVSS trade-offs. Robustness and effectiveness of the proposed controller were demonstrated through simulations.
-
-@highlight We design an active vehicle suspension system controller using computational intelligence technique.
-@highlight We compare the performance of this controller with the performance of passive, PID and non-optimized intelligent controllers.
-@highlight Robustness to parameter variations analysis is carried out in this paper.
-@highlight The proposed controller improved the vehicle ride comfort, road holding and disturbance rejection properties.

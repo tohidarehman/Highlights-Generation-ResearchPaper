@@ -1,5 +1,0 @@
- We present a new variant of the full 2-split algorithm, the Quadrant Shrinking Method (QSM), for finding all nondominated points of a tri-objective integer program. The algorithm is easy to implement and solves at most single-objective integer programs when computing the nondominated frontier, where is the set of all nondominated points. A computational study demonstrates the efficacy of QSM.
-
-@highlight We propose a new exact algorithm for solving tri-objective integer programs.
-@highlight We prove that the algorithm solves a linearly bounded number of integer programs.
-@highlight The algorithm is competitive with the state-of-the-art algorithms.

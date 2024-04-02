@@ -1,7 +1,0 @@
- High resolution ultrasound and photoacoustic images of stained neutrophils, lymphocytes and monocytes from a blood smear were acquired using a combined acoustic/photoacoustic microscope. Photoacoustic images were created using a pulsed 532nm laser that was coupled to a single mode fiber to produce output wavelengths from 532nm to 620nm via stimulated Raman scattering. The excitation wavelength was selected using optical filters and focused onto the sample using a 20× objective. A 1000MHz transducer was co-aligned with the laser spot and used for ultrasound and photoacoustic images, enabling micrometer resolution with both modalities. The different cell types could be easily identified due to variations in contrast within the acoustic and photoacoustic images. This technique provides a new way of probing leukocyte structure with potential applications towards detecting cellular abnormalities and diseased cells at the single cell level.
-
-@highlight Single leukocytes were imaged using ultrasound and photoacoustic microscopy.
-@highlight A fiber-coupled pulsed Nd:YAG laser enabled multispectral photoacoustic imaging.
-@highlight The nuclei of neutrophils, lymphocytes and monocytes were visible with ultrasound.
-@highlight Cellular features were enhanced using different photoacoustic excitation wavelengths.
-@highlight Neutrophils, lymphocytes and monocytes were identified from the generated images.

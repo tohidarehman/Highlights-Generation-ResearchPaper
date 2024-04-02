@@ -1,7 +1,0 @@
- In the present paper, a three-dimensional elasticity approach is employed to investigate buckling of heterogeneous functionally graded plates under biaxial compression, shear, tension-compression, and shear-compression load conditions. In this regard, a formulation that employs a full compatible three-dimensional Hermitian element with 168 degrees of freedom and guarantees continuity of the strain and stress components is used. It is known that all of the available famous commercial finite element softwares and the proposed series solutions satisfy continuity conditions of the displacement rather than the stress components. Buckling occurrence is detected based on checking both the instability onset and equilibrium criteria. Results are extracted based on a Galerkin-type orthogonality. Therefore, they are more accurate than those obtained based on the traditional Ritz method. The presented three-dimensional finite element analysis and the extracted results are quite new. A vast variety of results including results of biaxial compression, compression-tension, shear, and shear-compression load cases is considered and discussed in detail.
-
-@highlight Buckling under various biaxial normal and shear load combinations is investigated.
-@highlight The 3D elasticity theory rather than the approximate plate theories is used.
-@highlight A full compatible 3D Hermitian element with 168 degrees of freedom is used.
-@highlight The stress continuity is guaranteed in the present approach.
-@highlight Results are extracted based on a Galerkin-type orthogonality.

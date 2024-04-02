@@ -1,7 +1,0 @@
- We consider robust stochastic optimization problems for risk-averse decision makers, where there is ambiguity about both the decision maker’s risk preferences and the underlying probability distribution. We propose and analyze a robust optimization problem that accounts for both types of ambiguity. First, we derive a duality theory for this problem class and identify random utility functions as the Lagrange multipliers. Second, we turn to the computational aspects of this problem. We show how to evaluate our robust optimization problem exactly in some special cases, and then we consider some tractable relaxations for the general case. Finally, we apply our model to both the newsvendor and portfolio optimization problems and discuss its implications.
-
-@highlight Uncertainty in risk preferences and the underlying probability distribution is modeled.
-@highlight A duality theory is derived where random utility functions appear as the Lagrange multipliers.
-@highlight The optimal solution is computed exactly with convex optimization in a special case.
-@highlight In the general case, tractable convex relaxations of our model are obtained.
-@highlight Numerical experiments are conducted for the newsvendor and portfolio optimization problem to analyze the implications of our model.

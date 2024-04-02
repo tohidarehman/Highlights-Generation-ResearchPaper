@@ -1,6 +1,0 @@
- Handling weather uncertainty during the harvest season is an indispensable aspect of seed gathering activities. More precisely, the focus of this study refers to the multi-period wheat quality control problem during the crop harvest season under meteorological uncertainty. In order to alleviate the problem curse of dimensionality and to reflect faithfully exogenous uncertainties revealed progressively over time, we propose a multi-step joint chance-constrained model rolled forward step-by-step. This model is subsequently solved by a proactive dynamic approach, specially conceived for this purpose. Based on real-world derived instances, the obtained computational results exhibit proactive and accurate harvest scheduling solutions for the wheat crop quality control problem.
-
-@highlight This study is referring to the multi-period wheat quality control problem.
-@highlight A rolling multi-step joint chance-constrained model is proposed.
-@highlight A proactive dynamic framework is conceived.
-@highlight Obtained results exhibit proactive and accurate harvest scheduling solutions.

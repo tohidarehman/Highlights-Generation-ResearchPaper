@@ -1,5 +1,0 @@
- A version of the integrable problem of motion of a dynamically symmetric gyrostat about a fixed point similar to the Kowalevski top, while acted upon by a combination of uniform gravity and magnetic fields is considered. This version is reduced, in general, to hyperelliptic quadratures. The special case when the gyrostatic momentum is absent is solved in terms of elliptic functions of time.
-
-@highlight Reduction of the equations of motion of a gyrostat in two homogeneous fields admitting a singular symmetry.
-@highlight Algebraic separation of variables for special case of time-reversible reduced system.
-@highlight Algebraic separation of variables for zero cyclic constant.

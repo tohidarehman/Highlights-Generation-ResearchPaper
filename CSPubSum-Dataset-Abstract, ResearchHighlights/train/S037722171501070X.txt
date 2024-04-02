@@ -1,7 +1,0 @@
- In this paper, the resource-constrained project scheduling problem with general temporal constraints is extended by the concept of break-calendars in order to incorporate the possible absence of renewable resources. Three binary linear model formulations are presented that use either start-based or changeover-based or execution-based binary decision variables. In addition, a priority-rule method as well as three different versions of a scatter search procedure are proposed in order to solve the problem heuristically. All exact and heuristic solution procedures use a new and powerful time planning method, which identifies all time- and calendar-feasible start times for activities as well as all corresponding absolute time lags between activities. In a comprehensive performance analysis, small- and medium-scale instances are solved with CPLEX 12.6. Furthermore, large-scale instances of the problem are tackled with scatter search, where the results of the three versions are compared to each other and to the priority-rule method.
-
-@highlight We consider the RCPSP with general temporal constraints and break-calendars.
-@highlight A new and powerful time planning method is proposed.
-@highlight Three binary linear model formulations are presented.
-@highlight A priority-rule method and three different versions of a scatter search procedure are developed.
-@highlight We provide a test set and perform an extensive computational study.

@@ -1,6 +1,0 @@
- The problem of the aggregation of multi-agents preference orderings has received considerable attention in the scientific literature, because of its importance for different fields of research. proposed an algorithm for addressing this problem when the agents’ importance is expressed through a rank-ordering, instead of a set of weights. The algorithm by Yager is simple and automatable but is subject to some constraints, which may limit its range of application: (i) preference orderings should not include incomparable and/or omitted alternatives, and (ii) the fused ordering may sometimes not reflect the majority of the multi-agent preference orderings. The aim of this article is to present a generalized version of the algorithm by Yager, which overcomes the above limitations and, in general, is adaptable to less stringent input data. A detailed description of the new algorithm is supported by practical examples.
-
-@highlight The paper faces the problem of combining multi-agent preference orderings.
-@highlight The specific decision-making problem can be denominated as “ordinal semi-democratic”.
-@highlight A variant of the Yager's algorithm is proposed and discussed.
-@highlight The description of the new algorithm is supported by practical examples.

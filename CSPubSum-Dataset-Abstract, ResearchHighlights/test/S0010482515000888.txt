@@ -1,7 +1,0 @@
- This study investigated the feasibility of deriving data-driven model of a class of pharmacological systems using the information fusion of endpoint responses. For a class of pharmacological systems subsuming conventional steady-state dose-response models, compartmental pharmacokinetic–pharmacodynamic models and indirect response models, a relation between multiple endpoint responses was formalized and analyzed to elucidate if this class of systems is identifiable, i.e., if the data-driven model of this class of systems can be derived from the endpoint responses alone. It was shown that this class of systems is fully identifiable in case all the responses involve effect compartments. However, it was also observed that persistently exciting dose profiles may be required in accurately deriving reliable data-driven model with low variance. The findings from the identifiability analysis were demonstrated using benchmark pharmacological system examples.
-
-@highlight We propose a novel method to derive data-driven model of pharmacological systems.
-@highlight The method is built upon information fusion of endpoint responses.
-@highlight System׳s identifiability is shown by analyzing a relation between endpoint responses.
-@highlight System is fully identifiable in case all the responses involve effect compartments.
-@highlight The efficacy of the method is shown by benchmark pharmacological modeling problems.

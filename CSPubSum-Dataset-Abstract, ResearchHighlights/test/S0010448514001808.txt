@@ -1,7 +1,0 @@
- Clip-art image segmentation is widely used as an essential step to solve many vision problems such as colorization and vectorization. Many of these applications not only demand accurate segmentation results, but also have little tolerance for time cost, which leads to the main challenge of this kind of segmentation. However, most existing segmentation techniques are found not sufficient for this purpose due to either their high computation cost or low accuracy. To address such issues, we propose a novel segmentation approach, ECISER, which is well-suited in this context. The basic idea of ECISER is to take advantage of the particular nature of cartoon images and connect image segmentation with aliased rasterization. Based on such relationship, a clip-art image can be quickly segmented into regions by re-rasterization of the original image and several other computationally efficient techniques developed in this paper. Experimental results show that our method achieves dramatic computational speedups over the current state-of-the-art approaches, while preserving almost the same quality of results.
-
-@highlight We propose ECISER, a method for clip-art image segmentation.
-@highlight It achieves dramatic computational speedups over the state-of-the-art approaches.
-@highlight It preserves almost the same quality of results.
-@highlight The basic idea is to connect image segmentation with aliased rasterization.
-@highlight We also present a clip-art image segmentation database with ground truth labeling.

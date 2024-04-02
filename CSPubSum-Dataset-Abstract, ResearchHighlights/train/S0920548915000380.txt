@@ -1,6 +1,0 @@
- Virtualization provides the essential assistance to save energy & resources and also simplify the required information management. However, the information security issues have increasingly become a serious concern. This study investigates the post-virtualization business security landscape related to system security. A questionnaire is developed based on 133 control management principles of ISO/IEC 27001 standard and a sampling technique is employed to collect responses from IT professionals with an understanding of virtualization information environment. The obtained findings suggest that virtualization may be beneficial to certain industrial sectors in handling the issues of information security.
-
-@highlight To investigates the post-virtualization business security landscape
-@highlight Implementation of virtualization may be beneficial to information security.
-@highlight Virtualization may securely benefit certain industrial sectors.
-@highlight For the IT and automobile industries, virtualization also has a significant influence.

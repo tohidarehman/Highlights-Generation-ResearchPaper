@@ -1,9 +1,0 @@
- With traditional PLM (Product Lifecycle Management), people think toward the future: first comes product development, then manufacturing, then support and finally disposal — data flows only in the forward direction. With the CL (Closed-Loop Lifecycle Management) concept, there are also flows going backward, enabling better visibility and control of the product throughout its PLC (Product Life Cycle). CL uses “intelligent products” to gather information at any instant of the PLC and to make it available on downstream or upstream PLC phases. However, the information is often deported on a database and is accessed remotely via a network pointer carried by the product. To bring the CL concept a step further, this paper addresses a dual challenge: (i) providing a new kind of intelligent material capable of undergoing physical transformations without losing its communication ability and the data that is stored on it, (ii) providing a framework to achieve a high degree of data synchronization (i.e. enabling data updates on the product, regardless of the network availability). An applicative scenario is presented, showing how this kind of material is put into practice in the context of “communicating medical garments” and how the requirements of the desired degree of data synchronization can be reached.
-
-@highlight A system for an enhanced Product LifeCycle Information Management (PLIM) is proposed.
-@highlight A dual challenge is addressed: providing a new intelligent material & a high degree of data synchronization.
-@highlight These challenges are addressed with the combination of
-@highlight CL
-@highlight and “communicating materials”.
-@highlight A scenario using “medical garments” shows how the desired degree of data synchronization is reached.
-@highlight Research perspectives on data synchronization regarding existing standards are introduced.

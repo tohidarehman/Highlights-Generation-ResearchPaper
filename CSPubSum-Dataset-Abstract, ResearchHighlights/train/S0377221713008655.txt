@@ -1,5 +1,0 @@
- This paper deals with the Traveling Salesman Problem (TSP) with Draft Limits (TSPDL), which is a variant of the well-known TSP in the context of maritime transportation. In this recently proposed problem, draft limits are imposed due to restrictions on the port infrastructures. Exact algorithms based on three mathematical formulations are proposed and their performance compared through extensive computational experiments. Optimal solutions are reported for open instances of benchmark problems available in the literature.
-
-@highlight Three formulations and related exact algorithms for the TSP with draft limits are proposed.
-@highlight The three index formulation dominates theoretically and empirically the two index formulation.
-@highlight The branch-cut-and-price algorithm solves the instances from the literature within one hour.

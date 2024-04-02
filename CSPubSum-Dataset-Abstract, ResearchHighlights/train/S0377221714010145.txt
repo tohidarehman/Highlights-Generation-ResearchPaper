@@ -1,7 +1,0 @@
- In this paper, we address the issue of optimal selection of portfolio of projects using reinvestment strategy within a flexible time horizon. We assume that an investor intends to invest his/her initial capital on the implementation of some projects in a flexible time horizon. The investorÃ¢ÂÂs motivation for considering a flexible time horizon is to maximize his/her gain by determining the optimal time horizon for investing on the selected portfolio of projects. Projects have different durations and their potential rates of return are also different. The profit yielded by the completed projects can be reinvested in the implementation of other projects. The implementation costs of projects can be allocated at equally spaced intervals with equal amounts during their life cycles or can be assigned to each project according to its estimated s-curve. We assume that the profit yielded by each project is accrued after the investment for the project ends. Therefore, in order to maximize gains, the investor needs to optimize three issues: combination of projects, schedule of the selected projects and the time horizon. An integer program is presented and discussed to address the given issues.
-
-@highlight We correct the flaw of BelenkyÃ¢ÂÂs model.
-@highlight We consider the reinvestment strategy within a flexible time horizon.
-@highlight The proposed model provides the optimal combination of projects.
-@highlight The proposed model provides the optimal schedule for the selected projects.
-@highlight The proposed model provides the optimal time horizon.

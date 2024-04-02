@@ -1,6 +1,0 @@
- Collier, deal with the problem of estimating technical efficiency using regression analysis that allows multiple inputs and outputs. This revives an old problem in the analysis of production. In this note we provide an alternative maximum likelihood estimator that addresses the concerns. A Monte Carlo experiment shows that the technique works well in practice. A test for homotheticity, a critical assumption in Collier, is constructed and its behavior is examined using Monte Carlo simulation and an empirical application to European banking.
-
-@highlight Collier, Johnson, and Ruggiero (2011), deal with the problem of estimating technical efficiency.
-@highlight They allow multiple inputs and outputs and recommend using regression models.
-@highlight We examine critically their recommendations.
-@highlight We provide an alternative maximum likelihood procedure that performs well.

@@ -1,7 +1,0 @@
- Previous distributed file systems aim at storing very large data sets. Their architectures are often designed to support large-scale data-intensive applications, which cannot cope with massive daily users who want to store their data on the Internet. In this paper, CSTORE is proposed to support mass data storage for a large number of users. The user-independent metadata management can ensure data security through assigning an independent namespace to every user. Operating logs are applied to synchronize simultaneous sessions of the same user and resolve conflicts. We also implement a block-level deduplication strategy based on our three-level mapping hash method for the large quantity of repeated data. The migration and rank extension on the hash rules are defined to achieve load balancing and capacity expansion. Performance measurements under a variety of workloads show that CSTORE offers the better scalability and performance than other public cloud storage systems.
-
-@highlight A desktop-oriented distributed public cloud storage system is proposed.
-@highlight Three-level mapping hash method is used to distribute and locate data.
-@highlight Using migration and rank extension to implement load balancing and fault recovery.
-@highlight Sequence numbers are used to guarantee consistency.
-@highlight Implement data deduplication and use Bloom filter to recycle rubbish.

@@ -1,7 +1,0 @@
- We consider a family of composite bivariate distributions, or probability mass functions (pmfs), with uniform marginals for simulating optimization-problem instances. For every possible population correlation, except the extreme values, there are an infinite number of valid joint distributions in this family. We quantify the entropy for all member distributions, including the special cases under independence and both extreme correlations. Greater variety is expected across optimization-problem instances simulated based on a high-entropy pmf. We present a closed-form solution to the problem of finding the joint pmf that maximizes entropy for a specified population correlation, and we show that this entropy-maximizing pmf belongs to our family of pmfs. We introduce the entropy range as a secondary indicator of the variety of instances that may be generated for a particular correlation. Finally, we discuss how to systematically control entropy and correlation to simulate a set of synthetic problem instances that includes challenging examples and examples with realistic characteristics.
-
-@highlight Presentation of family of composite distributions for simulated coefficients.
-@highlight Use of explicit correlation induction to simulate optimization-problem instances.
-@highlight Incorporation of entropy as parameter in explicit correlation induction.
-@highlight Typical marginal distributions for simulated coefficients assumed.
-@highlight Closed-form solution found for maximum entropy distribution.

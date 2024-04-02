@@ -1,8 +1,0 @@
- Photoplethysmographic signals obtained from a webcam are analyzed through a continuous wavelet transform to assess the instantaneous heart rate. The measurements are performed on human faces. Robust image and signal processing are introduced to overcome drawbacks induced by light and motion artifacts. In addition, the respiration signal is recovered using the heart rate series by respiratory sinus arrhythmia, the natural variation in heart rate driven by the respiration. The presented algorithms are implemented on a mid-range computer and the overall method works in real-time. The performance of the proposed heart and breathing rates assessment method was evaluated using approved contact probes on a set of 12 healthy subjects. Results show high degrees of correlation between physiological measurements even in the presence of motion. This paper provides a motion-tolerant method that remotely measures the instantaneous heart and breathing rates. These parameters are particularly used in telemedicine and affective computing, where the heart rate variability analysis can provide an index of the autonomic nervous system.
-
-@highlight An instantaneous heart rate detection method using a low-cost webcam is proposed.
-@highlight A wavelet transform is employed to filter the raw photoplethysmographic signal.
-@highlight The respiration signal is remotely extracted from the heart rate series.
-@highlight We examine performances under motion experiments on 12 healthy subjects.
-@highlight Our technique showed very high agreement (r
-@highlight >0.85) with reference (BVP) measurements.

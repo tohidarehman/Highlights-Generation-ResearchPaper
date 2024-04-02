@@ -1,7 +1,0 @@
- This study discovers part-of-speech (POS) patterns of sentences that express opinions in Chinese product reviews. The use of these patterns makes it possible to identify opinion sentences, feature words, and opinion/feeling words. Degree words and negation words are used in determining the orientation of opinions as well as the degree of their intensity. In order to identify the subject of opinions, the associations between opinion/feeling words, feature words, and corresponding features were ascertained. An algorithm for feature-based opinion summarization is then proposed based on these patterns and association rules. Both car and movie reviews were collected for discovering patterns and testing of the patterns and algorithm. The experimental results demonstrate that the proposed algorithm and approaches perform well on Chinese product reviews.
-
-@highlight This study ascertains part-of-speech patterns in Chinese opinion sentences from customer reviews.
-@highlight A feature-based summarization algorithm is proposed to calculate feature scores based on sentence patterns in reviews.
-@highlight The extraction of feature words and opinion/feeling words can be performed in the same phase to improve efficiency.
-@highlight The patterns can be used in different domains.
-@highlight The proposed algorithm works well with Chinese reviews and outperforms the baseline.

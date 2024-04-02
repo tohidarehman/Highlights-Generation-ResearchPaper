@@ -1,6 +1,0 @@
- In this paper we introduce a new fast and accurate numerical method for pricing exotic derivatives when discrete monitoring occurs, and the underlying evolves according to a Markov one-dimensional stochastic processes. The approach exploits the structure of the matrix arising from the numerical quadrature of the pricing backward formulas to devise a convenient factorization that helps greatly in the speed-up of the recursion. The algorithm is general and is examined in detail with reference to the CEV (Constant Elasticity of Variance) process for pricing different exotic derivatives, such as Asian, barrier, Bermudan, lookback and step options for which up to date no efficient procedures are available. Extensive numerical experiments confirm the theoretical results. The MATLAB code used to perform the computation is available online at .
-
-@highlight We deal with exotic derivatives when the discrete monitoring is considered.
-@highlight We prove that, in the classical quadrature recursive approach, the structure of the sampling matrix is strongly clustered.
-@highlight We show how the cluster property allows us to improve the performance of the recursive approach.
-@highlight We show numerical results considering the CEV process.

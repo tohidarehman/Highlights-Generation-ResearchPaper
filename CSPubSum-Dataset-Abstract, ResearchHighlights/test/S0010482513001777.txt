@@ -1,6 +1,0 @@
- This paper presents a new versatile approach to model severe human respiratory diseases via computer simulation. The proposed approach enables one to predict the time histories of various diseases via information accessible in medical publications. This knowledge is useful to bioengineers involved in the design and construction of medical devices that are employed for monitoring of respiratory condition. The approach provides the data that are crucial for testing diagnostic systems. This can be achieved without the necessity of probing the physiological details of the respiratory system as well as without identification of parameters that are based on measurement data.
-
-@highlight We model respiratory system with 11-coefficient electrical analogue.
-@highlight New method for diseases modeling is proposed, based on laws of mechanics.
-@highlight Some common, severe diseases are modeled on the basis of proposed method.
-@highlight Developed modeling method provide great time saving and acceptable results.

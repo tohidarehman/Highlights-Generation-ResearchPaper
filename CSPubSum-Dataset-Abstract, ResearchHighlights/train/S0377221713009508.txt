@@ -1,6 +1,0 @@
- The simple assembly line balancing problem (SALBP) is a well-studied NP-complete problem for which a new problem database of generated instances was published in 2013. This paper describes the application of a branch, bound, and remember (BB&R) algorithm using the cyclic best-first search strategy to this new database to produce provably exact solutions for 86% of the unsolved problems in this database. A new backtracking rule to save memory is employed to allow the BB&R algorithm to solve many of the largest problems in the database.
-
-@highlight We present a suite of computational results for the simple assembly line balancing problem.
-@highlight Our algorithm uses a branch, bound, and remember approach with cyclic best-first search.
-@highlight We successfully solve 1172 out of 1359 unsolved problems from a new problem database.
-@highlight We improve the best-known solution for an additional 184 problems.

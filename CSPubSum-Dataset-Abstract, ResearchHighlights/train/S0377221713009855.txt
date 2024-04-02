@@ -1,7 +1,0 @@
- This paper proposes an affine-based approach which jointly captures the nominal interest rate, the real interest rate, and the inflation risk premium to price inflation-indexed derivatives, including zero-coupon inflation-indexed swaps, year-on-year inflation-indexed swaps, inflation-indexed swaptions, and inflation-indexed caps and floors. We provide an example and explain how to use traded zero-coupon inflation-indexed swap rates to estimate inflation risk premiums.
-
-@highlight Propose affine model capturing inflation premium, nominal and real interest rates.
-@highlight Pricing of zero-coupon inflation-indexed swaps.
-@highlight Pricing of year-on-year inflation-indexed swaps.
-@highlight Pricing of inflation-indexed swaptions.
-@highlight Pricing of inflation-indexed caps and floors.

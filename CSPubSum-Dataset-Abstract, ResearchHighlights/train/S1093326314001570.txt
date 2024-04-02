@@ -1,6 +1,0 @@
- In this review we give an overview of the field of Computational enzymology. We start by describing the birth of the field, with emphasis on the work of the 2013 chemistry Nobel Laureates. We then present key features of the state-of-the-art in the field, showing what theory, accompanied by experiments, has taught us so far about enzymes. We also briefly describe computational methods, such as quantum mechanics-molecular mechanics approaches, reaction coordinate treatment, and free energy simulation approaches. We finalize by discussing open questions and challenges.
-
-@highlight General introduction to the field of computational enzymology.
-@highlight Historical description of the field with emphasis on the work of the 2013 Chemistry Nobel Laureates.
-@highlight Discussion of the current state-of-the-art in the field and contemporary challenges.
-@highlight Overview of what computational enzymology has taught us about enzyme structure, dynamics and function.

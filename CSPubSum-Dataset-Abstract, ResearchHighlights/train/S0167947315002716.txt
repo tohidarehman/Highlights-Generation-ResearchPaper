@@ -1,9 +1,0 @@
- Testing whether two or more independent samples arise from a common distribution is a classic problem in statistics. Several multivariate two-sample tests of equality are based on graphs such as the minimum spanning tree, nearest neighbor, and optimal nonbipartite perfect matching. Here, the samples are pooled and the test statistic is the number of edges in the graph that connect points with different sample identities. These tests are typically unbiased and perform well when estimates of underlying probability densities are poor. However, these tests have not been thoroughly studied when data is very high dimensional or in the multisample case. We introduce the use of orthogonal perfect matchings for testing equality in distribution. A suite of Monte Carlo simulations on artificial and real data shows that orthogonal perfect matchings and spanning trees typically have higher power than other graphs and are also more effective at discerning when samples have differences in their covariance structure compared to other nonparametric tests such as the energy and triangle tests.
-
-@highlight We test whether two or more samples have arisen from the same multivariate density.
-@highlight Test uses new graphs as well as the minimum spanning tree or nearest neighbors.
-@highlight Test performs well and is easy to perform for large
-@highlight , small
-@highlight datasets.
-@highlight Power of the new tests is competitive or beats other general multivariate tests.
-@highlight Mean and variance of the asymptotically normal null distribution are easy to compute.

@@ -1,6 +1,0 @@
- Queuing network models (QNMs) provide powerful notations and tools for modeling and analyzing the performance of many different kinds of systems. Although several powerful tools currently exist for solving QNMs, some of these tools define their own model representations, have been developed in platform-specific ways, and are normally difficult to extend for coping with new system properties, probability distributions or system behaviors. This paper shows how Domain Specific Languages (DSLs), when used in conjunction with Model-driven engineering techniques, provide a high-level and very flexible approach for the specification and analysis of QNMs. We build on top of an existing metamodel for QNMs (PMIF) to define a DSL and its associated tools (editor and simulation engine), able to provide a high-level notation for the specification of different kinds of QNMs, and easy to extend for dealing with other probability distributions or system properties, such as system reliability.
-
-@highlight We have developed an application for specifying and simulating queuing network models.
-@highlight We reuse and extend a de-facto standard metamodel for queuing network models, PMIF.
-@highlight A modular and easily extensible architecture has been achieved using MDE techniques.
-@highlight The behavior for queuing network models is easily extensible with our approach.

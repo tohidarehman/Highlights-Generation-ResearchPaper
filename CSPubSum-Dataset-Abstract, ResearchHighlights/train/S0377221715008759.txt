@@ -1,6 +1,0 @@
- This paper treats an elementary optimization problem, which arises whenever an inbound stream of items is to be intermediately stored in a given number of parallel stacks, so that blockages during their later retrieval are avoided. A blockage occurs whenever an item to be retrieved earlier is blocked by another item with lower priority stored on top of it in the same stack. Our stack loading problem arises, for instance, if containers arriving by vessel are intermediately stored in a container yard of a port or if, during nighttime, successively arriving wagons are to be parked in multiple parallel dead-end rail tracks of a tram depot. We formalize the resulting basic stack loading problem, investigate its computational complexity, and present suited exact and heuristic solution procedures.
-
-@highlight We formalize the parallel stack loading problem to intermediately store items without blocking.
-@highlight Basic complexity proofs are provided.
-@highlight Efficient exact and heuristic solution procedures are presented.
-@highlight Our computational results reveal that the positive impact of additional stacks quickly diminishes.

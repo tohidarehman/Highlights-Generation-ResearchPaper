@@ -1,6 +1,0 @@
- We devote this paper to study a class of interval valued multiobjective programming problems. For this we consider two order relations LU and LS on the set of all closed intervals and propose many concepts of Pareto optimal solutions. Based on convexity concepts (viz. LU and LS-convexity) and generalized differentiability (viz. gH-differentiability) of interval valued functions, the KKT optimality conditions for aforesaid problems are obtained. In addition, and we show some advantages of our results. The theoretical development is illustrated by suitable examples.
-
-@highlight We introduce LU and LS relations due to generalized Hukuhara derivative.
-@highlight We propose KKT optimality theorems with generalized Hukuhara differentiability.
-@highlight We analyze LU and LS Pareto minimum points by examples with figures and tables.
-@highlight We show some advantages of our results by comparing with Wu (2007).

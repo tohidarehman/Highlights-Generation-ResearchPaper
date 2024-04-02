@@ -1,6 +1,0 @@
- In RBIR, texture features are crucial in determining the class a region belongs to since they can overcome the limitations of color and shape features. Two robust approaches to model texture features are Gabor and curvelet features. Although both features are close to human visual perception, sufficient information needs to be extracted from their sub-bands for effective texture classification. Moreover, shape irregularity can be a problem since Gabor and curvelet transforms can only be applied on the regular shapes. In this paper, we propose an approach that uses both the Gabor wavelet and the curvelet transforms on the transferred regular shapes of the image regions. We also apply a fitting method to encode the sub-bands’ information in the polynomial coefficients to create a texture feature vector with the maximum power of discrimination. Experiments on texture classification task with ImageCLEF and Outex databases demonstrate the effectiveness of the proposed approach.
-
-@highlight The fusion of the Gabor and curvelet filters is used for texture representation.
-@highlight Rotation invariant texture features are obtained by rearranging the sub-bands.
-@highlight Encoding the sub-bands’ information by polynomial makes unique vectors.
-@highlight The classification rate is increased while the texture feature space is reduced.

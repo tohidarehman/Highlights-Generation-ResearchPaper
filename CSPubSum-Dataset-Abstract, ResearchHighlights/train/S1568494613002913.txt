@@ -1,6 +1,0 @@
- The truss optimization constrained with vibration frequencies is a highly nonlinear and more computational cost problem. To speed up the convergence and obtain the global solution of this problem, a hybrid optimality criterion (OC) and genetic algorithm (GA) method for truss optimization is presented in this paper. Firstly, the OC method is developed for multiple frequency constraints. Then, the most efficient variables are identified by sensitivity analysis and modified as iteration scheme. Finally, OC method, serving as a local search operator, is integrated with GA. The numerical results verify that the hybrid method provides powerful ability in searching for more optimal solution and reducing computational effort.
-
-@highlight Hybrid OC–GA method is presented to speed up the convergence and obtain the global solution of truss frequencies optimization.
-@highlight OC method for multiple frequency constraints is developed to update the design variables.
-@highlight OC method serves as a local search operator and is integrated with GA.
-@highlight Hybrid OC–GA method has powerful capacity in searching for more optimal truss structures and requiring less computational effort.

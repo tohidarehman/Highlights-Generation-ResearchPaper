@@ -1,7 +1,0 @@
- With advances in genomics, transcriptomics, metabolomics and proteomics, and more expansive electronic clinical record monitoring, as well as advances in computation, we have entered the Big Data era in biomedical research. Data gathering is growing rapidly while only a small fraction of this data is converted to useful knowledge or reused in future studies. To improve this, an important concept that is often overlooked is data abstraction. To fuse and reuse biomedical datasets from diverse resources, data abstraction is frequently required. Here we summarize some of the major Big Data biomedical research resources for genomics, proteomics and phenotype data, collected from mammalian cells, tissues and organisms. We then suggest simple data abstraction methods for fusing this diverse but related data. Finally, we demonstrate examples of the potential utility of such data integration efforts, while warning about the inherit biases that exist within such data.
-
-@highlight A small fraction of biomedical Big Data is converted to useful knowledge or reused.
-@highlight Overview of a collection of structured mostly molecular mammalian biomedical Big Data resources.
-@highlight Biases within data from these resources are suspected.
-@highlight Data abstraction to attribute tables, networks and gene-sets enables reuse of biomedical datasets for integrative analyses.
-@highlight Once data is abstracted it can be integrated and analyzed using supervised, unsupervised and integrative methods.

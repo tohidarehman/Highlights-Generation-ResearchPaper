@@ -1,7 +1,0 @@
- While the literature on dynamic portfolio selection with stochastic interest rates only confines its investigation to the continuous-time setting up to now, this paper studies a multi-period mean-variance portfolio selection problem with a stochastic interest rate, where the movement of the interest rate is governed by the discrete-time Vasicek model. Invoking dynamic programming approach and the Lagrange duality theory, we derive the analytical expressions for both the efficient investment strategy and the efficient mean-variance frontier of the model formulation. We then extend our model to the situation with an uncontrollable liability.
-
-@highlight Study a multi-period portfolio selection problem with a stochastic interest rate.
-@highlight Extend the model formulation further to include an uncontrollable liability.
-@highlight Derive analytical expressions of the efficient strategy and efficient frontier.
-@highlight Investigate solution properties and their implications.
-@highlight Reveal prominent economic features of the derived investment policies.

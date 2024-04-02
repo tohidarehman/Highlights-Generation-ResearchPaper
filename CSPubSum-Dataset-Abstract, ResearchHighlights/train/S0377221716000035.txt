@@ -1,7 +1,0 @@
- District heating systems provide the heat generated in a centralized location to a set of users for their residential and commercial heating requirements. Heat distribution is generally obtained by using hot water or steam flowing through a closed network of insulated pipes and heat exchange stations at the users’ locations. The use of optimization techniques for the strategic design of such networks is strongly motivated by the high cost of the required infrastructures but is particularly challenging because of the technical characteristics and the size of the real world applications. We present a mathematical model developed to support district heating system planning. The objective is the selection of an optimal set of new users to be connected to an existing thermal network, maximizing revenues and minimizing infrastructure and operational costs. The model considers steady state conditions of the hydraulic system and takes into account the main technical requirements of the real world application. Results on real and randomly generated benchmark networks are discussed.
-
-@highlight We model the incremental evolution of a district heating network.
-@highlight Technical and economic factors are taken into account.
-@highlight Testing is performed on a real-world network.
-@highlight Extensive analysis on large randomly generated networks.
-@highlight The model is incorporated into a software package.

@@ -1,6 +1,0 @@
- Robust optimization problems, which have uncertain data, are considered. We prove surrogate duality theorems for robust quasiconvex optimization problems and surrogate min–max duality theorems for robust convex optimization problems. We give necessary and sufficient constraint qualifications for surrogate duality and surrogate min–max duality, and show some examples at which such duality results are used effectively. Moreover, we obtain a surrogate duality theorem and a surrogate min–max duality theorem for semi-definite optimization problems in the face of data uncertainty.
-
-@highlight We show a set containment characterization with data uncertainty.
-@highlight We investigate surrogate strong duality theorem for robust quasiconvex programming with its constraint qualification.
-@highlight We investigate surrogate min–max duality theorem for robust quasiconvex programming with its constraint qualification.
-@highlight We obtain a surrogate duality theorems for semi-definite optimization problems in the face of data uncertainty.

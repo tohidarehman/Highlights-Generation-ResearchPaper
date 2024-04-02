@@ -1,6 +1,0 @@
- Due to the disastrous consequences of slope failures, forecasting their occurrences is a practical need of government agencies to develop strategic disaster prevention programs. This research proposes a Swarm-Optimized Fuzzy Instance-based Learning (SOFIL) model for predicting slope collapses. The proposed model utilizes the Fuzzy k-Nearest Neighbor (FKNN) algorithm as an instance-based learning method to predict slope collapse events. Meanwhile, to determine the model’s hyper-parameters appropriately, the Firefly Algorithm (FA) is employed as an optimization technique. Experimental results have pointed out that the newly established SOFIL can outperform other benchmarking algorithms. Therefore, the proposed model is very promising to help decision-makers in coping with the slope collapse prediction problem.
-
-@highlight A novel AI model (SOFIL) for predicting slope collapses is proposed.
-@highlight The SOFIL integrates the Fuzzy K-NN and the Firefly Algorithms.
-@highlight Slope observations were collected to construct the prediction model.
-@highlight The new method can outperform other benchmarking algorithms.

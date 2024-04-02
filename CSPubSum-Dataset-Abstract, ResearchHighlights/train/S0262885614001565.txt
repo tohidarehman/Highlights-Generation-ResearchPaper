@@ -1,7 +1,0 @@
- We describe an Eikonal-based algorithm for computing dense oversegmentation of an image, often called superpixels. This oversegmentation respects local image boundaries while limiting undersegmentation. The proposed algorithm relies on a region growing scheme, where the potential map used is not fixed and evolves during the diffusion. Refinement steps are also proposed to enhance at low cost the first oversegmentation. Quantitative comparisons on the Berkeley dataset show good performance on traditional metrics over current state-of-the art superpixel methods.
-
-@highlight Fast and efficient superpixel algorithm based on the Eikonal equation
-@highlight Dynamic color-based potential function
-@highlight Parameter-free refinement of the superpixels
-@highlight Equivalent or better performances than the state-of-the-art
-@highlight Flexibility of the approach

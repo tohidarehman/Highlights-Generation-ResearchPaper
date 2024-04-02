@@ -1,7 +1,0 @@
- By mixing concepts from both game theoretic analysis and real options theory, an investment decision in a competitive market can be seen as a “game” between firms, as firms implicitly take into account other firms’ reactions to their own investment actions. We review two decades of real option game models, suggesting which critical problems have been “solved” by considering game theory, and which significant problems have not been yet adequately addressed. We provide some insights on the plausible empirical applications, or shortfalls in applications to date, and suggest some promising avenues for future research.
-
-@highlight We review two decades of developments in real option game models.
-@highlight Fifty-five real option models are classified by their game-theoretic aspects.
-@highlight We identify which critical problems have been “solved”.
-@highlight Several significant problems have not been yet adequately addressed.
-@highlight We suggest some plausible further empirical applications of real option game models.

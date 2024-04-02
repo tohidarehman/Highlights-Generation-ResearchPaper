@@ -1,6 +1,0 @@
- Sample variations are one of the main problems associated with speaker recognition. Most approaches use multiple templates in the gallery database. But, this requires enormous memory space. In order to minimize classification errors and intra-class variations, adaptive online and offline template update methods using vector quantization (VQ) and Gaussian mixture model (GMM) are proposed. Online and offline feature update as well as model update techniques are considered here. Feature update utilizes the vector quantization approach, while Gaussian mixture model approach is considered for model updating. The proposed methods automatically update the feature (model) in accordance with the biometric sample variations over time and they continually adapt the templates (user model) based on semi-supervised learning strategies. Experiments with 50 subjects reveal that the proposed template update strategies, improve the recognition accuracy and reduce the classification errors for voice recognition systems, even under sample variations.
-
-@highlight Created a new database for speaker template updating.
-@highlight MFCC super template for speaker recognition is proposed.
-@highlight Proposed an online and offline MFCC feature and GMM based model update.
-@highlight Secondary template for speaker template (model) update is also suggested.

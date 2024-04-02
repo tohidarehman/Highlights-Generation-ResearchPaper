@@ -1,6 +1,0 @@
- This paper presents a novel despeckling algorithm to enhance image quality of medical ultrasound images. The proposed approach exploits coefficients in the dual-tree complex wavelet transform (DTCWT) domain to develop a new quantum-inspired thresholding function. The inter-scale correlation among the coefficients of different subbands and the intra-scale variance between the coefficient and its neighborhood in the same subband are utilized to develop a new thresholding function, which is further incorporated into a Bayesian framework to perform adaptive image despeckling. Experiments are conducted using both artificially generated and real-world medical images to demonstrate that the proposed approach outperforms the conventional image despeckling approaches.
-
-@highlight We apply quantum theory on image despeckling problem.
-@highlight We use both inter-scale and intra-scale characteristics of wavelet coefficients.
-@highlight We propose a novel QSP-based thresholding function.
-@highlight We achieve better performance on simulated and in vivo medical ultrasound images.

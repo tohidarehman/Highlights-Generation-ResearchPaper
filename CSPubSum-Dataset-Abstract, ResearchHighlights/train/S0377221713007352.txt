@@ -1,6 +1,0 @@
- Despite their implementations in a wide variety of applications, there are very few instances where every item sold at a retail store is RFID-tagged. While the business case for expensive items to be RFID tagged may be somewhat clear, we claim that even ‘cheap’ items (i.e., those that cost less than an RFID tag) should be RFID tagged for retailers to benefit from efficiencies associated with item-level visibility. We study the relative price premiums a retailer with RFID tagged items can command as well as the retailer’s profit to illustrate the significance of item-level RFID-tagging both cheap and expensive items at a retail store. Our results indicate that, under certain conditions, item-level RFID tagging of items that cost less than an RFID tag has the potential to generate significant benefits to the retailer. The retailer is also better off tagging all items regardless of their relative price with respect to that of an RFID tag compared to the case where only the expensive item is RFID-tagged.
-
-@highlight We consider the price (cheap vs. expensive) of the RFID-tagged item.
-@highlight Cheap and expensive are relative to the unit cost of RFID-tagging an item.
-@highlight It is advisable to RFID-tag even cheap items under certain conditions.
-@highlight We derive the conditions under which cheap items should be RFID tagged.

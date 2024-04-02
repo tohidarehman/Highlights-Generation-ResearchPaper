@@ -1,7 +1,0 @@
- Patent claim parsing can contribute in many patent-related applications, such as patent search, information extraction, machine translation and summarization. However, patent claim parsing is difficult due to the special structure of patent claims. To overcome this difficulty, the challenges facing the patent claim parsing were first investigated and the peculiarities of claim syntax that obstruct dependency parsing were highlighted. To handle these peculiarities, this study proposes a new two-level parser, in which a conventional parser is imbedded. A patent claim is pre-processed in order to remove peculiarities before passed to the conventional parser. The process is based on a new dependency-based syntax called Independent Claim Segment Dependency Syntax (ICSDS). This two-lever parser has demonstrated promising improvement for patent claim parsing on both effectiveness and efficiency over the conventional parser.
-
-@highlight The adaptability of a conventional parser to patent claim parsing is improved.
-@highlight Six claim syntax peculiarities that increase the difficulty of claim parsing are highlighted.
-@highlight New dependency syntax is proposed to handle Long Distance Dependencies.
-@highlight The efficiency of parsing is obviously improved with a segmentation strategy.
-@highlight The improvement on effectiveness of parsing is also promising in a model extraction problem.

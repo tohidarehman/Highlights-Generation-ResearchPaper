@@ -1,7 +1,0 @@
- This paper presents a novel methodology for improving efficiency and power consumption of networks-on-chip (NoCs). The proposed approach applies queue length considerations of a modified version of RED algorithm. Moreover, a stochastic learning-automata-based algorithm has been used to optimize the threshold values required in RED algorithm. Furthermore, a new architecture has been provided for dynamic flow control of virtual channels. The proposed method contributes to reduction in queue blockages and power consumption in addition to determining an appropriate size for virtual channels. The proposed algorithm was evaluated under various synthetic traffic patterns for different injection rates and trace-driven SPLASH-2 benchmark suite. The experimental results demonstrate that the algorithm reduces latency and power consumption by 23% and 52%, respectively, compared to the conventional NoC. Further, compared to Express Virtual Channels (EVC) scheme, it showed 13% and 36% improvement in latency and power consumption, respectively.
-
-@highlight We suggest a new flow control mechanism for improving power and latency.
-@highlight We present a novel methodology to improve the buffer space utilization.
-@highlight Our method reduces queue blockages to determine a proper size for virtual channels.
-@highlight We apply queue length considerations of a modified version of RED algorithm.
-@highlight We utilize learning automata to adapt the threshold values of RED algorithm.

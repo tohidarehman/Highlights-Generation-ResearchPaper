@@ -1,5 +1,0 @@
- Improving image resolution by refining hardware is usually expensive and/or time consuming. A critical challenge is to optimally balance the trade-off among image resolution, Signal-to-Noise Ratio (SNR), and acquisition time. Super-resolution (SR), an off-line approach for improving image resolution, is free from these trade-offs. Numerous methodologies such as interpolation, frequency domain, regularization, and learning-based approaches have been developed for SR of natural images. In this paper we provide a survey of the existing SR techniques. Various approaches for obtaining a high resolution image from a single and/or multiple low resolution images are discussed. We also compare the performance of various SR methods in terms of Peak SNR (PSNR) and Structural Similarity (SSIM) index between the super-resolved image and the ground truth image. For each method, the computational time is also reported.
-
-@highlight Comprehensive survey of super-resolution algorithms.
-@highlight Performance comparison among different super-resolution algorithms.
-@highlight Super-resolution techniques applied to natural images.

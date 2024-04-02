@@ -1,5 +1,0 @@
- This paper presents a modified Variable Neighborhood Search (VNS) heuristic algorithm for solving the Discrete Ordered Median Problem (DOMP). This heuristic is based on new neighborhoods’ structures that allow an efficient encoding of the solutions of the DOMP avoiding sorting in the evaluation of the objective function at each considered solution. The algorithm is based on a data structure, computed in preprocessing, that organizes the minimal necessary information to update and evaluate solutions in linear time without sorting. In order to investigate the performance, the new algorithm is compared with other heuristic algorithms previously available in the literature for solving DOMP. We report on some computational experiments based on the well-known N-median instances of the ORLIB with up to 900 nodes. The obtained results are comparable or superior to existing algorithms in the literature, both in running times and number of best solutions found.
-
-@highlight Location analysis.
-@highlight Discrete Ordered Median location problem.
-@highlight Variable neighbourhood metaheuristic.

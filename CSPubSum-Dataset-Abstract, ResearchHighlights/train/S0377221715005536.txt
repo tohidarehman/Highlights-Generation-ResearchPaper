@@ -1,6 +1,0 @@
- In this paper we study two reverse auction formats in a single period setting, the sealed pay-as-bid and the open format, when suppliers are capacity constrained. In the pay-as-bid format we characterize the asymmetric bidding equilibrium for the case of two suppliers with uniformly distributed cost. We find that the pay-as-bid auction allocates business inefficiently and that a supplier’s bid is nonincreasing in the opponent’s capacity and is typically decreasing in its own capacity. We then characterize a descending price-clock open auction implementation and find that it is optimal and that the buyer’s expected cost decreases as capacity is more evenly spread. Finally, we find that the pay-as-bid auction results in a higher expected cost to the buyer as compared to the open auction.
-
-@highlight Characterize asymmetric bidding equilibrium in pay-as-bid procurement auction.
-@highlight Provide comparative statics on the bidding equilibrium.
-@highlight Provide an open auction implementation when suppliers have capacity constraints.
-@highlight Open auction format is optimal and gives lower expected cost than sealed auction.

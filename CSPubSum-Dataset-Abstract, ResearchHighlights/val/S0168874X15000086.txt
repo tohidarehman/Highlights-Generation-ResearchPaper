@@ -1,6 +1,0 @@
- In this paper the correlation of deformation energy and critical buckling loads is examined. An advanced analysis technique is derived for the investigation of z-section frames typically applied in composite aircraft fuselage. This technique is verified through closed form solutions of z-section columns under quasi-static loading conditions. The method is applied to study the effects of flange width and laminate thickness on the critical failure modes of composite frames. Therein, the focus is on composite structural elements favourable for deformation kinematics in aerospace applications subjected to crash loads.
-
-@highlight An advanced analysis technique for the buckling of composite z-frames is presented.
-@highlight A reliable model is established by analytical verification and a sensitivity study.
-@highlight A framework for automated analyses and data processing is configured.
-@highlight The method is applied to quantify deformation energy at the critical buckling load.

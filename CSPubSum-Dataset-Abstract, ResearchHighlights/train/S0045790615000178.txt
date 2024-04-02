@@ -1,6 +1,0 @@
- Wireless multimedia sensor networks (WMSNs) are capable of retrieving audio, image and video data in addition to scalar sensor data. The lifetime of these networks is mainly dependent on the communication and computational energy consumption of the node. In this paper, compressed sensing (CS)-based image transmission is proposed to reduce the energy consumption considerably with acceptable image quality. A unique encoding algorithm is formulated for the CS measurements attained with the Bernoulli measurement matrix. The proposed CS method produces better results at a lower sparsity range. Experimental analysis is performed using the Atmega 128 processor of Mica2 to compute the execution time and energy consumption in the hardware platform. The proposed CS method has a considerable reduction in energy consumption and better image quality than the conventional CS method. The simulation results show the efficiency of the proposed method.
-
-@highlight Energy efficient CS methodology for image transmission in WMSNs is proposed.
-@highlight Unique encoding algorithm for CS measurements with the Bernoulli matrix is formulated.
-@highlight Experimental analysis in the Atmega 128 of Mica2 to compute the execution time.
-@highlight Optimal range of communication distance for the proposed methodology is evaluated.

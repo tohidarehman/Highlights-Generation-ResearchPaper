@@ -1,5 +1,0 @@
- In order to establish a production plan, an open-pit mine is partitioned into a three-dimensional array of blocks. The order in which blocks are extracted and processed has a dramatic impact on the economic value of the exploitation. Since realistic models have millions of blocks and constraints, the combinatorial optimization problem of finding the extraction sequence that maximizes the profit is computationally intractable. In this work, we present a procedure, based on innovative aggregation and disaggregation heuristics, that allows us to get feasible and nearly optimal solutions. The method was tested on the public reference library MineLib and improved the best known results in the literature in 9 of the 11 instances of the library. Moreover, the overall procedure is very scalable, which makes it a promising tool for large size problems.
-
-@highlight We present innovative aggregation and disaggregation heuristics.
-@highlight We obtain near-optimal solutions, improving best-known results in the literature.
-@highlight The procedure is fully scalable, and a promising tool for large-size problems.

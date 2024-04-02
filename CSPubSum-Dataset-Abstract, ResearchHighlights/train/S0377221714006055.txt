@@ -1,6 +1,0 @@
- We consider the problem of scheduling a set of n jobs with arbitrary job sizes on a set of m identical and parallel batch machines so as to minimize the makespan. Motivated by the computational complexity of the problem, we propose a meta-heuristic based on the max–min ant system method. Computational experiments are performed with randomly generated test data. The results show that our algorithm outperforms several of the previously studied algorithms.
-
-@highlight We consider makespan minimization of a set of jobs on parallel batch machines.
-@highlight A MMAS-based heuristic is proposed to batch the jobs.
-@highlight The batches are then scheduled by the Multi-Fit algorithm on the machines.
-@highlight Experimental results show that our algorithm outperforms other algorithms.

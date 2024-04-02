@@ -1,6 +1,0 @@
- This paper focuses on the new version of a recently developed meta-heuristic algorithm, Colliding Bodies Optimization (CBO), and its utility for optimization of truss structures. The idea of the standard CBO is derived from one-dimensional collisions between bodies, which does not use the internal parameter and memory in its formulation. However, the exploitation phase of the CBO is weak due to not using a memory for saving the best-so-far solution in its formulation. Here, in the two dimensional version of CBO, denoted by 2D-CBO, a memory is added to the standard CBO formulation to improve the performance of the latter algorithm. This addition increases the exploitation ability and convergence rate of the CBO. Comparative studies illustrate the superiority of the 2D-CBO algorithm compared to those previously reported in the literature.
-
-@highlight A new version of the CBO algorithm is presented for optimization of truss structures.
-@highlight For improving the performance of the standard CBO, a memory is added to the CBO.
-@highlight This addition increases the exploitation ability and convergence rate of the algorithm.
-@highlight Comparative studies illustrate the superiority of the 2D-CBO algorithm.

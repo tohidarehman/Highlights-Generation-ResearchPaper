@@ -1,5 +1,0 @@
- This paper proposes a flexible stochastic cost frontier panel data model where the technology parameters are unknown smooth functions of firm- and time-effects, which non-neutrally shift the cost frontier. The model decomposes inefficiency into firm and time-specific components and productivity change into inefficiency change, technical change and scale change. We then apply the proposed methodology to the Norwegian salmon production data and analyze technical efficiency as well as productivity changes.
-
-@highlight A flexible stochastic cost frontier model.
-@highlight Inefficiency and productivity decomposed.
-@highlight Technical progress and efficiency improvement found in Norwegian salmon farming.

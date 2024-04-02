@@ -1,7 +1,0 @@
- Hubs are consolidation and dissemination points in many-to-many flow networks. Hub location problem is to locate hubs among available nodes and allocate non-hub nodes to these hubs. The mainstream hub location studies focus on optimal decisions of one decision-maker with respect to some objective(s) even though the markets that benefit hubbing are oligopolies. Therefore, in this paper, we propose a competitive hub location problem where the market is assumed to be a duopoly. Two decision-makers (or firms) sequentially decide locations of their hubs and then customers choose one firm with respect to provided service levels. Each decision-maker aims to maximize his/her own market share. We propose two problems for the leader (former decision-maker) and follower (latter decision-maker): and problems, respectively. Both problems are proven to be NP-complete. Linear programming models are presented for these problems as well as exact solution algorithms for the problem. The performance of models and algorithms are tested by computational analysis conducted on CAB and TR data sets.
-
-@highlight We proposed two competitive hub location models for the leader and follower.
-@highlight Investigated their computational complexities.
-@highlight Proposed mixed integer linear formulations for these problems.
-@highlight Proposed enumeration based solution algorithms for leader’s problem.
-@highlight Conducted computational experiments for both problems.

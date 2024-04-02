@@ -1,6 +1,0 @@
- We present a geometric rounding algorithm for robustly implementing cascaded operations on polyhedra where the output of each operation is an input to the next operation. The rounding algorithm reduces the bit-precision of the input and eliminates degeneracy. To do so, it rounds coordinates to floating point and randomly perturbs them, then prunes away invalid portions of the resulting polyhedron. We demonstrate the rounding algorithm on a packing algorithm with ten cascaded Minkowski sums and set operations.
-
-@highlight Geometric rounding algorithm for cascaded operations on polyhedra.
-@highlight Algorithm rounds, perturbs, and restores validity.
-@highlight Output provably valid and close to input.
-@highlight Algorithm validated on packing three polyhedra into minimal box.

@@ -1,7 +1,0 @@
- In this paper, we present a framework for building a hybrid network composed of Controller Area Network (CAN) bus and ISA100.11a industrial wireless network. The end-to-end delay of CAN-ISA100.11a hybrid network is evaluated. One scheme is proposed based on time slot configuration in ISA100.11a to ensure the prioritization hierarchy which is suitable for large packet size, namely priority assurance (PA). Moreover, a comparison between shared time slot and short time slot is evaluated to give insight on which one gives the best performance in CAN-ISA100.11a hybrid network. The delay of the proposed framework is further simulated under interference environment.
-
-@highlight We present a framework for building a hybrid network with CAN and ISA100.11a.
-@highlight We propose schemes to ensure prioritization and reduce end-to-end delay in hybrid network.
-@highlight The delay of the proposed schemes is evaluated by simulation under interference of IEEE 802.11.
-@highlight The delay bottleneck of the hybrid network lies on ISA100.11a network.
-@highlight Proposed schemes enable CAN-ISA100.11a hybrid network as an industrial network.

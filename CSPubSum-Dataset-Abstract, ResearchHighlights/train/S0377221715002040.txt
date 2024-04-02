@@ -1,6 +1,0 @@
- This paper presents an indicator-based multi-objective local search (IBMOLS) to solve a multi-objective optimization problem. The problem concerns the selection and scheduling of observations for an agile Earth observing satellite. The mission of an Earth observing satellite is to obtain photographs of the Earth surface to satisfy user requirements. Requests from several users have to be managed before transmitting an order, which is a sequence of selected acquisitions, to the satellite. The obtained sequence has to optimize two objectives under operation constraints. The objectives are to maximize the total profit of the selected acquisitions and simultaneously to ensure the fairness of resource sharing by minimizing the maximum profit difference between users. Experiments are conducted on realistic instances. Hypervolumes of the approximate Pareto fronts are computed and the results from IBMOLS are compared with the results from the biased random-key genetic algorithm (BRKGA).
-
-@highlight A realistic and interesting space application is studied.
-@highlight The use of multi-objective combinatorial optimization is investigated.
-@highlight A multi-objective local search heuristic is proposed and compared to state-of-the-art genetic algorithm.
-@highlight Comparisons are conducted on a set of real-life inspired instances.

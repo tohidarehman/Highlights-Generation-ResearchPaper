@@ -1,7 +1,0 @@
- Cluster analysis refers to finding subsets of vertices of a graph (called clusters) which are more likely to be joined pairwise than vertices in different clusters. In the last years this topic has been studied by many researchers, and several methods have been proposed. One of the most popular is to maximize the modularity, which represents the fraction of edges within clusters minus the expected fraction of such edges in a random graph with the same degree distribution. However, this criterion presents some issues, for example the resolution limit, i.e., the difficulty to detect clusters having small sizes. In this paper we focus on a recent measure, called modularity density, which improves the resolution limit issue of modularity. The problem of maximizing the modularity density can be described by means of a 0–1 NLP formulation. We derive some properties of the optimal solution which will be used to tighten the formulation, and we propose some MILP reformulations which yield an improvement of the resolution time.
-
-@highlight We consider a clustering method modularity density maximization, originally modeled as 0–1 NLP.
-@highlight We show theoretical properties of the optimal solution.
-@highlight We derive four exact MILP reformulations of the 0–1 NLP.
-@highlight The MILPs outperform the 0–1 NLP in term of computational time to find the optimum.
-@highlight Computational experiments allow to identify the most efficient MILP reformulation.

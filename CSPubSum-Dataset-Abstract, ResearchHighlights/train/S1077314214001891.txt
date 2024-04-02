@@ -1,6 +1,0 @@
- The problem of image segmentation is formulated in terms of recursive partitioning of segments into subsegments by optimizing the proposed objective function via graph cuts. Our approach uses a special normalization of the objective function, which enables the production of a hierarchy of regular superpixels that adhere to image boundaries. To enforce compactness and visual homogeneity of segments a regularization strategy is proposed. Experiments on the Berkeley dataset show that the proposed algorithm is comparable in its performance to the state-of-the-art superpixel methods.
-
-@highlight A new approach to segment partitioning for superpixel segmentation is proposed.
-@highlight A new objective function optimized with graph cuts is proposed.
-@highlight The algorithm produces compact and regular superpixels of high quality.
-@highlight Comparable results with contemporary algorithms are achieved.

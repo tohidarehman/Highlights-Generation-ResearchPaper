@@ -1,5 +1,0 @@
- Congestion is a widely observed economic phenomenon where outputs are reduced due to excessive amount of inputs. The previous approaches to identify congestion in nonparametric analysis only consider desirable outputs. In the production process, undesirable outputs are usually jointly produced with desirable outputs. In this paper, we propose an approach for measuring congestion in the presence of desirable and undesirable outputs simultaneously. The proposed approach can discriminate between the congested DMUs and the truly efficient DMUs, which are all efficient according to the scores calculated by the directional distance function. Finally, an empirical example is used to illustrate the approach.
-
-@highlight An approach for measuring congestion in the presence of desirable and undesirable outputs is developed.
-@highlight The proposed approach can discriminate between the congested DMUs and the truly efficient DMUs.
-@highlight An empirical example is used to illustrate the proposed approach.

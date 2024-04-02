@@ -1,7 +1,0 @@
- The pairwise comparisons method is a convenient tool used when the relative order among different concepts (alternatives) needs to be determined. One popular implementation of the method is based on solving an eigenvalue problem for the pairwise comparisons matrix. In such cases the ranking result for the principal eigenvector of the pairwise comparisons matrix is adopted, while the eigenvalue is used to determine the index of inconsistency. A lot of research has been devoted to the critical analysis of the eigenvalue based approach.. In their work, the authors define the conditions of order preservation (COP) and show that even for sufficiently consistent pairwise comparisons matrices, this condition cannot be met. The presented work defines more precise criteria for determining when the COP is met. To formulate the criteria, an error factor is used describing how far the input to the ranking procedure is from the ranking result. The relationship between the Saaty consistency index and COP is also discussed.
-
-@highlight The ranking error is generalized to the maximal reciprocal error.
-@highlight The value of the maximal reciprocal error (MRE) is defined.
-@highlight MRE limits the level of Saaty’s consistency index (CI).
-@highlight MRE helps to decide whether the Conditions of Order Preservation (COP) are met.
-@highlight Provided theorems help to understand the relationship between COP, MRE and CI.

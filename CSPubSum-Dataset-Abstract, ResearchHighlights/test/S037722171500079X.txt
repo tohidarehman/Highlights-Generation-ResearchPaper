@@ -1,5 +1,0 @@
- In this paper, we consider the problem of adaptive traffic control on single junctions with the three following objectives to be minimized: the total waiting time and the number of stops for private vehicles, and a public transport criterion. This problem being modeled as a multi-objective mixed integer linear program, we provide an interactive system based on an adaptive reference point approach. This system adapts, in real-time, priorities given to the different criteria according to the traffic situation. Formal guarantees are provided on the behavior of our system. A comparison with a standard semi-adaptive system on a simulated traffic shows that it provides significantly better solutions.
-
-@highlight A multi-objective interactive system for adaptive traffic control is proposed.
-@highlight Formal guarantees are provided for the interactive procedure used in our system.
-@highlight Experiments on a simulated traffic show the performances of the system.

@@ -1,5 +1,0 @@
- This study uses multivariate regression analysis to examine the effects of asset specificity on the financial performance of both external and internal governance structures for medical device maintenance, and investigates how the financial performance of external governance structures differs depending on whether a hospital is private or public. The hypotheses were tested using information on 764 medical devices and 62 maintenance service providers, resulting in 1403 maintenance transactions. As such, our data sample is significantly larger than those used in previous studies in this area. The results empirically support our core theoretical argument that governance financial performance is influenced by assets specificity.
-
-@highlight Presence of in-city spare parts has a positive impact on maintenance financial performance.
-@highlight Online diagnostic tools had a stronger positive effect on maintenance financial performance.
-@highlight Hospital type influences the financial performance of the selected maintenance governance structure.

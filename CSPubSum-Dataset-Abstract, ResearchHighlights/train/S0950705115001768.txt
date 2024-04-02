@@ -1,6 +1,0 @@
- To consider interactive phenomenon among experts (or attributes) in multiple attribute group decision making, a new interval linguistic aggregation operator named the generalized interval 2-tuple linguistic Shapley chi-square averaging operator is proposed which is based on the Shapley value and 2-tuple linguistic representation.The λ-fuzzy measure is applied to simplify the fuzzy measure on attribute set (or expert set), and some formulae and programming models are proposed to determine the λ-fuzzy measure. Meanwhile some desirable properties of aggregation operator are studied. With respect to group decision making under interval linguistic environment, the GOGDM algorithm is introduced in detail. Furthermore, the facility location selection is applied to illustrate the practicality and validity of the GOGDM algorithm. Comparative analysis are proposed to show the advantage and validity of the proposed approach.
-
-@highlight The GILSCA operator considers the interactive phenomenon among experts (or attributes).
-@highlight 2-tuple linguistic representation is given to avoid the loss of interval linguistic information.
-@highlight The GILSCA operator illustrates a new type of optimal aggregation which is based on chi-square deviation.
-@highlight Some effective formulae and programming models are provided to determine the fuzzy measure.

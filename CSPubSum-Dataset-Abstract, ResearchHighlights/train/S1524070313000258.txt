@@ -1,7 +1,0 @@
- We introduce a method for surface reconstruction from point sets that is able to cope with noise and outliers. First, a splat-based representation is computed from the point set. A robust local 3D RANSAC-based procedure is used to filter the point set for outliers, then a local jet surface – a low-degree surface approximation – is fitted to the inliers. Second, we extract the reconstructed surface in the form of a surface triangle mesh through Delaunay refinement. The Delaunay refinement meshing approach requires computing intersections between line segment queries and the surface to be meshed. In the present case, intersection queries are solved from the set of splats through a 1D RANSAC procedure.
-
-@highlight The proposed surface reconstruction method is robust to noise and outliers.
-@highlight The method uses raw data point sets to compute a splat-based representation.
-@highlight In a second step, the splats representation is meshed through Delaunay refinement.
-@highlight Neither normal estimation nor the computation of global functions is required.
-@highlight Ransac is used at the two levels to filter outliers.

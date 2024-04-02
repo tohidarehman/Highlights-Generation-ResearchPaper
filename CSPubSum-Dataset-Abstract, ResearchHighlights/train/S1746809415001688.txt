@@ -1,7 +1,0 @@
- Microwave Doppler radar has received considerable attention as a non-contact form of measuring human respiration; in particular for long term monitoring. One of the main challenges in converting this into a viable application is to suppress or separate the artefacts and other interfering signals from the desired respiration signal using a less complex and practically feasible design for regular and potentially real time use. Existing systems either require complex experimental setups or multiple Doppler radar modules to achieve this. In this paper, we propose an approach based on EMD-ICA and approximate entropy ideas to systematically separate received Doppler shifted signal into distinct components and reconstruct the desired respiration pattern pertaining to respective physiological activity. Indeed this allows suppression of the undesirable artefacts and interference from other competing signals. Practical experiments confirmed comparable performance of the proposed method to the measurements obtained through chest straps which are widely used clinically for monitoring respiration.
-
-@highlight Demonstrated non-contact measurement and analysis of human respiration.
-@highlight Respiration measurement using microwave Doppler radar under the influence of motion artefact are discussed.
-@highlight The use of EMD-ICA for respiration signal reconstruction and interference suppression.
-@highlight Automated components selection using approximate entropy measures.
-@highlight Achieved high correlation in comparison with conventional respiration strap.

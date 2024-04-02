@@ -1,7 +1,0 @@
- We consider a generalization of the classical quadratic assignment problem, where material flows between facilities are uncertain, and belong to a budgeted uncertainty set. The objective is to find a robust solution under all possible scenarios in the given uncertainty set. We present an exact quadratic formulation as a robust counterpart and develop an equivalent mixed integer programming model for it. To solve the proposed model for large-scale instances, we also develop two different heuristics based on 2-Opt local search and tabu search algorithms. We discuss performance of these methods and the quality of robust solutions through extensive computational experiments.
-
-@highlight A robust approach for quadratic assignment problem (RQAP) with budgeted uncertainty.
-@highlight An exact and two heuristic methods to solve RQAP.
-@highlight Extensive experiments to show performance of methods and quality of solutions.
-@highlight RQAP can be solved significantly faster than minmax regret QAP.
-@highlight RQAP has adjustable conservativeness while minmax regret QAP has not.

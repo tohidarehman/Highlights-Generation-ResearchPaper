@@ -1,7 +1,0 @@
- For three decades a growing interest in the modeling of desirable and undesirable outputs has led to a theoretical and methodological debate in the nonparametric literature on production technology and efficiency. The first main discussion is about the way of modeling ‘bad/undesirables’ as inputs or outputs, or by transformation functions. The second debate concerns the implications of the weak disposability assumption in the modeling of bad outputs, in particular the possibility of assigning unexpected signs to shadow prices of bad outputs. In addition, we point out a current error in the modeling of weak disposability under a variable returns to scale technology. In this paper we introduce a hybrid model to ensure the economically meaningful jointness of good and bad outputs while constraining shadow prices of bad outputs to their expected sign. We argue that it is a sound compromise to model undesirable outputs with a meaningful primal/dual economic interpretation. Finally we propose an extension to define shadow prices for undesirable outputs following the Law of One Price (LoOP) rule.
-
-@highlight We contribute to a methodological debate in the nonparametric literature.
-@highlight Way of modeling undesirables as inputs or outputs, or by transformation functions.
-@highlight We point out a current error in the modeling of weak disposability under VRS.
-@highlight We introduce a new hybrid model with an economically meaningful interpretation.
-@highlight We introduce a Law of One Price rule for shadow prices of undesirable outputs.

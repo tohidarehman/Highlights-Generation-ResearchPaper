@@ -1,7 +1,0 @@
- Multiobjective shortest path problems are computationally harder than single objective ones. In particular, execution time is an important limiting factor in exact multiobjective search algorithms. This paper explores the possibility of improving search performance in those cases where the interesting portion of the Pareto front can be initially bounded. We introduce a new exact label-setting algorithm that returns the subset of Pareto optimal paths that satisfy a set of lexicographic goals, or the subset that minimizes deviation from goals if these cannot be fully satisfied. Formal proofs on the correctness of the algorithm are provided. We also show that the algorithm always explores a subset of the labels explored by a full Pareto search. The algorithm is evaluated over a set of problems with three objectives, showing a performance improvement of up to several orders of magnitude as goals become more restrictive.
-
-@highlight We find all Pareto optimal paths in a graph satisfying a set of lexicographic goals.
-@highlight A new label setting algorithm is developed, using a special pruning condition.
-@highlight The algorithm accepts heuristic cost estimates to speed up search.
-@highlight The algorithm explores only a subset of the labels explored in a full Pareto search.
-@highlight Experiments reveal significant performance improvements over full Pareto search.

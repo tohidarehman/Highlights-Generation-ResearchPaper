@@ -1,7 +1,0 @@
- In the airline industry, deciding the ticket price for each flight directly affects the number of people that in the future will try to buy a ticket. Depending on the willingness-to-pay of the customers the flight might take off with empty seats or seats sold at a lower price. Therefore, based on the behavior of the customers, a price must be fixed for each type of product in each period. We propose a stochastic dynamic pricing model to solve this problem, applying phase type distributions and renewal processes to model the inter-arrival time between two customers that book a ticket and the probability that a customer buys a ticket. We test this model in a real-world case where as a result the revenue is increased on average by 31 percent.
-
-@highlight We propose a dynamic pricing model with multiple products with different behaviors applied to the airline industry.
-@highlight We estimate the transition probabilities using the inter-arrival time distribution of bookings and the probability that a booking turns into a ticket.
-@highlight We fit these probabilities with phase type distributions.
-@highlight Applying this model to a case study improved the expected revenue by 31 percent.
-@highlight The phase type distributions fitted with a low error to the data of the industry.

@@ -1,6 +1,0 @@
- We consider a master surgery scheduling (MSS) problem in which block operating room (OR) time is assigned to different surgical specialties. While many MSS approaches in the literature consider only the impact of the MSS on operating theater and operating staff, we enlarge the scope to downstream resources, such as the intensive care unit (ICU) and the general wards required by the patients once they leave the OR. We first propose a stochastic analytical approach, which calculates for a given MSS the exact demand distribution for the downstream resources. We then discuss measures to define downstream costs resulting from the MSS and propose exact and heuristic algorithms to minimize these costs.
-
-@highlight Master Surgery Schedules (MSS) assign block operating room time to surgical specialties.
-@highlight Model to calculate distributions of the number of patients in the ICU and the wards depending on a MSS.
-@highlight Cost functions for downstream units based on these distributions.
-@highlight Exact and heuristic algorithms to find MSS that minimize costs in downstream units.

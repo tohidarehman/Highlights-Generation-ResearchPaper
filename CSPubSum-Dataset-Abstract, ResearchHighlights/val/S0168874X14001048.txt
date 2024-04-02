@@ -1,5 +1,0 @@
- This paper presents a newly developed wavelet spectral finite element (WFSE) model to analyze wave propagation in anisotropic composite laminate with a transverse surface crack penetrating part-through the thickness. The WSFE formulation of the composite laminate, which is based on the first-order shear deformation theory, produces accurate and computationally efficient results for high frequency wave motion. Transverse crack is modeled in wavenumber–frequency domain by introducing bending flexibility of the plate along crack edge. Results for tone burst and impulse excitations show excellent agreement with conventional finite element analysis in Abaqus®. Problems with multiple cracks are modeled by assembling a number of spectral elements with cracks in frequency-wavenumber domain. Results show partial reflection of the excited wave due to crack at time instances consistent with crack locations.
-
-@highlight Wavelet spectral finite element for waves in composites with transverse cracks.
-@highlight Transverse crack modeled in wavenumber–frequency domain.
-@highlight Computationally efficient and accurate results obtained for high frequency waves.

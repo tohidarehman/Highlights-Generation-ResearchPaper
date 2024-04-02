@@ -1,7 +1,0 @@
- Nonlocal means (NLM)-based denoising is an efficient and simple method for image sequence denoising which has been applied successfully in many image sequence denoising applications. We extend the method for image sequence denoising using Zernike moments (ZMs) called NLM–ZMs which provides better denoising performance as compared to NLM-based approach. In addition, the proposed method is faster because the number of computations needed for block matching and weight computation are significantly reduced. The NLM approach uses the photometric distance between two image patches for determining the similarity distance. In the proposed approach, low order ZMs are used for the block matching process, resulting in better denoising performance at a much lower computation cost. Detailed experimental results are provided to demonstrate better performance and higher speed of the proposed approach as compared to the NLM approach. The results are also compared with the state-of-the-art NLM-based image sequence denoising methods and the denoising results are observed to be competitive with higher speed.
-
-@highlight Image sequence denoising using NLM and Zernike moments proposed.
-@highlight Significant improvement in image sequence denoising achieved.
-@highlight Denoising results are comparable to state-of-the-art methods with much faster speed.
-@highlight Proposed method is faster by a factor lying between 11 and 12.
-@highlight Better rates of improvement achieved at higher levels of noise.

@@ -1,7 +1,0 @@
- The current work presents results from a cognitive task analysis (CTA) of a nuclear disaster simulation. Audio-visual records were collected from an emergency room team composed of individuals from 26 different agencies as they responded to multiple scenarios in a simulated nuclear disaster. This simulation was part of a national emergency response training activity for a nuclear power plant located in a developing country. The objectives of this paper are to describe sources of resilience and brittleness in these activities, identify cues of potential improvements for future emergency simulations, and leveraging the resilience of the emergency response system in case of a real disaster. Multiple CTA techniques were used to gain a better understanding of the cognitive dimensions of the activity and to identify team coordination and crisis management patterns that emerged from the simulation exercises.
-
-@highlight A cognitive task analysis (CTA) performed during a nuclear disaster simulation.
-@highlight The simulation was part of a national emergency response training.
-@highlight We describe sources of resilience and brittleness in the response activities.
-@highlight Understand cognitive activities' dimensions to identify crisis management patterns.
-@highlight The results indicated strengths and weakness in nuclear emergency response exercises.

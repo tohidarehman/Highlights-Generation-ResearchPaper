@@ -1,7 +1,0 @@
- An efficiency indicator of industry configuration (allowing for entry/exit of firms) is presented which accounts for four sources components:  size inefficiencies arising from firms which can be conveniently split into smaller units;  efficiency gains realized through merger of firms;  re-allocation of inputs and outputs among firms;  technical inefficiencies. The indicator and its components are computed using linear and mixed-integer programming (data envelopment analysis models). A method to monitor the evolution of these components in time is introduced. Data on hospitals in Australia show that technical inefficiency of hospitals accounts for less than 15% of total industry inefficiency, with 40% attributable to size inefficiencies and the rest to potential mergers and re-allocation effects.
-
-@highlight An indicator of industry inefficiency is proposed.
-@highlight The indicator is decomposed in various sources components.
-@highlight The main sources are: technical inefficiency and organizational inefficiency.
-@highlight Possible efficiency gains from mergers and break-ups operations are discussed.
-@highlight An empirical application to public hospitals is provided.

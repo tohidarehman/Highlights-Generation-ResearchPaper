@@ -1,7 +1,0 @@
- In multi-criteria group decision making, a key issue is aggregating individual preference into group one. In this study, we employ a bilateral agreement to conduct group evaluation of alternatives. The bilateral agreement between a pair of individuals could be on the weight of a criterion, a criterion evaluation function, or willingness to pay. Any one of three types of bilateral agreements can derive the group utility. To express the relationship between the bilateral agreement and individual evaluations, the quasi-arithmetic mean is used, which can ensure the consistency property of the pairwise comparison matrices. The minimum requirements are explored to obtain the group preference, which shows that n −1 pairs of bilateral agreements are necessary. Finally, several examples are provided to illustrate the proposed methods.
-
-@highlight The multi-criteria group decision making based on bilateral agreements is investigated.
-@highlight To ensure the consistency on pairwise comparison matrices, quasi-arithmetic function is used.
-@highlight To get the group utility, the minimal required bilateral agreements are explored.
-@highlight A bilateral agreement among pairs of individuals on a single criterion is found to be sufficient.
-@highlight The bilateral agreements can be on the criteria weight, the criteria value, or willingness to pay.

@@ -1,6 +1,0 @@
- Innovative in-car applications provided on smartphones can deliver real-time alternative mobility choices and subsequently generate visual-manual demand. Prior studies have found that multi-touch gestures such as kinetic scrolling are problematic in this respect. In this study we evaluate three prototype tasks which can be found in common mobile interaction use-cases. In a repeated-measures design, 29 participants interacted with the prototypes in a car-following task within a driving simulator environment. Task completion, driving performance and eye gaze have been analysed. We found that the slider widget used in the filtering task was too demanding and led to poor performance, while kinetic scrolling generated a comparable amount of visual distraction despite it requiring a lower degree of finger pointing accuracy. We discuss how to improve continuous list browsing in a dual-task context.
-
-@highlight The performance metric is tested against two baseline methods (between- and within-trial).
-@highlight Multi-step filtering approach performed poorly due to the high precision required.
-@highlight Even on a short and ordered list, kinetic scrolling leads to high visual demand.
-@highlight Multi-step filtering approach is worth pursuing with better graphic components.

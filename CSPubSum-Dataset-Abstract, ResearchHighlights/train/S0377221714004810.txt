@@ -1,5 +1,0 @@
- Four NP-hard optimization problems on graphs are studied: The vertex separator problem, the edge separator problem, the maximum clique problem, and the maximum independent set problem. We show that the vertex separator problem is equivalent to a continuous bilinear quadratic program. This continuous formulation is compared to known continuous quadratic programming formulations for the edge separator problem, the maximum clique problem, and the maximum independent set problem. All of these formulations, when expressed as maximization problems, are shown to follow from the convexity properties of the objective function along the edges of the feasible set. An algorithm is given which exploits the continuous formulation of the vertex separator problem to quickly compute approximate separators. Computational results are given.
-
-@highlight Vertex separator problem is reformulated as a continuous bilinear quadratic program.
-@highlight Objective function has equal number of positive and negative eigenvalues.
-@highlight Objective function is convex on edges of constraint polyhedron.

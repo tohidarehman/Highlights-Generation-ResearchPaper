@@ -1,7 +1,0 @@
- Voice transformation, which has been integrated in many audio (speech) processing tools, is a common operation to change a person's voice and to conceal his or her identity. It can deceive human beings and automatic speaker verification (ASV) systems easily, and thus it presents threats to security. Until now, few efforts have been reported on the recognition of hidden speakers from such disguised voices. In this paper, we propose concrete countermeasures to erase the disguise effects and verify the speaker's identity from voice transformation disguised voices. The proposed system is tested by commonly used audio editors and voice transformation algorithms. The experimental results show that the performances of baseline ASV system without our proposed countermeasures are entirely destroyed by voice transformation disguise with equal error rates (EERs) higher than 40%; while with our proposed countermeasures, the verification performances are improved significantly with EERs lowered to 3%–4%.
-
-@highlight We investigate the effects of voice transformation disguise on ASV performance.
-@highlight We propose an algorithm to estimate transformation factor.
-@highlight We propose an algorithm to restore the genuine acoustic characteristics.
-@highlight We integrate the above algorithms into GMM–UBM based ASV system.
-@highlight The proposed approach achieves 3–4% EER.

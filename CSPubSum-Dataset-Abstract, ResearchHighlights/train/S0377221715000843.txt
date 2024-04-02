@@ -1,7 +1,0 @@
- University rankings are the subject of a paradox: the more they are criticized by social scientists and experts on methodological grounds, the more they receive attention in policy making and the media. In this paper we attempt to give a contribution to the birth of a new generation of rankings, one that might improve on the current state of the art, by integrating new kind of information and using new ranking techniques. Our approach tries to overcome four main criticisms of university rankings, namely: monodimensionality; statistical robustness; dependence on university size and subject mix; lack of consideration of the inputÃ¢ÂÂoutput structure. We provide an illustration on European universities and conclude by pointing on the importance of investing in data integration and open data at European level both for research and for policy making.
-
-@highlight In this paper we give a contribution to the birth of a new generation of rankings.
-@highlight We integrate new kind of information and use a new ranking technique.
-@highlight We implement confidence bounds for Ã¢ÂÂmanagerial efficienciesÃ¢ÂÂ.
-@highlight Our approach overcomes four main criticisms of university rankings.
-@highlight We provide an illustration on European universities.

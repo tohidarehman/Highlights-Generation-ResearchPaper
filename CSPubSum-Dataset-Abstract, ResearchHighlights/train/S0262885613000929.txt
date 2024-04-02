@@ -1,7 +1,0 @@
- Motion segmentation refers to the problem of separating the objects in a video sequence according to their motion. It is a fundamental problem of computer vision, since various systems focusing on the analysis of dynamic scenes include motion segmentation algorithms. In this paper we present a novel approach, where a video shot is temporally divided in successive and overlapping windows and motion segmentation is performed on each window respectively. This attribute renders the algorithm suitable even for long video sequences. In the last stage of the algorithm the segmentation results for every window are aggregated into a final segmentation. The presented algorithm can handle effectively asynchronous trajectories on each window even when they have no temporal intersection. The evaluation of the proposed algorithm on the Berkeley motion segmentation benchmark demonstrates its scalability and accuracy compared to the state of the art.
-
-@highlight We divide a video sequence on overlapping subsequences.
-@highlight On each subsequence we perform over-segmentation, handling efficiently asynchronous trajectories.
-@highlight The number of moving objects is automatically estimated.
-@highlight The segmentation results are aggregated into a final segmentation.
-@highlight Our method is tested on the Berkeley motion segmentation benchmark.

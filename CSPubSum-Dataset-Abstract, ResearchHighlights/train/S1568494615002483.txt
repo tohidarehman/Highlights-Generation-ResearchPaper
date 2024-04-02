@@ -1,6 +1,0 @@
- In this study, we propose a probabilistic approach for designing nonlinear optimal robust tracking controllers for unmanned aerial vehicles. The controller design is formulated in terms of a multi-objective optimization problem that is solved by using a bio-inspired optimization algorithm, offering high likelihood of finding an optimal or near-optimal global solution. The process of tuning the controller minimizes differences between system outputs and optimal specifications given in terms of rising time, overshoot and steady-state error, and the controller succeed in fitting the performance requirements even considering parametric uncertainties and the nonlinearities of the aircraft. The stability of the controller is proved for the nominal case and its robustness is carefully verified by means of Monte Carlo simulations.
-
-@highlight The subjects covered in the article, such as evolutionary computing, unmanned aerial vehicles, and their control forms attract a lot of interest nowadays.
-@highlight A extensive literature review presents several advantages for the proposed approach.
-@highlight The controller performance is notable even considering significant robustness requirements.
-@highlight Difficult topics, such as optimality, robustness, stability, nonlinearity, and correctness are addressed with relative simplicity.

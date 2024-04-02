@@ -1,7 +1,0 @@
- This paper evaluates the performance of a number of modelling approaches for future mortgage default status. Boosted regression trees, random forests, penalised linear and semi-parametric logistic regression models are applied to four portfolios of over 300,000 Irish owner-occupier mortgages. The main findings are that the selected approaches have varying degrees of predictive power and that boosted regression trees significantly outperform logistic regression. This suggests that boosted regression trees can be a useful addition to the current toolkit for mortgage credit risk assessment by banks and regulators.
-
-@highlight We evaluate default prediction performance of machine learning/regression models.
-@highlight Including boosted trees, random forests, penalised linear/semi-parametric logistic regression.
-@highlight Using data on over 300,000 residential mortgage loans.
-@highlight The results indicate varying degrees of predictive power.
-@highlight Statistical tests suggest boosted regression trees outperform penalised logistic regression.

@@ -1,7 +1,0 @@
- Lab-on-a-chip (LOC) devices are broadly used for research in the life sciences and diagnostics and represent a very fast moving field. LOC devices are designed, prototyped and assembled using numerous strategies and materials but some fundamental trends are that these devices typically need to be  sealed,  supplied with liquids, reagents and samples, and  often interconnected with electrical or microelectronic components. In general, closing and connecting to the outside world these miniature labs remain a challenge irrespectively of the type of application pursued. Here, we review methods for sealing and connecting LOC devices using standard approaches as well as recent state-of-the-art methods. This review provides easy-to-understand examples and targets the microtechnology/engineering community as well as researchers in the life sciences.
-
-@highlight We review two main challenges of microfluidics technology: sealing and interfacing.
-@highlight These are crucial for commercialization and wide-spread use of microfluidics.
-@highlight We review well-established techniques as well as recent state-of-the-art methods.
-@highlight We discuss both research and commercial activities.
-@highlight We provide up-to-date examples for each technology discussed.

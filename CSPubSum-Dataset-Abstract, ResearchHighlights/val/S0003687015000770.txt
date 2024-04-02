@@ -1,7 +1,0 @@
- Virtual User Models (VUMs) can be a valuable tool for accessibility and ergonomic evaluation of designs in simulation environments. As increasing the accessibility of a design is usually translated into additional costs and increased development time, the need for specifying the percentage of population for which the design will be accessible is crucial. This paper addresses the development of VUMs representing specific groups of people with disabilities. In order to create such VUMs, we need to know the functional limitations, i.e. disability parameters, caused by each disability and their variability over the population. Measurements were obtained from 90 subjects with motor disabilities and were analyzed using both parametric and nonparametric regression methods as well as a proposed hybrid regression method able to handle small sample sizes. Validation results showed that in most cases the proposed regression analysis can produce valid estimations on the variability of each disability parameter.
-
-@highlight We model motor disabilities of people through regression analysis.
-@highlight We propose a novel hybrid regression method able to handle small sample sizes.
-@highlight We estimate the probability density function of each disability parameter.
-@highlight We examine the validity of the regression results using new measurements.
-@highlight The proposed analysis leads to the development of accurate virtual user models.

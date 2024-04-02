@@ -1,7 +1,0 @@
- Although 5-axis free form surface machining is commonly proposed in CAD/CAM software, several issues still need to be addressed and especially collision avoidance between the tool and the part. Indeed, advanced user skills are often required to define smooth tool axis orientations along the tool path in high speed machining. In the literature, the problem of collision avoidance is mainly treated as an iterative process based on local and global collision tests with a geometrical method. In this paper, an innovative method based on physical modeling is used to generate 5-axis collision-free smooth tool paths. In the proposed approach, the ball-end tool is considered as a rigid body moving in the 3D space on which repulsive forces, deriving from a scalar potential field attached to the check surfaces, and attractive forces are acting. A study of the check surface tessellation is carried out to ensure smooth variations of the tool axis orientation. The proposed algorithm is applied to open pocket parts such as an impeller to emphasize the effectiveness of this method to avoid collision.
-
-@highlight A new approach is proposed for collision avoidance in 5-axis end milling.
-@highlight The method is based on a physical modeling to compute the tool axis orientation.
-@highlight The ball-end tool is considered as a rigid body moving in 3D space.
-@highlight Repulsive forces are deriving from a scalar potential linked to check surfaces.
-@highlight Check surfaces tessellation ensures smooth variations of the tool axis orientation.

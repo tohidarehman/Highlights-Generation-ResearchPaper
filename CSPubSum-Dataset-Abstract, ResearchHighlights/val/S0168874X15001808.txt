@@ -1,5 +1,0 @@
- FEMME, a multi-scale Finite Element Microstructure MEshfree fracture model has been applied to simulate the effect of microstructure on the development of discontinuous cracking and damage coalescence during the Hertzian indentation of a SiC–SiC fibre composite. This was studied experimentally by digital volume correlation analysis of high-resolution synchrotron X-ray computed tomographs, which quantified the damage via measurement of the 3D displacement fields within the material. The experimental data are compared with the model simulations, and demonstrate the applicability of the modelling strategy to simulate damage development in a heterogeneous quasi-brittle material.
-
-@highlight The paper shows the influence of the microstructure in the material.
-@highlight The interaction between the fibres and the pores is reproduced successfully.
-@highlight In the material, the inhomogeneous strain and displacement fields are reproduced.

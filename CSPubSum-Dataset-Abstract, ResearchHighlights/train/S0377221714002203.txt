@@ -1,7 +1,0 @@
- We consider a real problem faced by a large company providing repair services of office machines in Santiago, Chile. In a typical day about twenty technicians visit seventy customers in a predefined service area in Santiago. We design optimal routes for technicians by considering travel times, soft time windows for technician arrival times at client locations, and fixed repair times. A branch-and-price algorithm was developed, using a constraint branching strategy proposed by Ryan and Foster along with constraint programming in the column generation phase. The column generation takes advantage of the fact that each technician can satisfy no more than five to six service requests per day. Different instances of the problem were solved to optimality in a reasonable computational time, and the results obtained compare favorably with the current practice.
-
-@highlight Design of optimal routes for technicians that was motivated by a real problem.
-@highlight Treatment of soft time windows for arrival times at client locations.
-@highlight An exact solution procedure for the VRPSTW is proposed.
-@highlight A branch-and-price framework using constraint programming is implemented.
-@highlight Results obtained compare favorably with the current practice.

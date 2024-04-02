@@ -1,7 +1,0 @@
- This paper introduces four classes of rotation-invariant orthogonal moments by generalizing four existing moments that use harmonic functions in their radial kernels. Members of these classes share beneficial properties for image representation and pattern recognition like orthogonality and rotation-invariance. The kernel sets of these generic harmonic function-based moments are complete in the Hilbert space of square-integrable continuous complex-valued functions. Due to their resemble definition, the computation of these kernels maintains the simplicity and numerical stability of existing harmonic function-based moments. In addition, each member of one of these classes has distinctive properties that depend on the value of a parameter, making it more suitable for some particular applications. Comparison with existing orthogonal moments defined based on Jacobi polynomials and eigenfunctions has been carried out and experimental results show the effectiveness of these classes of moments in terms of representation capability and discrimination power.
-
-@highlight We generalize polar harmonic transforms for pattern description/recognition.
-@highlight The generalization maintains beneficial properties of existing transforms.
-@highlight The completeness of the corresponding basis sets is proven.
-@highlight The numerical stability of the computation is discussed.
-@highlight The new generic transforms have superior performance to comparison methods.

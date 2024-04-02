@@ -1,6 +1,0 @@
- Genetic algorithms are widely used in the estimation of expression profiles from microarrays data. However, these techniques are unable to produce stable and robust solutions suitable to use in clinical and biomedical studies. This paper presents a novel two-stage evolutionary strategy for gene feature selection combining the genetic algorithm with biological information extracted from the KEGG database. A comparative study is carried out over public data from three different types of cancer (leukemia, lung cancer and prostate cancer). Even though the analyses only use features having KEGG information, the results demonstrate that this two-stage evolutionary strategy increased the consistency, robustness and accuracy of a blind discrimination among relapsed and healthy individuals. Therefore, this approach could facilitate the definition of gene signatures for the clinical prognosis and diagnostic of cancer diseases in a near future. Additionally, it could also be used for biological knowledge discovery about the studied disease.
-
-@highlight A novel two-stage procedure to find genetic profiles is presented.
-@highlight Biological information and an evolutionary strategy are combined.
-@highlight Biological information improves robustness and prognosis.
-@highlight Better accuracy results are obtained over the three datasets analyzed.

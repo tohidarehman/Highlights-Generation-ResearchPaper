@@ -1,7 +1,0 @@
- Fitness landscape theory is a mathematical framework for numerical analysis of search algorithms on combinatorial optimization problems. We study a representation of fitness landscape as a weighted directed graph. We consider out forest and in forest structures in this graph and establish important relationships among the forest structures of a directed graph, the spectral properties of the Laplacian matrices, and the numbers of local optima of the landscape. These relationships provide a new approach for computing the numbers of local optima for various problem instances and neighborhood structures.
-
-@highlight We model fitness landscape of combinatorial optimization problem as a digraph.
-@highlight We study in forests and out forests of the combinatorial landscape’s digraph.
-@highlight We extend earlier digraph result to include out forests and column Laplacians.
-@highlight We establish the relation of local optima and the weak components of forests.
-@highlight We prove local optima numbers equal eigenvalue multiplicities of forest Laplacians.

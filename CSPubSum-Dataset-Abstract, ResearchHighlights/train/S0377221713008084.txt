@@ -1,7 +1,0 @@
- This paper examines a resource constrained production planning and scheduling problem motivated by the coal supply chain. In this problem, multiple independent producers are connected with a resource availability (or, linking) constraint. A general description of such problems is provided, before decomposing the problem into two levels. In the first level, we deal with production planning and in the second level, we deal with tactical resource scheduling. A real-world coal supply chain example is presented to anchor the approach. The overall problem can be formulated as an integrated mixed integer programming model which, in several cases, struggles to find even a feasible solution in reasonable amount of time. This paper discusses a distributed decision making approach based on column generation (CG). Computational experiments show that, the CG scheme has significant advantages over the integrated model and a Lagrangian relaxation scheme proposed by Thomas et al. . This paper concludes with detailed discussions on the results and future research directions.
-
-@highlight We model a RCSP with multiple producers and a single linking constraint.
-@highlight The problem is decomposed and solved with column generation techniques.
-@highlight Additional stabilisation techniques and improvements are explored.
-@highlight The CG algorithm is compared with a Lagrangian relaxation algorithm.
-@highlight Detailed computational experiments and results are also presented.

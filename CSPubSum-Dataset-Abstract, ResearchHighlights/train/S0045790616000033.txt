@@ -1,7 +1,0 @@
- Recognition of age-separated face images is a challenging and open research problem. In this paper we propose a facial asymmetry based matching-score space (MSS) approach for recognition of age-separated face images. Motivated by its discriminatory information, we evaluate facial asymmetry across small and large temporal variations and use asymmetric facial features to recognize age-separated face images. We extract three different facial features including holistic feature descriptors using Principal Component Analysis (PCA), local feature descriptors using Local Binary Patterns (LBP), and Densely Sampled Asymmetric Features (DSAF) to represent face images. Then we develop MSS to discriminate genuine and imposter classes using support vector machine (SVM) as a classifier. Experimental results on three widely used face aging databases, the FERET, MORPH and FG-NET, show that proposed approach has superior performance compared to some existing state-of-the-art approaches.
-
-@highlight Facial asymmetry based approach is proposed to classify age-separated face images.
-@highlight Facial asymmetry is measured and evaluated across temporal variations.
-@highlight A 3 D matching-scores space is built using holistic, local and asymmetric features.
-@highlight SVM is used as classifier to separate genuine and imposter classes in score space.
-@highlight Results show better performance of proposed approach compared to existing methods.

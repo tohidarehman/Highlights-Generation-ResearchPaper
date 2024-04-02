@@ -1,5 +1,0 @@
- We present a novel, deterministic, and efficient method to detect whether a given rational space curve is symmetric. By using well-known differential invariants of space curves, namely the curvature and torsion, the method is significantly faster, simpler, and more general than an earlier method addressing a similar problem . To support this claim, we present an analysis of the arithmetic complexity of the algorithm and timings from an implementation in Sage.
-
-@highlight The paper presents a novel, deterministic, and efficient method to detect whether a given rational space curve is symmetric.
-@highlight The method is significantly faster, simpler, and more general than earlier methods addressing similar problems.
-@highlight An analysis of the arithmetic complexity of the algorithm and timings from an implementation in Sage are included.

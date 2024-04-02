@@ -1,7 +1,0 @@
- Nowadays, using increasingly granular data, from real-time location information and detailed demographics to consumers-generated content on the social networking sites (SNSs), businesses are starting to offer precise location-based product recommendation services through mobile devices. Based on the technology acceptance model (TAM), this paper develops a theoretical model to examine the adoption intention of active SNS users toward location-based recommendation agents (LBRAs). The research model was tested by using the Partial Least Squares (PLS) technique.The results show that perceived usefulness, perceived control, and perceived institutional assurance are important in developing adoption intention. Perceived effort saving, special treatment, and social benefit have influences on the adoption intention through the mediating effect of perceived usefulness. Perceived accuracy has direct influence on adoption intention.
-
-@highlight We develop a model to examine the adoption of location-based recommendation agents.
-@highlight The theoretical model is developed based on the technology acceptance model.
-@highlight Perceived usefulness, control, and institutional assurance are driving factors.
-@highlight Perceived effort, special treatment, social benefit, and accuracy are antecedents.
-@highlight Perceived usefulness is a significant mediator.

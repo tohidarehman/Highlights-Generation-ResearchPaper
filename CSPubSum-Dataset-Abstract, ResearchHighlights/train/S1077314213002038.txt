@@ -1,7 +1,0 @@
- In this paper, we introduce for the first time the notion of directed hypergraphs in image processing and particularly image segmentation. We give a formulation of a random walk in a directed hypergraph that serves as a basis to a semi-supervised image segmentation procedure that is configured as a machine learning problem, where a few sample pixels are used to estimate the labels of the unlabeled ones. A directed hypergraph model is proposed to represent the image content, and the directed random walk formulation allows to compute a transition matrix that can be exploited in a simple iterative semi-supervised segmentation process. Experiments over the Microsoft GrabCut dataset have achieved results that demonstrated the relevance of introducing directionality in hypergraphs for computer vision problems.
-
-@highlight We develop the directed hypergraph theory and introduce it in computer vision.
-@highlight We develop the random walk concept in directed hypergraphs.
-@highlight We propose a directed hypergraph model for image data representation.
-@highlight We use random walks to perform image segmentation with directed hypergraphs.
-@highlight Results show an improvement compared to traditional undirected hypergraphs.

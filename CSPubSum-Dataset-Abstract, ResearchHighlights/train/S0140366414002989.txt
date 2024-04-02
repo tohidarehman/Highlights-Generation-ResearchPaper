@@ -1,5 +1,0 @@
- Smart technologies play a key role in sustainable economic growth. They transform houses, offices, factories, and even cities into autonomic, self-controlled systems acting often without human intervention and thus sparing people routine connected with information collecting and processing. The paper gives an overview of a novel Wi-Fi technology, currently under development, which aims to organize communication between various devices used in such applications as smart grids, smart meters, smart houses, smart healthcare systems, smart industry, etc.
-
-@highlight We study carefully the IEEE 802.11ah draft standard published in July 2014.
-@highlight We overview use cases of .11ah, especially related to smart cities scenarios.
-@highlight We describe in details novel mechanisms and explain why they are needed in .11ah.

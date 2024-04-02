@@ -1,7 +1,0 @@
- In several empirical applications analyzing customer-by-product choice data, it may be relevant to partition individuals having similar purchase behavior in homogeneous segments. Moreover, should individual- and/or product-specific covariates be available, their potential effects on the probability to choose certain products may be also investigated. A model for joint clustering of statistical units (customers) and variables (products) is proposed in a mixture modeling framework, and an appropriate EM-type algorithm for ML parameter estimation is presented. The model can be easily linked with similar proposals appeared in various contexts, such as co-clustering of gene expression data, clustering of words and documents in web-mining data analysis.
-
-@highlight A two-level finite mixture model for clustering customers and products is proposed.
-@highlight Clusters of products nested in segments of customers are determined.
-@highlight Customer/product features influence the allocation to segments/clusters.
-@highlight An appropriate EM algorithm is presented for the special case of purchase counts.
-@highlight The application shows high purchase rate segments linked with clusters of products.

@@ -1,7 +1,0 @@
- Random Indexing based extractive text summarization has already been proposed in literature. This paper looks at the above technique in detail, and proposes several improvements. The improvements are both in terms of formation of index (word) vectors of the document, and construction of context vectors by using convolution instead of addition operation on the index vectors. Experiments have been conducted using both angular and linear distances as metrics for proximity. As a consequence, three improved versions of the algorithm, viz. RISUM, RISUM+ and MRISUM were obtained. These algorithms have been applied on DUC 2002 documents, and their comparative performance has been studied. Different ROUGE metrics have been used for performance evaluation. While RISUM and RISUM+ perform almost at par, MRISUM is found to outperform both RISUM and RISUM+ significantly. MRISUM also outperforms LSA+TRM based summarization approach. The study reveals that all the three Random Indexing based techniques proposed in this study produce consistent results when linear distance is used for measuring proximity.
-
-@highlight Three summarization techniques RISUM, RISUM+ and MRISUM are proposed.
-@highlight Cosine dissimilarity and Euclidean distance are used for proximity computation.
-@highlight Cosine dissimilarity unlike cosine similarity makes weighted PageRank to converge.
-@highlight MRISUM uses a convolution based scheme for context vector construction.
-@highlight MRISUM outperforms RISUM, RISUM+ and LSA+TRM.

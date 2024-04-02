@@ -1,7 +1,0 @@
- The Maximum Balanced Subgraph Problem (MBSP) is the problem of finding a subgraph of a signed graph that is balanced and maximizes the cardinality of its vertex set. This paper is the first one to discuss applications of the MBSP arising in three different research areas: the detection of embedded structures, portfolio analysis in risk management and community structure. The efficient solution of the MBSP is also in the focus of this paper. We discuss pre-processing routines and heuristic solution approaches to the problem. a GRASP metaheuristic is developed and improved versions of a greedy heuristic are discussed. Extensive computational experiments are carried out on a set of instances from the applications previously mentioned as well as on a set of random instances.
-
-@highlight We discussed three applications that can be solved as instances of the MBSP.
-@highlight We discussed reduction rules to the problem and implemented a pre-processing procedure.
-@highlight We developed an improved version of an existing greedy solution ap-proache.
-@highlight We developed an efficient GRASP procedure.
-@highlight We introduced a set of more difficult instances for one application.

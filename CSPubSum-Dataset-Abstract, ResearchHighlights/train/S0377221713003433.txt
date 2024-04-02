@@ -1,7 +1,0 @@
- In this paper, we study the shortest path tour problem in which a shortest path from a given origin node to a given destination node must be found in a directed graph with non-negative arc lengths. Such path needs to cross a sequence of node subsets that are given in a fixed order. The subsets are disjoint and may be different-sized. A polynomial-time reduction of the problem to a classical shortest path problem over a modified digraph is described and two solution methods based on the above reduction and dynamic programming, respectively, are proposed and compared with the state-of-the-art solving procedure. The proposed methods are tested on existing datasets for this problem and on a large class of new benchmark instances. The computational experience shows that both the proposed methods exhibit a consistent improved performance in terms of computational time with respect to the existing solution method.
-
-@highlight We address the shortest path tour problem (SPTP).
-@highlight Two innovative solution methods for the SPTP are defined and implemented.
-@highlight An extensive computational phase is performed on a large class of instances.
-@highlight A comparison with the state-of-art algorithm to solve the SPTP is also carried out.
-@highlight The proposed approaches outperform remarkably the existing solving method.

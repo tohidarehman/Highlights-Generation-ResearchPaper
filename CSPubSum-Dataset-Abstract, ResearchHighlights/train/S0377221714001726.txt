@@ -1,6 +1,0 @@
- Most previous related studies on warehouse configurations and operations only investigated single-level storage rack systems where the height of storage racks and the vertical movement of the picking operations are both not considered. However, in order to utilize the space efficiently, high-level storage systems are often used in warehouses in practice. This paper presents a travel time estimation model for a high-level picker-to-part system with the considerations of class-based storage policy and various routing policies. The results indicate that the proposed model appears to be sufficiently accurate for practical purposes. Furthermore, the effects of storage and routing policies on the travel time and the optimal warehouse layout are discussed in the paper.
-
-@highlight We present a travel time evaluation model for a high level warehousing system.
-@highlight We consider both the horizontal and vertical travel of picking vehicles.
-@highlight The model evaluates the effects of storage and routing polices on the travel time.
-@highlight The optimal warehouse layout can be determined by the proposed model.

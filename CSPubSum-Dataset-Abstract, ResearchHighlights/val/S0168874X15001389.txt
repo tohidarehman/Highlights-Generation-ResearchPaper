@@ -1,5 +1,0 @@
- The aim of this study is to develop a new numerical cutting model that includes fluid structure interaction and to take into account heat transfer between the water-jet, the workpiece and the chip. This has been achieved using a CEL (Coupled–Eulerian–Lagrangian) technique, an algorithm has been developed to ensure heat exchange between the fluid and the structure. This new model allows decoupling of the mechanical and the thermal effects of the water-jet on chip formation and fragmentation. It has been demonstrated that fragmentation of the chip is ensured by the combination of the thermal and the mechanical effects of the water-jet. Moreover, the tool rake temperature is reduced by more than 400°C, the tool/chip contact length is also decreased by about 30%.
-
-@highlight Development of a new numerical model for the high-pressure water-jet assisted machining.
-@highlight Development of an algorithm to ensure heat exchange between the fluid and the structure.
-@highlight Understanding the physical phenomena of chip formation in the HPWJ assisted machining.

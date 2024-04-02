@@ -1,6 +1,0 @@
- The community structure is one of the most important patterns in network. Since finding the communities in the network can significantly improve our understanding of the complex relations, lots of work has been done in recent years. Yet it still lies vacant on the exact definition and practical algorithms for community detection. This paper proposes a novel definition for community which overcomes the drawbacks of existing methods. With the new definition, efficient community detection algorithms are developed, which take advantage of additive topological and other constrains to discover communities in arbitrary shape based on the feedback. The algorithm has a linear run time with the size of graph. Experimental results demonstrate that the community definition in this paper is effective and the algorithm is scalable for large graphs.
-
-@highlight A novel definition for community suitable for scale-free network and overcoming drawbacks.
-@highlight An efficient community detection algorithm based on a given center set.
-@highlight An efficient community detection algorithm based without center set according to structural properties of the network.
-@highlight Experiments demonstrate that the definition is effective and the algorithms are scalable.

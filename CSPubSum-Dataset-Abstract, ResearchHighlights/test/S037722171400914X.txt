@@ -1,5 +1,0 @@
- We explore the potential benefits of a series of existing and new non-parametric convex and non-convex frontier-based fund rating models to summarize the information contained in the moments of the mutual fund price series. Limiting ourselves to the traditional mean-variance portfolio setting, we test in a simple backtesting setup whether these efficiency measures fare any better than more traditional financial performance measures in selecting promising investment opportunities. The evidence points to a remarkable superior performance of these frontier models compared to most, but not all traditional financial performance measures.
-
-@highlight DEA- and FDH-based and traditional financial mutual fund ratings are compared.
-@highlight First backtesting analysis in mean-variance portfolio model.
-@highlight Results show considerable promise for these new frontier mutual fund ratings.

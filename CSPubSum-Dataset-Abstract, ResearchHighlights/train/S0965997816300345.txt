@@ -1,7 +1,0 @@
- Boundary conditions (BCs)are important parameters of numerical computation for CAE structure analysis. Automatically and correctly reconstructing BCs would evidently improve the design efficiency. In this paper, a novel approach consisting of feature representation of BCs, coding mechanism for BC related topological entity and BC reconstructing mechanism is proposed. BCs treated as features can be adaptive to the changing geometric model in this approach. Coding mechanism guarantees that the specified entities of BCs from the model reconstruction process could be identified. Reconstructing mechanism comprises the maintenance of BC-geometry feature dependency, data consistency and coding transmission, which ensures all the BCs can be automatically updated in terms of the changing geometry. This approach can avoid repeatedly applying BCs to the whole or portion of topological entities. Finally, some representative cases demonstrate that the proposed approach is able to significantly improve the design efficiency.
-
-@highlight Boundary conditions treated as features are represented.
-@highlight Boundary conditions can be applied to the whole or portion of topological entities.
-@highlight A coding mechanism for topological entities of boundary condition feature is proposed.
-@highlight Boundary conditions can be automatically reconstructed in terms of the changing model.
-@highlight Design and analysis processes can be iterated in the same feature historical chain.

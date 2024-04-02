@@ -1,6 +1,0 @@
- We introduce in this paper a new definition for the overall system efficiency in network DEA, which is inspired by the “weak link” notion in supply chains and the maximum-flow/minimum- cut problem in networks. We use a two-phase max-min optimization technique in a multi-objective programming framework to estimate the individual stage efficiencies and the overall system efficiency in two-stage processes of varying complexity. This enables us to estimate unique and unbiased efficiency scores and, if required, to drive the efficiency assessments effectively in line with specific priorities given to the stages. A comparison with the multiplicative decomposition approach on data drawn from the literature brings into light the advantages of our method.
-
-@highlight We deal with two stage series processes of varying complexity.
-@highlight We give a new definition of the system efficiency inspired by the weak link in supply chains.
-@highlight The modeling framework is multi-objective and max-min programming.
-@highlight Our approach secures the uniqueness of the efficiency scores.

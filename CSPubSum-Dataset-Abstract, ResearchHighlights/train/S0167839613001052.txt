@@ -1,6 +1,0 @@
- We develop a method for computing all the generalized asymptotes of a real plane algebraic curve implicitly defined by an irreducible polynomial . The approach is based on the notion of perfect curve introduced from the concepts and results presented in Blasco and Pérez-Dí. In addition, we study some properties concerning perfect curves and in particular, we provide a necessary and sufficient condition for a plane curve to be perfect. Finally, we show that the equivalent class of generalized asymptotes for a branch of a plane curve can be described as an affine space for a certain m.
-
-@highlight We introduce the notions of perfect curve and generalized asymptote (g-asymptote).
-@highlight We provide an algorithm that computes a g-asymptote for each infinity branch of an algebraic plane curve.
-@highlight We state necessary and sufficient conditions for a curve to be perfect.
-@highlight We propose a method to obtain, under general conditions, all the g-asymptotes approaching a given infinity branch.

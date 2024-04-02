@@ -1,7 +1,0 @@
- Artificial bee colony (ABC) algorithm inspired by the foraging behaviour of the honey bees is one of the most popular swarm intelligence based optimization techniques. Quick artificial bee colony (qABC) is a new version of ABC algorithm which models the behaviour of onlooker bees more accurately and improves the performance of standard ABC in terms of local search ability. In this study, the qABC method is described and its performance is analysed depending on the neighbourhood radius, on a set of benchmark problems. And also some analyses about the effect of the parameter limit and colony size on qABC optimization are carried out. Moreover, the performance of qABC is compared with the state of art algorithms’ performances.
-
-@highlight We describe a novel algorithm called quick ABC (qABC).
-@highlight This algorithm presents a new definition for the behaviour of onlooker bees of ABC algorithm.
-@highlight Some analyses about the effect of some control parameters on qABC optimization are carried out.
-@highlight The performance of qABC is compared with the state of art algorithms’ performances.
-@highlight New definition significantly improves the convergence performance of standard ABC.

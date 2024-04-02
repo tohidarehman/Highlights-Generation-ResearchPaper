@@ -1,7 +1,0 @@
- We introduce a new framework for detecting mental workload changes using video frames obtained from a low-cost webcam. Image processing in addition to a continuous wavelet transform filtering method were developed and applied to remove major artifacts and trends on raw webcam photoplethysmographic signals. The measurements are performed on human faces. To induce stress, we have employed a computerized and interactive Stroop color word test on a set composed by twelve participants. The electrodermal activity of the participants was recorded and compared to the mental workload curve assessed by merging two parameters derived from the pulse rate variability and photoplethysmographic amplitude fluctuations, which reflect peripheral vasoconstriction changes. The results exhibit strong correlation between the two measurement techniques. This study offers further support for the applicability of mental workload detection by remote and low-cost means, providing an alternative to conventional contact techniques.
-
-@highlight A mental workload quantification using a low-cost webcam is proposed.
-@highlight An adaptive filtering was developed to track pulse frequency evolutions in time.
-@highlight Two parameters are combined from the PPG signal to form a stress curve.
-@highlight The stress inductor is based on a computerized version of the Stroop test.
-@highlight Our results showed high agreement with a reference skin conductance sensor.

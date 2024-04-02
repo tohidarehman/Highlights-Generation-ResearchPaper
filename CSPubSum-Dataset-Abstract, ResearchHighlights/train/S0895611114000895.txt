@@ -1,6 +1,0 @@
- Latent Semantic Analysis (LSA) although has been used successfully in text retrieval when applied to CBIR induces scalability issues with large image collections. The method so far has been used with small collections due to the high cost of storage and computational time for solving the SVD problem for a large and dense feature matrix. Here we present an effective and efficient approach of applying LSA skipping the SVD solution of the feature matrix and overcoming in this way the deficiencies of the method with large scale datasets. Early and late fusion techniques are tested and their performance is calculated. The study demonstrates that early fusion of several composite descriptors with visual words increase retrieval effectiveness. It also combines well in a late fusion for mixed (textual and visual) ad hoc and modality classification. The results reported are comparable to state of the art algorithms without including additional knowledge from the medical domain.
-
-@highlight The proposed LSA approach overcomes the complexity barriers of SVD.
-@highlight Early data fusion with LSA outperforms late fusion methods.
-@highlight LSA combines effectively visual and textual information with an integrated approach.
-@highlight The proposed “bypass” solution to SVD makes it attractive for large scale medical image databases.

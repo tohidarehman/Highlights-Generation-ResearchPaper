@@ -1,7 +1,0 @@
- We provide an approach to optimize a block surgical schedule (BSS) that adheres to the block scheduling policy, using a new type of newsvendor-based model. We assume that strategic decisions assign a specialty to each Operating Room (OR) day and deal with BSS decisions that assign sub-specialties to time blocks, determining block duration as well as sequence in each OR each day with the objective of minimizing the sum of expected lateness and earliness costs. Our newsvendor approach prescribes the optimal duration of each block and the best permutation, obtained by solving the sequential newsvendor problem, determines the optimal block sequence. We obtain closed-form solutions for the case in which surgery durations follow the normal distribution. Furthermore, we give a closed-form solution for optimal block duration with no-shows.
-
-@highlight We propose a new approach to optimize a master surgical schedule (MSS).
-@highlight We employ newsvendor models to prescribe optimal block duration and block sequence.
-@highlight We deal with uncertainty, minimizing expected earliness and tardiness costs.
-@highlight We give a closed-form solution for the case with normally distributed surgery times.
-@highlight We give a closed-form solution for optimal block durations when no shows can occur.

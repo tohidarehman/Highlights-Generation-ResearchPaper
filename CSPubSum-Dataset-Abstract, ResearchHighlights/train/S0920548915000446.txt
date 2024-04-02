@@ -1,6 +1,0 @@
- The increasing availability of distributed renewable energy sources such as photo-voltaic (PV) panels has introduced new requirements for innovative power grid infrastructures. Information technologies provide new opportunities for developing techniques to optimize the energy usage by a new generation of smart-grids. Here we investigate an original solution that aims at maximizing the self-consumption within a neighborhood based on a collaborative approach. Distributed software agents plan and enforce the optimal schedule of consuming appliances according to the prediction of energy production by PV panels, the estimated energy profile of consuming devices and the user's preferences and constraints. Finally we focus on the performance evaluation of a negotiation protocol that allows agents to find a sub-optimal solution for the global schedule, comparing results obtained by a prototype implementation and experimenting different technologies.
-
-@highlight Collaborative approach for energy schedule in smart micro-grid
-@highlight Optimization model for short term maximization of self-consumption
-@highlight Global schedule computed by a P2P negotiation between consumer and producer agents
-@highlight Performance analysis of resolution using a prototype

@@ -1,7 +1,0 @@
- A judgment post-stratified (JPS) sample is used in order to develop statistical inference for population quantiles and variance. For the th order of the population quantile, a test is constructed, an estimator is developed, and a distribution-free confidence interval is provided. An unbiased estimator for the population variance is also derived. For finite sample sizes, it is shown that the proposed inferential procedures for quantiles are more efficient than corresponding simple random sampling (SRS) procedures, but less efficient than corresponding ranked set sampling (RSS) procedures. The variance estimator is less efficient, as efficient as, or more efficient than a simple random sample variance estimator for small, moderately small, and large sample sizes, respectively. Furthermore, it is shown that JPS sample quantile estimators and tests are asymptotically equivalent to RSS estimators and tests in their efficiency comparison.
-
-@highlight A quantile inference is developed based on a judgment post-stratified (JPS) sample.
-@highlight A variance estimator is constructed for population variance based on a JPS sample.
-@highlight The procedures have higher efficiencies than the ones in a simple random sample.
-@highlight The procedures have slightly lower efficiencies than the ones in a ranked-set sample.
-@highlight Inference in a JPS sample is asymptotically equal to the one in a ranked-set sample.

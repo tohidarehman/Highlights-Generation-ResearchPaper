@@ -1,7 +1,0 @@
- The planar maximal covering location problem (PMCLP) concerns the placement of a given number of facilities anywhere on a plane to maximize coverage. Solving PMCLP requires identifying a candidate locations set (CLS) on the plane before reducing it to the relatively simple maximal covering location problem (MCLP). The techniques for identifying the CLS have been mostly dominated by the well-known circle intersect points set (CIPS) method. In this paper we first review PMCLP, and then discuss the advantages and weaknesses of the CIPS approach. We then present a mean-shift based algorithm for treating large-scale PMCLPs, i.e., MSMC. We test the performance of MSMC against the CIPS approach on randomly generated data sets that vary in size and distribution pattern. The experimental results illustrate MSMC’s outstanding performance in tackling large-scale PMCLPs.
-
-@highlight The CIPS method is computational expensive in removing potential locations.
-@highlight The mean-shift (MS) algorithm is introduced to optimize coverage maximization.
-@highlight The MS has been revised for large-scale PMCLP with point-based demand.
-@highlight We test the performance of MSMC against the CIPS approach on many data sets.
-@highlight Results illustrate MSMC’s outstanding performance in tackling large-scale PMCLPs.

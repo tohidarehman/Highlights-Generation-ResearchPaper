@@ -1,6 +1,0 @@
- We observe that the laborious collection of location fingerprints, that could also potentially change with time and space, remains a hurdle towards the widespread deployment of indoor and outdoor positioning systems using the Wi-Fi. Motivated by this, we focus on the error bound analysis of indoor Wi-Fi fingerprint based positioning for intelligent Access Point (AP) placement optimization by using the Fisher Information Matrix (FIM) to characterize the relationship between the positioning errors and signal distributions. We first derive the closed-form error bounds with respect to different system parameters. Second, we use the Simulated Annealing (SA) algorithm to conduct the Wi-Fi AP placement optimization towards the lowest error bounds. Finally, we present the detailed discussion, extensive simulation, and experiment results.
-
-@highlight The system relies on the fisher information matrix to derive the error bounds of Wi-Fi fingerprint based positioning.
-@highlight The theoretical relationship between the positioning errors and signal distributions is presented.
-@highlight The error bound of Wi-Fi fingerprint based positioning is an effective criterion for Wi-Fi access point deployment.
-@highlight The intelligent access point optimization approach performs well in time consumption.

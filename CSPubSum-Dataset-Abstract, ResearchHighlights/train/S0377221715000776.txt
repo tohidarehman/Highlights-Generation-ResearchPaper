@@ -1,7 +1,0 @@
- This paper proposes and compares different techniques for maintenance optimization based on Genetic Algorithms (GAs), when the parameters of the maintenance model are affected by uncertainty and the fitness values are represented by Cumulative Distribution Functions (CDFs). The main issues addressed to tackle this problem are the development of a method to rank the uncertain fitness values, and the definition of a novel Pareto dominance concept. The GA-based methods are applied to a practical case study concerning the setting of a condition-based maintenance policy on the degrading nozzles of a gas turbine operated in an energy production plant.
-
-@highlight We want to optimize a CBM policy when the maintenance model parameters are uncertain.
-@highlight The uncertainty is Monte-Carlo propagated onto the performance indicators (unavailability and cost).
-@highlight The objective functions are Cumulative Distribution Functions.
-@highlight An extension of Multi-Objective Genetic Algorithms is proposed to optimize maintenance.
-@highlight The technique is compared to a CVar based MOGA approach.

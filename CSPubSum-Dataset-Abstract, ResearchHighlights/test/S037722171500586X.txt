@@ -1,7 +1,0 @@
- To date, comparative statics effects analyzed in the context of expected utility depend on the decision-maker’s utility function. This paper presents a methodology that allows comparative statics effects to be obtained independent of the utility function for a general family of problems. In other words, we provide a set of conditions under which all decision-makers act the same way. Such a methodology can be applied to relevant problems in the related literature, such as the portfolio choice and the competitive firm under price uncertainty (with or without the existence of a forward/futures market). With regards to such specific cases, we show and analyze the most relevant effects produced by the variation of two or more parameters, regardless of the decision-maker’s preferences and attitude towards risk. Some of these effects are illustrated numerically.
-
-@highlight We prove that, under certain conditions, people act the same way under risk.
-@highlight We apply our finding to the portfolio choice and the firm under uncertainty.
-@highlight For these specific models, we obtain different results.
-@highlight Our results can be applied without the knowledge of the utility function.
-@highlight Some of these results are illustrated numerically.

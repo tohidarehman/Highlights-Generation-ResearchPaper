@@ -1,6 +1,0 @@
- Wireless sensor networks (WSNs) have a wide range of applications in our lifetime. Indeed, WSNs perform a various missions and tasks in odor localization, firefighting, medical service, surveillance and security. In order to accomplish these tasks, the sensors have to perform partitioning protocols to form an organization into clusters and cliques. The hierarchical clustering is the key solution for WSNs to deal with the scalability problems in a network composed of millions of nodes. In this paper, a new hierarchical partitioning scheme is presented, named MCCC. It is cliques and clusters based hierarchical scheme that takes into account the size of cliques and clusters, it also minimizes the number of hops between the cluster head and its nodes. The proposed scheme is motivated by the need to have minimum and maximum size for cliques and clusters. This hierarchical scheme is proposed to respond to the energy and memory constraints for WSNs.
-
-@highlight This paper presents a hierarchical scheme for sensor networks clustering.
-@highlight The solution proposed combines clustering into cliques and clusters.
-@highlight It takes into account the sizes of cliques and clusters for scalability and energy saving purposes.
-@highlight It improves the end-to-end delay compared to existing works.

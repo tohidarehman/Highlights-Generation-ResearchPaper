@@ -1,7 +1,0 @@
- This paper proposes adaptive schemes to cope with time-related changes in muscle activities during playing video game. A myoelectric control with the core of support vector machine is applied to manipulate a car in a computer-based video game. The proposed adaptive schemes model fatigue-based changes in myoelectric signals and modify the classification criteria to keep stable performance in long-term operations. Both unsupervised and supervised methods were applied to detect time-related steady state deviations in myoelectric signal patterns. Both methods improve the performance of myoelectric control and keep it stable in long-term applications.
-
-@highlight We proposed adaptive schemes for myoelectric control applied to a video game.
-@highlight Both unsupervised and supervised adaptive schemes improve the performance.
-@highlight Both cope with time-related steady state deviations in myoelectric signal patterns.
-@highlight They keep the performance stable in long-term applications.
-@highlight Adaptive schemes improve game scores by 10% and reduce the high-risk errors by 40%.

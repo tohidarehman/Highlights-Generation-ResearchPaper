@@ -1,7 +1,0 @@
- Based on the couple stress theory and the hybrid stress element method proposed by Pian, a refined 18-DOF triangular hybrid stress element is established. The 15 Airy stress functions which satisfy the equilibrium equation in the domain of the element are chosen as the assumed stress interpolation functions, and boundary displacement interpolation functions are chosen as beam function. The characteristics of this element are possessing second-order accuracy and C0 and C1 continuity in the weak form, satisfying convergence condition for the enhanced patch test and does not exhibits extra zero energy modes. Moreover, a refined assumed stress element method is developed to improve the element accuracy. Numerical examples presented show that the proposed model indeed possesses higher accuracy and can pass the enhanced patch test, and can capture the scale effects of microstructure.
-
-@highlight We propose a hybrid stress element method, which is fit for establishing couple stress element.
-@highlight A refined 18-DOF triangular hybrid stress element is given out, and the element captures the scale effect and has high accuracy.
-@highlight The element can pass the C0–1 patch test.
-@highlight Refined method can improve the accuracy of the triangular element by changing one parameter.
-@highlight Stresses smooth technique can improve the accuracy of stress accuracy.

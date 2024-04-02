@@ -1,6 +1,0 @@
- Multi-response surface (MRS) optimization in quality design often involves some problems such as correlation among multiple responses, robustness measurement of multivariate process, confliction among multiple goals, prediction performance of the process model and the reliability assessment for optimization results. In this paper, a new Bayesian approach is proposed to address the aforementioned multi-response optimization problems. The proposed approach not only measures the reliability of an acceptable optimization result, but also incorporates expected loss (i.e., bias and robustness) into a uniform framework of Bayesian modeling and optimization. The advantages of this approach are illustrated by one example. The results show that the proposed approach can give more reasonable solutions than the existing approaches when both quality loss and the reliability of optimization results are important issues.
-
-@highlight Integrating loss function with posterior probability in a single framework.
-@highlight Quality loss and reliability are considered in multi-response optimization.
-@highlight An improved quality loss function is proposed via Bayesian modeling.
-@highlight Using optimized Monte Carlo simulation and hybrid genetic algorithm.

@@ -1,6 +1,0 @@
- The purpose of this paper is to present algorithms for computing all the differential geometry properties of non-transversal intersection curves of three parametric hypersurfaces in Euclidean 4-space. For transversal intersections, the tangential direction at an intersection point can be computed by the extension of the vector product of the normal vectors of three hypersurfaces. However, when the three normal vectors are not linearly independent, the tangent direction cannot be determined by this method. If normal vectors of hypersurfaces are parallel ( ) we have tangential intersection, and if normal vectors of hypersurfaces are not parallel but are linearly dependent we have “almost tangential” intersection. In each case, we obtain unit tangent vector (t), principal normal vector (n), binormal vectors ( ) and curvatures ( ) of the intersection curve.
-
-@highlight We study the non-transversal intersection of parametric hypersurfaces in 4-space.
-@highlight We classify the non-transversal intersection in two different cases called “almost tangential intersection” and “tangential intersection”.
-@highlight We obtain all the Frenet apparatus for the almost tangential intersection.
-@highlight We obtain all the Frenet apparatus for the tangential intersection.

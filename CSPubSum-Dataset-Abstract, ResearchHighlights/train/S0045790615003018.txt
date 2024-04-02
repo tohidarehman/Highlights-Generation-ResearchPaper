@@ -1,6 +1,0 @@
- A honeypot system can be deployed to decoy and record malicious intrusions over the Internet. However, events logged by a honeypot can rapidly accumulate an enormous amount of data, which an administrator will be unable to handle. The proposed system combines episode mining and pruning, and allows an administrator to identify suspected intrusions, and thus focus his energy on addressing them, instead of reading enormous amounts of raw data. An attack episode is composed of a series of events, and represents an Internet intrusion as a series of relevant events occurring to a victim host in a specific sequence. Due to the variety of internet attacks, this paper focuses on discovering attack episodes for the Server Message Block (SMB) protocol, which provides Microsoft Windows Network services. Experiments show that the proposed approach can locate suspicious episodes that are very likely novel attacks, from an immense amount of logged data.
-
-@highlight All on-line attempts to access a honeypot can be regarded as attacks.
-@highlight A honeypot’s logs can be very large, which an administrator will be unable to handle.
-@highlight We apply serial episode mining and two-round pruning to identify suspected attack.
-@highlight The experiments conducted in this paper focus on port 445 for the SMB protocol.

@@ -1,7 +1,0 @@
- We present a method for approximating a point sequence of input points by a -continuous (smooth) arc spline with the minimum number of segments while not exceeding a user-specified tolerance. Arc splines are curves composed of circular arcs and line segments (shortly: segments). For controlling the tolerance we follow a geometric approach: We consider a simple closed polygon P and two disjoint edges designated as the start s and the destination d. Then we compute a SMAP (smooth minimum arc path), i.e. a smooth arc spline running from s to d in P with the minimally possible number of segments. In this paper we focus on the mathematical characterization of possible solutions that enables a constructive approach leading to an efficient algorithm. In contrast to the existing approaches, we do not restrict the breakpoints of the arc spline to a predefined set of points but choose them automatically. This has a considerably positive effect on the resulting number of segments.
-
-@highlight A method for approximating point sequences by arc splines is presented.
-@highlight The breakpoints of the arc spline are not restricted to any pre-defined set of points.
-@highlight For any user-defined accuracy, the minimal number of segments is guaranteed.
-@highlight The resulting compact curve representation enables an efficient further processing.
-@highlight Among others, it is hence suited for the generation of highly accurate digital maps.

@@ -1,7 +1,0 @@
- Ubiquitous environments are often considered as highly dynamic environments and contextual information can change at runtime. The user interface should provide the right information for a given user considering runtime context. Such an objective can be achieved only when we deduce the user’s requirements in terms of information and present it to the user according to his current context of use. The overall objective of our research is to generate a user interface adapted to the current context of use for critical fields. This paper explores some key issues related to the architecture of context-aware applications. A formal approach for the analysis of pervasive Human–Computer System (HCS) is presented. XML Petri nets are used to model the pervasive HCS. The proposed approach is illustrated with a case study which presents a hypoglycemic diabetic patient in a “smart hospital”.
-
-@highlight We propose a formal approach for specification of pervasive user interface.
-@highlight We define a Petri nets modeling language for pervasive Human–Computer System.
-@highlight We demonstrate that the accuracy of the generated interface depends on the context and task’s validity.
-@highlight We demonstrate the validity of our approach by a case study in a medical domain.
-@highlight We propose a system for monitoring diabetic patient in smart hospital.

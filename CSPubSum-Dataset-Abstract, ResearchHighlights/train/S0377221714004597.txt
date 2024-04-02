@@ -1,6 +1,0 @@
- This paper addresses the resource-constrained project scheduling problem with flexible resource profiles (FRCPSP). Such a problem often arises in many real-world applications, in which the resource usage of an activity is not merely constant, but can be adjusted from period to period. The FRCPSP is, therefore, to simultaneously determine the start time, the resource profile, and the duration of each activity in order to minimize the makespan, subject to precedence relationships, limited availability of multiple resources, and restrictions on resource profiles. We propose four discrete-time model formulations and compare their model efficiency in terms of solution quality and computational times. Both preprocessing and priority-based heuristic methods are also applied to compute both upper and lower bounds of the makespan. Our comparative results show significant dominance of one of the models, the so-called “variable-intensity-based” model, in both solution quality and runtimes.
-
-@highlight We address the RCPSP with flexible resource profiles.
-@highlight Multiple resources include principal, dependent, and independent resources.
-@highlight We propose four discrete-time MILP model formulations.
-@highlight The “variable-intensity-based” model significantly dominates the other models.

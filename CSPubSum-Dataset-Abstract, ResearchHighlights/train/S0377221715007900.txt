@@ -1,6 +1,0 @@
- We consider an approach for scheduling the multi-period collection of recyclable materials. Citizens can deposit glass and paper for recycling in small cubes located at several collection points. The cubes are emptied by a vehicle that carries two containers and the material is transported to two treatment facilities. We investigate how the scheduling of emptying and transportation should be done in order to minimize the operation cost, while providing a high service level and ensuring that capacity constraints are not violated. We develop a heuristic solution method for solving the daily planning problem with uncertain accretion rate for materials by considering a rolling time horizon of a few days. We apply a construction heuristic in the first period and re-optimize the solution every subsequent period with a variable neighborhood search. Computational experiments are conducted on real life data.
-
-@highlight Multi-period collection of recyclable materials is studied.
-@highlight A rolling horizon framework for planning the transportation is proposed.
-@highlight Short term plans are created using variable neighborhood search.
-@highlight Computational experiments are conducted on real life data including uncertainty.

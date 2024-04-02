@@ -1,6 +1,0 @@
- By providing a free experience service, a service firm can attract more uninformed customers. However, it could reversely effect the delay-sensitive, informed customers’ decision. In this paper, we study a priority queueing system with free experience services. We study the customer behavior in equilibrium after we derive the expected customer waiting time. We then construct the service firm’s revenue function and obtain an optimal strategy for the service firm. Our results suggest that when the market size of informed customers is relatively small, the firm should consider providing free experience services for uninformed customers. Conversely, if the demand rate of potential informed customers is quite high, the firm should ignore uninformed customers.
-
-@highlight We study a priority queueing system with free experience service.
-@highlight We derive the expected waiting time of the informed customers.
-@highlight We obtain an optimal strategy for the service firm.
-@highlight We found some managerial insights for the service firm.

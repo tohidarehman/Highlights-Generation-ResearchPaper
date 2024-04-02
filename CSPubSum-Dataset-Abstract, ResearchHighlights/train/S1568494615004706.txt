@@ -1,7 +1,0 @@
- The stock selection problem is one of the major issues in the investment industry, which is mainly solved by analyzing financial ratios. However, considering the complexity and imprecise patterns of the stock market, obvious and easy-to-understand investment rules, based on fundamental analysis, are difficult to obtain. Therefore, in this paper, we propose a combined soft computing model for tackling the value stock selection problem, which includes dominance-based rough set approach, formal concept analysis, and decision-making trial and evaluation laboratory technique. The objectives of the proposed approach are to  obtain easy-to-understand decision rules,  identify the core attributes that may distinguish value stocks,  explore the cause–effect relationships among the attributes or criteria in the strong decision rules to gain more insights. To examine and illustrate the proposed model, this study used a group of IT stocks in Taiwan as an empirical case. The findings contribute to the in-depth understanding of the value stock selection problem in practice.
-
-@highlight A combined soft computing model for value investing is proposed.
-@highlight The DRSA model generated 20 rules to classify value stocks.
-@highlight Two strong decision rules were obtained for conducting FCA analysis.
-@highlight The selected “Good” value stock portfolio outperformed the market index.
-@highlight Implications for value stock selection are obtained by DRSA and FCA.

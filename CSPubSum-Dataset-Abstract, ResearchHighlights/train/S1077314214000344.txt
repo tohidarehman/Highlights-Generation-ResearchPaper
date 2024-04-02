@@ -1,7 +1,0 @@
- In this paper we present a new approach to semantically segment a scene based on video activity and to transfer the semantic categories to other, different scenarios. In the proposed approach, a user annotates a few scenes by labeling each area with a functional category such as background, entry/exit, walking path, interest point. For each area, we calculate features derived from object tracks computed in real-time on hours of video. The characteristics of each functional area learned in the labeled training sequences are then used to classify regions in different scenarios. We demonstrate the proposed approach on several hours of three different indoor scenes, where we achieve state-of-the-art classification results.
-
-@highlight New semi-supervised method to semantically segment a scene based on video activity.
-@highlight Learned functional categories are used to segment different scenes (scene transfer).
-@highlight We introduce new trajectory features useful for semantic segmentation.
-@highlight Only a small subset of relevant features leads to high classification accuracy.
-@highlight Proposed method achieves state-of-the-art scene classification and transfer results.

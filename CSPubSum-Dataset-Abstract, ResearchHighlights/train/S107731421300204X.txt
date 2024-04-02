@@ -1,7 +1,0 @@
- We present TouchCut; a robust and efficient algorithm for segmenting image and video sequences with minimal user interaction. Our algorithm requires only a single finger touch to identify the object of interest in the image or first frame of video. Our approach is based on a level set framework, with an appearance model fusing edge, region texture and geometric information sampled local to the touched point. We first present our image segmentation solution, then extend this framework to progressive (per-frame) video segmentation, encouraging temporal coherence by incorporating motion estimation and a shape prior learned from previous frames. This new approach to visual object cut-out provides a practical solution for image and video segmentation on compact touch screen devices, facilitating spatially localized media manipulation. We describe such a case study, enabling users to selectively stylize video objects to create a hand-painted effect. We demonstrate the advantages of TouchCut by quantitatively comparing against the state of the art both in terms of accuracy, and run-time performance.
-
-@highlight TouchCut requires only a single touch to bootstrap the object segmentation.
-@highlight It incorporates a new model that fuses edge, region, geometric and shape cues.
-@highlight A new fast dominant color extraction scheme to generate edge probability.
-@highlight Temporally propagated shape prior enables extension to video segmentation.
-@highlight Comprehensive qualitative and quantitative evaluations on images and videos.

@@ -1,7 +1,0 @@
- This papers studies the synthesis of speech over a wide vocal effort continuum and its perception in the presence of noise. Three types of speech are recorded and studied along the continuum: breathy, normal, and Lombard speech. Corresponding synthetic voices are created by training and adapting the statistical parametric speech synthesis system GlottHMM. Natural and synthetic speech along the continuum is assessed in listening tests that evaluate the intelligibility, quality, and suitability of speech in three different realistic multichannel noise conditions: silence, moderate street noise, and extreme street noise. The evaluation results show that the synthesized voices with varying vocal effort are rated similarly to their natural counterparts both in terms of intelligibility and suitability.
-
-@highlight Synthesis of speech on a wide vocal effort continuum and its perception is studied.
-@highlight Breathy, normal, and Lombard speech are recorded, analyzed, and synthesized.
-@highlight Speech is evaluated in silence, and in moderate and extreme street noise.
-@highlight Intelligibility, quality, and suitability of speech was evaluated.
-@highlight Results show that intelligibility and suitability are comparable to natural speech.

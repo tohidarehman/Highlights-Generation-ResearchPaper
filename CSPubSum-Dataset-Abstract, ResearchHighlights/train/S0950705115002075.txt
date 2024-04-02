@@ -1,7 +1,0 @@
- Neighborhood System-based (NS-based) rough set theory is an extension of classical rough set theory. This paper aims to investigate the uncertainty measures of rough sets in a Neighborhood System-space (NS-space). We firstly develop a rough membership function and a rough intuitionistic membership function based on binary relationships. Then we propose a fuzzy entropy and an intuitionistic fuzzy entropy of rough sets, and further explore their corresponding properties. Examples show that the methods not only accord with people’s recognition rules of rough sets, but also can be used to depict the case that the NS-based rough sets degenerate into the crisp sets.
-
-@highlight We first study the uncertainty of rough sets in binary GrC Model (Third GrC Model).
-@highlight We first propose the rough memberships to depict rough sets.
-@highlight Construct fuzzy entropy based on rough memberships and prove its rationality.
-@highlight We first propose the rough intuitionistic memberships to depict rough sets.
-@highlight Construct intuitionistic fuzzy entropy to measure uncertainty of rough sets.

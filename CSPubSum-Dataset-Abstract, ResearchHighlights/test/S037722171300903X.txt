@@ -1,6 +1,0 @@
- In a recent paper, consider quality investment and inspection strategies of one supplier and one manufacturer. They propose solutions of four non-cooperative game models with different degrees of information available about the playersÃ¢ÂÂ inspection sampling rates and quality investments. For the two most comprehensive scenarios, we show that these (interior) solutions do not always represent the optimal solutions, as the boundary solutions lead to considerably higher profits. Furthermore, we propose modified algorithms providing the optimal solutions by including the boundary solutions into the consideration.
-
-@highlight We consider quality investment and inspection in a supplier-manufacturer supply chain.
-@highlight We show that the solutions derived by Hsieh and Liu (2010) are not always optimal.
-@highlight Optimality conditions are established for both players.
-@highlight We propose two solution procedures which determine the playersÃ¢ÂÂ optimal strategies.

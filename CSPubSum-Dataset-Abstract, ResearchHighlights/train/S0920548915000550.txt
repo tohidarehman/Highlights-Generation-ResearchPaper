@@ -1,7 +1,0 @@
- Trustworthiness and technological security solutions are closely related to online collaborative learning and they can be combined with the aim of reaching information security requirements for e-Learning participants and designers. Moreover, mobile collaborative learning is an emerging educational model devoted to providing the learner with the ability to assimilate learning any time and anywhere. In this paper, we justify the need of trustworthiness models as a functional requirement devoted to improving information security. To this end, we propose a methodological approach to modelling trustworthiness in online collaborative learning. Our proposal sets out to build a theoretical approach with the aim to provide e-Learning designers and managers with guidelines for incorporating security into mobile online collaborative activities through trustworthiness assessment and prediction.
-
-@highlight Methodology to modelling trustworthiness in mobile online collaborative learning
-@highlight Guidelines for incorporating security into mobile online collaborative activities
-@highlight Provide trustworthiness assessment methods
-@highlight Trustworthiness prediction based on a neuronal network approach
-@highlight Evaluation of trustworthiness prediction and methodology on real online courses

@@ -1,6 +1,0 @@
- Structuring or removal of the epoxy based, photo sensitive polymer SU-8 by inductively coupled plasma reactive ion etching (ICP-RIE) was investigated as a function of plasma chemistry, bias power, temperature, and pressure. In a pure oxygen plasma, surface accumulation of antimony from the photo-initiator introduced severe roughness and reduced etch rate significantly. Addition of SF6 to the plasma chemistry reduced the antimony surface concentration with lower roughness and higher etch rate as an outcome. Furthermore the etch anisotropy could be tuned by controlling the bias power. Etch rates up to 800nmmin−1 could be achieved with low roughness and high anisotropy.
-
-@highlight SU-8 is etched using inductively coupled plasma (ICP) RIE in O2 with SF6 added.
-@highlight Anisotropic etching at etch rates around 750nmmin−1 is achieved.
-@highlight Etched SU-8 surface roughness is caused by surface antimony acting as a local mask.
-@highlight Sb surface concentration and roughness are reduced significantly by adding SF6.

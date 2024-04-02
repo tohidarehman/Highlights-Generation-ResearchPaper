@@ -1,6 +1,0 @@
- This study analyzes the vibration signals of fault induction motors for establishing an intelligent motor fault diagnosis system by using an extension neural network (ENN). Extension theory and a neural network (NN) are combined to construct the motor fault diagnosis system, which identifies the most likely fault types in motors. First, the vibration signal spectra of the 10 most common fault types are measured and organized into individual motor fault models. Subsequently, according to the motor fault data, representative characteristic frequency spectra are identified, and the correlation between the motor fault types and their corresponding characteristic frequency spectra are established to develop the motor fault diagnosis system. Finally, the test results confirm that the proposed motor fault diagnosis system is fast, requires less training data, and demonstrates first-rate identification capability.
-
-@highlight This study analyzes the vibration signals of the 10 most common motor fault types.
-@highlight Extension theory and NN are combined to build the motor fault diagnosis system.
-@highlight The proposed motor fault diagnosis system is fast, requires less training data.
-@highlight The proposed fault diagnosis system exhibits first-rate identification capability.

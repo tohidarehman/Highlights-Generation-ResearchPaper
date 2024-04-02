@@ -1,7 +1,0 @@
- It is well known that the variations of the element size have to be controlled in order to generate a high-quality mesh. However, it is not enough to limit the gradient of the size function to generate a mesh that correctly preserves the prescribed element size. To address this issue, in this work we define a criterion to assess when an element reproduces a size field. Then, using this criterion, we develop a novel technique to modify the initial size function by solving a non-linear equation. The new size function ensures that the elements will preserve the original size function. Moreover, an approximated method is developed to improve the computational cost of solving the non-linear equation. We use these techniques in two applications. First, we show that we can reduce the number of iterations to converge an adaptive process. Second, we show that quadrilateral and hexahedral meshing algorithms benefit from the new size function since it is not needed to perform a refining process to capture the initial size function.
-
-@highlight We define a quantitative criterion to assess if an element meets a size function.
-@highlight We deduce a method to modify the initial size function using a non-linear equation.
-@highlight The new size function ensures that the elements preserve the prescribed size.
-@highlight Our method can reduce the number of iterations to converge an adaptive process.
-@highlight We show that quad and hex meshers better reproduce the initial size function.

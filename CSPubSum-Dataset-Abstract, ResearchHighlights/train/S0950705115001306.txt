@@ -1,5 +1,0 @@
- This paper addresses the problem of evaluating the node importance in actual complex networks. Firstly, the indicators used to evaluate the node importance are defined based on complex network theory, and their characteristics are analyzed in detail. Besides, a new indicator is put forward on the basis of K-shell decomposition, named improved K-shell. Secondly, in order to evaluate the node importance comprehensively, a multi-attribute ranking method is proposed based on the Technique for Order Preference by Similarity to Ideal Object (TOPSIS). Finally, our method is used to study two actual cases. Results show that, our method outperforms other methods in distinguishing the node importance of actual complex networks and can provide scientific decision support for the administration department.
-
-@highlight A new indicator is put forward on the basis of K-shell decomposition.
-@highlight A multi-attribute ranking method is proposed by combining Relative Entropy and TOPSIS.
-@highlight Our proposed method outperforms other methods in comparative experiments.

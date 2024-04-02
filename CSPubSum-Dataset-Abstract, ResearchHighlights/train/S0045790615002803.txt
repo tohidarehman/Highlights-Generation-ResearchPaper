@@ -1,7 +1,0 @@
- Efficient data delivery accompanied with low end-to-end delay is important in vehicular ad-hoc networks and optimal route selection is vital to improve these performance metrics. Different routing algorithms are proposed in VANETs. This paper reviews and analyzes these algorithms briefly and based on the analysis, a new opportunistic-based routing algorithm (OSTD) is proposed for urban scenarios. The proposed algorithm severely considers the type of vehicular distribution in the calculation of utility function. This utility function is used to evaluate the routes in the network. The reason of such a severe consideration is expressed and evaluated in the paper. Vehicle's driving path predictability is also used in the algorithm to forward the packet to a more suitable next hop, as vehicular mobility is the reflection of human social activity. Simulation results show that OSTD achieves a higher delivery ratio and lower end-to-end delay and packet loss compared to the other well-known protocols.
-
-@highlight An opportunistic routing algorithm is proposed for the urban scenarios in VANETs. The algorithm is composed of two phases: intersection and next hop selection phases.
-@highlight The type of vehicular distribution is used to evaluate the routes in the network.
-@highlight Vehicle's driving path is also used to select the next hop.
-@highlight Packet delivery, packet loss & packet e2e delay are used to evaluate the protocols.
-@highlight Our algorithm shows better performance compared to the other well-known protocols.

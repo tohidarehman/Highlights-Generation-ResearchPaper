@@ -1,5 +1,0 @@
- The combined finite-discrete element method takes the advantages of both the finite element (FE) method and the discrete element (DE) method, but a coupling approach is required for effective combination of the two methods. In this paper, a novel coupling approach is proposed by means of ghost particles. The entire domain is decomposed into a FE- and a DE-subdomain, and ghost particles are constructed inside the interface FE domain to connect with the DE domain in a consistent interaction manner as the DE method. A novel one-step back strategy is proposed to overcome the incompatibility of degree of freedoms between FE nodes and DE particles from a numerical sense. The coupling approach is very simple to implement and its effectiveness is validated by numerical examples.
-
-@highlight Development of a novel coupling approach for the combined finite-discrete element method by means of ghost particles.
-@highlight A novel one-step back strategy is proposed to overcome the incompatibility of DoFs between FE nodes and DE particles.
-@highlight Demonstrated effectiveness of the proposed coupling approach.

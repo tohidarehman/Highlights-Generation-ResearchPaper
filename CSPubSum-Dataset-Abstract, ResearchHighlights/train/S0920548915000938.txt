@@ -1,8 +1,0 @@
- Peer-to-peer (P2P) computing has gained great attention in both research and industrial communities. Although many P2P systems, such as CAN, Pastry, Chord, and Tapstry have been proposed, they only support exact-match lookups. To overcome the limitation, a new area of P2P research, called peer data management system (PDMS), has emerged. In PDMS, metadata were used for annotating resources to support complex queries. This paper proposed a hybrid PDMS called RDF-Chord. In RDF-Chord, a set of keys is ingeniously designed to significantly reduce the search spaces. In experiments, it shows that RDF-Chord is highly scalable and efficient, especially in range queries.
-
-@highlight Although many P2P systems, such as CAN, Pastry, Chord, and Tapstry have been proposed, they only support exact-match lookups.
-@highlight To overcome the limitation, a new area of P2P research, called peer data management system (PDMS), has emerged.
-@highlight In PDMS, metadata were used for annotating resources so that complex queries can be supported.
-@highlight To support efficient and complex queries, a flexible PDMS for P2P networks, called RDF-Chord, is proposed.
-@highlight In RDF-Chord, a set of keys is ingeniously designed to significantly reduce the search spaces.
-@highlight The experiments show that RDF-Chord is superior to RDFPeers, especially in range queries.

@@ -1,7 +1,0 @@
- We have developed a computer program, named PDBETA, that performs normal mode analysis (NMA) based on an elastic network model that uses dihedral angles as independent variables. Taking advantage of the relatively small number of degrees of freedom required to describe a molecular structure in dihedral angle space and a simple potential-energy function independent of atom types, we aimed to develop a program applicable to a full-atom system of any molecule in the Protein Data Bank (PDB). The algorithm for NMA used in PDBETA is the same as the computer program FEDER/2, developed previously. Therefore, the main challenge in developing PDBETA was to find a method that can automatically convert PDB data into molecular structure information in dihedral angle space. Here, we illustrate the performance of PDBETA with a protein–DNA complex, a protein–tRNA complex, and some non-protein small molecules, and show that the atomic fluctuations calculated by PDBETA reproduce the temperature factor data of these molecules in the PDB. A comparison was also made with elastic-network-model based NMA in a Cartesian-coordinate system.
-
-@highlight A program that performs normal mode analysis of molecules in the PDB was developed.
-@highlight It uses dihedral angles as independent variables, rather than Cartesian coordinates.
-@highlight It is based on an elastic network model.
-@highlight It is applicable to a full-atom system of any molecule within the PDB.
-@highlight Atomic fluctuations (B-factors in the PDB data) are adequately reproduced.

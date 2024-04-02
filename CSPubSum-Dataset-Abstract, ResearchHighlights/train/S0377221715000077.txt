@@ -1,6 +1,0 @@
- We propose an exact method, based on Generalized Benders Decomposition, to select the best M features during induction. We provide details of the method and highlight some interesting parallels between the technique proposed here and some of those published in the literature. We also propose a relaxation of the problem where selecting too many features is penalized. The original method performs well on a variety of data sets. The relaxation, though competitive, is sensitive to the penalty parameter.
-
-@highlight We formulated two versions of the feature selection problem.
-@highlight We developed an exact algorithm that solves the feature selection problem.
-@highlight We provided details about the algorithm and its convergence properties.
-@highlight The method is more accurate than benchmark methods.

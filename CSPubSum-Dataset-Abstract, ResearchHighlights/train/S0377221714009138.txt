@@ -1,5 +1,0 @@
- We study the Demand Adjustment Problem (DAP) associated to the urban traffic planning. The framework for the formulation of the DAP is mathematical programming with equilibrium constraints. In particular, if we consider the optimization problem equivalent to the equilibrium problem, the DAP becomes a bilevel optimization problem. In this work we present a descent scheme based on the approximation of the gradient of the objective function of DAP.
-
-@highlight An approximation of the gradient of the objective function in DAP is built.
-@highlight An effective descent scheme to numerically solve DAP is presented.
-@highlight An actualization scheme for the penalization parameters improves the approximation.

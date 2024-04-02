@@ -1,7 +1,0 @@
- The original prototype of the cellular automaton (CA) shading system (CASS) for building facades was based on rectangular array of cells and used liquid crystal technology. This paper introduces polarized film shading system (PFSS) – an alternative approach based on opto-mechanical modules whose opacity is a function of the rotation of polarized film elements. PFSS in regular tessellations: triangular, square and hexagonal are discussed. Simulations for each type of tessellation are presented and visualized. Visual attractiveness of emergent CA patterns manifested by “particles” and “solitons” is discussed.
-
-@highlight Cellular automaton (CA) based shading is contextualized as a daylight control system.
-@highlight Polarized film shading system (PFSS) based on opto-mechanical modules is introduced.
-@highlight Opacity of PFSS modules is a function of dihedral rotation of polarized film elements.
-@highlight PFSS in regular grids: triangular, square & hexagonal are discussed and illustrated.
-@highlight Visual attractiveness of emergent CA patterns (particles, solitons) is discussed.

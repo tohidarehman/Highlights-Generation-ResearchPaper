@@ -1,6 +1,0 @@
- A simulation based computational method was conducted to reflect the effect of intervention for those at high risk of type 2 diabetes. Hierarchy Support Vector Machines (H-SVMs) were used to classify high risk. The proportion transitioning from the high risk state to moderate state, low state or the normal state was calculated. When Body Mass Index (BMI) decreased by 5% (weight loss 3–5kg), the proportion of Class A transferring to a lower state was 15–25%, and risk also appeared reduced for Class B1. In Class C, when cholesterol (CHOL) was decreased by 2.5% (0.13–0.34mmol/L), 10–25% transitioned to a lower risk state. The method could help determine risk transition by the adjustment of sensitive risk factors. This might provide the basis for implementing intervention in cases in a high risk state.
-
-@highlight In order to reflect the effect of intervention for those at high risk of type 2 diabetes, a computer simulation was conducted.
-@highlight The high risk was classified upon Hierarchy Support Vector Machines algorithm.
-@highlight The proportion transitioning from the high risk state to moderate state, low risk state or the normal state was calculated.
-@highlight The method could help to determine risk transition by the adjustment of sensitive risk factors.

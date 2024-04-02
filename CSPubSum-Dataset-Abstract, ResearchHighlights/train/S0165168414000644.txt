@@ -1,6 +1,0 @@
- In this paper, we design and analyze a Newton-like blind equalization algorithm for the APSK system. Specifically, we exploit the principle of minimum entropy deconvolution and derive a blind equalization cost function for APSK signals and optimize it using Newton׳s method. We study and evaluate the steady-state excess mean square error performance of the proposed algorithm using the concept of energy conservation. Numerical results depict a significant performance enhancement for the proposed scheme over well established blind equalization algorithms. Further, the analytical excess mean square error of the proposed algorithm is verified with computer simulations and is found to be in good conformation.
-
-@highlight Formulation of a Newton-like blind equalization algorithm for APSK system.
-@highlight Discussion on stationary points of the cost in joint impulse response domain.
-@highlight Discussion on equalizer’s tracking performance in non-stationary environment.
-@highlight Evaluation of moments in closed-form using Nuttal Q-function.

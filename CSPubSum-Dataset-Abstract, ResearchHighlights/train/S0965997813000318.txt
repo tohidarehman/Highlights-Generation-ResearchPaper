@@ -1,6 +1,0 @@
- Nature has provided inspiration for most of the man-made technologies. Scientists believe that dolphins are the second to humans in smartness and intelligence. Echolocation is the biological sonar used by dolphins and several kinds of other animals for navigation and hunting in various environments. This ability of dolphins is mimicked in this paper to develop a new optimization method. There are different meta-heuristic optimization methods, but in most of these algorithms parameter tuning takes a considerable time of the user, persuading the scientists to develop ideas to improve these methods. Studies have shown that meta-heuristic algorithms have certain governing rules and knowing these rules helps to get better results. Dolphin echolocation takes advantages of these rules and outperforms many existing optimization methods, while it has few parameters to be set. The new approach leads to excellent results with low computational efforts.
-
-@highlight Echolocation ability of dolphins is mimicked to develop a new optimization method.
-@highlight Dolphin echolocation (DE) takes advantages of different meta-heuristics rules.
-@highlight DE outperforms many existing methods.
-@highlight DE leads to excellent results with low computational efforts.

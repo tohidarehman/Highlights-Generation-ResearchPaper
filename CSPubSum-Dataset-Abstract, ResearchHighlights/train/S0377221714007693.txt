@@ -1,7 +1,0 @@
- The classical multi-level capacitated lot-sizing problem formulation is often not suitable to correctly capture resource requirements and precedence relations. Depending on lead time assumptions, either the model provides infeasible production plans or plans with costly needless inventory. We tackle this issue by explicitly modeling these two aspects and the synchronization of batches of products in the multi-level lot-sizing and scheduling formulation. Two models are presented; one considering batch production and the other one allowing lot-streaming. Comparisons with traditional models demonstrate the capability of the new approach in delivering more realistic results. The generated production plans are always feasible and cost savings of 30–40 percent compared to classical models are observed.
-
-@highlight Classical multi-level capacitated lot-sizing models deliver unrealistic results.
-@highlight New MIP formulations including the scheduling aspect.
-@highlight Two variants: batching and lot-streaming.
-@highlight New models enable generating feasible production plans.
-@highlight Comparison with classical models using well known problem instances.

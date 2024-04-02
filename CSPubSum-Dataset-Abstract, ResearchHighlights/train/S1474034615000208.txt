@@ -1,7 +1,0 @@
- To ensure the safety and the serviceability of civil infrastructure it is essential to visually inspect and assess its physical and functional condition. This review paper presents the current state of practice of assessing the visual condition of vertical and horizontal civil infrastructure; in particular of reinforced concrete bridges, precast concrete tunnels, underground concrete pipes, and asphalt pavements. Since the rate of creation and deployment of computer vision methods for civil engineering applications has been exponentially increasing, the main part of the paper presents a comprehensive synthesis of the state of the art in computer vision based defect detection and condition assessment related to concrete and asphalt civil infrastructure. Finally, the current achievements and limitations of existing methods as well as open research challenges are outlined to assist both the civil engineering and the computer science research community in setting an agenda for future research.
-
-@highlight Visual inspection of civil infrastructure is essential for condition assessment.
-@highlight We focus on concrete bridges, tunnels, underground pipes, and asphalt pavements.
-@highlight Accordingly, we review the latest computer vision based defect detection methods.
-@highlight Using computer vision most relevant types of defects can be automatically detected.
-@highlight Automatic defect properties retrieval and assessment has not been achieved yet.

@@ -1,7 +1,0 @@
- The Baths of Caracalla are the second largest but most complete bathing complex in the city of Rome. They are a representation of the might, wealth, and ingenuity of the Roman Empire. As such, a brief introduction to the site of the Baths of Caracalla and its layout is advantageous. This article chronicles the digital reconstruction process that began as a means to obtain the geometry of one room for the purposes of a thermal analysis. Unlike many reconstructions, this one uses a parametric design program, SolidWorks, as the base because it allows for easy and precise manipulation of the geometry. While this recreation still has rough textures, it provides insights into the geometry: particularly surrounding the glass in the windows. The 3D model allows the viewer to partially experience the atmosphere of the site and illustrates its enormity.
-
-@highlight This is a reconstruction of the Baths of Caracalla in Rome.
-@highlight The model uses a parametric program and data from a book and onsite observations.
-@highlight The process revealed an interesting pattern involving the glass panes.
-@highlight The textures are mostly generic; largely due to a lack of information.
-@highlight The 3D model gives a partial sense of atmosphere inside the Baths at its peak.

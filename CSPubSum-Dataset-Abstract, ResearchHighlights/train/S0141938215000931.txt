@@ -1,7 +1,0 @@
- This paper proposes a fast mode decision algorithm for 3D High Efficiency Video Coding (3D-HEVC) depth intra coding. In the current 3D-HEVC design, it is observed that for most of the cases, full rate-distortion (RD) cost search of Bi-Partition mode could be skipped since most coding units (CUs) of depth map are very flat or smooth while Bi-Partition modes are designed for CUs with edge or sharp transition. Using the rough RD cost value calculated by HEVC Rough Mode Decision as a selection threshold, we propose a fast Bi-Partition modes selection algorithm to speed up the encoding process. The test result for the proposed fast algorithm reports a 34.4% encoding time saving with a 0.3% bitrate increase on synthesized views for the All-Intra test case and negligible impact under the random access test case. Moreover, by simply varying the selection threshold, we can make a tradeoff between encoding time saving and bitrate loss based on the requirement of different applications.
-
-@highlight We can skip most of Bi-Partition mode full RD-cost value calculation.
-@highlight We use the Smallest Rough RD Cost Value (SRCV) to speedup the encoder.
-@highlight More than 34% encoding time saving is achieved under all-intra configuration.
-@highlight Small encoding time saving is also achieved under random access configuration.
-@highlight Flexibility is provided to tradeoff between encoding time saving and BD-rate loss.

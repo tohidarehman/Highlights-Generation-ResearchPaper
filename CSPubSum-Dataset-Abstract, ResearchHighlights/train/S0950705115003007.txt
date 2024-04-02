@@ -1,5 +1,0 @@
- As a natural extension of three-way decisions with incomplete information, this paper provides a novel three-way decision model based on incomplete information system. First, we define a new relation to describe the similarity degree of incomplete information. Then, in view of the missing values presented in incomplete information system, we utilize interval number to acquire the loss function. A hybrid information table which consist both of the incomplete information and loss function, is used to deal with the new three-way decision model. The key steps and algorithm for constructing the integrated three-way decision model are also carefully investigated. An empirical study of medical diagnosis validates the reasonability and effectiveness of our proposed model.
-
-@highlight We induce the incomplete information to DTRS and build a three-way decision model.
-@highlight We use a hybrid information table to deal with the integrated information system.
-@highlight We list the key steps and algorithm of the proposed three-way decision model.

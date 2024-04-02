@@ -1,5 +1,0 @@
- This paper presents a binary optimization framework for modeling dynamic resource allocation problems. The framework (a) allows modeling flexibility by incorporating different objective functions, alternative sets of resources and fairness controls; (b) is widely applicable in a variety of problems in transportation, services and engineering; and (c) is tractable, i.e., provides near optimal solutions fast for large-scale instances. To justify these assertions, we model and report encouraging computational results on three widely studied problems – the Air Traffic Flow Management, the Aircraft Maintenance Problems and Job Shop Scheduling. Finally, we provide several polyhedral results that offer insights on its effectiveness.
-
-@highlight A framework for modeling dynamic resource allocation problems is described.
-@highlight Encouraging computational results on three widely studied problems are reported.
-@highlight Several polyhedral results that offer insights on its effectiveness are presented.

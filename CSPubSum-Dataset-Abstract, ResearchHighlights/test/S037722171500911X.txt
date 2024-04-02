@@ -1,6 +1,0 @@
- The Traveling Umpire Problem (TUP) is an optimization problem in which umpires have to be assigned to games in a double round robin tournament. The objective is to obtain a solution with minimum total travel distance over all umpires, while respecting hard constraints on assignments and sequences. Up till now, no general nor dedicated algorithm was able to solve all instances with 12 and 14 teams. We present a novel branch-and-bound approach to the TUP, in which a decomposition scheme coupled with an efficient propagation technique produces the lower bounds. The algorithm is able to generate optimal solutions for all the 12- and 14-team instances as well as for 11 of the 16-team instances. In addition to the new optimal solutions, some new best solutions are presented and other instances have been proven infeasible.
-
-@highlight An exact algorithm based on a decomposition scheme is presented for the problem.
-@highlight Optimal solutions for all 14-team and several 16-team TUP instances were found.
-@highlight Most optimal solutions were obtained in very short runtime.
-@highlight Experiments on the influence of the components of the algorithm are reported.

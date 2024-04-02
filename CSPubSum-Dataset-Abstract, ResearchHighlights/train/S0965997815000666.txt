@@ -1,7 +1,0 @@
- A method and an algorithm for numerical estimation of effective mechanical properties of porous materials are presented. The effective properties are sought in the form of the nonlinear relation between the second Piola–Kirchhoff stress tensor and the Green strain tensor for anisotropic materials with second-order nonlinearities accounted for. The effective characteristics of test models are computed by means of a CAE Fidesys program module based on the proposed algorithm. The effective material properties as functions of porosity are examined. The finite element mesh that contained more than a million of elements was used while performing stress analysis of a specimen. To reduce computing time, assembly and solution of the global equation system was done in parallel using CUDA technology. The computations were carried out on NVIDIA Tesla C2050 graphics processors. Our results show that accounting for nonlinear effects is essential for correct estimation of effective properties of porous materials.
-
-@highlight A method for estimation of effective properties of porous materials is presented.
-@highlight The second-order nonlinearities are accounted for.
-@highlight The effective material properties as functions of porosity are examined.
-@highlight The computations were carried out in parallel using CUDA technology.
-@highlight Accounting for nonlinear effects is essential for estimation of effective properties.

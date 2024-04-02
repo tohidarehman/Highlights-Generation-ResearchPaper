@@ -1,6 +1,0 @@
- Workload modeling enables performance analysis and simulation of cloud resource management policies, which allows cloud providers to improve their systems’ Quality of Service (QoS) and researchers to evaluate new policies without deploying expensive large scale environments. However, workload modeling is challenging in the context of cloud computing due to the virtualization layer overhead, insufficient tracelogs available for analysis, and complex workloads. These factors contribute to a lack of methodologies and models to characterize applications hosted in the cloud. To tackle the above issues, we propose a web application model to capture the behavioral patterns of different user profiles and to support analysis and simulation of resources utilization in cloud environments. A model validation was performed using graphic and statistical hypothesis methods. An implementation of our model is provided as an extension of the CloudSim simulator.
-
-@highlight We model a web application to support analysis and simulation of cloud environments.
-@highlight We implement the model as an extension of the CloudSim simulator.
-@highlight We found that the user behavior has a strong influence on the resource utilization.
-@highlight We found Generalized Extreme Value and Generalized Lambda distributions instead of Exponential distribution to represent session time.

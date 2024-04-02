@@ -1,7 +1,0 @@
- We consider a new problem of constructing some required structures in digraphs, where all arcs installed in such required structures are supposed to be cut from some pieces of a specific material of length L. Formally, we consider the model: a digraph D = (V, A; w), a structure S and a specific material of length L, where w: A Ã¢ÂÂ R+, we are asked to construct a subdigraph DÃ¢ÂÂ² from D, having the structure S, such that each arc in DÃ¢ÂÂ² is constructed by a part of a piece or/and some whole pieces of such a specific material, the objective is to minimize the number of pieces of such a specific material to construct all arcs in DÃ¢ÂÂ².For the two required structures:  a directed path from a node s to a node t and  a strongly connected spanning subdigraph, we design four approximation algorithms with constant performance ratios to solve the both problems, respectively.
-
-@highlight We consider a new problem of constructing some required structures in digraphs.
-@highlight The objective is to minimize the number of pieces of a specific material with length L.
-@highlight Up to now, it is the first time to consider this new model.
-@highlight We design four (asymptotic) approximation algorithms to construct the two structures.
-@highlight We propose two conjectures for these required structures in digraphs.

@@ -1,7 +1,0 @@
- Half-life is a unique characteristic of radioactive substances used in a variety of medical treatments. Radioisotope F-18 used for diagnosing and monitoring many types of cancers has a half-life of 110minutes. As such, it requires careful coordination of production and delivery by manufacturers and medical end-users. To model this critical production and delivery problem, we develop a mixed integer program and propose a variant of a large neighborhood search algorithm with various improvement algorithms. We conduct several computational experiments to demonstrate the effectiveness of the proposed approach. The method when applied in a case study shows that improvement in terms of both time and cost is possible in the production and delivery of F-18.
-
-@highlight A nuclear medicine production and delivery problem is defined and modeled.
-@highlight A mixed integer programming model is developed.
-@highlight A large neighborhood algorithm with improvement algorithms is proposed.
-@highlight A benchmark problem set is developed.
-@highlight Computational results including a case study show that the approach performs well.

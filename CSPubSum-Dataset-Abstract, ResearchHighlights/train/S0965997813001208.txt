@@ -1,6 +1,0 @@
- In most numerical analyses using the Finite Element Method, several quantities, such as stresses, strains, fluid velocities and gradients, are computed at points in the interior of the solid elements, such as Gauss integration points for instance. Nevertheless, in many applications it is necessary to extrapolate these values to nodal points. That is the case with most visualization tools and post-processors, also in programs with auto-adaptive meshes, large deformations schemes such as Arbitrary Lagrangian–Eulerian Methods, and in programs using the Dynamic Programming Method. A generic methodology to perform this extrapolation in a precise and efficient way is proposed.
-
-@highlight A generic methodology to perform local extrapolation in finite elements is proposed.
-@highlight The methodology satisfies the criterion of least square error.
-@highlight It aims to keep the trend defined by internal sampling points values.
-@highlight It is applicable for any shape of 2D and 3D elements using simple operations.

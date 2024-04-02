@@ -1,7 +1,0 @@
- Aviation authorities such as the Federal Aviation Administration (FAA) provide stringent guidelines for aircraft maintenance, with violations leading to significant penalties for airlines. Moreover, poorly maintained aircraft can lead to mass cancellation of flights, causing tremendous inconvenience to passengers and resulting in a significant erosion in brand image for the airline in question. Aircraft maintenance operations of a complex and extended nature can only be performed at designated maintenance bases. Aircraft maintenance planning literature has focused on developing good tail-number routing plans, while assuming that the locations of the maintenance bases themselves are fixed. This paper considers an inverse optimization problem, viz., locating a minimal number of maintenance bases on an Euler tour, while ensuring that all required aircraft maintenance activities can be performed with a stipulated periodicity. The Aircraft Maintenance Base Location Problem (AMBLP) is shown to be NP-complete and a new lower bound is developed for the problem. The performance of four simple “quick and dirty” heuristics for obtaining feasible solutions to AMBLP is analyzed.
-
-@highlight Identifies a new location model that arises in maintenance routing.
-@highlight The AMBLP is shown to be NP-complete.
-@highlight A new theoretical lower bound is established for AMBLP.
-@highlight Four heuristic methods for AMBLP are analyzed for worst-case performance.
-@highlight A numerical example is presented to illustrate the heuristics.

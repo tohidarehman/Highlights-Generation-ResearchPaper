@@ -1,7 +1,0 @@
- Proliferation of health information technologies creates opportunities to improve clinical and public health, including high quality, safer care and lower costs. To maximize such potential benefits, health information technologies must readily and reliably exchange information with other systems. However, evidence from public health surveillance programs in two states suggests that operational clinical information systems often fail to use available standards, a barrier to semantic interoperability. Furthermore, analysis of existing policies incentivizing semantic interoperability suggests they have limited impact and are fragmented. In this essay, we discuss three approaches for increasing semantic interoperability to support national goals for using health information technologies. A clear, comprehensive strategy requiring collaborative efforts by clinical and public health stakeholders is suggested as a guide for the long road towards better population health data and outcomes.
-
-@highlight While available, clinical data standards are rarely used in practice.
-@highlight We analyze policies for improving interoperability among health information systems.
-@highlight Existing policies focus on clinical providers and term translation, which is hard.
-@highlight A different strategy may lead to greater, upstream use of data standards.
-@highlight Improved use of data standards supports better health delivery and outcomes.

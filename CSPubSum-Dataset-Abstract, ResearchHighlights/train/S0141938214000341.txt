@@ -1,7 +1,0 @@
- In this study, we explored how stereoscopic depth affects performance and user experience in a mobile device with an autostereoscopic touch display. Participants conducted a visual search task with an image gallery application on three layouts with different depth ranges. The task completion times were recorded, and the participants were asked to rate their experiences. The results revealed that the image search times were facilitated by a mild depth effect and that too great a depth slowed search times and decreased user-experience ratings.
-
-@highlight We studied subjects’ interactions with a stereoscopic image gallery application.
-@highlight A 3-inch autostereoscopic touch display was used.
-@highlight We examined the effect of stereoscopic depth on image search time and user experience.
-@highlight The results show that a small depth (disparity range of 2.3–3.9arc min) allows faster image search times.
-@highlight The results show that a medium depth (disparity range of 4.7–7.0arc min) makes the image search slower.

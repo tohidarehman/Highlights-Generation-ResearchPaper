@@ -1,7 +1,0 @@
- An inverse finite element method (IFEM) has been developed for estimation of the blank size and prediction of the strain distribution in sheet metal forming. In the inverse method the nodal coordinates in the final shape are known and their corresponding positions on the initial blank should be determined. The developed method deals with logarithmic large strains of membrane triangular elements, virtual work principle and a new approach for friction modeling. This method leads to a system of nonlinear equations which is highly sensitive to the initial guess. In order to avoid the converging problems, especially in the quasi-vertical walls, an appropriate initial guess is introduced. The introduced initial guess guarantees the convergence; furthermore the number of iterations in the nonlinear numerical solution is decreased and the solution speed is significantly increased. Three different problems are analyzed with the developed method and the results show good agreement to commercially available finite element software and experimental results.
-
-@highlight IFEM method is a fast tool to predict initial blank and strain distribution.
-@highlight To avoid converging problem unfolding method is used as an efficient initial guess.
-@highlight This initial guess decreases the number of iteration in the numerical solution.
-@highlight A non-uniform distribution of friction is exerted on blank‌holder zone.
-@highlight This method is capable of being applied to complicated geometries.

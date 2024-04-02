@@ -1,6 +1,0 @@
- Detection of running behavior, the specific anomaly from common walking, has been playing a critical rule in practical surveillance systems. However, only a few works focus on this particular field and the lack of a consistent benchmark with reasonable size limits the persuasive evaluation and comparison. In this paper, for the first time, we propose a standard benchmark database with diversity of scenes and groundtruth for human running detection, and introduce several criteria for performance evaluation in the meanwhile. In addition, a baseline running detection algorithm is presented and extensively evaluated on the proposed benchmark qualitatively and quantitatively. The main purpose of this paper is to lay the foundation for further research in the human running detection domain, by making experimental evaluation more standardized and easily accessible. All the benchmark videos with groundtruth and source codes will be made publicly available online.
-
-@highlight To construct one unified benchmark dataset with various scenes and challenges.
-@highlight To standardize uniform evaluation criteria for comparing different kinds of algorithms.
-@highlight To carefully design a baseline method for human running detection.
-@highlight To open up a new research direction for the specific human motion.

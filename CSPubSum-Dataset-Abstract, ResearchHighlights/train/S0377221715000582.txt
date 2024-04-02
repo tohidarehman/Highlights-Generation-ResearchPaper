@@ -1,5 +1,0 @@
- Generalized geometric programming (GGP) problems are converted to mixed-integer linear programming (MILP) problems using piecewise-linear approximations. Our approach is to approximate a multiple-term log-sum function of the form log (x 1 + x 2 + ⋅⋅⋅ + xn ) in terms of a set of linear equalities or inequalities of log x 1, log x 2, …, and log xn , where x 1, …, xn are strictly positive. The advantage of this approach is its simplicity and readiness to implement and solve using commercial MILP solvers. While MILP problems in general are no easier than GGP problems, this approach is justified by the phenomenal progress of computing power of both personal computers and commercial MILP solvers. The limitation of this approach is discussed along with numerical tests.
-
-@highlight Converting a GGP problem to a MILP one using piecewise-linear approximations.
-@highlight The approach is simple and ready to implement and solve using commercial MILP solvers.
-@highlight The proposed approach promotes the applications of mathematical programming.

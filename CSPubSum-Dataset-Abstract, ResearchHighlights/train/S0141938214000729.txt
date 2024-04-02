@@ -1,7 +1,0 @@
- Polymer networks are employed in vertical-aligned liquid crystal (LC) cells to stabilize the LC molecular configuration under the in-plane field driving. Two different polymer morphologies, respectively produced by the monofunctional and bifunctional acrylate monomers, are assembled on the glass-substrate surface. The enhanced electro-optical performance is observed on the LC cell with bifunctional acrylate polymer networks, and the appropriate display cell is developed at an optimum concentration of 2wt%. This type of polymer-LC cell shows the fast turn-off and turn-on responses at the low driving voltage, which are attributed to the strong anchoring and the stable LC reorientations, respectively. Furthermore, around 30% improvement in the gray-level response on the 2-wt%-TA-9164-polymer-LC cell is successfully achieved, as compared to the pure LC cells.
-
-@highlight The proposed polymer cells have the stable molecular structure at high voltages.
-@highlight The turn-off response is improved by TA-9164 polymers with stronger anchoring.
-@highlight 2wt% polymer concentration is the optimum selection for TA-9164 VA-IPS cells.
-@highlight The fast turn-on response at the low operating voltage (⩽12V) is demonstrated.
-@highlight The superior gray-level response with an improvement of ∼30% is achieved.

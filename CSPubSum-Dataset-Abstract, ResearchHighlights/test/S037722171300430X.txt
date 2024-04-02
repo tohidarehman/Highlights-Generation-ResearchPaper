@@ -1,6 +1,0 @@
- The two-machine flowshop environment with sequence-independent setup times has been intensely investigated both from theoretical and practical perspectives in the scheduling literature. Nevertheless, very scant attention has been devoted to deriving effective lower bounding strategies. In this paper, we propose new lower bounds for the total completion time minimization criterion. These bounds are based on three relaxation schemes, namely the waiting time-based relaxation scheme, the single machine-based relaxation scheme, and the Lagrangian relaxation scheme. Extensive computational study carried on instances with up to 500 jobs reveals that embedding the waiting time-based bounding strategy within the Lagrangian relaxation framework yields the best performance while requiring negligible CPU time.
-
-@highlight We study the two-machine flowshop problem with sequence-independent setup times.
-@highlight The total completion time is to be minimized.
-@highlight Several lower bounding schemes are proposed.
-@highlight Computational results show the good performance of the derived bounds.

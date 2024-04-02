@@ -1,6 +1,0 @@
- Modeling the evolution of networks is central to our understanding of large communication systems, and more general, modern economic and social systems. The research on social and economic networks is truly interdisciplinary and the number of proposed models is huge. In this survey we discuss a small selection of modeling approaches, covering classical random graph models, and game-theoretic models to analyze the evolution of social networks. Based on these two basic modeling paradigms, we introduce co-evolutionary models of networks and play as a potential synthesis.
-
-@highlight We review recent models on the evolution of social networks.
-@highlight Random graph models are introduced as Markov jump processes.
-@highlight Game theoretic approaches to network formation are discussed.
-@highlight Co-evolutionary processes of networks and play are introduced to cointegrate game theoretic and random graph models.

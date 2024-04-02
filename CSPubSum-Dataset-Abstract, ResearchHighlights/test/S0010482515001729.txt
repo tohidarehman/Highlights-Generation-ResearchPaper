@@ -1,7 +1,0 @@
- Computer-aided diagnosis (CAD) systems have been used for characterization of several dermatologic diseases in the last few years. Psoriasis is a potentially life-threatening skin disease which affects 125 million people worldwide. The paper presents the first state-of-the-art review of technology solicitation in psoriasis along with its current practices, challenges and assessment techniques. The paper also conducts in-depth examination of the existing literature for all clinical parameters of Psoriasis Area and Severity Index (PASI) i.e., area, erythema, scaliness and thickness. We suggest a role of risk assessment using a decision support system for stratification of psoriasis in large populations. A balanced insight has been presented in all the components of the design, namely: feature extraction, feature selection, disease stratification and overall CAD performance evaluation. We conclude that CAD systems are promising for risk stratification and assessment of psoriasis.
-
-@highlight First review on psoriasis severity risk stratification in engineering perspective.
-@highlight In-depth examination of the existing literature for all parameters of PASI.
-@highlight pCAD system for psoriasis severity assessment in large population.
-@highlight Variety of psoriasis features based on tissue characteristics.
-@highlight Validation of system in terms of reliability and stability.

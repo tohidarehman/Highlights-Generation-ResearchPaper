@@ -1,6 +1,0 @@
- Challenges associated with resource allocation to mitigate and recover from natural and man-made disasters inspire new theoretical questions for decision making in the intertwined natural and human world. Disaster loss is determined not only by post-disaster relief but also the pre-disaster mitigation and preparedness. To examine the decision making process at ex ante and ex post disaster stages, we develop a two-stage dynamic programming model that optimally allocates preparedness and relief expenditures. We analytically and numerically solve the model and provide new insights by sensitivity analysis.
-
-@highlight A two-stage dynamic model for balancing preparedness and relief is proposed.
-@highlight Analytic and numerical solutions of the two-stage dynamic model are presented.
-@highlight The trade-offs between preparedness and relief are studied.
-@highlight Relief first increases then eventually decreases in preparedness.

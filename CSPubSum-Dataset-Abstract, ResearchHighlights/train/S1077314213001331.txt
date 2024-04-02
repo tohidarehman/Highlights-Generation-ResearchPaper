@@ -1,7 +1,0 @@
- With the aim of elaborating a mobile application, accessible to anyone and with educational purposes, we present a method for tree species identification that relies on dedicated algorithms and explicit botany-inspired descriptors. Focusing on the analysis of leaves, we developed a working process to help recognize species, starting from a picture of a leaf in a complex natural background. A two-step active contour segmentation algorithm based on a polygonal leaf model processes the image to retrieve the contour of the leaf. Features we use afterwards are high-level geometrical descriptors that make a semantic interpretation possible, and prove to achieve better performance than more generic and statistical shape descriptors alone. We present the results, both in terms of segmentation and classification, considering a database of 50 European broad-leaved tree species, and an implementation of the system is available in the iPhone application Folia.
-
-@highlight We use a global shape model to segment leaves in complex natural images.
-@highlight Prior knowledge and shape constraints improve segmentation performance.
-@highlight We designed explicit botany-inspired descriptors for local shapes.
-@highlight Information is combined to classify leaf images into a list of species.
-@highlight Dedicated high-level features prove to perform better than generic statistical ones.

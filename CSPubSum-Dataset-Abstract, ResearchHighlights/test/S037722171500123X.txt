@@ -1,7 +1,0 @@
- We consider a continuous time–cost tradeoff problem with multiple milestones and completely ordered jobs. If a milestone is tardy, a penalty cost may be imposed. The processing times of jobs can be compressed by additional resources or activities that incur compression costs. The objective is to minimize the total penalty cost plus the total compression cost. We show that the problem is NP-hard, even if the compression cost is described as a concave function, and we present a pseudo-polynomial time algorithm for that case. Furthermore, we show that the problem is polynomially solvable if the compression cost function is convex.
-
-@highlight We consider a project scheduling with multiple milestones and completely ordered jobs.
-@highlight The objective is to minimize the total tardy weight plus the total compression cost.
-@highlight We prove the problem is NP-hard when the compression cost function is concave.
-@highlight We develop a pseudo-polynomial time algorithm for concave compression cost function.
-@highlight We develop a polynomial time algorithm for convex compression cost function.

@@ -1,5 +1,0 @@
- Computing the Minkowski sum of two arbitrary polyhedra in is difficult because of high combinatorial complexity. We present an algorithm for directly computing a voxelization of the Minkowski sum of two closed watertight input polyhedra for applications such as path planning that do not require a boundary representation as output. We introduce a new decomposition formula for computing the Minkowski sum and prove its correctness. We describe an efficient Graphics Processing Unit (GPU) implementation of the algorithm using stencil shadow volumes to create a solid voxelization of the Minkowski sum.
-
-@highlight Algorithm for computing voxelized Minkowski sum of two input polyhedra.
-@highlight New decomposition formula for computing Minkowski sum, with proof.
-@highlight Efficient GPU implementation using stencil shadow volumes.

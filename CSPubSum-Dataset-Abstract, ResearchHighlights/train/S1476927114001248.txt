@@ -1,7 +1,0 @@
- A long standing problem in structural bioinformatics is to determine the three-dimensional (3-D) structure of a protein when only a sequence of amino acid residues is given. Many computational methodologies and algorithms have been proposed as a solution to the 3-D Protein Structure Prediction (3-D-PSP) problem. These methods can be divided in four main classes: (a) first principle methods without database information; (b) first principle methods with database information; (c) fold recognition and threading methods; and (d) comparative modeling methods and sequence alignment strategies. Deterministic computational techniques, optimization techniques, data mining and machine learning approaches are typically used in the construction of computational solutions for the PSP problem. Our main goal with this work is to review the methods and computational strategies that are currently used in 3-D protein prediction.
-
-@highlight Predicting the correct three-dimensional structure of a protein molecule is an intricate and arduous task.
-@highlight First principle methods without database information.
-@highlight First principle methods with database information.
-@highlight Fold recognition and threading methods.
-@highlight Comparative modeling methods and sequence alignment strategies.

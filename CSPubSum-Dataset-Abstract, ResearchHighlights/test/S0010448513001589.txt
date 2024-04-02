@@ -1,5 +1,0 @@
- Polycube mapping can provide regular and global parametric representations for general solid models. Automatically constructing effective polycube domains, however, is challenging. We present an algorithm for polycube construction and volumetric parameterization. The algorithm has three steps: pre-deformation, polycube construction and optimization, and mapping computation. Compared with existing polycube mapping methods, our algorithm can robustly generate desirable polycube domain shape and low-distortion volumetric parameterization. It can be used for automatic high-quality hexahedral mesh generation.
-
-@highlight An effective volumetric polycube parameterization algorithm.
-@highlight An automatic hexahedral mesh generation pipeline for general 3D models.
-@highlight A polycube domain optimization algorithm based on homotopic morphological operations.

@@ -1,5 +1,0 @@
- Two phenylanthracene-substituted fluorene derivatives, 10-(9,9′-dimethyl-2-(10-phenylanthracen-9-yl)-9H-fluoren-7-yl)-phenylanthracene  and 2′,7′-di-(10-phenylanthracen-9-yl)-9,9′-spirobi  have been designed, synthesized, and characterized. A device using compound 1 as an emitting material exhibited luminous efficiency, power efficiency, external quantum efficiency and CIE coordinates of 3.37cd/A, 1.50lm/W, 1.87% at 20mA/cm2 and (0.18, 0.25) at 7V, respectively. Furthermore, by exploiting this efficient blue fluorescent material as a blue emitting material with the combination of red phosphorescent bis(2-phenylquinoline)acetylacetonate [(pq)2Ir(acac)], an efficient white OLED (WOLED) with a external quantum efficiency of 1.70%, luminous efficiency of 1.38cd/A, power efficiency of 0.94lm/W at 20mA/cm2 and the color coordinates of (0.33, 0.36) at 14V is demonstrated.
-
-@highlight We synthesized blue fluorescent materials based on anthracene–fluorene hybrid.
-@highlight These materials have the good potentials for efficient blue OLEDs as the emitters.
-@highlight A white OLED using one of these materials as blue emitter was demonstrated.

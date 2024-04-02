@@ -1,7 +1,0 @@
- In this paper we present a novel pose and expression invariant approach for 3D face registration based on intrinsic coordinate system characterized by nose tip, horizontal nose plane and vertical symmetry plane of the face. It is observed that distance of nose tip from 3D scanner is reduced after pose correction which is presented as a quantifying heuristic for proposed registration scheme. In addition, motivated by the fact that a single classifier cannot be generally efficient against all face regions, a two tier ensemble classifier based 3D face recognition approach is presented which employs Principal Component Analysis (PCA) for feature extraction and Mahalanobis Cosine (MahCos) matching score for classification of facial regions with weighted Borda Count (WBC) based combination and a re-ranking stage. The performance of proposed approach is corroborated by extensive experiments performed on two databases: GavabDB and FRGC v2.0, confirming effectiveness of fusion strategies to improve performance.
-
-@highlight A 3D face registration and recognition approach is proposed.
-@highlight Pose correction is evaluated through various correction parameters.
-@highlight Face range images are divided into different regions and features are extracted.
-@highlight Ensemble classifier is used to fuse results using features from different regions.
-@highlight Results show mark improvement in registration accuracy and recognition rates.

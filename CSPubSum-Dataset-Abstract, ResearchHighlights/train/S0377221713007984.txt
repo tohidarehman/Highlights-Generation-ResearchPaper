@@ -1,5 +1,0 @@
- In this note we derive alternative weighting schemes that complement those of Fä for consistent aggregation of Farrell efficiencies when the technology exhibits (global) constant returns to scale.
-
-@highlight Aggregation of output- and input-oriented technical efficiency indices.
-@highlight Aggregation weights under constant returns to scale technology.
-@highlight Interchange of input- and output-based aggregation weights.

@@ -1,7 +1,0 @@
- Margin distribution is acknowledged as an important factor for improving the generalization performance of classifiers. In this paper, we propose a novel ensemble learning algorithm named Double Rotation Margin Forest (DRMF), that aims to improve the margin distribution of the combined system over the training set. We utilise random rotation to produce diverse base classifiers, and optimize the margin distribution to exploit the diversity for producing an optimal ensemble. We demonstrate that diverse base classifiers are beneficial in deriving large-margin ensembles, and that therefore our proposed technique will lead to good generalization performance. We examine our method on an extensive set of benchmark classification tasks. The experimental results confirm that DRMF outperforms other classical ensemble algorithms such as Bagging, AdaBoostM1 and Rotation Forest. The success of DRMF is explained from the viewpoints of margin distribution and diversity.
-
-@highlight Double Rotation is proposed to produce diversity among base classifiers.
-@highlight We construct a margin related loss function to learn the weights of base classifiers.
-@highlight Margin Based Pruning is proposed to improve margin distribution of ensembles.
-@highlight Extensive experiments are conducted to validate the effectiveness of DRMP.
-@highlight We explain the rationality of DRMP from different perspectives.

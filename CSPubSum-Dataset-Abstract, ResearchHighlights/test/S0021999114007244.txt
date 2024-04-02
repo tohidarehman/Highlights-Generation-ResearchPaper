@@ -1,7 +1,0 @@
- ï»¿We give a constructive proof for the existence of a unique rational motion of minimal degree in the dual quaternion model of Euclidean displacements with a given rational parametric curve as trajectory. The minimal motion degree equals the trajectory's degree minus its circularity. Hence, it is lower than the degree of a trivial curvilinear translation for circular curves.
-
-@highlight We model mesoscale gas–liquid–solid three-phase flow.
-@highlight We estimate efficiently capillary force exerted on mobile particles at free surface.
-@highlight We estimate accurately curvature of free surface.
-@highlight We simulate structure formation of colloidal suspension on substrate during drying.
-@highlight We clarify effect of wettability of particles on structure formation.

@@ -1,6 +1,0 @@
- To provide more effective evaluations of hand arm vibration syndromes caused by hand held olive beaters, this study focused on two aspects: the acceleration measured at the tool pole and the analysis of the impulsivity, using the crest factor. The signals were frequency weighted using the weighting curve W as described in the ISO 5349-1 standard. The same source signals were also filtered by the W h-bl filter , because the weighting filter W (unlike the W h-bl filter) could underestimate the effect of high frequency vibration on vibration-induced finger disorders. Ten (experienced) male operators used three beater models (battery powered) in the real olive harvesting condition. High vibration total values were obtained with values never lower than 20 m−2. Concerning the crest factor, the values ranged from 5 to more than 22. This work demonstrated that the hand held olive beaters produced high impulsive loads comparable to the industry hand held tools.
-
-@highlight Analysis of the vibrational behaviour of three hand held olive beaters.
-@highlight Analysis of frequency weighted and unweighted acceleration signals at the handles.
-@highlight The obtained impulsiveness and crest factors were similar to industrial tools.
-@highlight Different weighting curves are useful for the beaters vibration analysis.

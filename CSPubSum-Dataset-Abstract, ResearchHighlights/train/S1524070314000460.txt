@@ -1,5 +1,0 @@
- We present a new fairing method for planar curves, which is particularly well suited for the regularization of the medial axis of a planar domain. It is based on the concept of total variation regularization. The original boundary (given as a closed B-spline curve or several such curves for multiply connected domains) is approximated by another curve that possesses a smaller number of curvature extrema. Consequently, the modified curve leads to a smaller number of branches of the medial axis. In order to compute the medial axis, we use the state-of-the-art algorithm from  which is based on arc spline approximation and a domain decomposition approach. We improve this algorithm by using a different decomposition strategy that allows to reduce the number of base cases from 13 to only 5. Moreover, the algorithm reduces the number of conic arcs in the output by approx. 50%.
-
-@highlight Method for regularization of a medial axis of a planar domain.
-@highlight Boundary curve of domain is smoothed by a new fairing method.
-@highlight Fairing is based on total variation regularization.

@@ -1,7 +1,0 @@
- Firms face a continuous process of technological and environmental changes that requires them to make managerial decisions in a dynamic context. However, costs and constraints prevent firms from making instant adjustments towards optimal conditions and may cause inefficiency to persist in time. We propose a dynamic inefficiency specification that captures differences in the adjustment costs among firms and non-persistent effects of inefficiency heterogeneity. The model is fitted to a ten year sample of Colombian banks. The new specification improves model fit and have effects on efficiency estimations. Overall, Colombian banks present high inefficiency persistence but important differences between institutions are found. In particular, merged banks present low adjustment costs that allow them to recover rapidly efficiency losses derived from merging processes.
-
-@highlight Persistence and heterogeneity are relevant factors when measuring banks efficiency.
-@highlight We propose a dynamic SFA model able to capture different effects of heterogeneity.
-@highlight We study the effects of modeling heterogeneity in/out of the inefficiency dynamics.
-@highlight The application to Colombian banks reveals high but heterogeneous adjustment costs.
-@highlight Foreign, large and merged banks are found to adjust faster technical inefficiency.

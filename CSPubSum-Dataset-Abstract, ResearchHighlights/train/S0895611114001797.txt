@@ -1,6 +1,0 @@
- To improve the convergence rate of the effective maximum a posteriori expectation-maximization (MAP-EM) algorithm in tomographic reconstructions, this study proposes a modified MAP-EM which uses an over-relaxation factor to accelerate image reconstruction. The proposed method, called MAP-AEM, is evaluated and compared with the results for MAP-EM and for an ordered-subset algorithm, in terms of the convergence rate and noise properties. The results show that the proposed method converges numerically much faster than MAP-EM and with a speed that is comparable to that for an ordered-subset type method. The proposed method is effective in accelerating MAP-EM tomographic reconstruction.
-
-@highlight A modified MAP-EM method for faster reconstruction using an over-relaxation factor was proposed.
-@highlight The method, called MAP-AEM, converges numerically much faster than MAP-EM.
-@highlight MAP-AEM's speed can be made faster than an OS-type method if properly optimized.
-@highlight MAP-AEM outperforms MAP-EM in terms of speed, relative error and STD stability.

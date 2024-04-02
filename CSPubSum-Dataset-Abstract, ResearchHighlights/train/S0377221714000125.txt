@@ -1,5 +1,0 @@
- introduced an innovative method to deal with flexible measures. found a computational problem in their approach and tackled this issue. models overestimate the efficiency. In this response, we prove that their claim is incorrect and there is no overestimate in these approaches.
-
-@highlight There is no overestimate in Cook and Zhu (2007) and Toloo (2009) models.
-@highlight The obtained efficiency by Cook and Zhu (2007) and Toloo (2009) is always equal to a CCR result.
-@highlight We illustrate that there is a scale of data such that Toloo’s model is always feasible.

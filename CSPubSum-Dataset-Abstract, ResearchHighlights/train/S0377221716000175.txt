@@ -1,7 +1,0 @@
- We consider the two-machine no-wait job shop minimum makespan scheduling problem. We show that when each job has exactly two equal length operations (also called a proportionate job shop), the problem is solvable in O(nlog n) time. We also show that the proportionate problem becomes strongly NP-hard when some jobs are allowed to visit only one machine. Finally, we show that the proportionate problem with missing operations becomes solvable in O(nlog n) time when all missing operations are on the same machine.
-
-@highlight Highlight
-@highlight We consider the two-machine no-wait proportionate job shop scheduling problem.
-@highlight We present an O(nlog n) algorithm for the problem without missing operations.
-@highlight We show that the problem with missing operations is strongly NP-hard.
-@highlight The O(nlog n) algorithm applies when all missing operations are on the same machine.

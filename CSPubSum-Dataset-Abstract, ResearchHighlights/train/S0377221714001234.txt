@@ -1,6 +1,0 @@
- In this paper, a novel and fast algorithm for identifying the Minimum Size Instance (MSI) of the equivalence class of the Pallet Loading Problem (PLP) is presented. The new algorithm is based on the fact that the PLP instances of the same equivalence class have the property that the aspect ratios of their items belong to an open interval of real numbers. This interval characterises the PLP equivalence classes and is referred to as the Equivalence Ratio Interval (ERI) by authors of this paper. The time complexity of the new algorithm is two polynomial orders lower than that of the best known algorithm. The authors of this paper also suggest that the concept of MSI and its identifying algorithm can be used to transform the non-integer PLP into its equivalent integer MSI.
-
-@highlight The paper deals with minimum size instance of the Pallet Loading Problem.
-@highlight A faster Minimum Size Instance (MSI) identification algorithm is presented.
-@highlight A faster minimum size instance enumerating algorithm is presented.
-@highlight The two algorithms improve solution schemes that require MSI identification.

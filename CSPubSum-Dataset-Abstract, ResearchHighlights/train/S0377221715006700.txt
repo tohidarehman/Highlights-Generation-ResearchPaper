@@ -1,6 +1,0 @@
- We address the problem of determining the cross-training that a work team needs in order to cope with demand mix variation and absences. We consider the case in which all workers can be trained on all tasks, the workforce is a resource that determines the capacity and a complete forecasting of demand is not available. The demand mix variation that the organization wants to be able to cope with is fixed by establishing a maximum time to devote to each product. We contend that this approach is straightforward, has managerial practicality and can be applied to a broad range of practical scenarios. It is required that the demand mix variation be met, even if there are a certain level of absences. To numerically solve the mathematical problem, a constraint-based selection procedure is developed, which we term CODEMI. We provide illustrated examples demonstrating solution quality for the approximation, and we report on an illustrative set of computational cases.
-
-@highlight We study the cross-training that a work team needs in order to cope with demand mix variation.
-@highlight Demand mix variation is defined in a straightforward, business sense manner.
-@highlight A certain level of absences is also considered.
-@highlight To numerically solve the problem a constraint-based selection procedure is developed.

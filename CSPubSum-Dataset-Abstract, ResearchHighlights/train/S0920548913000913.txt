@@ -1,6 +1,0 @@
- In this article, future communication environments have been derived from the analysis of impacts of information communication technology and social service aspects. From the concepts of “Smart Ubiquitous Networks (SUN)” as a short-term realization of Future Networks in ITU-T, this article presents frameworks of the SUN with context awareness and smart resource management. As challenges, we propose methodologies and operational processes to support context awareness and new fine granularity of traffic for smart resource management. Finally we illustrate a use case of SUN considering a smart city to show how SUN capabilities contribute to build smart and ubiquitous communication environments.
-
-@highlight Identifies future telecommunication environments
-@highlight Presents framework of SUN with requirements, capabilities, functional architectures
-@highlight Proposes methodologies to support context awareness and fine granularity of traffic
-@highlight Illustrates a use case of SUN considering a smart city

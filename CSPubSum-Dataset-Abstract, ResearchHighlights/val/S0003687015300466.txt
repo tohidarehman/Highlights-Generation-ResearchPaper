@@ -1,7 +1,0 @@
- Jens Rasmussen's seminal risk management framework and accompanying Accimap method have become highly popular in safety science circles. Despite this, widespread adoption of the model and method in practice has not yet been achieved. This paper describes a project involving the development and implementation of an incident reporting and learning system underpinned by Rasmussen's risk management framework and Accimap method. The system was developed for the led outdoor activity sector in Australia to enable reporting and analysis of injuries and near miss incidents, with the aim of supporting the development of more effective countermeasures. An analysis of the data derived from the first 3 months use of the system by 43 organisations is presented. The outputs provide an in-depth Accimap-based analysis of all incidents reported by participating organisations over the 3 month period. In closing, the importance of developing usable domain specific tools to support translation of Ergonomics theory and methods in practice is discussed.
-
-@highlight Rasmussen's risk management framework and Accimap method are popular in academic circles.
-@highlight However, widespread adoption in practice has not yet been achieved.
-@highlight We present a new incident reporting and learning system underpinned by the framework and Accimap.
-@highlight An analysis of the data from the first 3 months use of the system is presented.
-@highlight The analysis shows contributory factors and relationships across 5 out of the 6 levels of the framework.

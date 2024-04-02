@@ -1,7 +1,0 @@
- To address important challenges in bioinformatics, high throughput data technologies are needed to interpret biological data efficiently and reliably. Clustering is widely used as a first step to interpreting high dimensional biological data, such as the gene expression data measured by microarrays. A good clustering algorithm should be efficient, reliable, and effective, as demonstrated by its capability of determining biologically relevant clusters. This paper proposes a new minimum spanning tree based heuristic B-MST, that is guided by an innovative objective function: the tightness and separation index (TSI). The TSI presented here obtains biologically meaningful clusters, making use of co-expression network topology, and this paper develops a local search procedure to minimize the TSI value. The proposed B-MST is tested by comparing results to:  adjusted rand index (ARI), for microarray data sets with known object classes, and  gene ontology (GO) annotations for data sets without documented object classes.
-
-@highlight A novel minimum spanning tree based heuristic (B-MST) for clustering is introduced.
-@highlight The heuristic has multi-objective of obtaining both tight and separate clusters.
-@highlight The objective function of the heuristic can be used as an internal validation index.
-@highlight It is applied on 13 different data sets and compared with diverse algorithms.
-@highlight B-MST performs better than the compared algorithms on most of the data sets.

@@ -1,7 +1,0 @@
- This paper studies strategic decentralization in binary choice composite network congestion games. A player decentralizes if she lets some autonomous agents to decide respectively how to send different parts of her stock from the origin to the destination. This paper shows that, with convex, strictly increasing and differentiable arc cost functions, an atomic splittable player always has an optimal unilateral decentralization strategy. Besides, unilateral decentralization gives her the same advantage as being the leader in a Stackelberg congestion game. Finally, unilateral decentralization of an atomic player has a negative impact on the social cost and on the costs of the other players at the equilibrium of the congestion game.
-
-@highlight I define unilateral decentralization of an atomic player in congestion games.
-@highlight An atomic player possesses an optimal unilateral decentralization strategy.
-@highlight This optimal strategy depends on her relative weight among the players.
-@highlight It gives her the same advantage as the leader in a Stackelberg congestion game.
-@highlight Her decentralization increases the social cost and the other players’ costs.

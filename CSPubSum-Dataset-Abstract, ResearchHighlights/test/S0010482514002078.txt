@@ -1,7 +1,0 @@
- This paper presents a novel, multilevel approach to the segmentation of various types of pulmonary nodules in computed tomography studies. It is based on two branches of computational intelligence: the fuzzy connectedness (FC) and the evolutionary computation. First, the image and auxiliary data are prepared for the 3D FC analysis during the first stage of an algorithm – the masks generation. Its main goal is to process some specific types of nodules connected to the pleura or vessels. It consists of some basic image processing operations as well as dedicated routines for the specific cases of nodules. The evolutionary computation is performed on the image and seed points in order to shorten the FC analysis and improve its accuracy. After the FC application, the remaining vessels are removed during the postprocessing stage. The method has been validated using the first dataset of studies acquired and described by the Lung Image Database Consortium (LIDC) and by its latest release – the LIDC–IDRI (Image Database Resource Initiative) database.
-
-@highlight We propose a multistage algorithm for 3D lung nodule segmentation.
-@highlight Soft computing: evolutionary computation and fuzzy connectedness is employed.
-@highlight The system is designed to extract various types of lung nodules.
-@highlight Two LIDC datasets with over 500 nodules have been employed for evaluation.
-@highlight A comprehensive efficiency analysis with original metrics has been proposed.

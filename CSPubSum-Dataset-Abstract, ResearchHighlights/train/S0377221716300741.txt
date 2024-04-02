@@ -1,6 +1,0 @@
- We present a new algorithm for optimizing a linear function over the set of efficient solutions of a multiobjective integer program (MOIP). The algorithm’s success relies on the efficiency of a new algorithm for enumerating the nondominated points of a MOIP, which is the result of employing a novel criterion space decomposition scheme which  limits the number of subspaces that are created, and  limits the number of sets of disjunctive constraints required to define the single-objective IP that searches a subspace for a nondominated point. An extensive computational study shows that the efficacy of the algorithm. Finally, we show that the algorithm can be easily modified to efficiently compute the nadir point of a multiobjective integer program.
-
-@highlight We propose a new exact algorithm for solving multi-objective integer programs.
-@highlight The algorithm can optimize a linear function over the set of efficient solutions.
-@highlight The algorithm is efficient and it is faster than the state-of-the-art algorithms.
-@highlight The algorithm can be modified easily to efficiently compute the nadir point.

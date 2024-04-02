@@ -1,7 +1,0 @@
- This research is motivated by the capacity allocation problem at a major provider of customized products to the oil and gas drilling industry. We formulate a finite-horizon, discrete-time, dynamic programming model in which a firm decides how to reserve capacity for emergency demand and how to prioritize two classes of regular demand. While regular demand can be backlogged, emergency demand will be lost if not fulfilled within the period of its arrival. Since backlogging cost accumulates over time, we find it optimal for the firm to adopt a dynamic prioritization policy that evaluates the priorities of different classes of regular demand every period. The optimal prioritization involves metrics that measure backlogging losses from various perspectives. We fully characterize the firm’s optimal prioritization and reservation policy. Those characterizations shed light on managerial insights.
-
-@highlight Develop metrics that evaluate the costs of delay from various aspects.
-@highlight The type of a regular demand class can change over time.
-@highlight Identify conditions under which one class of regular demand is dominant.
-@highlight The dominant demand is favored over the competing class of demand but may not exist.
-@highlight Fully characterize the optimal policy.

@@ -1,5 +1,0 @@
- The problem of geometric (model and system) interoperability is conceptualized as a non-trivial generalization of the problem of part interchangeability in mechanical assemblies. Interoperability subsumes the problems of geometric model quality, exchange, and interchangeability, as well as system integration. Until now, most of the interoperability proposals have been data-centric. Instead, we advocate a query-centric approach that can deliver interoperable solutions to many common geometric tasks in computer aided design and manufacturing, including model acquisition and exchange, metrology, and computer aided design/analysis integration.
-
-@highlight Queries solve interoperability problems that are unsolved by a data-centric approach.
-@highlight Interoperability, interchangeability, and integration use a semantic reference model.
-@highlight A hierarchy solves interoperation in design and manufacturing of incidence structures.

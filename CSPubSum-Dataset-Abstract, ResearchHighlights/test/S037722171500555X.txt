@@ -1,7 +1,0 @@
- We introduce and analyze the Partitioning Min–Max Weighted Matching (PMMWM) Problem. PMMWM combines the problem of partitioning a set of vertices of a bipartite graph into disjoint subsets of restricted size and the strongly NP-hard Min–Max Weighted Matching (MMWM) Problem, that has recently been introduced in the literature. In contrast to PMMWM, the latter problem assumes the partitioning to be given. Applications arise in the field of intermodal container terminals and sea ports. We propose a MILP formulation for PMMWM and prove that the problem is NP-hard in the strong sense. Two heuristic frameworks are presented. Both of them outperform standard optimization software. Our extensive computational study proves that the algorithms provide high quality solutions within reasonable time.
-
-@highlight We introduce the Partitioning Min–Max Weighted Matching Problem (PMMWM).
-@highlight PMMWM combines a maximum matching and a partitioning problem.
-@highlight Applications arise in the field of intermodal container terminals and sea ports.
-@highlight We prove strong NP-hardness of PMMWM.
-@highlight We present two heuristic frameworks and an extensive computational study.

@@ -1,7 +1,0 @@
- This paper presents a novel algorithm for medial surfaces extraction that is based on the density-corrected Hamiltonian analysis of Torsello and Hancock . In order to cope with the exponential growth of the number of voxels, we compute a first coarse discretization of the mesh which is iteratively refined until a desired resolution is achieved. The refinement criterion relies on the analysis of the momentum field, where only the voxels with a suitable value of the divergence are exploded to a lower level of the hierarchy. In order to compensate for the discretization errors incurred at the coarser levels, a dilation procedure is added at the end of each iteration. Finally we design a simple alignment procedure to correct the displacement of the extracted skeleton with respect to the true underlying medial surface. We evaluate the proposed approach with an extensive series of qualitative and quantitative experiments.
-
-@highlight A hierarchical 3D skeletonization algorithm is proposed.
-@highlight Our method is based on a density-corrected Hamiltonian analysis.
-@highlight The discretization errors from the coarser levels are corrected using dilation.
-@highlight The skeleton is further refined by aligning it to the true underlying medial surface.
-@highlight We show that our method is robust against noise and mesh resolution.

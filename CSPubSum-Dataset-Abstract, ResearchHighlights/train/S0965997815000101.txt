@@ -1,6 +1,0 @@
- With the accuracy limitation of some transfer methods in the self-parallel fluid–structure interfaces, a data transfer method is proposed by an ISOMAP (Isometric Mapping) nonlinear dimensionality reduction. Through this new method, the data transfer problem of the self-parallel interfaces is solved. Example of a 3D turbine blade shows that the proposed method can improve the transfer accuracy in the non-matching meshes.
-
-@highlight The impact of self-parallel interfaces on the accuracy of the data transfer methods is investigated.
-@highlight A method is proposed to transfer data through the planar projection spaces.
-@highlight A new technique is set up to project 3D interfaces into the planar space by an ISOMAP nonlinear dimensionality reduction.
-@highlight The proposed method is compared with some methods in a pressure transfer of a turbine blade.

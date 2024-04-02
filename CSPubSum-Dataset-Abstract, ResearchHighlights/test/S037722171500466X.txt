@@ -1,8 +1,0 @@
- Given n facilities of prescribed lengths and a flow matrix, the single row facility layout problem (SRFLP) is to arrange the facilities along a straight line so as to minimize the total arrangement cost, which is the sum of the products of the flows and center-to-center distances between facilities. We propose interchange and insertion neighborhood exploration (NE) procedures with time complexity O(n 2), which is an improvement over O(n 3)-time NE procedures from the literature. Numerical results show that, for large SRFLP instances, our insertion-based local search (LS) algorithm is two orders of magnitude faster than the best existing LS techniques. As a case study, we embed this LS algorithm into the variable neighborhood search (VNS) framework. We report computational results for SRFLP instances of size up to 300 facilities. They indicate that our VNS implementation offers markedly better performance than the variant of VNS that uses a recently proposed O(n 3)-time insertion-based NE procedure.
-
-@highlight We consider the single row facility layout problem (SRFLP).
-@highlight Neighborhood exploration procedures with time complexity O(n
-@highlight 2) are proposed.
-@highlight Insertion-based local search (LS) algorithm is embedded into the VNS framework.
-@highlight Numerical results are reported for SRFLP instances of size up to 300 facilities.
-@highlight Results show that the speedup provided by our LS algorithms is rather spectacular.

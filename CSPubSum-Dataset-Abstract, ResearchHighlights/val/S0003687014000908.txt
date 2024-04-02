@@ -1,6 +1,0 @@
- Rapid advances in computing power have driven the development of smaller and lighter technology products, with novel input devices constantly being produced in response to new user behaviors and usage contexts. The aim of this research was to investigate the feasibility of operating chorded keyboard control modules in concert with pointing devices such as styluses and mice. We compared combinations of two novel chorded keyboards with different pointing devices in hopes of finding a better combination for future electronic products. Twelve participants were recruited for simulation testing, and paired sample t testing was conducted to determine whether input and error rates for the novel keyboards were improved significantly over those of traditional input methods. The most efficient input device combination tested was the combination of a novel cross-shaped key keyboard and a stylus, suggesting the high potential for use of this combination with future mobile IT products.
-
-@highlight We compared combinations of two novel chorded keyboards with various pointing devices.
-@highlight Usage performance was determined by input rate, accuracy, and user assessments.
-@highlight Input rates of both keyboards with stylus and mouse devices improved with training.
-@highlight The best combination observed was a novel cross-shaped key keyboard and a stylus.

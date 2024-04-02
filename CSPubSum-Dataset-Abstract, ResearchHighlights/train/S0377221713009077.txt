@@ -1,6 +1,0 @@
- Meca et al.  studied a class of inventory games which arise when a group of retailers who observe demand for a common item decide to cooperate and make joint orders with the EOQ policy. In this paper, we extend their model to the situation where retailer’s delay in payments is permitted by the supplier. We introduce the corresponding inventory game with permissible delay in payments, and prove that its core is nonempty. Then, a core allocation rule is proposed which can be reached through population monotonic allocation scheme. Under this allocation rule, the grand coalition is shown to be stable from a farsighted point of view.
-
-@highlight We study the inventory games with permissible delay in payments.
-@highlight We show that the core of the inventory games with permissible delay is nonempty.
-@highlight A core allocation rule is defined in our paper.
-@highlight The grand coalition under the allocation rule is farsighted stable outcome.

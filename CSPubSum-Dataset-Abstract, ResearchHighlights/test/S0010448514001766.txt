@@ -1,6 +1,0 @@
- In this paper, we focus on the geometric shapes of the C-Bézier curves for the space span sin cos . First, any C-Bézier curve is divided into a Bézier curve and a trigonometric part. So any C-Bézier curve describes the trajectory of a point orbiting around a center in an elliptical orbit while the orbital plane is moving as the ellipse center translating along a Bézier curve. Second, the geometric characters of the C-Bézier curve (the control points of the center Bézier curve, the trajectories of the vertices and the foci of the ellipse, etc.), can all be explicitly presented by the control points of the C-Bézier curve. Third, considering some special cases, we give the sufficient and necessary conditions of C-Bézier basis forming Bézier curve, ellipse, circle, common helix, and so on. Lastly, we show how to build some geometrically intuitive curves through the C-Bézier basis without rational forms.
-
-@highlight Transformation matrixes between any C-Bézier curve and its separated form.
-@highlight Geometric shape and the explicit expressions of the geometric characters of any C-Bézier curve.
-@highlight Sufficient and necessary conditions for the C-Bézier basis constructing some classical curves.
-@highlight Some classical curves can be constructed intuitively.

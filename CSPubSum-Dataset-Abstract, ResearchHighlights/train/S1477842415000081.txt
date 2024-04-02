@@ -1,8 +1,0 @@
- Protected module architectures (PMAs) are isolation mechanisms of emerging processors that provide security building blocks for modern software systems. Reasoning about these building blocks means reasoning about elaborate assembly code, which can be very complex due to the loose structure of the code. One way to overcome this complexity is providing the code with a well-structured semantics. This paper presents one such semantics, namely a fully abstract trace semantics, for an assembly language enhanced with PMA. The trace semantics represents the behaviour of protected assembly code with simple abstractions, unburdened by low-level details, at the maximum degree of precision. Furthermore, it captures the capabilities of attackers to protected code and simplifies the formulation of a secure compiler targeting PMA-enhanced assembly language.
-
-@highlight Formalises
-@highlight : an assembly language extended with protected module architectures – an isolation mechanism found in emerging processors.
-@highlight Presents two trace semantics for
-@highlight programs and proves that both are fully abstract w.r.t. the operational semantics.
-@highlight Details which problems arise when considering readout and writeout labels in the trace semantics of
-@highlight programs.

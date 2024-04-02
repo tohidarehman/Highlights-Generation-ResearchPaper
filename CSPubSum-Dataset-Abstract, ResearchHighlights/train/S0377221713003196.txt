@@ -1,6 +1,0 @@
- This contribution compares existing and newly developed techniques for geometrically representing mean–variance–skewness portfolio frontiers based on the rather widely adapted methodology of polynomial goal programming (PGP) on the one hand and the more recent approach based on the shortage function on the other hand. Moreover, we explain the working of these different methodologies in detail and provide graphical illustrations in relation to the goal programming literature in operations research. Inspired by these illustrations, we prove two new results: a formal relation between both approaches and a generalization of the well-known one fund separation theorem from traditional mean–variance portfolio theory.
-
-@highlight First comparison of methods to construct mean–variance–skewness (MVS) portfolios.
-@highlight First result linking Polynomial Goal Programming (PGP) and shortage function models.
-@highlight Generalization of one fund theorem from MV portfolio theory.
-@highlight PGP is extended beyond its initial portfolio setting.

@@ -1,5 +1,0 @@
- In this study, a 3D solid model of co-continuous ceramic composites was reconstructed using a single 2D microstructure section image. First, the volume fractions and distribution functions of both metallic alloy and ceramic phases were statistically obtained by analyzing a single 2D microstructure SEM image after binarization. The distribution functions of the two phases were then revised to generate a Gaussian random field. A 3D solid model of co-continuous ceramic composites was obtained through 3D fast Fourier transform. A Micro-CT model was proposed for comparison. Volume fraction and distribution function differences between the reconstructed model and the Micro-CT model were acceptable within the tolerance range. Results confirmed that the reproduced solid model retained the original geometrical characteristics of the real 2D microstructure SEM image as well as the micro-CT model.
-
-@highlight 3D model of co-continuous ceramic composites was reconstructed using a 2D image.
-@highlight Statistical characteristics were calculated in the model.
-@highlight The difference between 3D model and 2D old image was in permissible error range.

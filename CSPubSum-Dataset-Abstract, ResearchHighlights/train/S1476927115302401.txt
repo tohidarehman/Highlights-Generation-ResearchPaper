@@ -1,5 +1,0 @@
- Casein kinase-1 (CK1) isoforms actively participate in the down-regulation of canonical Wnt signaling pathway; however recent studies have shown their active roles in oncogenesis of various tissues through this pathway. Functional loss of two isoforms (CK1-α/ε) has been shown to activate the carcinogenic pathway which involves the stabilization of of cytoplasmic β-catenin. Development of anticancer therapeutics is very laborious task and depends upon the structural and conformational details of the target. This study focuses on, how the structural dynamics and conformational changes of two CK1 isoforms are synchronized in carcinogenic pathway. The conformational dynamics in kinases is the responsible for their action as has been supported by the molecular docking experiments.
-
-@highlight A comparative MD simulation of two isoforms of CK1 reveals their synchronized behavior.
-@highlight The two state conformational mechanism for CK1-isoforms is proposed.
-@highlight Docking studies at different conformations validates the conformational switch.

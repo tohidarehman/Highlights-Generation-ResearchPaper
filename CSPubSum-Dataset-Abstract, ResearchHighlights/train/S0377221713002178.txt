@@ -1,7 +1,0 @@
- This note proposes an alternative procedure for identifying violated subtour elimination constraints (SECs) in branch-and-cut algorithms for elementary shortest path problems. The procedure is also applicable to other routing problems, such as variants of travelling salesman or shortest Hamiltonian path problems, on directed graphs. The proposed procedure is based on computing the strong components of the support graph. The procedure possesses a better worst-case time complexity than the standard way of separating SECs, which uses maximum flow algorithms, and is easier to implement.
-
-@highlight Presents alternative procedure for separating subtour elimination constraints.
-@highlight Procedure is based on computing the strong components of the support graph.
-@highlight Procedure has better worst-case time complexity than standard way of separating SECs.
-@highlight Moreover, procedure is easier to implement.
-@highlight Computational experiments verify practical usefulness of the procedure.

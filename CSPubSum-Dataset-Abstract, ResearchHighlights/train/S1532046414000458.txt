@@ -1,7 +1,0 @@
- Cloud computing is emerging as the next-generation IT architecture. However, cloud computing also raises security and privacy concerns since the users have no physical control over the outsourced data. This paper focuses on fairly retrieving encrypted private medical records outsourced to remote untrusted cloud servers in the case of medical accidents and disputes. Our goal is to enable an independent committee to fairly recover the original private medical records so that medical investigation can be carried out in a convincing way. We achieve this goal with a fair remote retrieval (FRR) model in which either t investigation committee members cooperatively retrieve the original medical data or none of them can get any information on the medical records. We realize the first FRR scheme by exploiting fair multi-member key exchange and homomorphic privately verifiable tags. Based on the standard computational Diffie–Hellman (CDH) assumption, our scheme is provably secure in the random oracle model (ROM). A detailed performance analysis and experimental results show that our scheme is efficient in terms of communication and computation.
-
-@highlight We propose the fair remote retrieval (FRR) model.
-@highlight We motivate FRR to fairly retrieve encrypted medical records from the cloud.
-@highlight We construct the first FRR scheme.
-@highlight We prove the security of our scheme in the random oracle model.
-@highlight We give a detailed performance analysis and experimental results.

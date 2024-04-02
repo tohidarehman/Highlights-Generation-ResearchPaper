@@ -1,5 +1,0 @@
- MEMS (microelectromechanical systems) are used in many fields including display applications, which are extensively studied both in academia and industry. For practical devices, numbers of advanced technologies have been developed based on MEMS concept. For display technologies, projection displays, reflective displays, transmissive displays and other display modes have been achieved by different MEMS modes. In this review, the current MEMS-based display technologies are introduced and discussed including digital micromirror device (DMD), laser scanning display (LSD), interferometric modulator display (IMOD), digital micro-shutter (DMS), time multiplexed optical shutter (TMOS), grating light valve (GLV) and others. The typical structure and fundamental of each display mode are interpreted.
-
-@highlight MEME-based display technologies are reviewed.
-@highlight Projection, reflective, transmissive and novel display modes are included.
-@highlight Typical structures and fundamentals of different display modes are interpreted.

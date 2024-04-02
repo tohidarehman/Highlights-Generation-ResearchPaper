@@ -1,7 +1,0 @@
- We introduce the integrative cooperative search method (ICS), a multi-thread cooperative search method for multi-attribute combinatorial optimization problems. ICS musters the combined capabilities of a number of independent exact or meta-heuristic solution methods. A number of these methods work on sub-problems defined by suitably selected subsets of decision-set attributes of the problem, while others combine the resulting partial solutions into complete ones and, eventually, improve them. All these methods cooperate through an adaptive search-guidance mechanism, using the central-memory cooperative search paradigm. Extensive numerical experiments explore the behavior of ICS and its interest through an application to the multi-depot, periodic vehicle routing problem, for which ICS improves the results of the current state-of-the-art methods.
-
-@highlight New methodology for multi-attribute combinatorial optimization.
-@highlight Decomposition method based on decision-set attributes of the problem.
-@highlight New cooperative search framework with adaptive search-guidance mechanism.
-@highlight Extensive numerical experiments to characterize the new methodology.
-@highlight Improve the state-of-art for the multi-depot, periodic vehicle routing problem.

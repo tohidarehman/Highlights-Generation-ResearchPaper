@@ -1,7 +1,0 @@
- Recombination zone and Förster resonance energy transfer (FRET) in multilayer organic light-emitting diodes (OLEDs) were investigated. Basis device architecture is indium tin oxide (ITO)/N, N′-diphenyl-N, N′-bis(1-naphthyl-phenyl)-1, 1′-biphenyl-4, 4′-diamine (NPB)/4-(dicyanomethylene)-2-tert-butyl-6-(1, 1, 7, 7- tetramethyljulolidyl-9-enyl)-4H-pyran (DCJTB)/NPB (spacer)/tris-(8-hydroxyl quinoline) aluminum (Alq3)/2, 9-dimethyl-4, 7-diphenyl-1, 10-phenanthroline (BCP)/Al. Exciton recombination zone is located at DCJTB and Alq3 layers. When the NPB spacer is 10-nm-thick, Alq3 emission governs in electroluminescent (EL) spectra owing to absence of FRET between DCJTB and Alq3. FRET occurs while the NPB spacer is 5-nm-thick and thus DCJTB emission is dominant in EL spectra. As the emissive layout of DCJTB/Alq3/NPB substitutes for DCJTB/NPB/Alq3, both DCJTB and NPB emissions are observed due to electron-blocking effect of NPB.
-
-@highlight Study of emissive layer layout dependent recombination zone and energy transfer.
-@highlight Basis emissive layer layout is DCJTB (acceptor, A)/NPB (spacer)/Alq3 (donor, D).
-@highlight Efficiency of energy transfer from D to A is dependent on the thickness of spacer.
-@highlight Recombination zone is located at DCJTB and Alq3 in DCJTB/NPB/Alq3 layout.
-@highlight Recombination zone of DCJTB/Alq3/NPB layout extends to NPB.

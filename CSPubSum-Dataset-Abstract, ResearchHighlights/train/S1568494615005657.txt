@@ -1,7 +1,0 @@
- We show that the assertions (vii) and (viii) of Theorem 3.1 proposed by Agarwal et al. [Appl. Soft Comput. 13  3552-3566] are incorrect by a counterexample.
-
-@highlight We point out that properties (vii) and (viii) in Theorem 3.1 of Agarwal et al. (2013) for two generalized intuitionistic fuzzy soft sets are not true by using a counterexample.
-@highlight We show that
-@highlight for generalized intuitionistic fuzzy soft sets is not true in general.
-@highlight We point out that
-@highlight for generalized intuitionistic fuzzy soft sets is not true in general.

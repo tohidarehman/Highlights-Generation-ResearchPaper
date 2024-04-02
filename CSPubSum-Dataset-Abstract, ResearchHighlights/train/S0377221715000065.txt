@@ -1,6 +1,0 @@
- Despite the fact that the Capacitated Arc Routing Problems (CARPs) received substantial attention in the literature, most of the research concentrates on the symmetric and single-depot version of the problem. In this paper, we fill this gap by proposing an approach to solving a more general version of the problem and analysing its properties. We present an MILP formulation that accommodates asymmetric multi-depot case and consider valid inequalities that may be used to tighten its LP relaxation. A symmetry breaking scheme for a single-depot case is also proposed. An extensive numerical study is carried to investigate the properties of the problem and the proposed solution approach.
-
-@highlight The directed multidepot capacitated arc routing problem is addressed.
-@highlight An MILP formulation and some valid inequalities that can be used to tighten its LP-relaxation are proposed.
-@highlight A branch-and-cut approach for solving the problem exactly is presented.
-@highlight A numerical study exploring the properties of the multidepot version of the problem and of the proposed approach is reported.

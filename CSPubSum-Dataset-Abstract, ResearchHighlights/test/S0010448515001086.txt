@@ -1,7 +1,0 @@
- In numerical control, pocketing is a widely extended machining operation with different industrial applications. Conventional strategies (directional and contour parallel) provide a uniform material removal rate, but they show discontinuities and undesirable stops. However, smooth spiral paths overcome discontinuities, although the removal rate is not constant, and their implementation is complex. In order to provide an in-between solution, our algorithm embeds an Archimedean spiral into a linear morphing definition of the pocket. The solution is smooth, simple, analytic, and leads to a B-spline curve. Different tests were performed to compare the proposed spiral to other conventional and spiral strategies. To study the influence of the tool-path geometry, we computed engagement angle and feed direction, and measured force and time. The results demonstrate that our spiral is a committed, analytic and easy to compute solution.
-
-@highlight We define spiral tool-paths via linear interpolation between closed curves.
-@highlight The algorithm is simple and provides an analytic solution in B-spline form.
-@highlight The tool path is smooth and maintains constant radial distances between laps.
-@highlight For non-convex pockets, the interpolation of its boundary and medial axis provides the spiral.
-@highlight Cutter engagement, feed direction, time and forces help to analyse the spiral.

@@ -1,7 +1,0 @@
- We deal with the multi-attribute decision problem with sequentially presented decision alternatives. Our decision model is based on the assumption that the decision-maker has a major attribute that must be “optimized” and minor attributes that must be “satisficed”. In the vendor selection problem, for example, the product price could be the major factor that should be optimized, while the product quality and delivery time could be the minor factors that should satisfy certain aspiration levels. We first derive the optimal selection strategy for the discrete-time case in which one alternative is presented at each time period. The discrete-time model is then extended to the continuous-time case in which alternatives are presented sequentially at random times. A numerical example is used to analyze the effects of the satisficing condition and the uncertainty on the optimal selection strategy.
-
-@highlight Several decision alternatives with multiple attributes are presented sequentially over time.
-@highlight We assume that the multiple attributes can be divided into a major attribute and minor ones.
-@highlight The major attribute must be “optimized”, while the minor attributes must be “satisficed”.
-@highlight We propose the optimal strategy that maximizes the probability of selecting the best choice.
-@highlight We consider the continuous-time case as well as the discrete-time case.

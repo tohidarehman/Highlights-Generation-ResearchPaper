@@ -1,7 +1,0 @@
- Epilepsy is a neurological disorder which affects nearly 1.5% of the world׳s total population. Trained physicians and neurologists visually scan the long-term electroencephalographic (EEG) records to identify epileptic seizures. It generally requires many hours to interpret the data. Therefore, tools for quick detection of seizures in long-term EEG records are very useful. This study proposes an algorithm to help detect seizures in long-term iEEG based on low computational costs methods using Spectral Power and Wavelet analysis. The detector was tested on 21 invasive intracranial EEG (iEEG) records. A sensitivity of 85.39% was achieved. The results indicate that the proposed method detects epileptic seizures in long-term iEEG records successfully. Moreover, the algorithm does not require long processing time due to its simplicity. This feature will allow significant time reduction of the visual inspection of iEEG records performed by the specialists.
-
-@highlight It is developed to reduce the visual inspection time spent by physicians.
-@highlight It is based on simple and low computational costs methods.
-@highlight It uses thresholds instead of complex classifier. So, no training step is required.
-@highlight It can be applied to new records that have not been presented to the algorithm.
-@highlight It is simpler than other algorithms, similar or superior performances were achieved.

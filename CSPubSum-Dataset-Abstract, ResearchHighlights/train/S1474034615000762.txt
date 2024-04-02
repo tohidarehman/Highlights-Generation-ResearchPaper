@@ -1,6 +1,0 @@
- This paper addresses the planning issue in hinterland barge transport domain, characterized by limited information sharing, lack of cooperation and conflict of interest among different parties (terminal and barge party). The planning problem is formulated as a novel Stackelberg game to model a leader–followers bi-level optimization problem. A hybrid algorithm is developed that concerns different objectives (vessel turn around and terminal berthing capacity) simultaneously while fulling pre-defined operational constraints. The presented algorithm is outlined in a hierarchical way and embedded into dedicated agents as decision-making kernel. We describe the architecture and the implementation of the proposed mediator-based multi agent system and overall coupling framework include agent identification, coordination and decision making. A case study evaluates the performance of our approach in terms of global optimality compared with other related approach.
-
-@highlight An integrated platform for efficient hinterland transport planning.
-@highlight A novel formulation of planning problem with a bi-level leader–follower model.
-@highlight Information sharing is achieved using a mediator-based multi agent system.
-@highlight Feasibility and effectiveness are validated through case study.

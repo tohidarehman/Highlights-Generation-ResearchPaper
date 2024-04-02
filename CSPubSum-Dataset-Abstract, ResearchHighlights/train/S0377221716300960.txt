@@ -1,6 +1,0 @@
- In an algorithm for a problem whose candidate solutions are selections of objects, an ejection chain is a sequence of moves from one solution to another that begins by removing an object from the current solution. The quadratic multiple knapsack problem extends the familiar 0–1 knapsack problem both with several knapsacks and with values associated with pairs of objects. A hybrid algorithm for this problem extends a local search algorithm through an ejection chain mechanism to create more powerful moves. In addition, adaptive perturbations enhance the diversity of the search process. The resulting algorithm produces results that are competitive with the best heuristics currently published for this problem. In particular, it improves the best known results on 34 out of 60 test problem instances and matches the best known results on all but 6 of the remaining instances.
-
-@highlight This paper presents an ejection chain approach (ECA) to tackle the quadratic multiple knapsack problem (QMKP).
-@highlight To our knowledge, this is the first paper to employ the ejection chain to solve the QMKP.
-@highlight A powerful neighborhood construction phase based on greedy and random operators is embedded in our ECA procedure.
-@highlight ECA improves upper bounds for 34 instances and matches the best known results for the remaining ones except 6 cases.

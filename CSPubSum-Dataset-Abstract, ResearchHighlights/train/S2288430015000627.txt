@@ -1,7 +1,0 @@
- Blisk is an essential component in aero engines. To maintain good aero-dynamic performance, one critical machining requirement for blades on blisk is that the generated five-axis tool path should be boundary-conformed. For a blade discretely modeled as a point cloud or mesh, most existing popular tool path generation methods are unable to meet this requirement. To address this issue, a novel five-axis tool path generation method for a discretized blade on blisk is presented in this paper. An idea called Linear Morphing Cone (LMC) is first proposed, which sets the boundary of the blade as the constraint. Based on this LMC, a CC curve generation and expansion method is then proposed with the specified machining accuracy upheld. Using the proposed tool path generation method, experiments on discretized blades are carried out, whose results show that the generated tool paths are both uniform and boundary-conformed.
-
-@highlight Five-axis finishing tool path based on Linear Morphing Cone (LMC) is presented.
-@highlight The method is implemented on a mesh model.
-@highlight Tool path generated from the proposed method is boundary-conforming.
-@highlight Boundaries of the machining region can be arbitrarily assigned.
-@highlight Experiments are carried out on two mesh blades.

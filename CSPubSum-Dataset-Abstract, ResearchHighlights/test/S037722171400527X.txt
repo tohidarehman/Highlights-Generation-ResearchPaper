@@ -1,7 +1,0 @@
- We study appointment scheduling problems in continuous time. A finite number of clients are scheduled such that a function of the waiting time of clients, the idle time of the server, and the lateness of the schedule is minimized. The optimal schedule is notoriously hard to derive within reasonable computation times. Therefore, we develop the lag order approximation method, that sets the client’s optimal appointment time based on only a part of his predecessors. We show that a lag order of two, i.e., taking two predecessors into account, results in nearly optimal schedules within reasonable computation times. We illustrate our approximation method with an appointment scheduling problem in a CT-scan area.
-
-@highlight We study appointment scheduling systems in continuous time.
-@highlight The objective is to schedule customers balancing waiting and idle time and lateness.
-@highlight The optimal solution of such systems is hard to obtain.
-@highlight We propose the lag order approximation method to reduce the computational complexity.
-@highlight Numerical results show that the method is fast and nearly optimal.

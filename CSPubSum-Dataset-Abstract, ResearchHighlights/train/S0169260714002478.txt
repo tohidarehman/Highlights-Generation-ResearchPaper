@@ -1,7 +1,0 @@
- This paper demonstrates the utility of a differencing technique to transform surface EMG signals measured during both static and dynamic contractions such that they become more stationary. The technique was evaluated by three stationarity tests consisting of the variation of two statistical properties, i.e., mean and standard deviation, and the reverse arrangements test. As a result of the proposed technique, the first difference of EMG time series became more stationary compared to the original measured signal. Based on this finding, the performance of time-domain features extracted from raw and transformed EMG was investigated via an EMG classification problem (i.e., eight dynamic motions and four EMG channels) on data from 18 subjects. The results show that the classification accuracies of all features extracted from the transformed signals were higher than features extracted from the original signals for six different classifiers including quadratic discriminant analysis. On average, the proposed differencing technique improved classification accuracies by 2–8%.
-
-@highlight The stationarity of surface EMG signals during upper-limb motions is investigated.
-@highlight The differencing technique can transform EMG signals to become more stationary.
-@highlight The proposed differencing technique improves classification accuracies by 2–8%.
-@highlight Difference absolute mean value exhibits the best performance with an accuracy of 95.82%.
-@highlight EMG derivative features are recommended for use in the classification of dynamic motions.

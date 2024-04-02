@@ -1,6 +1,0 @@
- Just-In-Time (JIT) system involves frequent shipments of smaller batch sizes from the supplier to the buyer. For the buyer, it results in the reduction of the inventory holding cost. However, it is often accompanied by an increase in the set up cost for the supplier. Thus, the supplier may be reluctant to switch to the JIT mode unless he is assured of some form of compensation. In this paper, we introduce a pricing scheme where the buyer offers the supplier an increase in the wholesale price, to encourage the supplier to switch to the JIT mode. Such a pricing scheme may be termed as a surcharge. We develop the economics of surcharge pricing as a supply chain coordinating mechanism under JIT environment. We also establish the equivalence of surcharge pricing with other common coordination mechanisms like Quantity Discount (QD) and Joint Economic Lot Sizing (JELS) model.
-
-@highlight Buyer offers a price increase to the supplier asking him to reduce the batch sizes.
-@highlight Surcharge pricing as a mechanism for supply chain coordination is introduced.
-@highlight Equivalence of surcharge pricing with Joint Economic Lot Sizing and quantity discount has been established.
-@highlight Analysis also covers the case of information asymmetry.

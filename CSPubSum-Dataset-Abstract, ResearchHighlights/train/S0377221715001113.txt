@@ -1,8 +1,0 @@
- A network needs to be constructed by a server (construction crew) that has a constant construction speed which is incomparably slower than the server’s travel speed within the already constructed part of the network. A vertex is recovered when it becomes connected to the depot by an already constructed path. Due dates for recovery times are associated with vertices. The problem is to obtain a construction schedule that minimizes the maximum lateness of vertices, or the number of tardy vertices. We introduce these new problems, discuss their computational complexity, and present mixed-integer linear programming formulations, heuristics, a branch-and-bound algorithm, and results of computational experiments.
-
-@highlight Two new network construction problems are introduced.
-@highlight Complexity results are presented.
-@highlight MILP formulations and a branch-and-bound algorithm are developed.
-@highlight Novel lower bounding technique based on Steiner tree relaxations is used.
-@highlight Computational experiments use random instances and real-life data.
-@highlight Branch-and-bound algorithm is currently the best exact method.

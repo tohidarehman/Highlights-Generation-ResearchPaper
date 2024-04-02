@@ -1,5 +1,0 @@
- HumanÃ¢ÂÂComputer Interaction is a discipline concerned with studying the way people interact with computers. The main aim of this research area is to design, evaluate and implement computer systems that allow people to carry out their activities productively and safely. In recent years, the utilization of Natural Language Processing in the form of Natural Language Interfaces toward an effective HumanÃ¢ÂÂComputer Interaction has received much attention. Several platforms have been developed to enable humans to interact with computers through Natural Language Interfaces such as speech recognition systems, natural language query systems, semantic search engines and question answering systems. However, the full extent of the synergies between these two research fields is yet to be realized.
-
-@highlight This special issue is devoted to Natural Language Processing and HumanÃ¢ÂÂComputer Interaction.
-@highlight 9 high-quality research contributions have been gathered.
-@highlight The synergies between these two research fields are analyzed.

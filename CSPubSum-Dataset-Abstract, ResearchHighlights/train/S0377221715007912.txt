@@ -1,7 +1,0 @@
- To improve service delivery, healthcare facilities look toward operations research techniques, discrete event simulation and continuous improvement approaches such as Lean manufacturing. Lean management often includes a Kaizen event to facilitate the acceptance of the project by the employees. Business game is also used as a tool to increase understanding of Lean management concepts. In this paper, we study how a business game can be used jointly with discrete event simulation to test scenarios defined by team members during a Kaizen event. The aim is to allow a rapid and successful implementation of the solutions developed during the Kaizen. Our approach has been used to improve patients’ trajectory in an outpatient hematology–oncology clinic. Patient delays before receiving their treatment were reduced by 74 percent after 19 weeks.
-
-@highlight Reducing patient delays with discrete event simulation (DES) in an oncology clinic.
-@highlight Participative simulation (PS) use people creativity to improve patient pathways.
-@highlight PS combined with DES may support participants during the Kaizen to test ideas.
-@highlight Using DES during the Kaizen event fosters quick implementation.
-@highlight Quick implementation of changes after the Kaizen is crucial to guaranty its success.

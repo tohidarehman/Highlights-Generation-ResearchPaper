@@ -1,7 +1,0 @@
- Current approaches to single and cross-domain polarity classification usually use bag of words, n-grams or lexical resource-based classifiers. In this paper, we propose the use of meta-learning to combine and enrich those approaches by adding also other knowledge-based features. In addition to the aforementioned classical approaches, our system uses the BabelNet multilingual semantic network to generate features derived from word sense disambiguation and vocabulary expansion. Experimental results show state-of-the-art performance on single and cross-domain polarity classification. Contrary to other approaches, ours is generic. These results were obtained without any domain adaptation technique. Moreover, the use of meta-learning allows our approach to obtain the most stable results across domains. Finally, our empirical analysis provides interesting insights on the use of semantic network-based features.
-
-@highlight We propose a new generic meta-learning-based approach to polarity categorization.
-@highlight Study impact of word sense disambiguation and vocabulary expansion-based features.
-@highlight State-of-the-art results on single and cross-domain polarity categorization.
-@highlight Our approach does not perform any domain adaptation, therefore it is generic.
-@highlight Our approach obtains the most stable results across the different tested domains.

@@ -1,9 +1,0 @@
- In this study, enhancements to the numerical representation of sluice gates and turbines were made to the hydro-environmental model Environmental Fluid Dynamics Code (EFDC), and applied to the Severn Tidal Power Group Cardiff–Weston Barrage. The extended domain of the EFDC Continental Shelf Model (CSM) allows far-field hydrodynamic impact assessment of the Severn Barrage, pre- and post-enhancement, to demonstrate the importance of accurate hydraulic structure representation. The enhancements were found to significantly affect peak water levels in the Bristol Channel, reducing levels by nearly 1m in some areas, and even affect predictions as far-field as the West Coast of Scotland, albeit to a far lesser extent. The model was tested for sensitivity to changes in the discharge coefficient, C , used in calculating discharge through sluice gates and turbines. It was found that the performance of the Severn Barrage is not sensitive to changes to the C value, and is mitigated through the continual, rather than instantaneous, discharge across the structure. The EFDC CSM can now be said to be more accurately predicting the impacts of tidal range proposals, and the investigation of sensitivity to C improves the confidence in the modelling results, despite the uncertainty in this coefficient.
-
-@highlight Enhancements made to numerical representation of hydraulic structures in EFDC.
-@highlight New representation has greatly affected the predicted impact of the Severn Barrage.
-@highlight Enhancements allow 1st accurate assessment of far-field impacts of Severn Barrage.
-@highlight Sensitivity testing demonstrated that uncertainty in C
-@highlight value is not significant.
-@highlight Uncertainty in the C
-@highlight value can be mitigated through increased sluice capacity.

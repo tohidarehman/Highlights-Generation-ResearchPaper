@@ -1,5 +1,0 @@
- This paper presents a tool for automatic assessment of skeletal bone age according to a modified version of the Tanner and Whitehouse (TW2) clinical method. The tool is able to provide an accurate bone age assessment in the range 0–6 years by processing epiphysial/metaphysial ROIs with image-processing techniques, and assigning TW2 stage to each ROI by means of hidden Markov models. The system was evaluated on a set of 360 X-rays (180 for males and 180 for females) achieving a high success rate in bone age evaluation (mean error rate of 0.41±0.33 years comparable to human error) as well as outperforming other effective methods. The paper also describes the graphical user interface of the tool, which is also released, thus to support and speed up clinicians’ practices when dealing with bone age assessment.
-
-@highlight Automated segmentation of X-ray images for skeletal bone age assessment.
-@highlight Hidden Markov models for bone development modelling.
-@highlight A software tool for supporting clinicians in the X-Ray investigation according to the TW2 clinical method.

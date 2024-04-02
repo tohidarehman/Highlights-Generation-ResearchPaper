@@ -1,6 +1,0 @@
- Data from 15 jewellery students, in their 1st and 3rd years of training, were analysed to show how data collected from work settings can be used to objectively evaluate performance in the use of tools. Participants were asked to use a piercing saw to cut 5 lines in a piece of metal. Performance was categorised in terms of functional dynamics. Data from strain gauges and a tri-axial accelerometer (built into the handle of the saw) were recorded and thirteen metrics derived from these data. The key question for this paper is which metrics could be used to distinguish levels of ability. Principal Components Analysis identified five components: sawing action; grasp of handle; task completion time; lateral deviation of strokes; and quality of lines cut. Using representative metrics for these components, participants could be ranked in terms of performance (low, medium, high) and statistical analysis showed significant differences between participants on key metrics.
-
-@highlight Objective measures of tool use defined.
-@highlight Data collected from sensors fitted to tool used in situ.
-@highlight Performance classified in terms of control, regulatory and functional parameters.
-@highlight Methods and analysis for the study of skilled tool use developed and illustrated.

@@ -1,6 +1,0 @@
- This paper investigates the use of a multiscale finite element approach to study the interaction between elastic waves and localized defects. The analysis of wave–defect interaction is of fundamental importance for the development of ultrasonic non-destructive testing and SHM applications. The method considered herein, known as Geometric Multiscale FEM, formulates multi-node elements which can model small geometrical features without resorting to excessive mesh refinements and without compromising the quality of the discretization in the uniform portion of the domain. The possibility of formulating libraries of damaged multiscale elements makes the method particularly appealing for conducting extensive parametric studies.
-
-@highlight A multiscale FE method is used to study the interaction of elastic waves and defects.
-@highlight The method allows to model small defects without requiring overly refined meshes.
-@highlight Multiscale elements model irregular defects without compromising the grid׳s quality.
-@highlight Libraries of damaged multiscale elements simplify the execution of parametric studies.

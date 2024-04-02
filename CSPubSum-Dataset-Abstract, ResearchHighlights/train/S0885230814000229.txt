@@ -1,7 +1,0 @@
- The great majority of current voice technology applications rely on acoustic features, such as the widely used MFCC or LP parameters, which characterize the vocal tract response. Nonetheless, the major source of excitation, namely the glottal flow, is expected to convey useful complementary information. The glottal flow is the airflow passing through the vocal folds at the glottis. Unfortunately, glottal flow analysis from speech recordings requires specific and complex processing operations, which explains why it has been generally avoided. This paper gives a comprehensive overview of techniques for glottal source processing. Starting from analysis tools for pitch tracking, detection of glottal closure instant, estimation and modeling of glottal flow, this paper discusses how these tools and techniques might be properly integrated in various voice technology applications.
-
-@highlight Review the state-of-the-art methods in glottal source processing.
-@highlight Tackle synchronization issues: pitch tracking, speech polarity and GCI detection.
-@highlight Review the techniques for glottal source estimation and parameterization.
-@highlight Emphasize the current voice technology applications based on the glottal source.
-@highlight Provide clues in identifying challenges in glottal source processing.

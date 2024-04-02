@@ -1,7 +1,0 @@
- The primary objective in the one-dimensional cutting stock problem is to minimize material cost. In real applications it is often necessary to consider auxiliary objectives, one of which is to reduce the number of different cutting patterns (setups). This paper first presents an integer linear programming model to minimize the sum of material and setup costs over a given pattern set, and then describes a sequential grouping procedure to generate the patterns in the set. Two sets of benchmark instances are used in the computational test. The results indicate that the approach is efficient in improving the solution quality.
-
-@highlight We propose a two-stage approach for the one-dimensional cutting stock problem.
-@highlight Many patterns are generated in the first stage by a sequential grouping procedure.
-@highlight An integer programming model is solved to select the patterns in the solution.
-@highlight The sequential grouping procedure is efficient for pattern reduction.
-@highlight Solving the integer programming model can significantly reduce the total cost.

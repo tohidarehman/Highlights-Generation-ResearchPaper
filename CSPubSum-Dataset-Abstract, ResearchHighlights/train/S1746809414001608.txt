@@ -1,5 +1,0 @@
- A new non-invasive method for delineation of lentigo maligna and lentigo maligna melanoma is demonstrated. The method is based on the analysis of the hyperspectral images taken in vivo before surgical excision of the lesions. For this, the characteristic features of the spectral signatures of diseased pixels and healthy pixels are extracted, which combine the intensities in a few selected wavebands with the coefficients of the wavelet frame transforms of the spectral curves. To reduce dimensionality and to reveal the internal structure of the datasets, the diffusion maps technique is applied. The averaged Nearest Neighbor and the Classification and Regression Tree (CART) classifiers are utilized as the decision units. To reduce false alarms by the CART classifier, the Aisles procedure is used.
-
-@highlight Introducing small sized Fabry–Perot interferometer based hyperspectral imager to medical field.
-@highlight Utilization of framelets and diffusion maps in biomedical data processing.
-@highlight Novel application to delineate malignant skin tumors with hyperspectral imager.

@@ -1,6 +1,0 @@
- In compressed sensing, sparse signal reconstruction is a required stage. To find sparse solutions of reconstruction problems, many methods have been proposed. It is time-consuming for some methods when the regularization parameter takes a small value. This paper proposes a decomposition algorithm for sparse signal reconstruction, which is almost insensitive to the regularization parameter. In each iteration, a subproblem or a small quadratic programming problem is solved in our decomposition algorithm. If the extended solution in the current iteration satisfies optimality conditions, an optimal solution to the reconstruction problem is found. On the contrary, a new working set must be selected for constructing the next subproblem. The convergence of the decomposition algorithm is also shown in this paper. Experimental results show that the decomposition method is able to achieve a fast convergence when the regularization parameter takes small values.
-
-@highlight This paper proposes a decomposition algorithm for sparse signal reconstruction.
-@highlight A small quadratic programming problem is solved in each iteration.
-@highlight The convergence of the decomposition algorithm is also shown in this paper.
-@highlight The decomposition method can get a fast convergence for small regularization values.

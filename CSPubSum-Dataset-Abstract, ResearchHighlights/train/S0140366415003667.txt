@@ -1,6 +1,0 @@
- Information-Centric Networking (ICN) is regarded as one of the representative network architectures of Future Internet. In this paper, an information-centric architecture called Content-Scent based Architecture (CSAR) will be proposed for mobile ad hoc networks. In CSAR, each content has its special content-scent and can be found by tracing the scent it spreads over the network. The content-scent has the property similar to the natural scent that can spread over air, mix with other scents, decay with distance and time, and strengthen with fresh supplement. Using this property, scent-based routing and reliable content delivery functionalities are provided for the mobile ad hoc environment. Simulation results show that CSAR has an efficient route discovery procedure with less routing overhead and better in-network caching for the mobile ad hoc networks.
-
-@highlight A Content-Scent based Architecture is designed for mobile ad hoc networks.
-@highlight We define content-scent, Scent-Table, and operation of Scent-Tables.
-@highlight Broadcast-based and scent-based routing principle is proposed.
-@highlight An in-network caching mechanism is designed based on content-scent emitting.

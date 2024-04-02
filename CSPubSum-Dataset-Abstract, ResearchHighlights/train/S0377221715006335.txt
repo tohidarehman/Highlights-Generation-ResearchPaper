@@ -1,7 +1,0 @@
- In this paper, we focused on characterizing and solving the multiple objective programming problems which have some imprecision of a vague nature in their formulation. The Rough Set Theory is only used in modeling the vague data in such problems, and our contribution in data mining process is confined only in the “post-processing stage”. These new problems are called rough multiple objective programming (RMOP) problems and classified into three classes according to the place of the roughness in the problem. Also, new concepts and theorems are introduced on the lines of their crisp counterparts; e.g. rough complete solution, rough efficient set, rough weak efficient set, rough Pareto front, weighted sum problem, etc. To avoid the prolongation of this paper, only the 1st-class, where the decision set is a rough set and all the objectives are crisp functions, is investigated and discussed in details. Furthermore, a flowchart for solving the 1st-class RMOP problems is presented.
-
-@highlight We introduced a new MOP problem containing some roughly defined parts.
-@highlight We defined the model when the roughness exists only in the decision set.
-@highlight We characterized the rough complete, efficient and weak efficient solutions.
-@highlight We discussed the weighted sum problem in such new problem.
-@highlight We proposed an approach for solving the 1st-class RMOP problems, and presented a flowchart to clarify this new approach.

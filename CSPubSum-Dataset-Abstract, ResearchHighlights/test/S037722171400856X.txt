@@ -1,6 +1,0 @@
- There are numerous examples of supply chain disruptions that have occurred which have had devastating impacts not only on a single firm but also on various other firms in the supply network. We utilize a Bayesian Network (BN) approach and develop a model of risk propagation in a supply network. The model takes into account the inter-dependencies among different risks, as well as the idiosyncrasies of a supply chain network structure. Specific risk measures are derived from this model and a simulation study is utilized to illustrate how these measures can be used in a supply chain setting.
-
-@highlight A Bayesian network model of risk propagation in a supply network is developed.
-@highlight The inter-dependencies and connectedness of various risks are modeled.
-@highlight A framework of measures is derived from this model.
-@highlight Simulation study demonstrates how the measures are used in a supply network setting.

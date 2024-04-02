@@ -1,7 +1,0 @@
- This paper presents an effective branch-and-price (B&P) algorithm for multiple-runway aircraft sequencing problems. This approach improves the tractability of the problem by several orders of magnitude when compared with solving a classical 0Ã¢ÂÂ1 mixed-integer formulation over a set of computationally challenging instances. Central to the computational efficacy of the B&P algorithm is solving the column generation subproblem as an elementary shortest path problem with aircraft time-windows and non-triangular separation times using an enhanced dynamic programming procedure. We underscore in our computational study the algorithmic features that contribute, in our experience, to accelerating the proposed dynamic programming procedure and, hence, the overall B&P algorithm.
-
-@highlight We improve the tractability of multiple-runway aircraft sequencing problems.
-@highlight First effective branch-and-price algorithm reported for this problem.
-@highlight Solving elementary shortest path problem with non-triangular separation times.
-@highlight Subproblem solved using specialized, effective dynamic programming procedure.
-@highlight Optimal solutions in far better CPU times (vs. CPLEX) on challenging instances.

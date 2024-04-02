@@ -1,8 +1,0 @@
- A generic planar quadrilateral defines a 2:1 bilinear map. We show that by assigning an appropriate weight to one vertex of any planar quadrilateral, we can create a map whose inverse is rational linear.
-
-@highlight We show how to make a quad map be birational by assigning one control point weight.
-@highlight The weight is computed using a simple closed-form equation.
-@highlight For convex quads, the weight is positive and the pre-image is the
-@highlight domain.
-@highlight Any planar quad mesh can be made piecewise
-@highlight birational by using this method.

@@ -1,6 +1,0 @@
- In recent years, smartwatches have emerged as a viable platform for a variety of medical and health-related applications. In addition to the benefits of a stable hardware platform, these devices have a significant advantage over other wrist-worn devices, in that user acceptance of watches is higher than other custom hardware solutions. In this paper, we describe signal-processing techniques for identification of chews and swallows using a smartwatch device׳s built-in microphone. Moreover, we conduct a survey to evaluate the potential of the smartwatch as a platform for monitoring nutrition. The focus of this paper is to analyze the overall applicability of a smartwatch-based system for food-intake monitoring. Evaluation results confirm the efficacy of our technique; classification was performed between apple and potato chip bites, water swallows, talking, and ambient noise, with an F-measure of 94.5% based on 250 collected samples.
-
-@highlight We evaluate the potential of a smartwatch for monitoring eating.
-@highlight We use the microphone of the Samsung Galaxy Gear to record audio samples.
-@highlight We use the RandomForest classifier to classify between several foods.
-@highlight We are able to discriminate between eating and talking.

@@ -1,7 +1,0 @@
- A tandem queueing system with infinite and finite intermediate buffers, heterogeneous customers and generalized phase-type service time distribution at the second stage is investigated. The first stage of the tandem has a finite number of servers without buffer. The second stage consists of an infinite and a finite buffers and a finite number of servers. The arrival flow of customers is described by a Marked Markovian arrival process. Type 1 customers arrive to the first stage while type 2 customers arrive to the second stage directly. The service time at the first stage has an exponential distribution. The service times of type 1 and type 2 customers at the second stage have a phase-type distribution with different parameters. During a waiting period in the intermediate buffer, type 1 customers can be impatient and leave the system. The ergodicity condition and the steady-state distribution of the system states are analyzed. Some key performance measures are calculated. The Laplace–Stieltjes transform of the sojourn time distribution of type 2 customers is derived. Numerical examples are presented.
-
-@highlight Tandem queueing system with generalized phase-type service time distribution is investigated.
-@highlight The ergodicity condition and the steady-state distribution of the system states are analyzed.
-@highlight Some key performance measures are calculated.
-@highlight The Laplace–Stieltjes transform of the sojourn time distribution of customers is derived.
-@highlight The numerical examples are presented.

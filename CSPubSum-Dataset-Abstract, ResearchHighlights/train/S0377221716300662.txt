@@ -1,5 +1,0 @@
- We study incentive issues seen in a firm performing global planning and manufacturing, and local demand management. The stochastic demands in local markets are best observed by the regional business units, and the firm relies on the business units’ forecasts for planning of global manufacturing operations. We propose a class of performance evaluation schemes that induce the business units to reveal their private demand information truthfully by turning the business units’ demand revelation game into a potential game with truth telling being a potential maximizer, an appealing refinement of Nash equilibrium. Moreover, these cooperative performance evaluation schemes satisfy several essential fairness notions. After analyzing the characteristics of several performance evaluation schemes in this class, we extend our analysis to include the impact of effort on demand.
-
-@highlight We study incentives in a firm performing global manufacturing and local demand management.
-@highlight A class of performance evaluation schemes are shown to overcome adverse selection issue.
-@highlight A subclass of these schemes also overcome moral hazard when demand is effort driven.

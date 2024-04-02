@@ -1,6 +1,0 @@
- In this work we deal with the Order Batching Problem (OBP) considering traversal, return and midpoint routing policies. For the first time, we introduce Mixed Integer Linear Programming (MILP) formulations for these three variants of the OBP. We also suggest an efficient Iterated Local Search Algorithm with Tabu Thresholding (ILST). According to our extensive computational experiments on standard and randomly generated instances we can say that the proposed ILST yields an outstanding performance in terms of both accuracy and efficiency.
-
-@highlight We consider the Order Batching Problem (OBP).
-@highlight We propose MILP formulations for three OBP variants.
-@highlight We suggest an efficient local search procedure.
-@highlight We report computational experiments on randomly generated instances.

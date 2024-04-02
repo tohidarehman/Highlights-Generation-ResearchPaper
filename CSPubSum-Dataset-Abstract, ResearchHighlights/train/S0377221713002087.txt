@@ -1,6 +1,0 @@
- Clusterwise regression consists of finding a number of regression functions each approximating a subset of the data. In this paper, a new approach for solving the clusterwise linear regression problems is proposed based on a nonsmooth nonconvex formulation. We present an algorithm for minimizing this nonsmooth nonconvex function. This algorithm incrementally divides the whole data set into groups which can be easily approximated by one linear regression function. A special procedure is introduced to generate a good starting point for solving global optimization problems at each iteration of the incremental algorithm. Such an approach allows one to find global or near global solution to the problem when the data sets are sufficiently dense. The algorithm is compared with the multistart Späth algorithm on several publicly available data sets for regression analysis.
-
-@highlight We develop an incremental algorithm to solve clusterwise linear regression problems.
-@highlight The algorithm gradually computes clusters and linear regression functions.
-@highlight Two special procedures to construct initial solutions are proposed.
-@highlight The algorithm finds global or near global minimizers of the overall fit function.
